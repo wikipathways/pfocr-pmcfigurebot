@@ -1,0 +1,35 @@
+---
+pmcid: PMC10023904
+image_filename: gr5.jpg
+number: Fig. 5
+article_title: Splicing signature database development to delineate cancer pathways
+  using literature mining and transcriptome machine learning.
+citation: Kyubin Lee, et al. Comput Struct Biotechnol J. 2023;21:1978-1988.
+
+doi: 10.1016/j.csbj.2023.02.052
+journal_title: Computational and Structural Biotechnology Journal
+journal_nlm_ta: Comput Struct Biotechnol J
+publisher_name: Research Network of Computational and Structural Biotechnology
+
+keywords:
+- AS, Alternative splicing
+- DAS, differential alternative splicing
+- EMT, epithelial mesenchymal transition
+- ML, machine learning
+- NER, named entity recognition
+- NLP, natural language process
+- PSI, percent spliced in index
+- PCA, principal component analysis
+- RF, random-forest
+- SF, splicing factor
+- AUCPR, the area under the precision-recall curve
+- AUROC, the area under the receiver operating characteristic
+- TCGA, The Cancer Genome Atlas
+- Text-mining
+- Machine-learning
+- Alternative splicing
+- Tumor transcriptome
+- Database
+- Gene signature
+
+---
