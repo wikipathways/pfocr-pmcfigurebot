@@ -1,5 +1,4 @@
 terms: 
-  - signaling pathway
-  - cytoscape
-last_run: 2022/12/20
+  - (((((((((((signaling+pathway)+OR+signalling+pathway)+OR+regulatory+pathway)+OR+disease+pathway)+OR+drug+pathway)+OR+metabolic+pathway)+OR+biosynthetic+pathway)+OR+synthesis+pathway)+OR+cancer+pathway)+OR+response+pathway)+OR+cycle+pathway)
+last_run: 2023/03/15
 date_range:
