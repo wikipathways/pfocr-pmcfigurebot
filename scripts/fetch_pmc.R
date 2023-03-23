@@ -103,6 +103,19 @@ if(!length(image_filename) > 0){
     stringr::str_split("\\s+From: ", simplify = TRUE)
   article_title <- titles[,2] %>% 
     stringr::str_trim()
+  number <- page.source %>%
+    rvest::html_nodes(".rprt_img") %>%
+    rvest::html_node("img") %>%
+    rvest::html_attr("alt")
+  caption <- page.source %>%
+    rvest::html_nodes(".rprt_img") %>%
+    rvest::html_node(xpath = "..") %>%
+    rvest::html_node(".rprt_cont") %>%
+    rvest::html_node(".supp") %>%
+    rvest::html_text()
+  figure_link <- page.source %>%
+    rvest::html_nodes(".rprt_img") %>%
+    rvest::html_attr("image-link")
   citation <- page.source %>%
     rvest::html_nodes(".rprt_img") %>%
     rvest::html_node(xpath='..') %>%
@@ -120,8 +133,42 @@ if(!length(image_filename) > 0){
     stringr::str_match("PMC\\d+") %>%
     as.character()
   
+  ## Extract best figure title from analysis of provided figure number, title and caption
+  temp.df <- data.frame(n = number, t = titles[, 1], c = caption, stringsAsFactors = FALSE) %>%
+    mutate(t = str_trim(str_remove(
+      t, fixed(
+        as.character(
+          if_else(
+            number != "",
+            number,
+            "a string just to suppress the empty search patterns warning message"
+          )
+        )
+      )
+    ))) %>%
+    mutate(t = str_trim(str_remove(
+      t,
+      "\\.$"
+    ))) %>%
+    mutate(t = if_else(!is.na(str_match(t,"^\\. .*")[,1]),
+                       str_remove(t, "^\\. "), 
+                       t)) %>%
+    mutate(c = str_trim(str_replace(
+      c,
+      "\\.\\.", "\\."
+    ))) %>%
+    mutate(c = if_else(is.na(c), t, c)) %>%
+    mutate(t = str_trim(str_remove(
+      t,
+      "\\.+$"
+    ))) %>%
+    mutate(n = str_trim(str_replace(n, "\\.$", "")))
+  number <- as.character(temp.df[, 1])
+  figure_title <- as.character(temp.df[, 2])
+  caption <- as.character(temp.df[, 3])
+  
   ## Prepare df and write to R.object and tsv
-  df <- data.frame(pmcid, image_filename,  article_title, citation) 
+  df <- data.frame(pmcid, image_filename, number,  article_title, citation) 
   df <- unique(df)
   
   ## Log run
@@ -129,12 +176,12 @@ if(!length(image_filename) > 0){
   
   ## For each figure...
   for (a in 1:nrow(df)){
-
+    #slice of df from above
+    article.data <- df[a,]
+    
     #################
     ## MORE METADATA
     #################
-    
-    article.data <- df[a,]
     md.query <- paste0("https://www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi?verb=GetRecord&identifier=oai:pubmedcentral.nih.gov:",gsub("PMC","", article.data$pmcid),"&metadataPrefix=pmc_fm")
     md.source <- xml2::read_html(md.query) 
     doi <- md.source %>%
