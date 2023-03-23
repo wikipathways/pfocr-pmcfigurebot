@@ -1,7 +1,18 @@
 ---
 pmcid: PMC9825769
 image_filename: btac783f2.jpg
+figure_link: /pmc/articles/PMC9825769/figure/btac783-F2/
 number: Fig. 2
+figure_title: ''
+caption: Main functions and usage of CanMethdb. (A) Four inquiry modes and search
+  results including statistics of annotations for related CpGs, basic information
+  of chosen cancer types and the number of cancer samples of cis-regulatory elements
+  and TFs for cancer samples. (B) Details about upstream and downstream annotations
+  for a CpG and its target genes. (C) Three online tools to interactively analyze
+  the gene regulation, including ‘3D validation analysis’, ‘Pathway enrichment analysis’
+  and ‘Regulatory subnetwork analysis’. (D) Browsing details of CpG–target gene pairs
+  in 33 cancers. (E) Genome browser to visualize the upstream cis-regulatory elements
+  and TFs for CpGs and genes
 article_title: 'CanMethdb: a database for genome-wide DNA methylation annotation in
   cancers.'
 citation: Jianmei Zhao, et al. Bioinformatics. 2023 Jan;39(1):btac783.

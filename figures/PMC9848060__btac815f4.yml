@@ -1,7 +1,19 @@
 ---
 pmcid: PMC9848060
 image_filename: btac815f4.jpg
+figure_link: /pmc/articles/PMC9848060/figure/btac815-F4/
 number: Fig. 4
+figure_title: ''
+caption: The global properties in k2p. (A) The enrichment panels. All the enrichment
+  analysis is done using Enrichr API. (B) The topological panel. The topological properties
+  of each node are provided in a tabular format, which can be further sorted in an
+  ascending or descending order. Additionally, a degree-betweenness plot is also provided
+  to find the bottleneck (high-degree high-betweenness) proteins. (C) The top 15 IS
+  in the network. Along with their topological properties, k2p also provides the class
+  and structural details of the spreaders. (D) The pathway clustergram of the spreaders
+  and associated pathways. (E) High tissue specificity and the subcellular localization
+  information of the spreaders. (F) Finally, the spreaders are associated with disease
+  hallmarks and the signalling pathways
 article_title: 'konnect2prot: a web application to explore the protein properties
   in a functional protein–protein interaction network.'
 citation: Shivam Kumar, et al. Bioinformatics. 2023 Jan;39(1):btac815.

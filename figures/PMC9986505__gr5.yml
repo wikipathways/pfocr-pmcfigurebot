@@ -1,7 +1,21 @@
 ---
 pmcid: PMC9986505
 image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC9986505/figure/fig5/
 number: Fig. 5
+figure_title: ''
+caption: 'Methylprednisolone inhibits key inflammatory and viral signaling pathways
+  in host lung and airway cells after SARS-CoV-2 infection. Heatmap depicts the effects
+  of Methylprednisolone in silico in SARS-CoV-2 infection on select signaling pathways
+  of interest as recently identified to be of importance by A) Catanzaro et al. 2020
+  and B) Draghici et al. 2020. From left to right for each cell-line depicted, column
+  A: pathway analysis results of SARS-CoV-2 infection in vitro as performed using
+  the MITHrIL algorithm; column B: PHENSIM results of SARS-CoV-2 infection in silico;
+  column C: PHENSIM simulation results of Methylprednisolone on SARS-CoV-2 infected
+  cells in silico. Color gradient depicts the average pathway perturbation as predicted
+  in our PHENSIM in silico experiments for column B&C. NHBE; Normal Human Bronchial
+  Epithelial cells, Calu-3; Cultured human airway epithelial cells, A549; Transformed
+  lung alveolar cells, ACE2; angiotensin-converting enzyme, MOI; multiplicity of infection.'
 article_title: Application of the PHENotype SIMulator for rapid identification of
   potential candidates in effective COVID-19 drug repurposing.
 citation: Naomi I. Maria, et al. Heliyon. 2023 Mar 6 ;9(3):e14115.

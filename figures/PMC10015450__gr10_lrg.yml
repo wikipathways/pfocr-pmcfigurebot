@@ -1,7 +1,23 @@
 ---
 pmcid: PMC10015450
 image_filename: gr10_lrg.jpg
+figure_link: /pmc/articles/PMC10015450/figure/fig0010/
 number: Fig. 10
+figure_title: ''
+caption: Schematic diagram of molecular events via signaling in response to S antigen
+  and deciphering a probable pathway for the action of UDSP therein. Internalization
+  of SARS-CoV-2 via interaction of S antigen and ACE2 receptor within the host cell
+  initiates a lot of molecular events including inhibition of the conversion of ANG
+  2 to ANG (1–7), accumulation of ANG2 stimulates overexpression of cytokines 1L-1β
+  via NLRP inflammasome, TNFα, IL-6, etc. These cytokines translocate to ECM to create
+  a cytokine storm in the extracellular space during the infection. TNFα mediates
+  upregulation of transcription factors and intermediates which upregulates MMP-9
+  synthesis. ANG2 directly stimulates and MMP-9 synthesis via regulation of AP-1 and
+  NFκβ. After activation, MMP-9 gets secreted to ECM and mediates tissue degradation
+  and fibrosis. Treatment with UDSP inhibited cytokine storm by reducing the synthesis
+  of 1L-1β, IL-6, TNFα, ACE2 mediated virus internalization, MMP-9 synthesis; thereby
+  mitigating inflammation and subsiding the infection. Green inhibition sign denotes
+  treatment with UDSP and red inhibition sign denotes infection.
 article_title: Ultradiluted SARS-CoV-2 Spike Protein mitigates hyperinflammation in
   lung via ferritin and MMP-9 regulation in BALB/c mice.
 citation: Anirban Roy, et al. Virus Res. 2023 May;329:199091-199091.

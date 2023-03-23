@@ -1,7 +1,19 @@
 ---
 pmcid: PMC10027320
 image_filename: elife-84379-app10-fig1.jpg
+figure_link: /pmc/articles/PMC10027320/figure/app10fig1/
 number: Appendix 10—figure 1
+figure_title: Comparison of the onset of instability in the coupled pathway case vs
+  the single pathway case
+caption: '(A) Pathway enzyme and cycling enzyme limits in the single and coupled pathway
+  cases (see legend, pathway enzyme limit is the same for each case). For the coupled
+  pathway,  is set to. Since the limiting factor depends on the difference between  and
+  , higher  values are possible without build up of upstream metabolites if all other
+  parameters are kept the same. (B) Time series of M0, M1 and  in the single pathway
+  case where the parameters for  and  are set by the black dot in (A). Here we see
+  build up M0 because . (C) Time series of , , ,  and  in the coupled pathway case
+  where the parameters for ,  and  are set by the black dot in (A). Here we see the
+  system admits a steady state because. The parameters in all panels are: ,,,.'
 article_title: Dynamics of co-substrate pools can constrain and regulate metabolic
   fluxes.
 citation: Robert West, et al. eLife. 2023;12:e84379.

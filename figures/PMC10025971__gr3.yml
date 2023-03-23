@@ -1,7 +1,22 @@
 ---
 pmcid: PMC10025971
 image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC10025971/figure/fig3/
 number: Figure 3
+figure_title: ''
+caption: Metabolic patterns, cancer hallmarks, and immune infiltration profiles of
+  CRGs across cancer types(A) Spearman correlation of 16 CRGs with 10 metabolic pathway
+  enrichment scores calculated by the ssGSEA method across 33 TCGA cancer types. Only
+  p values <0.05 are shown. Red indicates a positive correlation, while blue indicates
+  a negative correlation.(B) Spearman correlations of 16 CRGs with 8 cancer hallmark
+  enrichment scores calculated by the ssGSEA method across 33 TCGA cancer types. Only
+  p values <0.05 are shown. Purple indicates a positive correlation, while green indicates
+  a negative correlation.(C) The cancer hallmarks and tumor immune microenvironment
+  (TIME) regulatory landscape of each CRG by gene set enrichment analysis (GSEA) based
+  on the transcriptomes of the two tumor groups with the top and bottom 30% of each
+  CRG.(D) Network diagram demonstrating the correlation between CRGs and TIME cells.
+  Red represents a positive correlation, and blue represents a negative correlation.
+  The size of the nodes corresponds to the number of links.
 article_title: Systematic analysis of the aberrances and functional implications of
   cuproptosis in cancer.
 citation: Jiangbing Li, et al. iScience. 2023 Apr 21;26(4):106319.

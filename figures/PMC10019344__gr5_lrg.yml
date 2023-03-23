@@ -1,7 +1,15 @@
 ---
 pmcid: PMC10019344
 image_filename: gr5_lrg.jpg
+figure_link: /pmc/articles/PMC10019344/figure/fig0025/
 number: Fig. 5
+figure_title: ''
+caption: Analysis of critical pathways and targets of XFBD against ALI. (A) Venn Diagram
+  presented the overlapping gene numbers between promising therapeutic targets of
+  XFBD and neutrophil-associated targets. (B) Core analysis showed the top 10 pathways
+  of the above overlapping genes. (C) Based on -log (p-value), Function & Disease
+  enrichment analysis of 515 key genes was revealed. (D) Pathway enrichment analysis
+  of key genes by IPA. (E) Network relationship with IL-8 as the core.
 article_title: Xuanfei Baidu Decoction regulates NETs formation via CXCL2/CXCR2 signaling
   pathway that is involved in acute lung injury.
 citation: Mengen Zhou, et al. Biomed Pharmacother. 2023 May;161:114530-114530.

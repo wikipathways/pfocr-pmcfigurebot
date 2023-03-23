@@ -1,7 +1,14 @@
 ---
 pmcid: PMC9848060
 image_filename: btac815f7.jpg
+figure_link: /pmc/articles/PMC9848060/figure/btac815-F7/
 number: Fig. 7
+figure_title: ''
+caption: Identification of targets using k2p. (A) The numbers of XHTs mapped to k2p.
+  (B) The directional network of XHTs and their first neighbours. (C) The KEGG pathway
+  enrichment analysis of the network proteins. (D) The top15 IS. (E) The association
+  of spreaders with disease-related hallmarks. (F) Association of spreaders with crucial
+  signalling pathways
 article_title: 'konnect2prot: a web application to explore the protein properties
   in a functional protein–protein interaction network.'
 citation: Shivam Kumar, et al. Bioinformatics. 2023 Jan;39(1):btac815.

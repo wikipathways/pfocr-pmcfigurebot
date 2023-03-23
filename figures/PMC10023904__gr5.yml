@@ -1,7 +1,15 @@
 ---
 pmcid: PMC10023904
 image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC10023904/figure/fig0025/
 number: Fig. 5
+figure_title: ''
+caption: AS signature search workflow. A) Transcriptome signature retrieval from cancer
+  type and pathway selection of interest (Step1). Splicing browser presents an exon
+  usage heatmap (Step 2) and clinical information for each selected AS event (Step
+  3). B) Knowledge-based signature was provided for the corresponding pathway. C)
+  Multi-omics sequence profile of AS event can be browsed in table contents and UCSC
+  genome browser (Step 4).
 article_title: Splicing signature database development to delineate cancer pathways
   using literature mining and transcriptome machine learning.
 citation: Kyubin Lee, et al. Comput Struct Biotechnol J. 2023;21:1978-1988.

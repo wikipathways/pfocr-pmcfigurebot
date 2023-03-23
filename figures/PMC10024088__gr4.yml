@@ -1,7 +1,17 @@
 ---
 pmcid: PMC10024088
 image_filename: gr4.jpg
+figure_link: /pmc/articles/PMC10024088/figure/fig4/
 number: Fig. 4
+figure_title: ''
+caption: RNA-sequencing analysis of wild type and TCF1 and LEF1 knockdown MOLT4 cells.
+  (A) Heatmap of different numbers of regulated genes in TCF1 and LEF1 knockdown cells
+  compared with those in wildtype cells. (B) Specific genes regulated by TCF1 and
+  LEF1, including downregulated genes, upregulated genes, and unchanged genes. (C)
+  The signaling pathways with the most regulated genes in TCF1 and LEF1 knockdown
+  cells. (D) The common genes regulated in TCF1 and LEF1 knockdown cells. (E) The
+  common genes regulated by TCF1 and LEF1 in two signaling pathways, inflammation
+  mediated by chemokine and cytokine signaling pathway and cadherin signaling pathway.
 article_title: TCF1/LEF1 triggers Wnt-dependent chemokine/cytokine-induced inflammation
   and cadherin pathways to drive T-ALL cell migration.
 citation: Pin Zhao, et al. Biochem Biophys Rep. 2023 Jul;34:101457.

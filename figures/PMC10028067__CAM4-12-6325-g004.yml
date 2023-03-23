@@ -1,7 +1,21 @@
 ---
 pmcid: PMC10028067
 image_filename: CAM4-12-6325-g004.jpg
+figure_link: /pmc/articles/PMC10028067/figure/cam45312-fig-0002/
 number: FIGURE 2
+figure_title: ''
+caption: Correlation between intestinal flora and anti‐PD‐1 therapy combined with
+  chemotherapy. (A) PCoA analysis of Beta diversity between individuals before and
+  after combined therapy based on Bray‐Curtis distance algorithm (PERMANOVA, p = 0.013);
+  (B) LEfSe analysis of species differences and marker species(Wilcoxon rank testing,
+  p<0.05). Histogram of LDA value distribution of significantly different species,
+  showing species significantly enriched in CBR group and NCB group and their significance
+  p < 0.05; (C) Metabolic pathway differences between CBR and NCB groups(welch's t‐test,
+  all p < 0.05). (D) Logistic regression prediction model was used to analyze the
+  predictive ability of three genera with significant differences in fecal intestinal
+  microorganisms between CBR group and NCB group. (E) ROC curve analysis of Bifidobacterium,
+  Sneathia, and Sutterella for predicting clinical benefit. CBR, clinical benefit
+  response, NCB, no‐clinical benefit.
 article_title: Bifidobacterium breve predicts the efficacy of anti‐PD‐1 immunotherapy
   combined with chemotherapy in Chinese NSCLC patients.
 citation: Honghui Zhao, et al. Cancer Med. 2023 Mar;12(5):6325-6336.

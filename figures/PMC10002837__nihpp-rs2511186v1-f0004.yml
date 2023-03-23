@@ -1,7 +1,18 @@
 ---
 pmcid: PMC10002837
 image_filename: nihpp-rs2511186v1-f0004.jpg
+figure_link: /pmc/articles/PMC10002837/figure/F4/
 number: Figure 4
+figure_title: ''
+caption: a) Box and whisker plot depicting the change in relative abundance of the
+  metabolite sphinganine with legend shown below indicating sample group by colour.
+  Darker lines in the body of the box depict the mean line and error bars show quartile
+  ranges from the mean. b) Heat map depicting the most significantly perturbed pathway
+  between [rnq−] and [RNQ+], following the removal of pathways implicated as being
+  involved in loss of function and overall stress response. Pathway names and individual
+  metabolites are shown on the left and overlaid data for each data set (n=6) is shown
+  under its respective grouping. Upregulation is shown is dark orange, through to
+  no change in grey and downregulation in dark blue.
 article_title: 'The effect of prions on cellular metabolism: The metabolic impact
   of the [RNQ+] prion and potential role of native Rnq1p.'
 citation: Tyler Howell-Bray, et al. Res Sq. 2023 Feb 28:rs.3.rs-2511186.

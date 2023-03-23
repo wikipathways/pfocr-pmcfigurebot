@@ -1,7 +1,16 @@
 ---
 pmcid: PMC10027284
 image_filename: 280_2023_4521_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC10027284/figure/Fig4/
 number: Fig. 4
+figure_title: ''
+caption: Differentially expressed genes (DEGs) and functional enrichment analysis.
+  MGC803 cells were treated with emetine for 18 h and then used for RNA sequencing
+  analysis. A Principal component analysis (PCA) was performed based on gene expression.
+  B Volcano plot revealed the significantly elevated (red dots) and down-regulated
+  (green dots) genes in emetine-treated cells. C Heatmap of DEGs between emetine and
+  control groups. Two groups were well clustered. D KEGG pathway classification of
+  DEGs. E KEGG enrichment analysis (Top 20) of DEGs
 article_title: Emetine, a small molecule natural product, displays potent anti-gastric
   cancer activity via regulation of multiple signaling pathways.
 citation: Xuerun Peng, et al. Cancer Chemother Pharmacol. 2023 Mar 20 :1-13.

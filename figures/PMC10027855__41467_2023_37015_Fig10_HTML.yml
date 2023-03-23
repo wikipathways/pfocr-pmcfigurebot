@@ -1,7 +1,29 @@
 ---
 pmcid: PMC10027855
 image_filename: 41467_2023_37015_Fig10_HTML.jpg
+figure_link: /pmc/articles/PMC10027855/figure/Fig10/
 number: Fig. 10
+figure_title: Model of a multistep specification to form CNCCs and the signaling pathways
+  disrupted by inactivation of Tbx1
+caption: a Colors indicate cell fate progression of pharyngeal NCCs (light yellow)
+  towards vascular smooth muscle cells (red). Step 1 shows the transition between
+  pharyngeal NCCs expressing Tbx2/3 to cells expressing markers of CNCCs (CP-CNCCs).
+  Step 2 shows the transition in which some cells directly differentiate to smooth
+  muscle of PAA-CNCCs, while the majority migrate and enter the OFT as OFT-CNCCs and
+  express Gata3/Isl1 and Step 3 shows the transition to SM-CNCCs expressing Acta2.
+  The graph shows the relative change of biological gene ontology terms during the
+  three transitions of CNCCs to smooth muscle cells. b Model of non-autonomous signaling
+  between the mesoderm (bottom, blue) and NCCs (top, gray) highlighting FGF, WNT,
+  and additional signaling from the mesoderm to NCCs in normal embryos (left) and
+  how signaling is disrupted in the absence of Tbx1 (light blue arrows/inhibitory
+  arrows; right). Alteration of signaling in the mesoderm in the absence of Tbx1 results
+  in abnormal premature activation of the BMP pathway during NCC deployment and migration
+  (light blue inhibitory arrow; red, up arrow), a decrease of MAPK signaling in NCCs
+  (light blue arrow; red down arrow), and alteration of other signaling pathways including
+  upregulation of WNT signaling in developing NCCs. This leads to failure of cardiac
+  fate progression with a reduced number of CP-CNCCs, reduced number of CNCCs, and
+  reduced number of SM-CNCCs (gray arrows) with aortic arch/branching defects and
+  failed OFT septation (persistent truncus arteriosus).
 article_title: Single-cell transcriptomics uncovers a non-autonomous Tbx1-dependent
   genetic program controlling cardiac neural crest cell development.
 citation: Christopher De Bono, et al. Nat Commun. 2023;14:1551.
