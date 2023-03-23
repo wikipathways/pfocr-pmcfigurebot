@@ -168,7 +168,7 @@ if(!length(image_filename) > 0){
   caption <- as.character(temp.df[, 3])
   
   ## Prepare df and write to R.object and tsv
-  df <- data.frame(pmcid, image_filename, number,  article_title, citation) 
+  df <- data.frame(pmcid, image_filename, figure_link, number, figure_title, caption, article_title, citation) 
   df <- unique(df)
   
   ## Log run
