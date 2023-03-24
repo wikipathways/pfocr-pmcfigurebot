@@ -1,0 +1,32 @@
+---
+pmcid: PMC8040897
+image_filename: jcav12p3011g001.jpg
+figure_link: /pmc/articles/PMC8040897/figure/F1/
+number: Figure 1
+figure_title: ''
+caption: Analysis of gastric cancer and paracancer transcriptome data set. (A) Volcano
+  plot of gene expression. (B) Gene ontology (GO) analysis plot of up-regulated genes
+  in gastric cancer (GC) tissues. (C) Kyoto Encyclopedia of Genes and Genomes (KEGG)
+  analysis of up-regulated genes in GC tissues. (D) Gene set enrichment analysis (GSEA)
+  plot based on the KEGG signaling pathway; D-1, chemokine signaling pathway; D-2,
+  cytokine-cytokine signaling pathway; D-3, PI3K-Akt signaling pathway; D-4, TGF-beta
+  signaling pathway; D-5, Wnt signaling pathway. (E) EPIC heat map analysis of cell
+  types of GC tissues and adjacent normal tissues. (F) Violin plots with different
+  expression of various cell types adjacent to cancer tissue.
+article_title: Cancer-associated fibroblasts in gastric cancer affect malignant progression
+  via the CXCL12-CXCR4 axis.
+citation: Yan Qin, et al. J Cancer. 2021;12(10):3011-3023.
+
+doi: 10.7150/jca.49707
+journal_title: Journal of Cancer
+journal_nlm_ta: J Cancer
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- gastric cancer
+- microenvironment
+- CAFs
+- scRNA
+- CXCL12
+
+---

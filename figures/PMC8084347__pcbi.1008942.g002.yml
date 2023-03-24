@@ -1,0 +1,34 @@
+---
+pmcid: PMC8084347
+image_filename: pcbi.1008942.g002.jpg
+figure_link: /pmc/articles/PMC8084347/figure/pcbi.1008942.g002/
+number: Fig 2
+figure_title: Global analysis of metabolic dependency data reveals context-specific
+  pathway essentialities
+caption: A) Metabolic pathway activity was inferred using ssGSEA for 300 adherent
+  cell lines cultured in RPMI and correlated to gene dependency data from The Cancer
+  Dependency Map (DepMap). Correlation coefficients were then ranked and Genetic Pathway
+  Dependency Enrichment Analysis (Genetic PDEA) was run using the KEGG metabolic pathways
+  (see ). Hierarchical clustering was performed on the Genetic PDEA normalized enrichment
+  scores (NES). Results for pathways with FDR < 0.25 are plotted. Dots are colored
+  according to their NES and sized according to the -log10 of the false discovery
+  rate (FDR). Numerical values for each pathway can be found in . Results shown in
+  B and C are highlighted with a black outline. B) Cancer cell dependency on Folate
+  Biosynthesis (hsa00790) was increased when One-Carbon Pool by Folate (hsa00670)
+  pathway activity was high. The scatter plots of pathway activity NES and gene dependency
+  (-CERES) for leading-edge genes QDPR and ALPI are shown. C) Dependency on One-Carbon
+  Pool by Folate metabolism (hsa00670) is increased when TCA cycle (hsa00020) activity
+  is increased. The scatter plots of pathway activity NES and gene dependency (-CERES)
+  for leading-edge genes MTR and MTHFD1 are shown.
+article_title: The landscape of metabolic pathway dependencies in cancer cell lines.
+citation: James H. Joly, et al. PLoS Comput Biol. 2021 Apr;17(4):e1008942.
+
+doi: 10.1371/journal.pcbi.1008942
+journal_title: PLoS Computational Biology
+journal_nlm_ta: PLoS Comput Biol
+publisher_name: Public Library of Science
+
+keywords:
+~
+
+---

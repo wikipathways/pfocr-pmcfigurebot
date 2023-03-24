@@ -1,0 +1,35 @@
+---
+pmcid: PMC8084347
+image_filename: pcbi.1008942.g005.jpg
+figure_link: /pmc/articles/PMC8084347/figure/pcbi.1008942.g005/
+number: Fig 5
+figure_title: Pharmacological PDEA reveals consistent metabolic pathway vulnerabilities
+  in Adherent RPMI cell lines
+caption: A) Pharmacological PDEA () was performed on 1,390 anti-cancer drugs from
+  the PRISM database. Drugs were mapped to metabolic pathways by their annotated target(s)
+  and then the enrichment of these metabolic pathway inhibitors was analyzed in the
+  rank list of drug sensitivity-metabolic pathway activity correlation coefficients.
+  Hierarchical clustering was performed on NES values, and results with FDR < 0.25
+  are plotted. Dots are colored according to the NES and sized according to the -log10
+  FDR. Dots with black outline correspond to results shown in panels B-C and F. B-C)
+  Increased Alanine, Aspartate, and Glutamate metabolism (hsa00250) correlates with
+  increased response to inhibitors of terpenoid backbone biosynthesis. In contrast,
+  decreased Pentose Phosphate Pathway metabolism correlates with increased response
+  to inhibitors of Folate Biosynthesis (hsa00790). D-E) Inhibitors of Folate Biosynthesis
+  (hsa00790) are more effective when overall metabolic pathway expression is low,
+  whereas inhibitors of Ascorbate and Aldarate Metabolism (hsa00053) are more effective
+  when overall metabolic pathway expression is high. F) Representative mountain plots
+  and the drug(s) driving enrichment of metabolic pathway activities that strongly
+  correlate with response to inhibitors of Ascorbate and Aldarate metabolism are shown.
+article_title: The landscape of metabolic pathway dependencies in cancer cell lines.
+citation: James H. Joly, et al. PLoS Comput Biol. 2021 Apr;17(4):e1008942.
+
+doi: 10.1371/journal.pcbi.1008942
+journal_title: PLoS Computational Biology
+journal_nlm_ta: PLoS Comput Biol
+publisher_name: Public Library of Science
+
+keywords:
+~
+
+---

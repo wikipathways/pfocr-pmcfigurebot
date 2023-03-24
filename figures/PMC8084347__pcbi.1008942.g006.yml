@@ -1,0 +1,29 @@
+---
+pmcid: PMC8084347
+image_filename: pcbi.1008942.g006.jpg
+figure_link: /pmc/articles/PMC8084347/figure/pcbi.1008942.g006/
+number: Fig 6
+figure_title: Integration of pharmacological and genetic screens reveals consistent
+  metabolic pathway vulnerabilities in adherent RPMI cell lines
+caption: A) Schematic outlining approach to identify drug targets and genetic dependencies
+  that are commonly increased or decreased with metabolic pathway activity. Significance
+  was assessed by permutation testing combined with Benjamini-Hochberg FDR correction.
+  176 significant associations of 187,818 gene+drug:metabolic pathway combinations
+  passed the FDR threshold of 0.01 ( and  Tables). B-E) Scatter plots of four drug
+  response and CRISPR gene dependencies associated with metabolic pathway activity.
+  The gene target of each drug is listed below the drug name. F) Schematic outlining
+  a filtering approach used to identify common pathway-level vulnerabilities in Genetic
+  PDEA and Pharmacologic PDEA. G-I) Mountain plots and leading edge drugs and genes
+  from the three common pathway vulnerabilities are shown.
+article_title: The landscape of metabolic pathway dependencies in cancer cell lines.
+citation: James H. Joly, et al. PLoS Comput Biol. 2021 Apr;17(4):e1008942.
+
+doi: 10.1371/journal.pcbi.1008942
+journal_title: PLoS Computational Biology
+journal_nlm_ta: PLoS Comput Biol
+publisher_name: Public Library of Science
+
+keywords:
+~
+
+---

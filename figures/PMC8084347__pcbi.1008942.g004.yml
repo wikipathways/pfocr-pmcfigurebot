@@ -1,0 +1,27 @@
+---
+pmcid: PMC8084347
+image_filename: pcbi.1008942.g004.jpg
+figure_link: /pmc/articles/PMC8084347/figure/pcbi.1008942.g004/
+number: Fig 4
+figure_title: Metabolic pathway activity identifies anti-cancer drug sensitivity independent
+  of cell culture medium
+caption: A) Schematic representing the strategy used to integrate metabolic pathway
+  activity with drug response screens. Cancer cell lines were separately processed
+  by culture type and culture medium with a focus on adherent cell lines. All correlation
+  p-values were FDR corrected using a Benjamini-Hochberg correction. B-E) Scatter
+  plots of significant drug:metabolic pathway combinations (FDR < 0.05) in both DMEM
+  and RPMI mediums. Correlation coefficients and FDR corrected p-values are shown
+  for each correlation. The annotated gene target of each drug is listed below the
+  drug name. The remaining significant associations are listed in .
+article_title: The landscape of metabolic pathway dependencies in cancer cell lines.
+citation: James H. Joly, et al. PLoS Comput Biol. 2021 Apr;17(4):e1008942.
+
+doi: 10.1371/journal.pcbi.1008942
+journal_title: PLoS Computational Biology
+journal_nlm_ta: PLoS Comput Biol
+publisher_name: Public Library of Science
+
+keywords:
+~
+
+---
