@@ -1,0 +1,43 @@
+---
+pmcid: PMC8253049
+image_filename: fimmu-12-634741-g005.jpg
+figure_link: /pmc/articles/PMC8253049/figure/f5/
+number: Figure 5
+figure_title: ''
+caption: The activation of DDR pathway is accompanied by the down-regulation of the
+  TGFβ pathway in mUC cohort. (A) The heat map shows the changes in the average expression
+  of the top 5 core genes in the partially significantly enriched pathways in the
+  DSSH group of both cohorts. Red indicates upregulation, while blue indicates downregulation.
+  The expression levels of core genes in DDR-related pathways, cell cycle and DNA
+  synthesis-related pathways were upregulated in the DSSH group, while the expression
+  levels of core genes in the TGFβ signaling pathway and lipid metabolism-related
+  pathways were downregulated in the DSSH group (adjusted p value < 0.05). (B) Cell
+  cycle G1/S transition- and DNA synthesis-related pathways were significantly enriched
+  in the DSSH group. (C) The BMP signaling pathway, SMAD protein phosphorylation,
+  and the TGFβ receptor signaling pathway were significantly enriched in the DSSH
+  group. (D) The relationship between DDR-related pathways and the TGFβ response pathway
+  in the TCGA-BLCA cohort. The relevant data of the TCGA-BLCA cohort were derived
+  from a study by Vesteinn Thorsson et al. (). (E) The relationship between the degree
+  of activation of DDR related pathway and the degree of activation of TGFB pathway
+  and the expression of its core genes. The size and color of the circle reflect the
+  degree of correlation between the two. Red indicates a positive correlation, while
+  blue indicates a negative correlation. The number represents the Spearman correlation
+  coefficient. *p < 0.05; **p < 0.01; ***p < 0.001; ****p < 0.0001.
+article_title: Activation of the DDR Pathway Leads to the Down-Regulation of the TGFβ
+  Pathway and a Better Response to ICIs in Patients With Metastatic Urothelial Carcinoma.
+citation: Chaozheng Zhou, et al. Front Immunol. 2021;12:634741.
+
+doi: 10.3389/fimmu.2021.634741
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- DDR pathway
+- immunotherapy
+- immune microenvironment
+- immune checkpoint inhibitors
+- urothelial cancer
+- TGFβ pathways
+
+---

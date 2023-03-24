@@ -1,0 +1,38 @@
+---
+pmcid: PMC8226088
+image_filename: fonc-11-678966-g001.jpg
+figure_link: /pmc/articles/PMC8226088/figure/f1/
+number: Figure 1
+figure_title: ''
+caption: Pathway activity inference in head and neck cancer tissues. (A) Graphical
+  abstract of the approach. In contrast to differential mRNA expression analysis of
+  genes of interest (e.g., EGFR and PI3KCA), pathway activity can be statistically
+  inferred by integrating expression values of all genes known to be perturbed upon
+  pathway alteration. Adapted from “HER2 Signaling Pathway”, by BioRender.com (2020).
+  Retrieved from https://app.biorender.com/biorender-templates. (B) The PROGENy algorithm
+  is used to infer the activity of 14 key pathways involved in oncogenesis. Activities
+  are calculated by matrix multiplication of the normalized gene expression matrix
+  and the so-called PROGENy loading matrix that contains the full human pathway model
+  of 22,479 genes with associated pathways, weights, and p-values (). (C) Correlation
+  between EGFR and PI3K pathway activity across the cohort. (D) Pathway activity-based
+  grouping of HNSCC tumors. (E) EGFR and (F) PI3K pathway activity stratified by HPV
+  status. (G) Heatmap of pathway activity matrix of the TCGA-HNSC cohort (n = 498).
+  The column annotation contains genetic alterations and normalized mRNA expression
+  values of genes of interest, as well as the HPV status.
+article_title: EGFR and PI3K Pathway Activities Might Guide Drug Repurposing in HPV-Negative
+  Head and Neck Cancers.
+citation: Andreas Mock, et al. Front Oncol. 2021;11:678966.
+
+doi: 10.3389/fonc.2021.678966
+journal_title: Frontiers in Oncology
+journal_nlm_ta: Front Oncol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- precision oncology
+- targeted therapy
+- head and neck squamous cell carcinoma
+- omics
+- systems biology
+
+---

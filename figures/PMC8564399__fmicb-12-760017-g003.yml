@@ -1,0 +1,36 @@
+---
+pmcid: PMC8564399
+image_filename: fmicb-12-760017-g003.jpg
+figure_link: /pmc/articles/PMC8564399/figure/F3/
+number: FIGURE 3
+figure_title: ''
+caption: Transcriptomic response of the assimilatory sulfate reduction pathway. (A)
+  Genes and operons of the assimilatory sulfate reduction pathway. The underlined
+  genes and operons were included in the two-way hierarchical clustering analysis.
+  cysG was excluded from this analysis due to its different regulatory mechanism from
+  all other genes in the sulfate reduction pathway. (B) The expression profiles of
+  the sulfate reduction pathway follow the same trend as cysH and cysIJ. Two-way hierarchical
+  clustering analysis for genes of the sulfate reduction pathway and their transcriptional
+  regulator gene cysB. With the exceptions of cysB and sbp, all the cys genes in this
+  pathway generally follow the same gene expression profiles as those of cysH and
+  cysIJ across all the sample groups. (C) Average log2 fold-change of sulfate reduction
+  gene expression levels in the TMP, ERY and TMP + ERY groups relative to the no-drug
+  control group.
+article_title: Uncovering Key Metabolic Determinants of the Drug Interactions Between
+  Trimethoprim and Erythromycin in Escherichia coli.
+citation: Qin Qi, et al. Front Microbiol. 2021;12:760017.
+
+doi: 10.3389/fmicb.2021.760017
+journal_title: Frontiers in Microbiology
+journal_nlm_ta: Front Microbiol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- transcriptomics
+- antibiotic interactions
+- sulfate reduction
+- trimethoprim (TMP)
+- erythromycin (ERY)
+- E. coli
+
+---

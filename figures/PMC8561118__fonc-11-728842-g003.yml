@@ -1,0 +1,38 @@
+---
+pmcid: PMC8561118
+image_filename: fonc-11-728842-g003.jpg
+figure_link: /pmc/articles/PMC8561118/figure/f3/
+number: Figure 3
+figure_title: ''
+caption: Construction of immune cell infiltration (ICI) score model. (A) Alluvial
+  diagram of patient distribution. (B) ICI scores of patients in different subgroups
+  (mean ± SD, Kruskal–Wallis test, *p < 0.05; ***p < 0.001). (C) Immune-checkpoint
+  associated genes (PDCD1, HAVCR2, CTLA4, CD274, and LAG3) and (D) immune-activity
+  associated genes (CXCL9, GZMB, TNF, CD8A, TBX2, CXCL10, GZMA, PRF1, and IFNG) expressed
+  in ICI high and low groups (mean ± SD, Kruskal–Wallis test, *p < 0.05; ***p < 0.001).
+  (E) Gene set enrichment analysis (GSEA) showed that calcium signaling pathway, leukocyte
+  transendothelial migration pathway, MAPK signaling pathway, TGF β pathway, and Wnt
+  signaling pathway were enriched in high ICI score group. (F) Base excision repair
+  pathway, cell cycle pathway, homologous recombination pathway, mismatch repair pathway,
+  and nucleotide excision repair pathway were enriched in low ICI score group. (G)
+  Overall survival of colon cancer patients in ICI high and low groups in the Cancer
+  Genome Atlas (TCGA) cohort (log-rank test, p = 0.017). (H) Overall survival of colon
+  cancer patients in ICI high and low groups in the total patient cohort (log-rank
+  test, p = 0.002; ns, non significant).
+article_title: The Prognostic Value of a Tumor Microenvironment-Based Immune Cell
+  Infiltration Score Model in Colon Cancer.
+citation: Xingkui Tang, et al. Front Oncol. 2021;11:728842.
+
+doi: 10.3389/fonc.2021.728842
+journal_title: Frontiers in Oncology
+journal_nlm_ta: Front Oncol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- colon cancer
+- immune cell infiltration
+- tumor microenvironment
+- prognostic biomarker
+- survival
+
+---
