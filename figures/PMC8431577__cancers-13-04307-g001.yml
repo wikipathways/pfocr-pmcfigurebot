@@ -1,0 +1,34 @@
+---
+pmcid: PMC8431577
+image_filename: cancers-13-04307-g001.jpg
+figure_link: /pmc/articles/PMC8431577/figure/cancers-13-04307-f001/
+number: Figure 1
+figure_title: ''
+caption: Sphingolipid metabolism is regulated by androgen receptor (AR). (A) Bioinformatics
+  analysis workflow of prostate cancer patient transcriptomics datasets performed
+  with Cancertool to identify metabolic genes correlated with androgen receptor activity.
+  (B) KEGG pathways enrichment of AR activity-correlated metabolic genes (AR metabolic
+  correlome). (C) Schematic ceramide biosynthetic pathway, adapted from Merscher et
+  al. Positively and negatively correlated enzymes are highlighted in red and blue,
+  respectively. (D) Heatmap representation of the sphingolipid metabolic genes correlated
+  with AR signature in multiple PCa datasets encompassing primary tumors. Red and
+  blue color intensity depict the degree of direct and inverse correlation, respectively.
+  An asterisk is included when the correlation coefficient is greater than 0.2 or
+  lower than −0.2 with a p-value lower than 0.05.
+article_title: Identification of Androgen Receptor Metabolic Correlome Reveals the
+  Repression of Ceramide Kinase by Androgens.
+citation: Laura Camacho, et al. Cancers (Basel). 2021 Sep;13(17):4307.
+
+doi: 10.3390/cancers13174307
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- prostate cancer
+- bioinformatics
+- mouse models
+- sphingolipid metabolism
+- ceramide kinase
+
+---

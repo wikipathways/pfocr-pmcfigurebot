@@ -1,0 +1,40 @@
+---
+pmcid: PMC8430547
+image_filename: cancers-13-04485-g007a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 7
+caption: (A) Gene set enrichment analysis of pathways enriched in U87-MG cells after
+  treatment with CAP + TMZ. (B,C) Dot and ridge plots of top 10 altered processes
+  in most enriched pathways. (D) Heatmap comparison of upregulated genes (relative
+  to control) of the cell cycle signaling pathway in U87-MG cells post-treatment with
+  CAP, TMZ, or CAP + TMZ. (E) Heatmap comparison of downregulated genes of the cell
+  cycle signaling pathway in U87-MG cells post-treatment. (F) Gene set enrichment
+  analysis of the cell cycle pathway using the Reactome database resulted in a Normalized
+  Enrichment Score (NES) = −1.79, Nominal p-value = 0.025. A negative NES indicated
+  cell cycle gene sets are downregulated and negatively correlated. (G) KEGG pathway
+  analysis of cell cycle genes regulated by CAP + TMZ in U87-MG cells.
+article_title: In Vitro and In Vivo Enhancement of Temozolomide Effect in Human Glioblastoma
+  by Non-Invasive Application of Cold Atmospheric Plasma.
+citation: Vikas Soni, et al. Cancers (Basel). 2021 Sep;13(17):4485.
+
+doi: 10.3390/cancers13174485
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- cold atmospheric plasma
+- glioblastoma
+- reactive oxygen and nitrogen species
+- electromagnetic waves
+- bone
+- temozolomide
+- cancer therapy
+- xenografts
+- sensitization
+- plasma medicine
+- RNA-sequencing
+- gene functional enrichment analysis
+
+---

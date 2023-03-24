@@ -1,0 +1,36 @@
+---
+pmcid: PMC8430666
+image_filename: ijms-22-09395-g003a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 3
+caption: Comparative and integrative analyses of the two RNA-seq datasets from SCS-treated
+  HT-29 cells and NCM460 cells. (A) The analyses of the genes with reversely changed
+  expression by the KEGG enrichment analyses in HT-29 cells; (B) The analyses of the
+  genes with reversely changed expression by the KEGG enrichment analyses in NCM460
+  cells; (C) The gene-gene interaction network in response in HT-29 cells treated
+  with SCS; (D) The gene-gene interaction network in response in NCM460 cells treated
+  with SCS; (E) Heat maps show that displayed altered expression of genes in HT-29
+  cells and NCM460 cells after SCS treatment. Among the 88 genes related to cell cycle
+  and apoptosis pathway, 32 genes in HT-29 cells were significantly different after
+  SCS treatment (fold change > 1.5, p-value < 0.05), while only 5 genes in NCM460
+  were significantly different, * indicates p-value < 0.05; (F) Regulatory network
+  of SCS inhibiting the development of colorectal cancer was predicted.
+article_title: The Regulatory Network of Sturgeon Chondroitin Sulfate on Colorectal
+  Cancer Inhibition by Transcriptomic and Proteomic Analysis.
+citation: Ruiyun Wu, et al. Int J Mol Sci. 2021 Sep;22(17):9395.
+
+doi: 10.3390/ijms22179395
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- sturgeon chondroitin sulfate
+- colorectal cancer
+- RNA-seq
+- cell cycle
+- apoptosis
+- tumor xenograft
+
+---
