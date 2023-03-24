@@ -1,0 +1,37 @@
+---
+pmcid: PMC8080498
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC8080498/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: RNA sequencing analysis of the kidney cortex in coronavirus disease 2019
+  (COVID-19)–associated collapsing glomerulopathy. Differentially expressed genes
+  with 1.5-fold–magnitude changes between expression profiles of 1 patient with COVID-19–associated
+  collapsing glomerulopathy and data from 12 control healthy individuals downloaded
+  from GTEx (Genotype-Tissue Expression) database were used for Gene Ontology (GO)
+  term enrichment (GO) terms and pathway analysis by Fisher exact test with P <0.05.
+  Upregulated genes were enriched for cell cycle, chromosome segregation, response
+  to wounding, blood coagulation, and humoral immune response, whereas downregulated
+  genes were enriched for ion transport, metabolic processes, and oxidation. Pathway
+  analysis from both up- and downregulated genes showed enrichment of transmembrane
+  transport, oxidation, and blood coagulation consistent with the GO terms analysis.
+  Upregulated genes were enriched only for FOXM1 pathway, while genes related to renin-angiotensin
+  system were downregulated.
+article_title: Molecular Analysis of the Kidney From a Patient With COVID-19–Associated
+  Collapsing Glomerulopathy.
+citation: Kristin Meliambro, et al. Kidney Med. 2021 Jul-Aug;3(4):653-658.
+
+doi: 10.1016/j.xkme.2021.02.012
+journal_title: Kidney Medicine
+journal_nlm_ta: Kidney Med
+publisher_name: Elsevier
+
+keywords:
+- Collapsing glomerulopathy
+- COVID-19
+- FSGS
+- APOL1
+- STAT3
+- IL-6
+
+---

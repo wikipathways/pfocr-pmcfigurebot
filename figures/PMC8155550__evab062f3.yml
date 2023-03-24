@@ -1,0 +1,40 @@
+---
+pmcid: PMC8155550
+image_filename: evab062f3.jpg
+figure_link: /pmc/articles/PMC8155550/figure/evab062-F3/
+number: '<span style="font-variant: small-caps" class="small-caps">Fig</span> . 3'
+figure_title: Fig . 3
+caption: Gene Ontology (GO) term enrichment analysis according to the TE context for
+  the Biological Process ontology and 2-kb flanking region size. Comparison of function
+  between genes according to TE density; top, TE-rich genes versus TE-medium genes;
+  middle, TE-rich genes versus TE-poor genes; bottom, TE-medium genes versus TE-poor
+  genes. Black bars, TE-rich genes; Light gray bars, TE-medium genes; White bars,
+  TE-poor genes. Asterisks indicate statistically significant differences (Fisher’s
+  exact tests, FDR <0.01). Reg. cell. biosynthetic process, regulation of cellular
+  biosynthetic process; reg. biosynthetic process, regulation of biosynthetic process;
+  reg. metabolic process, regulation of metabolic process; reg. cell. process, regulation
+  of cellular process; reg. biological process, regulation of biological process;
+  cell. response to stimulus, cellular response to stimulus; CSR signaling pathway,
+  cell surface receptor signaling pathway; multicell. org. dev., multicellular organism
+  development; multicell. org. process, multicellular organismal process; transcr.
+  RNA pol. II, transcription by RNA polymerase II; transcr. DNA-templated, transcription,
+  DNA-templated; macro. metabolic process, macromolecule metabolic process; OS metabolic
+  process, organic substance metabolic process.
+article_title: The Transposable Element Environment of Human Genes Differs According
+  to Their Duplication Status and Essentiality.
+citation: Margot Correa, et al. Genome Biol Evol. 2021 May;13(5):evab062.
+
+doi: 10.1093/gbe/evab062
+journal_title: Genome Biology and Evolution
+journal_nlm_ta: Genome Biol Evol
+publisher_name: Oxford University Press
+
+keywords:
+- transposable elements
+- gene duplication
+- essential genes
+- gene evolution
+- SINE
+- LINE
+
+---

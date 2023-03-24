@@ -1,0 +1,33 @@
+---
+pmcid: PMC8161096
+image_filename: ijms-22-05393-g007.jpg
+figure_link: /pmc/articles/PMC8161096/figure/ijms-22-05393-f007/
+number: Figure 7
+figure_title: ''
+caption: Enrichment analysis of metabolic pathways of different metabolites based
+  on KEGG database (a). p-value in the metabolic pathway is the significance of enrichment
+  of this metabolic pathway, and the significant enrichment pathway is selected to
+  draw the bubble chart. The color from red to green indicate a continuous decrease
+  in p-value. The scale of dots represents the number of metabolites. In the KGML
+  network diagram of genes and metabolites (b). The circle represents the protein,
+  the hexagon represents the metabolite, and the diamond represents the pathway name.
+  Red indicates up-regulated proteins or metabolites, while green indicates down-regulated
+  proteins or metabolites.
+article_title: Transcriptome and Metabolomic Analyses Reveal Regulatory Networks Controlling
+  Maize Stomatal Development in Response to Blue Light.
+citation: Tiedong Liu, et al. Int J Mol Sci. 2021 May;22(10):5393.
+
+doi: 10.3390/ijms22105393
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- stomata
+- transcriptome
+- metabolome
+- signaling transduction
+- blue light
+- maize
+
+---
