@@ -2,8 +2,8 @@ name: Fetch relevant article figures monthly
 
 on:
   workflow_dispatch:
-  #schedule:
-  #- cron: "0 0 1 * *"
+  schedule:
+  - cron: "15 * * * *"
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.head_ref || github.ref }}

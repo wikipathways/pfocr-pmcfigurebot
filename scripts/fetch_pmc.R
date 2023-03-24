@@ -45,17 +45,20 @@ if (length(query.terms) > 1){
 }
 #date
 query.date <- ""
+to.date <- "3000/01/01"
 if (is.null(config$date_range)){
   if (is.null(config$last_run)){
     from.date <- format(Sys.Date() - months(1), "%Y/%m/%d")
-    
   } else {
     from.date <- config$last_run
+    if (as.Date(from.date) > Sys.Date())
+      stop("Invalid date range. Trying to use last_run as start of range.")
+    to.date <- format(as.Date(from.date) + months(1), "%Y/%m/%d")
   }
-  query.date <- paste0(from.date,"[PUBDATE]+%3A+3000/01/01[PUBDATE]")
+  query.date <- paste0(from.date,"[PUBDATE]+%3A+",to.date,"[PUBDATE]")
 } else {
   query.date <- config$date_range
-  if (length(query.date) > 1){
+  if (length(query.date) == 2){
     query.date <- paste(query.date, collapse = "[PUBDATE]+%3A+")
     query.date <- paste0(query.date , "[PUBDATE]")
   }
@@ -87,7 +90,8 @@ image_filename <- page.source %>%
   as.character()
 
 ## log last_run
-config$last_run <- format(Sys.Date(), "%Y/%m/%d")
+config$last_run <- to.date
+# config$last_run <- format(Sys.Date(), "%Y/%m/%d")
 yaml::write_yaml(config, "query_config.yml")
 
 ## check for results
@@ -176,6 +180,11 @@ if(!length(image_filename) > 0){
   
   ## For each figure...
   for (a in 1:nrow(df)){
+    # check exclude list
+    expmcids <- read.table(config$exclude_pmcids, sep = "\t", stringsAsFactors = F)[,1]
+    if (df[a,"pmcid"] %in% expmcids)
+      next
+    
     #slice of df from above
     article.data <- df[a,]
     
