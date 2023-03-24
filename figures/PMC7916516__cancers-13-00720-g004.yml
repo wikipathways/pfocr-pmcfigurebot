@@ -1,0 +1,32 @@
+---
+pmcid: PMC7916516
+image_filename: cancers-13-00720-g004.jpg
+figure_link: /pmc/articles/PMC7916516/figure/cancers-13-00720-f004/
+number: Figure 4
+figure_title: ''
+caption: Pathway analysis performed using the altered metabolites from metabolomics
+  data for gastric cancer. Each filled circle corresponds to a metabolic pathway.
+  The x-coordinate (Pathway Impact) indicates the extent of pathway influence by the
+  perturbed metabolites. The point size is related to the diversity of the pathway,
+  based on the number of metabolites contained in the pathway. The ordinate represents
+  the negative logarithm of the p-value obtained from the enrichment analysis done
+  by the MetaboAnalyst software. The p-value (measure of pathway importance) is encoded
+  in the color of the circles with red being the highest p-value.
+article_title: The Distinctive Serum Metabolomes of Gastric, Esophageal and Colorectal
+  Cancers.
+citation: Zhenxing Ren, et al. Cancers (Basel). 2021 Feb;13(4):720.
+
+doi: 10.3390/cancers13040720
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- metabolomics
+- gastric cancer
+- esophageal cancer
+- colorectal cancer
+- Warburg effect
+- metabolome
+
+---

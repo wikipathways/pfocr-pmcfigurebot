@@ -1,0 +1,62 @@
+---
+pmcid: PMC8002348
+image_filename: cancers-13-01345-g004.jpg
+figure_link: /pmc/articles/PMC8002348/figure/cancers-13-01345-f004/
+number: Figure 4
+figure_title: ''
+caption: 'Heterogeneity in signaling pathway activity score within primary tumors
+  at micro- and macro-scale (sample sets I and II). (A) Pathway activity scores for
+  tissue block (blue) and quadrant (red) samples of each patient. Ranges are presented
+  as vertical lines; individual scores are presented as triangles. (B) Spread in signaling
+  pathway activity scores from quadrant samples (horizontal lines) vs. spread in scores
+  from tissue block samples of the same patient (vertical lines). Significance level
+  for the correlation between mean scores of tissue block samples versus mean scores
+  of quadrant samples (point where horizontal and vertical lines cross) are indicated
+  in the figure by stars (*: p < 0.05, **: p < 0.01, ***: p < 0.001, corresponding
+  values are in ). (C) Correlation between mean quadrant sample pathway activity score
+  and score of the corresponding tissue block sample. Stars indicate the significance
+  level of the correlations (corresponding p values are in ). (B,C) Diagonal black
+  lines illustrate a one-to-one relation. Samples of the same patient have the same
+  color. Black lines illustrate a one-to-one relation. (D) Ratio between macro-scale
+  and micro-scale standard deviation (SD) of signaling pathway activity scores; σmacro/σmicro
+  measured in tissue block samples and quadrant samples, respectively. Variances computed
+  using the macro- vs. micro-scale model (B, ) using all samples (top) or those with
+  less technical noise (leaving out all samples with average Cq values > 31 for the
+  reference genes used for the qPCR measurements). Significance level of Wald test
+  p-value for comparing the ratio σmacro/σmicro to 1 are indicated by stars (p values
+  for model run using all samples in ). (E) Summarized macro (block level) and micro-scale
+  (quadrant level) heterogeneity per patient by taking the square root of the average
+  variance across the six pathways, where an average SD of 10 means an average confidence
+  interval of about 40 points. (F) Checkerboard visualization of a primary cancer,
+  explaining differences in heterogeneity between micro-scale and macro-scale measurements
+  of pathway activity. Left: Squares represent (small) cancer cell clones with variable
+  pathway activity scores, simulated by grey (high pathway activity) and white (low
+  pathway activity). For example, analyzing HH pathway activity in a randomly localized
+  “tissue” sample (analogous to the tissue block samples) results in a smoothed averaged
+  pathway activity, due to canceling out of variations in pathway activity that are
+  present in areas smaller than the sampled area. On the other hand, when taking four
+  quadrant samples, the varying pathway activity scores in the quadrants are measured,
+  resulting in a higher measured pathway activity heterogeneity at micro-scale. Right:
+  Quadrangles represent large cancer cell clones, with variations in pathway activity
+  scores. In this case, it is expected that more heterogeneity will be found at the
+  macro-scale, since the quadrants are more likely to have the same pathway activity.
+  This might be the case for the PI3K-FOXO pathway. For detailed information on the
+  associated statistical model, see .'
+article_title: Heterogeneity in Signaling Pathway Activity within Primary and between
+  Primary and Metastatic Breast Cancer.
+citation: Márcia A. Inda, et al. Cancers (Basel). 2021 Mar;13(6):1345.
+
+doi: 10.3390/cancers13061345
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- tumor heterogeneity
+- signaling pathway activity
+- mRNA analysis
+- primary tumor
+- metastasis
+- breast cancer
+
+---

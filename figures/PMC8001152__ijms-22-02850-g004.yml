@@ -1,0 +1,33 @@
+---
+pmcid: PMC8001152
+image_filename: ijms-22-02850-g004.jpg
+figure_link: /pmc/articles/PMC8001152/figure/ijms-22-02850-f004/
+number: Figure 4
+figure_title: ''
+caption: Gene heatmap enables to visualize protein expression data in a specific canonical
+  pathway, across multiple analyses at one time. (A) Oxidative phosphorylation. (B)
+  Sirtuin signaling pathway. (C) RhoA signaling. (D) Glycolysis I. (E) Role of PKR
+  in interferon induction and antiviral response. (F) Gluconeogenesis I. (G) Necroptosis
+  signaling pathway. (H) BAG2 signaling pathway. Green and red colors refer respectively
+  to decrease or increase for each individual protein statistically changed in our
+  proteomics dataset. Grey color indicates changes that are statistically not significant
+  for p-value (ANOVA followed by Tukey’s post-hoc test (p < 0.05)). Dots indicate
+  non-significant values for z-score (z-score ≥ 2, ≤ −2).
+article_title: Muscle Proteomic Profile before and after Enzyme Replacement Therapy
+  in Late-Onset Pompe Disease.
+citation: Manuela Moriggi, et al. Int J Mol Sci. 2021 Mar;22(6):2850.
+
+doi: 10.3390/ijms22062850
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- pompe disease
+- sarcopenia
+- autophagy
+- rare disease
+- proteomics
+- mass spectrometry
+
+---

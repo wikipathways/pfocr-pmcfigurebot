@@ -1,0 +1,44 @@
+---
+pmcid: PMC7956570
+image_filename: ijms-22-02353-g002.jpg
+figure_link: /pmc/articles/PMC7956570/figure/ijms-22-02353-f002/
+number: Figure 2
+figure_title: ''
+caption: Signaling pathway signatures of ATF3-induced tumors are similar to those
+  of human BLBC. (A) GSEA enriched gene sets cell cycle (a), p53 (b), EMT (c), TGF-beta
+  (d), and Hedgehog signaling pathway (e). (B) GSEA enriched gene sets Wnt pathways
+  (a), canonical Wnt pathway (b), and non-canonical Wnt pathway (c). (C) Heatmaps
+  showing the expression of all Wnt pathway genes in BK5.ATF3 mice (a), expression
+  of canonical Wnt genes in mouse tumors (T11035, T11640, T9232) and matched non-tumor,
+  transgenic mammary gland tissue (M11035, M11640, M9232) (b), and expression of non-canonical
+  Wnt genes, as in b (c). (D) Heatmap showing the expression of genes in common between
+  the BK5.ATF3 mouse model and the GSEA-identified enriched genes from human basal-like
+  breast cancer (BLBC) sample data contained in TCGA using the human biological process
+  gene sets in Gene Ontology. For (A) and (B), the GSEA analysis was performed using
+  GSEAPreranked (Subramanian, Tamayo et al. 2005) against gene sets from V5.1 of the
+  Molecular Signatures Database (MSigDB). Gene pre-ranking was based on the p-value
+  obtained from the edgeR analysis. For (A), gene sets are from V5.1 of the Molecular
+  Signatures Database (MSigDB). For (B), the Wnt pathway gene set (a) was compiled
+  based on GO Ontology, DAVID, the Wnt Homepage, and the scientific literature. The
+  Wnt pathway gene set (a) was sub-categorized into canonical Wnt (b) and non-canonical
+  Wnt (c) gene sets.
+article_title: ATF3-Induced Mammary Tumors Exhibit Molecular Features of Human Basal-Like
+  Breast Cancer.
+citation: Leqin Yan, et al. Int J Mol Sci. 2021 Mar;22(5):2353.
+
+doi: 10.3390/ijms22052353
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- ATF3
+- mouse model
+- breast cancer
+- basal-like
+- RNA-Seq
+- miRNA
+- Mir145
+- Mir143
+
+---

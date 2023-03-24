@@ -1,0 +1,28 @@
+---
+pmcid: PMC7865504
+image_filename: cancers-13-00393-g001.jpg
+figure_link: /pmc/articles/PMC7865504/figure/cancers-13-00393-f001/
+number: Figure 1
+figure_title: ''
+caption: Pathway analysis plot showing the impact on metabolic pathways that are significantly
+  enriched (padj < 0.05) and have a pathway impact score > 0.1 per cancer type. Datapoints
+  are colored according to their impact score. (A) Pathway impact according to differentially
+  abundant metabolites (padj < 0.05); (B) pathway impact according to differentially
+  connected metabolites (Benjamini-Hochberg adjusted p-value padj < 005).
+article_title: Cancers in Agreement? Exploring the Cross-Talk of Cancer Metabolomic
+  and Transcriptomic Landscapes Using Publicly Available Data.
+citation: Derek van Tilborg, et al. Cancers (Basel). 2021 Feb;13(3):393.
+
+doi: 10.3390/cancers13030393
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- association networks
+- cancer metabolism
+- biological networks analysis
+- gaussian graphical models
+- pathway analysis
+
+---
