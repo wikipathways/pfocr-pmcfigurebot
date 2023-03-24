@@ -1,0 +1,38 @@
+---
+pmcid: PMC8263638
+image_filename: ajcr0011-3070-f4.jpg
+figure_link: /pmc/articles/PMC8263638/figure/fig04/
+number: Figure 4
+figure_title: ''
+caption: Association of six cell proliferation-related scores and patient survival
+  in pancreatic cancer. Forest plots of hazard ratio (HR) for high cell proliferation-related
+  pathway score in the TCGA (n = 176), GSE57495 (n = 63), and GSE62452 (n = 69). The
+  median value was used as a cut-off to divide low and high groups within the cohort.
+  The blue line indicates non-significance and the red line indicated significance.
+  G2M, G2M Checkpoint; E2F, E2F Targets; MYC1, MYC Targets V1; MYC2, MYC Targets V2;
+  Mitotic, Mitotic Spindle; p53, p53 pathway.
+article_title: G2M checkpoint pathway alone is associated with drug response and survival
+  among cell proliferation-related pathways in pancreatic cancer.
+citation: Masanori Oshi, et al. Am J Cancer Res. 2021;11(6):3070-3084.
+
+doi: .na.character
+journal_title: American Journal of Cancer Research
+journal_nlm_ta: Am J Cancer Res
+publisher_name: e-Century Publishing Corporation
+
+keywords:
+- Biomarker
+- cell cycle
+- gene sets
+- gene expression
+- GSVA
+- GSEA
+- tumor microenvironment
+- pathway analysis
+- pancreatic cancer
+- proliferation
+- Hallmark gene sets
+- survival
+- transcriptome
+
+---

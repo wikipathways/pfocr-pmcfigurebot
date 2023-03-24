@@ -1,0 +1,32 @@
+---
+pmcid: PMC8254769
+image_filename: nihms-1706251-f0004.jpg
+figure_link: /pmc/articles/PMC8254769/figure/F4/
+number: Figure 4
+figure_title: Inferred Metabolic Pathway Abundance by Smoking Status
+caption: CLR-normalized inferred abundance of MetaCyc pathways as calculated by PICRUSt2.
+  (A) Normalized pathway abundance in current (red), former (green), and never smokers
+  (blue). Pathways grouped by MetaCyc SuperPathway definition as oxidative/degradative
+  or biosynthetic. Unclassified pathways noted as “Other.” (B) Correlation between
+  imputed pathways and ANCOM-identified significant taxa, annotated with superpathway
+  function and smoking influence on taxonomic abundance. Positive correlation noted
+  in red, while negative correlation noted in blue.
+article_title: Tobacco smoking and the fecal microbiome in a large, multi-ethnic cohort.
+citation: Ajay Prakash, et al. Cancer Epidemiol Biomarkers Prev. ;30(7):1328-1335.
+
+doi: 10.1158/1055-9965.EPI-20-1417
+journal_title: 'Cancer epidemiology, biomarkers & prevention : a publication of the
+  American Association for Cancer Research, cosponsored by the American Society of
+  Preventive Oncology'
+journal_nlm_ta: Cancer Epidemiol Biomarkers Prev
+publisher_name: .na.character
+
+keywords:
+- Epidemiology
+- public health
+- microbiome
+- microbial ecology
+- tobacco smoke
+- smoking
+
+---

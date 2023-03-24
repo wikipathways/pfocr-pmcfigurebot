@@ -1,0 +1,37 @@
+---
+pmcid: PMC9231556
+image_filename: nihms-1810833-f0003.jpg
+figure_link: /pmc/articles/PMC9231556/figure/F3/
+number: FIGURE 3
+figure_title: ''
+caption: 'Pathway enrichment analysis from CpG methylation (RRBS) results. Pathway
+  enrichment was performed using FRY algorithm with GO database (Biological Process,
+  BP, domain). A, All enriched pathways were connected to each other using the shared
+  gene information. Linked-communities (n = 11) identifying the shared properties
+  across all enriched pathways were calculated. The names show uniquely enriched terms.
+  B, Enriched pathway terms were shared by multiple linked-communities. The view is
+  zoomed in from the region defined by the rectangle in panel A. C, Hierarchical clustering
+  of all pathway linked-communities resulted in 6 unique clusters. Cluster 1: nicotine
+  response, alveolar and brain development; Cluster 2: oxidative stress response;
+  Cluster 3: cellular signaling and cell cycle; Cluster 4: cellular signaling and
+  transcriptional regulation; Cluster 5: NF-κB transcriptional regulation by protein
+  ubiquitination; Cluster 6: GO terms with no shared genes between each other, and
+  GO terms unique to specific linked-communities'
+article_title: Perinatal exposure to nicotine alters spermatozoal DNA methylation
+  near genes controlling nicotine action.
+citation: Ali Altintaş, et al. FASEB J. ;35(7):e21702-e21702.
+
+doi: 10.1096/fj.202100215R
+journal_title: 'FASEB journal : official publication of the Federation of American
+  Societies for Experimental Biology'
+journal_nlm_ta: FASEB J
+publisher_name: .na.character
+
+keywords:
+- DNA methylation
+- epigenetic inheritance
+- lung development
+- smoking
+- spermatozoa
+
+---

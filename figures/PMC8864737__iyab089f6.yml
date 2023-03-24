@@ -1,0 +1,31 @@
+---
+pmcid: PMC8864737
+image_filename: iyab089f6.jpg
+figure_link: /pmc/articles/PMC8864737/figure/iyab089-F6/
+number: Figure 6
+figure_title: ''
+caption: Pathway enrichment analysis using WormPaths levels. Pathway enrichment analysis
+  using a previously published RNA-seq dataset of C. elegans untreated, treated with
+  20nM vitamin B12, or treated with 20nM vitamin B12 and 40mM propionate with a p-adjusted
+  of ≤0.05 and a fold change of ±1.5 shows enrichment of lipids and one-carbon cycle
+  pathways (left, blue). The arrows indicate the directionality of differentially
+  expressed genes. No arrow indicates both increased and decreased gene expression.
+  WormPaths enrichment for curated metabolic genes complements and adds resolution
+  to the genome scale enrichment metabolic results from WormCat (right, orange).
+article_title: 'WormPaths: Caenorhabditis elegans metabolic pathway annotation and
+  visualization.'
+citation: Melissa D Walker, et al. Genetics. 2021 Sep;219(1):iyab089.
+
+doi: 10.1093/genetics/iyab089
+journal_title: Genetics
+journal_nlm_ta: Genetics
+publisher_name: Oxford University Press
+
+keywords:
+- C. elegans
+- metabolism
+- metabolic pathways
+- pathway visualization
+- pathway enrichment analysis
+
+---
