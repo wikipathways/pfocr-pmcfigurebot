@@ -2,8 +2,8 @@ name: Fetch relevant article figures monthly
 
 on:
   workflow_dispatch:
-  schedule:
-  - cron: "*/15 * * * *"
+  #schedule:
+  #- cron: "*/15 * * * *"
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.head_ref || github.ref }}
@@ -14,10 +14,9 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
-          submodules: true
-          fetch-depth: 0
+          fetch-depth: 1
           ref: main
 
       - name: Setup R
@@ -27,10 +26,10 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install libcurl4-openssl-dev
-          Rscript -e 'install.packages(c("utils","httr","xml2","dplyr","magrittr","stringr","purrr","yaml","rvest","lubridate","jpeg"))'
+          Rscript -e 'install.packages(c("netstat","RSelenium","utils","httr","xml2","dplyr","magrittr","stringr","purrr","yaml","rvest","lubridate","jpeg"))'
       - name: Run fetch_pmc.R
         run: |
-          Rscript -e "source('scripts/fetch_pmc.R')"
+          Rscript -e "source('scripts/test_selenium.R')"
       - name: Commit to inbox
         uses: stefanzweifel/git-auto-commit-action@v4  
         with:
