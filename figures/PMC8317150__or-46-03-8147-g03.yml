@@ -1,0 +1,30 @@
+---
+pmcid: PMC8317150
+image_filename: or-46-03-8147-g03.jpg
+figure_link: /pmc/articles/PMC8317150/figure/f4-or-0-0-8147/
+number: Figure 4
+figure_title: ''
+caption: KEGG pathway enrichment analysis of common DEGs. Bubble chart for KEGG pathway
+  enrichment analysis is presented. The x-axis represents the ratio of common DEGs
+  enriched in the marked category. The size of the bubble indicates the number of
+  common DEGs enriched in the marked category and color refers to the value of differences.
+  The categories of ‘Focal adhesion’, ‘Hippo signaling pathway’ and ‘Renal cell carcinoma’
+  were considered significant, while the categories of ‘Regulation of actin cytoskeleton’,
+  ‘Melanoma’ and ‘Inflammatory bowel disease’ were considered not significant. DEG,
+  differentially expressed genes; KEGG, Kyoto Encyclopedia of Genes and Genomes.
+article_title: Screening of hub genes and evaluation of the growth regulatory role
+  of CD44 in metastatic prostate cancer.
+citation: Junhao Lin, et al. Oncol Rep. 2021 Sep;46(3):196.
+
+doi: 10.3892/or.2021.8147
+journal_title: Oncology Reports
+journal_nlm_ta: Oncol Rep
+publisher_name: D.A. Spandidos
+
+keywords:
+- bioinformatics analysis
+- hub gene
+- CD44
+- prostate cancer
+
+---
