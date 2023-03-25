@@ -26,7 +26,7 @@ jobs:
       run: |
         sudo apt-get update
         sudo apt-get install libcurl4-openssl-dev
-          Rscript -e 'install.packages(c("utils","httr","xml2","dplyr","magrittr","stringr","purrr","yaml","rvest","lubridate","jpeg"))'
+          Rscript -e 'install.packages(c("RSelenium","utils","httr","xml2","dplyr","magrittr","stringr","purrr","yaml","rvest","lubridate","jpeg"))'
         
     - name: Run R Script to Fetch Figures
       run: Rscript scripts/fetch_figures.R
