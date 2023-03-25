@@ -39,12 +39,13 @@ remDr <- remoteDriver(
   remoteServerAddr = "localhost", 
   port = 4445L
 )
+cat("Attempting to open remoteDriver\n")
 remDr$open()
 
 ###############
 ## BUILD QUERY 
 ###############
-
+cat("Building query\n")
 config <- yaml::read_yaml("query_config.yml")
 #terms
 query.terms <- gsub(" ", "-", config$terms) #dash indicates phrases
