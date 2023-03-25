@@ -279,7 +279,7 @@ for (i in 1:page.count){
       res.fig.count = res.fig.count+1
       
       #take a breath
-      Sys.sleep(0.5)
+      Sys.sleep(1)
       
     } # end for each figure
     
