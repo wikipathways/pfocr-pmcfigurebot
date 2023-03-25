@@ -2,7 +2,6 @@ library(RSelenium)
 
 # Set up the remote web driver using Selenium/standalone-firefox
 remDr <- remoteDriver(
-  verbose=T,
   remoteServerAddr = Sys.getenv("SELENIUM_REMOTE_URL"), 
   port = 4445,
   extraCapabilities = list(
