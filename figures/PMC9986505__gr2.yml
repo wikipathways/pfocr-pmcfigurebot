@@ -1,0 +1,63 @@
+---
+pmcid: PMC9986505
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC9986505/figure/fig2/
+number: Fig. 2
+figure_title: ''
+caption: In silico PHENSIM prediction of host transcriptional response to SARS-Cov-2.In
+  vitro results from Blanco-Melo et al. (left column; checkered boxes) are compared
+  to in silico PHENSIM predictions (right; solid) for all evaluated respiratory related
+  cells assessed; NHBE, Calu-3, A549 cells at low (0.2) and high (2.0) MOI, ± ACE2
+  transduction respectively. A) Heatmap depicting the perturbation of a select subset
+  of anti-viral, ISGs and inflammatory genes. B) Heatmaps depicting unbiased analysis
+  of the top-10 upregulated (red) and top-10 downregulated (blue) DEGs from Blanco-Melo
+  et al. (left) with side-by-side PHENSIM predictions (right). For A&B, legend shows
+  denoted perturbations for PHENSIM prediction and Blanco-Melo et al. See legend box
+  for DEG annotation. C) Heatmap depicts whole genome pathway analysis as predicted
+  by PHENSIM for a select set of signaling pathways of interest in all assessed cell
+  types. Pathway selection was based on highlighted pathways affected by SARS-CoV-2
+  infection. Color gradient depicts the average pathway perturbation as predicted
+  in our PHENSIM in silico experiments. D&E) MITHrIL pathway analysis was used to
+  assess top meta-pathways for D) A549-ACE2 MOI 0.2 (low viral load) and E) A549-ACE2
+  MOI 2.0 (high viral load), according to impact (circle size) and significance (color-gradient
+  for adjusted p-value) for the top 12 up- (+accumulator) and down-regulated pathways.
+  The accumulator is the accumulation/sum of all perturbations computed for that particular
+  pathway. NHBE; Normal Human Bronchial Epithelial cells, Calu-3; Cultured human airway
+  epithelial cells, A549; Transformed lung alveolar cells, ACE2; angiotensin-converting
+  enzyme, MOI; multiplicity of infection. DEGs; Differentially expressed genes, ISGs;
+  IFN-stimulated genes.
+article_title: Application of the PHENotype SIMulator for rapid identification of
+  potential candidates in effective COVID-19 drug repurposing.
+citation: Naomi I. Maria, et al. Heliyon. 2023 Mar 6 ;9(3):e14115.
+
+doi: 10.1016/j.heliyon.2023.e14115
+journal_title: Heliyon
+journal_nlm_ta: Heliyon
+publisher_name: Elsevier
+
+keywords:
+- COVID-19
+- Drug repurposing
+- Systems biology
+- Cellular simulation models
+- Cellular SARS-CoV-2 signatures
+- Cellular host-immune response
+- PHENSIM, PHENotype SIMulator
+- SARS-CoV-2, Severe acute respiratory syndrome coronavirus 2
+- COVID-19, Coronavirus disease 2019
+- DEGs, Differentially Expressed Genes
+- ACE2, Angiotensin-converting enzyme 2
+- IFN, Interferon
+- NHBE, Normal human bronchial epithelial cells
+- MOI, Multiplicity of infection
+- ISGs, IFN-stimulated genes
+- MITHrIL, Mirna enrIched paTHway Impact anaLysis
+- TLR, Toll-like Receptor
+- Calu-3, Epithelial cell line
+- Caco-2, Human colon epithelial carcinoma cell line
+- DEPs, Differentially expressed proteins
+- HCQ-CQ, (Hydroxy)chloroquine
+- 2DG, 2-Deoxy-Glucose
+- MP, Methylprednisolone
+
+---

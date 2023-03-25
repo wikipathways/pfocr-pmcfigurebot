@@ -1,0 +1,28 @@
+---
+pmcid: PMC10037622
+image_filename: ncrna-09-00017-g004.jpg
+figure_link: /pmc/articles/PMC10037622/figure/ncrna-09-00017-f004/
+number: Figure 4
+figure_title: ''
+caption: KEGG pathway enrichment analysis of the selected miRNAs. The heatmap shows
+  the significantly enriched pathways (q-value < 0.05) of the selected miRNAs retrieved
+  from the KEGG database in the DIANA-miRPath v3 web server (http://www.microrna.gr/miRPathv3,
+  accessed on 13 September 2022). Hierarchical clustering of miRNAs was performed
+  based on their similar pathway targeting patterns, and pathways were clustered together
+  by related miRNAs. The color code represents the log (p-value (FDR)), with the most
+  significant miRNA-pathway interactions in red. The table shows the top 10 most significant
+  KEGG pathways and the related p-values (FDR), the number of genes involved in the
+  pathway, and the number of miRNAs targeting the indicated pathways.
+article_title: 'Immunoregulatory Biomarkers of the Remission Phase in Type 1 Diabetes:
+  miR-30d-5p Modulates PD-1 Expression and Regulatory T Cell Expansion.'
+citation: Laia Gomez-Muñoz, et al. Noncoding RNA. 2023 Apr;9(2):17.
+
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+
+keywords:
+~
+
+---

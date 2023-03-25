@@ -1,0 +1,33 @@
+---
+pmcid: PMC10028878
+image_filename: nihpp-2023.03.08.531787v1-f0004.jpg
+figure_link: /pmc/articles/PMC10028878/figure/F4/
+number: 'Figure 4:'
+figure_title: GSDMD is associated with inflammatory gene expression programs
+caption: A Principal component analysis comparing WT and GSDMD KO RNA samples. B Volcano
+  plot of differential gene expression comparing WT vs GSDMD KO. Purple, 812 genes
+  upregulated in WT vs KO; Green, 447 genes downregulated in WT vs KO. C Heat map
+  for top genes that show differential expression between GSDMD KOs and WT D Genes
+  decreased in KO versus WT were subjected to pathway and ontology analysis. The top
+  ten most significant GO Biological Processes are shown (-Log10 p-Elim pruning value
+  is graphed) and the significant REACTOME gene set enrichments are shown (p<0.05).
+  All differentially expressed genes were examined using Ingenuity Pathway Analysis
+  and the top five most significant Canonical Pathways are shown. E Heat map for genes
+  from the top most significant GO Biological Process as shown in D (Defense response
+  to virus).
+article_title: Loss of Gasdermin D is protective against influenza virus-induced inflammation
+  and mortality.
+citation: Samuel Speaks, et al. bioRxiv. 2023 Mar 8:2023.03.08.531787.
+
+doi: 10.1101/2023.03.08.531787
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+- Gasdermin D
+- influenza virus
+- neutrophil
+- inflammasome
+
+---
