@@ -8,6 +8,8 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     services:
       selenium:
         image: selenium/standalone-firefox:latest
@@ -18,6 +20,9 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v3
+      with:
+          fetch-depth: 1
+          ref: main
       
     - name: Setup R
       uses: r-lib/actions/setup-r@v2
