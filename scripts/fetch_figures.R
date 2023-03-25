@@ -294,7 +294,7 @@ for (i in 1:page.count){
   if (i < page.count-1){
     next.page.button <- remDr$findElement(using = "xpath", "//*[@class='active page_link next']")
     next.page.button$clickElement()
-    remDr$screenshot(display = TRUE)
+    #remDr$screenshot(display = TRUE)
     Sys.sleep(3)
   }
 } #end for each page
