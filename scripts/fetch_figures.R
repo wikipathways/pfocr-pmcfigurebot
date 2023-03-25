@@ -37,17 +37,7 @@ library(stringr)
 # Set up the remote web driver using Selenium/standalone-firefox
 remDr <- remoteDriver(
   remoteServerAddr = "localhost", 
-  port = 4445,
-  extraCapabilities = list(
-    "moz:firefoxOptions" = list(
-      args = list(
-        "--headless",
-        "--disable-gpu",
-        "--no-sandbox",
-        "--disable-dev-shm-usage"
-      )
-    )
-  )
+  port = 4445L
 )
 remDr$open()
 
@@ -88,6 +78,7 @@ query.url <- paste0("https://www.ncbi.nlm.nih.gov/pmc/?",
                     "&report=imagesdocsum",
                     "&dispmax=100")
 # log it
+cat(query.url)
 cat(query.url, file="figures/fetch.log")
 cat(paste("\n", query.date), file="figures/fetch.log", append = T)
 
@@ -111,6 +102,7 @@ cat(paste("\n",page.count," pages of results"), file="figures/fetch.log", append
 res.fig.count <- 0
 
 for (i in 1:page.count){
+  cat(sprintf("\nPage %i of %i", i, page.count))
   cat(sprintf("\nPage %i of %i", i, page.count), file="figures/fetch.log", append = T)
   
   ## Parse page
@@ -214,7 +206,7 @@ for (i in 1:page.count){
       expmcids <- read.table(config$exclude_pmcids, sep = "\t", stringsAsFactors = F)[,1]
       if (df[a,"pmcid"] %in% expmcids)
         next
-      #cat(sprintf("\nFigure %i of %i", a, nrow(df)))
+      cat(sprintf("\nFigure %i of %i (%i)", a, nrow(df),res.fig.count+1))
         
       #slice of df from above
       article.data <- df[a,]
