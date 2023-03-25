@@ -24,14 +24,16 @@
 library(utils)
 library(rvest)
 library(xml2)
-library(dplyr)
-library(magrittr)
-library(stringr)
 library(purrr)
 library(yaml)
 library(httr)
 library(jpeg)
 library(lubridate) #for -months() operation
+library(RSelenium)
+library(dplyr)
+library(magrittr)
+library(stringr)
+
 
 ###############
 ## BUILD QUERY 
@@ -74,174 +76,214 @@ query.url <- paste0("https://www.ncbi.nlm.nih.gov/pmc/?",
 ##############
 ## SCRAPE PMC 
 ##############
+# launch Docker.app
+# run this line in Terminal: docker run -d -p 4445:4444 selenium/standalone-firefox:4.8.1-20230306
 
+## Run these lines once per session
+# remDr <- remoteDriver(
+#   remoteServerAddr = "localhost",
+#   port = 4445L
+# )
+# remDr$open()
+
+# Query PMC
+remDr$navigate(query.url)
+remDr$screenshot(display = TRUE)
+
+# Let's go for it!
 cat(query.url, file="figures/fetch.log")
 
-## Parse page
-page.source <- xml2::read_html(query.url) 
-image_filename <- page.source %>%
-  rvest::html_nodes(".rprt_img") %>%
-  rvest::html_node("img") %>%
-  rvest::html_attr("src-large") %>%
-  stringr::str_match("bin/(.*\\.jpg)") %>%
-  as.data.frame() %>%
-  dplyr::select(2) %>%
-  as.matrix() %>%
-  as.character()
+## get page count
+page.count <- xml2::read_html(remDr$getPageSource()[[1]]) %>%
+  rvest::html_nodes(".title_and_pager") %>%
+  rvest::html_node(".pagination") %>%
+  rvest::html_nodes("a") %>%
+  rvest::html_attr("page")
+page.count <- as.integer(page.count[4])
+
+for (i in 1:page.count){
+  cat(sprintf("\nPage %i of %i", i, page.count))
+  ## Parse page
+  page.source <- xml2::read_html(remDr$getPageSource()[[1]])
+  image_filename <- page.source %>%
+    rvest::html_nodes(".rprt_img") %>%
+    rvest::html_node("img") %>%
+    rvest::html_attr("src-large") %>%
+    stringr::str_match("bin/(.*\\.jpg)") %>%
+    as.data.frame() %>%
+    dplyr::select(2) %>%
+    as.matrix() %>%
+    as.character()
+  
+  ## check for results
+  if(!length(image_filename) > 0){
+    cat("\n0 results", file="figures/fetch.log", append = T)
+  } else {
+    titles <- page.source %>%
+      rvest::html_nodes(".rprt_img") %>%
+      rvest::html_node(xpath='..') %>%
+      rvest::html_node(".rprt_cont") %>%
+      rvest::html_node(".title") %>%
+      rvest::html_text() %>%
+      stringr::str_split("\\s+From: ", simplify = TRUE)
+    article_title <- titles[,2] %>% 
+      stringr::str_trim()
+    number <- page.source %>%
+      rvest::html_nodes(".rprt_img") %>%
+      rvest::html_node("img") %>%
+      rvest::html_attr("alt")
+    caption <- page.source %>%
+      rvest::html_nodes(".rprt_img") %>%
+      rvest::html_node(xpath = "..") %>%
+      rvest::html_node(".rprt_cont") %>%
+      rvest::html_node(".supp") %>%
+      rvest::html_text()
+    figure_link <- page.source %>%
+      rvest::html_nodes(".rprt_img") %>%
+      rvest::html_attr("image-link")
+    citation <- page.source %>%
+      rvest::html_nodes(".rprt_img") %>%
+      rvest::html_node(xpath='..') %>%
+      rvest::html_node(".rprt_cont") %>%
+      rvest::html_node(".aux") %>%
+      rvest::html_text() %>%
+      stringr::str_remove(stringr::fixed("CitationFull text"))
+    pmcid <- page.source %>%
+      rvest::html_nodes(".rprt_img") %>%
+      rvest::html_node(xpath='..') %>%
+      rvest::html_node(".rprt_cont") %>%
+      rvest::html_node(".title") %>%
+      rvest::html_node("a") %>%
+      rvest::html_attr("href") %>%
+      stringr::str_match("PMC\\d+") %>%
+      as.character()
+    
+    ## Extract best figure title from analysis of provided figure number, title and caption
+    temp.df <- data.frame(n = number, t = titles[, 1], c = caption, stringsAsFactors = FALSE) %>%
+      dplyr::mutate(t = str_trim(str_remove(
+        t, stringr::fixed(
+          as.character(
+            if_else(
+              number != "",
+              number,
+              "a string just to suppress the empty search patterns warning message"
+            )
+          )
+        )
+      ))) %>%
+      dplyr::mutate(t = str_trim(str_remove(
+        t,
+        "\\.$"
+      ))) %>%
+      dplyr::mutate(t = if_else(!is.na(str_match(t,"^\\. .*")[,1]),
+                         str_remove(t, "^\\. "), 
+                         t)) %>%
+      dplyr::mutate(c = str_trim(str_replace(
+        c,
+        "\\.\\.", "\\."
+      ))) %>%
+      dplyr::mutate(c = if_else(is.na(c), t, c)) %>%
+      dplyr::mutate(t = str_trim(str_remove(
+        t,
+        "\\.+$"
+      ))) %>%
+      dplyr::mutate(n = str_trim(str_replace(n, "\\.$", "")))
+    number <- as.character(temp.df[, 1])
+    figure_title <- as.character(temp.df[, 2])
+    caption <- as.character(temp.df[, 3])
+    
+    ## Prepare df and write to R.object and tsv
+    df <- data.frame(pmcid, image_filename, figure_link, number, figure_title, caption, article_title, citation) 
+    df <- unique(df)
+    
+    ## Log run
+    cat(paste("\n",nrow(df), "results"), file="figures/fetch.log", append = T)
+    
+    ## For each figure...
+    for (a in 1:nrow(df)){
+      # check exclude list
+      expmcids <- read.table(config$exclude_pmcids, sep = "\t", stringsAsFactors = F)[,1]
+      if (df[a,"pmcid"] %in% expmcids)
+        next
+      cat(sprintf("\nFigure %i of %i", a, nrow(df)))
+      
+      #slice of df from above
+      article.data <- df[a,]
+      
+      #################
+      ## MORE METADATA
+      #################
+      md.query <- paste0("https://www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi?verb=GetRecord&identifier=oai:pubmedcentral.nih.gov:",gsub("PMC","", article.data$pmcid),"&metadataPrefix=pmc_fm")
+      md.source <- xml2::read_html(md.query) 
+      doi <- md.source %>%
+        rvest::html_node(xpath=".//article-id[contains(@pub-id-type, 'doi')]") %>%
+        rvest::html_text()
+      journal_title <- md.source %>%
+        rvest::html_node(xpath=".//journal-title") %>%
+        rvest::html_text()
+      journal_nlm_ta <- md.source %>%
+        rvest::html_node(xpath=".//journal-id[contains(@journal-id-type, 'nlm-ta')]") %>%
+        rvest::html_text()
+      journal_iso_abbrev <- md.source %>%
+        rvest::html_node(xpath=".//journal-id[contains(@journal-id-type, 'iso-abbrev')]") %>%
+        rvest::html_text()
+      publisher_name <- md.source %>%
+        rvest::html_node(xpath=".//publisher-name") %>%
+        rvest::html_text()
+      keywords <- md.source %>% 
+        rvest::html_nodes(xpath=".//kwd") %>% 
+        purrr::map(~rvest::html_text(.)) %>%
+        unlist() %>% 
+        unique()
+      
+      md.data <- data.frame(doi,journal_title, journal_nlm_ta, publisher_name)
+      
+      #################
+      ## MAKE MEMORIES
+      #################
+      
+      ## write yml
+      fn <- paste(article.data$pmcid,
+                  gsub(".jpg$","",article.data$image_filename),
+                  sep = "__")
+      yml.path = file.path('figures',paste(fn, "yml", sep = "."))
+      write("---", yml.path, append = F)
+      write(yaml::as.yaml(article.data), yml.path, append = T)
+      write(yaml::as.yaml(md.data), yml.path, append = T)
+      write("keywords:", yml.path, append = T)
+      write(yaml::as.yaml(keywords), yml.path, append = T)
+      write("---", yml.path, append = T)
+      
+      ## download image from PMC, politely
+      img.from.path = paste0("https://www.ncbi.nlm.nih.gov/pmc/articles/",
+                             article.data$pmcid,
+                             "/bin/",article.data$image_filename)
+      img.to.path = file.path('figures',paste(fn, "jpg", sep = "."))
+      headers = c(
+        `user-agent` = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36'
+      )
+      res <- httr::GET(url = img.from.path, httr::add_headers(.headers=headers))
+      jpg <- jpeg::readJPEG(res$content)
+      jpeg::writeJPEG(jpg, img.to.path)
+      
+      #take a breath
+      Sys.sleep(0.5)
+    } #end for each figure
+  } # end if results on page 
+  
+  # Turn the page
+  if (i < page.count-1){
+    next.page.button <- remDr$findElement(using = "xpath", "//*[@class='active page_link next']")
+    next.page.button$clickElement()
+    #remDr$screenshot(display = TRUE)
+    Sys.sleep(1)
+  }
+} #end for each page
 
 ## log last_run
 config$last_run <- to.date
-# config$last_run <- format(Sys.Date(), "%Y/%m/%d")
 yaml::write_yaml(config, "query_config.yml")
 
-## check for results
-if(!length(image_filename) > 0){
-  cat("\n0 results", file="figures/fetch.log", append = T)
-} else {
-  titles <- page.source %>%
-    rvest::html_nodes(".rprt_img") %>%
-    rvest::html_node(xpath='..') %>%
-    rvest::html_node(".rprt_cont") %>%
-    rvest::html_node(".title") %>%
-    rvest::html_text() %>%
-    stringr::str_split("\\s+From: ", simplify = TRUE)
-  article_title <- titles[,2] %>% 
-    stringr::str_trim()
-  number <- page.source %>%
-    rvest::html_nodes(".rprt_img") %>%
-    rvest::html_node("img") %>%
-    rvest::html_attr("alt")
-  caption <- page.source %>%
-    rvest::html_nodes(".rprt_img") %>%
-    rvest::html_node(xpath = "..") %>%
-    rvest::html_node(".rprt_cont") %>%
-    rvest::html_node(".supp") %>%
-    rvest::html_text()
-  figure_link <- page.source %>%
-    rvest::html_nodes(".rprt_img") %>%
-    rvest::html_attr("image-link")
-  citation <- page.source %>%
-    rvest::html_nodes(".rprt_img") %>%
-    rvest::html_node(xpath='..') %>%
-    rvest::html_node(".rprt_cont") %>%
-    rvest::html_node(".aux") %>%
-    rvest::html_text() %>%
-    stringr::str_remove(fixed("CitationFull text"))
-  pmcid <- page.source %>%
-    rvest::html_nodes(".rprt_img") %>%
-    rvest::html_node(xpath='..') %>%
-    rvest::html_node(".rprt_cont") %>%
-    rvest::html_node(".title") %>%
-    rvest::html_node("a") %>%
-    rvest::html_attr("href") %>%
-    stringr::str_match("PMC\\d+") %>%
-    as.character()
-  
-  ## Extract best figure title from analysis of provided figure number, title and caption
-  temp.df <- data.frame(n = number, t = titles[, 1], c = caption, stringsAsFactors = FALSE) %>%
-    mutate(t = str_trim(str_remove(
-      t, fixed(
-        as.character(
-          if_else(
-            number != "",
-            number,
-            "a string just to suppress the empty search patterns warning message"
-          )
-        )
-      )
-    ))) %>%
-    mutate(t = str_trim(str_remove(
-      t,
-      "\\.$"
-    ))) %>%
-    mutate(t = if_else(!is.na(str_match(t,"^\\. .*")[,1]),
-                       str_remove(t, "^\\. "), 
-                       t)) %>%
-    mutate(c = str_trim(str_replace(
-      c,
-      "\\.\\.", "\\."
-    ))) %>%
-    mutate(c = if_else(is.na(c), t, c)) %>%
-    mutate(t = str_trim(str_remove(
-      t,
-      "\\.+$"
-    ))) %>%
-    mutate(n = str_trim(str_replace(n, "\\.$", "")))
-  number <- as.character(temp.df[, 1])
-  figure_title <- as.character(temp.df[, 2])
-  caption <- as.character(temp.df[, 3])
-  
-  ## Prepare df and write to R.object and tsv
-  df <- data.frame(pmcid, image_filename, figure_link, number, figure_title, caption, article_title, citation) 
-  df <- unique(df)
-  
-  ## Log run
-  cat(paste("\n",nrow(df), "results"), file="figures/fetch.log", append = T)
-  
-  ## For each figure...
-  for (a in 1:nrow(df)){
-    # check exclude list
-    expmcids <- read.table(config$exclude_pmcids, sep = "\t", stringsAsFactors = F)[,1]
-    if (df[a,"pmcid"] %in% expmcids)
-      next
-    
-    #slice of df from above
-    article.data <- df[a,]
-    
-    #################
-    ## MORE METADATA
-    #################
-    md.query <- paste0("https://www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi?verb=GetRecord&identifier=oai:pubmedcentral.nih.gov:",gsub("PMC","", article.data$pmcid),"&metadataPrefix=pmc_fm")
-    md.source <- xml2::read_html(md.query) 
-    doi <- md.source %>%
-      rvest::html_node(xpath=".//article-id[contains(@pub-id-type, 'doi')]") %>%
-      rvest::html_text()
-    journal_title <- md.source %>%
-      rvest::html_node(xpath=".//journal-title") %>%
-      rvest::html_text()
-    journal_nlm_ta <- md.source %>%
-      rvest::html_node(xpath=".//journal-id[contains(@journal-id-type, 'nlm-ta')]") %>%
-      rvest::html_text()
-    journal_iso_abbrev <- md.source %>%
-      rvest::html_node(xpath=".//journal-id[contains(@journal-id-type, 'iso-abbrev')]") %>%
-      rvest::html_text()
-    publisher_name <- md.source %>%
-      rvest::html_node(xpath=".//publisher-name") %>%
-      rvest::html_text()
-    keywords <- md.source %>% 
-      rvest::html_nodes(xpath=".//kwd") %>% 
-      purrr::map(~rvest::html_text(.)) %>%
-      unlist() %>% 
-      unique()
-    
-    md.data <- data.frame(doi,journal_title, journal_nlm_ta, publisher_name)
-    
-    #################
-    ## MAKE MEMORIES
-    #################
-    
-    ## write yml
-    fn <- paste(article.data$pmcid,
-                gsub(".jpg$","",article.data$image_filename),
-                sep = "__")
-    yml.path = file.path('figures',paste(fn, "yml", sep = "."))
-    write("---", yml.path, append = F)
-    write(yaml::as.yaml(article.data), yml.path, append = T)
-    write(yaml::as.yaml(md.data), yml.path, append = T)
-    write("keywords:", yml.path, append = T)
-    write(yaml::as.yaml(keywords), yml.path, append = T)
-    write("---", yml.path, append = T)
-    
-    ## download image from PMC, politely
-    img.from.path = paste0("https://www.ncbi.nlm.nih.gov/pmc/articles/",
-                           article.data$pmcid,
-                           "/bin/",article.data$image_filename)
-    img.to.path = file.path('figures',paste(fn, "jpg", sep = "."))
-    headers = c(
-      `user-agent` = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36'
-    )
-    res <- httr::GET(url = img.from.path, httr::add_headers(.headers=headers))
-    jpg <- jpeg::readJPEG(res$content)
-    jpeg::writeJPEG(jpg, img.to.path)
-  }
-}
+## Close up shop
+remDr$closeall()
+
