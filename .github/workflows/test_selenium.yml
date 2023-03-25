@@ -28,6 +28,3 @@ jobs:
 
     - name: Run R Script to Scrape HTML Pages
       run: Rscript scripts/test_selenium.R
-      env:
-        SELENIUM_BROWSER: firefox
-        SELENIUM_REMOTE_URL: "localhost"
