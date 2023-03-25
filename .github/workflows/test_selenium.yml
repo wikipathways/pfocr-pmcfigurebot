@@ -30,4 +30,4 @@ jobs:
       run: Rscript scripts/test_selenium.R
       env:
         SELENIUM_BROWSER: firefox
-        SELENIUM_REMOTE_URL: "http://selenium:4445/wd/hub"
+        SELENIUM_REMOTE_URL: "localhost"
