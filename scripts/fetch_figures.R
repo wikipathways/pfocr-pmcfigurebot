@@ -304,7 +304,7 @@ for (i in 1:page.count){
 cat(paste("\n",res.fig.count," new figures total"), file="figures/fetch.log", append = T)
 
 ## log last_run
-config$last_run <- format(as.Date(from.date) - months(1), "%Y/%m/%d")
+config$last_run <- format(as.Date(from.date) + months(1), "%Y/%m/%d")
 yaml::write_yaml(config, "query_config.yml")
 
 ## Close up shop
