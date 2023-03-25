@@ -55,15 +55,12 @@ if (length(query.terms) > 1){
 #date
 query.date <- ""
 from.date <- format(Sys.Date() - months(1), "%Y/%m/%d")
-to.date <- "3000/01/01"
+to.date <- "3000/01/01" #always try to get latest; also, end dates can return odd results
 if (is.null(config$date_range)){
   if (!is.null(config$last_run)){
     from.date <- config$last_run
-    if (as.Date(from.date) > Sys.Date())
-      stop("Invalid date range. Attempted to use last_run as start of range.")
-    to.date <- format(as.Date(from.date) + months(1), "%Y/%m/%d")
-    if (as.Date(to.date) > Sys.Date())
-      to.date <- "3000/01/01"
+    if (as.Date(from.date) + months(1) > Sys.Date()) #repeat fetch including prior month
+      from.date <- format(as.Date(from.date) - months(1), "%Y/%m/%d")
   }
   query.date <- paste0(from.date,"[PUBDATE]+%3A+",to.date,"[PUBDATE]")
 } else {
