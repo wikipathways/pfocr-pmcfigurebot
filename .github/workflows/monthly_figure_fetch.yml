@@ -3,7 +3,7 @@ name: Fetch pathway figures and metadata
 on:
   workflow_dispatch:
   schedule:
-  - cron: "0 0 1 * *"
+  - cron: "0 0 * * 0" #Runs at 00:00, only on Sunday. 
   
 jobs:
   scrape:
