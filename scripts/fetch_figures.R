@@ -106,7 +106,7 @@ page.count <- xml2::read_html(remDr$getPageSource()[[1]]) %>%
   rvest::html_attr("page")
 page.count <- as.integer(page.count[4])
 
-cat(paste("\n",page.count," pages of results", file="figures/fetch.log", append = T)
+cat(paste("\n",page.count," pages of results"), file="figures/fetch.log", append = T)
 
 res.fig.count <- 0
 
