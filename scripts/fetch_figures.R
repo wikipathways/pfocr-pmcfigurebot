@@ -1,4 +1,38 @@
+## fetch figures and metadata from PMC
+
+## NOTE: query qualifier for figure captions [CAPT] is clearly broken and only hits on a fraction of caption titles.
+##  the "imagesdocsum" report type does a better job of actually searching captions, e.g.:
+# https://www.ncbi.nlm.nih.gov/pmc/?term=(signaling+pathway)+AND+(2019+[pdat])&report=imagesdocsum&dispmax=100 
+## (11349 hits with "signaling pathway" in every caption title or caption body)
+# https://www.ncbi.nlm.nih.gov/pmc/?term=(signaling+pathway[CAPT])+AND+(2019+[pdat])&report=imagesdocsum&dispmax=100
+## (244 hits with "signaling pathway" ONLY in caption titles)
+# https://www.ncbi.nlm.nih.gov/pmc/?term=(signaling+pathway[CAPT])+AND+(2019+[pdat])
+## (2775 hits when "report=imagesdocsum" is excluded)
+
+## NOTE: the imagesdocsum" report is not supported by NCBI's eutils, so we'll have to go with HTML scraping. 
+##  The pagination of pmc output is not apparent, however...
+
+## Example queries for what is possible
+# https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=asthma[mesh]+AND+leukotrienes[mesh]+AND+2009[pdat]&usehistory=y&retmax=500&retStart=0
+# https://www.ncbi.nlm.nih.gov/pmc/?term=signaling+pathway+AND+2018+[pdat]&report=imagesdocsum&dispmax=100
+# https://www.ncbi.nlm.nih.gov/pmc/?term=((((((((((signaling+pathway)+OR+regulatory+pathway)+OR+disease+pathway)+OR+drug+pathway)+OR+metabolic+pathway)+OR+biosynthetic+pathway)+OR+synthesis+pathway)+OR+cancer+pathway)+OR+response+pathway)+OR+cycle+pathway)+AND+(\%222019/01/01\%22[PUBDATE]+%3A+\%223000\%22[PUBDATE])&report=imagesdocsum&dispmax=100#
+## Network query:
+# https://www.ncbi.nlm.nih.gov/pmc/?term=((network)+OR+PPI)+AND+(%222019/01/01%22[PUBDATE]+%3A+%223000%22[PUBDATE])&report=imagesdocsum&dispmax=100
+## WikiPathways social media post:
+# https://www.ncbi.nlm.nih.gov/pmc/?term=(wikipathways+OR+pathvisio)+AND+(%222022/10/01%22[PUBDATE]+%3A+%223000/01/01%22[PUBDATE])&report=imagesdocsum&dispmax=100
+
+library(utils)
+library(rvest)
+library(xml2)
+library(purrr)
+library(yaml)
+library(httr)
+library(jpeg)
+library(lubridate) #for -months() operation
 library(RSelenium)
+library(dplyr)
+library(magrittr)
+library(stringr)
 
 # Set up the remote web driver using Selenium/standalone-firefox
 remDr <- remoteDriver(
@@ -55,7 +89,7 @@ query.url <- paste0("https://www.ncbi.nlm.nih.gov/pmc/?",
                     "&dispmax=100")
 # log it
 cat(query.url, file="figures/fetch.log")
-cat(paste("\n", query.date,"\n"), file="figures/fetch.log", append = T)
+cat(paste("\n", query.date), file="figures/fetch.log", append = T)
 
 ##############
 ## SCRAPE PMC 
@@ -72,7 +106,7 @@ page.count <- xml2::read_html(remDr$getPageSource()[[1]]) %>%
   rvest::html_attr("page")
 page.count <- as.integer(page.count[4])
 
-cat(paste("\n",page.count," pages of results\n", file="figures/fetch.log", append = T)
+cat(paste("\n",page.count," pages of results", file="figures/fetch.log", append = T)
 
 res.fig.count <- 0
 
