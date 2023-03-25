@@ -1,0 +1,28 @@
+name: Selenium Scrape
+
+on:
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Start Selenium Standalone Firefox
+      uses: selenium/actions/start-standalone-firefox@v1
+
+    - name: Install R
+      uses: r-lib/actions/setup-r@v1
+      with:
+        r-version: '4.1.0'
+
+    - name: Install RSelenium
+      run: Rscript -e 'install.packages("RSelenium", repos = "http://cran.rstudio.com/")'
+
+    - name: Run R Script to Scrape HTML Pages
+      run: Rscript scripts/test_selenium.R
+      env:
+        SELENIUM_BROWSER: firefox
+        SELENIUM_REMOTE_URL: "http://localhost:4444/wd/hub"
