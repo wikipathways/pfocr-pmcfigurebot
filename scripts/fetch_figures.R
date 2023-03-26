@@ -256,7 +256,12 @@ for (i in 1:page.count){
       write(yaml::as.yaml(article.data), yml.path, append = T)
       write(yaml::as.yaml(md.data), yml.path, append = T)
       write("keywords:", yml.path, append = T)
-      write(yaml::as.yaml(keywords), yml.path, append = T)
+      if(length(keywords)>1){ # as.yaml makes list
+        write(yaml::as.yaml(keywords), yml.path, append = T)
+      } else if (length(keywords)==1) { # manually make list of one
+        write(paste("-",yaml::as.yaml(keywords)), yml.path, append = T)
+      } else { #leave empty
+      }
       write("---", yml.path, append = T)
       
       ## download image from PMC, politely
