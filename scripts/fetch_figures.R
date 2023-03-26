@@ -244,7 +244,8 @@ for (i in 1:page.count){
         unique() %>%
         trimws()
       
-      md.data <- data.frame(doi,journal_title, journal_nlm_ta, publisher_name)
+      md.data <- data.frame(doi,journal_title, journal_nlm_ta, publisher_name) %>%
+        mutate_all(~if_else(is.na(.), "", as.character(.)))      
       
       #################
       ## MAKE MEMORIES
