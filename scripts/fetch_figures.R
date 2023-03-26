@@ -97,6 +97,7 @@ page.count <- as.integer(page.count[4])
 
 cat(paste("\n",page.count," pages of results"), file="figures/fetch.log", append = T)
 
+expmcids <- read.table(config$exclude_pmcids, sep = "\t", stringsAsFactors = F)[,1]
 res.fig.count <- 0
 
 for (i in 1:page.count){
@@ -201,7 +202,6 @@ for (i in 1:page.count){
     ## For each figure...
     for (a in 1:nrow(df)){
       # check exclude list
-      expmcids <- read.table(config$exclude_pmcids, sep = "\t", stringsAsFactors = F)[,1]
       if (df[a,"pmcid"] %in% expmcids)
         next
       cat(sprintf("\nFigure %i of %i (%i)", a, nrow(df),res.fig.count+1))
@@ -271,12 +271,11 @@ for (i in 1:page.count){
       }
       
       #record pmicd
-      expmcids <- c(expmcids,article.data$pmcid)
-      write.table(expmcids,config$exclude_pmcids, sep = "\t", row.names = F, col.names = F)
+      expmcids.add <- c(expmcids,article.data$pmcid)
       
       #increment counters
-      page.fig.count = page.fig.count+1
-      res.fig.count = res.fig.count+1
+      page.fig.count <- page.fig.count+1
+      res.fig.count <- res.fig.count+1
       
       #take a breath
       Sys.sleep(1)
@@ -284,7 +283,7 @@ for (i in 1:page.count){
     } # end for each figure
     
     ## Log results per page
-    cat(paste("\n",nrow(df), "results (",page.fig.count," new figures)"), file="figures/fetch.log", append = T)
+    cat(sprintf("\n%i results (%i new figures)", nrow(df),page.fig.count), file="figures/fetch.log", append = T)
     
   } # end if results on page 
   
@@ -298,11 +297,14 @@ for (i in 1:page.count){
 } #end for each page
 
 ## Log final results 
-cat(paste("\n",res.fig.count," new figures total"), file="figures/fetch.log", append = T)
+cat(sprintf("\n%i new figures total",res.fig.count), file="figures/fetch.log", append = T)
 
 ## log last_run
 config$last_run <- format(as.Date(from.date) + months(1), "%Y/%m/%d")
 yaml::write_yaml(config, "query_config.yml")
+
+## update pmcid exclude list
+write.table(expmcids,config$exclude_pmcids, sep = "\t", row.names = F, col.names = F)
 
 ## Close up shop
 remDr$close()
