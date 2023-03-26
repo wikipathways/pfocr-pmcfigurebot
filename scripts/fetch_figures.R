@@ -69,6 +69,8 @@ if (is.null(config$date_range)){
     query.date <- paste(query.date, collapse = "[PUBDATE]+%3A+")
     query.date <- paste0(query.date , "[PUBDATE]")
   }
+  #extract from.date to be used later
+  from.date <- stringr::str_extract(query.date, "\\d{4}/\\d{2}/\\d{2}")
 }
 term.arg <- paste0("term=(",query.terms,")+AND+(",query.date,")")
 query.url <- paste0("https://www.ncbi.nlm.nih.gov/pmc/?",
@@ -97,7 +99,7 @@ page.count <- as.integer(page.count[4])
 
 cat(paste("\n",page.count," pages of results"), file="figures/fetch.log", append = T)
 
-expmcids <- read.table(config$exclude_pmcids, sep = "\t", stringsAsFactors = F)[,1]
+exfigids <- read.table(config$exclude_figids, sep = "\t", stringsAsFactors = F)[,1]
 res.fig.count <- 0
 
 for (i in 1:page.count){
@@ -193,8 +195,14 @@ for (i in 1:page.count){
     figure_title <- as.character(temp.df[, 2])
     caption <- as.character(temp.df[, 3])
     
+    ## Construct a few more fields
+    figid <- paste(pmcid, sub(".jpg$", "", image_filename), sep = "__")
+    year <- rep(substr(from.date,1,4), length(image_filename)) # if not in citation
+    cit.year <- stringr::str_extract(citation, "(?<=\\s)\\d{4}") # try citation
+    year <- ifelse(!is.na(cit.year), cit.year, year) # keep citation if found
+
     ## Prepare df and write to R.object and tsv
-    df <- data.frame(pmcid, image_filename, figure_link, number, figure_title, caption, article_title, citation) 
+    df <- data.frame(figid, pmcid, image_filename, figure_link, number, figure_title, caption, article_title, citation, year) 
     df <- unique(df)
     
     page.fig.count <- 0
@@ -202,7 +210,7 @@ for (i in 1:page.count){
     ## For each figure...
     for (a in 1:nrow(df)){
       # check exclude list
-      if (df[a,"pmcid"] %in% expmcids)
+      if (df[a,"figid"] %in% exfigids)
         next
       cat(sprintf("\nFigure %i of %i (%i)", a, nrow(df),res.fig.count+1))
         
@@ -233,7 +241,8 @@ for (i in 1:page.count){
         rvest::html_nodes(xpath=".//kwd") %>% 
         purrr::map(~rvest::html_text(.)) %>%
         unlist() %>% 
-        unique()
+        unique() %>%
+        trimws()
       
       md.data <- data.frame(doi,journal_title, journal_nlm_ta, publisher_name)
       
@@ -242,10 +251,7 @@ for (i in 1:page.count){
       #################
       
       ## write yml
-      fn <- paste(article.data$pmcid,
-                  gsub(".jpg$","",article.data$image_filename),
-                  sep = "__")
-      yml.path = file.path('figures',paste(fn, "yml", sep = "."))
+      yml.path = file.path('figures',paste(article.data$figid, "yml", sep = "."))
       write("---", yml.path, append = F)
       write(yaml::as.yaml(article.data), yml.path, append = T)
       write(yaml::as.yaml(md.data), yml.path, append = T)
@@ -271,7 +277,7 @@ for (i in 1:page.count){
       }
       
       #record pmicd
-      expmcids.add <- c(expmcids,article.data$pmcid)
+      exfigids.add <- c(exfigids,article.data$figid)
       
       #increment counters
       page.fig.count <- page.fig.count+1
@@ -303,8 +309,8 @@ cat(sprintf("\n%i new figures total",res.fig.count), file="figures/fetch.log", a
 config$last_run <- format(as.Date(from.date) + months(1), "%Y/%m/%d")
 yaml::write_yaml(config, "query_config.yml")
 
-## update pmcid exclude list
-write.table(expmcids,config$exclude_pmcids, sep = "\t", row.names = F, col.names = F)
+## update figid exclude list
+write.table(exfigids,config$exclude_figids, sep = "\t", row.names = F, col.names = F)
 
 ## Close up shop
 remDr$close()
