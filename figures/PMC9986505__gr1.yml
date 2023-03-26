@@ -1,0 +1,61 @@
+---
+pmcid: PMC9986505
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC9986505/figure/fig1/
+number: Fig. 1
+figure_title: ''
+caption: 'Schematic representation of the PHENSIM Drug repurposing Strategy. Outline
+  for our approach to acquire a cell-specific viral signature in silico and formulate
+  repurposing hypotheses: (a) first, logFold Changes (logFCs) of Differentially Expressed
+  Genes (DEGs) arising from transcriptomic genome wide expression analysis of infected
+  vs. baseline uninfected cells are used to represent a virus in the meta-pathway;
+  (b) then, we run the PHENSIM simulation by upregulating the viral node; (c) therefore,
+  we collect all perturbation values computed by PHENSIM for pathway endpoints to
+  define a cell-specific pathogen signature. (d) The same process is applied to expression
+  data arising from whole transcriptome-wide expression analysis of treated vs. mock-treated
+  cell lines, (e) to perform a PHENSIM simulation of the drug activity, (f) yielding
+  a cell-specific drug signature. (g) Thus, this process is iterated for each drug
+  we wish to test and collected in a database of drug signatures. (h) Finally, a Pearson
+  correlation analysis between the pathogen and each drug signature is used to score
+  repurposing candidates, yielding hypothesis for further laboratory tests. In panels
+  (a) and (d), we report upregulated DEGs in red and downregulated ones in blue. In
+  panels (c), (f), and (g), we report positively perturbated endpoints in green and
+  negatively perturbated endpoints in blue. Finally, in panel (h), negative correlation
+  (reported in green) predicts promising drug candidates that inhibit the pathogen
+  signature and positive correlation (reported in red) suggests exacerbation of the
+  viral signature when introducing the drug.'
+article_title: Application of the PHENotype SIMulator for rapid identification of
+  potential candidates in effective COVID-19 drug repurposing.
+citation: Naomi I. Maria, et al. Heliyon. 2023 Mar 6 ;9(3):e14115.
+
+doi: 10.1016/j.heliyon.2023.e14115
+journal_title: Heliyon
+journal_nlm_ta: Heliyon
+publisher_name: Elsevier
+
+keywords:
+- COVID-19
+- Drug repurposing
+- Systems biology
+- Cellular simulation models
+- Cellular SARS-CoV-2 signatures
+- Cellular host-immune response
+- PHENSIM, PHENotype SIMulator
+- SARS-CoV-2, Severe acute respiratory syndrome coronavirus 2
+- COVID-19, Coronavirus disease 2019
+- DEGs, Differentially Expressed Genes
+- ACE2, Angiotensin-converting enzyme 2
+- IFN, Interferon
+- NHBE, Normal human bronchial epithelial cells
+- MOI, Multiplicity of infection
+- ISGs, IFN-stimulated genes
+- MITHrIL, Mirna enrIched paTHway Impact anaLysis
+- TLR, Toll-like Receptor
+- Calu-3, Epithelial cell line
+- Caco-2, Human colon epithelial carcinoma cell line
+- DEPs, Differentially expressed proteins
+- HCQ-CQ, (Hydroxy)chloroquine
+- 2DG, 2-Deoxy-Glucose
+- MP, Methylprednisolone
+
+---

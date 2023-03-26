@@ -1,0 +1,54 @@
+---
+pmcid: PMC9986505
+image_filename: ga1.jpg
+figure_link: /pmc/articles/PMC9986505/figure/undfig1/
+number: ''
+figure_title: Figure
+caption: 'Application of the PHENotype SIMulator: By modeling human host-cell infection
+  with a pathogen in silico - in this case SARS-CoV-2 - we can acquire a cell-specific
+  viral signature and formulate multiple drug repurposing hypotheses; (I) logFold
+  Changes (logFCs) of Differentially Expressed Genes (DEGs) arising from transcriptomic
+  genome wide expression analysis of infected vs. baseline uninfected cells are used
+  to represent a virus in the meta-pathway; (II) we run the PHENSIM simulation by
+  upregulating the viral node and collect all perturbation values computed by PHENSIM
+  for pathway endpoints to define a cell-specific pathogen signature. (III) The same
+  process is applied to expression data arising from whole transcriptome-wide expression
+  analysis of drug treated vs. mock-treated cell lines, yielding a cell-specific drug
+  signature. This process is iterated for each drug we wish to test and collected
+  in a database of drug signatures. (IV) Finally, a Pearson correlation analysis between
+  the pathogen and each drug signature is utilized to score repurposing candidates.'
+article_title: Application of the PHENotype SIMulator for rapid identification of
+  potential candidates in effective COVID-19 drug repurposing.
+citation: Naomi I. Maria, et al. Heliyon. 2023 Mar 6 ;9(3):e14115.
+
+doi: 10.1016/j.heliyon.2023.e14115
+journal_title: Heliyon
+journal_nlm_ta: Heliyon
+publisher_name: Elsevier
+
+keywords:
+- COVID-19
+- Drug repurposing
+- Systems biology
+- Cellular simulation models
+- Cellular SARS-CoV-2 signatures
+- Cellular host-immune response
+- PHENSIM, PHENotype SIMulator
+- SARS-CoV-2, Severe acute respiratory syndrome coronavirus 2
+- COVID-19, Coronavirus disease 2019
+- DEGs, Differentially Expressed Genes
+- ACE2, Angiotensin-converting enzyme 2
+- IFN, Interferon
+- NHBE, Normal human bronchial epithelial cells
+- MOI, Multiplicity of infection
+- ISGs, IFN-stimulated genes
+- MITHrIL, Mirna enrIched paTHway Impact anaLysis
+- TLR, Toll-like Receptor
+- Calu-3, Epithelial cell line
+- Caco-2, Human colon epithelial carcinoma cell line
+- DEPs, Differentially expressed proteins
+- HCQ-CQ, (Hydroxy)chloroquine
+- 2DG, 2-Deoxy-Glucose
+- MP, Methylprednisolone
+
+---

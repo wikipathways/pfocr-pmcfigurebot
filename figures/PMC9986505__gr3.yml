@@ -1,0 +1,66 @@
+---
+pmcid: PMC9986505
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9986505/figure/fig3/
+number: Fig. 3
+figure_title: ''
+caption: 'PHENSIM proteomic pathway analysis in SARS-CoV-2-infected human host cells.
+  PHENSIM pathway analysis of the Caco-2 cell experiment was simulated in silico to
+  reproduce in vitro results presented by Bojkova et al. at the 24 h time-point post
+  SARS-CoV-2 infection A) Schematic representation depicting the experimental design
+  as described by Bojkova et al. in vitro: the human colon epithelial carcinoma cell
+  line, Caco-2 cells, were infected and monitored for 24hrs post SARS-CoV-2 infection.
+  Naturally occurring heavy isotype SILAC labelling was used to quantify translational
+  changes, as this method does not affect cellular behavior allowing for unbiased
+  pathway analysis. Quantitative translation and whole cell proteomics by LC-MS/MS
+  was performed []. B&C) Heatmaps depicting a representative subset of the 30 top
+  differentially expressed proteins (FDR<0.05) involved in viral infection after 24hr
+  SARS-CoV-2 infection B) as predicted by PHENSIM in silico (right column, solid squares),
+  compared to expression results as determined by Bojkova et al. (left column, checkered
+  squares) and C) as described by Bojkova et al. (left column, checkered) with side-by-side
+  PHENSIM expression prediction for that protein (right column, solid). D) The heatmap
+  shows the perturbation, as computed by PHENSIM, for a selection signaling pathways
+  described as significant by Bojkova et al. in their analysis. E) The heatmap depicts
+  the Top 50 pathways (25 Up- and 25 Down-regulated) significantly affected at 24h
+  post infection, hence with p-value ≤ 0.05, according to PHENSIM prediction. In this
+  case the Activity Score was taken into account. Color gradient reflects PHENSIM
+  activity; the value of the activity score attributed to each pathway from blue (downregulation)
+  to red (maximum upregulation). Caco-2; the human colon epithelial carcinoma cell
+  line, SILAC; Stable Isotype Labeling by Amino Acids in Cell culture, LC-MS/MS; Liquid
+  chromatography mass spectrometry, DEPs; Differentially expressed proteins, Max;
+  maximum.'
+article_title: Application of the PHENotype SIMulator for rapid identification of
+  potential candidates in effective COVID-19 drug repurposing.
+citation: Naomi I. Maria, et al. Heliyon. 2023 Mar 6 ;9(3):e14115.
+
+doi: 10.1016/j.heliyon.2023.e14115
+journal_title: Heliyon
+journal_nlm_ta: Heliyon
+publisher_name: Elsevier
+
+keywords:
+- COVID-19
+- Drug repurposing
+- Systems biology
+- Cellular simulation models
+- Cellular SARS-CoV-2 signatures
+- Cellular host-immune response
+- PHENSIM, PHENotype SIMulator
+- SARS-CoV-2, Severe acute respiratory syndrome coronavirus 2
+- COVID-19, Coronavirus disease 2019
+- DEGs, Differentially Expressed Genes
+- ACE2, Angiotensin-converting enzyme 2
+- IFN, Interferon
+- NHBE, Normal human bronchial epithelial cells
+- MOI, Multiplicity of infection
+- ISGs, IFN-stimulated genes
+- MITHrIL, Mirna enrIched paTHway Impact anaLysis
+- TLR, Toll-like Receptor
+- Calu-3, Epithelial cell line
+- Caco-2, Human colon epithelial carcinoma cell line
+- DEPs, Differentially expressed proteins
+- HCQ-CQ, (Hydroxy)chloroquine
+- 2DG, 2-Deoxy-Glucose
+- MP, Methylprednisolone
+
+---
