@@ -269,7 +269,7 @@ for (i in 1:page.count){
       img.from.path = paste0("https://www.ncbi.nlm.nih.gov/pmc/articles/",
                              article.data$pmcid,
                              "/bin/",article.data$image_filename)
-      img.to.path = file.path('figures',paste(fn, "jpg", sep = "."))
+      img.to.path = file.path('figures',paste(article.data$figid, "jpg", sep = "."))
       headers = c(
         `user-agent` = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36'
       )
