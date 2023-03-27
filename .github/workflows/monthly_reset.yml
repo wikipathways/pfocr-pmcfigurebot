@@ -1,4 +1,4 @@
-name: Trigger figure fetch
+name: Reset figure fetch
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
   - cron: "0 0 1 * *" #Runs at 0:00 on the first of each month. 
   
 jobs:
-  trigger-figure-fetch:
+  reset-figure-fetch:
     runs-on: ubuntu-latest
 
     steps:
