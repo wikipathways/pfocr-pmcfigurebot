@@ -1,0 +1,59 @@
+---
+figid: PMC9117543__gr2
+pmcid: PMC9117543
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC9117543/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: RNA-Seq analysis of old and iron-overload mice.A, distribution of the KEGG
+  pathways at level 2 in the livers of old mice and iron-overload mice induced by
+  iron dextran, respectively. The bar chart showed the numbers of sequences within
+  different pathway categories. CK, control group; HI, iron overload group; OLD, old
+  group (n = 3). B, Venn diagram illustrating the extent of overlap among the differentially
+  expressed genes (DEGs) observed in each group. The 450 genes regulated in the iron-overload
+  mice significantly overlapped with the same genes in old mice (upper). Venn diagram
+  for upregulated genes or downregulated genes among the overlapped 450 genes was
+  shown (down). C, heatmap representation of 450 overlapping genes in old and iron-overload
+  mice. D, KEGG significant enrichment analysis for the aging pathway. Top 20 most
+  significantly altered pathways in aging pathway mapped with downregulated DEGs and
+  upregulated DEGs in HI group compared with CK group (left). Top 20 most significantly
+  altered pathways in aging pathway mapped with downregulated DEGs and upregulated
+  DEGs in OLD group compared to CK group (right). Red bars indicated the same changed
+  pathways related to oxidative stress between HI and OLD groups. E, real-time PCR
+  analysis for mRNA expression of genes related to oxidative stress in old and iron-overload
+  mice. CK, control group; HI, iron-overload group; OLD, old group; YNG, young group.
+  All data are expressed as the means ± SD (∗p < 0.05, ∗∗p < 0.01, n = 5). Four-week-old
+  male C57BL/6 mice were used to induce iron overload by i.p. injection of iron dextran
+  (5 mg/mouse/day) twice a week for 3 weeks, and mice were sacrificed 1 week after
+  the last injection. And 64-week-old male mice were used for the old group. KEGG,
+  Kyoto Encyclopedia of Genes and Genomes.
+article_title: Iron accumulation with age alters metabolic pattern and circadian clock
+  gene expression through the reduction of AMP-modulated histone methylation.
+citation: Junhao Liu, et al. J Biol Chem. 2022 Jun;298(6):101968.
+year: '2022'
+
+doi: 10.1016/j.jbc.2022.101968
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- aging
+- iron metabolism
+- circadian clock
+- metabolism
+- histone methylation
+- bw, body weight
+- CAT, catalase
+- ChIP, chromatin immunoprecipitation
+- DAB, diaminobenzidine
+- DEG, differentially expressed gene
+- DMEM, Dulbecco's modified Eagle's medium
+- FBS, fetal bovine serum
+- KEGG, Kyoto Encyclopedia of Genes and Genomes
+- OPLS-DA, orthogonal partial least squares discriminant analysis
+- RBC, red blood cell
+- ROS, reactive oxygen species
+- Tf, transferrin
+
+---

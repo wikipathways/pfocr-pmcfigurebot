@@ -1,0 +1,41 @@
+---
+figid: PMC8975597__gr1
+pmcid: PMC8975597
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC8975597/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: 'pIC priming enhances antiviral and immunomodulatory transcriptomic profile
+  of MSCs(A) Volcano plot shows differentially expressed genes (log2 fold change >1
+  or < −1 and adjusted p value <0.05) with 794 genes upregulated (red) and 195 downregulated
+  (blue); NS: nonsignificant change (gray). Each dot represents one gene.(B) Ingenuity
+  Pathway Analysis of the differential expressed genes dataset showed the most significant
+  canonical pathways, molecules, diseases, and functions. Blue icon: negative Z score
+  (predicts inhibition); orange icons: positive Z score (predict activation).(C) Relevant
+  Gene Ontology terms for the top 50 upregulated (red) and downregulated (blue) genes
+  in pIC-MSCs compared with unprimed MSCs.(D) Heatmaps of unsupervised clustering
+  show gene expression (normalized counts) of Ctrl-MSCs and pIC-MSCs, illustrating
+  the variation of genes (each row) annotated for immune or antiviral response. Each
+  column represents MSCs derived from one bone marrow donor, with a total of three
+  donors.(E) Protein-protein interaction network shows top 25 upregulated protein-coding
+  genes in pIC-MSCs (cluster [k-means] numbers estimated to 3). The thickness of the
+  network edge line indicates the strength of publicly available data that support
+  the specific interaction, with the thicker line indicating stronger evidence support.(F)
+  Heatmap showing upregulated genes in pIC-MSCs coded for secreted antiviral proteins.
+  For RNA-seq, n = 3 biological replicates.'
+article_title: Poly(I:C) enhances mesenchymal stem cell control of myeloid cells from
+  COVID-19 patients.
+citation: Luciana Souza-Moreira, et al. iScience. 2022 May 20;25(5):104188.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.104188
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Immunology
+- Virology
+- Stem cells research
+
+---

@@ -1,0 +1,59 @@
+---
+figid: PMC9433731__ddac076f6
+pmcid: PMC9433731
+image_filename: ddac076f6.jpg
+figure_link: /pmc/articles/PMC9433731/figure/f12/
+number: Figure 6
+figure_title: ''
+caption: Caspar’s ability to restrain age-dependent inflammation can delay the onset
+  of disease, and this ability is independent of its interaction with VAP. (A) Mutations
+  in the FFAT-like motif lead to disruption of the VAP:Caspar interaction. Caspar
+  mutants were expressed in stable S2R+ lines expressing VAP:GFP. Affinity pull-downs
+  using the anti-Caspar antibody could efficiently pull down VAP along with CasparWT.
+  The antibody could, however, not pull down VAP efficiently in conditions when Caspar
+  FFAT variants (AAA, EAE, ΔFFAT) were present. Protein bands that represent Caspar
+  or VAP have been marked with a ‘*’, whereas nonspecific bands are marked with either
+  ‘+’ or ‘++’. (B) Expression of the Rel target gene diptericin in day-5 and day-15
+  adult heads of (i) wild-type (+/+), (ii) ∆VAP; Repo>+; gVAPP58S, (iii) ∆VAP; Repo>casparWT;
+  gVAPP58S, (iv) ∆VAP; Repo>casparAAA; gVAPP58S and (v) ∆VAP; Repo>caspaΔFFAT; gVAPP58S
+  lines. The data suggest that FFAT-like mutants of Caspar do not interact with VAP
+  and can yet suppress age-dependent inflammation. Values on the Y-axis depict the
+  fold-change normalized to the housekeeping gene rp49. Values shown are mean ± SEM.
+  N = 3, n = 3. Statistical analysis by two-way ANOVA followed by Tukey’s multiple
+  comparison test. *P < 0.05, **P < 0.01, ***P < 0.001. (C) Caspar expresses natively
+  in S2 cells. Affinity pull-down of VAPBWT and VAPBP58S, from independent stable
+  S2R+ lines expressing VAPBWT:GFP and VAPBP58S:GFP, with the anti-Caspar antibody
+  indicates that Caspar:VAP interaction is either at par or weaker when VAPBP58S aggregates
+  are present in the cell. Protein bands that represent Caspar or VAP have been marked
+  with a ‘*’, whereas nonspecific bands are marked a ‘+’ sign. (D) VAPP58Sdisease
+  model depicting the players VAP, Caspar and TER94 in glial cells and their connectivity
+  with IMD/Rel signalling, which regulates inflammation. The key features of the model
+  include (i) ER stress caused directly or indirectly by VAP misfolding and (ii) a
+  predicted upregulation of the protein degradation machinery in response to ER stress.
+  VAP may act as a docking station, interacting with Caspar and TER94 to assist in
+  proteasomal clearance. The AAA-ATPase TER94, itself an ALS locus, may play an important
+  role for this function. The clearance of VAP aggregates in the brain is not dependent
+  on Caspar function in the glia, hence the ‘?’ on the ERAD pathway. (iii) Age-dependent
+  Inflammation, caused by misregulation of Rel signalling. Our data show that Caspar
+  functions as a negative regulator for Rel signalling in glia (√), and this function
+  is attenuated in the disease. Mechanistically, this may be a consequence of a differential
+  partitioning of the available glial Caspar pool for VAP or TER94-related functions.
+  As the adult animal ages, a tipping point is reached when the increasing burden
+  of ER stress, proteasomal overload and glial inflammation leads to motor neuron
+  cell death, subsequently followed by the death of the organism. The VAP:Caspar interaction
+  itself (↔), via the Caspar FFAT motif appears not to be required (?) for Caspar
+  to regulate glial inflammation. Double-headed arrows indicate interactions between
+  proteins, whereas single headed arrows (→) indicate key cellular pathways.
+article_title: Caspar, an adapter for VAPB and TER94, modulates the progression of
+  ALS8 by regulating IMD/NFκB-mediated glial inflammation in a Drosophila model of
+  human disease.
+citation: Shweta Tendulkar, et al. Hum Mol Genet. 2022 Sep 1;31(17):2857-2875.
+year: '2022'
+
+doi: 10.1093/hmg/ddac076
+journal_title: Human Molecular Genetics
+journal_nlm_ta: Hum Mol Genet
+publisher_name: Oxford University Press
+
+keywords:
+---

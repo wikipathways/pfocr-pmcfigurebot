@@ -1,0 +1,36 @@
+---
+figid: PMC8941000__41396_2021_1153_Fig3_HTML
+pmcid: PMC8941000
+image_filename: 41396_2021_1153_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC8941000/figure/Fig3/
+number: Fig. 3
+figure_title: Metabolic potential of the OMM12 strains
+caption: (A) OMM12metabolic models were reconstructed using gapseq [] and gapseq output
+  was screened for a hand-curated set of pathways to determine the strains’ potential
+  to use a diverse range of substrate-specific and central pathways and release fermentation
+  end products. Multiple pathways corresponding to the same function were grouped
+  together according to the MetaCyc pathway database [] (SI data table ) and pathway
+  utilization was considered positive (green) if one of the associated pathways was
+  confirmed by gapseq. If none of the associated pathways were found, the potential
+  substrate and pathway utilization was considered negative (grey). Metabolites and
+  pathways were sorted by functional groups. By combining metabolomics data (MS, Fig. ,
+  ) with genome-based information, broad-scale metabolic sketches of the individual
+  OMM12 strains were generated (Fig. ). Here, the models for strains B. caecimuris
+  I48 (B) and B. coccoides YL58 (C) are shown exemplarily. Models of the remaining
+  strains of the consortium are shown in Fig. . Experimentally confirmed substrates
+  and products and pathways found by gapseq are shown in black. Hypothetical substrates,
+  products, or pathways are shown in grey.
+article_title: In vitro interaction network of a synthetic gut bacterial community.
+citation: Anna S. Weiss, et al. ISME J. 2022 Apr;16(4):1095-1109.
+year: '2022'
+
+doi: 10.1038/s41396-021-01153-z
+journal_title: The ISME Journal
+journal_nlm_ta: ISME J
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Microbiome
+- Microbial ecology
+
+---

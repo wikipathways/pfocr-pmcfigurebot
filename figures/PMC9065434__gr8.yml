@@ -1,0 +1,55 @@
+---
+figid: PMC9065434__gr8
+pmcid: PMC9065434
+image_filename: gr8.jpg
+figure_link: /pmc/articles/PMC9065434/figure/fig8/
+number: Figure 8
+figure_title: ''
+caption: 'Model depicting the mechanisms by which glucose controls glucagon release.
+  Glucose controls glucagon release by multiple mechanisms (inhibitory: red bars;
+  stimulatory: green arrows). Increasing the glucose concentration exerts two opposite
+  effects on α-cell [Ca2+]c. It decreases [Ca2+]c independently of α-cell KATP channels
+  (1) and partly via SST (2). It also increases [Ca2+]c at glucose concentrations
+  that stimulate insulin secretion. This latter effect likely results from electrical
+  coupling which could be direct between β- and α-cells (3), or indirect and involve
+  δ-cells (4). This stimulatory effect on α-cells is counteracted by SST which hyperpolarizes
+  α-cells and keeps α-cell at low levels (2). Hence, it can only be observed in the
+  absence of paracrine influence of SST. All glucose-induced changes in α-cell [Ca2+]c
+  induce parallel changes in glucagon release. In addition, glucose decreases the
+  efficacy of α-cell Ca2+ on exocytosis by an attenuating pathway that is opposite
+  to the amplifying pathway of glucose in β-cells. As previously shown [], SST released
+  from δ-cells in response to glucose also contributes to the inhibitory effect of
+  glucose by inhibiting the efficacy of Ca2+ on exocytosis (6). KATP, ATP-sensitive
+  K+; VGCC, voltage-gated Ca2+ channels; SST, somatostatin; SSTR: somatostatin receptor;
+  KSST, Hyperpolarizing K+ channel activated by SST (GIRK or another type).'
+article_title: Glucose inhibits glucagon secretion by decreasing [Ca2+]c and by reducing
+  the efficacy of Ca2+ on exocytosis via somatostatin-dependent and independent mechanisms.
+citation: Bilal Singh, et al. Mol Metab. 2022 Jul;61:101495.
+year: '2022'
+
+doi: 10.1016/j.molmet.2022.101495
+journal_title: Molecular Metabolism
+journal_nlm_ta: Mol Metab
+publisher_name: Elsevier
+
+keywords:
+- Pancreatic islets
+- KATP channels
+- Ca2+
+- Glucagon
+- Somatostatin
+- '[Ca2+]c, free cytosolic Ca2+ concentration'
+- cAMP, cyclic adenosine monophosphate
+- CBX, carbenoxolone
+- Epac, exchange protein directly activated by cAMP
+- GIRK channels, G protein-gated inwardly rectifying K+ channels
+- HG, high glucose concentration
+- KATP channels, ATP-sensitive K+ channels
+- LG, low glucose concentration
+- NG, NormoGlycemic range
+- SERCA, sarco/endoplasmic reticulum Ca2+-ATPase
+- SST, somatostatin
+- SSTR, somatostatin receptor
+- VGCC, voltage-gated Ca2+ channels
+
+---

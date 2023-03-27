@@ -1,0 +1,45 @@
+---
+figid: PMC9071401__gkac234fig2
+pmcid: PMC9071401
+image_filename: gkac234fig2.jpg
+figure_link: /pmc/articles/PMC9071401/figure/F2/
+number: Figure 2
+figure_title: ''
+caption: 'Global transcriptional changes induced by SETDB1 LOF correlate with malignant
+  phenotype attenuation (A) Volcano plot showing significant SETDB1 LOF-induced changes
+  in gene expression in A549 cells (N = 3 independent experiments; FDR < 0.01, t-test
+  relative to a threshold). Up-regulated genes (red): 1887 (log2(fold change) > 0).
+  Down-regulated genes (blue): 961 (log2(fold change) < 0). (B) Gene ontology terms
+  over-represented in the differentially expressed genes in SETDB1LOFvs. control A549
+  cells. (C) Gene set enrichment analysis in SETDB1LOFvs. control A549 cells. Normalized
+  enrichment score (NES) and FDR are indicated. (D) Gene set variation analysis scores
+  for each gene set in the normal lung (N = 48), NSCLC (N = 61), control (cyan), and
+  SETDB1LOF (pink) A549 cells. Dashed vertical lines correspond to the median, 25th
+  and 75th percentiles. (E) mRNA expression of selected mesenchymal and epithelial
+  markers, and genes related to the WNT/β-catenin signaling pathway in control (cyan)
+  and SETDB1LOF (pink) A549 cells. RT-qPCR data were normalized to the PPIA mRNA expression
+  values in control A549 cells that were set as 100% (N ≥ 3 independent experiments;
+  mean ± SEM; *P-value < 0.05, Mann–Whitney U-test). (F) Effect of rescued expression
+  of SETDB1 on mRNA expression of selected mesenchymal and epithelial markers, and
+  genes related to the WNT/β-catenin signaling pathway in A549 SETDB1LOF transfected
+  with pcDNA3.1(+)-IRES-GFP or pcDNA3.1(+)-SETDB1WT-IRES-GFP. RT-qPCR data were normalized
+  to the PPIA mRNA expression values in A549 SETDB1LOF transfected with pcDNA3.1(+)-IRES-GFP
+  that were set as 100% (N = 3 independent experiments; mean ± SEM; *P-value < 0.05,
+  Mann–Whitney U-test). (G) mRNA expression of selected mesenchymal and epithelial
+  markers, and genes related to the WNT/β-catenin signaling pathway in control (N = 8
+  mice, cyan) and SETDB1LOF A549 xenografts (N = 7 mice, pink) (see Figure ). RT-qPCR
+  data were normalized to the PPIA expression values in control A549 xenografts that
+  were set as 100% (mean ± SEM; ns, not significant, ***P-value < 0.001, Mann–Whitney
+  U-test).'
+article_title: SETDB1 fuels the lung cancer phenotype by modulating epigenome, 3D
+  genome organization and chromatin mechanical properties.
+citation: Vlada V Zakharova, et al. Nucleic Acids Res. 2022 May 6;50(8):4389-4413.
+year: '2022'
+
+doi: 10.1093/nar/gkac234
+journal_title: Nucleic Acids Research
+journal_nlm_ta: Nucleic Acids Res
+publisher_name: Oxford University Press
+
+keywords:
+---

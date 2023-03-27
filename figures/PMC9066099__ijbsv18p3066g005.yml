@@ -1,0 +1,38 @@
+---
+figid: PMC9066099__ijbsv18p3066g005
+pmcid: PMC9066099
+image_filename: ijbsv18p3066g005.jpg
+figure_link: /pmc/articles/PMC9066099/figure/F5/
+number: Figure 5
+figure_title: ''
+caption: T cell response pattern during COVID-19 infection. (A) Moderate COVID-19
+  patients have a gene overlap in T cell subgroups (H_L_Group, L_H_Group, H_Group,
+  and L_Group). (B) Severe COVID-19 patients have a gene overlap in T cell subgroups
+  (H_L_Group, L_H_Group, H_Group, and L_Group). (C) Summarize the impact on the H_L_Group
+  and L_H_Group subgroups in the process of COVID-19 infection. (D) In T cell subgroups,
+  moderate patients (M) were compared with healthy controls (H). H_L_Group specific
+  genes, L_H_Group specific genes, and genes common to all T cell subgroups (Common_Group)
+  KEGG pathway enrichment analysis, node size represents the number of genes, and
+  color intensity represents -log10 q-value. (E) In T cell subgroups, severe patients
+  (S) were compared with moderate patients (M). H_L_Group specific genes, L_H_Group
+  specific genes, and genes common to all T cell subgroups (Common_Group) KEGG pathway
+  enrichment analysis, node size represents the number of genes, and color intensity
+  represents -log10 q-value.
+article_title: Dynamic response landscape of immune cells identified immune dysfunction
+  which predicts disease progression in COVID-19 infected patients.
+citation: Xiangyu Deng, et al. Int J Biol Sci. 2022;18(7):3066-3081.
+year: '2022'
+
+doi: 10.7150/ijbs.71163
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- SARS-CoV-2
+- COVID-19
+- T Cells
+- NK Cells
+- Single Cell RNA-seq
+
+---

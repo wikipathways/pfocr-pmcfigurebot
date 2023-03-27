@@ -1,0 +1,50 @@
+---
+figid: PMC8989919__41418_2021_898_Fig8_HTML
+pmcid: PMC8989919
+image_filename: 41418_2021_898_Fig8_HTML.jpg
+figure_link: /pmc/articles/PMC8989919/figure/Fig8/
+number: Fig. 8
+figure_title: p53 physically interacts with Cdk1
+caption: 'A Cartoon illustrating the BiFC principle. No fluorescent N- and C-terminal
+  fragments of the GFP variant Venus are fused to p53 (VN-p53) and Cdk1 (VC-Cdk1).
+  When both proteins are co-expressed inside the cells juxtaposes the Venus fragments
+  resulting in structural complementation and green fluorescence. This technique enables
+  the direct visualization of protein interactions in living cells. B Scheme of the
+  different p53-A protein versions generated for the BiFC analysis. Amino acid positions
+  defining p53 domains are indicated: transactivation domain (TAD, in red), DNA-binding
+  domain (DBD, in black), and oligomerization domain (OD, in white). C Third instar
+  wing imaginal discs expressing only VC-Cdk1 or VN-p53-A under the sal-Gal4 driver
+  did not show any BiFC signal (green). Topro-3 staining marks nuclei in blue. D BiFC
+  analysis by the co-expression of VN-p53-A, VN-p53-AΔC, and VN-p53-AΔN with VC-Cdk1
+  under the sal-Gal4 driver. Note that p53-A-VN and VC-Cdk1 induced a strong nuclear
+  BiFC signal (green) and the induction of apoptosis (Dcp1, red). The expression of
+  the C-terminal deletion, VN-p53-AΔC with VC-Cdk1 generates a cytoplasmic BiFC signal,
+  but failed to induce cell death. In contrast, neither BiFC signal nor apoptosis
+  was observed by the co-expression of VC-Cdk1 with the N-terminal deletion of p53-A
+  (VN-p53-AΔN). A higher magnification of a region in the sal domain is presented.
+  E Simplified representation of the DDR model. DNA damage triggers the key signal
+  transducers ATR and ATM kinases that activate the downstream effectors Chk1 and
+  Chk2. Chk1 stop cell cycle progression through the inactivation of Cdk1 and activates
+  the DNA damage repair mechanisms. Chk2 induces the activation of p53, however, the
+  proapoptotic activity of p53 is blocked in cell cycle arrested cells due to the
+  presence of inactive Cdk1/CycB complexes. Some hours later, the G2/M blockage is
+  progressively lifted and cells with unrepaired DNA are sent to apoptosis before
+  entering mitosis through the activation of p53 by the ATM/Chk2 pathway and the presence
+  of active Cdk1. Scale bar is 50 μm. See also Fig. .'
+article_title: Coordination between cell proliferation and apoptosis after DNA damage
+  in Drosophila.
+citation: Mireya Ruiz-Losada, et al. Cell Death Differ. 2022 Apr;29(4):832-845.
+year: '2022'
+
+doi: 10.1038/s41418-021-00898-6
+journal_title: Cell Death and Differentiation
+journal_nlm_ta: Cell Death Differ
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cell biology
+- Development
+- Gene regulation
+- Molecular biology
+
+---

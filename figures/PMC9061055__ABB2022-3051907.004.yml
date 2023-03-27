@@ -1,0 +1,34 @@
+---
+figid: PMC9061055__ABB2022-3051907.004
+pmcid: PMC9061055
+image_filename: ABB2022-3051907.004.jpg
+figure_link: /pmc/articles/PMC9061055/figure/fig4/
+number: Figure 4
+figure_title: ''
+caption: (a) GO enrichment analysis of coexpressed genes. In BP, we can see those
+  coexpressed genes were enriched in cell-substrate adhesion, extracellular matrix
+  organisation, extracellular structure organisation, cell junction assembly, and
+  ameboid-type cell migration. Then, in CC, the coexpressed genes were enriched in
+  cell-substrate junction, focal adhesion, and collagen-containing extracellular matrix.
+  At last, in MF, the coexpressed genes were enriched in cadherin-binding, actin-binding,
+  actin filament binding, and so on. (b) KEGG enrichment analysis of coexpressed genes
+  showed that coexpressed genes were mainly concentrated in focal adhesion, PI3K-Akt
+  signalling pathway, regulation of actin cytoskeleton, proteoglycans in cancer, ECM-receptor
+  interaction, MAPK signalling pathway, small cell lung cancer, and bacterial invasion
+  of epithelial cells. (c) Protein-protein interaction network of coexpressed genes.
+  From this network, we can see the interaction in the coexpression mode of CD73.
+  The more lines that connect, the more interactions, which means the gene may be
+  more important. Besides, by using the “CytoHubba” plug-in, we screened out 20 hub
+  genes according to the MCC score.
+article_title: 'Head and Neck Squamous Cell Carcinoma: NT5E Could Be a Prognostic
+  Biomarker.'
+citation: Yaoting Zhang, et al. Appl Bionics Biomech. 2022;2022:3051907.
+year: '2022'
+
+doi: 10.1155/2022/3051907
+journal_title: Applied Bionics and Biomechanics
+journal_nlm_ta: Appl Bionics Biomech
+publisher_name: Hindawi
+
+keywords:
+---

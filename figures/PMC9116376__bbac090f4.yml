@@ -1,0 +1,39 @@
+---
+figid: PMC9116376__bbac090f4
+pmcid: PMC9116376
+image_filename: bbac090f4.jpg
+figure_link: /pmc/articles/PMC9116376/figure/f10/
+number: Figure 4
+figure_title: ''
+caption: 'High expression of the Nrf2–ARE pathway correlates with poor prognosis and
+  KEAP1 mutation in lung cancers. The survival curves (A) and forest plot (B), censored
+  at 10 years, show correlation between high expression of the Nrf2–ARE pathway (WikiPathways:
+  WP4357) and poor prognosis in TCGA-LUAD cases (P = 0.00015, P.adj < 0.01, KM log-rank;
+  HR = 1.84, P = 0.00027, P.adj < 0.01, Cox PH likelihood ratio). Shades reflect 95%
+  confidence intervals in survival curves in (A). The density and box plots show lung
+  cancer cell lines with an inactivating KEAP1 mutation (red) being more sensitive
+  to NFE2L2 CRISPR-Cas9 knockout (P = 4.1e−07, two-tailed Wilcoxon test) (C, D) and
+  RNAi knockdown (P = 8.4e−05, two-tailed Wilcoxon test) (E, F). ARE, antioxidant
+  response element; LUAD, lung adenocarcinoma; P, P-value; P.adj, adjusted P-value;
+  KM, Kaplan–Meier; HR, hazard ratio; PH, proportional-hazard; RNAi, RNA interference;
+  Chronos, an algorithm for inferring gene knockout fitness effects; DEMETER2, gene
+  dependency estimates for RNAi datasets.'
+article_title: 'cSurvival: a web resource for biomarker interactions in cancer outcomes
+  and in cell lines.'
+citation: Xuanjin Cheng, et al. Brief Bioinform. 2022 May;23(3):bbac090.
+year: '2022'
+
+doi: 10.1093/bib/bbac090
+journal_title: Briefings in Bioinformatics
+journal_nlm_ta: Brief Bioinform
+publisher_name: Oxford University Press
+
+keywords:
+- genetic interaction
+- survival analysis
+- TCGA
+- TARGET
+- DepMap
+- biomarker
+
+---

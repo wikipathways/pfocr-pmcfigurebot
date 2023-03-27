@@ -1,0 +1,33 @@
+---
+figid: PMC9048069__gr2
+pmcid: PMC9048069
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC9048069/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: RNA-seq validation of the top upregulated genes in EGFR mutants(A) Schematic
+  showing the steps of RNA-seq for identifying commonly upregulated genes in NIH3T3
+  cells expressing the indicated EGFR mutants.(B) RNA-seq was performed using NIH3T3
+  cells expressing either empty vector EGFR-WT or EGFR mutants L858R, L861Q, or DEL1.
+  The heatmap showing the top upregulated genes whose expression was upregulated 15-fold
+  or more in all mutants compared to the empty vector control.(C) NIH3T3 cells expressing
+  vector, wild-type EGFR or the indicated EGFR mutant were analyzed by RT-qPCR for
+  expression of the indicated genes. Gene expression is plotted relative to the empty
+  vector control. Data are shown as the mean ± SEM, ns = not-significant, ∗p<0.05,
+  ∗∗p<0.01, ∗∗∗p<0.001, ∗∗∗∗p<0.0001. See also  and , , , , , , and .
+article_title: Betacellulin promotes tumor development and EGFR mutant lung cancer
+  growth by stimulating the EGFR pathway and suppressing apoptosis.
+citation: Suresh Chava, et al. iScience. 2022 May 20;25(5):104211.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.104211
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Cell biology
+- Cancer
+- Transcriptomics
+
+---

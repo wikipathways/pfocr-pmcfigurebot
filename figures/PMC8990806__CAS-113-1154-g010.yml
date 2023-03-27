@@ -1,0 +1,37 @@
+---
+figid: PMC8990806__CAS-113-1154-g010
+pmcid: PMC8990806
+image_filename: CAS-113-1154-g010.jpg
+figure_link: /pmc/articles/PMC8990806/figure/cas15272-fig-0005/
+number: FIGURE 5
+figure_title: ''
+caption: Screening of AUF1‐dependent HCC‐related genes. A, Analysis flow chart. DEGs
+  indicates differentially expressed genes. B, Cluster analysis of HCC tissues and
+  non‐tumor tissues using 210 AUF1‐dependent HCC‐specific genes for the LCI and TCGA
+  HCC samples. C, Gene Ontology enrichment analysis of 210 AUF1‐dependent HCC‐specific
+  genes. The color of the dot represents the fold enrichment, and the size of the
+  dot represents the number of genes enriched in the pathway. D, Differential expression
+  analysis of 23 AUF1‐dependent organic hydroxy compound metabolism genes in siAUF1
+  RNA‐seq. The length of bar represents fold change, and the black dot is used to
+  indicate the q‐value. E, Survival gene set analysis of 23 AUF1‐dependent organic
+  hydroxy compound metabolism genes for HCC in the LCI database. Log‐Rank indicates
+  the log‐rank test P‐value, and permutation indicates the permutation test P‐value;
+  in total 1000 random trials were conducted
+article_title: E2F1‐mediated AUF1 upregulation promotes HCC development and enhances
+  drug resistance via stabilization of AKR1B10.
+citation: Ting Zhang, et al. Cancer Sci. 2022 Apr;113(4):1154-1167.
+year: '2022'
+
+doi: 10.1111/cas.15272
+journal_title: Cancer Science
+journal_nlm_ta: Cancer Sci
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- AKR1B10
+- AUF1
+- E2F1
+- hepatocellular carcinoma
+- RNA‐binding protein
+
+---

@@ -1,0 +1,42 @@
+---
+figid: PMC9044693__gr2
+pmcid: PMC9044693
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC9044693/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: Candidate SL/SDL partner genes(A) A panel of candidate SL/SDL-based known
+  drug targets with an inhibitory mechanism of action. These drugs can be potentially
+  repurposed to treat SARS-CoV-2 infection.(B) Pathway enrichment results for the
+  140 candidate SL/SDL-based targets. A bar plot showing the negative log10-transformed
+  Benjamini-Hochberg-adjusted p values (Padj) from Fisher’s exact tests (X axis) for
+  the top pathways from the Reactome database () enriched by these SL/SDL-based targets.
+  The color of the bars encodes the number of overlapping genes within each pathway.
+  The black-dotted line corresponds to the cutoff of adjusted p < 0.05.(C) A similar
+  plot as in (b) showing the top pathways enriched by the SARS-CoV-2-induced differentially
+  expressed (DE) genes that form SL/SDL interactions with the 140 candidate target
+  genes.(D) A heatmap illustrating the enrichment of DE gene – SL/SDL partner gene
+  pairs formed by the 140 candidate targets in various combinations of pathways. Significant
+  pathway combinations with adjusted p < 0.1 are shown here. Pathways of the DE genes
+  are given on the horizontal axis (columns) and pathways of the SL/SDL partner genes
+  are given on the vertical axis (rows) of the heatmap. Sizes of the circles correspond
+  to their odds ratio of enrichment and color of the circles correspond to the negative
+  log10 adjusted P values of a pathway combination.(E) Boxplot of one-sided Wilcoxon
+  rank-sum test results for average cell number between 135 candidate genes and the
+  rest of the genes in the genome-wide siRNA screen. P value is shown in between the
+  boxes.
+article_title: Synthetic lethality-based prediction of anti-SARS-CoV-2 targets.
+citation: Lipika R. Pal, et al. iScience. 2022 May 20;25(5):104311.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.104311
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Drugs
+- Virology
+- Synthetic biology
+
+---

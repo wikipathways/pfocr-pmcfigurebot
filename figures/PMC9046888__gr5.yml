@@ -1,0 +1,67 @@
+---
+figid: PMC9046888__gr5
+pmcid: PMC9046888
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC9046888/figure/fig0005/
+number: Fig. 5
+figure_title: ''
+caption: Eriodictyol treatment induces differential expression of distinct gene sets
+  implicated in apoptosis, metastasis, cell-cycle regulatory genes, and associated
+  pathways in HeLa cells. A. A heat map showing differential regulation of global
+  genes in response to Eriodictyol treatment in both 6 h (E6_1, E6_2) and 24 h (E24_1,
+  E24_2) in comparison to untreated control (C_1, C_2). B. Volcano plot depicting
+  the differentially regulated global genes at 6 h post treatment of Eriodictyol.
+  C. Venn diagram analysis exhibiting total number of apoptosis, metastasis and cell
+  cycle regulatory genes at 6 h Eriodictyol treatment. D. Heat map displaying a screened
+  set of genes highly affected by Eriodictyol at 6 h through IPA analysis. E. Functional
+  analysis represented as bar plot C vs E6. F. Ingenuity Pathway Analysis. The color
+  intensity of the nodes shows the degree of enrichment of this analysis. The enrich-factor
+  is defined as the ratio of the differential genes in the entire genome. The dot
+  size represents the count of genes in a pathway. C_1- Untreated sample 1, C_2- Untreated
+  sample 2, E6_1 - Treated sample 6 h sample 1, E6_2 - Treated sample 6 h sample 2,
+  E24_1 - Treated sample 24 h sample 1, E24_2 - Treated sample 24 h sample 2.
+article_title: Eriodictyol mediated selective targeting of the TNFR1/FADD/TRADD axis
+  in cancer cells induce apoptosis and inhibit tumor progression and metastasis.
+citation: Shibjyoti Debnath, et al. Transl Oncol. 2022 Jul;21:101433.
+year: '2022'
+
+doi: 10.1016/j.tranon.2022.101433
+journal_title: Translational Oncology
+journal_nlm_ta: Transl Oncol
+publisher_name: Neoplasia Press
+
+keywords:
+- Flavonoids
+- CRISPR-Cas9
+- Cell death
+- Tumorigenesis
+- Selective cytotoxicity
+- DISC, Death Inducing Signaling Complex
+- TNFR1, Tumor Necrosis Factor Receptor 1
+- FADD, FAS-Associated Death Domain Protein
+- TRADD, Tumor Necrosis Factor Receptor type 1-Associated DEATH Domain protein
+- CRISPR-Cas9, Clustered Regularly Interspaced Short Palindromic Repeats/CRISPR associated
+  protein 9
+- RSK-2, Ribosomal S6 Kinase 2
+- ATF1, Activating Transcription Factor 1
+- NFkB, Nuclear Factor Kappa-light-chain-enhancer of activated B cells
+- TNF-α, Tumor Necrosis Factor-alpha(α)
+- PARP1, Poly [ADP-Ribose] Polymerase 1
+- DMSO, Dimethylsulfoxide
+- FACS, Fluorescence Activated Cell Sorting
+- PE, Paired-End
+- PI, Propidium Iodide
+- PBS, Phosphate Buffer Saline
+- SDS-PAGE, Sodium Dodecyl Sulfate–Polyacrylamide Gel Electrophoresis
+- TBST, Tris Buffered Saline (Tween 20)
+- PVDF, Polyvinylidene fluoride
+- ECL, Enhanced Chemiluminescence
+- OD, Optical Density
+- DTT, Dithiothreitol
+- MTT, 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl tetrazolium bromide
+- IC50, Half-maximal Inhibitory Concentration
+- CDK1, Cyclin-Dependent Kinase 1
+- IPA, Ingenuity Pathway Analysis
+- rh TNF, Recombinant human Tumor Necrosis Factor
+
+---

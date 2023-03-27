@@ -1,0 +1,28 @@
+---
+figid: PMC9045715__sciadv.abm7012-f3
+pmcid: PMC9045715
+image_filename: sciadv.abm7012-f3.jpg
+figure_link: /pmc/articles/PMC9045715/figure/F3/
+number: Fig. 3
+figure_title: Lack of B7-H3 alters the transcriptional program of APs
+caption: (A to C) RNA-seq was performed on APs purified by FACS from gWAT of age-
+  and weight-matched WT (n = 2) and B7-H3 KO (n = 2) mice. For each sample, gWAT was
+  pooled from three mice before enzymatic digestion, staining, sorting, and RNA purification.
+  (A) Heatmap of DEGs (>2-fold) between WT and B7-H3 KO APs. (B and C) Pathway and
+  gene sets enriched in genes down-regulated in B7-H3 KO compared to WT APs. GSEA
+  was performed to identify KEGG, Hallmark, and GO-BP sets that were significantly
+  enriched (false discovery rate < 0.05) for genes down-regulated in B7-H3 KO APs.
+  Top 10 pathways (B) and selected metabolic gene sets (C) are listed and ranked on
+  the basis of normalized enrichment score.
+article_title: The immune checkpoint B7-H3 (CD276) regulates adipocyte progenitor
+  metabolism and obesity development.
+citation: Elodie Picarda, et al. Sci Adv. 2022 Apr;8(17):eabm7012.
+year: '2022'
+
+doi: 10.1126/sciadv.abm7012
+journal_title: Science Advances
+journal_nlm_ta: Sci Adv
+publisher_name: American Association for the Advancement of Science
+
+keywords:
+---

@@ -1,0 +1,37 @@
+---
+figid: PMC9061862__gr2
+pmcid: PMC9061862
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC9061862/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: CGA is a downstream target of L3MBTL2(A) RNA-seq were used to identify differentially
+  expressed genes in L3MBTL2 stably knockdown cells when compared with their corresponding
+  controls (fold change >2 or 2.0, p < 0.05).(B) The relative mRNA levels of CGA,
+  CDKN1A, FN1, S100P, and CLIC3 in RNA-seq of PANC-1 cells after L3MBTL2 knockdown.(C)
+  KEGG pathway enrichment analysis of DEGs was performed to identify functionally
+  related gene pathways. The top 10 enriched signaling pathways are shown and are
+  ranked on the basis of log10(P-value).(D) qPCR and western blotting were performed
+  to determine the mRNA and protein levels of CGA in shL3MBTL2 and shCtrl cells.(E)
+  Western blotting analysis of CGA in PANC-1 cells expressing exogenous CGA-T1, CGA-T1-NQ,
+  CGA-T2, CGA-T2-NQ, shCtrl, and shL3MBTL2.(F) A luciferase reporter assay evaluated
+  the effect of L3MBTL2 overexpression and knockdown on the transcriptional activity
+  of CGA in PANC-1 cells. Firefly luciferase activity was normalized to Renilla luciferase
+  activity and expressed as the mean ± SD. Data are presented as means ± SD (n = 3).
+  ∗p < 0.05, ∗∗p < 0.01, ∗∗∗p < 0.001, t-tests.
+article_title: L3MBTL2-mediated CGA transcriptional suppression promotes pancreatic
+  cancer progression through modulating autophagy.
+citation: Hua Huang, et al. iScience. 2022 May 20;25(5):104249.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.104249
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Biological sciences
+- Cell biology
+- Cancer
+
+---

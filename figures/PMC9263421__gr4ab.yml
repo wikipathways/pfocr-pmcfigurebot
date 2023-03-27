@@ -1,0 +1,38 @@
+---
+figid: PMC9263421__gr4ab
+pmcid: PMC9263421
+image_filename: gr4ab.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 4
+caption: 'Systems biology analysis in MN. IPA of the 49 significant differentially
+  expressed MN-associated proteins was conducted to identify key upstream regulators
+  (a,b) and biological function associations (c,d) enriched in patients with MN. (a)
+  List of the most significant upstream regulators that best explain the observed
+  expression changes in MN versus N and MCD. (b) A total of 4 significant upstream
+  regulators (EGFR, IL-6, TGFB1, IL-4) and the MN-associated proteins predicted to
+  be downstream of these upstream regulators. IPA color and symbol guide: blue, inhibition;
+  orange, activation; red, increased; green, decreased; yellow, contrary to published
+  evidence; gray, unknown; dashed line, indirect; arrowhead (pointed), activating;
+  arrowhead (blunt), inhibitory. (c) List of the most significant biological functions
+  that best explain the observed expression changes in MN versus N and MCD. (d). A
+  total of 5 significant classes of biological functions enriched among the MN-associated
+  49-protein signature. IL, interleukin; IPA, Ingenuity Pathway Analysis; MCD, minimal
+  change disease; MN, membranous nephropathy; N, healthy controls.'
+article_title: Serum Protein Signatures Using Aptamer-Based Proteomics for Minimal
+  Change Disease and Membranous Nephropathy.
+citation: Daniel A. Muruve, et al. Kidney Int Rep. 2022 Jul;7(7):1539-1556.
+year: '2022'
+
+doi: 10.1016/j.ekir.2022.04.006
+journal_title: Kidney International Reports
+journal_nlm_ta: Kidney Int Rep
+publisher_name: Elsevier
+
+keywords:
+- minimal change disease
+- membranous nephropathy
+- proteomics
+- systems biology
+
+---

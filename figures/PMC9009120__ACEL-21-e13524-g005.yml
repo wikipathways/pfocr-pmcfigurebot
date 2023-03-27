@@ -1,0 +1,39 @@
+---
+figid: PMC9009120__ACEL-21-e13524-g005
+pmcid: PMC9009120
+image_filename: ACEL-21-e13524-g005.jpg
+figure_link: /pmc/articles/PMC9009120/figure/acel13524-fig-0004/
+number: FIGURE 4
+figure_title: ''
+caption: 'Significantly enriched signaling pathways across all aging hallmark protein
+  lists. (a) p‐values of enriched signaling pathways across all aging hallmarks. We
+  identified the genes linked to each of the top 30 ARDs associated with an aging
+  hallmark from text mining and took the union of genes. These were mapped to encoded
+  proteins forming nine protein lists. The associated aging hallmark from text mining
+  represents the column labels of the heatmap. We carried out GSEA and searched for
+  GO terms related to signaling pathways. Five signaling pathways were significantly
+  enriched across all aging hallmark protein lists. (b‐f) The union of proteins/ genes
+  associated with each of the five significantly enriched pathways was derived and
+  they were linked to their associated ARDs. These are shown in the circos plots representing:
+  (b) IFN‐γ‐mediated signaling pathway, (c) T‐cell receptor signaling pathway, (d)
+  positive regulation of T‐cell receptor signaling pathway, (e) positive regulation
+  of the ERK1/2 cascade, and (f) the intrinsic apoptotic signaling pathway in response
+  to DNA damage by p53 class mediator. Abbreviations: Table'
+article_title: Biological mechanisms of aging predict age‐related disease co‐occurrence
+  in patients.
+citation: Helen C. Fraser, et al. Aging Cell. 2022 Apr;21(4):e13524.
+year: '2022'
+
+doi: 10.1111/acel.13524
+journal_title: Aging Cell
+journal_nlm_ta: Aging Cell
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- age‐related disease
+- aging
+- aging hallmarks
+- genetics
+- multimorbidity
+
+---

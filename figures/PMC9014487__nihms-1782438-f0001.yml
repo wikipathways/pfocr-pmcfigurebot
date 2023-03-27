@@ -1,0 +1,47 @@
+---
+figid: PMC9014487__nihms-1782438-f0001
+pmcid: PMC9014487
+image_filename: nihms-1782438-f0001.jpg
+figure_link: /pmc/articles/PMC9014487/figure/F1/
+number: 'Figure 1:'
+figure_title: Melanoma metastases show decreased glycolysis and elevated levels of
+  TCA cycle intermediates fumarate and malate
+caption: A) Pathway enrichment analysis was performed with the set of genes whose
+  expression level was significantly up or down in FACS-sorted melanoma cells isolated
+  from metastatic nodules as compared to subcutaneous tumors. Gene sets from three
+  patient melanomas, M481, M405, and UT10 were combined for the analysis. B-C) Heat
+  map representation of the RNA-sequencing data demonstrating fold change in expression
+  of glycolytic (B) and TCA (C) enzymes. All samples were normalized to the average
+  FPKM of their respective PDX group. Green indicates fold changes that are lower
+  than the average FPKM within individual melanomas and red indicates higher than
+  average FPKM fold changes. D-E) Relative abundance of the metabolites from glycolysis
+  (D) or the TCA (E) cycle in primary subcutaneous tumors and spontaneous metastatic
+  nodules dissected from multiple organs in mice xenografted with melanoma M481 (n=8
+  mice). F-G) Isotope tracing in primary subcutaneous tumors and metastatic nodules
+  from mice xenografted with M481 after infusion with [1,2-13C]-glucose. The enrichment
+  of metabolites generated through glycolysis (F) or the TCA cycle (G) is shown as
+  the enrichment of the m+2 fraction normalized to fractional enrichment of m+2 glucose
+  in the host mouse at the end of the infusion experiment (t=3 hours). (n=8 mice).
+  Metabolites were detected and measured with a ThermoScientific QExactive HF-X hybrid
+  quadrupole orbitrap high-resolution mass spectrometer (HRMS) coupled to a Vanquish
+  UHPLC as described in the  section. For each metabolite in (D-G), data shown is
+  the mean +/− SEM. Unpaired t-tests were performed between the two groups with *
+  p≤0.05, ** p≤0.01, *** p≤0.001, **** p≤0.001.
+article_title: A short isoform of spermatogenic enzyme GAPDHS functions as a metabolic
+  switch and limits metastasis in melanoma.
+citation: Jennifer G. Gill, et al. Cancer Res. ;82(7):1251-1266.
+year: '2022'
+
+doi: 10.1158/0008-5472.CAN-21-2062
+journal_title: Cancer research
+journal_nlm_ta: Cancer Res
+publisher_name: ''
+
+keywords:
+- Melanoma
+- Metastasis
+- GAPDHS
+- Glycolysis
+- TCA Cycle
+
+---

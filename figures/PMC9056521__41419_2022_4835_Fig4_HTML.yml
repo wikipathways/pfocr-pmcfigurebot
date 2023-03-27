@@ -1,0 +1,39 @@
+---
+figid: PMC9056521__41419_2022_4835_Fig4_HTML
+pmcid: PMC9056521
+image_filename: 41419_2022_4835_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9056521/figure/Fig4/
+number: Fig. 4
+figure_title: TGFβ signalling pathway is deregulated upon MCU knockdown
+caption: A RNA-Seq heatmap (upper panel) showing hierarchical cluster of differentially
+  expressed genes. Red represents high expression and blue represents low expression.
+  Volcano plot (lower panel) shows distribution of differentially expressed genes
+  upon MCU knockdown. B GO enrichment histogram showing top five significantly enriched
+  biological processes upon MCU knockdown based on the number of differentially expressed
+  genes. C KEGG enrichment histogram showing top five unique significantly enriched
+  pathways upon MCU knockdown based on the number of differentially expressed genes.
+  D A list of the top significantly altered genes in the TGFβ pathway identified by
+  RNA-Seq analysis upon MCU knockdown are shown with the fold change and adjusted
+  p values. E qPCR analysis for TGFβ1, TGFβR1 and TGFβR2 mRNA in control and siMCU
+  cells. The values correspond to average ± SEM (n = 3). F Western blot analysis of
+  control and shMCU cells using MCU, p-SMAD3 and SMAD3 antibodies. A representative
+  western blot from three independent experiments is shown. G Control and shMCU cells
+  were transfected with 200 ng of the TGFβ reporter p3TP-Lux and 5 ng Renilla luciferase.
+  Cells were analysed for luciferase activity 48 h later. The values correspond to
+  average ± SEM (n = 3). Two-tailed non-parametric unpaired t-test was performed for
+  statistical analysis. ****p ≤ 0.0001.
+article_title: Mitochondrial calcium uptake regulates tumour progression in embryonal
+  rhabdomyosarcoma.
+citation: Hsin Yao Chiu, et al. Cell Death Dis. 2022 Apr;13(4):419.
+year: '2022'
+
+doi: 10.1038/s41419-022-04835-4
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Paediatric cancer
+- Sarcoma
+
+---

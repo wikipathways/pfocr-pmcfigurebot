@@ -1,0 +1,40 @@
+---
+figid: PMC9024752__microorganisms-10-00730-g001
+pmcid: PMC9024752
+image_filename: microorganisms-10-00730-g001.jpg
+figure_link: /pmc/articles/PMC9024752/figure/microorganisms-10-00730-f001/
+number: Figure 1
+figure_title: ''
+caption: Scheme of the metabolic pathway for DPA biosynthesis in engineered C. glutamicum
+  Dpa1 (A) and of the reactions at the branchpoint intermediate HTPA (B). Single catalytic
+  steps are depicted by solid lines and multiple catalytic steps by dashed lines.
+  It includes endogenous genes (blue) and heterologous dipicolinate synthase genes
+  dpaAB from P. sonchi SBR5 (green). Variants of endogenous genes (purple), namely
+  feedback-resistant aspartokinase lysCT311I, pyruvate carboxylase pycP458S and homoserine
+  dehydrogenase homV59A, increase L-aspartate conversion and anaplerosis via pyruvate
+  carboxylase, while decreasing drain of aspartate-4-semialdehyde towards threonine
+  and methionine biosynthesis. DPA shares the first three steps of L-lysine biosynthesis
+  via aspartokinase (lysC), aspartate-semialdehyde dehydrogenase (asd) and HTPA synthase
+  (dapA). A red cross indicates the deletion of carboxykinase gene ppc (red) to prevent
+  decarboxylation of oxaloacetate. Glucose uptake is PTS (phosphotransferase system)
+  mediated and L-lysine is exported via LysE. Brackets depict putative spontaneous
+  dehydration of HTPA.
+article_title: Metabolic Engineering of Corynebacterium glutamicum for Sustainable
+  Production of the Aromatic Dicarboxylic Acid Dipicolinic Acid.
+citation: Lynn S. Schwardmann, et al. Microorganisms. 2022 Apr;10(4):730.
+year: '2022'
+
+doi: 10.3390/microorganisms10040730
+journal_title: Microorganisms
+journal_nlm_ta: Microorganisms
+publisher_name: MDPI
+
+keywords:
+- dipicolinic acid
+- Corynebacterium glutamicum
+- metabolic engineering
+- sustainable production
+- nonsterile fermentation
+- phosphite
+
+---

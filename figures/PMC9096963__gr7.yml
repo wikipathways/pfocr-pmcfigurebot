@@ -1,0 +1,87 @@
+---
+figid: PMC9096963__gr7
+pmcid: PMC9096963
+image_filename: gr7.jpg
+figure_link: /pmc/articles/PMC9096963/figure/fig7/
+number: Fig. 7
+figure_title: ''
+caption: 'Role of plasma membrane PI(4,5)P2 and protein prenylation in actin dynamics.
+  A: To explore the specific contribution of PI(4,5)P2-mediated regulation on F-actin
+  dynamics, we chose a distal inhibitor of the cholesterol biosynthesis pathway that
+  minimally affects isoprenoid biosynthesis (e.g., farnesyl pyrophosphate, an important
+  lipid attachment for the post-translational modification of a variety of small GTPase
+  proteins that are key regulators of the actin cytoskeleton). For this, we utilized
+  AY 9944, which is a specific metabolic inhibitor of 7-dehydrocholesterol reductase
+  (7-DHCR), the last enzyme in the Kandutsch-Russell pathway of cholesterol biosynthesis,
+  that catalyzes the conversion of 7-dehydrocholesterol (7-DHC) to cholesterol. The
+  two-way color scheme (inhibition [gray] and operational [blue]) is suggestive of
+  modulation of specific steps of the cholesterol biosynthesis pathway upon AY 9944
+  treatment. The dotted arrows represent multiple intermediate steps. B: Membrane
+  cholesterol content of CHO-K1 cells treated with increasing concentrations of AY
+  9944. Sterols were extracted and quantitated using GC-MS analysis and identified
+  with pure standards. Values are expressed as absolute cholesterol content in cell
+  membranes and are normalized to protein content. Data represent means ± SEM of three
+  independent experiments (∗∗ and ∗∗∗ correspond to a significant difference [P <
+  0.01 and P < 0.001, respectively] in membrane cholesterol content in AY 9944-treated
+  cells relative to untreated cells). C: Values obtained upon quantitation of F-actin
+  (as described in ) in control and AY 9944-treated cells. Data represent means ±
+  SEM of ∼35 different fields from at least three independent experiments (∗ and ∗∗
+  correspond to significant differences [P < 0.05 and P < 0.01, respectively] in F-actin
+  content in AY 9944-treated cells relative to untreated cells). D: Effect of sequestering
+  PI(4,5)P2 on F-actin dynamics. Representative confocal micrographs showing organization
+  of F-actin in control and cells treated with increasing concentrations of neomycin.
+  Increase in F-actin filaments can be observed upon treatment with increasing concentrations
+  of neomycin. Panels on the right represent the iso-surfaces corresponding to MIPs
+  shown in left panels. The scale bars represent 10 μm. Values obtained upon quantitation
+  of F-actin in control and cells treated with neomycin are shown in panel (E). Data
+  represent means ± SEM of ∼10 different fields from three independent experiments
+  (∗∗ and ∗∗∗ correspond to significant [P < 0.01 and P < 0.001, respectively] differences
+  in F-actin content in neomycin-treated cells relative to control cells). F: To explore
+  the specific contribution of protein prenylation (an important post-translational
+  modification of a variety of small GTPase proteins that are key regulators of the
+  actin cytoskeleton) on F-actin dynamics, we used lovastatin as a proximal inhibitor
+  of the cholesterol biosynthesis pathway. Lovastatin is a specific metabolic inhibitor
+  of HMG-coA reductase (HMGR), the rate-limiting enzyme upstream of isoprenoid intermediates
+  in the cholesterol biosynthesis pathway. In order to replenish membrane cholesterol
+  in cells during lovastatin treatment, cells were grown in the presence of excess
+  serum, which effectively replenishes cholesterol metabolically. The color scheme
+  is same as in panel A. G: Membrane cholesterol content of CHO-K1 cells treated with
+  increasing concentrations of lovastatin in media containing 20% (v/v) serum. Data
+  represent means ± SEM of three independent experiments. Values are expressed as
+  absolute cholesterol content in cell membranes and are normalized to protein content.
+  H: Values obtained upon quantitation of F-actin (as described in ) in control and
+  lovastatin-treated cells. Data represent means ± SEM of ∼20 different fields from
+  at least three independent experiments (∗∗ corresponds to a significant difference
+  [P < 0.01] in F-actin content in lovastatin-treated cells relative to untreated
+  cells). See  for more details.'
+article_title: Chronic cholesterol depletion increases F-actin levels and induces
+  cytoskeletal reorganization via a dual mechanism.
+citation: Parijat Sarkar, et al. J Lipid Res. 2022 May;63(5):100206.
+year: '2022'
+
+doi: 10.1016/j.jlr.2022.100206
+journal_title: Journal of Lipid Research
+journal_nlm_ta: J Lipid Res
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- cholesterol
+- statins
+- methyl-β-cyclodextrin
+- phosphatidylinositol
+- plasma membrane
+- F-actin
+- confocal microscopy
+- Rho GTPase
+- actin polymerization
+- MβCD
+- ABPs, actin binding proteins
+- CHO, Chinese hamster ovary
+- FDA, fluorescein diacetate
+- GPCR, G protein-coupled receptor
+- MβCD, methyl-β-cyclodextrin
+- MIP, maximum intensity projection
+- PI(4,5)P2, phosphatidylinositol 4,5-bisphosphate
+- PI, propidium iodide
+
+---

@@ -1,0 +1,34 @@
+---
+figid: PMC8984014__jitc-2021-004095f03
+pmcid: PMC8984014
+image_filename: jitc-2021-004095f03.jpg
+figure_link: /pmc/articles/PMC8984014/figure/F3/
+number: Figure 3
+figure_title: ''
+caption: Differentially expressed gene and pathway analysis using the bulk RNA-seq
+  from TCGA SKCM cohort. (A) Differential gene expression analyses were performed
+  in primary and metastatic cohorts using the quasi-likelihood pipeline of edgeR.
+  The p value for differential expression was determined by the quasi-likelihood F-test
+  and adjusted for multiple hypotheses testing. Genes with FDR < 0.05 were determined
+  as differentially expressed between BRAF-mutant and BRAF-wt samples. (B) The enrichment
+  of MsigDB Hallmark gene set collection in BRAF-mutant samples compared with BRAF-wt
+  samples was tested using fry in limma R/Bioconductor package. FDR, false discovery
+  rate; SKCM, skin cutaneous melanoma; TCGA, The Cancer Genome Atlas.
+article_title: Characterization of the treatment-naive immune microenvironment in
+  melanoma with BRAF mutation.
+citation: Minyu Wang, et al. J Immunother Cancer. 2022;10(4):e004095.
+year: '2022'
+
+doi: 10.1136/jitc-2021-004095
+journal_title: Journal for Immunotherapy of Cancer
+journal_nlm_ta: J Immunother Cancer
+publisher_name: BMJ Publishing Group
+
+keywords:
+- melanoma
+- CD8-positive T-lymphocytes
+- B-lymphocytes
+- CD4-positive T-lymphocytes
+- immunotherapy
+
+---

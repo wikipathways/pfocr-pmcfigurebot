@@ -1,0 +1,53 @@
+---
+figid: PMC8990024__dmm-15-049286-g6
+pmcid: PMC8990024
+image_filename: dmm-15-049286-g6.jpg
+figure_link: /pmc/articles/PMC8990024/figure/DMM049286F6/
+number: Fig. 6
+figure_title: ''
+caption: 'RET promotes acute inflammatory response involution-associated gene expression.
+  (A) RNA-sequencing data analysis of mammary glands from lactation day 10 (L10) DOX-induced
+  Ret/MTB females (L10 ret/MTB DOX) or control Ret/− and MTB/− females (L10 Ret/−,
+  MTB/− DOX) in comparison to virgin (V) DOX-treated control Ret/− animals (V Ret/−
+  DOX) is presented as a Venn diagram of the number of differentially expressed (DE)
+  genes. P≤0.01; P-values were calculated as implemented in R (n=6 L10 Ret/MTB mice,
+  n=3 L10 Ret/− and n=3 L10 MTB/− mice, n=4 V Ret/– mice). (B) Gene set enrichment
+  analysis (GSEA) was carried out using publicly available sets (MSigDB). GSEA shows
+  the correlation with the gene sets upregulated with more than 120 genes in size
+  between the top ten oncogenic pathways: top three (3) EGFR_UP.V1_UP, top six (6)
+  AKT_UP.V1_UP and top nine (9) AKT_UP_MTOR_DN.V1_UP, in the six Ret/MTB in contrast
+  to the six control 10 day-lactating glands (Ret/−, MTB/−). The bottom-right GSEA
+  shows the correlation between the top (1) canonical pathway, REACTOME_INTERFERON_ALPHA_BETA_SIGNALING,
+  in the same conditions. Peaks or valleys that occur on the edges represent pathways
+  differentially regulated by RET overexpression. NES, normalized enrichment score;
+  q, false-discovery rate. P-value was computed as implemented in GSEA. (C) IHC for
+  p-S10H3 staining and the corresponding quantification was performed on sections
+  of mammary glands of Ret/MTB or control (Ret/−, MTB/−) DOX-induced females on lactation
+  day 10 (L10). Data are presented as the mean±s.e.m. Scale bars: 50 μm. (D) Volcano
+  plot showing gene expression of RET-expressing bitransgenic mammary glands (Ret/MTB,
+  n=6) compared with control mammary glands (Ret/−, n=3 and MTB/−, n=3) from 10 day-lactating
+  females on DOX treatment (L10 Ret/MTB DOX versus L10 Ret/−, MTB/− DOX). Black dots
+  correspond to the 149 significantly deregulated genes (P≤0.01); at the bottom, the
+  non-significant genes are shown as gray dots. Gene symbols of the most significantly
+  upregulated genes are indicated [Log2(fold change)≥1.5; –Log10(P)≥2.5; P≤0.01].
+  From the literature, we highlighted genes by color code that are Stat3 (or Stat1)
+  regulated in mammary epithelium. Genes described as post-partum-associated high
+  breast cancer risk are indicated by asterisks.'
+article_title: Aberrant RET expression affects normal mammary gland post-lactation
+  transition, enhancing cancer potential.
+citation: Sabrina A. Vallone, et al. Dis Model Mech. 2022 Mar 1;15(3):dmm049286.
+year: '2022'
+
+doi: 10.1242/dmm.049286
+journal_title: Disease Models & Mechanisms
+journal_nlm_ta: Dis Model Mech
+publisher_name: The Company of Biologists Ltd
+
+keywords:
+- Breast cancer
+- Involution
+- Mammary gland
+- RET
+- Stat3
+
+---

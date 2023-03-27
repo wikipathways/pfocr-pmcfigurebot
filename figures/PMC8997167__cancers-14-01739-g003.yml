@@ -1,0 +1,34 @@
+---
+figid: PMC8997167__cancers-14-01739-g003
+pmcid: PMC8997167
+image_filename: cancers-14-01739-g003.jpg
+figure_link: /pmc/articles/PMC8997167/figure/cancers-14-01739-f003/
+number: Figure 3
+figure_title: ''
+caption: AR-null and AR-positive LuCaP PDX tumors display distinct signaling network
+  topologies. (a) Representative tables of enriched pathways and ontologies highlighted
+  by Enrichr analysis with an input of enriched genes that increased by at least 1.5-fold
+  comparatively between AR-positive and AR-null CRPC, using the RPPA proteomic data.
+  (b) PathwayNet predicted interactions between the enriched genes and other genes,
+  and transcription factors are shown in network diagrams for AR-null and AR-positive
+  CRPC. (c) GSEA enrichment plots showing upregulation of oxidative phosphorylation,
+  c-Myc, and mTOR in AR-positive LuCaP PDX tumors. (d) GSEA enrichment plots showing
+  upregulation of E2F targets, EMT, G2M, and H3K27ME3 in AR-null LuCaP PDX tumors.
+article_title: Proteomic and Transcriptomic Profiling Reveals Mitochondrial Oxidative
+  Phosphorylation as Therapeutic Vulnerability in Androgen Receptor Pathway Active
+  Prostate Tumors.
+citation: Caroline Xue, et al. Cancers (Basel). 2022 Apr;14(7):1739.
+year: '2022'
+
+doi: 10.3390/cancers14071739
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- metastatic prostate cancer
+- patient-derived xenograft
+- reverse phase protein arrays
+- gene set expression analysis
+
+---

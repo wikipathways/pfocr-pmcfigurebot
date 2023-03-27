@@ -1,0 +1,31 @@
+---
+figid: PMC9013648__TCA-13-1117-g004
+pmcid: PMC9013648
+image_filename: TCA-13-1117-g004.jpg
+figure_link: /pmc/articles/PMC9013648/figure/tca14366-fig-0005/
+number: FIGURE 5
+figure_title: ''
+caption: Epiplakin1 knockdown inhibited the PI3K/AKT signaling pathway. (a) KEGG analysis
+  was accomplished by the clusterProfiler package in R. (b) GSEA revealed significant
+  differences (false discovery rate, FDR q value <0.05; nominal, NOM p value <0.05)
+  in enrichment of the Molecular Signatures Database (MSigDB) Collection (c2.cp.v7.2.symbols.gmt).
+  (c) The proteins related to the PI3K/AKT signaling pathway were measured by western
+  blot with the indicated antibodies (p < 0.05). Values represent means ± SD, n = 3.
+  *p < 0.05, **p < 0.01, ***p < 0.001
+article_title: Epiplakin1 promotes the progression of esophageal squamous cell carcinoma
+  by activating the PI3K‐AKT signaling pathway.
+citation: Zhongshi Qiao, et al. Thorac Cancer. 2022 Apr;13(8):1117-1125.
+year: '2022'
+
+doi: 10.1111/1759-7714.14366
+journal_title: Thoracic Cancer
+journal_nlm_ta: Thorac Cancer
+publisher_name: John Wiley & Sons Australia, Ltd
+
+keywords:
+- EPPK1
+- ESCC
+- PI3K/AKT pathway
+- tumor progression
+
+---

@@ -1,0 +1,32 @@
+---
+figid: PMC9448510__nihms-1822948-f0016
+pmcid: PMC9448510
+image_filename: nihms-1822948-f0016.jpg
+figure_link: /pmc/articles/PMC9448510/figure/F16/
+number: Extended Data Fig. 11 |
+figure_title: The impact of BHB and HOPX on colorectal cancer biopsies
+caption: a, Workflow of analysis of CRC patient cohort. b, Serum BHB levels in 41
+  colon cancer patients. c, d, UMAP clustering (c) and marker gene expression (d)
+  in single-cell RNA-sequencing data of colonic biopsies from nine CRC patients. e–h,
+  Epithelial HOPX expression binned by serum BHB levels (e), correlation of average
+  epithelial HOPX expression with serum BHB (f), correlation of epithelial cell cycle
+  progression with serum BHB (g), and correlation of the proportion of cells in S
+  phase with the proportion of HOPX-expressing epithelial cells (h) as determined
+  by single-cell RNA-sequencing of colonic biopsies of tumour and normal tissue from
+  nine CRC patients. Error bars indicate means ± SEM. The p- and R-values were determined
+  by linear regression. i, Cartoon illustrating that ketogenic diet induces BHB, which
+  in turn signals via HCAR2 to induce HOPX, decelerate proliferation of the colonic
+  crypt, and suppress cancer development. This pathway is contrasted with the mechanisms
+  engaged by other tumour-modulatory diets. Exact n and p-values are presented in
+  .
+article_title: β-Hydroxybutyrate suppresses colorectal cancer.
+citation: Oxana Dmitrieva-Posocco, et al. Nature. ;605(7908):160-165.
+year: '2022'
+
+doi: 10.1038/s41586-022-04649-6
+journal_title: Nature
+journal_nlm_ta: Nature
+publisher_name: ''
+
+keywords:
+---

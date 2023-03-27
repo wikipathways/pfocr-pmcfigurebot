@@ -1,0 +1,35 @@
+---
+figid: PMC9027215__genes-13-00654-g007
+pmcid: PMC9027215
+image_filename: genes-13-00654-g007.jpg
+figure_link: /pmc/articles/PMC9027215/figure/genes-13-00654-f007/
+number: Figure 7
+figure_title: ''
+caption: 'Enrichment analysis. (A) GO enrichment analysis of 693 module genes obtained
+  from WGCNA. The enrichment results are carried out from three aspects: biological
+  process (BP), cellular component (CC), and molecular function (MF). (B) The 693
+  module genes obtained from WGCNA were analyzed by KEGG enrichment analysis. The
+  x−axis of each part of a−b is the proportion of genes enriched in this pathway of
+  the total analyzed genes. The different size of the dot represents the number of
+  genes enriched in the pathway, and the color of the dot represents the p value.
+  p < 0.05 is regarded as statistically significant. (C) Enrichment analysis of 150
+  genes expression, which were similar to hub genes expression pattern. Each column
+  bar on the y−axis represents an enrichment pathway, and the x-axis is the significance.'
+article_title: Bioinformatics Analysis Highlight Differentially Expressed CCNB1 and
+  PLK1 Genes as Potential Anti-Breast Cancer Drug Targets and Prognostic Markers.
+citation: Leiming Fang, et al. Genes (Basel). 2022 Apr;13(4):654.
+year: '2022'
+
+doi: 10.3390/genes13040654
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: MDPI
+
+keywords:
+- breast cancer
+- CCNB1
+- DEGs
+- hub genes
+- PLK1
+
+---

@@ -1,0 +1,39 @@
+---
+figid: PMC9066105__ijbsv18p2807g003
+pmcid: PMC9066105
+image_filename: ijbsv18p2807g003.jpg
+figure_link: /pmc/articles/PMC9066105/figure/F3/
+number: Figure 3
+figure_title: ''
+caption: BMI1-ChIP-Seq Analysis. (A) Circos plot of public BMI1 ChIP-seq data. From
+  the outside-in, the tracks represent chromosome karyotypes, peak distributions for
+  the BMI1 group (purple), peak distributions for the IgG control group (blue), ratios
+  of peak comparisons (the red or green color indicates higher or lower abundance
+  in the BMI1 group) and the relative locations of annotated genes (orange). (B) Distribution
+  of BMI1-binding sites relative to TSS of genes. (C) Representative KEGG pathway
+  for BMI1's putative direct targets within 1 kb of their TSS. (D) Visualization of
+  (C) based on Cytoscape Software. (E) Protein-protein association network involved
+  in 'signaling pathways regulating pluripotency of stem cells' set of pathways was
+  analyzed using the STRING database. (F) BMI1 binding peaks at the indicated gene
+  loci. (G) ChIP-qPCR of BMI1 target genes in SSCs using an anti-BMI1 antibody. Data
+  represent mean ± SD, n = 3 independently differentiated groups. Statistical analysis
+  was performed using Student's two tailed t test. *P < 0.05; **P < 0.01; ***P < 0.001.
+  not significant (n.s.), P > 0.05.
+article_title: BMI1 promotes spermatogonial stem cell maintenance by epigenetically
+  repressing Wnt10b/β-catenin signaling.
+citation: Jun Yu, et al. Int J Biol Sci. 2022;18(7):2807-2820.
+year: '2022'
+
+doi: 10.7150/ijbs.70441
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- Spermatogonial stem cells
+- Self-renewal
+- BMI1
+- Wnt10b
+- Wnt/β-catenin signaling
+
+---

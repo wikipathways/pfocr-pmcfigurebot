@@ -1,0 +1,52 @@
+---
+figid: PMC9052943__nihms-1795987-f0002
+pmcid: PMC9052943
+image_filename: nihms-1795987-f0002.jpg
+figure_link: /pmc/articles/PMC9052943/figure/F2/
+number: Figure 2
+figure_title: TAMs manifest high metabolic diversification
+caption: '(A) Schematic representing the workflow of metabolic pathway activity analysis
+  for each macrophage cluster with scRNA-seq.(B) Landscape of the activity of different
+  metabolic pathways in different macrophage populations (left). Enrichment analysis
+  by GSEA; color of each heatmap cell represents the value calculated with formula:
+  +/−Log2|NES/FDR|. Red: significantly up-regulated (nominal p < 0.05); blue: significantly
+  down-regulated (nominal p< 0.05); gray: pathways not enriched (nominal p > 0.05).
+  Heatmap on the right shows the ratio between tumor and normal sample and the polarization
+  state as well as the origin, defined in , for each macrophage population; AA: amino
+  acid metabolism; NES: normalized enrichment scores, FDR: false discovery rate.(C)
+  The activity of selected metabolic pathway in selected macrophage populations. Normalized
+  enrichment scores and nominal p values are calculated by Kolmogorov-Smirnov test.(D)
+  Workflow of metabolic heterogeneity analysis of macrophages with scRNA-seq; GO:
+  the gene ontology; Lipid: lipid metabolism; Purine: purine metabolism; Gly: glycolysis;
+  AA: amino acid metabolism; OX: oxidative phosphorylation.(E) UMAP plots showing
+  the metabolic clusters of macrophages. The color of each dot indicates the dominant
+  metabolic cluster of each cell, determined using 1,310 metabolic genes.(F) GSEA
+  score (+/−Log2|NES/FDR|) of 5 metabolic clusters against 5 metabolic gene signatures.
+  Red: positively enriched; green: negatively enriched; white: not enriched.(G–I)
+  UMAP plots showing the metabolic clusters of macrophages. The color of each dot
+  indicates the developmental origin (G) and the sample (H) as well as the polarization
+  state of each macrophage (I).(J) The expression level of genes from SLC family members,
+  ABC transporters, and pump and ion channels. Fold change: each metabolic cluster
+  compared with other clusters.(K) Enrichment analysis of transcriptional factors
+  (TF) associated with the 5 metabolic clusters using BART (binding analysis for regulation
+  of transcription) (), with top 10 highly expressed genes in each cluster; top 5
+  significantly enriched TF in each cluster represented; red grid: top 5 or not; white
+  grid: not available.(L) The metabolic landscape of macrophage populations from normal
+  and tumor in the context of 14 original macrophage populations, as shown in , the
+  dot color was coded based on the dominant metabolism, as shown in .(M) Relative
+  proportion of cells in each metabolic cluster, as shown in , versus samples from
+  normal and tumor. Chi-squared test was used to calculate the significance between
+  tumor and normal groups; *p < 0.05, **p < 0.01, and ***p < 0.001.(N) Immunofluorescence
+  staining of CLEC4F and F4/80 in liver tissue with tumor.(O) Sankey diagram showing
+  the distribution of macrophages in terms of origin and metabolic clusters.'
+article_title: Metabolism drives macrophage heterogeneity in the tumor microenvironment.
+citation: Shasha Li, et al. Cell Rep. ;39(1):110609-110609.
+year: '2022'
+
+doi: 10.1016/j.celrep.2022.110609
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: ''
+
+keywords:
+---

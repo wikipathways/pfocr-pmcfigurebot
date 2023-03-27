@@ -1,0 +1,47 @@
+---
+figid: PMC8983597__nihms-1778335-f0002
+pmcid: PMC8983597
+image_filename: nihms-1778335-f0002.jpg
+figure_link: /pmc/articles/PMC8983597/figure/F1/
+number: Figure 1
+figure_title: Transcriptomic landscape of ESR1 mutant metastatic breast cancers
+caption: A. Schematic overview of transcriptomic analysis of four ER+ metastatic breast
+  cancer cohorts.B. Box plots representing the enrichment levels of “Estrogen Response
+  Early” and “Estrogen Response Late” signatures in ESR1 mutant versus ESR1 WT metastatic
+  tumors in each cohort. (WCRC, 46 ESR1 WT/8 mutant; MET500, 34 ESR1 WT/12 ESR1 mutant;
+  DFCI, 98 ESR1 WT/32 mutant; POG570, 68 ESR1 WT/18 mutant). Four quantiles are shown
+  in each plot. Mann-Whitney U test was used to compare the enrichment of the signatures
+  in WT and mutant tumors. (* p<0.05, ** p<0.01)C. Volcano plots representing the
+  differentially expressing genes (DE genes) in ESR1 mutant tumors versus WT tumors
+  in the three metastatic breast cancer cohorts. DE genes were selected using the
+  cutoff of FDR<0.1 and |log2FC|>1.5. Genes that were upregulated or downregulated
+  were labelled in red and blue respectively with corresponding counts.D. Dot plots
+  showing the top 5 altered cellular and molecular functional categories derived from
+  DE genes analysis using Ingenuity Pathway Analysis software. Specific sub-functions
+  within overarching categories are presented as individual dots. Consistently altered
+  pathways across all four cohorts are indicated in red.E. Stacked bar plot showing
+  the distribution of 14 hotspot ESR1 mutations identified in six independent cohorts
+  using unbiased DNA sequencing approaches. Specific sample numbers were indicated
+  in the plots. Variants with percentages above 1% were labelled on the top of each
+  bar.F. Scatterplot representing enrichment level distribution of 50 hallmark gene
+  sets in 10 Y537S and 8 D538G metastatic tumors (after being normalized against 98
+  WT counterparts) from the DFCI cohort. Top enriched pathways from each quartile
+  are labelled.
+article_title: Hotspot ESR1 mutations are multimodal and contextual modulators of
+  breast cancer metastasis.
+citation: Zheqi Li, et al. Cancer Res. ;82(7):1321-1339.
+year: '2022'
+
+doi: 10.1158/0008-5472.CAN-21-2576
+journal_title: Cancer research
+journal_nlm_ta: Cancer Res
+publisher_name: ''
+
+keywords:
+- ESR1 mutations
+- Metastasis
+- Cell Adhesion
+- Migration
+- Breast cancer
+
+---

@@ -1,0 +1,29 @@
+---
+figid: PMC9000136__pcbi.1009873.g001
+pmcid: PMC9000136
+image_filename: pcbi.1009873.g001.jpg
+figure_link: /pmc/articles/PMC9000136/figure/pcbi.1009873.g001/
+number: Fig 1
+figure_title: Application of optogenetics to study the effects of localized cAMP perturbations
+  in epithelial monolayers
+caption: 'Optogenetic approach to study the effects of localized cAMP perturbations
+  in monolayers: First panel: Top: bPAC, a blue light responsive adenylyl cyclase
+  from bacteria. Bottom: The bPAC input is a sequence of spatially-uniform, constant
+  amplitude (between 0 and 1) pulses of blue light. Second panel: Cell lines: The
+  emitter has bPAC and pathway reporters while the receiver has only pathway reporters.
+  Third panel: Monolayer of just emitters (spatially uniform cAMP perturbation). Fourth
+  panel: Monolayer with a small emitter cluster surrounded by receivers (localized
+  cAMP perturbation). We define a small emitter cluster as a concentrated group of
+  15 or less emitters.'
+article_title: Analysis of localized cAMP perturbations within a tissue reveal the
+  effects of a local, dynamic gap junction state on ERK signaling.
+citation: João Pedro Fonseca, et al. PLoS Comput Biol. 2022 Mar;18(3):e1009873.
+year: '2022'
+
+doi: 10.1371/journal.pcbi.1009873
+journal_title: PLoS Computational Biology
+journal_nlm_ta: PLoS Comput Biol
+publisher_name: Public Library of Science
+
+keywords:
+---

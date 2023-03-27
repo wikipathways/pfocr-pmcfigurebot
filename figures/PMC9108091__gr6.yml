@@ -1,0 +1,59 @@
+---
+figid: PMC9108091__gr6
+pmcid: PMC9108091
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC9108091/figure/fig6/
+number: Fig. 6
+figure_title: ''
+caption: 'W1131 triggers ferroptosis and inhibited GPX4, SLC7A11, and FTH1 expression
+  in gastric cancer A: Bubble chart displaying the gene enrichment analyses, as detected
+  by RNA-seq in AGS cells treated with W1131(1 μM) for 48 h, as compared to vehicle
+  (DMSO). B: GSEA of the FNR signature and IL6 JAK STAT3 pathway in AGS cells treated
+  with W1131(1 μM) for 48 h, as compared to vehicle (DMSO). C: Volcano plot showing
+  genome‐wide mRNA expression in AGS cells treated with W1131(1 μM) for 48 h, as compared
+  to vehicle (DMSO) (P < 0.01; log2 (Fold Change)|>0.585). D: RT-PCR analysis of the
+  indicated genes in AGS and MGC803 cells treated with vehicle (DMSO) or W1131 for
+  48 h. E: Immunoblotting analysis of the indicated proteins in AGS cells treated
+  with vehicle (DMSO) or W1131 for 48 h. F: Electron micrographs in MGC803 cells treated
+  with vehicle (DMSO) or W1131 for 24 h. G: AGS cells were treated with vehicle (DMSO)
+  or W1131 (1 μM) in the absence or presence of Ferrostatin-1(2 μM), Liproxstatin-1(2 μM)
+  and DFO(100 μM) for 24 h, and then intracellular MDA were assayed. H: AGS cells
+  were treated with vehicle (DMSO) or W1131 (1 μM) in the absence or presence of Ferrostatin-1(2 μM),
+  Liproxstatin-1(2 μM) and DFO(100 μM) for 24 h, and then GSH/GSSG ratio were assayed.
+  I: C11-BODIPY 581/591 probe was used to detected lipid peroxidation level in AGS
+  cells treated with vehicle (DMSO) or W1131 (1 μM) in the absence or presence of
+  Ferrostatin-1(2 μM), Liproxstatin-1(2 μM) and DFO(100 μM) for 24 h by flow cytometry.
+  Quantification of C11-BODIPY 581/591(FL1) fluorescence was shown. J: FerroOrange
+  probe was used to detected intracellular Fe2+ level in AGS cells treated with vehicle
+  (DMSO) or W1131 (1 μM) in the absence or presence of Ferrostatin-1(2 μM), Liproxstatin-1(2 μM),
+  and DFO(100 μM) for 24 h by flow cytometry. Quantification of FerroOrange(PE) fluorescence
+  was shown. K: Liperfluo and FeroOrange staining for intracellular lipid ROS and
+  Fe2+ level in AGS cells treated with vehicle (DMSO) or the indicated concentrations
+  of W1131 for 24 h. Shown is one of five representative fields illustrating fluorescence
+  intensity taken at identical exposures for each condition. Scale bars = 50 μm. *P < 0.05,
+  **P ≤ 0.01, ***P < 0.001, ****P ≤ 0.0001. n = 3. Student''s t-test. All data were
+  shown as means ± s.d.'
+article_title: Inhibition of STAT3-ferroptosis negative regulatory axis suppresses
+  tumor growth and alleviates chemoresistance in gastric cancer.
+citation: Shumin Ouyang, et al. Redox Biol. 2022 Jun;52:102317.
+year: '2022'
+
+doi: 10.1016/j.redox.2022.102317
+journal_title: Redox Biology
+journal_nlm_ta: Redox Biol
+publisher_name: Elsevier
+
+keywords:
+- Ferroptosis
+- STAT3 inhibitor
+- Chemotherapy resistance
+- Gastric cancer
+- 5-FU, 5-fluorouracil
+- STAT3, Signal transducer and activator of Transcription 3
+- PDX, patient-derived xenografts
+- FNR, ferroptosis negative regulation
+- FPR, ferroptosis positive regulation
+- 4-HNE, 4-hydroxynonenal
+- MDA, malondialdehyde
+
+---

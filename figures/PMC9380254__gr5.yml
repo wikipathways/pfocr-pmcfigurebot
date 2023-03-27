@@ -1,0 +1,52 @@
+---
+figid: PMC9380254__gr5
+pmcid: PMC9380254
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC9380254/figure/fig5/
+number: Figure 5
+figure_title: ''
+caption: Remodeled GR sites associate with genes showing altered glucocorticoid response(A)
+  Liver RNA-seq in vehicle-treated Hnf4afl/flAlbCre, LKO versus LWT samples. Significantly
+  downregulated genes (FDR < 0.05) in red, significantly upregulated genes in blue
+  (n = 3–4 biological replicates/group).(B) Top Reactome pathways of genes downregulated
+  (red) and upregulated (blue) by HNF4A loss. Point size is proportional to number
+  of genes in that pathway. P value from hypergeometric test, Benjamini Hochberg adjusted.(C)
+  Effect of DEX treatment in LWT and LKO mice (n = 3–4 biological replicates/group).
+  Genes where stageR detects a significant treatment × genotype interaction shown
+  in gray (1,908 genes). Those where direction of change is different between genotypes,
+  and where effect of treatment is significant, highlighted in purple (633 genes).
+  These include notable metabolic regulators and enzymes, highlighted in green. FC,
+  fold change.(D) Enrichment of gene clusters at increasing distances from sites where
+  GR binding and chromatin accessibility is lost or gained in Hnf4afl/flAlbCre LKO
+  mice (hypergeometric test). First cluster comprises those 1,908 genes where stageR
+  detects a treatment-genotype interaction, other clusters comprise random samples
+  of equivalent size (repeated four times) of DEX-responsive genes where no treatment-genotype
+  interaction is detected. Shading of each heatmap cell corresponds to –log10(p value)
+  for enrichment, number indicates number of genes in each cluster at that distance.(E)
+  Exemplar tracks showing GR ChIP-seq and ATAC-seq signals around the Klf3, Jun, Slc2a4,
+  and Fos loci in LWT and LKO liver. Sites of lost GR binding and chromatin accessibility
+  indicated with navy arrows, sites of gained GR binding and chromatin accessibility
+  indicated with orange arrows. The y axis is uniform within each panel.(F) Hepatic
+  expression of Forkhead box factor genes in Hnf4afl/flAlbCre LKO compared with LWT
+  mice. FDR, false discovery rate. See also  and .
+article_title: HNF4A modulates glucocorticoid action in the liver.
+citation: A. Louise Hunter, et al. Cell Rep. 2022 Apr 19;39(3):110697.
+year: '2022'
+
+doi: 10.1016/j.celrep.2022.110697
+journal_title: Cell Reports
+journal_nlm_ta: Cell Rep
+publisher_name: Cell Press
+
+keywords:
+- glucocorticoid receptor
+- nuclear receptor
+- HNF4A
+- liver
+- ChIP
+- chromatin
+- tissue specificity
+- mouse
+- cistrome
+
+---

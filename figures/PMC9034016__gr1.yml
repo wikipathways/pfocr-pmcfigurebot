@@ -1,0 +1,33 @@
+---
+figid: PMC9034016__gr1
+pmcid: PMC9034016
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC9034016/figure/f0005/
+number: Fig. 1
+figure_title: ''
+caption: The overview of RNA-seq experiments following the cGAS-STING signaling activation.
+  (A) The schematic diagram of study design and sample collection for RNA-seq. (B)
+  HFF cells were stimulated with HT-DNA, G3-YSD, HSV-1, cGAMP, and CpG-DNA for 9 h,
+  respectively. Then, cell lysates were collected for western blot analysis of STING,
+  TBK1, IRF3, GAPDH, and the phosphorylation of STING, TBK1, IRF3. (C) The barplot
+  of the number of mapped paired-end reads per RNA-seq sample. (D) The heatmap of
+  the expression pattern of known ISGs following the treatment of three cGAS-STING
+  pathway stimulators and one DNA virus.
+article_title: m6A-mediated modulation coupled with transcriptional regulation shapes
+  long noncoding RNA repertoire of the cGAS-STING signaling.
+citation: Jinyi Song, et al. Comput Struct Biotechnol J. 2022;20:1785-1797.
+year: '2022'
+
+doi: 10.1016/j.csbj.2022.04.002
+journal_title: Computational and Structural Biotechnology Journal
+journal_nlm_ta: Comput Struct Biotechnol J
+publisher_name: Research Network of Computational and Structural Biotechnology
+
+keywords:
+- lncRNA
+- cGAS-STING signaling
+- N6-methyladenosine (m6A)
+- Transcriptional regulation
+- Transcription factor
+
+---

@@ -1,0 +1,43 @@
+---
+figid: PMC8997528__cells-11-01126-g006
+pmcid: PMC8997528
+image_filename: cells-11-01126-g006.jpg
+figure_link: /pmc/articles/PMC8997528/figure/cells-11-01126-f006/
+number: Figure 6
+figure_title: ''
+caption: 'DNA methylation and open chromatin regions in PDLCs with distinct osteogenic
+  potential after osteogenic stimulation. The comparison of l- and h-PDLCs at epigenetic
+  levels (DNA methylation and chromatin accessibility) was performed between data
+  sets obtained after 10 days of cell culture in OM media. (A) Proportion of 14,194
+  differentially methylated probes, either hypo- or hyper-methylated in l-PDLCs as
+  compared to h-PDLCs. (B) The top 16 biological processes related to genes hypermethylated
+  in l-PDLCs. (C) Gene expression changes related to ‘Bone development’ process highlighted
+  in (B), extracted from the RNA-seq data as Log2FoldChange. (D,E) Open chromatin
+  regions identified by ATAC-seq after osteogenic stimulation were linked to the closest
+  gene, and the gene lists were analysed for pathway enrichment. The analysis was
+  performed using GO Biological Processes and the top 15 terms are shown for l-PDLCs
+  (LOM) (D) and h-PDLCs (HOM) (E). (F,G) Differential gene expression levels between
+  l- and h-PDLCs at day 10 of osteogenic stimulation, extracted from the RNA-seq data
+  as Log2FoldChange for genes associated with ‘Response to unfolded protein’ (F) and
+  ‘Osteoblast differentiation’ (G). Orange: genes upregulated in h-PDLCs; blue: genes
+  upregulated in l-PDLCs. LOM, periodontal ligament cells with low osteogenic potential
+  at day 10 day of osteogenic stimulation in vitro; HOM, periodontal ligament cells
+  with high osteogenic potential at day 10 day of osteogenic stimulation in vitro.'
+article_title: Osteogenic Commitment of Human Periodontal Ligament Cells Is Predetermined
+  by Methylation, Chromatin Accessibility and Expression of Key Transcription Factors.
+citation: Rahyza I. F. Assis, et al. Cells. 2022 Apr;11(7):1126.
+year: '2022'
+
+doi: 10.3390/cells11071126
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- periodontal ligament cells
+- osteogenesis
+- DNA methylation
+- transcriptome
+- epigenomics
+
+---

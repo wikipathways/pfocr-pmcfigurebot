@@ -1,0 +1,46 @@
+---
+figid: PMC9300125__CBIC-23-0-g003
+pmcid: PMC9300125
+image_filename: CBIC-23-0-g003.jpg
+figure_link: /pmc/articles/PMC9300125/figure/cbic202100507-fig-0001/
+number: Figure 1
+figure_title: ''
+caption: 'Overview of the discussed methods for mutagenic library creation, gene‐
+  and pathway assembly, and library analysis. A) Oligo pool‐based methods to generate
+  protein libraries, gene fragment libraries, or pathways. 1) Single residue saturation
+  mutagenic libraries, such as those used for deep‐mutational scanning, can be created
+  from oligo pools by Nicking Mutagenesis (NM),[, ] programmed allelic series (PALS),
+  plasmid recombineering (PR) or CRISPR‐enabled trackable Genome engineering (CREATE).
+  2) Libraries where short DNA stretches are comprehensively inserted, such as required
+  for protein minimization, have been created by PR and can likely be created by NM,
+  PALS, and CREATE. Single‐residue deletion libraries have been created by PALS. 3) Complex
+  pools of many different proteins fragments can be created by multiple pairwise assembly
+  and DropSynth.[, ] 4) Larger genes and pathways can be assembled as shown by Wan
+  et al. B) Library sequence analysis: The quality of libraries needs to be analyzed
+  for the frequency of programmed mutations (red dot) and the frequency of off‐target
+  mutations (cross). 1) Short‐read sequencing – as offered via Illumina‐based services
+  – is highly accurate, high in throughput, and widely accessible but the short read‐length
+  leads to a narrow resolution window. Libraries need to be tiled to be accurately
+  quality controlled, as off‐target mutations outside the resolution window are otherwise
+  invisible. 2) Molecular barcoding and computational assembly can overcome the limited
+  read length in NGS as full‐length sequences of mutagenized clones can be obtained
+  from short NGS reads. 3) Single‐molecule real‐time (SMRT) long‐read sequencing,
+  followed by computational error correction or combined with variant‐concatenation[,
+  ] starts to allow long‐read sequencing for library quality control in protein engineering.'
+article_title: Oligo Pools as an Affordable Source of Synthetic DNA for Cost‐Effective
+  Library Construction in Protein‐ and Metabolic Pathway Engineering.
+citation: Bastiaan P. Kuiper, et al. Chembiochem. 2022 Apr 5;23(7):e202100507.
+year: '2022'
+
+doi: 10.1002/cbic.202100507
+journal_title: Chembiochem
+journal_nlm_ta: Chembiochem
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- array-based oligonucleotides
+- gene synthesis
+- mutagenesis
+- protein engineering
+
+---

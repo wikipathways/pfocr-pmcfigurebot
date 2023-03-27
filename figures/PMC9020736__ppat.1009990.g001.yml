@@ -1,0 +1,51 @@
+---
+figid: PMC9020736__ppat.1009990.g001
+pmcid: PMC9020736
+image_filename: ppat.1009990.g001.jpg
+figure_link: /pmc/articles/PMC9020736/figure/ppat.1009990.g001/
+number: Fig 1
+figure_title: Proinflammatory signaling pathways were decreased in Ad26.COV2.S vaccinated
+  compared to sham unvaccinated hamsters
+caption: (A) Boxplots of SARS-CoV-2 transcripts normalized read counts across all
+  animals, vaccinated hamsters are shown in blue and pink, and sham animals in green.
+  (B) Sample-enrichment analysis (SLEA) of inflammatory pathways and interferon signaling
+  increased by SARS-CoV-2 at 4 dpi in sham unvaccinated hamsters (in green) and decreased
+  in vaccinated hamsters (in pink and blue) compared to naïve uninfected animals (in
+  red). Heatmap presenting the SLEA z-score of each of these pathways. SLEA represents
+  the mean expression of all significant genes within each pathway for each animal.
+  An SLEA z-score greater than 0 corresponds to a pathway for which member genes are
+  up-regulated, while an SLEA z-score inferior to 0 corresponds to a pathway with
+  genes downregulated in that sample. Columns correspond to individual animals, and
+  rows correspond to individual pathways scaled across all animals using the z-score
+  R function. (C) Gene heatmaps of the row scaled expression of the leading genes
+  from pathways shown in panel A increased or decreased at 4 dpi in vaccinated hamsters
+  compared to sham unvaccinated and control naïve animals. Adjusted P-values (<0.05)
+  were calculated by DEseq2 using Benjamini-Hochberg corrections of Wald test p-values.
+  Columns correspond to individual animals, and rows correspond to individual genes.
+  (D) Bar plots represent the log2 fold change mRNA expression of IL-6, IL-1, IL-1R,
+  and Furin across all groups. The length of the bar plot represents the log2-fold
+  change compared to control animals, and the color gradient corresponds to the BH-adjusted
+  p-values for each gene. (E) Heatmaps of proinflammatory markers and proinflammatory
+  cytokines at 4 dpi in vaccinated hamsters compared to sham unvaccinated and control
+  naïve animals. Adjusted P-values (<0.05) were calculated by DEseq2 using Benjamini-Hochberg
+  corrections of Wald test p-values. Columns correspond to individual animals, and
+  rows correspond to individual genes scaled across all animals. (F) Percent area
+  of lung tissue staining positive for Mx1. Mx1 = myxovirus protein 1 (type 1 interferon-inducible
+  gene) in vaccinated compared to sham unvaccinated hamsters. Kruskall-Wallis one-way
+  ANOVA followed by Dunn’s multiple comparisons test. Red line = median. (G) Correlation
+  matrix plot showing the Spearman correlation of interferon and inflammatory signatures
+  at 4 dpi with viral loads in hamster’s lung and nares at 4 dpi and neutralizing
+  and binding antibody titers at weeks 2–4 post-vaccination. Negative correlations
+  were shown in cyan, and positive correlations were shown in pink.
+article_title: Ad26.COV2.S prevents upregulation of SARS-CoV-2 induced pathways of
+  inflammation and thrombosis in hamsters and rhesus macaques.
+citation: Malika Aid, et al. PLoS Pathog. 2022 Apr;18(4):e1009990.
+year: '2022'
+
+doi: 10.1371/journal.ppat.1009990
+journal_title: PLoS Pathogens
+journal_nlm_ta: PLoS Pathog
+publisher_name: Public Library of Science
+
+keywords:
+---

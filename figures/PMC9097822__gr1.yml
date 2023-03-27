@@ -1,0 +1,43 @@
+---
+figid: PMC9097822__gr1
+pmcid: PMC9097822
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC9097822/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: Cell signalling. a)Diagrammatic representation of signal reception, transduction,
+  and response, exemplified by ERBB receptor tyrosine kinases and MAPK signalling.
+  Ligand binding triggers receptor dimerisation at the plasma membrane, leading to
+  their cytoplasmic domain phosphorylation and the recruitment of signalling complexes
+  (not shown). ERBB activation then facilitates the exchange of GDP for GTP in small
+  GTPases (e.g. RAS proteins), inducing the recruitment of effector kinases. Here,
+  we depict one of the several pathways that amplify and relay the initiating signal
+  to the nucleus, the MAPK pathway (RAF→MEK→ERK). In the nucleus, ERK phosphorylates
+  ELK leading to transcription of target genes, biological response, and termination
+  of the originating signal.b)Diagrammatic representation of ERBB ligand reception.
+  ERBB1 (also known as EGFR) binds the epidermal growth factor (EGF), transforming
+  growth factor alpha (TGFA), amphiregulin (AREG), heparin-binding EGF-like growth
+  factor (HBEGF), betacellulin (BTC), epigen (EPGN) and epiregulin (EREG). ERBB2 has
+  no ligand but can heterodimerise with other ERBB receptors. ERBB3 has very low kinase
+  activity on its own but forms active dimers upon binding to neuregulins (NRG1/2).
+  ERBB4 binds to several ligands of ERBB1/3, and NRG3/4.c)Once a molecular event (ligand
+  binding) is transduced to a biochemical signal (RTK phosphorylation), a network
+  of networks (here we depict MAPK, PI3K, and hippo pathways) further process the
+  biochemical signal in space and time to trigger the most appropriate biological
+  response.d)Signalling dynamics favour the activation of specific transcriptional
+  programs depending on the stability of target transcripts and proteins. For example,
+  ELK induce the transcription of FOS that is rapidly degraded. However, if ERK activation
+  is sustained, ERK phosphorylate also FOS, leading to proliferation through Cyclin
+  D1 (CCDN1) expression [].
+article_title: Signalling dynamics, cell decisions, and homeostatic control in health
+  and disease.
+citation: Pablo Oriol Valls, et al. Curr Opin Cell Biol. 2022 Apr;75:None-None.
+year: '2022'
+
+doi: 10.1016/j.ceb.2022.01.011
+journal_title: Current Opinion in Cell Biology
+journal_nlm_ta: Curr Opin Cell Biol
+publisher_name: Elsevier
+
+keywords:
+---

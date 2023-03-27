@@ -1,0 +1,35 @@
+---
+figid: PMC9013128__nihms-1795992-f0006
+pmcid: PMC9013128
+image_filename: nihms-1795992-f0006.jpg
+figure_link: /pmc/articles/PMC9013128/figure/F5/
+number: Figure 5
+figure_title: ARID2 deficiency leads to altered gene expression programs linked to
+  invasion
+caption: (A) Association of ranked DEGs (heatmap) in SKmel147 ARID2 KO versus WT cells
+  with their associated ATAC increased or decreased peaks (bottom), within a TAD and
+  within ± 500 kb of the TSS. Replicates are shown (R1, R2). TEAD4/FOSL2 status is
+  shown above and called if at least one of the gene-associated ATAC changing peaks
+  is bound by FOSL2 and/or TEAD4.(B) Biological process gene ontology of genes in
+  (A).(C) Heatmap of significantly upregulated genes (Z scores) from (B) of the pathway
+  “response to TGFB.” TEAD4/FOSL2 status is shown on the left.(D) Heatmap of upregulated
+  genes (Z scores) associated with regions with increased chromatin accessibility
+  within a TAD overlapped with the “invasive melanoma signature” from .(E) UCSC genome
+  browser (hg19) snapshot displaying a putative enhancer (highlighted in yellow) with
+  increased accessibility and SS18/FOSL2 binding in ARID2 KO lines with the promoter
+  of the associated upregulated gene TGFBR2 shown.(F) WCE immunoblots of SKmel147
+  ARID2 WT (parental and NTC) and KO (KO1.4 and KO3.20) lines probed for TGFBR2, phospho-SMAD3,
+  and SMAD3. GAPDH was used as a loading control (n = 2). See also  and , , , , and
+  .
+article_title: Altered BAF occupancy and transcription factor dynamics in PBAF-deficient
+  melanoma.
+citation: Saul Carcamo, et al. Cell Rep. ;39(1):110637-110637.
+year: '2022'
+
+doi: 10.1016/j.celrep.2022.110637
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: ''
+
+keywords:
+---

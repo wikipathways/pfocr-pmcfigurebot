@@ -1,0 +1,30 @@
+---
+figid: PMC8948569__HEP4-6-750-g007
+pmcid: PMC8948569
+image_filename: HEP4-6-750-g007.jpg
+figure_link: /pmc/articles/PMC8948569/figure/hep41848-fig-0001/
+number: FIG. 1
+figure_title: ''
+caption: 'A multiscale computational model simulates hepatic zonal induction of Cyp1A1
+  by TCDD. (A) Zonal induction of Cyp1A1 in the mouse liver lobule by TCDD. The central‐to‐portal
+  axis is segmented into nine zones following Halpern et al.(11) The area of the liver
+  lobule expressing Cyp1a1 increases with increasing TCDD dose. (B) Schematic representation
+  of the AHR and β‐catenin pathways and their intersection (made in BioRender [biorender.com]).
+  (C) Intracellular model of the Wnt signaling pathway and downstream gene regulatory
+  network for induction of Cyp1A1 by TCDD. (D) Multiscale virtual liver lobule model.
+  The locations of the cells are calibrated from a single‐cell resolution image of
+  the lobule in Halpern et al(11); the signaling pathway from (C) is implemented in
+  each cell of the lobule model. The colors of the cells represent the expression
+  level of Cyp1A1. Abbreviations: CV, central vein; and PV, portal vein.'
+article_title: A Negative Feedback Loop and Transcription Factor Cooperation Regulate
+  Zonal Gene Induction by 2, 3, 7, 8‐Tetrachlorodibenzo‐p‐Dioxin in the Mouse Liver.
+citation: Yongliang Yang, et al. Hepatol Commun. 2022 Apr;6(4):750-764.
+year: '2022'
+
+doi: 10.1002/hep4.1848
+journal_title: Hepatology Communications
+journal_nlm_ta: Hepatol Commun
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+---

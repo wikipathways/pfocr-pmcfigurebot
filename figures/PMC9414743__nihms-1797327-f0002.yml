@@ -1,0 +1,41 @@
+---
+figid: PMC9414743__nihms-1797327-f0002
+pmcid: PMC9414743
+image_filename: nihms-1797327-f0002.jpg
+figure_link: /pmc/articles/PMC9414743/figure/F1/
+number: Figure 1
+figure_title: Intrinsic transcriptomic subtyping and heterogeneity of PCOs
+caption: '(A) Left: principal coordinate analysis (PCoA) of the total (left), differentially
+  expressed (DE) (middle), and purity annotated (right) PCO-94 transcriptomes. Clustering
+  by PAM is shown. Annotation for purity by deconvolution analysis is shown (“mixed“
+  if largest fraction <75%).(B) Top gene sets correlated with principal coordinates
+  1 and 2 of the PCO-94 PCoA. Signatures from the C2 “curated,“ C5 “Gene Ontology,“
+  and H “hallmark“ gene sets from the mSigDB collection. Ranking by Pearson correlation
+  “r“ of ssGSEA scores and coordinate values is shown. Black triangle, negative correlation;
+  blank triangle, positive correlation.(C) Normalized enrichment score (NES) heatmap
+  of GSEA of the three clusters. Cell lineage, subsets of human prostate epithelial
+  cells defined by scRNA-seq; EMT, MCF-10A breast cancer (BRCA) cells undergoing EMT
+  (). MMH-RT hepatocytes response to TGF-β are shown (). Response of Ras-transformed
+  EpH4 BRCA cells to TGF-β is shown (). GBM, molecular subtypes; BRCA, molecular subtypes
+  (). Ras + mut p53 and integrin pathway from the MSigDB is shown.(D) PRC1 signature
+  “genes upregulated by RNF2“ and PRC2 signature PRC2_EZH2_UP.V1_UP (M2737) are from
+  the MSigDB ().(E and F) Predicted relative fractions (0–1) of ARPC (cluster 1, blue
+  color), MSPC (cluster 2, red), and NEPC (cluster 3, green) in the indicated PDXs
+  (E) and organoids (F; left). Immunoblots (IBs) of PDXs (E) and organoids (F) are
+  shown (right). </p/>(G and H) Immunohistochemistry (IHC) (G) and immunofluorescence
+  (IF) (H) of the indicated PDXs (G) and organoids (H). Representative fields are
+  shown. Scale bars represent 100 μm (G) and 10 μm (H). Pie charts indicate the relative
+  fractions (%) of ARPC, MSPC, and NEPC in each sample. Representative images of n
+  = 3 technical replicates are shown.'
+article_title: Mesenchymal and stem-like prostate cancer linked to therapy-induced
+  lineage plasticity and metastasis.
+citation: Hyunho Han, et al. Cell Rep. ;39(1):110595-110595.
+year: '2022'
+
+doi: 10.1016/j.celrep.2022.110595
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: ''
+
+keywords:
+---

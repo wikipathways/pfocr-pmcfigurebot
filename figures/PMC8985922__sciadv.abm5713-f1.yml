@@ -1,0 +1,28 @@
+---
+figid: PMC8985922__sciadv.abm5713-f1
+pmcid: PMC8985922
+image_filename: sciadv.abm5713-f1.jpg
+figure_link: /pmc/articles/PMC8985922/figure/F1/
+number: Fig. 1
+figure_title: A metabolic model of hydrogenotrophic methanogenesis
+caption: (A) Schematic illustration of the metabolic pathway including all reactions
+  that are included in the metabolic model. Abbreviated enzyme names are in italics
+  (table S1). (B) Metabolic model calibration to measured biomass-specific methanogenesis
+  rate (sMR) as a function of the H2 concentration. Measured biomass-specific methanogenesis
+  rate (circles) during the linear and stationary phase in laboratory cultures of
+  M. thermoautotrophicus grown at 60°C (error bars are SDs for four experiments) ().
+  The median (solid lines) of 103 model simulations with 1, 10, and 100 mM [CO2] and
+  68% (gray envelope) of simulations with 10 mM [CO2] are shown. The envelope represents
+  KM values that were drawn from posterior distributions resulting from the model
+  calibration (see Methods, fig. S2, and table S5).
+article_title: Controls on the isotopic composition of microbial methane.
+citation: Jonathan Gropp, et al. Sci Adv. 2022 Apr;8(14):eabm5713.
+year: '2022'
+
+doi: 10.1126/sciadv.abm5713
+journal_title: Science Advances
+journal_nlm_ta: Sci Adv
+publisher_name: American Association for the Advancement of Science
+
+keywords:
+---

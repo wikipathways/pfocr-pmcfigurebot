@@ -1,0 +1,32 @@
+---
+figid: PMC9023287__gkac200fig6
+pmcid: PMC9023287
+image_filename: gkac200fig6.jpg
+figure_link: /pmc/articles/PMC9023287/figure/F6/
+number: Figure 6
+figure_title: ''
+caption: 'Mutation associated SWAN shifts. (A) All cancers with a significantly different
+  SWAN shift spectrum for p53 mutant tumors compared to p53 wild-type tumors are shown
+  for the KEGG: Autophagy pathway. (B) SWAN feather plot of suppressed autophagy genes.
+  UCEC samples with p53 mutation are plotted as circles, samples with no p53 mutation
+  as crosses. Filled diamonds represent mean SWAN shifts per gene. Inset panel shows
+  overall survival of p53 mutant UCEC compared to non-mutant UCEC. (C) All cancers
+  with a significantly different SWAN shift spectrum for RAS (NRAS, HRAS or KRAS)
+  mutant tumors compared to RAS wild-type tumors are shown for the GO: Inositol phosphate
+  mediated signaling pathway. (D) Breast was the only cancer with a significantly
+  different SWAN shift spectrum for BRCA1 or BRCA2 mutant tumors compared to BRCA
+  wild-type tumors for the GO: meiotic chromosome separation pathway, with (E) pathway
+  genes highlighted for regions of gene deletion by Circos plot (left) or Oncoprint
+  (right).'
+article_title: SWAN pathway-network identification of common aneuploidy-based oncogenic
+  drivers.
+citation: Robert R Bowers, et al. Nucleic Acids Res. 2022 Apr 22;50(7):3673-3692.
+year: '2022'
+
+doi: 10.1093/nar/gkac200
+journal_title: Nucleic Acids Research
+journal_nlm_ta: Nucleic Acids Res
+publisher_name: Oxford University Press
+
+keywords:
+---

@@ -1,0 +1,59 @@
+---
+figid: PMC8998018__cells-11-01232-g003
+pmcid: PMC8998018
+image_filename: cells-11-01232-g003.jpg
+figure_link: /pmc/articles/PMC8998018/figure/cells-11-01232-f003/
+number: Figure 3
+figure_title: ''
+caption: 'TGF-β1-stimulated SMAD3:4, STAT3 and AP1 signaling are blocked with pathway
+  inhibitors. Specific pathway inhibitors were used to target the SBE, SIE and AP1
+  pathways. (A) The SBE pathway starts with TGF-β ligand binding, which induces formation
+  of a receptor complex containing type I (ALK4/5/7) and type II receptors. Receptor-SMAD3
+  is recruited and activated by C-terminal phosphorylation (P). A complex is formed
+  with the common SMAD4 and this translocates to the nucleus where it binds the DNA
+  to the SMAD3:4 binding element (SBE: GTCTAGAC), activating transcription and luciferase
+  signal. SB-505124 (SB-5) is an ALK-4/5/7 inhibitor interfering with SMAD-dependent
+  signaling. (B) Pre-incubation of human chondrocytes (n = 4) transduced with the
+  SBE-luciferase reporter construct for 1 h with 5 µM SB-5 before stimulation with
+  TGF-β1 for 6 h, results in significant inhibition of luciferase induction with both
+  1 (Pos ctrl) and 5 ng/mL TGF-β. (C) The SIE pathway consists of repeats of IL-6
+  sis-inducible elements (SIE: TTCCCGTA) and is also called STAT3 response element
+  since it is activated by STAT3. STAT3 is phosphorylated (P) by receptor-associated
+  Janus kinases (JAK) in response to many different ligands. Tofacitinib (Tof) is
+  an inhibitor of JAK1 and JAK3, thereby interfering with this JAK-STAT pathway. (D)
+  Pre-incubation of human chondrocytes (n = 4), transduced with the SIE-luciferase
+  reporter construct, with 1 µM of completely blocked IL-6 (Pos ctrl) and TGF-β1 (5
+  ng/mL) induced SIE signaling. (E) The AP1 pathway is regulated by transcription
+  factor Activator Protein 1 (AP1: TGA G/C TCA), which is a heterodimer composed of
+  FOS, JUN and ATF protein families. These are activated by MAPKs pathways, consisting
+  of the ERKs, p38s and JNKs. SP-600125 (SP-6) is an inhibitor of all JNK isoforms,
+  thereby interfering with this AP1 pathway. (F) Pre-incubation of primary human OA
+  chondrocytes, transduced with the AP1-luciferase reporter construct with 10 µM SP-6
+  blocked luciferase induction with 20% FCS (Pos ctrl) or 5 ng/mL TGF-β1. Data are
+  plotted as mean ± 95% CI with each dot representing the average of four technical
+  replicates in one chondrocyte donor; in total, chondrocytes from four different
+  donors were used, as seen in (B,D,F). Luciferase activity was measured relative
+  to experimental condition stimulated with 5 ng/mL TGF-β, as set at 100%. Statistical
+  analysis was performed using one-way ANOVA with Bonferroni’s post hoc test: ***
+  p < 0.001. ALK = ALK tyrosine kinase receptor, ACVR2 = Activin type-2 receptor,
+  GF = growth factor, IL = Interleukin, JAK = janus kinase, JNK = c-JUN N-terminal
+  kinase, MAPK = mitogen-activated protein kinase, STAT3 = Signal Transducer and Activator
+  of Transcription 3, TGFBR = TGF-β receptor.'
+article_title: Identification of Transcription Factors Responsible for a Transforming
+  Growth Factor-β-Driven Hypertrophy-like Phenotype in Human Osteoarthritic Chondrocytes.
+citation: Nathalie G. M. Thielen, et al. Cells. 2022 Apr;11(7):1232.
+year: '2022'
+
+doi: 10.3390/cells11071232
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- chondrocyte hypertrophy
+- TGF-β
+- osteoarthritis
+- transcription factors
+- ALK5
+
+---

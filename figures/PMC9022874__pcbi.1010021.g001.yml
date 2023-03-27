@@ -1,0 +1,28 @@
+---
+figid: PMC9022874__pcbi.1010021.g001
+pmcid: PMC9022874
+image_filename: pcbi.1010021.g001.jpg
+figure_link: /pmc/articles/PMC9022874/figure/pcbi.1010021.g001/
+number: Fig 1
+figure_title: Functional genomic analysis of SARS-CoV-2 infected cell lines
+caption: '(A) Inferred pathway and (B) TF activities of SARS-CoV-2 infected samples
+  from lung epithelial cell lines (Calu-3 and A549). Activities were calculated from
+  differential expression signatures (infected—control) using PROGENy and DoRothEA
+  tools for pathway and TF activities, respectively. Only TFs with high absolute level
+  of activity changes (absolute normalized enrichment score > 4) are shown. (C) Causal
+  signalling network in SARS-CoV-2 infected Calu-3 cells (GSE147507) identified by
+  CARNIVAL. RIG-I like receptors (DDX58 and IFIH1) as perturbation targets and DoRothEA
+  inferred TF activities were used as the input of the CARNIVAL pipeline. Color code
+  represents inferred activity of protein nodes (blue: inhibited, red: activated).'
+article_title: Computational drug repurposing against SARS-CoV-2 reveals plasma membrane
+  cholesterol depletion as key factor of antiviral drug activity.
+citation: Szilvia Barsi, et al. PLoS Comput Biol. 2022 Apr;18(4):e1010021.
+year: '2022'
+
+doi: 10.1371/journal.pcbi.1010021
+journal_title: PLoS Computational Biology
+journal_nlm_ta: PLoS Comput Biol
+publisher_name: Public Library of Science
+
+keywords:
+---

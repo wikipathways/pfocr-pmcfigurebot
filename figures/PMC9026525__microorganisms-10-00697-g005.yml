@@ -1,0 +1,57 @@
+---
+figid: PMC9026525__microorganisms-10-00697-g005
+pmcid: PMC9026525
+image_filename: microorganisms-10-00697-g005.jpg
+figure_link: /pmc/articles/PMC9026525/figure/microorganisms-10-00697-f005/
+number: Figure 5
+figure_title: ''
+caption: 'Prediction of the putrescine biosynthetic pathway by L. curvatus KP 3-4.
+  (A) Known putrescine biosynthetic pathways in bacteria. The abbreviations used are
+  as follows: AguA, agmatine deiminase; SpeB, agmatine ureohydrolase; NCPAH, N-carbamoylputrescine
+  amidohydrolase; ODC, ornithine decarboxylase. (B) L. curvatus KP 3-4 was cultured
+  in MRS or MRS with added arginine or ornithine anaerobically for 48 h at 37 °C and
+  the amount of putrescine in the culture supernatant was analyzed by HPLC. Data represent
+  means ± standard deviation from biological replicates (n = 3). Asterisks indicate
+  statistical significance (** p < 0.01, Dunnett’s test with MRS as control). (C)
+  Conservation analysis of polyamine synthesis and transport genes in lactic acid
+  bacteria. The results shown are based on the tblastn analysis of the genome of the
+  newly constructed L. curvatus KP 3-4 genome and genomes in the NCBI database (https://blast.ncbi.nlm.nih.gov/Blast.cgi
+  (accessed on 16 May 2021)). Contig information for L. curvatus JCM1091 was not available
+  in the NCBI database, and it is shown by N/A. AdiA, arginine decarboxylase; AguA,
+  Agmatine deiminase; AguB, (AguB is NCPAH, putrescine carbamoyltransferase is PtcA);
+  NCPAH, N-carbamoylputrescine amidohydrolase; SpeA, arginine decarboxylase; SpeB,
+  agmatinase; SpeC, ornithine decarboxylase; SpeF, ornithine decarboxylase; AguD,
+  agmatine:putrescine antiporter; PlaP, putrescine importer; PotE, putrescine:ornithine
+  antiporter; PotF, putrescine ABC transporter periplasmic binding protein; PotG,
+  ATP binding protein of putrescine ABC transporter PotFGHI; PotH, permease of putrescine
+  ABC transporter PotFGHI; PotI, permease of putrescine ABC transporter PotFGHI; PuuP,
+  putrescine importer; SapB, transmembrane protein of putrescine exporter SapBCDF;
+  SapC, transmembrane protein of putrescine exporter SapBCDF; SapD, ATP binding protein
+  of putrescine exporter SapBCDF; SapF, ATP binding protein of putrescine exporter
+  SapBCDF; AAT, agmatine aminopropyltransferase; APAUH, aminopropylagmatine ureohydrolase;
+  CASDC, carboxyspermidine decarboxylase; CASDH, carboxyspermidine dehydrogenase;
+  SpeD, S-adenosylmethionine decarboxylase, proenzyme; SpeE, spermidine synthase;
+  MdtI, multidrug efflux system transporter; MdtJ, multidrug efflux system transporter;
+  PotA, ATP binding protein of spermidine/putrescine ABC transporter PotABCD; PotB,
+  permease of spermidine/putrescine ABC transporter PotABCD; PotC, permease of spermidine/putrescine
+  ABC transporter PotABCD; PotD, spermidine/putrescine ABC transporter. The color
+  of each column indicates the score from the Protein BLAST analysis: (black) >500
+  bits, (dark gray) 500–300 bits, (light gray) 300–100 bits, and (white) <100 bits,
+  respectively.'
+article_title: Putrescine Production by Latilactobacillus curvatus KP 3-4 Isolated
+  from Fermented Foods.
+citation: Rika Hirano, et al. Microorganisms. 2022 Apr;10(4):697.
+year: '2022'
+
+doi: 10.3390/microorganisms10040697
+journal_title: Microorganisms
+journal_nlm_ta: Microorganisms
+publisher_name: MDPI
+
+keywords:
+- polyamine
+- probiotics
+- whole-genome sequencing
+- lactic acid bacteria
+
+---

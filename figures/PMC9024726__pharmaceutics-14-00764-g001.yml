@@ -1,0 +1,37 @@
+---
+figid: PMC9024726__pharmaceutics-14-00764-g001
+pmcid: PMC9024726
+image_filename: pharmaceutics-14-00764-g001.jpg
+figure_link: /pmc/articles/PMC9024726/figure/pharmaceutics-14-00764-f001/
+number: Figure 1
+figure_title: ''
+caption: Only NMS-873 promotes glycolysis and inhibits oxidative phosphorylation.
+  (A,B) Using TMT-based quantitative proteomics to distinguish the unique pathway
+  of NMS-873 []. Venn diagram of DE proteins identified from HCT116 cells at 6 h-treatment
+  with MG132, CB-5083, and NMS-873. DE proteins were defined as treatment vs. DMSO
+  control, p < 0.05; n = 2 (A). The representative KEGG pathway or GO biological process
+  from a functional enrichment analysis of the 219 DE proteins identified only in
+  the NMS-873 treatment group (B). (C,D) Lactate (C) and glucose (D) concentration
+  in the cultured medium were measured after 6 h incubation with DMSO, 4 μM NMS-873,
+  4 μM CB-5083, 4 μM UPCDC-30245, or 1 μM MG132. Statistical analyses were carried
+  out by non-paired one-way ANOVA (treatment vs. DMSO) using Prism 8. p-values are
+  shown as **** p < 0.0001. All of the data from (C,D) are presented as mean ± SD
+  from triplicate experiments.
+article_title: NMS-873 Leads to Dysfunctional Glycometabolism in A p97-Independent
+  Manner in HCT116 Colon Cancer Cells.
+citation: Shan Li, et al. Pharmaceutics. 2022 Apr;14(4):764.
+year: '2022'
+
+doi: 10.3390/pharmaceutics14040764
+journal_title: Pharmaceutics
+journal_nlm_ta: Pharmaceutics
+publisher_name: MDPI
+
+keywords:
+- p97 inhibitor
+- glycometabolism
+- resistance
+- protein stability
+- proteomics
+
+---
