@@ -3,7 +3,7 @@ name: Trigger figure fetch
 on:
   workflow_dispatch:
   schedule:
-  - cron: "0 0 1 * *" #Runs on the first of each month. 
+  - cron: "0 0 1 * *" #Runs at 0:00 on the first of each month. 
   
 jobs:
   trigger-figure-fetch:
