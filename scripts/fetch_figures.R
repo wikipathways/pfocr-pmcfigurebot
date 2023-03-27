@@ -43,6 +43,11 @@ library(dplyr)
 library(magrittr)
 library(stringr)
 
+# Keep track of time to stay under 6 hour limit per GH Action job.
+# Exit at 5 hours and let subsequent runs complete a given query
+job_start_time <- Sys.time()
+exit_flag <- FALSE
+
 # Multiple attempts of a given query or until successful
 for (j in 1:5) {
   reload.flag <- FALSE
@@ -107,7 +112,7 @@ for (j in 1:5) {
   exfigids <- read.table(config$exclude_figids, sep = "\t", stringsAsFactors = F)[,1]
 
   res.fig.count <- 0
-  
+    
   for (i in 1:page.count){
     cat(sprintf("\nPage %i of %i", i, page.count))
     cat(sprintf("\nPage %i of %i", i, page.count), file="figures/fetch.log", append = T)
@@ -311,6 +316,14 @@ for (j in 1:5) {
       
     } # end if results on page 
     
+    # Check time elapsed
+    check_time <- difftime(Sys.time(), job_start_time, units = "hours")
+    if (check_time >= 5) {
+      message("Total runtime nearing 6 hour limit. Time to wrap things up!")
+      exit_flag <- TRUE
+      break
+    }
+    
     # Turn the page
     if (i < page.count-1){
       result <- NULL
@@ -329,7 +342,7 @@ for (j in 1:5) {
       if (!is.null(result)) {
         next.page.button <- remDr$findElement(using = "xpath", "//*[@class='active page_link next']")
         next.page.button$clickElement()
-        remDr$screenshot(display = TRUE)
+        #remDr$screenshot(display = TRUE)
       } else {
         message("Page failed to load after 15 seconds. Reloading query results and trying again...")
         reload.flag <- TRUE
@@ -341,13 +354,17 @@ for (j in 1:5) {
       break 
   } #end for each page
   
+  ## Log totals for this round 
+  cat(sprintf("\n\n%i new figures total\n",res.fig.count))
+  cat(sprintf("\n\n%i new figures total\n",res.fig.count), file="figures/fetch.log", append = T)
+  
+  ## Exit if time is running out
+  if (exit_flag)
+    break
+  
   ## Reload query if prior result aborted
   if (reload.flag)
     next 
-  
-  ## Log final results 
-  cat(sprintf("\n\n%i new figures total\n",res.fig.count))
-  cat(sprintf("\n\n%i new figures total\n",res.fig.count), file="figures/fetch.log", append = T)
   
   ## log last_run
   config$last_run <- to.date
