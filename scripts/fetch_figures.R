@@ -318,6 +318,8 @@ for (i in 1:page.count){
       next.page.button <- remDr$findElement(using = "xpath", "//*[@class='active page_link next']")
       next.page.button$clickElement()
       remDr$screenshot(display = TRUE)
+    } else {
+      stop("Page failed to load after 15 seconds. Giving up...")
     }
   }
 } #end for each page
