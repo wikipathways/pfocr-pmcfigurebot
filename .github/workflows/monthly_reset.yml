@@ -15,7 +15,7 @@ jobs:
 
     - name: Reset last_run in query_config.yml
       run: |
-        jq --arg last_run "2023/01/01" '.last_run = $last_run' query_config.yml > query_config.yml.new && mv query_config.yml.new query_config.yml
+        jq --arg last_run '2023/01/01' '.last_run = $last_run' query_config.yml > query_config.yml.new && mv query_config.yml.new query_config.yml
   
     - name: Commit updated config file
       uses: stefanzweifel/git-auto-commit-action@v4  
