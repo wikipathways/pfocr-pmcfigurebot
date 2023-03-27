@@ -21,8 +21,7 @@ jobs:
         # Install jq
         #sudo apt-get update && sudo apt-get install -y jq
         # Update last_run in query_config.yml
-        lr="3000/00/00"
-        jq --arg last_run "$lr" \
+        jq --arg last_run 3000 \
           '.last_run = $last_run' \
           query_config.yml > query_config.yml.new && \
           mv query_config.yml.new query_config.yml
