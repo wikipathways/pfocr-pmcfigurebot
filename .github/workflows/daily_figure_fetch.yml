@@ -1,0 +1,37 @@
+name: Fetch pathway figures and metadata
+
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: "0 1 * * *" #Runs at 00:00, everyday. 
+  
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    services:
+      selenium:
+        image: selenium/standalone-firefox:latest
+        ports: 
+          - 4445:4444
+        options: --shm-size="2g"
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      
+    - name: Setup R
+      uses: r-lib/actions/setup-r@v2
+
+    - name: Install Packages
+      run: |
+        sudo apt-get update
+        sudo apt-get install libcurl4-openssl-dev
+          Rscript -e 'install.packages(c("RSelenium","utils","httr","xml2","dplyr","magrittr","stringr","purrr","yaml","rvest","lubridate","jpeg"))'
+        
+    - name: Run R Script to Fetch Figures
+      run: Rscript scripts/fetch_figures.R || true #commit files even if R crashes
+      
+    - name: Commit new and updated content
+      uses: stefanzweifel/git-auto-commit-action@v4  
+      with:
+        commit_message: new figures from pmc; updated config and log

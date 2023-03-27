@@ -1,0 +1,28 @@
+name: Trigger figure fetch
+
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: "0 0 1 * *" #Runs on the first of each month. 
+  
+jobs:
+  trigger-figure-fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: Reset last_run
+      uses: docker://stedolan/jq
+      with:
+        args: |
+          jq --arg last_run "$(date -v-12M '+%Y/%m/%d')" \
+            '.last_run = $last_run' \
+            query_config.yml > query_config.yml.new && \
+          mv query_config.yml.new query_config.yml
+  
+    - name: Commit updated config file
+      uses: stefanzweifel/git-auto-commit-action@v4  
+      with:
+        commit_message: new figures from pmc; updated config and log
