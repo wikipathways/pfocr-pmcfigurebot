@@ -301,10 +301,24 @@ for (i in 1:page.count){
   
   # Turn the page
   if (i < page.count-1){
-    next.page.button <- remDr$findElement(using = "xpath", "//*[@class='active page_link next']")
-    next.page.button$clickElement()
-    #remDr$screenshot(display = TRUE)
-    Sys.sleep(3)
+    result <- NULL
+    for (i in 1:15) {
+      result <- tryCatch({
+        remDr$findElement(using = "xpath", "//*[@class='active page_link next']")
+      }, error = function(e) {
+        NULL
+      })
+      if (!is.null(result)) {
+        break  # exit for loop
+      }
+      Sys.sleep(1)
+    }
+    # check if successful over 15 seconds
+    if (!is.null(result)) {
+      next.page.button <- remDr$findElement(using = "xpath", "//*[@class='active page_link next']")
+      next.page.button$clickElement()
+      remDr$screenshot(display = TRUE)
+    }
   }
 } #end for each page
 
