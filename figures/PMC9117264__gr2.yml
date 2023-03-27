@@ -1,0 +1,48 @@
+---
+figid: PMC9117264__gr2
+pmcid: PMC9117264
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC9117264/figure/fig0002/
+number: Figure 2
+figure_title: ''
+caption: IPAM showed good performance in cancer classification and identification
+  of pathway dysregulation. Panel a-c shows the average ROC-AUCs of each pathway activity
+  algorithm in cancer classification using pan-cancer data. Our individualized pathway
+  activity algorithm and five widely used tools (iPAS, Pathifier, PLAGE, ssGSEA and
+  IndividPath) were compared. Each box in boxplots was built on the average ROC-AUCs
+  of five-fold cross-validation for 100 random repeats across the different cancer
+  data sets. The significance tests of ROC-AUCs between IPAM and other pathway activity
+  algorithms were conducted using Student's t-test. (a) Boxplot of average ROC-AUCs
+  for different pathway activity algorithms on cancer classification using pan-cancer
+  data from TCGA. IPAM-withoutRank denotes the performance of cancer classification
+  using IPAM algorithm without the gene ranking step. Gene-based denotes the performance
+  of cancer classification using marker-gene selection. IPAM-corrected denotes the
+  performance of IPAM algorithm in cancer classification using tumour purity corrected
+  transcriptome data. (b) Boxplot of average ROC-AUCs for different pathway activity
+  algorithms on cancer classification using pan-cancer data from GEO. (c) Boxplot
+  of average ROC-AUCs for different pathway activity algorithms on cancer classification
+  using liquid biopsy data based on tumour-educated platelets. (d) The number of significantly
+  dysregulated pathways among cancer types. (e) The number of pathways that were significantly
+  dysregulated in a specific number of cancer types. (f) The significantly dysregulated
+  pathways among most cancer types. (g) Heatmap of 318 KEGG pathways dysregulation
+  in pan-cancer. Data are showed by the t statistics of differential analyses between
+  cancer samples and matched normal samples. The red colour represent that the pathway
+  is up-regulated in the cancer samples, while blue colour is down-regulated. The
+  intensity of colour indicates the magnitude of dysregulation.
+article_title: Individualized pathway activity algorithm identifies oncogenic pathways
+  in pan-cancer analysis.
+citation: Xin Ke, et al. eBioMedicine. 2022 May;79:104014.
+year: '2022'
+
+doi: 10.1016/j.ebiom.2022.104014
+journal_title: eBioMedicine
+journal_nlm_ta: eBioMedicine
+publisher_name: Elsevier
+
+keywords:
+- Pathway activity algorithm
+- KEGG pathways
+- Oncogenic pathways
+- Pan-cancer analysis
+
+---

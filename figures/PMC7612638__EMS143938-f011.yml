@@ -1,0 +1,40 @@
+---
+figid: PMC7612638__EMS143938-f011
+pmcid: PMC7612638
+image_filename: EMS143938-f011.jpg
+figure_link: /pmc/articles/PMC7612638/figure/F11/
+number: Extended Figure 6
+figure_title: ''
+caption: To test whether H3K4me3 could co-exist with H3K27me3 in the same individual
+  cells prior to chemotherapy exposure, we performed successive immunoprecipitation
+  of H3K27me3 with H3K4me3 (or vice-versa) or H3K27me3 (or H3K4me3) with isotype control
+  (IgG) on mono-nucleosome chromatin. In MDA-MB-468 cells, we detected 1,547 TSSs
+  significantly enriched in DNA immunoprecipitated with both H3K27me3 and H3K4me3,
+  compared to the control (H3K27me3/IgG) precipitated fraction (peak-ratio > 0.15,
+  q-value < 10-3, ). We found that bivalent chromatin in untreated cells was detected
+  at TSSs of genes associated to mammary stem cell and EMT pathways, as well as various
+  developmental pathways (e.g. Hedgehog pathway, ). The majority of H3K27me3-regulated
+  persister genes (26 out of 37), including the 3 candidate master TFs, were found
+  in a bivalent chromatin configuration in the untreated cell population (e.g. TGF-β1,
+  FOXQ1, FOSL1, ,  and Supplementary Table 4). We next studied bivalent chromatin
+  landscapes in additional TNBC cell lines (HCC38 & BT20, ), in our 3 PDX models and
+  n = 9 patient samples – 3 of which correspond to the tumors used for PDX derivation
+  (Patient_95, Patient_39 & Patient_172) (, ). We confirm the existence of bivalent
+  programs in all patient tumors, and show that paired PDX models recapitulate bivalency
+  of patient samples (). Bivalent chromatin is also found at genes implicated in EMT
+  and mammary stem cell identity, and developmental pathways (, ) and at candidate
+  master TFs of the persister programs – FOXQ1, KLF4 or TFCP2L1 – (, ). With a continuum
+  of epigenomic datasets, from patients to PDX, we demonstrate that cancer cells display
+  a set of bivalent TSSs, which could lead to the rapid activation of an entire persister
+  expression program upon therapeutic stress.
+article_title: H3K27me3 conditions chemotolerance in triple-negative breast cancer.
+citation: Justine Marsolier, et al. Nat Genet. ;54(4):459-468.
+year: '2022'
+
+doi: 10.1038/s41588-022-01047-6
+journal_title: Nature genetics
+journal_nlm_ta: Nat Genet
+publisher_name: ''
+
+keywords:
+---

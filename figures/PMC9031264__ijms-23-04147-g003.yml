@@ -1,0 +1,30 @@
+---
+figid: PMC9031264__ijms-23-04147-g003
+pmcid: PMC9031264
+image_filename: ijms-23-04147-g003.jpg
+figure_link: /pmc/articles/PMC9031264/figure/ijms-23-04147-f003/
+number: Figure 3
+figure_title: ''
+caption: Transcriptome analysis of STAT1 and PD-L1 based on the TCGA-STAD database.
+  (a) Expression of STAT1 and PD-L1 in tumor tissues (n = 415) and normal tissues
+  (n = 35). (b) Correlation of STAT1 and PD-L1 expression in tumor tissues. (c) Correlations
+  of STAT1 and PD-L1 with immune infiltration levels. (d) Multivariable Cox regression
+  analysis of GC. Wilcoxon rank-sum test, * p < 0.05, ** p < 0.01, *** p < 0.001.
+  CI, confidence interval; GC, gastric cancer; HR, hazard ratio; TCGA-STAD, The Cancer
+  Genome Atlas-Stomach Adenocarcinoma.
+article_title: JAK-STAT1 Signaling Pathway Is an Early Response to Helicobacter pylori
+  Infection and Contributes to Immune Escape and Gastric Carcinogenesis.
+citation: Xue Li, et al. Int J Mol Sci. 2022 Apr;23(8):4147.
+year: '2022'
+
+doi: 10.3390/ijms23084147
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- gastric cancer
+- STAT1
+- PD-L1
+
+---

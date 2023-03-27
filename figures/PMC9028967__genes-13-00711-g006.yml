@@ -1,0 +1,39 @@
+---
+figid: PMC9028967__genes-13-00711-g006
+pmcid: PMC9028967
+image_filename: genes-13-00711-g006.jpg
+figure_link: /pmc/articles/PMC9028967/figure/genes-13-00711-f006/
+number: Figure 6
+figure_title: ''
+caption: 'Identification of DEGs by pathway analysis in H9c2 cells with Pcsk6 knockdown.
+  (A) KEGG enrichment analysis of DEGs in signaling pathways. Y-axis denotes pathway
+  and X-axis denotes rich ratio. The 20 most significantly changed pathways are shown.
+  The targeted pathway in the study is highlighted with red color. The color intensity
+  and size of bubbles indicate Q value and number of genes, respectively. (B) A heat
+  map for DEGs in siPcsk6-transfected H9c2 cells. The 7 most significant DEGs in the
+  protein processing in the ER pathway. Red and blue colors represent up- and down-regulated
+  genes, respectively. (C) qPCR analysis of Ddit3 mRNA expression in siPcsk6-transfected
+  H9c2 cells. (D) Immunofluorescent staining for DDIT3 (green) and nuclei (blue) in
+  siPcsk6-transfected H9c2 cells. Scale bar: 40 µm. Percentages of DDIT3 positive
+  cells were calculated. Data are mean ± S.D. * p < 0.05, ** p < 0.01 vs. Control.
+  (E) DDIT3 protein levels in hearts from young (3 months, n = 3) and aged (24 months,
+  n = 3) mice were assessed by densitometric quantification of Western blots. Values
+  are mean ± S.D. * p < 0.05, ** p < 0.01 vs. Young.'
+article_title: Pcsk6 Deficiency Promotes Cardiomyocyte Senescence by Modulating Ddit3-Mediated
+  ER Stress.
+citation: Wenxing Zhan, et al. Genes (Basel). 2022 Apr;13(4):711.
+year: '2022'
+
+doi: 10.3390/genes13040711
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: MDPI
+
+keywords:
+- cardiomyocytes
+- DDIT3
+- ER stress
+- PCSK6
+- senescence
+
+---

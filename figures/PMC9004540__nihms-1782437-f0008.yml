@@ -1,0 +1,33 @@
+---
+figid: PMC9004540__nihms-1782437-f0008
+pmcid: PMC9004540
+image_filename: nihms-1782437-f0008.jpg
+figure_link: /pmc/articles/PMC9004540/figure/F8/
+number: Figure 8
+figure_title: ''
+caption: TFEB provokes metabolic anergy in MYC-induced B cell lymphoma. A-G, Differential
+  and statistically significant metabolites and genes (p ≤ 0.1 and p ≤ 0.05, respectively),
+  were grouped based on the indicated KEGG metabolic pathways, and are illustrated
+  as two-axis dot plots to show the metabolite abundance (left-axis of plots) and
+  changes in mRNA expression (right-axis of plots) that are up-regulated or down-regulated
+  following the induction of TFEB activity in Eμ-Myc lymphoma cells. H, Untargeted
+  metabolomic profiling via LC-MS/MS was performed in Eμ-Myc lymphoma expressing vector
+  or TFEBSA-ERT2 after treatment with vehicle or 4-OHT for 4 days (n = 4). LC-MS spectra
+  was analyzed using MZMine2. These data were then uploaded into MetaboAnalyst, and
+  samples were normalized by the sum of all metabolites and log2 transformed, followed
+  by a functional enrichment analysis to assess metabolic pathway enrichment using
+  MetaboAnalyst. I, Normalized log2 transformed metabolomic data from Eμ-Myc lymphoma
+  expressing TFEBSA-ERT2 treated with vehicle or 4-OHT were uploaded to GeneGo MetaCore
+  to assess metabolic pathways affected by TFEB activation.
+article_title: Disrupting the MYC-TFEB Circuit Impairs Amino Acid Homeostasis and
+  Provokes Metabolic Anergy.
+citation: Mario R. Fernandez, et al. Cancer Res. ;82(7):1234-1250.
+year: '2022'
+
+doi: 10.1158/0008-5472.CAN-21-1168
+journal_title: Cancer Research
+journal_nlm_ta: Cancer Res
+publisher_name: American Association for Cancer Research
+
+keywords:
+---

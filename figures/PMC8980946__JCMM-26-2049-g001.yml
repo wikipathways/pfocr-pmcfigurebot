@@ -1,0 +1,42 @@
+---
+figid: PMC8980946__JCMM-26-2049-g001
+pmcid: PMC8980946
+image_filename: JCMM-26-2049-g001.jpg
+figure_link: /pmc/articles/PMC8980946/figure/jcmm17228-fig-0003/
+number: FIGURE 3
+figure_title: ''
+caption: STAT interactions in breast cancer, TNBC and prostate cancer. STAT interactions
+  in two of the five most common death‐causing cancers listed by the WHO; breast cancer
+  and prostate cancer, as well as the breast cancer subtype TNBC. Any interaction
+  shared between two or more STATs is grouped in the middle, and the edges connecting
+  those interactions are highlighted. Proteins for which a label is shown are those
+  which are reported to be over‐expressed in that disease. Although not all proteins
+  directly interact with each other, they may communicate indirectly through hub proteins.
+  The proteins important for indirect communication are identified as ‘central’ to
+  the networks and have a yellow halo in the network maps. Centrality measures how
+  important the protein is for communication between the STAT interactome. It is measured
+  using an undirected all‐pairs shortest path algorithm which measures how many of
+  the shortest paths between proteins pass through a node. Therefore, proteins which
+  are more central act as hubs through which signals are efficiently transmitted from
+  one end of the interactome to the other. The centrality of a protein is proportional
+  to the size of the yellow halo
+article_title: 'JAK‐STAT core cancer pathway: An integrative cancer interactome analysis.'
+citation: Fettah Erdogan, et al. J Cell Mol Med. 2022 Apr;26(7):2049-2062.
+year: '2022'
+
+doi: 10.1111/jcmm.17228
+journal_title: Journal of Cellular and Molecular Medicine
+journal_nlm_ta: J Cell Mol Med
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- blood cancer
+- breast cancer
+- colorectal cancers
+- JAK/STAT pathway in cancers
+- liver cancers
+- lung cancer
+- protein‐protein interactions
+- systems medicine
+
+---

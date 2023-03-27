@@ -1,0 +1,62 @@
+---
+figid: PMC9044165__gr6
+pmcid: PMC9044165
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC9044165/figure/fig6/
+number: Figure 6
+figure_title: ''
+caption: 'Integration of the trans-omic network of insulin action with a CRISPR screen
+  for cell proliferation(A) Numbers of molecules in the trans-omic network and screen
+  hits. The p value of Fisher’s exact test is shown above the Venn diagram. See also
+  .(B) KEGG pathway enrichment analysis for the insulin-responsive and insulin non-responsive
+  screen hits. See also .(C) Distribution of Spearman correlation coefficients of
+  the pairs within hit-IRGs, between hit-IRGs and non-hit IRGs, and within non-hit
+  IRGs. To test co-regulation of IRGs within the above categories, we examined whether
+  the average Spearman correlation coefficients of the IRG pairs in each of the categories
+  were significantly higher than randomly sampled IRG pairs. We also compared the
+  distribution of Spearman correlation between the categories by the Wilcoxon rank-sum
+  test. ∗p < 0.05, ∗∗p < 0.01, ∗∗∗p < 0.001. See also  and .(D) Time course of the
+  hit-IRGs in significantly co-regulated KEGG pathways. Data are shown as the log2
+  fold change values compared to time 0 that are calculated from the mean of biological
+  replicates. Different line colors indicate different hit-IRGs. We tested the significance
+  of the average Spearman correlation in each group as described in the . We analyzed
+  KEGG pathways containing 10 or more hit-IRGs. See also .(E) We predicted subnetworks
+  required for cell growth in an insulin-dependent manner in the following two steps
+  (Step VII-I and VII-II). In Step VII-I, we extracted TF-centric subnetworks each
+  containing a TF, its upstream signaling pathways, and its target IRGs from the trans-omic
+  network of insulin action. We mapped the Z-score obtained from the CRISPR KO screen
+  to the extracted subnetworks. In Step VII-II, we selected subnetworks required for
+  cell growth by the following three criteria: (i) the results of Gene Set Enrichment
+  Analysis (GSEA) () is significant for upstream signaling molecules of a TF (FDR
+  <0.05); (ii) the result of GSEA is significant for the target IRG for the TF (FDR
+  <0.05); and (iii) the TF itself is a screen hit.(F) The scatterplot shows the Z-score
+  of the CRISPR screen for each of the screened genes. A smaller Z-score indicates
+  a lower cell proliferation activity. Genes are sorted by the Z-score. The barcode
+  plots below the scatterplot show the distribution of the upstream signaling molecules
+  (“Sig.”) of the TFs (E), and the target IRGs (“IRGs”) regulated by the TFs (B).
+  Bar graphs indicate the normalized enrichment score (NES) of GSEA and the color
+  of a bar indicates the significance of the NES (FDR< 0.05). Labels of TFs included
+  in subnetworks involved in cell growth defined in E are shown in red.(G) The predicted
+  subnetwork required for cell growth consists of a TF Myc, its upstream signaling
+  molecules (insulin signal; E), and its target hit-IRGs (IRGs; B and A). The TF layer
+  contains the Myc TF that is required for cell growth as shown in red in F. The pathway
+  layer contains KEGG pathways that contain three or more members that overlap with
+  the hit-IRGs regulated by Myc. Pathways containing two or fewer members that overlap
+  with the hit-IRGs regulated by Myc were categorized as “Other functions.” See also
+  .'
+article_title: Trans-omics analysis of insulin action reveals a cell growth subnetwork
+  which co-regulates anabolic processes.
+citation: Akira Terakawa, et al. iScience. 2022 May 20;25(5):104231.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.104231
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Systems biology
+- In silico biology
+- Omics
+
+---

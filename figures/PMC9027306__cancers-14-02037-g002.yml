@@ -1,0 +1,41 @@
+---
+figid: PMC9027306__cancers-14-02037-g002
+pmcid: PMC9027306
+image_filename: cancers-14-02037-g002.jpg
+figure_link: /pmc/articles/PMC9027306/figure/cancers-14-02037-f002/
+number: Figure 2
+figure_title: ''
+caption: Model demonstrating the role of RON as a transcription factor that promotes
+  cell survival during cellular stress. (A) Under hypoxic conditions, a RON splicing
+  variant, RONd160, binds to hypoxia induced factor (HIF) and b-catenin to form a
+  complex that translocates to the nucleus and drives the expression of b-catenin
+  target genes like c-jun and ca-9. The upregulation of these genes leads to increased
+  cell proliferation and metastatic capabilities that drives tumorigenesis. (B) In
+  response to treatment with chemotherapeutic agents, RON translocates to the nucleus
+  and binds with Ku70 and DNA-PK to form a complex that drives the expression of genes
+  related to Non-homologous endjoining (NHEJ) pathways. This form of dna repair prevents
+  apoptotic events that would normally be activated due to DSB in DNA, making these
+  cells resistant to chemotherapy. (C) A constitutively active form of RON (sf-RON)
+  activates the AKT pathway through phosphorylation. AKT then phosphorylates GSK-3B
+  to inhibit its function. Inactive GSK-3B cannot inhibit B-catenin which is free
+  to enter the nucleus and activate the S1X1 pathway which the drives the expression
+  of glycotic genes. Upregulation of these genes enhances glucose metabolism which
+  increases cell proliferation that is necessary for tumorigenesis.
+article_title: 'The MST1R/RON Tyrosine Kinase in Cancer: Oncogenic Functions and Therapeutic
+  Strategies.'
+citation: Alex Cazes, et al. Cancers (Basel). 2022 Apr;14(8):2037.
+year: '2022'
+
+doi: 10.3390/cancers14082037
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- RON
+- MST1R
+- tyrosine kinase
+- MET
+- cancer
+
+---

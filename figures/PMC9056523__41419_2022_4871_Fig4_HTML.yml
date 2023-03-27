@@ -1,0 +1,35 @@
+---
+figid: PMC9056523__41419_2022_4871_Fig4_HTML
+pmcid: PMC9056523
+image_filename: 41419_2022_4871_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9056523/figure/Fig4/
+number: Fig. 4
+figure_title: MEX3A interacts with SCIN in NPC cells
+caption: A Heatmap of DEGs identified by hierarchical clustering analysis of RNA-sequencing
+  data of shCtrl (n = 3) and shMEX3A (n = 3) stable C666-1 cells. B Volcano plot of
+  DEGs between shCtrl and shMEX3A stable C666-1 cells. C Classic pathway enrichment
+  analysis revealed that MEX3A was associated with interferon and chemokine signaling.
+  D Ingenuity pathway analysis-based interaction network of MEX3A and signaling pathways,
+  including the interferon, chemokine, NF-κB, ERK/MAPK signaling pathways. E, F The
+  expression levels of major downstream factors associated with MEX3A were determined
+  by RT-qPCR (E) and western blotting (F) in C666-1 cells. G The impact of depletion
+  of main downstream genes associated with MEX3A, including SCIN, CCL2, LMNB1, and
+  MYD88, on the proliferation of C666-1 cells was determined by Celigo-based cell
+  counting assay. H, I The interaction between MEX3A and SCIN in C666-1 cells (H)
+  and HONE-1 cells (I) was determined by endogenous co-immunoprecipitation. *P < 0.05,
+  **P < 0.01, ***P < 0.001.
+article_title: MEX3A promotes nasopharyngeal carcinoma progression via the miR-3163/SCIN
+  axis by regulating NF-κB signaling pathway.
+citation: Xin-xin Xiang, et al. Cell Death Dis. 2022 Apr;13(4):420.
+year: '2022'
+
+doi: 10.1038/s41419-022-04871-0
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Head and neck cancer
+- Mechanisms of disease
+
+---

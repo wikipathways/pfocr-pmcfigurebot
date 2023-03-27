@@ -1,0 +1,31 @@
+---
+figid: PMC8970612__gr1
+pmcid: PMC8970612
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC8970612/figure/fig1/
+number: Fig. 1
+figure_title: ''
+caption: Project design overview. We searched for studies related to two COVID-19
+  genes, ACE2 and TMPRSS2, in PubMed. Next, we used NLP methods to extract biomedical
+  concepts and calculated their correlations with COVID-19 genes. Then, we filtered
+  out unrelated entities and only kept concept entities belonging to organs, disease,
+  genes, etc. Finally, we performed pathway enrichment analysis and predicted drugs
+  by network analysis.
+article_title: Novel approach by natural language processing for COVID-19 knowledge
+  discovery.
+citation: Li Wang, et al. Biomed J. 2022 Jun;45(3):472-481.
+year: '2022'
+
+doi: 10.1016/j.bj.2022.03.011
+journal_title: Biomedical Journal
+journal_nlm_ta: Biomed J
+publisher_name: Chang Gung University
+
+keywords:
+- SARS-COV-2
+- ACE2
+- TMPRSS2
+- COVID-19
+- Natural language processing
+
+---

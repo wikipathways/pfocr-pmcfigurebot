@@ -1,0 +1,34 @@
+---
+figid: PMC9032187__ijms-23-04316-g002
+pmcid: PMC9032187
+image_filename: ijms-23-04316-g002.jpg
+figure_link: /pmc/articles/PMC9032187/figure/ijms-23-04316-f002/
+number: Figure 2
+figure_title: ''
+caption: Comprehensive analysis using ingenuity pathways analysis (IPA). (A) Principal
+  component analysis (PCA) of normalized metabolic data. Percentage values on axes
+  represent contribution rate of first and second principal components (PC1 and PC2,
+  respectively) to total variation. (B) Heat map of hierarchical cluster analysis.
+  Columns indicate WT and AK3KO groups. Rows indicate normalized levels of each metabolite.
+  Dendrogram of each heat map shows relationship to normalized metabolite level patterns.
+  (C) Ranking of known pathways using IPA; p-values calculated using IPA software
+  are displayed as inverse values. Orange line indicates proportion of genes included
+  in each pathway. (D) Upstream regulators identified using IPA; expected activators
+  and inhibitors are shown in red and blue, respectively.
+article_title: Adenylate Kinase Isozyme 3 Regulates Mitochondrial Energy Metabolism
+  and Knockout Alters HeLa Cell Metabolism.
+citation: Koichi Fujisawa, et al. Int J Mol Sci. 2022 Apr;23(8):4316.
+year: '2022'
+
+doi: 10.3390/ijms23084316
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- adenylate kinase 3
+- nucleotide metabolism
+- phosphoenolpyruvate
+- GTP metabolism
+
+---

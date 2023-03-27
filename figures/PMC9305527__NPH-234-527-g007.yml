@@ -1,0 +1,44 @@
+---
+figid: PMC9305527__NPH-234-527-g007
+pmcid: PMC9305527
+image_filename: NPH-234-527-g007.jpg
+figure_link: /pmc/articles/PMC9305527/figure/nph17992-fig-0001/
+number: Fig. 1
+figure_title: ''
+caption: Single‐cell RNA sequencing (scRNA‐Seq) characterizes distinct Nicotiana attenuata
+  corolla cell types. (a) Corolla limbs and throat cups were sampled from 40 N. attenuata
+  flowers at each Zeitgeber Time (ZT), and scRNA‐Seq libraries were generated. The
+  total experimental procedures were finished within 2 h to reduce the effect of protoplasting.
+  (b) A uniform manifold approximation and projection (UMAP) plot of the 3756 cells
+  classified into five major cell types, composed of a total of 10 distinct clusters.
+  The number of cells of each cluster is given next to clusters. (c) UMAP plot showing
+  dimensional reduction of the distribution of 3756 corolla cells from three scRNA‐Seq
+  libraries. (d) Most biosynthetic genes of cuticular wax and cutin are highly enriched
+  in clusters 0, 3, 4, 5, and 9. These genes are known to be expressed in the epidermis.
+  CER4/FAR3, ECERIFERUM4/fatty acid reductase 3; CUS, cutin synthase‐like; GPAT6,
+  glycerol‐3‐phosphate acyltransferase 6; KCS, 3‐ketoacyl‐CoA synthase; LACS1/2, long‐chain
+  acyl‐CoA synthase 1/2; LTP, lipid‐transfer proteins; NLTP, nonspecific lipid‐transfer
+  proteins; VLCFA, very‐long‐chain fatty acids; WSD1, wax ester synthase/diacylglycerol
+  acyltransferase 1. (e) Genes associated with photosynthesis are highly expressed
+  in cluster 6 at all time points and in clusters 1, 2, and 6 at ZT 8. Photosynthetic
+  genes have been reported to be expressed specifically in the inner layer cells,
+  like mesophyll or parenchymal cells (Langdale & Nelson, ; Stockhaus et al., ).
+article_title: Single‐cell RNA‐sequencing of Nicotiana attenuata corolla cells reveals
+  the biosynthetic pathway of a floral scent.
+citation: Moonyoung Kang, et al. New Phytol. 2022 Apr;234(2):527-544.
+year: '2022'
+
+doi: 10.1111/nph.17992
+journal_title: The New Phytologist
+journal_nlm_ta: New Phytol
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- 10x genomics
+- benzylacetone
+- corolla
+- floral scents
+- Nicotiana attenuata
+- scRNA‐Seq
+
+---

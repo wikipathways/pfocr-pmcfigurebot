@@ -1,0 +1,36 @@
+---
+figid: PMC8998440__ijms-23-03709-g004
+pmcid: PMC8998440
+image_filename: ijms-23-03709-g004.jpg
+figure_link: /pmc/articles/PMC8998440/figure/ijms-23-03709-f004/
+number: Figure 4
+figure_title: ''
+caption: ELK3 controls extracellular matrix (ECM) remodeling-related genes to control
+  cell migration. (A) Gene set enrichment analysis of RNA sequencing data from SNU638
+  cells transfected with siCon or siELK3. Cell adhesion-related genes were positively
+  enriched and cell junction disassembly-related genes were negatively enriched in
+  SNU638 cells transfected with siELK3. (B) Pie graphs showing biological pathways
+  in ELK3-depleted SNU638 cells. Numbers indicate the number of genes in each biological
+  pathway. (C) Heatmap analysis of genes associated with cell migration and cell adhesion.
+  (D) Bar graph showing the Database for Annotation, Visualization, and Integrated
+  Discovery (DAVID) annotation of genes involved in cell migration and cell adhesion.
+  (E) Map data of Search Tool for the Retrieval of Interacting Genes analysis (STRING).
+  The thickness of the lines represents the confidence of the interaction.
+article_title: ELK3 Controls Gastric Cancer Cell Migration and Invasion by Regulating
+  ECM Remodeling-Related Genes.
+citation: Minwook Lee, et al. Int J Mol Sci. 2022 Apr;23(7):3709.
+year: '2022'
+
+doi: 10.3390/ijms23073709
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- ETS transcription factor ELK3
+- gastric cancer metastasis
+- extracellular matrix remodeling
+- cell migration
+- cell invasion
+
+---

@@ -1,0 +1,47 @@
+---
+figid: PMC9026097__pharmaceuticals-15-00461-g005
+pmcid: PMC9026097
+image_filename: pharmaceuticals-15-00461-g005.jpg
+figure_link: /pmc/articles/PMC9026097/figure/pharmaceuticals-15-00461-f005/
+number: Figure 5
+figure_title: ''
+caption: 'NF-kB (RELA) target genes. (A) NFKBIA. (B) TNFAIP3. (C) BCL2L1. (D) ICAM1.
+  In (A–D), average expression (log2 scale) is shown for each treatment (±1 standard
+  error; * p < 0.05, comparison to CTL treatment). Expression is normalized to the
+  average value in the CTL treatment for each gene. (E) RELA-activated genes. (F)
+  RELA-suppressed genes. In (E,F), the value of |FC|max was calculated for each gene,
+  where |FC|max is defined as max [abs(FCMMF, FCDRF, FCIDMF)], and the 23 RELA-activated
+  or RELA-suppressed genes with highest value of |FC|max are shown. Non-black gene
+  labels are used if there is significant differential expression (p < 0.05) for any
+  of the three comparisons, in which case the label color matches the comparison associated
+  with the lowest differential expression p-value. (G,H,K,L,O,P) FC estimates for
+  RELA-activated genes. FC estimates are plotted and the proportion of fumarate-increased
+  (red) fumarate-decreased (blue) genes is shown (p-value: Fisher’s exact test). The
+  percentage of increased/decreased genes is also indicated (see legend). (I,J,M,N,Q,R)
+  The cumulate overlap is shown between RELA-activated genes and genes ranked based
+  upon their response to each fumarate compound. A positive area statistic denotes
+  enrichment among fumarate-increased genes, and a negative area statistic indicates
+  enrichment among fumarate-decreased genes (p-value: Wilcoxon rank sum test).'
+article_title: Transcriptomic Analysis of Fumarate Compounds Identifies Unique Effects
+  of Isosorbide Di-(Methyl Fumarate) on NRF2, NF-kappaB and IRF1 Pathway Genes.
+citation: William R. Swindell, et al. Pharmaceuticals (Basel). 2022 Apr;15(4):461.
+year: '2022'
+
+doi: 10.3390/ph15040461
+journal_title: Pharmaceuticals
+journal_nlm_ta: Pharmaceuticals (Basel)
+publisher_name: MDPI
+
+keywords:
+- astrocyte
+- dimethyl fumarate
+- diroximel fumarate
+- glial cells
+- Interferon regulatory factor
+- multiple sclerosis
+- neurodegeneration
+- neuroinflammation
+- NF-kappaB
+- NRF2
+
+---

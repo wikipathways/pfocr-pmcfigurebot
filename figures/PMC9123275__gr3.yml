@@ -1,0 +1,64 @@
+---
+figid: PMC9123275__gr3
+pmcid: PMC9123275
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9123275/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: Genetic and chemical inhibition of ESCRT/lysosomal protein degradation pathway
+  confirm its role as direct negative regulator of SLC20A1 protein levels.A, left,
+  immunoblot of SLC20A1 protein levels in sgVPS37A-HEK293T and sgCHMP6-HEK293T cells
+  with sgControl (top panel). Immunoblots of VPS37A (middle panel) and CHMP6 (bottom
+  panel) were performed for assessment of gene targeting efficiency. β-actin was used
+  as loading control. Representative data of two experiments are shown. SLC20A1/β-actin
+  abundance was determined by densitometry and normalized to the control group (top).
+  Right, SLC20A1 mRNA expression of sgVPS37A and sgCHMP6 cells with sgControl cells
+  was normalized to 36B4. n = 4. Bars represent mean ± SD. B, SLC20A1 immunoblot in
+  HEK293T cells treated with lysosome inhibitor bafilomycin A1 (BafA1) or proteasome
+  inhibitor MG-132 versus DMSO control for 24 h (top panel). β-actin was used as loading
+  control (middle panel). SLC20A1/β-actin abundance was determined by densitometry
+  and normalized to the DMSO group (top). Efficiency of BafA1 and MG-132 treatment
+  was assessed using ubiquitin immunoblot, which was exposed for optimized visualization
+  of smaller proteins (bottom panel). C, HEK293T cells were transfected with CHMP6-EGFP
+  expression plasmid for 24 h (green in overlayed image) to induce arrest of ESCRT-mediated
+  protein trafficking. Cells were then stained with SLC20A1 antibody and Alexa 594–coupled
+  secondary antibody (magenta in overlayed image) and subjected to confocal imaging.
+  DAPI was used as nuclear marker. White arrows denote colocalization between SLC20A1
+  and CHMP6-EGFP. Presented data are representative images of three experiments. The
+  scale bars represent 10 μm. D, phosphate uptake in sgVPS37A and sgCHMP6 HEK293T
+  cells was measured with sgControl cells as control (n = 3). Bars represent mean ±
+  SD. Presented results are representative of two independent experiments. Ct, average
+  cycle threshold; DAPI, 4′,6-diamidino-2-phenylindole; DMSO, dimethyl sulfoxide;
+  EGFP, enhanced GFP; ESCRT, endosomal sorting complexes required for transport; HEK293T,
+  human embryonic kidney 293T cell line; sg, single guide.
+article_title: Cellular abundance of sodium phosphate cotransporter SLC20A1/PiT1 and
+  phosphate uptake are controlled post-transcriptionally by ESCRT.
+citation: Christoph Zechner, et al. J Biol Chem. 2022 Jun;298(6):101945.
+year: '2022'
+
+doi: 10.1016/j.jbc.2022.101945
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- membrane transport
+- cell surface protein
+- protein degradation
+- endosomal sorting complexes required for transport
+- cell metabolism
+- CRISPR/Cas9
+- phosphate transporter
+- genome-wide forward genetic screen
+- ATCC, American Type Culture Collection
+- Cas9, CRISPR-associated protein 9
+- CHMP, charged multivesicular body protein
+- DAPI, 4′,6-diamidino-2-phenylindole
+- DMEM, Dulbecco's modified Eagle's medium
+- EGFP, enhanced GFP
+- ESCRT, endosomal sorting complexes required for transport
+- HEK293T, human embryonic kidney 293T cell line
+- sg, single guide
+- VPS, vacuolar protein sorting–associated protein
+
+---

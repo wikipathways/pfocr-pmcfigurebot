@@ -1,0 +1,40 @@
+---
+figid: PMC9026346__antioxidants-11-00655-g002
+pmcid: PMC9026346
+image_filename: antioxidants-11-00655-g002.jpg
+figure_link: /pmc/articles/PMC9026346/figure/antioxidants-11-00655-f002/
+number: Figure 2
+figure_title: ''
+caption: Gene expression at 10 and 60 min after exposure of E. coli BW25113 to 2.5
+  mM H2O2. Volcano plots representing the dysregulated genes at 10 (A) and 60 min
+  (B) after H2O2 addition compared to respective untreated cells. Blue dots represent
+  significantly up-regulated genes and red dots represent significantly down-regulated
+  genes; thresholds were set as p-value = 0.01 and fold-change ≥ 5; (C) Multi-Dimensional
+  Scaling plot of all samples, each color represent a condition, each dot a sample.
+  Distances between dots represent the coefficient of variation of expression between
+  samples for the top 500 dysregulated genes that best distinguish the samples; (D)
+  Heatmap of the expression of genes of the OxyR regulon with up-regulated genes in
+  blue and down-regulated genes in red [] (fold change); (E) Catalase katG mRNA expression
+  levels in response to increasing H2O2 concentrations, as measured by qRT-PCR (mean
+  +/− SEM, N = 3).
+article_title: Transcriptomic Analysis of E. coli after Exposure to a Sublethal Concentration
+  of Hydrogen Peroxide Revealed a Coordinated Up-Regulation of the Cysteine Biosynthesis
+  Pathway.
+citation: Myriam Roth, et al. Antioxidants (Basel). 2022 Apr;11(4):655.
+year: '2022'
+
+doi: 10.3390/antiox11040655
+journal_title: Antioxidants
+journal_nlm_ta: Antioxidants (Basel)
+publisher_name: MDPI
+
+keywords:
+- E. coli
+- oxidative stress
+- hydrogen peroxide
+- RNA-seq
+- cysB
+- sulfur assimilation
+- cysteine biosynthesis
+
+---

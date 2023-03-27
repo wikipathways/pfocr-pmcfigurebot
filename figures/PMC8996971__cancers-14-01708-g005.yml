@@ -1,0 +1,33 @@
+---
+figid: PMC8996971__cancers-14-01708-g005
+pmcid: PMC8996971
+image_filename: cancers-14-01708-g005.jpg
+figure_link: /pmc/articles/PMC8996971/figure/cancers-14-01708-f005/
+number: Figure 5
+figure_title: ''
+caption: Omics analysis of patient-derived explants identified key biological pathways
+  and novel targets. (A) Venn diagram representing the overlap between genes and proteins
+  identified as differentially expressed (DE) or differentially abundant (DA) in AUY922
+  treated PDEs versus DMSO (FDR < 0.05). (B) Heatmap representing 111 genes/proteins
+  that were identified both as differentially expressed in the RNAseq analysis and
+  differentially abundant in the proteomics analysis. (C,D) Pathway over-representation
+  analysis of (C) DE genes and (D) DA proteins from Venn diagram in A. Pathways highlighted
+  in green were identified by both RNAseq and proteomics analysis.
+article_title: Harnessing the Heterogeneity of Prostate Cancer for Target Discovery
+  Using Patient-Derived Explants.
+citation: Margaret M. Centenera, et al. Cancers (Basel). 2022 Apr;14(7):1708.
+year: '2022'
+
+doi: 10.3390/cancers14071708
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- prostate cancer
+- patient-derived explant
+- pre-clinical tumor model
+- transcriptomics
+- proteomics
+
+---

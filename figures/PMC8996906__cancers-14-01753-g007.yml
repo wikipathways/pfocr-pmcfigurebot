@@ -1,0 +1,45 @@
+---
+figid: PMC8996906__cancers-14-01753-g007
+pmcid: PMC8996906
+image_filename: cancers-14-01753-g007.jpg
+figure_link: /pmc/articles/PMC8996906/figure/cancers-14-01753-f007/
+number: Figure 7
+figure_title: ''
+caption: 4SC-202-induced differentially expressed genes are implicated in biological
+  processes related to cell adhesion (blue), movement (red), immune processes (green),
+  and cancer-related signaling pathways (orange). (a) Venn diagram of the intersection
+  of the differentially expressed genes (DEGs) between workflows. (b) Directional
+  consistency heatmap of the log2 fold change (LFC) between 4SC-202-treated tumors
+  and vehicle-treated tumors for consensus DEGs across workflows. Annotations along
+  the top of the heatmap indicate the workflow and experiment of origin. (c) Table
+  of top 25 overrepresented GO biological processes for the consensus DEGs corrected
+  for gene length using goseq. (d) Dotplot of the consensus enriched pathways across
+  the three workflows. Adjusted p-value is indicated by dot color and the ratio of
+  genes mapped to the pathway relative to (approximately) the total number of significant
+  genes is indicated by the size of the dot. (e) Visualization of the DAVID functional
+  annotation clusters of the pathways enriched in the 70 consensus DEGs. Node size
+  and color is indicative of the cumulative enrichment score for the cluster, with
+  larger nodes indicating a higher enrichment score. Edge weight is indicative of
+  the extent to which the gene lists of the enriched terms overlap for the gene list
+  of interest. More similar enrichment clusters (nodes) have a higher edge weight
+  than poorly related clusters. (f) Enriched terms in the third DAVID functional annotation
+  cluster. Gene ratio is expressed as a percent. FDR indicates the false discovery
+  rate. Coloring of enriched terms on (c,d,f) indicates manually annotated groups
+  of terms of interest.
+article_title: Reduction of Metastasis via Epigenetic Modulation in a Murine Model
+  of Metastatic Triple Negative Breast Cancer (TNBC).
+citation: Jessica L. S. Zylla, et al. Cancers (Basel). 2022 Apr;14(7):1753.
+year: '2022'
+
+doi: 10.3390/cancers14071753
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- TNBC
+- 4SC-202
+- metastasis
+- cancer stem cells
+
+---

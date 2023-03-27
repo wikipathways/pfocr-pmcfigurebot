@@ -1,0 +1,36 @@
+---
+figid: PMC9036134__gr5
+pmcid: PMC9036134
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC9036134/figure/fig5/
+number: Figure 5
+figure_title: ''
+caption: Co-expressed gene module functions and temporal responsesBubble plot showing
+  the MSigDB gene sets associated with modules enriched in DEGs in both sexes. The
+  size of the bubbles indicates the number of modules enriched in an MSigDB gene set,
+  and the color denotes the sex. The modules and their hierarchy were shown on the
+  right side of the plot and colored by sex. The asterisks and squares next to the
+  MSigDB gene sets indicate the presence of correlation between at least one module
+  among those associated with the corresponding MSigDB gene set and physiological
+  traits (i.e., asterisks for viral load and squares for weight loss). Only the correlations
+  with p value ≤ 0.05 and coefficient ≥ 0.5 were included. Detailed information can
+  be found in . Detailed time-resolved development of the IFN signaling modules and
+  the AHSP pathway modules for females and males can be found in  and , and in  and
+  , respectively. Detailed information about key regulators in modules can be found
+  in .
+article_title: 'Sex disparities in influenza: A multiscale network analysis.'
+citation: Chang Wang, et al. iScience. 2022 May 20;25(5):104192.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.104192
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Biological sciences
+- Immunology
+- Virology
+- Systems biology
+
+---

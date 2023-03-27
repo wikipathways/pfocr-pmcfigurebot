@@ -1,0 +1,45 @@
+---
+figid: PMC9305527__NPH-234-527-g005
+pmcid: PMC9305527
+image_filename: NPH-234-527-g005.jpg
+figure_link: /pmc/articles/PMC9305527/figure/nph17992-fig-0002/
+number: Fig. 2
+figure_title: ''
+caption: 'Identification of benzylacetone (BA) biosynthetic genes via correlation
+  analysis at single‐cell resolution. (a) BA biosynthetic pathway proposed based on
+  the biochemical function of NaPAL4 and NaPKS1/2/3/4 (solid lines), which has been
+  characterized previously. Dashed lines indicate a putative reaction mediated by
+  unknown enzymes: Coenzyme A (CoA) ligases and reductases; NaPAL4, Nicotiana attenuata
+  phenylalanine ammonia‐lyase 4; NaPKS, N. attenuata polyketide synthase. Genes tested
+  in this study are annotated below the arrows. (b) Two correlation analyses display
+  different top‐ranked gene profiles. Genes are ranked by their correlation coefficients
+  with NaPAL4. Single‐cell RNA sequencing (scRNA‐Seq) based analysis (left panel)
+  generated more relevant profiles where several phenylpropanoid pathway associated
+  genes were included; green bars: putative phenylpropanoid pathway genes, blue bars:
+  homologs of transporter (ABC transporter) and transcription factor (ODORANT1) studied
+  in petunia. (c) Percentage of genes (y‐axis) that have a given Spearman’s rank correlation
+  coefficient (x‐axis) with NaPAL4 expression in scRNA‐Seq and bulk RNA‐Seq. Genes
+  encoding CoA ligase, reductases, and polyketide synthases appear in different colors
+  on the histograms. Thick lines highlight the CoA ligase, reductase, and polyketide
+  synthase most correlated with NaPAL4 in scRNA‐Seq. NaAER1, N. attenuata 2‐alkenal
+  reductases 1; NaCNL, N. attenuata cinnamate:CoA ligase; NaIFR, N. attenuata isoflavone
+  reductase; Na4CL1, N. attenuata 4‐coumarate:CoA ligase.'
+article_title: Single‐cell RNA‐sequencing of Nicotiana attenuata corolla cells reveals
+  the biosynthetic pathway of a floral scent.
+citation: Moonyoung Kang, et al. New Phytol. 2022 Apr;234(2):527-544.
+year: '2022'
+
+doi: 10.1111/nph.17992
+journal_title: The New Phytologist
+journal_nlm_ta: New Phytol
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- 10x genomics
+- benzylacetone
+- corolla
+- floral scents
+- Nicotiana attenuata
+- scRNA‐Seq
+
+---

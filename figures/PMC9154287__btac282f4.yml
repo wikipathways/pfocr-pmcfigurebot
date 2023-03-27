@@ -1,0 +1,35 @@
+---
+figid: PMC9154287__btac282f4
+pmcid: PMC9154287
+image_filename: btac282f4.jpg
+figure_link: /pmc/articles/PMC9154287/figure/btac282-F4/
+number: Fig. 4
+figure_title: ''
+caption: The presence of one or two underground reactions can be sufficient to increase
+  production yield. (A) Distribution of the number of underground reactions needed
+  to increase production yields of target compounds. No more than four underground
+  reactions have to be added to the native model to increase the yield in all cases.
+  Furthermore, in most cases a single underground reaction is sufficient. (B) Matrix
+  of underground reactions that contribute to the yield increments of each target
+  compound. The columns represent the underground reactions (e.g. u0008, etc.) and
+  their standard gene associations in parentheses, while the rows represent the target
+  compounds. Cells in the upper part (marked as ‘Increased yield', red) belong to
+  metabolites that can also be produced by the native metabolic network while the
+  ones in the lower part (marked as ‘No native production', blue) require the presence
+  of underground reactions. Multiple cells in one row account for multiple underground
+  reactions whose joint presence is needed for production of the target compound.
+  (C) Schematic view of central carbon metabolism (gray arrows) with underground reactions
+  (red arrows) that enable the production of new compounds (yellow highlight) that
+  cannot be produced by the native metabolic network. For details, see  (A color version
+  of this figure appears in the online version of this article)
+article_title: Underground metabolism as a rich reservoir for pathway engineering.
+citation: Szabolcs Cselgő Kovács, et al. Bioinformatics. 2022 Jun 1;38(11):3070-3077.
+year: '2022'
+
+doi: 10.1093/bioinformatics/btac282
+journal_title: Bioinformatics
+journal_nlm_ta: Bioinformatics
+publisher_name: Oxford University Press
+
+keywords:
+---

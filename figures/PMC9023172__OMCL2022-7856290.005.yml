@@ -1,0 +1,37 @@
+---
+figid: PMC9023172__OMCL2022-7856290.005
+pmcid: PMC9023172
+image_filename: OMCL2022-7856290.005.jpg
+figure_link: /pmc/articles/PMC9023172/figure/fig5/
+number: Figure 5
+figure_title: ''
+caption: '(a) Venn plot of three piRNA target gene prediction databases (TargetScan,
+  miRDB-MicroRNA, and MrmicroT). A total of 66 target genes were found according to
+  the overlap of the three databases (including 22 in uniq_271431, 43 in uniq_277797,
+  and one in piR-hsa-1256314). (b) Network of piRNA and predicted target gene. Blue
+  nodes stand for target genes. The shapes of the nodes represent different piRNAs.
+  The lines represent the regulatory relationship between the piRNAs and target genes.
+  (c) PPI interaction network of target genes determined by STRING. Lines indicate
+  protein-protein interactions. (d) Functional enrichment analysis of target genes.
+  GO enrichment analysis results for target genes. The functional enrichment analysis
+  was performed using the Database for Annotation, Visualization and Integrated Discovery
+  (DAVID). GO terms that are enrichment for target genes are shown in biological processes,
+  molecular function, and cellular component. y-axis shows -log10 (p value), and x-axis
+  shows the terms of GO pathway. The Kyoto Encyclopedia of Genes and Genomes (KEGG)
+  pathways enrichment: the sizes of the circle dots indicate the numbers of enriched
+  genes, and the color of circle indicates the -log10 (p value). The x-axis represents
+  the number of genes in enrichments. (e) Network centralities calculated by MCC algorithm
+  in CytoHubba plug-in. It can be seen that two of the top three central genes pointed
+  to PIWIL1.'
+article_title: Novel piRNA Regulates PIWIL1 to Modulate the Behavior of Placental
+  Trophoblast Cells and Participates in Preeclampsia.
+citation: Jing Lin, et al. Oxid Med Cell Longev. 2022;2022:7856290.
+year: '2022'
+
+doi: 10.1155/2022/7856290
+journal_title: Oxidative Medicine and Cellular Longevity
+journal_nlm_ta: Oxid Med Cell Longev
+publisher_name: Hindawi
+
+keywords:
+---

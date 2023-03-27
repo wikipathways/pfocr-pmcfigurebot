@@ -1,0 +1,41 @@
+---
+figid: PMC9116224__bbac118f4
+pmcid: PMC9116224
+image_filename: bbac118f4.jpg
+figure_link: /pmc/articles/PMC9116224/figure/f4/
+number: Figure 4
+figure_title: ''
+caption: Senescence heterogeneity and associated immune characteristics in tumor microenvironments.
+  (A) Heatmaps showing the average CS scores of different cell types (stromal cells,
+  myeloid cells, malignant cells and T-cells) in 10 single-cell datasets, which are
+  labeled as the cancer type with accession numbers in the GEO database. (B and C)
+  The t-distributed stochastic neighbor embedding visualization shows seven main cell
+  types in single-cell prostate cancer data (GSE141445), colored by cell type (B)
+  and the CS score (C). (D) Bar plots showing the top 10 enriched Reactome pathway
+  terms of DEGs in malignant luminal cells between the high-CS (pink) and low-CS groups
+  (green). (E) Dot plots showing the expression of selected DEGs in malignant cells
+  between the high-CS and low-CS groups. The dot color corresponds to the average
+  expression, and the dot size indicates the percent expressed. (F) Bubble chart showing
+  significant ligand–receptor interactions between high-CS/low-CS malignant luminal
+  cells (luminal_H/luminal_L) and neighboring cells. Ligands and receptors are shown
+  on the x-axis; ligand-expressed cells and receptor-expressed cells are shown on
+  the y-axis. The color denotes the average expression levels of ligands and receptors
+  in interacting cells, and the bubble size indicates the significance of the interactions
+  (permutation test in CellPhoneDB).
+article_title: Comprehensive assessment of cellular senescence in the tumor microenvironment.
+citation: Xiaoman Wang, et al. Brief Bioinform. 2022 May;23(3):bbac118.
+year: '2022'
+
+doi: 10.1093/bib/bbac118
+journal_title: Briefings in Bioinformatics
+journal_nlm_ta: Brief Bioinform
+publisher_name: Oxford University Press
+
+keywords:
+- cellular senescence
+- pan-cancer
+- single-cell
+- immunotherapy
+- machine learning
+
+---

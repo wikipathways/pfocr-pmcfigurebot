@@ -1,0 +1,45 @@
+---
+figid: PMC9092267__gr7
+pmcid: PMC9092267
+image_filename: gr7.jpg
+figure_link: /pmc/articles/PMC9092267/figure/fig7/
+number: Figure 7
+figure_title: ''
+caption: Whole-phosphoproteome profiling of patient LCLs (NP_001311.3; p.Asp32His)(A)
+  Venn diagram showing whole phosphoproteome of mutant (NP_001311.3; p.Asp32His) and
+  wild-type LCLs. Note that among 1,347 (green) proteins, 425 (pink) are non-phosphorylated.
+  These 425 contain 313 putative CK2 substrates motifs (shown in gray). The FC is
+  >2; q value is 0.05.(B) Venn diagram showing whole phosphoproteome of NP_001311.3;
+  p.Asp32His mutant and wild-type LCLs. Note that among 1,347 proteins shown in gray,
+  379 are hyper-phosphorylated (shown in green). These 379 contain 231 substrates
+  of CK2 (shown in pink). The FC is >2; q value is 0.05.(C) Donut graph generated
+  by Funrich shows the percent of genes involved in a biological pathway. Note that
+  each pathway is color coded and the key is given.(D) The diagram presents substrate
+  motifs of different kinases that are hyper-phosphorylated (shown in green) and hypo-phosphorylated
+  (shown in pink). The respective p values of enriched motifs are written corresponding
+  to each kinase.
+article_title: De novo variants of CSNK2B cause a new intellectual disability-craniodigital
+  syndrome by disrupting the canonical Wnt signaling pathway.
+citation: Maria Asif, et al. HGG Adv. 2022 Jul 14;3(3):100111.
+year: '2022'
+
+doi: 10.1016/j.xhgg.2022.100111
+journal_title: Human Genetics and Genomics Advances
+journal_nlm_ta: HGG Adv
+publisher_name: Elsevier
+
+keywords:
+- intellectual disability-craniodigital syndrome
+- CSNK2B
+- CK2β
+- CK2
+- Wnt signaling
+- β-catenin
+- DVL3
+- CK2α
+- GestaltMatcher
+- POBINDS
+- whole transcriptome profiling
+- whole-phosphoproteome profiling
+
+---

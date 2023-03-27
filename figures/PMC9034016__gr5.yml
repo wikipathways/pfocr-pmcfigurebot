@@ -1,0 +1,51 @@
+---
+figid: PMC9034016__gr5
+pmcid: PMC9034016
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC9034016/figure/f0025/
+number: Fig. 5
+figure_title: ''
+caption: N6-methyladenosine (m6A) regulatory machinery was indispensable for establishing
+  cs-lncRNA repertoire. (A) The expression changes of decreased and increased cs-lncRNAs
+  in METTL14 knockout NHDF cells compared with control after VACV-70mer (dsDNA) treatment.
+  (B) The observed (labeled as a vertical red line) and expected (represented as the
+  histogram) downregulated proportion of increased cs-lncRNA (left) and upregulated
+  proportion of decreased cs-lncRNA (right) in METTL14 knockout NHDF cells compared
+  with that of control after dsDNA treatment. The expected proportion was estimated
+  using 1,000 permutations based on all expressed lncRNAs. (C) The correlation of
+  expression changes of cs-lncRNAs between four cGAS-STING signaling stimulations
+  in HFF-1 cells and dsDNA stimulation in METTL14 knockout NHDF cells. (D) The overlap
+  of identified m6A peaks before (unstimulated) and after (stimulated) dsDNA treatment.
+  In total, 3,818 m6A peaks were specifically gained (gain) and 1,904 Pol II peaks
+  were lost (loss) after dsDNA stimulation compared with unstimulated status. (E)
+  The observed (labeled as a vertical red line) and expected (represented as the histogram)
+  proportion of increased cs-lncRNA (left) and decreased cs-lncRNA (right) harboring
+  gain of m6A peaks in their transcripts. (F) The observed (labeled as a vertical
+  red line) and expected (represented as the histogram) proportion of increased cs-lncRNA
+  (left) and decreased cs-lncRNA (right) harboring loss of m6A peaks in their transcripts.
+  For both (E) and (F), the expected proportion was estimated using 1,000 permutations
+  based on all expressed lncRNAs. (G) The heatmap of the expression changes of key
+  signaling transduction components of the cGAS-STING pathway in METTL14 knockout
+  NHDF cells compared with control with (6 h and 12 h) and without dsDNA treatment.
+  (H) The correlation of expression changes of cs-lncRNAs between IFNβ treatment in
+  IFNAR1-KO HFF-1 cells and dsDNA stimulation in METTL14 knockout NHDF cells. (For
+  interpretation of the references to colour in this figure legend, the reader is
+  referred to the web version of this article.)
+article_title: m6A-mediated modulation coupled with transcriptional regulation shapes
+  long noncoding RNA repertoire of the cGAS-STING signaling.
+citation: Jinyi Song, et al. Comput Struct Biotechnol J. 2022;20:1785-1797.
+year: '2022'
+
+doi: 10.1016/j.csbj.2022.04.002
+journal_title: Computational and Structural Biotechnology Journal
+journal_nlm_ta: Comput Struct Biotechnol J
+publisher_name: Research Network of Computational and Structural Biotechnology
+
+keywords:
+- lncRNA
+- cGAS-STING signaling
+- N6-methyladenosine (m6A)
+- Transcriptional regulation
+- Transcription factor
+
+---

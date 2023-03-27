@@ -1,0 +1,44 @@
+---
+figid: PMC8997573__cancers-14-01848-g001
+pmcid: PMC8997573
+image_filename: cancers-14-01848-g001.jpg
+figure_link: /pmc/articles/PMC8997573/figure/cancers-14-01848-f001/
+number: Figure 1
+figure_title: ''
+caption: 'HuR regulates homologous recombination repair in PDAC cells. (A) Comet assay
+  showing an increase in DNA damage when MiaPaCa-2 cells were transfected with siHuR
+  (siHuR#1) as compared with the siSCR control. H2O2 was used as a positive control
+  (the scale bar: 10–50 μM). Mean ± SEM, n = 3. **** p < 0.0001 (Student’s t-test).
+  Validation of HuR knockdown is shown on the right. (B) pDR-GFP assay: MiaPaCa-2-DRGFP
+  cells were transfected with siHuR (siHuR#1) and 24 h later they were re-transfected
+  with pCBASceI (10 µg). Graph shows the percentage of HRR efficiency by comparing
+  siHuR and siSCR, as calculated by quantitating GFP-positive cells using flow cytometry.
+  Mean ± SEM, n = 3. * p < 0.05, ** p < 0.01 (Student’s t-test). Validation of HuR
+  knockdown is shown on the right. (C) Gene set enrichment analysis of siHuR (HuR_NT)
+  vs. siSCR (CTRL_NT) (n = 4) samples in MiaPaCa-2 cells, showing negative enrichment
+  of the Reactome homologous recombination repair pathway. (D) Western blot showing
+  validation of HuR fractions in cytoplasmic and nuclear compartments; and HuR-IP
+  in MiaPaCa-2 cells. α-Tubulin was used as a control for cytoplasmic extracts and
+  Lamin A/C was used as a control for nuclear extracts. (E) The Human Clariom D microarray
+  was performed from HuR-RNP-IP MiaPaCa-2 samples and was treated with either olaparib
+  (10 µM) or gemcitabine (1 µM) for 16 h. A heatmap of log2FC is shown of the genes
+  from the Reactome homologous recombination repair pathway from two sets for each
+  treatment condition (HuR vs. IgG).'
+article_title: HuR Plays a Role in Double-Strand Break Repair in Pancreatic Cancer
+  Cells and Regulates Functional BRCA1-Associated-Ring-Domain-1(BARD1) Isoforms.
+citation: Aditi Jain, et al. Cancers (Basel). 2022 Apr;14(7):1848.
+year: '2022'
+
+doi: 10.3390/cancers14071848
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- pancreatic ductal adenocarcinoma
+- BARD1
+- HuR
+- RNA binding protein
+- DNA repair
+
+---

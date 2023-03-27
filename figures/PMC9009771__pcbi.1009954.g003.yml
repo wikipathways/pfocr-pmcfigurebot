@@ -1,0 +1,28 @@
+---
+figid: PMC9009771__pcbi.1009954.g003
+pmcid: PMC9009771
+image_filename: pcbi.1009954.g003.jpg
+figure_link: /pmc/articles/PMC9009771/figure/pcbi.1009954.g003/
+number: Fig 3
+figure_title: The mean-correlation relationship leads to expression bias
+caption: Same data as . (a) Like , but supplemented with the densities (scaled differently
+  from the background densities) of the top 0.1% of the correlations in each expression
+  bin, representing possible signal. (b) We calculate the average expression level
+  between two genes involved in a gene-gene correlation, as a measure of the expression
+  level of the pair. The expression level of pairs of genes for either all expressed
+  genes (black) or all gene pairs in the top 0.1% of the correlations (gray). (c)
+  The expression level of pairs of genes for either all genes (black) or all gene
+  pairs with a known protein-protein interaction (PPI) (pink).(d) The expression level
+  of pairs of genes for either all genes (black) or all gene pairs within a regulatory
+  pathway (green).
+article_title: Addressing the mean-correlation relationship in co-expression analysis.
+citation: Yi Wang, et al. PLoS Comput Biol. 2022 Mar;18(3):e1009954.
+year: '2022'
+
+doi: 10.1371/journal.pcbi.1009954
+journal_title: PLoS Computational Biology
+journal_nlm_ta: PLoS Comput Biol
+publisher_name: Public Library of Science
+
+keywords:
+---

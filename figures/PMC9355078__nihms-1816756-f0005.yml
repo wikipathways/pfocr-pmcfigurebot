@@ -1,0 +1,38 @@
+---
+figid: PMC9355078__nihms-1816756-f0005
+pmcid: PMC9355078
+image_filename: nihms-1816756-f0005.jpg
+figure_link: /pmc/articles/PMC9355078/figure/F4/
+number: Fig. 4 |
+figure_title: Human acral versus cutaneous melanoma have distinct positional identity
+  gene programmes
+caption: a, RNA-seq performed on samples from 61 patients with acral melanoma and
+  53 patients with cutaneous melanoma. b, Waterfall plot representation of GSEA pathway
+  analysis of human acral versus cutaneous melanoma showing the top 2,000 enriched
+  pathways and highlighting pathways related to limb development and positional identity.
+  GSEA analysis is controlled for disease stage. Only pathways with FDR < 0.05 are
+  highlighted. The specific pathways highlighted in the plot are shown in  and . c,
+  Volcano plot showing differentially expressed genes between acral and cutaneous
+  melanoma samples. Genes with FDR-adjusted P-value (Padj) < 0.05 are indicated in
+  blue. P-values calculated using DESeq2. d, Box plots showing differences in gene
+  expression between acral melanoma and cutaneous melanoma samples. The centre line
+  indicates the median, box edges show 25th and 75th percentiles, and whiskers extend
+  to the largest and smallest values up to 1.5× the interquartile range. FDR = 0.05;
+  adjusted P-values calculated using a two-sided Wald test with DESeq2. e, HOXB13
+  immunohistochemistry (IHC) on an acral melanoma tissue microarray. Representative
+  images of three samples are shown. A total of 30 samples was independently scored
+  for extent and intensity, and are represented by the pie charts. LN, lymph node.
+  f, HOMER known-motif enrichment analysis on genes upregulated in acral versus cutaneous
+  melanoma (log2 fold change cut-off ±1.5, two-sided Wald test with Padj < 0.05; within
+  ±500 bp of the transcription start site (TSS).
+article_title: Anatomic position determines oncogenic specificity in melanoma.
+citation: Joshua M. Weiss, et al. Nature. ;604(7905):354-361.
+year: '2022'
+
+doi: 10.1038/s41586-022-04584-6
+journal_title: Nature
+journal_nlm_ta: Nature
+publisher_name: ''
+
+keywords:
+---

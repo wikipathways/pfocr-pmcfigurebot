@@ -1,0 +1,44 @@
+---
+figid: PMC9026097__pharmaceuticals-15-00461-g006
+pmcid: PMC9026097
+image_filename: pharmaceuticals-15-00461-g006.jpg
+figure_link: /pmc/articles/PMC9026097/figure/pharmaceuticals-15-00461-f006/
+number: Figure 6
+figure_title: ''
+caption: MS-associated genes. (A) MS gene databases. (B) Top MS-associated genes (six
+  or more database sources). (C) Number of sources for MS-associated genes. (D) MS-associated
+  genes (four or more sources) and their response to MMF, DRF, and IDMF. The 40 genes
+  most strongly altered by one of the three compounds are shown (i.e., lowest p-value).
+  (E,G,I) Average absolute FC (|log2(FC)|) of MS-associated genes (four or more sources).
+  The null distribution shown was obtained by calculating the absolute FC in randomly
+  sampled gene sets of the same size (10,000 simulation trials). (F,H,J) MS-associated
+  genes most strongly altered by each compound (four or more sources). The number
+  of database sources linking each to MS is shown in parentheses. Significantly altered
+  genes (p < 0.05) are shown in red (increased) or blue (decreased) font. (K,L) GO
+  BP terms enriched among MS-associated genes (three or more sources) altered by IDMF
+  (p < 0.05 with FC > 1.25 or FC < 0.80). The number of genes associated with each
+  GO BP term is indicated in parentheses (left margin) and example genes are listed
+  within each figure.
+article_title: Transcriptomic Analysis of Fumarate Compounds Identifies Unique Effects
+  of Isosorbide Di-(Methyl Fumarate) on NRF2, NF-kappaB and IRF1 Pathway Genes.
+citation: William R. Swindell, et al. Pharmaceuticals (Basel). 2022 Apr;15(4):461.
+year: '2022'
+
+doi: 10.3390/ph15040461
+journal_title: Pharmaceuticals
+journal_nlm_ta: Pharmaceuticals (Basel)
+publisher_name: MDPI
+
+keywords:
+- astrocyte
+- dimethyl fumarate
+- diroximel fumarate
+- glial cells
+- Interferon regulatory factor
+- multiple sclerosis
+- neurodegeneration
+- neuroinflammation
+- NF-kappaB
+- NRF2
+
+---

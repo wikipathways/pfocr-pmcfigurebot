@@ -1,0 +1,32 @@
+---
+figid: PMC9031373__toxins-14-00274-g002
+pmcid: PMC9031373
+image_filename: toxins-14-00274-g002.jpg
+figure_link: /pmc/articles/PMC9031373/figure/toxins-14-00274-f002/
+number: Figure 2
+figure_title: ''
+caption: 'From Jhawar S et al. PLoS ONE 10(3): e0118703.Fig 5. The expression of genes
+  in the TGF receptor pathway identified by Pavlidis Template Matching [] in the DAVID
+  data base [] and subjected to Gene Set Enrichment Analysis (GSEA) [,]. The 10 uremic
+  patients were dichotomized into those without RRF (n = 5) on the left and those
+  with RF (n = 5) on the right. The GSEA enrichment score curve (top panel) for TGF-beta
+  receptor signaling (34 genes), indicates 10 genes as core-enriched (mapped on ranked
+  list left of the peak on the enrichment score curve). The activation of these 10
+  genes was greater following incubation in pre- and post-dialysis (Pre-Dial, Post-Dial)
+  plasma of subjects without RRF than in subjects with RRF (bottom panels, red in
+  heat map = high mRNA abundance, blue = low abundance).'
+article_title: The Evolving View of Uremic Toxicity.
+citation: Bjorn Meijers, et al. Toxins (Basel). 2022 Apr;14(4):274.
+year: '2022'
+
+doi: 10.3390/toxins14040274
+journal_title: Toxins
+journal_nlm_ta: Toxins (Basel)
+publisher_name: MDPI
+
+keywords:
+- protein-bound solute
+- uremia
+- organic anion transporter
+
+---

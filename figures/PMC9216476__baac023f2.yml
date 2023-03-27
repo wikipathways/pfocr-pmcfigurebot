@@ -1,0 +1,45 @@
+---
+figid: PMC9216476__baac023f2
+pmcid: PMC9216476
+image_filename: baac023f2.jpg
+figure_link: /pmc/articles/PMC9216476/figure/F2/
+number: Figure 2
+figure_title: ''
+caption: Histogram of the different gene relationship types found between the genes
+  involved in an oligogenic variant combination. The types of gene relationship were
+  obtained either directly from the articles or from public databases (for the ‘Relevant
+  pathways for phenotype’, ‘Same Pathway’ and ‘Directly Interacting’ relationships).
+  Genes are ‘Involved in the same disease’ if patients with the same phenotype described
+  or referenced in the manuscript carried mutations in those genes, together or independently.
+  Pathway information for each gene was either described in the article or found in
+  the KEGG () or Reactome () databases and was then manually screened to check if
+  the genes belong to ‘Relevant pathways for the phenotype’ (e.g. glucose metabolism
+  pathway for a diabetic phenotype) or in the ‘Same pathway’. Similarly, genes ‘Affecting
+  the same tissue’ must also be expressed in the same relevant tissue for the phenotype.
+  The ‘Directly interacting’ denotes a PPI, either described in the article or retrieved
+  from the comPPI database (). It is distinguished from the ‘Same protein complex’
+  relation where the gene products are considered to only fulfil their function when
+  linked together (e.g. the subunits of a channel). ‘Indirectly interacting’ genes
+  are those whose products indirectly interact with an intermediate protein or are
+  involved in a gene regulation mechanism with other gene products (e.g. transcription
+  factors). ‘Similar function’ indicates that genes have the same function (e.g. motor
+  proteins). ‘Co-localization’ implies a direct overlap of the location of the gene
+  products in the cell (e.g. shown using immunofluorescence), while ‘Same organelle’
+  implies that the protein products exercise their function in the same organelle
+  (e.g. cilia proteins). The ‘Co-expression’ relationship implies a positive correlation
+  of the mRNA expression of the genes in a temporal fashion shown or referenced in
+  the article. Finally the ‘Monogenic experiments only’ notes the fact that the experimental
+  evidence and the assessment of their pathogenicity were done on the genes independently
+  (e.g. single knockouts).
+article_title: 'Scaling up oligogenic diseases research with OLIDA: the Oligogenic
+  Diseases Database.'
+citation: Charlotte Nachtegael, et al. Database (Oxford). 2022;2022:baac023.
+year: '2022'
+
+doi: 10.1093/database/baac023
+journal_title: 'Database: The Journal of Biological Databases and Curation'
+journal_nlm_ta: Database (Oxford)
+publisher_name: Oxford University Press
+
+keywords:
+---

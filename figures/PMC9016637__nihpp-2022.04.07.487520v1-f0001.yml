@@ -1,0 +1,46 @@
+---
+figid: PMC9016637__nihpp-2022.04.07.487520v1-f0001
+pmcid: PMC9016637
+image_filename: nihpp-2022.04.07.487520v1-f0001.jpg
+figure_link: /pmc/articles/PMC9016637/figure/F1/
+number: Figure 1
+figure_title: Hippo signaling pathway is activated in lung tissues of COVID-19 patients
+  and infected human lung in vitro cell cultures
+caption: '(A) Transcriptome analysis of five negative control and autopsy lung samples
+  from patients deceased due to SARS-CoV-2 infection are depicted. KEGG pathway database
+  was used to examine the Hippo signaling pathway genes in the differentially expressed
+  genes (DEGs). Heatmap shows the expression levels of the 45 DEGs (p <0.01) involved
+  in Hippo signaling pathway. Blue and red colors represent downregulated and upregulated
+  genes, respectively. (B) Immunohistochemistry (IHC) of COVID-19 lung autopsy tissue
+  shows high level of phospho-YAP Ser127 protein (dark brown). SARS-CoV-2 RNA (red)
+  presence in COVID-19 lung was confirmed by RNA-FISH (RNAscope). Images are obtained
+  at 20x magnification. (C) Western blot analyses of lung ALI cells show activation
+  of Hippo-TBK1 pathways during SARS-CoV-2 infection. Proximal lung air-interface
+  cultures are susceptible to SARS-CoV-2 infection. Antibody targeting Spike protein
+  was used for probing infection by immunohistochemistry. Cell-specific markers, such
+  as Ac-tubulin (ciliated cells) and Mucin5 (mucus cells) were detected by antibody
+  probes to define infected cell types. Scale bar 10 μm. (D) Human airway epithelial
+  cells (Calu-3) were analyzed with IHC for pYAP127 and SARS-CoV-2 Spike protein in
+  uninfected (Mock) and infected cells. Parental and Delta strains were used for infection
+  studies. Scale bar: 25 μm. Representative data from three independent studies are
+  provided.'
+article_title: Hippo Signaling Pathway Activation during SARS-CoV-2 Infection Contributes
+  to Host Antiviral Response.
+citation: Gustavo Garcia, et al. bioRxiv. 2022 Apr 8:2022.04.07.487520.
+year: '2022'
+
+doi: 10.1101/2022.04.07.487520
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+- SARS-CoV-2
+- COVID-19
+- Hippo signaling pathway
+- Antiviral
+- YAP/TAZ
+- LATS1/2
+- MST1/2
+
+---

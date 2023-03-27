@@ -1,0 +1,41 @@
+---
+figid: PMC9018564__nihms-1779767-f0002
+pmcid: PMC9018564
+image_filename: nihms-1779767-f0002.jpg
+figure_link: /pmc/articles/PMC9018564/figure/F2/
+number: Figure 2
+figure_title: Wnt signature derived by integrative analysis of VCaP cells and clinical
+  datasets predicts Wnt activities
+caption: 'A, Fold change of 47-geneset between Wnt-high versus Wnt-low status in clinical
+  datasets and VCaP with APC knockdown (APCi) and WNT3a/RNF43 knockdown. Patients
+  were stratified into Wnt-high (WH, top 10% Wnt activity score based on 124 gene
+  set) and Wnt-low (WL, bottom 10% of the Wnt activity score) within TCGA (WH, n=55
+  vs WL, n=105), SU2C (WH, n=14 vs WL, n=14), WCPCDT (WH, n=14 vs WL, n=11) and FHCRC
+  (WH, n=28 vs WL, n=16) datasets. B, C, GO biological processes or Pathway enrichment
+  for 47-geneset with P value <0.01. D, Upstream prediction analysis. E-I, Scatter
+  plots, with lines at median and interquartile ranges, show Wnt activity score distributions
+  in cases with or without APC/CTNNB1 alterations in the following clinical datasets
+  and one PDX dataset: E, TCGA (Rest, n=449; APC, n=10; CTNNB1, n=15); F, SU2C (Rest,
+  n=118; APC, n=9, CTNNB1, n=4); G, WCPCDT (Rest, n=141; APC, n=3; CTNNB1, n=5); H,
+  FHCRC (Rest, n=141; APC, n=3; CTNNB1, n=5); I, LuCaP PDX series (Rest, n=34; APC-deleterious
+  stands for APC loss/truncation mutations, n=10; APC-nonsym is nonsynonymous mutations
+  of unclear functional significance, n=4). Mann-Whitney tests, cutoff p<0.05. ****
+  = p<0.0001, *** = p<0.001, ** = p<0.01, * = p<0.05, ns = no significance.'
+article_title: Autocrine canonical Wnt signaling primes noncanonical signaling through
+  ROR1 in metastatic castration-resistant prostate cancer.
+citation: Fen Ma, et al. Cancer Res. ;82(8):1518-1533.
+year: '2022'
+
+doi: 10.1158/0008-5472.CAN-21-1807
+journal_title: Cancer research
+journal_nlm_ta: Cancer Res
+publisher_name: ''
+
+keywords:
+- Wnt
+- β-catenin
+- prostate cancer
+- castration-resistant prostate cancer
+- ROR1
+
+---

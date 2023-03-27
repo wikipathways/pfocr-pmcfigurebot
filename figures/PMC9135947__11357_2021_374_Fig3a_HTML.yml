@@ -1,0 +1,39 @@
+---
+figid: PMC9135947__11357_2021_374_Fig3a_HTML
+pmcid: PMC9135947
+image_filename: 11357_2021_374_Fig3a_HTML.jpg
+figure_link: .na.character
+number: ''
+figure_title: Fig. 3
+caption: Transcriptome profile of Psora-4 confirmed that nematodes treated with psora-4
+  have enhanced stress response. a GO term analysis, top GO terms targeted by Psora-4
+  were defensive responses, transmembrane transport, and oxidation-reduction process,
+  based on DEGs with |LFC| > 1 and P-value < 0.05. b As in a only for downregulated
+  genes. Top hits are metabolic processes. c As in a for upregulated genes. Top hits
+  are oxidation-reduction processes. d Top signaling pathways targeted by Psora-4
+  differentially expressed genes based on panther pathway analysis. e Panther GO-slim
+  molecular function showed the top classes of differentially expressed genes by Psora-4
+  are antioxidant activities. f GO terms enriched by DEGs of Psora-4 were analyzed
+  by DAVID [] and summarized by REVIGO []. The top GO terms are metabolic processes.
+  X- and Y-axes represent GO terms’ semantic similarity measures in multidirectional
+  scaling; the closeness of the groups on the plot reflects their relative similarity
+  based on this metric
+article_title: A small-molecule Psora-4 acts as a caloric restriction mimetic to promote
+  longevity in C. elegans.
+citation: Tesfahun Dessale Admasu, et al. GeroScience. 2022 Apr;44(2):1029-1046.
+year: '2022'
+
+doi: 10.1007/s11357-021-00374-6
+journal_title: GeroScience
+journal_nlm_ta: GeroScience
+publisher_name: Springer International Publishing
+
+keywords:
+- Psora-4
+- Caloric restriction
+- Lifespan
+- Drug
+- Potassium channel
+- Aging
+
+---

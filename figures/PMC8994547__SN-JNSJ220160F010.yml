@@ -1,0 +1,43 @@
+---
+figid: PMC8994547__SN-JNSJ220160F010
+pmcid: PMC8994547
+image_filename: SN-JNSJ220160F010.jpg
+figure_link: /pmc/articles/PMC8994547/figure/F10/
+number: Figure 10
+figure_title: ''
+caption: Transcriptomic analysis of human drNPC-O2 reveals significant increase in
+  neuronal differentiation, maturation, and synaptic transmission by ILP/ISP treatment
+  in the injured spinal cord. A, Volcano plot illustrates differentially expressed
+  genes at 14 weeks after transplantation (FDR < 0.05, Benjamini–Hochberg, two-sided;
+  fold change > 2). B, Gene Ontology analysis for cellular components using R language
+  program identifies significantly upregulated and downregulated genes in transplanted
+  drNPC-O2 after ILP/ISP co-treatment. These analyses showed that cellular components
+  related to neurogenesis and synapse formation were upregulated by blocking LAR and
+  PTPσ receptors. C, Gene Ontology analysis for biological processes on human-exclusive
+  transcripts indicated upregulation in biological processes related to neural regeneration
+  and functional improvement with ILP/ISP treatment. D, Gene Ontology analysis for
+  functional enrichment of differentially expressed genes suggests blocking LAR and
+  PTPσ receptors upregulates genes related to neuronal transmission and function.
+  E, KEGG pathway analysis of human-exclusive transcripts indicated that Wnt/β-catenin
+  signaling pathway is upregulated by inhibiting LAR and PTPσ receptors. Fisher's
+  exact test, FDR < 0.05, N = 3 animals per group.
+article_title: Suppressing CSPG/LAR/PTPσ Axis Facilitates Neuronal Replacement and
+  Synaptogenesis by Human Neural Precursor Grafts and Improves Recovery after Spinal
+  Cord Injury.
+citation: Seyed Mojtaba Hosseini, et al. J Neurosci. 2022 Apr 13;42(15):3096-3121.
+year: '2022'
+
+doi: 10.1523/JNEUROSCI.2177-21.2022
+journal_title: The Journal of Neuroscience
+journal_nlm_ta: J Neurosci
+publisher_name: Society for Neuroscience
+
+keywords:
+- human neural precursor cells
+- neurogenesis
+- neurological recovery
+- spinal cord injury
+- synaptogenesis
+- transplantation
+
+---

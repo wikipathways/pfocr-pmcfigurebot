@@ -1,0 +1,48 @@
+---
+figid: PMC9092072__gr3
+pmcid: PMC9092072
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9092072/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: 'Intratumoral CXCL9 and IL-12 combination increases tumor immunogenicity
+  by modulating the TME, leading to expansion of splenic antigen-specific CD8 cells(A)
+  Schematic showing sequential treatment regimen to assess tumor regression and monitor
+  immune response. CT26 tumor-bearing mice were intratumorally electroporated with
+  a low but immunologically active dose of pIL12 (2 μg, day 0) followed by IT-EP of
+  100 μg of either pCXCL9 or EV (days 4 and 7). Tumor and splenocytes were harvested
+  2 days after last EP (i.e., day 9) for NanoString and flow-based analysis. (B) Gene
+  expression changes in electroporated CT26 lesions were assessed by NanoString nCounter
+  technology (mouse PanCancer IO360 panel) with pathway scores. Pathway scores follow
+  the assumptions of equal variance and normal distribution of t scores. Ordinary
+  one-way ANOVA was used to calculate significance compared with the empty-vector-treated
+  group (∗p < 0.05, ∗∗p < 0.009). GPCR, G protein-coupled receptor; MHC1, major histocompatibility
+  complex 1. (C) Left: representative plots demonstrating enrichment of antigen-specific
+  CD8 T cells (AH1+CD8+) in mice 9 days after treatment with pIL12 + pCXCL9 compared
+  with pIL12 alone or EV on Singlets > Live > CD3+CD4- splenocytes. Right: increase
+  in the percentage of AH1+ CD8+ T cells compared with empty-vector control (n = 3,
+  3–5 animals/group; ∗p < 0.05, one-way ANOVA).'
+article_title: Amplification of the CXCR3/CXCL9 axis via intratumoral electroporation
+  of plasmid CXCL9 synergizes with plasmid IL-12 therapy to elicit robust anti-tumor
+  immunity.
+citation: Jack Y. Lee, et al. Mol Ther Oncolytics. 2022 Jun 16;25:174-188.
+year: '2022'
+
+doi: 10.1016/j.omto.2022.04.005
+journal_title: Molecular Therapy Oncolytics
+journal_nlm_ta: Mol Ther Oncolytics
+publisher_name: American Society of Gene & Cell Therapy
+
+keywords:
+- IL-12
+- tavokinogene telseplasmid
+- electroporation
+- CXCL9
+- CXCR3
+- chemotaxis
+- CT26
+- 4T1
+- anti-PD-1
+- DNA-encodable
+
+---

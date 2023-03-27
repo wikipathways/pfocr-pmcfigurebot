@@ -1,0 +1,29 @@
+---
+figid: PMC9095505__molce-45-5-306-f5
+pmcid: PMC9095505
+image_filename: molce-45-5-306-f5.jpg
+figure_link: /pmc/articles/PMC9095505/figure/F5/
+number: Fig. 5
+figure_title: Cell-type specific expression of enriched pathway related genes
+caption: Violin plot indicating the expression levels and number of cells expressing
+  genes in habenular cell-type clusters from GSE 137478 that are related to (A) neuroactive
+  ligand-receptor pathway and (B) trans-synaptic signaling. The colors of the graph
+  indicate log2 fold change (FC) of each DEGs.
+article_title: Gene Expression Profiling of the Habenula in Rats Exposed to Chronic
+  Restraint Stress.
+citation: Hyeijung Yoo, et al. Mol Cells. 2022 May 31;45(5):306-316.
+year: '2022'
+
+doi: 10.14348/molcells.2022.2257
+journal_title: Molecules and Cells
+journal_nlm_ta: Mol Cells
+publisher_name: Korean Society for Molecular and Cellular Biology
+
+keywords:
+- chronic restraint stress
+- depression
+- gene enrichment analysis
+- gene expression profiling
+- habenula
+
+---

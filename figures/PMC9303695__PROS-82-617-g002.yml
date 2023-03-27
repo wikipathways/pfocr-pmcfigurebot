@@ -1,0 +1,36 @@
+---
+figid: PMC9303695__PROS-82-617-g002
+pmcid: PMC9303695
+image_filename: PROS-82-617-g002.jpg
+figure_link: /pmc/articles/PMC9303695/figure/pros24308-fig-0002/
+number: Figure 2
+figure_title: ''
+caption: Prediction of ATF6α's potential activity in PCa using RNA sequencing. (A) ATF6α‐related
+  pathways were analyzed by KEGG analysis. (B) GSEA identified a significant association
+  between ATF6α and the arachidonic acid metabolic pathway. (C) Heatmap of significant
+  arachidonic acid metabolism‐related genes in LNaP‐AI cells with ATF6α knockdown
+  compared with their parental controls. (D) The mRNA levels of the indicated genes
+  were validated by qRT‐PCR assays. ATF6α, activating transcription factor 6 α;  GSEA,
+  Gene set enrichment analysis; KEGG, Kyoto Encyclopaedia of Genes and Genomes; PCa,
+  prostate cancer; qRT‐PCR, quantitative real‐time polymerase chain reaction.**p < 0.01,
+  ***p < 0.001, determined by two‐tailed Student's t test [Color figure can be viewed
+  at wileyonlinelibrary.com]
+article_title: ATF6α promotes prostate cancer progression by enhancing PLA2G4A‐mediated
+  arachidonic acid metabolism and protecting tumor cells against ferroptosis.
+citation: Ru Zhao, et al. Prostate. 2022 Apr 1;82(5):617-629.
+year: '2022'
+
+doi: 10.1002/pros.24308
+journal_title: The Prostate
+journal_nlm_ta: Prostate
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- AA
+- ATF6α
+- CRPC
+- ferroptosis
+- PGE2
+- PLA2G4A
+
+---

@@ -1,0 +1,60 @@
+---
+figid: PMC9117543__gr3
+pmcid: PMC9117543
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9117543/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: NMR-based metabonomics analysis of livers in old and iron-overload mice.A,
+  score plot and loading plot from OPLS-DA analysis of the spectra from livers of
+  the control mice and iron-overload mice (n = 6). B, score plot and loading plot
+  from OPLS-DA analysis of the spectra from livers of the control mice and old mice
+  (n = 6–7). C, heatmap visualization for liver samples from three groups. D, metabolite
+  pathway enrichment analysis of iron-overload mice (left) and old mice (right) using
+  data obtained by MetaboAnalyst 3.0. Red bars indicated the same changed metabolic
+  pathways between HI and OLD groups. E and F, a 200 times permutation test of OPLS-DA
+  models for iron-overload mice and old mice, respectively. G, PCA score plot of all
+  three groups (n = 6–7). H, PCA scree plot showing the variance explained with the
+  five principal components. The two lines stand for the individual (bottom) or cumulative
+  (top) variance explained by the principal components, respectively. I, liver oxidative
+  stress and liver injury levels in livers of iron-overload and old mice. SOD activities,
+  CAT activities, MDA levels, and GSH levels in livers, and serum AST and ALT levels
+  were determined. Iron overload was induced by i.p. injection of iron dextran (5 mg/mouse/day)
+  twice a week for 3 weeks, and 64-week-old male mice were used for the old group.
+  All data are expressed as the means ± SD (∗p < 0.05, ∗∗p < 0.01, n = 5). Four-week-old
+  male C57BL/6 mice were used to induce iron overload by i.p. injection of iron dextran
+  (5 mg/mouse/day) twice a week for 3 weeks, and mice were sacrificed 1 week after
+  the last injection. And 64-week-old male mice were used for the old group. ALT,
+  alanine aminotransferase; AST, aspartate aminotransaminase; CAT, catalase; HI, iron-overload
+  group; MDA, malondialdehyde; OLD, old group; OPLS-DA, orthogonal partial least squares
+  discriminant analysis; PCA, principal component analysis; SOD, superoxide dismutase.
+article_title: Iron accumulation with age alters metabolic pattern and circadian clock
+  gene expression through the reduction of AMP-modulated histone methylation.
+citation: Junhao Liu, et al. J Biol Chem. 2022 Jun;298(6):101968.
+year: '2022'
+
+doi: 10.1016/j.jbc.2022.101968
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- aging
+- iron metabolism
+- circadian clock
+- metabolism
+- histone methylation
+- bw, body weight
+- CAT, catalase
+- ChIP, chromatin immunoprecipitation
+- DAB, diaminobenzidine
+- DEG, differentially expressed gene
+- DMEM, Dulbecco's modified Eagle's medium
+- FBS, fetal bovine serum
+- KEGG, Kyoto Encyclopedia of Genes and Genomes
+- OPLS-DA, orthogonal partial least squares discriminant analysis
+- RBC, red blood cell
+- ROS, reactive oxygen species
+- Tf, transferrin
+
+---

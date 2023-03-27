@@ -1,0 +1,46 @@
+---
+figid: PMC9190004__gr3
+pmcid: PMC9190004
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9190004/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: 'KLF15 orchestrates PPARδ binding in skeletal muscle.A, Venn diagram demonstrating
+  the overlap of PPARδ sites from PPARδ ChIP-seq in MyoCre vs K15-SKO. B, Heatmap
+  of PPARδ ChIP-seq centered around all PPARδ peaks, showing loss of PPARδ binding
+  in K15-SKO at the same locations. Top right: average profile of PPARδ binding centered
+  around peak centers in MyoCre and K15-SKO. Bottom right: comparison of log-transformed
+  enrichment scores for top 5% of PPARδ peaks showing increased binding in MyoCre.
+  C, distribution of PPARδ binding relative to TSSs in the presence and absence of
+  KLF15. D, distribution of genomic locations at which PPARδ is bound in MyoCre vs
+  K15-SKO. E, pathway analysis of genes associated with decreased PPARδ binding in
+  K15-SKO PPARδ ChIP-seq demonstrating enrichment for lipid metabolism pathways. F,
+  representative tracks demonstrating decreased PPARδ binding at metabolic genes when
+  KLF15 is absent. KLF15, Krüppel-like factor 15; PPAR, peroxisome proliferator–activated
+  receptor; TSS, transcription start site.'
+article_title: Transcription factors KLF15 and PPARδ cooperatively orchestrate genome-wide
+  regulation of lipid metabolism in skeletal muscle.
+citation: Liyan Fan, et al. J Biol Chem. 2022 Jun;298(6):101926.
+year: '2022'
+
+doi: 10.1016/j.jbc.2022.101926
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- Krüppel-like factor (KLF)
+- metabolism
+- energy metabolism
+- skeletal muscle
+- transcription
+- transcription factors
+- peroxisome proliferator–activated receptors
+- nuclear receptors
+- KLF15, Krüppel-like factor 15
+- KO, knockout
+- NR, nuclear receptor
+- PPAR, peroxisome proliferator–activated receptor
+- PPRE, peroxisome proliferator response element
+
+---

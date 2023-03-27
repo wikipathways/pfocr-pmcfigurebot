@@ -1,0 +1,37 @@
+---
+figid: PMC9116376__bbac090f5
+pmcid: PMC9116376
+image_filename: bbac090f5.jpg
+figure_link: /pmc/articles/PMC9116376/figure/f11/
+number: Figure 5
+figure_title: ''
+caption: The male A549 and the female H2172 cell lines are top candidates for studies
+  on Nrf2 regulation and activity. The density (A) and box (B) plots show that lung
+  cancer cell lines with higher expression levels of Nrf2–ARE pathway genes exhibit
+  higher resistance to the oxidative stress inducer menadione (BRD-K78126613-001-28-5,
+  P = 0.00014, P.adj < 0.01, two-tailed Wilcoxon test). The density (C) and box (D)
+  plots show that lung cancer cell lines with different KEAP1 mutation status and
+  expression levels of Nrf2–ARE pathway genes show sensitivity differences to NFE2L2
+  knockout (P = 2.6e−06, P.adj < 0.01, Kruskal–Wallis rank sum test). The A549 and
+  the H2172 cell lines are highlighted in a triangle shape with a darker color and
+  labeled in the box plots. ARE, antioxidant response element; P, P-value; P.adj,
+  adjusted P-value; Chronos, an algorithm for inferring gene knockout fitness effects.
+article_title: 'cSurvival: a web resource for biomarker interactions in cancer outcomes
+  and in cell lines.'
+citation: Xuanjin Cheng, et al. Brief Bioinform. 2022 May;23(3):bbac090.
+year: '2022'
+
+doi: 10.1093/bib/bbac090
+journal_title: Briefings in Bioinformatics
+journal_nlm_ta: Brief Bioinform
+publisher_name: Oxford University Press
+
+keywords:
+- genetic interaction
+- survival analysis
+- TCGA
+- TARGET
+- DepMap
+- biomarker
+
+---

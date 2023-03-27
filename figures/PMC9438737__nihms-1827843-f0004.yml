@@ -1,0 +1,35 @@
+---
+figid: PMC9438737__nihms-1827843-f0004
+pmcid: PMC9438737
+image_filename: nihms-1827843-f0004.jpg
+figure_link: /pmc/articles/PMC9438737/figure/F4/
+number: Figure 4
+figure_title: ''
+caption: Targetable signaling pathways are upregulated in inflamed and anti-TNF refractory
+  samples. (A) Heatmap of enriched pathways from IPA sorted by the pathway activation
+  z-score for the colon vs the ileum with the border bolded for significant (adjusted
+  P ≤ .05) enrichment. The title of each column lists the 2 compared groups. A positive
+  (red) z-score indicates pathway upregulation in the first group, whereas a negative
+  (blue) z-score indicates pathway upregulation in the second group. Gray indicates
+  undirected pathway enrichment (the z-score could not be calculated). (B) Simplified
+  upstream regulatory network of the STAT3 pathway in anti-TNF–treated ileum samples.
+  The red color intensity of each gene correlates with a positive z-score (upregulation)
+  in inflamed anti-TNF–treated ileum samples.
+article_title: Lamina Propria Phagocyte Profiling Reveals Targetable Signaling Pathways
+  in Refractory Inflammatory Bowel Disease.
+citation: Gillian E. Jacobsen, et al. Gastro Hep Adv. ;1(3):380-392.
+year: '2022'
+
+doi: 10.1016/j.gastha.2022.01.005
+journal_title: Gastro hep advances
+journal_nlm_ta: Gastro Hep Adv
+publisher_name: ''
+
+keywords:
+- IBD
+- RNA Sequencing
+- Phagocytes
+- Anti-TNF
+- JAK-STAT
+
+---

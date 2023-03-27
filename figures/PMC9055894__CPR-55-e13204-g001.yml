@@ -1,0 +1,38 @@
+---
+figid: PMC9055894__CPR-55-e13204-g001
+pmcid: PMC9055894
+image_filename: CPR-55-e13204-g001.jpg
+figure_link: /pmc/articles/PMC9055894/figure/cpr13204-fig-0005/
+number: FIGURE 5
+figure_title: ''
+caption: Data analysis showing complement over‐activation in COVID‐RS placenta. (A)
+  Cellchat analysis showing complement signalling networks among different cell subsets
+  in COVID‐RS and CTRL cases. The Receiver and Sender are listed at X and Y axis respectively;
+  (B) Violin plot showing the expression of several critical ligand–receptor pairs
+  in the complement pathway, including C1R, C1S, C3, C3AR1 and C5AR1, in all subsets
+  from COVID‐RS and CTRL placenta; (C) Immunofluorescence or immunohistochemistry
+  showing the activated C3 deposition in the COVID‐RS placenta. Villous trophoblasts
+  and macrophages are labelled by the staining for CK7 and CD68 respectively. The
+  black arrows shows the accumulation of C5aR1‐expressing macrophages; (D) CellphoneDB
+  analysis showing the complement activation–related ligand–receptor pairs among subsets
+  in COVID‐RS and CTRL placenta. The size of dots represents mean value, and the colour
+  shows −log(pvals +1e‐04)
+article_title: Cellular and molecular atlas of the placenta from a COVID‐19 pregnant
+  woman infected at midgestation highlights the defective impacts on foetal health.
+citation: Jingsi Chen, et al. Cell Prolif. 2022 Apr;55(4):e13204.
+year: '2022'
+
+doi: 10.1111/cpr.13204
+journal_title: Cell Proliferation
+journal_nlm_ta: Cell Prolif
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- COVID‐19
+- immune activation
+- infective course
+- midgestation
+- placenta
+- single‐cell RNA sequencing
+
+---

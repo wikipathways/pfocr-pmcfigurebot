@@ -1,0 +1,42 @@
+---
+figid: PMC9018564__nihms-1779767-f0003
+pmcid: PMC9018564
+image_filename: nihms-1779767-f0003.jpg
+figure_link: /pmc/articles/PMC9018564/figure/F3/
+number: Figure 3
+figure_title: Epigenetic downregulation of APC promotes tumor growth but does not
+  correlate with Wnt/β-catenin pathway activation
+caption: 'A, Expression correlation analysis of APC with promoter methylation in TCGA
+  (n=436, cases with genomic APC alterations excluded). B, Kaplan Meier survival analysis
+  of cases with different APC expression levels in MSKCC (Memorial Sloan Kettering
+  Cancer Center) and TCGA datasets. Left panel: MSKCC (Unaltered group represents
+  APC expression z>0.7, n=12; Altered group represents APC expression z<−1.7, n=11).
+  Right panel: TCGA (Unaltered group represents APC expression z>0.7, n=62; Altered
+  group represents APC expression z<−0.7, n=86). Statistics: Log-rank Test performed.
+  C, Left panel: Growth curves of xenografts derived from RV1 cells with either doxycycline-inducible
+  shAPC (RV1_shAPC_DOX, red curves) or shNTC (non-target control, RV1_shNTC_DOX, black
+  curves). Middle and right panels: qRT-PCR for APC (middle panel) or AXIN2 (right
+  panel) in RV1_shAPC_DOX (red dots) and RV1_shNTC_DOX (black dots) harvested at indicated
+  endpoints. D, Expression correlation of APC with WNT activity scores in TCGA (n=548),
+  FHCRC (n=149), SU2C (n=89) and WCPCDT (n=99) datasets. E, Expression correlation
+  of APC with cell cycle genes PLK1, BUB1, CDK6 and CDC25C in FHCRC (n=149) dataset.
+  A, D and E statistics: Pearson correlation and linear regression. C statistics:
+  Mann-Whitney test. P<0.05 deemed significant.'
+article_title: Autocrine canonical Wnt signaling primes noncanonical signaling through
+  ROR1 in metastatic castration-resistant prostate cancer.
+citation: Fen Ma, et al. Cancer Res. ;82(8):1518-1533.
+year: '2022'
+
+doi: 10.1158/0008-5472.CAN-21-1807
+journal_title: Cancer research
+journal_nlm_ta: Cancer Res
+publisher_name: ''
+
+keywords:
+- Wnt
+- β-catenin
+- prostate cancer
+- castration-resistant prostate cancer
+- ROR1
+
+---

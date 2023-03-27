@@ -1,0 +1,36 @@
+---
+figid: PMC9027908__genes-13-00665-g004
+pmcid: PMC9027908
+image_filename: genes-13-00665-g004.jpg
+figure_link: /pmc/articles/PMC9027908/figure/genes-13-00665-f004/
+number: Figure 4
+figure_title: ''
+caption: Bubble plot represents the top 10 significantly enriched KEGG pathways for
+  the 23 dysregulated miRNAs. The coloured scale bar indicates the −LOG (Q-value)
+  where yellow indicates more significance and blue indicates less significance. Q-value
+  is the FDR adjusted p-value. Bubble size represents the number of genes targeted
+  in that particular pathway (gene count). The y-axis represents the pathway rank
+  from most to least significant (1 through 10). The x-axis represents the number
+  of miRNAs that are enriched in a particular pathway relative to the number of target
+  genes that are enriched in the same pathway, known as the miR:gene ratio.
+article_title: MicroRNA-132-3p, Downregulated in Myeloid Angiogenic Cells from Hereditary
+  Hemorrhagic Telangiectasia Patients, Is Enriched in the TGFβ and PI3K/AKT Signalling
+  Pathways.
+citation: Anthony Cannavicci, et al. Genes (Basel). 2022 Apr;13(4):665.
+year: '2022'
+
+doi: 10.3390/genes13040665
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: MDPI
+
+keywords:
+- hereditary hemorrhagic telangiectasia
+- myeloid angiogenic cells
+- microRNAs
+- early endothelial progenitor cells
+- circulating angiogenic cells
+- transforming growth factor beta signalling pathway
+- PI3K/AKT signalling pathway
+
+---

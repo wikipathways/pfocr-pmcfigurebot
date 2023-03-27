@@ -1,0 +1,37 @@
+---
+figid: PMC9303651__TJP-600-1771-g007
+pmcid: PMC9303651
+image_filename: TJP-600-1771-g007.jpg
+figure_link: /pmc/articles/PMC9303651/figure/tjp14956-fig-0003/
+number: Figure 3
+figure_title: Results of Gene Ontology analysis on differentially expressed genes
+  identified by RNA sequencing
+caption: Biological pathways found to be over‐represented (P < 0.01) among differentially
+  expressed genes could be classified into Metabolic, Development and Tissue Injury
+  categories. In each panel, ‘ratio’ (represented by bar size) corresponds to the
+  number of genes that map to a specific pathway divided by the total number of genes
+  in the pathway. The statistic ‘z score’ (represented by column colour) is used to
+  infer the likely activation state of each pathway within the specific biological
+  context under consideration based on comparison with a model assigning random regulation
+  directions. A z score >2 or <–2 is considered as a strong indicator that a pathway
+  is up‐regulated or down‐regulated, respectively. NaN, undetermined. –Log (P values)
+  are represented by the grey dotted line.
+article_title: KLB dysregulation mediates disrupted muscle development in intrauterine
+  growth restriction.
+citation: Yennifer Cortes‐Araya, et al. J Physiol. 2022 Apr 1;600(7):1771-1790.
+year: '2022'
+
+doi: 10.1113/JP281647
+journal_title: The Journal of Physiology
+journal_nlm_ta: J Physiol
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- FGF21
+- fetal
+- IUGR
+- KLB
+- skeletal muscle
+- transcriptome
+
+---

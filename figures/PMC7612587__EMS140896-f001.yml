@@ -1,0 +1,40 @@
+---
+figid: PMC7612587__EMS140896-f001
+pmcid: PMC7612587
+image_filename: EMS140896-f001.jpg
+figure_link: /pmc/articles/PMC7612587/figure/F1/
+number: Figure 1
+figure_title: Silencing of apoptotic pathway genes confers resistance to agonists
+  of the death receptor pathway
+caption: 'Volcano plots of genes enriched or depleted for gRNA when rTRAIL-treated
+  cells were compared to DMSO vehicle control cells following transduction with a
+  genome-wide CRISPR/Cas9 library in (A) MSTO-211H mesothelioma and (B) PC-9 lung
+  adenocarcinoma cells. Each dot represents gene-wise scores for Mageck gene level
+  analysis with genes of interest highlighted. The dotted line indicates a false discovery
+  rate (FDR) of 0.1. X-axis, log2 fold change of mean gRNA reads per genes comparing
+  treatment to DMSO replicates. Y-axis, -log10 FDR for genes based upon their negative
+  (Pink and red dots) and positive (blue dots) fold change and FDR calculated by the
+  MAGeCK algorithm. (C) Deletion of target apoptotic genes following transfection
+  with synthetic crRNA in MSTO-211H, NCI-H28 and H2804 cancer cells. (D) 6-day viability
+  assay in MSTO-211H cells following deletion of specific apoptotic genes and treatment
+  with either rTRAIL or MEDI3039. Y-Axis - viability effect relative to control cells.
+  (E) Volcano plots as in A/B illustrating results of SAM CRISPR activatory screen
+  in PC-9 cells treated with rTRAIL: (F) MSTO-211H isogenic cell lines were screened
+  versus the parental cell line with a concentration range of 60 compounds and viability
+  measured at day 6. The AUC (area-under-the-curve) values for each isogenic cell
+  line and the matched parental Cas9 line were subtracted to calculate a deltaAUC
+  value, with high (positive) values indicating increased resistance to that compound
+  in the isogenic lines, and low (negative) values increased sensitivity. X-axis -
+  name of compounds screened. Y-Axis - delta AUC values.'
+article_title: Functional genomic identification of predictors of sensitivity and
+  mechanisms of resistance to multivalent 2nd generation TRAIL-R2 agonists.
+citation: Vera Grinkevitch, et al. Mol Cancer Ther. ;21(4):594-606.
+year: '2022'
+
+doi: 10.1158/1535-7163.MCT-21-0532
+journal_title: Molecular Cancer Therapeutics
+journal_nlm_ta: Mol Cancer Ther
+publisher_name: American Association for Cancer Research
+
+keywords:
+---

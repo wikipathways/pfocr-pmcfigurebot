@@ -1,0 +1,50 @@
+---
+figid: PMC8998760__ijms-23-03871-g001
+pmcid: PMC8998760
+image_filename: ijms-23-03871-g001.jpg
+figure_link: /pmc/articles/PMC8998760/figure/ijms-23-03871-f001/
+number: Figure 1
+figure_title: ''
+caption: 'The interplay between PARP inhibitors (PARPis) and immune checkpoint inhibitors
+  (ICIs). When double-strand DNA breaks (DSBs) occur and PARPis block PARP complex,
+  DNA fragments accumulate in the cytoplasm. As a result, neo-antigens accumulate
+  on the cell surface, where they are recognized by antigen-presenting cells (APCs),
+  activating the immune response. Moreover, the Stimulator of interferon genes (STING)
+  pathway is activated: DNA fragments are recognized by cytosolic sensor cGMP-AMP
+  synthetase (cGAS), cGAS activates 2′-5′ cyclic GMP-AMP (cGAMP), cGAMP switches on
+  STING, STING modulates transcription factors such as Nuclear factor-kappa B (NF-kB),
+  and Interferon regulatory factor 3 (IRF3), resulting in the transcription of related
+  cytokines (Interferon [IFN], IL-6, tumor necrosis factor-alpha [TNFα]), promoting
+  immune response. IFN increases the expression of Programmed Death-Ligand 1 (PD-L1)
+  on the cell surface. The activation of the sensor system Ataxia-Telangiectasia Mutated
+  (ATM)-ATR Serine/Threonine Kinase (ATR)-Checkpoint kinase 1 (CHEK1) in case of DSBs,
+  and the STAT-IRF pathway, increase PD-L1. Finally, DSBs inactivate glycogen synthase
+  kinase 3-beta (GSK3β), responsible for PD-L1 proteasomal degradation, increasing
+  PD-L1 cellular expression. These modifications result in a more immune responsive
+  TME: increased surface neo-antigens, increased PD-L1 expression, cytokines, and
+  chemotactic factors determine an increase in number and function of APCs, T-cells,
+  NK cells, and decrease in immunosuppressive elements such as myeloid-derived suppressor
+  cells and M2 macrophages.'
+article_title: 'The Interplay between PARP Inhibitors and Immunotherapy in Ovarian
+  Cancer: The Rationale behind a New Combination Therapy.'
+citation: Brigida Anna Maiorano, et al. Int J Mol Sci. 2022 Apr;23(7):3871.
+year: '2022'
+
+doi: 10.3390/ijms23073871
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- BRCA
+- PARP inhibitors
+- HRD
+- immune checkpoint inhibitors
+- ICIs
+- ovarian cancer
+- OC
+- durvalumab
+- olaparib
+- niraparib
+
+---

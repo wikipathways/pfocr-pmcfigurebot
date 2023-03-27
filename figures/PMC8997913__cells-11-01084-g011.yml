@@ -1,0 +1,53 @@
+---
+figid: PMC8997913__cells-11-01084-g011
+pmcid: PMC8997913
+image_filename: cells-11-01084-g011.jpg
+figure_link: /pmc/articles/PMC8997913/figure/cells-11-01084-f011/
+number: Figure 11
+figure_title: ''
+caption: 'Gene expression profile based on microarray experiments. Variations in gene
+  expression between the variants (specific lichen secondary metabolites with/or TMZ)
+  vs. control are shown as scatter plots (A). The x and y values on the scatter plots
+  are the normalized signal values, shown in a log2 scale. The black dotted lines
+  were set as fold change cut-off value (FC) = 2 and −2. Bubble plot of differentially
+  expressed genes from each group assigned to gene ontology (DAVID GO-BP DIRECT) terms
+  where the red color represents GO terms whose genes are downregulated while green
+  corresponds to GO terms of upregulated genes (B). Circos plots show the interdependence
+  between selected GO terms and their genes. Symbols of DEGs are presented on the
+  left side of the graph, where their fold-change values were mapped by color scale
+  (green indicates higher expression, red indicates lower expression, and grey indicates
+  expression levels below the cut-off value). This area was further subdivided into
+  compartments corresponding to the regulation of the expression of the given gene
+  in the relevant study groups. It represents the following comparisons from the outer
+  side of the graph: TMZ vs. control, Atranorin + TMZ vs. control, Caperatic acid
+  + TMZ vs. control, Physodic acid + TMZ vs. control, Squamatic acid + TMZ vs. control,
+  Salazinic acid + TMZ vs. control, Lecanoric acid + TMZ vs. control (C). Kyoto Encyclopedia
+  Genes and Genomes (KEGG) pathway analysis of differentially expressed genes. The
+  significant pathways (e.g., Wnt signaling pathway) of regulated genes are demonstrated.
+  Differentially expressed genes belonging to these pathways were assigned to a predetermined
+  color scale which was subsequently imposed on the gene/protein symbol field. The
+  whole area of the gene was divided into subareas marked with a number above, where:
+  1—TMZ vs. control, 2—Atranorin + TMZ vs. control, 3—Caperatic acid + TMZ vs. control,
+  4—Physodic acid + TMZ vs. control, 5—Squamatic acid + TMZ vs. control, 6—Salazinic
+  acid + TMZ vs. control, 7—Lecanoric acid + TMZ vs. control (D).'
+article_title: Lichen Secondary Metabolites Inhibit the Wnt/β-Catenin Pathway in Glioblastoma
+  Cells and Improve the Anticancer Effects of Temozolomide.
+citation: Aleksandra Majchrzak-Celińska, et al. Cells. 2022 Apr;11(7):1084.
+year: '2022'
+
+doi: 10.3390/cells11071084
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- lichen secondary metabolites
+- glioblastoma
+- Wnt/β-catenin pathway
+- caperatic acid
+- physodic acid
+- temozolomide
+- blood-brain barrier permeability
+- microarrays
+
+---

@@ -1,0 +1,56 @@
+---
+figid: PMC9117543__gr4
+pmcid: PMC9117543
+image_filename: gr4.jpg
+figure_link: /pmc/articles/PMC9117543/figure/fig4/
+number: Figure 4
+figure_title: ''
+caption: The similar variation of circadian gene expression in livers of old and iron-overload
+  mice.A, KEGG significant enrichment analysis for the environment adaptation pathway.
+  Top 20 altered pathways mapped with downregulated DEGs and upregulated DEGs in iron-overload
+  mice (left). Top 20 altered pathways mapped with downregulated DEGs and upregulated
+  DEGs in old mice. CK, control group; HI, iron overload group; OLD, old group (right).
+  Red bars indicated an altered circadian pathway. Four-week-old male C57BL/6 mice
+  were used to induce iron overload by i.p. injection of iron dextran (5 mg/mouse/day)
+  twice a week for 3 weeks, and mice were sacrificed 1 week after the last injection.
+  And 64-week-old male mice were used for the old group. Circadian expression of six
+  core clock genes in the livers. Diurnal mRNA levels of (B) Bmal1, (C) Clock, (D)
+  Per1, (E) Per2, (F) Cry1, and (G) Cry2 were measured by real-time RT–PCR in livers
+  of young (8 weeks old) and old (64 weeks old) mice. OLD, old group; YNG, young group.
+  Diurnal mRNA levels of (H) Bmal1, (I) Clock, (J) Per1, (K) Per2, (L) Cry1, and (M)
+  Cry2 were measured by real-time PCR in livers of mice fed on normal chow diet (ND)
+  or high-iron diet (HID) for 2 weeks from the age of 6 weeks. Solid lines represent
+  experimental response curves; dashed lines indicate fit cosine curves. The solid
+  horizontal lines indicate mesors. All data are presented as means ± SEM (n = 4 for
+  each time point). DEG, differentially expressed gene; KEGG, Kyoto Encyclopedia of
+  Genes and Genomes.
+article_title: Iron accumulation with age alters metabolic pattern and circadian clock
+  gene expression through the reduction of AMP-modulated histone methylation.
+citation: Junhao Liu, et al. J Biol Chem. 2022 Jun;298(6):101968.
+year: '2022'
+
+doi: 10.1016/j.jbc.2022.101968
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- aging
+- iron metabolism
+- circadian clock
+- metabolism
+- histone methylation
+- bw, body weight
+- CAT, catalase
+- ChIP, chromatin immunoprecipitation
+- DAB, diaminobenzidine
+- DEG, differentially expressed gene
+- DMEM, Dulbecco's modified Eagle's medium
+- FBS, fetal bovine serum
+- KEGG, Kyoto Encyclopedia of Genes and Genomes
+- OPLS-DA, orthogonal partial least squares discriminant analysis
+- RBC, red blood cell
+- ROS, reactive oxygen species
+- Tf, transferrin
+
+---

@@ -1,0 +1,35 @@
+---
+figid: PMC8996869__cancers-14-01625-g001
+pmcid: PMC8996869
+image_filename: cancers-14-01625-g001.jpg
+figure_link: /pmc/articles/PMC8996869/figure/cancers-14-01625-f001/
+number: Figure 1
+figure_title: ''
+caption: Flow chart describing the profiling of Akt1-regulated miRNAs in human PC3
+  and DU145 PCa cells. Among the 827 miRNAs analyzed using the NanoString technology,
+  222 miRNAs in DU145 cells and 125 miRNAs in PC3 cells were found to be modulated
+  by Akt1 gene silencing. Out of the 61 matched miRNAs from DU145 and PC3 cells with
+  Akt1 loss (26 up- and 35 downregulated), there were 7 upregulated cancer promoters
+  and 11 downregulated cancer suppressors, which were subjected for bioinformatics
+  analysis using the Ingenuity®, mirPath V.3, TargetScan, dbEMT, and cBioportal databases
+  to identify miR-199a-5p and let-7a-5p as the key Akt1-regulated miRNAs modulating
+  PCa cell EMT.
+article_title: Regulation of Let-7a-5p and miR-199a-5p Expression by Akt1 Modulates
+  Prostate Cancer Epithelial-to-Mesenchymal Transition via the Transforming Growth
+  Factor-β Pathway.
+citation: Abdulrahman Alwhaibi, et al. Cancers (Basel). 2022 Apr;14(7):1625.
+year: '2022'
+
+doi: 10.3390/cancers14071625
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- Akt1
+- miR-199a-5p
+- let-7a-5p
+- epithelial-to-mesenchymal transition
+- prostate cancer
+
+---

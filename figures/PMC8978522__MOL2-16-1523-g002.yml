@@ -1,0 +1,40 @@
+---
+figid: PMC8978522__MOL2-16-1523-g002
+pmcid: PMC8978522
+image_filename: MOL2-16-1523-g002.jpg
+figure_link: /pmc/articles/PMC8978522/figure/mol213126-fig-0006/
+number: Fig. 6
+figure_title: ''
+caption: Working model showing the regulation of SMAR1 upon LPS treatment. TLR4 upon
+  recognizing LPS initiates the signaling cascade. This leads to the activation of
+  transcription factor IRF3 via TLR4‐TRIF‐dependent pathway. IRF3 upon phosphorylation
+  translocates to the nucleus, where it regulates the expression of various type I
+  interferons including IFN‐β. It could also induce the expression of zinc finger
+  protein TOPORS, which further controls the transcription of tumor suppressor SMAR1
+  via binding to the consensus region present on its promoter. LPS‐induced SMAR1 in
+  return represses the transcription of STAT3 and hence shifts the TAMs toward antitumor
+  M1 profile, whereas upon inhibiting TLR4 pathway using a chemical inhibitor (TAK‐242),
+  the downstream adapter proteins fail to bind to the TIR domain of TLR4. Under such
+  circumstances, even LPS stimulation fails to enhance the expression of TOPORS and
+  SMAR1. In the absence of effective SMAR1 concentration, the repression on STAT3
+  promoter is released. In excess STAT3 conditions, most of the TAMs tend to polarize
+  to M2 phenotype, which is associated with cancer growth and progression.
+article_title: RING finger protein TOPORS modulates the expression of tumor suppressor
+  SMAR1 in colorectal cancer via the TLR4‐TRIF pathway.
+citation: Priyanka Firmal, et al. Mol Oncol. 2022 Apr;16(7):1523-1540.
+year: '2022'
+
+doi: 10.1002/1878-0261.13126
+journal_title: Molecular Oncology
+journal_nlm_ta: Mol Oncol
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- LPS
+- SMAR1
+- STAT3
+- TAM
+- TLR4
+- TOPORS
+
+---

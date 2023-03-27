@@ -1,0 +1,22 @@
+---
+figid: PMC8989354__pcbi.1010020.g001
+pmcid: PMC8989354
+image_filename: pcbi.1010020.g001.jpg
+figure_link: /pmc/articles/PMC8989354/figure/pcbi.1010020.g001/
+number: Fig 1
+figure_title: A method to analyze the coupling of pathway activity on patient survival
+caption: We used singular value decomposition to give, for each sample and pathway,
+  an individualized pathway readout. We then combine those readouts with the survival
+  information to perform survival analysis on a pathway level.
+article_title: Survival analysis of pathway activity as a prognostic determinant in
+  breast cancer.
+citation: Gustavo S. Jeuken, et al. PLoS Comput Biol. 2022 Mar;18(3):e1010020.
+year: '2022'
+
+doi: 10.1371/journal.pcbi.1010020
+journal_title: PLoS Computational Biology
+journal_nlm_ta: PLoS Comput Biol
+publisher_name: Public Library of Science
+
+keywords:
+---

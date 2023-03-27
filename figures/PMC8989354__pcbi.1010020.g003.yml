@@ -1,0 +1,22 @@
+---
+figid: PMC8989354__pcbi.1010020.g003
+pmcid: PMC8989354
+image_filename: pcbi.1010020.g003.jpg
+figure_link: /pmc/articles/PMC8989354/figure/pcbi.1010020.g003/
+number: Fig 3
+figure_title: Comparison of how well eigengenes predict survival
+caption: A histogram of the concordance indices was calculated with 5-fold cross-validation
+  of Cox regressions based on eigengenes compared to (A) individual transcripts and
+  (B) ssGSEA enrichment scores.
+article_title: Survival analysis of pathway activity as a prognostic determinant in
+  breast cancer.
+citation: Gustavo S. Jeuken, et al. PLoS Comput Biol. 2022 Mar;18(3):e1010020.
+year: '2022'
+
+doi: 10.1371/journal.pcbi.1010020
+journal_title: PLoS Computational Biology
+journal_nlm_ta: PLoS Comput Biol
+publisher_name: Public Library of Science
+
+keywords:
+---
