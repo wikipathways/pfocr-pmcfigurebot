@@ -12,15 +12,9 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v3
-      
-    - name: Check Git repository contents
-      run: git ls-files
 
     - name: Reset last_run in query_config.yml
       run: |
-        # Install jq
-        #sudo apt-get update && sudo apt-get install -y jq
-        # Update last_run in query_config.yml
         jq --arg last_run "$(date -d "1 year ago" +%Y/%m/%d)" '.last_run = $last_run' query_config.yml > query_config.yml.new && mv query_config.yml.new query_config.yml
 
   
