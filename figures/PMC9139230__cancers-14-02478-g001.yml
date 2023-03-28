@@ -1,0 +1,45 @@
+---
+figid: PMC9139230__cancers-14-02478-g001
+pmcid: PMC9139230
+image_filename: cancers-14-02478-g001.jpg
+figure_link: /pmc/articles/PMC9139230/figure/cancers-14-02478-f001/
+number: Figure 1
+figure_title: ''
+caption: PI3K/AKT, YAP/TAZ, and PFK1/F-1,6-BP create a “Gordian Knot”, supporting
+  cancer progression. In cancer cells, F-1,6-BP promotes glycolysis and activates
+  ACLY, reducing citrate levels (which could inhibit PFK1 and PFK2) and increasing
+  cytosolic acetyl-CoA (promoting lipid synthesis, protein and histone acetylation,
+  and mevalonate pathway) and oxalacetate (OAA, sustaining nucleotide synthesis).
+  Also, F-1,6-BP activates PI3K/AKT through Ras induction. PI3K/AKT can be also activated
+  by tensile stresses from stress receptors. Once activated, PI3K/AKT promote transcription
+  of glycolytic genes (though mTOR and low active PKM2), β-catenin stabilization (through
+  PKM2, also promoted by ACLY), activation of glycolytic enzymes (favoring glycolysis),
+  and YAP/TAZ activation (also induced by mevalonate pathway and β-catenin). Once
+  translocated in the nucleus, YAP/TAZ mediate the transcription of genes promoting
+  cell cycle progression and glycolysis. In parallel, (i) F-1,6-BP and AKT inhibit
+  OXPHOS, thus increasing lactate production, which in turn inhibits the immune response
+  and promotes extracellular acidification and drug resistance, and (ii) EMT is promoted
+  by β-catenin and YAP/TAZ. Therapeutic strategies increasing citrate levels in cancer
+  cells can inhibit glycolysis and F-1,6-BP production. Therefore, they may be useful
+  to disrupt the Gordian Knot orchestrated by PI3K/AKT, YAP/TAZ, and PFK1/F-1,6-BP.
+  Numbers (1–5) and uppercase letters (A–D) refer to regulatory mechanisms as described
+  in  (numbers) and  (letters). Figure created with Biorender.
+article_title: 'How Phosphofructokinase-1 Promotes PI3K and YAP/TAZ in Cancer: Therapeutic
+  Perspectives.'
+citation: Luca Simula, et al. Cancers (Basel). 2022 May;14(10):2478.
+year: '2022'
+
+doi: 10.3390/cancers14102478
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- PFK1
+- F-1,6-BP
+- PI3K
+- YAP/TAZ
+- drug resistance
+- citrate
+
+---

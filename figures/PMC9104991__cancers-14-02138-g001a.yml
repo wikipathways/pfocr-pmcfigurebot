@@ -1,0 +1,33 @@
+---
+figid: PMC9104991__cancers-14-02138-g001a
+pmcid: PMC9104991
+image_filename: cancers-14-02138-g001a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 1
+caption: Representative molecular and genetic interrelation between triple-negative
+  breast cancer (TNBC) cell lines (MDA-MB-231 and CAL-51) and luminal cell lines (ZR-75-1
+  and MCF7). (a) Enriched signaling pathways, (b) transcriptional regulation of upstream
+  pathway, (c) cytokines and chemokine, and (d) genes significantly correlated with
+  forkhead box P3 (FOXP3) in TNBC cell lines compared with the luminal cell lines.
+  Each log2 fold change value was ranked. The score was calculated based on hypergeometric
+  distribution between the searched molecular network and the canonical pathway. *
+  indicates significant pathway in TNBC compared to luminal subtype.
+article_title: The Effect of Intratumoral Interrelation among FOXP3+ Regulatory T
+  Cells on Treatment Response and Survival in Triple-Negative Breast Cancer.
+citation: Noriko Goda, et al. Cancers (Basel). 2022 May;14(9):2138.
+year: '2022'
+
+doi: 10.3390/cancers14092138
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- FOXP3
+- regulatory T cell
+- tumor-infiltrating lymphocyte
+- neoadjuvant chemotherapy
+- triple-negative breast cancer
+
+---

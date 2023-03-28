@@ -1,0 +1,37 @@
+---
+figid: PMC9139462__cancers-14-02379-g006
+pmcid: PMC9139462
+image_filename: cancers-14-02379-g006.jpg
+figure_link: /pmc/articles/PMC9139462/figure/cancers-14-02379-f006/
+number: Figure 6
+figure_title: ''
+caption: 'Signaling fluxes strongly differ between breast cancer cell lines. (a) The
+  activation of the P70S6 kinase by MAPK and PI3K signaling pathways is depicted as
+  the ratio of their respective activation fluxes over time. Line colors differentiate
+  between ligands, whereas blue (MAPK) and green (PI3K) areas indicate the respective
+  dominant pathway activating P70S6K. (b) Dominating signaling fluxes without any
+  ligand or drug treatment, as supported by the data. PI3K signaling forms the main
+  signaling branch in MCF7, T47D and SKBR3 (highlighted in green), while MAPK signaling
+  dominates in MDA-MB-231 cells, including a negative feedback loop on c-RAF and RAS
+  (highlighted in blue). Asterisks indicate activating mutations in the respective
+  components (note: PIK3CA, component of the the PI3K complex, is mutated in MCF7
+  and T47D).'
+article_title: Disentangling ERBB Signaling in Breast Cancer Subtypes—A Model-Based
+  Analysis.
+citation: Svenja Kemmer, et al. Cancers (Basel). 2022 May;14(10):2379.
+year: '2022'
+
+doi: 10.3390/cancers14102379
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- ERBB signaling
+- targeted therapy
+- systems biology
+- mathematical modeling
+- breast cancer
+- signal transduction
+
+---
