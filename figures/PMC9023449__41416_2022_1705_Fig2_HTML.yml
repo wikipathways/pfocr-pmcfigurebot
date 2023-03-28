@@ -1,0 +1,37 @@
+---
+figid: PMC9023449__41416_2022_1705_Fig2_HTML
+pmcid: PMC9023449
+image_filename: 41416_2022_1705_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC9023449/figure/Fig2/
+number: Fig. 2
+figure_title: Comparison of features between the immune and non-immune group
+caption: 'a Volcano plot showing significantly differentially expressed xCell signatures.
+  The x‐axis highlights the fold changes (log2 scale) (downregulated genes, negative
+  values), whereas the y‐axis indicates the level of statistical significance (shown
+  in −log10 format). Red and blue colours indicate up- and downregulated signatures,
+  respectively. b Comparison of expression levels of immune-related genes including
+  CD4, cytotoxic T lymphocyte (CTL), helper T cell 1/cytotoxic T cell 1 [TH1/TC1],
+  TH17, regulatory T cells (Treg), proinflammation, metabolism, and checkpoint between
+  immune and non-immune group. The graphs display values for each patients, and statistically
+  significant differences between two groups using the Wilcox test. c A representative
+  gene set enrichment analysis plot showing the programmed cell death protein 1 (PD-1)
+  signalling pathway in the immune versus non-immune samples. d Pre-ranked Gene set
+  enrichment analysis (GSEA) using ‘Hallmark’ gene sets showed enrichment of pathways.
+  Normalised enrichment scores (NES) for signature gene sets representing RNA-seq
+  data from protein coding genes of immune group or non-immune group. Abbreviations:
+  ns= non-significant.'
+article_title: Integrative genomic and transcriptomic analysis reveals immune subtypes
+  and prognostic markers in ovarian clear cell carcinoma.
+citation: Shuang Ye, et al. Br J Cancer. 2022 May 3;126(8):1215-1223.
+year: '2022'
+
+doi: 10.1038/s41416-022-01705-w
+journal_title: British Journal of Cancer
+journal_nlm_ta: Br J Cancer
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Ovarian cancer
+- Prognostic markers
+
+---

@@ -1,0 +1,42 @@
+---
+figid: PMC9099979__ijms-23-04853-g007
+pmcid: PMC9099979
+image_filename: ijms-23-04853-g007.jpg
+figure_link: /pmc/articles/PMC9099979/figure/ijms-23-04853-f007/
+number: Figure 7
+figure_title: ''
+caption: Production pathways for isobutanol and 2/3MB (a) The promoter Pgrac of plasmid
+  pHT01-65 was induced by IPTG to initiate transcription and expression of the kivD
+  and adhA genes. The promoter PmanP of plasmid pCas-69 initiates transcription and
+  expression of the alsS, ilvC and ilvD genes upon mannose induction. (b) Schematic
+  representation of heterologous pathway leading to isobutanol and 3MB formation in
+  B. subtilis. PEP (phosphoenolpyruvate), PYR (pyruvate), OAA (oxaloacetate), ACLAC
+  (acetolactate), DHVAL (2,3-dihydroxy-3-methyl butanoate), KIV (2-ketoisovalerate),
+  KIC (2-ketoisocaproate), BUT (butanol), IBOH (isobutanol), 2MB (2-methyl-1-butanol),
+  3MB (3-methyl-1-butanol), PHPYR (phenylpyruvate), PHETA (2-phenyl ethanol), NADPH
+  (nicotinamide adenine dinucleotide phosphate), PPP (pentose phosphate pathway),
+  TCA (citrate cycle), BPP (biosynthetic 2-ketoisovalerate precursor pathway). (c)
+  Results of microaerobic fermentation of wild-type strain GI0 and ten deletion mutants
+  (GI1-3, GI5-8 and GI10-12) at 30 °C for 72 h. Orange represents isobutanol titers
+  produced by 11 strains, red represents titers producing a mixture of 2MB and 3MB,
+  and brown indicates acetoin titers. Values and error bars represent mean and s.d.
+  (n = 3), respectively. * p < 0.1, ** p < 0.01, *** p < 0.001 as determined by a
+  two-tailed t-test.
+article_title: Efficient Large-Scale and Scarless Genome Engineering Enables the Construction
+  and Screening of Bacillus subtilis Biofuel Overproducers.
+citation: Jiheng Tian, et al. Int J Mol Sci. 2022 May;23(9):4853.
+year: '2022'
+
+doi: 10.3390/ijms23094853
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- CRISPR-Cas9
+- Bacillus subtilis
+- genome engineering
+- long fragment deletion
+- metabolic engineering
+
+---

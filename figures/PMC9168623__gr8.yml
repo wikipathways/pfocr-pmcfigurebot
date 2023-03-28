@@ -1,0 +1,55 @@
+---
+figid: PMC9168623__gr8
+pmcid: PMC9168623
+image_filename: gr8.jpg
+figure_link: /pmc/articles/PMC9168623/figure/f0040/
+number: Fig. 8
+figure_title: ''
+caption: Bar graphs of top 10 pathways identified in Kyoto Encyclopedia of Genes and
+  Genomes (KEGG) analysis that were significantly enriched for the top 20 hub genes.
+  Each point corresponds to a KEGG pathway, y-axis displays the pathway’s name, x-axis
+  displays the fold enrichment, dot size corresponds to the number of genes, the colour
+  bar displays the –log10 (P-value), red indicates a high value, and blue indicates
+  a low value. (a) P vs. N, (b) M vs. N. The greater the fold enrichment, the greater
+  the significance of DEG enrichment in this pathway. P vs. N, primary tumour tissue
+  samples obtained from patients with infiltrating duct carcinoma compared with normal
+  breast tissue samples; M vs. N, metastatic tumour tissue samples obtained from axillary
+  lymph nodes of patients with primary infiltrating duct carcinoma of the breast compared
+  with normal breast tissue samples.
+article_title: Comprehensive analysis of gene expression profiles to identify differential
+  prognostic factors of primary and metastatic breast cancer.
+citation: Sarah Albogami. Saudi J Biol Sci. 2022 Jul;29(7):103318.
+year: '2022'
+
+doi: 10.1016/j.sjbs.2022.103318
+journal_title: Saudi Journal of Biological Sciences
+journal_nlm_ta: Saudi J Biol Sci
+publisher_name: Elsevier
+
+keywords:
+- Breast cancer
+- Metastasis
+- Prognostic marker
+- Overall survival
+- Differentially expressed genes
+- Protein-protein interaction
+- BC, breast cancer
+- BP, biological process
+- CC, cellular component
+- CI, confidence interval
+- DEG, differentially expressed gene
+- FDR, false discovery rate
+- GEPIA, gene expression profiling interactive analysis
+- GO, gene ontology
+- HR, hazard ratio
+- IDC, infiltrating ductal carcinoma
+- KEGG, Kyoto Encyclopedia of Genes and Genomes
+- MCODE, molecular complex detection
+- MF, molecular function
+- OS, overall survival
+- PPI, protein-protein interaction
+- RNA-Seq, RNA sequencing
+- STRING, search tool for the retrieval of interacting genes
+- TCGA-BRCA, The Cancer Genome Atlas-breast invasive carcinoma
+
+---

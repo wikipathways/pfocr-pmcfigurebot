@@ -1,0 +1,43 @@
+---
+figid: PMC9101746__ijms-23-04849-g007
+pmcid: PMC9101746
+image_filename: ijms-23-04849-g007.jpg
+figure_link: /pmc/articles/PMC9101746/figure/ijms-23-04849-f007/
+number: Figure 7
+figure_title: ''
+caption: 'CRISPR-Cas9 mediated genome editing. (a) Principal strategy for the generation
+  of DNA knockouts. gRNAs (gRNA1, gRNA2, and gRNA3) were designed flanking the genomic
+  target to delete the two targeted DNA segments comprising either the five (506 bp)
+  or the eight (1262 bp) candidate SNPs, creating double-strand breaks (DSBs) at 3
+  bp upstream of the PAM. The resulting DSB is repaired by the NHEJ pathway. The genomic
+  deletion is detected by PCR using primers (F1, R1) and (F2, R2) providing the amplicons
+  of 335 bp and 355 bp, respectively. (b) qPCR analysis of gene expression in wild-type
+  K562 cells and the deleted ATP2B4 clones (for the five candidate SNPs) to quantify
+  either all the transcripts or only the two long transcripts of ATP2B4. (c) qPCR
+  analysis of gene expression in wild-type K562 cells and the deleted ATP2B4 clones
+  (for the eight SNPs) to quantify either all the transcripts or only the two long
+  transcripts of ATP2B4. Error bars illustrate standard deviation (n = 3 independent
+  RNA/cDNA preparations): **** p < 0.0001.'
+article_title: Identification of ATP2B4 Regulatory Element Containing Functional Genetic
+  Variants Associated with Severe Malaria.
+citation: Samia Nisar, et al. Int J Mol Sci. 2022 May;23(9):4849.
+year: '2022'
+
+doi: 10.3390/ijms23094849
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- regulatory element
+- enhancer
+- promoter
+- SNP
+- functional genomics
+- gene reporter
+- CRISPR-cas9
+- ATP2B4
+- calcium
+- malaria
+
+---

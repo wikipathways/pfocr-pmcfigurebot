@@ -1,0 +1,36 @@
+---
+figid: PMC9132450__sciadv.abl9806-f2
+pmcid: PMC9132450
+image_filename: sciadv.abl9806-f2.jpg
+figure_link: /pmc/articles/PMC9132450/figure/F2/
+number: Fig. 2
+figure_title: SEMA3 inhibits cell growth via the Hippo pathway
+caption: (A) SEMA3B and SEMA3F induce YAP phosphorylation. Conditioned media (cm-S3A,
+  cm-S3B, and cm-S3F) were used to treat U87-MG, HEK293A, NCI-H1792, and NCI-H1299
+  cells. YAP phosphorylation was detected by phos-tag gel. (B) LATS1/2 deletion blocks
+  YAP phosphorylation by SEMA3A. U87-MG cells were infected with lentiviral CRISPR
+  sgRNA (single guide RNA) constructs (sgLATS1/2), and deletions of LATS1 and LATS2
+  were detected by Western blots. Cells were treated with a control or SEMA3A-conditioned
+  medium. w/o, without any conditioned medium added. (C) Deletion of LATS1/2 blocks
+  SEMA3A-induced YAP cytoplasmic translocation in HEK293A cells. Scale bars, 25 μm.
+  (D) ANKRD1 and CTGF transcription repression by SEMA3A requires LATS. Quantitative
+  real-time PCR analyses were performed with SEMA3A-treated WT and LATS1/2 dKO U87-MG
+  cells. *P < 0.05; **P < 0.01; ns, not significant. (E) LATS1/2 deletion compromises
+  SEMA3A-regulated transcriptome. Principal components analysis of the RNA-seq data
+  of the WT and LATS1/2 KO U87-MG cells treated with or without rSEMA3A. PC, principal
+  component. (F) A two-way (genotype and treatment) DESeq2 analysis of SEMA3-treated
+  WT and LATS1/2 dKO cells showed that a substantial portion (36.4%) of genes regulated
+  by the SEMA3 treatment is LATS1/2 dependent. (G) Hippo pathway mediates SEMA3 effects
+  on biological functions such as cytoskeleton organization and wound healing. Metascape
+  analysis of LATS-dependent SEMA3 target genes (F, red slice) was performed.
+article_title: The Hippo pathway mediates Semaphorin signaling.
+citation: Zhipeng Meng, et al. Sci Adv. 2022 May;8(21):eabl9806.
+year: '2022'
+
+doi: 10.1126/sciadv.abl9806
+journal_title: Science Advances
+journal_nlm_ta: Sci Adv
+publisher_name: American Association for the Advancement of Science
+
+keywords:
+---

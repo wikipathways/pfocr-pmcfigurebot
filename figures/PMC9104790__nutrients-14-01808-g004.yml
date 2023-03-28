@@ -1,0 +1,38 @@
+---
+figid: PMC9104790__nutrients-14-01808-g004
+pmcid: PMC9104790
+image_filename: nutrients-14-01808-g004.jpg
+figure_link: /pmc/articles/PMC9104790/figure/nutrients-14-01808-f004/
+number: Figure 4
+figure_title: ''
+caption: 'Volcano plots, KEGG pathways, and GO analysis of differentially expressed
+  lncRNAs in response to the oral gavage of milk-derived EVs in the DSS-induced murine
+  colitis model. (A): Volcano plots of differentially expressed lncRNAs were formed
+  with the log2 ratio and −log10 adjusted p-values for the DSS group versus the DSS
+  + MID group, where log2 (FC) > 2 and p < 0.05 represent up-regulation, log2(FC)
+  < −2 and p < 0.05 represent down-regulation, and the probes in blue represent significance
+  (p < 0.05) with small fold changes (log2(FC) > −2 and <2). (B): Kyoto Encyclopedia
+  of Genes and Genomes (KEGG) analysis revealed the biological pathways that were
+  enriched in the differentially expressed lncRNAs. The Y-axis label is the pathway,
+  and the X-axis label is the rich factor (rich factor = the number of differentially
+  expressed lncRNAs enrichment in the pathway/ all lncRNAs). (C): The enriched GO
+  terms. n = 6 samples/group.'
+article_title: Supplementation with Milk-Derived Extracellular Vesicles Shapes the
+  Gut Microbiota and Regulates the Transcriptomic Landscape in Experimental Colitis.
+citation: Chunmei Du, et al. Nutrients. 2022 May;14(9):1808.
+year: '2022'
+
+doi: 10.3390/nu14091808
+journal_title: Nutrients
+journal_nlm_ta: Nutrients
+publisher_name: MDPI
+
+keywords:
+- milk extracellular vesicles
+- inflammatory bowel disease
+- gut microbiota
+- mRNA
+- lncRNA
+- circRNA
+
+---

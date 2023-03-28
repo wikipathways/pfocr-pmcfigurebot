@@ -1,0 +1,33 @@
+---
+figid: PMC9200383__po-6-e2200085-g003
+pmcid: PMC9200383
+image_filename: po-6-e2200085-g003.jpg
+figure_link: /pmc/articles/PMC9200383/figure/fig2/
+number: FIG 2
+figure_title: ''
+caption: Detailed HRR pathway gene alterations per cancer type. (A) For each cancer
+  type and HRR pathway gene, the percentage of samples with gene mutation detected
+  and with LOH detected are annotated using size and color. The product of these two
+  values is input to hierarchical clustering to generate the resulting type-gene ordering.
+  Cancer types annotated with a + mark are BRCA-associated cancers, and values indicate
+  the number of cases in TCGA. (B) Types and proportions of biallelic HRR pathway
+  gene alterations per cancer type. (C) Correlation between the TP53 mutation ratio
+  with mean HRD score (left) and mean Sig3 ratio (right) by cancer type. Upper and
+  lower panels are from the TCGA data sets and data sets in the study by Jonsson et
+  al, respectively. Colors are identical to panel B or otherwise gray. rS and P represent
+  the Spearman correlation coefficient and its P value, respectively. HRD, homologous
+  recombination deficiency; HRR, homologous recombination repair; LOH, loss of heterozygosity;
+  MSI, microsatellite instability; Sig3, mutational signature 3; TCGA, The Cancer
+  Genome Atlas.
+article_title: Utility of Homologous Recombination Deficiency Biomarkers Across Cancer
+  Types.
+citation: Shiro Takamatsu, et al. JCO Precis Oncol. 2022 May;6:e2200085.
+year: '2022'
+
+doi: 10.1200/PO.22.00085
+journal_title: JCO Precision Oncology
+journal_nlm_ta: JCO Precis Oncol
+publisher_name: Wolters Kluwer Health
+
+keywords:
+---

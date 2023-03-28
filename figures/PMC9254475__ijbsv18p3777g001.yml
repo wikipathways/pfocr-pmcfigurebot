@@ -1,0 +1,32 @@
+---
+figid: PMC9254475__ijbsv18p3777g001
+pmcid: PMC9254475
+image_filename: ijbsv18p3777g001.jpg
+figure_link: /pmc/articles/PMC9254475/figure/F1/
+number: Fig 1
+figure_title: ''
+caption: Screening for the target gene (HTR1D). a The heatmap for differentially expressed
+  mRNAs of paired pancreatic cancer in TCGA database. b-c GO (b) and KEGG (c) analysis
+  for differentially expressed mRNAs. d-e PPI network for differentially expressed
+  mRNAs. f 5 hub genes of differentially expressed mRNAs. g-h The expression difference
+  and survival analysis curve of HTR1D using RStudio based on the bioinformatics analysis
+  of TCGA data. i-j The expression difference and survival analysis curve of HTR1D
+  based on GEPIA online website.
+article_title: HTR1D functions as a key target of HOXA10-AS/miR-340-3p axis to promote
+  the malignant outcome of pancreatic cancer via PI3K-AKT signaling pathway.
+citation: Wu Wu, et al. Int J Biol Sci. 2022;18(9):3777-3794.
+year: '2022'
+
+doi: 10.7150/ijbs.70546
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- pancreatic cancer
+- ceRNA
+- HTR1D
+- HOXA10-AS
+- miR-340-3p
+
+---

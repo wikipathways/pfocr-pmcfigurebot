@@ -1,0 +1,30 @@
+---
+figid: PMC9125999__gr7
+pmcid: PMC9125999
+image_filename: gr7.jpg
+figure_link: /pmc/articles/PMC9125999/figure/fig7/
+number: Figure 7
+figure_title: ''
+caption: COVID-19 pathway gene expression for OL-1, OL-2, and plC+R848Balloon plot
+  of expression of genes taken from the Coronavirus disease – COVID-19 pathway in
+  both Mf and DC cells. Only genes that have an adjusted p value < 0.1 (-log10 > 1)
+  in either Mf or DC are shown. Size of the balloon denotes the log base 10 of the
+  adjusted p value, with smaller p values having larger balloons. Color denotes expression
+  level with blue having reduced expression compared to the control and red having
+  increased. Black bars under the genes denote the function of the set of genes within
+  the pathway. Cell type is split in each panel denoted by Mf and DC.
+article_title: The effect of the probiotic consortia on SARS-CoV-2 infection in ferrets
+  and on human immune cell response invitro.
+citation: Markus J. Lehtinen, et al. iScience. 2022 May 23 ;25(6):104445.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.104445
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Immunology
+- Virology
+
+---

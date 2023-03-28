@@ -1,0 +1,44 @@
+---
+figid: PMC9138619__biomedicines-10-01025-g003a
+pmcid: PMC9138619
+image_filename: biomedicines-10-01025-g003a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 3
+caption: 'Molecular landscapes of the proteins encoded by the differentially expressed
+  genes (DEGs) from the three core KEGG pathways (“Cytokine-cytokine receptor signaling”,
+  “TNF signaling” and “NFκB signaling”) following IL-1β stimulation of human cortical
+  spheroids for (A) 4 h, (B) 12 h and (C) 36 h. Protein functions and interactions
+  were deduced based on information obtained from UniprotKB (https://www.uniprot.org/;
+  accessed on 1 January 2022) and Genecards (https://www.genecards.org; accessed on
+  15 January 2022). A detailed description of the protein-protein interactions occurring
+  in these molecular landscapes can be found in . Rectangularly framed protein: membrane-bound
+  receptor; protein in green or red (rounded) rectangle frame: encoded by an up- or
+  downregulated DEG, respectively; protein in dark-gray-filled (rounded) rectangle:
+  encoded by a core KEGG pathway DEG; protein in light-gray-filled (rounded) rectangle:
+  encoded by a DEG not in the core KEGG pathways; protein in white-filled (rounded)
+  rectangle: not encoded by a DEG. Black arrows: stimulation or induction; inhibition
+  arcs: inhibition; dotted arrows: translocation; fading arrows: enzymatic conversion;
+  cl: cleavage.'
+article_title: Molecular Signature of Neuroinflammation Induced in Cytokine-Stimulated
+  Human Cortical Spheroids.
+citation: Kim M. A. De Kleijn, et al. Biomedicines. 2022 May;10(5):1025.
+year: '2022'
+
+doi: 10.3390/biomedicines10051025
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: MDPI
+
+keywords:
+- brain
+- cortical spheroids
+- human
+- IL-1β
+- neuroinflammation
+- NFκB
+- RNA-sequencing
+- STAT
+- TNFα
+
+---

@@ -1,0 +1,41 @@
+---
+figid: PMC9099959__molecules-27-03021-g004
+pmcid: PMC9099959
+image_filename: molecules-27-03021-g004.jpg
+figure_link: /pmc/articles/PMC9099959/figure/molecules-27-03021-f004/
+number: Figure 4
+figure_title: ''
+caption: Breast cancer type 1 susceptibility protein (BRCA1) activity in response
+  to DNA damage. Double-stranded breaks in DNA activate the ataxia-telangiectasia
+  mutated (ATM) kinase and Rad3-related protein (ATR) that subsequently phosphorylate
+  checkpoint kinase 2 (CHK2) and checkpoint kinase 1 (CHK1). The ATR/ATM-mediated
+  phosphorylation pathway phosphorylates the BRCA1 protein and activates proteins
+  involved in DNA damage repair and apoptosis. The binding of toxic compounds or AhR
+  ligands leads to the suppression of the BRCA1 promoter activity, ultimately leading
+  to increased cellular toxicity via DNA repair dysfunction and cell cycle checkpoint
+  disregulation. Our pipeline selected BRCA1 as important for predicting AhR toxicity,
+  along with other proteins such as RNF8, UBE2N, RAP80, NSD2, and RPA1, implying that
+  compounds are known to induce this phenotype possibly via the modulation of proteins
+  directly involved in DNA repair and cell cycle regulation.
+article_title: 'Identifying Protein Features and Pathways Responsible for Toxicity
+  Using Machine Learning and Tox21: Implications for Predictive Toxicology.'
+citation: Lama Moukheiber, et al. Molecules. 2022 May;27(9):3021.
+year: '2022'
+
+doi: 10.3390/molecules27093021
+journal_title: Molecules
+journal_nlm_ta: Molecules
+publisher_name: MDPI
+
+keywords:
+- machine learning
+- random forest
+- feature selection
+- structure–activity relationships
+- high-throughput screening
+- enrichment analysis
+- proteomic signature
+- toxicity
+- drug behavior
+
+---

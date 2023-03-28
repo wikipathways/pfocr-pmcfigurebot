@@ -1,0 +1,40 @@
+---
+figid: PMC9130411__gr1
+pmcid: PMC9130411
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC9130411/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: Profiling immune cell signatures from COVID-19 patients highlights increasing
+  risk of severe disease associated with progression to active tuberculosisCOVID-19
+  immune cell signatures were derived from bulk and single-cell RNA-sequencing (RNA-seq)
+  studies and used to generate putative “COVID-19 risk scores” from a tuberculosis
+  (TB) whole blood bulk RNA-seq dataset using the TBSignatureProfiler package. TB
+  samples are grouped according to disease state and COVID-19 signatures were categorized
+  by immune cell or signature type. Scores for each signature were compared by contrasting
+  each group with the ‘London Latent’ group using a t-test with Bonferroni correction.
+  All signatures were derived from peripheral blood mononuclear cells (PBMCs) unless
+  otherwise stated in the boxplot title. Each individual signature title is prefixed
+  by the first author of the study from which it was derived. Category colors relate
+  to cell type, disease, pathway or study first author. WB, whole blood. M, macrophage.
+  BALF, bronchoalveolar lavage fluid. ISG, interferon (IFN)-stimulated gene. NK, natural
+  killer. ICU, intensive care unit. BTM, blood transcriptional module. Boxplots denote
+  median and 25th to 75th percentiles (boxes) and 10th to 90th percentiles (whiskers).
+  ∗, p<0·05; ∗∗, p<0·005; ∗∗∗, p<0·0005; ∗∗∗∗, p<0·00005. See also , , , and .
+article_title: Immunopathogenic overlap between COVID-19 and tuberculosis identified
+  from transcriptomic meta-analysis and human macrophage infection.
+citation: Dylan Sheerin, et al. iScience. 2022 May 25 ;25(6):104464.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.104464
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Pathophysiology
+- Immunology
+- Virology
+- Transcriptomics
+
+---

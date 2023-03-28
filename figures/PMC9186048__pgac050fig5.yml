@@ -1,0 +1,39 @@
+---
+figid: PMC9186048__pgac050fig5
+pmcid: PMC9186048
+image_filename: pgac050fig5.jpg
+figure_link: /pmc/articles/PMC9186048/figure/fig5/
+number: Fig. 5
+figure_title: ''
+caption: 'Metabolomic profile of DDT exposure. In (A), a heatmap of the top 25 metabolites
+  with the smallest P-value hierarchically clustered shows that in all strains, DDT
+  decreases metabolite intensity. In (B), a PCA biplot of PC1 plotted against PC2
+  shows that strains exposed to DDT cluster differently from the wildtype and nonaggregating
+  control strains. The aggregating strain does not cluster with the wildtype and nonaggregating
+  control groups, suggesting variation as a result of aggregating tau protein expression.
+  In (C), the different metabolic pathways enriched by features associated with DDT
+  exposure in the worms. Enrichment is calculated as the ratio between the number
+  of significant hits and the expected number of hits. In (D), the number of features
+  assigned a putative KEGG ID through pathway analysis associated with DDT exposure
+  in worms and with the putative DDT metabolite in human plasma and CSF. In (E), the
+  pathways enriched in both species where the number represents enrichment (ratio
+  between the number of significant hits and the expected number of hits) and the
+  darker red color indicates lower P-value. IMP: inosine monophosphate, FMN: flavin
+  mononucleotide, and Ala–Val: alanine–valine dipeptide.'
+article_title: Cross-species metabolomic analysis of tau- and DDT-related toxicity.
+citation: Vrinda Kalia, et al. PNAS Nexus. 2022 May;1(2):pgac050.
+year: '2022'
+
+doi: 10.1093/pnasnexus/pgac050
+journal_title: PNAS Nexus
+journal_nlm_ta: PNAS Nexus
+publisher_name: Oxford University Press
+
+keywords:
+- C. elegans
+- DDT
+- Alzheimer's disease
+- tau protein
+- metabolomics
+
+---

@@ -1,0 +1,45 @@
+---
+figid: PMC9140071__cancers-14-02369-g001
+pmcid: PMC9140071
+image_filename: cancers-14-02369-g001.jpg
+figure_link: /pmc/articles/PMC9140071/figure/cancers-14-02369-f001/
+number: Figure 1
+figure_title: ''
+caption: Characteristics and expression of UC.145 in gastric cancer (GC). (a) Transcribed
+  ultraconserved region (T-UCR) expression was altered in GC tissues compared with
+  that in adjacent healthy tissues. Rows represent individual T-UCRs. Columns represent
+  GC samples. Heat maps of long non-coding RNA (lncRNA) and T-UCR are presented using
+  hierarchical cluster analysis (FC > 2.0, p < 0.05); (b) Expression of T-UCR; (c)
+  Venn-diagram-based analysis of ten non-coding RNAs, including UC.145, using targeted
+  EZH2 (blue circle) predicted using RNAInter, PRIdictor, and RPIseq, and upregulated
+  non-coding RNAs obtained by Agilent human chip analysis (red circle). Interaction
+  scores are also displayed; (d) Genetic information of UC.145 obtained from the UCSC
+  Genome Browser database; (e) UC.145 expression measured in five GC cell lines and
+  one normal human gastric epithelial cell line (GES-1); (f) UC.145 expression measured
+  using qRT-PCR for 100 paired GC and normal tissue samples; (g) RIP analysis performed
+  with the anti-EZH2 antibody using AGS and MKN74 cell lysates. UC.145 expression
+  in cell lysates and immunoprecipitates measured using qRT-PCR. LncRNA HOTAIR served
+  as the positive control; (h) UC.145 expression in nuclear and cytoplasmic fractions
+  of AGS and MKN74 cells measured using qRT-PCR; (i) Knockdown effect of siRNA on
+  UC.145 expression in AGS and MKN74 cells measured using qRT-PCR; (j) Increased expression
+  of UC.145 upon transfection with overexpression vector in AGS and MKN74 cells measured
+  using qRT-PCR. Data are shown as mean ± SD of three independent experiments (**
+  p ≤ 0.01).
+article_title: lncRNAs UC.145 and PRKG1-AS1 Determine the Functional Output of DKK1
+  in Regulating the Wnt Signaling Pathway in Gastric Cancer.
+citation: Jung-ho Yoon, et al. Cancers (Basel). 2022 May;14(10):2369.
+year: '2022'
+
+doi: 10.3390/cancers14102369
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- ultraconserved region
+- long non-coding RNA (lncRNA)
+- gastric cancer
+- epigenetics
+- lncRNA–lncRNA interaction
+
+---

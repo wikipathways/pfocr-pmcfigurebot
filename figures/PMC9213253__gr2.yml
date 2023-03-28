@@ -1,0 +1,55 @@
+---
+figid: PMC9213253__gr2
+pmcid: PMC9213253
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC9213253/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: 'Detection of intermediates of the CoA biosynthesis pathway in wildtype and
+  ΔpanD Acinetobacter baylyi ADP1 strains. Metabolomic analysis of cells grown in
+  minimal medium devoid of β-alanine. LC/MS/MS analyses were conducted on a QTRAP
+  5500 using a multiple reaction monitoring (MRM)–based approach. DAP and 3AP were
+  analyzed using a C18 BEH column after derivatization with benzoyl chloride and FMOC,
+  respectively. β-alanine and pantothenate were analyzed through a ZIC-pHILIC column.
+  A and B, comparison of DAP and 3AP contents, respectively. C and D, comparison of
+  β-alanine and pantothenate contents, respectively. DAP, 3AP, β-alanine, and pantothenate
+  were identified according to the chromatographic retention time and fragmentation
+  pattern of their corresponding standards ( and ). For DAP and 3AP, data correspond
+  to six and five independent metabolite extractions for each strain, respectively.
+  For β-alanine and pantothenate, data correspond to 10 extractions. The values shown
+  correspond to automatic peak integration for the following mass transitions: DAP,
+  m/z 283.1 → 104.9; 3AP, m/z 296.0 → 179.0; β-alanine: m/z 90.0 → 71.9); and pantothenate,
+  m/z 218.1 → 87.9. Only the values for β-alanine in ΔpanD were close to the detection
+  limit (). Indicated are p values from Welch''s t test. 3AP, 3-aminopropanal; DAP,
+  1,3-diaminopropane; FMOC, 9-fluorenylmethoxycarbonyl chloride.'
+article_title: Characterization of a novel β-alanine biosynthetic pathway consisting
+  of promiscuous metabolic enzymes.
+citation: Nadia Perchat, et al. J Biol Chem. 2022 Jul;298(7):102067.
+year: '2022'
+
+doi: 10.1016/j.jbc.2022.102067
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- CoA
+- enzyme kinetics
+- genomics
+- gene knockout
+- metabolism
+- metabolomics
+- polyamine
+- β-alanine
+- 3AP, 3-aminopropanal
+- ADP1, Acinetobacter baylyi ADP1
+- ALD, aldehyde dehydrogenase
+- DAB, 2,4-diaminobutyrate
+- DAP, 1,3-diaminopropane
+- Dat, 2,4-diaminobutyrate aminotransferase
+- Ddc, 2,4-diaminobutyrate decarboxylase
+- DOPA, 3,4-dihydroxy-l-phenylalanine
+- FMOC, 9-fluorenylmethoxycarbonyl chloride
+- PLP, pyridoxal phosphate
+
+---

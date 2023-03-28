@@ -1,0 +1,45 @@
+---
+figid: PMC9138354__biomolecules-12-00635-g001
+pmcid: PMC9138354
+image_filename: biomolecules-12-00635-g001.jpg
+figure_link: /pmc/articles/PMC9138354/figure/biomolecules-12-00635-f001/
+number: Figure 1
+figure_title: ''
+caption: (A) A graphical illustration of canonical (left) and non-canonical (right)
+  TGF-β signaling. In canonical TGF-β signaling, TGF-β ligand binds to TGFβRI (TβRI)
+  and TGFβRII (TβRII) receptors, resulting in their activation in a hetero-tetrameric
+  complex. The intracellular Smad2/3 are next activated by phosphorylation, initiated
+  by TGFβRI; pSmad2/3 form a complex with Smad4 and, together with certain transcription
+  factors (TF), activate specific targets genes that contain Smad-binding elements
+  (SBEs), implicated in growth inhibition, apoptosis, ECM synthesis, and immune response.
+  In the non-canonical signaling pathway, TGF-β induces the expression of TRAF6 and
+  ubiquitinates it in a Lys63-dependent manner, promoting its catalytic activity.
+  TRAF6 then activates TACE and PSEN1, resulting in the proteolytic cleavage of TGFβRI,
+  generating the soluble TGFβRI intracellular domain (TGFβRI-ICD/ TβRI-ICD). The endosomal
+  adaptor proteins APPL1/APPL2 and intact microtubules are required for the translocation
+  of TGFβRI-ICD to the nucleus, where it contributes to activating specific target
+  genes. Other modes of non-canonical TGF-β signaling pathways are also shown. Adapted
+  from [,,,,,,,,]. (B) TGF-β signaling can also induce EMT through the activation
+  of non-Smad pathways such as Rho GTPase and via the phosphorylation of the polarity
+  protein PAR6, leading to cytoskeletal rearrangements and the breakdown of epithelial
+  cell junctions, respectively. Adapted from [,,,,].
+article_title: The Synergistic Cooperation between TGF-β and Hypoxia in Cancer and
+  Fibrosis.
+citation: Pramod Mallikarjuna, et al. Biomolecules. 2022 May;12(5):635.
+year: '2022'
+
+doi: 10.3390/biom12050635
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: MDPI
+
+keywords:
+- cancer
+- fibrosis
+- HIF-1α/2α
+- hypoxia
+- Smad
+- TGF-β
+- TRAF6
+
+---

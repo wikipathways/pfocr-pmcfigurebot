@@ -1,0 +1,44 @@
+---
+figid: PMC9100845__cancers-14-02303-g003
+pmcid: PMC9100845
+image_filename: cancers-14-02303-g003.jpg
+figure_link: /pmc/articles/PMC9100845/figure/cancers-14-02303-f003/
+number: Figure 3
+figure_title: ''
+caption: 'Overexpression of genes involved in oxidative phosphorylation in GL261 LDH-A
+  KD cells. Transcripts per million (TPM) expression values were plotted in individual
+  cell lines for genes directly involved in lactate metabolism and export (LDH-A,
+  LDH-B, and SLC16A3) (A). Gene Set Enrichment Analysis (GSEA) for a single pathway
+  (GO_OXIDATIVE_ PHOSPHORYLATION) is shown for each GBM cell line. The analysis shows
+  the enrichment of this pathway in LDH-A-depleted vs. control cells (B). TPM values
+  for enzymes involved in oxidative phosphorylation (C). The Z-transformed scores
+  of individual genes within the oxidative phosphorylation (GO) pathway were plotted
+  across each cell line (GL261, CT2A and ALTS1C1). The experiment was performed in
+  triplicate, with rows representing each sample and columns representing individual
+  genes (D). Expression (TPM) of pyruvate dehydrogenase alpha 1 (PDHA1) and aconitase
+  1 (ACO1) was plotted (E). PDHA1 is a nuclear-encoded mitochondrial matrix multienzyme
+  complex that provides the primary link between glycolysis and the tricarboxylic
+  acid (TCA) cycle by catalyzing the irreversible conversion of pyruvate into acetyl-CoA;
+  ACO1 is a bifunctional, cytosolic protein that functions as an essential enzyme
+  in the TCA cycle. Significant differences are indicated by: * p < 0.05, ** p < 0.01,
+  and *** p < 0.001.  provides the semi-raw data from the RNASeq analysis that was
+  used to generate the figures.'
+article_title: 'LDH-A—Modulation and the Variability of LDH Isoenzyme Profiles in
+  Murine Gliomas: A Link with Metabolic and Growth Responses.'
+citation: Masahiro Shindo, et al. Cancers (Basel). 2022 May;14(9):2303.
+year: '2022'
+
+doi: 10.3390/cancers14092303
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- glioblastoma
+- LDH-A shRNA knock-down
+- LDH isoenzymes
+- LDH-A and LDH-B immunohistochemistry
+- tumor growth
+- immune-competent and incompetent host animals
+
+---

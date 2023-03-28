@@ -1,0 +1,52 @@
+---
+figid: PMC9339284__iyac086f1
+pmcid: PMC9339284
+image_filename: iyac086f1.jpg
+figure_link: /pmc/articles/PMC9339284/figure/iyac086-F1/
+number: Fig. 1
+figure_title: ''
+caption: NuA4-dependent regulation of Acc1 activity is not solely through Snf1/AMPK1.
+  a) Schematic of de novo synthesis pathway of FAs. The precursor of FA synthesis
+  is acetyl-CoA. The essential enzyme Acc1 plays a direct role in regulating FA synthesis.
+  Genetic manipulations of yeast cells (NuA4 mutants) or pharmacological inhibition
+  (Sor A) impacting Acc1 activity can attenuate the synthesis of FAs. b) Deletion
+  of the NuA4 subunit, EAF1, reduces the rate of triglyceride synthesis. Early-log
+  phase wt (YKB 1079) and eaf1Δ (YKB 3333) cells were treated with [3H]-sodium acetate
+  for 1 h before harvest and extraction. The lipogenesis rate was obtained by normalizing
+  the incorporation of [3H] into triglycerides from [3H]-acetate precursor to the
+  protein concentration obtained from the same cells. Error bars denote the standard
+  error of the mean (SEM). n = 3, *P < 0.05 determined using a 2-tailed t-test. c)
+  Acc1 activity is reduced in NuA4 mutant. Wild-type (YKB 3954) and eaf1Δ (YKB 4448)
+  cells expressing endogenously tagged Acc1-GFP were grown to early-log phase at 30°C
+  in YPD. Acc1-GFP was immunoprecipitated and Acc1 activity measured and normalized
+  to Acc1-GFP protein abundance. Error bars denote the standard error of the mean
+  (SEM). n = 3, *P < 0.05 determined using a 2-tailed t-test. d) eaf1Δ cells are sensitive
+  to Sor A and eaf1Δ snf1Δ cells are more sensitive than snf1Δ cells. Wild-type (YKB
+  1079), eaf1Δ (YKB 3333), snf1Δ (YKB 3389), and eaf1Δ snf1Δ (YKB 3421) cells were
+  grown to early-log phase before being diluted to an OD600 of 0.1 in YPD with DMSO
+  control or 0.4 µM Sor A in DMSO, and automated growth curve analysis was performed
+  at 30°C for 48 h. e) Growth rates of indicated strains were calculated from logarithmic
+  growth phase of curves in d. Error bars denote the standard error of the mean (SEM).
+  n = 3, *P < 0.05 determined using a 2-way ANOVA test with a Tukey’s multiple comparisons
+  test.
+article_title: 'Fine-tuning acetyl-CoA carboxylase 1 activity through localization:
+  functional genomics reveals a role for the lysine acetyltransferase NuA4 and sphingolipid
+  metabolism in regulating Acc1 activity and localization.'
+citation: Trang Pham, et al. Genetics. 2022 Aug;221(4):iyac086.
+year: '2022'
+
+doi: 10.1093/genetics/iyac086
+journal_title: Genetics
+journal_nlm_ta: Genetics
+publisher_name: Oxford University Press
+
+keywords:
+- NuA4
+- lysine acetylation
+- Acc1
+- protein localization
+- protein aggregation
+- fatty acids
+- Saccharomyces cerevisiae
+
+---

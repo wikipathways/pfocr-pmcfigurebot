@@ -1,0 +1,29 @@
+---
+figid: PMC8814637__LSA-2022-01371_FigS5
+pmcid: PMC8814637
+image_filename: LSA-2022-01371_FigS5.jpg
+figure_link: /pmc/articles/PMC8814637/figure/figS5/
+number: Figure S5
+figure_title: Hierarchical clustering and pathway enrichment validation using Manhattan
+  distance
+caption: 'Complete hierarchical clustering overview of proteins detected in both viral
+  infections using Manhattan distance to validate the Euclidean distance-driven clustering
+  in . Each row represents the mean log2 fold-change (FC) for a protein upon viral
+  infection compared to control. Total number of proteins: 4,602 in translatome and
+  5,245 in proteome. Similarity of proteins and pathways reports the percentage of
+  proteins and significantly enriched pathways found in the Euclidean clusters ()
+  to also be present in the Manhattan clusters. The top 3 pathways (reactome pathway
+  enrichment was used for all clusters except T-C2 and P-C2 for which GAD disease
+  enrichment was used) are also reported for the Manhattan clusters.'
+article_title: Proteomic landscape of SARS-CoV-2– and MERS-CoV–infected primary human
+  renal epithelial cells.
+citation: Aneesha Kohli, et al. Life Sci Alliance. 2022 May;5(5):e202201371.
+year: '2022'
+
+doi: 10.26508/lsa.202201371
+journal_title: Life Science Alliance
+journal_nlm_ta: Life Sci Alliance
+publisher_name: Life Science Alliance LLC
+
+keywords:
+---

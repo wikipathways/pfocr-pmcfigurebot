@@ -1,0 +1,40 @@
+---
+figid: PMC9140071__cancers-14-02369-g004
+pmcid: PMC9140071
+image_filename: cancers-14-02369-g004.jpg
+figure_link: /pmc/articles/PMC9140071/figure/cancers-14-02369-f004/
+number: Figure 4
+figure_title: ''
+caption: UC.145 epigenetically regulates DKK1 involved in the canonical Wnt signaling
+  pathway. (a) EZH2 ChIP-seq signal identified at the DKK1 genomic locus using the
+  CpG island region, EZH2 ChIP-seq peak, and H3K27me3 signal using UCSC Genome Browser;
+  (b) RNA immunoprecipitation results determining that EZH2 binds to the DKK1 promoter
+  region, confirmed using qRT-PCR. EZH2 targeting siRNA suppressed DKK1 expression
+  at the (c) mRNA and (d) protein levels. Altered DKK1 expression was confirmed using
+  (e) qRT-PCR and (f) Western blotting. (g) DKK1 methylation was confirmed using MS-PCR.
+  (h) Western blotting confirmed that altered EZH2 abundance was caused by inhibition
+  of UC.145 expression; (i) ChIP-qPCR analysis of histone modification markers in
+  siControl- or siUC.145-transfected cells; (j) Western blotting confirmed changes
+  in histone modification markers after treatment with siUC.145s. (k) Changes in DKK1,
+  EZH2, and H3K27me3 expression regulated by UC.145 were confirmed by Western blotting
+  following treatment with EZH2 inhibitor GSK126. The results in (b–k) were obtained
+  in AGS and MKN74 GC cells. Data are shown as mean ± SD of three independent experiments
+  (** p ≤ 0.01).
+article_title: lncRNAs UC.145 and PRKG1-AS1 Determine the Functional Output of DKK1
+  in Regulating the Wnt Signaling Pathway in Gastric Cancer.
+citation: Jung-ho Yoon, et al. Cancers (Basel). 2022 May;14(10):2369.
+year: '2022'
+
+doi: 10.3390/cancers14102369
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- ultraconserved region
+- long non-coding RNA (lncRNA)
+- gastric cancer
+- epigenetics
+- lncRNA–lncRNA interaction
+
+---

@@ -1,0 +1,35 @@
+---
+figid: PMC9200383__po-6-e2200085-g002
+pmcid: PMC9200383
+image_filename: po-6-e2200085-g002.jpg
+figure_link: /pmc/articles/PMC9200383/figure/fig1/
+number: FIG 1
+figure_title: ''
+caption: Association between HRR pathway gene alterations and genomic scar scores
+  or TMB. Solid cancer samples from TCGA were arranged in order of (A) HRD score (n
+  = 9,399), (B) Sig3 ratio (n = 9,610), and (C) TMB (n = 9,672). The top and second
+  panels show the distribution of mutations with and without locus-specific LOH, respectively,
+  stratified by germline (prefix g) or somatic (prefix s) and BRCA1, BRCA2, or non-BRCA
+  HRR pathway genes. The third group of panels show homozygous deletions in BRCA2,
+  RAD51B, and HRR pathway genes (excluding BRCA1/2 but including RAD51B), and the
+  fourth panel shows BRCA1 methylation. The fifth panels contain the scar scores or
+  TMB values used for ordering; for TMB-based analysis, samples are also annotated
+  with MSI-high and somatic POLE mutation statuses. Box plots in bottom panels assess
+  the distribution of values for each stratification. *, **, and *** stand for P <
+  .01, P < 1 × 10−4, and P < 1 × 10−6 in the Mann-Whitney U test, respectively. Asterisks
+  in red indicate a negative correlation with the corresponding signature value. HRD,
+  homologous recombination deficiency; HRR, homologous recombination repair; LOH,
+  loss of heterozygosity; Sig3, mutational signature 3; TCGA, The Cancer Genome Atlas;
+  TMB, tumor mutation burden.
+article_title: Utility of Homologous Recombination Deficiency Biomarkers Across Cancer
+  Types.
+citation: Shiro Takamatsu, et al. JCO Precis Oncol. 2022 May;6:e2200085.
+year: '2022'
+
+doi: 10.1200/PO.22.00085
+journal_title: JCO Precision Oncology
+journal_nlm_ta: JCO Precis Oncol
+publisher_name: Wolters Kluwer Health
+
+keywords:
+---

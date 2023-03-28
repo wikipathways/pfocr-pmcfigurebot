@@ -1,0 +1,46 @@
+---
+figid: PMC9169357__thnov12p4399g003
+pmcid: PMC9169357
+image_filename: thnov12p4399g003.jpg
+figure_link: /pmc/articles/PMC9169357/figure/F3/
+number: Fig 3
+figure_title: ''
+caption: 'The ECM-integrin pathway is a potential downstream mediator of dysadherin
+  with tumorigenesis. (A) GSEA was performed using the mRNA sequencing profiles of
+  dysadherin-KO and control (EV-transfected) cells. Gene signatures associated with
+  the ECM-integrin pathway were significantly enriched in control cells compared with
+  dysadherin-KO cells. (B,C) Ingenuity Pathway Analysis was performed with the list
+  of differentially expressed genes in dysadherin-KO cells to reveal the dysadherin-associated
+  mechanism. (B) Disease and function analyses show significant reductions in tumor
+  frequency, tumor incidence, and malignant tumor development upon dysadherin KO.
+  Categories with p < 0.05 and |z-score| > 2 were considered statistically significant.
+  (C) Upstream analysis indicates the potential link between integrin pathways and
+  reduced cancer-related functions, with significant reductions in integrin target
+  gene expression upon dysadherin KO, which collectively led to a decrease in tumor
+  development. (D,E) The potential relationship between dysadherin and the integrin
+  signaling pathway, validated by RT-qPCR analyses of integrin target genes and by
+  IF in SW480 (D) and HCT116 (E) cell lines. RT-qPCR heatmaps show changes in integrin
+  signaling target genes upon dysadherin KO (D) and OE (E). IF staining for human
+  active β1 integrin (12G10) and dysadherin in dysadherin-KO or -OE CRC cells. (F)
+  IF staining for murine active β1 integrin (9EG7) and dysadherin in intestinal tumor
+  tissues of ApcMin/+;Fxyd5+/+ and ApcMin/+;Fxyd5-/- mice (n = 8/ group).*** indicates
+  p < 0.001. Dys: dysadherin, FC: fold change, FDR: false discovery rate, MFI: mean
+  fluorescence intensity, NES: normalized enrichment score, EV: empty vector.'
+article_title: Dysadherin awakens mechanical forces and promotes colorectal cancer
+  progression.
+citation: So-Yeon Park, et al. Theranostics. 2022;12(9):4399-4414.
+year: '2022'
+
+doi: 10.7150/thno.72354
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- Dysadherin
+- Mouse Model
+- Colorectal Cancer
+- Fibronectin
+- Yes-associated Protein 1
+
+---

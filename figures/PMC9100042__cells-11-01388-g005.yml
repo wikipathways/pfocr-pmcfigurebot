@@ -1,0 +1,53 @@
+---
+figid: PMC9100042__cells-11-01388-g005
+pmcid: PMC9100042
+image_filename: cells-11-01388-g005.jpg
+figure_link: /pmc/articles/PMC9100042/figure/cells-11-01388-f005/
+number: Figure 5
+figure_title: ''
+caption: Autophagic flux does not contribute to the acute oxidative stress response
+  in differentiating lt-NES cells. (A,B) Crosstalk between autophagy and KEAP1-NRF2
+  pathway regulation. (A) Western blot analysis of NRF2 and KEAP1 protein levels across
+  lt-NES differentiation upon autophagic flux inhibition (by Bafilomycin) for 17 h.
+  (B) NRF2 pathway downstream target gene expression under OS induction upon autophagic
+  flux inhibition. lt-NES cells were differentiated for 10 weeks and pre-treated with
+  Bafilomycin for 17 h, followed by addition of TBHP in the presence of Bafilomycin
+  for 8 h. Cells were treated with TBHP only for 8 h as a control treatment. Expression
+  of the NRF2 downstream target genes NQO1 and TXNRD1 was analyzed by qRT-PCR in order
+  to analyze the effects on NRF2 pathway activation upon oxidative stress (TBHP) under
+  basal conditions or during autophagy inhibition. Results are presented in comparison
+  to the corresponding pre-treatment condition (Bafilomycin or pre-treatment control;
+  equal to 1). Data are normalized to GAPDH mRNA levels and presented as means ± SEM
+  (n = 4 per treatment condition). Significant difference between means for each treatment
+  condition was determined by Student’s t test (NQO1 p = 0.5991; TXNRD1 p = 0.5257).
+  (C) Autophagic flux response to 24 h TBHP IC20 treatment in lt-NES and lt-NES cultures
+  differentiated up to 12 weeks quantified by CYTO-ID® staining shows that TBHP treatment
+  does not induce upregulation of the autophagosomal flux. The autophagosomal load
+  was assessed by calculating the ratio of autophagosomes to nuclei (n = 3, consisting
+  of at least 3 technical replicates per treatment condition each). (C’) Representative
+  CYTO-ID® staining images of 12-week-differentiated lt-NES cultures show no increase
+  in autophagosomal load upon TBHP treatment. Nuclei were counterstained with DAPI.
+  (D) ATPlite assay of pooled 10–12-week-differentiated lt-NES cells treated with
+  TBHP with or without Bafilomycin. Cells were pre-treated with Bafilomycin for 17
+  h followed by a 24 h TBHP treatment. Cell viability was assessed at the end of the
+  treatment by ATPlite assay. Results are presented as percentages relative to untreated
+  cells (equal to 100%) ±SEM (n = 5, consisting of at least 3 technical replicates
+  per treatment condition). Significance was assessed by two-way ANOVA (p = 0.89).
+article_title: Dynamics of Metabolic Pathways and Stress Response Patterns during
+  Human Neural Stem Cell Proliferation and Differentiation.
+citation: Vesselina Semkova, et al. Cells. 2022 May;11(9):1388.
+year: '2022'
+
+doi: 10.3390/cells11091388
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- neurodevelopment
+- neuronal differentiation
+- NRF2
+- autophagy
+- ROS
+
+---

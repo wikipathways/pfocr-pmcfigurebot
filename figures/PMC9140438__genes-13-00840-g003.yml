@@ -1,0 +1,32 @@
+---
+figid: PMC9140438__genes-13-00840-g003
+pmcid: PMC9140438
+image_filename: genes-13-00840-g003.jpg
+figure_link: /pmc/articles/PMC9140438/figure/genes-13-00840-f003/
+number: Figure 3
+figure_title: ''
+caption: The scatter plots of the KEGG pathway and the GO enrichment. (A) The top
+  20 KEGG pathways are shown in a scatter plot. (B) The scatter plot of the top 10
+  separate GO terms. The Rich factor is the proportion of DEGs numbers among all gene
+  numbers (in the database), indicated in the pathway term that is linked to it. KEGG,
+  Kyoto Encyclopedia of Genes and Genomes; GO, gene ontology; DEGs, differentially
+  expressed genes; BP, biological process; MF, molecular function; and CC, cellular
+  component.
+article_title: Correlation of NTRK1 Downregulation with Low Levels of Tumor-Infiltrating
+  Immune Cells and Poor Prognosis of Prostate Cancer Revealed by Gene Network Analysis.
+citation: Arash Bagherabadi, et al. Genes (Basel). 2022 May;13(5):840.
+year: '2022'
+
+doi: 10.3390/genes13050840
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: MDPI
+
+keywords:
+- prostate cancer
+- systems biology
+- bioinformatics
+- gene network analysis
+- biomarker
+
+---

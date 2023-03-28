@@ -1,0 +1,40 @@
+---
+figid: PMC9103462__cancers-14-02263-g005
+pmcid: PMC9103462
+image_filename: cancers-14-02263-g005.jpg
+figure_link: /pmc/articles/PMC9103462/figure/cancers-14-02263-f005/
+number: Figure 5
+figure_title: ''
+caption: 'Correlation of MYB-NFIB fusion expression with gene enrichment associated
+  in interferon (IFN) signaling pathway. (A), Reactome pathway enrichment analysis
+  of 215 annotated genes (FDR < 0.05) found in the MYBwt versus MYB-NFIB fusion differential
+  gene expression analysis. The x-axis indicates the proportion of genes from this
+  set contained in each pathway’s gene set. Twenty-two IFN pathway-associated genes
+  were found in all. (B), Heat-map representation of the normalized and centered gene
+  expression data of the 22 IFN signaling pathway-associated genes. Samples and genes
+  were ordered using the hierarchical clustering with complete linkage of their Euclidean
+  distances. Note: one MYBwt sample was excluded from the overall analysis because
+  its RNA sequencing read counts were too low to be included in the HiSeq4000 input.
+  (C), Validation of the upregulated genes by qPCR. RNA extracted from parental control,
+  MYBwt or MYB-NFIB fusion cells incubated in dox-media for 24 h were analyzed for
+  the expression of the various gene targets. (D), qPCR analysis of the target genes
+  in HACC-2A cells expressing MYBwt or MYB-NFIB fusion. (E), RNA extracted from the
+  indicated ACCXs were evaluated for the expression of representative gene targets
+  as shown.'
+article_title: Development and Characterization of MYB-NFIB Fusion Expression in Adenoid
+  Cystic Carcinoma.
+citation: Joseph O. Humtsoe, et al. Cancers (Basel). 2022 May;14(9):2263.
+year: '2022'
+
+doi: 10.3390/cancers14092263
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- adenoid cystic carcinoma
+- chromosomal t(6;9) translocation
+- MYB
+- MYB-NFIB fusion
+
+---

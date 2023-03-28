@@ -1,0 +1,27 @@
+---
+figid: PMC9076298__JO2022-4966820.006
+pmcid: PMC9076298
+image_filename: JO2022-4966820.006.jpg
+figure_link: /pmc/articles/PMC9076298/figure/fig6/
+number: Figure 6
+figure_title: ''
+caption: Functional analyses of the ECMRG signature in TCGA dataset. (a) PCA of differential
+  gene expression profiles between the high-risk and low-risk groups. (b) Heat map
+  plotting the metascore from GSVA analysis. GSVA analysis was performed to assess
+  the pathway enrichment scores in each glioma sample in TCGA dataset. (c) GSEA showing
+  the enriched oncogenic pathways, metabolic alternations, and immune infiltration
+  in the high-risk group. (d) Heat map showing the elevated metabolic pathways for
+  gliomas in the high-risk group. (e) Dot plots comparing the metascore of metabolic
+  pathways for glioma patients between the high-risk and low-risk groups. ∗∗∗P < 0.001.
+article_title: A Novel Risk Score Model Based on Eleven Extracellular Matrix-Related
+  Genes for Predicting Overall Survival of Glioma Patients.
+citation: Xiaodong Li, et al. J Oncol. 2022;2022:4966820.
+year: '2022'
+
+doi: 10.1155/2022/4966820
+journal_title: Journal of Oncology
+journal_nlm_ta: J Oncol
+publisher_name: Hindawi
+
+keywords:
+---

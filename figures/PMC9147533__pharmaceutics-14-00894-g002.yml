@@ -1,0 +1,32 @@
+---
+figid: PMC9147533__pharmaceutics-14-00894-g002
+pmcid: PMC9147533
+image_filename: pharmaceutics-14-00894-g002.jpg
+figure_link: /pmc/articles/PMC9147533/figure/pharmaceutics-14-00894-f002/
+number: Figure 2
+figure_title: ''
+caption: Schematic illustration of generating Abcb1 KO MDCK (gMDCK) cells and ABCB1/ABCG2
+  overexpressing gMDCK cells. After transfection, the target sequence is recognised
+  and cleaved by the sgRNA-Cas9 complex, followed by the integration of the donor
+  template through the HDR repair pathway. The expression of Abcb1 is thus disrupted
+  in Abcb1 KO MDCK (gMDCK) cells. To generate ABCB1/ABCG2 overexpressing gMDCK cells,
+  plasmids encoding human ABCB1 or ABCG2 genes are delivered into gMDCK cells and
+  randomly integrated into the genome, leading to constant overexpression of ABCB1
+  or ABCG2 protein. Created with BioRender.com.
+article_title: Application of CRISPR-Cas9 System to Study Biological Barriers to Drug
+  Delivery.
+citation: Ji He, et al. Pharmaceutics. 2022 May;14(5):894.
+year: '2022'
+
+doi: 10.3390/pharmaceutics14050894
+journal_title: Pharmaceutics
+journal_nlm_ta: Pharmaceutics
+publisher_name: MDPI
+
+keywords:
+- CRISPR-Cas9
+- blood-brain barrier
+- intestinal epithelial barrier
+- drug permeability
+
+---

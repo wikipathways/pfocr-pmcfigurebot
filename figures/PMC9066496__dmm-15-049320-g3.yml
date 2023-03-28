@@ -1,0 +1,53 @@
+---
+figid: PMC9066496__dmm-15-049320-g3
+pmcid: PMC9066496
+image_filename: dmm-15-049320-g3.jpg
+figure_link: /pmc/articles/PMC9066496/figure/DMM049320F3/
+number: Fig. 3
+figure_title: ''
+caption: ARCND2-associated PLCB4 mutants exert dominant-negative interference of the
+  EDNRA signaling pathway. (A) Schematic showing how BRET is achieved in response
+  to EDN1. Upon translocation-induced proximity, luminescence (460 nm) from the rLuc8-C1A
+  BRET donor excites the Lyn-Venus BRET acceptor, resulting in fluorescence emission
+  (540 nm) (ΔBRET; see Materials and Methods). (B) ΔBRET response after EDN1 stimulation
+  (arrow) in HEK293T cells co-transfected with rLuc8-C1A, Lyn-Venus and wild-type
+  EDNRA or a loss-of-function EDNRA mutant (p.Gln381Pro). ΔBRET traces are an average
+  of three experiments. Shaded boxes represent s.e.m. (C) The Gq/11-specific inhibitor
+  YM-254890 attenuates the EDN1-stimulated maximum ΔBRET response in cells transfected
+  with BRET sensor components and EDNRA. Each point represents an average of at least
+  three experiments. (D) Representative western blots of cells transfected with the
+  indicated amount (nanograms; ng) of plasmid. (E) ΔBRET response after EDN1 stimulation
+  (arrow) in cells co-transfected with BRET sensor components, EDNRA and differing
+  amounts of wild-type PLCB4 and PLCB4 p.Arg621His. ΔBRET traces are an average of
+  three (0:0, 500:0 and 0:500), four (450:50) or five (250:250) individual experiments.
+  (F) Quantification of the maximum ΔBRET response in E. Data points are individual
+  experiments with n values listed in E. Error bars represent s.e.m. Statistical significance
+  was calculated using Prism and an unpaired two-tailed t-test (mock transfection
+  versus 500:0, P=0.093; 500:0 versus 450:50, P=0.0372; 500:0 versus 250:250, P=0.037;
+  500:0 versus 0:500, P=0.0017). (G) ΔBRET response after EDN1 stimulation (arrow)
+  in cells co-transfected with BRET sensor components, EDNRA and wild-type PLCB4 or
+  the indicated PLCB4 mutant. Traces are an average of three experiments, except for
+  p.Glu358Val (n=4). (H) Quantification of the maximum ΔBRET response in G. Data points
+  are individual experiments with n values listed in G. Error bars represent s.e.m.
+  Statistical significance versus wild type was calculated using Prism and an unpaired
+  two-tailed t-test (p.Tyr623Cys, P=0.032; p.Glu358Val, P=0.015; p.Asp360Val, P=0.0018).
+  *P<0.05; **P<0.01. IB, immunoblot antibody; ns, not significant.
+article_title: Auriculocondylar syndrome 2 results from the dominant-negative action
+  of PLCB4 variants.
+citation: Stanley M. Kanai, et al. Dis Model Mech. 2022 Apr 1;15(4):dmm049320.
+year: '2022'
+
+doi: 10.1242/dmm.049320
+journal_title: Disease Models & Mechanisms
+journal_nlm_ta: Dis Model Mech
+publisher_name: The Company of Biologists Ltd
+
+keywords:
+- Craniofacial
+- G protein
+- Neural crest cell
+- CRISPR
+- Evolution
+- Mice
+
+---

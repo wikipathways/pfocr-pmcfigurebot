@@ -1,0 +1,39 @@
+---
+figid: PMC9120235__gr6
+pmcid: PMC9120235
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC9120235/figure/f0030/
+number: Fig. 6
+figure_title: ''
+caption: 'Human interactome model of protein interactions and metabolic reactions.
+  Graph vertices represent pathway participants: gene products (green), metabolites
+  (blue) and auxiliary nodes/nodes with label of biological effect (grey). Graph edges
+  are interactions between pathway participants. Edges inherit color from donor nodes.
+  (For interpretation of the references to color in this figure legend, the reader
+  is referred to the web version of this article.)'
+article_title: 'OncoboxPD: human 51 672 molecular pathways database with tools for
+  activity calculating and visualization.'
+citation: Marianna A. Zolotovskaia, et al. Comput Struct Biotechnol J. 2022;20:2280-2291.
+year: '2022'
+
+doi: 10.1016/j.csbj.2022.05.006
+journal_title: Computational and Structural Biotechnology Journal
+journal_nlm_ta: Comput Struct Biotechnol J
+publisher_name: Research Network of Computational and Structural Biotechnology
+
+keywords:
+- Molecular pathway database
+- Interactomics
+- Protein–protein interactions
+- Metabolomics
+- Pathway activation level
+- Pathway visualization
+- ARR, activation/repressor role coefficient
+- BEL, Biological Expression Language
+- KEGG, Kyoto Encyclopedia of Genes and Genomes
+- PAL, pathway activation level
+- SPIKE, Signaling Pathways Integrated Knowledge Engine
+- SPOKE, Scalable Precision Medicine Open Knowledge Engine
+- VM, virtual machine
+
+---

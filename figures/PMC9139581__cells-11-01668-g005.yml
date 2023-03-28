@@ -1,0 +1,44 @@
+---
+figid: PMC9139581__cells-11-01668-g005
+pmcid: PMC9139581
+image_filename: cells-11-01668-g005.jpg
+figure_link: /pmc/articles/PMC9139581/figure/cells-11-01668-f005/
+number: Figure 5
+figure_title: ''
+caption: 'Integrated transcriptomic and metabolome analysis provides unique insights
+  into pathways that are associated with retinoblastoma. (A) Differentially accumulated
+  metabolites identified in Rb vitreous were mapped onto the KEGG global metabolome
+  map associated with Rb. The nodes in the figure represent metabolic compounds. Edges
+  are enzymatic transformations. Highlighted nodes represent the differentially accumulated
+  metabolites identified in Rb vitreous. p < 0.05, FC > 2; upregulated (in red), p
+  < 0.05, FC < 2; downregulated (in green). Edges highlighted in violet represent
+  the glycolysis/gluconeogenesis map in Rb. Edges highlighted in yellow represent
+  the fatty acid metabolism-related enzyme map in Rb. Edges in pink represent the
+  amino-acid metabolism map in Rb. Edges in green represent the pentose phosphate
+  pathway enzymes in Rb. (B) Integration of transcriptomic and metabolomic interaction
+  network. Circular nodes indicate differentially regulated genes identified from
+  the microarray; (in green as downregulated set: p < 0.05, FC < 2; in red as upregulated
+  set: p < 0.05, FC > 2. Square blue nodes indicate differentially accumulated metabolites
+  from metabolomics analysis (p < 0.05). Blue square nodes indicate upregulated metabolites
+  (FC > 2), and yellow square nodes indicate downregulated metabolites (FC < 2).'
+article_title: Integrated Analysis of Cancer Tissue and Vitreous Humor from Retinoblastoma
+  Eyes Reveals Unique Tumor-Specific Metabolic and Cellular Pathways in Advanced and
+  Non-Advanced Tumors.
+citation: Vishnu Suresh Babu, et al. Cells. 2022 May;11(10):1668.
+year: '2022'
+
+doi: 10.3390/cells11101668
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- retinoblastoma
+- transcriptomics
+- metabolomics
+- multi-omics
+- glycolysis
+- metabolism
+- cancer
+
+---

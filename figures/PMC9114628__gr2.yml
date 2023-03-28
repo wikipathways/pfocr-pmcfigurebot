@@ -1,0 +1,37 @@
+---
+figid: PMC9114628__gr2
+pmcid: PMC9114628
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC9114628/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: 'The agile construction of a draft T-cell metabolic landscape across multiple
+  organs from hECA(A) Workflow of the in data cell sorting from hECA to build the
+  agile T cell atlas.(B) Subtypes of selected T cells are displayed on UMAP. DN T:
+  Double negative T cell, CD8+ Tc: CD8+ Cytotoxic T cell, CD8+ Trm: CD8+ resident
+  memory T cell, CD4+ Th1: CD4+ T helper cell type 1, CD4+ Tem: CD4+ effector memory
+  T cell, CD4+ Tcm: CD4+ central memory T cell.(C) Organ origins of selected T cells
+  organ origin displayed on UMAP.(D) Gene expression signatures of the identified
+  T cell subtypes. The color bar represents average expression level of cell type
+  related markers with colors gray to red indicating expression low to high. The dot
+  size represents percentage of cells expressing the marker within subtypes.(E–F)
+  Heatmaps showing z-scores of activity scores of major metabolic pathways of the
+  T cell subtypes in multiple organs.(E) for CD4+ T cells and (F) for CD8+ T cells.
+  Each row in the heatmap corresponds to one selected term in the KEGG metabolism
+  pathway database, and each column corresponds to one T cell subcluster. See also  and
+  .'
+article_title: 'hECA: The cell-centric assembly of a cell atlas.'
+citation: Sijie Chen, et al. iScience. 2022 May 20;25(5):104318.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.104318
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Cell biology
+- Stem cells research
+- Bioinformatics
+
+---

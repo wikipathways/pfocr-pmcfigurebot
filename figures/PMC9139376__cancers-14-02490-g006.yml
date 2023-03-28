@@ -1,0 +1,32 @@
+---
+figid: PMC9139376__cancers-14-02490-g006
+pmcid: PMC9139376
+image_filename: cancers-14-02490-g006.jpg
+figure_link: /pmc/articles/PMC9139376/figure/cancers-14-02490-f006/
+number: Figure 6
+figure_title: ''
+caption: MiRNA/mRNA interaction networks of the 10 most deregulated miRNAs in 3D cell
+  cultures. The graph shows the interaction network of the 10 most downregulated miRNAs
+  in 3D organotypic cultures (upper panel) and the 10 most upregulated miRNAs (bottom
+  panel) with their target mRNAs involved in hypoxia, Wnt/β-catenin, cell cycle, apoptosis,
+  TGFβ, JAK/STAT3, NOTCH, P53, PI3K/AKT/mTOR, and epithelial–mesenchymal transition
+  signaling pathways using Cytoscape software. The blue rectangle indicates the nodes
+  represented by miRNAs, and the different colored ovals corresponding to each signaling
+  pathway indicate the target mRNAs of the corresponding miRNAs.
+article_title: Three-Dimensional Organotypic Cultures Reshape the microRNAs Transcriptional
+  Program in Breast Cancer Cells.
+citation: Yarely M. Salinas-Vera, et al. Cancers (Basel). 2022 May;14(10):2490.
+year: '2022'
+
+doi: 10.3390/cancers14102490
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- breast cancer
+- 3D cultures
+- microRNAs
+- miRNA/mRNA coregulation networks
+
+---

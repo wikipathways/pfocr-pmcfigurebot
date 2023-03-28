@@ -1,0 +1,31 @@
+---
+figid: PMC9120893__ECE3-12-e8920-g011
+pmcid: PMC9120893
+image_filename: ECE3-12-e8920-g011.jpg
+figure_link: /pmc/articles/PMC9120893/figure/ece38920-fig-0008/
+number: FIGURE 8
+figure_title: ''
+caption: Enrichment of DEGs for the KEGG pathways. (a) terpenoid backbone biosynthesis
+  pathway (ko00900) and (b) sesquiterpenoid and triterpenoid biosynthesis (ko00909),
+  which are both related to triterpene saponins synthesis. Numbers below or adjacent
+  to nodes indicate the ratio of log2 (fold change). Genes are up or downregulated
+  in roots compared with leaves
+article_title: Comparative transcriptomic analysis of genes in the triterpene saponin
+  biosynthesis pathway in leaves and roots of Ardisia kteniophylla A. DC., a plant
+  used in traditional Chinese medicine.
+citation: Yuyang Lei, et al. Ecol Evol. 2022 May;12(5):e8920.
+year: '2022'
+
+doi: 10.1002/ece3.8920
+journal_title: Ecology and Evolution
+journal_nlm_ta: Ecol Evol
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- DEGs
+- Illumina sequencing
+- Primulaceae
+- transcription factors
+- triterpenoid saponins
+
+---

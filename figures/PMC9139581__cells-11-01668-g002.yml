@@ -1,0 +1,43 @@
+---
+figid: PMC9139581__cells-11-01668-g002
+pmcid: PMC9139581
+image_filename: cells-11-01668-g002.jpg
+figure_link: /pmc/articles/PMC9139581/figure/cells-11-01668-f002/
+number: Figure 2
+figure_title: ''
+caption: Distinct genes and biological processes are altered in advanced and non-advanced
+  retinoblastoma. (A) Heatmap showing significantly differentially expressed genes
+  identified four main gene groups in advanced (n = 5) and non-advanced Rb (n = 4),
+  compared to pediatric retina controls (n = 2). Genes were grouped based on the pathways
+  reported in GOBP. Results are represented as a network of enriched genes sets (nodes)
+  connected to their overlapping pathways (edges). The node size is proportional to
+  the total number of genes in the gene set of interest. (B) Gene group 1 represents
+  an enriched cluster of genes in the cell cycle, and the DNA damage and response
+  pathway. (C) List of functional pathways regulated by the gene sets in Group 1.
+  (D) Gene group 2 represents an enriched group of genes belonging to transcriptional
+  regulation, immune system regulation, and epigenetic factors. (E) List of functional
+  pathways regulated by the gene sets in group 2. (F) Gene group 3 represents an enriched
+  set of genes belonging to cellular metabolic processes such as glycolysis, Krebs
+  cycle, and fatty acid metabolism. (G) List of functional pathways regulated by the
+  gene sets in group 3.
+article_title: Integrated Analysis of Cancer Tissue and Vitreous Humor from Retinoblastoma
+  Eyes Reveals Unique Tumor-Specific Metabolic and Cellular Pathways in Advanced and
+  Non-Advanced Tumors.
+citation: Vishnu Suresh Babu, et al. Cells. 2022 May;11(10):1668.
+year: '2022'
+
+doi: 10.3390/cells11101668
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- retinoblastoma
+- transcriptomics
+- metabolomics
+- multi-omics
+- glycolysis
+- metabolism
+- cancer
+
+---

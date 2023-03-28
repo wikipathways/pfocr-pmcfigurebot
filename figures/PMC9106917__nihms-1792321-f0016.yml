@@ -1,0 +1,31 @@
+---
+figid: PMC9106917__nihms-1792321-f0016
+pmcid: PMC9106917
+image_filename: nihms-1792321-f0016.jpg
+figure_link: /pmc/articles/PMC9106917/figure/F16/
+number: Extended Data Fig. 9
+figure_title: ''
+caption: RNA-seq identifies gene transcriptional changes and signaling pathways in
+  LSCs treated with ILC1s or IFN-γ. a, Experimental design for RNA sequencing (RNA-Seq).
+  Mouse LSCs were sorted and treated with or without sorted ILC1s or IFN-γ for 3 days.
+  LSCs were resorted from co-cultured ILC1s or IFN-γ using FACS before RNA-Seq. b,
+  Purity of LSCs (left) and ILC1s (right) after cell sorting. c, Heat map showing
+  differential expression of RNA of 627 genes (n = 3 individual mice). d-f, Volcano
+  plots showing significantly differentially expressed genes in RNA pools from AML
+  LSCs treated with ILC1s vs. Ctrl (untreated) (d), IFN-γ vs. Ctrl (e), and IFN-γ
+  vs. ILC1s (f) (n = 3 individual mice). g, Hallmark pathway analysis in LSC RNA pools
+  (IFN-γ vs. Ctrl). The left panel shows signaling pathways downregulated in LSCs.
+  The right panel shows signaling pathways upregulated in LSCs (n = 3 individual mice).
+  Genes with an FDR-adjusted P-value < 0.05 and a fold change (FC) > 1.5 or < 0.7
+  were considered as significantly upregulated and downregulated genes, respectively.
+article_title: ILC1s Control Leukemia Stem Cell Fate and Limit Development of AML.
+citation: Zhenlong Li, et al. Nat Immunol. ;23(5):718-730.
+year: '2022'
+
+doi: 10.1038/s41590-022-01198-y
+journal_title: Nature immunology
+journal_nlm_ta: Nat Immunol
+publisher_name: ''
+
+keywords:
+---

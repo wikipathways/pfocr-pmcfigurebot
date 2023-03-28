@@ -1,0 +1,40 @@
+---
+figid: PMC9104818__cancers-14-02083-g005
+pmcid: PMC9104818
+image_filename: cancers-14-02083-g005.jpg
+figure_link: /pmc/articles/PMC9104818/figure/cancers-14-02083-f005/
+number: Figure 5
+figure_title: ''
+caption: Regulation of the lipidic signature by the bone’s transcriptome and secretome.
+  Mech-anistic model by which dysregulations in the bone cells’ transcriptome and
+  secretome under co-culture with PC3 cells may be regulating the expression/activity
+  of the tumor-associated PKA gene, a potential driver of the lipid-associated signature,
+  which in turn increases the expression of SLC16A1, VDR, GPX1, PPARA and PAPSS2,
+  thus shaping the metabolic phenotype of metastatic PCa. Networks from the Ingenuity
+  Pathway Analysis (IPA) of the transcriptomes of MC3T3 (pre-osteoblasts) or Raw264.7
+  (pre-osteoclasts) cells co-cultured with PC3 (upper panel). Bone proteins identified
+  by mass spectrometry of the conditioned media (CM) of MC3T3 or Raw264.7 cells co-cultured
+  with PC3 cells (medium panel). Enriched network from the IPA of genes dysregulated
+  in PC3 co-cultured with MC3T3 and Raw264.7 cells (lower panel). Upregulated genes
+  (red), downregulated genes (light blue), upstream regulators (pink), proteins secreted
+  by osteoblasts (purple), proteins secreted by osteo-clasts (light green), proteins
+  secreted by osteoblasts and osteoclasts (green), molecules proposed by the IPA (gray).
+article_title: Bone Progenitors Pull the Strings on the Early Metabolic Rewiring Occurring
+  in Prostate Cancer Cells.
+citation: Pablo Sanchis, et al. Cancers (Basel). 2022 May;14(9):2083.
+year: '2022'
+
+doi: 10.3390/cancers14092083
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- prostate cancer
+- bone metastasis
+- metabolism
+- gene signature
+- lipid metabolism
+- PKA
+
+---

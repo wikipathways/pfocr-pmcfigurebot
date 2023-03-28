@@ -1,0 +1,40 @@
+---
+figid: PMC9141481__genes-13-00731-g001
+pmcid: PMC9141481
+image_filename: genes-13-00731-g001.jpg
+figure_link: /pmc/articles/PMC9141481/figure/genes-13-00731-f001/
+number: Figure 1
+figure_title: ''
+caption: Antiviral RNA silencing pathway in plants. (a) The antiviral siRNA pathway.
+  First, the dsRNA structures of viral RNAs are processed by Dicer-like proteins into
+  several siRNA fragments. The guide strand of siRNA (orange) can assemble into functional
+  siRISC, and the passenger strand (purple) is ejected and degraded. All the forms
+  of siRISC contain siRNA bound to an AGO protein. Target RNAs are then recognized
+  by base pairing, and the siRNA populations that engage a target can be amplified
+  by the action of RdRP enzymes, strengthening and perpetuating the silencing response.
+  (b) The antiviral miRNA pathway. Primary miRNA (pri-RNA), produced from MIR genes
+  by RNA Pol II, is diced into pre-miRNA by DCL1. Pre-miRNA is further processed by
+  DCL1 and other accessory proteins into duplex miRNA, which is methylated by HEN1
+  into mature miRNA duplex and transported to the cytoplasm. The guide strand of mature
+  miRNA associates with RISC that consists of AGO1. (c) The antiviral amiRNA pathway.
+  The amiRNA transgene expresses a monocistronic MIRNA precursor sequentially processed
+  into an amiRNA targeting a single site in a single viral RNA, and the consequent
+  steps are same as the antiviral miRNA pathway. Several studies have revealed the
+  efficiency of RNA silencing in controlling viral diseases in potato.
+article_title: Advances in RNA-Silencing-Related Resistance against Viruses in Potato.
+citation: Lili Jiang, et al. Genes (Basel). 2022 May;13(5):731.
+year: '2022'
+
+doi: 10.3390/genes13050731
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: MDPI
+
+keywords:
+- RNA silencing
+- siRNA
+- miRNA
+- amiRNA
+- potato virus
+
+---

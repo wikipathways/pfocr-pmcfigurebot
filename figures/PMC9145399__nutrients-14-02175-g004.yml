@@ -1,0 +1,38 @@
+---
+figid: PMC9145399__nutrients-14-02175-g004
+pmcid: PMC9145399
+image_filename: nutrients-14-02175-g004.jpg
+figure_link: /pmc/articles/PMC9145399/figure/nutrients-14-02175-f004/
+number: Figure 4
+figure_title: ''
+caption: Altered gene transcription in response to AA exposure in cerebral organoids.
+  (A) Table providing an overview of the number of significantly differentially expressed
+  genes after acute, prolonged, and long-term AA exposure. (B) Venn diagram showing
+  the overlap between significantly differentially expressed genes after acute, prolonged,
+  and long-term AA exposure. (C) Heatmap representations of row-scaled DESeq2 vst
+  transformed and adjusted z-scores of the most significantly (p-adj) differentially
+  expressed genes (10 up/downregulated) for acute, prolonged, and long-term AA exposure.
+  (D) Cell type analysis of differentially expressed genes after AA exposure at the
+  3 different time points, showing the overlap between cell-type-specific gene lists
+  and the differentially regulated genes determined by Fisher’s exact test. At the
+  acute time point, no significant cell-type enrichment was found. (E) Ingenuity pathway
+  analysis (IPA) of differentially expressed genes after AA exposure of organoids
+  at the different time points, showing only significant terms (the x-axis shows the
+  significance (−log (p-value)). No significant enrichment of canonical pathways was
+  found for differentially expressed genes at the acute time point.
+article_title: Exposure to the Amino Acids Histidine, Lysine, and Threonine Reduces
+  mTOR Activity and Affects Neurodevelopment in a Human Cerebral Organoid Model.
+citation: Amber Berdenis van Berlekom, et al. Nutrients. 2022 May;14(10):2175.
+year: '2022'
+
+doi: 10.3390/nu14102175
+journal_title: Nutrients
+journal_nlm_ta: Nutrients
+publisher_name: MDPI
+
+keywords:
+- neurodevelopment
+- mTOR
+- amino acids
+
+---

@@ -1,0 +1,49 @@
+---
+figid: PMC9076016__CTM2-12-e821-g001
+pmcid: PMC9076016
+image_filename: CTM2-12-e821-g001.jpg
+figure_link: /pmc/articles/PMC9076016/figure/ctm2821-fig-0004/
+number: FIGURE 4
+figure_title: ''
+caption: Features of T‐cell subsets during pregnancy. (A) GO term enrichment of genes
+  which highly expressed in different trimester compared to non‐pregnancy in T cell
+  (CD8+ naïve T, CD8+ cytotoxic T, CD4+ naïve T, CD4+ cytotoxic T, NKT, Treg, proliferative
+  T, MAIT and other T). Red means upregulation compared to non‐pregnancy, blue means
+  downregulation compared to non‐pregnancy. (B and C) Boxplots of the cell scores
+  of two GO biological process terms (T‐cell receptor signalling pathway and T‐cell
+  activation) in CD4+ T, CD8+ T, NKT and Treg cells across four conditions. Wilcoxon
+  rank‐sum test was applied. (D and E) Box plots of the cell scores for CD4+ T, CD8+
+  T, NKT and Treg cells of cytotoxic and exhausted associated genes across four conditions.
+  Wilcoxon rank‐sum test was applied. (F and G) Box plots of the cell scores of two
+  GO biological process terms (response to type I interferon and defense response
+  to virus) in CD4+ T, CD8+ T, NKT and Treg cells across four conditions. Wilcoxon
+  rank‐sum test was applied. (H and I) Box plots of the cell scores of two GO biological
+  process terms (RNA splicing and alternative mRNA splicing via spliceosome) in CD4+
+  T, CD8+ T, NKT and Treg cells across four conditions. Wilcoxon rank‐sum test was
+  applied. (J) Correlation test between ISGs expression level in CD4+ T, CD8+ T, NKT
+  and Treg cells with gestational weeks. Correlation analysis using the Pearson's
+  product‐moment correlation. (K) Dot plot of ten genes expression pattern across
+  four conditions, including CD27, TRAC, TRBC1, TRBC2, CD3D, CD3E, CD3G, CD2, LCK
+  and PTPRC. (L) The difference in expression levels of above ten genes in CD4+ T,
+  CD8+ T, NKT and Treg cells between three periods of pregnancy and non‐pregnant controls.
+  (M) HNRNPL expression pattern across four conditions, the graph on the right shows
+  the significance of three periods of pregnancy compared to non‐pregnant controls.
+  Wilcoxon rank‐sum test was applied. All differences with p < 0.05 are indicated.
+  * p < 0.05, ** p < 0.01, *** p < 0.001, **** p < 0.0001, ns = not significant
+article_title: Single‐cell atlas of peripheral blood mononuclear cells from pregnant
+  women.
+citation: Dongsheng Chen, et al. Clin Transl Med. 2022 May;12(5):e821.
+year: '2022'
+
+doi: 10.1002/ctm2.821
+journal_title: Clinical and Translational Medicine
+journal_nlm_ta: Clin Transl Med
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- interferon
+- PBMCs
+- pregnancy
+- scRNA‐seq
+
+---

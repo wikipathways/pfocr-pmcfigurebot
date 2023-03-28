@@ -1,0 +1,40 @@
+---
+figid: PMC9067152__MOL2-16-1777-g004
+pmcid: PMC9067152
+image_filename: MOL2-16-1777-g004.jpg
+figure_link: /pmc/articles/PMC9067152/figure/mol213148-fig-0003/
+number: Fig. 3
+figure_title: ''
+caption: Global metabolic consequences of cysteine and cystine deprivation. (A) Volcano
+  plot displaying the Log2(Fold Change, FC) vs Log(False Discovery Rate, FDR P value)
+  for all the metabolites identified by LC/MS. Metabolites highlighted in green (upregulated
+  upon cysteine/cystine deprivation) or red (downregulated) have Log2(FC) > 1 or < −1
+  and an FDR P value < 0.05 (5 replicates per cell line and per condition). (B) Pathway
+  analysis performed on the metabolites levels computed depicts the major pathways
+  affected. (C) 13C incorporation from [U‐13C]‐glutamine into cellular glutamine pools,
+  and (D) tricarboxylic acid cycle (TCA) metabolites displayed as the contribution
+  of each isotopologue to the total metabolite pool. 13C‐tracing experiments are displayed
+  as bar plots; mean ± SD, n = 3 (***P < 0.001, two‐tailed Student’s t‐test). (E)
+  13C incorporation from [U‐13C]‐glutamine into uridine monophosphate (UMP) as the
+  m+3 isotopologue (bar plots as mean ± SD, n = 3. *P < 0.05; **P < 0.005; ***P < 0.001,
+  two‐sided Student’s t‐test). (F) Representative western blot of methyltetrahydrofolate
+  dehydrogenase 1 (MTHFD1) as a marker of folate cycle activity. (G) Ratio of SAM
+  and SAH for the 3 IDH1‐mutant glioma cell lines computed from the unlabeled global
+  profiling experiment (n = 5, bar plots displaying mean values ± SD).
+article_title: Cysteine is a limiting factor for glioma proliferation and survival.
+citation: Victor Ruiz‐Rodado, et al. Mol Oncol. 2022 May;16(9):1777-1794.
+year: '2022'
+
+doi: 10.1002/1878-0261.13148
+journal_title: Molecular Oncology
+journal_nlm_ta: Mol Oncol
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- cysteine
+- diet
+- glioma
+- glutathione
+- metabolism
+
+---

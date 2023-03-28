@@ -1,0 +1,50 @@
+---
+figid: PMC9156944__gr2
+pmcid: PMC9156944
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC9156944/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: eRNA analysis of GRO-seq data demonstrates a complex system of gene regulation
+  in response to refeeding and changes in Akt signaling(A) Scatterplot of GRO-seq
+  results comparing eRNA expression in livers of overnight fasted mice with that of
+  mice that were overnight fasted and then refed normal chow for 2 h eRNA with an
+  RPKM greater than 0.5 that are significantly upregulated in refeeding (at least
+  2-fold increased) are highlighted in red, whereas downregulated genes (at least
+  2-fold decreased) are highlighted in blue.(B) GREAT gene ontology analysis performed
+  on the sets of up- and downregulated genes identified by the GRO-seq analysis. The
+  top five biological processes for each group are shown. Each process is represented
+  by two values; the first represents the number of eRNAs identified within it and
+  the second is the number of genes associated with those eRNAs within this pathway.
+  Example genes are shown for each pathway.(C) Heatmap of all the feeding-regulated
+  genes identified in (A) and further results of GRO-seq from 2-h refed L-AktDKO and
+  L-AktFoxo1TKO mice. Six clusters were identified, three from the feeding-stimulated
+  eRNAs and three from the feeding-repressed that are differentially regulated by
+  Akt and FoxO1.(D) GREAT gene ontology analysis performed on the 3 clusters of feeding-stimulated
+  eRNAs, identified by how they appear to be regulated by Akt and FoxO1. Each process
+  is represented by two values, the first represents the number of eRNAs identified
+  within it and the second is the number of genes associated with those eRNAs within
+  this pathway. Example genes are shown for each pathway. Graph color corresponds
+  to cluster in (C).(E) GREAT gene ontology analysis performed on the 3 clusters of
+  feeding-repressed eRNAs, identified by how they appear to be regulated by Akt and
+  FoxO1. Each process is represented by two values; the first represents the number
+  of eRNAs identified within it and the second is the number of genes associated with
+  those eRNAs within this pathway. Example genes are shown for each pathway. Graph
+  color corresponds to cluster in (C).
+article_title: Global-run on sequencing identifies Gm11967 as an Akt-dependent long
+  noncoding RNA involved in insulin sensitivity.
+citation: Dominic Santoleri, et al. iScience. 2022 Jun 17;25(6):104410.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.104410
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Physiology
+- Molecular Physiology
+- Omics
+- Transcriptomics
+
+---

@@ -1,0 +1,49 @@
+---
+figid: PMC9076011__CTM2-12-e743-g002
+pmcid: PMC9076011
+image_filename: CTM2-12-e743-g002.jpg
+figure_link: /pmc/articles/PMC9076011/figure/ctm2743-fig-0003/
+number: FIGURE 3
+figure_title: ''
+caption: Identifying the C‐terminal domain of doublecortin‐like kinase 1 (DCLK1) to
+  interact with cell cycle and apoptosis regulator 1 (CCAR1). (A) Tandem Affinity
+  Purification‐Mass Spectrometry analysis showed DCLK1‐binding proteins in HEK293T
+  cells. The number of peptides for each protein identified was listed. (B) Gene Set
+  Enrichment Analysis (GSEA) of single gene showed that DCLK1 was positively correlated
+  to Wnt/β‐catenin signal pathway. The original mRNA expression data were gained from
+  the TCGA database (https://portal.gdc.cancer.gov/projects/TCGA‐COAD), and the gene
+  set pathway data were gained from the enrichment pathway collection of the KEGG
+  database on the GSEA data analysis website (http://www.gsea‐msigdb.org/gsea/login.jsp).
+  (C and D) HEK293T cells co‐transfected with Flag‐DCLK1 and Myc‐CCAR1 constructs
+  for 24 h were lysed with NP40 buffer. Then cell lysates were collected and analysed
+  by immunoprecipitation using S‐protein agarose beads or Myc agarose and Western
+  blotting with the indicated antibodies (n = 3). (E) HCT116 cells were collected
+  and conducted to immunoprecipitation using anti‐DCLK1 or anti‐CCAR1 antibodies,
+  and then analysed by Western blotting (n = 3). (F) Immunofluorescence staining determined
+  the location of DCLK1 (red) and CCAR1 (green) proteins. (G) The Duolink PLA probe
+  experiment detected the interaction between DCLK1 and CCAR. (H) Schematic description
+  of wild‐type DCLK1 (DCLK1‐WT) and DCLK1 deletion mutants (DCLK1‐MT) used in this
+  study. (I) HEK293T cells co‐transfected with the indicated constructs encoding Flag‐DCLK1
+  and indicated CCAR1 mutants for 24 h were collected and lysed. Then the supernatants
+  were conducted to immunoprecipitation using S‐protein agarose beads, and analysed
+  by Western blotting with the indicated antibodies (n = 3). KEGG, Kyoto Encyclopedia
+  of Genes and Genomes; TCGA, The Cancer Genome Atlas
+article_title: Targeting DCLK1 overcomes 5‐fluorouracil resistance in colorectal cancer
+  through inhibiting CCAR1/β‐catenin pathway‐mediated cancer stemness.
+citation: Lanqing Wang, et al. Clin Transl Med. 2022 May;12(5):e743.
+year: '2022'
+
+doi: 10.1002/ctm2.743
+journal_title: Clinical and Translational Medicine
+journal_nlm_ta: Clin Transl Med
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- cancer stemness
+- CCAR1
+- chemoresistence
+- colorectal cancer
+- DCLK1
+- β‐catenin
+
+---

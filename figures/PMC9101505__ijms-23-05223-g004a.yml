@@ -1,0 +1,31 @@
+---
+figid: PMC9101505__ijms-23-05223-g004a
+pmcid: PMC9101505
+image_filename: ijms-23-05223-g004a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 4
+caption: Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analysis
+  of DEGs. (A) KEGG pathway enrichment analysis of DEGs in GUIGE8; (B) KEGG pathway
+  enrichment analysis of DEGs in GUIGE18. The colors are shaded according to the p-value
+  level, as shown in the color bars gradually changing from low (red) to high (blue).
+  The size of the circle indicates the number of DEGs from small (less) to big (more).
+  The larger the rich factor, the higher the GO enrichment degree.
+article_title: Comparative Transcriptome Analysis Provides Insights into the Resistance
+  in Pueraria [Pueraria lobata (Willd.) Ohwi] in Response to Pseudo-Rust Disease.
+citation: Xinlu Huang, et al. Int J Mol Sci. 2022 May;23(9):5223.
+year: '2022'
+
+doi: 10.3390/ijms23095223
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- Pueraria [Pueraria lobata (Willd.) Ohwi]
+- Synchytrium puerariae Miy
+- pseudo-rust disease
+- transcriptome analysis
+- differentially expressed genes
+
+---

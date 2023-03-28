@@ -1,0 +1,46 @@
+---
+figid: PMC9141420__ijms-23-05302-g005
+pmcid: PMC9141420
+image_filename: ijms-23-05302-g005.jpg
+figure_link: /pmc/articles/PMC9141420/figure/ijms-23-05302-f005/
+number: Figure 5
+figure_title: ''
+caption: Effect of Bmal1 removal on the transcription of daily biological pathways.
+  Isolated RPE samples were collected at different time points (ZT1, ZT7, ZT13, ZT19;
+  ZT0 = light onset at 7AM) were subjected to high throughput RNA-sequencing analysis
+  and a rhythmic analysis performed within each genotype. Taking the rhythmic (r)
+  and non-rhythmic genes (nr) datasets, a Venn diagram analysis was carried out (A).
+  This comparison analysis revealed that 830 protein coding transcripts remained rhythmic
+  despite the loss of Bmal1 in the RPE (A[1]). Additionally, 3936 protein coding transcripts
+  that were rhythmic in RPE Bmal1 WT samples loss rhythmicity in RPE Bmal1 KO samples
+  (A[2]). Interestingly, 2696 protein coding transcripts that were not rhythmic in
+  RPE Bmal1 WT samples were now rhythmic in RPE Bmal1 KO samples (A[3]). A total of
+  13,350 protein coding transcripts were identified to be non-rhythmic in both genotypes
+  (A). KEGG pathway analysis indicated that the 830 protein coding transcripts are
+  involved in RPE cell maintenance such as cell morphology, transepithelial transportation,
+  metabolic processes, and background phagocytic processes (B); 3936 protein coding
+  transcripts that lost rhythmicity in RPE Bmal1 KO are possibly involved in mediating
+  the peak in phagocytosis of photoreceptor outer segments and turnover of engulfed
+  outer segments (C); 2696 protein coding transcripts that gained rhythmicity in the
+  absence of Bmal1 did not indicate any particular pattern of activated pathways with
+  only 2 KEGG pathways being statistically significant (D).
+article_title: The Circadian Clock in the Retinal Pigment Epithelium Controls the
+  Diurnal Rhythm of Phagocytic Activity.
+citation: Christopher DeVera, et al. Int J Mol Sci. 2022 May;23(10):5302.
+year: '2022'
+
+doi: 10.3390/ijms23105302
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- retinal pigment epithelium
+- retina
+- phagocytosis
+- aging
+- circadian clocks
+- Bmal1
+- transcriptome
+
+---

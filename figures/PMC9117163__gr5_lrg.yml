@@ -1,0 +1,32 @@
+---
+figid: PMC9117163__gr5_lrg
+pmcid: PMC9117163
+image_filename: gr5_lrg.jpg
+figure_link: /pmc/articles/PMC9117163/figure/fig5/
+number: Fig. 5
+figure_title: ''
+caption: '(A): SPEED2 signaling pathway enrichment analysis of common targets between
+  COVID-19 and asthma. (B): Tissue-specific expression analysis of the critical host
+  factors (The vertical axis represents different tissues, and the horizontal axis
+  represents the expression levels of 13 key host factors in each tissue. The expression
+  levels of genes are measured by Transcripts Per Million (TPM). The darker the color,
+  the higher the distribution of the corresponding host factor in a specific tissue).'
+article_title: 'Insights into potential mechanisms of asthma patients with COVID-19:
+  A study based on the gene expression profiling of bronchoalveolar lavage fluid.'
+citation: Yong Jiang, et al. Comput Biol Med. 2022 Jul;146:105601-105601.
+year: '2022'
+
+doi: 10.1016/j.compbiomed.2022.105601
+journal_title: Computers in Biology and Medicine
+journal_nlm_ta: Comput Biol Med
+publisher_name: Elsevier Ltd.
+
+keywords:
+- COVID-19
+- Asthma
+- Host factor interaction networks
+- Bioinformatics analysis
+- Comorbidity
+- Severity
+
+---

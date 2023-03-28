@@ -1,0 +1,41 @@
+---
+figid: PMC9120235__gr3
+pmcid: PMC9120235
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9120235/figure/f0015/
+number: Fig. 3
+figure_title: ''
+caption: Example of pathway activation chart. Green lines show top 10 most strongly
+  activated pathways (ordered top to bottom), red lines show top 10 most strongly
+  inhibited pathways (ordered bottom to top). Thickness is proportionate to absolute
+  value of PAL. In this example, RNA sequencing gene expression profiles of three
+  thyroid cancer samples  were compared with six healthy thyroid normal samples from
+  ANTE collection . PAL values, t-test p-values and FDR-adjusted p-values are shown
+  right to the pathway names. (For interpretation of the references to color in this
+  figure legend, the reader is referred to the web version of this article.)
+article_title: 'OncoboxPD: human 51 672 molecular pathways database with tools for
+  activity calculating and visualization.'
+citation: Marianna A. Zolotovskaia, et al. Comput Struct Biotechnol J. 2022;20:2280-2291.
+year: '2022'
+
+doi: 10.1016/j.csbj.2022.05.006
+journal_title: Computational and Structural Biotechnology Journal
+journal_nlm_ta: Comput Struct Biotechnol J
+publisher_name: Research Network of Computational and Structural Biotechnology
+
+keywords:
+- Molecular pathway database
+- Interactomics
+- Protein–protein interactions
+- Metabolomics
+- Pathway activation level
+- Pathway visualization
+- ARR, activation/repressor role coefficient
+- BEL, Biological Expression Language
+- KEGG, Kyoto Encyclopedia of Genes and Genomes
+- PAL, pathway activation level
+- SPIKE, Signaling Pathways Integrated Knowledge Engine
+- SPOKE, Scalable Precision Medicine Open Knowledge Engine
+- VM, virtual machine
+
+---

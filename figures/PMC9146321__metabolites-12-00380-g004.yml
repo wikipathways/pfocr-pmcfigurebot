@@ -1,0 +1,33 @@
+---
+figid: PMC9146321__metabolites-12-00380-g004
+pmcid: PMC9146321
+image_filename: metabolites-12-00380-g004.jpg
+figure_link: /pmc/articles/PMC9146321/figure/metabolites-12-00380-f004/
+number: Figure 4
+figure_title: ''
+caption: 'Metabolome view of the pathway impact analysis obtained from significantly
+  changed metabolites in stool from Cef treatments in KO (A) and differential metabolites
+  in WT mice (B). This analysis was conducted using MetaboAnalyst (www.metaboanalyst.ca,
+  accessed on 1 January 2022). The color and size of each circle is based on p-values
+  (yellow: higher p-values, and red: lower p-values) and pathway impact values (the
+  larger the circle, the higher the impact score) calculated from the topological
+  analysis, respectively. The pathways were considered as significantly impacted if
+  p < 0.05, the impact is 0.1, and the number of metabolite hits in the pathway >
+  1.'
+article_title: Evaluating Cefoperazone-Induced Gut Metabolic Functional Changes in
+  MR1-Deficient Mice.
+citation: Jinchun Sun, et al. Metabolites. 2022 May;12(5):380.
+year: '2022'
+
+doi: 10.3390/metabo12050380
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: MDPI
+
+keywords:
+- metabolomics
+- microbiome
+- metabolic functioning biomarkers
+- carbohydrates
+
+---

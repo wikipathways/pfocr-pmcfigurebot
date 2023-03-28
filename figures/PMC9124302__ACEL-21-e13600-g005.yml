@@ -1,0 +1,50 @@
+---
+figid: PMC9124302__ACEL-21-e13600-g005
+pmcid: PMC9124302
+image_filename: ACEL-21-e13600-g005.jpg
+figure_link: /pmc/articles/PMC9124302/figure/acel13600-fig-0005/
+number: FIGURE 5
+figure_title: ''
+caption: Mossy cell‐specific overexpressing hTau N368 decrease multiple synapse‐associated
+  proteins with remarkably disrupted Jak‐STAT and PI3K‐AKT signaling pathway. (a)
+  Schematics show sample preparation for transcriptomic analysis. The mossy cell‐specific
+  overexpressing hTau N368 in Calb2‐Cre mice was carried out as described in Figure
+  . After 1 month, the DG subset was dissected and the hTau N368‐overexpressing mossy
+  cells were sorted by fluorescence activated cell sorting (FACs) for transcriptomic
+  analysis. (b) The mCherry‐positive cells were sorted by FACs, to evaluate the specificity
+  of AAV‐delivered mCherry‐fused hTau N368 and mCherry expression in mossy cells.
+  The boxed area (b, bottom panel) represents cells gated as significantly fluorescent
+  compared with non‐fluorescent control (b, top panel). (c) A total of 917 in 16,923 genes
+  were statistically significant up‐ or downregulated in mossy cells after hTau N368
+  overexpression measured by RNA‐seq analysis. n = 5 mice in each group. (d) Top Gene
+  Ontology terms for differentially expressed genes (DEGs) in (c). (e) Enriched KEGG
+  pathway of DEGs in (c). (f) Heatmap showing gene expression of DEGs in glutamatergic
+  synapse, cholinergic synapse, dopaminergic synapse, and calcium signaling pathway.
+  (g–i) Mossy cell overexpressing hTau N368 upregulated STAT1 with downregulated synapse‐associated
+  proteins in dentate gyrus. Data were normalized to β‐actin and the mean value of
+  mChery group for each protein. Unpaired t tests, n = 6 mice, *p < 0.05, **p < 0.01,
+  ***p < 0.001. (j–l) Mossy cell overexpressing hTau N368 inhibited p‐AKT(S473) with
+  reduced pGSK‐3β(S9) (indicating GSK3β activation). Data were normalized to β‐actin
+  and the mean value of mChery group for each protein. Unpaired t tests, n = 6 mice,
+  *p < 0.05, **p < 0.01, ***p < 0.001. (m, n) Heatmap showing gene expression of DEGs
+  in F‐box proteins and cellular response to heat stress. Data were represented as
+  mean ± SEM
+article_title: Alzheimer‐like tau accumulation in dentate gyrus mossy cells induces
+  spatial cognitive deficits by disrupting multiple memory‐related signaling and inhibiting
+  local neural circuit.
+citation: Shihong Li, et al. Aging Cell. 2022 May;21(5):e13600.
+year: '2022'
+
+doi: 10.1111/acel.13600
+journal_title: Aging Cell
+journal_nlm_ta: Aging Cell
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- Alzheimer's disease
+- hippocampus
+- hTau N368
+- mossy cell
+- spatial memory
+
+---

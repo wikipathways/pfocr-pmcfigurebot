@@ -1,0 +1,41 @@
+---
+figid: PMC9061793__41419_2022_4877_Fig4_HTML
+pmcid: PMC9061793
+image_filename: 41419_2022_4877_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9061793/figure/Fig4/
+number: Fig. 4
+figure_title: UHMK1 was involved in the regulation of JAK/STAT3 pathway
+caption: 'A Dual-luciferase reporter assays were performed in HCT116/shUHMK1 and RKO/shUHMK1
+  cells with seven typical signaling pathway reporter systems as indicated. B Dual-luciferase
+  reporter assay for JAK/STAT3 pathway in HCT116/shUHMK1 and RKO/shUHMK1 cells after
+  IL-6 treatment. C Dual-luciferase reporter assay for JAK/STAT3 pathway in DLD-1/UHMK1-1
+  and DLD-1/UHMK1-2 cells after IL-6 treatment. D Relative mRNA expression of c-MYC,
+  Cyclin D1, BCL2, and MCL1 in DLD-1/UHMK1 and SW620/UHMK1 cells by RT-qPCR. E Western
+  blot results of UHMK1, Cyclin D1, and c-MYC expression in DLD-1/UHMK1 and SW620/UHMK1
+  cells. F GSEA analysis comparing the gene sets of JAK/STAT pathway with UHMK1 expression.
+  Data were obtained from TCGA database. G Co-IP assays were performed in DLD-1/UHMK1-2
+  cells transiently transfected with HA-STAT3 plasmid. Exogenous UHMK1 was immunoprecipitated
+  with the anti-HA antibody. H Endogenous STAT3 was pulled down with anti-FLAG antibody
+  in DLD-1/UHMK1-2 cells via Co-IP analysis. I Endogenous UHMK1 was coimmunoprecipitated
+  with anti-STAT3 antibody in DLD-1 cells. J Co-localization of both UHMK1 (red) and
+  STAT3 (green) in DLD-1/UHMK1-2 cells was shown. Scale bar: 30 μm. K Results of ChIP
+  assay conducted using chromatins isolated from RKO cells with UHMK1 knockdown and
+  control cells. The immunoprecipitated DNA by anti-STAT3 antibody was analyzed by
+  agarose gel electrophoresis. Normal IgG was used as a negative control. *p < 0.05,
+  **P < 0.01.'
+article_title: UHMK1 aids colorectal cancer cell proliferation and chemoresistance
+  through augmenting IL-6/STAT3 signaling.
+citation: Xuedi Gao, et al. Cell Death Dis. 2022 May;13(5):424.
+year: '2022'
+
+doi: 10.1038/s41419-022-04877-8
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Oncogenes
+- Cell signalling
+- Cell growth
+
+---

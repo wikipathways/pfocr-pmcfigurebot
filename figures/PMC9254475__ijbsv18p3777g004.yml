@@ -1,0 +1,40 @@
+---
+figid: PMC9254475__ijbsv18p3777g004
+pmcid: PMC9254475
+image_filename: ijbsv18p3777g004.jpg
+figure_link: /pmc/articles/PMC9254475/figure/F4/
+number: Fig 4
+figure_title: ''
+caption: hsa-miR-340-3p is negatively correlated with the expression of HTR1D in pancreatic
+  cancer, and promotes the apoptosis of PCs in vitro. a The venn diagram for the intersection
+  of the upstream regulatory miRNAs of HTR1D predicted by different databases and
+  the differentially expressed miRNAs of liver cancer samples in TCGA database. b-c
+  The expression difference and survival analysis curve of hsa-miR-340-3p using RStudio
+  based on the bioinformatics analysis of TCGA data. d Correlation analysis of the
+  expression of HTR1D and hsa-miR-340-3p in TCGA pancreatic cancer samples. e The
+  mRNA expression level of hsa-miR-340-3p was detected by qPCR in PANC-1 and CFPAC-1.
+  f The dual luciferase reporter gene assay was performed to verify the interaction
+  between HTR1D and hsa-miR-340-3p. g-h The effect of overexpressing hsa-miR-340-3p
+  on the expression level of HTR1D in each cell line by qPCR. i-j Western blot was
+  performed to detect apoptosis-related proteins and phosphorylated AKT in each cell
+  line transfected with designated plasmids. Each experiment was performed three times
+  independently and results are presented as mean ± s.d. Student's t-test was used
+  to analyze the data. (*p < 0.05; **p < 0.01; ***p < 0.001)
+article_title: HTR1D functions as a key target of HOXA10-AS/miR-340-3p axis to promote
+  the malignant outcome of pancreatic cancer via PI3K-AKT signaling pathway.
+citation: Wu Wu, et al. Int J Biol Sci. 2022;18(9):3777-3794.
+year: '2022'
+
+doi: 10.7150/ijbs.70546
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- pancreatic cancer
+- ceRNA
+- HTR1D
+- HOXA10-AS
+- miR-340-3p
+
+---

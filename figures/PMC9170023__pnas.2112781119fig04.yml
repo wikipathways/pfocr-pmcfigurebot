@@ -1,0 +1,46 @@
+---
+figid: PMC9170023__pnas.2112781119fig04
+pmcid: PMC9170023
+image_filename: pnas.2112781119fig04.jpg
+figure_link: /pmc/articles/PMC9170023/figure/fig04/
+number: Fig. 4
+figure_title: ''
+caption: Phosphoproteomic analysis of liver identifies EGFR signaling as a potential
+  mediator of inflammatory disease response. (A–C) The phosphoproteome of the same
+  liver samples (n = 5/time per condition) was analyzed by mass spectrometry. Principle
+  component analysis identified disease as the largest source of variation (A; naïve
+  mice, blue; CIA mice, red). Significantly altered phosphopeptides (B, blue), predominantly
+  serine residues (C), were identified. (D–F) Differential rhythmicity analysis using
+  compareRhythms (D and E) highlighting a switch in predicted phase for phosphopeptides
+  belonging to the “altered” group (F). (G) Groups of genes associated with sites
+  of DP and/or rhythmic phosphorylation were analyzed for functional enrichment using
+  the Enrichr tool (spot size represents fold enrichment of genes in group vs. the
+  genome; color represents significance of enrichment; spot absence means no genes
+  from the pathway belonged to the group), highlighting enrichment of genes involved
+  in EGFR/IL6 signaling. (H) The KinSwingR package was used to predict kinases associated
+  with significant (FDR < 0.05) phosphoproteome changes (increased phosphorylation
+  with CIA indicated in red; reduced phosphorylation indicated in blue), also highlighting
+  EGFR signaling. (I) Among predicted regulatory kinases, Stat3 showed DP. Treatment
+  effect by two-way ANOVA. ****P < 0.0001. Error bars represent SEM. (J) Western blot
+  analysis of phospho-Stat3, Stat3 (Top), phospho-EGFR and EGFR (Bottom) confirmed
+  increased phosphorylation in CIA liver samples collected at ZT4. GAPDH immunoblot
+  was used as a loading control.
+article_title: Chronic inflammatory arthritis drives systemic changes in circadian
+  energy metabolism.
+citation: Polly Downton, et al. Proc Natl Acad Sci U S A. 2022 May 3;119(18):e2112781119.
+year: '2022'
+
+doi: 10.1073/pnas.2112781119
+journal_title: Proceedings of the National Academy of Sciences of the United States
+  of America
+journal_nlm_ta: Proc Natl Acad Sci U S A
+publisher_name: National Academy of Sciences
+
+keywords:
+- rheumatoid arthritis
+- inflammation
+- circadian clock
+- mitochondria
+- ceramide
+
+---

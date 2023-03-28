@@ -1,0 +1,49 @@
+---
+figid: PMC9120235__gr4
+pmcid: PMC9120235
+image_filename: gr4.jpg
+figure_link: /pmc/articles/PMC9120235/figure/f0020/
+number: Fig. 4
+figure_title: ''
+caption: 'TRAF molecular pathway visualization using OncoboxPD software. Nodes correspond
+  to individual pathway components or to their complexes. Color of every node reflects
+  logarithm of mean CNR for all node components, according to a scale given with green
+  upregulated, and red downregulated nodes. Grey nodes have no gene components, and
+  no CNR values. Nodes that are unaffected (with CNR ∼ 1) are shown white. Red and
+  green arrows stand for inhibitory and activating interactions, respectively. Ovals
+  denote gene products, octagons - metabolites, hexagons – complexes, and other nodes
+  (text labels without recognized molecular components) are shown as rectangles. A
+  bold black border indicates outlier values that are outside of scale limits. In
+  this example, RNA sequencing gene expression profile of thyroid papillary cancer
+  sample TC15  was compared against six healthy thyroid samples from ANTE collection
+  . A) Static pathway graph. B) Projection of dynamic interactive pathway graph. The
+  figure can be found following the path: result file in Folders(“example” with green
+  icon)->sample TC15 in Sample table-> Pathway activation level tab->TRAF Pathway->
+  static and dynamic graphs. (For interpretation of the references to color in this
+  figure legend, the reader is referred to the web version of this article.)'
+article_title: 'OncoboxPD: human 51 672 molecular pathways database with tools for
+  activity calculating and visualization.'
+citation: Marianna A. Zolotovskaia, et al. Comput Struct Biotechnol J. 2022;20:2280-2291.
+year: '2022'
+
+doi: 10.1016/j.csbj.2022.05.006
+journal_title: Computational and Structural Biotechnology Journal
+journal_nlm_ta: Comput Struct Biotechnol J
+publisher_name: Research Network of Computational and Structural Biotechnology
+
+keywords:
+- Molecular pathway database
+- Interactomics
+- Protein–protein interactions
+- Metabolomics
+- Pathway activation level
+- Pathway visualization
+- ARR, activation/repressor role coefficient
+- BEL, Biological Expression Language
+- KEGG, Kyoto Encyclopedia of Genes and Genomes
+- PAL, pathway activation level
+- SPIKE, Signaling Pathways Integrated Knowledge Engine
+- SPOKE, Scalable Precision Medicine Open Knowledge Engine
+- VM, virtual machine
+
+---

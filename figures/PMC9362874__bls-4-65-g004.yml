@@ -1,0 +1,41 @@
+---
+figid: PMC9362874__bls-4-65-g004
+pmcid: PMC9362874
+image_filename: bls-4-65-g004.jpg
+figure_link: /pmc/articles/PMC9362874/figure/F4/
+number: Figure 4
+figure_title: ''
+caption: Aberrant regulation and cell differentiation of primitive malignant cells
+  in AML subtype with multiple cell types. (A) t-SNE plot based on RAS of AML subtype
+  (AML921A) with multiple malignant cell types along the HSC to myeloid axis. Points
+  are color-coded by cell-type annotations. t-SNE plot located on the lower right
+  emphasized the distribution of AML cells (colored in red). (B) Heatmaps show RAS
+  of normal TF signatures for HSC/Prog, GMP, and differentiated myeloid cells in normal
+  cells (left) and malignant AML cells (right). (C) GO and KEGG pathway analysis of
+  highly activated TFs of primitive malignant cells in AML921A and AML707B. Color
+  shows the -log10(q value). (D) Heatmap shows the RAS of TFs related to the signaling
+  pathways marked in red from (C) in the primitive malignant cells of AML921A and
+  AML707. (E) Enrichment analysis of cell differentiation related TFs and their targets.
+  Dot sizes represent number of genes enriched in each GO term and dot colors represent
+  logarithmic transformed adjusted P values (Benjamini-Hochberg correction). (F) RAS
+  of HOXB6 and NKX2-1 in all AML921A cell clusters (left) and their overall survival
+  curves (right). AML = acute myeloid leukemia, GO = gene ontology, RAS =  regulon
+  activity scores, TF = transcription factor.
+article_title: Single-cell analysis of transcription factor regulatory networks reveals
+  molecular basis for subtype-specific dysregulation in acute myeloid leukemia.
+citation: Ruixia Sun, et al. Blood Sci. 2022 Apr;4(2):65-75.
+year: '2022'
+
+doi: 10.1097/BS9.0000000000000113
+journal_title: Blood Science
+journal_nlm_ta: Blood Sci
+publisher_name: Lippincott Williams & Wilkins
+
+keywords:
+- Acute myeloid leukaemia
+- Co-expression analysis
+- Single-cell RNA-sequencing
+- Transcription factor
+- Transcriptional regulatory network
+
+---

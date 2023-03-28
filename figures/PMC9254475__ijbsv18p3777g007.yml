@@ -1,0 +1,40 @@
+---
+figid: PMC9254475__ijbsv18p3777g007
+pmcid: PMC9254475
+image_filename: ijbsv18p3777g007.jpg
+figure_link: /pmc/articles/PMC9254475/figure/F7/
+number: Fig 7
+figure_title: ''
+caption: LncRNA HOXA10-AS is negatively correlated with the expression of hsa-miR-340-3p
+  and positively correlated with the expression of HTR1D in pancreatic cancer. a The
+  venn diagram for the intersection of the upstream regulatory LncRNAs of hsa-miR-340-3p
+  predicted by Lncbaset database and the differentially expressed LncRNAs calculated
+  by different R packages in TCGA liver cancer samples. b-c The expression difference
+  and survival analysis curve of LncRNA HOXA10-AS using RStudio based on the bioinformatics
+  analysis of TCGA data. d-e Correlation analysis of the expression of HTR1D/hsa-miR-340-3p/HOXA10-AS
+  in TCGA pancreatic cancer samples. f The mRNA expression level of LncRNA HOXA10-AS
+  was detected by qPCR in PANC-1 and CFPAC-1. g-h The dual luciferase reporter gene
+  assay was performed to verify the interaction between LncRNA HOXA10-AS and hsa-miR-340-3p.
+  i-j The effect of decreasing LncRNA HOXA10-AS on the expression level of HTR1D and
+  hsa-miR-340-3p in each cell line by qPCR. k-l Western blot was performed to detect
+  designated proteins in each cell line transfected with specific plasmids. Each experiment
+  was performed three times independently and results are presented as mean ± s.d.
+  Student's t-test was used to analyze the data. (*p < 0.05; **p < 0.01; ***p < 0.001)
+article_title: HTR1D functions as a key target of HOXA10-AS/miR-340-3p axis to promote
+  the malignant outcome of pancreatic cancer via PI3K-AKT signaling pathway.
+citation: Wu Wu, et al. Int J Biol Sci. 2022;18(9):3777-3794.
+year: '2022'
+
+doi: 10.7150/ijbs.70546
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- pancreatic cancer
+- ceRNA
+- HTR1D
+- HOXA10-AS
+- miR-340-3p
+
+---

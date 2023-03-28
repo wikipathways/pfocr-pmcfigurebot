@@ -1,0 +1,27 @@
+---
+figid: PMC9142129__entropy-24-00693-g006
+pmcid: PMC9142129
+image_filename: entropy-24-00693-g006.jpg
+figure_link: /pmc/articles/PMC9142129/figure/entropy-24-00693-f006/
+number: Figure 6
+figure_title: ''
+caption: Inferred network of the MAP kinase pathway with  proteins and 106 connections
+  by using the proposed SPCA. A protein with darker color has more inferred connections.
+article_title: Inference of Molecular Regulatory Systems Using Statistical Path-Consistency
+  Algorithm.
+citation: Yan Yan, et al. Entropy (Basel). 2022 May;24(5):693.
+year: '2022'
+
+doi: 10.3390/e24050693
+journal_title: Entropy
+journal_nlm_ta: Entropy (Basel)
+publisher_name: MDPI
+
+keywords:
+- molecular regulation
+- complex network
+- graphic model
+- path consistency
+- statistical inference
+
+---

@@ -1,0 +1,42 @@
+---
+figid: PMC9099732__ijms-23-05085-g004
+pmcid: PMC9099732
+image_filename: ijms-23-05085-g004.jpg
+figure_link: /pmc/articles/PMC9099732/figure/ijms-23-05085-f004/
+number: Figure 4
+figure_title: ''
+caption: '(A): Volcano plot showing the results for elucidating discerning markers
+  between obese (BMI > 30) and non-obese patients, and those with recurring sleep
+  problems, and those with normal sleep or only mild sleep problems. FC = 1, p-value
+  < 0.05, BMI > 30/BMI < 30 and recuring/normal and mild sleep problems. FC = 1, p-value
+  < 0.05 (B): Top 25 metabolic pathways that pathway enrichment analysis using SMPDB
+  database suggested as having the most alterations, on the left in relation to obesity,
+  and on the right in relation to sleep problems. The figure has been created using
+  the MetaboAnalyst software (version 5.0, https://www.metaboanalyst.ca/home.xhtml
+  []. (C): Mechanistic model illustrating how problems co-occurring with chronic pain
+  may link at the metabolomic level. On the partial description of methionine metabolism
+  (right), the blue arrows show the four metabolomic markers that are decreased in
+  the recurring sleep problems subgroup in statistical analysis, suggesting downregulated
+  methionine metabolism in this subgroup. Methionine metabolism is an important source
+  of cysteine, needed for glutathione metabolism (left), and which appeared altered
+  with obesity. The figure was created using Microsoft PowerPoint® (Redmond, WA, USA)
+  on Microsoft Windows 11.'
+article_title: Machine Learning and Pathway Analysis-Based Discovery of Metabolomic
+  Markers Relating to Chronic Pain Phenotypes.
+citation: Teemu Miettinen, et al. Int J Mol Sci. 2022 May;23(9):5085.
+year: '2022'
+
+doi: 10.3390/ijms23095085
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- chronic pain phenotypes
+- sleep disorders
+- obesity
+- metabolic markers
+- metabolic pathways
+- supervised machine
+
+---

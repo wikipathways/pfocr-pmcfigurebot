@@ -1,0 +1,41 @@
+---
+figid: PMC9178003__gkac360fig3
+pmcid: PMC9178003
+image_filename: gkac360fig3.jpg
+figure_link: /pmc/articles/PMC9178003/figure/F3/
+number: Figure 3
+figure_title: ''
+caption: Over-expression of HK2 alters the abundance of a subset of proteins involved
+  in the AHR network. (A) Schema of the protocol used to characterise U2OS and U2OS-GFP-HK2
+  proteomes. Four samples of each cell lines were analysed by mass spectrometry. (B)
+  Mean of label free quantification (LFQ) values of proteins annotated by Ingenuity
+  Pathway Analysis (IPA) software as belonging to the ‘AHR signalling pathway’ and
+  identified in the proteomic approach with significant changes in abundance between
+  U2OS and U2OS-GFP-HK2 cells (n = 4). Targets are grouped in four classes according
+  to their abundance levels in U2OS and U2OS-GFP-HK2 cells. (C) Western blot analysis
+  of a subset of proteins identified in the proteomic analysis and belonging to the
+  ‘AHR signalling pathway’. Relative quantifications between cell lines are indicated
+  below the blots (relative to MCM2 levels which is not differentially expressed between
+  U2OS and U2OS-GFP-HK2 cells according to the proteomic data). (D) Cytoscape visualization
+  of proteins deregulated in U2OS-GFP-HK2 compared to U2OS cells and annotated as
+  ‘AHR signalling pathway’ or ‘downstream targets’ (i.e targets of predicted Upstream
+  Regulators) using the IPA software. Proteins are colour-coded with up-regulated
+  proteins in U2OS-GFP-HK2 depicted in red and proteins down-regulated depicted in
+  blue. Proteins annotated as ‘AHR signalling pathway’ are highlighted by bold lines.
+  (E) Venn diagram showing the overlap between ‘AHR signalling pathway’ proteins and
+  ‘downstream targets’. (F) Genes encoding proteins of the HK2/AHR network identified
+  as AHR genomic targets in MCF-7, GM17212 and HepG2 cells (either in presence or
+  absence of agonist). Blue indicates the presence of an AHR binding sites in the
+  vicinity of the promoter and/or in the coding sequence of the gene.
+article_title: Hexokinase 2 is a transcriptional target and a positive modulator of
+  AHR signalling.
+citation: Manon Watzky, et al. Nucleic Acids Res. 2022 Jun 10;50(10):5545-5564.
+year: '2022'
+
+doi: 10.1093/nar/gkac360
+journal_title: Nucleic Acids Research
+journal_nlm_ta: Nucleic Acids Res
+publisher_name: Oxford University Press
+
+keywords:
+---

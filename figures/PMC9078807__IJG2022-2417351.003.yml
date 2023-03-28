@@ -1,0 +1,33 @@
+---
+figid: PMC9078807__IJG2022-2417351.003
+pmcid: PMC9078807
+image_filename: IJG2022-2417351.003.jpg
+figure_link: /pmc/articles/PMC9078807/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: By integrating the gene expression profiles of NB patients with the IRRGs
+  downloaded from the Molecular Signatures database, a profile with 193 IRRG expressions
+  from NB patients both in GEO dataset and TARGET dataset was obtained. Then, by comparing
+  the 193 IRRGs between 183 INSS stage 4 and 53 INSS stage 4S NB patients in the GSE49710
+  cohort, we extracted 58 DEIRRGs, which were visualized in the volcano plot and heat
+  map (Figures  and ). In the GO functional analyses, the results indicated that DEIRRGs
+  were mainly involved in inflammatory response, vasculature development, leukocyte
+  differentiation, cell chemotaxis, chemokine production, and positive regulation
+  of chemokine-mediated signaling pathway (). KEGG analysis suggested that DEIRRGs
+  were mainly associated with cytokine-cytokine receptor interaction, TNF signaling
+  pathway, NOD-like receptor signaling pathway, pathways in cancer, and TGF-beta signaling
+  pathway (). Generally, the enrichment analyses showed that DEIRRGs not only play
+  an important role in the inflammatory response but are also associated with tumorigenesis
+  and tumor immune microenvironment.
+article_title: Identification and Validation of Inflammatory Response-Related Gene
+  Signatures to Predict the Prognosis of Neuroblastoma.
+citation: Jiye Song, et al. Int J Genomics. 2022;2022:2417351.
+year: '2022'
+
+doi: 10.1155/2022/2417351
+journal_title: International Journal of Genomics
+journal_nlm_ta: Int J Genomics
+publisher_name: Hindawi
+
+keywords:
+---

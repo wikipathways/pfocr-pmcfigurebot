@@ -1,0 +1,42 @@
+---
+figid: PMC9061815__41422_2022_635_Fig4_HTML
+pmcid: PMC9061815
+image_filename: 41422_2022_635_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9061815/figure/Fig4/
+number: Fig. 4
+figure_title: Characterization of LGE development and possible migrating cells
+caption: a UMAP clusters of cells in LGE. Clusters of LGE from integrated data were
+  selected and LHX8- or SST-expressing cells were trimmed (left). Remaining cells
+  were marked in UMAP plot (bottom right) and re-clustered (middle). Trajectory was
+  reconstructed and depicted in dash lines based on gene expression pattern and pseudotime
+  analysis. b Landscapes of marker genes in various LGE-derived lineages. Background
+  colors of genes were consistent with colors of cell lineage groups in a. Dash line
+  of gene name frames represents destiny of corresponding cells to vLGE. c. Volcano
+  plots of DEGs that are expressed at high levels in olfactory lineage (right, Olfactory
+  lineage in a) or striatal lineages (left, three other striatal lineages in a). False
+  discovery rates were adjusted by BH method to generate “P. adjust”. d GO enrichment
+  of significant DEGs revealed in c in different lineages. False discovery rates were
+  analyzed as in c. e Gene profiles of LGE LHX8+ linages. Similar exclusive expression
+  pattern could be found between LHX8-EBF1 gene pair and NRP1-SEMA3A gene pair (top).
+  Mixed expression feature of LGE LHX8+ lineage, cell type specific genes were also
+  detected (bottom). f SEMA3A signaling pathway prediction provided by CellChat, based
+  on human cells from integrated data. Colored bars represented the cell types defined
+  in Fig. 1a. g PEG10 as a potential migration regulator. Expression level of PEG10
+  (left) and schematic model of one activation pathway of PEG10 by MIR7-3HG (right).
+  h Pseudotime trajectory and schematic overview of hypothetic differentiation program.
+  Markers of matched cell types were labeled nearby.
+article_title: Evolutionarily conservative and non-conservative regulatory networks
+  during primate interneuron development revealed by single-cell RNA and ATAC sequencing.
+citation: Ziqi Zhao, et al. Cell Res. 2022 May;32(5):425-436.
+year: '2022'
+
+doi: 10.1038/s41422-022-00635-9
+journal_title: Cell Research
+journal_nlm_ta: Cell Res
+publisher_name: Springer Nature Singapore
+
+keywords:
+- Transdifferentiation
+- Genome-wide association studies
+
+---

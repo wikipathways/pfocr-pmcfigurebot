@@ -1,0 +1,52 @@
+---
+figid: PMC9163427__gr2
+pmcid: PMC9163427
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC9163427/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: Defective mRNA translation and altered gene expression after EFNB2 silencing(A)
+  Experimental design. Linear sucrose gradient profile of polysomes isolated from
+  clone 596-7 with or without Dox treatment. The positions of the small (S) and large
+  (L) ribosomal subunits, monosomes, and polysomes are indicated; one of two experiments.
+  (B) Time-dependent activation of phospho (p)-eIF2α (S51) in clone 596-7 treated
+  with Dox; representative immunoblot of three experiments. (C) Magnitude (fold change)
+  and statistical significance of changes in RNA expression induced by Dox in clone
+  596-7 over 24 h compared with uninduced 596-7 cells. RNA expression by total RNA-seq.
+  Each dot in the volcano plot represents an annotated RNA; significantly induced
+  RNAs are shown as red dots and significantly repressed RNAs are shown as blue dots.
+  Some RNAs are identified as gene products. Vertical and horizontal dotted lines
+  reflect cutoffs for the parameters fold change and significance. (D) Genes expressed
+  at significantly different levels (p < 0.005) in control and Dox-treated 596-7 cells
+  (n = 4/group) displayed by row-wide Z score (color bar) ordered alphabetically.
+  The gene categories are inclusive of pathways “endoplasmic reticulum stress,” “unfolded
+  protein response,” “role of PKR in interferon induction,” and “pattern recognition
+  receptors” (Ingenuity Pathway Analysis). (E) Differentially expressed (p < 0.005)
+  “cell death and survival” genes (Ingenuity Pathway Analysis) in control and Dox-treated
+  596-7 cells (n = 4/group) displayed by row-wide Z score (color bar) ordered alphabetically.
+  (F) Time-dependent PKR phosphorylation (T446) and eIF2α phosphorylation (S51) in
+  596-7 cells treated with Dox; PERK (T980) and GCN2 (T899) are not phosphorylated.
+  Representative immunoblotting from three experiments. See also .
+article_title: Antisense transcription from lentiviral gene targeting linked to an
+  integrated stress response in colorectal cancer cells.
+citation: Taekyu Ha, et al. Mol Ther Nucleic Acids. 2022 Jun 14;28:877-891.
+year: '2022'
+
+doi: 10.1016/j.omtn.2022.05.029
+journal_title: Molecular Therapy. Nucleic Acids
+journal_nlm_ta: Mol Ther Nucleic Acids
+publisher_name: American Society of Gene & Cell Therapy
+
+keywords:
+- 'MT: Oligonucleotides'
+- Therapies and Applications
+- gene therapy
+- shRNA
+- integrated stress response
+- antisense reads
+- lentiviral vector
+- vector integration
+- ephrinB2
+- colorectal cancer
+
+---

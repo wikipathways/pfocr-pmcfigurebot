@@ -1,0 +1,41 @@
+---
+figid: PMC9067411__gr1
+pmcid: PMC9067411
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC9067411/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: Senescence Associated Secretory Phenotype Is Associated With COVID-19 Severity
+  and Cardiac Involvement(A) Unsupervised clustering of the 80 patient plasma samples
+  based on principle component 1 (PC1). (B) Venn diagram displaying overlapping pathways
+  associated with increasing COVID-19 disease severity in the discovery and validation
+  cohorts. In the discovery cohort, enrichment analysis was done with PC1 proteins
+  (). In the validation cohort, pathway analysis was performed using Day 0 proteomic
+  profiles regressed on maximum World Health Organization disease severity per patient
+  (). (C) Heat maps displaying differential expression of the 50 most significantly
+  regulated genes in the SASP-1 or -2 gene sets in lungs from hamsters infected with
+  SARS-CoV-2 vs naive control subjects. Tissue samples were collected 4 days after
+  infection. n = 3/group. SASP = senescence associated secretory phenotype.
+article_title: Plasma Proteomics of COVID-19–Associated Cardiovascular Complications.
+citation: Jason D. Roh, et al. JACC Basic Transl Sci. 2022 May;7(5):425-441.
+year: '2022'
+
+doi: 10.1016/j.jacbts.2022.01.013
+journal_title: 'JACC: Basic to Translational Science'
+journal_nlm_ta: JACC Basic Transl Sci
+publisher_name: Elsevier
+
+keywords:
+- COVID-19
+- myocardial injury
+- proteomics
+- senescence
+- ADAMTS13, A Disintegrin And Metalloproteinase with a Thrombospondin type 1 motif,
+  member 13
+- FSTL3, follistatin-like 3
+- hsTnT, high sensitivity troponin T
+- NT-proBNP, N-terminal pro–B-type natriuretic peptide
+- SASP, senescence associated secretory phenotype
+- TGFβ, transforming growth factor beta
+
+---

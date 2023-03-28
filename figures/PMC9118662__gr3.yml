@@ -1,0 +1,34 @@
+---
+figid: PMC9118662__gr3
+pmcid: PMC9118662
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9118662/figure/fig0003/
+number: Figure 3
+figure_title: ''
+caption: Clustering of pathways associated with RA. Comparing the methylation profile
+  of n=301 patients and n=305 healthy individuals, a total of 246 biological processes
+  were found to be associated with RA using gometh. In this heatmap, the associated
+  GO terms (rows and columns) are clustered according to their similarity based on
+  Lin's measure [38]. The terms are then hierarchically clustered using complete linkage,
+  and the tree is cut at the desired threshold (here 0.7). For each resulting cluster,
+  the biological process showing the most significant association with RA was chosen
+  as the representative biological function (right legend). A total of n=20 pathway
+  clusters were identified associated with RA.
+article_title: Longitudinal analysis of blood DNA methylation identifies mechanisms
+  of response to tumor necrosis factor inhibitor therapy in rheumatoid arthritis.
+citation: Antonio Julià, et al. eBioMedicine. 2022 Jun;80:104053.
+year: '2022'
+
+doi: 10.1016/j.ebiom.2022.104053
+journal_title: eBioMedicine
+journal_nlm_ta: eBioMedicine
+publisher_name: Elsevier
+
+keywords:
+- Rheumatoid arthritis
+- TNF inhibitors
+- Treatment response
+- Epigenetics
+- DNA methylation
+
+---

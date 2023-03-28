@@ -1,0 +1,36 @@
+---
+figid: PMC9138800__biology-11-00761-g007
+pmcid: PMC9138800
+image_filename: biology-11-00761-g007.jpg
+figure_link: /pmc/articles/PMC9138800/figure/biology-11-00761-f007/
+number: Figure 7
+figure_title: ''
+caption: 'FPKM distribution of the twenty most enriched KEGG pathways. The x-axis
+  is the enriched pathway, the y-axis is the FPKM value expressed as log10(FPKM+1)
+  (FPKM > 0.3). Red dots represent the ”outlier” clusters. 1: glycolysis; 2: oxidative
+  phosphorylation; 3: purine metabolism; 4: pyrimidine metabolism; 5: glyoxylate and
+  dicarboxylate metabolism; 6: aminoacyl-tRNA biosynthesis; 7: carbon metabolism;
+  8: 2-oxocarboxylic acid metabolism; 9: fatty acid metabolism; 10: degradation of
+  aromatic compounds; 11: biosynthesis of amino acids; 12: ribosome; 13: RNA transport;
+  14: spliceosome; 15: proteasome; 16: protein export; 17: ras signaling pathway;
+  18: ubiquitin mediated proteolysis; 19: protein processing in endoplasmic reticulum;
+  20: plant-pathogen interaction.'
+article_title: Transcriptome Analysis of Plenodomus tracheiphilus Infecting Rough
+  Lemon (Citrus jambhiri Lush.) Indicates a Multifaceted Strategy during Host Pathogenesis.
+citation: Angelo Sicilia, et al. Biology (Basel). 2022 May;11(5):761.
+year: '2022'
+
+doi: 10.3390/biology11050761
+journal_title: Biology
+journal_nlm_ta: Biology (Basel)
+publisher_name: MDPI
+
+keywords:
+- Plenodomus tracheiphilus
+- transcriptome
+- mal secco disease
+- fungus RNAseq
+- Citrus jambhiri
+- rough lemon
+
+---

@@ -1,0 +1,40 @@
+---
+figid: PMC9137574__antibiotics-11-00585-g001
+pmcid: PMC9137574
+image_filename: antibiotics-11-00585-g001.jpg
+figure_link: /pmc/articles/PMC9137574/figure/antibiotics-11-00585-f001/
+number: Figure 1
+figure_title: ''
+caption: 'The impact of streptozotocin and ciprofloxacin treatment on microbiome composition.
+  (A) Experimental design used in this study. Figure made with BioRender.com. (B)
+  Weighted UniFrac Distance between 16S rRNA amplicons. (C) Relative abundance of
+  detected phyla in 16S rRNA amplicons. Data represent mean ± SEM. (D) Differentially
+  abundant bacterial genera following ciprofloxacin treatment in STZ-treated and normoglycemic
+  mice versus vehicle controls alongside their interaction value. Data represent log2
+  fold change. (E) Differentially abundant bacterial genera between STZ-treated and
+  control mice after ciprofloxacin administration. Data represent log2 fold change
+  ± SEM. (F) Linear discriminant analysis of MetaCyc pathway abundance as predicted
+  using PICRUSt. Data represent STZ-treated versus control mice after ciprofloxacin
+  treatment. For all panels, n = 8–12 per group for (B): permutational ANOVA (* p
+  < 0.05; *** p < 0.001). For (D,E): differentially abundant = Benjamini–Hochberg
+  adjusted p value < 0.05.'
+article_title: Streptozotocin-Induced Hyperglycemia Is Associated with Unique Microbiome
+  Metabolomic Signatures in Response to Ciprofloxacin Treatment.
+citation: Jenna I. Wurster, et al. Antibiotics (Basel). 2022 May;11(5):585.
+year: '2022'
+
+doi: 10.3390/antibiotics11050585
+journal_title: Antibiotics
+journal_nlm_ta: Antibiotics (Basel)
+publisher_name: MDPI
+
+keywords:
+- microbiome
+- antibiotics
+- metabolism
+- metabolomics
+- streptozotocin
+- hyperglycemia
+- ciprofloxacin
+
+---

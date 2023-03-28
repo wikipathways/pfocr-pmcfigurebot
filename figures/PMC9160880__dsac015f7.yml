@@ -1,0 +1,44 @@
+---
+figid: PMC9160880__dsac015f7
+pmcid: PMC9160880
+image_filename: dsac015f7.jpg
+figure_link: /pmc/articles/PMC9160880/figure/dsac015-F7/
+number: Figure 7
+figure_title: ''
+caption: Metabolic flux distributions in the CMP in exponentially growing cells cultured
+  in the minimal medium containing 10 g l−1 glucose in MGB874 and its PabrB(ΔSA)-introduced
+  derivative (OA191). (A) Relative values of the absolute flux values (mmol g−1 DCW
+  h−1) of OA191 compared with those of MGB874 are shown beside the flux of the pathway
+  indicated by the arrow. Asterisks indicate significant differences because the 95%
+  CI does not overlap between the strains. Relative value of malic enzyme (ME) is
+  shown as ‘n.d.’ because both flux values are zero. The enzymes catalyzing each reaction
+  in the pathways were assigned according to the SubtiWiki database, and the fold
+  change (without log2 transformation) in the transcription levels of the genes in
+  OA191 compared with those in MGB874 are shown in enclosed boxes. DE genes, as judged
+  by a volcano plot in (C), are marked with a dagger (†). (B) Absolute flux values
+  (mmol g−1 DCW h−1) in the CMP of MGB874 compared with those of the PabrB(ΔSA) strain
+  using scatter plots. (C) Volcano plot analysis of the gene expression levels between
+  MGB874 and OA191. Dots for genes involved in glycolysis, PPP, TCA cycle, gluconeogenesis,
+  and overflow metabolism in the CMP are separately colored as indicated in the inset.
+  Genes with log2-fold change ≥ 1 (upregulated) or ≤ 1 (downregulated) and P < 0.05
+  were considered to be DE.
+article_title: Constitutive expression of the global regulator AbrB restores the growth
+  defect of a genome-reduced Bacillus subtilis strain and improves its metabolite
+  production.
+citation: Junya Yamamoto, et al. DNA Res. 2022 Jun;29(3):dsac015.
+year: '2022'
+
+doi: 10.1093/dnares/dsac015
+journal_title: 'DNA Research: An International Journal for Rapid Publication of Reports
+  on Genes and Genomes'
+journal_nlm_ta: DNA Res
+publisher_name: Oxford University Press
+
+keywords:
+- silencing
+- AbrB
+- global regulator
+- genome reduction
+- Bacillus subtilis
+
+---

@@ -1,0 +1,36 @@
+---
+figid: PMC9132450__sciadv.abl9806-f1
+pmcid: PMC9132450
+image_filename: sciadv.abl9806-f1.jpg
+figure_link: /pmc/articles/PMC9132450/figure/F1/
+number: Fig. 1
+figure_title: SEMA3 induces YAP/TAZ phosphorylation and inactivation
+caption: (A) Sema3A activates the Hippo pathway. U87-MG cells were treated with human
+  recombinant SEMA3A protein (rSEMA3A) or conditioned medium of cells expressing SEMA3A
+  (cm-S3A). Phosphorylation of YAP and LATS was determined by phos-tag and phospho-specific
+  antibodies, respectively. Slow migration on phos-tag gels indicates that proteins
+  were hyperphosphorylated. 0.5× and 1.0× indicate that the conditioned medium was
+  diluted twofold or undiluted, respectively. HM, hydrophobic motif; GAPDH, glyceraldehyde-3-phosphate
+  dehydrogenase. (B) Quantitative real-time polymerase chain reaction (PCR) shows
+  that SEMA3A inhibits expression of YAP/TAZ target genes (CYR61, CTGF, and ANKRD1)
+  in U87-MG and HEK293A cells. (C) SEMA3A regulates Hippo signature genes. A volcano
+  plot of the RNA-seq results showing that rSEMA3A protein decreased expression of
+  YAP/TAZ signature genes in U87-MG cells. In total, 1890 genes were down-regulated,
+  and 1394 genes were up-regulated. (D) Plexins are required for Hippo regulation
+  by SEMA3A. Wild-type (WT) and PLXNA1/2/3 tKO HEK293A cells were treated with SEMA3A.
+  Phosphorylation of YAP and LATS was determined as in (A). (E) SEMA3A induces YAP/TAZ
+  cytoplasmic localization in a PLXNA-dependent manner. Immunofluorescence was performed
+  to stain cells with YAP/TAZ antibody (red), 4′,6-diamidino-2-phenylindole (DAPI)
+  (blue), and phalloidin (green for actin). Scale bars, 25 μm. (F) Deletion of NRP1/2
+  in HEK293A cells compromised SEMA3A-induced phosphorylation of YAP and LATS.
+article_title: The Hippo pathway mediates Semaphorin signaling.
+citation: Zhipeng Meng, et al. Sci Adv. 2022 May;8(21):eabl9806.
+year: '2022'
+
+doi: 10.1126/sciadv.abl9806
+journal_title: Science Advances
+journal_nlm_ta: Sci Adv
+publisher_name: American Association for the Advancement of Science
+
+keywords:
+---

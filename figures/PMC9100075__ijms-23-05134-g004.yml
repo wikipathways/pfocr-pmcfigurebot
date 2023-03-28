@@ -1,0 +1,42 @@
+---
+figid: PMC9100075__ijms-23-05134-g004
+pmcid: PMC9100075
+image_filename: ijms-23-05134-g004.jpg
+figure_link: /pmc/articles/PMC9100075/figure/ijms-23-05134-f004/
+number: Figure 4
+figure_title: ''
+caption: Profiling of intracellular signaling and the selection of hub proteins in
+  HeLa cells treated with H-CM or N-CM. Intracellular proteins up- (red) and down-regulated
+  (blue) (>2-fold) [] in HeLa cells treated with H-CM compared with N-CM, as identified
+  by a protein antibody array analysis (A). Biological process terms from the GO analysis
+  of proteins down-regulated in HeLa cells treated with H-CM compared with N-CM (B).
+  The KEGG pathway analysis [] of proteins down-regulated in HeLa cells treated with
+  H-CM compared with N-CM (C). PPI network [,] of intracellular proteins up- and down-regulated
+  in HeLa cells treated with H-CM compared with N-CM (D). The biological process terms
+  from the GO analysis of hub proteins down-regulated in HeLa cells treated with H-CM
+  compared with N-CM (E). The KEGG pathway [] analysis of hub proteins down-regulated
+  in HeLa cells treated with H-CM compared with N-CM (F). The data for the GO and
+  KEGG pathway results [] are represented as the −log10 (p-value) (p < 0.01). Red,
+  up-regulated proteins; blue, down-regulated proteins; PPI, protein–protein interaction;
+  N-CM, conditioned medium from normoxic HDFs; H-CM, conditioned medium from hypoxic
+  HDFs. Image in (A) was produced using MeV v 4.9.0 (J.Craig Venter Institute). Images
+  in (B,C,E,F) were produced using GraphPad Prism version 7.00 (GraphPad Software).
+  Image in (D) was produced using Cytoscape-STRING v 1.5.0 (NIGMS, Bethesda, MA, USA).
+article_title: Enhanced Anti-Cancer Effects of Conditioned Medium from Hypoxic Human
+  Adult Dermal Fibroblasts on Cervical Cancer Cells.
+citation: Kyu-Hyun Han, et al. Int J Mol Sci. 2022 May;23(9):5134.
+year: '2022'
+
+doi: 10.3390/ijms23095134
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- anti-cancer
+- cervical cancer cells
+- conditioned medium
+- fibroblasts
+- hypoxic
+
+---

@@ -1,0 +1,37 @@
+---
+figid: PMC9138653__biomedicines-10-01110-g004
+pmcid: PMC9138653
+image_filename: biomedicines-10-01110-g004.jpg
+figure_link: /pmc/articles/PMC9138653/figure/biomedicines-10-01110-f004/
+number: Figure 4
+figure_title: ''
+caption: Ingenuity pathway analysis of the 676 host cell genes significantly correlated
+  (FDR < 0.1) with changes in the Shannon diversity index in patients with chronic
+  obstructive pulmonary disease treated with salmeterol/fluticasone. (a) Top 50 canonical
+  pathways of genes significantly correlated to changes in the Shannon diversity index.
+  (b) Enriched biological functions, cellular processes and diseases. The number in
+  the parentheses represents genes from our 676 gene dataset that overlap with genes
+  that appear in the enriched biological function, cellular process or disease.
+article_title: Inhaled Corticosteroids Selectively Alter the Microbiome and Host Transcriptome
+  in the Small Airways of Patients with Chronic Obstructive Pulmonary Disease.
+citation: William Yip, et al. Biomedicines. 2022 May;10(5):1110.
+year: '2022'
+
+doi: 10.3390/biomedicines10051110
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: MDPI
+
+keywords:
+- COPD
+- inhaled corticosteroids
+- 16S rRNA gene sequencing
+- mRNA-sequencing
+- transcriptomics
+- bronchoscopy
+- fluticasone
+- budesonide
+- microbiome
+- inflammation
+
+---

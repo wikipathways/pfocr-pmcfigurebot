@@ -1,0 +1,35 @@
+---
+figid: PMC9145607__viruses-14-00911-g003
+pmcid: PMC9145607
+image_filename: viruses-14-00911-g003.jpg
+figure_link: /pmc/articles/PMC9145607/figure/viruses-14-00911-f003/
+number: Figure 3
+figure_title: ''
+caption: GO and KEGG pathway enrichment analysis of the total DEGs in chicken embryonic
+  visceral tissues infected with viruses. (A,B) GO enrichment analysis of total DEGs
+  identified in the groups between NA−1 and LaSota at 24 hpi (A) and 36 hpi (B). The
+  top ten DEGs, according to mean difference (absolute log2FC (fold change)), are
+  presented and sorted by decreasing mean value (p < 0.05). (C,D) KEGG pathway enrichment
+  analysis of total DEGs identified in the groups between NA-1 and LaSota at 24 hpi
+  (C) and 36 hpi (D). The dot size indicates the number of DEGs. The redder the color,
+  the smaller the p-value (p < 0.05).
+article_title: 'Intense Innate Immune Responses and Severe Metabolic Disorders in
+  Chicken Embryonic Visceral Tissues Caused by Infection with Highly Virulent Newcastle
+  Disease Virus Compared to the Avirulent Virus: A Bioinformatics Analysis.'
+citation: Shanyu Cheng, et al. Viruses. 2022 May;14(5):911.
+year: '2022'
+
+doi: 10.3390/v14050911
+journal_title: Viruses
+journal_nlm_ta: Viruses
+publisher_name: MDPI
+
+keywords:
+- Newcastle disease virus
+- chicken embryo
+- RNA-seq
+- virulence
+- host innate immune response
+- metabolism
+
+---

@@ -1,0 +1,34 @@
+---
+figid: PMC9100975__ijms-23-04537-g003
+pmcid: PMC9100975
+image_filename: ijms-23-04537-g003.jpg
+figure_link: /pmc/articles/PMC9100975/figure/ijms-23-04537-f003/
+number: Figure 3
+figure_title: ''
+caption: 'Statistics of KEGG pathway enrichment of miRNA target genes in the phloem
+  and developing xylem of P. deltoides. The y-axis presents the KEGG pathway terms,
+  and the x-axis presents the rich factors of the KEGG pathway terms. The calculation
+  steps were as follows: the rich factor of certain KEGG pathways is equal to the
+  number of genes in that pathway among miRNA target genes divided by the number of
+  genes in the P. deltoides genome annotated in the pathway. The sizes and colours
+  of the dots represent gene counts and p values, respectively. Larger dots indicate
+  a greater number of genes, and deeper red coloration indicates a more significant
+  p value.'
+article_title: Integrated Degradome and Srna Sequencing Revealed miRNA-mRNA Regulatory
+  Networks between the Phloem and Developing Xylem of Poplar.
+citation: Changjun Ding, et al. Int J Mol Sci. 2022 May;23(9):4537.
+year: '2022'
+
+doi: 10.3390/ijms23094537
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- secondary xylem
+- phloem
+- small RNAs
+- degradome
+- Populus deltoides
+
+---

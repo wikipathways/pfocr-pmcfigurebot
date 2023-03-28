@@ -1,0 +1,45 @@
+---
+figid: PMC9121483__jitc-2021-004244f01
+pmcid: PMC9121483
+image_filename: jitc-2021-004244f01.jpg
+figure_link: /pmc/articles/PMC9121483/figure/F1/
+number: Figure 1
+figure_title: ''
+caption: 'Deletion of Cish gene does not impact NK cell maturation but reveals upregulation
+  of pathways in cell cycling and activation. (A, B) BM and/or splenic NK cells from
+  Cish +/+Ncr1Ki/+ and Cish fl/flNcr1Ki/+ mice were phenotypically analyzed by FACS.
+  (A) Frequency of NK cells in spleen and bone marrow (CD3-, CD19-, NK1.1+, NKp46+),
+  representative FACS plots and histograms are shown. (B) Frequency of Imm, M1 and
+  M2 cells were measured within NK cell populations from the spleen, representative
+  FACS plots and histograms are shown. (C, F) Gene expression profiles of FACS sorted
+  NK cells (NK1.1+, NKp46+, CD3-) were generated using RNA-sequencing. (C) A volcano
+  plot of the top 60 significant (p<0.05) differentially expressed genes with a fold
+  change above +1 or below −1 was generated. The y-axis is the negative log-p value
+  and x-axis is the log-fold-change of the corresponding gene in Cish-/- vs Cish+/+
+  comparison. Gene expression: blue=downregulated, red=upregulated. (D) Heatmap showing
+  results of gene ontology analysis for genes in Cish-/- vs Cish+/+ comparison (From
+  KEGG pathway analysis in black or GOBP in red), log-p value are indicated in blue
+  color gradient and gene count in black color gradient. An upregulated list of genes
+  associated with cell cycle (E) and natural cytotoxicity receptor pathways (F) (from
+  KEGG pathway analysis) was generated with a p value cut-off of <0.05. x-axis is
+  the log(FC) of each gene and p values are indicated by color. BM, bone marrow; GOPB,
+  gene ontology biological process; KEGG, Kyoto Encyclopedia of Genes and Genomes;
+  NCR, natural cytotoxicity receptor; NK, natural killer.'
+article_title: Targeting CISH enhances natural cytotoxicity receptor signaling and
+  reduces NK cell exhaustion to improve solid tumor immunity.
+citation: Pierre-Louis Bernard, et al. J Immunother Cancer. 2022;10(5):e004244.
+year: '2022'
+
+doi: 10.1136/jitc-2021-004244
+journal_title: Journal for Immunotherapy of Cancer
+journal_nlm_ta: J Immunother Cancer
+publisher_name: BMJ Publishing Group
+
+keywords:
+- natural killer T-cells
+- lymphocyte activation
+- immunotherapy
+- cell engineering
+- lymphocytes, tumor-infiltrating
+
+---

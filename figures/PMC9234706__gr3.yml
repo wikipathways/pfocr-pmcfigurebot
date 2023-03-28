@@ -1,0 +1,61 @@
+---
+figid: PMC9234706__gr3
+pmcid: PMC9234706
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9234706/figure/fig3/
+number: Fig. 3
+figure_title: ''
+caption: Proteomic analysis identifies changes to sugar metabolism upon hpm1 knockout.A,
+  label-swap replicates prepared by 2nSILAC (arginine +10, lysine +8) were used to
+  compare the steady-state proteome of log-phase WT and Δhpm1. The tryptic digests
+  were fractionated by SCX and then subjected to high-resolution HCD MS/MS analysis
+  on a Fusion Lumos. B, results of the differential proteome abundance analysis. Labeled
+  proteins have an adjusted p value ≤0.05 and log2 fold change ≥1 or ≤−1. C, statistically
+  significant child terms resulting from a Panther Biological Process GO term overrepresentation
+  analysis using 24 proteins as input (adjusted p≤ 0.1), with all quantified proteins
+  used as background. Changing GO terms are annotated, and the asterisk ∗ represents
+  enrichment fold changes >100. D, proteins involved in the trehalose biosynthetic
+  pathway, with protein log2 changes overlaid by color. 2nSILAC, isotopic labeling
+  of lysine and arginine in prototrophic yeast; GO, Gene Ontology; HCD, higher-energy
+  collision dissociation; SCX, strong cation exchange.
+article_title: Differential Proteome and Interactome Analysis Reveal the Basis of
+  Pleiotropy Associated With the Histidine Methyltransferase Hpm1p.
+citation: Tara K. Bartolec, et al. Mol Cell Proteomics. 2022 Jul;21(7):100249.
+year: '2022'
+
+doi: 10.1016/j.mcpro.2022.100249
+journal_title: 'Molecular & Cellular Proteomics : MCP'
+journal_nlm_ta: Mol Cell Proteomics
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- histidine methylation
+- Saccharomyces cerevisiae
+- ribosome
+- interactomics
+- crosslinking mass spectrometry
+- protein-protein interaction
+- BDP–NHP, biotin–aspartate proline–N-hydroxyphthalimide
+- BL, Boca and Leek’s FDR regression method
+- CSM, cross-link spectral match
+- FDR, false discovery rate
+- GO, Gene Ontology
+- H243, histidine 243
+- H243Me, methylation of H243
+- HCD, higher-energy collision dissociation
+- Hpm1p, histidine protein methyltransferase 1
+- IAA, iodoacetamide
+- MS, mass spectrometry
+- NCE, normalized collision energy
+- PDB, Protein Data Bank
+- PIR, protein interaction reporter
+- PPI, protein–protein interaction
+- PTM, post-translational modification
+- RT, room temperature
+- SC, synthetic complete
+- SCX, strong cation exchange
+- SILAC, stable isotope labeling of amino acids in cell culture
+- UNSW, University of New South Wales
+- URP, unique residue pair
+
+---

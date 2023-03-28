@@ -1,0 +1,47 @@
+---
+figid: PMC9406236__nihms-1829733-f0007
+pmcid: PMC9406236
+image_filename: nihms-1829733-f0007.jpg
+figure_link: /pmc/articles/PMC9406236/figure/F7/
+number: Extended Data Fig. 1 ∣
+figure_title: Quantifying immunosuppression of T cells in single-cell data
+caption: a, Correlations between immunosuppressive signaling and T cell proliferation
+  or cytotoxicity, shown with the violin plot smoothed by a kernel density estimator
+  (n = 168 per group). Each dot represents a tumor. The p-value was from the two-sided
+  Wilcoxon rank-sum test. b, Association between TGF-β1 signaling and SMAD transcription
+  factor (TF) activities, an example from a melanoma tumor. Each dot presents a CD8
+  + T cell. The Y-axis presents the TGF-β1 activities. The X-axis presents the SMAD
+  TF activities. The p-value was from the two-sided Wilcoxon rank-sum test, comparing
+  TGF-β1 activities between T cells with positive and negative SMAD activities. c,
+  Receiver operating characteristic (ROC) curve for the quality of signaling activities.
+  At different thresholds, the ROC curve presents false-positive rates against true-positive
+  rates of predicting SMAD or REL activities through TGF-β1 or TRAIL signaling activities,
+  respectively. The diagonal line represents random expectation. d, Quality of signaling
+  activities across single-cell cohorts. Each dot presents a single-cell cohort. The
+  area under the ROC curve (AUC) measures the quality of TGF-β1 or TRAIL signaling,
+  shown with violin plots smoothed by a density kernel estimator. P-values were from
+  the two-sided Wilcoxon signed-rank test, comparing group values with 0.5 (random
+  expectation). e, Correlation between PGE2 signaling and cAMP pathway activities,
+  an example of a melanoma tumor. Each dot represents a CD8 + T cell. The X-axis shows
+  the PGE2 signaling activity. The Y-axis shows the cAMP geneset value. f, Correlations
+  between PGE2 signaling and cAMP activities. Each dot represents a tumor. The correlations
+  were shown through box plots. The thick line represents the median value. The bottom
+  and top of the boxes are the 25th and 75th percentiles (interquartile range). Whiskers
+  encompass 1.5 times the interquartile range. The p-value was from the two-sided
+  Wilcoxon signed-rank test, comparing group medians and zero. g, Gene expression
+  of immunosuppressive signals. Each dot represents a patient. Y-axis presents the
+  average gene expression across all cells for each lineage (X-axis). All lineages
+  were ranked by the median expression and only the top ten profiles were shown in
+  box plots as panel f.
+article_title: A T cell resilience model associated with response to immunotherapy
+  in multiple tumor types.
+citation: Yu Zhang, et al. Nat Med. ;28(7):1421-1431.
+year: '2022'
+
+doi: 10.1038/s41591-022-01799-y
+journal_title: Nature medicine
+journal_nlm_ta: Nat Med
+publisher_name: ''
+
+keywords:
+---

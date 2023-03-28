@@ -1,0 +1,38 @@
+---
+figid: PMC9146050__viruses-14-01070-g005
+pmcid: PMC9146050
+image_filename: viruses-14-01070-g005.jpg
+figure_link: /pmc/articles/PMC9146050/figure/viruses-14-01070-f005/
+number: Figure 5
+figure_title: ''
+caption: HBV transcripts and inflammation. (A) Heatmap and Venn diagram depicting
+  the q-value and inflammatory gene transcripts that positively associate with pC/pg,
+  RR, or preS1/S2 RNAs from CHB biopsies and their overlap. Probabilities were estimated
+  using Spearman’s rank correlation coefficient with p-values corrected for a 5% false
+  discovery rate (FDR) using the two stage Benjamini–Krieger–Yekutieli method. (B)
+  Principal component analysis of the 24 genes associated with pC/pg RNA and RR identified
+  in (A) stratifies patients according to their EASL disease staging (ENCI- grey and
+  ENCH- blue). Average expression of the 24 gene signature in biopsies from patients
+  diagnosed as ENCI or ENCH (Wilcoxon signed-rank test, **** p < 0.0001). (C) Pathway
+  analysis of enriched GO biological processes were determined using PantherDB and
+  redundancy accounted for using REVIGO. 21 pathways were identified where at least
+  half of our gene set was represented. (D) Cell-type-specific expression of the 24
+  inflammatory genes in the human liver single cell atlas [], where data is presented
+  as the mean of the log2-transformed values.
+article_title: Inflammatory Gene Expression Associates with Hepatitis B Virus cccDNA-
+  but Not Integrant-Derived Transcripts in HBeAg Negative Disease.
+citation: Andrea Magri, et al. Viruses. 2022 May;14(5):1070.
+year: '2022'
+
+doi: 10.3390/v14051070
+journal_title: Viruses
+journal_nlm_ta: Viruses
+publisher_name: MDPI
+
+keywords:
+- hepatitis B virus
+- cccDNA
+- transcription
+- inflammation
+
+---

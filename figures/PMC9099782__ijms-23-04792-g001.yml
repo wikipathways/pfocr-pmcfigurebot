@@ -1,0 +1,37 @@
+---
+figid: PMC9099782__ijms-23-04792-g001
+pmcid: PMC9099782
+image_filename: ijms-23-04792-g001.jpg
+figure_link: /pmc/articles/PMC9099782/figure/ijms-23-04792-f001/
+number: Figure 1
+figure_title: ''
+caption: 'A flowchart identifying pancreatic cancer subtypes. For a group of normal
+  samples, a reference background network can be constructed by the correlations between
+  genes based on expression data of this group of samples. A new cancer sample S6
+  is added to the group, and the perturbed network with this additional sample is
+  built in the same way. The difference between the background and perturbed networks
+  is due to sample S6. Edge perturbations for each individual sample are calculated
+  by perturbed network and background network. Then, the pancreatic cancer samples
+  are clustered by using a partition edge-perturbation matrix to reveal new network-based
+  subtypes. The identified subtypes are characterized from different aspects, including
+  prognosis, phenotypic traits, genetic mutations, immune cell infiltration, and therapeutic
+  efficacy. We further performed pathway enrichment analysis for subtype-3 using all
+  genes involved in the subtype-specific network. Abbreviations: S, sample; G, gene;
+  E, edge.'
+article_title: Sample-Specific Perturbation of Gene Interactions Identifies Pancreatic
+  Cancer Subtypes.
+citation: Ran Wei, et al. Int J Mol Sci. 2022 May;23(9):4792.
+year: '2022'
+
+doi: 10.3390/ijms23094792
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- pancreatic adenocarcinoma
+- gene interactions
+- prognosis
+- network-based subtypes
+
+---

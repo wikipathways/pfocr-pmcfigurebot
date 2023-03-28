@@ -1,0 +1,39 @@
+---
+figid: PMC9144897__metabolites-12-00392-g004
+pmcid: PMC9144897
+image_filename: metabolites-12-00392-g004.jpg
+figure_link: /pmc/articles/PMC9144897/figure/metabolites-12-00392-f004/
+number: Figure 4
+figure_title: ''
+caption: 'Metabolic alterations in ALA-treated tea tissue under cold stress. (A) PCA
+  score plots for principal components 1 and 2 show high cohesion within groups and
+  good separation among TALA-4h and CK groups. The sampling groups are color-coded
+  as follows: green = TALA-4h; blue = CK; red = QC. (B) Heatmap visualization of relative
+  levels of differential metabolites in the TALA-4h vs. CK comparison. The normalized
+  value of peak areas of metabolites was used to represent the relative metabolite
+  content and complete linkage hierarchical clustering. Each sample is visualized
+  in a single column and each metabolite is represented by a single row. The up- and
+  downregulated metabolites are shown in red and blue, respectively. (C) Enrichment
+  of the differential metabolites from the TALA-4h vs. CK comparison with respect
+  to distinct KEGG pathways. Differential metabolites were mapped to distinct metabolic
+  pathways. Enrichment p-values were computed from a hypergeometric distribution.
+  A p-value cutoff of 0.05 was selected as the threshold. The plot sizes represent
+  the number of metabolites in each pathway term. (D) Relative levels of cold-related
+  metabolites in ALA-treated tissues after cold stress challenge. The scale represents
+  the normalized peak area values for each metabolite in the samples.'
+article_title: Metabolomics Reveals 5-Aminolevulinic Acid Improved the Ability of
+  Tea Leaves (Camellia sinensis L.) against Cold Stress.
+citation: Fei Yan, et al. Metabolites. 2022 May;12(5):392.
+year: '2022'
+
+doi: 10.3390/metabo12050392
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: MDPI
+
+keywords:
+- secondary metabolites
+- soluble carbohydrates
+- abiotic stress
+
+---

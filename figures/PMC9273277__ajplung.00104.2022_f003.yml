@@ -1,0 +1,37 @@
+---
+figid: PMC9273277__ajplung.00104.2022_f003
+pmcid: PMC9273277
+image_filename: ajplung.00104.2022_f003.jpg
+figure_link: /pmc/articles/PMC9273277/figure/F0003/
+number: Figure 3
+figure_title: ''
+caption: 'Five hypoxia-associated cell types appeared in response to hypoxia at D1
+  and three at D7. A: heatmap: top five most overexpressed transcripts in each subgroup
+  at D1. B: grouped UMAP plot depicting groups at D1. C: G4 pathways analyses heatmaps.
+  Ci: functions. Cii: canonical pathways. Ciii: upstream regulators. D: top five most
+  overexpressed transcripts in each subgroup at D7. E: cell trajectories and transcripts
+  that vary according to the sequence of cellular states implicated in PH development.
+  Dark blue = the beginning of the trajectory. Light blue = end of the trajectory.
+  Red arrows = direction of the trajectory. F: pathways associated with transcripts
+  that vary according to the sequence of cellular states. G: grouped UMAP plot depicting
+  groups at D7. H: G9 pathway analyses heatmaps. Key for heatmaps: Ci and Hi: functions.
+  Cii and Hii: canonical pathways. Ciii and Hiii: upstream regulators. Gray dots =
+  not applicable. PH, pulmonary hypertension; UMAP, uniform manifold approximation
+  and projection.'
+article_title: Single-cell RNA sequencing and binary hierarchical clustering define
+  lung interstitial macrophage heterogeneity in response to hypoxia.
+citation: Nzali V. Campbell, et al. Am J Physiol Lung Cell Mol Physiol. 2022 Jul 1;323(1):L58-L68.
+year: '2022'
+
+doi: 10.1152/ajplung.00104.2022
+journal_title: American Journal of Physiology - Lung Cellular and Molecular Physiology
+journal_nlm_ta: Am J Physiol Lung Cell Mol Physiol
+publisher_name: American Physiological Society
+
+keywords:
+- hypoxia
+- macrophages
+- PH
+- single-cell RNAseq
+
+---

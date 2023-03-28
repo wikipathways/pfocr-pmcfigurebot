@@ -1,0 +1,40 @@
+---
+figid: PMC9143673__viruses-14-00891-g004
+pmcid: PMC9143673
+image_filename: viruses-14-00891-g004.jpg
+figure_link: /pmc/articles/PMC9143673/figure/viruses-14-00891-f004/
+number: Figure 4
+figure_title: ''
+caption: Vascular permeability induced by SARS-CoV-2 infection is mediated by endothelial
+  integrin αVβ3. (A) Pharmacological inhibitors of Src (SU6656, 1 µM), FAK (PF562271,
+  1 µM), and integrin αVβ3 (Cilengitide, 0.0005 µM) incubated with SARS-CoV-2 infected
+  endothelial cells. **** p < 0.0001, One-way ANOVA. Values are mean ± S.E.M., n =
+  3. (B) Schematic depiction of the proposed pathway of integrin engagement with spike
+  protein and subsequent signaling cascade leading to the disease phenotype of hyperpermeability.
+  Top panel portrays a healthy endothelial cell, where VE-Cadherin and Rac1 regulate
+  and maintain low RhoA levels through FAK and Src signaling. Rac1 and RhoA signaling
+  is tightly controlled via integrin engagement with an extracellular ligand. Bottom
+  panel portrays an infected endothelial cell, where persistent integrin activation
+  leads to overactive FAK and Src activity, resulting in faulty cycling between RhoA
+  and Rac1. RhoA levels rise, leading to Cadherin phosphorylation via Src and FAK.
+  Catenins, which confine VE-Cadherin at the endothelial junctions, cannot recognize
+  phosphorylated VE-Cadherin which results in its internalization. This causes endothelial
+  cells to pull apart and hyperpermeability to occur, promoting vascular leakage.
+article_title: Molecular Cross-Talk between Integrins and Cadherins Leads to a Loss
+  of Vascular Barrier Integrity during SARS-CoV-2 Infection.
+citation: Danielle Nader, et al. Viruses. 2022 May;14(5):891.
+year: '2022'
+
+doi: 10.3390/v14050891
+journal_title: Viruses
+journal_nlm_ta: Viruses
+publisher_name: MDPI
+
+keywords:
+- vascular dysfunction
+- SARS-CoV-2 variants of concern
+- Cilengitide
+- integrin αVβ3
+- RGD motif
+
+---

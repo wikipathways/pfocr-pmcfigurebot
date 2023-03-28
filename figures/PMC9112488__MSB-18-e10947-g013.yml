@@ -1,0 +1,45 @@
+---
+figid: PMC9112488__MSB-18-e10947-g013
+pmcid: PMC9112488
+image_filename: MSB-18-e10947-g013.jpg
+figure_link: /pmc/articles/PMC9112488/figure/msb202210947-fig-0001/
+number: Figure 1
+figure_title: In‐depth characterization of the human liver proteome
+caption: 'Overview of biological material used for generating the liver proteome atlas.
+  (hHSC: hepatic stellate cell, hHEP: hepatocyte, hKC: Kupffer cell, hLSEC: liver
+  sinusoidal endothelial cell, TWNT4 and LX2: immortalized human hepatic stellate
+  cell line, SK‐Hep‐1: human hepatic adenocarcinoma cell line, HepG2: human liver
+  cancer cell line). Number of biological replicates is n = 6 for bulk liver, hepatic
+  artery and portal vein; n = 3 for hHEP, hLSEC, hHSC, hKC and n = 1 for HepG2, SK‐Hep1,
+  LX2 and TWNT4. No additional replications of the experiment was done in laboratory.Total
+  quantified proteome depth in tissues (n = 18), primary cells (n = 12), immortalized
+  cell lines (n = 4) and all samples (n = 34). In all cases, n means biological replicates
+  unless otherwise indicated. The upper and lower panel shows the number of quantified
+  protein groups and peptides, respectively.Dynamic range of the different proteomes
+  based on median intensity of label‐free quantification (LFQ) ordered by abundance
+  rank (Liver: bulk liver biopsy, HepA: hepatic artery, PorV: portal vein, Cell lines:
+  mixture of human liver‐derived immortalized cell lines). Number of biological replicates
+  is same as Panel (A).Principal component analysis (PCA) of all proteomes based on
+  their proteome profiles. For abbreviations, please refer to Panel (A).KEGG pathway
+  coverage in this dataset, with major metabolic pathways highlighted.'
+article_title: Dynamic human liver proteome atlas reveals functional insights into
+  disease pathways.
+citation: Lili Niu, et al. Mol Syst Biol. 2022 May;18(5):e10947.
+year: '2022'
+
+doi: 10.15252/msb.202210947
+journal_title: Molecular Systems Biology
+journal_nlm_ta: Mol Syst Biol
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- clinical proteomics
+- liver disease
+- liver fibrosis
+- MS‐based proteomics
+- tissue proteome atlas
+- Methods & Resources
+- Molecular Biology of Disease
+- Proteomics
+
+---

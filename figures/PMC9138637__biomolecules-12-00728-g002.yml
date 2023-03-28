@@ -1,0 +1,33 @@
+---
+figid: PMC9138637__biomolecules-12-00728-g002
+pmcid: PMC9138637
+image_filename: biomolecules-12-00728-g002.jpg
+figure_link: /pmc/articles/PMC9138637/figure/biomolecules-12-00728-f002/
+number: Figure 2
+figure_title: ''
+caption: Glutamine metabolic pathway is inhibited in AT2 cells of bleomycin-induced
+  fibrosis in mice. (A) Overview of experimental design. AT2 cells from mice treated
+  with PBS or bleomycin for 14 days were isolated by FACS to generate a single-cell
+  suspension for both scRNA-seq and metabolomics analyses. (B) Expression of glutamine
+  metabolite in AT2 cells was downregulated after bleomycin injury. (C) Expression
+  levels of Sftpc, Abca3, Gls1, Gpt2 and Suclg1 genes in AT2 cells were decreased
+  after bleomycin injury. (D) Top 30 most enriched Gene Ontology (GO) terms of downregulated
+  differentially expressed genes (DEGs). * p < 0.05, ** p < 0.01, *** p < 0.001.
+article_title: Glutamine Metabolism Is Required for Alveolar Regeneration during Lung
+  Injury.
+citation: Sisi Wang, et al. Biomolecules. 2022 May;12(5):728.
+year: '2022'
+
+doi: 10.3390/biom12050728
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: MDPI
+
+keywords:
+- glutamine metabolism
+- idiopathic pulmonary fibrosis
+- alveolar progenitor cells
+- lung regeneration
+- omics
+
+---

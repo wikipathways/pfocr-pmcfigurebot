@@ -1,0 +1,52 @@
+---
+figid: PMC9136261__gr3
+pmcid: PMC9136261
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9136261/figure/f0015/
+number: Fig. 3
+figure_title: ''
+caption: Metabolic variations of Y. lipolytica W29 grown on six carbon nutrients.
+  (A) Central metabolism including glycolysis/gluconeogenesis, pentose phosphate pathway,
+  mitochondrial TCA cycle (blue shading) and fatty acid biosynthesis (green shading).
+  (B) Significantly altered metabolic fluxes under six carbon nutrient conditions
+  shown in mean values. (For interpretation of the references to colour in this figure
+  legend, the reader is referred to the web version of this article.)
+article_title: Dissecting carbon metabolism of Yarrowia lipolytica type strain W29
+  using genome-scale metabolic modelling.
+citation: Yufeng Guo, et al. Comput Struct Biotechnol J. 2022;20:2503-2511.
+year: '2022'
+
+doi: 10.1016/j.csbj.2022.05.018
+journal_title: Computational and Structural Biotechnology Journal
+journal_nlm_ta: Comput Struct Biotechnol J
+publisher_name: Research Network of Computational and Structural Biotechnology
+
+keywords:
+- Yarrowia lipolytica
+- Genome-scale metabolic model
+- Carbon metabolism
+- Theoretical yield
+- G6P, D-glucose 6-phosphate
+- G3P, D-glyceraldehyde 3-phosphate
+- DHAP, dihydroxyacetone phosphate
+- PEP, phosphoenolpyruvate
+- OAA, oxaloacetic acid
+- MAL, malate
+- CIT, citrate
+- ICI, isocitrate
+- AKG, α-ketoglutarate
+- SUCCCOA, succinyl-CoA
+- SUCC, succinate
+- FUM, fumarate
+- 6PGL, 6-phosphogluconolactone
+- 6PGC, 6-phospho-D-gluconate
+- RL5P, D-ribulose 5-phosphate
+- R5P, D-ribose 5-phosphate
+- X5P, D-xylulose 5-phosphate
+- S7P, D-sedoheptulose 7-phosphate
+- E4P, D-erythrose 4-phosphate
+- AC-CoA, acetyl-CoA
+- FA-CoA, fatty acyl-CoA
+- Mal-CoA, malonyl-CoA
+
+---

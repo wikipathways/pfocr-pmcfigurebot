@@ -1,0 +1,56 @@
+---
+figid: PMC9118126__gr6
+pmcid: PMC9118126
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC9118126/figure/f0030/
+number: Fig. 6
+figure_title: ''
+caption: 'CRISPR-CAS9 SAM screening of driver genes for chemoresistance in high-SIIS
+  groups. (A) Experimental outline of screening and analysis. (B) Optical microscopic
+  images of SW480 cells treated with oxaliplatin (0 μg/mL, 40 μg/mL) and 5FU (0 μg/mL,
+  2 μg/mL) for 96 h. (C) Volcano plots to compare differences in sgRNA abundance between
+  oxaliplatin- and DMSO-treated cells (upper) and between 5-FU- and DMSO-treated cells
+  (bottom); (D-E) Heatmap showing the counts of sgRNA-representing genes that mediating
+  oxaliplatin (D) and 5-FU resistance (E). (F) Venn plot showing differentially enriched
+  genes in four groups as following: oxaliplatin treated cells, 5-FU treated cells;
+  patients with higher-SIIS value in TCGA-COAD and GSE39582 dataset; (G) Forest plots
+  showing the correlation of gene expression of GPX3 and PRICKLE2 with overall survival
+  in different subgroups (left) and the benefit of ADJC performance in patients with
+  different expression levels of GPX3 and PRICKLE2 (right). (H-I) Box plot of the
+  comparison of the GPX3 and PRICKLE2 expression between the fluorouracil response
+  and nonresponse groups (H) and among various CMS subtypes in the GSE39582, TCGA-COAD,
+  and SYSUCC cohorts (I). (J) Correlation matrix showing the correlations of GPX3
+  and PRICKLE2 expression with the infiltration level of TME cells (left) and with
+  the activation level of biological process (right) in the GSE39582, TCGA-COAD, and
+  SYSUCC cohorts. (K) The correlation chord chart showing the mutual correlation between
+  SIIS value, the gene expression of GPX3 and PRICKLE2, and the GSVA score of non
+  canonical WNT pathway, canonical WNT pathway, and WNT/PCP pathway in the GSE39582
+  cohort (left), in the TCGA-COAD cohort (middle), and in the SYSUCC cohort (right).
+  (L-M) Box plot of the comparison of the GSVA score of WNT/PCP pathway between the
+  fluorouracil response and nonresponse groups (L) and among various CMS subtypes
+  (M) in the GSE39582, TCGA-COAD, and SYSUCC cohorts. OXA, oxaliplatin; FC, fold change;
+  Tcm, T central memory; Tem, T effector memory; Th, T helper; DC, dendritic cell;
+  aDC, activated dendritic cell; iDC, immature dendritic cell; Tgd, T gamma delta;
+  NK, natural killer; CI, confidence interval; ADJC, adjuvant chemotherapy; R response;
+  NR, nonresponse; CMS, consensus molecular subtypes; EMT, epithelial-mesenchymal transition;
+  OXPHOS, oxidative phosphorylation; UPR, unfolded protein response; FA, fatty acid;
+  GSVA, gene set variation analysis.'
+article_title: Evaluation of stromal cell infiltration in the tumor microenvironment
+  enable prediction of treatment sensitivity and prognosis in colon cancer.
+citation: Rui Zhou, et al. Comput Struct Biotechnol J. 2022;20:2153-2168.
+year: '2022'
+
+doi: 10.1016/j.csbj.2022.04.037
+journal_title: Computational and Structural Biotechnology Journal
+journal_nlm_ta: Comput Struct Biotechnol J
+publisher_name: Research Network of Computational and Structural Biotechnology
+
+keywords:
+- Stromal cell infiltration
+- Machine learnin
+- Gene signature
+- Treatment sensitivity
+- CRISPR library screen
+- Colon cancer
+
+---

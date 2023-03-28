@@ -1,0 +1,41 @@
+---
+figid: PMC9144996__metabolites-12-00434-g005
+pmcid: PMC9144996
+image_filename: metabolites-12-00434-g005.jpg
+figure_link: /pmc/articles/PMC9144996/figure/metabolites-12-00434-f005/
+number: Figure 5
+figure_title: ''
+caption: 'Enzyme synergy effects in a linear pathway with alternative routes. The
+  (scaled) synergisms towards a fitness-relevant objective (e.g., biomass production)
+  can tell us about epistasis. (a) network structure. A conversion from S to S can
+  occur directly or via the intermediate S. The following plots show synergy effects
+  for double inhibitions predicted by FBA (b) or MoMA (c). To simulate enzyme inhibitions,
+  a flux decrease to 90 percent of the original value was imposed by setting a bound
+  at 0.9 times the unperturbed reaction flux. The double inhibition of an enzyme is
+  simulated by applying the inhibition twice, i.e., leading to a relative flux decrease
+  factor of 0.81. Synergy effects are shown by line colours (red: aggravating, blue:
+  buffering) and as a matrix. Colour ranges span the observed synergy effects in each
+  panel (red: negative; white: zero; blue: positive). Small values, below one percent
+  of the maximal absolute value, are not shown. (d) Synergy effects computed by Metabolic
+  Control Theory, assuming common modular rate laws and half-saturated enzymes. A
+  model ensemble with saturation values sampled from uniform distributions yields
+  almost the same results on average. Also a different rate law (the simultaneous
+  binding modular rate law) yields very similar results (see ). Compare  for synergy
+  effects in E. coli.'
+article_title: Structural Thermokinetic Modelling.
+citation: Wolfram Liebermeister. Metabolites. 2022 May;12(5):434.
+year: '2022'
+
+doi: 10.3390/metabo12050434
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: MDPI
+
+keywords:
+- metabolic model
+- structural kinetic modelling
+- dependence schema
+- reaction elasticity
+- model ensemble
+
+---
