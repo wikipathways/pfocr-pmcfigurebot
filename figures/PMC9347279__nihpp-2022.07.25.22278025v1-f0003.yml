@@ -1,0 +1,40 @@
+---
+figid: PMC9347279__nihpp-2022.07.25.22278025v1-f0003
+pmcid: PMC9347279
+image_filename: nihpp-2022.07.25.22278025v1-f0003.jpg
+figure_link: /pmc/articles/PMC9347279/figure/F3/
+number: Figure 3
+figure_title: Pathway enrichment analyses using the robustly identified proteins
+caption: 'A) Pathway enrichment analyses of proteins identified on the meta-analyses
+  identified 16 different pathways. Size in the dot chart corresponds to the number
+  of identified proteins and color corresponds to the FDR corrected significance.
+  Several differentially abundant proteins (IL-6, IL-1b, IL-1Ra, and STAT1, among
+  others) for the thre outcomes were enriched in COVID-19 related pathways. Proteins
+  were significantly enriched for Alzheimer’s disease (AD) pathway (FDR=6.84×10−22
+  for COVID-19 infection; FDR=1.19×10−14 for ventilation; FDR=5.46×10−10 for death).
+  Enrichment of COVID-19 infection (FDR=0.046) and ventilation (FDR=0.019) was observed
+  for coronary artery disease.B) Forest plots of AD-related proteins: amyloid precursor
+  protein (APP), Neurofilament light polypeptide (NFL), Neurogranin (NEUG), Ephrin
+  type-A receptor 5 (EPHA5), Branched-chain-amino-acid aminotransferase, mitochondrial
+  (BCAT2), Transmembrane protein 106B (TMEM106B), Microtubule-associated protein tau
+  (MAPT*), Glial fibrillary acidic protein (GFAP*). *: showed a nominal significance
+  (P<0.05).C) Forest plots of cardiovascular-related proteins: Troponin T (cardiac
+  muscle), Angiopoietin-related protein 4 (ANGL4), FURIN, Sodium/potassium-transporting
+  ATPase subunit beta-1 (AT1B1) and Transforming growth factor b1 (TGFB1).D) Tissue
+  specificity enrichment analyses via FUMA for 30 tissues in GTEx v8 using the robustly
+  identified proteins. In addition to enrichment for lung, we found enrichment for
+  brain (P=2.03×10−19, 4.79×10−13, and 6.3×10−3 for COVID-19 infection, ventilation
+  and death, respectively) and enrichment for heart (P=2.81×10−8, 6.02×10−8, and 3.03×10−3
+  for COVID-19 infection, ventilation and death, respectively).'
+article_title: Plasma proteomics of SARS-CoV-2 infection and severity reveals impact
+  on Alzheimer and coronary disease pathways.
+citation: Lihua Wang, et al. medRxiv. 2022 Jul 25:2022.07.25.22278025.
+year: '2022'
+
+doi: 10.1101/2022.07.25.22278025
+journal_title: medRxiv
+journal_nlm_ta: medRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+---

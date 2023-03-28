@@ -1,0 +1,32 @@
+---
+figid: PMC9142837__gr5
+pmcid: PMC9142837
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC9142837/figure/fig5/
+number: Fig. 5
+figure_title: ''
+caption: In silico genetic perturbations. KO and constitutive activity of GLP-1. Black
+  rectangles correspond to certain components involved in a particular experiment.
+  (A) If GLP-1 Notch signaling is knocked out, even though DTC is constitutively active,
+  none of the core Notch pathway genes are activated. (B) Upon GLP-1 Notch constitutive
+  signaling, the core Notch pathway genes are active throughout the simulation.
+article_title: Modeling the C. elegans germline stem cell genetic network using automated
+  reasoning.
+citation: Ani Amar, et al. Biosystems. 2022 Jul;217:104672.
+year: '2022'
+
+doi: 10.1016/j.biosystems.2022.104672
+journal_title: Bio Systems
+journal_nlm_ta: Biosystems
+publisher_name: Elsevier Science Ireland
+
+keywords:
+- Boolean network
+- C. elegans
+- Formal reasoning
+- Gene regulatory network
+- Germ line
+- Modeling
+- Stem cells
+
+---

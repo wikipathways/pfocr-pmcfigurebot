@@ -1,0 +1,35 @@
+---
+figid: PMC9316036__metabolites-12-00569-g004
+pmcid: PMC9316036
+image_filename: metabolites-12-00569-g004.jpg
+figure_link: /pmc/articles/PMC9316036/figure/metabolites-12-00569-f004/
+number: Figure 4
+figure_title: ''
+caption: Optimization results of minimizing the energy demands of bacterial NAD biosynthetic
+  pathways. (A) A scatter plot showing the optimized abundance of Nampt versus PncA
+  when minimizing the ratio of ATP consumption to NAD production required to maintain
+  the required NAD steady-state concentration (). Each dot represents an optimisation
+  result. The marginal plots show kernel density estimate plots that show the enzyme
+  abundance distributions in the optimisation results. (B) Abundance of metabolic
+  enzymes at different temperatures in the PncA pathway. (C) Optimized abundance of
+  metabolic enzymes in Nampt pathway. (D) The ATP consumption flux, , in the PncA
+  pathway (dashed red curve) compared with the Nampt pathway (blue curve) at different
+  temperatures. (E) The NAD production flux, , in the PncA pathway compared with that
+  in the Nampt pathway at different temperatures. (F) The ratio of ATP consumption
+  to NAD production at different temperatures in PncA and Nampt pathways.
+article_title: Early Evolutionary Selection of NAD Biosynthesis Pathway in Bacteria.
+citation: Suraj Sharma, et al. Metabolites. 2022 Jul;12(7):569.
+year: '2022'
+
+doi: 10.3390/metabo12070569
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: MDPI
+
+keywords:
+- NAD biosynthesis
+- metabolic modelling
+- kinetic models
+- phylogenetic analysis
+
+---

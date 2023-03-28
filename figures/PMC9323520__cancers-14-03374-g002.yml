@@ -1,0 +1,42 @@
+---
+figid: PMC9323520__cancers-14-03374-g002
+pmcid: PMC9323520
+image_filename: cancers-14-03374-g002.jpg
+figure_link: /pmc/articles/PMC9323520/figure/cancers-14-03374-f002/
+number: Figure 2
+figure_title: ''
+caption: 'The extracellular matrix and FAK activation are associated with resistance
+  to mTORC1 inhibitors. (A) Ranking of genes by their Spearman’s correlation coefficient
+  to S6 (RPPA) from 876 breast cancer patients in the TCGA, Pan-Cancer Atlas dataset.
+  Red dots are genes that comprise the ECM remodeling Reactome pathway. Reactome pathway
+  enrichment analysis of the (B) top and (C) bottom 10% of genes correlated with S6
+  protein in breast cancer. (D) Protein expression of phosphorylated FAK (pFAK Y397),
+  total FAK (FAK), and β-actin (loading control) in 14 breast cancer cell lines. Quantitation
+  of pFAK to FAK and FAK to total protein () are shown. (E) Scatterplot illustrating
+  the correlation between the pFAK:FAK ratio to rapamycin growth inhibition. r = Pearson’s
+  correlation coefficient, two-tailed p-value. Colors represent breast cancer receptor-defined
+  subtypes: red, ER+/PR+/HER2-, green, ER+/PR+/HER2+, orange, ER-/PR-/HER2+, blue,
+  ER-/PR-/HER2-. (F) Scatterplot illustrating the correlation between relative rapamycin
+  growth inhibition and the calculated FAK/total protein ratio.'
+article_title: Focal Adhesion Kinase Provides a Collateral Vulnerability That Can
+  Be Leveraged to Improve mTORC1 Inhibitor Efficacy.
+citation: Leslie Cuellar-Vite, et al. Cancers (Basel). 2022 Jul;14(14):3374.
+year: '2022'
+
+doi: 10.3390/cancers14143374
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- triple negative breast cancer
+- TNBC
+- mTORC1
+- FAK
+- focal adhesion kinase
+- rapamycin
+- defactinib
+- intrinsic resistance
+- collateral sensitivity
+
+---

@@ -1,0 +1,37 @@
+---
+figid: PMC9400130__etm-24-03-11500-g06
+pmcid: PMC9400130
+image_filename: etm-24-03-11500-g06.jpg
+figure_link: /pmc/articles/PMC9400130/figure/f7-ETM-24-3-11500/
+number: Figure 7
+figure_title: ''
+caption: Biological function and pathway annotation enrichment analysis. (A) Bubble
+  plot of GO enrichment analysis of the 44 BCR-associated DEGs revealing the enriched
+  BP, CC and MF. (B) DO enrichment analysis of the 44 BCR-associated DEGs showing
+  the enriched top 10 diseases. (C) KEGG pathway analysis revealed the enriched signaling
+  pathways of the 44 BCR-associated DEGs. (D) GSEA showed the top five KEGG signaling
+  pathways in BCR-PCa of the GEO-merged dataset. (E) GSEA enrichment analysis showed
+  the top six KEGG signaling pathways in BCR-PCa in TCGA-PRAD dataset. GO, Gene Ontology;
+  BCR, biochemical recurrence; DEGs, differentially expressed genes; BP, biological
+  processes; CC, cellular components; MF, molecular functions; DO, Disease Ontology;
+  KEGG, Kyoto Encyclopedia of Genes and Genomes; GSEA, gene set enrichment analysis;
+  PCa, prostate cancer; GEO, Gene Expression Omnibus.
+article_title: LTBP2 inhibits prostate cancer progression and metastasis via the PI3K/AKT
+  signaling pathway.
+citation: Xiaowen Zhang, et al. Exp Ther Med. 2022 Sep;24(3):563.
+year: '2022'
+
+doi: 10.3892/etm.2022.11500
+journal_title: Experimental and Therapeutic Medicine
+journal_nlm_ta: Exp Ther Med
+publisher_name: D.A. Spandidos
+
+keywords:
+- prostate cancer
+- The Cancer Genome Atlas
+- Gene Expression Omnibus
+- tumor microenvironment
+- immunotherapy
+- LTBP2
+
+---

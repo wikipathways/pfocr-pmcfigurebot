@@ -1,0 +1,31 @@
+---
+figid: PMC9269340__plants-11-01702-g005
+pmcid: PMC9269340
+image_filename: plants-11-01702-g005.jpg
+figure_link: /pmc/articles/PMC9269340/figure/plants-11-01702-f005/
+number: Figure 5
+figure_title: ''
+caption: KEGG analysis of four groups of proteins. The figure shows the top ten entries
+  according to a significant degree. From left to right was the following −log(p-value)
+  from a large to a small array, which meant that the closer to the left side, the
+  more significant. The vertical axis represents −log (p-value). The red line indicates
+  that p = 0.01, while the blue line indicates that p = 0.05. Only when the column
+  is higher than the red line or blue line, does its corresponding metabolic pathway
+  have significant meaning. (A) M-M, (B) M-SA, (C) R-M, (D) R-SA.
+article_title: Proteomic Analysis Reveals Salicylic Acid as a Pivotal Signal Molecule
+  in Rice Response to Blast Disease Infection.
+citation: Haiying Zhou, et al. Plants (Basel). 2022 Jul;11(13):1702.
+year: '2022'
+
+doi: 10.3390/plants11131702
+journal_title: Plants
+journal_nlm_ta: Plants (Basel)
+publisher_name: MDPI
+
+keywords:
+- rice
+- salicylic acid
+- blast disease
+- proteomics
+
+---

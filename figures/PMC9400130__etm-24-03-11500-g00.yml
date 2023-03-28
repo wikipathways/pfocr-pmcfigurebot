@@ -1,0 +1,36 @@
+---
+figid: PMC9400130__etm-24-03-11500-g00
+pmcid: PMC9400130
+image_filename: etm-24-03-11500-g00.jpg
+figure_link: /pmc/articles/PMC9400130/figure/f1-ETM-24-3-11500/
+number: Figure 1
+figure_title: ''
+caption: Flow chart of the work on screening and identifying a key gene associated
+  with biochemical recurrence of prostate cancer and validating some potential biological
+  functions. PCa, prostate cancer; GO, Gene Ontology; KEGG, Kyoto Encyclopedia of
+  Genes and Genomes; DO, Disease Ontology; DEGs, differentially expressed genes; Lasso,
+  least absolute shrinkage and selection operator; SVM-RFE, support vector machine
+  with recursive feature elimination; PPI, protein-protein interaction; MCODE, molecular
+  complex detection; GSEA, gene set enrichment analysis; ROC, receiver operating characteristic;
+  TCGA, The Cancer Genome ATLAS; PRAD, prostate adenocarcinoma; LTBP2, latent transforming
+  growth factor β-binding protein 2; ceRNA, competitive endogenous RNA; TME, tumor
+  microenvironment.
+article_title: LTBP2 inhibits prostate cancer progression and metastasis via the PI3K/AKT
+  signaling pathway.
+citation: Xiaowen Zhang, et al. Exp Ther Med. 2022 Sep;24(3):563.
+year: '2022'
+
+doi: 10.3892/etm.2022.11500
+journal_title: Experimental and Therapeutic Medicine
+journal_nlm_ta: Exp Ther Med
+publisher_name: D.A. Spandidos
+
+keywords:
+- prostate cancer
+- The Cancer Genome Atlas
+- Gene Expression Omnibus
+- tumor microenvironment
+- immunotherapy
+- LTBP2
+
+---

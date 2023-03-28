@@ -1,0 +1,38 @@
+---
+figid: PMC9358506__atm-10-13-737-f1
+pmcid: PMC9358506
+image_filename: atm-10-13-737-f1.jpg
+figure_link: /pmc/articles/PMC9358506/figure/f1/
+number: Figure 1
+figure_title: ''
+caption: Identification of DEGs for enrichment analysis. (A) Experimental flow chart.
+  (B) Heatmap of DEGs between the CLP and sham samples. Red areas represent high expression,
+  and green areas represent low expression. (C) Volcano plot of DEGs between the CLP
+  and sham samples. The red plots represent upregulated genes, the green plots represent
+  downregulated genes, and the gray plots represent nonsignificant genes. (D) GO pathway
+  enrichment analyses of DEGs. The bar graph shows the top 10 (red for biological
+  processes and blue for molecular function) and the top 9 (green for cellular component)
+  enriched GO pathways. (E) KEGG pathway enrichment analyses of DEGs. The bubble plot
+  shows the most enriched KEGG pathways. The closer the color of a dot is to red,
+  the smaller its P value is, and the closer the color is to green, the larger the
+  P value is. CLP, cecal ligation and puncture; GSEA, gene set enrichment analysis;
+  DEGs, differentially expressed genes; m6A, N6-adenosine methylation; KEGG, Kyoto
+  Encyclopedia of Genes and Genomes; GO, Gene Ontology.
+article_title: Transcriptomic analysis and laboratory experiments reveal potential
+  critical genes and regulatory mechanisms in sepsis-associated acute kidney injury.
+citation: Boyang Liu, et al. Ann Transl Med. 2022 Jul;10(13):737.
+year: '2022'
+
+doi: 10.21037/atm-22-845
+journal_title: Annals of Translational Medicine
+journal_nlm_ta: Ann Transl Med
+publisher_name: AME Publishing Company
+
+keywords:
+- Sepsis
+- acute kidney injury (AKI)
+- bioinformatics analysis
+- ferroptosis
+- N6-adenosine methylation RNA methylation (m6A RNA methylation)
+
+---

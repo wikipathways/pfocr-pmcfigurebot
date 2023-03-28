@@ -1,0 +1,38 @@
+---
+figid: PMC9317859__pathogens-11-00745-g005
+pmcid: PMC9317859
+image_filename: pathogens-11-00745-g005.jpg
+figure_link: /pmc/articles/PMC9317859/figure/pathogens-11-00745-f005/
+number: Figure 5
+figure_title: ''
+caption: Capsicum and N. benthamiana WA vasiRNA targets are enriched in the ribosome
+  and protein processing in the endoplasmic reticulum (ER) KEGG pathways. Log fold
+  changes of significantly differentially regulated vasiRNAs (21 nt and 22 nt combined)
+  are shown for one or both of capsicum and N. benthamiana WA (green shading indicates
+  increased significantly abundance of vasiRNAs targeting associated host transcripts
+  in response to TSWV infection, and blue shading indicates significantly decreased
+  vasiRNA abundance). Enrichment for these pathways suggests that localisation of
+  vasiRNA template to the ER may be the functional basis for vasiRNA target ‘selection’.
+  KEGG pathway analysis and visualisation were carried out using Pathview, v1.36.0
+  (Charlotte, NC, USA) [].
+article_title: Tospoviruses Induce Small Interfering RNAs Targeting Viral Sequences
+  and Endogenous Transcripts in Solanaceous Plants.
+citation: Stephen J. Fletcher, et al. Pathogens. 2022 Jul;11(7):745.
+year: '2022'
+
+doi: 10.3390/pathogens11070745
+journal_title: Pathogens
+journal_nlm_ta: Pathogens
+publisher_name: MDPI
+
+keywords:
+- capsicum chlorosis virus
+- tomato spotted wilt virus
+- tospovirus
+- solanaceae
+- virus activated short-interfering RNA
+- viral short-interfering RNA
+- RNA interference
+- vasiRNA
+
+---

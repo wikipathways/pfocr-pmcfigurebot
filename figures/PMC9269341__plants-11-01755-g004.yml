@@ -1,0 +1,34 @@
+---
+figid: PMC9269341__plants-11-01755-g004
+pmcid: PMC9269341
+image_filename: plants-11-01755-g004.jpg
+figure_link: /pmc/articles/PMC9269341/figure/plants-11-01755-f004/
+number: Figure 4
+figure_title: ''
+caption: Summary of the pathway analysis in the leaves of young oil palm plants under
+  salinity stress using the Pathway Topology Analysis modules of MetaboAnalyst 5.0.
+  The metabolome view resulted from the analysis in the Pathway Topology Analysis
+  module using the Hypergeometric test, the relative betweenness centrality node importance
+  measure, and the latest KEGG version of the Oryza sativa pathway library. Pathway
+  impact takes into account both node centrality parameters—betweenness centrality
+  and degree centrality—and represents the importance of annotated compounds in a
+  specific pathway.
+article_title: 'Insights from a Multi-Omics Integration (MOI) Study in Oil Palm (Elaeis
+  guineensis Jacq.) Response to Abiotic Stresses: Part One—Salinity.'
+citation: Cleiton Barroso Bittencourt, et al. Plants (Basel). 2022 Jul;11(13):1755.
+year: '2022'
+
+doi: 10.3390/plants11131755
+journal_title: Plants
+journal_nlm_ta: Plants (Basel)
+publisher_name: MDPI
+
+keywords:
+- transcriptomics
+- proteomics
+- metabolomics
+- integratomics
+- abiotic stress
+- African oil palm
+
+---

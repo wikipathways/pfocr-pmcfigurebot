@@ -1,0 +1,35 @@
+---
+figid: PMC9548442__gr1_lrg
+pmcid: PMC9548442
+image_filename: gr1_lrg.jpg
+figure_link: /pmc/articles/PMC9548442/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: The innate antiviral type I IFN response and interactions with the AXL receptorInfection
+  with SARS-CoV-2, and other RNA viruses, results in viral RNA (vRNA) in the cytoplasm
+  or endosomes that triggers the activation of RLRs and TLRs, respectively. Downstream
+  of vRNA-RLR interactions, RLRs interact with MAVS at mitochondrial membranes to
+  facilitate the assembly of a signalosome where TBK1 and IKKε are recruited. TLR
+  signaling activates TNF receptor-associated factor (TRAF)3 for downstream activation
+  of TBK1/IKKε. These kinases then phosphorylate IRFs 3 and 7, which translocate to
+  the nuclear to induce the expression of IFN-I. IFN-I signals through the IFNAR1
+  to simulate the phosphorylation of STAT1 and STAT2, resulting in the formation of
+  ISGF3, which translocates to the nucleus to bind ISRE-containing promoters and facilitate
+  the expression of ISGs. Gas6 is AXL’s natural ligand and activates AXL signaling
+  that negatively regulates the IFN-I pathway. AXL is able to interact with IFNAR1,
+  and this interaction results in the preferential formation of STAT1 homodimers.
+  STAT1 activation then leads to the induction of SOCS 1 and 3, which inhibit TRAF3
+  and JAK1, resulting in reduced activation of IFN-I induction and signaling pathways.
+  Gilteritinib is a small molecule that inhibits AXL’s tyrosine kinase activity allowing
+  for enhanced IFN-I induction following SARS-CoV-2 infection.
+article_title: Lighting the way to host-directed immunotherapeutics.
+citation: Sarah van Tol, et al. Cell Chem Biol. 2022 Jul 21;29(7):1067-1070.
+year: '2022'
+
+doi: 10.1016/j.chembiol.2022.06.009
+journal_title: Cell Chemical Biology
+journal_nlm_ta: Cell Chem Biol
+publisher_name: Elsevier Ltd.
+
+keywords:
+---

@@ -1,0 +1,82 @@
+---
+figid: PMC9372629__gr3
+pmcid: PMC9372629
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9372629/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: 'NCLX regulates the expression of genes involved in proliferation, metabolism,
+  and translation.A, volcano plot comparing differentially expressed genes between
+  shScramble and shNCLX #2 HASMCs. B, pathway analysis of A using the Reactome pathways
+  gene set ranking significantly upregulated (red) and downregulated (blue) pathways
+  based on normalized enrichment score (NES). Heatmaps comparing differential expression
+  of shScramble and shNCLX #2 HASMCs for (C) translation, (D) glycolysis, and (E)
+  cell cycle checkpoints from the Reactome pathway gene sets. F, GSEA enrichment plots
+  using the Reactome pathways gene set comparing shNCLX #3 and shScramble HASMCs showing
+  a positive correlation in the enrichment of degradation of the extracellular matrix.
+  Quantification of (G) LAMA5 (one-way ANOVA, F[2,15] = 1.024, p = 0.3829, with Dunnett’s
+  post hoc test, p = 0.8873 for shNCLX #2 and p = 0.5273 for shNCLX #3) and (H) COL15A1
+  (one-way ANOVA, F[2,12] = 2.069, p = 0.1690, with Dunnett’s post hoc test, p = 0.1409
+  for shNCLX #2 and p = 0.9244 for shNCLX #3) mRNA expression in shScramble (n = 5),
+  shNCLX #2 (n = 5), and shNCLX #3 (n = 5) HASMCs using RT–quantitative PCR. GSEA,
+  gene set enrichment analysis; HASMC, human airway smooth muscle cell; NCLX, Na+/Ca2+
+  exchanger; ns, not significant.'
+article_title: The airway smooth muscle sodium/calcium exchanger NCLX is critical
+  for airway remodeling and hyperresponsiveness in asthma.
+citation: Martin T. Johnson, et al. J Biol Chem. 2022 Aug;298(8):102259.
+year: '2022'
+
+doi: 10.1016/j.jbc.2022.102259
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- calcium signaling
+- mitochondrial calcium
+- NCLX
+- SOCE
+- metabolism
+- CaMKII
+- asthma
+- airway remodeling
+- airway fibrosis
+- airway hyperresponsiveness
+- 7-AAD, 7-aminoactinomycin D
+- AGC, automatic gain control
+- AHR, airway hyperresponsiveness
+- AR, airway remodeling
+- ASM, airway smooth muscle
+- BAL, bronchoalveolar lavage
+- CaMKII, Ca2+/calmodulin-dependent kinase II
+- cDNA, complementary DNA
+- ER, endoplasmic reticulum
+- FCCP, carbonyl cyanide-4-(trifluoromethoxy)phenylhydrazone
+- GSEA, gene set enrichment analysis
+- HASMC, human airway smooth muscle cell
+- HBSS, Hepes-buffered salt solution
+- HDM, house dust mite
+- IgE, immunoglobin E
+- IL-6, interleukin 6
+- IP3, inositol-1,4,5-trisphosphate
+- KD, knockdown
+- LC3B, light chain 3B
+- MASMC, mouse airway smooth muscle cell
+- MCU, mitochondrial Ca2+ uniporter
+- MeCh, methacholine
+- mPTP, mitochondrial permeability transition pore
+- mtDNA, mitochondrial DNA
+- NCLX, Na+/Ca2+ exchanger
+- NFAT, nuclear factor of activated T cell
+- PM, plasma membrane
+- qPCR, quantitative PCR
+- ROI, region of interest
+- α-SMA, α-smooth muscle actin
+- SOCE, store-operated Ca2+ entry
+- STIM, stromal interaction molecule
+- TBST, Tris-buffered saline with Tween-20
+- TCA, tricarboxylic acid
+- TMRE, tetramethylrhodamine, ethyl ester
+- VSMC, vascular smooth muscle cell
+
+---

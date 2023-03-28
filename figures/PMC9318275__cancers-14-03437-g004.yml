@@ -1,0 +1,34 @@
+---
+figid: PMC9318275__cancers-14-03437-g004
+pmcid: PMC9318275
+image_filename: cancers-14-03437-g004.jpg
+figure_link: /pmc/articles/PMC9318275/figure/cancers-14-03437-f004/
+number: Figure 4
+figure_title: ''
+caption: ALDH1A1 inhibition suppresses pathways involved in chemoresistance and stemness.
+  RNA-seq was performed on OVCAR3 cells treated with compound 974 (5 µM for 48 h)
+  or DMSO (n = 3). (A) Volcano plot of genes up and downregulated by ALDH1A1 inhibition.
+  (B) Heatmap of selected genes significantly downregulated by compound 974 (FDR <
+  0.05). (C) Networks of biological processes constructed using significantly altered
+  genes (FDR < 0.05) between OVCAR3 cells treated with 974 or DMSO. (D) Canonical
+  pathways related to stemness and chemoresistance identified by the Ingenuity Pathway
+  Analysis (IPA) using genes significantly altered by 974 treatment (FDR < 0.05, fold
+  change > |1.5|).
+article_title: A Novel ALDH1A1 Inhibitor Blocks Platinum-Induced Senescence and Stemness
+  in Ovarian Cancer.
+citation: Vaishnavi Muralikrishnan, et al. Cancers (Basel). 2022 Jul;14(14):3437.
+year: '2022'
+
+doi: 10.3390/cancers14143437
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- ovarian cancer
+- ALDH1A1
+- cancer stem cells
+- senescence
+- chemotherapy resistance
+
+---

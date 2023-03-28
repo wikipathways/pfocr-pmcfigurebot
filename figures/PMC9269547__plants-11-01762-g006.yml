@@ -1,0 +1,34 @@
+---
+figid: PMC9269547__plants-11-01762-g006
+pmcid: PMC9269547
+image_filename: plants-11-01762-g006.jpg
+figure_link: /pmc/articles/PMC9269547/figure/plants-11-01762-f006/
+number: Figure 6
+figure_title: ''
+caption: Boxplots for differential expression values (Log2Fold changes, X-axis) of
+  genes (Y-axis) involved in lysine biosynthesis (AK, AK/HSDH, ASADH, DHDPS (boxed),
+  DHDPR, LL-DAP-AT, DAPE, DAPDC), lysine catabolism (LKD/SDH) and SAR response (ALD1,
+  SARD4, FMO1) by re-analysis of 23 biotic and 70 abiotic stress RNA-seq experiments
+  in soybean.
+article_title: The Hidden Potential of High-Throughput RNA-Seq Re-Analysis, a Case
+  Study for DHDPS, Key Enzyme of the Aspartate-Derived Lysine Biosynthesis Pathway
+  and Its Role in Abiotic and Biotic Stress Responses in Soybean.
+citation: Raphaël Kiekens, et al. Plants (Basel). 2022 Jul;11(13):1762.
+year: '2022'
+
+doi: 10.3390/plants11131762
+journal_title: Plants
+journal_nlm_ta: Plants (Basel)
+publisher_name: MDPI
+
+keywords:
+- DHDPS
+- lysine
+- soybean
+- RNA-seq
+- bioinformatics
+- abiotic
+- biotic
+- stress
+
+---

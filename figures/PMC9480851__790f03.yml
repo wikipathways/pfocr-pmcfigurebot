@@ -1,0 +1,54 @@
+---
+figid: PMC9480851__790f03
+pmcid: PMC9480851
+image_filename: 790f03.jpg
+figure_link: /pmc/articles/PMC9480851/figure/GAD349249FENF3/
+number: Figure 3
+figure_title: ''
+caption: PBRM1 mediates CDK1 and cyclin B1 repression via the DREAM pathway. (A) Overview
+  of p53-dependent regulation of the DREAM pathway. p53 up-regulates p21, which inhibits
+  CDK activity, leading to accumulation of the hypophosphorylated forms of p130 and
+  p107, which assemble into the repressive DREAM complex, leading to down-regulation
+  of target genes with CHR/CDE elements including CDK1 and cyclin B1. (B) Western
+  blot analysis of total p130 (p130), phospho-p130 (p-p130), and p21 in untreated
+  (UT) or irradiated 1BR3 parental cells and PBRM1 KO cells with or without re-expression
+  of PBRM1 (PBRM1 KO5 rescue ± DOX). (C) ChIP-qPCR analysis of p53 binding to the
+  p53 response element (RE) of p21 promoter in untreated (UT) or irradiated 1BR3 parental
+  cells and PBRM1 KO cells with or without re-expression of PBRM1 (PBRM1 KO5 rescue
+  ± DOX), using a nonspecific antibody (negative control) or anti-p53. n = 3; mean
+  ± SEM, two-sided paired t-test. (D,E) ChIP-qPCR analysis of p130 binding to the
+  CDE/CHR element of the CDK1 (D) or cyclin B1 (E) promoter in untreated (UT) or irradiated
+  1BR3 parental cells or PBRM1 KO cells with or without re-expression of PBRM1 (PBRM1
+  KO5 rescue ± DOX) using a nonspecific antibody (negative control) or anti-p130.
+  n = 3; mean ± SEM, two-sided paired t-test. (F,G) Violin plot and heat map showing
+  changes in DREAM target transcript levels from RNA-seq data (F) or DREAM target
+  protein levels from mass spectrometry data (G) in 1BR3 parental or PBRM1 KO (KO3
+  or KO5) cells between untreated (UT) and 48 h after irradiation. Data are plotted
+  as the log2 ratio of values from irradiated versus untreated samples [log2(6Gy 48
+  h/UT)]. The red line indicates the median (two-tailed Wilcoxon rank sum test with
+  continuity correction).
+article_title: PBAF loss leads to DNA damage-induced inflammatory signaling through
+  defective G2/M checkpoint maintenance.
+citation: Hugang Feng, et al. Genes Dev. 2022 Jul 1;36(13-14):790-806.
+year: '2022'
+
+doi: 10.1101/gad.349249.121
+journal_title: Genes & Development
+journal_nlm_ta: Genes Dev
+publisher_name: Cold Spring Harbor Laboratory Press
+
+keywords:
+- SWI/SNF
+- BAF
+- PBRM1
+- BAF180
+- DREAM complex
+- p21
+- TP53
+- G2/M checkpoint
+- immunotherapy
+- cGAS
+- DNA damage
+- inflammatory signaling
+
+---

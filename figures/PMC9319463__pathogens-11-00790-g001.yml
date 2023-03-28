@@ -1,0 +1,37 @@
+---
+figid: PMC9319463__pathogens-11-00790-g001
+pmcid: PMC9319463
+image_filename: pathogens-11-00790-g001.jpg
+figure_link: /pmc/articles/PMC9319463/figure/pathogens-11-00790-f001/
+number: Figure 1
+figure_title: ''
+caption: Model of PKR antagonism by E3L and TRS1. When dsRNA is produced during viral
+  infections, PKR undergoes a conformational change, leading to activation by homodimerization
+  and autophosphorylation [,]. VACV E3L can bind to and sequester dsRNA, thereby preventing
+  PKR activation [,]. Binding of E3L to dsRNA induces the formation of Z-RNA, which
+  can trigger necroptosis. However, the N-terminal domain of E3L binds to this Z-RNA,
+  blocking activation of the necroptosis signaling pathway. HCMV TRS1 binds to both
+  dsRNA and PKR, possibly forming a heterodimer that prevents PKR activation [,].
+  The dsRBDs of each protein are shown in purple.
+article_title: Antagonism of Protein Kinase R by Large DNA Viruses.
+citation: Annabel T. Olson, et al. Pathogens. 2022 Jul;11(7):790.
+year: '2022'
+
+doi: 10.3390/pathogens11070790
+journal_title: Pathogens
+journal_nlm_ta: Pathogens
+publisher_name: MDPI
+
+keywords:
+- vaccinia virus
+- cytomegalovirus
+- E3L
+- K3L
+- TRS1
+- protein kinase R
+- dsRNA
+- RNaseL
+- evolutionary arms race
+- gene amplification
+
+---

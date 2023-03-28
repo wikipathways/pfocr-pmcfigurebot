@@ -1,0 +1,51 @@
+---
+figid: PMC9307381__JIR2022-7277583.007
+pmcid: PMC9307381
+image_filename: JIR2022-7277583.007.jpg
+figure_link: /pmc/articles/PMC9307381/figure/fig7/
+number: Figure 7
+figure_title: ''
+caption: Pathway enrichment analysis. (a) The pathway enrichment analysis was performed
+  to find metabolic pathways that were significantly enriched in peak-neighboring
+  genes based on the KEGG database, thereby investigating metabolic pathways that
+  might be orchestrated by transcription factors and that might be mediated by transcription
+  factors at different developmental stages and cell states. The pathway enrichment
+  analysis can directly reflect the effect of genes on phenotypes and maximize the
+  relationship between significantly enriched metabolic pathways and phenotypes. The
+  selected peak-neighboring genes were annotated based on the KEGG database to obtain
+  all of the metabolic pathways in which peak-neighboring genes were involved. All
+  of the peak-neighboring genes were assigned to different metabolic pathways. Fisher's
+  exact test was used to calculate the significance of gene enrichment in each pathway.
+  In order to screen out the metabolic pathways that were significantly enriched in
+  peak-neighboring genes, the top 15 entries were chosen in the pathway enrich analysis
+  where peak-neighboring genes were significantly enriched as the horizontal axis
+  histogram. The horizontal axis in the histogram was employed to show -log10 (P value),
+  and the vertical axis was the pathway name. Meanwhile, the top 25 entries were selected
+  in the pathway enrich analysis in which peak-neighboring genes were significantly
+  enriched as a vertical axis histogram. In the histogram, the horizontal axis showed
+  the pathway name, and the vertical axis represented enrichment. In all charts, red
+  represented significant items, and blue marked nonsignificant items. (b) The results
+  of the pathway enrichment analysis of peak-neighboring genes were presented in a
+  bubble chart. The top 20 pathway entries were selected, in which peak-neighboring
+  genes were significantly enriched for displaying. The ordinate in the figure stood
+  for the pathway entry, and the abscissa indicated the rich factor. The size of the
+  dot in the figure indicated the number of peak-neighbor genes enriched on the pathway
+  entry, and the color represented the significance P value of the pathway entry.
+  The smaller the P value, the more significant the set. The pathway enrichment degree
+  was measured using the rich factor, P value, and the number of genes enriched in
+  this pathway entry. Among them, the rich factor referred to the ratio of the number
+  of peak-neighbor genes enriched in the pathway entry to the number of all genes
+  annotated to the pathway entry. The greater the rich factor, the greater the degree
+  of enrichment.
+article_title: Methylated RNA Immunoprecipitation Sequencing Reveals the m6A Landscape
+  in Oral Squamous Cell Carcinoma.
+citation: Xi Wang, et al. J Immunol Res. 2022;2022:7277583.
+year: '2022'
+
+doi: 10.1155/2022/7277583
+journal_title: Journal of Immunology Research
+journal_nlm_ta: J Immunol Res
+publisher_name: Hindawi
+
+keywords:
+---

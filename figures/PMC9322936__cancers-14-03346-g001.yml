@@ -1,0 +1,34 @@
+---
+figid: PMC9322936__cancers-14-03346-g001
+pmcid: PMC9322936
+image_filename: cancers-14-03346-g001.jpg
+figure_link: /pmc/articles/PMC9322936/figure/cancers-14-03346-f001/
+number: Figure 1
+figure_title: ''
+caption: Identification of DEGs using mRNA microarray data analysis and GO/KEGG enrichment
+  analysis. (A) Boxplots of RLE indicate the normalized raw data of microarray gene
+  expression datasets. (B) Volcano plot distribution of all DEGs, with red points
+  for the screened upregulated DEGs and green points for the screened downregulated
+  DEGs. (C–E) Bubble chart visualization for GO analysis of all DGEs in NB cells and
+  non-malignant cells. GO BP analysis (C), GO CC analysis (D) and GO MF analysis (E).
+  (F) KEGG pathway analysis of unique DEGs in NB cells and non-malignant cells. (G)
+  Hierarchical clustering analysis (heatmap) of 51 DEGs overlapping between PI3K-Akt
+  pathways and pathways in cancer.
+article_title: Reduction of LPAR1 Expression in Neuroblastoma Promotes Tumor Cell
+  Migration.
+citation: Xiangjun Liu, et al. Cancers (Basel). 2022 Jul;14(14):3346.
+year: '2022'
+
+doi: 10.3390/cancers14143346
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- LPAR1
+- neuroblastoma
+- LPA
+- tumor metastasis
+- bioinformatics analysis
+
+---

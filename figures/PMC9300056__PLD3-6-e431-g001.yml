@@ -1,0 +1,33 @@
+---
+figid: PMC9300056__PLD3-6-e431-g001
+pmcid: PMC9300056
+image_filename: PLD3-6-e431-g001.jpg
+figure_link: /pmc/articles/PMC9300056/figure/pld3431-fig-0002/
+number: FIGURE 2
+figure_title: ''
+caption: Plant UPRome workflow. The database was constructed based on the reported
+  unfolded protein response (UPR) associated genes in model plant species esp.  Arabidopsis
+  thaliana . Homology based gene retrieval was carried out against major plant genome
+  databases as indicated in the second panel. The retrieved genes were manually curated
+  after careful inspection of their sequences, domains, and motifs as shown in the
+  top third panel. We also incorporated a feed aggregator so the users can obtain
+  up to date references related to the six plant species included in our database.
+  We used Microsoft ASP.net, C#, Bootstrapper, and Microsoft SQL Server for the implementation
+  of the Plant UPRome.
+article_title: 'The plant endoplasmic reticulum UPRome: A repository and pathway browser
+  for genes involved in signaling networks linked to the endoplasmic reticulum.'
+citation: Venura Herath, et al. Plant Direct. 2022 Jul;6(7):e431.
+year: '2022'
+
+doi: 10.1002/pld3.431
+journal_title: Plant Direct
+journal_nlm_ta: Plant Direct
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- curated database
+- plant protein interaction maps
+- plant signal transduction
+- unfolded protein response
+
+---

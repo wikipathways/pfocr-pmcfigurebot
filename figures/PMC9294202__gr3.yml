@@ -1,0 +1,57 @@
+---
+figid: PMC9294202__gr3
+pmcid: PMC9294202
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9294202/figure/f0015/
+number: Fig. 3
+figure_title: ''
+caption: 'Mechanistic regulation of ASK1 in NASH: In oxidative stress, ASK1 activity
+  is regulated by several positive (TRAF2/6, USP9X, TRIM48, and TNFAIP3) or negative
+  regulators (TRX, 14-3-3, CFLAR CREG, Roquin-2, and DKK3) either by PTMs such as
+  phosphorylation, dephosphorylation, ubiquitination, deubiquitination, and methylation
+  or by inducing conformational changes. The TRX binds to the N-terminal of ASK1 and
+  keeps it inactive. However, TRX dissociation from ASK1 by ROS in oxidative stress
+  conditions shifts the ASK1 towards an active state by reciprocally recruiting the
+  TRAF2 and TRAF6. 14-3-3 binds to phosphorylated serine (S966) of ASK1 and inactivates
+  the ASK1. Though, oxidative stress of ROS dephosphorylates the site that leads to
+  the dissociation of 14-3-3 from ASK1, which in turn switches the ASK1 in an active
+  state. CFLAR negatively regulates ASK1 by blocking the N-terminus-mediated dimerization
+  of ASK1. Moreover, in oxidative stress conditions, ITCH mediated the CFLAR degradation
+  by ubiquitinating it and activating the ASK1. CREG, DKK3, and PRMT1 are another
+  negative regulator of ASK1 that shifts the ASK1 towards an inactive state. Even
+  so, TRIM48 activates the ASK1 signalosome by promoting d degradation of PRMT1. Roquin-2
+  mediates the ASK1 proteasomal degradation by C-terminal ubiquitination of ASK1;
+  however, this process is reversed by the USP9X or TNFAIP3. Activated ASK1 regulates
+  downstream signaling using two main pathways. First, the ASK1-MKK4/MKK7-JNK1 pathway,
+  and second, the ASK1-MKK3/MKK6-P38 pathway.'
+article_title: Crystallographic mining of ASK1 regulators to unravel the intricate
+  PPI interfaces for the discovery of small molecule.
+citation: Ashish Kumar Agrahari, et al. Comput Struct Biotechnol J. 2022;20:3734-3754.
+year: '2022'
+
+doi: 10.1016/j.csbj.2022.07.008
+journal_title: Computational and Structural Biotechnology Journal
+journal_nlm_ta: Comput Struct Biotechnol J
+publisher_name: Research Network of Computational and Structural Biotechnology
+
+keywords:
+- ASK1
+- NASH
+- Interaction fingerprint
+- Protein-protein interaction
+- PTMs
+- ASK1, Apoptosis signal-regulating kinase 1
+- NASH, Nonalcoholic steatohepatitis
+- NAFLD, Non-alcoholic fatty liver disease
+- PTM, Post-trancriptional modification
+- PPI, Protein-protein interaction
+- TRX, Thioredoxin
+- TRAF2/6, Tumor necrosis factor receptor (TNFR)-associated factor2/6
+- CFLAR, CASP8 and FADD-like apoptosis regulator
+- CREG, Cellular repressor of E1A-stimulated genes
+- DKK3, Dickkopf-related protein 3
+- USP9X, Ubiquitin Specific Peptidase 9 X-Linked
+- TRIM48, Tripartite Motif Containing 48
+- TNFAIP3, TNF Alpha Induced Protein 3
+
+---

@@ -1,0 +1,27 @@
+---
+figid: PMC9491365__nihms-1832050-f0003
+pmcid: PMC9491365
+image_filename: nihms-1832050-f0003.jpg
+figure_link: /pmc/articles/PMC9491365/figure/F3/
+number: Fig. 3
+figure_title: ''
+caption: A distinct cluster of high p16-expressing FAPs in old skeletal muscle exhibits
+  a senescence phenotype. (a) A UMAP plot of FAPs from 3 young and 3 old female mice
+  reveals four distinct clusters. (b) The FAPs marker gene Pdgfra is distributed across
+  all clusters, but senescence-related genes p16, p15, and Spp1 are enriched in cluster
+  3. (c) Heatmap of scRNA-seq-derived marker genes for the four FAP subclusters, with
+  several labels for several senescence-related genes enriched in cluster 3. (d) KEGG
+  pathway enrichment analysis of cluster 3 specific genes using GSEA. Top enriched
+  pathways were selected for plotting. (e) GSEA enrichment plot of the chemokine signaling
+  pathway in FAPs cluster 3.
+article_title: Characterization of cellular senescence in aging skeletal muscle.
+citation: Xu Zhang, et al. Nat Aging. ;2(7):601-615.
+year: '2022'
+
+doi: 10.1038/s43587-022-00250-8
+journal_title: Nature aging
+journal_nlm_ta: Nat Aging
+publisher_name: ''
+
+keywords:
+---

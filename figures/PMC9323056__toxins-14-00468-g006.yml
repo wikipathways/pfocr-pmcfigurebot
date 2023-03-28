@@ -1,0 +1,40 @@
+---
+figid: PMC9323056__toxins-14-00468-g006
+pmcid: PMC9323056
+image_filename: toxins-14-00468-g006.jpg
+figure_link: /pmc/articles/PMC9323056/figure/toxins-14-00468-f006/
+number: Figure 6
+figure_title: ''
+caption: 'Transcriptomics analysis after Tobradex® treatment. (A) Principal component
+  analysis (PCA) of BV vs BT. (B) Volcano plot of BV vs BT. Blue dots represent downregulated
+  genes; gray dots represent genes with no significant difference; red dots represent
+  upregulated genes. (C) Hierarchical cluster analysis (HCA) of metabolic genes. Data
+  show fragments per kilobase of transcript per million mapped reads (FPKM). Red:
+  upregulated expression, Purple: downregulated expression. (D) Functional enrichment
+  analysis of BV vs BT. Biological processes (BP), cellular components (CC), and molecular
+  functions (MF), Log2 FC > 1, FDR < 0.01. (E) Kyoto Encyclopedia of Genes and Genomes
+  (KEGG) signaling pathway categories. (F) Enrichment analysis of the top 20 pathways
+  of upregulated differential gene KEGG pathways in BV vs BT. p values less than 0.01
+  after adjustment confer the most significance. (G) KEGG string diagram of the top
+  five enriched signaling pathways. Colored lines show genes linked to the indicated
+  pathways. Sorting is based on observed log2 FC values. Adjacent red boxes show decreasing
+  intensity.'
+article_title: Phenotypic and Transcriptomics Analyses Reveal Underlying Mechanisms
+  in a Mouse Model of Corneal Bee Sting.
+citation: Yanzi Wang, et al. Toxins (Basel). 2022 Jul;14(7):468.
+year: '2022'
+
+doi: 10.3390/toxins14070468
+journal_title: Toxins
+journal_nlm_ta: Toxins (Basel)
+publisher_name: MDPI
+
+keywords:
+- bee venom
+- corneal bee sting
+- hub gene
+- ocular surface damage
+- RNA-seq
+- transcriptome
+
+---

@@ -1,0 +1,37 @@
+---
+figid: PMC9330527__thnov12p5470g001
+pmcid: PMC9330527
+image_filename: thnov12p5470g001.jpg
+figure_link: /pmc/articles/PMC9330527/figure/F1/
+number: Figure 1
+figure_title: ''
+caption: Single-cell analysis of mouse skin before and after injury. (A) T-distributed
+  stochastic neighbor embedding (tSNE) plot for all samples with the major cell type
+  populations denoted. FBIs, type 1 fibroblasts; FBIIs, type 2 fibroblasts; EBs, epidermal
+  and basal cells; IMs, immune cells; VCs, vascular cells; NCs, neural crest derived
+  cells; MIs, miscellaneous cells. (B) tSNE map with cells colored by time. (C) The
+  expression levels of marker genes among cell types are shown in a violin plot. (D)
+  The percentage of each cell type in UW skin and in WO skin at days 4, 8 and 14 (Wo4,
+  Wo8, and Wo14). (E,F) Heatmap showing the major incoming or outgoing signals with
+  the relative strength of each cell type in UW and WO skin. (G,H) River plot displaying
+  the outgoing communication patterns of each cell type as well as the major signaling
+  pathways in UW or WO skin. The thickness of the flow indicates the contribution
+  of the cell type or signaling pathway to the corresponding pattern.
+article_title: Dedifferentiated Schwann cell-derived TGF-β3 is essential for the neural
+  system to promote wound healing.
+citation: Min-Yi Ou, et al. Theranostics. 2022;12(12):5470-5487.
+year: '2022'
+
+doi: 10.7150/thno.72317
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- Single-cell transcriptome
+- skin
+- Schwann cells
+- wound repair
+- TGF-β
+
+---

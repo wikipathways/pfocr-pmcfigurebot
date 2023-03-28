@@ -1,0 +1,41 @@
+---
+figid: PMC9313451__biomedicines-10-01478-g003
+pmcid: PMC9313451
+image_filename: biomedicines-10-01478-g003.jpg
+figure_link: /pmc/articles/PMC9313451/figure/biomedicines-10-01478-f003/
+number: Figure 3
+figure_title: ''
+caption: Cell–cell interaction between melanoma and immune cell clusters. (A) UMAP
+  plot of aggregated immune cells from the GSE115978 dataset. Immune cells are automatically
+  annotated with SingleR (R package), based on the Monaco Immune Database. Monocytes,
+  dendritic cells, B cells, NK cells, T cells, CD8+ T cells, and CD4+ T cells could
+  be identified. (B) Aggregated network of cell–cell communication, based on the total
+  number of interactions. (C) Dot plot showing all the significant ligand–receptor
+  interactions between cluster 5 and T cell subtypes (T cells, CD8+ T cells and CD4+
+  T cells). p < 0.01 was considered as the threshold for significance. (D) Hierarchical
+  plot illustrates the communication network of the MHC-I signaling pathway (left).
+  A heatmap showing the role (based on CellChat centrality measures) of each cell
+  cluster in the MHC-I signaling pathway (right). (E) Hierarchical plot (left) and
+  centrality heatmap (right) for MHC-II signaling pathway communication network. (F)
+  Chord diagram showing ligand–receptor interactions between cluster 5 and T cell
+  subtypes within MHC (I and II) signaling pathways only. (G) Circle plot for IFN-II
+  signaling pathway.
+article_title: Analysis of Melanoma Gene Expression Signatures at the Single-Cell
+  Level Uncovers 45-Gene Signature Related to Prognosis.
+citation: Mohamed Nabil Bakr, et al. Biomedicines. 2022 Jul;10(7):1478.
+year: '2022'
+
+doi: 10.3390/biomedicines10071478
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: MDPI
+
+keywords:
+- gene expression signatures
+- melanoma
+- single-cell RNA-sequencing
+- bulk RNA-sequencing
+- The Cancer Genome Atlas
+- prognostic signature
+
+---

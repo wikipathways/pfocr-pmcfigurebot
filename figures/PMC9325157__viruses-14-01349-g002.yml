@@ -1,0 +1,36 @@
+---
+figid: PMC9325157__viruses-14-01349-g002
+pmcid: PMC9325157
+image_filename: viruses-14-01349-g002.jpg
+figure_link: /pmc/articles/PMC9325157/figure/viruses-14-01349-f002/
+number: Figure 2
+figure_title: ''
+caption: The replication cycle of SARS-CoV-2 and viral-host interplay. (A) SARS-CoV-2
+  enters the cell via ACE2. Viral RNA gets translated by host ribosomes and replicated
+  within the double-membrane vesicles. The virions are assembled at ERGIC and then
+  egressed outside the cell. (B) Host cell detect viral proteins and nucleic acids
+  through PRRs and induce interferon pathway signaling. (C) Activated interferon response
+  through JAK/STAT pathway inhibits viral cycle unless blocked by viral proteins.
+  Yellow squares represent host proteins participating in antiviral response; orange
+  dots illustrate phosphorylation events. Red circles stand for coronaviral structural
+  proteins; green for orfs; and blue for nsps.
+article_title: 'Coronaviral Infection and Interferon Response: The Virus-Host Arms
+  Race and COVID-19.'
+citation: Qi Liu, et al. Viruses. 2022 Jul;14(7):1349.
+year: '2022'
+
+doi: 10.3390/v14071349
+journal_title: Viruses
+journal_nlm_ta: Viruses
+publisher_name: MDPI
+
+keywords:
+- SARS-CoV-2
+- COVID-19
+- pattern-recognition receptor
+- PRR
+- interferon
+- innate immune
+- antiviral drug
+
+---

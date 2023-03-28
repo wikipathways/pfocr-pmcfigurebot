@@ -1,0 +1,61 @@
+---
+figid: PMC9313492__ADVS-9-2105126-g007
+pmcid: PMC9313492
+image_filename: ADVS-9-2105126-g007.jpg
+figure_link: /pmc/articles/PMC9313492/figure/advs4045-fig-0001/
+number: Figure 1
+figure_title: ''
+caption: 'In vivo CRISPR/Cas9 screens identify metabolic genes that determine HCC
+  cell tumorigenicity. a) Venn diagram showing the overlapping differentially expressed
+  metabolism‐related genes between 12 paired HCC patients and 50 paired TCGA‐LIHC
+  patients. b) A schematic diagram of the in vivo CRISPR/Cas9 screening. c) The genes
+  were ranked on the basis of their corresponding RIGER p value for the metabolism‐related
+  genes from the CRISPR/Cas9 screens. Analysis was performed using the RIGER algorithm.
+  d) Enrichment of KEGG pathways. The horizontal axis shows the fold enrichment score
+  in each signaling pathway. The color of the points in the figure represents the
+  significance of the enrichment, and the size of the points represents the count
+  of the genes enriched in each signaling pathway. e) Venn diagram showing the number
+  of genes between the oncogenic metabolic genes identified from the CRISPR/Cas9 screens
+  and the genes with upregulated expression, which were significantly associated with
+  poor survival and an embryonic stem cell‐like gene expression signature in the TCGA‐LIHC
+  cohort. Metabolic_genes: 35 of 67 metabolism‐related genes were metabolic enzyme
+  genes, which directly participate in metabolic pathways. Upregulation: 37 of 67
+  metabolism‐related genes were upregulated in HCC. LIHC_survival: 24 of 67 metabolism‐related
+  genes were associated with worse overall survival (OS) in HCC patients from TCGA‐LIHC.
+  ES_signature: 27 of 67 metabolism‐related genes were highly associated with embryonic
+  stem cell‐like gene expression signature. f) GSEA analysis of the previously defined
+  ESC‐like module and metabolic gene expression in the TCGA‐LIHC cohort. The upper
+  diagram shows the gene enrichment score as a dotted line. The horizontal axis shows
+  each gene in this gene set, and the vertical axis shows the corresponding correlation
+  coefficient with the indicated gene in patients from the TCGA‐LIHC cohort. Association
+  between the enrichment of ES cell‐like gene expression signature and the expression
+  of four metabolic genes in HCC tumor samples were shown by GSEA analysis. The mRNA
+  level of the indicated metabolic gene was correlated significantly with that of
+  the ES cell‐like gene. g) Upregulation patterns of four genes across different cancer
+  types (y axis) compared with those of paired normal samples (FC > 1.5; t‐test corrected
+  p < 0.05). The color intensity indicates the fold change, and the point size indicates
+  the significance of the p value. Upper bars show the frequency of cancer types,
+  with upregulation for each metabolic gene. h) Association of the expression of four
+  genes with patient overall survival times based on univariate Cox proportional hazards
+  models in different cancer types. Size denotes statistical significance at a given
+  FDR. Color denotes the hazard ratio. Dots with black edges denote significant difference
+  (Cox p < 0.05). i) HK2 expression between HCC patients and normal tissues from the
+  TCGA LIHC dataset in the GEPIA database (top). Kaplan‐Meier curves show overall
+  survival in the TCGA LIHC dataset in the GEPIA database (lower).'
+article_title: CRISPR/Cas9 Screens Reveal that Hexokinase 2 Enhances Cancer Stemness
+  and Tumorigenicity by Activating the ACSL4‐Fatty Acid β‐Oxidation Pathway.
+citation: Hongquan Li, et al. Adv Sci (Weinh). 2022 Jul;9(21):2105126.
+year: '2022'
+
+doi: 10.1002/advs.202105126
+journal_title: Advanced Science
+journal_nlm_ta: Adv Sci (Weinh)
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- ACSL4
+- cancer cell stemness
+- fatty acid β‐oxidation
+- hexokinase 2
+
+---

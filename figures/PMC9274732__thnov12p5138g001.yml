@@ -1,0 +1,41 @@
+---
+figid: PMC9274732__thnov12p5138g001
+pmcid: PMC9274732
+image_filename: thnov12p5138g001.jpg
+figure_link: /pmc/articles/PMC9274732/figure/F1/
+number: Figure 1
+figure_title: ''
+caption: Molecular Comparison on KRAS-Mut versus-wild type colorectal cancer. (A)
+  A schematic plot summarized the KRAS signaling pathway and relevant inhibitors of
+  each node. (B) Kaplan-Meier curves for patients with KRAS-Mut and KRAS-WT groups
+  in the TCGA-COAD/READ cohort. (C) Subgroup analysis estimating clinical prognostic
+  value between KRAS-WT and KRAS-Mut type in TCGA cohort and cancer stage by univariate
+  Cox regression. The length of the horizontal line represented the 95% confidence
+  interval for each group. The vertical dotted line represented the hazard ratio (HR)
+  of all patients. (D) Top enriched gene pathways with RNA expression profile in KRAS-Mut
+  and -WT subgroups from TCGA cohort as assessed by using the GSEA algorithm. (E)
+  Scatterplots showing significance of RNA, protein (red), phosphorylation site (blue)
+  (signed -log10 p-value) abundance changes between KRAS-Mut and WT tumors in CPTAC
+  cohort as determined using the Wilcoxon rank-sum test. All identified sites are
+  represented and statistically significant gene (FDR < 0.05) specified by triangles.
+  (F) Arm-level somatic copy-number alteration (SCNA) events in KRAS-Mut versus -WT.
+  Red denotes amplification and blue denotes deletion. (G) Comparison of the aneuploidy
+  score between KRAS-Mut and WT subtype in TCGA. (H) The relationships among the top
+  25 mutated genes (including KRAS) with different somatic mutations frequency.
+article_title: Integrated multi-omics characterization of KRAS mutant colorectal cancer.
+citation: Wei Chong, et al. Theranostics. 2022;12(11):5138-5154.
+year: '2022'
+
+doi: 10.7150/thno.73089
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- Colorectal cancer
+- KRAS mutation
+- Proteogenomics
+- Molecular subtype
+- Prognosis
+
+---

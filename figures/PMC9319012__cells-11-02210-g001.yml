@@ -1,0 +1,49 @@
+---
+figid: PMC9319012__cells-11-02210-g001
+pmcid: PMC9319012
+image_filename: cells-11-02210-g001.jpg
+figure_link: /pmc/articles/PMC9319012/figure/cells-11-02210-f001/
+number: Figure 1
+figure_title: ''
+caption: 'RELA regulates UDP-GlcNAc synthesis. (A) Schematic view of the HBP pathway
+  from Fructose-6 phosphate (Fruc-6P) to the formation of UDP-GlcNAc. Metabolites
+  are colored in blue; enyzmes are green. UDP-GlcNAc is a donor for the N-glycosylation
+  of extracellular matrix (ECM) proteins, as well as protein GlcNAc-ylation. Abbreviations
+  are: GFPT, Glutamine-Fructose-6-Phosphate Transaminase; PGM, phosphoglucomutase;
+  UAP, UDP-N-Acetylglucosamine Pyrophosphorylase; and GNPNAT, Glucosamine-Phosphate
+  N-Acetyltransferase. (B) Western blot of RELA in doxycycline-regulated hSAECs. Cells
+  were cultured in the absence (-) or presence (+) of DOX before whole cell lysis.
+  Top panel, anti-RELA staining (green); bottom panel, β-actin staining (green) as
+  housekeeping control. The prominent 65kDa RELA staining is depleted after DOX treatment.
+  MWM, molecular-weight markers (red). (C) qRT-PCR. Cells cultured in the absence
+  or presence of DOX were mock-infected or RSV-infected for 24 h prior to qRT-PCR.
+  Data are expressed as a fold change of the untreated control, normalized to PP1A.
+  Each symbol is a biological replicate (n = 3). Top panel, RELA mRNA; bottom panel,
+  IL6 mRNA. Data are significant by ANOVA. **, p < 0.01 by post-hoc Tukey comparison.
+  (D) Cytoplasmic UDP-GlcNAc abundance. Cells were treated as in panel (C), and total
+  cellular UDP-GlcNAc was measured by LC-MS/MS. *, p < 0.01. (E) qRT-PCR of RELA depleted
+  hSAECs by siRNA. hSAECs were transfected with scrambled (Scr) or RELA-targeting
+  siRNA. Top panel, fold change of RELA mRNA; bottom panel, IL6 mRNA. (F) UDPG-GlcNAc
+  in siRNA- transfected cells. Intracellular UDP-GlcNAc was measured in control siRNA
+  or RELA-siRNA transfected cells in the absence or presence of RSV infection. *,
+  p < 0.01; ns, not significant.'
+article_title: RELA∙8-Oxoguanine DNA Glycosylase1 Is an Epigenetic Regulatory Complex
+  Coordinating the Hexosamine Biosynthetic Pathway in RSV Infection.
+citation: Xiaofang Xu, et al. Cells. 2022 Jul;11(14):2210.
+year: '2022'
+
+doi: 10.3390/cells11142210
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- RSV
+- hexosamine biosynthetic pathway
+- GFPT2
+- innate immunity
+- RELA
+- DNA-damage repair
+- 8-oxoguanine DNA glycosylase1
+
+---

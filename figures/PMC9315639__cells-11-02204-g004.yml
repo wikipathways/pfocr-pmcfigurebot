@@ -1,0 +1,30 @@
+---
+figid: PMC9315639__cells-11-02204-g004
+pmcid: PMC9315639
+image_filename: cells-11-02204-g004.jpg
+figure_link: /pmc/articles/PMC9315639/figure/cells-11-02204-f004/
+number: Figure 4
+figure_title: ''
+caption: Functional enrichment of the gene cluster1 with the highest score of MCODE.
+  (A) STRING reveals the interaction of genes in cluster 1. (B) Functional enrichment
+  analyses of genes in cluster 1. (C) Network Analyst is used to validate the enrichment
+  results and genes involved in extracellular matrix (ECM)-receptor interaction are
+  noted in blue. The red nodes indicate protein digestion and absorption pathway and
+  the violet nodes represent the genes involved in cytokine-cytokine receptor interaction.
+article_title: Integrated Analysis of LncRNA-Mediated ceRNA Network in Calcific Aortic
+  Valve Disease.
+citation: Long Chen, et al. Cells. 2022 Jul;11(14):2204.
+year: '2022'
+
+doi: 10.3390/cells11142204
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- long non-coding RNAs
+- competitive endogenous RNA networks
+- bioinformatics
+- calcific aortic valve disease
+
+---

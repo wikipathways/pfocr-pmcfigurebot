@@ -1,0 +1,39 @@
+---
+figid: PMC9297827__gr7
+pmcid: PMC9297827
+image_filename: gr7.jpg
+figure_link: /pmc/articles/PMC9297827/figure/fig0007/
+number: Figure 7
+figure_title: ''
+caption: Protein-protein interaction network (PPIN) analysis predicts ER stress in
+  AT2 cells as a driver pathophysiology in COVID-19. a. Schematic summarizes the key
+  steps in building a PPI network using as ‘seeds’ the genes in the sVIP, AT2 senescence
+  and transition state arrest (DATP) signatures and connecting them using shortest
+  paths prior to carrying out network analyses. b. The combined PPI network is shown
+  on the left and the degree of connectivity is indicated. See also Supplemental Information
+  5 for the complete list of nodes sorted by their degrees of connectivity. Schematics
+  on the right summarize the results of CluGo analysis, which identifies cellular
+  processes and key genes that may perpetuate lung fibrosis. c. Reactome pathway analysis
+  of the PPI network lists the most significant pathways that are associated with
+  the node list in the network in B. Red = senescence related processes; Green = DNA
+  damage response pathways; Blue = Platelet activation and degranulation.
+article_title: COVID-19 lung disease shares driver AT2 cytopathic features with Idiopathic
+  pulmonary fibrosis.
+citation: Saptarshi Sinha, et al. eBioMedicine. 2022 Aug;82:104185.
+year: '2022'
+
+doi: 10.1016/j.ebiom.2022.104185
+journal_title: eBioMedicine
+journal_nlm_ta: eBioMedicine
+publisher_name: Elsevier
+
+keywords:
+- Artificial intelligence/machine learning
+- Immune response
+- Alveolar type II pneumocytes
+- Damage-associated transient progenitor (DATP)
+- Senescence
+- ER-stress
+- Interleukin 15 (IL15)
+
+---

@@ -1,0 +1,29 @@
+---
+figid: PMC9360853__ajtr0014-4990-f5
+pmcid: PMC9360853
+image_filename: ajtr0014-4990-f5.jpg
+figure_link: /pmc/articles/PMC9360853/figure/fig05/
+number: Figure 5
+figure_title: ''
+caption: Signal transduction pathway enrichment. Kyoto Encyclopedia of Genes and Genomes
+  (KEGG) analyses were conducted using the clusterProfiler package of R software.
+  P value <0.05 was set as the cutoff criterion. The tumor associated signal pathways
+  with frequent gene mutations are PI3K-Akt, MAPK, and Ras signaling pathways.
+article_title: Genomic mutation characteristics and prognosis of biliary tract cancer.
+citation: Lingling Guo, et al. Am J Transl Res. 2022;14(7):4990-5002.
+year: '2022'
+
+doi: ''
+journal_title: American Journal of Translational Research
+journal_nlm_ta: Am J Transl Res
+publisher_name: e-Century Publishing Corporation
+
+keywords:
+- Gene mutation
+- somatic mutation
+- germline mutation
+- mutation landscape
+- biliary tract cancer
+- prognosis
+
+---

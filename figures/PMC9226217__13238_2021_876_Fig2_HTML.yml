@@ -1,0 +1,49 @@
+---
+figid: PMC9226217__13238_2021_876_Fig2_HTML
+pmcid: PMC9226217
+image_filename: 13238_2021_876_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC9226217/figure/Fig2/
+number: Figure 2
+figure_title: ''
+caption: Closed-loop-mediated cell-based therapies. (A) Cell-to-cell mediated control
+  of designer cells. This approach utilizes an antigen (biomarker) exposed on the
+  surface of the targeted cell, and a physical interaction is needed for activation
+  of the designer cell. SUPRA is a generalized CAR platform that enables a unique
+  T cell to bind to different user-defined antigens and to trigger an endogenous signaling
+  pathway upon activation. SynNotch relies on cleavage of a chimeric receptor after
+  cell-cell interaction. The cleaved intracellular domain of synNotch translocates
+  to the nucleus and initiates transcription of a desired therapeutic gene. Another
+  cell-contact sensor is based on physical segregation of CD43ex-45int. In the absence
+  of a target cell, CD43ex-45int suppresses an implemented JAK/STAT pathway. Once
+  the designer cell binds to a targeted cell, CD43ex-45int is segregated from the
+  cell–cell interface due to the physical force applied to the large extracellular
+  domain of CD43ex-45int. Therefore, the JAK/STAT pathway will be activated and initiate
+  expression of a therapeutic protein. (B) Metabolite-mediated closed-loop systems.
+  A high level of soluble biomarker can stimulate designer cells to produce therapeutic
+  agents to balance the level of the biomarker. In an immunomimetic cell, a TLR platform
+  is used to activate the NFκB pathway and express an antibacterial peptide (lysostaphin)
+  to treat MRSA. The β-cell-mimetic designer cell is designed to sense a high level
+  of glucose in a diabetic model and to produce insulinogenic proteins (insulin and
+  hGLP1) through expression of Cav1.3 on HEK293 cells rewired to a synthetic expression
+  unit. The biomedical tattoo utilizes a designer cell that enables early disease
+  detection by sensing a high level of calcium, and produces tyrosinase upon activation.
+  Tyrosinase mediates production of melanin, a black pigment, in the engineered designer
+  cells
+article_title: 'Therapeutic cell engineering: designing programmable synthetic genetic
+  circuits in mammalian cells.'
+citation: Maysam Mansouri, et al. Protein Cell. 2022 Jul;13(7):476-489.
+year: '2022'
+
+doi: 10.1007/s13238-021-00876-1
+journal_title: Protein & Cell
+journal_nlm_ta: Protein Cell
+publisher_name: Higher Education Press
+
+keywords:
+- synthetic biology
+- cell-based therapy
+- cell engineering
+- therapeutic gene expression
+- controllable genetic circuits
+
+---

@@ -1,0 +1,53 @@
+---
+figid: PMC9403491__gr1
+pmcid: PMC9403491
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC9403491/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: mGluR-LTD requires the CaMKIIα isoform and its autophosphorylation at T286
+  but not T305/306.A, example traces and time course of synaptic response, measured
+  by excitatory postsynaptic potential (EPSP) slope of the CA3-CA1 Schaffer collateral
+  pathway, in wildtype hippocampal slices before and after chemical mGluR stimulation
+  with DHPG (10 μM for 10 min). B, example traces and time course of synaptic response
+  in CaMKIIα KO slices before and after the same DHPG treatment as in A show abolished
+  mGluR-LTD. C, example traces and time course of synaptic response in T286A slices before
+  and after DHPG treatment. D, example traces and time course of synaptic response
+  in T305/306AV slices before and after stimulation with DHPG (10 μM for 10 min).
+  E, quantification of the change in synaptic response (measured by EPSP slope) after
+  DHPG stimulation in wildtype, CaMKIIα KO, T286A, and T305/306AV slices. Both CaMKII
+  KO and T286A animals demonstrated severe impairments in DHPG-induced mGluR LTD when
+  compared with wildtype animals while T305/306AV slices did not show any LTD deficit,
+  indicating CaMKII and its T286 autophosphorylation are required for mGluR LTD (one-way
+  ANOVA, Tukey’s post hoc test versus WT, ∗∗∗p < 0.001, n = 6, 6, 7, 5 slices).
+article_title: CaMKII T286 phosphorylation has distinct essential functions in three
+  forms of long-term plasticity.
+citation: Sarah G. Cook, et al. J Biol Chem. 2022 Sep;298(9):102299.
+year: '2022'
+
+doi: 10.1016/j.jbc.2022.102299
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- synaptic plasticity
+- long-term potentiation (LTP)
+- long-term depression (LTD)
+- Ca2+/calmodulin-dependent protein kinase II (CaMKII)
+- N-methyl-D-aspartate receptor (NMDA receptor, NMDAR)
+- metabotropic glutamate receptor (mGluR)
+- hippocampus
+- neurons
+- ACSF, artificial cerebral spinal fluid
+- CaMKII, Ca2+/calmodulin-dependent protein kinase II
+- cLTD, chemical LTD
+- cLTP, chemical LTP
+- DHPG, (S)-3,5-dihydroxyphenylglycine
+- DIV, days in vitro
+- LTD, long-term depression
+- LTP, long-term potentiation
+- mGluR, metabotropic glutamate receptor
+- NMDAR, NMDA-type glutamate receptor
+
+---

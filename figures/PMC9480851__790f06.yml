@@ -1,0 +1,49 @@
+---
+figid: PMC9480851__790f06
+pmcid: PMC9480851
+image_filename: 790f06.jpg
+figure_link: /pmc/articles/PMC9480851/figure/GAD349249FENF6/
+number: Figure 6
+figure_title: ''
+caption: Clinical response in patients with PBRM1 mutation is associated with innate
+  immune signaling and cGAS expression. (A,B) Significantly enriched KEGG gene sets
+  (false discovery rate [FDR] q-value < 0.25) by gene set enrichment analysis (GSEA)
+  from Checkmate trial data in PBRM1 mutant patients treated with nivolumab with complete
+  or partial response (CR/PR) over progressive disease (PD) (A) and from Javelin renal
+  101 trial data in PBRM1 mutant patients treated with avelumab plus axitinib with
+  the upper 20% PFS over the lower 20% PFS (B). Immune signaling KEGG gene sets are
+  marked in red. (C,D) Corresponding gene set enrichment analysis (GSEA) plots of
+  gene set “KEGG cytosolic DNA-sensing pathway” as an example of the analysis in A
+  and B. The false discovery rate (FDR) q-value is indicated. (E,F) Box and whisker
+  plots showing gene expression of cGAS (MB21D1) from Checkmate trial data in PBRM1
+  WT or mutant patients treated with nivolumab with complete or partial response (CR/PR)
+  over progressive disease (PD) (E) and from Javelin renal 101 trial data in PBRM1
+  WT or mutant patients treated with avelumab with the upper 20% PFS over the lower
+  20% PFS (F). Each data point represents an individual patient. Box plot hinges denote
+  the 25th–75th percentiles, central lines denote the median, and whiskers extend
+  to the highest and lowest values (Wilcoxon rank sum test).
+article_title: PBAF loss leads to DNA damage-induced inflammatory signaling through
+  defective G2/M checkpoint maintenance.
+citation: Hugang Feng, et al. Genes Dev. 2022 Jul 1;36(13-14):790-806.
+year: '2022'
+
+doi: 10.1101/gad.349249.121
+journal_title: Genes & Development
+journal_nlm_ta: Genes Dev
+publisher_name: Cold Spring Harbor Laboratory Press
+
+keywords:
+- SWI/SNF
+- BAF
+- PBRM1
+- BAF180
+- DREAM complex
+- p21
+- TP53
+- G2/M checkpoint
+- immunotherapy
+- cGAS
+- DNA damage
+- inflammatory signaling
+
+---

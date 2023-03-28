@@ -1,0 +1,70 @@
+---
+figid: PMC9424593__gr9
+pmcid: PMC9424593
+image_filename: gr9.jpg
+figure_link: /pmc/articles/PMC9424593/figure/fig9/
+number: Figure 9
+figure_title: ''
+caption: Network analysis of DEGs from Ccnd1highand Ccnd1lowintra-tumoral myeloid
+  cells. (A) Distinct transcriptional profiles of Ccnd1high and Ccnd1low intra-tumoral
+  myeloid cells obtained from the CT26 tumor cell-bearing mouse model. Uniform manifold
+  approximation and projection (UMAP) plot for myeloid cell subclusters. (B) Proportion
+  of myeloid cluster 13 between the control and AB680-treated tumors. (C) UMAP plot
+  for the expression of Ccnd1 and Entpd1 in myeloid cells. (D) Heat map representing
+  cluster-specific gene expressions. (E) Volcano blot for Ccnd1low intra-tumoral myeloid
+  cells, compared to Ccnd1high intra-tumoral myeloid cells. (F) UMAP plot for the
+  expression of inflammatory response- and leukocyte migration-related genes. (G)
+  Comparative scRNA-seq analysis of Ccnd1low intratumoral myeloid cells, as compared
+  with Ccnd1high intratumoral myeloid cells. In the functional network, each node
+  represents a GO biological pathway, and the edges indicate the relationships among
+  biological pathways, based on kappa values.
+article_title: Additive Effect of CD73 Inhibitor in Colorectal Cancer Treatment With
+  CDK4/6 Inhibitor Through Regulation of PD-L1.
+citation: Ji-Yoon Noh, et al. Cell Mol Gastroenterol Hepatol. 2022;14(4):769-788.
+year: '2022'
+
+doi: 10.1016/j.jcmgh.2022.07.005
+journal_title: Cellular and Molecular Gastroenterology and Hepatology
+journal_nlm_ta: Cell Mol Gastroenterol Hepatol
+publisher_name: Elsevier
+
+keywords:
+- CD73 Ecto-enzyme
+- Colorectal Cancer
+- Extracellular Adenosine
+- Programmed Death-Ligand 1
+- AMP, adenosine monophosphate
+- AOM, azoxymethane
+- ATP, adenosine triphosphate
+- cAMP, cyclic AMP
+- CCND1, cyclin D1
+- CD39, ectonucleoside triphosphate diphosphohydrolase-1
+- CD73, ecto-5'-nucleotidase
+- CDK 4/6, cyclin-dependent kinase 4/6
+- CRC, colorectal cancer
+- CUL3/4B, Cullin-3/4B
+- DEG, differentially expressed gene
+- DEP, differentially expressed protein
+- DSS, dextran sulfate sodium
+- ELISA, enzyme-linked immunosorbent assay
+- FBS, fetal bovine serum
+- GO, Gene Ontology
+- IHC, immunohistochemical
+- IL, interleukin
+- IP, immunoprecipitation
+- LC-MS/MS, liquid chromatography-tandem mass spectrometry
+- M-CSF, macrophage colony-stimulating factor
+- PB, peripheral blood
+- PD-1, programmed death 1
+- PD-L1, programmed death-ligand 1
+- RNA-seq, RNA sequencing
+- scRNA-seq, single-cell RNA sequencing
+- shRNA, short hairpin RNA
+- SPOP, speckle-type POZ protein
+- TAM, tumor-associated macrophage
+- TCGA, The Cancer Genome Atlas
+- 3D, 3-dimensional
+- TNF, tumor necrosis factor
+- TME, tumor microenvironment
+
+---

@@ -1,0 +1,30 @@
+---
+figid: PMC9356732__msac160f3
+pmcid: PMC9356732
+image_filename: msac160f3.jpg
+figure_link: /pmc/articles/PMC9356732/figure/msac160-F3/
+number: Fig. 3
+figure_title: ''
+caption: Ratio of nonsynonymous to synonymous changes (dN/dS) mapped on the Toll-like
+  receptor signaling pathway from the KEGG database (; ; ). Each box represents one
+  gene in the pathway and the color within the box shows dN/dS for that particular
+  gene. dN/dS was estimated from a total of 26 species of waterfowl using PAML. Small
+  boxes without a color indication were not included in the hybrid capture, usually
+  because they were not annotated in the mallard genome at the start of the study.
+article_title: Comparative Genomics of the Waterfowl Innate Immune System.
+citation: Elinor Jax, et al. Mol Biol Evol. 2022 Aug;39(8):msac160.
+year: '2022'
+
+doi: 10.1093/molbev/msac160
+journal_title: Molecular Biology and Evolution
+journal_nlm_ta: Mol Biol Evol
+publisher_name: Oxford University Press
+
+keywords:
+- DNA polymorphism
+- genetic divergence
+- natural selection
+- mallard
+- Anatidae
+
+---

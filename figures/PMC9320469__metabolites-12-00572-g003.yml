@@ -1,0 +1,43 @@
+---
+figid: PMC9320469__metabolites-12-00572-g003
+pmcid: PMC9320469
+image_filename: metabolites-12-00572-g003.jpg
+figure_link: /pmc/articles/PMC9320469/figure/metabolites-12-00572-f003/
+number: Figure 3
+figure_title: ''
+caption: Pathway-associated metabolite set enrichment analysis (MSEA) for MPS vs.
+  CONT. (A) Plot displaying affected biological processes in multigenerationally stressed
+  (MPS) compared to non-stressed control (CONT) rats based on metabolites identified
+  as significantly different between these groups. The p-value for each pathway is
+  indicated in the gradient on the right side. The fold enrichment shows how many
+  times greater than chance the pathway is involved. (B) Metabolomic pathway analysis
+  showing all matched pathways according to p-values from pathway enrichment analysis
+  and pathway impact values from pathway topology analysis in MPS and non-stressed
+  CONT rats. The y-axis shows the negative natural log of p, such that a higher value
+  on the y-axis gives a lower p-value. The x-axis indicates the pathway impact, which
+  correlates to the number of metabolite hits in a particular pathway. Only metabolic
+  pathways with p < 0.05 are labeled. MPS had the highest impact on the glycine, serine,
+  and threonine metabolism.
+article_title: Trans- and Multigenerational Maternal Social Isolation Stress Programs
+  the Blood Plasma Metabolome in the F3 Generation.
+citation: Joshua P. Heynen, et al. Metabolites. 2022 Jul;12(7):572.
+year: '2022'
+
+doi: 10.3390/metabo12070572
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: MDPI
+
+keywords:
+- prenatal maternal stress (PNMS)
+- social isolation stress
+- metabolomics
+- transgenerational stress
+- multigenerational stress
+- 1H NMR spectroscopy
+- biomarkers
+- risk prediction
+- developmental origins of health and disease (DOHaD)
+- diabetes
+
+---

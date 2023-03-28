@@ -1,0 +1,35 @@
+---
+figid: PMC9311917__biology-11-00975-g006
+pmcid: PMC9311917
+image_filename: biology-11-00975-g006.jpg
+figure_link: /pmc/articles/PMC9311917/figure/biology-11-00975-f006/
+number: Figure 6
+figure_title: ''
+caption: 'The gene sets positively correlated with EIF4A1 contribute to cancer cell
+  growth and immunity suppression. The GSVA score of the gene set positively correlated
+  with EIF4A1, sub-grouped by normal and tumor tissues (A) and clinical stages (B).
+  The survival associations using different outcome indicators in high- or low-GSVA
+  score patients of LUAD (C). KEGG pathway of the gene set positively correlated with
+  EIF4A1 (D). Pathway analysis of the gene set positively correlated with EIF4A1 in
+  the canonical pathway (E) and disease and function (F), as assessed via IPA. The
+  correlation of immune cell infiltration with the GSVA score of the gene set positively
+  correlated with EIF4A1 (G). ****: p < 0.001.'
+article_title: Characterization of the Oncogenic Potential of Eukaryotic Initiation
+  Factor 4A1 in Lung Adenocarcinoma via Cell Cycle Regulation and Immune Microenvironment
+  Reprogramming.
+citation: Kuan-Li Wu, et al. Biology (Basel). 2022 Jul;11(7):975.
+year: '2022'
+
+doi: 10.3390/biology11070975
+journal_title: Biology
+journal_nlm_ta: Biology (Basel)
+publisher_name: MDPI
+
+keywords:
+- cell cycle
+- DNA repair
+- EIF4A1
+- LUAD
+- tumor immune microenvironment
+
+---

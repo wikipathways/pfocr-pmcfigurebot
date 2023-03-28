@@ -1,0 +1,32 @@
+---
+figid: PMC9320639__ijms-23-07494-g004
+pmcid: PMC9320639
+image_filename: ijms-23-07494-g004.jpg
+figure_link: /pmc/articles/PMC9320639/figure/ijms-23-07494-f004/
+number: Figure 4
+figure_title: ''
+caption: Hub signaling pathways from KEGG enrichment analysis of up- and down-regulated
+  key genes. (A) Dot plot of KEGG signaling pathways for up-regulated key genes. (B)
+  Dot plot of KEGG signaling pathways of down-regulated key genes. (C) Network of
+  top 10 hub pathways for up-regulated key genes. (D) Network of top 10 hub pathways
+  for down-regulated key genes. Nodes represent pathways and edges represent Jaccard
+  similarity coefficients. Node color and size stand for the enrichment p-value and
+  the number of genes in the pathway, respectively.
+article_title: Transcriptomic Profiling Revealed Signaling Pathways Associated with
+  the Spawning of Female Zebrafish under Cold Stress.
+citation: Guodong Ge, et al. Int J Mol Sci. 2022 Jul;23(14):7494.
+year: '2022'
+
+doi: 10.3390/ijms23147494
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- reproduction
+- spawn
+- cold stress
+- RNA-seq
+- hormone
+
+---

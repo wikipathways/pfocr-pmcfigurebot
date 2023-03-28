@@ -1,0 +1,55 @@
+---
+figid: PMC9258491__jitc-2022-005041f02
+pmcid: PMC9258491
+image_filename: jitc-2022-005041f02.jpg
+figure_link: /pmc/articles/PMC9258491/figure/F2/
+number: Figure 2
+figure_title: ''
+caption: 'Exploratory biomarker analysis. (A) Landscape of genetic alterations in
+  study samples obtained from 24 patients with advanced gastric cancer (AGC). Top
+  to bottom: non-synonymous tumor mutational burden (TMB) in the exome, response to
+  the study treatment, durability of clinical response, subtype of gastric cancer
+  defined by The Cancer Genome Atlas (TCGA), microsatellite stability, HER2 expression,
+  PD-L1 positivity, ATM expression, homologous recombination repair status, somatic
+  singe nucleotide variations in selected canonical oncogenes and tumor suppressor
+  genes, mutational signatures of somatic mutations, and the proportion of single
+  base substitution subtypes in each sample. Response was defined to be durable if
+  treatment duration was more than 6 months. Samples with ATM loss and/or high HRD
+  signature were considered to have deficient homologous recombination repair. We
+  assessed the enrichment of mutation groups in responders or non-responders using
+  two-tailed Student’s t-test. Genes are grouped by pathway or function. The corresponding
+  log-transformed p values are illustrated on the right with bar plots: Black bars
+  represent comparison of responders (PR) and progressors (SD, PD) and gray bars represent
+  comparison of PR and PD. Significantly enriched mutation groups in responders are
+  marked by asterisks (*). (B) The exonic tumor mutational burden in patients with
+  PR, SD, and PD to the study treatment. The statistical significance of the differences
+  was estimated by the Wilcoxon signed-rank test. (C) A scatter plot simultaneously
+  demonstrating the PFS, x-axis, best response from baseline in tumor size (y-axis),
+  ATM expression (color), and proportion of mutational signature attributable to deficient
+  HRD signature, size). (D) Kaplan-Meier plots of PFS among study patients according
+  to ATM expression and proportion of HRD signature. Samples with HRD signature proportion
+  higher than the average were defined as those with high proportion of HRD signature
+  (sig. HRDHi). (E) A forest plot demonstrating multivariate analysis of factors associated
+  with PFS. HRs and corresponding p values were estimated using multivariate cox regression
+  hazard model. CIN, chromosomal instability; CPS, combined positive score; GS, genomically
+  stable; HR, homologous recombination; HRD, homologous recombination deficiency;
+  mPFS, median progression-free survival; MSI, microsatellite instability; PD, progressive
+  disease; PFS, progression-free survival; PR, partial response; SBS, single-base
+  substitution; SD, stable disease; TMB, tumor mutational burden.'
+article_title: Phase II study of ceralasertib (AZD6738) in combination with durvalumab
+  in patients with advanced gastric cancer.
+citation: Minsuk Kwon, et al. J Immunother Cancer. 2022;10(7):e005041.
+year: '2022'
+
+doi: 10.1136/jitc-2022-005041
+journal_title: Journal for Immunotherapy of Cancer
+journal_nlm_ta: J Immunother Cancer
+publisher_name: BMJ Publishing Group
+
+keywords:
+- gastrointestinal neoplasms
+- genome instability
+- clinical trials, phase II as topic
+- programmed cell death 1 receptor
+
+---

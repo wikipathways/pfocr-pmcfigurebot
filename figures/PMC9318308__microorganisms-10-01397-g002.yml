@@ -1,0 +1,40 @@
+---
+figid: PMC9318308__microorganisms-10-01397-g002
+pmcid: PMC9318308
+image_filename: microorganisms-10-01397-g002.jpg
+figure_link: /pmc/articles/PMC9318308/figure/microorganisms-10-01397-f002/
+number: Figure 2
+figure_title: ''
+caption: 'Representation of metabolism and growth in metabolic heat equivalents. H0:
+  heat equivalent produced by the initial amount of nutrients if metabolized in a
+  single biochemical pathway by cultured cells. Hf: heat equivalent of the amount
+  of nutrients that generates half-maximal metabolic thermal power (analogous to a
+  Langmuir adsorption constant describing half-maximal binding site occupation on
+  a catalytic surface A). ΔH: heat released by a cell during the time Δt between cell
+  divisions (symbolized by arrows). ΔA: increment in apparently catalytic surface
+  A due to formation of a new cell. H(t): accumulated released heat up to time t in
+  proportion to the amount of biomass; the latter provides an apparent nutrient-adsorbing
+  total catalytic surface A. Θ: “metabolic load” describing the fraction of occupied
+  nutrient-binding sites on A (H0− H(t) scales with the amount of nutrients at time
+  t). P: thermal power of a culture of microorganisms expressed as the product of
+  released heat H, maximal growth rate r0 (Methods, Equations (1a) and (1b) and condition
+  for Equation (3c)) and ”metabolic load” Θ.'
+article_title: Simple Growth–Metabolism Relations Are Revealed by Conserved Patterns
+  of Heat Flow from Cultured Microorganisms.
+citation: Karim Fahmy. Microorganisms. 2022 Jul;10(7):1397.
+year: '2022'
+
+doi: 10.3390/microorganisms10071397
+journal_title: Microorganisms
+journal_nlm_ta: Microorganisms
+publisher_name: MDPI
+
+keywords:
+- bacteria
+- enzyme kinetics
+- heavy metals
+- isothermal microcalorimetry
+- Michaelis–Menten
+- toxicity
+
+---

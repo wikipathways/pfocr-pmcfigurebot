@@ -1,0 +1,52 @@
+---
+figid: PMC9295154__sb2c00075_0002
+pmcid: PMC9295154
+image_filename: sb2c00075_0002.jpg
+figure_link: /pmc/articles/PMC9295154/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: Sustainable glycerol 3-phosphate synthesis fueled by enzymatic ATP recycling.
+  (A) Schematic of sustainable enzymatic network with recycling of metabolic energy
+  and product formation. We envision a selectively open system where macromolecules
+  are retained, while reactants are exchanged with the external medium either by membrane
+  proteins (impermeable solutes) or by passive diffusion (permeable solutes) to maintain
+  the system out of equilibrium for a prolonged period of time. Substrates are fed
+  from the external medium (purple), while end-products are either recycled internally
+  (cofactors) or exported (waste products) (green). The system ultimately reaches
+  equilibrium if the external medium is not refreshed or infinitely large in volume,
+  as is the case with vesicles in a test tube. (B) Schematic of enzymatic network
+  for sustainable glycerol 3-phosphate synthesis, fueled by ATP generation and recycling
+  via l-arginine breakdown. The arginine breakdown pathway is composed of an l-arginine/l-ornithine
+  antiporter (ArcD2) and three cytosolic proteins (ArcA, ArcB, and ArcC1). In this
+  system, l-arginine is imported from the external medium and used to phosphorylate
+  ADP. The end-product l-ornithine is exported in exchange for l-arginine. Other end-products
+  (CO2 and NH3) leave the vesicles passively according to their concentration gradient
+  across the membrane bilayer. The vesicles carry the ionophores valinomycin and nigericin
+  to dissipate any gradient of H+ and K+ or the possible formation of a membrane potential.
+  (C) Chemical structure of glycerol and glycerol 3-phosphate. (D) Size-exclusion
+  chromatogram and SDS-PAA gel image (inset) of purified E. coli GlpK (57 kDa).
+article_title: ATP Recycling Fuels Sustainable Glycerol 3-Phosphate Formation in Synthetic
+  Cells Fed by Dynamic Dialysis.
+citation: Eleonora Bailoni, et al. ACS Synth Biol. 2022 Jul 15;11(7):2348-2360.
+year: '2022'
+
+doi: 10.1021/acssynbio.2c00075
+journal_title: ACS Synthetic Biology
+journal_nlm_ta: ACS Synth Biol
+publisher_name: American Chemical Society
+
+keywords:
+- |-
+  sustainable minimal
+  metabolism
+- selectively open system
+- |-
+  continuous-flow
+  dialysis
+- ATP recycling
+- |-
+  phospholipid
+  headgroup synthesis
+- glycerol 3-phosphate
+
+---

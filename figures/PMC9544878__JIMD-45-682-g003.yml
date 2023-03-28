@@ -1,0 +1,49 @@
+---
+figid: PMC9544878__JIMD-45-682-g003
+pmcid: PMC9544878
+image_filename: JIMD-45-682-g003.jpg
+figure_link: /pmc/articles/PMC9544878/figure/jimd12522-fig-0002/
+number: FIGURE 2
+figure_title: ''
+caption: Metabolite set enrichment analysis (MSEA) prioritises known inherited metabolic
+  disorder (IMD) biomarkers. (A) The row index distribution of all biomarker‐associated
+  features are shown ranked by feature intensity (yellow), MSEA pathway p‐value (purple)
+  and MSEA cluster p‐value (blue; see Section ). (B) An example patient (00057) with
+  cystathionine ß‐synthase (CBS) deficiency is shown. The number of biomarker‐associated
+  features in each category (significant features, yellow; significant features within
+  an MSEA‐enriched pathway, purple; significant features within an MSEA cluster, blue)
+  is indicated by a line. Along this line, biomarker‐associated features are shown;
+  their position indicates where they rank in the feature distribution sorted as described
+  in (A). (C) The same example patient (00057) with CBS deficiency is shown. Here
+  the length of the line represents the number of pathways (purple) or clustered pathways
+  (blue) and points represent the distribution of known biomarkers in these pathways
+  ranked by pathway p‐value (purple) or cluster p‐value (blue, see Section ). (D)
+  A pathway depicting what metabolites we found to be aberrant in a CBS deficiency
+  patient, who were in close proximity to CBS. Bold metabolites are known biomarkers
+  on IEMbase, underlined metabolites are part of our own metabolite panel, red metabolites
+  have aberrant features associated to them in our data and metabolites in italics
+  are false positive hits in the pathway as the associated aberrant feature was incorrectly
+  annotated, see Table S4C–F for more details.
+article_title: Application of metabolite set enrichment analysis on untargeted metabolomics
+  data prioritises relevant pathways and detects novel biomarkers for inherited metabolic
+  disorders.
+citation: Brechtje Hoegen, et al. J Inherit Metab Dis. 2022 Jul;45(4):682-695.
+year: '2022'
+
+doi: 10.1002/jimd.12522
+journal_title: Journal of Inherited Metabolic Disease
+journal_nlm_ta: J Inherit Metab Dis
+publisher_name: John Wiley & Sons, Inc.
+
+keywords:
+- biochemical pathways
+- biomarkers
+- cystathionine ß‐synthase
+- inborn errors of metabolism
+- inherited metabolic disorders
+- mass spectrometry
+- metabolite set enrichment analysis
+- next‐generation metabolic screening
+- untargeted metabolomics
+
+---

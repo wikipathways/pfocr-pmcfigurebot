@@ -1,0 +1,36 @@
+---
+figid: PMC9287733__gr3
+pmcid: PMC9287733
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9287733/figure/fig3/
+number: Fig. 3
+figure_title: ''
+caption: 'Model II: Nuclear NRF2 ultrasensitivity arising from multistep signaling.
+  (A) Structure of Model II, containing basal synthesis of cytosolic NRF2 (NRF2c)
+  (k0) and stressor S-induced synthesis due to translation enhancement (k1), KEAP1-independent
+  NRF2c degradation (k3), KEAP1-dependent NRF2c degradation (k2), inhibition of KEAP1
+  activity by S (Kd2), importation of NRF2c into the nucleus (k4), exportation of
+  nuclear NRF2 (NRF2n) (k5) which is inhibited by S (Kd5), and NRF2n degradation (k6).
+  (B) Simulated steady-state dose-response of NRF2c and NRF2n, with the latter exhibiting
+  a higher degree of ultrasensitivity. (C) Loss of ultrasensitivity of NRF2n when
+  only one of the three steps, (i) NRF2c stabilization, (ii) enhanced NRF2c translation,
+  and (iii) inhibited NRF2n exportation, is present as indicted. (D) Reduced ultrasensitivity
+  of NRF2n when two of the three steps are present as indicted.'
+article_title: Signal amplification in the KEAP1-NRF2-ARE antioxidant response pathway.
+citation: Shengnan Liu, et al. Redox Biol. 2022 Aug;54:102389.
+year: '2022'
+
+doi: 10.1016/j.redox.2022.102389
+journal_title: Redox Biology
+journal_nlm_ta: Redox Biol
+publisher_name: Elsevier
+
+keywords:
+- Oxidative stress
+- KEAP1
+- NRF2
+- ARE
+- Ultrasensitivity
+- Signal amplification
+
+---

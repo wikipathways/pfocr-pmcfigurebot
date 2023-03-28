@@ -1,0 +1,31 @@
+---
+figid: PMC9287814__gr3
+pmcid: PMC9287814
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9287814/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: Model selection and parameter estimation(A) Whisker plots associated with
+  random parameter set (), optimized parameter set using an evolutionary genetic algorithm
+  (), and parameter set () sampled with MCMC algorithm ().(B and C) Whisker plots
+  of the concentration ratio  for the model ensemble  (red) as compared with the mean
+  and SD of experimental values (black). (C) Whisker plots of a subset of normalized
+  reaction fluxes  for the model ensemble  ( in blue and  in red) as compared with
+  the mean and SD of estimated values (black).(D) Violin plots of parameters for the
+  model ensemble  where the explored parameter space is represented in white (non-gray).
+article_title: Quantitative modeling of pentose phosphate pathway response to oxidative
+  stress reveals a cooperative regulatory strategy.
+citation: Julien Hurbain, et al. iScience. 2022 Aug 19;25(8):104681.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.104681
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Biological sciences
+- Systems biology
+- Metabolomics
+
+---

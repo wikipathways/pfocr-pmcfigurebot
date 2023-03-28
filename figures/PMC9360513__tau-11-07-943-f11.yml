@@ -1,0 +1,30 @@
+---
+figid: PMC9360513__tau-11-07-943-f11
+pmcid: PMC9360513
+image_filename: tau-11-07-943-f11.jpg
+figure_link: /pmc/articles/PMC9360513/figure/f11/
+number: Figure 11
+figure_title: ''
+caption: Enrichment analysis of clusters. Enriched function of up-regulated genes
+  in clusters B&D from (A) C2 dataset of MsigDB and (B) hallmark dataset of MsigDB.
+  (C) Heatmap of GSVA containing all samples. (D) Cox multivariate regression of specific
+  pathway. *, P<0.05. MsigDB, The Molecular Signatures Database; GSVA, single-sample
+  gene set enrichment analysis.
+article_title: A single-sample mRNA molecular classification of bladder cancer predicting
+  prognosis and response to immunotherapy.
+citation: Kun Jin, et al. Transl Androl Urol. 2022 Jul;11(7):943-958.
+year: '2022'
+
+doi: 10.21037/tau-21-887
+journal_title: Translational Andrology and Urology
+journal_nlm_ta: Transl Androl Urol
+publisher_name: AME Publishing Company
+
+keywords:
+- Bladder cancer (BC)
+- immune microenvironment
+- single-sample mRNA molecular classification
+- phenotype
+- bioinformatics analysis
+
+---

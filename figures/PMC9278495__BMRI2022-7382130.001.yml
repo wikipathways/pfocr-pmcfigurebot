@@ -1,0 +1,31 @@
+---
+figid: PMC9278495__BMRI2022-7382130.001
+pmcid: PMC9278495
+image_filename: BMRI2022-7382130.001.jpg
+figure_link: /pmc/articles/PMC9278495/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: A schematic diagram showing analysis performed in this study. Network pharmacology
+  methods were used to identify effective targets of Celastrol through TCMSP database,
+  Swiss Target database, and Batman-TCM database. Potential effective targets related
+  to DCM were then identified using DisGeNET database, OMIM database, GeneCard database,
+  and GEO database (GSE4745). Further, common targets of Celastrol and DCM were determined
+  using a Venn diagram. STRING tool was used to construct PPI networks for targets
+  of Celastrol and DCM, and visualization was done using Cytoscape 3.7.1. KEGG enrichment
+  analysis was performed to explore signaling pathways of the drug and DCM that are
+  implicated in energy reconstruction. The metabolic pathway level of each sample
+  was quantified based on ssGSEA, and the relationship between major targets and energy
+  metabolism was explored through Spearman correlation analysis. Experiments on animals
+  were conducted to study alterations in signaling molecules.
+article_title: Investigating Celastrol's Anti-DCM Targets and Mechanisms via Network
+  Pharmacology and Experimental Validation.
+citation: Rui Xi, et al. Biomed Res Int. 2022;2022:7382130.
+year: '2022'
+
+doi: 10.1155/2022/7382130
+journal_title: BioMed Research International
+journal_nlm_ta: Biomed Res Int
+publisher_name: Hindawi
+
+keywords:
+---

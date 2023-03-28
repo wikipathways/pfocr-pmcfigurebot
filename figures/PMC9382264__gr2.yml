@@ -1,0 +1,38 @@
+---
+figid: PMC9382264__gr2
+pmcid: PMC9382264
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC9382264/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: 'Expression profiles and gene set enrichment analysis of the transcriptomes
+  of mice in the obesity-prone (OP) and obesity-resistant (OR) groups(A) Venn diagram
+  of the numbers of genes in the OP and OR groups. The two groups have 27,710 shared
+  genes, with 2110 and 1646 unique genes in the OP and OR groups, respectively.(B
+  and C) Venn diagrams of the numbers of mRNAs (B) and lncRNAs (C) in the OP and OR
+  groups. The two groups have 17,259 shared mRNAs, with 626 and 475 unique mRNAs in
+  the OP and OR groups, respectively, and 10,158 shared lncRNAs, with 1457 and 1152
+  unique lncRNAs in the OP and OR groups, respectively.(D) Top pathway terms ranked
+  3: thermogenesis. A total of 243 genes were enriched in thermogenesis, and 118 of
+  them were in the leading-edge subsets.(E) Expression of lncRNA (Gm44502) in thermogenesis
+  by RNA-seq. Gm44502 expression was higher in OR mice than it was in OP mice. Values
+  represent the mean ± SD. ∗p < 0.05; ∗∗p < 0.01; ∗∗∗p < 0.001 (unpaired, two-tailed
+  t test, n = 3).(F–H) Thermogenesis-related pathway terms: Oxidative phosphorylation
+  (F), MAPK signaling pathway (G), and cAMP signaling pathway (H). NES, normalized
+  enrichment score; FDR, false discovery rate.'
+article_title: LncRNA and mRNA expression profiles in brown adipose tissue of obesity-prone
+  and obesity-resistant mice.
+citation: Congcong Wang, et al. iScience. 2022 Aug 19;25(8):104809.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.104809
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Physiology
+- Omics
+- Transcriptomics
+
+---

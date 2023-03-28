@@ -1,0 +1,38 @@
+---
+figid: PMC9391290__shock-58-20-g003
+pmcid: PMC9391290
+image_filename: shock-58-20-g003.jpg
+figure_link: /pmc/articles/PMC9391290/figure/F3/
+number: Fig. 3
+figure_title: ''
+caption: Pathways and biofunctions in the acute response to sepsis (within 12 hours
+  of sepsis onset), compared with control patients. A, Ingenuity Pathway Analysis
+  of differentially expressed probes showed downregulation of pathways mainly related
+  to amino acid metabolism, lipid metabolism, and cellular energy production in sepsis
+  compared with SIRS. The only pathway that was significantly upregulated in sepsis
+  is associated with IL-1–mediated inhibition of retinoid X receptors. P values are
+  calculated by IPA using right-tailed Fisher exact test to measure likelihood that
+  pathways or functions are overrepresented by molecules in data set. B, Ingenuity
+  toxicology analysis of differentially expressed probes shows that hepatic steatosis
+  is the top toxicological response of the dysregulated transcriptome followed by
+  repeated occurrence of cell death in liver and in kidney. The only downregulated
+  toxicology pathway in sepsis is conjugation of glutathione.
+article_title: EARLY DIFFERENTIATION BETWEEN SEPSIS AND STERILE INFLAMMATION VIA URINARY
+  GENE SIGNATURES OF METABOLIC DYSREGULATION.
+citation: Sabyasachi Bandyopadhyay, et al. Shock. ;58(1):20-27.
+year: '2022'
+
+doi: 10.1097/SHK.0000000000001952
+journal_title: Shock (Augusta, Ga.)
+journal_nlm_ta: Shock
+publisher_name: Lippincott Williams & Wilkins
+
+keywords:
+- Gene expression
+- machine learning
+- RNA
+- sepsis
+- SIRS
+- urine
+
+---

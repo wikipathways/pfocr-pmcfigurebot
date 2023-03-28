@@ -1,0 +1,36 @@
+---
+figid: PMC9241380__PBI-20-1327-g003
+pmcid: PMC9241380
+image_filename: PBI-20-1327-g003.jpg
+figure_link: /pmc/articles/PMC9241380/figure/pbi13810-fig-0005/
+number: Figure 5
+figure_title: ''
+caption: 'KEGG pathway enrichment and GO functional classification of differentially
+  expressed genes in WD events grown in a greenhouse. Statistically significantly
+  enriched (FDR < 0.05) KEGG pathways in (a) and Gene Ontology terms in (b) are shown
+  for the DEGs identified at each developmental stage. Three GO categories are presented,
+  including Biological Processes (BP), Cellular Compartment (CC), and Molecular Function
+  (MF). The gene count represents the number of non‐unique DEGs enriched in a pathway.
+  The absence of a dot indicates the pathway was not significantly enriched in that
+  developmental stage. Gene ratio was calculated as the number of DEGs involved in
+  a pathway divided by the total number of soybean genes in the pathway. Enriched
+  GO terms resulting from AgriGOv2 were consolidated into fewer non‐redundant GO terms
+  using Revigo (http://revigo.irb.hr) for visualization purposes in (b) (FDR < 0.05).
+  DAP: days after pollination. TCA: tricarboxylic acid cycle.'
+article_title: Expression of AtWRI1 and AtDGAT1 during soybean embryo development
+  influences oil and carbohydrate metabolism.
+citation: Cintia Lucía Arias, et al. Plant Biotechnol J. 2022 Jul;20(7):1327-1345.
+year: '2022'
+
+doi: 10.1111/pbi.13810
+journal_title: Plant Biotechnology Journal
+journal_nlm_ta: Plant Biotechnol J
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- lipid
+- Glycine max
+- transcription factor
+- metabolic engineering
+
+---

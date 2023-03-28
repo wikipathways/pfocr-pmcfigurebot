@@ -1,0 +1,36 @@
+---
+figid: PMC9316399__molecules-27-04533-g003
+pmcid: PMC9316399
+image_filename: molecules-27-04533-g003.jpg
+figure_link: /pmc/articles/PMC9316399/figure/molecules-27-04533-f003/
+number: Figure 3
+figure_title: ''
+caption: Functional enrichment analysis of differentially expressed proteins of MO
+  treatment compared to control treatment using Metascape. (A,C) Network of enriched
+  pathways of downregulated (A) and upregulated (C) proteins of MO treatment compared
+  to control. Each node and its size represent a statistically enriched pathway and
+  the number of enriched proteins on each node pathway, respectively. The clusters
+  of similar pathways are labeled with the same color. (B,D) Bar charts plot the cluster
+  significance of enriched pathways of downregulated (B) and upregulated (D) proteins
+  in MO treatment. Each bar showed top one of each enriched cluster pathways. Annotations
+  refer to the gene ontology biological processes (GOBP), Reactome, KEGG, canonical
+  pathways, and WikiPathways. The top pathways ranked by their significance (−log10 p-value)
+  are shown. The detail information for enriched pathways was listed in .
+article_title: Quantitative Proteome Analysis Reveals Melissa officinalis Extract
+  Targets Mitochondrial Respiration in Colon Cancer Cells.
+citation: Tzu-Ting Kuo, et al. Molecules. 2022 Jul;27(14):4533.
+year: '2022'
+
+doi: 10.3390/molecules27144533
+journal_title: Molecules
+journal_nlm_ta: Molecules
+publisher_name: MDPI
+
+keywords:
+- Melissa officinalis
+- colorectal cancer
+- proteomics analysis
+- reactive oxygen species
+- mitochondrial respiratory chain complex
+
+---

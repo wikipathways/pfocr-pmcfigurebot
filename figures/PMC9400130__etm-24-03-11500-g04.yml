@@ -1,0 +1,41 @@
+---
+figid: PMC9400130__etm-24-03-11500-g04
+pmcid: PMC9400130
+image_filename: etm-24-03-11500-g04.jpg
+figure_link: /pmc/articles/PMC9400130/figure/f5-ETM-24-3-11500/
+number: Figure 5
+figure_title: ''
+caption: mRNA expression of LTBP2 is correlated with the level of CD4+ T cells. (A)
+  Violin plot displayed the fraction of tumor-infiltrating immune cells in primary
+  PCa and BCR PCa in the GEO-merged dataset. (B) Lollipop chart revealed the correlation
+  coefficient between LTBP2 expression and immune-infiltrating cells in the GEO-merged
+  dataset. (C and D) The correlation scatter plot revealed that LTBP2 expression was
+  (C) significantly positively correlated with T-cell CD4 memory resting, but (D)
+  significantly negatively correlated with T-cell follicular helper in the GEO-merged
+  dataset. (E) Correlation scatter plots showed a significant positive correlation
+  between LTBP2 and CD4 T-cell expression validated in TCGA-PRAD dataset. (F and G)
+  Boxplots revealed significant differences in LTBP2 expression between (F) different
+  anti-PD-1 clinical response subgroups in the GSE78220 cohort and (G) other anti-PD-L1
+  clinical response groups in the IMvigor210 cohort. LTBP2, latent transforming growth
+  factor β-binding protein 2; PCa, prostate cancer; BCR, biochemical recurrence; GEO,
+  Gene Expression Omnibus; TCGA, The Cancer Genome ATLAS; PRAD, prostate adenocarcinoma;
+  PD-1, programmed cell death protein 1.
+article_title: LTBP2 inhibits prostate cancer progression and metastasis via the PI3K/AKT
+  signaling pathway.
+citation: Xiaowen Zhang, et al. Exp Ther Med. 2022 Sep;24(3):563.
+year: '2022'
+
+doi: 10.3892/etm.2022.11500
+journal_title: Experimental and Therapeutic Medicine
+journal_nlm_ta: Exp Ther Med
+publisher_name: D.A. Spandidos
+
+keywords:
+- prostate cancer
+- The Cancer Genome Atlas
+- Gene Expression Omnibus
+- tumor microenvironment
+- immunotherapy
+- LTBP2
+
+---

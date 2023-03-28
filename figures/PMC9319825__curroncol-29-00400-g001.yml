@@ -1,0 +1,53 @@
+---
+figid: PMC9319825__curroncol-29-00400-g001
+pmcid: PMC9319825
+image_filename: curroncol-29-00400-g001.jpg
+figure_link: /pmc/articles/PMC9319825/figure/curroncol-29-00400-f001/
+number: Figure 1
+figure_title: ''
+caption: Androgen Synthesis and Mechanism of Action. (A) Gonadotropin-releasing hormone
+  (GnRH) is typically released from the hypothalamus in a pulsatile fashion to signal
+  the anterior pituitary to release follicle-stimulating hormone (FSH) and luteinizing
+  hormone (LH), which then signal the gonads to produce testosterone through the hypothalamic–pituitary–gonadal
+  (HPG) axis and is responsible for 90% of the body’s testosterone production (represented
+  by T in the figure). GnRH also signals the pituitary to release adrenocorticotropin-releasing
+  hormone (ACTH) to signal the adrenal glands to produce androgens. Chemical androgen
+  deprivation therapy (ADT) consists of GnRH agonists or antagonists, which inhibit
+  these pathways. The production of testosterone itself involves the conversion of
+  steroid precursor molecules into testosterone in part by the enzyme cyp17. Abiraterone
+  is an androgen receptor-axis targeted agent (ARAT) that works by inhibiting this
+  enzyme and, ultimately, androgen production. (B) Testosterone, as steroid molecules,
+  typically then diffuses through the cell membrane into the prostate cancer cell,
+  where they are converted by 5-alpha-reductase into dihydrotestosterone (DHT), which
+  then binds to the intracellular androgen receptor (AR). This receptor complex then
+  migrates into the nucleus and is involved in transcription and translation of genes
+  involved in cell growth and division. Chemotherapy such as docetaxel and cabazitaxel
+  exert their effects by interfering with the cell cycle, growth, and division. Enzalutamide,
+  Apalutamide, and Daralutamide are ARATS that work by inhibiting binding of DHT to
+  AR, translocation to the nucleus, and transcription of genes. Acquired resistance
+  to this pathway can develop when other mutations occur. When the androgen receptor
+  is mutated, such as the AR-V7 splice variant, it is able to exert its effects on
+  cell growth independent of androgen binding and is also resistant to binding of
+  competitive inhibitors such as enzalutamide. The androgen receptor pathway is also
+  inversely related to the PI3K/AKT/mTOR pathway, such that inhibition of one often
+  leads to upregulation of the other via acquired mutations. PTEN and mTOR inhibitors
+  were investigated as possible drug targets for prostate cancer. The AKT inhibitor,
+  Ipatasertib, showed some activity and potential benefit in prostate cancer in combination
+  with abiraterone.
+article_title: Emerging Biomarker-Guided Therapies in Prostate Cancer.
+citation: Jasna E. Deluce, et al. Curr Oncol. 2022 Jul;29(7):5054-5076.
+year: '2022'
+
+doi: 10.3390/curroncol29070400
+journal_title: Current Oncology
+journal_nlm_ta: Curr Oncol
+publisher_name: MDPI
+
+keywords:
+- prostate cancer
+- predictive biomarkers
+- immunotherapy
+- theranostics
+- PARP inhibitors
+
+---

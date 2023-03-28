@@ -1,0 +1,30 @@
+---
+figid: PMC9323722__genes-13-01115-g005
+pmcid: PMC9323722
+image_filename: genes-13-01115-g005.jpg
+figure_link: /pmc/articles/PMC9323722/figure/genes-13-01115-f005/
+number: Figure 5
+figure_title: ''
+caption: GO and KEGG pathway enrichment plot. The GO (A) and KEGG (B) enrichment plots
+  were constructed by TBtools. Both GO and KEGG enrichment p-value of pathways were
+  verified by the BH method. In addition, the bubble plots used the bubble shiny plugin
+  (C,D). The circle color represented the enrichment degree, and the size of the circle
+  represented the differential genes participating in a certain pathway.
+article_title: Genome-Wide Identification of NRT Gene Family and Expression Analysis
+  of Nitrate Transporters in Response to Salt Stress in Poncirus trifoliata.
+citation: Zeqi Zhao, et al. Genes (Basel). 2022 Jul;13(7):1115.
+year: '2022'
+
+doi: 10.3390/genes13071115
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: MDPI
+
+keywords:
+- nitrate transporter
+- genome-wide identification
+- salt stress
+- gene expression
+- Poncirus trifoliata
+
+---

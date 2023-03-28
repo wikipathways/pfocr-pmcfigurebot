@@ -1,0 +1,36 @@
+---
+figid: PMC9287814__gr6
+pmcid: PMC9287814
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC9287814/figure/fig6/
+number: Figure 6
+figure_title: ''
+caption: Regulation analysis based on gain/loss-of-function simulations(A) Inhibitory
+  strength  associated with the inhibition of enzyme j by metabolite i for  (blue)
+  and  (red).  indicates that inhibition reduces enzymatic activity by 2-fold.(B)
+  Sensitivity factor  () of output Y with respect to several deletions of regulation  in
+  abscisse, where the outputs Y are the metabolic responses of H2O2, NADPH, and G6P
+  to oxidative stress relative to basal levels. Bars are mean values and error bars
+  are standard deviations over the kinetic model ensemble .(C) Sensitivity factor  of
+  H2O2 with respect to deleted regulation , ,  as function of H. The dose-specific
+  areas of regulatory effect associated with each deleted regulation () is shown upper
+  to the panel.(D) Response coefficients  and  () associated with modulated inhibition
+  of upper and lower glycolysis  and  as function of H.(E) Second-order sensitivity
+  factor  with respect to the combined deletion of two regulations in comparison to
+  the single deletions.
+article_title: Quantitative modeling of pentose phosphate pathway response to oxidative
+  stress reveals a cooperative regulatory strategy.
+citation: Julien Hurbain, et al. iScience. 2022 Aug 19;25(8):104681.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.104681
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Biological sciences
+- Systems biology
+- Metabolomics
+
+---

@@ -1,0 +1,36 @@
+---
+figid: PMC9307607__gr7
+pmcid: PMC9307607
+image_filename: gr7.jpg
+figure_link: /pmc/articles/PMC9307607/figure/fig7/
+number: Figure 7
+figure_title: ''
+caption: Immune infiltration and tumor microenvironment correlated with tRDFs(A) Bar
+  plot shows the correlation between tRDFs and TIME cell infiltration evaluated by
+  Pearson correlation. The length of column indicates the correlation; immune cells
+  were selected from the mutual correlation with 5ʹ-tRDFs and 3ʹ-tRDFs. (B) Kaplan-Meier
+  curves show overall survival of plasma cells that correlated with prognostic tRDFs.
+  Red color indicates the high abundance of plasma cells, and blue color indicates
+  the low abundance of plasma cells. (C) Network shows the tRDF-targeted immune-related
+  signaling pathways in TCGA-LUAD cohort, including primary immunodeficiency, viral
+  protein interaction with cytokine and cytokine receptor, cytokine-cytokine receptor
+  interaction, hematopoietic cell lineage, T cell receptor signaling pathway, and
+  the other signaling pathway. IgA, immunoglobulin A. (D) The correlation between
+  tRDF with immune checkpoint CD274 (PD-L1), CTLA4, CD80, and CD86.
+article_title: Comprehensive landscape of tRNA-derived fragments in lung cancer.
+citation: Zitong Gao, et al. Mol Ther Oncolytics. 2022 Sep 15;26:207-225.
+year: '2022'
+
+doi: 10.1016/j.omto.2022.07.002
+journal_title: Molecular Therapy Oncolytics
+journal_nlm_ta: Mol Ther Oncolytics
+publisher_name: American Society of Gene & Cell Therapy
+
+keywords:
+- tRNA-derived fragments
+- lung cancer
+- diagnosis
+- survival outcome
+- tumor immune microenvironment
+
+---

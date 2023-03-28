@@ -1,0 +1,35 @@
+---
+figid: PMC9313337__biomolecules-12-00906-g003
+pmcid: PMC9313337
+image_filename: biomolecules-12-00906-g003.jpg
+figure_link: /pmc/articles/PMC9313337/figure/biomolecules-12-00906-f003/
+number: Figure 3
+figure_title: ''
+caption: JAK-STAT-SCOS cell model. In canonical JAK-STAT signaling, the binding of
+  extracellular cytokines to their transmembrane receptors results in activation of
+  the pathway in a JAK-mediated manner. Both JAK and cytokine receptors are transphosphorylated
+  by JAKs in close proximity. Activated JAKs phosphorylate STATs, leading to STAT
+  dimerization and eventual translocation into cell nucleus, where they regulate the
+  expression of genes, including SOCS proteins that act as negative feedback inhibitors
+  of JAK-STAT. In BN reconstruction, both BNrich and Ensemble removed all the negative
+  feedback edges representing SOCS inhibition of JAK-STAK (edges in red), while Clipper
+  retained around 1/3 of them. In addition, Clipper also removed some of the JAK-induced
+  STAT phosphorylation (edges in purple). Proteins of the STAT family are present
+  in homodimers or heterodimers. SOCS family can be merged in a single node.
+article_title: Comparing Bayesian-Based Reconstruction Strategies in Topology-Based
+  Pathway Enrichment Analysis.
+citation: Yajunzi Wang, et al. Biomolecules. 2022 Jul;12(7):906.
+year: '2022'
+
+doi: 10.3390/biom12070906
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: MDPI
+
+keywords:
+- topology-based pathway analysis
+- Bayesian network
+- network reconstruction
+- gene expression
+
+---

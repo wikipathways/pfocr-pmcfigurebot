@@ -1,0 +1,37 @@
+---
+figid: PMC9277267__CAS-113-2311-g001
+pmcid: PMC9277267
+image_filename: CAS-113-2311-g001.jpg
+figure_link: /pmc/articles/PMC9277267/figure/cas15391-fig-0007/
+number: FIGURE 7
+figure_title: ''
+caption: Histone deacetylase 6 (HDAC6) deficiency downregulates genes in cell cycle
+  and cell division pathways. A, Heat map showing the clustering of mRNA expression
+  profiles of bulk RNA‐seq data from multiple diethylnitrosamine (DEN)–treated 12‐week‐old
+  mice based on normalized mRNA expression level (fold change > 1.5, p < 0.05). B,
+  Gene Ontology (GO) analysis performed with differentially expressed 341 genes in
+  (A) using DAVID. Red arrows indicate GO pathway term used in (C). C, Selected GO
+  pathway term gene network (red, upregulated genes; blue, downregulated genes). D‐E,
+  Gene‐to‐gene networks between p53 and groups of identified genes from the Cell Division
+  and Cell Cycle GO terms in (C). Node color represents the degree of fold change
+  (Log2 FC), and node size indicates P value (–Log10 P value). F, Proliferating cell
+  nuclear antigen (PCNA) staining and (G) TUNEL staining of multiple DEN–treated mice
+  at 24 weeks old. T, tumor; black dotted line, separate tumor and normal tissues;
+  red dotted line, region of the field magnified
+article_title: Opposing roles of HDAC6 in liver regeneration and hepatocarcinogenesis.
+citation: Sophors Phorl, et al. Cancer Sci. 2022 Jul;113(7):2311-2322.
+year: '2022'
+
+doi: 10.1111/cas.15391
+journal_title: Cancer Science
+journal_nlm_ta: Cancer Sci
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- acetylation
+- HDAC6
+- hepatocellular carcinogenesis
+- innate immunity
+- p53
+
+---

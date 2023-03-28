@@ -1,0 +1,36 @@
+---
+figid: PMC9264902__cancers-14-03121-g005
+pmcid: PMC9264902
+image_filename: cancers-14-03121-g005.jpg
+figure_link: /pmc/articles/PMC9264902/figure/cancers-14-03121-f005/
+number: Figure 5
+figure_title: ''
+caption: 'Coexpressed genes, targeted miRNA, and lncRNA of UBE2C (A). The correlation
+  of UBE2C expression levels and CDC20, TROAP, TPX2, CDCA3, and KIF2C expression levels
+  from the GEPIA2.0 website. p < 0.01. (B). Spearman correlation heatmap of the above
+  five genes (CDC20, TROAP, TPX2, CDCA3, and KIF2C) and UBE2C for a variety of cancers.
+  The results were obtained by TIMER2.0. (C). A total of 50 proteins that interact
+  with UBE2C were obtained using STRING. (D). The intersection of the 50 proteins
+  that interact with UBE2C and the 100 coexpressed genes identified two genes: CDC20
+  and MAD2L1. (E). The genes that controlled the expression (indicated by the green
+  line) or phosphorylation (indicated by the blue line) of UBE2C were derived from
+  the Pcviz pathway tool. (F,G). The GO analysis and KEGG analysis of the above 150
+  coexpressed or interacting genes by the OmicsBean commercial software showed that
+  most of the enriched genes were in the cell cycle pathway.'
+article_title: The Expression and Role Analysis of Methylation-Regulated Differentially
+  Expressed Gene UBE2C in Pan-Cancer, Especially for HGSOC.
+citation: Jiajia Li, et al. Cancers (Basel). 2022 Jul;14(13):3121.
+year: '2022'
+
+doi: 10.3390/cancers14133121
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- ovarian cancer
+- DNA methylation
+- UBE2C
+- bioinformatics
+
+---

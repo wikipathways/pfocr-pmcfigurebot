@@ -1,0 +1,46 @@
+---
+figid: PMC9270580__CTM2-12-e872-g001
+pmcid: PMC9270580
+image_filename: CTM2-12-e872-g001.jpg
+figure_link: /pmc/articles/PMC9270580/figure/ctm2872-fig-0002/
+number: FIGURE 2
+figure_title: ''
+caption: Expression features of GTs and GT‐pathway interaction landscape. (A) The
+  proportion of GTs that were aberrantly expressed (left panel, adjusted p < 0.05),
+  as well as the proportion of GTs that were significantly associated with patients’
+  prognosis in different cancer types (right panel, risky GTs were defined as the
+  hazard ratios greater than 1, while protective GTs were defined as the hazard ratios
+  lesser than 1). In total, 39% of GTs were identified as risk factors in LGG, followed
+  by KIRC, with 30% of GTs being associated with worse overall survival (OS). KIRC
+  and UCEC ranked the top in terms of the proportions of GTs that were identified
+  as protective factors. (B) Three GTs (ALG3, B3GALT2, and ST6GALNAC3) showed consistent
+  expression alterations across 16 cancers (adjusted p < 0.05). (C) GSEA analysis
+  of ALG3, B3GALT2, and ST6GALNAC3 (adjusted p < 0.05) in 16 cancer types. The red
+  color represents that the GT is significantly associated with this pathway in a
+  given cancer type, and deeper red (higher enrichment score) indicates stronger associations.
+  The white color indicates that this GT is not associated with the pathway in this
+  cancer type. Specifically, the expression change of ALG13 was associated with ribosome
+  in 15 cancer types. B3GALT2 was related to cell interaction and immune‐related pathways.
+  ST6GALNAC3 was linked with calcium pathway and cell adhesion. (D) GTs with both
+  changed expression (|Log2 fold‐change| > 2) and OS relevance. (E) Distribution of
+  GT‐relevant pathways across different pathway categories. (F) The number of GTs
+  versus the number of pathways in different cancer types. Stronger impacts of GTs
+  on cancer‐relevant pathways occurred in LGG, GBM, UCEC, KIRC, PRAD, and LIHC. (G)
+  Top 30 GTs‐related biological pathways across cancer types. The right column annotates
+  the pathways categories. The left bar represents the total number of GTs involved
+  in each pathway across different cancer types. Immune‐related pathways, such as
+  chemokine signaling pathway, cytokine–cytokine receptor interaction, leukocyte transendothelial
+  migration, antigen processing and presentation, as well as PD‐L1 expression and
+  PD‐1 checkpoint pathway, were associated with GTs in various cancer types
+article_title: An integrative pan‐cancer analysis of the molecular and biological
+  features of glycosyltransferases.
+citation: Yin Li, et al. Clin Transl Med. 2022 Jul;12(7):e872.
+year: '2022'
+
+doi: 10.1002/ctm2.872
+journal_title: Clinical and Translational Medicine
+journal_nlm_ta: Clin Transl Med
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+---

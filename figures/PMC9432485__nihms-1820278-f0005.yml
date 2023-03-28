@@ -1,0 +1,37 @@
+---
+figid: PMC9432485__nihms-1820278-f0005
+pmcid: PMC9432485
+image_filename: nihms-1820278-f0005.jpg
+figure_link: /pmc/articles/PMC9432485/figure/F5/
+number: Figure 5
+figure_title: Immune functional markers and survival vary with polyamine pathway ssGSEA
+  scores across T infiltrated tumors. Ten of the mostly highly inflamed cancer types
+  were stratified by T cell infiltration status (Thi vs Tlo) inferred using TCGA bulk
+  RNAseq data as described in the manuscript
+caption: '(A) Correlation between polyamine ssGSEA scores and REACTOME IFNγ pathway
+  (upper) and cytotoxic lymphocyte pathway (lower) ssGSEA scores are shown in the
+  heatmaps. Correlation coefficients (r) for the correlation between polyamine ssGSEA
+  score and immune pathway ssGSEA score for each cancer type are presented in the
+  heatmap. (B) Pan-cancer Cox regression analysis among the Thi tumors for each cancer
+  type was performed using continuous polyamine ssGSEA scores as a covariate. Log2
+  hazard ratios (HR) are plotted. Diamonds represent statistically significant associations
+  (Log test -log2 p-value, FDR q < 0.25) and circles represent non-significant associations;
+  size of shape represents magnitude of the q-value. (C) Survival among Nivolumab-treated
+  Thi melanomas (n = 11) by combined (left panel; high: n = 4, low: n = 7), synthesis
+  (middle panel; high = 5, low = 6), or transport (right panel; high: n = 7, low:
+  n = 4) polyamine ssGSEA score strata. (D) Barplots showing proportion of complete
+  or partial responders (CR/PR), stable disease (SD), or progressive disease (PD)
+  given combined (left panel), synthesis (middle panel), or transport (right panel)
+  polyamine ssGSEA score strata.'
+article_title: Interrogation of T Cell-Enriched Tumors Reveals Prognostic and Immunotherapeutic
+  Implications of Polyamine Metabolism.
+citation: R. Alex Harbison, et al. Cancer Res Commun. ;2(7):639-652.
+year: '2022'
+
+doi: 10.1158/2767-9764.CRC-22-0061
+journal_title: Cancer Research Communications
+journal_nlm_ta: Cancer Res Commun
+publisher_name: American Association for Cancer Research
+
+keywords:
+---

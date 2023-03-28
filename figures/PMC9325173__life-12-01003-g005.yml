@@ -1,0 +1,31 @@
+---
+figid: PMC9325173__life-12-01003-g005
+pmcid: PMC9325173
+image_filename: life-12-01003-g005.jpg
+figure_link: /pmc/articles/PMC9325173/figure/life-12-01003-f005/
+number: Figure 5
+figure_title: ''
+caption: 'KEGG pathway enrichment analysis of 835 shared DEGs during M. incognita
+  infection. (A) The top 20 pathways; (B) Expression level of genes related to lignin
+  biosynthesis pathway. Each row represented four comparison groups (A0_B0, A1_B1,
+  A2_B2 and A3_B3) from left to right. The log2|A/B| was colored using TBtools []:
+  red color indicated the DEG was up-regulated, and green color indicated it was down-regulated.'
+article_title: Comparative Transcriptome Analysis Reveals Differential Gene Expression
+  in Resistant and Susceptible Watermelon Varieties in Response to Meloidogyne incognita.
+citation: Yingchun Zhu, et al. Life (Basel). 2022 Jul;12(7):1003.
+year: '2022'
+
+doi: 10.3390/life12071003
+journal_title: Life
+journal_nlm_ta: Life (Basel)
+publisher_name: MDPI
+
+keywords:
+- watermelon
+- resistant
+- susceptible
+- comparative transcriptome
+- Meloidogyne incognita
+- molecular mechanism
+
+---

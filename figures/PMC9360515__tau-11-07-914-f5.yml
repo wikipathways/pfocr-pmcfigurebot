@@ -1,0 +1,44 @@
+---
+figid: PMC9360515__tau-11-07-914-f5
+pmcid: PMC9360515
+image_filename: tau-11-07-914-f5.jpg
+figure_link: /pmc/articles/PMC9360515/figure/f5/
+number: Figure 5
+figure_title: ''
+caption: Discovered and examined the AMGIO2-related function in prostate cancer. (A)
+  Volcano plot for the differentially expressed genes between AMIGO2 high-expression
+  group and AMIGO2 low-expression group. Red dots represented up-regulated genes (log2Fold
+  change >1 and P value <0.05) and green dots represented down-regulated genes (log2Fold
+  change <−1 and P value <0.05). (B) Pathway analysis using the gene set of differentially
+  expressed genes between AMIGO2 high-expression group and AMIGO2 low-expression group.
+  (C) GSEA between AMIGO2 high-expression group and low-expression group. (D) Enriched
+  gene set that showing the relationship between AMIGO2 high-expression group and
+  EMT, interferon gamma response, TNF-alpha signaling via NFKB and KRAS signaling
+  pathway. (E) Western blotting of EMT related markers while AMIGO2 down-regulated
+  in DU145 cell line (left panel). *, P<0.05. Relative expression of EMT-related markers
+  in normal control and AMIGO2 down-regulated in DU145 cell line (right panel). (F)
+  Western blotting of EMT-related markers while AMIGO2 down-regulated in PC3 cell
+  line (left panel). Relative expression of EMT-related markers in normal control
+  and AMIGO2 down-regulated in PC3 cell line (right panel). **, P<0.01; ns, no significance.
+  AMIGO2, Adhesion Molecule with Ig Like Domain family 2; NC, negative control; GSEA,
+  Gene Set Enrichment Analysis; EMT, epithelial mesenchymal transition; TNF, tumor
+  necrosis factor; NFKB, nuclear factor kappa-B; KRAS, V-Ki-ras2 Kirsten ratsarcoma
+  viral oncogene homolog.
+article_title: Integrated analysis reveals prognostic value and progression-related
+  role of AMIGO2 in prostate cancer.
+citation: Zhaodong Han, et al. Transl Androl Urol. 2022 Jul;11(7):914-928.
+year: '2022'
+
+doi: 10.21037/tau-21-1148
+journal_title: Translational Andrology and Urology
+journal_nlm_ta: Transl Androl Urol
+publisher_name: AME Publishing Company
+
+keywords:
+- Prostate cancer (PCa)
+- AMIGO2
+- recurrence-free survival (RFS)
+- progression
+- prognosis
+
+---

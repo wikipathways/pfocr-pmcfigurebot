@@ -1,0 +1,34 @@
+---
+figid: PMC9414195__nihms-1824958-f0004
+pmcid: PMC9414195
+image_filename: nihms-1824958-f0004.jpg
+figure_link: /pmc/articles/PMC9414195/figure/F4/
+number: Figure 4
+figure_title: Wnts are upregulated as an immediate response to BMP4 signaling in mESC-derived
+  NPCs
+caption: '(A) Timelines for bulk RNA-seq analysis of protocol 3 (n = 3).(B) Venn diagram
+  showing the overlap of genes significantly upregulated after 6 and 24 h of RA +
+  BMP4 treatment (logFC > 2, false discovery rate [FDR] < 0.01). 78 genes were common
+  to both comparisons.(C) GO analysis of the 78 common genes shows the upregulation
+  of the Wnt signaling pathway in all three GO categories: biological processes, molecular
+  processes, and pathway categories.(D) Heatmap showing the expression (FPKM, N =
+  3) of 19 Wnt ligands at day 4 (dP state1), day 4.25 (immediate response to BMP4),
+  and day 5 (dP state2).(E) Volcano plots showing upregulated genes at 6 and 24 h
+  of RA + BMP4 treatment. Multiple Wnt ligands and Wnt pathway genes are highly upregulated
+  in both conditions.(F) qRT-PCR validation of selected Wnt genes under RA, RA + BMP4,
+  and RA + BMP4 + noggin conditions at day 5. Wnt expression was significantly upregulated
+  by BMP4 but reduced in the presence of noggin. n = 3 differentiations. The data
+  are presented as the mean ± SEM. Significance is determined by two-way ANOVA (Tukey’s
+  multiple comparison test), *p < 0.05, **p < 0 .005, ***p < 0.0005.'
+article_title: In vitro atlas of dorsal spinal interneurons reveals Wnt signaling
+  as a critical regulator of progenitor expansion.
+citation: Sandeep Gupta, et al. Cell Rep. ;40(3):111119-111119.
+year: '2022'
+
+doi: 10.1016/j.celrep.2022.111119
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: ''
+
+keywords:
+---

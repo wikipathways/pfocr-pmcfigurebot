@@ -1,0 +1,39 @@
+---
+figid: PMC9266956__ijms-23-07429-g003
+pmcid: PMC9266956
+image_filename: ijms-23-07429-g003.jpg
+figure_link: /pmc/articles/PMC9266956/figure/ijms-23-07429-f003/
+number: Figure 3
+figure_title: ''
+caption: (A) Pathways related to mitochondrial dysfunction. Illustration of altered
+  genes involved in IPA canonical pathway “mitochondrial dysfunction”. Overlap p-values,
+  a measure of the overlap between observed gene expression changes and known targets
+  regulated by transcriptional regulators, were calculated using Fisher’s exact test.
+  Activation z-score (z-score), an indicator of the regulatory direction of a pathway,
+  was calculated based on a database of molecular networks representing experimentally
+  observed gene expression or transcriptional events, where a positive z-score means
+  “activation” and a negative z-score means “repression”. In the mitochondrial dysfunction-pathway
+  map obtained by IPA [], upregulated components of gene expression involved in mitochondrial
+  Complexes I-V are in red, and downregulated components are in green. (B) Western
+  blotting analysis of ATP synthase lipid-binding protein, ATP5A (Complex V), succinate
+  dehydrogenase, SDHB (Complex II), NADH dehydrogenase [ubiquinone] 1 beta subcomplex
+  subunit 8, NDUFB8 (Complex I), and Ponceau-S staining as a loading control. The
+  quantified bands were normalized to Ponceau (total protein) (n = 6). Statistical
+  analysis was performed with Student’s t-test; * indicates p < 0.05, ** indicates
+  p < 0.01, and n.s. indicates not significant.
+article_title: Evaluation of the Effects of Microgravity on Activated Primary Human
+  Hepatic Stellate Cells.
+citation: Koichi Fujisawa, et al. Int J Mol Sci. 2022 Jul;23(13):7429.
+year: '2022'
+
+doi: 10.3390/ijms23137429
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- hepatic stellate cell
+- microgravity
+- transcriptome
+
+---

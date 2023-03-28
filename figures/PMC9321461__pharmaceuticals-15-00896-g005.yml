@@ -1,0 +1,31 @@
+---
+figid: PMC9321461__pharmaceuticals-15-00896-g005
+pmcid: PMC9321461
+image_filename: pharmaceuticals-15-00896-g005.jpg
+figure_link: /pmc/articles/PMC9321461/figure/pharmaceuticals-15-00896-f005/
+number: Figure 5
+figure_title: ''
+caption: lncRNA-mRNA interaction and lncRNA target gene prediction. A visual regulatory
+  nework for the lncRNA-mRNA relationship was drawn from target gene prediction results
+  by Ctoscape 3.7.2, shown in (A). Then, we preformed the GO and KEGG pathway analysis
+  based on the predicted mRNAs. (B) shows the top 30 terms of GO analysis and (C)
+  shows the top 30 terms of KEGG pathway analysis.
+article_title: Phloridzin Reveals New Treatment Strategies for Liver Fibrosis.
+citation: Yahong Shi, et al. Pharmaceuticals (Basel). 2022 Jul;15(7):896.
+year: '2022'
+
+doi: 10.3390/ph15070896
+journal_title: Pharmaceuticals
+journal_nlm_ta: Pharmaceuticals (Basel)
+publisher_name: MDPI
+
+keywords:
+- phloridzin
+- liver fibrosis
+- mRNA
+- lncRNA
+- ferroptosis
+- energy metabolism
+- biomechanics
+
+---

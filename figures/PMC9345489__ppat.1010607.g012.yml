@@ -1,0 +1,34 @@
+---
+figid: PMC9345489__ppat.1010607.g012
+pmcid: PMC9345489
+image_filename: ppat.1010607.g012.jpg
+figure_link: /pmc/articles/PMC9345489/figure/ppat.1010607.g012/
+number: Fig 12
+figure_title: A genetic network in GBS for resisting Zn intoxication
+caption: CopY represses copA but also activates sczA expression1; which in turn controls
+  czcD for Zn efflux2; CopY also activates riboflavin synthesis and/or transport3,
+  arginine deamination and transport4, other targets5 and represses adcA6. Zn intoxication
+  is inhibitory towards Zn acquisition7, de novo nucleotide8 and riboflavin synthesis9
+  pathways, cell wall synthesis genes10 and Stp111; Zn intoxication activates sczA12
+  and arginine deaminase13. Stp1 represses activity of CovR14 and activates de novo
+  purine synthesis15. CovR has activation roles for riboflavin16 and nucleotide synthesis
+  genes17 and sczA18; Virulence and pathogenesis require contributions from CovR19
+  and CopY20. Resistance to Zn stress requires functional czcD21, sczA22covR23, copY24
+  and there are yet to be determined mechanisms of cell wall synthesis genes25, nucleotide26
+  and riboflavin synthesis27 and arginine deamination28 processes that contribute
+  to Zn resistance in GBS. Dotted lines indicate contributions that remain to be characterized.
+  Terms activation and repression refer to gene or protein regulatory activities,
+  inhibitory and contribution refer to pathway or process level interactions. Interactions
+  are based on gene expression data, phenotypes of isogenic mutants, cell and animal
+  assays or prior published literature [,,,,,].
+article_title: Regulatory cross-talk supports resistance to Zn intoxication in Streptococcus.
+citation: Matthew J. Sullivan, et al. PLoS Pathog. 2022 Jul;18(7):e1010607.
+year: '2022'
+
+doi: 10.1371/journal.ppat.1010607
+journal_title: PLoS Pathogens
+journal_nlm_ta: PLoS Pathog
+publisher_name: Public Library of Science
+
+keywords:
+---
