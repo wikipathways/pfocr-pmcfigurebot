@@ -1,0 +1,45 @@
+---
+figid: PMC9139217__cells-11-01690-g003a
+pmcid: PMC9139217
+image_filename: cells-11-01690-g003a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 3
+caption: iTRAQ quantitative proteomics of mouse testes during recovery for 17 days
+  after cisplatin/no treatment and the expression of oxidative-stress-related proteins
+  in mice during different recovery periods after cisplatin/non-cisplatin treatment.
+  (A) According to iTRAQ proteomic analysis, total spectra, spectra, unique spectra,
+  peptides, unique peptides, and proteins were identified. (B) Proportional distribution
+  of identified proteins based on their mass. (C) Peptide length distribution as a
+  percentage of the total protein length. (D) Number of unique peptides that matched
+  the proteins. (E) Protein coverage distribution in all of the identified proteins.
+  (F) Three repetitions of the coefficient of variation distribution. (G) In the testes
+  of the control d17 and CP d17 groups, a Venn diagram was used to identify the differentially
+  expressed proteins associated with oxidative stress. (H) Heatmap showing the clustering
+  of 110 DEPs between the control d17 and the CP d17 groups. (I) Connections among
+  the 110 differentially expressed proteins relevant to oxidative stress revealed
+  using the PPI network obtained from the STRING database. (J) The ordinate indicates
+  the gene’s name, the abscissa shows the number of genes, and the color reflects
+  the adjusted p-value in an enriched gene ontology (GO) analysis of the 110 DEPs
+  linked to oxidative stress. (K) Enrichment KEGG pathway analysis of the 110 DEPs
+  related to oxidative stress; the ordinate displays the pathway name, the abscissa
+  displays the differential protein count, and the color represents the adjusted p-value.
+article_title: Activation of MT1/MT2 to Protect Testes and Leydig Cells against Cisplatin-Induced
+  Oxidative Stress through the SIRT1/Nrf2 Signaling Pathway.
+citation: Junqiang Zhang, et al. Cells. 2022 May;11(10):1690.
+year: '2022'
+
+doi: 10.3390/cells11101690
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- melatonin
+- oxidative stress
+- melatonin receptor
+- SIRT1
+- Nrf2
+- Leydig cell
+
+---

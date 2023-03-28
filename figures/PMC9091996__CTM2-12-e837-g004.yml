@@ -1,0 +1,48 @@
+---
+figid: PMC9091996__CTM2-12-e837-g004
+pmcid: PMC9091996
+image_filename: CTM2-12-e837-g004.jpg
+figure_link: /pmc/articles/PMC9091996/figure/ctm2837-fig-0004/
+number: FIGURE 4
+figure_title: ''
+caption: 'CHI3L1 is a potential mediator of the reactive astrocyte state by enhancing
+  the pro‐inflammatory NF‐ĸB signalling pathway. (A, B) Liquid chromatography/mass
+  spectrometry analysis of CSF from MS patients with inflammatory activity (MS‐High;
+  N = 9), low inflammatory activity (MS‐Low; N = 9) and non‐inflammatory neurological
+  controls (NINC; N = 9). (A) Heatmap and (B) volcano plots showing normalised Log2
+  protein expression satisfying p‐value < .01 and absolute FC > 0.5 identifying upregulation
+  of CHI3L1 in MS‐High CSF (inset). (C) Plots showing bioinformatic annotation analysis
+  integrating CSF, reactive astrocytes and astrocytic secretome data sets of the MS‐High
+  condition. ERK1/2 cascade (p = 4.7 × 10–11), NIK/NF‐ĸB signalling (p = .004) and
+  Nfkb1 (FDR = 5.3 × 10–8) exhibit substantial changes, pointing to enhanced NF‐ĸB
+  signalling. (D) Flowchart illustrating primary purified astrocyte cultures stimulated
+  with either PBS (Vehicle) or CHI3L1 at 300 and 600 ng/ml, using the same exposure
+  conditions as previously in the CSF stimulation experiments. (E) qPCR assessment
+  of CHI3L1 stimulation. The 600 ng/ml CHI3L1 concentration induces a reduced expression
+  of Nr4a1 (p = .03) and Klf6 (p = .02). Individual values represent average FC = 2–(average
+  ∆∆Ct) in mRNAs in CHI3L1‐stimulated astrocytes relative to vehicle. Least Squares
+  Means Estimates test and Tukey–Kramer multiple comparisons test; n = 8 independent
+  biological samples per group. (F) Network diagram of differentially regulated contributors
+  of enhanced NF‐ĸB signalling in MS‐High‐exposed reactive astrocytes predict CHI3L1
+  as an upstream regulator of astrocyte reactivity (p = 3.5 × 10–5). (G) A node of
+  interaction between Mapk3 (ERK1), Mapk1 (ERK2), Trp53 and Nr4a1 in the NF‐ĸB transcription
+  module may potentially be regulated by CHI3L1 and would also affect Serpine1 expression
+  (p = .0002). (H) Illustrative confocal images of P7 murine organotypic brain slices
+  treated at 7 DIV with either PBS (Vehicle) or CHI3L1 (600 ng/ml) for 48 h. Neurons
+  were immunostained with neurofilament heavy chain (NFh, green) and DAPI (blue).
+  Graphs represent individual data of averaged NFh area (μm2) per stack in each field
+  of view (FOV). Least Squares Means Estimates test; n = 7 mice (Vehicle, n = 6).
+  Data in E and H are shown as mean (SEM). *p < .05. Scale bar: 30 μm (H). DIV: days
+  in vitro'
+article_title: Inflammation in multiple sclerosis induces a specific reactive astrocyte
+  state driving non‐cell‐autonomous neuronal damage.
+citation: Clara Matute‐Blanch, et al. Clin Transl Med. 2022 May;12(5):e837.
+year: '2022'
+
+doi: 10.1002/ctm2.837
+journal_title: Clinical and Translational Medicine
+journal_nlm_ta: Clin Transl Med
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+---

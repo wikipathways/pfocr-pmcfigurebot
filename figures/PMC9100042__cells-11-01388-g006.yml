@@ -1,0 +1,53 @@
+---
+figid: PMC9100042__cells-11-01388-g006
+pmcid: PMC9100042
+image_filename: cells-11-01388-g006.jpg
+figure_link: /pmc/articles/PMC9100042/figure/cells-11-01388-f006/
+number: Figure 6
+figure_title: ''
+caption: The proteasome is a major contributor to the acute oxidative stress response
+  in differentiating lt-NES cells and regulates NRF2 pathway activation. (A) Measurement
+  of the 20S proteasome activity in proliferating and differentiated lt-NES cells.
+  The proteasomal substrate dye LLVY-R110 was added to the cells together with IC20
+  TBHP concentrations, and fluorescence was measured after 1 h and 8 h. Proteasomal
+  activity is presented as percentage increase in the fluorescence signal between
+  8 h and the baseline value at 1 h (∆t-t1h). Data are presented as means ± SEM (n
+  = 4 per treatment and differentiation time point, * p < 0.05, Student’s t-test).
+  (B) ATPlite assay of lt-NES cells differentiated for 10 and 12 weeks treated with
+  TBHP with or without MG132 pre-treatment, showing that proteasomal impairment leads
+  to increased susceptibility to acute oxidative stress. Cells were pre-treated with
+  MG132 followed by a 24 h TBHP treatment. Cell viability was assessed at the end
+  of the treatment by ATPlite assay. Results are presented as percentages relative
+  to untreated cells (equal to 100%). Data are presented as means ± SEM (n = 5, consisting
+  of at least 3 technical replicates per treatment condition; data from the control
+  curve are the same as shown in D). Significant difference between dose–response
+  curves for TBHP treatment with or without MG132 was confirmed by two-way ANOVA (p
+  < 0.0001). (C) Western blot analysis of NRF2 and KEAP1 protein levels across lt-NES
+  differentiation upon proteasomal inhibition (by MG132) for 17 h. (D) NRF2 pathway
+  downstream target gene expression under OS induction upon inhibition of the proteasome
+  (MG132). lt-NES cells were differentiated for 10 weeks, pre-treated with MG132 for
+  17 h and subsequently treated with TBHP for 8 h. Cells were treated with TBHP only
+  for 8 h as a control treatment. Expression of the NRF2 downstream target genes NQO1
+  and TXNRD1 was analyzed by qRT-PCR. Results are presented in comparison to MG132
+  pre-treatment control (equal to 1). Data are normalized to GAPDH mRNA levels and
+  presented as means ± SEM (n = 4 per treatment condition). Statistically significant
+  difference between means was assessed by unpaired Student’s t-test for NQO1 (p =
+  0.0128) and TXNRD1 (p = 0.0016) gene expression (* p < 0.05).
+article_title: Dynamics of Metabolic Pathways and Stress Response Patterns during
+  Human Neural Stem Cell Proliferation and Differentiation.
+citation: Vesselina Semkova, et al. Cells. 2022 May;11(9):1388.
+year: '2022'
+
+doi: 10.3390/cells11091388
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- neurodevelopment
+- neuronal differentiation
+- NRF2
+- autophagy
+- ROS
+
+---

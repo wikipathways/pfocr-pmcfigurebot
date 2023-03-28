@@ -1,0 +1,40 @@
+---
+figid: PMC9164263__or-48-01-08336-g01
+pmcid: PMC9164263
+image_filename: or-48-01-08336-g01.jpg
+figure_link: /pmc/articles/PMC9164263/figure/f2-or-48-01-08336/
+number: Figure 2
+figure_title: ''
+caption: Identification of upregulated hub genes in MB following enrichment analysis
+  and protein-protein interaction network construction. (A) Volcano plots illustrating
+  upregulated DEGs (red dots) and downregulated DEGs (blue dots) identified in the
+  three datasets with the criteria of adjusted P<0.05 and |log2FC| ≥1 (–). (B) Venn
+  diagram of overlapping upregulated or downregulated DEGs among three datasets. (C-E)
+  GO analysis of upregulated DEGs presents the top 10 significant terms of GO analysis
+  in (C) biological process, (D) molecular function, and (E) celluar component. (F)
+  Significant KEGG pathway enrichment terms. (G) The PPI network was constructed with
+  upregulated genes. Red circular nodes represent the top 10 hub genes. MB, medulloblastoma;
+  DEGs, differentially upregulated genes; GO, Gene Ontology; KEGG, Kyoto Encyclopedia
+  of Genes and Genomes; PPI, protein-protein interaction; PBK, PDZ binding kinase;
+  CDC20, cell division cycle 20; KIF2C, kinesin family member 2C; NUSAP1, nucleolar
+  and spindle associated protein 1; TTK, TTK protein kinase; KIF20A, kinesin family
+  member 20A; TOP2A, DNA topoisomerase II alpha; CDK1, cyclin dedendent kinase 1;
+  ASPM, assembly factor for spindle microtubules; AURKA, Aurora kinase A.
+article_title: Identification of PBK as a hub gene and potential therapeutic target
+  for medulloblastoma.
+citation: Yuhao Deng, et al. Oncol Rep. 2022 Jul;48(1):125.
+year: '2022'
+
+doi: 10.3892/or.2022.8336
+journal_title: Oncology Reports
+journal_nlm_ta: Oncol Rep
+publisher_name: D.A. Spandidos
+
+keywords:
+- medulloblastoma
+- PDZ binding kinase
+- proliferation
+- apoptosis
+- therapeutic target
+
+---

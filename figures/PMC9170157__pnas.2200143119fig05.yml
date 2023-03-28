@@ -1,0 +1,53 @@
+---
+figid: PMC9170157__pnas.2200143119fig05
+pmcid: PMC9170157
+image_filename: pnas.2200143119fig05.jpg
+figure_link: /pmc/articles/PMC9170157/figure/fig05/
+number: Fig. 5
+figure_title: ''
+caption: Calcium channel blockers impair prosurvival ERK signaling and improve gemcitabine
+  sensitivity in vitro. (A) Excisional biopsies from 36 PDAC patients were sectioned
+  and stained via immunohistochemistry for LTCCs and representative images are shown
+  for each from either chemotherapy-naïve patients (n = 18) or patients who had received
+  neoadjuvant gemcitabine-based chemotherapy (n = 18). (B) The percentage of patients
+  in each group with LTCC-expressing and non–LTCC-expressing tumors. (C) PANC-1, MiaPaCa-2,
+  Capan-1, and ASPC-1 cells were evaluated for LTCC expression by Western blot. (D)
+  PANC-1-GR cells were stained for LTCCs by immunofluorescence, showing strong membrane
+  localization. (E) PANC-1-GR cells were incubated with a fixed concentration of either
+  a DMSO vehicle (1:1,000) or the CCBs nifedipine (5 μM) or amlodipine (5 μM). After
+  2 h, cells were challenged with increasing concentrations of gemcitabine, and cell
+  viability was evaluated after 48 h by MTT assay. Error bars represent mean ± SEM.
+  (F) PANC-1-GR cells were treated similarly and cell death was evaluated by Annexin-FITC
+  assay. (G–J) PANC-1-GR cells incubated with either a DMSO control vehicle or amlodipine
+  (5 μM) for 24 h. Cells were then collected and evaluated by single-cell RNA sequencing.
+  Cell populations were visualized via UMAP scatterplot, transcriptionally distinct
+  clusters were identified, and each was subjected to enrichment analysis for cell
+  processes identified in , with amlodipine-treated clusters showing significant down-regulation
+  of MAPK and ERK signaling. (K and L) Individual genes in the ERK and MAPK gene sets,
+  respectively. (M and N) PANC-1-GR cells were treated similarly, and the interaction
+  between KRAS and calmodulin was evaluated by immunoprecipitation. Cell lysate was
+  also evaluated by Western blot for ERK pathway activation. (O and P) MiaPaCa-2 and
+  ASPC-1 cells were treated with nifedipine (5 μM) or amlodipine (5 μM), and ERK activation
+  was evaluated by Western blot. (Q) Excisional biopsies from two PDAC patients undergoing
+  survival resection were cored, sectioned at 250-μm intervals, and cultured ex vivo
+  either in a control DMSO vehicle, nifedipine (5 μM), or amlodipine (5 μM). After
+  72 h, slice cultures were formalin-fixed, paraffin-embedded, and stained either
+  with H&E, via immunohistochemistry for CALM, or dual-stained for CK19 and PCNA.
+article_title: Calcium channel blockers potentiate gemcitabine chemotherapy  in pancreatic
+  cancer.
+citation: Daniel R. Principe, et al. Proc Natl Acad Sci U S A. 2022 May 3;119(18):e2200143119.
+year: '2022'
+
+doi: 10.1073/pnas.2200143119
+journal_title: Proceedings of the National Academy of Sciences of the United States
+  of America
+journal_nlm_ta: Proc Natl Acad Sci U S A
+publisher_name: National Academy of Sciences
+
+keywords:
+- pancreatic cancer
+- chemotherapy
+- gemcitabine
+- drug resistance
+
+---

@@ -1,0 +1,44 @@
+---
+figid: PMC9148570__develop-149-200198-g2
+pmcid: PMC9148570
+image_filename: develop-149-200198-g2.jpg
+figure_link: /pmc/articles/PMC9148570/figure/DEV200198F2/
+number: Fig. 2
+figure_title: ''
+caption: Kidney organoid-derived podocyte subcluster 3 partially resembles adult podocytes.
+  (A,B) UMAP integration of 401 podocytes (A) identified three subclusters based on
+  differentially expressed genes (B). Avg, average; Pct, percent. (C) RNAscope analysis
+  showing nephrin (NPHS1), collagen IV alpha three (COL4A3) and endothelial marker
+  cluster of differentiation 31 (CD31) expression. Inset shows an enlarged view of
+  the boxed area. (D) Vascular endothelial growth factor A (VEGFA) expression among
+  the podocyte subclusters. (E,F) CD31-, VE-cadherin- and plasmalemmal vesicle associated
+  protein-1 (PV-1)-stained endothelial capillaries are interspaced between podocytes
+  expressing NPHS1 (E) and synaptopodin (SYNPO) (F) in the organoids. Arrowheads indicate
+  endothelial capillaries with lumen. (G) Ultrastructural analysis showing the luminal
+  space of a capillary adjacent to organoid podocytes. (H) Cell-cell interactions
+  between all cells present in kidney organoids using CellPhoneDB and CrossTalkeR
+  packages. Thickness and depth of color of the arrows correspond to the percentage
+  of interactions. (I) Autocrine and paracrine podocyte ligand-receptor interactions
+  showing a dominant role for VEGFA signaling originating from cluster 3 to VEGF-related
+  receptors in, amongst others, endothelial cell precursors (EC). Analysis was performed
+  using CellPhoneDB and CrossTalkeR packages. (J-L) Comparative PROGENy (J), GO terms
+  (K) and DoRothEA analysis (L) showing pathway activity (J), biological processes
+  (K) and transcription factor activity (L) between the three podocyte subclusters,
+  adult and fetal podocytes [adult and fetal podocytes sequencing data extracted from
+  Gene Expression Omnibus (GSE118184 and GSE112570)]. Abbreviations as in .
+article_title: Human pluripotent stem cell-derived kidney organoids for personalized
+  congenital and idiopathic nephrotic syndrome modeling.
+citation: Jitske Jansen, et al. Development. 2022 May 1;149(9):dev200198.
+year: '2022'
+
+doi: 10.1242/dev.200198
+journal_title: Development (Cambridge, England)
+journal_nlm_ta: Development
+publisher_name: The Company of Biologists Ltd
+
+keywords:
+- Nephrotic syndrome
+- Human iPSC-derived kidney organoids
+- 2D iPSC-derived podocytes
+
+---

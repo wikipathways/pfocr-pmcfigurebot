@@ -1,0 +1,40 @@
+---
+figid: PMC9114862__jitc-2022-004770f05
+pmcid: PMC9114862
+image_filename: jitc-2022-004770f05.jpg
+figure_link: /pmc/articles/PMC9114862/figure/F5/
+number: Figure 5
+figure_title: ''
+caption: Localized vPD1/IL-12 treatment induces high levels of TNF. Syngeneic C57/Bl6
+  mice were injected SQ on both the left and right flanks with B16/F10 cells. Tumors
+  were allowed to establish and then either mock treated or treated with three IT
+  injections of vPD1, vIL-12, or vPD1/IL-12 (n=3 for all groups). Six days after the
+  initiation of treatment, total RNA was extracted from each tumor and analyzed using
+  RNA-seq. (A) Unsupervised principle component analysis of gene expression from the
+  indicated cohorts. (B) Gene Ontology pathway analysis of all genes which were differentially
+  expressed between vPD1/IL-12 treated mice and all other cohorts. (C) Volcano plot
+  showing the expression of all cytokines and interleukins. Data shown compare tumors
+  treated with vPD1/IL-12 to tumors treated with control virus. (D) ELISA data showing
+  expression of IFN and TNF protein in the supernatants of tumors 8 days after being
+  treated as indicated. (E) Analysis of RNA-seq data (from A) demonstrating the presence
+  of previously identified gene response signatures to IFN and TNF. FC, fold change;
+  IFN, interferon; IL-12, interleukin 12; IT, intratumoral; MYXV, myxoma virus; PD1,
+  programmed cell death protein 1; SQ, subcutaneously; TNF, tumor necrosis factor;
+  vGFP, virus expressing green fluorescent protein; vPD1, virus expressing PD1; vPD1/IL-12,
+  virus expressing PD1 and IL-12.
+article_title: TNF blockade enhances the efficacy of myxoma virus-based oncolytic
+  virotherapy.
+citation: Miriam Valenzuela-Cardenas, et al. J Immunother Cancer. 2022;10(5):e004770.
+year: '2022'
+
+doi: 10.1136/jitc-2022-004770
+journal_title: Journal for Immunotherapy of Cancer
+journal_nlm_ta: J Immunother Cancer
+publisher_name: BMJ Publishing Group
+
+keywords:
+- immunotherapy
+- oncolytic virotherapy
+- oncolytic viruses
+
+---

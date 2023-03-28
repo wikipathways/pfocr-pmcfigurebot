@@ -1,0 +1,50 @@
+---
+figid: PMC9102624__ijms-23-04604-g007a
+pmcid: PMC9102624
+image_filename: ijms-23-04604-g007a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 7
+caption: (A–C). MDS analysis of the environment of C152 and C156 within an isolated
+  h−GAPDH subunit to explore the mechanistic interpretation of the biochemical data.
+  (A) The catalytic region of h−GAPDH (PDB1u8f) within the crystal structure of an
+  isolated subunit shows the placement of an H2O2 juxtaposed to C156 (Cv(SH). After
+  MDS, the H2O2 molecule docks forming strong bifurcated hydrogen bond donors (T153,
+  H179) and strong hydrogen bond acceptors (C152 sulfenic acid and Y314) which polarize
+  and activate the H2O2 molecule for nucleophilic attack by C156. The acidic protons
+  contributed by H179 and C152 sulfenic acid provide a rational basis for the observed
+  decline in H2O2 oxidation of C156 with rising pH (B). Following Steered Molecular
+  Dynamics (SMD), the two sulfur centers are within the van der Waals contact distance
+  for covalent bond formation. Formation of strong H−bonds between the C156 sulfinic
+  acid acidic proton and C152 sulfinate oxygen, as well as the C152 sulfinic acid
+  proton and delocalized Y314 π−orbitals promote nucleophilic attack of its sulfur
+  atom on C156 sulfenic acid sulfur atom as water is an excellent leaving group. The
+  model provides a rational basis for the experimental data proving directional nucleophilic
+  attack resulting in a thiosulfinic acid with the sulfinyl center at C152 and the
+  sulfenyl center at C156. (C). A plausible mechanistic reaction pathway for thiosulfonic
+  ester formation is shown depicting a polarizing H−bond donor (T154) and acceptors
+  (H179 and Y314) of a water oxygen atom at the van der Waals covalent sulfur–oxygen
+  bond radius promoting hydroxyl attack on the sulfinyl sulfur center of thiosulfinic
+  ester forming the thiosulfonic ester.
+article_title: Mechanism of GAPDH Redox Signaling by H2O2 Activation of a Two−Cysteine
+  Switch.
+citation: Paul A. Hyslop, et al. Int J Mol Sci. 2022 May;23(9):4604.
+year: '2022'
+
+doi: 10.3390/ijms23094604
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- oxidative stress
+- redox signaling
+- glyceraldehyde−3−phosphate dehydrogenase
+- hydrogen peroxide
+- two−cysteine redox switch
+- thiosulfinic ester
+- thiosulfonic ester
+- neurodegenerative disease
+- Molecular Dynamic Simulation
+
+---
