@@ -298,7 +298,7 @@ for (j in 1:5) {
         }
         
         #record figid
-        exfigids.add <- c(exfigids,article.data$figid)
+        exfigids <- c(exfigids,article.data$figid)
         write.table(exfigids,config$exclude_figids, sep = "\t", row.names = F, col.names = F)
         
         #increment counters
