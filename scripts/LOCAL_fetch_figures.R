@@ -42,7 +42,7 @@ library(magrittr)
 library(stringr)
 
 # Multiple queries over consecutive months
-for (k in 1:9){
+for (k in 1:2){
   
   # Multiple attempts of a given query or until successful
   for (j in 1:5) {
@@ -129,7 +129,27 @@ for (k in 1:9){
       cat(sprintf("\nPage %i of %i", i, page.count))
       cat(sprintf("\nPage %i of %i", i, page.count), file="figures/fetch.log", append = T)
       ## Parse page
-      page.source <- xml2::read_html(remDr$getPageSource()[[1]])
+      page.source <- NULL
+      get.page.flag <- FALSE
+      for (p in 1:5){
+        page.source <- tryCatch({
+          xml2::read_html(remDr$getPageSource()[[1]])
+        }, error = function(e) {
+          NULL
+        })
+        if (is.null(page.source) || inherits(page.source, "try-error")){
+          Sys.sleep(3)
+          next
+        } else {
+          get.page.flag <- TRUE
+          break
+        }
+      }
+      if(!get.page.flag){
+        ## Exit out of page loop if page read fails
+        reload.flag <- TRUE
+        break
+      }
       image_filename <- page.source %>%
         rvest::html_nodes(".rprt_img") %>%
         rvest::html_node("img") %>%
@@ -248,7 +268,28 @@ for (k in 1:9){
           ## MORE METADATA
           #################
           md.query <- paste0("https://www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi?verb=GetRecord&identifier=oai:pubmedcentral.nih.gov:",gsub("PMC","", article.data$pmcid),"&metadataPrefix=pmc_fm")
-          md.source <- xml2::read_html(md.query) 
+          
+          md.source <- NULL
+          get.md.flag <- FALSE
+          for (m in 1:5){
+            md.source <- tryCatch({
+              xml2::read_html(md.query) 
+            }, error = function(e) {
+              NULL
+            })
+            if (is.null(md.source) || inherits(md.source, "try-error")){
+              Sys.sleep(3)
+              next
+            } else {
+              get.md.flag <- TRUE
+              break
+            }
+          }
+          if(!get.md.flag){
+            ## Exit out of page loop if metadata read fails
+            reload.flag <- TRUE
+            break
+          }
           doi <- md.source %>%
             rvest::html_node(xpath=".//article-id[contains(@pub-id-type, 'doi')]") %>%
             rvest::html_text()
@@ -300,13 +341,34 @@ for (k in 1:9){
           headers = c(
             `user-agent` = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36'
           )
-          res <- httr::GET(url = img.from.path, httr::add_headers(.headers=headers))
-          content_type <- headers(res)$`Content-Type`
-          if (content_type == "image/jpeg"){
-            jpg <- jpeg::readJPEG(res$content)
-            jpeg::writeJPEG(jpg, img.to.path)
+          res <- NULL
+          get.image.flag <- FALSE
+          if (httr::url_ok(img.from.path)){
+            for (h in 1:5){
+              res <- tryCatch({
+                httr::GET(url = img.from.path, httr::add_headers(.headers=headers))
+              }, error = function(e) {
+                NULL
+              })
+              if (is.null(res) || httr::http_error(res)){
+                Sys.sleep(3)
+                next
+              } else {
+                get.image.flag <- TRUE
+                break
+              }
+            }
+          }
+          if(get.image.flag){
+            content_type <- headers(res)$`Content-Type`
+            if (content_type == "image/jpeg"){
+              jpg <- jpeg::readJPEG(res$content)
+              jpeg::writeJPEG(jpg, img.to.path)
+            } else {
+              cat("\nNo image.")
+            }
           } else {
-            cat("\nNo image.")
+            cat("\nImage url failed.")
           }
           
           #record figid  
@@ -366,7 +428,7 @@ for (k in 1:9){
     cat(sprintf("\n\n%i new figures total\n",res.fig.count), file="figures/fetch.log", append = T)
     
     ## log last_run
-    config$last_run <- to.date
+    config$last_run <- format(as.Date(from.date) + months(1), "%Y/%m/%d")
     yaml::write_yaml(config, "query_config.yml")
     
     ## Close up shop
@@ -374,7 +436,6 @@ for (k in 1:9){
     
     ## If we get to the end, then exit retry loop
     break
-    
   } #end retry loop for a given query
   
 } #end query
