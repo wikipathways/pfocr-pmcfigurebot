@@ -1,0 +1,54 @@
+---
+figid: PMC9308166__gr4
+pmcid: PMC9308166
+image_filename: gr4.jpg
+figure_link: /pmc/articles/PMC9308166/figure/fig4/
+number: Figure 4
+figure_title: ''
+caption: Conditioning lesions significantly enhance CNS cortical neurite growth(A–E)
+  The spinal cord was lesioned at C8; the motor cortex was then removed and cultured
+  either (A) 1 h, (B) 6 h, (C) 24 h, (D) 72 h, or (E) 7 days later. All cells were
+  then maintained for 5 days in culture. An increase in neurite length is particularly
+  appreciable in cultures prepared 24 h after conditioning. Tuj1 label for neurons.
+  Scale bar, 20 μm. Images of neurons were placed onto equal-sized background panels
+  for presentation purposes.(F and G) Total neurite length and (G) longest neurite
+  length measured using Tuj1 labeling. N = 3 replicates, ± SEM There is a significant
+  conditioning effect beginning 1 h after spinal cord injury and lasting 24 h.(H)
+  RNA sequencing of conditioned neuronal cultures. Spinal cord lesions were made 24 h
+  before plating cells, and RNA sequencing was performed after 1, 2, 3, 5, and 7 days
+  in culture. Number of differentially expressed genes (DEGs) compared with non-conditioned
+  cultures sampled at the same number of days in culture are shown. FDR ≤0.1.(I) Heatmap
+  of top 1,000 differentially expressed genes (FDR ≤0.1, Benjamini-Hochberg adjusted
+  p values) of conditioned relative to non-conditioned neurons at 1, 2, 3, 5, and
+  7 days in culture, arranged by hierarchical clustering. Red, increased expression;
+  green, reduced expression. Intensity of color reflects degree of gene differential
+  expression compared to non-conditioned cultures.(J) Pathway analysis of differentially
+  expressed genes over days 1 to 7 in culture. The most significant clusters of transcription
+  factor genes were related to embryonic development, cell morphology, and cell growth
+  and proliferation, suggesting conversion of the cell to an immature growth state.
+  State of activity of signaling pathway is represented by Z score (right-tailed Fisher
+  exact test). Red, activation; green, inhibition. Scaling parameters listed at bottom
+  right. n = 3 biological replicates for each day and condition.(K) Pathway analysis
+  supports the emergence of a stem cell-like transcriptional state after 5–7 days
+  in culture.(L) On the very earliest days of culture, cells exhibit marked elevations
+  in cell metabolic, anti-oxidant and glycolytic pathways, indicating an abrupt transition
+  to a state that may foster cell survival after removal from the brain. This state
+  rapidly diminishes.(M), General signaling pathways show early reductions in many
+  trophic and guidance pathways, followed by their recovery starting approximately
+  3 days after culture as cells extend neurites and form synapses.
+article_title: Methods for culturing adult CNS neurons reveal a CNS conditioning effect.
+citation: Erna A. van Niekerk, et al. Cell Rep Methods. 2022 Jul 18;2(7):100255.
+year: '2022'
+
+doi: 10.1016/j.crmeth.2022.100255
+journal_title: Cell Reports Methods
+journal_nlm_ta: Cell Rep Methods
+publisher_name: Elsevier
+
+keywords:
+- primary adult neuronal cultures
+- regeneration
+- neural repair
+- conditioning lesion
+
+---

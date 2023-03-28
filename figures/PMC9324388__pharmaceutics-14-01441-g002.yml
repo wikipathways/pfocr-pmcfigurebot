@@ -1,0 +1,49 @@
+---
+figid: PMC9324388__pharmaceutics-14-01441-g002
+pmcid: PMC9324388
+image_filename: pharmaceutics-14-01441-g002.jpg
+figure_link: /pmc/articles/PMC9324388/figure/pharmaceutics-14-01441-f002/
+number: Figure 2
+figure_title: ''
+caption: 'Intravenous (IV) Cortical Biodistribution Data. At equal dose, the tissue
+  penetration of the parent IgG1 antibody administered via the rat tail vein was an
+  order of magnitude lower than when administered intra-CSF. Representative images.
+  (a) Upon IV delivery of ABT-806 at 0.3 mg/kg (same dose as administered intra-CSF),
+  the parent antibody was barely detectable in the brain tissue, both within 4 h and
+  24 h post-injection. Within 4 h of tail vein injection at 3 mg/kg (10-times higher
+  than administered intra-CSF), ABT-806 was observed in trace amounts in the brain
+  tissue. Even at 10 mg/kg, (~30-fold higher than administered intra-CSF), IV-delivered
+  ABT-806 resulted in low penetration in brain tissue, consistent with a poorly permeable
+  blood-brain barrier (BBB). Blue = DAPI, Red = ABT-806. (b) Quantification of the
+  fluorescence intensity (vasculature excluded) displays a dose-response relationship
+  which is also time-dependent. 0.3 mg/kg 4 h: 979.1 ± 51; 0.3 mg/kg 24 h: 2085 ±
+  163; 3 mg/kg 4 h: 3166 ± 180; 3 mg/kg 24 h: 5452 ± 452; 10 mg/kg 4 h: 8663 ± 272;
+  10 mg/kg 24 h: 11155 ± 292. **** p < 0.0001 vs. 0.3 mg/kg at that timepoint, ++++
+  p < 0.0001 vs. 3 mg/kg at that timepoint, #### p < 0.0001 vs. same dose at 4 h;
+  One-way ANOVA, Tukey’s post-hoc test. n = 3 animals per timepoint, average of 20–25
+  slices per animal per timepoint. (c) The IHC observation and quantification are
+  consistent with the results from the PK analysis of IV-administered brain homogenates
+  that are summarized in the table. BQL = Below Quantification Limit. (d) Comparison
+  of the fluorescence intensity between ICM and IV administered brains indicates an
+  order of magnitude higher exposures with intra-CSF vs. systemic administration at
+  0.3 mg/kg dose. **** p < 0.0001 vs. ICM at that timepoint; Two-way ANOVA, Tukey’s
+  post-hoc test.'
+article_title: 'Biodistribution Analysis of an Anti-EGFR Antibody in the Rat Brain:
+  Validation of CSF Microcirculation as a Viable Pathway to Circumvent the Blood-Brain
+  Barrier for Drug Delivery.'
+citation: Ghazal Naseri Kouzehgarani, et al. Pharmaceutics. 2022 Jul;14(7):1441.
+year: '2022'
+
+doi: 10.3390/pharmaceutics14071441
+journal_title: Pharmaceutics
+journal_nlm_ta: Pharmaceutics
+publisher_name: MDPI
+
+keywords:
+- blood-brain barrier
+- brain targeted therapy
+- drug delivery
+- cerebrospinal fluid microcirculation
+- brain biodistribution
+
+---

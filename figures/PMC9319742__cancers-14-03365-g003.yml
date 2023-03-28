@@ -1,0 +1,51 @@
+---
+figid: PMC9319742__cancers-14-03365-g003
+pmcid: PMC9319742
+image_filename: cancers-14-03365-g003.jpg
+figure_link: /pmc/articles/PMC9319742/figure/cancers-14-03365-f003/
+number: Figure 3
+figure_title: ''
+caption: Differential induction of Notch3 by homo/heterotypic interactions leads to
+  modulation in proliferation, invasiveness, and cisplatin sensitivity in SNFT. (A,B)
+  Bioluminescence images of SNFT individually co-cultured with TOV21G, OAW42, A2780,
+  and OVCAR3 cell lines naturally expressing different levels of Jag1, which led to
+  differential Notch3 promoter activity as represented by the bar diagram (n = 3).
+  Co-culturing with TOV21G showed comparable luciferase activity (9111 ± 458.28 p/s/cm2/sr)
+  to SNFT. (C,D) The proliferation index was calculated by FlowJo software and plotted
+  as a line graph which indicated heterogeneity in the proliferation rate of SNFT
+  post-co-culture with different NIH3T3-Jagged1 expressing clones and EOC cell lines.
+  The maximum increase in SNFT proliferation was found after NIH3T3J1-A co-culture
+  (12.3-fold, p < 0.001) and post OVCAR3 co-culture (7.7-fold, p < 0.001) on day2.
+  (E,F) Immunofluorescence images of Ki-67 staining, a nuclear marker for cell proliferation
+  in SNFT cells sorted after co-culturing with various EOC cells and Jagged-1 expressing
+  NIH3T3 clones labelled with CFSE (E). Graphical comparison of the overall distribution
+  of Ki-67 labelled SNFT cells exhibited maximal induction after co-culture with OVCAR3
+  cells, followed by NIH3T3J1-A and OAW42 cells. NIH3T3wt also induced Ki-67 expression
+  SNFT but not significantly (n = 2). * p ≤ 0.05, ** p ≤ 0.01, *** p ≤ 0.001. (G,H)
+  The epifluorescence images represent the invaded SNFT cells (green) after co-culture
+  (G). The highest invasion was observed in SNFT co-cultured with NIH3T3J1-A, followed
+  by OVCAR3, OAW42, and NIH3T3J1-D (H) (n = 3). (I,J) The result of the MTT assay
+  was plotted as drug concentration vs. percentage cell survival in a line graph which
+  showed that across different co-culture conditions NIH3T3J1-A and OVCAR3 imparted
+  the highest cisplatin resistance in SNFT, which gradually decreased with OAW42,
+  NIH3T3J1-D, and NIH3T3Wt co-cultures. The IC50 doses of SNFT alone and after co-culture
+  with different cells are presented in the table (n = 3). * p ≤ 0.05, ** p ≤ 0.01,
+  *** p ≤ 0.001.
+article_title: Homo and Heterotypic Cellular Cross-Talk in Epithelial Ovarian Cancer
+  Impart Pro-Tumorigenic Properties through Differential Activation of the Notch3
+  Pathway.
+citation: Souvik Mukherjee, et al. Cancers (Basel). 2022 Jul;14(14):3365.
+year: '2022'
+
+doi: 10.3390/cancers14143365
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- Notch3 signaling
+- co-culture
+- epithelial ovarian cancer
+- imaging
+
+---

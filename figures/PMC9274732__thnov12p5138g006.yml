@@ -1,0 +1,36 @@
+---
+figid: PMC9274732__thnov12p5138g006
+pmcid: PMC9274732
+image_filename: thnov12p5138g006.jpg
+figure_link: /pmc/articles/PMC9274732/figure/F6/
+number: Figure 6
+figure_title: ''
+caption: Functional annotation of KRAS-Mut subtypes by phosphoproteome analysis. (A)
+  Heatmap shows the representative biological pathways among KM1, KM2 and KRAS-WT
+  subgroups in RNA, protein, phosphoprotein level of CPTAC cohort. (B) The representative
+  differential proteins expression level in KM1 or KM2 versus KRAS-WT, respectively.
+  The color represents the ratio of level in different subgroup. (C) The volcano plot
+  of differential phosphorylation sites in KM1 versus KM2. Blue and red points represented
+  significantly differential phosphoprotein in M1 and M2 subtype, respectively. X-axes
+  showed log2 (fold change) and y-axes showed -log10 (adjusted P value). (D) The expression
+  of phosphorylated protein sites in KM1 and KM2 groups were applied to perform pathway
+  and process enrichment analysis via Metascape. (E) Enriched kinases in KM1 and KM2
+  subsets using KSEA with a significance of P < 0.05. Blue bars represent enriched
+  in KM1; Red bars enriched in KM2.
+article_title: Integrated multi-omics characterization of KRAS mutant colorectal cancer.
+citation: Wei Chong, et al. Theranostics. 2022;12(11):5138-5154.
+year: '2022'
+
+doi: 10.7150/thno.73089
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- Colorectal cancer
+- KRAS mutation
+- Proteogenomics
+- Molecular subtype
+- Prognosis
+
+---

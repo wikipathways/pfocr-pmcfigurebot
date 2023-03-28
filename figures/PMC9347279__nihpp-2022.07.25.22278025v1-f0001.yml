@@ -1,0 +1,38 @@
+---
+figid: PMC9347279__nihpp-2022.07.25.22278025v1-f0001
+pmcid: PMC9347279
+image_filename: nihpp-2022.07.25.22278025v1-f0001.jpg
+figure_link: /pmc/articles/PMC9347279/figure/F1/
+number: 'Figure 1:'
+figure_title: Study overview
+caption: In the discovery stage, plasma protein level was measured using SomaScan
+  v4.1 7K (7,055 proteins passed QC) on 332 COVID-19 cases, including 82 patients
+  on ventilation and 63 patients died from SARS-CoV-2 infection, and 150 healthy controls
+  recruited at Washington University in St Louis (WUSTL). Differential abundance analyses
+  for infection, ventilation and death were performed. The publicly available Massachusetts
+  General Hospital (MGH) COVID-19 cohort that includes 4,301 proteins for 297 cases
+  and 76 controls were then used for replication. The replicated proteins were defined
+  by the Benjamini-Hochberg false discovery rate (FDR) < 0.05 in discovery and replication
+  stage, P < 1.16×10−5 in meta-analysis and the concordant direction of effect sizes.
+  There were 841 proteins associated with infection, 833 proteins with ventilation
+  and 253 with death, which were used to build and validate prediction models and
+  perform pathway enrichment analyses. Mendelian randomization (MR) was performed
+  using publicly available plasma protein quantitative trait loci (pQTL) of these
+  differential abundant proteins and COVID-19 host genetics initiative (HGI) GWAS
+  summary statistics to identify the causal proteins. For the MR nominated proteins,
+  the genetic region harboring the shared causal variants that driving the causal
+  relationship among them were further tested for Bayesian co-localization analyses.
+  The proteomic data for the discovery cohort be interactively explored in our web
+  portal (www.omics.wustl.edu/proteomics
+article_title: Plasma proteomics of SARS-CoV-2 infection and severity reveals impact
+  on Alzheimer and coronary disease pathways.
+citation: Lihua Wang, et al. medRxiv. 2022 Jul 25:2022.07.25.22278025.
+year: '2022'
+
+doi: 10.1101/2022.07.25.22278025
+journal_title: medRxiv
+journal_nlm_ta: medRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+---

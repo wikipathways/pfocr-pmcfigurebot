@@ -1,0 +1,50 @@
+---
+figid: PMC9316442__viruses-14-01418-g001
+pmcid: PMC9316442
+image_filename: viruses-14-01418-g001.jpg
+figure_link: /pmc/articles/PMC9316442/figure/viruses-14-01418-f001/
+number: Figure 1
+figure_title: ''
+caption: 'ZIKV and DENV induced transcriptional changes in hNPCs. (A) Schematic of
+  the RNA-seq and ribosome footprinting on hNPCs cells infected with ZIKV or DENV
+  (72 h). Comparison of ribosome-protected sequences vs. total mRNA isolates the translational
+  efficiency for each mRNA (TE). (B,C), RNA-Seq analysis identifies changes in transcription
+  in hNPCs cells infected with ZIKV (B) and DENV (C) compared to uninfected samples.
+  Using the statistical cut-off of 5% FDR (False Discovery Rate), we identify differential
+  mRNAs with significantly decreased or increased (shown in red; q < 0.05) or unchanged
+  transcription (background, shown in black); two biological replicates. (D,E), Venn
+  diagram showing the number of shared or exclusive RNAs that are significantly downregulated
+  (D) or upregulated (E) (q < 0.05) in ZIKV and DENV infected hNPCs (F,G), STRING:
+  Functional Protein Association Networks (version 11.0) analysis of downregulated
+  RNAs (n = 335; q < 0.05) in ZIKV-infected hNPCs shows (F) three enriched clusters
+  I, II, and III related to histone genes (green), SLE, viral carcinogenesis, alcoholism
+  (blue), and cell cycle (red), respectively. (G) Cluster III showed sub-clusters
+  related to the cell cycle mitotic (green) and resolution of sister chromatid pathways
+  (blue). (H), Gene Set Enrichment Analysis (GSEA) for chromosomal positional sets
+  showed significant enrichment of genes clustered on chr6p22, chr1q21, and chr1p31
+  among the downregulated RNA (n = 335; q < 0.05) in ZIKV infected hNPCs. (I), GSEA
+  for KEGG pathway enrichment in the subset of mRNA downregulated upon ZIKV infection.
+  (J), GSEA of transcription factor motif enrichment in the subset of mRNAs downregulated
+  in ZIKV infected samples. (K,L), GSEA for KEGG pathways show significant enrichment
+  of mTOR (red) (K), histone (blue) genes (K), and MYC/E2F targets (L) in downregulated
+  mRNA (n = 37; q < 0.05) in DENV infected hNPCs.'
+article_title: Transcriptional and Translational Dynamics of Zika and Dengue Virus
+  Infection.
+citation: Kamini Singh, et al. Viruses. 2022 Jul;14(7):1418.
+year: '2022'
+
+doi: 10.3390/v14071418
+journal_title: Viruses
+journal_nlm_ta: Viruses
+publisher_name: MDPI
+
+keywords:
+- ZIKV
+- polyamine pathways
+- ATF3/CHOP
+- BACH1/2
+- dengue
+- eIF5A hypusination
+- PIM1
+
+---

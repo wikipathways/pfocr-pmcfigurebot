@@ -1,0 +1,44 @@
+---
+figid: PMC9345490__pcbi.1010306.g001
+pmcid: PMC9345490
+image_filename: pcbi.1010306.g001.jpg
+figure_link: /pmc/articles/PMC9345490/figure/pcbi.1010306.g001/
+number: Fig 1
+figure_title: Effect of noise in the Notch-Delta single cell model
+caption: (a) Schematic of the Notch-Delta circuit. The Delta ligand of the Sender
+  cell binds to the Notch transmembrane receptor of the Receiver cell. Upon binding,
+  the Notch Intracellular Domain (NICD) translocates to the cell nucleus (pink shading),
+  where it upregulates the expression of Notch while inhibiting the expression of
+  Delta. (b) Phase diagram of the deterministic single cell model as a function of
+  external Delta ligands (DEXT) and Notch receptors (NEXT). Color scale indicates
+  the probability to attain a Receiver state. To estimate the Receiver state probability,
+  n = 1000 independent trajectories starting from randomized initial conditions were
+  solved for each (NEXT, DEXT) combination. In the white region where the red shifts
+  to blue, the system is bistable and can be in either the Sender or Receiver state.
+  (c) Pseudopotential landscape for a case of shot noise (σshot = 12, NEXT = 0, DEXT
+  = 1500). Continuous and dashed black lines depict the nullclines of the corresponding
+  deterministic model, while black starred dots highlight the stable fixed points
+  of the corresponding deterministic model. Green starred points locate the minima
+  of the landscape. (d) Heatmap showing the extension of the Sender and Receiver minima
+  as a function of shot noise for (NEXT = 0, DEXT = 1500). The areas of the two states
+  are defined as the regions where the pseudopotential is increased by at most a unit
+  from its value in the minimum. (e) Comparison of the standard deviations of Notch
+  and Delta with different shot noise levels (dashed pink, grey, blue, and green lines
+  representing std. dev. of N and D for σshot = 1, 7, 13, and 20, respectively) against
+  fluctuations in Gillespie simulations (purple bars), chemical terms in the Notch
+  circuit (orange terms), and copy numbers of Notch and Delta (yellow bars). Chemical
+  rate amplitudes and copy numbers are averaged over Sender and Receiver. For the
+  Gillespie and shot noise simulations, the one cell sender has NEXT = 5000, DEXT
+  = 0 while the Receiver cell has NEXT = 500, DEXT = 1500.
+article_title: Stochastic fluctuations promote ordered pattern formation of cells
+  in the Notch-Delta signaling pathway.
+citation: Madeline Galbraith, et al. PLoS Comput Biol. 2022 Jul;18(7):e1010306.
+year: '2022'
+
+doi: 10.1371/journal.pcbi.1010306
+journal_title: PLoS Computational Biology
+journal_nlm_ta: PLoS Comput Biol
+publisher_name: Public Library of Science
+
+keywords:
+---

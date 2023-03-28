@@ -1,0 +1,54 @@
+---
+figid: PMC9335272__pnas.2122236119fig03
+pmcid: PMC9335272
+image_filename: pnas.2122236119fig03.jpg
+figure_link: /pmc/articles/PMC9335272/figure/fig03/
+number: Fig. 3
+figure_title: ''
+caption: 'RNA-seq reveals an inflammatory response in human cortex after SARS-CoV-2
+  infection. (A) Primary organotypic cortical cultures from GW21 and GW23 were exposed
+  to SARS-CoV-2 for 2 h and processed for RNA-seq 72 h later (three replicates for
+  infection and control for each individual). (B) (Left) PC analysis revealed the
+  first axis of variation as primarily due to age, while the second was related to
+  SARS-CoV-2 infection. PC1 explained 15% of the variance and PC2 10% of the total
+  variance. (Middle) Pathway enrichment analysis using Gene Ontology. A set of 22
+  genes are upregulated based on FDR < 0.1 and at least a 2-fold increase (100% increase
+  or doubling) of normal expression. Upregulated genes in infected samples correspond
+  to immune response, inflammation, neutrophil degranulation, and cytokine signaling.
+  (Right) Volcano plot of significance versus effect size, with line drawn at FDR
+  < 10%. The top downregulated genes are associated with transcription and cell growth
+  (blue), and selected upregulated genes associated with inflammation, immune response,
+  and microglia activation (red) are labeled. (C) We observe an increase in microglia
+  markers TREM2 and CD4 expression after infection. Box plots contain expression values
+  for the gene of interest (TREM2: FDR < 0.0094, CD4: FDR < 0.029, blue arrow: microglia
+  without TREM2, yellow arrows: microglia with TREM2 or CD4, white arrow: dsRNA+-infected
+  cell with TREM2). (D) There is an increase in inflammatory gene expression, including
+  CD14 (FDR < 0.0089) and IFITM3 (FDR < 0.057), after infection. Protein staining
+  indicates CD14 is increased in IBA1+ microglia (yellow arrow) and infected dsRNA+GFAP+
+  astrocytes (white arrow). IFITM3 is increased in infected (yellow arrow) and uninfected
+  (white arrow) astrocytes. (E) There is an increase in astrocyte reactivity state
+  corresponding to infection-related genes. Cell state enrichment analysis of differentially
+  expressed genes from B and SARS-CoV-2 gene expression dose-responsive genes were
+  compared with publicly available gene sets of activated microglia () and reactive
+  astrocyte () cell states. Gene Ontology plots show an upregulated set of 918 genes
+  correlated with SARS-CoV-2 dose based on FDR < 0.1 and at least a 2-fold increase
+  of normal expression (GeneOntology up). When evaluating cell state by SARS-CoV-2
+  dose, our dataset most highly corresponds to an activated astrocyte population with
+  high NF-κB signaling. Pathway enrichment of our viral dose-related dataset indicates
+  genes that regulate viral defense, cytokine signaling, and immune response.'
+article_title: Tropism of SARS-CoV-2 for human cortical astrocytes.
+citation: Madeline G. Andrews, et al. Proc Natl Acad Sci U S A. 2022 Jul 26;119(30):e2122236119.
+year: '2022'
+
+doi: 10.1073/pnas.2122236119
+journal_title: Proceedings of the National Academy of Sciences of the United States
+  of America
+journal_nlm_ta: Proc Natl Acad Sci U S A
+publisher_name: National Academy of Sciences
+
+keywords:
+- astrocyte reactivity
+- organoid models
+- SARS-CoV-2 tropism
+
+---

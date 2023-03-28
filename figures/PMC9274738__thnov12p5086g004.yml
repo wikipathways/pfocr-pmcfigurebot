@@ -1,0 +1,42 @@
+---
+figid: PMC9274738__thnov12p5086g004
+pmcid: PMC9274738
+image_filename: thnov12p5086g004.jpg
+figure_link: /pmc/articles/PMC9274738/figure/F4/
+number: Figure 4
+figure_title: ''
+caption: UBR5 globally regulates IFN-γ-mediated pathways and stimulated genes. (A)
+  Numbers of differentially expressed genes (DEGs) in Ubr5-/- compared with GFP 4T1
+  cells with or without IFN-γ treatment. Fold change (FC) ≥ 2, p. adjust ˂ 0.05. (B)
+  Numbers of DEGs in GFP 4T1 cells or Ubr5-/- 4T1 cells with IFN-γ treatment compared
+  with that without IFN-γ treatment. Fold change (FC) ≥ 2, p. adjust ˂ 0.05. (C) Kyoto
+  Encyclopedia of Genes and Genomes (KEGG) pathway enrichment of the top 10 biological
+  process between IFN-γ-treated GFP and Ubr5-/- 4T1 cells. (D) Heatmap depicting the
+  mRNA levels of selected ISGs in GFP and Ubr5-/- 4T1 cells with or without 10 ng/mL
+  IFN-γ induction for 24 h. (E) Scatterplot diagram of genes responding to IFN-γ differently
+  in Ubr5-/-cells compared to that in GFP cells. The grey dots represent unchanged
+  expression (1/2<FC<2) in both cell lines. Upregulated ISGs with fold change (FC)
+  values >2 in Ubr5-/- cells compared with GFP cells are shown with orange dots, while
+  downregulated ISGs with fold change (FC) values <1/2 are shown with blue dots. (F)
+  The mRNA levels of Cd40, Siglec15 and Isg15 were examined by qPCR analysis in WT,
+  Ubr5-/- and hUBR5-reconstituted Ubr5-/- 4T1 cells treated with or without IFN-γ
+  for 24 h. All experiments were repeated three times, and the data are presented
+  as the mean ± SEM. *P < 0.05, **P < 0.01, ***P < 0.001, ****P < 0.0001.
+article_title: UBR5 promotes tumor immune evasion through enhancing IFN-γ-induced
+  PDL1 transcription in triple negative breast cancer.
+citation: Bingbing Wu, et al. Theranostics. 2022;12(11):5086-5102.
+year: '2022'
+
+doi: 10.7150/thno.74989
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- UBR5
+- Interferon-γ
+- PD-L1
+- PKR/STAT1/IRF1
+- triple negative breast cancer
+
+---

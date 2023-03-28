@@ -1,0 +1,53 @@
+---
+figid: PMC9421454__gr1
+pmcid: PMC9421454
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC9421454/figure/f0005/
+number: Fig. 1
+figure_title: ''
+caption: (Top) Diagram of data flow through analytic pipelines. Pre-processed resting
+  state fMRI data from either baseline or week 2 is fed through a series of operations
+  that first generate functional connectivity (FC) features and then generate a predictive
+  model based on these features. Alternate approaches are used for parcellation, connectivity
+  estimation, dimensionality reduction, and base learner, every combination of which
+  is tested for each set of input data, resulting in a total of 240 models for each
+  of the baseline and week 2 datasets (5 parcellations × 3 connectivity metrics × 4
+  dimensionality reduction techniques × 4 classifiers) – leading to a total of 480
+  models. Along the highlighted pathway, for example, pre-processed data collected
+  at week 2 is first parcellated using the Power coordinates, resulting in a 259x295
+  matrix for each participant’s data, where 259 is the number of regions of interest
+  (ROI) included in the power coordinates after SNR masking, and 295 is the length
+  of the temporal dimension of the original fMRI dataset. Between every pair of ROIs,
+  the correlation between time-courses is then calculated, resulting in a single value
+  for every ROI pair. The full set of correlations corresponds to the lower triangle
+  of the full correlation matrix, which is then vectorized with a length of 33,411
+  for each participant. This process of feature generation is repeated for each participant,
+  resulting in a 144x33,411 matrix of FC features. Since feature generation is independent
+  of response label, this procedure is completed prior to model generation. Features
+  then fed into model generation are scaled, and passed to ANOVA feature selection,
+  which chooses the k (value obtained based on internal cross-validation) most relevant
+  features to be used in the linear SVM classifier. (Bottom) Delta models are processed
+  through the same analytic pathway, with the addition of a subtraction step at the
+  end of feature generation. Here, both baseline and week 2 FC features are generated,
+  and the difference of the two matrices (the delta FC feature matrix) is used in
+  subsequent predictive modelling. An additional 240 models are generated using these
+  delta features, considering all possible combinations of processing steps.
+article_title: 'Predicting escitalopram treatment response from pre-treatment and
+  early response resting state fMRI in a multi-site sample: A CAN-BIND-1 report.'
+citation: Jacqueline K. Harris, et al. Neuroimage Clin. 2022;35:103120.
+year: '2022'
+
+doi: 10.1016/j.nicl.2022.103120
+journal_title: 'NeuroImage : Clinical'
+journal_nlm_ta: Neuroimage Clin
+publisher_name: Elsevier
+
+keywords:
+- Resting State
+- fMRI
+- Machine learning
+- Treatment response
+- Depression
+- Functional connectivity
+
+---

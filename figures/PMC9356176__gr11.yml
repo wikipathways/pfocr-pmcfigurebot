@@ -1,0 +1,35 @@
+---
+figid: PMC9356176__gr11
+pmcid: PMC9356176
+image_filename: gr11.jpg
+figure_link: /pmc/articles/PMC9356176/figure/fig11/
+number: Fig. 11
+figure_title: ''
+caption: 'Heatmap of significantly enriched GO terms in DS: Comparisons are shown
+  on the X axis with GO terms on the Y axis. When performing tests for enrichment,
+  terms were restricted to include only those with 2 or more genes. Note that for
+  the purposes of display, only GO terms with an enrichment p-value less than 0.05,
+  were included. Furthermore, only the top 50 terms are displayed. Color is assigned
+  based on the -log10(enrichment p-value), with lighter colors implying less significant
+  enrichment. Hierarchical clustering was applied to terms (rows). The most significant
+  terms were clustered according to Euclidean distance using the complete linkage
+  method. (For interpretation of the references to color in this figure legend, the
+  reader is referred to the Web version of this article.)'
+article_title: Role of the cystathionine β-synthase / H2S pathway in the development
+  of cellular metabolic dysfunction and pseudohypoxia in down syndrome.
+citation: Theodora Panagaki, et al. Redox Biol. 2022 Sep;55:102416.
+year: '2022'
+
+doi: 10.1016/j.redox.2022.102416
+journal_title: Redox Biology
+journal_nlm_ta: Redox Biol
+publisher_name: Elsevier
+
+keywords:
+- Down syndrome
+- Metabolism
+- Oxidative phosphorylation
+- Glycolysis
+- Hydrogen sulfide
+
+---

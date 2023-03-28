@@ -1,0 +1,66 @@
+---
+figid: PMC8957372__NPh-009-032208-g002
+pmcid: PMC8957372
+image_filename: NPh-009-032208-g002.jpg
+figure_link: /pmc/articles/PMC8957372/figure/f2/
+number: Fig. 2
+figure_title: ''
+caption: Concurrent fMRI and optogenetic manipulations in anesthetized and awake rodents.
+  Revised from Refs. 133, 103, 34, 30. Representative experimental designs and results
+  from opto-fMRI studies in (a)–(d) anesthetized and (e)–(h) awake rodents. (a) BOLD
+  activation maps and (b) hemodynamic response functions in anesthetized rats receiving
+  anterior thalamic optogenetic stimulation, illustrating BOLD responses ipsilaterally
+  at the site of stimulation and both ipsilaterally and bilaterally in projection
+  areas. Optogenetic stimulation can be presented alongside other sensory stimulations
+  even in anesthetized rodents, as shown in (c) and (d). (c) Unilateral optogenetic
+  stimulation was presented to the MVN (blue lines) concurrently with broadband noise
+  stimulation (black bars). (d) The BOLD signal and averaged area under the signal
+  profiles show that MVN optogenetic stimulation enhanced broadband noise-induced
+  BOLD signaling in ipsilateral auditory pathway regions (IC, MGB, A1, A2). (e) BOLD
+  activation maps that were averaged across different optogenetic stimulation paradigms
+  targeting the IL in awake rats, showing activation patterns in both cortical and
+  subcortical areas receiving projections from the IL. (f) Optogenetics allows for
+  not only the targeted manipulation of a specific brain region but also cell-type
+  specificity. By injecting a Cre-dependent ChR2 construct (green) into the midbrain
+  of TH-Cre rats, light could be used to manipulate only the TH-expressing, or dopamine,
+  cells in the midbrain. (g) BOLD activation maps during optogenetic stimulation of
+  dopaminergic cells (red) in the midbrain in awake rats, showing robust, ipsilateral
+  increases in activity in the dorsal and ventral striatum along with increases in
+  other areas. BOLD activity during resting-state opto-fMRI can be correlated with
+  behavior outside the scanner. (h) Active and inactive lever presses in rats receiving
+  optogenetic stimulation of dopaminergic cells in the midbrain. Compared with control
+  (YFP) rats (black line), ChR2-expressing rats (blue line) consistently had higher
+  levels of active lever presses (compared with inactive lever presses) for midbrain
+  light delivery, suggesting that the optogenetic stimulation pattern used during
+  opto-fMRI is rewarding. Furthermore, there was a significant correlation between
+  a rat’s preference for the active lever outside the scanner and the change in BOLD
+  activity in the ventral striatum during optogenetic stimulation in the scanner.
+  A1, primary auditory cortex; A2, secondary auditory cortex; AC, anterior cingulate
+  cortex; AGm, medial agranular (frontal) cortex; AId, dorsal agranular insular cortex;
+  AON, anterior olfactory nucleus; BST, bed nucleus of stria terminalis; CL, claustrum;
+  EN, CP, caudate-putamen; endopiriform nucleus; Hb, habenula; IC, inferior colliculus;
+  IL, infralimbic; IP, interpeduncular nucleus; LHy, lateral hypothalamus; LS, lateral
+  septum; MBG, medial geniculate body; MD, mediodorsal nucleus; MS, medial septum;
+  MVN, medial vestibular nucleus; NAcc, nucleus accumbens; OC, orbital cortex; PMd,
+  dorsal premammillary nucleus; PrL, prelimbic; RSC, retrosplenial cortex; SNr, substantia
+  nigra; SUB, subiculum; TH, tyrosine hydroxylase.
+article_title: Connecting the dots between cell populations, whole-brain activity,
+  and behavior.
+citation: Lauren N. Beloate, et al. Neurophotonics. 2022 Jul;9(3):032208.
+year: '2022'
+
+doi: 10.1117/1.NPh.9.3.032208
+journal_title: Neurophotonics
+journal_nlm_ta: Neurophotonics
+publisher_name: Society of Photo-Optical Instrumentation Engineers
+
+keywords:
+- functional magnetic resonance imaging
+- optogenetics
+- rodent
+- calcium
+- Ca2+
+- awake
+- anesthetized
+
+---

@@ -1,0 +1,55 @@
+---
+figid: PMC9322957__viruses-14-01407-g003
+pmcid: PMC9322957
+image_filename: viruses-14-01407-g003.jpg
+figure_link: /pmc/articles/PMC9322957/figure/viruses-14-01407-f003/
+number: Figure 3
+figure_title: ''
+caption: The blunt-end dsRNA miR29b-1* mimic induces IFN response in cells and this
+  response mediates the anti-viral effects of the oligo in A549 cells. (A) Agilent
+  whole genome microarray analysis of gene expression changes in Qiagen miR29b-1*-transfected
+  A549 cells in comparison to control cells, which were transfected with Qiagen non-targeting
+  dsRNA siAllstar (10 nM). Shown is a pathway enrichment analysis of significantly
+  (p-value ≤ 0.05) up-regulated and down-regulated functional pathways, the heatmap
+  illustrating log2 values of gene expression changes for the indicated genes within
+  the pathways. (B) A549 cells transfected with blunt-end miR29b-1* mimic (29b-1*,
+  2.5 nM), but not those transfected with randomized miR29b-1* sequence mimic (Rand),
+  secrete type I interferons. Clarified culture supernatants were collected from the
+  cells at 24 h, 48 h, and 60 h post transfection and titrated on 293T indicator cells
+  expressing Firefly luciferase under the type I IFN-inducible Mx1 promoter (jetPEI
+  transfections). The y-axis shows normalized Firefly luciferase activities in cell
+  extracts expressed as fold-changes in comparison to values obtained from untreated
+  indicator cells. Indicated amounts of recombinant IFNα2 were used as controls. The
+  bars represent mean values from three technical replicates with standard deviation.
+  No RNA indicates culture supernatant from non-transfected A549 cells. Rand and miR29b-1*
+  mimics were obtained from Qiagen. (C). The anti-viral effect of the blunt-end dsRNA
+  miR29b-1* mimic is ablated in A549 IFNAR2-KO cells. miR29b-1*-transfected A549-IFNAR2
+  knockout cells were infected with AdV-C5 and infection efficiencies were scored
+  by immunostaining for the late virus protein VI. Infection index (left y-axis, bar
+  plot) refers to the fraction of VI-positive cells over total number of cells analyzed
+  (right y-axis, scatter plot) and v1, v2, and v3 to three different two-fold dilutions
+  of input virus. The two technical replicates are shown separately. Grey bars represent
+  infection index, red symbols cell numbers.
+article_title: Sequence-Specific Features of Short Double-Strand, Blunt-End RNAs Have
+  RIG-I- and Type 1 Interferon-Dependent or -Independent Anti-Viral Effects.
+citation: Abhilash Kannan, et al. Viruses. 2022 Jul;14(7):1407.
+year: '2022'
+
+doi: 10.3390/v14071407
+journal_title: Viruses
+journal_nlm_ta: Viruses
+publisher_name: MDPI
+
+keywords:
+- short double-strand blunt-end RNA
+- RIG-I
+- interferon
+- DNA virus
+- RNA virus
+- RNA therapy
+- antiviral agents
+- adenovirus
+- influenza virus
+- SARS-CoV-2
+
+---

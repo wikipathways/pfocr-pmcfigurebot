@@ -1,0 +1,37 @@
+---
+figid: PMC9287733__gr6
+pmcid: PMC9287733
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC9287733/figure/fig6/
+number: Fig. 6
+figure_title: ''
+caption: 'Model V: Release of sequestration of sMaf and ARE by nuclear BACH1 exportation.
+  (A) Structure of Model V, containing stressor S-induced nuclear exportation of BACH1n
+  (k1), nuclear importation of BACH1c (k2), reversible binding between BACH1n and
+  sMaf (k3 and k4), reversible binding between NRF2 and sMaf (k5 and k6), transcriptional
+  activation of an ARE Target gene by NRF2-sMaf and its competitive inhibition by
+  BACH1n-sMaf (k7, Kd7, Ki7), and degradation of the protein product of the Target
+  gene (k8). (B-C) Simulated steady-state dose-response of free sMaf, free BACH1n,
+  NRF2-sMaf, BACH1n-sMaf, and Target gene expression as indicated, when the model
+  operates in titration mode (B) where k3 = 0.1, k4 = 0.01, and total BACH1 = 100,
+  thus BACH1n-sMaf is the dominant form of nuclear BACH1, or in equilibrium mode (C)
+  where k3 = 0.01, k4 = 0.1, and total BACH1 = 10000, thus free BACH1n is the dominant
+  form of nuclear BACH1, respectively. None of the variables exhibit ultrasensitivity.'
+article_title: Signal amplification in the KEAP1-NRF2-ARE antioxidant response pathway.
+citation: Shengnan Liu, et al. Redox Biol. 2022 Aug;54:102389.
+year: '2022'
+
+doi: 10.1016/j.redox.2022.102389
+journal_title: Redox Biology
+journal_nlm_ta: Redox Biol
+publisher_name: Elsevier
+
+keywords:
+- Oxidative stress
+- KEAP1
+- NRF2
+- ARE
+- Ultrasensitivity
+- Signal amplification
+
+---

@@ -1,0 +1,53 @@
+---
+figid: PMC9313492__ADVS-9-2105126-g004
+pmcid: PMC9313492
+image_filename: ADVS-9-2105126-g004.jpg
+figure_link: /pmc/articles/PMC9313492/figure/advs4045-fig-0006/
+number: Figure 6
+figure_title: ''
+caption: EP300, NCOA3, and SP1 are required for the activation of ACSL4 transcription.
+  a) Real‐time qPCR showing ACSL4 mRNA expression (relative to ACTB) in HUH7 and C3A
+  cells after transfection with a series of acetyltransferase siRNAs as indicated
+  above. NC is the negative control. Data are represented as the mean ± SD (n = 3).
+  One‐way ANOVA with multiple comparisons correction. b) Western blots measuring ACSL4
+  protein levels in HUH7 (left) and C3A (right) cells after transfection with EP300
+  or NCOA3 siRNAs. ACTIN was detected as a loading control. c) ChIP‐seq assays showing
+  the peak enrichment of EP300 and NCOA3 at the ACSL4 promoter and enhancer regions
+  in HUH7 cells. Peak enrichment of H3K27ac in the ACSL4 promoter and enhancer regions
+  after EP300 or NCOA3 knockdown. d) ChIP‐PCR showing EP300 and NCOA3 enrichment (relative
+  to 1% input) at ACSL4 promoter regions in HUH7 cells. e) ChIP‐PCR showing H3K27ac
+  enrichment (relative to 1% input) at the ACSL4 promoter (left) and enhancer (right)
+  regions in HUH7 cells after EP300 or NCOA3 knockdown. Data are represented as the
+  mean ± SD (n = 3). Two‐way ANOVA with multiple comparisons correction. f) Luciferase
+  assay measuring the active regions of the ACSL4 promoter in HUH7 cells by using
+  a series of truncated regions of the ACSL4 promoter. Schematic diagram on the left.
+  TSS, transcription start site. RLU, relative luciferase unit. Data are represented
+  as the mean ± SD (n = 3). One‐way ANOVA with multiple comparisons correction. g)
+  Western blots measuring ACSL4 protein levels in HUH7 (up) and C3A (down) cells after
+  SP1 knockdown. ACTIN was detected as a loading control. h) Coimmunoprecipitation
+  (Co‐IP) and western blots measuring SP1, P300, NCOA3, and GAPDH in HUH7 cells after
+  Co‐IP using SP1, P300, NCOA3, and GAPDH antibodies. i) ChIP‐seq assays showing the
+  peak enrichment of SP1 at promoter and enhancer regions of ACSL4. H3K27ac shows
+  the promoter and enhancer regions of ACSL4. H3K4me3 and H3K4me1 show the promoter
+  and enhancer regions of ACSL4, respectively. ATAC‐seq shows the open region of ACSL4
+  gene. j) ChIP‐PCR showing SP1 enrichment (relative to 1% input) at the ACSL4 promoter
+  (left) and enhancer (right) regions in HUH7 cells after EP300 or NCOA3 knockdown.
+  Data are represented as the mean ± SD (n = 3). Two‐way ANOVA with multiple comparisons
+  correction. ns, non‐significant, *p < 0.05, **p < 0.01, ***p < 0.001, ****p < 0.0001.
+article_title: CRISPR/Cas9 Screens Reveal that Hexokinase 2 Enhances Cancer Stemness
+  and Tumorigenicity by Activating the ACSL4‐Fatty Acid β‐Oxidation Pathway.
+citation: Hongquan Li, et al. Adv Sci (Weinh). 2022 Jul;9(21):2105126.
+year: '2022'
+
+doi: 10.1002/advs.202105126
+journal_title: Advanced Science
+journal_nlm_ta: Adv Sci (Weinh)
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- ACSL4
+- cancer cell stemness
+- fatty acid β‐oxidation
+- hexokinase 2
+
+---

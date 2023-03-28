@@ -1,0 +1,47 @@
+---
+figid: PMC9297108__gr4
+pmcid: PMC9297108
+image_filename: gr4.jpg
+figure_link: /pmc/articles/PMC9297108/figure/fig0004/
+number: Figure 4
+figure_title: ''
+caption: 'Gene mapping of meta-analysis results. (a) Three gene mapping strategies
+  for the index SNP and credible SNPs of each locus. We mapped these SNPs to the protein-coding
+  genes within 10 kb, mapped cis-eQTL markers to their target genes, and mapped the
+  SNPs in the genomic regions interacting with gene promoter regions to corresponding
+  genes. (b) GO pathway enrichment for pleiotropic versus non-pleiotropic loci. This
+  network shows the terms with P < 0.01, a minimum gene count of 3, and an enrichment
+  factor > 1.5. The nodes sizes are scaled with P-value. The genes implicated in pleiotropic
+  loci are most significantly enriched in eye development and neuron differentiation.
+  (c) GTEx tissue-specific enrichment results for 37 loci associated with at least
+  one ocular disease. 55 GTEx tissues were classified as 10 categories, and the retina
+  were coloured in dark blue. The red dotted line represents the P-value threshold
+  after Bonferroni correction (P = 0.05/55 = 9.09 × 10−4). Genomic risk loci show
+  significant enrichment in genes specifically expressed in retina. (d) Retinal development
+  RNA-seq data from 4.7 PCW to adult was used to plot the normalized expression of
+  34 genes of pleiotropic loci and 18 genes of non-pleiotropic loci with significant
+  expression variation during development. (e) Left: cell classes marked on scVis
+  map. Arrows represents developmental trajectories. Right: ScVis map displays the
+  expression trajectories of candidate genes during the development of retinal organoids.
+  The genes implicated in pleiotropic loci highly expressed in multipotent progenitors,
+  GCs, HCs, cones, rods, MCs, and RPEs, successively, whereas the genes mapped to
+  non-pleiotropic loci only had high expression in cones and rods.'
+article_title: Genome-wide association meta-analysis of 88,250 individuals highlights
+  pleiotropic mechanisms of five ocular diseases in UK Biobank.
+citation: Zhengbo Xue, et al. eBioMedicine. 2022 Aug;82:104161.
+year: '2022'
+
+doi: 10.1016/j.ebiom.2022.104161
+journal_title: eBioMedicine
+journal_nlm_ta: eBioMedicine
+publisher_name: Elsevier
+
+keywords:
+- Ocular diseases
+- Cross-disease genetics
+- GWAS
+- Genetic correlation
+- Pleiotropy
+- Retinal development
+
+---

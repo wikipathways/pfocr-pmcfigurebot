@@ -1,0 +1,53 @@
+---
+figid: PMC9270581__CTM2-12-e939-g003
+pmcid: PMC9270581
+image_filename: CTM2-12-e939-g003.jpg
+figure_link: /pmc/articles/PMC9270581/figure/ctm2939-fig-0001/
+number: FIGURE 1
+figure_title: ''
+caption: Newly diagnosed glioblastomas (GBMs) exhibit different epidermal growth factor
+  receptor (EGFR), suppressor of cytokine signalling 2 (SOCS2) and growth hormone
+  receptor (GHR) expression patterns. (A) Top‐most significantly modulated canonical
+  pathways between low (n = 27) versus high (n = 27) EGFR‐expressing GBM. The bar
+  size represents the –log(p). (B) Signal transducer and activator of transcription
+  (STAT) signalling pathway with differential expression status (up/red, down/green)
+  in low versus high‐EGFR‐expressing GBMs. (C) EGFR, SOCS2 and GHR expression heatmap
+  in GBM samples (n = 54). (D) GHR expression in the ONT GBM cohort measured by RT‐qPCR.
+  A break (arrow) can be seen in the overall distribution and was used to define GBMGHR
+  high versus GBMGHR low groups. Comparison of expression of GHR RT‐qPCR data in GBMGHR
+  high (n = 18) versus GBMGHR low (n = 36). Y‐axis represents 2−Δ CT for each gene
+  relative to PPIA expression. ****p ≤ .0001. (E) Immunohistochemistry (IHC) staining
+  of GHR (top) and p‐STAT5 (bottom) shows high‐GHR protein expression in two GBMGHR
+  high cases, whereas no protein expression is detected in a GBMGHR low case. Scale
+  bars in insets correspond to 30 μM. Black arrows show positive cells, whereas grey
+  arrows show negative cells. Additional regions per cases and negative controls can
+  be seen in Figure . GHR IHC images shown are representative of 17 GBM cases (6 GBMGHR
+  high, 10 GBMGHR low) analysed. Positive GHR protein expression is found in ≥30%
+  of tumour area of GBMGHR high cases. (F) Distribution of GHR mRNA expression (normalized
+  gene level RNA‐sequencing expression data in FPKM) in tumour anatomic structures
+  defined as part of the Ivy Glioblastoma Atlas project, such as infiltrative tumour
+  (IT), leading edge (LE), cellular tumour (CT) and pseudopalisading cells around
+  necrosis (PAN). ***p ≤ .001; *p ≤ .05. (G) Proportional distribution of EGFR genomic
+  alterations (mutations or amplification) and molecular subtypes in GBMGHR high (n = 60)
+  versus GBMGHR low (n = 456) (TCGA dataset, z‐score of 1.3). Results were analysed
+  by Pearson's chi‐square test.
+article_title: Identification of growth hormone receptor as a relevant target for
+  precision medicine in low‐EGFR expressing glioblastoma.
+citation: Maïté Verreault, et al. Clin Transl Med. 2022 Jul;12(7):e939.
+year: '2022'
+
+doi: 10.1002/ctm2.939
+journal_title: Clinical and Translational Medicine
+journal_nlm_ta: Clin Transl Med
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- cell migration
+- comparative analysis
+- glioblastoma
+- oncogenicity
+- pre‐clinical models
+- therapeutic target
+- tumour invasion
+
+---

@@ -1,0 +1,31 @@
+---
+figid: PMC9345490__pcbi.1010306.g005
+pmcid: PMC9345490
+image_filename: pcbi.1010306.g005.jpg
+figure_link: /pmc/articles/PMC9345490/figure/pcbi.1010306.g005/
+number: Fig 5
+figure_title: Timescales for single cell and lattice transitions
+caption: (a) The distribution of transition waiting times from Receiver to Sender
+  as a function of NEXT and DEXT in a simulation starting from randomized initial
+  conditions with white noise amplitude of σwhite = 1300 for 9000 hr after a 1000
+  hr relaxation period. Each dot represents the average switching event, while the
+  x- and y-coordinates represent the average levels of Delta and Notch in neighboring
+  cells during the transition. The color scale depicts the waiting time before the
+  transition event. The “correct” state region (a Receiver surrounded by Sender-like
+  environment) is circled, and dots within this region exhibit the longest transition
+  waiting time. (b) Same as (a) but for σshot = 13. (c) Same as (a) but at a high
+  white noise level (σwhite = 2000). These larger fluctuations also flip cells from
+  the “correct” to “incorrect” state. (d) Same as (a) but for high shot noise (σshot
+  = 20).
+article_title: Stochastic fluctuations promote ordered pattern formation of cells
+  in the Notch-Delta signaling pathway.
+citation: Madeline Galbraith, et al. PLoS Comput Biol. 2022 Jul;18(7):e1010306.
+year: '2022'
+
+doi: 10.1371/journal.pcbi.1010306
+journal_title: PLoS Computational Biology
+journal_nlm_ta: PLoS Comput Biol
+publisher_name: Public Library of Science
+
+keywords:
+---

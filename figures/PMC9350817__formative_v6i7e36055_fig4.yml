@@ -1,0 +1,33 @@
+---
+figid: PMC9350817__formative_v6i7e36055_fig4
+pmcid: PMC9350817
+image_filename: formative_v6i7e36055_fig4.jpg
+figure_link: /pmc/articles/PMC9350817/figure/figure4/
+number: Figure 4
+figure_title: ''
+caption: The Shapley Additive Explanations (SHAP) value plot of the feature contribution
+  (unscaled) for the patient’s neighborhood (census tract:10300). The x-axis represents
+  the SHAP’s value, and the y-axis represents the features. The lack of physical activity
+  and poverty had the largest positive (increase) contributions to obesity prevalence
+  in the patient’s neighborhood.
+article_title: 'An Urban Population Health Observatory for Disease Causal Pathway
+  Analysis and Decision Support: Underlying Explainable Artificial Intelligence Model.'
+citation: Whitney S Brakefield, et al. JMIR Form Res. 2022 Jul;6(7):e36055.
+year: '2022'
+
+doi: 10.2196/36055
+journal_title: JMIR Formative Research
+journal_nlm_ta: JMIR Form Res
+publisher_name: JMIR Publications
+
+keywords:
+- health surveillance system
+- explainable AI
+- decision support
+- machine learning
+- obesity
+- chronic disease
+- precision health prevention
+- semantic inference
+
+---

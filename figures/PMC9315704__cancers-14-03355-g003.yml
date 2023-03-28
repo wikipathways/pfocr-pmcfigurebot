@@ -1,0 +1,40 @@
+---
+figid: PMC9315704__cancers-14-03355-g003
+pmcid: PMC9315704
+image_filename: cancers-14-03355-g003.jpg
+figure_link: /pmc/articles/PMC9315704/figure/cancers-14-03355-f003/
+number: Figure 3
+figure_title: ''
+caption: Effect of citrate treatment on HIF1α expression. (A) Heat-map representing
+  color-coded expression levels of differentially expressed genes (p > 0.05, normalized
+  data(log2) > 4, up- or downregulated > 1.5-fold) in HepG2 cells after treatment
+  with or without citrate treatment under 1% O2 for 24 h. (B) Top 12 significantly
+  enriched pathways of differentially expressed genes associated with citrate treatment
+  under hypoxic conditions as analyzed by the Kyoto Encyclopedia of Genes and Genomes
+  pathway analysis. (C) Heat-map of dysregulated genes related to glycolysis, TCA
+  cycle, and fatty acid biosynthesis after treatment with the same as (A). (D) PTEN,
+  phosphor (p) AKT (S473), AKT, MDM2, pMDM2 (S166), SIRT1, and β-actin expression
+  levels in HepG2 cells after incubation with citrate (0, 1, or 5 mM) under 21% or
+  1% O2 for 24 h. (E) HIF1α, MDM2, and β-actin expression levels in HCC cells after
+  transfection with siRNA oligos against MDM2 (siMDM2) or scrambled siRNA oligos for
+  24 h incubation upon indicated condition. (F) HIF1α and β-actin expression levels
+  in HepG2 cells after treatment with citrate and MG-132 under 21% or 1% O2 for 8
+  h. Full Western Blot images can be found in .
+article_title: Extracellular Citrate Treatment Induces HIF1α Degradation and Inhibits
+  the Growth of Low-Glycolytic Hepatocellular Carcinoma under Hypoxia.
+citation: Seon Yoo Kim, et al. Cancers (Basel). 2022 Jul;14(14):3355.
+year: '2022'
+
+doi: 10.3390/cancers14143355
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- SLC13A5/NaCT
+- citrate
+- cancer metabolism
+- hepatocellular carcinoma
+- hypoxia
+
+---

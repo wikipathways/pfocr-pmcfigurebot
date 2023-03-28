@@ -1,0 +1,43 @@
+---
+figid: PMC9279493__41419_2022_5057_Fig3_HTML
+pmcid: PMC9279493
+image_filename: 41419_2022_5057_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC9279493/figure/Fig3/
+number: Fig. 3
+figure_title: IL-21 secreted by Tfh drives B cell class switching to IgG in tumor
+  lesion
+caption: 'A The heatmap showing GSEA enrichment of the CXCL13, Tfh cell, and 12-chemokine
+  signatures in treatment-naive, non-MPR, and MPR tumor tissues. Padj > 0.05 in the
+  enrichment pathway was adjusted to 0 to draw the heat map. B The higher TLS density
+  in neoadjuvant tumor lesions verified by mIHC staining in a single-cell sequencing
+  cohort. C Higher intratumoral C2-CD4-IL7R and C4-CD4-TCF7 cluster proportions in
+  neoadjuvant tumor lesions in scRNA profiles. D IL21 expression in different tissue
+  types tested with Wilcoxon in scRNA profiles showing that IL21 was most prevalent
+  in tumor tissues. ****p < 0.0001. E Go biological function analysis of the IL21
+  expression cells by clusterprofiler in scRNA profiles. F Flow cytometry of IL-21
+  in CD4+ T cells in tumor tissues. Data presented as mean ± SEM. Data were summarized
+  from n = 8 treatment-naive, n = 5 non-MPR and n = 15 MPR tumor samples. P values
+  were determined by ordinary one-way ANOVA. *p < 0.05, **p < 0.01, ns: not significant.
+  G Comparison of paired plasma IL-21 before and after neoadjuvant chemoimmunotherapy.
+  P values were determined by Wilcoxon matched-pairs signed-rank test, two-tailed.
+  *p < 0.05. H, I MIHC staining showing CD4+IL21+ and IgG-positive cells were much
+  abundant in MPR tumor tissues (image under 10× and 20×). Data presented as mean ± SEM.
+  Data were summarized from n = 6 treatment-naive, n = 9 non-MPR and n = 18 MPR tumor
+  samples. P values were determined by ordinary one-way ANOVA. *p < 0.05, ns: not
+  significant.'
+article_title: Single-cell profiling of immune cells after neoadjuvant pembrolizumab
+  and chemotherapy in IIIA non-small cell lung cancer (NSCLC).
+citation: Zhenzhen Hui, et al. Cell Death Dis. 2022 Jul;13(7):607.
+year: '2022'
+
+doi: 10.1038/s41419-022-05057-4
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Non-small-cell lung cancer
+- Cancer immunotherapy
+- Cancer microenvironment
+
+---

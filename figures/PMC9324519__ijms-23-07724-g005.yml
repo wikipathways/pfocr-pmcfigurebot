@@ -1,0 +1,42 @@
+---
+figid: PMC9324519__ijms-23-07724-g005
+pmcid: PMC9324519
+image_filename: ijms-23-07724-g005.jpg
+figure_link: /pmc/articles/PMC9324519/figure/ijms-23-07724-f005/
+number: Figure 5
+figure_title: ''
+caption: (A) Pathway activation strength for pathways related to growth factor signaling.
+  Pathways were clustered using Ward’s clustering method. (B) Relative mRNA levels
+  for growth factor receptor genes measured by real-time PCR six days after lentiviral
+  shRNA transduction of SH-SY5Y and SK-N-AS cells. Each gene expression for each sample
+  was normalized to GAPDH expression. (C) Number of viable cells measured for 15 days
+  after SH-SY5Y transduction with KIT-specific shRNAs in the presence of recombinant
+  growth factors. Recombinant growth factors (100 ng/mL) were added on day 3 after
+  lentiviral transduction, then on day 6, growth medium was changed and growth factors
+  were added in the same concentrations, and this process was repeated on days 9 and
+  12. Bovine serum albumin (BSA) was used as a control mock treatment, as it was used
+  for protein stabilization. (D) Percentage of apoptotic cells measured six days after
+  transduction. EPO and NGF (100 ng/mL) were added on the third day after transduction.
+  Apoptosis was measured by flow cytometry using annexin-V and SYTOX-blue staining.
+  (E) Number of viable cells and percentage of apoptotic cells six days after SH-SY5Y
+  transduction with shKIT lenviral vector in the presence of EPO and NGF and ERK1/2
+  inhibitor FR180204 (ERKi). EPO and NGF (100 ng/mL) and FR180204 (5 μM) were added
+  on the third day after transduction. * p < 0.05, ** p < 0.01 as determined by two-tailed
+  t-test for PCR experiments, and by Mann–Whitney test for other experiments.
+article_title: Subtype of Neuroblastoma Cells with High KIT Expression Are Dependent
+  on KIT and Its Knockdown Induces Compensatory Activation of Pro-Survival Signaling.
+citation: Timofey Lebedev, et al. Int J Mol Sci. 2022 Jul;23(14):7724.
+year: '2022'
+
+doi: 10.3390/ijms23147724
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- neuroblastoma
+- ERK kinase
+- shRNA
+- lentiviral vector
+
+---

@@ -1,0 +1,57 @@
+---
+figid: PMC9321386__ijms-23-07823-g003
+pmcid: PMC9321386
+image_filename: ijms-23-07823-g003.jpg
+figure_link: /pmc/articles/PMC9321386/figure/ijms-23-07823-f003/
+number: Figure 3
+figure_title: ''
+caption: Strategies to modulate the ISR in ALS experimental models. Pharmacologically,
+  (i) ISR inhibition or exacerbation can be achieved by directly tuning either of
+  the four ISR kinases. Most of the studies are focused on the pharmacological inhibition
+  of PERK with the kinase inhibitor GSK2606414 []. In the last years, other small
+  molecules have been developed to activate/inhibit other ISR kinases, such as GZD824
+  or Neratinib, that block GCN2. (ii) The levels of eIF2a phosphorylation can also
+  be tuned by inhibiting phospho-eIF2a dephosphorylation. To that aim, ALS studies
+  have focused on the pharmacological inhibition of GADD34, the stress-induced Protein
+  Phosphatase 1 Regulatory Subunit, required for dephosphorylation of eIF2a. Salubrinal
+  [], guanabenz [], or (more recently) sephin1 [] promote the increased phosphorylation
+  of p-eIF2a by targeting the GADD34-PP1 holoenzyme. Finally, (iii) the ISR can be
+  inhibited by using downstream inhibitors of the pathway, such as ISRIB [] or its
+  derivatives (DNL343 [], and ABBV-CLS-7262 []). ISRIB, or its derivatives, promotes
+  the dimerization of eIF2B pentamers and allows the recycling of eIF2-GDP into eIF2-GTP
+  even when eIF2a is phosphorylated. Restoration of eIF2B recycling overrules (at
+  least in part) ISR translational regulation. Two FDA-approved drugs, Trazodone and
+  DBM, display ISRIB-like effects under ISR-inducing conditions. Based on their capacity
+  to tune ISR, the repurposing of these compounds has been tested in neurodegenerative
+  models other than ALSs []. Beyond these ISR-specific drugs, compounds such as metformin
+  that have a broad effect in metabolism can also affect ISR, [] and PBA or TUDCA
+  and a TUDCA-derivative (defined as chemical chaperones that mitigate stress) have
+  been also tested in ALS and in patients [,,,]. In proof of principle studies, the
+  ISR has been modulated using genetic tools/approaches (labeled with dashed blue
+  rectangles to indicate); for instance, the genetic elimination of PERK or the generation
+  of a truncated, inactive version of GADD34 have been used to reduce or enhance the
+  ISR [,]. Also, the elimination of ATF4 and CHOP have been attempted [,] together
+  with the overexpression of the ATF4-target gene ATF3 [] and the removal of the UPR
+  transcription factor XBP1 []. Finally, the intervention with AAV vectors is a very
+  exciting opportunity to reach the correct cell type, as we can discuss below [].
+  Created with BioRender.com.
+article_title: The Role and Therapeutic Potential of the Integrated Stress Response
+  in Amyotrophic Lateral Sclerosis.
+citation: Elías Marlin, et al. Int J Mol Sci. 2022 Jul;23(14):7823.
+year: '2022'
+
+doi: 10.3390/ijms23147823
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- amyotrophic lateral sclerosis
+- integrated stress response
+- translation
+- uORFs-containing mRNAs
+- ALS experimental models
+- RNA-binding proteins
+- ALS clinical trials
+
+---

@@ -1,0 +1,50 @@
+---
+figid: PMC9319172__cancers-14-03505-g001
+pmcid: PMC9319172
+image_filename: cancers-14-03505-g001.jpg
+figure_link: /pmc/articles/PMC9319172/figure/cancers-14-03505-f001/
+number: Figure 1
+figure_title: ''
+caption: A hypothesis-based immune response model. In the course of tumor growth,
+  the tumor microenvironment (TME) accumulates high concentrations of immune-suppressive
+  cytokines/growth factors, such as transforming growth factor beta (TGFβ) and vascular
+  endothelial growth factor. Under their action, immunosuppressive cells (black cells),
+  regulatory T-cells, and myeloid cells, will prevail in the tumor environment. Dentric
+  cells (DCs) become tolerogenic and immune effector cells cannot infiltrate the tumor
+  (1). After high-dose irradiation (2), many immune pathways are activated. Firstly,
+  high-dose radiotherapy (HDRT) will cause tumor cell necrosis and the release of
+  tumor cell debris, which can be taken up by antigen-presenting cells (APCs). Secondly,
+  HDRT causes dsDNA release, triggering the cGAS-STING-IFN-1 pathway. In addition,
+  HDRT upregulates cell surface molecules such as MHC-1/Fas/NKG2D. Activated APCs
+  then migrate to the lymph nodes, where they educate and prime cytotoxic T-cells
+  (3). Cytotoxic T-cells will enter the bloodstream (4) to reach primary and distant
+  tumor sites and kill tumor cells. However, these effector immune cells might not
+  be able to enter primary or distant tumor stroma because of immune-suppressive barriers
+  that are formed naturally or after HDRT. Low-dose radiotherapy (LDRT) enhances immune
+  cells infiltration and diminishes immune-suppressive cells and cytokines, acting
+  in a similar way to an immune-modulator (5). LDRT can be applied to the local tumor
+  which has received HDRT or other tumor lesions, which remains to be explored by
+  more studies. After LDRT, the activated immune cells successfully enter the primary
+  and distant tumor issue, eradicating tumor cells, and causing abscopal effect (6).
+  The crucial timing of LDRT needs to be explored by future studies in order to avoid
+  effector immune cell depletion.
+article_title: 'A ‘Hybrid’ Radiotherapy Regimen Designed for Immunomodulation: Combining
+  High-Dose Radiotherapy with Low-Dose Radiotherapy.'
+citation: Hongshan Ji, et al. Cancers (Basel). 2022 Jul;14(14):3505.
+year: '2022'
+
+doi: 10.3390/cancers14143505
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- high-dose radiotherapy
+- low-dose radiotherapy
+- immune
+- radiotherapy dose
+- fraction
+- treatment volume
+- multisite radiotherapy
+
+---

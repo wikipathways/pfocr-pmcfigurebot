@@ -1,0 +1,48 @@
+---
+figid: PMC9313013__biomolecules-12-01009-g001
+pmcid: PMC9313013
+image_filename: biomolecules-12-01009-g001.jpg
+figure_link: /pmc/articles/PMC9313013/figure/biomolecules-12-01009-f001/
+number: Figure 1
+figure_title: ''
+caption: The three steps of the mitochondrial iron–sulfur cluster assembly machinery
+  required to mature mitochondrial [4Fe-4S] target proteins. In the first step, a
+  [2Fe-2S] cluster is assembled de novo on the scaffold protein ISCU2. The biosynthesis
+  involves six additional ISC proteins including the cysteine desulfurase complex
+  NFS1-ISD11-ACP1 as a sulfur donor, frataxin (FXN), and the electron (e−) transfer
+  chain from NADPH via ferredoxin reductase (FDXR) to ferredoxin FDX2. Only one half
+  of the symmetric core ISC complex is depicted. In the second step, a dedicated chaperone
+  system (HSPA9, HSC20, and GRPLE1/2) facilitates the transfer of the [2Fe-2S] cluster
+  from the ISCU2 scaffold to the monothiol glutaredoxin GLRX5, which binds the cluster
+  in glutathione (GS)-dependent fashion. A secondary route (indicated by dashed arrows)
+  involves BOLA3, which forms an apo complex with GLRX5 able to receive a [2Fe-2S]
+  cluster from ISCU2 to form the homodimeric [2Fe-2S] GLRX5 complex; or, alternatively,
+  the latter complex can be formed via the interaction of BOLA3 with the homodimeric
+  [2Fe-2S] GLRX5 complex. The third step involves [4Fe-4S] cluster synthesis and apoprotein
+  insertion. GLRX5 delivers its [2Fe-2S] cluster to three late-acting ISC proteins
+  (ISCA1, ISCA2, and IBA57) for [4Fe-4S] cluster biosynthesis, which additionally
+  requires the ferredoxin FDX2 electron transfer chain. Subsequently, the newly formed
+  [4Fe-4S] cluster is delivered to recipient apoproteins by dedicated Fe-S-targeting
+  proteins (e.g., NFU1, IND1 directly binding the [4Fe-4S] cluster) via parallel pathways.
+  The major role of BOLA3 protein is in lipoyl synthase (LIAS) maturation. BOLA3 might
+  be involved in such function via an alternative pathway, which consists on the [2Fe-2S]
+  cluster donation from [2Fe-2S] GLRX5-BOLA3 complex to apo NFU1 to assemble a [4Fe-4S]
+  cluster on NFU1 thanks to the delivery of two electrons, whose physiological source
+  needs, however, to be identified.
+article_title: Molecular Basis of Rare Diseases Associated to the Maturation of Mitochondrial
+  [4Fe-4S]-Containing Proteins.
+citation: Francesca Camponeschi, et al. Biomolecules. 2022 Jul;12(7):1009.
+year: '2022'
+
+doi: 10.3390/biom12071009
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: MDPI
+
+keywords:
+- iron–sulfur cluster
+- mitochondrial proteins
+- multiple mitochondrial dysfunction syndromes
+- rare diseases
+
+---

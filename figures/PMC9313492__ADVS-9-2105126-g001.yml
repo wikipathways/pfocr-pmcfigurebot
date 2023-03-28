@@ -1,0 +1,50 @@
+---
+figid: PMC9313492__ADVS-9-2105126-g001
+pmcid: PMC9313492
+image_filename: ADVS-9-2105126-g001.jpg
+figure_link: /pmc/articles/PMC9313492/figure/advs4045-fig-0003/
+number: Figure 3
+figure_title: ''
+caption: ACSL4 is required for HK2‐maintained liver CSC stemness. a) Correlation assay
+  of RNA‐seq results of HUH7 cells after transfection with two independent HK2 siRNAs.
+  b) Comparison of the genes with downregulated expression from the RNA‐seq results
+  of HUH7 cells transfected with two independent HK2 siRNAs versus negative control
+  (NC). A total of 412 genes showed downregulated expression in two independent HK2
+  siRNA‐transfected HUH7 cell lines. c) KEGG pathway analysis of the 412 genes on
+  the DAVID website. d) Analysis of the embryonic stem cell‐like gene expression signature
+  (ES score) of fatty acid metabolism‐ and fatty acid degradation‐related genes. Red
+  dots show the positively correlated genes with a p value < 0.05 and score > 0. e)
+  Tumorsphere formation assay of HUH7 and C3A cells after transfection with NC, ACSL3,
+  ACSL4, FADS1, and FADS2 siRNAs. Additionally, see the photographs in Figure  (Supporting
+  Information). Data are represented as the mean ± SD (n = 2). One‐way ANOVA with
+  multiple comparisons correction. f) Real‐time qPCR showing ACSL4 mRNA expression
+  (relative to ACTB) in adherent cells and tumorspheres of HUH7 and C3A cells. Data
+  are represented as the mean ± SD (n = 3). Unpaired t‐test. g) Western blots measuring
+  ACSL4 protein levels in adherent cells (Adh.) and tumorspheres (TS) of HUH7 and
+  C3A cells. ACTIN was detected as a loading control. h) Real‐time qPCR showing ACSL4
+  mRNA expression (relative to ACTB) in HUH7 and C3A cells after HK2 knockdown or
+  HK2 overexpression. Data are represented as the mean ± SD (n = 3). One‐way ANOVA
+  with multiple comparisons correction. i) Western blots measuring ACSL4 and HK2 protein
+  levels in HUH7 and C3A cells after HK2 knockdown and HK2 overexpression, respectively.
+  ACTIN was detected as a loading control. j) Tumorsphere formation assay of HuH7
+  and C3A cells after HK2 overexpression and ACSL4 knockdown (left) and HK2 knockdown
+  and ACSL4 overexpression (right). Data are represented as the mean ± SD (n = 2).
+  One‐way ANOVA with multiple comparisons correction. ns, non‐significant, *p < 0.05,
+  **p < 0.01, ***p < 0.001, ****p < 0.0001.
+article_title: CRISPR/Cas9 Screens Reveal that Hexokinase 2 Enhances Cancer Stemness
+  and Tumorigenicity by Activating the ACSL4‐Fatty Acid β‐Oxidation Pathway.
+citation: Hongquan Li, et al. Adv Sci (Weinh). 2022 Jul;9(21):2105126.
+year: '2022'
+
+doi: 10.1002/advs.202105126
+journal_title: Advanced Science
+journal_nlm_ta: Adv Sci (Weinh)
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- ACSL4
+- cancer cell stemness
+- fatty acid β‐oxidation
+- hexokinase 2
+
+---

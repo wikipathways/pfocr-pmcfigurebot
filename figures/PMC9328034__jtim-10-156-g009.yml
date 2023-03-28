@@ -1,0 +1,47 @@
+---
+figid: PMC9328034__jtim-10-156-g009
+pmcid: PMC9328034
+image_filename: jtim-10-156-g009.jpg
+figure_link: /pmc/articles/PMC9328034/figure/j_jtim-2022-0013_fig_009/
+number: Figure 9
+figure_title: ''
+caption: 'The pan-cancer pathway and miRNA network of RUNX genes. (A) Pathway activity
+  showing the overall influence of RUNX on the tumorigenesis pathway in 32 cancer
+  types ([the number of activated or inhibited cancers/32] × 100%). (B) Heatmap showing
+  RUNX proteins that are functional (inhibited or activated) in at least five cancer
+  types. Pathway_A (red) represents the percentage of cancers whose pathways can be
+  activated by a given gene; pathway_I (blue) represents the percentage of cancers
+  whose pathways can be inhibited by a given gene. (C) Correlation between RUNX genes
+  and immune and stroma infiltration scores. (D) The pan-cancer miRNA network regulating
+  RUNX genes. Edge width is defined by the absolute value of the correlation coefficient.
+  BLCA: bladder urothelial carcinoma; BRCA: breast carcinoma; CESC: cervical squamous
+  cell carcinoma and endocervical adenocarcinoma; COAD: colon adenocarcinoma; DLBC:
+  lymphoid neoplasm diffuse large B-cell lymphoma; ESCA: esophageal carcinoma; GBM:
+  glioblastoma multiforme; HNSC: head and neck squamous cell carcinoma; KICH: kidney
+  chromophobe; KIRC: kidney renal clear cell carcinoma; KIRP: kidney renal papillary
+  cell carcinoma; LAML: acute myeloid leukemia; LGG: lower-grade glioma; LIHC: liver
+  hepatocellular carcinoma; LUAD: lung adenocarcinoma; LUSC: lung squamous cell carcinoma;
+  PAAD: pancreatic adenocarcinoma; PRAD: prostate adenocarcinoma; SKCM: skin cutaneous
+  melanoma; STAD: stomach adenocarcinoma; TGCT: testicular germ cell tumors; THCA:
+  thyroid carcinoma; THYM: thymoma; UCEC: uterine corpus endometrial carcinoma; UVM:
+  uveal melanoma; CHOL: cholangiocarcinoma; MESO: mesothelioma; OV: ovarian serous
+  cystadenocarcinoma; PCPG: pheochromocytoma and paraganglioma; READ: rectum adenocarcinoma;
+  SARC: sarcoma; UCS: uterine carcinosarcoma.'
+article_title: Pan-cancer Landscape of the RUNX Protein Family Reveals their Potential
+  as Carcinogenic Biomarkers and the Mechanisms Underlying their Action.
+citation: Shen Pan, et al. J Transl Int Med. 2022 Jun;10(2):156-174.
+year: '2022'
+
+doi: 10.2478/jtim-2022-0013
+journal_title: Journal of Translational Internal Medicine
+journal_nlm_ta: J Transl Int Med
+publisher_name: Sciendo
+
+keywords:
+- RUNX family
+- The Cancer Genome Atlas
+- pan-cancer analysis
+- prognosis
+- regulatory mechanism
+
+---

@@ -1,0 +1,61 @@
+---
+figid: PMC9386495__gr1
+pmcid: PMC9386495
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC9386495/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: The Toxoplasma gondii functional homolog of SufC.A, schematic representation
+  of the molecular machinery for Fe-S cluster synthesis in the apicoplast of T. gondii
+  (see main text for details). B, alignment of the predicted amino acid sequence of
+  TgSUFC and its homolog from Escherichia coli. Motifs that are potentially important
+  for ATPase activity are outlined in blue. C, functional complementation of bacterial
+  mutants for SufC. Growth of WT E. coli K12 parental strain, the SufC mutant strain
+  and the mutant strain complemented (‘comp’) by the T. gondii homolog, was assessed
+  by monitoring the optical density at 600 nm in the presence or not of an iron chelator
+  (2,2′-bipyridyl, ‘chel’). Values are mean from n = 3 independent experiments ±SD.
+  Two-tailed Student’s t test p-values are indicated, when comparing values obtained
+  with various concentrations of chelator for the mutant cell line versus the complemented
+  one.
+article_title: Disrupting the plastidic iron-sulfur cluster biogenesis pathway in
+  Toxoplasma gondii has pleiotropic effects irreversibly impacting parasite viability.
+citation: Eléa A. Renaud, et al. J Biol Chem. 2022 Aug;298(8):102243.
+year: '2022'
+
+doi: 10.1016/j.jbc.2022.102243
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- Toxoplasma gondii
+- iron metabolism
+- iron-sulfur protein
+- parasite metabolism
+- apicoplast
+- lipid
+- ATc, anhydrotetracycline
+- cKD, conditional knockdown
+- DiI, 1,1′-dioctadecyl-3,3,3′,3′-tetramethylindocarbocyanine
+- ETC, electron transport chain
+- FA, fatty acid
+- FAME, FA methyl ester
+- FASII, type II fatty acid synthase
+- Fd, ferredoxin
+- Fe-S, iron-sulfur
+- GGOH, geranylgeraniol
+- GPI, glycosylphosphatidylinositol
+- HA, hemagglutinin
+- HFF, human foreskin fibroblast
+- IFA, immunofluorescence assay
+- IMC, inner membrane complex
+- IPP, isopentenyl pyrophosphate
+- ISC, iron-sulfur cluster
+- LipA, lipoyl synthase
+- PDH, pyruvate dehydrogenase
+- SAG, surface antigen
+- SUF, sulfur utilization factor
+- TATi, tetracycline-inducible transactivator
+- UPRT, uracil phosphoribosyltransferase
+
+---

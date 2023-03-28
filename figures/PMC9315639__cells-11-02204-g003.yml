@@ -1,0 +1,34 @@
+---
+figid: PMC9315639__cells-11-02204-g003
+pmcid: PMC9315639
+image_filename: cells-11-02204-g003.jpg
+figure_link: /pmc/articles/PMC9315639/figure/cells-11-02204-f003/
+number: Figure 3
+figure_title: ''
+caption: Gene ontology and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment
+  of differentially expressed genes. (A) Biological process revealed extracellular
+  structure organization and extracellular matrix (ECM) organization were enriched.
+  (B) ECM-related cellular components were significant enriched. (C) Among molecular
+  function, the receptor regulator activity, receptor ligand activity, ECM structural
+  constituent, and ECM structural conferring tensile strength were enriched. KEGG
+  enrichment analysis revealed the ECM-receptor interaction pathway was significant
+  enriched in all 1831 DEmRNAs (D), 1114 upregulated DEmRNAs (E) and 717 downregulated
+  DEmRNAs (F). (G) The ClueGO plug-in was used to investigate the interaction networks
+  of enriched biological processes.
+article_title: Integrated Analysis of LncRNA-Mediated ceRNA Network in Calcific Aortic
+  Valve Disease.
+citation: Long Chen, et al. Cells. 2022 Jul;11(14):2204.
+year: '2022'
+
+doi: 10.3390/cells11142204
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- long non-coding RNAs
+- competitive endogenous RNA networks
+- bioinformatics
+- calcific aortic valve disease
+
+---

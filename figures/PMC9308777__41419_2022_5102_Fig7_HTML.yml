@@ -1,0 +1,47 @@
+---
+figid: PMC9308777__41419_2022_5102_Fig7_HTML
+pmcid: PMC9308777
+image_filename: 41419_2022_5102_Fig7_HTML.jpg
+figure_link: /pmc/articles/PMC9308777/figure/Fig7/
+number: Fig. 7
+figure_title: ATF3 can promote the malignant phenotype of GSCs via activating TGF-β1/Smad2
+  signaling
+caption: 'a Gene set enrichment analysis (GSEA) showed that high expression of ATF3
+  is positively associated with the TGF-β signaling pathway through data from the
+  TCGA and CGGA datasets. (CGGA: p < 0.01; TCGA: p = 0.011). b ELISA assays detected
+  the secretion of TGF-β1 after ATF3 knockdown or overexpression. (GSC38: p < 0.001;
+  GSC35: p < 0.001; One-Way ANOVA). c The expression of circRPPH1 after ATF3 knockdown
+  or overexpression with TGF-β1 or LY2109761 was detected by qPCR. (GSC38: p < 0.001;
+  GSC35: p < 0.001; One-Way ANOVA). d Western blotting showed that ATF3-KD mediated
+  the less expression of p-smad2 and p-smad3, while ATF3-OE elevated them. e MTS assays
+  showed that the cell viability of ATF3-KD GSCs was improved by TGF-β1 treatment.
+  And LY2109761 could inhibit the cell viability of ATF3-OE GSCs. (GSC38: p < 0.01;
+  GSC35: p < 0.01; One-Way ANOVA). f, g, i EdU assays and Transwell assays showed
+  the proliferation and invasion abilities of ATF3-KD GSCs were enhanced under TGF-β1
+  treatment. LY2109761 inhibited them in ATF3-OE GSCs Scale bar = 100 μm. (GSC38:
+  p < 0.001; GSC35: p < 0.001; One-Way ANOVA). h, j Neurospheres formation assays
+  and extreme limiting dilution analysis revealed that the sphere-forming and self-renewing
+  capacity of ATF3-KD GSCs were enhanced under TGF-β1 treatment. LY2109761 could inhibit
+  them in ATF3-OE GSCs Scale bar = 100 μm. (GSC38, kd vs. nc: p = 0.00621, kd vs.
+  kd+TGFβ1: p = 0.0011; kd+DMSO vs. kd+ TGFβ1: p = 0.00228; GSC35, oe vs. ev: p = 0.0259,
+  oe vs. oe+ LY2109761: p = 0.00534, oe+DMSO vs. oe+ LY2109761: p = 0.0184; ELDA analysis;
+  circles represent corresponding points, triangles mean the point is outside of the
+  log fraction number wells). k Western blotting showed that the stemness markers
+  expression in ATF3-KD GSCs was upregulated by TGF-β1 treatment. And LY2109761 could
+  inhibit the expression in ATF3-OE GSCs. All results are obtained as the mean ± SD
+  under at least biological triplicate assays. *p < 0.05, **p < 0.01, ***p < 0.001.'
+article_title: UPF1/circRPPH1/ATF3 feedback loop promotes the malignant phenotype
+  and stemness of GSCs.
+citation: Jinkun Xu, et al. Cell Death Dis. 2022 Jul;13(7):645.
+year: '2022'
+
+doi: 10.1038/s41419-022-05102-2
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cancer stem cells
+- Oncogenes
+
+---

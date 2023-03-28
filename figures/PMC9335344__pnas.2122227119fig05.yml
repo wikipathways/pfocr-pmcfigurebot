@@ -1,0 +1,39 @@
+---
+figid: PMC9335344__pnas.2122227119fig05
+pmcid: PMC9335344
+image_filename: pnas.2122227119fig05.jpg
+figure_link: /pmc/articles/PMC9335344/figure/fig05/
+number: Fig. 5
+figure_title: ''
+caption: PTBP1 expression correlates with plaque and expression of TNF pathway genes
+  in human arteries. (A) Summary of arteries (Art.) of each type with indicated pathology
+  data from the GTEx database (v7). (B and C) Examples of histological sections used
+  for analysis of plaque characteristics in the GTEx database, showing examples of
+  low (B) and high (C) plaque. (D–G) Analysis of expression of the indicated genes
+  in arteries separated by low and high plaque phenotype. Each point in D–H represents
+  a single artery sample. (H) Gene–gene correlation between the expression of PTBP1
+  and IL1RL1 in human coronary arteries, where sex is indicated by different shading
+  (gray = female; male = black). (I) Top GSEA Hallmark Gene Groups associated with
+  genes most associated with Ptbp1 (highest Pearson scores). NES, normalized enrichment
+  score. (J) Example GSEA plot, showing the location of TNF signaling via NF-κB Hallmark
+  Genes among those most associated with PTBP1 expression (left side of the Pearson
+  score plot). (D–G) Mann–Whitney U test.
+article_title: Splice factor polypyrimidine tract-binding protein 1 (Ptbp1) primes
+  endothelial inflammation in atherogenic disturbed flow conditions.
+citation: Jessica A. Hensel, et al. Proc Natl Acad Sci U S A. 2022 Jul 26;119(30):e2122227119.
+year: '2022'
+
+doi: 10.1073/pnas.2122227119
+journal_title: Proceedings of the National Academy of Sciences of the United States
+  of America
+journal_nlm_ta: Proc Natl Acad Sci U S A
+publisher_name: National Academy of Sciences
+
+keywords:
+- endothelial
+- alternative splicing
+- inflammation
+- atherosclerosis
+- platelets
+
+---

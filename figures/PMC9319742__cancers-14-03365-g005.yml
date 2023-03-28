@@ -1,0 +1,42 @@
+---
+figid: PMC9319742__cancers-14-03365-g005
+pmcid: PMC9319742
+image_filename: cancers-14-03365-g005.jpg
+figure_link: /pmc/articles/PMC9319742/figure/cancers-14-03365-f005/
+number: Figure 5
+figure_title: ''
+caption: CDKN1A and VEGFA are two key differential genes (DGs) in SNFT post homotypic/heterotypic
+  activation of the Notch3 pathway. (A) Modulation in 107 Notch3 target genes in FACS
+  sorted labelled SNFT cells from co-culture (CC) with five Jagged-1 expressing cells
+  (OVCAR3, NIH3T3J1-A, NIH3T3J1-B, CAF-III, and CAF-VI) as compared to NIH3T3wt cells
+  is represented by the heatmap. (B,C) The Venn diagram shows the unique and overlapping
+  differential genes across five co-cultures. Among them, CDKN1A, VEGFA, and TNFSF10
+  exhibited significant up-regulation. At the same time, SERPINA3 (only in CAF-III
+  co-culture SNFT) and FOXC1 showed down-regulated expression. (D) Expressions of
+  CDKN1A and VEGFA (the two most significant DGs) were increased after Jag1 peptide
+  treatment, which declined after DAPT treatment in SNFT (n = 2) (see  for expression
+  values). (E,F) Immunofluorescence images showing the expression level and localization
+  of p21 in SNFT after peptide treatment or cisplatin treatment or treatment with
+  both. Peptide treatment significantly augmented nuclear and cytoplasmic localization
+  of p21, which further increased after cisplatin along with peptide treatment. Cisplatin
+  alone did not cause any change in nuclear or cytoplasmic p21 compared to untreated
+  (n = 3). The nuclear-cytoplasmic intensity tool, an ImageJ macros toolset, was used
+  to quantify the expression. * p ≤ 0.05, ** p ≤ 0.01, *** p ≤ 0.001.
+article_title: Homo and Heterotypic Cellular Cross-Talk in Epithelial Ovarian Cancer
+  Impart Pro-Tumorigenic Properties through Differential Activation of the Notch3
+  Pathway.
+citation: Souvik Mukherjee, et al. Cancers (Basel). 2022 Jul;14(14):3365.
+year: '2022'
+
+doi: 10.3390/cancers14143365
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- Notch3 signaling
+- co-culture
+- epithelial ovarian cancer
+- imaging
+
+---

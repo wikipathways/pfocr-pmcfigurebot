@@ -1,0 +1,41 @@
+---
+figid: PMC9317527__ijms-23-08010-g004
+pmcid: PMC9317527
+image_filename: ijms-23-08010-g004.jpg
+figure_link: /pmc/articles/PMC9317527/figure/ijms-23-08010-f004/
+number: Figure 4
+figure_title: ''
+caption: 'Effects of acidic pH or presence of glucose degradation products (GDPs)
+  in PD fluids on endothelial cells. (A) Significant IPA canonical pathways (Fisher’s
+  exact test p < 0.05) with an activation z-score ≠ 0; modeled acidosis effect: single-chamber,
+  icodextrin, and filter versus double-chamber PD fluid; modeled GDPs effect: single-chamber,
+  double-chamber, and icodextrin versus filter PD fluid; size of the nodes indicates
+  the p-value of enrichment of the pathway. The activation z-score is a calculated
+  prediction of activation or inhibition of regulators based on relationships with
+  dataset genes and direction of change of dataset genes. It represents the bias in
+  gene regulation that predicts whether the upstream regulator exists in an activated
+  or inactivated state. Red: predicted activation, blue: predicted inhibition. (B)
+  Co-regulation analysis of proteins significantly regulated (LIMMA p < 0.05) in either
+  of the comparisons (green and purple) or in both comparisons (light blue). Comparisons:
+  GDPs containing PD fluid vs. GDP-free and acidic PD fluid vs. neutral pH, log2[fold
+  change] > 0.5 (C,D). The modified IPA NRF2-mediated Oxidative Stress Response Pathway
+  overlaid with significantly (Fisher’s exact p < 0.05) regulated proteins in the
+  comparison of GDPs-containing PD fluids vs. GDP-free (C) and acidic PD fluids vs.
+  neutral pH (D). Down-regulated genes are shown in green and up-regulated genes in
+  red.'
+article_title: Proteome-Wide Differential Effects of Peritoneal Dialysis Fluid Properties
+  in an In Vitro Human Endothelial Cell Model.
+citation: Juan Manuel Sacnun, et al. Int J Mol Sci. 2022 Jul;23(14):8010.
+year: '2022'
+
+doi: 10.3390/ijms23148010
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- peritoneal dialysis
+- vascular damage
+- peritoneal dialysis fluids
+
+---

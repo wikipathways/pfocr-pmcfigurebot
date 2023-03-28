@@ -1,0 +1,49 @@
+---
+figid: PMC8963717__LSA-2021-01283_Fig4
+pmcid: PMC8963717
+image_filename: LSA-2021-01283_Fig4.jpg
+figure_link: /pmc/articles/PMC8963717/figure/fig4/
+number: Figure 4
+figure_title: Differential transcriptional rewiring between TET2 CD expression and
+  decitabine treatment
+caption: (A) Distribution of up- and down-regulated genes in DEGs from decitabine-treated
+  MCF-7 cells (GSE74036) and from TET2 CD cells versus empty vector (EV) cells. (B)
+  Overlap between DEG lists from decitabine-treated MCF-7 cells and from TET2 CD cells
+  versus EV cells. A number of genes mentioned in text are highlighted. Note that
+  the ESR1 gene encoding ERα is down-regulated both in decitabine-treated MCF-7 cells
+  and in TET2 CD cells. (C) RT-qPCR validation of the similar and opposite effects
+  of decitabine and TET2 CD expression on MCAM and DSCR8 RNA levels, respectively
+  (mean ± SEM, n = 3). (D) Functional annotation of TET2 CD and decitabine up-regulated
+  genes with GREAT. Only the top significantly enriched GO Biological processes are
+  shown. (E) Outline of the antiviral response pathway. Double-stranded (ds) RNAs
+  originating from viruses or from transcription of endogenous retroviral sequences
+  (ERVs) can be sensed by pattern recognition receptors (PRRs), which activate the
+  mitochondria-associated protein MAVS. Active MAVS is protected from degradation
+  by OTUD4 and stimulates the nuclear translocation of IRF3, IRF7, and NF-KB transcription
+  factors to induce expression of type I interferon genes (IFNs) and, in turn, interferon-stimulated
+  genes. Among interferon-stimulated genes, OAS1,2,3 and L activate RNAse L, which
+  ultimately degrades dsRNAs. Activity of RNAse L can be counteracted by ABCE1 (figure
+  made with BioRender, https://biorender.com). (F) Heatmap representation of the fold
+  change of genes implicated in the type I interferon and antiviral response pathways.
+  (G) RT-qPCR measurement of DDX58, OAS2, and IFIT1 in MCF-7 clones treated or not
+  with 100 nM decitabine for 96 h (mean ± SEM, n = 3). (H) Correlation heatmap between
+  TET2 and genes from the antiviral response pathway in BRCA tumors (normal-like tumors,
+  n = 639). (I) RT-qPCR analysis of HERV-Fc1 and LTR12C endogenous retroviruses. Cells
+  were treated with 100 nM decitabine for 96 h (mean ± SEM, n = 3). (J) Dot blot analysis
+  of dsRNA in total RNA from EV, TET2 CD, and TET2 mCD cells. (K) RT-qPCR analysis
+  of ABCE1, DDX58, OAS1, and IFIT1 in MCF-7 cells transfected either with a scrambled
+  (scr) siRNA or with siRNA B and C targeting ABCE1 (mean ± SEM, n = 3). (L) Cell
+  viability (MTT assay) after transfection of increasing concentrations of scrambled
+  siRNA (scr) or ABCE1 siRNA C (mean ± SEM, n = 3).
+article_title: TET2-mediated epigenetic reprogramming of breast cancer cells impairs
+  lysosome biogenesis.
+citation: Audrey Laurent, et al. Life Sci Alliance. 2022 Jul;5(7):e202101283.
+year: '2022'
+
+doi: 10.26508/lsa.202101283
+journal_title: Life Science Alliance
+journal_nlm_ta: Life Sci Alliance
+publisher_name: Life Science Alliance LLC
+
+keywords:
+---

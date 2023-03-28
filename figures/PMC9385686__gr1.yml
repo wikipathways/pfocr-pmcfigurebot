@@ -1,0 +1,42 @@
+---
+figid: PMC9385686__gr1
+pmcid: PMC9385686
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC9385686/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: UBE3D positively regulates CPSF73 but not other C/P proteins at the post-translational
+  level(A) Western blot verification at the protein level of UBE3D KO in HEK293 cells
+  and UBE3D addback to KO cells.(B) CPSF73 was depleted in UBE3D KO cells and its
+  level was restored by adding back UBE3D. Other C/P proteins were not depleted. A
+  representative Western blot performed using antibodies specific to the subunits
+  of the C/P complex is shown on the left panel. Quantitation of the log2-fold changes
+  in protein levels compared to wild-type (WT) using two replicates is shown on the
+  right.(C) CPSF73 mRNA level remained unchanged in UBE3D-negative and positive cells.
+  Three biological replicates were analyzed by RT-qPCR, and values normalized to RPL13A
+  expression.(D) Cycloheximide (CHX) chase assay revealed that CPSF73 is less stable
+  in UBE3D KO cells. Left panel, representative Western Blot and right panel, quantification
+  of protein levels from three replicates, with values normalized to GAPDH.(E) The
+  level of CPFS73 in UBE3D KO cells was increased by the proteasome inhibitor MG132
+  (10 μM) and the E1 ubiquitin-activating enzyme inhibitor TAK243 (1 μM), demonstrating
+  the degradation of CPFS73 was mediated by the ubiquitin-proteasome pathway. CPSF73
+  protein level with each treatment was normalized to the untreated control from two
+  replicates. For all panels, error bars show the mean ± SEM; ∗p < 0.05; ∗∗p < 0.01;
+  ∗∗∗p < 0.001; ∗∗∗∗p < 0.0001 (Student’s t test, unpaired, two-tailed).
+article_title: Targeting the mRNA endonuclease CPSF73 inhibits breast cancer cell
+  migration, invasion, and self-renewal.
+citation: Huiyun Liu, et al. iScience. 2022 Aug 19;25(8):104804.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.104804
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Biological sciences
+- molecular biology
+- cell biology
+- cancer
+
+---

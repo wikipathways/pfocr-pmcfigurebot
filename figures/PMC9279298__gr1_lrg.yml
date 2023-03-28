@@ -1,0 +1,44 @@
+---
+figid: PMC9279298__gr1_lrg
+pmcid: PMC9279298
+image_filename: gr1_lrg.jpg
+figure_link: /pmc/articles/PMC9279298/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: 'Sensing of SARS-CoV-2SARS-CoV-2 genomic RNA can be sensed by different RNA-driven
+  pattern recognition receptors. Which RNA sensor is activated is determined by the
+  mechanisms of viral entry: membrane fusion (indicated for the epithelial cell on
+  the left) or viral particle uptake (indicated for the pDC on the right). Fusion
+  of the SARS-CoV-2 membrane with the cellular membrane of epithelial cells requires
+  the cellular receptors ACE2, TMRPSS2, and in some cases, NRP1/CD304. This allows
+  the viral RNA to be detected by cytosolic RNA sensors RIG-I/MDA5, which will activate
+  transcription factors IRF3 and nuclear factor κB (NF-κB), leading to production
+  of type I IFNα, type III IFNλ1, and various pro-inflammatory cytokines and chemokines.
+  SARS-CoV-2 utilizes several mechanisms to counter sensing via the RIG-I/MDA5 pathway
+  and subsequent IFN production, which is reviewed in detail elsewhere (). Uptake
+  of viral particles, for example, by endocytosis, does not require the receptors
+  that mediate fusion of the viral and cellular membranes. Instead, the virus is engulfed
+  into a cellular vesicle, where it triggers TLR7, starting a signaling cascade that
+  includes MyD88 and IRAK4, ultimately activating the transcription factors IRF7 and
+  NF-κB that will facilitate production of type I IFNα, type III IFNλ1, CXCL10, and
+  other cytokines and chemokines. The interaction of SARS-CoV-2 with NRP1/CD304 can
+  inhibit IFNα production by pDCs, but the molecular mechanisms are currently unknown.
+  pDCs can also sense SARS-CoV-2’s glycosylated envelope protein via TLR2, and this
+  leads specifically to IL-6 production in pDCs. Figure was created with BioRender.com.'
+article_title: 'Plasmacytoid dendritic cells during COVID-19: Ally or adversary?.'
+citation: Renée Marije Van der Sluis, et al. Cell Rep. 2022 Jul 14 ;40(4):111148-111148.
+year: '2022'
+
+doi: 10.1016/j.celrep.2022.111148
+journal_title: Cell Reports
+journal_nlm_ta: Cell Rep
+publisher_name: The Author(s).
+
+keywords:
+- COVID-19
+- SARS-CoV-2
+- plasmacytoid dendritic cells
+- antiviral responses
+- inflammation
+
+---

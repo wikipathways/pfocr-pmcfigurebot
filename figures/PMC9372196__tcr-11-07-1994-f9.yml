@@ -1,0 +1,38 @@
+---
+figid: PMC9372196__tcr-11-07-1994-f9
+pmcid: PMC9372196
+image_filename: tcr-11-07-1994-f9.jpg
+figure_link: /pmc/articles/PMC9372196/figure/f9/
+number: Figure 9
+figure_title: ''
+caption: 'GO and KEGG functional pathways for DEmRNAs in UCEC. The GO chord (A: CPTAC,
+  B: TCGA) for top 30 DEmRNAs and their GO terms. The GO circle (C: CPTAC, D: TCGA)
+  and the outer circle represented the expression (|log2 FC|) of DEmRNAs in each enriched
+  GO terms. To be specific, red dots on respective GO term indicated the up-regulated
+  DEmRNAs. Blue dots indicated the down-regulated DEmRNAs. The inner circle represented
+  the significance of GO terms (log10-adjusted P values). The bar plot (E: CPTAC,
+  F: TCGA) and dot plot (G: CPTAC, H: TCGA) of 10 pathways lncRNA-related DEmRNAs
+  from KEGG pathway analyses. For the bar plot, color intensity represented the significance
+  of ranked functional pathways top to bottom while the horizontal axis represents
+  the enriched mRNAs. For the dot plot, the bubble size was ordered by the number
+  of enriched mRNAs and the color from red to blue also represented its significance.
+  GO, gene ontology; KEGG, Kyoto encyclopedia of genes and genomes; TCGA, The Cancer
+  Genome Atlas; CPTAC, Clinical Proteomic Tumor Analysis Consortium; mRNA, messenger
+  RNA.'
+article_title: Comprehensive bioinformatic analyses of lncRNA-mediated ceRNA network
+  for uterine corpus endometrial carcinoma.
+citation: Yiran Cai, et al. Transl Cancer Res. 2022 Jul;11(7):1994-2012.
+year: '2022'
+
+doi: 10.21037/tcr-22-249
+journal_title: Translational Cancer Research
+journal_nlm_ta: Transl Cancer Res
+publisher_name: AME Publishing Company
+
+keywords:
+- Uterine corpus endometrial cancer (UCEC)
+- prognostic biomarker
+- long non-coding RNA
+- competing endogenous RNA network
+
+---
