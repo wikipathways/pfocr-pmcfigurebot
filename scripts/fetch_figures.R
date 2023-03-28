@@ -97,7 +97,11 @@ for (j in 1:5) {
   remDr$open()
   
   ## go to page
-  remDr$navigate(query.url)
+  tryCatch({
+    remDr$navigate(query.url)
+  }, error = function(e) {
+    next #try again
+  })
   
   ## get page count
   page.count <- xml2::read_html(remDr$getPageSource()[[1]]) %>%
