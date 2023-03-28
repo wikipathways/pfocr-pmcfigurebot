@@ -343,20 +343,18 @@ for (k in 1:2){
           )
           res <- NULL
           get.image.flag <- FALSE
-          if (httr::url_ok(img.from.path)){
-            for (h in 1:5){
-              res <- tryCatch({
-                httr::GET(url = img.from.path, httr::add_headers(.headers=headers))
-              }, error = function(e) {
-                NULL
-              })
-              if (is.null(res) || httr::http_error(res)){
-                Sys.sleep(3)
-                next
-              } else {
-                get.image.flag <- TRUE
-                break
-              }
+          for (h in 1:5){
+            res <- tryCatch({
+              httr::GET(url = img.from.path, httr::add_headers(.headers=headers))
+            }, error = function(e) {
+              NULL
+            })
+            if (is.null(res) || httr::http_error(res)){
+              Sys.sleep(3)
+              next
+            } else {
+              get.image.flag <- TRUE
+              break
             }
           }
           if(get.image.flag){
