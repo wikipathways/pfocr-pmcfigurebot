@@ -1,0 +1,51 @@
+---
+figid: PMC9220184__biomedicines-10-01277-g002
+pmcid: PMC9220184
+image_filename: biomedicines-10-01277-g002.jpg
+figure_link: /pmc/articles/PMC9220184/figure/biomedicines-10-01277-f002/
+number: Figure 2
+figure_title: ''
+caption: 'Inhibition of DNA-PK and ATR impairs downstream DDR signaling of different
+  bladder cancer cell line models. (A,B) In vitro models used for drug response studies.
+  NGS-based exome sequencing revealed a monoallelic PRKDC mutation of unknown functional
+  significance in squamous-like SCaBER and two alterations in urothelial J82 cells.
+  The urothelial basal-type VMCUB-1 cell line showed no PRKDC alteration. The ATR
+  wild-type and biallelic TP53 mutations were present in all cell lines. (B) The type
+  and position of the monoallelic PRKDC (DNA-PKcs) alterations of SCaBER and J82 cells
+  are illustrated in a lollipop plot. The mutations found in SCaBER and J82 are of
+  unknown significance. In J82 cells, the mutation of DNA-PKcs was located in the
+  PI3_PI4 kinase domain (p.G3904S) close to the predicted binding site of AZD7648,
+  potentially involving interaction with the amino acids at the positions Leu3751,
+  Arg3737, Trp3805, Leu3806, Asn3926, and Ile3938 []. The identified mutation of DNA-PKcs
+  in SCaBER cells was located at the N-terminal to the FAT domain, which is known
+  to comprise a predominantly helical solenoid HEAT-repeat domain of variable length
+  that mediates protein-protein interaction []. (C–E) Phospho-western blots were performed
+  to assess activation of DNA-PK and ATR mediated pathways upon irradiation (radiation
+  dose = 8 Gy), as well as single and dual DNA-PK/ATR inhibition, in SCaBER, VMCUB-1
+  and J82 bladder cancer cells. Radiation of cells triggered activation of both DDR
+  pathways (DNA-PK and ATR). In turn, phosphorylation of DNA-PK (Ser2056) and CHK1
+  (Ser317) was effectively blocked upon single/dual treatment of increased concentrations
+  of AZD7648 and Ceralasertib. Please note: For the ATR pathway, the activation of
+  downstream target CHK1 (Ser317) was analyzed since the phosphorylation of ATR at
+  position Thr1989 was not significantly altered upon AZD6738 (Ceralasertib) treatment
+  (see ). ‘+’ and ‘−’ refers to the exposure or lack thereof to IR or drug.'
+article_title: Effective Radiosensitization of Bladder Cancer Cells by Pharmacological
+  Inhibition of DNA-PK and ATR.
+citation: Ahmed Ali Chughtai, et al. Biomedicines. 2022 Jun;10(6):1277.
+year: '2022'
+
+doi: 10.3390/biomedicines10061277
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: MDPI
+
+keywords:
+- bladder cancer
+- DNA-PK
+- ATR
+- AZD7648
+- Ceralasertib
+- targeted therapy
+- ionizing radiation (IR)
+
+---

@@ -1,0 +1,37 @@
+---
+figid: PMC9324083__ELE-25-1352-g005
+pmcid: PMC9324083
+image_filename: ELE-25-1352-g005.jpg
+figure_link: /pmc/articles/PMC9324083/figure/ele13954-fig-0003/
+number: FIGURE 3
+figure_title: ''
+caption: Correlation between Phaeodactylum reactions to support the metabolic niche.
+  (a) Description of most significant dependencies between metabolic reactions. Metabolic
+  reactions are ordered in an outer circle. Reactions associated with nitrogen, Calvin–Benson–Bassham
+  and glycolysis cycles are emphasised. An edge between reactions corresponds to a
+  correlation (positive or negative) between two fluxes’ reactions above 0.6. The
+  inner‐circle describes WGCNA modules to which the gene associated with the reaction
+  belongs. A grey circular bar plot shows the correlation sum of each reaction as
+  a proxy of the reaction essentiality for the metabolic niche. (b) Shows essentiality
+  of pathways for the metabolic niche. We represent the correlation histogram normalised
+  by the number of genes present in the pathway for distinct pathways. Y‐axes are
+  in log scale. The S score is the sum of the absolute correlation value of the histogram,
+  which estimates pathway essentiality for the metabolic niche
+article_title: Contribution of genome‐scale metabolic modelling to niche theory.
+citation: Antoine Régimbeau, et al. Ecol Lett. 2022 Jun;25(6):1352-1364.
+year: '2022'
+
+doi: 10.1111/ele.13954
+journal_title: Ecology Letters
+journal_nlm_ta: Ecol Lett
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- marine ecology
+- metabolic network
+- metabolic niche
+- microbial ecology
+- molecular ecology
+- niche modelling
+
+---

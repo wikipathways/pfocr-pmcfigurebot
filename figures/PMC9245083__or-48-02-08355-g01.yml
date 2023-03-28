@@ -1,0 +1,36 @@
+---
+figid: PMC9245083__or-48-02-08355-g01
+pmcid: PMC9245083
+image_filename: or-48-02-08355-g01.jpg
+figure_link: /pmc/articles/PMC9245083/figure/f2-or-48-02-08355/
+number: Figure 2
+figure_title: ''
+caption: 'Differential gene expression in biological replicates of imatinib resistance.
+  (A) Venn diagrams of differentially expressed genes in each subline and (B) in the
+  overlap of both replicates of imatinib resistance compared with native K-562. Numbers
+  indicate differentially expressed genes comparing native cells to lowIM and highIM.
+  (C) GoPlot of significantly enriched KEGG pathways with differentially expressed
+  genes in imatinib resistance shown for replicate 1, replicate 2 of imatinib resistance,
+  as well as the combined analysis of both replicates (overlap) displaying the gene
+  expression fold changes (logFC) and the z-score of the pathway prediction to indicate
+  the direction of the overall changes. lowIM: 0.5 µM imatinib resistant; highIM:
+  2 µM imatinib resistant; R1: resistant subline 1; R2: resistant subline 2.'
+article_title: Genome-wide expression and methylation analyses reveal aberrant cell
+  adhesion signaling in tyrosine kinase inhibitor-resistant CML cells.
+citation: Meike Kaehler, et al. Oncol Rep. 2022 Aug;48(2):144.
+year: '2022'
+
+doi: 10.3892/or.2022.8355
+journal_title: Oncology Reports
+journal_nlm_ta: Oncol Rep
+publisher_name: D.A. Spandidos
+
+keywords:
+- chronic myeloid leukemia
+- drug resistance
+- imatinib
+- nilotinib
+- fibronectin 1
+- cell adhesion
+
+---

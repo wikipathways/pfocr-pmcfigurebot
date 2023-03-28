@@ -1,0 +1,53 @@
+---
+figid: PMC9214382__jitc-2021-003957f03
+pmcid: PMC9214382
+image_filename: jitc-2021-003957f03.jpg
+figure_link: /pmc/articles/PMC9214382/figure/F3/
+number: Figure 3
+figure_title: ''
+caption: 'The inhibitory effects of L-5-HTP on IFN-γ stimulated PD-L1 induction are
+  mediated by reduced expression of RTK ligands and suppression of the downstream
+  RTK receptors/MEK/ERK/c-JUN signaling cascade. (A) PD-L1 mRNA expression level was
+  determined by qPCR analysis of IFN-γ stimulated BXPC3 cells treated with different
+  concentrations L-5-HTP for different time as indicated. (B) Green: gene set of IFN-γ
+  induced genes (upregulated compared with the DMSO group). Blue: genes downregulated
+  in the IFN-γ+5 HTP group compared with IFN-γ group. Venn diagram showing that among
+  the IFN-γ induced upregulated genes, 672 genes were subsequently downregulated on
+  treatment with L-5-HTP. These 672 genes were subjected to KEGG pathway analysis,
+  and the top 20 most significantly enriched pathways are shown. (C) BXPC3 cells were
+  treated with IFN-γ and L-5-HTP for different time (1 hour, 6 hours, 12 hours, and
+  24 hours), and then ERK1/2, p-ERK1/2, c-JUN, p-c-JUN, PD-L1, and GAPDH expression
+  was analyzed by western blot. (D) Quantification of western blot results for p-ERK1/2/ERK1/2,
+  p-c-JUN/c-JUN, and PD-L1 shown in figure part C. Relative fold change in expression
+  levels of p-ERK1/2/ERK1/2, p-c-JUN/c-JUN, and PD-L1 were normalized to the DMSO
+  group. (E) Heat map showing the 20 most significantly downregulated genes in the
+  MAPK pathway. RTK ligands are highlighted in red. qPCR analysis was conducted to
+  validate the repression of RTK ligands. BXPC3 cells were treated with IFN-γ and
+  different concentrations of L-5-HTP for 24 hours. (F) BXPC3 cells were treated with
+  DMSO, IFN-γ (500 IU/mL), IFN-γ+L-5-HTP (10 µM), IFN-γ+HGF (100 ng/mL), IFN-γ+HGF+L-5-HTP,
+  IFN-γ+AREG (100 ng/mL), or IFN-γ+AREG + L-5-HTP for 24 hours. PD-L1 mRNA expression
+  under the indicated treatments was determined by qPCR analysis. (G) ERK1/2, p-ERK1/2,
+  c-JUN, p-c-JUN, PD-L1, and GAPDH levels under the indicated treatments for 24h were
+  determined by western blot analysis. (H) Quantification of western blot results
+  for p-ERK1/2/ERK1/2, p-c-JUN/c-JUN, and PD-L1 shown in figure part G. Relative fold
+  changes in expression levels of p-ERK1/2/ERK1/2, p-c-JUN/c-JUN, and PD-L1 were normalized
+  to the DMSO group (n=3 independent experiments). Data are shown as mean±SD; ns;
+  p>0.05; *p<0.05; **p<0.01; ***p<0.001; and ****p<0.0001 versus IFN-γ group. L-5-HTP,
+  5-hydroxy-L-tryptophan; ns, not significant; PD-L1, programmed death ligand-1.'
+article_title: L-5-hydroxytryptophan promotes antitumor immunity by inhibiting PD-L1
+  inducible expression.
+citation: Jing Huang, et al. J Immunother Cancer. 2022;10(6):e003957.
+year: '2022'
+
+doi: 10.1136/jitc-2021-003957
+journal_title: Journal for Immunotherapy of Cancer
+journal_nlm_ta: J Immunother Cancer
+publisher_name: BMJ Publishing Group
+
+keywords:
+- Immunotherapy
+- Immune Evation
+- T-Lymphocytes
+- Translational Medical Research
+
+---

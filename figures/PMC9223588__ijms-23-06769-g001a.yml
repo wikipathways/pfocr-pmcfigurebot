@@ -1,0 +1,65 @@
+---
+figid: PMC9223588__ijms-23-06769-g001a
+pmcid: PMC9223588
+image_filename: ijms-23-06769-g001a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 1
+caption: 'Identification of molecules decreasing the effects of CYS4 overexpression
+  (CYS4-OE) in yeast. (A) Simplified representation of the trans-sulphuration pathway.
+  In yeast, CYS4 encodes the cystathionine beta synthase protein (CBS or Cys4p in
+  yeast), which converts homocysteine and serine into cystathionine. The other enzymes
+  of this pathway are cystathionine gamma-lyase (CSE), (γ-glutamylcysteine synthetase
+  (GCL) and glutathione synthetase (GS). CYS4 is located at a metabolic hub, its deletion
+  leading to decreased synthesis of cysteine and glutathione in favour of S-adenosylmethionine
+  (SAM), S-adenosylhomocysteine (SAH) and methionine synthesis, whereas CYS4-OE favours
+  cysteine and glutathione synthesis at the expense of methionine. (B) Methionine
+  auxotrophy of CYS4-OE cells. Methionine auxotrophy, revealed by the absence of growth
+  on a methionine-free medium, was assessed by spotting serial dilutions of wildtype
+  yeast cells transformed with two 2µ plasmids either empty or containing full-length
+  (CYS4-FL) or a truncated form of CYS4 (CYS4-ΔC), the expression of which is driven
+  by the strong GPD promoter. No serine was added here in order to see the increased
+  methionine auxotrophy obtained with CYS4-ΔC compared to CYS4-FL. (C) Clioquinol
+  (CQ) and chloroxine (CHX) rescue the growth of CYS4-OE yeast cells on a methionine-free
+  medium. The indicated amount of drug was added on filters. The positive action of
+  the drugs on cell growth is indicated by the presence of a clear halo surrounding
+  the filters where the molecules were deposited. Due to the gradient effect of the
+  drug deposited on filters, note that these two molecules are toxic at very high
+  concentrations (dark halos around the filters) but are active at lower concentrations
+  (white halos corresponding to the rescue of cell growth). (D–F) Effect of CYS4 deletion
+  or OE on cytosolic pH assessed using a pHluorin plasmid. Quantitative measurements
+  of the I410/I470 ratio of fluorescence showed an increased ratio for cys4Δ cells
+  (D), indicative of an increased cytosolic pH and a decreased ratio of fluorescence
+  for wildtype cells overexpressing either form of Cys4p (full-length or C-terminal
+  domain deleted) (E), indicative of reduced cytosolic pH. Addition of 1.5 mM of serine
+  in the medium of CYS4-OE cells also further decreased cytosolic pH (F), showing
+  the existence of a direct link between Cys4p enzymatic activity and cytosolic acidification.
+  (G,H) Dose-dependent rescue of cytosolic acidification of CYS4-OE cells by CQ (G)
+  and CHX (H). Note that at 1 µM, CQ and CHX even increased cytosolic pH above the
+  level of control cells, which is probably the result of their pro-oxidant effect
+  in certain growth conditions, which may partly deplete intracellular glutathione
+  and/or inhibit endogenous Cys4p. (I) Nitroxoline (NHX) rescues the growth of CYS4-OE
+  yeast cells on a methionine-free medium. Note that NHX was toxic at 10 nmol. (D)
+  Student’s t-test. (E,F) One-way ANOVA with Tukey’s post-hoc test. (G,H): Comparison
+  of each condition with DMSO, one-way ANOVA with Dunnett’s post-hoc test. *, p <
+  0.05; **, p < 0.01; ***, p < 0.001; ****, p < 0.0001.'
+article_title: Identification of 8-Hydroxyquinoline Derivatives That Decrease Cystathionine
+  Beta Synthase (CBS) Activity.
+citation: Pierre Conan, et al. Int J Mol Sci. 2022 Jun;23(12):6769.
+year: '2022'
+
+doi: 10.3390/ijms23126769
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- CBS
+- drug screening
+- Cys4
+- copper
+- zinc
+- cytosolic pH
+- Gex1/Gex2
+
+---

@@ -1,0 +1,48 @@
+---
+figid: PMC9217709__aging-14-204112-g004
+pmcid: PMC9217709
+image_filename: aging-14-204112-g004.jpg
+figure_link: /pmc/articles/PMC9217709/figure/f4/
+number: Figure 4
+figure_title: ''
+caption: Differentially expressed gene identification and analysis. (A) The distribution
+  of differentially expressed mRNAs between the high and low infiltration groups.
+  Totals of 1791 DEmRNAs (845 upregulated and 946 downregulated) were identified according
+  to the |LogFC|>1 and p<0.05. (B) The distribution of differentially expressed mRNAs
+  between the LUAD and normal tissues. Totals of 5587 DEmRNAs (3724 upregulated and
+  1863 downregulated) were identified according to the |LogFC|>1 and p<0.05. (C) Key
+  DEmRNAs identification and KEGG enrichment analysis. 1169 DEmRNAs were common in
+  two types of DEmRNA sets from the comparison between the high and low infiltration
+  groups and between the LUAD and normal lung tissues. These gene mainly involved
+  in some immune KEGG pathways including cytokine-cytokine receptor interaction and
+  IL-17 signaling pathway. (D) PPI network construction of key genes encoding proteins.
+  A PPI network with 465 nodes and 2152 edges was established. (E) Identification
+  of highly corelated module with the highest score. One module with 123 nodes and
+  1573 edges was identified. (F) The expression analysis of five genes between the
+  LUAD and normal lung tissues. The expressions of four genes including FPR2, GNGT2,
+  ADCY8 and PPBP were significantly different between the LUAD and normal tissues.
+  (G) The expression correlations among four essential genes. There were lower correlations
+  in expression among four genes. (H) The expression analysis of four genes based
+  on real transcriptome data. The expressions of four genes had significant differences
+  between the LUAD and normal tissues. LUAD, lung adenocarcinoma; KEGG, Kyoto Encyclopedia
+  of Genes and Genomes; DEG, differentially expressed gene; PPI, protein and protein
+  interaction; FPKM, fragments per kilobase of exon model per million mapped fragments.
+article_title: Identification of prognostic candidate signatures by systematically
+  revealing transcriptome characteristics in lung adenocarcinoma with differing tumor
+  microenvironment immune phenotypes.
+citation: Qiang Chen, et al. Aging (Albany NY). 2022 Jun 15;14(11):4786-4818.
+year: '2022'
+
+doi: 10.18632/aging.204112
+journal_title: Aging (Albany NY)
+journal_nlm_ta: Aging (Albany NY)
+publisher_name: Impact Journals
+
+keywords:
+- lung adenocarcinoma
+- transcriptome
+- tumor microenvironment
+- prognosis
+- bioinformatics
+
+---

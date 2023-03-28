@@ -1,0 +1,37 @@
+---
+figid: PMC9229972__metabolites-12-00512-g003
+pmcid: PMC9229972
+image_filename: metabolites-12-00512-g003.jpg
+figure_link: /pmc/articles/PMC9229972/figure/metabolites-12-00512-f003/
+number: Figure 3
+figure_title: ''
+caption: Subgraph of 1-hr BNM highlighting four potential SMM pathway. Nodes represent
+  the metabolite, genotype and phenotype variables and edges represent the conditional
+  dependencies between them. The maternal features are represented by square nodes
+  and the offspring features are represented by circle nodes. Newborn outcome variables
+  are grey, genotypes are green, and the remaining colors correspond to different
+  metabolite classes. The solid, red edges correspond to the four purported SMM pathways
+  involving 1-hr metabolites with statistically significant IDE after FDR correction
+  and positive proportion mediated in the training data set, with nominal significance
+  and positive PM confirmed in the validation data set. Dashed, grey edges correspond
+  to nodes adjacent to the SMM pathways. AA, amino acid; AC, acylcarnitine; CHO, carbohydrate;
+  FA, fatty acid; GC/TCA, glycolysis/tricarboxylic acid cycle; OA, organic acid; PUR/PYR,
+  purine or pyrimidine.
+article_title: Network Approaches to Integrate Analyses of Genetics and Metabolomics
+  Data with Applications to Fetal Programming Studies.
+citation: Alan Kuang, et al. Metabolites. 2022 Jun;12(6):512.
+year: '2022'
+
+doi: 10.3390/metabo12060512
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: MDPI
+
+keywords:
+- fetal programming
+- variant-to-metabolite associations
+- Bayesian network modeling
+- serial mediation modeling
+- integrated multi-omics
+
+---

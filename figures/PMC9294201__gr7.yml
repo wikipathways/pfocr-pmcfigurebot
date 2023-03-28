@@ -1,0 +1,65 @@
+---
+figid: PMC9294201__gr7
+pmcid: PMC9294201
+image_filename: gr7.jpg
+figure_link: /pmc/articles/PMC9294201/figure/fig7/
+number: Fig. 7
+figure_title: ''
+caption: Quantitative analysis of the K-acetylome changes in response to SIRT2 overexpression
+  in HCC cells.A, differential expression of proteins involved in acetylation regulation
+  between HCC tumors and NATs. B, PCA of the identified K-acetylation sites in SIRT2-overexpressing
+  cells and NC cells. C, volcano plot showing the K-acetylation sites with differential
+  levels between SIRT2-overexpressing cells and NC cells (fold change>1.5, p < 0.05,
+  by two-sided Student’s t test). D, reactome pathway enrichment analysis of the 122
+  SIRT2-induced downregulated K-acetylation sites that were also decreased in HCC
+  tumors. The analysis was conducted by AGOTOOL (https://agotool.org/) using the abundance-corrected
+  proteome as the control for statistical analysis (p < 0.05 as cutoff). E, a schematic
+  diagram illustrating SIRT2 overexpression-induced downregulation of K-acetylation
+  sites on metabolic enzymes involved in glycolysis and TCA cycle. See also , ,  and
+  . HCC, hepatocellular carcinoma; NATs, normal adjacent tissues; PCA, principal component
+  analysis.
+article_title: In-depth Profiling and Quantification of the Lysine Acetylome in Hepatocellular
+  Carcinoma with a Trapped Ion Mobility Mass Spectrometer.
+citation: Jia Xu, et al. Mol Cell Proteomics. 2022 Aug;21(8):100255.
+year: '2022'
+
+doi: 10.1016/j.mcpro.2022.100255
+journal_title: 'Molecular & Cellular Proteomics : MCP'
+journal_nlm_ta: Mol Cell Proteomics
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- acetyl-proteomics
+- cellular metabolism
+- hepatocellular carcinoma
+- nonhistone
+- PASEF
+- proteomics
+- SIRT2
+- timsTOF Pro
+- 2-DG, 2-deoxy-glucose
+- ACN, acetonitrile
+- CC, cellular component
+- ECAR, extracellular acidification rate
+- FA, formic acid
+- FASN, fatty acid synthase
+- FC, fold change
+- FCCP, carbonyl cyanide 4-trifluoromethoxyphenylhydrazone
+- GO, gene ontology
+- GPI, glucose-6-phosphate isomerase
+- HCC, hepatocellular carcinoma
+- KDAC, lysine deacetylase
+- MDH2, malate dehydrogenase
+- NAM, Nicotinamide
+- NAT, normal adjacent tissue
+- OCR, oxygen consumption rate
+- PASEF, parallel accumulation serial fragmentation
+- PCA, principal component analysis
+- PGK1, phosphoglycerate kinase
+- PTM, posttranslational modification
+- R/A, rotenone/antimycin A
+- TCA, trichloroacetic acid
+- TIMS, trapped ion mobility spectrometry
+- TSA, Trichostatin A
+
+---

@@ -1,0 +1,47 @@
+---
+figid: PMC9262603__gkac513fig2
+pmcid: PMC9262603
+image_filename: gkac513fig2.jpg
+figure_link: /pmc/articles/PMC9262603/figure/F2/
+number: Figure 2
+figure_title: ''
+caption: 'JAK-STAT signaling is required for the temperature-controlled increase of
+  antiviral genes. (A) The canonical antiviral cascade, also required for defense
+  against SARS-CoV-2, leading to the type I interferon response is shown (created
+  with BioRender.com). Components at all steps of this pathway are activated at 38°C;
+  the expression of all genes shown in color was increased in the RNA-seq experiment
+  in Figure  (genes shown in gray were not changed). For RT-qPCR validation, RAW 264.7
+  cells were incubated at the indicated temperature for 12 h and gene expression was
+  analyzed (n = 3, mean ± SD). All genes with a predicted increase in expression at
+  38°C in the RNA-seq data were confirmed by RT-qPCR (validation rate 100%). (B) RAW 264.7
+  cells were incubated at the indicated temperature for 12 h and gene expression was
+  analyzed by RT-qPCR. mRNA expression is relative to Hprt (n = 3, mean ± SD). (C)
+  Elevated temperature is sufficient to induce JAK-STAT signaling. RAW 264.7 cells
+  were incubated at the indicated temperature for 12 h and phosphorylation (activation)
+  of STAT2 was analyzed by western blot (n = 3, mean ± SD). As positive control, cells
+  were incubated for 16 h with LPS (2.25 μg/ml) (n = 2, mean ± SD). A representative
+  blot and quantification of three independent experiments are shown. hnRNP-L served
+  as a loading control. (D) Western blot as in panel (C) showing increased expression
+  of Stat2 also at the protein level. A representative blot and quantification relative
+  to hnRNP-L are shown (n = 3). (E) Western blot as in panel (B) showing increased
+  expression of RIG-I (Ddx58) also at the protein level. A representative blot and
+  quantification relative to hnRNP-L are shown. (F) Inhibition of JAK-STAT signaling
+  abolishes temperature-induced increased expression of antiviral genes and reduces
+  their basal expression. RAW 264.7 cells were incubated in the absence (DMSO) or
+  presence of the JAK inhibitor ruxolitinib for 6 h at 37°C and then at the indicated
+  temperature for 12 h. Expression of the indicated genes was analyzed by RT-qPCR.
+  mRNA expression is relative to Hprt (n = 3, mean ± SD). Statistical significance
+  was determined by unpaired t-tests and is indicated by asterisks: *P< 0.05; **P< 0.01;
+  ***P< 0.001; ns = not significant.'
+article_title: Body temperature variation controls pre-mRNA processing and transcription
+  of antiviral genes and SARS-CoV-2 replication.
+citation: Bruna Los, et al. Nucleic Acids Res. 2022 Jul 8;50(12):6769-6785.
+year: '2022'
+
+doi: 10.1093/nar/gkac513
+journal_title: Nucleic Acids Research
+journal_nlm_ta: Nucleic Acids Res
+publisher_name: Oxford University Press
+
+keywords:
+---

@@ -1,0 +1,40 @@
+---
+figid: PMC9306864__GLIA-70-1027-g004
+pmcid: PMC9306864
+image_filename: GLIA-70-1027-g004.jpg
+figure_link: /pmc/articles/PMC9306864/figure/glia24154-fig-0004/
+number: FIGURE 4
+figure_title: ''
+caption: The actin nucleation promoting factor wasla is less expressed in microglia
+  from HRasV12+ larvae. (a) Heatmap of differentially expressed (DE) genes (FDR < 0.05,
+  Fold Change > |2|) from microglia transcriptome comparisons between 5 dpf HRasV12−
+  and HRasV12+ larval brains (11 genes), belonging to zebrafish actin cytoskeleton
+  KEGG pathways [Regulation of actin cytoskeleton, Focal adhesion, Adherens junction,
+  Tight junction and mTOR signaling pathway]. The actin nucleation promoting factor
+  wasla is the top ranked gene of the list. See also Table . (b) Dot plots of normalized
+  transformed read counts of the representative WASP family genes. Black plots represent
+  non‐DE genes whereas, red plots correspond to DE genes at 5 dpf between control
+  and HRasV12+ conditions. (b) The means ± SD of three independent experiments are
+  plotted. (c) Dot plots of normalized transformed read counts of WASL gene expression
+  of monocyte‐derived macrophages (MDMs) and microglia in human non tumor and glioma
+  IDH WT brain samples (Klemm et al., )
+article_title: Wasl is crucial to maintain microglial core activities during glioblastoma
+  initiation stages.
+citation: Julie Mazzolini, et al. Glia. 2022 Jun;70(6):1027-1051.
+year: '2022'
+
+doi: 10.1002/glia.24154
+journal_title: Glia
+journal_nlm_ta: Glia
+publisher_name: John Wiley & Sons, Inc.
+
+keywords:
+- microglia
+- glioblastoma
+- wasl
+- RNA sequencing
+- morphology
+- cytoskeleton
+- phagocytosis
+
+---

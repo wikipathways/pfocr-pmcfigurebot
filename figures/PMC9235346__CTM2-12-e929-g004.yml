@@ -1,0 +1,31 @@
+---
+figid: PMC9235346__CTM2-12-e929-g004
+pmcid: PMC9235346
+image_filename: CTM2-12-e929-g004.jpg
+figure_link: /pmc/articles/PMC9235346/figure/ctm2929-fig-0003/
+number: FIGURE 3
+figure_title: ''
+caption: Integrated protein networks and associated canonical pathways for proteins
+  in MPM models. Integrated protein networks and the corresponding canonical pathways
+  were generated. Two networks with network score ≥20 were integrated. For edge information,
+  direct and indirect interactions are presented by solid and dashed lines, respectively.
+  Canonical pathways associated with proteins in the network are presented as dotted
+  lines (light pink). Regarding node information, shapes signify the molecular class
+  of proteins defined in the legend, and colours surrounding the nodes represent expression
+  patterns for each disease type. Overlapping proteins between MPM models are denoted
+  by an asterisk. Each protein is presented as a gene name and the corresponding protein
+  entry in parentheses. Alterations in protein expression are presented as fold‐change
+  for each disease type. MDD, major depressive disorder; BD, bipolar disorder; SCZ,
+  schizophrenia; CP, canonical pathway; MPM, multiprotein marker
+article_title: 'Integrating proteomic and clinical data to discriminate major psychiatric
+  disorders: Applications for major depressive disorder, bipolar disorder, and schizophrenia.'
+citation: Dongyoon Shin, et al. Clin Transl Med. 2022 Jun;12(6):e929.
+year: '2022'
+
+doi: 10.1002/ctm2.929
+journal_title: Clinical and Translational Medicine
+journal_nlm_ta: Clin Transl Med
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+---

@@ -1,0 +1,47 @@
+---
+figid: PMC9179535__cancers-14-02766-g001
+pmcid: PMC9179535
+image_filename: cancers-14-02766-g001.jpg
+figure_link: /pmc/articles/PMC9179535/figure/cancers-14-02766-f001/
+number: Figure 1
+figure_title: ''
+caption: 'Metabolic screen of multiple myeloma cells. (A) Schematic for metabolic
+  screening targeting glycolysis pathway in MM cells. (B) Assay for metabolic efficiency
+  of compounds from NCI-drug library on RPMI8226 and U266 MM cells; HEK293 cells were
+  used to determine the toxicity of the compounds. Each point represents a single
+  compound from the library; the assay was performed in duplicate for reproducibility
+  (Vo = vorinostat, Vi = vismodegib, Pa = palbociclib, Po = ponatinib, Bi = binimetinib).
+  Cells were incubated with the drug compounds for 72 h for the assay. (C) Schematic
+  diagram of the glycolysis pathway for the enzymatic links. (D,E) The top ten selected
+  drug candidates were screened for inhibition of glycolytic genes by qPCR. The drug
+  treatment was for 12 h on RPMI8226 cells. (F) The top 5 candidates were further
+  screened for inhibition in lactate production using a lactate assay kit on RPMI8226
+  cells; drug treatment was for 24 h. Data are presented as mean ± SEM; t-test: ***
+  p < 0.001. (G) Venn diagram shows ponatinib was the best candidate compound for
+  glycolysis gene and lactate production inhibition. (H) HK2 and GPI signals were
+  analyzed in normal and MM cells in cancer patients. The patient data were obtained
+  from the R2 platform (hgserver1.amc.nl) (GEO ID: GSE2658). N = normal tissue; T
+  = tumor. Data are plotted as mean with the shaded distributions; * p < 0.05, ***
+  p < 0.001, provided by R2 platform search engine (via one-way ANOVA on ranks). (I)
+  Kaplan–Meier overall survival plots of MM patients with respect to HK2 and GPI RNA
+  message levels are shown. Significance p-values are indicated in the figure, provided
+  by R2 platform search engine (hgserver1.amc.nl) (GEO ID: GSE2658) (via one-way ANOVA
+  on ranks).'
+article_title: mTORC1-Inhibition Potentiating Metabolic Block by Tyrosine Kinase Inhibitor
+  Ponatinib in Multiple Myeloma.
+citation: Uddin Md. Nazim, et al. Cancers (Basel). 2022 Jun;14(11):2766.
+year: '2022'
+
+doi: 10.3390/cancers14112766
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- glycolysis
+- multiple myeloma
+- ponatinib
+- sirolimus
+- mTORC1
+
+---

@@ -1,0 +1,45 @@
+---
+figid: PMC9213086__res-131-042-g006
+pmcid: PMC9213086
+image_filename: res-131-042-g006.jpg
+figure_link: /pmc/articles/PMC9213086/figure/F5/
+number: Figure 5
+figure_title: ''
+caption: 'Ingenuity pathway analysis reveals activation of inflammatory signaling
+  at the transcription and translation level in BMDMs. A, Scatter plot of Benjamini-Hochberg
+  (B–H) adjusted P of significantly dysregulated processes/functions in Disease and
+  Disorder analysis of the transcriptome and translatome of miR-223−/− BMDMs compared
+  with WT BMDMs. A B-H adjusted P cutoff of 0.05 (−log10[B-H adjusted P] >1.3) was
+  applied and all accepted processes/functions were shown as individual dots. B, Top
+  plot: scatter plot of B-H adjusted P of significantly dysregulated processes/functions
+  in the Inflammatory Response sub-category of miR-223−/− BMDMs compared with that
+  of WT BMDMs. A B-H adjusted P cut-off of 0.05 (−log10[B-H adjusted P] >1.3) was
+  applied, and all accepted processes/functions were shown as individual dots. Bottom
+  plot: activation z-score of top 5 differentially regulated pathways in the Inflammatory
+  Response sub-category of miR-223−/− BMDMs compared with that of WT BMDMs. The cell
+  is gray when an activation z-score cannot be determined by IPA. C, Heatmap of average
+  miR-233−/−/WT fold change of representative inflammatory response genes at the RNA
+  and ribosome protected fragment (RPF) level. All genes associated with all processes/functions
+  in B were combined, then their clustering was calculated based on their fold change
+  (miR-233−/−/WT) values using the Average Linkage method. D, Occurrence of AUUUA
+  motif in the 3’UTR of all genes vs upregulated genes in miR-223−/− BMDMs. Normalized
+  count values were compared using Mann-Whitney U test. RPF indicates ribosome protected
+  fragment.'
+article_title: miR-223 Exerts Translational Control of Proatherogenic Genes in Macrophages.
+citation: My-Anh Nguyen, et al. Circ Res. 2022 Jun 24;131(1):42-58.
+year: '2022'
+
+doi: 10.1161/CIRCRESAHA.121.319120
+journal_title: Circulation Research
+journal_nlm_ta: Circ Res
+publisher_name: Lippincott Williams & Wilkins
+
+keywords:
+- animal models of human disease
+- cholesterol
+- inflammation
+- lipids
+- metabolism
+- vascular biology
+
+---

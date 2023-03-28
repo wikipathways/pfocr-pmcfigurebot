@@ -1,0 +1,32 @@
+---
+figid: PMC9247109__41419_2022_5028_Fig4_HTML
+pmcid: PMC9247109
+image_filename: 41419_2022_5028_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9247109/figure/Fig4/
+number: Fig. 4
+figure_title: RNA-seq analysis following DHODH inhibition in CML
+caption: A The volcano plot demonstrates the number of up- and down-regulated genes
+  in CML CD34+ (n:5) patients’ cells after treatment with 100 nM Meds433 for 3 days.
+  B The top 100 differentially expressed genes based on adjusted p value are depicted
+  in the heatmap, and C shows enriched and depleted hallmark gene sets and three enrichment
+  plots related to apoptosis, P53 pathway, and MYC targets. The number in the plots
+  demonstrates a normalized enrichment score (NES). D demonstrates Western blot analysis
+  of JURL-MK1 cell line treated with 100 nM Meds433 for 3 days (n:3). E shows CFU
+  assay after the treatment of CML CD34+ (n:5) patients’ cells with Meds433. For this
+  figure, the total number of colonies (CFU-GM + CFU-E + BFU-E) and the number of
+  each subset are displayed. *p < 0.05, **p < 0.01, ***p < 0.001.
+article_title: Dihydroorotate dehydrogenase inhibition reveals metabolic vulnerability
+  in chronic myeloid leukemia.
+citation: Mohammad Houshmand, et al. Cell Death Dis. 2022 Jun;13(6):576.
+year: '2022'
+
+doi: 10.1038/s41419-022-05028-9
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cancer metabolism
+- Apoptosis
+
+---

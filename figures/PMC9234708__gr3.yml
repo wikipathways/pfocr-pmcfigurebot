@@ -1,0 +1,47 @@
+---
+figid: PMC9234708__gr3
+pmcid: PMC9234708
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9234708/figure/f0015/
+number: Fig. 3
+figure_title: ''
+caption: (a) The Protein-Protein Interaction Network for the differentially expressed
+  genes common in IDC and ILC. (b) The interaction network of target genes is visualized,
+  where node color represents their expression logFC value in cancer samples. The
+  nodes' color shows the expression intensity of each gene (red-downregulation, blue-upregulated
+  genes) and edges represent the interaction between genes. (c) The bar graph showing
+  the expression values of ALP genes in IDC and ILC samples. (d) The interaction attributes
+  obtained from GeneMANIA, where ALP genes are highlighted in orange color, other
+  target genes in grey and additional neighboring genes in black color nodes, color
+  of edges represent interaction types, blue - co-expression, red - physical interactions,
+  green - pathway sharing and yellow - shared protein domain. (e) The Biological Processes
+  (blue), Molecular Functions (purple) and enriched pathways (green) association network
+  are shown. Each group of ontology terms and pathways are represented with different
+  colors based on their functional specificity. The small square nodes represent the
+  target DEGs.
+article_title: Biomineralization associated alkaline phosphatase as a potential marker
+  of bone metastasis in the patients with invasive breast cancer.
+citation: Iftikhar Aslam Tayubi, et al. Saudi J Biol Sci. 2022 Aug;29(8):103340.
+year: '2022'
+
+doi: 10.1016/j.sjbs.2022.103340
+journal_title: Saudi Journal of Biological Sciences
+journal_nlm_ta: Saudi J Biol Sci
+publisher_name: Elsevier
+
+keywords:
+- Breast cancer
+- Invasive lobular carcinoma
+- Invasive ductal carcinoma
+- Biomarkers
+- Alkaline phosphate biomineralization associated
+- Therapeutic targets
+- BRCA, Breast Cancer
+- ALP, Alkaline Phosphate
+- ALPL, Alkaline Phosphate Biomineralization associated
+- DCIS, Ductal carcinoma in situ
+- DEGs, Differentially Expressed Genes
+- IDC, Invasive Ductal Carcinoma
+- ILC, Invasive Lobular Carcinoma
+
+---

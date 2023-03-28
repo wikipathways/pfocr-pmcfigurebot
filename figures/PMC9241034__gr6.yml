@@ -1,0 +1,43 @@
+---
+figid: PMC9241034__gr6
+pmcid: PMC9241034
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC9241034/figure/fig6/
+number: Figure 6
+figure_title: ''
+caption: Proposed model for the MMR-mediated response to oxidative stress. In the
+  presence of oxidative DNA lesion 8-oxoG, preloaded MutSα binds to a local 8-oxoG
+  adduct. This frees the preoccupied H3K36me3 to recruit additional MutSα, which leads
+  to increased levels of MutSα at damage sites. The 8-oxoG-bound MutSα interacts with
+  SETD2, which in turn recruits ATM to activate the ATM signaling pathway. MutSα-recruited
+  SETD2 trimethylates downstream H3K36, which increases the intensity of H3K36me3
+  downstream TSSs. The latter can recruit more MutSα molecules to chromatin to respond
+  to further DNA damage. Therefore, in response to oxidative stress, MutSα, SETD2,
+  and H3K36me3 constitute a positive feedback loop to cope with oxidative DNA damage.
+  MMR, mismatch repair; TSS, transcription start site.
+article_title: Interplay between H3K36me3, methyltransferase SETD2, and mismatch recognition
+  protein MutSα facilitates processing of oxidative DNA damage in human cells.
+citation: Sida Guo, et al. J Biol Chem. 2022 Jul;298(7):102102.
+year: '2022'
+
+doi: 10.1016/j.jbc.2022.102102
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- oxidative DNA damage
+- SETD2
+- histone methylation
+- mismatch repair
+- ChIP-Seq, chromatin immunoprecipitation assays combined with DNA sequencing
+- Co-IP, coimmunoprecipitation
+- DDR, DNA damage response
+- FACS, fluorescence-activated cell sorting
+- KI, knock-in
+- MMR, mismatch repair
+- RIPA, radioimmunoprecipitation assay
+- ROS, reactive oxygen species
+- TSS, transcription start site
+
+---

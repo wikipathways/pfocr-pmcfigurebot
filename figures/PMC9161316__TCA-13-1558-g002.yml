@@ -1,0 +1,34 @@
+---
+figid: PMC9161316__TCA-13-1558-g002
+pmcid: PMC9161316
+image_filename: TCA-13-1558-g002.jpg
+figure_link: /pmc/articles/PMC9161316/figure/tca14386-fig-0001/
+number: FIGURE 1
+figure_title: ''
+caption: Workflow of necessary steps in current study. Patients were enrolled as the
+  recruitment pathway. Tumors are semi‐automatically segmented on axial arterial phase
+  CT. Radiomic features are extracted from corresponding VOIs on CT images. Feature
+  was selected by inter‐ and intra‐observer reliability assessment and subsequent
+  least absolute shrinkage and selection operator (LASSO) method. The radiomics signature
+  is constructed by a linear combination of selected features. The performance of
+  the prediction model is assessed by C‐index and the calibration curve. A nomogram
+  is built for individualized assessment, decision curve analysis, and survival prediction
+  are then performed
+article_title: A CT‐based radiomics model to predict subsequent brain metastasis in
+  patients with ALK‐rearranged non–small cell lung cancer undergoing crizotinib treatment.
+citation: Yongluo Jiang, et al. Thorac Cancer. 2022 Jun;13(11):1558-1569.
+year: '2022'
+
+doi: 10.1111/1759-7714.14386
+journal_title: Thoracic Cancer
+journal_nlm_ta: Thorac Cancer
+publisher_name: John Wiley & Sons Australia, Ltd
+
+keywords:
+- ALK‐positive
+- image biomarkers
+- lung cancer
+- response prediction
+- targeted therapy
+
+---

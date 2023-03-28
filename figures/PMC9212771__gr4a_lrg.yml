@@ -1,0 +1,35 @@
+---
+figid: PMC9212771__gr4a_lrg
+pmcid: PMC9212771
+image_filename: gr4a_lrg.jpg
+figure_link: .na.character
+number: ''
+figure_title: Fig. 4
+caption: Gene set enrichment analysis:(A) Gene ontology enrichment of common up-regulated
+  genes. The graphs represent top 10 significantly (adjusted p-value <0.05) enriched
+  biological process and molecular function as well as all significantly enriched
+  cellular component terms, with darker red indicating greater significance. Count
+  of genes are shown in x-axis, while the y-axis represents the GO terms.(B) KEGG
+  pathway enrichment of common up-regulated genes. Significantly enriched viral infection
+  pathways are indicated here with darker blue standing for greater significance;
+  x-axis shows count of genes involving in each over-presented pathway and y-axis
+  represents the KEGG terms.
+article_title: 'In silico drug repurposing against SARS-CoV-2 using an integrative
+  transcriptomic profiling approach: Hydrocortisone and Benzhydrocodone as potential
+  drug candidates against COVID-19.'
+citation: SeyedehMozhdeh Mirmohammadi, et al. Infect Genet Evol. 2022 Sep;103:105318-105318.
+year: '2022'
+
+doi: 10.1016/j.meegid.2022.105318
+journal_title: Infection, Genetics and Evolution
+journal_nlm_ta: Infect Genet Evol
+publisher_name: Published by Elsevier B.V.
+
+keywords:
+- COVID-19
+- SARS-CoV-2
+- Transcriptomics
+- Drug repurposing
+- In silico
+
+---

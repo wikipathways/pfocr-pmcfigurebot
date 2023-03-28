@@ -1,0 +1,48 @@
+---
+figid: PMC9171412__EMBR-23-e54217-g001
+pmcid: PMC9171412
+image_filename: EMBR-23-e54217-g001.jpg
+figure_link: /pmc/articles/PMC9171412/figure/embr202154217-fig-0003/
+number: Figure 3
+figure_title: DNA damage initiates inflammatory signaling through DDR and cGAS‐STING.
+  ATM‐NF‐kB pathway
+caption: 'The activation of ATM by DSBs leads to its coupling with NEMO in the nucleus.
+  NEMO is phosphorylated by ATM and SUMOylated by PIASy in a PARP1‐dependent manner,
+  which is not shown here. These modifications lead to NEMO monoubiquitination, and
+  the ATM‐NEMO complex is transported to the cytoplasm. Here, NEMO partners with IKKb
+  and IKKa to form the active Inhibitor of KappaB Kinase (IKK) complex. The IKK phosphorylates
+  IkB, allowing NF‐kB to be transported to the nucleus. The most common form of NF‐kB
+  is the heterodimer p50‐p65, shown here. The phosphorylation of IkB leads to its
+  polyubiquitination and subsequent degradation. cGAS‐STING pathway: DSBs result in
+  the leakage of self‐DNA into the cytosol, which is sensed by cGAS. cGAS generates
+  second messenger cyclic GAMP. cGAMP binds to STING, which activates TANK‐binding
+  kinase 1 (TBK1), which in turn activates IFN Regulatory Factor 3 (IRF3). Homodimerized
+  IRF3 transports to the nucleus and activates the expression of inflammatory genes.
+  STING also facilitates the formation of the IKK complex, which phosphorylates IkB
+  to activate NF‐kB. TLR9 pathway: Endosomal double‐strand DNA is bound by TLR9, activating
+  MyD88, which interacts with and activates IRAK1,2,and 4. IRAK1 and 4 dissociate
+  from MyD88 and activate TRAF6. TRAF6 ubiquitinates NEMO, a member of the IKK complex
+  that results in NF‐kB translocation into the nucleus. Inflammasome pathway: NLRP3
+  detects cytosolic DNA, leading to the assembly of the NLRP3, ASC, pro‐Caspase I
+  inflammasome. pro‐Caspase I autoproteolytically matures to functional Caspase I,
+  which cleaves pro‐IL1b and pro‐IL18 to generate functional IL1b and IL18.'
+article_title: Mechanisms of DNA damage‐mediated neurotoxicity in neurodegenerative
+  disease.
+citation: Gwyneth Welch, et al. EMBO Rep. 2022 Jun;23(6):e54217.
+year: '2022'
+
+doi: 10.15252/embr.202154217
+journal_title: EMBO Reports
+journal_nlm_ta: EMBO Rep
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- DNA damage
+- DNA damage repair
+- inflammation
+- neurodegeneration
+- neuron
+- DNA Replication, Recombination & Repair
+- Neuroscience
+
+---

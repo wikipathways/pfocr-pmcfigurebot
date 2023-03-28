@@ -1,0 +1,26 @@
+---
+figid: PMC9201371__CPR-55-e13249-g003
+pmcid: PMC9201371
+image_filename: CPR-55-e13249-g003.jpg
+figure_link: /pmc/articles/PMC9201371/figure/cpr13249-fig-0002/
+number: FIGURE 2
+figure_title: ''
+caption: Transcriptomic heterogeneity of malignant cells in EC. (A) The cell cycling
+  status of distinct cell types; (B) The heatmap of the relative expression density
+  of genes on each chromosome by comparing the tumour cell genome with a series of
+  normal cell reference genomes; (C) The CNV scores of each k‐means class; (D) The
+  expression level of marker gene in TCGA dataset, (*p < 0.05); (E) Heatmap of DEGs
+  in each k‐means class; (F) Differences in pathway activity (scored per cell by GSVA)
+  in 6 epithelial cell sub‐clusters
+article_title: Single‐cell sequencing reveals the heterogeneity and intratumoral crosstalk
+  in human endometrial cancer.
+citation: Zhicheng Yu, et al. Cell Prolif. 2022 Jun;55(6):e13249.
+year: '2022'
+
+doi: 10.1111/cpr.13249
+journal_title: Cell Proliferation
+journal_nlm_ta: Cell Prolif
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+---

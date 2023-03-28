@@ -1,0 +1,38 @@
+---
+figid: PMC9228236__pharmaceuticals-15-00704-g001a
+pmcid: PMC9228236
+image_filename: pharmaceuticals-15-00704-g001a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 1
+caption: Heatmap clustering, KEGG pathway, and PCA analysis for all the RNA-Seq samples.
+  (a) The heatmap of the distance matrix obtained with the DESeq2 package on regularized-logarithm
+  transformed counts showing an overview of similarities and dissimilarities between
+  the RNA-Seq samples. The heatmap shows three distinct groups of cells (YD-8 + YD-8/CIS,
+  YD-9 + YD-9/CIS, and YD-38 + YD-38/CIS) and within each group, there were two subgroups
+  of cells (cisplatin-resistant cells and parental cells). Red indicates upregulated
+  genes and blue indicates downregulated genes (q-value < 0.05). (b) Expression of
+  genes in cancer pathways in parental samples and cisplatin-resistant samples. Genes
+  in the colored box have significantly different expression. Red indicates upregulated
+  genes and blue indicates downregulated genes. (c) PCA plot of the overall gene expression,
+  showing the separation of YD-8/CIS and YD-9/CIS cells from other cells. PCA is based
+  on the abundances of all transcripts detected in the RNA-Seq analysis. The color
+  legend is reported at the bottom of the plot.
+article_title: Assessing Gene Expression Related to Cisplatin Resistance in Human
+  Oral Squamous Cell Carcinoma Cell Lines.
+citation: Hyeong Sim Choi, et al. Pharmaceuticals (Basel). 2022 Jun;15(6):704.
+year: '2022'
+
+doi: 10.3390/ph15060704
+journal_title: Pharmaceuticals
+journal_nlm_ta: Pharmaceuticals (Basel)
+publisher_name: MDPI
+
+keywords:
+- oral squamous cell carcinoma
+- cisplatin
+- RNA-Seq
+- cell adhesion molecules
+- proteoglycans
+
+---

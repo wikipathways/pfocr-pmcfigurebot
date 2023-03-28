@@ -1,0 +1,38 @@
+---
+figid: PMC9271306__aging-14-204134-g002
+pmcid: PMC9271306
+image_filename: aging-14-204134-g002.jpg
+figure_link: /pmc/articles/PMC9271306/figure/f2/
+number: Figure 2
+figure_title: ''
+caption: Identification of immune-related signatures and construction of IRIRScore
+  prognostic model. (A) Volcano plot on immunotherapeutic response related DEGs between
+  the responders and non-responders in anti-PD-L1 cohort. The green dots represent
+  downregulated genes, while the red dots represent upregulated genes. (B) Venn diagram
+  of the intersection between the immunotherapeutic response related DEGs and IRGs.
+  (C) KEGG pathway enrichment analysis of IRIGs. (D) GO analysis of IRIGs. (E) The
+  coefficients of the 6 IRIGs related to prognosis of colon cancer. (F) Forest plot
+  showing the HR of each IRIG. (G) The distribution of samples in the high- and low
+  risk score groups and their relationship with OS, and the expression pattern of
+  6 prognostic signatures in high- and low risk score groups. (H) Kaplan-Meier curve
+  exhibited that OS of patients in the low-risk score group was significantly higher
+  than those in the high-risk score group. (I) Time-dependent ROC curve analysis of
+  the IRIRScore model.
+article_title: Exploring immune-related signatures for predicting immunotherapeutic
+  responsiveness, prognosis, and diagnosis of patients with colon cancer.
+citation: Lichao Cao, et al. Aging (Albany NY). 2022 Jun 30;14(12):5131-5152.
+year: '2022'
+
+doi: 10.18632/aging.204134
+journal_title: Aging (Albany NY)
+journal_nlm_ta: Aging (Albany NY)
+publisher_name: Impact Journals
+
+keywords:
+- colon cancer
+- tumor immune microenvironment
+- prognosis
+- diagnosis
+- immunotherapeutic responsiveness
+
+---

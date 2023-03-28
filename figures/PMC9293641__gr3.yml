@@ -1,0 +1,52 @@
+---
+figid: PMC9293641__gr3
+pmcid: PMC9293641
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9293641/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: 'Differential expression between the S- and T-type, general Gene Ontology
+  pathways.A, volcano plot showing the significantly differential genes (red dots)
+  between T and S, top genes shown in red font. B, heatmap showing the expression
+  level (in z-scores) in S, T, and NR. Genes are grouped into four classes: () T >
+  S or () T < S unique, the differential genes in T versus S but not in T versus NR
+  or S versus NR; () T > S shared, the differential genes where expression in T >
+  S and in T > NR or S < NR; () T < S shared, the differential genes where expression
+  in T < S and in T < NR or S > NR. C, hypergeometric test–based GO enrichment for
+  the differential genes defined in (B). GO terms were collected from three categories:
+  biological processes (BP), molecular functions (MF), cellular components (CC). D,
+  GSEA for the differential genes comparing T versus S. The upper barplot shows the
+  significantly enriched GO terms in T > S (magenta), while the lower barplot shows
+  the significantly enriched GO terms in T < S (blue). The color gradient represents
+  the Normalized Enrichment Score (NES). The length of the bars represents the q-value
+  in logarithm. The inset shows the GSEA running-sum statistic (green curve), the
+  genes overlapping the target gene set (gray whiskers), and the leading-edge hits
+  (red dashed line) for the particular pathway: GO:0006412 (translation). GO, gene
+  ontology; GSEA, gene set enrichment analysis; NR, nonresponsive.'
+article_title: Astrocyte ethanol exposure reveals persistent and defined calcium response
+  subtypes and associated gene signatures.
+citation: Hyun-Bum Kim, et al. J Biol Chem. 2022 Aug;298(8):102147.
+year: '2022'
+
+doi: 10.1016/j.jbc.2022.102147
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- astrocyte
+- ethanol
+- calcium signal
+- single-cell transcriptomics
+- gene signature
+- phenotype
+- aRNA, antisense RNA
+- BBB, blood-brain barrier
+- DEG, differentially expressed gene
+- EtOH, ethanol
+- GO, gene ontology
+- GSEA, gene set enrichment analysis
+- NR, nonresponsive
+- PCA, principal component analysis
+
+---

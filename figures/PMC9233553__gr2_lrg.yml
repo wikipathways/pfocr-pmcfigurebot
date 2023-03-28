@@ -1,0 +1,91 @@
+---
+figid: PMC9233553__gr2_lrg
+pmcid: PMC9233553
+image_filename: gr2_lrg.jpg
+figure_link: /pmc/articles/PMC9233553/figure/fig0010/
+number: Fig. 2
+figure_title: ''
+caption: Factors that balance free and conjugated ISG15 during the immune response.
+  1. Binding of interferon (IFN) to the interferon receptor (IFNR) results in a conformational
+  change that enables the transphosphorylation of associated Janus Kinase (JAK). The
+  activated JAK then phosphorylates adjacent signal transducer and activator of transcription
+  (STAT) proteins. 2. Phosphorylated STAT dimers migrate to the nucleus where they
+  bind to interferon-sensitive response elements (ISRE) inducing hundreds of interferon-stimulated
+  genes (ISGs), among them are ISG15, ISG15 conjugating enzymes (e.g. UBE1L, UBE2L6,
+  HERC5), and its specific deISGylase (DIG), USP18). 3. HERC5, the major ISG15 E3
+  ligase may interact with the ribosome where it massively labels synthesized proteins
+  (from both host or viral transcripts) as they emerge from the ribosome (3a). An
+  as-yet-unidentified E3 may interact with a ubiquitous protein signal such as ubiquitin
+  to generate mixed Ub-ISG15 modifications on target proteins (3b). 4. ISGylation
+  contributes to innate immune response and inhibits viral replication, though the
+  precise mechanism remains elusive. 5. ISGylation is overturned by USP18, a DIG that
+  can remove ISG15 from a substrate releasing free ISG15. 6. The free form of ISG15
+  can be conjugated to new targets (by HERC5 and other E3 ligases), or stabilize USP18,
+  a known inhibitor of the STAT-JAK pathway (unrelated to its catalytic DIG activity)
+  thereby inhibiting the innate immune response. Free ISG15 can also be secreted from
+  the cell and act as a cytokine-like protein thereby enhancing the host immune response.
+  7. Some viruses evolved the ability to bypass the ISG15 pathway. Coronaviruses encode
+  a PLpro enzyme that can cleave Ub or ISG15 from conjugates (in addition to cutting
+  the viral polypeptide precursors, PP1a, PP1ab, into an array of functional proteins
+  (NSPs) initiating the replication of the virus). 8. By counteracting the conjugating
+  pathway, the virus generates free ISG15. |Deconjugating ISG15 may benefit the virus
+  to bypass the host's innate immune response, but the formation of free ISG15 could
+  also alert neighboring cells (6).
+article_title: Coronaviral PLpro proteases and the immunomodulatory roles of conjugated
+  versus free Interferon Stimulated Gene product-15 (ISG15).
+citation: Inbar Magid Gold, et al. Semin Cell Dev Biol. 2022 Jun 25 ;132:16-26.
+year: '2022'
+
+doi: 10.1016/j.semcdb.2022.06.005
+journal_title: Seminars in Cell & Developmental Biology
+journal_nlm_ta: Semin Cell Dev Biol
+publisher_name: Elsevier Ltd.
+
+keywords:
+- CoV, Coronavirus
+- Da, Dalton
+- DIG, deISGylation enzymes
+- DUB, deubiquitinase enzyme
+- IP, Immunoprecipitation
+- IAV, Influenza A viruses
+- IRF3, IFN regulatory factor 3
+- IFN, Interferon
+- IFNAR, Interferon receptor
+- ISG15, Interferon Stimulating Gene 15
+- JAK, Janus Kinase
+- LPS, Liposaccharide
+- MS, Mass Spectrometry
+- MERS, Middle eastern respiratory syndrome
+- MW, Molecular weight
+- NP, Nucleoprotein
+- PLpro, Papain-Like proteases
+- PCLγ, Phospholipase Cgamma1
+- interacting 1 Pin1, Peptidyl-prolyl isomerase NIMA
+- PolyUb, Poly ubiquitin
+- RIG1, Retinoic Acid-Inducible Gene 1
+- SARS, Severe Acute Respiratory Syndrome
+- SDS PAGE, Sodium dodecyl sulfate Polyacrylamide gel
+- Ub, Ubiquitin
+- UCRP, Ubiquitin Cross Reactive Protein
+- Ubls, Ubiquitin Like proteins
+- UPS, Ubiquitin Proteasome System
+- USP, Ubiquitin Specific Peptidase
+- WT, Wild Type
+- ISG15
+- Interferon
+- Ubiquitin
+- Ubiquitin-Like proteins
+- Ubiquitin-specific proteases
+- USP
+- Deubiquitinating enzymes
+- DUB
+- Ubiquitin E3 ligases
+- HERC5
+- Papain-like proteases
+- PLpro
+- Coronavirus
+- MERS-CoV
+- SARS-CoV
+- SARS-CoV2
+
+---

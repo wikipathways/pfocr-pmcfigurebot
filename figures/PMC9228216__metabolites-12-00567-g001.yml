@@ -1,0 +1,40 @@
+---
+figid: PMC9228216__metabolites-12-00567-g001
+pmcid: PMC9228216
+image_filename: metabolites-12-00567-g001.jpg
+figure_link: /pmc/articles/PMC9228216/figure/metabolites-12-00567-f001/
+number: Figure 1
+figure_title: ''
+caption: 'Differential metabolic features and pathways between TCTs and ANTs. (A,B)
+  Score plots of PCA and PLS–DA for TNTs and ANTs. (C) Results of 1000–times permutation
+  tests of PLS–DA model by cross–validation for TCTs vs. ANTs. (D) Volcano diagram
+  revealing changes between TCTs and ANTs. The red dots on the right side of the figure
+  represent upregulated metabolites, the blue dots on the left side mean downregulated
+  metabolites, and the black dots refer to non-significant differences. The x-axis
+  corresponds to the log2-fold change, and the y-axis corresponds to the –log10 p-value.
+  (E) Enrichment pathways of differential metabolic features between TCTs and ANTs.
+  The color of the circle indicates the significance level in the enrichment analysis,
+  where a darker color indicates greater significance (pathways with p < 0.05 were
+  annotated); the size of the circle reflects the pathway impact value in the topology
+  analysis, where the larger the circle, the larger the impact value. The x-axis is
+  the pathway impact value calculated based on topology analysis. TNT: thymic cancerous
+  tissue; ANT: adjunct noncancerous tissue; QC: quality control; NS: non-significant.'
+article_title: Metabolomic and Transcriptomic Profiling Identified Significant Genes
+  in Thymic Epithelial Tumor.
+citation: Enyu Tang, et al. Metabolites. 2022 Jun;12(6):567.
+year: '2022'
+
+doi: 10.3390/metabo12060567
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: MDPI
+
+keywords:
+- thymic epithelial tumors
+- metabolomics
+- transcriptomic
+- metabolic score
+- prognosis
+- cancer metabolism
+
+---

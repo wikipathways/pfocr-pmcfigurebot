@@ -1,0 +1,36 @@
+---
+figid: PMC9295763__pnas.2116797119fig05
+pmcid: PMC9295763
+image_filename: pnas.2116797119fig05.jpg
+figure_link: /pmc/articles/PMC9295763/figure/fig05/
+number: Fig. 5
+figure_title: ''
+caption: Overlap between HDACi-induced acetylation and transcriptional changes. (A)
+  Sankey plot showing change in trajectory association for the 1,585 active enhancer-associated
+  genes present in both the ChIP (Left) and bulk RNA-seq (Right). (B) Number of genes
+  changing between ChIP-seq and the bulk RNA-seq clusters. (C) GOs for the 674 genes
+  in the ChIP non-primed active cluster shifted to the RNA-seq primed stable cluster.
+  (D) Example genome track of the H3K27ac and mRNA expression for Jun (active enhancer
+  in gray and gene in blue). (E) KEGG visualization of the MAPK signaling pathway.
+  Each box represents a gene for which the significant log2FC for the HDAC-CFC vs.
+  VEH-CFC in the ChIP-seq (Left), bulk RNA-seq (Center), and snRNA-seq (Right) are
+  color coded.
+article_title: The HDAC inhibitor CI-994 acts as a molecular memory aid by facilitating
+  synaptic and intracellular communication after learning.
+citation: Allison M. Burns, et al. Proc Natl Acad Sci U S A. 2022 May 31;119(22):e2116797119.
+year: '2022'
+
+doi: 10.1073/pnas.2116797119
+journal_title: Proceedings of the National Academy of Sciences of the United States
+  of America
+journal_nlm_ta: Proc Natl Acad Sci U S A
+publisher_name: National Academy of Sciences
+
+keywords:
+- epigenetic priming
+- fear learning
+- HDACi
+- NGS
+- synaptic plasticity
+
+---

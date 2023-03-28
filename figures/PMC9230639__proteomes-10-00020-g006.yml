@@ -1,0 +1,31 @@
+---
+figid: PMC9230639__proteomes-10-00020-g006
+pmcid: PMC9230639
+image_filename: proteomes-10-00020-g006.jpg
+figure_link: /pmc/articles/PMC9230639/figure/proteomes-10-00020-f006/
+number: Figure 6
+figure_title: ''
+caption: Enrichment of GO biological processes in significantly downregulated proteins.
+  Panther pathway analysis of GO biological processes enriched in the downregulated
+  proteins identified 13 processes all associated with protein biosynthesis. The GO
+  biological process was plotted against the fold enrichment and the significance
+  is shown for each as a False Discovery Rate (FDR) value.
+article_title: Dysregulated Gene Expression in Lymphoblasts from Parkinson’s Disease.
+citation: Sarah Jane Annesley, et al. Proteomes. 2022 Jun;10(2):20.
+year: '2022'
+
+doi: 10.3390/proteomes10020020
+journal_title: Proteomes
+journal_nlm_ta: Proteomes
+publisher_name: MDPI
+
+keywords:
+- Parkinson’s disease
+- proteome
+- transcriptome
+- protein synthesis
+- mitochondria
+- oxidative phosphorylation
+- cell models
+
+---

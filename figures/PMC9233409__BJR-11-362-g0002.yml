@@ -1,0 +1,53 @@
+---
+figid: PMC9233409__BJR-11-362-g0002
+pmcid: PMC9233409
+image_filename: BJR-11-362-g0002.jpg
+figure_link: /pmc/articles/PMC9233409/figure/F2/
+number: Fig. 2
+figure_title: ''
+caption: Bone loading-responsive gene set is highly relevant to osteoarthritis (OA).
+  a) Gene Set Enrichment Analysis (GSEA) of loading responsive gene set in the osteoarthritis
+  (OA) medial tibial plateau (MT) and the paired lateral tibial plateau (LT) samples.
+  NES, normalized enrichment score; FDR, false discovery rate, p-values estimated
+  by one-way analysis of variance (ANOVA) and adjusted by Benjamini-Hochberg method.
+  Leading-edge subset was considered as the main contributing genes to the difference
+  between the OA MT and the paired OA LT samples. b) Estimated score calculated by
+  single-sample GSEA (ssGSEA) algorithm in the OA MT and the paired LT samples. ns,
+  not significant; *p < 0.05; **p < 0.01; all p-values estimated by one-way analysis
+  of variance (ANOVA). c) Gene Ontology (GO) terms and Kyoto Encyclopedia of Genes
+  and Genomes (KEGG) pathways of the persistent genes. GeneRatio indicates the gene
+  number ration in each GO term or KEGG pathway. The colour and size of each dot represents
+  a p-value adjusted by Benjamini & Hochberg method and gene number assigned to the
+  corresponding GO term and KEGG pathway, respectively. d) The top 50 genes in leading-edge
+  subset (i) and the essential genes relevant to extracellular matrix (ECM) structural
+  constituent (ii), Wnt and transforming growth factor (TGF) signalling pathways (iii),
+  and axon guidance (iv). e) Independent dataset validation of some essential genes
+  relevant to bone remodelling. OA versus sham; *p < 0.05; **p < 0.01; all p-values
+  estimated by unpaired two-tailed t-test.
+article_title: Identification of mechanics-responsive osteocyte signature in osteoarthritis
+  subchondral bone.
+citation: Jun Zhou, et al. Bone Joint Res. 2022 Jun;11(6):362-370.
+year: '2022'
+
+doi: 10.1302/2046-3758.116.BJR-2021-0436.R1
+journal_title: Bone & Joint Research
+journal_nlm_ta: Bone Joint Res
+publisher_name: The British Editorial Society of Bone & Joint Surgery
+
+keywords:
+- Osteoarthritis
+- Subchondral bone
+- Mechanics
+- Osteocyte
+- Transcriptome
+- Osteocytes
+- Osteoarthritis (OA)
+- bone remodelling
+- transforming growth factor beta
+- tibial plateaus
+- lesioned
+- lateral tibial plateaus
+- extracellular matrix
+- RNA
+
+---

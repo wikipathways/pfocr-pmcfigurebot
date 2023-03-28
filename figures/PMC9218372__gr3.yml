@@ -1,0 +1,36 @@
+---
+figid: PMC9218372__gr3
+pmcid: PMC9218372
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9218372/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: Variability of nucleotides and feedback regulation of the pyrimidine pathway(A)
+  Relative concentration of nucleotides in 19 conditions. Metabolite concentrations
+  are shown as log2 fold changes that are normalized to the glucose condition with
+  the BW25113 strain. Dots show the mean of n = 3 replicates, lines show the SD. Log2
+  fold changes > 1 or < −1 are indicated by the color of the respective condition.
+  Numbers next to the metabolite show the relative SD(RSD) across 17 conditions (stationary
+  phase conditions were not considered). Note that RSD values differ from  because
+  the rich medium is considered here.(B) Same as (A) for intermediates in pyrimidine
+  nucleotide biosynthesis. The metabolic map shows the pyrimidine pathway and allosteric
+  feedback inhibition of carbamoyl phosphate synthetase (CarAB) by UMP. The metabolic
+  bottleneck at orotate phosphoribosyltransferase (PyrE) is present in all conditions
+  except the NCM3722 strain, due to a frameshift mutation in MG1655-derived E. coli
+  ().See .
+article_title: Homeostasis of the biosynthetic E. coli metabolome.
+citation: Dušica Radoš, et al. iScience. 2022 Jul 15;25(7):104503.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.104503
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Microbiology
+- Microbial physiology
+- Omics
+- Metabolomics
+
+---

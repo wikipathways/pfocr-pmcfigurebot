@@ -1,0 +1,46 @@
+---
+figid: PMC9174882__EMMM-14-e15816-g006
+pmcid: PMC9174882
+image_filename: EMMM-14-e15816-g006.jpg
+figure_link: /pmc/articles/PMC9174882/figure/emmm202215816-fig-0005/
+number: Figure 5
+figure_title: mPTCL has an oncogenic β‐catenin mutation and overactive MYC
+caption: Allele frequencies of predicted deleterious mutations detected by exome sequencing
+  of mPTCL T‐cells (n = 4). Deleterious variants have a SIFT (sorting intolerant from
+  tolerant) score ≤ 0.05. In red are OncoKB‐listed oncogenes or tumor suppressors.
+  Each oncogene in red has a SIFT score = 0, indicating high likelihood to be deleterious.
+  Bars represent SEM. The dotted line represents the lower allele frequency cutoff
+  for clonal heterozygous variants.IHC for β‐catenin in spleens (left) and magnified
+  regions of mesenteric lymph node (right) in a normal C57bl/6J mouse and a mouse
+  with mPTCL. Images are representative of six mice.Ingenuity pathway analysis predicted
+  upstream regulators in purified TCRvβ8+ mPTCL versus CD4+ T‐cells (n = 6). A selection
+  of upstream regulators is shown. The full set can be found in Dataset . Z‐score
+  ≥ 2 or ≤ 2 represents predicted activation or inhibition of a regulator, respectively.Log2‐transformed
+  expression levels of Myc transcript in TCRvβ8+ versus wildtype CD4+ T‐cells (n = 6).
+  Adjusted P = 5.78E‐08. P‐values were calculated by ROSALIND.Immunostain for c‐MYC
+  in mPTCL versus C57bl/6J spleens (representative of three mice).Western blot for
+  c‐MYC in whole spleen lysates from control C57bl/6J and mPTCL mice. Quantification
+  of c‐MYC expression normalized to vinculin housekeeper gene levels (n = 6). T‐test
+  P = 0.0007. Bars represent SEM.GSEA for the top 12 (of 16) enriched MYC‐regulated
+  gene signatures in purified TCRvβ8+ lymphoma cells. Red line indicates FDR q = 0.05.
+  FDR Q‐values can be found in Dataset . *** P < 0.001.
+article_title: A preclinical model of peripheral T‐cell lymphoma GATA3 reveals DNA
+  damage response pathway vulnerability.
+citation: Elizabeth A Kuczynski, et al. EMBO Mol Med. 2022 Jun;14(6):e15816.
+year: '2022'
+
+doi: 10.15252/emmm.202215816
+journal_title: EMBO Molecular Medicine
+journal_nlm_ta: EMBO Mol Med
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- DNA damage response
+- GATA3
+- peripheral T‐cell lymphoma
+- syngeneic mouse model
+- T‐follicular helper cell
+- Cancer
+- Immunology
+
+---

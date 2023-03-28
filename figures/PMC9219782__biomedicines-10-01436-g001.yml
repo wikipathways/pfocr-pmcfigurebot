@@ -1,0 +1,51 @@
+---
+figid: PMC9219782__biomedicines-10-01436-g001
+pmcid: PMC9219782
+image_filename: biomedicines-10-01436-g001.jpg
+figure_link: /pmc/articles/PMC9219782/figure/biomedicines-10-01436-f001/
+number: Figure 1
+figure_title: ''
+caption: TNFR1-induced-signalling pathway. Cartoon depicting the TNFR1-induced-signalling
+  pathway. Upon binding of TNF to TNFR1, a membrane-bound complex referred to as complex-I
+  forms. This complex is characterised by the presence of adaptor proteins (e.g.,
+  TRADD, TRAF2, SPATA2, TAB1/2 and NAP1/TANK1), E3 ligases (e.g., cIAP1/2 and LUBAC),
+  which conjugate poly-ubiquitin chains of different topology (i.e., K63, K48, K11
+  and M1) to different proteins of the complex, the deubiquitinases (DUBs) A20 and
+  CYLD, and protein kinases such as RIPK1, IKK1/2, TAK1 and TBK1/IKKε. Complex-I promotes
+  the activation of NF-κB and MAPKs that in turn mediate the expression of pro-survival
+  as well as pro-inflammatory genes. Under certain circumstances, a secondary cytoplasmic
+  complex originates in the cytosol from complex-I, referred to as complex-II. This
+  complex is composed of FADD, cFLIP, Caspase-8, RIPK1 and RIPK3. Caspase-8 can trigger
+  apoptosis via activation of Caspase-3 or, in some cell type, pyroptosis, via cleavage
+  of Gasdermin D. Upon Caspase-8 inhibition by the means of synthetic- or viral-encoded
+  caspase inhibitor, RIPK1 activates RIPK3 that in turn phosphorylates MLKL that undergoes
+  activation and executes necroptosis. Of note, OTULIN, XIAP and MK2, have important
+  regulatory functions in the TNFR1-signalling pathway, despite they are not directly
+  recruited to complex-I or complex-II. OTULIN regulates the availability of the LUBAC
+  components for their recruitment to complex-I. XIAP controls RIPK1 ubiquitination
+  status outside complex-II and potentially its cytotoxic activity. MK2, by phosphorylating
+  RIPK1, modulates its killing activity.
+article_title: 'Cell Death-Related Ubiquitin Modifications in Inflammatory Syndromes:
+  From Mice to Men.'
+citation: Nieves Peltzer, et al. Biomedicines. 2022 Jun;10(6):1436.
+year: '2022'
+
+doi: 10.3390/biomedicines10061436
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: MDPI
+
+keywords:
+- cell death
+- apoptosis
+- necroptosis
+- pyroptosis
+- ubiquitin
+- LUBAC
+- OTULIN
+- A20
+- inflammation
+- autoimmunity
+- human genetics
+
+---

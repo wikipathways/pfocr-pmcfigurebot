@@ -1,0 +1,42 @@
+---
+figid: PMC9253713__gr1
+pmcid: PMC9253713
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC9253713/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: SUFU regulates the sensitivity of breast cancer cells to RSL3-triggered ferroptosis(A)
+  Pharmaco-transcriptomic correlation analysis identified key components of the SHH
+  pathway associated with sensitivity to ferroptosis inducers across solid cancer
+  cell lines (n = 658). Blue dots indicate the significantly negatively correlated
+  genes while red dots indicate the positively correlated ones. Here, a negative correlation
+  indicates the association of a larger AUC (area under the curve) with lower gene
+  expression and vice versa.(B and C) Viability (%) of breast cancer cells MCF-7 and
+  T47D stably depleted of SUFU (B), or HCC1954 and MDA-MB-231 stably overexpressing
+  SUFU (C), following RSL3 treatment at indicated concentrations for 24 h.(D and E)
+  Cell death determined by Sytox Green staining of cells in D and E, respectively,
+  cells were treated with RSL3 at indicated concentrations for 24 h; scale bar, 200μm.(F
+  and G) RSL3-induced ROS levels (F) and GSH/GSSG ratios (G) were measured in MCF-7
+  and T47D cells in which SUFU was knocked down by siRNA (upper panels), or HCC1954
+  and MDA-MB-231 cells overexpressing SUFU (lower panels). ROS levels were assessed
+  by flow cytometry with C11-BODIPY. GSH/GSSG ratios were measured by a GSH/GSSG-Glo
+  assay. Data are presented as mean ± SD (∗p < 0.05, ∗∗p < 0.01, ∗∗∗p < 0.001, one-way
+  ANOVA with Tukey’s multiple comparisons test or Unpaired t test). Data are presented
+  as mean ± SD (∗p < 0.05, ∗∗p < 0.01, ∗∗∗p < 0.001). (one-way ANOVA with Tukey’s
+  multiple comparisons test or Unpaired t test).
+article_title: SUFU suppresses ferroptosis sensitivity in breast cancer cells via
+  Hippo/YAP pathway.
+citation: Kun Fang, et al. iScience. 2022 Jul 15;25(7):104618.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.104618
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Cell biology
+- Functional aspects of cell biology
+- Cancer
+
+---

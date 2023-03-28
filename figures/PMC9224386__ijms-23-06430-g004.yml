@@ -1,0 +1,36 @@
+---
+figid: PMC9224386__ijms-23-06430-g004
+pmcid: PMC9224386
+image_filename: ijms-23-06430-g004.jpg
+figure_link: /pmc/articles/PMC9224386/figure/ijms-23-06430-f004/
+number: Figure 4
+figure_title: ''
+caption: 'LPS injection promotes cytokine and inflammatory pathways. Transcriptome
+  analyses were made from whole heart of rats injected with LPS (LPS) or saline (CTRL),
+  and this allowed the identification of 13730 genes. Differentially expressed genes
+  (DEGs) were selected by their fold change of expression (log2Ratio(LPS/CTRL) >1
+  or (log2Ratio(LPS/CTRL) >−1 and an adjusted p value < 0.05 using the R package “Deseq2”.
+  KEGG (Kyoto Encyclopedia of Genes and Genomes) enrichments were conducted to decipher
+  most impacted pathways. Represented here are 4 main pathways in the heart that were
+  impacted by LPS injection in CTRL rats: the MAPK signaling pathway (rno04010), the
+  JAK-STAT signaling pathway (rno04630), and the NF-κB signaling pathway (rno04064).
+  Each DEGs expression in pathways is represented in a heatmap.'
+article_title: 'Beneficial Effects of O-GlcNAc Stimulation in a Young Rat Model of
+  Sepsis: Beyond Modulation of Gene Expression.'
+citation: Thomas Dupas, et al. Int J Mol Sci. 2022 Jun;23(12):6430.
+year: '2022'
+
+doi: 10.3390/ijms23126430
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- O-GlcNAcylation
+- post-translational modification
+- gene expression
+- transcriptomic
+- sepsis
+- therapeutic strategy
+
+---

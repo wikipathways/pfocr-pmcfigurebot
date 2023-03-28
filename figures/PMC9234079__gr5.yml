@@ -1,0 +1,48 @@
+---
+figid: PMC9234079__gr5
+pmcid: PMC9234079
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC9234079/figure/f0025/
+number: Fig. 5
+figure_title: ''
+caption: Bubble diagram of differentially abundant metabolites (DAMs) in the top 20
+  metabolic pathways. The ordinate shows the names of the metabolic pathways. The
+  abscissa is the enrichment factor (rich factor, rich factor = number of significant
+  DAMs/number of total metabolites in the pathway). A larger rich factor indicates
+  a greater enrichment degree. The color ranging from green to red indicates a decrease
+  in the p value. A larger point indicates that more DAMs were enriched in the pathway.
+article_title: A physiological and metabolomic analysis reveals the effect of shading
+  intensity on blueberry fruit quality.
+citation: Yaqiong Wu, et al. Food Chem X. 2022 Oct 30;15:100367.
+year: '2022'
+
+doi: 10.1016/j.fochx.2022.100367
+journal_title: 'Food Chemistry: X'
+journal_nlm_ta: Food Chem X
+publisher_name: Elsevier
+
+keywords:
+- Blueberry
+- Fruit quality
+- Antioxidant system
+- Metabolite
+- Pathway
+- CAT, catalase
+- SOD, superoxide dismutase
+- POD, peroxidase
+- FT1, black one-layer shading net
+- FT2, black two-layer shading net
+- FCK, no black shading net
+- MDA, malondialdehyde
+- TBA, thiobarbituric acid
+- PPO, polyphenol oxidase
+- LC, liquid chromatography
+- MS, mass spectrometry
+- PCA, principal component analysis
+- PLS-DA, partial least squares discriminant analysis
+- OPLS-DA, orthogonal partial least squares discriminant analysis
+- DAMs, differentially abundant metabolites
+- VIP, variable importance in projection
+- ROS, reactive oxygen species
+
+---

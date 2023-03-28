@@ -1,0 +1,35 @@
+---
+figid: PMC9218363__gr5
+pmcid: PMC9218363
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC9218363/figure/fig5/
+number: Figure 5
+figure_title: ''
+caption: RNASeq and protein analysis of PP2A and downstream target proteins in CRC
+  cells(A and B) RNASeq analysis of FOLFOX-HT29 cells. Cells were treated with 20 μM
+  of NSC49L and 1 nM of TRAIL either alone or in combination for 16 h. Total RNA was
+  isolated by TRIzol reagent and processed for RNASeq analysis. Ward clustering algorithm
+  with Euclidean distance measurement was used for heat map analysis.(C) Correlation
+  of PP2A expression level with AKT1(S473P) and p21 levels in CRC cell lines. To determine
+  a correlation of PP2A with AKT1(S473P) and p21, we performed Western bots of these
+  proteins using the whole-cell lysate of different CRC cell lines, including FOLFOX-resistant
+  HCT116 and HT29 cells.(D and E) Protein levels of AKT1, p53, p21, DR5, caspase 3,
+  caspase 8, and PARP1 in HCT116, FOLFOX-CHT116, HT29, and FOLFOX-HT29 cell lines,
+  respectively, treated with NSC49L and TRAIL either alone or in combination for 24
+  h. The blots are representative of three experiments. See also  and .
+article_title: Sensitization of FOLFOX-resistant colorectal cancer cells via the modulation
+  of a novel pathway involving protein phosphatase 2A.
+citation: Satya Narayan, et al. iScience. 2022 Jul 15;25(7):104518.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.104518
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Cell biology
+- Functional aspects of cell biology
+- Cancer
+
+---

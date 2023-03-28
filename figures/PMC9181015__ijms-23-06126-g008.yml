@@ -1,0 +1,36 @@
+---
+figid: PMC9181015__ijms-23-06126-g008
+pmcid: PMC9181015
+image_filename: ijms-23-06126-g008.jpg
+figure_link: /pmc/articles/PMC9181015/figure/ijms-23-06126-f008/
+number: Figure 8
+figure_title: ''
+caption: 'DEGs involved in gibberellin, cytokinin, ethylene, and jasmonic acid signaling
+  pathways. (A–D) Gibberellin, cytokinin, ethylene, and jasmonic acid signal transduction
+  pathways by referring to the KO04075 pathway in KEGG enrichment analysis. (E) Heatmaps
+  showing the relative expression of DEGs involved in the above-mentioned hormone
+  signaling pathways. The purple boxes indicate the genes in which expression was
+  significantly changed by 9 w vs. 13 w. 9 w: vegetative stage, 13 w: shifts to reproductive
+  stage at gene level, 15 w: reproductive stage. The column with the black boxes represents
+  the student’s t test analysis of DEGs by 9 w vs. 13 w; The column with the pink
+  boxes represents the student’s t test analysis of DEGs by 13 w vs. 15 w; The column
+  with the blue boxes represents the student’s t test analysis of DEGs by 9 w vs.
+  15 w. (* |Log2FC| ≥ 1, p < 0.05. ** |Log2FC| ≥ 2, p < 0.01).'
+article_title: Time-Course Transcriptomic Profiling of Floral Induction in Cultivated
+  Strawberry.
+citation: Jiahui Liang, et al. Int J Mol Sci. 2022 Jun;23(11):6126.
+year: '2022'
+
+doi: 10.3390/ijms23116126
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- strawberry
+- floral induction
+- RNA-seq
+- transcription factor
+- hormone
+
+---

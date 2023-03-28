@@ -1,0 +1,40 @@
+---
+figid: PMC9246345__BCJ-479-1265-g0004
+pmcid: PMC9246345
+image_filename: BCJ-479-1265-g0004.jpg
+figure_link: /pmc/articles/PMC9246345/figure/BCJ-479-1265F4/
+number: Figure 4
+figure_title: Structural sensitivity analysis of the plant metabolism system
+caption: '(a) Metabolic pathway for sucrose synthesis from fructose in early plant
+  development. Molecules that are supposed to be abundant in the cytoplasm, such as
+  phosphate groups, are not described. The change in the concentration of each metabolite
+  when the PPi-degrading enzyme was knocked down was determined by structural sensitivity
+  analysis and shown by the color of each molecule []. Red: increase, blue: decrease,
+  gray: no change. The dotted arrow indicates an example of modification of the newly
+  added reaction. Adding this reaction does not change the qualitative response to
+  PPi-degrading enzyme perturbations. (b) The effect on the sucrose response when
+  various reactions are added to the plant metabolic pathway given in . Green: The
+  addition of these reactions does not alter the sucrose concentration response to
+  the disruption of PPi-degrading enzyme. An arrow with arrowheads at both ends means
+  that the result does not depend on the reaction direction or whether it is reversible
+  reaction or not. Blue: When any of these four reactions is added, the sucrose concentration
+  decreases by the destruction of PPi-degrading enzyme. Red: When this reaction is
+  added, the sucrose concentration rather increases with the destruction of PPi degrading
+  enzyme.'
+article_title: A structural approach to understanding enzymatic regulation of chemical
+  reaction networks.
+citation: Atsushi Mochizuki. Biochem J. 2022 Jun 17;479(11):1265-1283.
+year: '2022'
+
+doi: 10.1042/BCJ20210545
+journal_title: Biochemical Journal
+journal_nlm_ta: Biochem J
+publisher_name: Portland Press Ltd.
+
+keywords:
+- mathematics
+- model free
+- reaction network
+- sensitivity
+
+---

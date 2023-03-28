@@ -1,0 +1,38 @@
+---
+figid: PMC9177779__nihms-1802661-f0005
+pmcid: PMC9177779
+image_filename: nihms-1802661-f0005.jpg
+figure_link: /pmc/articles/PMC9177779/figure/F5/
+number: Figure 5
+figure_title: Molecular profiles of inflammatory tumor epithelial cells from immunotherapy-treated
+  cohort of NMU-induced tumors
+caption: 'A, Gene set enrichment analysis between growing vs. stable tumors in CD45+,
+  DN (double negative), and EpCAM+ cells using the MSigDB Hallmark compendium. Red
+  and blue indicates stable and growing enriched, respectively, FDR<0.05. B, Normalized
+  single sample gene set enrichment scores (ssGSEA NES) of significant pathways in
+  EpCAM+ cells of each tumor. Inset, gene expression row z-scores of genes in the
+  IL6–JAK–STAT3 signaling pathway. Hyper-inflammatory tumors indicated in purple C,
+  Immunofluorescence analysis of inflammatory and non-inflammatory tumors for CD8,
+  SMA, and CD74. Scale bar, 50 μm. D, Comparison of CD8+ T cell frequency and intermixing
+  with EpCAM+ cells in hyperinflammatory and non-inflammatory tumors in WSI. Quartiles
+  and range are shown. p-values were calculated using Wilcoxon rank sum test. E, Spearman
+  correlation of CD74 expression with leukocyte infiltration and TCR diversity in
+  the TCGA breast cancer cohort (N=1054 complete observations). F, Forest plot showing
+  hazard ratios with 95% confidence intervals from multivariable Cox regression analysis
+  using CD74 gene expression z-score, PAM50 subtype and tumor stage in TCGA breast
+  cancer cases. Log-rank test p-value: 3 ×10−9. All tests for significance used Mann
+  Whitney Wilcoxon test using a threshold of p=0.05 unless otherwise specified; error
+  bars representative of SD; box-whisker plots indicate 0 th, 25th, 50th, 75th and
+  100th percentiles.'
+article_title: Insights into immune escape during tumor evolution and response to
+  immunotherapy using a rat model of breast cancer.
+citation: Carlos R. Gil Del Alcazar, et al. Cancer Immunol Res. ;10(6):680-697.
+year: '2022'
+
+doi: 10.1158/2326-6066.CIR-21-0804
+journal_title: Cancer Immunology Research
+journal_nlm_ta: Cancer Immunol Res
+publisher_name: American Association for Cancer Research
+
+keywords:
+---

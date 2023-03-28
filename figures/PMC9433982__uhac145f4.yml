@@ -1,0 +1,30 @@
+---
+figid: PMC9433982__uhac145f4
+pmcid: PMC9433982
+image_filename: uhac145f4.jpg
+figure_link: /pmc/articles/PMC9433982/figure/f3/
+number: Figure 3
+figure_title: ''
+caption: Bubble plot depicting results of metabolic pathway enrichment analysis enclosed
+  with the number of up-regulated/down-regulated metabolites in each pathway. Asterisk
+  indicates the global and overview maps. Rich factor is the ratio of metabolite numbers
+  enriched in the pathway term to all metabolite numbers annotated in that pathway
+  term. The greater the rich factor, the greater the degree of pathway enrichment.
+  Adjusted p-value is the corrected p-value by false discovery rate (FDR), and a lower
+  value indicates a greater pathway enrichment. The figures out of brackets represent
+  the number of metabolites in a pathway, including metabolites related to the enzymes
+  within a pathway, even if they are not in the original definition of the KEGG pathways;
+  the figures in brackets represent the number of metabolites directly included in
+  a pathway.
+article_title: Nontargeted metabolomics-based multiple machine learning modeling boosts
+  early accurate detection for citrus Huanglongbing.
+citation: Zhixin Wang, et al. Hortic Res. 2022;9:uhac145.
+year: '2022'
+
+doi: 10.1093/hr/uhac145
+journal_title: Horticulture Research
+journal_nlm_ta: Hortic Res
+publisher_name: Oxford University Press
+
+keywords:
+---

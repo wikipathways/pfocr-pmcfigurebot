@@ -1,0 +1,40 @@
+---
+figid: PMC9254016__gr6
+pmcid: PMC9254016
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC9254016/figure/fig6/
+number: Figure 6
+figure_title: ''
+caption: 'Gene set enrichment analysis of shared drugs between autoimmune diseases
+  and cancer(A–H) GSEA of expression profile of methotrexate (A) and azathioprine
+  (B) show that both methotrexate and azathioprine have extensive effects on gene
+  signatures of ADs and cancer, dark gray dot: pathway with normalized enrich score
+  higher than 1 or lower than −1, highlighted colored dot: pathways overlapped with
+  45 CAD genes associated pathways, light gray dot: pathway with normalized enrich
+  score lower than 1 or higher than −1; (C) methotrexate significantly downregulates
+  activity-related genes of RA, SS, and SLE (p < 0.001), as well as gene signatures
+  of RA (p < 0.001), SS (p < 0.001), SLE (p = 0.31); (D) methotrexate significantly
+  downregulates pathways in cancer gene signatures in colorectal cancer, small-cell
+  lung cancer, prostate cancer (p < 0.001); (E) pazopanib downregulates gene signatures
+  of RA and SLE (p < 0.001); (F) tofacitinib downregulates gene signatures of non-melanoma
+  skin cancer and basal cell carcinoma (p < 0.001); (G and H) pioglitazone downregulates
+  gene signatures of some ADs (such as RA and SS) (p < 0.05) (G), and cancer (such
+  as carcinoma and endometrial cancer) (p < 0.05) (H). NES: normalized enrichment
+  score.'
+article_title: Genetic association and single-cell transcriptome analyses reveal distinct
+  features connecting autoimmunity with cancers.
+citation: Shasha Li, et al. iScience. 2022 Jul 15;25(7):104631.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.104631
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Bioinformatics
+- Complex system biology
+- Systems biology
+- Cancer systems biology
+
+---

@@ -1,0 +1,40 @@
+---
+figid: PMC9448644__molce-45-9-622-f2
+pmcid: PMC9448644
+image_filename: molce-45-9-622-f2.jpg
+figure_link: /pmc/articles/PMC9448644/figure/F2/
+number: Fig. 2
+figure_title: Direct regulation of CHOP expression by EHMT1
+caption: (A) DAVID-based GO analysis of the upregulated genes among the 930 DEGs in
+  the RNA-seq results. (B) GO pathway term enrichment networks. GO pathway term networks
+  in the EHMT1 knockdown and control groups were functionally grouped by ClueGO. The
+  cutoff value was set at P > 0.05. (C) Expression levels of CHOP, PLK3, DRAM1, EBAG9,
+  S100A14, and LGALS1 in the RNA-seq results after transfection of siEHMT1. (D) qRT-PCR
+  analysis of CHOP expression after transfection of siEHMT1 into HCT116 (left) and
+  HT-29 (right) cell lines. The mean ± SD of three independent experiments is shown.
+  P values were calculated using Student’s t-test (***P < 0.001). (E) Western blotting
+  analysis after EHMT1 knockdown using anti-EHMT1 and anti-CHOP antibodies. ACTB was
+  used as the internal control in HCT116 and HT-29 cells. The signal intensities were
+  quantified using ImageJ software. IB, immunoblot. (F) Graphical abstract of design
+  of ChIP primers specific for the CHOP promoter region (left). The ChIP assay was
+  performed using an anti-H3K9me2 antibody. The results are expressed as a percentage
+  of input chromatin compared with the control in HCT116 cells after siEHMT1 treatment.
+  The mean ± SD of three independent experiments is shown. P values were calculated
+  using Student’s t-test (*P < 0.05, **P < 0.01, ***P < 0.001) (right).
+article_title: Epigenetic Silencing of CHOP Expression by the Histone Methyltransferase
+  EHMT1 Regulates Apoptosis in Colorectal Cancer Cells.
+citation: Kwangho Kim, et al. Mol Cells. 2022 Sep 30;45(9):622-630.
+year: '2022'
+
+doi: 10.14348/molcells.2022.0014
+journal_title: Molecules and Cells
+journal_nlm_ta: Mol Cells
+publisher_name: Korean Society for Molecular and Cellular Biology
+
+keywords:
+- apoptosis
+- C/EBP homologous protein
+- colorectal cancer
+- euchromatic histone-lysine N-methyltransferase 1
+
+---

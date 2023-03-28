@@ -1,0 +1,32 @@
+---
+figid: PMC9177075__sciadv.abj2820-f4
+pmcid: PMC9177075
+image_filename: sciadv.abj2820-f4.jpg
+figure_link: /pmc/articles/PMC9177075/figure/F4/
+number: Fig. 4
+figure_title: Single-cell transcriptomic clustering of CAR T cells identifies comparable
+  functional immune profiles between CR and RL patients, except for TH2 function
+caption: (A) UMAP reclustering of CAR+ cells from CR and RL patients and the top three
+  dominant genes defining each cluster. (B) Expression of IL4, IL5, and IL13 in each
+  identified cluster. (C) Comparison of cell proportion in particular cluster between
+  CR and RL patients. The P values were calculated with Mann-Whitney test. ns., not
+  significant. Scatter plots show means ± SEM. (D) Distribution feature plot of functional
+  genes on the UMAP. (E) Canonical signaling pathway comparison between all the identified
+  clusters. DEGs of each cluster are used to identify the biological pathways. A statistical
+  quantity, called z score, is computed and used to characterize the activation level.Z
+  score reflects the predicted activation level (z < 0, inhibited; z > 0, activated;
+  z ≥ 2 or z ≤ − 2 can be considered significant). (F) Single-cell expression level
+  violin plot of all key immunologically relevant cytokine genes from CAR+ cells in
+  each patient.
+article_title: Single-cell antigen-specific landscape of CAR T infusion product identifies
+  determinants of CD19-positive relapse in patients with ALL.
+citation: Zhiliang Bai, et al. Sci Adv. 2022 Jun;8(23):eabj2820.
+year: '2022'
+
+doi: 10.1126/sciadv.abj2820
+journal_title: Science Advances
+journal_nlm_ta: Sci Adv
+publisher_name: American Association for the Advancement of Science
+
+keywords:
+---

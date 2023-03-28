@@ -1,0 +1,51 @@
+---
+figid: PMC9434291__kiac305f2
+pmcid: PMC9434291
+image_filename: kiac305f2.jpg
+figure_link: /pmc/articles/PMC9434291/figure/kiac305-F2/
+number: Figure 2
+figure_title: ''
+caption: Regulation of AGB1 in primary metabolisms upon HN treatment. A, Venn diagram
+  and table representing the overlap of DEGs responding to HN with other abiotic stresses.
+  G×E and genotypic deviation DEGs were obtained based on the linear model of G×E.
+  Abiotic stress DEGs refer to the genes identified from meta-analysis in . G1–G10
+  in the table are groups of G×E DEGs as clustered using fuzzy c-means. B, Gene expression
+  patterns of DEGs in G1–G10. Expression changes in y-axis represent Z-score of log2-normalized
+  read counts of DEGs. Line graphs represent expression patterns of each individual
+  gene. Line colors represent membership values that range from 0 to 1, indicating
+  the score of gene belonging to each cluster core (G1–G10). DEGs with membership
+  value ≥ 0.9, 0.7, and 0.5 are designated as pink, dark blue, and light blue, respectively.
+  Green lines represent DEGs with membership value < 0.5. G1, G2, G4, G7, and G9 in
+  orange represent either up-regulated in agb1-2 or down-regulated in Col-0 by HN.
+  G3, G5, G6, G8, and G10 in black represent either up-regulated in Col-0 or down-regulated
+  in agb1-2 by HN. C, GO enrichment analysis of DEGs belonging to HN-specific response
+  of each gene group. The color scale represents –log10(FDR). GO names in green indicate
+  GO terms related to primary metabolism, particularly in amino acids. D, Expression
+  of metabolism-related genes. DEGs involved in cellular metabolisms were categorized
+  by AraCYC. Bar graphs represent the average Z-score of log2 normalized read counts
+  of genes in each category. Letters above bars indicate statistical differences among
+  each metabolic category by one-way ANOVA with a post-hoc Tukey HSD test with adjusted
+  P-value < 0.05. “Sec metab” is secondary metabolite. “Syn” is biosynthesis. Nucleo
+  is nucleoside and nucleotide. “Metab Reg” is the metabolic regulator. “FA/Lip” is
+  fatty acid and Lipid. “Cofactor Syn” is cofactor, carrier, and vitamin biosynthesis.
+  “Cell Str” is cell structure. “Carbo” is carbohydrate. “Aromatic” is aromatic compound.
+  “AA” is amino acid. “Amine” is amine and polyamine. “Alcohol” is alcohol. “Cofactor
+  Deg” is cofactor, prosthetic group, electron carrier degradation. “TCA” is tricarboxylic
+  acid. “Photosyn” is photosynthesis light reactions. “PPP” is the pentose phosphate
+  pathway. “Ferment” is fermentation. “Autotrop CO2 Fix” is Autotrophic CO2 Fixation.
+  “Aerob Resp” is aerobic respiration. “Macromol Mod” is macromolecule modification.
+  “Inorganic Nutr” is inorganic nutrient metabolism. “Detox” is detoxification. “C1
+  Comp Util/Assimil” is C1 compound utilization and assimilation. “Act/Inact/Interconvers”
+  is activation/inactivation/interconversion.
+article_title: Interplay between ARABIDOPSIS Gβ and WRKY transcription factors differentiates
+  environmental stress responses.
+citation: Kulaporn Boonyaves, et al. Plant Physiol. 2022 Sep;190(1):813-827.
+year: '2022'
+
+doi: 10.1093/plphys/kiac305
+journal_title: Plant Physiology
+journal_nlm_ta: Plant Physiol
+publisher_name: Oxford University Press
+
+keywords:
+---

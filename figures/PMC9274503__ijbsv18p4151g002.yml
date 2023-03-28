@@ -1,0 +1,32 @@
+---
+figid: PMC9274503__ijbsv18p4151g002
+pmcid: PMC9274503
+image_filename: ijbsv18p4151g002.jpg
+figure_link: /pmc/articles/PMC9274503/figure/F2/
+number: Figure 2
+figure_title: ''
+caption: Critical modules and networks in LUAD. (A) Network visualization flowchart.
+  (B) The LUAD module total network. Nodes represent genes, edges represent two genes
+  are related. (C) The LUAD module key network. From the edge of the network to the
+  middle, the color gradually changes, and the genes closer to the middle have more
+  edges. (D) Biological process (GO) enrichment analysis result of the LUAD module
+  key network. (E) Reactome Pathway enrichment analysis result of the LUAD module
+  key network.
+article_title: E2F2 promotes lung adenocarcinoma progression through B-Myb- and FOXM1-facilitated
+  core transcription regulatory circuitry.
+citation: Kailong Du, et al. Int J Biol Sci. 2022;18(10):4151-4170.
+year: '2022'
+
+doi: 10.7150/ijbs.72386
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- Lung adenocarcinoma
+- E2F2
+- Transcriptional regulation
+- B-Myb
+- FOXM1
+
+---

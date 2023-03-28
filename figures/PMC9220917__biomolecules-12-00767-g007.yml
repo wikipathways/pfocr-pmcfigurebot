@@ -1,0 +1,44 @@
+---
+figid: PMC9220917__biomolecules-12-00767-g007
+pmcid: PMC9220917
+image_filename: biomolecules-12-00767-g007.jpg
+figure_link: /pmc/articles/PMC9220917/figure/biomolecules-12-00767-f007/
+number: Figure 7
+figure_title: ''
+caption: 'Microbiome features associated with control are positively correlated (green)
+  with an abundance of multiple steroids. This also extends to predicted metabolism,
+  which only shows positive correlations with steroid levels; many of these steroids
+  are also significantly more abundant in the control rats (*, ). This unified pattern
+  suggests that the control gut microbiome metabolizes a range of host steroids and
+  is negatively affected when these substrates are depleted by gonadectomy. Disruption
+  via GDX favours an alternate cohort of bacteria, but it does not foster new predicted
+  metabolic activities. Heatmap: colours reflect positive (green) or negative (purple)
+  Spearman’s ρ correlations between microbial features (ASVs, predicted ECPs and biological
+  parameters: steroids, fatty acids, Shannon’s alpha diversity). Top row (GDX effect):
+  summarizes associations relevant to experimental design; bottom row (non-spec. effect):
+  summarizes incidental associations which do not cluster with the main experimental
+  effect. Right-hand margin: unit-scaled abundances, significant differences if applicable
+  (*), and categories for biological parameters in this study (steroid, fatty acids,
+  alpha diversity). Bottom margin: scaled abundances, and microbial taxonomy (ASVs)
+  or pathway types (ECPs) of features. All microbial features (ASV, EC) shown here
+  were found to differ significantly between control and GDX (FDR < 0.05).'
+article_title: 'Gut Steroids and Microbiota: Effect of Gonadectomy and Sex.'
+citation: Silvia Diviccaro, et al. Biomolecules. 2022 Jun;12(6):767.
+year: '2022'
+
+doi: 10.3390/biom12060767
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: MDPI
+
+keywords:
+- pregnenolone
+- sex steroids
+- gut microbiota
+- branched- and short-chain fatty acids
+- sex dimorphism
+- gastrointestinal tract
+- mucosa
+- stool
+
+---

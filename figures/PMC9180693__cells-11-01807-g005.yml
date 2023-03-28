@@ -1,0 +1,42 @@
+---
+figid: PMC9180693__cells-11-01807-g005
+pmcid: PMC9180693
+image_filename: cells-11-01807-g005.jpg
+figure_link: /pmc/articles/PMC9180693/figure/cells-11-01807-f005/
+number: Figure 5
+figure_title: ''
+caption: Analysis of the differentially expressed genes in specific cell clusters.
+  (A) Schematic representation of the analysis pipeline. Human cell clusters from
+  EC and SFG are compared between Braak Stage 6 and 0, and zebrafish cell clusters
+  were compared between amyloid-beta-42 injection versus controls. The common KEGG
+  pathways for differentially expressed genes are shown in yellow, zebrafish-specific
+  hits are blue, and human-specific hits are in green. The other category includes
+  the hits that are present only in one human brain region, but not in the other.
+  (B) Neuronal and astroglial cell clusters are compared for the KEGG pathway changes.
+  Strikingly, the neuronal clusters in human and zebrafish respond to AD in a highly
+  similar fashion in terms of altered KEGG pathways (B), while astroglia have more
+  species-specific responses than common (C). See .
+article_title: Single Cell/Nucleus Transcriptomics Comparison in Zebrafish and Humans
+  Reveals Common and Distinct Molecular Responses to Alzheimer’s Disease.
+citation: Mehmet Ilyas Cosacak, et al. Cells. 2022 Jun;11(11):1807.
+year: '2022'
+
+doi: 10.3390/cells11111807
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- zebrafish
+- human
+- adult brain
+- fetal brain
+- telencephalon
+- Alzheimer’s disease
+- single cell RNA sequencing
+- single nuclear RNA sequencing
+- astroglia
+- microglia
+- neuroregeneration
+
+---

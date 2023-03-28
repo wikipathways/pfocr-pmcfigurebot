@@ -1,0 +1,37 @@
+---
+figid: PMC9181120__ijms-23-06008-g008
+pmcid: PMC9181120
+image_filename: ijms-23-06008-g008.jpg
+figure_link: /pmc/articles/PMC9181120/figure/ijms-23-06008-f008/
+number: Figure 8
+figure_title: ''
+caption: Hepatic transcriptome sequencing profiles and pathway enrichments in ABX
+  mice under NLD and SD. NLD, the antibiotic-treated mice managed under normal light–dark
+  cycle; SD, the antibiotic-treated mice managed under short-day cycle. The differentially
+  expressed genes (DEGs) were screened out by setting p < 0.05 and |log 2 Fold Change|
+  > 1 as threshold. (A) The heatmap of the differentially expressed genes; (B) the
+  volcano plot of the differentially expressed genes, red dots represent up-regulated
+  and blue dots represent down-regulated; (C) GSEA plots for the enrichments of pathways
+  in cancer, MAPK signaling pathway, and purine metabolism; (D) Gene Ontology (GO)
+  functional analysis of the significantly expressed genes; (E) KEGG functional analysis
+  of the significantly expressed genes.
+article_title: The Short-Day Cycle Induces Intestinal Epithelial Purine Metabolism
+  Imbalance and Hepatic Disfunctions in Antibiotic-Mediated Gut Microbiota Perturbation
+  Mice.
+citation: Yongkang Zhen, et al. Int J Mol Sci. 2022 Jun;23(11):6008.
+year: '2022'
+
+doi: 10.3390/ijms23116008
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- light–dark cycles
+- antibiotics
+- gut microbes
+- metabolomics
+- purine metabolism
+- transcriptome sequencing
+
+---

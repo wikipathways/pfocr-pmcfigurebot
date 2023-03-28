@@ -1,0 +1,45 @@
+---
+figid: PMC9287732__gr4
+pmcid: PMC9287732
+image_filename: gr4.jpg
+figure_link: /pmc/articles/PMC9287732/figure/fig4/
+number: Fig. 4
+figure_title: ''
+caption: 'Transcriptomic analysis of huPMCs after transketolase (TKT) knockdown and
+  light stress. A heatmap of clustered differentially expressed genes (DEGs). Samples
+  were from three donors (R03, R04, R09), shown at the bottom of the heatmap. Each
+  donor had four groups, “dim control” (DC), “dim knockdown” (DK), “light control”
+  (LC), “light knockdown” (LK), shown above. Red indicated a higher expression level,
+  while blue indicated a lower expression level. B volcano plot showing DEGs between
+  “DK vs DC”. Gene fold changes are represented on the horizontal axis, with statistically
+  significant changes on the vertical axis. Individual genes were represented by points
+  (grey, not significant; red, significantly upregulated; blue, significantly downregulated).
+  C Venn chart comparing “LC vs DC” DEGs and “LK vs DK” DEGs. D and E Ingenuity Pathway
+  Analysis (IPA) of “LC vs DC” DEGs and “LK vs DK” DEGs. Pathways that were upregulated
+  or downregulated were represented on the vertical axis. The Z-score was represented
+  on the upper horizontal axis. Red dots indicate the -log (p-value), with bars representing
+  activated or inhibited pathways unique to each comparison (grey) or common to both
+  (blue). UPS: unfolded protein response; ER: endoplasmic reticulum; CVS: cardiovascular
+  system; CCK: cholecystokinin; VitC: vitamin C; PI: phosphoinositide; PL: phospholipase;
+  F Prominent NRF2 related DEGs. n = 3 per group. Error bars = SEM. (For interpretation
+  of the references to colour in this figure legend, the reader is referred to the
+  Web version of this article.)'
+article_title: Transketolase in human Müller cells is critical to resist light stress
+  through the pentose phosphate and NRF2 pathways.
+citation: Yingying Chen, et al. Redox Biol. 2022 Aug;54:102379.
+year: '2022'
+
+doi: 10.1016/j.redox.2022.102379
+journal_title: Redox Biology
+journal_nlm_ta: Redox Biol
+publisher_name: Elsevier
+
+keywords:
+- Transketolase (TKT)
+- Müller cells
+- Pentose phosphate pathway
+- NRF2
+- NQO1
+- Oxidative stress
+
+---

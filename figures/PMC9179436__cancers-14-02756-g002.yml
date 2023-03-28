@@ -1,0 +1,38 @@
+---
+figid: PMC9179436__cancers-14-02756-g002
+pmcid: PMC9179436
+image_filename: cancers-14-02756-g002.jpg
+figure_link: /pmc/articles/PMC9179436/figure/cancers-14-02756-f002/
+number: Figure 2
+figure_title: ''
+caption: Immunosuppression network mechanism of TADCs, Tregs, and MDSCs in TME. iDCs
+  activate IDO1 expression through CTLA-4 ligation with B7, then are transformed into
+  tDCs lacking the function of activating CD8 + T-cell upon induction of IFN-γ from
+  TME. IDO1 of tDCs can be strongly induced by the Kyn metabolite 3-HAA and the Wnt3a
+  and Wnt5a receptors accumulated in TME. Kyn produced by tDCs metabolism binds to
+  AhR of T cells, stimulating their differentiation into Foxp3 + Tregs. In response
+  to depleted Trp, the GCN2 pathway of Foxp3 + Tregs is activated to suppress tumor
+  immune responses. Tumor-derived IL-6 promotes STAT3 phosphorylation, which upregulates
+  NF-κB-driven IDO1 expression and activates immunosuppressive functions of MDSCs.
+  On the other hand, high expression of CARD9 in MDSCs inhibits immunosuppressive
+  function via the NF-κB pathway. Foxp3 + Tregs and MDSCs interact to influence each
+  other’s ability to migrate to tumors. Moreover, IDO1-activated Tregs cause proliferation
+  of TAMs.
+article_title: The Role of Indoleamine 2, 3-Dioxygenase 1 in Regulating Tumor Microenvironment.
+citation: Xinting Huang, et al. Cancers (Basel). 2022 Jun;14(11):2756.
+year: '2022'
+
+doi: 10.3390/cancers14112756
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- indoleamine 2,3-dioxygenase 1
+- tumor microenvironment
+- interferon-γ
+- dendritic cell
+- myeloid-derived suppressor cell
+- regulatory T cell
+
+---

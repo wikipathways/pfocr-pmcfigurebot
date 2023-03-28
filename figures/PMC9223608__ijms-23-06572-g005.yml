@@ -1,0 +1,37 @@
+---
+figid: PMC9223608__ijms-23-06572-g005
+pmcid: PMC9223608
+image_filename: ijms-23-06572-g005.jpg
+figure_link: /pmc/articles/PMC9223608/figure/ijms-23-06572-f005/
+number: Figure 5
+figure_title: ''
+caption: Correlation of pathway enrichment in the parental tumor and drug response
+  of corresponding PD-GBOs. (a) Heatmap illustrating inter-sample z-score of 193 KEGG
+  pathways enrichment levels from four high-grade glioma tissues. KEGG pathway super
+  series groups are color-coded. Raw values are provided in . (b) Pearson correlation
+  coefficient of drug response score and specific interindividual KEGG pathway enrichment
+  levels visualized as a heatmap. On the basis of the correlation coefficient with
+  drug response, pathways are divided into three clusters (C1, C2, and C3). For individual
+  pathways within clusters, see . (c) Linear regression of PD-GBO drug response score
+  and enrichment of annotated biologically related pathways (KEGG drug database).
+article_title: Patient-Derived Tumor Organoids for Guidance of Personalized Drug Therapies
+  in Recurrent Glioblastoma.
+citation: Miriam Ratliff, et al. Int J Mol Sci. 2022 Jun;23(12):6572.
+year: '2022'
+
+doi: 10.3390/ijms23126572
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- glioblastoma
+- patient-derived organoids
+- personalized oncology
+- drug profiling
+- precision medicine
+- tumor microtube (TM)
+- tumor cell network
+- intercellular calcium waves (ICW)
+
+---

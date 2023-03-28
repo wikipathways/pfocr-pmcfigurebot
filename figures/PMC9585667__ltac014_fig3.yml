@@ -1,0 +1,41 @@
+---
+figid: PMC9585667__ltac014_fig3
+pmcid: PMC9585667
+image_filename: ltac014_fig3.jpg
+figure_link: /pmc/articles/PMC9585667/figure/F3/
+number: Figure 3
+figure_title: ''
+caption: Expanding the function of GBM-directed CARs. Efforts to improve ACT against
+  GBM can take different forms. Tandem CARs (TanCARs) can target two antigens simultaneously,
+  something that can also be achieved by co-transduction of multiple individual CARs.
+  Recent work has explored the possibility of generating CARs with non-scFv recognition
+  domains. CARs using the CD27 or NKG2D ectodomains can target malignant cells expressing
+  CD70 and NKG2DL, respectively. CARs using chlorotoxin (CLTX) as a binding motif
+  have also been developed. Armored (or fourth generation) CARs aim to improve the
+  effectiveness of ACT by engineering T cells so that, in addition to CARs, they express
+  cytokines, BiTEs or cytokine receptors. Another approach is that of synNotch CARs,
+  which repurpose elements of the Notch signalling pathway. A synNotch system can
+  enable the controlled targeting of two antigens (AND gate), with the first CAR (red
+  scFv) releasing the Notch intracellular domain upon antigen recognition, which in
+  turn enables the production of a second CAR (blue scFv) recognizing a different
+  antigen. Under this set up, the presence of both antigens is required to kill a
+  target cell, reducing the risk of CAR T cells destroying healthy tissues.
+article_title: Current and future perspectives of chimeric antigen receptors against
+  glioblastoma.
+citation: Josephine Zhang, et al. Immunother Adv. 2022;2(1):ltac014.
+year: '2022'
+
+doi: 10.1093/immadv/ltac014
+journal_title: Immunotherapy Advances
+journal_nlm_ta: Immunother Adv
+publisher_name: Oxford University Press
+
+keywords:
+- glioblastoma
+- chimeric antigen receptors
+- cancer immunotherapy
+- solid tumors
+- adoptive cell transfer
+- adoptive cell therapy
+
+---

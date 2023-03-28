@@ -1,0 +1,29 @@
+---
+figid: PMC9225864__BMRI2022-6290064.003
+pmcid: PMC9225864
+image_filename: BMRI2022-6290064.003.jpg
+figure_link: /pmc/articles/PMC9225864/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: Bioinformatics analysis of CILP2 related proteins (genes) and signaling pathways.
+  (a) Protein-protein interaction (PPI) network constructed by STRING database. Known
+  interactions including experimentally determined and database obtained are pink
+  edges and dark blue edges. The predicted interactions are green edge (gene neighborhood),
+  blue edge (gene co-occurrence), and red edge (gene fusion). The yellow green edge
+  is text mining. Black edges indicate common expression. Lavender edges indicate
+  protein homology. (b) GO annotation analysis of cellular components (CC). (c) GO
+  annotation analysis of molecular function (MF). (d) GO annotation analysis of biological
+  process (BP). (e) KEGG pathway enrichment analysis. The gradient color represents
+  the p value. The size of the bubble represents the number of genes.
+article_title: Serum Concentrations of Cartilage Intermediate Layer Protein 2 Were
+  Higher in Overweight and Obese Subjects.
+citation: Qinge Li, et al. Biomed Res Int. 2022;2022:6290064.
+year: '2022'
+
+doi: 10.1155/2022/6290064
+journal_title: BioMed Research International
+journal_nlm_ta: Biomed Res Int
+publisher_name: Hindawi
+
+keywords:
+---

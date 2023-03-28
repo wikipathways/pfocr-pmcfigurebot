@@ -1,0 +1,53 @@
+---
+figid: PMC9287736__gr5
+pmcid: PMC9287736
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC9287736/figure/fig5/
+number: Fig. 5
+figure_title: ''
+caption: 'Metabolic plasticity breakdown in eWAT. A: Z-score for RNA-seq clusters
+  of transcripts sequentially downregulated across the different experimental groups
+  (Ctrl n = 8, HFD n = 4, Int n = 4, Int2 n = 4). B: Cumulative number of genes belonging
+  to different enriched GOCC terms for each cluster in A. The same GOCC terms are
+  indicated from HFD-cluster to Int2-cluster (y-axis), with increasing size (x-axis)
+  denoting incremental number of genes for that specific term. C: Profile plot including
+  the cluster of proteins that are differentially upregulated with HFD and maintained
+  increased after the second intervention (Int2). Blue profiles show proteins specifically
+  belonging to KEGG pathway Lysosome within this cluster. D: Heatmap showing Z-scored
+  label free quantification (LFQ) intensities of metabolic stress-related proteins
+  differentially regulated in Int2 in comparison to Ctrl (n = 3/group). E: Mitochondrial
+  DNA (mtDNA) copy number in epididymal white adipose tissue (Ctrl n = 6, HFD n = 6,
+  Int n = 6, Int2 n = 5, Ctrl + IF n = 8, HFD + Chow n = 4, HFD + IF n = 10, * indicate
+  significant differences with Ctrl group); normalized by Ctrl mice refers to eWAT
+  Ctrl group. Ctrl: control; HFD: high fat diet-fed; Int: intervention; Int2: second
+  intervention; Ctrl + IF: control + dietary intervention; HFD + Chow: high fat diet-fed + chow
+  Ad libitum; HFD + IF: high fat diet-fed + dietary intervention. F–H: Mitochondrial
+  DNA (mtDNA) copy number in subcutaneous white adipose tissue (scWAT) (F), liver
+  (G) and skeletal muscle gastrocnemius (H). Data represented as box-and-whiskers
+  plots (median, 25th to 75th percentiles and max/min values). ANOVA One-way and Post-hoc
+  Tukey, *p < 0.05, **p < 0.01, ***p < 0.001, and ****p < 0.0001. (For interpretation
+  of the references to color in this figure legend, the reader is referred to the
+  Web version of this article.)'
+article_title: Remission of obesity and insulin resistance is not sufficient to restore
+  mitochondrial homeostasis in visceral adipose tissue.
+citation: Alba Gonzalez-Franquesa, et al. Redox Biol. 2022 Aug;54:102353.
+year: '2022'
+
+doi: 10.1016/j.redox.2022.102353
+journal_title: Redox Biology
+journal_nlm_ta: Redox Biol
+publisher_name: Elsevier
+
+keywords:
+- Obesity
+- Metabolic plasticity
+- Visceral adipose tissue
+- Mitochondrial dysfunction
+- Exercise
+- Caloric restriction
+- Multi-organ approach
+- Human obesity
+- Two-steps bariatric surgery
+- Metabolic fingerprint
+
+---

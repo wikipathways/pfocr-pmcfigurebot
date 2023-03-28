@@ -1,0 +1,42 @@
+---
+figid: PMC9231213__pharmaceuticals-15-00669-g005
+pmcid: PMC9231213
+image_filename: pharmaceuticals-15-00669-g005.jpg
+figure_link: /pmc/articles/PMC9231213/figure/pharmaceuticals-15-00669-f005/
+number: Figure 5
+figure_title: ''
+caption: Results of the secondary screen of a natural compound library (n = 66) against
+  third-stage larvae N. brasiliensis with reference to quinidine as positive control
+  (QND, 32 replicates per plate) and to DMSO 1% as negative control (DMSO, 32 replicates
+  per plate). All test and positive control compounds were tested at 100 µM in the
+  presence or absence of blood in duplicates. Each grey or red dot represents an individual
+  test compound. Mean +/− SD for controls were calculated as an average of all replicates
+  (n = 224) and are indicated in purple for DMSO. All values were normalised for each
+  plate to mean (DMSO) + 3 ∗ SD(DMSO) = 10,000 units (Dashed black line). Red dots
+  are compounds identified as hits in presence of blood (39 compounds, screen 2, as
+  described in ). (a) Normalised fluorescence intensity obtained for each of the 66
+  hits in absence of blood. (b) For each of the 66 compounds, the fold change of Sytox
+  green intensity between screen 2 (in presence of blood) and screen 3 (in absence
+  of blood) is represented as a function of the Sytox intensity as compared to the
+  reference drug quinidine in presence of blood. The dash grey line has been set manually
+  to separate hits with the higher fold change between absence and presence of blood.
+article_title: Novel High-Throughput Fluorescence-Based Assay for the Identification
+  of Nematocidal Compounds That Target the Blood-Feeding Pathway.
+citation: Anthony Marchand, et al. Pharmaceuticals (Basel). 2022 Jun;15(6):669.
+year: '2022'
+
+doi: 10.3390/ph15060669
+journal_title: Pharmaceuticals
+journal_nlm_ta: Pharmaceuticals (Basel)
+publisher_name: MDPI
+
+keywords:
+- drug-screening
+- helminth
+- hookworm
+- blood-feeding
+- viability
+- fluorescence
+- motility
+
+---

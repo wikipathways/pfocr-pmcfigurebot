@@ -1,0 +1,44 @@
+---
+figid: PMC9162365__pgen.1010020.g009
+pmcid: PMC9162365
+image_filename: pgen.1010020.g009.jpg
+figure_link: /pmc/articles/PMC9162365/figure/pgen.1010020.g009/
+number: Fig 9
+figure_title: Members of the ACB clade have extended their basal carbohydrate metabolism
+caption: 'The pathway map shows a model integrating four metabolic pathways represented
+  by the ESGCACB-0112 (Entner-Doudoroff pathway; yellow), 0497 (biosynthesis of Pyrroloquinoline
+  quinone; magenta), 0568 (glucarate/galactarate catabolism; blue/violet) and 0016
+  (carnitine catabolism; green) into the bacterial carbohydrate metabolism (grey boxes).
+  Abbreviations: KDPG—2-keto-3-deoxy-6-phosphogluconate; G3P –glycerinealdehyde-3-phosphate.
+  The corresponding gene clusters are shown below the pathway map with one protein-coding
+  flanking gene on either side that is not part of the cluster. The layout follows
+  . ESGCACB-0112: GapD-like–glyceraldehyde-3-phosphate dehydrogenase [1.2.1.12]; GntK—gluconokinase
+  [EC:2.7.1.12]; Edd—phosphogluconate dehydratase [EC:4.2.1.12]); Eda—2-dehydro-3-deoxyphosphogluconate
+  aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase [EC:4.1.2.14 4.1.3.42]; GntP—gluconate
+  permease [E2.7.1.12]. Note, GntP shares high sequence similarity with a gluconate
+  transporter (H+ symporter) in Escherichia coli (98% coverage, 45% identity). ESGCACB-0497:
+  pqqA-F. No abundance profile is shown for pqqA, since its length excluded it from
+  orthology prediction (indicated by an ‘!’. See main text for details). ESGCACB-0568:
+  GarD—galactarate dehydratase [EC:4.2.1.42]; gudD—glucarate dehydratase [EC:4.2.1.40];
+  kdgD—5-dehydro-4-deoxyglucarate dehydratase [EC:4.2.1.41]; aldH—2,5-dioxopentanoate
+  dehydrogenase [EC:1.2.1.26]; gudP—MFS transporter, D-glucarate/D-galactarate permease;
+  FadR—Fatty acid metabolism regulator protein. ESGCACB-0016: ttuc—D-malate dehydrogenase
+  [EC:1.1.1.83]; Bet-Aci01347—glycine/betaine transporter Aci01347; ach?–putative
+  acylcarnitine hydrolase [EC:3.1.1.8]; CntAB–carnitine monooxygenase reductase subunit
+  A and B [EC:1.14.13.239]; MSA-DH–malic semialdehyde dehydrogenase [EC:1.2.1.?].
+  Further colored pathways represent the clusters ESGCACB-0627 (2-aminoethylphosphonate
+  metabolism, orange), ESGCACB 0453 (fructose transport/metabolism, red), ESGCACB-0064
+  (trehalose biosynthesis, dark grey), and ESGCACB-0078 tricarballylate metabolism,
+  brown). Their corresponding genomic regions are available in .'
+article_title: Evolutionarily stable gene clusters shed light on the common grounds
+  of pathogenicity in the Acinetobacter calcoaceticus-baumannii complex.
+citation: Bardya Djahanschiri, et al. PLoS Genet. 2022 Jun;18(6):e1010020.
+year: '2022'
+
+doi: 10.1371/journal.pgen.1010020
+journal_title: PLoS Genetics
+journal_nlm_ta: PLoS Genet
+publisher_name: Public Library of Science
+
+keywords:
+---

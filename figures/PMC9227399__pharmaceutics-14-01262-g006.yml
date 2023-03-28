@@ -1,0 +1,56 @@
+---
+figid: PMC9227399__pharmaceutics-14-01262-g006
+pmcid: PMC9227399
+image_filename: pharmaceutics-14-01262-g006.jpg
+figure_link: /pmc/articles/PMC9227399/figure/pharmaceutics-14-01262-f006/
+number: Figure 6
+figure_title: ''
+caption: (A) Snapshot of the two different assays used by Raikkonen and Benzaid, from
+  which we have extracted data to formulate our mathematical models. On the left is
+  shown the continuous assay in which tumor cells underwent treatment for the whole
+  time of the experiment. On the right is shown the pulse experiment performed by
+  both authors with two different tumor target cells (MCF7, T27D); in this case, the
+  drug was removed after 1 h via medium replacement. In the central part of the figure,
+  we represented zoledronic acid (ZA) pharmacodynamics and IPP into the tumor cells.
+  All process steps are characterized by the calculated parameters in Models 1 and
+  2. ZA inhibits FPP synthase in the mevalonate pathway through a conformational change
+  in the enzyme. A second conformational change, after the binding of the second substrate,
+  forms a tightly bound inhibition complex that provides a further stabilisation of
+  the FPPS and ZA complex, resulting in the IPP accumulation. The extracellular and
+  intracellular compartments were defined through the cellular borderline. The ZA
+  concentration is proportional to the observations by GS-MS in the intracellular
+  compartment. In each well, the surnatant volume was the extracellular compartment.
+  (B) Impact of ZA concentration and exposure time of tumor cells on V T cell immune
+  response. In this cartoon, a patient is represented during intravenous ZA infusion,
+  and the possible effects on his tumor cells localised in the gut are also represented.
+  We aim to translate the knowledge acquired by our models on in vitro cell experiments
+  onto patients by focusing on the events occurring in tumor cells upon long treatment
+  of ZA. Finally, we show that IPP accumulation acts on the activation and proliferation
+  of  T cells, promoting their anti-tumoral function. (C) Illustration of the inhibition
+  mechanism of ZA on FPP synthase determined by a conformational change of enzyme.
+  The first conformation shows in the a pocket site the Mg involved in the ZA binding.
+  After this opened conformation follows a partially closed conformation, in which
+  the catalytic site is occupied by ZA. The last conformation is the most stable thank
+  to the IPP binding that determines the closed and inactive function of the enzyme
+  [,].
+article_title: A Mathematical Model of In Vitro Cellular Uptake of Zoledronic Acid
+  and Isopentenyl Pyrophosphate Accumulation.
+citation: Elena Lo Presti, et al. Pharmaceutics. 2022 Jun;14(6):1262.
+year: '2022'
+
+doi: 10.3390/pharmaceutics14061262
+journal_title: Pharmaceutics
+journal_nlm_ta: Pharmaceutics
+publisher_name: MDPI
+
+keywords:
+- zoledronic acid
+- gamma-delta T cells
+- immunotherapy
+- isopentenyl pyrophosphate
+- ATRAID
+- pharmacodynamics
+- mathematical modeling
+- parameters estimation
+
+---

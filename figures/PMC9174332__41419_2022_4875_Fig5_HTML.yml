@@ -1,0 +1,40 @@
+---
+figid: PMC9174332__41419_2022_4875_Fig5_HTML
+pmcid: PMC9174332
+image_filename: 41419_2022_4875_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC9174332/figure/Fig5/
+number: Fig. 5
+figure_title: KLF6 promotes fibrosis of HK-2 cells by activating the NF-κB signaling
+  pathway
+caption: 'A PPI network of KLF6 and its top ten related genes constructed using the
+  String website. The redder the color of the gene, the higher the degree of correlation;
+  the bluer the color of the gene, the lower the degree of correlation. B A diagram
+  of the correlation between KLF6 and NFKB1 expression. C A box line diagram of NFKB1
+  expression data from the GSE36496 dataset. The blue box on the left represents the
+  expression in normal control samples and the red box on the right represents the
+  expression in renal fibrosis samples. D The transduction efficiency of oe-KLF6 and
+  sh-KLF6 as verified by RT-qPCR in HK-2 cells. *p < 0.05 vs. oe-NC. #p < 0.05 vs.
+  sh-NC. E The effect of KLF6 on the mRNA expression of α-SMA, Col4α1, and TGF-β in
+  HK-2 cells as detected by RT-qPCR. *p < 0.05 vs. oe-NC. #p < 0.05 vs. sh-NC. F Western
+  blot analysis of α-SMA, Col4α1 and TGF-β protein expression in HK-2 cells with KLF6
+  overexpression or knockdown. *p < 0.05 vs. oe-NC. #p < 0.05 vs. sh-NC. G Western
+  blot analysis of IκBα phosphorylation and α-SMA, Col4α1, and TGF-β protein expression
+  in HK-2 cells after treatment with KLF6 overexpressing vector and BAY-11-7082. *p < 0.05
+  vs. NC. #p < 0.05 vs. TGF-β-1 + KLF6. The cell experiment was repeated three independent
+  times.'
+article_title: Bone marrow mesenchymal stem cell-derived extracellular vesicles containing
+  miR-181d protect rats against renal fibrosis by inhibiting KLF6 and the NF-κB signaling
+  pathway.
+citation: Shi-Jun Wang, et al. Cell Death Dis. 2022 Jun;13(6):535.
+year: '2022'
+
+doi: 10.1038/s41419-022-04875-w
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cell biology
+- Biotechnology
+
+---

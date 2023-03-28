@@ -1,0 +1,36 @@
+---
+figid: PMC9380494__annrheumdis-2022-222460f04
+pmcid: PMC9380494
+image_filename: annrheumdis-2022-222460f04.jpg
+figure_link: /pmc/articles/PMC9380494/figure/F4/
+number: Figure 4
+figure_title: ''
+caption: Enrichment analysis for six autoimmune and allergic diseases. (A) A heatmap
+  describing the 292 immune cell-type enrichment using LDSC referring ImmGen gene
+  expression data. The row and column are hierarchically clustered. The row annotations
+  are coloured based on five cell types (B cell, T cell, NK cell, myeloid cell, and
+  others), and the column annotations are coloured according to whether it is an autoimmune
+  or an allergic disease. (B) The pathway network of immune system in Reactome database.
+  The nodes are coloured according to whether the individual GWAS data are significantly
+  enriched at a significance level of 0.05/150. For the sake of clarity, only nodes
+  that have at least one enriched disease are shown. AD, atopic dermatitis; BA, bronchial
+  asthma; BBJ, BioBank Japan; GD, Grave’s diseases; GWAS, genome-wide association
+  study; LDSC, linkage disequilibrium score regression; PO, pollinosis; RA, rheumatoid
+  arthritis; T1D, type 1 diabetes; UKB, UK Biobank.
+article_title: Multi-trait and cross-population genome-wide association studies across
+  autoimmune and allergic diseases identify shared and distinct genetic component.
+citation: Yuya Shirai, et al. Ann Rheum Dis. 2022 Sep;81(9):1301-1312.
+year: '2022'
+
+doi: 10.1136/annrheumdis-2022-222460
+journal_title: Annals of the Rheumatic Diseases
+journal_nlm_ta: Ann Rheum Dis
+publisher_name: BMJ Publishing Group
+
+keywords:
+- Arthritis, Rheumatoid
+- Autoimmune Diseases
+- Immune Complex Diseases
+- Lupus Erythematosus, Systemic
+
+---

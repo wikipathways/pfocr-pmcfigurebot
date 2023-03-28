@@ -1,0 +1,34 @@
+---
+figid: PMC9221389__cells-11-01911-g004
+pmcid: PMC9221389
+image_filename: cells-11-01911-g004.jpg
+figure_link: /pmc/articles/PMC9221389/figure/cells-11-01911-f004/
+number: Figure 4
+figure_title: ''
+caption: Enrichment analysis of DEGs at each time point in scRNA-seq data. (A) Circle
+  diagram of the biological process analysis of significant DEGs on day 1 post-MI
+  and (B) for day 3 post-MI, (C) for day 7 post-MI. Different colored blocks represent
+  different biological processes. The yellow band in the outermost circle indicates
+  autophagy-related BPs, and the green band indicates apoptosis-related BPs. (D) Bar
+  chart of the KEGG analysis of significant DEGs on day 1 post-MI and (E) for day
+  3 post-MI, (F) for day 7 post-MI. Only the first 25 pathways are shown in the figure,
+  and the p cut-off value of all pathways is 0.05.
+article_title: Integrated Analysis Reveals S100a8/a9 Regulates Autophagy and Apoptosis
+  through the MAPK and PI3K-AKT Signaling Pathway in the Early Stage of Myocardial
+  Infarction.
+citation: Weijue Yi, et al. Cells. 2022 Jun;11(12):1911.
+year: '2022'
+
+doi: 10.3390/cells11121911
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- myocardial infarction
+- S100a8
+- S100a9
+- autophagy
+- apoptosis
+
+---

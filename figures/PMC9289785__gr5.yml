@@ -1,0 +1,43 @@
+---
+figid: PMC9289785__gr5
+pmcid: PMC9289785
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC9289785/figure/f0025/
+number: Fig. 5
+figure_title: ''
+caption: 'Correlative image analysis and the mining of KEGG database identified the
+  biology signaling pathways in the morphogenetic domains (central body position).
+  (A) We identified 20 distinct gene expression patterns by computer image clustering
+  analysis in the projected feature space of Principal Component Analysis. (B) We
+  performed GO term analysis and identified 14 highly expressed biology signaling
+  pathways from the gene expression image clusters. We generated 14-bit binary barcode
+  that indicates the “presence” – “absence” state of the pathways in detection (white
+  color: “presence;” black color: “absence”). We then performed hierarchical clustering
+  and grouped the gene expression patterns according to pathway barcode similarity.
+  By correlative analysis of the gene expression and the anatomy patterns, we identified
+  the cell populations that highly express the biology signaling pathways. We performed
+  pairwise comparison with the barcodes and constructed the map of the morphogenetic
+  domain signaling network. For instance, along the A-P axis, we detected the mTOR
+  signaling pathway in cluster 12 (neuron) but not cluster 17 (muscle). The mTOR signaling
+  pathway regulates a wide variety of cell Biology Processes, such as lipid metabolism,
+  autophagy, protein synthesis, ribosome biogenesis, cytoskeletal organization and
+  cell survival . The results of analysis along the other 2 body axes of V-D and L-R
+  were presented in the Supplementary Fig. 7.'
+article_title: Computational modeling and analysis of the morphogenetic domain signaling
+  networks regulating C. elegans embryogenesis.
+citation: Ben Niu, et al. Comput Struct Biotechnol J. 2022;20:3653-3666.
+year: '2022'
+
+doi: 10.1016/j.csbj.2022.05.058
+journal_title: Computational and Structural Biotechnology Journal
+journal_nlm_ta: Comput Struct Biotechnol J
+publisher_name: Research Network of Computational and Structural Biotechnology
+
+keywords:
+- Computational image analysis
+- Morphogenetic domain cell signaling network
+- Single cell gene expression modeling
+- Collective cell behavior
+- Machine learning
+
+---

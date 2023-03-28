@@ -1,0 +1,36 @@
+---
+figid: PMC9221468__brainsci-12-00720-g004a
+pmcid: PMC9221468
+image_filename: brainsci-12-00720-g004a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 4
+caption: Fingerprint-guided drug selection and combination strategies. (A) Selumetinib-like
+  drug candidates with the similar fingerprint pattern. The color bar at the top of
+  the figure indicates the corresponding drug clusters and clinical status of each
+  drug. Selumetinib was indicated by the yellow arrow. (B) The heatmap of IDAcomboscore
+  of any two-drug combination among the Selumetinib-like drug candidates. (C) Complementary
+  pattern between Selumetinib and selected drugs from DrugCluster5. Each column is
+  comprised of a single drug from DrugCluster 5. The color bar at the top of the figure
+  indicates the IDAcombo score. Each cell is colored according to the Pearson correlation
+  between the drug responses and the eigengene of each preserved network module. The
+  best predicted drug combinations with Selumetinib include JAK1/2 inhibitor AZD-1480,
+  antibiotic Amphotericin B, nicotinamide salvage pathway inhibitor Daporinad, circadian
+  hormone melatonin, antiviral indinavir, and anti-parasitic thiabendazole.
+article_title: Integrated Drug Mining Reveals Actionable Strategies Inhibiting Plexiform
+  Neurofibromas.
+citation: Rebecca M. Brown, et al. Brain Sci. 2022 Jun;12(6):720.
+year: '2022'
+
+doi: 10.3390/brainsci12060720
+journal_title: Brain Sciences
+journal_nlm_ta: Brain Sci
+publisher_name: MDPI
+
+keywords:
+- plexiform neurofibromas
+- neurofibromatosis type 1
+- drug screening
+- gene network
+
+---

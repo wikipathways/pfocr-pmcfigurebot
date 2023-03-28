@@ -1,0 +1,37 @@
+---
+figid: PMC9237949__gr1
+pmcid: PMC9237949
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC9237949/figure/fig0001/
+number: Fig. 1
+figure_title: ''
+caption: Schematic representation of TNFα and IFNγ secretions induced by HLA-G signalling
+  pathway. Soluble HLA-G has been known to be a ligand for KIR2DL4. Soluble HLA-G
+  originates from cell surface-bound HLA-G. Metalloproteinase (a protease enzyme)
+  is responsible for the cleavage/release of HLA-G from the surface. The experimental
+  setting used to fit the data also used soluble HLA-G to stimulate KIR2DL4. In our
+  model, we assumed that the HLA-G that binds to KIR2DL4 is soluble HLA-G. The transient
+  passage of endocytosed KIR2DL4 receptor at the cell surface occurs when an NK cell
+  is activated by IL-2 is sufficient to capture soluble HLA-G and transport it to
+  the endosomes. The endocytosed HLA-G/KIR2DL4 complex recruits FCεRIγ and aggregate
+  FCεRIγ. FCεRIγ activation is known to induce phosphoinositide 3-kinase (PI3K) ,.
+  PI3K-mediated production of phosphatidylinositol 3,4,5-triphosphate (PtdIns(3,4,5)P3)
+  allosterically enhances PLC activity downstream. This early signalling pathway then
+  activates the NFAT futile cycle and initiates the regulation of IFNγ and TNFα secretion
+  in NK cells.
+article_title: Modularisation of published and novel models toward a complex KIR2DL4
+  pathway in pbNK cell.
+citation: Nurul Izza Ismail, et al. MethodsX. 2022;9:101760.
+year: '2022'
+
+doi: 10.1016/j.mex.2022.101760
+journal_title: MethodsX
+journal_nlm_ta: MethodsX
+publisher_name: Elsevier
+
+keywords:
+- Mathematical model
+- Modularisation
+- Intracellular signalling pathway
+
+---

@@ -1,0 +1,55 @@
+---
+figid: PMC9198349__CAC2-42-572-g001
+pmcid: PMC9198349
+image_filename: CAC2-42-572-g001.jpg
+figure_link: /pmc/articles/PMC9198349/figure/cac212285-fig-0001/
+number: FIGURE 1
+figure_title: ''
+caption: 'Intercellular communications and metabolic reprogramming as new predictive
+  markers for immunotherapy responses in gastric cancer. (A) Boxplot of seven metabolic
+  signatures related to immunotherapeutic responses in responders and non‐responders
+  in the SMC cohort (n = 45). (B) Metabolic pathways that differed significantly between
+  responders and non‐responders in the SMC dataset, among the 84 metabolic pathways
+  studied. (C) Fractions of predicted responders and non‐responders according to the
+  molecular subtypes in the Yonsei cohort (n = 497). (D) UMAP plot of patient identification
+  numbers from the gastric tumor dataset. (E) UMAP plot of 8 cell types for 8 samples
+  from the gastric tumor dataset. (F) Bar graph showing fractions of predicted responders
+  and non‐responders in the gastric tumor dataset according to the 8 cell types. (G)
+  Heat map of the activities of seven metabolic signatures between cells from responder
+  and non‐responder samples. (H) Boxplot of seven metabolic signatures related to
+  immunotherapeutic responses using scRNA‐seq data of adenocarcinoma cells from responder
+  and non‐responder samples. (I) Heat map of the top‐ranked cancer hallmark signatures
+  among 50 cancer hallmark pathways in adenocarcinoma cells from responder and non‐responder
+  samples. (J) Seven metabolic signatures between macrophages from responders and
+  non‐responders using scRNA‐seq data. (K) Heat map of 84 metabolic pathways in macrophages
+  from responder and non‐responder samples. (L) Boxplot of the seven metabolic signatures
+  between T cells from responders and non‐responders using scRNA‐seq data. (M) Heat
+  map of 84 metabolic pathways in T cells from responder and non‐responder samples.
+  (N) tSNE plot of stem‐like T cell trajectories using VarID and StemID (blue: high
+  entropy; red: low entropy). Cluster 2 has the highest entropy, and cluster 3 has
+  the lowest entropy. Since the entropy shows the direction from high to low, the
+  metabolic pathway activity on the left is significantly different between the two
+  clusters. Oxidative phosphorylation, one carbon pool by folate, and sulfur metabolism
+  are also significantly different between cluster 2 and cluster 3. (O) Heat map of
+  prior interaction potential between prioritized T cell ligands and receptors expressed
+  by macrophages. (P) Bar plot of Pearson correlation between C5AR1 and top three
+  genes in the glycerolipid, glutathione, and nitrogen metabolic pathways in responders
+  and non‐responders from the SMC cohort. (Q) Kaplan‐Meier overall survival curves
+  of the patients with high and low expression of AKR1B1 in TCGA STAD dataset. (R)
+  Boxplot of AKR1B1 expression in responders and non‐responders from the Yonsei cohort
+  (P < 0.001). Abbreviations: SMC, Samsung Medical Center; TCA,tricarboxylic acid
+  cycle; UMAP, Uniform manifold approximation and projection; scRNA‐seq, single‐cell
+  RNA‐sequencing; tSNE, t‐distributed stochastic neighbor embedding; TCGA, The Cancer
+  Genome Atlas'
+article_title: Intercellular communications and metabolic reprogramming as new predictive
+  markers for immunotherapy responses in gastric cancer.
+citation: Ji‐Yong Sung, et al. Cancer Commun (Lond). 2022 Jun;42(6):572-575.
+year: '2022'
+
+doi: 10.1002/cac2.12285
+journal_title: Cancer Communications
+journal_nlm_ta: Cancer Commun (Lond)
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+---

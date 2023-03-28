@@ -1,0 +1,38 @@
+---
+figid: PMC9291185__AJCO-18-267-g002
+pmcid: PMC9291185
+image_filename: AJCO-18-267-g002.jpg
+figure_link: /pmc/articles/PMC9291185/figure/ajco13602-fig-0001/
+number: FIGURE 1
+figure_title: ''
+caption: miRNA‐31 uprelated in tumor tissue, its context regulatory molecular involved
+  in multiple pathways about cell cycle. (A) Based on the records in ENCORI database,
+  hsa‐mir‐31‐5p is significantly upregulated in colon cancer (COAD) tumor samples
+  from the TCGA cohort (fold change = 2.00, corrected p‐value = 1.20e−4). (B) The
+  core regulatory interaction network of hsa‐mir‐31‐5p. Only the functional miRNA‐
+  target interactions and literature‐derived TF‐miRNA regulations are shown, which
+  are depicted as blue and red arrow, respectively. The known oncogene and tumor suppressor
+  genes of colon cancer are colored red and green, respectively. Functionally causal
+  genes of other cancer types are shown in yellow. C and D are pathway enrichment
+  of TFs and target genes. (C) 58 upstream regulatory TFs of hsa‐mir‐31‐5p were obtained.
+  The top 10 GO function terms and all significant KEGG pathways are shown in bar
+  plot. (D) 220 target genes of hsa‐mir‐31‐5p were obtained. The top 10 GO function
+  terms and all significant KEGG pathways are shown in bar plot
+article_title: miRNA‐31 increases radiosensitivity through targeting STK40 in colorectal
+  cancer cells.
+citation: Weiwei Zhang, et al. Asia Pac J Clin Oncol. 2022 Jun;18(3):267-278.
+year: '2022'
+
+doi: 10.1111/ajco.13602
+journal_title: Asia-Pacific Journal of Clinical Oncology
+journal_nlm_ta: Asia Pac J Clin Oncol
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- colorectal cancer
+- miRNA‐31
+- potential biomarker
+- radiosensitivity
+- STK40
+
+---

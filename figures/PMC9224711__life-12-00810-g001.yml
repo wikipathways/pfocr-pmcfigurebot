@@ -1,0 +1,42 @@
+---
+figid: PMC9224711__life-12-00810-g001
+pmcid: PMC9224711
+image_filename: life-12-00810-g001.jpg
+figure_link: /pmc/articles/PMC9224711/figure/life-12-00810-f001/
+number: Figure 1
+figure_title: ''
+caption: Omega-3 FA synthesis pathway in cyanobacteria. AccABCD (acetyl-CoA carboxylase)
+  catalyzes the formation of malonyl-CoA using two molecules of acetyl-CoA. The malonyl
+  moiety is transferred to the acyl-carrier protein (ACP) by FabD (malonyl-CoA ACP
+  transacylase. The initial condensation reaction is catalyzed by FabH (β-ketoacyl-ACP
+  synthase III), reducing acetyl-CoA and malonyl-ACP to form acetoacetyl-ACP. AccABCD,
+  FabD, and FabH are enzymes that perform reactions in the initiation step. The next
+  reaction in the elongation cycle is catalyzed by FabG (β-ketoacyl-ACP reductase),
+  which reduces acetoacetyl-ACP to form β-hydroxyacil-ACP, which is dehydrated by
+  FabZ/FabA (β-hydroxyacyl-ACP dehydratase) to produce trans-2-enoyl-ACP. The final
+  step in the cycle is catalyzed by FabI (trans-2-enoyl-ACP reductase). The resulting
+  fatty acyl-ACP can be elongated further by FabF/FabB (β-ketoacyl-ACP synthase II/I)
+  or if the fatty acyl-ACP contains 16 or 18 carbon atoms (C16:0-ACP or C18:0-ACP,
+  respectively) can be unsaturated by the action of desaturases. FabF, FabG, FabZ,
+  and FabI are enzymes that perform reactions in the elongation cycle. In the desaturation
+  step, four consecutive desaturases (DesC or Δ9, DesA or Δ12, DesB or Δ15, and DesD
+  or Δ6) catalyzed the conversion of stearic acid (SA) into stearidonic acid (SDA).
+  OA, oleic acid; LA, linoleic acid; GLA, γ-linolenic acid; ALA, α-linolenic acid.
+article_title: Synechococcus elongatus PCC 7942 as a Platform for Bioproduction of
+  Omega-3 Fatty Acids.
+citation: María Santos-Merino, et al. Life (Basel). 2022 Jun;12(6):810.
+year: '2022'
+
+doi: 10.3390/life12060810
+journal_title: Life
+journal_nlm_ta: Life (Basel)
+publisher_name: MDPI
+
+keywords:
+- desaturases
+- overexpression
+- Synechococcus elongatus PCC 7942
+- alpha-linolenic acid
+- stearidonic acid
+
+---

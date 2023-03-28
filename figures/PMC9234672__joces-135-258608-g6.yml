@@ -1,0 +1,56 @@
+---
+figid: PMC9234672__joces-135-258608-g6
+pmcid: PMC9234672
+image_filename: joces-135-258608-g6.jpg
+figure_link: /pmc/articles/PMC9234672/figure/JCS258608F6/
+number: Fig. 6
+figure_title: ''
+caption: Embryonic CGNPs are partially insensitive to Smoothened manipulation. (A)
+  Box-and-whisker plot showing the relative cell counts of tdTomato+ (Tom+) CGNPs
+  after 48 h of treatment with DMSO (control) or cyclopamine (5 µM) in E15.5 or P7
+  CGNP primary cultures. n=8 biological replicates. (B) Box-and-whisker plot showing
+  the average ratio of PCNA+/tdTomato+ cells after 48 h of treatment with DMSO (control)
+  or purmorphamine (250 nM) in E15.5 or P7 CGNP primary cultures. E15, n=12; and P7,
+  n=5 biological replicates. See also Fig. S3D. (C) Box-and-whisker plot showing the
+  average ratio of PCNA+/tdTomato+ cells after 48 h of treatment with DMSO (control)
+  or HPI1 (2.5 µM) in E15.5 or P7 CGNP primary cultures. E15, n=9; and P7, n=5 biological
+  replicates. (D–D″) Results are given in box-and-whisker plots (purmorphamine) or
+  represent median and complete range (HPI1). Plots show relative Gli1 (D), Cyclin
+  D1 (Ccnd1) (D′), or Cyclin D2 (Ccnd2) (D″) mRNA expression levels compared to Gapdh
+  in purmorphamine- (left graphs, 250 nM) or HPI1- (right graphs, 2.5 µM) treated
+  E15.5 and P7 CGNPs, as determined by qRT-PCR. E15 purmorphamine, n=5; P7 purmorphamine,
+  n=3; E15 HPI1, n=3; and P7 HPI1, n=3 biological replicates. See also Fig. S3E,F.
+  *P<0.05, **P<0.01, ***P<0.001 (paired, two-sided t-test). For the box-and-whisker
+  plots, the box represents the 25–75th percentiles, and the median is indicated.
+  The whiskers show the minimum to maximum. (E) Proposed model. SHH medulloblastoma
+  derives from the CGNP population. CGNPs are specified in the rhombic lip (RL) of
+  the early embryonic cerebellum, from where they migrate across the cerebellar surface
+  to form the external granular layer (EGL). Upon terminal differentiation, CGNPs
+  migrate inwards to form the definitive internal granular layer (IGL). Expression
+  and length of primary cilia, which are important components of upstream SHH signaling,
+  increases as CGNP development progresses. Thus, if oncogenic transformation takes
+  place at late stages of CGNP development, SMO may be preferentially mutated as the
+  primary cilia enhance oncogenic SMO activity. However, if CGNP oncogenic transformation
+  occurs at an early embryonic stage, SUFU may be preferentially mutated, which controls
+  downstream SHH signaling independently from the primary cilium. This implies that
+  targeted therapy for infant SHH medulloblastoma should be directed towards downstream
+  tumor-driving mechanisms.
+article_title: The developmental stage of the medulloblastoma cell-of-origin restricts
+  Sonic hedgehog pathway usage and drug sensitivity.
+citation: Marlinde J. Smit, et al. J Cell Sci. 2022 Jun 1;135(11):jeb258608.
+year: '2022'
+
+doi: 10.1242/jcs.258608
+journal_title: Journal of Cell Science
+journal_nlm_ta: J Cell Sci
+publisher_name: The Company of Biologists Ltd
+
+keywords:
+- Medulloblastoma
+- Sonic hedgehog signaling
+- Cerebellar development
+- Cerebellar granule neuron progenitors
+- Tumor cell-of-origin
+- Primary cilia
+
+---

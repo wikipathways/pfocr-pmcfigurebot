@@ -1,0 +1,35 @@
+---
+figid: PMC9116904__AD-13-3-943-g7
+pmcid: PMC9116904
+image_filename: AD-13-3-943-g7.jpg
+figure_link: /pmc/articles/PMC9116904/figure/F7-ad-13-3-943/
+number: Figure 7
+figure_title: ''
+caption: IL-1α, TNFα and C1q treated astrocyte expressed different transcripts in
+  RNA-seq data. (A) Volcano plot showed the upregulated (red) and downregulated (green)
+  genes between A1 and A0 astrocyte. The horizontal axis is log2fold change, and the
+  vertical axis is -log10p value, p<0.05. Heatmap showed the overall distribution
+  of differentially expressed genes. Gene expression data was colored red for high
+  expression and blue for low expression. (B) GO enrichment analysis of differentially
+  expressed genes based on RNA-seq data with p-value showed top 10 upregulated biological
+  process. (C) KEGG enrichment top 20 analysis suggested that TNF signaling pathway
+  and cytokine-cytokine receptor interaction were related with the phenotypic changes
+  of astrocytes.
+article_title: Blocking C3d+/GFAP+ A1 Astrocyte Conversion with Semaglutide Attenuates
+  Blood-Brain Barrier Disruption in Mice after Ischemic Stroke.
+citation: Qi Zhang, et al. Aging Dis. 2022 Jun;13(3):943-959.
+year: '2022'
+
+doi: 10.14336/AD.2021.1029
+journal_title: Aging and Disease
+journal_nlm_ta: Aging Dis
+publisher_name: JKL International LLC
+
+keywords:
+- A1 astrocyte
+- blood-brain barrier
+- ischemia
+- neuroinflammation
+- stroke
+
+---

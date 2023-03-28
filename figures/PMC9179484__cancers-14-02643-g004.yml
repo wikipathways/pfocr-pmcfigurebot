@@ -1,0 +1,45 @@
+---
+figid: PMC9179484__cancers-14-02643-g004
+pmcid: PMC9179484
+image_filename: cancers-14-02643-g004.jpg
+figure_link: /pmc/articles/PMC9179484/figure/cancers-14-02643-f004/
+number: Figure 4
+figure_title: ''
+caption: Romidepsin affects acetyl-CoA availability (a) 620 metabolites were quantified
+  in A549 and ACHN cell lines after 18 h romidepsin treatment (clinical dosing), and
+  the top 15 enriched metabolic pathways were obtained after enrichment pathway analysis
+  on significantly modified compounds (Welsh’s t-test). p-values for pathway scores
+  were calculated using hypergeometric test. (b) 620 metabolites were quantified after
+  treatment with romidepsin (clinical dosing) for 12 h, 18 h and 18 h in combination
+  with MEKi, and those involved in β-oxidation, glutaminolysis and TCA cycle were
+  overlaid on TCA cycle fueling pathway representation (median fold change). Letters
+  refer to enzymes whom expression was quantified by microarray analysis, and for
+  which results are presented in . Statistical difference between control and treated
+  groups was evaluated by Welsh’s t-test (c) Acetyl-CoA levels were quantified by
+  mass spectrometry in four cell lines following 18 h romidepsin treatment. Data are
+  plotted as mean ± SD, and statistical difference was assessed using an unpaired
+  two-tailed Student’s t-test. (d). Cells were treated for 18 h with romidepsin, then
+  incubated for 1 h in medium without glucose and glutamine, and then variation in
+  OXPHOS (OCR) was measured by Seahorse analysis while either glutamine, cell permeant-glutamate,
+  cell permeant-αKG or pyruvate was subsequently added, followed by oligomycin A.
+  (e) Metabolites involved in cytoplasmic redox balance downstream of the TCA cycle
+  are represented, including the GSH recycling step requiring NADPH to reconvert GSSG
+  (oxidized glutathione) to GSH (reduced glutathione) (see (b) for detailed legend
+  information). Numbers refer to enzymes for which expression levels are presented
+  in . In (b,c,e), * indicates a p-value < 0.05.
+article_title: A Histone Deacetylase Inhibitor Induces Acetyl-CoA Depletion Leading
+  to Lethal Metabolic Stress in RAS-Pathway Activated Cells.
+citation: Agnes Basseville, et al. Cancers (Basel). 2022 Jun;14(11):2643.
+year: '2022'
+
+doi: 10.3390/cancers14112643
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- HDAC inhibitors
+- acetyl-CoA metabolism
+- RAS
+
+---

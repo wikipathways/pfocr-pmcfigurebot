@@ -1,0 +1,40 @@
+---
+figid: PMC9283889__gr6
+pmcid: PMC9283889
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC9283889/figure/fig6/
+number: Figure 6
+figure_title: ''
+caption: Re-clustering based on the fraction of cancer-associated fibroblasts and
+  their subtype analysis(A and B) An unsupervised clustering of the CAF fraction plotted
+  on the UMAP, which was color-coded according to dataset (A) and tissue type (B).(C–E)
+  UMAP plots showing the stromal scores defined in C, the expression of marker genes
+  for CAF subtypes (D), and the subtype score for inflammatory/myofibroblast CAFs
+  (E).(F) Pearson’s correlation analysis of two CAF scores indicating a negative correlation.(G)
+  Circle plots displaying putative ligand–receptor interactions, with the width of
+  edges representing the strength of the communication.(H) Heatmap showing the summary
+  of signaling pathways that contributed to outgoing or incoming communication. The
+  color bar represents the relative signaling strength of a signaling pathway across
+  cell types. The bars show the sum of signaling strength for each cell type or pathway.(I)
+  Sanky diagram summarizing the interaction between iCAF/myCAF-upregulated ligands
+  and the receptor of malignant clusters. The width of the edges represents the weight
+  value defined in NicheNet, and the color of the output of the edge represents the
+  target malignant cluster. Bubble plot showing the expression levels in myCAFs or
+  iCAFs. The size of each bubble represents the rate of cells expressing a gene, and
+  the color represents the scaled average expression in their cell-type cluster.
+article_title: Establishment of a reference single-cell RNA sequencing dataset for
+  human pancreatic adenocarcinoma.
+citation: Ryota Chijimatsu, et al. iScience. 2022 Aug 19;25(8):104659.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.104659
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Cancer systems biology
+- Cancer
+- Transcriptomics
+
+---

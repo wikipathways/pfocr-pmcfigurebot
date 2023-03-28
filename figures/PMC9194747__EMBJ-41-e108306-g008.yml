@@ -1,0 +1,51 @@
+---
+figid: PMC9194747__EMBJ-41-e108306-g008
+pmcid: PMC9194747
+image_filename: EMBJ-41-e108306-g008.jpg
+figure_link: /pmc/articles/PMC9194747/figure/embj2021108306-fig-0002/
+number: Figure 2
+figure_title: Succinate reverses the inflammatory response and the metabolic modifications
+  induced by influenza virus
+caption: 'Bronchial epithelial (BEAS‐2B) cells were infected or not with influenza
+  A/Scotland/20/74 (H3N2) virus (IAV) at MOI = 1 for 4 h and treated or not with succinate
+  (Suc; 4 mg/ml/24.7 mM) for 20 h. AVolcano‐plot showing the most significantly regulated
+  canonical pathways determined by microarray analysis compared with mock‐treated
+  cells. Each dot represents a specific canonical pathway as determined by GSEA. Pathway
+  representations result from the magnitude of regulation (z‐score, x‐axis) and significance
+  (−log10 adjusted P‐value, y‐axis). The dashed horizontal line indicates the statistical
+  significance threshold (P ≤ 0.01 after adjustment with the Bonferroni correction).
+  The two vertical dashed lines show the z‐score threshold (−2: repressed; 2: induced).
+  Colored spots characterize the most highly regulated canonical pathways endowed
+  with statistical significance.BRepresentative inflammatory protein‐array blots obtained
+  from the supernatants of control‐ or IAV‐infected‐ or IAV‐infected and succinate‐treated
+  cells. The table on the right side indicates the 8 most regulated mediators by succinate.CQuantification
+  by ELISA of IL‐6, IL‐8, IP‐10, and RANTES in the supernatants of cells infected
+  or not by IAV and treated or not with succinate.D, EPanels show the basal replotted
+  ECAR and OCR (D), and glycolytic capacity (ECAR max) and maximal respiration (OCR
+  max) (E) in cells infected with IAV and treated (green symbols) or not (pink symbols)
+  with succinate. Data were normalized with respect to mock‐infected, untreated cells
+  (orange symbols), and were also normalized for DNA content.Data information: Data
+  are the mean ± SEM of 6 (panel C) or 4 (panels A, D, E) independent experiments.
+  Statistical analysis was performed using the Kruskal–Wallis test with Dunn’s post‐test
+  (C, D, E) (*P < 0.05 and **P < 0.01) and ANOVA with Holm–Sidak’s posttest (A).'
+article_title: Host succinate inhibits influenza virus infection through succinylation
+  and nuclear retention of the viral nucleoprotein.
+citation: Antoine Guillon, et al. EMBO J. 2022 Jun;41(12):e108306.
+year: '2022'
+
+doi: 10.15252/embj.2021108306
+journal_title: The EMBO Journal
+journal_nlm_ta: EMBO J
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- antiviral
+- influenza
+- metabokine
+- signaling
+- virus
+- Immunology
+- Metabolism
+- Microbiology, Virology & Host Pathogen Interaction
+
+---

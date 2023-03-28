@@ -1,0 +1,96 @@
+---
+figid: PMC9253833__gr5
+pmcid: PMC9253833
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC9253833/figure/f0025/
+number: Fig. 5
+figure_title: ''
+caption: Functional enrichment indicates that CSPP1 is potentially associated with
+  ferroptosis and TME in LGG. (A) A volcano plot of CSPP1-related DEGs in LGG. Red
+  and blue points indicated upregulated and downregulated genes, respectively. (B)
+  A heatmap of correlation between CSPP1 and the top 20 DEGs. *** p < 0.001. (C) Bubble
+  plots of GO enrichment. The X-axis represents the ratio of these DEGs, and the Y-axis
+  represents the categories of DEGs. (D) Ridge plots of GSEA enrichment. p < 0.05
+  was considered the meaningful pathway. Red and blue indicated immune-related pathways
+  and ferroptosis-related metabolic pathways, respectively. (For interpretation of
+  the references to color in this figure legend, the reader is referred to the web
+  version of this article.)
+article_title: Identifies microtubule-binding protein CSPP1 as a novel cancer biomarker
+  associated with ferroptosis and tumor microenvironment.
+citation: Wenwen Wang, et al. Comput Struct Biotechnol J. 2022;20:3322-3335.
+year: '2022'
+
+doi: 10.1016/j.csbj.2022.06.046
+journal_title: Computational and Structural Biotechnology Journal
+journal_nlm_ta: Comput Struct Biotechnol J
+publisher_name: Research Network of Computational and Structural Biotechnology
+
+keywords:
+- TME, tumor microenvironment
+- CAF, cancer-associated fibroblasts
+- EMT, epithelial-mesenchymal transition
+- CSPP1, centrosome and spindle pole-associated protein
+- DLBC, diffuse large B-cell lymphoma
+- TCGA, The Cancer Genome Atlas
+- GTEx, Genotype-Tissue Expression
+- CPTAC, Clinical Proteomic Tumor Analysis Consortium
+- ROC, receiver operating characteristics
+- CNA, copy number alteration
+- KM, Kaplan-Meier
+- OS, overall survival
+- DSS, disease-specific survival
+- PFS, progression-free survival
+- ENCORI, Encyclopedia of RNA Interactomes
+- TISIDB, Tumor-Immune System Interactions DataBase
+- LGG, low-grade gliomas
+- PFI, progression-free interval
+- C-index, concordance index
+- DEGs, differentially expressed genes
+- GO, Gene Ontology
+- CC, cellular component
+- MF, molecular functions
+- BP, biological pathways
+- GSEA, Gene Set Enrichment Analysis
+- KEGG, Kyoto Encyclopedia of Genes and Genomes
+- GSVA, gene set variation analysis
+- TIMER, Tumor Immune Estimation Resource
+- MHC, major histocompatibility complex
+- TMB, tumor mutation burden
+- MSI, microsatellite instability
+- TIDE, Tumor Immune Dysfunction and Exclusion
+- CTL, cytotoxic T lymphocyte
+- ICB, immune checkpoint blockade
+- TGCT, testicular germ cell tumors, STAD, stomach adenocarcinoma
+- BRCA, breast invasive carcinoma
+- CHOL, cholangiocarcinoma
+- COAD, colon adenocarcinoma
+- ESCA, esophageal carcinoma
+- GBM, glioblastoma multiforme
+- HNSC, head and neck squamous cell carcinoma
+- LAML, acute myeloid leukemia
+- LIHC, liver hepatocellular carcinoma
+- PAAD, pancreatic adenocarcinoma
+- READ, rectum adenocarcinoma
+- THYM, thymoma
+- ACC, adrenocortical carcinoma
+- CESC, cervical squamous cell carcinoma and endocervical adenocarcinoma
+- KICH, kidney chromophobe
+- KIRC, renal clear cell carcinoma
+- LUAD, lung adenocarcinoma
+- LUSC, lung squamous cell carcinoma
+- OV, ovarian serous cystadenocarcinoma
+- PRAD, prostate cancer
+- SKCM, skin cutaneous melanoma
+- THCA, thyroid cancer
+- UCEC, endometrial cancer uterine corpus endometrial carcinoma
+- UCS, uterine carcinosarcoma
+- FAG, ferroptosis-associated gene
+- FDG, ferroptosis-driver gene
+- FSG, ferroptosis-suppressor gene
+- CSPP1
+- Biomarker
+- Ferroptosis
+- Tumor microenvironment
+- Pan-cancer
+
+---

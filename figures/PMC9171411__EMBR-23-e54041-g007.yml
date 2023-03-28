@@ -1,0 +1,41 @@
+---
+figid: PMC9171411__EMBR-23-e54041-g007
+pmcid: PMC9171411
+image_filename: EMBR-23-e54041-g007.jpg
+figure_link: /pmc/articles/PMC9171411/figure/embr202154041-fig-0005/
+number: Figure 5
+figure_title: Characterization of RTK‐specific phosphotyrosine sites
+caption: Number of phosphotyrosine sites identified in the IVK assay after filtering.
+  Deeper shade of green corresponds to previously identified kinase‐substrate relationships.Dendrograms
+  of RTK clustering based on phosphosite identifications (left) compared to Clustal
+  Omega clustering based on protein kinase domain sequence of the same RTKs (right).
+  Colored lines denote baits in the same order in both clustering approaches. Clustering
+  based on phosphosites was performed using the ward.D2 method from the R stats package.Statistically
+  enriched (q < 0.05, calculated with Fisher exact test and Benjamini–Hochberg multiple‐testing
+  correction) reactome terms in the identified RTK substrates. Size of the node corresponds
+  to the number of unique substrates in the node, and nodes without significant enrichment
+  are shaded white. Only subnodes of the signal transduction root node are shown.
+  Colored areas denote different signaling pathway trees.Substrate site amino acid
+  sequence compared to known phosphorylation motifs from human protein reference database
+  (Peri et al, ). Data presented represent only the receptors, for which motifs were
+  available in the database.
+article_title: Physical and functional interactome atlas of human receptor tyrosine
+  kinases.
+citation: Kari Salokas, et al. EMBO Rep. 2022 Jun;23(6):e54041.
+year: '2022'
+
+doi: 10.15252/embr.202154041
+journal_title: EMBO Reports
+journal_nlm_ta: EMBO Rep
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- RTK
+- interaction proteomics
+- systems biology
+- receptor tyrosine kinase
+- phosphoproteomics
+- Proteomics
+- Signal Transduction
+
+---

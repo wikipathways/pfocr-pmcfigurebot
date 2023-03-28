@@ -1,0 +1,44 @@
+---
+figid: PMC9220902__cancers-14-02895-g004
+pmcid: PMC9220902
+image_filename: cancers-14-02895-g004.jpg
+figure_link: /pmc/articles/PMC9220902/figure/cancers-14-02895-f004/
+number: Figure 4
+figure_title: ''
+caption: 'Carboplatin drug response in OvCa PDM correlates with the activity of diverse
+  signaling pathways. (A) Heat map of protein abundances (calculated from median-centered
+  NFI values) averaged over carboplatin-responder (R) and non-responder (Non-R) OvCa
+  PDM. Carboplatin responders and non-responders were grouped according to significant
+  treatment effects from functional compound testing (C). Only proteins with >20%
+  increased or decreased abundance between responder and non-responder group were
+  selected. Data was HCL clustered with Euclidean distance (average linkage). (B)
+  Signaling pathway activation in carboplatin-responder vs. non-responder OvCa PDM.
+  Proteins were sorted according to their pathway affiliation and according to upregulation
+  or downregulation within responder group. * p < 0.05, ** p < 0.01, *** p < 0.001,
+  Mann–Whitney-U-test. (C) Proteomic on- and off-target pathway effects in carboplatin-treated
+  (75 µM) OvCa #24 PDM analyzed by RPPA. Treated PDM were analyzed from an immediate
+  (0.5 h), an early (4 h) and a late (72 h) treatment time. For each time point, protein
+  values are displayed as log2-transformed treatment-to-control signal ratios (TR)
+  calculated from NFI signals of treated PDM and corresponding vehicle control (DMSO).
+  Only proteins with >50% differential protein abundance compared to vehicle control
+  were selected. Straight lines above plots indicate statistical significances compared
+  to vehicle control. * p < 0.05, ** p < 0.01, *** p < 0.001, One-way ANOVA using
+  nonparametric Kruskal–Wallis with Dunn’s ad hoc test.'
+article_title: A Platform of Patient-Derived Microtumors Identifies Individual Treatment
+  Responses and Therapeutic Vulnerabilities in Ovarian Cancer.
+citation: Nicole Anderle, et al. Cancers (Basel). 2022 Jun;14(12):2895.
+year: '2022'
+
+doi: 10.3390/cancers14122895
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- patient-derived tumor model
+- ovarian cancer
+- anti-cancer drug sensitivity
+- RPPA protein profiling
+- cancer immunotherapy
+
+---

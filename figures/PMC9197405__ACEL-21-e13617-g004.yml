@@ -1,0 +1,45 @@
+---
+figid: PMC9197405__ACEL-21-e13617-g004
+pmcid: PMC9197405
+image_filename: ACEL-21-e13617-g004.jpg
+figure_link: /pmc/articles/PMC9197405/figure/acel13617-fig-0005/
+number: FIGURE 5
+figure_title: ''
+caption: Functional enrichment analysis of DEPs in AKAP9 I2558 M group versus AKAP9 WT
+  group. (a) Bar graph of the statistically enriched terms in gene ontology and reactome
+  pathway across input proteins via the Metascape software. Total 26 DEPs in AKAP9 WT
+  and 153 DEPs in AKAP9 I2558 M group were input. (b) Network layout of the enriched
+  terms for DEPs of AKAP9 WT and AKAP9 I2558 M group. The size of a node is proportional
+  to the number of input genes that fall into that term, and the respective color
+  represents its cluster identity. Terms with a Kappa‐statistical similarity score
+  >0.3 are linked by an edge (the thickness of the edge represents the similarity
+  score). (c) Protein–protein interaction (PPI) network and MCODE components identified
+  in the DEPs of AKAP9 I2558 M. MCODE algorithm was applied to PPI network to identify
+  neighborhoods where proteins are densely connected. Each MCODE network is assigned
+  a unique color. GO enrichment analysis was applied to each MCODE network to assign
+  “meanings” to the network component. The red represents protein network involved
+  in translation; the blue represents protein network involved in RNA localization;
+  the green represents protein network involved in oxidative activity
+article_title: Alzheimer’s disease associated AKAP9 I2558M mutation alters posttranslational
+  modification and interactome of tau and cellular functions in CRISPR‐edited human
+  neuronal cells.
+citation: Yang You, et al. Aging Cell. 2022 Jun;21(6):e13617.
+year: '2022'
+
+doi: 10.1111/acel.13617
+journal_title: Aging Cell
+journal_nlm_ta: Aging Cell
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- a kinase anchoring protein 9
+- Alzheimer's disease
+- CRISPR
+- oxidative stress
+- phosphorylated tau
+- protein synthesis
+- proteomics
+- Tau
+- Tau interactome
+
+---

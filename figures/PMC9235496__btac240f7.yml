@@ -1,0 +1,30 @@
+---
+figid: PMC9235496__btac240f7
+pmcid: PMC9235496
+image_filename: btac240f7.jpg
+figure_link: /pmc/articles/PMC9235496/figure/btac240-F7/
+number: Fig. 7
+figure_title: ''
+caption: GO and KEGG pathway networks of (A) TSLP and (B) IFNG. (A) TSLP was predicted
+  as the inhibitory target, and (B) IFNG was predicted as the activatory target. These
+  analyses were performed based on the genes differentially expressed following TSLP
+  knockdown and IFNG overexpression, respectively. The top panels show the GO analysis
+  results for biological process terms. The bottom panels show the results of KEGG
+  pathway analysis. The circles in the GO and KEGG pathway analysis represent GO terms
+  and KEGG pathways, respectively. The edges denote term–term interactions and functional
+  groups (GO groups) based on genes shared between the terms. The node colors represent
+  GO groups. The node size represents the term significance; the biggest term of a
+  group is the most significant, and it is highlighted on the network. These GO terms
+  and pathways in the networks are shown in
+article_title: 'From drug repositioning to target repositioning: prediction of therapeutic
+  targets using genetically perturbed transcriptomic signatures.'
+citation: Satoko Namba, et al. Bioinformatics. 2022 Jul;38(Suppl 1):i68-i76.
+year: '2022'
+
+doi: 10.1093/bioinformatics/btac240
+journal_title: Bioinformatics
+journal_nlm_ta: Bioinformatics
+publisher_name: Oxford University Press
+
+keywords:
+---

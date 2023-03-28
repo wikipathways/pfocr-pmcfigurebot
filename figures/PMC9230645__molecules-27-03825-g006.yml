@@ -1,0 +1,30 @@
+---
+figid: PMC9230645__molecules-27-03825-g006
+pmcid: PMC9230645
+image_filename: molecules-27-03825-g006.jpg
+figure_link: /pmc/articles/PMC9230645/figure/molecules-27-03825-f006/
+number: Figure 6
+figure_title: ''
+caption: Activation of Wnt signaling pathway by cpd1. (a) Reporter analysis using
+  HEK293 TOP flash cell line for measuring activities of GSK3β inhibition on hit compounds.
+  CHIR99021 is a GSK3β inhibitor and used for positive control. Data are mean ± SEM
+  (n = 3). p-value by one-way ANOVA (Tukey’s multiple comparisons) test. (b) An activation
+  curve for determining the EC50 of cpd1 for TOP flash activity. Data are mean ± SEM
+  (n = 3). p-value by one-way ANOVA (Tukey’s multiple comparisons) test. *** p < 0.001.
+article_title: Discovery of GSK3β Inhibitors through In Silico Prediction-and-Experiment
+  Cycling Strategy, and Biological Evaluation.
+citation: Yuno Lee, et al. Molecules. 2022 Jun;27(12):3825.
+year: '2022'
+
+doi: 10.3390/molecules27123825
+journal_title: Molecules
+journal_nlm_ta: Molecules
+publisher_name: MDPI
+
+keywords:
+- GSK3β
+- MD simulation
+- HTRF
+- pyrazolopyrimidine
+
+---

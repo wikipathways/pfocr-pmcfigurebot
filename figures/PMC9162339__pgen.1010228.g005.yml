@@ -1,0 +1,34 @@
+---
+figid: PMC9162339__pgen.1010228.g005
+pmcid: PMC9162339
+image_filename: pgen.1010228.g005.jpg
+figure_link: /pmc/articles/PMC9162339/figure/pgen.1010228.g005/
+number: Fig 5
+figure_title: CMAP analyses identifies GSK3 inhibition as a therapeutic mechanism
+caption: A) Ten compounds were predicted to mimic the transcriptional response due
+  to dNGLY1 knockdown in flies []. In the mouse liver data set, 193 compounds were
+  predicted to mimic the transcriptional response due to the loss of Ngly1 []. The
+  fly and mouse data sets shared six compounds, three of which are proteasome inhibitors.
+  B) In the fly dataset, 30 compounds were predicted to counter the transcriptional
+  response due to dNGLY1 knockdown. In the mouse liver dataset, 195 compounds were
+  predicted to counter the transcriptional response due to loss of Ngly1. The GSK3
+  inhibitor TWS119 was the only compound shared between the two data sets. C) TWS119
+  rescued the lethality of Tubulin>dNGLY1-RNAi flies at 1 μM but did not rescue lethality
+  at 5 or 25 μM. D) Lithium chloride (LiCl) showed a dose response effect and significantly
+  rescued lethality in Tubulin>dNGLY1-RNAi flies at 0.1 mM, 1 mM, and 10 mM. The lowest
+  dose at 0.01 mM did not increase survival of Tubulin>dNGLY1-RNAi flies. E) Sgg-RNAi
+  did not impact lethality in heterozygous dNGLY1ΔGAL4/+ flies. However, sgg-RNAi
+  rescued lethality in dNGLY1ΔGAL4/pl flies that lack functional dNGLY1. **** p <
+  0.0001, ** p < 0.01.
+article_title: An in vivo drug repurposing screen and transcriptional analyses reveals
+  the serotonin pathway and GSK3 as major therapeutic targets for NGLY1 deficiency.
+citation: Kevin A. Hope, et al. PLoS Genet. 2022 Jun;18(6):e1010228.
+year: '2022'
+
+doi: 10.1371/journal.pgen.1010228
+journal_title: PLoS Genetics
+journal_nlm_ta: PLoS Genet
+publisher_name: Public Library of Science
+
+keywords:
+---

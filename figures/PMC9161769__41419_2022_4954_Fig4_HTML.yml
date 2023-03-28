@@ -1,0 +1,36 @@
+---
+figid: PMC9161769__41419_2022_4954_Fig4_HTML
+pmcid: PMC9161769
+image_filename: 41419_2022_4954_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9161769/figure/Fig4/
+number: Fig. 4
+figure_title: Rnd1 knockdown disrupts the calcium signalling pathway
+caption: A HEK293 cells were transfected with IFNβ reporter plasmid along with either
+  the vector backbone (Ctrl), Rnd1 or IPS-1 expressing plasmids followed by PR8 infection;
+  IPS-1 was used as a positive control. B Rnd1 was overexpressed in A549 cells and
+  followed by disruption of Type-I interferon signalling using IFNAR2 blocking antibody.
+  PR8 viral load and IFNβ were analysed 24 h post infection. C Volcano plot indicating
+  down-regulated (green) and upregulated (red) genes. D Pathway analysis indicating
+  downregulated pathways from three different databases- KEGG, BioPlanet and Wiki
+  Pathways, top significant pathways have been highlighted. E Heatmap of calcium signalling
+  pathway genes that are dysregulated by Rnd1 knockdown. F Analysis of selected genes
+  after knockdown from heatmap by RT-PCR to verify the results of RNA-Seq experiment.
+  G Analysis of RhoA activation after siRNA-mediated knockdown of Rnd1 in A549 cells.
+  RT-PCR and promoter-reporter assay data are means ± SEMs from triplicate samples
+  of a single experiment and are representative of results from three independent
+  experiments. RNA-Seq data are representative of a single experiment with two replicates.
+article_title: Essential role of Rnd1 in innate immunity during viral and bacterial
+  infections.
+citation: Akhilesh Kumar, et al. Cell Death Dis. 2022 Jun;13(6):520.
+year: '2022'
+
+doi: 10.1038/s41419-022-04954-y
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Viral infection
+- Pattern recognition receptors
+
+---

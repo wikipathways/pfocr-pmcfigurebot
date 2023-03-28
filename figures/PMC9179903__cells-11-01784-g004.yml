@@ -1,0 +1,37 @@
+---
+figid: PMC9179903__cells-11-01784-g004
+pmcid: PMC9179903
+image_filename: cells-11-01784-g004.jpg
+figure_link: /pmc/articles/PMC9179903/figure/cells-11-01784-f004/
+number: Figure 4
+figure_title: ''
+caption: Canonical Pathway analysis in the glaucomatous RGC transcriptome (“OHT” vs.
+  “SHAM” RGCs). (a) Overarching categories to which the altered canonical pathways
+  belong. (b) List of altered signaling pathways relevant to the biological question
+  (FDR ≤ 0.1, −log (p-value) ≥ 1.30, Fisher’s exact test). A list of all significantly
+  altered canonical pathways is provided in . IPA predictions are algorithm- (based
+  on z-score, filled bars) or user-defined (striped bars). Pathways that are predicted
+  to be upregulated are shown in orange, those predicted downregulated in blue.
+article_title: 'Chronic Chemogenetic Activation of the Superior Colliculus in Glaucomatous
+  Mice: Local and Retrograde Molecular Signature.'
+citation: Marie Claes, et al. Cells. 2022 Jun;11(11):1784.
+year: '2022'
+
+doi: 10.3390/cells11111784
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- chemogenetics
+- DREADDs
+- glaucoma
+- retinal ganglion cells
+- superior colliculus
+- postsynaptic target area
+- neuroprotection
+- RNA sequencing
+- FACS
+- neuromodulation
+
+---

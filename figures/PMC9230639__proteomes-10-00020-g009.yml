@@ -1,0 +1,40 @@
+---
+figid: PMC9230639__proteomes-10-00020-g009
+pmcid: PMC9230639
+image_filename: proteomes-10-00020-g009.jpg
+figure_link: /pmc/articles/PMC9230639/figure/proteomes-10-00020-f009/
+number: Figure 9
+figure_title: ''
+caption: Most significantly enriched GO biological processes in upregulated transcripts.
+  Using Panther pathway analysis in upregulated transcripts and with correction for
+  false discovery rate, no GO biological processes were enriched. In case the FDR
+  was too conservative and the biological processes were spread across many processes,
+  the FDR correction was removed and the analysis repeated. This identified 606 GO
+  biological processes—the full list is shown in . Redundant terms were merged together
+  and processes not directly relevant to the cell type were removed. The top 10 enriched
+  biological processes are shown with their mean fold enrichment, and the significance
+  determined by t-tests is indicated by the p value. Many enriched pathways had a
+  fold-change of >100, and in these cases, had only one transcript identified as belonging
+  to that pathway in both the full list of transcripts and the upregulated transcripts.
+  Other enriched biological processes had a fold-change enrichment of 59.38 and had
+  one of two identified transcripts in the full dataset that were present in the upregulated
+  transcripts.
+article_title: Dysregulated Gene Expression in Lymphoblasts from Parkinson’s Disease.
+citation: Sarah Jane Annesley, et al. Proteomes. 2022 Jun;10(2):20.
+year: '2022'
+
+doi: 10.3390/proteomes10020020
+journal_title: Proteomes
+journal_nlm_ta: Proteomes
+publisher_name: MDPI
+
+keywords:
+- Parkinson’s disease
+- proteome
+- transcriptome
+- protein synthesis
+- mitochondria
+- oxidative phosphorylation
+- cell models
+
+---

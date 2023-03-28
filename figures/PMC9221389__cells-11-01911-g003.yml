@@ -1,0 +1,33 @@
+---
+figid: PMC9221389__cells-11-01911-g003
+pmcid: PMC9221389
+image_filename: cells-11-01911-g003.jpg
+figure_link: /pmc/articles/PMC9221389/figure/cells-11-01911-f003/
+number: Figure 3
+figure_title: ''
+caption: Cluster analysis of scRNA-seq data. (A) The classification of cardiac CD45+
+  total leukocytes from day 0 to day 7, using t-distributed random neighbor embedding,
+  and coloring by clustering after manual annotation. Blue (macrophages), red (neutrophils),
+  gray (unknown). (B) The proportion of neutrophils, macrophages and unknown clusters
+  among the total number of cells at each time point. (C) Violin diagram of the expression
+  of S100a8 and S100a9 in various types of cells at each time point. (D) S100a8 and
+  S100a9 expression distribution map at each time point.
+article_title: Integrated Analysis Reveals S100a8/a9 Regulates Autophagy and Apoptosis
+  through the MAPK and PI3K-AKT Signaling Pathway in the Early Stage of Myocardial
+  Infarction.
+citation: Weijue Yi, et al. Cells. 2022 Jun;11(12):1911.
+year: '2022'
+
+doi: 10.3390/cells11121911
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- myocardial infarction
+- S100a8
+- S100a9
+- autophagy
+- apoptosis
+
+---

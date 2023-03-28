@@ -1,0 +1,45 @@
+---
+figid: PMC9218933__CTM2-12-e944-g005
+pmcid: PMC9218933
+image_filename: CTM2-12-e944-g005.jpg
+figure_link: /pmc/articles/PMC9218933/figure/ctm2944-fig-0002/
+number: FIGURE 2
+figure_title: ''
+caption: Identification of long non‐coding RNA (lncRNA) SLC25A21‐AS1 in oesophageal
+  squamous cell carcinoma (ESCC) cells. (A and B) The gene set enrichment analysis
+  (GSEA) function enrichment analysis with RNA‐seq for the ESCC cells treated with
+  100‐μM palmitic acid (PA). The TNF signalling, inflammatory response, P53 pathway,
+  and apoptosis were activated with PA treatment. The E2F targets, MYC targets, and
+  DNA repair were inhibited with PA treatment. (C) A Venn diagram of the upregulated
+  (right) and downregulated (left) lncRNAs under 100‐μM PA in three ESCC cell lines.
+  (D) A heatmap of differentially regulated lncRNAs (i.e., with a fold chance >1 and
+  a p‐value <.05). The four lncRNAs highlighted in red font indicate the lncRNAs intersected
+  with the GSE53625 dataset. (E) SLC25A21‐AS1 expression was associated with overall
+  survival (OS) and RFS in the GSE53625 dataset. (F) Significant associations of SLC25A21‐AS1
+  overexpression with clinical characteristics, including hyperlipidaemia, tumour
+  differentiation grade, and TNM stage in the GSE53625 dataset. (G) SLC25A21‐AS1 expression
+  was reduced in ESCC cells treated with different PA concentrations (0–100 μM) as
+  detected by RT‐qPCR. (H) The subcellular location of SLC25A21‐AS1 was mainly in
+  the nucleus as detected by RT‐qPCR. U99 and GAPDH are nuclear and cytoplasmic markers.
+  (I) Enrichment of SLC25A21‐AS1 in both the nucleus and cytoplasm (red) as detected
+  by RNA fluorescence in situ hybridization (FISH). Diamidino‐2‐phenylindole staining
+  cell nuclear is indicated in blue. The data are shown as mean ± SD. *p < .05; **p
+  < .01; ***p < .001
+article_title: Lipid metabolism–related lncRNA SLC25A21‐AS1 promotes the progression
+  of oesophageal squamous cell carcinoma by regulating the NPM1/c‐Myc axis and SLC25A21
+  expression.
+citation: Yu Liu, et al. Clin Transl Med. 2022 Jun;12(6):e944.
+year: '2022'
+
+doi: 10.1002/ctm2.944
+journal_title: Clinical and Translational Medicine
+journal_nlm_ta: Clin Transl Med
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- high‐fat diets
+- long non‐coding RNA
+- oesophageal squamous cell carcinoma
+- palmitic acid
+
+---

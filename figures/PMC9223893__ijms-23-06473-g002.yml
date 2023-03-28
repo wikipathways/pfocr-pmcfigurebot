@@ -1,0 +1,47 @@
+---
+figid: PMC9223893__ijms-23-06473-g002
+pmcid: PMC9223893
+image_filename: ijms-23-06473-g002.jpg
+figure_link: /pmc/articles/PMC9223893/figure/ijms-23-06473-f002/
+number: Figure 2
+figure_title: ''
+caption: 'A higher RvD score is associated with more favorable outcomes in HNSC. (A)
+  Heatmap of individual genes involved in SPM production in HNSC patients. mRNA expression
+  z-scores relative to diploid samples (RNA Seq V2 RSEM) are shown. Patients are reported
+  in columns, genes in rows. Blue: lower expression; red: higher expression. Color
+  code is reported at the bottom of the panel. (B) Association between individual
+  SPM genes and overall survival in multiple TCGA datasets. The heatmap (TIMER 2.0,
+  Gene_Outcome mode) shows the normalized coefficient (z-score) of association between
+  individual gene expression and overall survival (red: inverse association; blue:
+  direct association) adjusted for age, gender, stage and purity. A red rectangle
+  highlights HNSC cancers. Filled squares indicate significant (p < 0.05) associations
+  predicted in multiple cancer types. TCGA study abbreviations were reported according
+  to the NCI genomic data commons. (C) Kaplan–Meier curve survival analysis of HNSC
+  patients stratified for high (n = 100) or low (n = 100) RvD score. Logrank test
+  p-value and median months progression free are reported. (D) RvD score in HNSC from
+  TCGA datasets in tumor-free alive or dead patients (n = 362) vs. patients’ death
+  with symptoms of cancer (n = 128). Clinical data were extracted from the TCGA HNSC
+  database using the cBioportal software. ** p < 0.01, Student t test. (E) Lipoxin
+  score in HNSC from TCGA datasets in tumor-free alive or dead patients (n = 362)
+  vs. patients dead with tumors (n = 128). Clinical data were extracted from the TCGA
+  HNSC database using the cBioportal software. p = ns, Student t test.'
+article_title: Gene Expression of the D-Series Resolvin Pathway Predicts Activation
+  of Anti-Tumor Immunity and Clinical Outcomes in Head and Neck Cancer.
+citation: Domenico Mattoscio, et al. Int J Mol Sci. 2022 Jun;23(12):6473.
+year: '2022'
+
+doi: 10.3390/ijms23126473
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- head and neck cancer
+- resolution of inflammation
+- resolvin D
+- human papilloma virus (HPV)
+- pro-resolving lipid mediators
+- cancer immunotherapy
+- the cancer genome atlas database (TCGA)
+
+---

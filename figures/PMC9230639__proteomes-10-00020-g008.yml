@@ -1,0 +1,34 @@
+---
+figid: PMC9230639__proteomes-10-00020-g008
+pmcid: PMC9230639
+image_filename: proteomes-10-00020-g008.jpg
+figure_link: /pmc/articles/PMC9230639/figure/proteomes-10-00020-f008/
+number: Figure 8
+figure_title: ''
+caption: Most significantly enriched GO biological processes in downregulated transcripts.
+  Panther pathway analysis was used to detect the enriched biological processes represented
+  in the downregulated transcripts. Redundant overlapping terms were merged together
+  and processes not directly relevant to the cell type were removed. The top 10 most
+  enriched processes are depicted with their mean fold enrichment. Error bars represent
+  the upper- and lower-fold enrichment values for the merged terms. Statistical significance
+  is indicated by the false discovery rate (FDR)—for the merged terms, this is the
+  mean FDR.
+article_title: Dysregulated Gene Expression in Lymphoblasts from Parkinson’s Disease.
+citation: Sarah Jane Annesley, et al. Proteomes. 2022 Jun;10(2):20.
+year: '2022'
+
+doi: 10.3390/proteomes10020020
+journal_title: Proteomes
+journal_nlm_ta: Proteomes
+publisher_name: MDPI
+
+keywords:
+- Parkinson’s disease
+- proteome
+- transcriptome
+- protein synthesis
+- mitochondria
+- oxidative phosphorylation
+- cell models
+
+---

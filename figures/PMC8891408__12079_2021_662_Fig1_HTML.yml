@@ -1,0 +1,55 @@
+---
+figid: PMC8891408__12079_2021_662_Fig1_HTML
+pmcid: PMC8891408
+image_filename: 12079_2021_662_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC8891408/figure/Fig1/
+number: Fig. 1
+figure_title: ''
+caption: 'CaSR mutants identified in breast cancer patients differ in their ability
+  to stimulate Rac but not ERK. CaSR mutations detected in general (A) and in breast
+  cancer patients (B), according to the COSMIC database. (C) Structure of CaSR dimers.
+  Human Calcium-Sensing Receptor in the active state (Ling et al. ), corresponds to
+  the 7DTV structure in the Protein Data Bank, the carboxyl terminal region was introduced
+  in the model. The position of single amino acid changes in the CaSR mutants studied
+  in this work is shown in the right CaSR monomer. (D) Expression of wild type and
+  mutant CaSR. Electrophoretic mobility of wild type and mutant CaSR expressed in
+  HEK-293. Immunoblots were revealed with the anti-CaSR ADD (1:15,000) monoclonal
+  antibody. Cells transfected with empty vector served as control. (E) Hypothetical
+  model showing CaSR signaling to Rac-GTPase via mTORC2. (F-I) CaSR mutants identified
+  in breast cancer patients activate Rac-1 GTPase and the ERK pathway. Rac-1-GTP was
+  isolated by pull-down with GST-PAK-CRIB-domain beads using lysates from HEK-293
+  cells transiently transfected with wild type CaSR or the indicated mutant. Cells
+  were stimulated with R568 + extracellular calcium for 3 min, and isolated Rac-1-GTP
+  was revealed by western blot. Graphs represent three independent experiments. Comparative
+  analyses of Rac-1 activation by wild type and mutant CaSR (F-I, left panels). (F)
+  Wild type CaSR vs N639K; * p = 0.0100, # p < 0.05; (unpaired Student t test; n = 3).
+  (G) Wild type CaSR vs T732A; *p = 0.0226, # p = 0.0237; (unpaired Student t test;
+  n = 3). (H) Wild type CaSR vs R886Q; **p = 0.0067, # p = 0.0256; (unpaired Student
+  t test; n = 3). (I) Wild type CaSR vs. V894I; * p = 0.0232, *p = 0.0339; (n = 3).
+  Comparative effect of wild type and CaSR mutants on ERK phosphorylation (F-I, right
+  panels). HEK-293 cells expressing wild type CaSR or the indicated CaSR mutants were
+  stimulated or not with 1 µM R-568 + 1.5 mM CaCl2 for 3 min. Graph represents the
+  densitometric analysis of ERK phosphorylation. Bars represent mean ± standard deviation
+  (SD). (F) Wild type CaSR vs N639K; ****p < 0.0001; (G) Wild type CaSR vs T732A;
+  ** p = 0.0031, **p = 0.0064; (H) Wild type CaSR vs R886Q; *** p = 0.0005, **p = 0.0060;
+  (I) Wild type CaSR vs. V894I; *** p = 0.0002, #p = 0.0151; (unpaired Student t test;
+  n = 4)'
+article_title: Calcium sensing receptor stimulates breast cancer cell migration via
+  the Gβγ-AKT-mTORC2 signaling pathway.
+citation: Lennis Beatriz Orduña-Castillo, et al. J Cell Commun Signal. 2022 Jun;16(2):239-252.
+year: '2022'
+
+doi: 10.1007/s12079-021-00662-y
+journal_title: Journal of Cell Communication and Signaling
+journal_nlm_ta: J Cell Commun Signal
+publisher_name: Springer Netherlands
+
+keywords:
+- Calcium sensing receptor
+- Cell migration
+- GPCR signaling
+- Breast cancer
+- Rac-1 GTPase
+- mTORC2
+
+---

@@ -1,0 +1,32 @@
+---
+figid: PMC9182402__molecules-27-03470-g005
+pmcid: PMC9182402
+image_filename: molecules-27-03470-g005.jpg
+figure_link: /pmc/articles/PMC9182402/figure/molecules-27-03470-f005/
+number: Figure 5
+figure_title: ''
+caption: Overview of the gene-pathway network (annotated network) created by cystoscope.
+  The blue nodes represent the CRC candidate genes connected with the pathways and
+  other nodes in the network. The orange nodes represent other pathways in connection
+  with CRC genes. According to this network, it can be demonstrated that CDK1 is involved
+  in all significant first-level pathways; it is associated with related genes in
+  each of the pathways and with other most significant CRC-related genes (CCNA2, BUB1B,
+  GADD45G, ATF3). The dominant pathway is cell cycle with padj 1.82 × 10−34.
+article_title: Transcriptome Profiling of HCT-116 Colorectal Cancer Cells with RNA
+  Sequencing Reveals Novel Targets for Polyphenol Nano Curcumin.
+citation: Hewa Jalal Azeez, et al. Molecules. 2022 Jun;27(11):3470.
+year: '2022'
+
+doi: 10.3390/molecules27113470
+journal_title: Molecules
+journal_nlm_ta: Molecules
+publisher_name: MDPI
+
+keywords:
+- gemini curcumin
+- colorectal cancer
+- RNA sequencing
+- PPI network
+- differentially expressed genes
+
+---

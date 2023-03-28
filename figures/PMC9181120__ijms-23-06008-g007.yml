@@ -1,0 +1,53 @@
+---
+figid: PMC9181120__ijms-23-06008-g007
+pmcid: PMC9181120
+image_filename: ijms-23-06008-g007.jpg
+figure_link: /pmc/articles/PMC9181120/figure/ijms-23-06008-f007/
+number: Figure 7
+figure_title: ''
+caption: Characterization and functional analysis of key metabolic pathways and correlations
+  between gut microbes, SCFAs proportions, and metabolites. NLD, the antibiotic-treated
+  mice managed under normal light–dark cycle; SD, the antibiotic-treated mice managed
+  under short-day cycle. Pathways were enriched via enrichment and topology analysis
+  of significantly different metabolites in colonic contents (A), colonic epithelium
+  (B), cecal contents (C), and cecal epithelium (D) in ABX mice under NLD and SD.
+  Large sizes and red colors represent high pathway impact and major pathway enrichment,
+  while small sizes and other colors represent low pathway impact and minor pathway
+  enrichment. Variable importance in projection (VIP) scores of metabolites in the
+  purine metabolism pathway were also obtained from the PLS-DA models in colonic epithelium
+  (E) and cecal epithelium (F). Red dots represented decreased and green dots represented
+  increased. Relevant metabolic pathways map based on the proportions of differential
+  metabolites of purine metabolism pathway in colonic epithelium (G) and cecal epithelium
+  (H), * p < 0.05, ** p < 0.01. Red represented decreased and blue represented increased.
+  Pearson correlation coefficients between the relative abundance of gut microbes
+  in intestinal contents and epithelium of Bacteroidetes phylum, Firmicutes phylum,
+  Clostridiales order, Lachnospiraceae family, and Ruminococcaceae family (I) were
+  analyzed in ABX mice, red line represented the best-fit line and grey region represented
+  the 95% confidence band of the best-fit line. Pearson correlation coefficients between
+  the relative abundance of gut microbes and the proportions of SCFAs (J) were analyzed
+  in ABX mice. Pearson correlation coefficients between the relative abundance of
+  gut microbes and the significantly differential metabolites in purine and pyrimidine
+  metabolism pathways (K) were also analyzed in ABX mice. The Pearson correlation
+  coefficients (R) are shown on the plots; positive correlations are displayed in
+  red and negative correlations are shown in blue, while the (R) shown in the grid
+  proved that the correlation reached a significant level, p < 0.05.
+article_title: The Short-Day Cycle Induces Intestinal Epithelial Purine Metabolism
+  Imbalance and Hepatic Disfunctions in Antibiotic-Mediated Gut Microbiota Perturbation
+  Mice.
+citation: Yongkang Zhen, et al. Int J Mol Sci. 2022 Jun;23(11):6008.
+year: '2022'
+
+doi: 10.3390/ijms23116008
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- light–dark cycles
+- antibiotics
+- gut microbes
+- metabolomics
+- purine metabolism
+- transcriptome sequencing
+
+---

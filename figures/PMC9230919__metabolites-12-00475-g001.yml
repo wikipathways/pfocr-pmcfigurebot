@@ -1,0 +1,44 @@
+---
+figid: PMC9230919__metabolites-12-00475-g001
+pmcid: PMC9230919
+image_filename: metabolites-12-00475-g001.jpg
+figure_link: /pmc/articles/PMC9230919/figure/metabolites-12-00475-f001/
+number: Figure 1
+figure_title: ''
+caption: Diagram of the folate metabolic cycle and links to other pathways 5-methyl-THF
+  is the major species of folate derived from food and forms the recycling point for
+  folate metabolism. It forms the rate-limiting step, through the action of methionine
+  synthase (MTR), in the methylation of vitamin B12 and thus the rate-limiting step
+  for the methylation of homocysteine to methionine. Thus, it is critical to folate
+  metabolism generally and to the production of S-adenosyl methionine (SAM), the universal
+  methyl donor for methylation reactions. MTHFD1 is a multi-role enzyme involved in
+  three reactions in the folate pathway, forming a long route back to 5-methyl-THF.
+  Tetrahydrofolate (THF) can be recycled back through 5, 10-methenyl THF, forming
+  a short route and requiring B6 and serine to glycine reactions. Both long and short
+  routes require methyleneTHF reductase (MTHFR) for the final step to 5-methyl-THF.
+  MTHFD1 is further involved in recycling 10-formyl-THF to THF, fuelling purine synthesis.
+  5, 10-methenyl THF can also be reduced to dihydrofolate, fuelling pyrimidine synthesis.
+  Other pathways include 5-methyl-THF feeding directly into biogenic amine and nitric
+  oxide synthesis through the BH4 cycle, methionine feeding directly into the methylation
+  pathway, and acetylcholine synthesis. Folic acid is an artificial substance that
+  enters the folate cycle without any 1 carbon moiety to supply to the metabolic process
+  and so acts to dilute the 1 carbon pool, as well as having other negative effects
+  at higher doses (see text).
+article_title: Folate Related Pathway Gene Analysis Reveals a Novel Metabolic Variant
+  Associated with Alzheimer’s Disease with a Change in Metabolic Profile.
+citation: Jaleel Miyan, et al. Metabolites. 2022 Jun;12(6):475.
+year: '2022'
+
+doi: 10.3390/metabo12060475
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: MDPI
+
+keywords:
+- Alzheimer’s disease
+- cerebrospinal fluid
+- MTHFD1
+- folate
+- single nucleotide polymorphism
+
+---

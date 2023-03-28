@@ -1,0 +1,55 @@
+---
+figid: PMC9218364__gr2
+pmcid: PMC9218364
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC9218364/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: Photoreceptor-directed temporal response characteristics in mesopic and photopic
+  lighting(A) Amplitude sensitivity (mean ± SEM, n = 3 observers) as a function of
+  temporal frequency (symbols) is described by best-fitting difference of Gaussians
+  models (curved lines) at mesopic (200 Td, filled symbols, solid lines) and photopic
+  illumination (2000 Td, unfilled symbols, dashed lines). Temporal sensitivity is
+  low pass for melanopsin-directed (green triangles) and band-pass for both rod-directed
+  (black squares) and LMS-cone-directed stimuli (gray circles). Arrows denote the
+  instrument gamut for each condition.(B) Melanopsin-mediated visual function (green
+  line from (A)) is enhanced with subthreshold, supplemental rod contrast (magenta
+  symbols and lines; + 0.5% Michelson rod contrast, circles; + 2%, squares; + 3%,
+  triangles).(C) Rod-mediated visual function shifts toward the cone sensitivity function
+  with supplemental cone contrast (blue symbols and lines; + 0.5% Michelson LMS cone
+  contrast, circles; + 1%, squares; + 2%, triangles; + 3%, inverted triangles; + 4%,
+  diamonds).(D and F) Application of temporal white noise desensitizes the cone intrusions
+  at higher frequencies in melanopsin-directed stimuli. The change (Δ log CS) in melanopsin-directed
+  or rod-directed contrast sensitivity indicates that (E) supplemental rod-contrast
+  or (F) cone-contrast in the stimuli can facilitate temporal sensitivity at frequencies
+  >1 Hz.(G) The threshold versus intensity (TVI) response function for rod-directed
+  stimuli (1 Hz, squares) is more sensitive than, and deviates from the classic  model
+  at illuminations >498 Sc Td (200 Ph Td) (solid black line; −0.12 vertical adjustment
+  to account for differences in spatiotemporal summation). In photopic illuminations,
+  the rod-pathway has lower contrast sensitivity than the cone pathway (LMS; gray
+  circles) but higher sensitivity than the melanopsin-pathway (i; green triangles).(H)
+  The rod-directed critical flicker frequency (CFF) (black squares) is attenuated
+  by illuminations >7470 Sc Td (3000 Ph Td). The cone CFF increases with light level
+  according to the Ferry-Porter law (gray circles). Rod-cone interactions (Rod +3%
+  supplemental LMS-cone contrast; blue diamonds) suppress the LMS-cone CFF to a level
+  between the rod-directed and cone-directed maximum temporal resolution. The melanopsin
+  CFF is invariant with changes in retinal illumination (green triangles).(I) The
+  CFF of the three photoreceptor-directed (PRD) conditions increase with intrusion
+  from supplemental photoreceptor contrast at two light levels (200 Td, darker lines
+  and symbols; 2000 Td, lighter lines and symbols).
+article_title: Melanopsin photoreception differentially modulates rod-mediated and
+  cone-mediated human temporal vision.
+citation: Samir Uprety, et al. iScience. 2022 Jul 15;25(7):104529.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.104529
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Applied sensory psychophysics
+- Cellular neuroscience
+- Sensory neuroscience
+
+---

@@ -1,0 +1,45 @@
+---
+figid: PMC9219844__antioxidants-11-01125-g003
+pmcid: PMC9219844
+image_filename: antioxidants-11-01125-g003.jpg
+figure_link: /pmc/articles/PMC9219844/figure/antioxidants-11-01125-f003/
+number: Figure 3
+figure_title: ''
+caption: Overlap of metabolomic- and transcriptomic-predicted pathway dysregulation
+  (as observed from cell pellets) in safranal-treated HCC cells. Maps show metabolites
+  (gray dots), edges with no evidence (gray edges), transcriptomic reaction dysregulation
+  evidence (green edges), metabolomic reaction dysregulation evidence (blue edges),
+  and reaction dysregulation evidence from both omics experiments (bold black edges)
+  after safranal treatment. Metabolites and their respective metabolic pathways were
+  identified using LC/MS–QToF and Mummichog (http://mummichog.org/, accessed on 20
+  March 2021) in XCMS and their overlaps with those identified from RNAseq analysis
+  (black edges, panels A–C). (A) Overview of metabolic dysregulation evidence from
+  the dual omics experiments visualized in the Interactive Pathways Explorer v3 (https://pathways.embl.de/,
+  accessed 29 May 2021). (B) Lipid biosynthesis dysregulation after safranal treatment
+  (see also ). (C) Steroid biosynthesis dysregulation after safranal treatment (see
+  also ). (D) Overlap of metabolomics and transcriptomics dysregulated metabolic reactions
+  from CAS and EC numbers. Metabolite accessions were retrieved from the Chemical
+  Abstract Service (CAS) using the METLIN (https://metlin.scripps.edu, accessed 4
+  May 2021) batch search tool, ECs were retrieved from transcripts using EC Domain
+  Miner []. The CAS and EC accession numbers were compared in iPATH3 (https://pathways.embl.de/,
+  accessed 29 May 2021) to detect dysregulated.
+article_title: Molecular Mechanisms behind Safranal’s Toxicity to HepG2 Cells from
+  Dual Omics.
+citation: David Roy Nelson, et al. Antioxidants (Basel). 2022 Jun;11(6):1125.
+year: '2022'
+
+doi: 10.3390/antiox11061125
+journal_title: Antioxidants
+journal_nlm_ta: Antioxidants (Basel)
+publisher_name: MDPI
+
+keywords:
+- cancer
+- saffron
+- safranal
+- natural products
+- DNA damage
+- hepatocellular carcinoma
+- hypoxanthine
+
+---

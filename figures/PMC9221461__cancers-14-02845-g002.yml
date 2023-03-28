@@ -1,0 +1,35 @@
+---
+figid: PMC9221461__cancers-14-02845-g002
+pmcid: PMC9221461
+image_filename: cancers-14-02845-g002.jpg
+figure_link: /pmc/articles/PMC9221461/figure/cancers-14-02845-f002/
+number: Figure 2
+figure_title: ''
+caption: Construction and evaluation of the prognostic multiple-gene signature. (a)
+  LASSO Cox regression coefficients of lncRNA HAR1A-related apoptosis/cell cycle genes.
+  (b) Identification of the favorable gene signature using the LASSO model. (c) ROC
+  curve analyses of the prognostic model, TNM stage, HAR1A, and indicated combinations.
+  (d) Time-dependent receiver operator characteristic (ROC) curves trained on the
+  risk scores were used to access AUC values for the TCGA-LUAD cohort, evaluating
+  the overall accuracy of the model. (e) Kaplan–Meier survival curves of overall survival
+  (OS) time between high- and low-risk patients. (f) The distribution of the risk
+  score and survival status indicates that the survival time of patients descends
+  while the risk scores are increasing.
+article_title: LncRNA HAR1A Suppresses the Development of Non-Small Cell Lung Cancer
+  by Inactivating the STAT3 Pathway.
+citation: Jianqun Ma, et al. Cancers (Basel). 2022 Jun;14(12):2845.
+year: '2022'
+
+doi: 10.3390/cancers14122845
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- lncRNA HAR1A
+- STAT3
+- proliferation
+- prognostic signature
+- LUAD
+
+---

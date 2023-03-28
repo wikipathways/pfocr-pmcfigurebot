@@ -1,0 +1,44 @@
+---
+figid: PMC9321552__PCE-45-1891-g003
+pmcid: PMC9321552
+image_filename: PCE-45-1891-g003.jpg
+figure_link: /pmc/articles/PMC9321552/figure/pce14320-fig-0005/
+number: Figure 5
+figure_title: ''
+caption: 'Jasmonic acid (JA) biosynthesis genes are upregulated, either transiently
+  or for at least 4 weeks, in Norway spruce bark in response to methyl jasmonate (MeJA)
+  treatment. Expression profiles of genes displaying a significantly (adjusted p < 0.001)
+  altered expression pattern across time as a result of MeJA treatment and which were
+  annotated as encoding for enzymes (yellow boxes) involved in the (+)−7‐iso‐JA‐Ile
+  biosynthesis pathway. In the plots, faint lines indicate the mean expression profiles,
+  with 95% confidence intervals, of individual transcripts and the thicker lines depict
+  the mean per enzyme category profile, for water controls (blue) and MeJA treatments
+  (red). Read counts were normalised using the variance stabilising transformation
+  (vst) in DEseq. 2. The JA biosynthesis pathway is based on knowledge from angiosperms
+  such as Arabidopsis thaliana and Solanum lycopersicum and was adapted from Wasternack
+  and Hause () and Wasternack and Song (). Compound abbreviations: α‐LeA, α‐linolenic
+  acid; 13‐HPOT, (13S)‐hydroperoxyoctadecatrienoic acid; cis‐(+)‐OPDA, cis‐(+)−12‐oxophytodienoic
+  acid; OPC‐8, 3‐oxo‐2‐(2‐pentenyl)‐cyclopentane‐1‐octanoic acid; (+)−7‐iso‐JA, (+)−7‐iso‐jasmonic
+  acid; (+)−7‐iso‐JA‐Ile, (+)−7‐iso‐jasmonoyl‐l‐isoleucine. Enzyme abbreviations:
+  13S‐LOX, 13S‐lipoxygen‐ase; AOC, allene oxide cyclase; AOS, allene oxide synthase;
+  JAR1, JA‐amino acid synthetase; OPR, OPDA reductase; PLA1, phospholipase A1. [Color
+  figure can be viewed at wileyonlinelibrary.com]'
+article_title: Transcriptomic changes during the establishment of long‐term methyl
+  jasmonate‐induced resistance in Norway spruce.
+citation: Samuel W. Wilkinson, et al. Plant Cell Environ. 2022 Jun;45(6):1891-1913.
+year: '2022'
+
+doi: 10.1111/pce.14320
+journal_title: Plant, Cell & Environment
+journal_nlm_ta: Plant Cell Environ
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- epigenetics
+- induced resistance
+- methyl jasmonate
+- phytohormones
+- Picea abies
+- transcriptome
+
+---

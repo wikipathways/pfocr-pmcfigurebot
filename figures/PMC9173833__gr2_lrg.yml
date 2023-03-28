@@ -1,0 +1,72 @@
+---
+figid: PMC9173833__gr2_lrg
+pmcid: PMC9173833
+image_filename: gr2_lrg.jpg
+figure_link: /pmc/articles/PMC9173833/figure/f0010/
+number: Fig. 2
+figure_title: ''
+caption: 'IRF-1 mediates COVID-19-associated impairments in the insulin/IGF signaling
+  pathway. A and B: Transcriptome analysis of human autopsy lung tissues from control
+  patients (non-COVID-19 with other pulmonary pathologies) and COVID-19 patients (GSE150316:
+  Control n = 5, COVID-19 n = 8). Volcano plot (A) and pathway analysis of COVID-19-upregulated
+  genes (B; fold change>1, p value<0.25). C: Schematic diagram of causal factor screening
+  (human lung GSE150316: fold change>3, p value<0.25; human liver organoids GSE151803:
+  fold change>1.15, p value<0.05; mouse adipose tissue GSE162113: fold change>1.2,
+  p value <0.1; and human pancreatic cells GSE165890: fold change>1.2, t-test<0.1).
+  D-G: Gene expression of the IRF1 gene in human autopsy lung tissues (D: GSE150316,
+  Control n = 5, COVID-19 n = 8), human liver organoids (E: GSE151803, SARS-CoV-2
+  infection, Control n = 6, COVID-19 n = 6), mouse adipose tissue (F: GSE162113, 3 days
+  post-SARS-CoV-2 infection, Control AAV9-GFP n = 3, COVID-19 AAV9-hACE2 n = 3), and
+  iPS-derived pancreatic cells (G: GSE165890, Control Mock infection n = 3, COVID-19
+  SARS-CoV-2 infection n = 3). H-K: Relative gene expression of IRF1 in primary human
+  bronchial epithelial cells (H: GDS1256, control n = 5, interferon gamma 24-hour
+  treatment n = 5), mouse primary hepatocytes (I: GSE14949, control n = 3, interferon
+  beta treatment n = 3), mouse primary adipocytes (J: GSE110236, control n = 2, interferon
+  beta treatment n = 2), and human pancreatic islets (K: GSE124810, control n = 3,
+  interferon alpha treatment n = 3). L: Heatmap image of average IRF1 and insulin/IGF
+  signaling pathway genes in mouse lung tissues at Days 0, 2, 4, and 7 after SARS-CoV-2
+  infection (GSE154104). M: Heatmap image of IRF1 and insulin/IGF signaling pathway
+  genes in primary human bronchial epithelial cells treated with interferon gamma
+  for 24 h (GDS1256). N: Heatmap image of IRF1 and insulin/IGF signaling pathway genes
+  in human hepatoma Huh-7 cells with or without IRF1 overexpression (GSE26817). O-Q:
+  Heatmap images of insulin/IGF signaling pathway genes in human bronchial epithelial
+  BEAS-2B cells (O: GSE114284), human PH5CH8 hepatocytes (P: GSE115198), human monocytic
+  THP-1 cells (Q: GSE147313), and wild-type control and IRF1 knockout cells. R: Heatmap
+  image of average IRF1 and insulin/IGF signaling pathway genes in M. avium-infected
+  mouse lung tissue with or without IRF1 knockout (GSE11809). S: Human IRF1 ChIP-Seq
+  peaks in the gene regions of insulin/IGF signaling molecules (GSM1239465). Data
+  represent the mean ± SEM. #p < 0.25, *p < 0.05, **p < 0.01, and ***p < 0.001.'
+article_title: SARS-CoV-2 infection impairs the insulin/IGF signaling pathway in the
+  lung, liver, adipose tissue, and pancreatic cells via IRF1.
+citation: Jihoon Shin, et al. Metabolism. 2022 Aug;133:155236-155236.
+year: '2022'
+
+doi: 10.1016/j.metabol.2022.155236
+journal_title: Metabolism
+journal_nlm_ta: Metabolism
+publisher_name: The Authors. Published by Elsevier Inc.
+
+keywords:
+- SARS-CoV-2 infection
+- COVID-19
+- Insulin/IGF signaling pathway
+- IRF1
+- Interferone
+- Cytokine
+- Lung
+- Liver
+- Adipose tissue
+- Pancreatic cell
+- Older age
+- Male sex
+- Obesity
+- Diabetes
+- Tissue damage
+- Multiorgan dysfunction
+- Insulin signaling
+- Insulin resistance
+- Metabolic abnormality
+- Dihydrotestosterone
+- Dexamethasone
+
+---

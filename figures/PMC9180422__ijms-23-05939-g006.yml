@@ -1,0 +1,33 @@
+---
+figid: PMC9180422__ijms-23-05939-g006
+pmcid: PMC9180422
+image_filename: ijms-23-05939-g006.jpg
+figure_link: /pmc/articles/PMC9180422/figure/ijms-23-05939-f006/
+number: Figure 6
+figure_title: ''
+caption: 'Effect of deletion of POR in HUVEC in the Rho-kinase system. (A) Heatmap
+  of genes (p < 0.05) pertaining to the Rho GTPase effectors (Reactome) from RNA sequencing
+  of NTC (non-targeting control) and POR−/− CRISPR/Cas HUVEC (* FDR < 0.05). (B) Rho
+  GTPase ROCK activation pathway with log2fold change values (POR−/−/NTC) for the
+  genes of the associated pathway (* FDR < 0.05). (C) Pathway analysis using the Reactome-2016
+  dataset for differentially expressed genes from the HUVEC RNA sequencing. Bars represent
+  combined scores from top seven analyzed pathways using Enrichr. FDR: false discovery
+  rate.'
+article_title: Epoxyeicosatrienoic Acid and Prostanoid Crosstalk at the Receptor and
+  Intracellular Signaling Levels to Maintain Vascular Tone.
+citation: Pedro Felipe Malacarne, et al. Int J Mol Sci. 2022 Jun;23(11):5939.
+year: '2022'
+
+doi: 10.3390/ijms23115939
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- epoxyeicosatrienoic acid
+- nitric oxide
+- thromboxane
+- prostaglandins
+- arachidonic acid
+
+---

@@ -1,0 +1,41 @@
+---
+figid: PMC9165500__ADVS-9-2103230-g002
+pmcid: PMC9165500
+image_filename: ADVS-9-2103230-g002.jpg
+figure_link: /pmc/articles/PMC9165500/figure/advs3859-fig-0001/
+number: Figure 1
+figure_title: ''
+caption: 'Wnt/β‐catenin signaling is enriched in the highly metastatic cells of the
+  isogenic model and also in patient metastasis. a) The isogenic nonmetastatic NM
+  and highly metastatic HM sublines were selected from the parental HEYA8 cell line
+  using migration assays. The lines were intraperitoneally injected into nude mice
+  and peritoneal metastasis was observed by bioluminescence imaging of luciferase
+  activity. b) HM cells formed overt metastasis at the omentum of mice. Scale bar:
+  1 cm. c) Bioinformatic analysis on gene networks of upregulated genes (top 100 protein‐coding
+  genes with the lowest FDR and the highest fold change) in HM versus NM shows an
+  enrichment in the Wnt‐β‐catenin signaling pathway. d) Immunohistochemistry shows
+  higher β‐catenin expression level in metastatic samples than in primary tumors from
+  the same ovarian cancer patients. e) The HM gene signature score and the Wnt‐β‐catenin
+  hallmark score were calculated for every sample in the TCGA ovarian cancer patient
+  cohort by the ssGSEA method, and the correlation between the two scores was calculated
+  (left and middle panel). The HM gene signature score was compared among the four
+  ovarian cancer molecular subtypes (differentiated, immunoreactive, mesenchymal,
+  and proliferative) (right panel).'
+article_title: A Selective β−Catenin‐Metadherin/CEACAM1‐CCL3 Axis Mediates Metastatic
+  Heterogeneity upon Tumor–Macrophage Interaction.
+citation: Sally K. Y. To, et al. Adv Sci (Weinh). 2022 Jun;9(16):2103230.
+year: '2022'
+
+doi: 10.1002/advs.202103230
+journal_title: Advanced Science
+journal_nlm_ta: Adv Sci (Weinh)
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- β‐catenin
+- cytokinesis
+- ovarian cancer
+- polyploid
+- tumor‐associated macrophages
+
+---

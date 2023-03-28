@@ -1,0 +1,39 @@
+---
+figid: PMC9221398__cancers-14-02880-g005
+pmcid: PMC9221398
+image_filename: cancers-14-02880-g005.jpg
+figure_link: /pmc/articles/PMC9221398/figure/cancers-14-02880-f005/
+number: Figure 5
+figure_title: ''
+caption: PTGS2 is transcriptionally activated by MAEL and involved in the MAEL-mediated
+  regulation of stemness in HCC. (A) The plot of KEGG pathways in MAEL wildtype versus
+  knockout PLC8024 cells. The color and size of the bubble represent the enrichment
+  significance and gene numbers enriched in a pathway, respectively. (B) Gene set
+  enrichment analysis (GSEA) demonstrates MAEL modulation significantly enriched in
+  embryonic stem cell core. (C) The volcano diagram illustrates differentially expressed
+  genes by MAEL knockout. Spots indicate genes differentially expressed between the
+  two groups (red, upregulated; green, downregulated; gray, not significant genes;
+  –Log10Padj > 2, |Log2Fold change| > 2). (D) Relative mRNA level of PTGS2 validated
+  by qRT-PCR in MIHA, 8024, and Huh7 cells. (E) Schematic illustration of the luciferase
+  reporter constructs containing PTGS2 promoter. (F) Relative luciferase activity
+  in 293FT cells co-transfected with PTGS2-luciferase reporter and MAEL. Data represent
+  the mean ± SD of three independent experiments. * p < 0.05; *** p < 0.001.
+article_title: MAEL Augments Cancer Stemness Properties and Resistance to Sorafenib
+  in Hepatocellular Carcinoma through the PTGS2/AKT/STAT3 Axis.
+citation: Chaoran Shi, et al. Cancers (Basel). 2022 Jun;14(12):2880.
+year: '2022'
+
+doi: 10.3390/cancers14122880
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- Maelstrom
+- MAEL
+- PTGS2
+- HCC
+- drug resistance
+- cancer stemness
+
+---

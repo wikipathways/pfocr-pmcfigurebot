@@ -1,0 +1,44 @@
+---
+figid: PMC9214479__41401_2022_933_Fig5_HTML
+pmcid: PMC9214479
+image_filename: 41401_2022_933_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC9214479/figure/Fig5/
+number: Fig. 5
+figure_title: HSC inhibited the activation of S100A9/MAPK/NF-κB signaling pathway
+caption: 'a The volcano plot for the MS-identified 441 proteins in colon tissue. Each
+  point showed the Log2 (Fold change) in the x axis vs. their corresponding -Log10
+  (P-value) in the y axis. A fold change above 1.5, or a fold change below 0.67, was
+  considered as differentially expressed, and a P-value of < 0.05 (horizontal dotted
+  line) was considered as statistically significant. The black points indicate unaltered
+  proteins. The green points and red points indicated the downregulated and upregulated
+  proteins, respectively. The red circle represented S100A9. b The biological processes
+  of the differentially regulated proteins analyzed by the Metascape database. c Western
+  blotting analysis of S100A9 protein level in colon tissues. d Human Caco-2 cells
+  were treated with HSC for 1 h, and then treated with recombinant S100A9 protein
+  (1 μg/mL) for 2 h. Western blotting analysis of p-JNK, p-ERK, p-p38, p-p65 and total
+  proteins. e Statistical analysis of p-JNK, p-ERK, p-p38, and p-p65 protein level.
+  f TNF-α, g IL-6, h IL-1β were measured by ELISA in Caco-2 cells. i Western blotting
+  analysis of downstream protein of S100A9, including TLR4, p-JNK, p-ERK, p-p38, and
+  p-p65 in colon tissues. j Statistical analysis of TLR4, p-JNK, p-ERK, p-p38 and
+  p-p65 protein level. Data were shown as mean ± SD (n = 3). Each experiment was repeated
+  for three times. #P < 0.05, ###P < 0.001 vs control group; *P < 0.05, **P < 0.01,
+  ***P < 0.001 vs S100A9 group or TNBS group.'
+article_title: Hederacoside C ameliorates colitis via restoring impaired intestinal
+  barrier through moderating S100A9/MAPK and neutrophil recruitment inactivation.
+citation: Zheng-xia Zha, et al. Acta Pharmacol Sin. 2023 Jan;44(1):105-119.
+year: '2023'
+
+doi: 10.1038/s41401-022-00933-3
+journal_title: Acta Pharmacologica Sinica
+journal_nlm_ta: Acta Pharmacol Sin
+publisher_name: Springer Nature Singapore
+
+keywords:
+- hederacoside C
+- colitis
+- quantitative proteomics
+- S100A9
+- neutrophils
+- MAPK/NF-κB signaling
+
+---

@@ -1,0 +1,57 @@
+---
+figid: PMC9269928__pcbi.1010266.g001
+pmcid: PMC9269928
+image_filename: pcbi.1010266.g001.jpg
+figure_link: /pmc/articles/PMC9269928/figure/pcbi.1010266.g001/
+number: Fig 1
+figure_title: Quantification of bursts in TGF-β-induced SMAD translocation
+caption: 'A: Scheme of microscopy-based single-cell analysis of TGF-β signaling. In
+  unstimulated cells the SMAD2-GFP fusion protein is primarily located in the cytoplasm
+  (top). TGF-β stimulation promotes the transport of SMAD2-GFP to the nucleus and
+  hence increases the nuc/cyt SMAD2 ratio that was quantified from microscopy images
+  (bottom). See [] for details on the data analysis. B: Bursts in SMAD2 nuclear translocation.
+  Time-resolved measurements of the nuc/cyt SMAD2 ratio of four individual cells (colored
+  lines) are compared to the population average response over 352 cells (black line)
+  upon stimulation with 100 pM TGF-β. A stochastic deflection (burst) is highlighted
+  (arrow, dotted lines indicate beginning and end). C: Burst detection process. Bursts
+  are detected in the nuc/cyt SMAD2 ratio of a single-cell upon stimulation with TGF-β.
+  Top: Peaks in the measured trajectory of the nuc/cyt SMAD2 ratio (black line) are
+  approximated by a sum of Gaussian hills (green lines) which are subtracted from
+  a smoothened version of the signal to estimate the long-term trend (blue line).
+  Bottom: Afterwards, the long term trend is subtracted from the measurement data
+  (black line), short-term effects are smoothed out by a Gaussian filter (blue line)
+  and the result is analyzed by a peak finding algorithm which detects 5 bursts in
+  this example (indicated in red). As pathway events might occur shortly after each
+  other we allowed for overlapping bursts. The bursts are characterized by their height
+  and duration (red dashed lines). See  for details. D: Burst height increases with
+  TGF-β dose. Violin plots show the distributions of the burst height for the first
+  5 bursts (burst index) in the nuc/cyt SMAD2 ratio trajectories upon stimulation
+  with 5 pM (blue) and 25 pM (red) TGF-β and in a control population (0 pM). Median
+  and mean are marked by red and black horizontal lines. E: Burst count increases
+  with TGF-β dose. Distribution of burst counts in the nuc/cyt SMAD2 ratio trajectories
+  after stimulation with 5 pM and 25 pM TGF-β and in a control population (0 pM).
+  Higher doses of TGF-β lead to higher burst counts. Median and mean are marked by
+  red and black horizontal lines. F: Burst duration is independent of TGF-β dose.
+  Violin plots show the distributions of burst duration for the first 5 bursts (burst
+  index) in the nuc/cyt SMAD ratio trajectories upon stimulation with 5 pM and 25
+  pM TGF-β and in a control population (0 pM). Median and mean are marked by red and
+  black horizontal lines. G: Bursts count correlates to cell motility at the single-cell
+  level. Single cells were binned according to their area-under-curve (AUC), measured
+  as the integral of the nuc/cyt SMAD2 ratio over all time points (x-axis), and were
+  further sub-classified in terms of their total burst count (see legend). The cell
+  motility (y-axis) was calculated by taking the sum over the distance moved by the
+  cells in consecutive time points. Among cells with similar total signal (AUC), cells
+  with 8 or less bursts (blue) exhibit lower motility than cells with 12 or more bursts
+  (red).'
+article_title: Data-based stochastic modeling reveals sources of activity bursts in
+  single-cell TGF-β signaling.
+citation: Niklas Kolbe, et al. PLoS Comput Biol. 2022 Jun;18(6):e1010266.
+year: '2022'
+
+doi: 10.1371/journal.pcbi.1010266
+journal_title: PLoS Computational Biology
+journal_nlm_ta: PLoS Comput Biol
+publisher_name: Public Library of Science
+
+keywords:
+---
