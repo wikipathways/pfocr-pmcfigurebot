@@ -4,7 +4,11 @@ on:
   workflow_dispatch:
   schedule:
   - cron: "0 1 * * *" #Runs at 01:00, everyday. 
-  
+ 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.head_ref || github.ref }}
+  cancel-in-progress: false # to allow multiple runs to queue up rather than clobber
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
