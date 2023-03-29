@@ -1,0 +1,40 @@
+---
+figid: PMC9594778__sb1c00638_0006
+pmcid: PMC9594778
+image_filename: sb1c00638_0006.jpg
+figure_link: /pmc/articles/PMC9594778/figure/fig5/
+number: Figure 5
+figure_title: ''
+caption: Metabolic pathway for muconate production in engineered P. putida CJ442.
+  Abridged metabolic pathway adapted from the comprehensive metabolic map in Bentley
+  et al. Deleted genes are shown in red; heterologous genes are shown in brown; native
+  genes that are overexpressed are shown in green. The riboregulated protein phosphoenolpyruvate
+  synthase enzyme (PpsA), which converts PYR into PEP, is shown in blue, and its flux
+  is demonstrated with a blue arrow (gradient represents tuning of overexpression
+  using CRs in this study). Multiple-step reactions are indicated by multiple arrows.
+  See more details in the  section. Image created with BioRender.com.
+article_title: Precise Genomic Riboregulator Control of Metabolic Flux in Microbial
+  Systems.
+citation: Naresh Pandey, et al. ACS Synth Biol. 2022 Oct 21;11(10):3216-3227.
+year: '2022'
+
+doi: 10.1021/acssynbio.1c00638
+journal_title: ACS Synthetic Biology
+journal_nlm_ta: ACS Synth Biol
+publisher_name: American Chemical Society
+
+keywords:
+- riboregulator
+- RNA-based regulation
+- |-
+  synthetic
+  biology tools
+- cis-repressor
+- |-
+  flow
+  cytometry
+- metabolic engineering
+- cis,cis-muconate
+- Pseudomonas putida KT2440
+
+---

@@ -1,0 +1,44 @@
+---
+figid: PMC9569955__ijms-23-11588-g007
+pmcid: PMC9569955
+image_filename: ijms-23-11588-g007.jpg
+figure_link: /pmc/articles/PMC9569955/figure/ijms-23-11588-f007/
+number: Figure 7
+figure_title: ''
+caption: A family of proteins linked by the FPL-motif is involved in inflammation.
+  Schematic representation of the interactions between proteins of the FPL-motif family,
+  the E3 ubiquitin ligase TRIM25, and proteins of the adaptive (left pathway) and
+  innate (right pathway) immune response pathways. TRIM25 activates the RIG1 pathway
+  of the innate immune response via K63-ubiquitination of RIG1 and TRAF6. On the other
+  hand, TRIM25 causes the degradation of MAP4K1, an inhibitor of the adaptive immune
+  response via the T-cell (TCR) and B-cell (BCR) receptor pathways. It also degrades
+  STAU155. Through competition for dsRNA binding, STAU155 prevents the activation
+  of proteins of the innate immune response, such as MDA5 and PKR. STAU155 also up-
+  or downregulates the expression of multiple mRNAs coding for proteins of the inflammatory
+  and immune response pathways. For example, the STAU155-mediated upregulation of
+  IFIT3 and netrin-1 leads to enhanced immune response via the activation of the MAVS
+  pathway and inflammation, respectively. TRIM25 also targets other proteins (in red).
+  Whether it activates (K63-ubi) or degrades (K48-ubi) these proteins is still unresolved.
+  UBE2F activates the NF-κB pathway and interferon production by K63-ubiquitination
+  of TRAF6. ABCF1 enhances anti-inflammatory response by K63-ubiquitination-mediated
+  activation of TRAF3. In turn, NF-κB binds the promotor of the VCAM1 and GRP83 genes
+  and upregulates their expression.
+article_title: A Degradation Motif in STAU1 Defines a Novel Family of Proteins Involved
+  in Inflammation.
+citation: Yulemi Gonzalez Quesada, et al. Int J Mol Sci. 2022 Oct;23(19):11588.
+year: '2022'
+
+doi: 10.3390/ijms231911588
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- Staufen1
+- inflammation
+- protein degradation
+- E3 ubiquitin ligase
+- degron
+- TRIM25
+
+---

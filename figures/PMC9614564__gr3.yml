@@ -1,0 +1,33 @@
+---
+figid: PMC9614564__gr3
+pmcid: PMC9614564
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9614564/figure/fig0003/
+number: Fig. 3
+figure_title: ''
+caption: TRIM47 knockdown suppressed the STAT3 signaling pathway in ovarian cancer.
+  (A) p-STAT3 and STAT3 levels in TRIM47 knockdown SKOV3 and OVCAR3 cells were determined
+  by western blotting. (B) RT-qPCR measurement the expression of the STAT3 target
+  genes MCL1, MMP2, and c-MYC. (C) TRIM47 mRNA expression data corresponding to ovarian
+  cancer tissues (n = 426) and normal tissues (n = 88) were retrieved from a GEPIA
+  database. (D) Spearman's correlation analyses between TRIM47 expression and Mcl-1,
+  MMP2, and c-Myc, respectively. ⁎⁎p < 0.01.
+article_title: TRIM47 promotes ovarian cancer cell proliferation, migration, and invasion
+  by activating STAT3 signaling.
+citation: Xi Wang, et al. Clinics (Sao Paulo). 2022 Jan-Dec;77:100122.
+year: '2022'
+
+doi: 10.1016/j.clinsp.2022.100122
+journal_title: Clinics
+journal_nlm_ta: Clinics (Sao Paulo)
+publisher_name: Hospital das Clinicas da Faculdade de Medicina da Universidade de
+  Sao Paulo
+
+keywords:
+- TRIM47
+- STAT3
+- Proliferation
+- Metastasis
+- Ovarian cancer
+
+---

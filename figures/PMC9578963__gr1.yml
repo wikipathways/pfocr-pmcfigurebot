@@ -1,0 +1,36 @@
+---
+figid: PMC9578963__gr1
+pmcid: PMC9578963
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC9578963/figure/f0005/
+number: Fig.1
+figure_title: ''
+caption: PTEN/PI3Kα/Akt pathway at the plasma membrane and at the endosomes. PI3Kα
+  binds to the activated receptor and is anchored by RAS on the membrane in order
+  to convert PI(4,5)P2 to PI(3,4,5)P3 on the PM. PI(3,4,5)P3 activates the kinases
+  PDK1 and Akt. Akt gets phosphorylated and activated by both PDK1 and mTORC2. Akt
+  promotes cell survival, growth and proliferation through important downstream targets
+  including MDM2, BAD, FOXO and GSK3 as well as protein synthesis by inhibiting TSC1/2,
+  enabling the GTPase Rheb to activate mTORC1 which subsequently phosphorylates 4EBPs
+  proteins , , . The negative regulator of this pathway, PTEN, antagonizes PI3Kα performing
+  the reverse reaction. Recruitment of PI3Ks and phosphatases at the plasma membrane
+  and at the endosomal membranes is responsible for regulating endocytic transport
+  of growth factor receptors, thus affecting receptor fate and downstream signaling.
+article_title: The orchestrated signaling by PI3Kα and PTEN at the membrane interface.
+citation: Danai Maria Kotzampasi, et al. Comput Struct Biotechnol J. 2022;20:5607-5621.
+year: '2022'
+
+doi: 10.1016/j.csbj.2022.10.007
+journal_title: Computational and Structural Biotechnology Journal
+journal_nlm_ta: Comput Struct Biotechnol J
+publisher_name: Research Network of Computational and Structural Biotechnology
+
+keywords:
+- PI3Kα
+- PTEN
+- Allostery
+- Membrane trafficking
+- Phosphoinositides
+- Membrane-binding
+
+---

@@ -1,0 +1,38 @@
+---
+figid: PMC9561975__cancers-14-04910-g004
+pmcid: PMC9561975
+image_filename: cancers-14-04910-g004.jpg
+figure_link: /pmc/articles/PMC9561975/figure/cancers-14-04910-f004/
+number: Figure 4
+figure_title: ''
+caption: ADAM8 regulates HB-EGF/EGFR signal pathway. (A) Enrichment bubble figure
+  indicates down-regulated genes of RNA sequencing of U87MG_scramble samples and U87MG_shA8
+  samples, which are involved in specific signaling cascades. (B) Heatmap denotes
+  the signatures enriched in “Bladder cancer” pathways. (C) mRNA levels of ADAM8 and
+  HB-EGF in indicated GBM cell lines (U87MG and G1). (D) Protein levels of ADAM8,
+  HB-EGF, and EGFR signaling cascades in indicated GBM cell lines (U87MG and G1).
+  (E) Protein levels were measured by Image J and are statistically shown in the bar
+  graph using an unpaired two-tailed Student’s t-test. (F,G) Immunofluorescence staining
+  of HB-EGF and p-EGFR of xenograft tissue sections, respectively. Scale bar = 100
+  um. ns (non-significant) * p < 0.05, ** p < 0.01, *** p < 0.001, **** p < 0.0001.
+article_title: 'The GBM Tumor Microenvironment as a Modulator of Therapy Response:
+  ADAM8 Causes Tumor Infiltration of Tams through HB-EGF/EGFR-Mediated CCL2 Expression
+  and Overcomes TMZ Chemosensitization in Glioblastoma.'
+citation: Xiaojin Liu, et al. Cancers (Basel). 2022 Oct;14(19):4910.
+year: '2022'
+
+doi: 10.3390/cancers14194910
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- glioblastoma
+- temozolomide
+- tumor-associated macrophages/microglia
+- CCL2
+- EGFR signaling
+- ADAM8
+- chemoresistance
+
+---

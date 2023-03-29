@@ -1,0 +1,41 @@
+---
+figid: PMC9609030__metabolites-12-01006-g006
+pmcid: PMC9609030
+image_filename: metabolites-12-01006-g006.jpg
+figure_link: /pmc/articles/PMC9609030/figure/metabolites-12-01006-f006/
+number: Figure 6
+figure_title: ''
+caption: Specific metabolic changes induced by UGT expression. (A) Expression of UGT2B7
+  proteins is associated with elevated metabolites of the creatine pathway. Fold changes
+  (FC) relative to control cells are provided in the heatmap. Non-significant metabolites
+  are displayed in white. SAM, S-adenosyl-methionine; SAH, S-adenosyl-homocysteine;
+  DMGly, dimethyl-glycine; GAMT, guanidinoacetate methyltransferase. (B) GAMT mRNA
+  expression are increased in cells expressing UGT2B7 proteins when compared to control
+  cells. *** p < 0.001, ** p < 0.01 (C) Metabolites upstream from the oxoglutarate
+  dehydrogenase complex (OGDC) in the TCA cycle are elevated in cells expressing UGT1A1
+  proteins. Branched-chain keto acids (BCKA) are also enriched in alt. UGT1A1 cells.
+  (D) Co-immunoprecipitations (co-IPs) revealed no interaction between UGT1A1 and
+  the oxoglutarate dehydrogenase-like (OGDHL) protein, a key regulator of the OGDC.
+  (E) The alt. UGT1A1 interacts with OGDHL, as detected by co-IP. Co-IPs were conducted
+  using anti-myc (UGT1A1) or anti-V5 (alt. UGT1A1) and control IgG antibodies. Western
+  blots were revealed with in-house anti-UGT1A (RC-71; for UGT1A1), anti-V5 (for alt.
+  UGT1A1) or anti-Flag (for OGDHL) antibodies.
+article_title: 'The Glycosyltransferase Pathway: An Integrated Analysis of the Cell
+  Metabolome.'
+citation: Yannick Audet-Delage, et al. Metabolites. 2022 Oct;12(10):1006.
+year: '2022'
+
+doi: 10.3390/metabo12101006
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: MDPI
+
+keywords:
+- metabolomics
+- glucuronidation
+- cell metabolism
+- glucose
+- TCA cycle
+- lipids
+
+---

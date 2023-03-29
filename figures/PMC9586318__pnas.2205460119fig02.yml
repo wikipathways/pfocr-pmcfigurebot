@@ -1,0 +1,33 @@
+---
+figid: PMC9586318__pnas.2205460119fig02
+pmcid: PMC9586318
+image_filename: pnas.2205460119fig02.jpg
+figure_link: /pmc/articles/PMC9586318/figure/fig02/
+number: Fig. 2
+figure_title: ''
+caption: Activation of inflammation-associated signal pathways during B. hermsii infection.
+  Wild-type C57BL/6 mice were infected i.p. with 5 × 104 spirochetes of B. hermsii
+  and at days 0 and 14 post inoculation, spinal cords were harvested for RNA-seq analysis
+  (n = 4 for each time point). (A) Volcano plot representing differential gene expression
+  on 0- and 14-d post infection. A subset of differentially expressed genes in RNA-seq
+  (B) was validated by qRT-PCR (C). (D) Enrichment of regulatory pathways involved
+  in B. hermsii infection was analyzed via KEGG. (E) Involvement of IL-17 signaling
+  pathway during B. hermsii infection was revealed by GSEA.
+article_title: Attenuation of relapsing fever neuroborreliosis in mice by IL-17A blockade.
+citation: Meihui Cheng, et al. Proc Natl Acad Sci U S A. 2022 Oct 18;119(42):e2205460119.
+year: '2022'
+
+doi: 10.1073/pnas.2205460119
+journal_title: Proceedings of the National Academy of Sciences of the United States
+  of America
+journal_nlm_ta: Proc Natl Acad Sci U S A
+publisher_name: National Academy of Sciences
+
+keywords:
+- neuroborreliosis
+- Borrelia hermsii
+- interleukin-17
+- relapsing fever
+- inflammation
+
+---

@@ -1,0 +1,29 @@
+---
+figid: PMC9571571__molecules-27-06453-g001
+pmcid: PMC9571571
+image_filename: molecules-27-06453-g001.jpg
+figure_link: /pmc/articles/PMC9571571/figure/molecules-27-06453-f001/
+number: Figure 1
+figure_title: ''
+caption: A detailed workflow of our proposal. There are four phases in the workflow.
+  The user first enters a disease or a primary pathway to be investigated. The search
+  step is done to select relevant PubMed articles. Then each accepted article is sorted
+  and parsed. The first network converts each sentence in each PDF to a single embedding
+  matrix. The second neural network sorts each sentence in each PDF based on its relevance
+  to the query. The third neural network extracts drug names from each relevant sentence.
+article_title: 'Adera2.0: A Drug Repurposing Workflow for Neuroimmunological Investigations
+  Using Neural Networks.'
+citation: Marzena Lazarczyk, et al. Molecules. 2022 Oct;27(19):6453.
+year: '2022'
+
+doi: 10.3390/molecules27196453
+journal_title: Molecules
+journal_nlm_ta: Molecules
+publisher_name: MDPI
+
+keywords:
+- drug repurposing
+- neuro-immunology
+- deep neural network
+
+---

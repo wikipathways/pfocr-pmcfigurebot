@@ -1,0 +1,38 @@
+---
+figid: PMC9570298__ijms-23-11191-g005
+pmcid: PMC9570298
+image_filename: ijms-23-11191-g005.jpg
+figure_link: /pmc/articles/PMC9570298/figure/ijms-23-11191-f005/
+number: Figure 5
+figure_title: ''
+caption: 'The association analysis of ATAC-seq and RNA-seq. (A) The pairwise comparisons
+  of DEGs and differential ATAC-associated genes. The pathways marked with red boxes
+  are used for further analysis in (D). (B) Functional enrichment of PEIGs compared
+  with DEGs and DARs. Heatmap tagged with the number −log10 (FDR). (C) ATAC signaling
+  distribution in the upstream promoter region of related transcription factors in
+  PEIGs. (D) Annotation of significantly enriched pathway genes in PEIGs relative
+  to DEGs and DARs, and water deprivation pathway related genes (marked by the red
+  box in (B)). The involved pathways are marked with different colors: purple for
+  phosphate-containing compound metabolic process, red for secondary metabolic process
+  and phenylpropanoid metabolic process, yellow for response to organonitrogen compound,
+  blue for response to ethylene, brown for substrate-specific transmembrane transporter
+  activity, green for response to water deprivation, and black for multiple pathways.'
+article_title: Integrating ATAC-seq and RNA-seq Reveals the Dynamics of Chromatin
+  Accessibility and Gene Expression in Apple Response to Drought.
+citation: Shicong Wang, et al. Int J Mol Sci. 2022 Oct;23(19):11191.
+year: '2022'
+
+doi: 10.3390/ijms231911191
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- apple
+- drought
+- chromatin accessibility
+- gene expression
+- ATAC-seq
+- RNA-seq
+
+---
