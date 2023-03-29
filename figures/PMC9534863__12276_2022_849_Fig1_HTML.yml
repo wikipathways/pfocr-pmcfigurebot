@@ -1,0 +1,39 @@
+---
+figid: PMC9534863__12276_2022_849_Fig1_HTML
+pmcid: PMC9534863
+image_filename: 12276_2022_849_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC9534863/figure/Fig1/
+number: Fig. 1
+figure_title: Proteomic profile of LF as determined by mass spectrometry analysis
+  and bioinformatic analysis
+caption: a A cluster heatmap showing differentially expressed proteins with over 2-fold
+  changes between LFH and non-LFH samples. Red denotes elevated levels, while green
+  denotes decreased levels. Red arrow denotes CLU. b Top 10 up- and top 10 downregulated
+  proteins. Levels of CLU protein in LFH were elevated by >30-fold compared with the
+  control. GO and KEGG pathway analysis. c–e GO terms for differentially expressed
+  proteins (p < 0.05). The color shows the enrichment scores (−lg(p-value)), and the
+  number of proteins tested is proportional to the marker area of the bubble of the
+  significantly enriched GO terms. c Biological process (BP) GO terms. d Cellular
+  component (CC) GO terms. e Molecular function (MF) GO terms. f Pathways associated
+  with differentially expressed proteins in LFH (p < 0.05). g Protein‒protein interaction
+  (PPI) analysis using the STRING tool showing functional association networks of
+  differentially expressed proteins. The associations between nodes are connected
+  with solid lines. Red marked rectangle shows CLU-TGF-β1 interactions.
+article_title: Clusterin negatively modulates mechanical stress-mediated ligamentum
+  flavum hypertrophy through TGF-β1 signaling.
+citation: Chunlei Liu, et al. Exp Mol Med. 2022 Sep;54(9):1549-1562.
+year: '2022'
+
+doi: 10.1038/s12276-022-00849-2
+journal_title: Experimental & Molecular Medicine
+journal_nlm_ta: Exp Mol Med
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Stress signalling
+- Translational research
+- Experimental models of disease
+- Proteomic analysis
+- Antibody therapy
+
+---

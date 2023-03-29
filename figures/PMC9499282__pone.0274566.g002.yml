@@ -1,0 +1,31 @@
+---
+figid: PMC9499282__pone.0274566.g002
+pmcid: PMC9499282
+image_filename: pone.0274566.g002.jpg
+figure_link: /pmc/articles/PMC9499282/figure/pone.0274566.g002/
+number: Fig 2
+figure_title: 'Outline of a first order binocular energy model (orange pathway): Odd
+  and even symmetric monocular receptive fields (white areas represent excitatory
+  regions of the receptive fields and dark areas inhibitory regions) are combined
+  to compute the first order binocular energy response'
+caption: 'Responses are summed across the two eyes for corresponding filters, then
+  squared. The squared outputs are summed across the two halves of the quadrature
+  pair. Outline of a second order binocular energy model (green and blue pathway):
+  Odd and even monocular energy responses are calculated separately for each eye (green
+  pathway). The first-order responses are squared and summed, to produce monocular
+  energy responses for each eye. This forms the input to the second order filters
+  (blue pathway) where the pairs of monocular filters are summed, squared and combined
+  to calculate the second-order binocular energy response.'
+article_title: Robust natural depth for anticorrelated random dot stereogram for edge
+  stimuli, but minimal reversed depth for embedded circular stimuli, irrespective
+  of eccentricity.
+citation: Paul B. Hibbard, et al. PLoS One. 2022;17(9):e0274566.
+year: '2022'
+
+doi: 10.1371/journal.pone.0274566
+journal_title: PLoS ONE
+journal_nlm_ta: PLoS One
+publisher_name: Public Library of Science
+
+keywords:
+---

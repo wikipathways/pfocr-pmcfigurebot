@@ -1,0 +1,35 @@
+---
+figid: PMC9579046__gr2
+pmcid: PMC9579046
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC9579046/figure/fig2/
+number: Fig 2
+figure_title: ''
+caption: Overall pathway analysis and interferon signaling in the CT26 proteome upon
+  irradiation.A, Ingenuity Pathway Analysis of differentially expressed proteins at
+  48 h post 10 Gy irradiation (-Log2 fold change >1.5). B, Interferon Signaling Ingenuity
+  Pathway visualized with p-values for quantifiable proteins in the CT26 proteome.
+  C, normalized intensity plots of proteins encompassing the Interferon Signaling
+  Pathway. D, the Activation of IRF pathway in the CT26 proteome upon irradiation.
+  Points are representative of mean ± SD values of three biological replicates and
+  p-values are representative of two-way ANOVA, where gray indicates untreated, and
+  orange indicates 10 Gy treated. CT, cancer testis.
+article_title: Ionizing Radiation Drives Key Regulators of Antigen Presentation and
+  a Global Expansion of the Immunopeptidome.
+citation: Arun Tailor, et al. Mol Cell Proteomics. 2022 Nov;21(11):100410.
+year: '2022'
+
+doi: 10.1016/j.mcpro.2022.100410
+journal_title: 'Molecular & Cellular Proteomics : MCP'
+journal_nlm_ta: Mol Cell Proteomics
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- AGC, automatic gain control
+- CT, cancer testis
+- FDR, false discovery rate
+- IFN, interferon
+- PRM, parallel reaction monitoring
+- PTM, posttranslational modification
+
+---

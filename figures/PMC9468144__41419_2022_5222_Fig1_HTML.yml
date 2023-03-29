@@ -1,0 +1,33 @@
+---
+figid: PMC9468144__41419_2022_5222_Fig1_HTML
+pmcid: PMC9468144
+image_filename: 41419_2022_5222_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC9468144/figure/Fig1/
+number: Fig. 1
+figure_title: Global transcriptional dysregulation in retinoblastoma
+caption: A Scatter plot depiction of an unsupervised PCA of gene expression level
+  from five RB and five retinal samples. B Volcano plot showing DEGs between RB and
+  normal samples. The red and green dots represent genes with significantly increased
+  or decreased expression in RB, respectively. C Heatmap of the expression profiles
+  for the DEGs between RB and normal samples. Each column represents a sample and
+  each line represents a DEG. D KEGG pathway analysis of the upregulated DEGs. Top
+  annotation clusters are shown according to their enrichment scores [log10 (p value)].
+  Background genes were all stably expressed in these samples. P value was adjusted
+  by Benjamini–Hochberg procedure. E GO analysis for downregulated DEGs. F Representative
+  cancer-related pathways and their corresponding upregulated genes. G Ten cancer-associated
+  genes were validated by qRT-PCR using clinical samples. Each dot represents a sample.
+  ***P < 0.001; **P < 0.01; *P < 0.05, by two-tailed t-test.
+article_title: E2F1/CKS2/PTEN signaling axis regulates malignant phenotypes in pediatric
+  retinoblastoma.
+citation: Meng Chen, et al. Cell Death Dis. 2022 Sep;13(9):784.
+year: '2022'
+
+doi: 10.1038/s41419-022-05222-9
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Paediatric cancer
+
+---

@@ -1,0 +1,38 @@
+---
+figid: PMC9585487__nihms-1838959-f0005
+pmcid: PMC9585487
+image_filename: nihms-1838959-f0005.jpg
+figure_link: /pmc/articles/PMC9585487/figure/F4/
+number: Figure 4
+figure_title: PRC2 restoration indirectly upregulates interferon signaling and antigen
+  presentation
+caption: (A) Network plot showing the connections of upregulated genes upon PRC2 restoration
+  (top four significantly enriched pathways shown). DEGs were derived from comparing
+  the effect of PRC2 restoration to controls in all three PRC2-null MPNST cell lines
+  using RNA-seq ().(B) Quantification of DEGs demonstrating that the genes that were
+  upregulated after PRC2 restoration were not direct PRC2 targets and did not gain
+  H3K27me3 with a functional PRC2.(C) Quantification of the PRC2-target DEGs shows
+  that they were not bivalent genes.(D) Enrichment plot demonstrating that PRC2 restoration
+  significantly increased genes in the GO pathway “Response to type I interferon”.(E)
+  Enrichment plot showing that genes associated with the pathway “Antigen presentation
+  folder assembly and peptide loading of class I MHC” were significantly increased
+  upon PRC2 restoration.(F) Enrichment plot showing that Ras signaling genes () were
+  inhibited by PRC2 restoration in T265 cells. NES, normalized enrichment score.(G)
+  Heatmap of key STAT and IRF transcription factors shows that mRNA expression levels
+  of these transcription factors were increased by PRC2 restoration.(H) Heatmap showing
+  the transcriptional activation of STAT and IRF members caused by MEK inhibitor treatment
+  in T265 cells.(I) Histogram of flow cytometry result demonstrating the increase
+  in cell-surface expression of MHCI in three PRC2-deficient cell lines after trametinib
+  treatment.
+article_title: Single-cell sequencing reveals activation of core transcription factors
+  in PRC2-deficient malignant peripheral nerve sheath tumor.
+citation: Xiyuan Zhang, et al. Cell Rep. ;40(12):111363-111363.
+year: '2022'
+
+doi: 10.1016/j.celrep.2022.111363
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: ''
+
+keywords:
+---

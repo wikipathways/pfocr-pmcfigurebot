@@ -1,0 +1,37 @@
+---
+figid: PMC9550258__aging-14-204302-g002
+pmcid: PMC9550258
+image_filename: aging-14-204302-g002.jpg
+figure_link: /pmc/articles/PMC9550258/figure/f2/
+number: Figure 2
+figure_title: ''
+caption: Pyroptosis patterns and relevant biological pathway for each pattern. (A)
+  Unsupervised clustering of 30 PRGs in the six CC cohorts. The PPSclusters and cohorts’
+  names were used as patient annotations. Each column represented patients and each
+  row represented PRGs. (B) Unsupervised clustering analysis of CC patients from 6
+  GEO cohorts (GSE39582, GSE38832, GSE37892, GSE33113, GSE29621 and GSE17536) resulted
+  in three pyroptosis patterns. Kaplan-Meier curves of relapse-free survival for CC
+  patients in the meta-GEO cohort with different pyroptosis patterns. (C, D) The heatmaps
+  were used to visualize the gene set variation analysis score of representative biological
+  pathways in distinct pyroptosis patterns. The color of orange represented activated
+  pathways and blue represented inhibited pathways. The CC cohorts were used as sample
+  annotations. PPScluster-1 vs. PPScluster-3 (C) and PPScluster-1 vs. PPScluster-2
+  (D).
+article_title: 'Pyroptosis patterns of colon cancer could aid to estimate prognosis,
+  microenvironment and immunotherapy: evidence from multi-omics analysis.'
+citation: Jing Zhou, et al. Aging (Albany NY). 2022 Sep 29;14(18):7547-7567.
+year: '2022'
+
+doi: 10.18632/aging.204302
+journal_title: Aging (Albany NY)
+journal_nlm_ta: Aging (Albany NY)
+publisher_name: Impact Journals
+
+keywords:
+- colon cancer
+- tumor microenvironment
+- pyroptosis patterns
+- immunotherapy
+- The Cancer Genome Atlas
+
+---

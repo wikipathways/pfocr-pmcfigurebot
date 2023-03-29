@@ -1,0 +1,39 @@
+---
+figid: PMC9503909__toxics-10-00507-g009
+pmcid: PMC9503909
+image_filename: toxics-10-00507-g009.jpg
+figure_link: /pmc/articles/PMC9503909/figure/toxics-10-00507-f009/
+number: Figure 9
+figure_title: ''
+caption: Visual diagram of the mitochondrial dysfunction canonical pathway identified
+  by Ingenuity Pathway Analysis (IPA) as being associated with both the sham-irradiated
+  group and the 1H-irradiated group. The diagram provides an image of how the pathway
+  is structured, where the molecules from the dataset are located, and a prediction
+  of molecule activity. The nodes outlined in magenta are the molecules found in the
+  dataset. The node color indicates expression value, and color intensity indicates
+  degree of upregulation (red) or downregulation (green). Gray nodes are dataset molecules
+  that were not significantly expressed and therefore did not pass the IPA analysis
+  cutoff. Uncolored nodes were not part of our dataset but were incorporated into
+  the pathway based on evidence stored in the Ingenuity Knowledge Base. Blue indicates
+  a prediction of inhibited activity. Solid lines indicate a direct interaction between
+  molecules and the predicted relationship between the molecules. Grey arrows indicate
+  the effect is not predicted. The direction of the interaction is represented by
+  arrows. For signaling pathways, an arrow pointing from one molecule to another indicates
+  the cause of activation.
+article_title: Fractionated Proton Irradiation Does Not Impair Hippocampal-Dependent
+  Short-Term or Spatial Memory in Female Mice.
+citation: Pilar Simmons, et al. Toxics. 2022 Sep;10(9):507.
+year: '2022'
+
+doi: 10.3390/toxics10090507
+journal_title: Toxics
+journal_nlm_ta: Toxics
+publisher_name: MDPI
+
+keywords:
+- space
+- radiation
+- hippocampus
+- behavior
+
+---

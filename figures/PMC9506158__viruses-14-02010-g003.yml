@@ -1,0 +1,53 @@
+---
+figid: PMC9506158__viruses-14-02010-g003
+pmcid: PMC9506158
+image_filename: viruses-14-02010-g003.jpg
+figure_link: /pmc/articles/PMC9506158/figure/viruses-14-02010-f003/
+number: Figure 3
+figure_title: ''
+caption: ORF45 interactions with host signaling pathways. (A) ORF45 sustains activation
+  of the extracellular regulated kinase (ERK) p90 ribosomal s6 kinase (RSK) MAP kinase
+  pathway by binding to the ERK/RSK complex and preventing their dephosphorylation.
+  ORF45 also acts as a SUMO ligase and SUMOylates RSK to promote its kinase activity,
+  which is essential for the phosphorylation of translation initiation complex factor
+  eIF4B. RSK activity is also responsible for activation and nuclear accumulation
+  of the c-Fos transcription factor, as well as recruitment of RNA polymerase II to
+  promoters. RSK-mediated phosphorylation of the mTORC1 inhibitor, the tuberous sclerosis
+  complex subunit TSC2, releases TSC2 inhibition to promote mTORC1 signaling during
+  lytic infection. (B) ORF45 inhibits interferon regulator factor 7 (IRF7) activation
+  and subsequent interferon stimulated gene expression by serving as an alternative
+  phosphorylation substrate for upstream kinases TBK1 and IKKε (C) In the absence
+  of external stimuli, p53 signaling is inhibited by E3 ubiquitin ligases MDM2/MDMX,
+  which are stabilized by de-ubiquitinase USP7. Upon an appropriate external stimulus
+  (e.g., DNA damage), p53 is released from MDM2/MDMX inhibition and stabilized by
+  the binding of USP7, allowing p53 translocation to the nucleus and activation of
+  downstream targets. ORF45 inhibits p53 signaling through (i) interaction and sequestration
+  of p53 de-ubiquitinase USP7, which leads to p53 ubiquitylation and degradation and
+  (ii) direct interaction and cytoplasmic sequestration of p53, which prevents p53
+  activation of its downstream transcriptional targets. (D) The hNLRP1 inflammasome
+  is inhibited in steady state through interaction of auto-inhibitory domains in the
+  Linker 1 region and the UPA component of the FIIND domain. ORF45 interaction with
+  the Linker1 domain prevents this auto-inhibition leading to hNLRP1 C-terminal cleavage
+  and inflammasome activation.
+article_title: The ORF45 Protein of Kaposi’s Sarcoma-Associated Herpesvirus and Its
+  Critical Role in the Viral Life Cycle.
+citation: Natalie Atyeo, et al. Viruses. 2022 Sep;14(9):2010.
+year: '2022'
+
+doi: 10.3390/v14092010
+journal_title: Viruses
+journal_nlm_ta: Viruses
+publisher_name: MDPI
+
+keywords:
+- herpesvirus
+- tegument
+- KSHV
+- gammaherpesvirus
+- immediate-early gene
+- ORF45
+- RSK
+- MAP kinase pathway
+- interferon
+
+---

@@ -1,0 +1,45 @@
+---
+figid: PMC9442310__EMBR-23-e54458-g009
+pmcid: PMC9442310
+image_filename: EMBR-23-e54458-g009.jpg
+figure_link: /pmc/articles/PMC9442310/figure/embr202154458-fig-0007/
+number: Figure 7
+figure_title: miRNAs‐mediated control of MOV10 expression regulates L1 retrotransposition
+  in mESCs
+caption: The life cycle of L1 retrotransposition is depicted as a model. Only full‐length
+  L1 elements get transcribed driven by the promoter residing in its 5'UTR sequence.
+  The bicistronic L1 RNA is exported from the nucleus into the cytosol and translated
+  to give rise to L1 ORF1 (ORF1p) and L1 ORF2 (ORF2p) proteins. The L1 RNA and proteins
+  form a complex (L1 RNP) and are imported back into the nucleus. Endonuclease activity
+  of ORF2 nicks the target DNA and using a mechanism referred to as target primed
+  reverse transcription a new copy of L1 element is inserted into the genome via a
+  copy past mechanism of mobilization (Beck et al, ; Goodier, ). A key regulatory
+  step for retrotransposition is the import of L1RNP back into the nucleus. The canonical
+  miRNA biogenesis pathway illustrates the miRNAs discovered in this study that regulate
+  expression of RNA helicase Mov10 a known modulator of L1 mobility. In the absence
+  of miRNAs when either DICER or DROSHA proteins are deleted in mESCs, both L1 and
+  MOV10 expression are upregulated. Our data suggest that in miRNA, mutant mESCs MOV10
+  induces L1 RNP aggregate formation in the cytoplasm, the impaired import consequently
+  prevents L1 retrotransposition despite high L1 expression. While DDX6 was also found
+  to co‐localize with the larger L1 RNP particles, the identification of molecular
+  partners and biochemical activities intrinsic to the L1 RNP aggregates should unveil
+  the bottle neck afforded to prevent import.
+article_title: Sequestration of LINE‐1 in cytosolic aggregates by MOV10 restricts
+  retrotransposition.
+citation: Rajika Arora, et al. EMBO Rep. 2022 Sep;23(9):e54458.
+year: '2022'
+
+doi: 10.15252/embr.202154458
+journal_title: EMBO Reports
+journal_nlm_ta: EMBO Rep
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- LINE‐1
+- miRNA
+- retrotransposition
+- MOV10
+- cytosolic aggregates
+- Chromatin, Transcription & Genomics
+
+---

@@ -1,0 +1,38 @@
+---
+figid: PMC9497242__cells-11-02904-g002
+pmcid: PMC9497242
+image_filename: cells-11-02904-g002.jpg
+figure_link: /pmc/articles/PMC9497242/figure/cells-11-02904-f002/
+number: Figure 2
+figure_title: ''
+caption: 'Microarray analysis of the gene expression pattern between T cell-enriched
+  healthy and psoriatic skin substitutes. (a) Scatter plots of log2 of signal intensity
+  from 60,000 different probes covering the entire human transcriptome of HS+T (x-axis)
+  against PS+T (y-axis). The color scale corresponds to the level of gene expression
+  (dark blue being the lowest and dark red the highest) (b) Heatmap representation
+  of the expression profile for the 10 genes identified through the IPA analysis as
+  the most strongly deregulated between healthy (n = 3) and psoriatic (n = 4) skin
+  substitutes enriched with T cells. (c) Ingenuity pathway analysis of gene interaction
+  networks altered in PS+T condition built around biological functions of interest:
+  proliferation, differentiation, migration, apoptosis and cell division. HS+T, healthy
+  skin substitutes with T cells; PS+T, psoriatic skin substitutes with T cells.'
+article_title: 'Gene Profiling of a 3D Psoriatic Skin Model Enriched in T Cells: Downregulation
+  of PTPRM Promotes Keratinocyte Proliferation through Excessive ERK1/2 Signaling.'
+citation: Geneviève Rioux, et al. Cells. 2022 Sep;11(18):2904.
+year: '2022'
+
+doi: 10.3390/cells11182904
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- psoriasis
+- tissue-engineered skin
+- ERK1/2
+- PTPRM
+- transcriptome
+- keratinocytes
+- microarray
+
+---

@@ -1,0 +1,39 @@
+---
+figid: PMC9499981__gr7
+pmcid: PMC9499981
+image_filename: gr7.jpg
+figure_link: /pmc/articles/PMC9499981/figure/fig7/
+number: Figure 7
+figure_title: ''
+caption: Metabolic pathways with higher-than-average mRNA-protein correlations may
+  reflect differential reproducibilityBar charts displaying the KEGG pathway enrichment
+  analysis of the CCLE mRNA-protein correlation before (left) and after (right) accounting
+  for protein-protein and mRNA-mRNA reproducibility. The −log10 of Benjamini-Hochberg
+  false discovery rate (FDR)-corrected p values calculated using Mann-Whitney U test
+  is used to assess enrichment for the pathway. For each bar chart, the gray line
+  indicates the threshold considered for significant enrichment (FDR < 0.05). If the
+  enrichment is below the threshold, then it is not considered significant. The bars
+  are colored orange if the median mRNA-protein correlation of genes within the pathway
+  is greater than the median mRNA-protein correlation of genes not in the pathway;
+  otherwise, the bars are colored blue.
+article_title: Experimental reproducibility limits the correlation between mRNA and
+  protein abundances in tumor proteomic profiles.
+citation: Swathi Ramachandra Upadhya, et al. Cell Rep Methods. 2022 Sep 19;2(9):100288.
+year: '2022'
+
+doi: 10.1016/j.crmeth.2022.100288
+journal_title: Cell Reports Methods
+journal_nlm_ta: Cell Rep Methods
+publisher_name: Elsevier
+
+keywords:
+- proteomics
+- proteogenomics
+- machine learning
+- reproducibility
+- transcriptomics
+- gene expression
+- post-transcriptional regulation
+- cancer
+
+---

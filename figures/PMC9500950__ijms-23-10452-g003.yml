@@ -1,0 +1,44 @@
+---
+figid: PMC9500950__ijms-23-10452-g003
+pmcid: PMC9500950
+image_filename: ijms-23-10452-g003.jpg
+figure_link: /pmc/articles/PMC9500950/figure/ijms-23-10452-f003/
+number: Figure 3
+figure_title: ''
+caption: Functional clustering and enrichment analysis of differentially abundant
+  proteins in HUVECs in response to SARS-CoV-2 exposure. (A,B) Volcano plots of the
+  relative quantified protein groups showing a significantly high abundance of proteins
+  in red (log2Fc ≥ 0.58 and −log10p-value ≥ 1.12 = p-value ≤ 0.05) and low abundance
+  proteins in blue (log2Fc ≤ −0.58 and −log10p-value ≥ 1.12 = p-value ≤ 0.05). The
+  gene names depicted in each plot were from proteins that presented the highest fold
+  change or the lowest p values (p-value ≤ 0.001). Network representation of the enriched
+  reactome pathways of the high (red) or low abundant (blue) protein clusters of SARS-CoV-2-exposed
+  HUVEC samples after 48 h (C) or 120 h (E). Network representation of the enriched
+  GO terms for biological processes of high (red) or low abundant (blue) protein clusters
+  of SARS-CoV-2 exposed samples at 48 h (D) or 120 h (F). Nodes depict the enriched
+  terms for pathways or biological processes. The connections between the nodes represent
+  the shared proteins among them. Dots represent the main proteins associated with
+  each biological process or pathway. The size of the nodes was directly proportional
+  to the significance of the terms (corrected p-value ≤ 0.05, right-sided hypergeometric
+  test, Bonferroni step-down FDR correction). Clustering and labeling of related GO
+  biological processes or Reactome pathways were performed using AutoAnnotate. Black
+  circles highlight enriched terms that indicate oxidative stress and/or endothelial
+  dysfunction.
+article_title: Proteomic Analysis Identifies Molecular Players and Biological Processes
+  Specific to SARS-CoV-2 Exposure in Endothelial Cells.
+citation: Thatiana Corrêa de Melo, et al. Int J Mol Sci. 2022 Sep;23(18):10452.
+year: '2022'
+
+doi: 10.3390/ijms231810452
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- SARS-CoV-2
+- endothelial cells
+- proteomics
+- mass spectrometry
+- HUVECs
+
+---

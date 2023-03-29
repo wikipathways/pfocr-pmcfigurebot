@@ -1,0 +1,33 @@
+---
+figid: PMC9503368__metabolites-12-00775-g004
+pmcid: PMC9503368
+image_filename: metabolites-12-00775-g004.jpg
+figure_link: /pmc/articles/PMC9503368/figure/metabolites-12-00775-f004/
+number: Figure 4
+figure_title: ''
+caption: 'The annotation results from COG, KEGG and CARD databases showed that the
+  metabolic capacity of DKD microbiome changed. (A): The heat map shows the COG annotation
+  results with significance; (B): COG pathway enrichment analysis bubble diagram was
+  obtained using the ClusterProfile package in R; (C): The heat map displays the level
+  3 sequence annotation results from the KEGG database; (D): In CAZy annotation results,
+  transcripts per million (TPM) values of cohesin and dockerin are shown at the class
+  level; (E): CAZy annotation results at the family level show TPM values in the heat
+  map (scaled by rows). * p < 0.05.'
+article_title: Interaction between Plasma Metabolomics and Intestinal Microbiome in
+  db/db Mouse, an Animal Model for Study of Type 2 Diabetes and Diabetic Kidney Disease.
+citation: Chenhua Wu, et al. Metabolites. 2022 Sep;12(9):775.
+year: '2022'
+
+doi: 10.3390/metabo12090775
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: MDPI
+
+keywords:
+- diabetic kidney disease
+- intestinal–metabolic–kidney axe
+- metabolomics
+- microbiome
+- type 2 diabetes
+
+---

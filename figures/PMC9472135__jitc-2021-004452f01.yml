@@ -1,0 +1,41 @@
+---
+figid: PMC9472135__jitc-2021-004452f01
+pmcid: PMC9472135
+image_filename: jitc-2021-004452f01.jpg
+figure_link: /pmc/articles/PMC9472135/figure/F1/
+number: Figure 1
+figure_title: ''
+caption: 'High LRIG2 is correlated with higher glioma TAM density and shorter survival.
+  LRIG family members’ expression level in glioma cells and the infiltration of immune
+  cells from the SCEA datasets *P<0.05,**P<0.01.(A) and GEO datasets (GSE131928; GSE135437)
+  (B). Unpaired Student’s t-test. Error bar=SD. (C) GO and KEGG pathway enrichment
+  analysis of LRIG2-related gene sets in glioma from the TCGA datasets. (D) Representative
+  IHC images of the infiltration of immune cell subsets in LRIG2 high (H-SCORE≥6）and
+  low expression (H-SCORE<6) tumors. Top panel: scale bar, 400 µm. Bottom panel: scale
+  bar, 80 µm. (E) Correlation analysis between the protein expression(D) of LRIG2
+  and the TAM marker CD68 and CD206 in clinical glioma tissue microarray (n=88, H-SCORE).
+  Pearson’s correlation test. (F) Kaplan-Meier survival curves for correlation between
+  mRNA and protein expression of LRIG2 and survival of glioma patients in the CGGA
+  dataset and clinical glioma tissue microarray. Log-rank test. (G) Kaplan-Meier survival
+  analysis for the correlation between infiltration degree of immune cell subsets
+  in glioma microenvironment and survival of glioma patients in the CGGA dataset and
+  clinical glioma tissue microarray, log-rank test. CGGA, Chinese Glioma Genome Atlas;
+  KEGG, Kyoto Encyclopedia of Genes and Genomes; ns, not significant; TAM, tumor-associated
+  microglia/macrophage; TCGA, The Cancer Genome Atlas.'
+article_title: LRIG2 promotes glioblastoma progression by modulating innate antitumor
+  immunity through macrophage infiltration and polarization.
+citation: Jinyang Hu, et al. J Immunother Cancer. 2022;10(9):e004452.
+year: '2022'
+
+doi: 10.1136/jitc-2021-004452
+journal_title: Journal for Immunotherapy of Cancer
+journal_nlm_ta: J Immunother Cancer
+publisher_name: BMJ Publishing Group
+
+keywords:
+- Phagocytosis
+- Brain Neoplasms
+- Tumor Microenvironment
+- Macrophages
+
+---

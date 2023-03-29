@@ -1,0 +1,52 @@
+---
+figid: PMC9456385__ijms-23-10133-g001
+pmcid: PMC9456385
+image_filename: ijms-23-10133-g001.jpg
+figure_link: /pmc/articles/PMC9456385/figure/ijms-23-10133-f001/
+number: Figure 1
+figure_title: ''
+caption: 'ROS functions in cancer cells: The production of ROS is elevated in tumor
+  cells as a consequence of increased metabolic rate, gene mutation, extracellular
+  growth factor signaling and relative hypoxia. This increase in the baseline ROS
+  level plays a crucial role in determining cancer cells’ fate: (1) ROS can drive
+  cancer cell proliferation by inactivating PTEN, a tumor suppressor that acts as
+  a brake on the pro-growth PI3K/Akt pathway. (2) Inversely, increased ROS can have
+  a nefarious effect on the cancer cell by activating apoptotic pathways. As such,
+  oxidative stress may lead to the formation of disulfide bonds in the thioredoxin
+  molecule, which results in the activation of the kinase Ask1 and subsequent activation
+  of key apoptotic transcription factors like JNK and p38. (3) A similar process occurs
+  in the case of p53 activation, where an ROS-triggered formation of disulfide bonds
+  at the Cys 2999 residues of ATM homodimer results in activation and subsequent phosphorylation
+  of p53 and its inhibitory molecule MDM2. P53 alongside JNK, p38, and other transcription
+  factors will shift the balance towards apoptosis by expressing proteins, such as
+  Bax homodimers, BAK and PUMA, to the detriment of antiapoptotic proteins such as
+  Bcl-2, Bcl-XL or MCL. (4) ROS can prevent the proteasomal degradation of transcription
+  factor Nrf2 by dissociating the KEAP1-Nrf2 complex and thus allowing Nrf2 to translocate
+  to the nucleus and activate antioxidant pathways that can mitigate the proapoptotic
+  effect of ROS. (5) By oxidizing iron from its ferrous (Fe2+) to its ferric (Fe3+)
+  state, ROS dampens the enzymatic activity of PHDs which would normally hydroxylase
+  the HIF-1α protein causing its proteasomal degradation. The non-hydroxylated form
+  of HIF-1α has a major role in promoting cancer cell survival, angiogenesis and metabolic
+  reprogramming under hypoxic conditions. PTEN, phosphatase and tensin homolog; Ask1,
+  apoptosis signal-regulating kinase 1; ATM, ataxia-telangiectasia mutated; MDM2,
+  mouse double minute 2 homolog; Bax, Bcl-2-associated protein X; Bcl-2, B-cell lymphoma
+  2; KEAP1, Kelch-like ECH-associated protein 1; PHDs, prolyl hydroxylase domain enzymes;
+  HIF-1α, hypoxia-inducible factor α.'
+article_title: Reactive Oxygen Species and Long Non-Coding RNAs, an Unexpected Crossroad
+  in Cancer Cells.
+citation: Teodor Paul Kacso, et al. Int J Mol Sci. 2022 Sep;23(17):10133.
+year: '2022'
+
+doi: 10.3390/ijms231710133
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- lncRNAs
+- ROS
+- antioxidant response
+- cancer metabolism
+- chemoresistance
+
+---

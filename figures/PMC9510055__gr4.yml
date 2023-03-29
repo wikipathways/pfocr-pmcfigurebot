@@ -1,0 +1,32 @@
+---
+figid: PMC9510055__gr4
+pmcid: PMC9510055
+image_filename: gr4.jpg
+figure_link: /pmc/articles/PMC9510055/figure/fig4/
+number: Figure 4
+figure_title: ''
+caption: Ingenuity pathway analysis of CD4+ T cellsscRNAseq was performed to assess
+  the transcriptomes of T4 PBMCs from 4 matched controls and low responders (pairs
+  12–15).(A) UMAP showing identification of immune cell subsets (see ).(B) Genes differentially
+  expressed by CD4+T cells from controls and low responders.(C) IPA canonical pathway
+  analysis of genes differentially expressed by CD4+T cells from controls and low
+  responders.(D) IPA upstream pathway analysis was employed to predict signaling pathways
+  driving the changes in canonical pathways. Only pathways analyzed by IPA with a
+  p<0.0001 are in the figure. Please refer to  for the entire list.
+article_title: Evidence of premature lymphocyte aging in people with low anti-spike
+  antibody levels after BNT162b2 vaccination.
+citation: Yapei Huang, et al. iScience. 2022 Sep 26 ;25(10):105209.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.105209
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Health sciences
+- Immunology
+- Microbiology
+- Transcriptomics
+
+---

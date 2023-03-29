@@ -1,0 +1,38 @@
+---
+figid: PMC9474565__gr3
+pmcid: PMC9474565
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9474565/figure/f0015/
+number: Fig. 3
+figure_title: ''
+caption: 'Derivation of the optimal pathway activation profile. A: illustrative example
+  of derivation using two DBS protocols per patient in a 2-D pathway activation space.
+  Note that in our problem the space has 14 dimensions. Values of Pi denote the corresponding
+  UPDRS-III scores for -th patient, “+” and “−” subscripts refer to the more and less
+  effective stimulation protocols, respectively. Divergent datapoints, i.e. those
+  with a large difference in percent activation (a fraction of axons in the pathway
+  that elicited an action potential in response to the DBS pulse) and small difference
+  in motor improvement (P4 here), were not considered for the derivation of the optimal
+  profile. B: the intrapatient interprotocol UPDRS-III improvement in the training
+  cohort with and without the normalization by the mean of percent activation differences.
+  The normalized metric was used to select datapoints for the derivation of the optimal
+  profile.'
+article_title: Linking profiles of pathway activation with clinical motor improvements
+  – A retrospective computational study.
+citation: Konstantin Butenko, et al. Neuroimage Clin. 2022;36:103185.
+year: '2022'
+
+doi: 10.1016/j.nicl.2022.103185
+journal_title: 'NeuroImage : Clinical'
+journal_nlm_ta: Neuroimage Clin
+publisher_name: Elsevier
+
+keywords:
+- Deep brain stimulation
+- Pathway activation
+- UPDRS-III score
+- Pallidothalamic pathway
+- Computational modeling
+- Parkinson’s disease
+
+---

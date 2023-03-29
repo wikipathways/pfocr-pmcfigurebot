@@ -1,0 +1,43 @@
+---
+figid: PMC9495822__biology-11-01253-g004
+pmcid: PMC9495822
+image_filename: biology-11-01253-g004.jpg
+figure_link: /pmc/articles/PMC9495822/figure/biology-11-01253-f004/
+number: Figure 4
+figure_title: ''
+caption: Proteomics analysis of the early and late passages of BMR cells. (a) The
+  bar graph illustrates the pathway enrichment visualization process overrepresented
+  in the related pathways in late passage cells compared to early passage cells with
+  a normalized enrichment score. (b) A dot plot representation of the KEGG pathway
+  enrichment analysis shows the activated and suppressed biological processes in late
+  passage cells compared to early passage cells. The dot size is based on the gene
+  count enriched in the pathway, and the color of the dot shows the pathway enrichment
+  significance. Gene set enrichment analyses (GSEAs) were performed with multiple
+  test corrections (Benjamini–Hochberg). (c) The Cnet plot of the BMR proteomics analysis
+  is shown. Each line shows the pathway and gene association. The fold changes of
+  proteins are colored between red and blue. The gene ratios of the pathways are presented
+  as the size of a circle. Pathways were selected as statistically significant at
+  the p < 0.05 cutoff (n = 4).
+article_title: 'Transcriptomics and Proteomics Analyses Reveal JAK Signaling and Inflammatory
+  Phenotypes during Cellular Senescence in Blind Mole Rats: The Reflections of Superior
+  Biology.'
+citation: Nurcan Inci, et al. Biology (Basel). 2022 Sep;11(9):1253.
+year: '2022'
+
+doi: 10.3390/biology11091253
+journal_title: Biology
+journal_nlm_ta: Biology (Basel)
+publisher_name: MDPI
+
+keywords:
+- aging
+- cancer
+- cellular senescence
+- JAK–STAT
+- SASP
+- inflammation
+- anticancer
+- MMP
+- NF-κB
+
+---

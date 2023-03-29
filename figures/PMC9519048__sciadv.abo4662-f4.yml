@@ -1,0 +1,44 @@
+---
+figid: PMC9519048__sciadv.abo4662-f4
+pmcid: PMC9519048
+image_filename: sciadv.abo4662-f4.jpg
+figure_link: /pmc/articles/PMC9519048/figure/F4/
+number: Fig. 4
+figure_title: Immune signaling in neurons recruits and activates microglia
+caption: (A) Schematic of spatial transcriptomics experiment. CK (n = 3) and CK-p25
+  (n = 4) were induced for 2 weeks. Coronal brain sections were stained and imaged
+  for γH2AX and then sequenced. (B) UMAP of capture areas from all samples. Leiden
+  clusters are indicated by color and number. Each dot represents one capture area.
+  (C) Leiden clusters superimposed onto a CK-p25 brain slice used for spatial transcriptomics.
+  (D) UMAP indicating the density of γH2AX+ capture areas. (E) γH2AX+ capture areas
+  identified in one CK-p25 brain slice. (F) Spatial clusters, γH2AX+ capture areas,
+  and reactive microglia signature gene expression in one CK-p25 sample. (G) Schematic
+  of neuronal p65 knockdown experiment. CK-p25 mice received retro-orbital injections
+  of scramble shRNA–red fluorescent protein (RFP) adeno-associated virus (AAV) or
+  shp65-RFP AAV. CK mice received retro-orbital injections of phosphate-buffered saline
+  (PBS). Mice recovered for 2 weeks before being taken off dox. Brains were collected
+  at the 2-week time point. (H) Reverse transcription quantitative polymerase chain
+  reaction of immune genes in sorted RFPhi γH2AXhi nuclei. (I) Representative images
+  of Iba1 in CK, scramble, and p65kd cortex. (J) Quantification of (left to right)
+  Iba1+ soma area, number Iba1+ per image, average branch length per Iba1+ cell, and
+  number end points per Iba1+ cell. Each data point represents one image. Two images
+  were taken per mouse. (K) Heatmap of differentially expressed genes from p65 versus
+  scramble contrast. (L) Up-regulated and down-regulated Gene Ontology (biological
+  pathway) terms identified through GSEA of p65kd versus scramble contrast. (L) Heatmap
+  of significantly up-regulated and down-regulated genes in PU.1hi nuclei from p65kd
+  cortex compared to PU.1hi nuclei from scramble cortex. Error bars represent SEM;
+  ****P < 0.0001, ***P < 0.001, **P < 0.01, and *P < 0.05. Student’s t test (H). One-way
+  ANOVA followed by Holm-Sidak’s test for multiple comparisons (I). (H) Scramble (n
+  = 5), p65kd (n = 5). (I) CK (n = 7), scramble (n = 5), p65kd (n = 6).
+article_title: Neurons burdened by DNA double-strand breaks incite microglia activation
+  through antiviral-like signaling in neurodegeneration.
+citation: Gwyneth M. Welch, et al. Sci Adv. 2022 Sep;8(39):eabo4662.
+year: '2022'
+
+doi: 10.1126/sciadv.abo4662
+journal_title: Science Advances
+journal_nlm_ta: Sci Adv
+publisher_name: American Association for the Advancement of Science
+
+keywords:
+---

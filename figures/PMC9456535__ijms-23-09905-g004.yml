@@ -1,0 +1,36 @@
+---
+figid: PMC9456535__ijms-23-09905-g004
+pmcid: PMC9456535
+image_filename: ijms-23-09905-g004.jpg
+figure_link: /pmc/articles/PMC9456535/figure/ijms-23-09905-f004/
+number: Figure 4
+figure_title: ''
+caption: 'Genome-wide identification of the FtcR regulons: (A) A representative image
+  of the FtcR ChIP-Seq read alignments to the B. melitensis 16M genome, visualized
+  as ChIP-Seq peaks using the Integrated Genome Viewer software. Peak height correlates
+  with the number of reads from the input (blue) or the IP (green) at the corresponding
+  positions of the B. melitensis 16M genome. (B) Density plot of FtcR ChIP-Seq reads
+  at 4 kb genomic regions centered at peak summits. (C) Venn diagram of intersecting
+  genes observed to be differentially expressed in RNA-Seq and genes identified as
+  directly bound by FtcR in ChIP-Seq analyses. A total of 54 genes present at the
+  intersection of these three datasets were defined as the regulons of FtcR. (D) A
+  heatmap illustrating the 54 differentially expressed regulons of FtcR between the
+  biofilms of WT and ∆ftcR.'
+article_title: The Flagellar Transcriptional Regulator FtcR Controls Brucella melitensis
+  16M Biofilm Formation via a betI-Mediated Pathway in Response to Hyperosmotic Stress.
+citation: Jia Guo, et al. Int J Mol Sci. 2022 Sep;23(17):9905.
+year: '2022'
+
+doi: 10.3390/ijms23179905
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- Brucella melitensis 16M
+- flagellar transcriptional factor FtcR
+- betI
+- biofilm
+- hyperosmotic stress
+
+---

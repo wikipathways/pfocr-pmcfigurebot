@@ -1,0 +1,45 @@
+---
+figid: PMC9460909__nutrients-14-03574-g003
+pmcid: PMC9460909
+image_filename: nutrients-14-03574-g003.jpg
+figure_link: /pmc/articles/PMC9460909/figure/nutrients-14-03574-f003/
+number: Figure 3
+figure_title: ''
+caption: Effects of the WES diet on gene expression of liver and skeletal muscle at
+  slaughter. Only CTR− and WES− animals were included in this analysis. (A) Volcano
+  plot representing the RNAseq results in liver in WES− sows compared to CTR− sows.
+  Orange dots indicate the differentially abundant transcripts (DATs) that are significantly
+  up-regulated (cut-off of p < 0.05 and −1.5 > fold change > +1.5), while the blue
+  dots represent the down-regulated DATs (cut-off of p < 0.05 and −1.5 > fold change
+  > +1.5). (B) Heatmap representing the z-score of biological functions significantly
+  affected by WES diet (calculation performed in IPA) in the liver. Blue indicates
+  a negative z-score (inhibition) and orange a positive z-score (activation). (C)
+  Regulatory effect of IGF-1 on the hepatic necrosis pathway. (D) Volcano plot representing
+  the RNAseq results in skeletal muscle. Orange dots indicate the up-regulated DATs
+  (cut-off of p < 0.05 and −1.5 > fold change > +1.5), while the blue dots represent
+  the down-regulated DATs (cut-off of p < 0.05 and −1.5 > fold change > +1.5). (E)
+  Heatmap representing the z-score of biological functions significantly affected
+  by WES diet (calculation performed in IPA) in muscle. (F) Predicted activation of
+  upstream regulators in skeletal muscle of WES− sows.
+article_title: Crossbred Sows Fed a Western Diet during Pre-Gestation, Gestation,
+  Lactation, and Post-Lactation Periods Develop Signs of Lean Metabolic Syndrome That
+  Are Partially Attenuated by Spirulina Supplementation.
+citation: Rosamaria Lugarà, et al. Nutrients. 2022 Sep;14(17):3574.
+year: '2022'
+
+doi: 10.3390/nu14173574
+journal_title: Nutrients
+journal_nlm_ta: Nutrients
+publisher_name: MDPI
+
+keywords:
+- dietary fat
+- dietary sugar
+- microalgae
+- gene expression
+- liver steatosis
+- skeletal muscle
+- insulin-like growth factor
+- pig model
+
+---

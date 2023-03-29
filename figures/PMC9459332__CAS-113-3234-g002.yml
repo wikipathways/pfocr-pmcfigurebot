@@ -1,0 +1,33 @@
+---
+figid: PMC9459332__CAS-113-3234-g002
+pmcid: PMC9459332
+image_filename: CAS-113-3234-g002.jpg
+figure_link: /pmc/articles/PMC9459332/figure/cas15472-fig-0003/
+number: FIGURE 3
+figure_title: ''
+caption: The difference in salivary metabolites between healthy controls (HC) and
+  colorectal cancer (CRC). (A), Score plots of partial least squares discriminant
+  analysis (PLS‐DA). x‐ and y‐axes indicate the first and the second PLS component.
+  Each plot corresponds to one sample. The plots with shorter distances indicate high
+  similarity of the metabolomics profile of these samples. (B), Variable importance
+  projection (VIP) score of PLS‐DA. (C), Pathway analysis. The metabolite concentration
+  of each sample was divided by its median value. Subsequently, the data were log2‐transformed
+  and translated into Z‐scores. For PLS‐DA, the 10‐fold cross‐validation with five
+  components showed the highest generalization value (R 2 = 0.552 and Q 2 = 0.524)
+article_title: Salivary metabolomics with machine learning for colorectal cancer detection.
+citation: Hiroshi Kuwabara, et al. Cancer Sci. 2022 Sep;113(9):3234-3243.
+year: '2022'
+
+doi: 10.1111/cas.15472
+journal_title: Cancer Science
+journal_nlm_ta: Cancer Sci
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- biomarker
+- colorectal cancer
+- metabolomics
+- polyamine
+- saliva
+
+---

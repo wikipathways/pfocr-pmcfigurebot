@@ -1,0 +1,39 @@
+---
+figid: PMC9456126__ijms-23-09934-g009
+pmcid: PMC9456126
+image_filename: ijms-23-09934-g009.jpg
+figure_link: /pmc/articles/PMC9456126/figure/ijms-23-09934-f009/
+number: Figure 9
+figure_title: ''
+caption: 'KEGG pathways and their Fold Enrichment at FDR < 0.05 using a list of the:
+  (a) 100 ng/L group upregulated genes, (b) 1 mg/L group upregulated genes, and (c)
+  the 1 mg/L group downregulated genes. The analysis was carried using DEGs at p <
+  0.1 and log2-fold change > 1. The Fold Enrichment was calculated as the percentage
+  of differentially expressed genes for each group belonging to a pathway, divided
+  by the corresponding percentage of genes in the background. FDR is calculated based
+  on nominal p-value from the hypergeometric test []. (Note: Only top 40 pathways
+  of 56 are displayed for the 1 mg/L upregulated gene list. For the complete list
+  see ).'
+article_title: Perfluorobutanoic Acid (PFBA) Induces a Non-Enzymatic Oxidative Stress
+  Response in Soybean (Glycine max L. Merr.).
+citation: Eguono W. Omagamre, et al. Int J Mol Sci. 2022 Sep;23(17):9934.
+year: '2022'
+
+doi: 10.3390/ijms23179934
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- Glycine max
+- PFAS
+- PFBA
+- phytotoxicity
+- circadian rhythm
+- cryptochrome
+- glycine betaine
+- hormesis
+- RNA-seq
+- circadian clock genes
+
+---

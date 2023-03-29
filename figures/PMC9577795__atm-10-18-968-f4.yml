@@ -1,0 +1,31 @@
+---
+figid: PMC9577795__atm-10-18-968-f4
+pmcid: PMC9577795
+image_filename: atm-10-18-968-f4.jpg
+figure_link: /pmc/articles/PMC9577795/figure/f4/
+number: Figure 4
+figure_title: ''
+caption: The top 10 upregulated DELs and their co-expressed DEGs. (A) Expression of
+  the top 10 upregulated DELs in our microarray data set. (B) The lncRNA-mRNA co-expression
+  network. The DEGs with absolute value of Spearman’s correlation coefficients >0.9
+  and a P value <0.05 were considered the co-expressed DEGs of the top 10 upregulated
+  DELs. ***, P<0.001. DEG, differentially expressed gene; DEL, differentially expressed
+  lncRNA.
+article_title: Identification of key genes and pathway related to chemoresistance
+  of small cell lung cancer through an integrative bioinformatics analysis.
+citation: Fan-Rui Zeng, et al. Ann Transl Med. 2022 Sep;10(18):968.
+year: '2022'
+
+doi: 10.21037/atm-22-3642
+journal_title: Annals of Translational Medicine
+journal_nlm_ta: Ann Transl Med
+publisher_name: AME Publishing Company
+
+keywords:
+- Small cell lung cancer (SCLC)
+- chemoresistance
+- mTOR pathway
+- long non-coding RNA (lncRNA)
+- microarray analysis
+
+---

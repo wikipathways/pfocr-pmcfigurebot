@@ -1,0 +1,50 @@
+---
+figid: PMC9543189__IJC-151-809-g001
+pmcid: PMC9543189
+image_filename: IJC-151-809-g001.jpg
+figure_link: /pmc/articles/PMC9543189/figure/ijc34045-fig-0002/
+number: FIGURE 2
+figure_title: ''
+caption: Development of the Hypoxia score and TME score based on hypoxia‐related genes
+  and TME cells respectively. (A) Heat map showing the relationships between the Hypoxia
+  score and 48 prognostic hypoxia‐related genes in five HBV‐HCC cohorts. Positive
+  (red) and negative (purple) correlations are indicated. Gray means missing values
+  in that cohort. (B) Heat map showing the relationships between the TME score and
+  19 prognostic TME cells in five HBV‐HCC cohorts. Positive (red) and negative (purple)
+  correlations are indicated. (C) Kaplan‐Meier overall survival curves of four training
+  cohorts in tumors with high Hypoxia score vs low Hypoxia score. (D) Kaplan‐Meier
+  overall survival curves of four training cohorts in tumors with high TME score vs
+  low TME score. (E) Gene Set Enrichment Analysis (GSEA) of 109 genes represent HIF‐1
+  signaling pathway reveals the association between Hypoxia score and HIF‐1 signaling
+  pathway. High hypoxia score located in the left approaching the origin of the x‐axis,
+  by contrast, low hypoxia score lay on the right of the x‐axis (GSE14520). (F) Gene
+  Set Enrichment Analysis (GSEA) of 332 marker genes represent immune response display
+  the association between TME score and immune response. High TME score located in
+  the left approaching the origin of the x‐axis, by contrast, low TME score lay on
+  the right of the x‐axis (GSE14520). (G) t‐SNE plot of all 3836 cells from 9 primary
+  liver cancer patients. Cells were annotated based on known lineage‐specific marker
+  genes as CD8 T cells, monocytes/macrophages, plasma cells, fibroblasts, malignant
+  cells, endothelial cells, hepatic progenitor (GSE125449). (H) t‐SNE plot of all
+  the single cells colored by Hypoxia score. (I) t‐SNE plot of all the single cells
+  colored by TME score. (J) Comparisons of Hypoxia score among immune cells, malignant
+  cells and stromal cells. (K) Comparisons of TME score among immune cells, malignant
+  cells and stromal cells [Color figure can be viewed at wileyonlinelibrary.com]
+article_title: The combined signatures of hypoxia and cellular landscape provides
+  a prognostic and therapeutic biomarker in hepatitis B virus‐related hepatocellular
+  carcinoma.
+citation: Shipeng Chen, et al. Int J Cancer. 2022 Sep 1;151(5):809-824.
+year: '2022'
+
+doi: 10.1002/ijc.34045
+journal_title: International Journal of Cancer
+journal_nlm_ta: Int J Cancer
+publisher_name: John Wiley & Sons, Inc.
+
+keywords:
+- HBV‐related hepatocellular carcinoma
+- hypoxia
+- prognosis
+- therapeutic responses
+- tumor microenvironment
+
+---

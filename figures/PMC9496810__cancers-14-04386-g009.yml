@@ -1,0 +1,44 @@
+---
+figid: PMC9496810__cancers-14-04386-g009
+pmcid: PMC9496810
+image_filename: cancers-14-04386-g009.jpg
+figure_link: /pmc/articles/PMC9496810/figure/cancers-14-04386-f009/
+number: Figure 9
+figure_title: ''
+caption: 'Secondary pathway assay for a representative and optimized SFRP1 mimetic
+  hit, showing potential regulation of the Wnt/β-catenin signaling in BT20 breast
+  cancer cells. DMSO (lanes 1, 2, 3) serves as negative diluent control and ICG-001
+  (lanes 4, 5, 6) as reference drug. (A,B) Protein expression of the phosphorylated
+  LRP6 receptor (P-LRP6) shows significant down-regulation in the presence of LDC066
+  (LDC066 is an optimized analog of an SFRP1 mimetic screening hit, lanes 7, 8, 9),
+  but not by ICG-001. All compounds are added as triplicates (ICG-001 at 20 µM, LDC066
+  at 10 µM). (C,D) Protein expression of the transcription factor cyclin D1 is significantly
+  downregulated by ICG-001 and LDC066 since both substances down-regulate the Wnt
+  signaling cascade at the level of gene transcription, and cyclin D1 is a TCF/CBP-regulated
+  gene. (E) Cartoon of active Wnt/β-catenin signaling cascade. LDC066 seems to down-regulate
+  the active LRP6 receptor (“P-LRP6”) at the cell surface, while the reference drug
+  ICG-001 antagonizes the TCF/β-catenin/CBP-dependent transcription in the cell nucleus.
+  Consequently, both drugs mediate down-regulation of the oncogenic transcription
+  factor cyclin D1, a key transcription factor in active Wnt signaling. (ns: not significant,
+  *: p < 0.05, **: p < 0.01, ***: p < 0.001).'
+article_title: 'White Paper: Mimetics of Class 2 Tumor Suppressor Proteins as Novel
+  Drug Candidates for Personalized Cancer Therapy.'
+citation: Edgar Dahl, et al. Cancers (Basel). 2022 Sep;14(18):4386.
+year: '2022'
+
+doi: 10.3390/cancers14184386
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- tumor suppressor proteins
+- mimetics
+- personalized cancer therapy
+- class 2 tumor suppressor genes
+- DNA methylation drivers
+- SFRP1
+- ITIH5
+- small molecules
+
+---

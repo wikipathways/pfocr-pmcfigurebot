@@ -1,0 +1,39 @@
+---
+figid: PMC9496731__cancers-14-04460-g006
+pmcid: PMC9496731
+image_filename: cancers-14-04460-g006.jpg
+figure_link: /pmc/articles/PMC9496731/figure/cancers-14-04460-f006/
+number: Figure 6
+figure_title: ''
+caption: 'Supervised learning and pathway analysis from metabolic footprinting of
+  patient-derived explant cultures reveals discriminating metabolic features between
+  high- (HR) and low-responders (LR). For (A) untreated control and (B) drug combination-treated
+  HGSC datasets at day 14, supervised models (PLS-DA: partial least-squares discriminant
+  analysis; sPLS-DA: sparse PLS-DA; RF: random forests) revealed (i) consistent top
+  metabolic features discriminating HR from LR and (ii) respective metabolite classes.
+  (iii) Pathway analysis of HR vs. LR shows significantly altered pathways for fatty
+  acids metabolism (1, 2), amino acids metabolism (3, 4, 6, 7, 8, 9) and pyrimidine
+  metabolism (5) pathways. A list of metabolites and respective classes, as well as
+  altered pathways and respective metabolites, are included in , (color scale and
+  symbol size reflect the combination between the p-value and the pathway impact,
+  respectively).'
+article_title: Exploring Metabolic Signatures of Ex Vivo Tumor Tissue Cultures for
+  Prediction of Chemosensitivity in Ovarian Cancer.
+citation: Rita Mendes, et al. Cancers (Basel). 2022 Sep;14(18):4460.
+year: '2022'
+
+doi: 10.3390/cancers14184460
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- ovarian carcinoma
+- ex vivo models
+- tumor microenvironment
+- metabolomics
+- drug response
+- chemoresistance
+- biomarkers
+
+---

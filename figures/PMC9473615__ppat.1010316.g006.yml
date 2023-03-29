@@ -1,0 +1,49 @@
+---
+figid: PMC9473615__ppat.1010316.g006
+pmcid: PMC9473615
+image_filename: ppat.1010316.g006.jpg
+figure_link: /pmc/articles/PMC9473615/figure/ppat.1010316.g006/
+number: Fig 6
+figure_title: Dual RNAseq analyses reveal a unique host transcriptional profile stimulated
+  by ΔM062R MYXV infection that is distinct from that caused by dsDNA alone
+caption: A. PCA plot of mock, ISD, ΔM062R, and wildtype MYXV treated samples. THP-1
+  cells are differentiated into macrophage-like cells followed by mock treatment,
+  ISD transfection, infection with ΔM062R or wildtype MYXV at a moi of 10 for 8 hours
+  before harvesting for RNA extraction, library generation, and next generation sequencing.
+  Triplicate per group (biological replicate) is included for this experiment. Good
+  separation among all four samples are observed with close clustering within replicates.
+  B. Ingenuity pathway analysis (IPA) revealed signaling pathway stimulated by ΔM062R
+  infection. Host genes differentially expressed during ΔM062R infection at 8h post-infection
+  are analyzed using IPA (Qiagen, version 01-20-04) for pathways affected. The graphic
+  summary is shown. The orange color highlighted pathways are upregulated (e.g., cGAS
+  pathway), while pathways in blue are being downregulated. C. Heatmap showing distinct
+  host ISG gene expression profile stimulated by ΔM062R. All significant differentially
+  expressed genes under study were visualized using the R library heatmap.2. Gene
+  counts were normalized using DESeQ2’s default normalization. Values in each row
+  were scaled using a z-score method before plotting and ward. D hierarchical clustering
+  was performed using the Euclidean distance measure (on the larger heatmap) and no
+  clustering was performed on the break-out heatmap. Representative genes from RT2-PCR
+  assay from  are shown. D. Distinct host transcription profiles between ΔM062R and
+  wildtype MYXV infection. All significant differentially expressed genes, between
+  the groups under study, were visualized using the R library heatmap.2. Gene counts
+  were normalized using DESeQ2’s default normalization. Values of each row were scaled
+  using a z-score method before plotting and ward. D hierarchical clustering was performed
+  using the Euclidean distance measure on the larger heatmap, and no clustering was
+  performed on the breakout heatmap. The R library ReactomePA was utilized to perform
+  a pathway enrichment analysis. All downregulated DEGs were sent to the library,
+  and the top 5 enriched pathways are displayed (q-value/p.adjust < 0.1). GeneRatio
+  indicates the ratio between the number of overlapping DEGs in the given pathway,
+  and the total number of DEGs. Further, the size of each dot represents the Count,
+  or the total number of overlapping DEGs in a given pathway.
+article_title: Myxoma virus lacking the host range determinant M062 stimulates cGAS-dependent
+  type 1 interferon response and unique transcriptomic changes in human monocytes/macrophages.
+citation: Steven J. Conrad, et al. PLoS Pathog. 2022 Sep;18(9):e1010316.
+year: '2022'
+
+doi: 10.1371/journal.ppat.1010316
+journal_title: PLoS Pathogens
+journal_nlm_ta: PLoS Pathog
+publisher_name: Public Library of Science
+
+keywords:
+---

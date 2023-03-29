@@ -1,0 +1,36 @@
+---
+figid: PMC9496719__cells-11-02919-g004
+pmcid: PMC9496719
+image_filename: cells-11-02919-g004.jpg
+figure_link: /pmc/articles/PMC9496719/figure/cells-11-02919-f004/
+number: Figure 4
+figure_title: ''
+caption: 'Analysis of nuclear Atox1-regulated genes. (A). Venn diagrams showing the
+  overlap between differentially expressed genes (DEGs) identified by RNA-Seq and
+  Atox1-bound genes identified by ChIP-Seq. (B). KEGG pathway enrichment analysis
+  based on those 1387 overlapped DEGs in A. The top 10 enriched pathways ranked by
+  the number of DEGs in the pathways are shown here. (C). Top: Heatmap showing the
+  expression levels of DEGs belonging to the TNF signaling pathway in RNA-Seq. Color
+  scale depicts range of log2 fold changes in gene expression. Bottom: Three selected
+  DEGs in this pathway was validated by quantitative RT-PCR (n = 3) *** p < 0.001,
+  ** p < 0.01.'
+article_title: 'Whole-Transcriptome Sequencing Analyses of Nuclear Antixoxidant-1
+  in Endothelial Cells: Role in Inflammation and Atherosclerosis.'
+citation: Varadarajan Sudhahar, et al. Cells. 2022 Sep;11(18):2919.
+year: '2022'
+
+doi: 10.3390/cells11182919
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- antioxidant-1
+- copper
+- transcriptome sequencing
+- ROS
+- inflammation
+- endothelial cells
+- atherosclerosis
+
+---

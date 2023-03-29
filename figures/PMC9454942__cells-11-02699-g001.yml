@@ -1,0 +1,47 @@
+---
+figid: PMC9454942__cells-11-02699-g001
+pmcid: PMC9454942
+image_filename: cells-11-02699-g001.jpg
+figure_link: /pmc/articles/PMC9454942/figure/cells-11-02699-f001/
+number: Figure 1
+figure_title: ''
+caption: RNA-seq and transcriptome analyses demonstrate modulation of several pathways
+  in favor of PCa inhibition upon treating CWR22Rv1 cells with VNPP433-3β. (A) Heatmap
+  of the differentially expressed genes in 10 µM VNPP433-3β-treated CWR22Rv1 cells
+  (lanes 4–6) for 48 h compared to the control (lanes 1–3), illustrating the clustering
+  for each comparison of interest based on the Gene Expression Counts and Log Fold
+  Change (LFC) for the Differentially Expressed Genes (DEGs). Columns correspond to
+  samples and rows correspond to genes. Scale bar represents a graded change in LFC
+  where pink is higher LFC, gray is lower LFC. Gene expression values were derived
+  from DESeq/DESeq2 normalized counts. (B) MA Plot showing the relationship between
+  expression change (LFC, M) and average expression (log2 mean expression, A). Red
+  points indicate the upregulated genes with FDR ≤ 0.05 and LFC ≥ 1 and blue points
+  indicate downregulated genes with false discovery rate (FDR) ≤ 0.05 and log2-fold-change
+  ≥ ±1. Dashed lines indicate the LFC cutoff values of ±1. Points colored in gray
+  indicate the genes that are not significantly differentially expressed. Table shows
+  the number of genes differentially expressed. (C) QIAGEN Ingenuity Pathway Analysis
+  shows that VNPP433-3β steered the transcription of multiple canonical pathways genes
+  in favor of PCa inhibition. A positive z-score (orange bars) indicates the activation
+  of the given pathway, and a negative z-score (blue bars) reflects the suppression
+  of that pathway.
+article_title: 'Novel AR/AR-V7 and Mnk1/2 Degrader, VNPP433-3β: Molecular Mechanisms
+  of Action and Efficacy in AR-Overexpressing Castration Resistant Prostate Cancer
+  In Vitro and In Vivo Models.'
+citation: Elizabeth Thomas, et al. Cells. 2022 Sep;11(17):2699.
+year: '2022'
+
+doi: 10.3390/cells11172699
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- castration-resistant prostate cancer
+- prostate cancer transcriptome
+- lead next generation galeterone analog
+- VNPP433-3β
+- androgen receptor
+- AR/AR-V7 degrader
+- MNK1/2-eIF4E
+
+---

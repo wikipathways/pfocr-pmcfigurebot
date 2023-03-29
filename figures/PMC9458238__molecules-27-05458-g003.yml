@@ -1,0 +1,45 @@
+---
+figid: PMC9458238__molecules-27-05458-g003
+pmcid: PMC9458238
+image_filename: molecules-27-05458-g003.jpg
+figure_link: /pmc/articles/PMC9458238/figure/molecules-27-05458-f003/
+number: Figure 3
+figure_title: ''
+caption: Components that differentiated samples of patients with a different outcome.
+  Panel (A)—the number of spectral components with a different Cohen’s [d] effect
+  size between different pairwise compared tissue regions; the relative number of
+  components [%] with increased significance of differences is color-coded in a heat
+  map. Panel (B)—the network of interactions between 74 proteins, the tryptic fragments
+  of which were putatively identified as spectral components downregulated in T-ROI
+  (compared to N-ROI) in the PD group specifically; interaction between proteins and
+  over-represented Reactome pathway functions associated with these proteins according
+  to an analysis using the STRING toolbox [] (color-coded are proteins associated
+  with 3 most numerous overrepresented pathways, shown is corrected p-value of pathway
+  over-representation). Panel (C)—Venn diagram showing the overlap between MSI components
+  downregulated in T-ROI (vs. N-ROI) in PD group, upregulated in clusters relatively
+  enriched in T-ROI (vs. N-ROI) in NED group, and upregulated in a cluster enriched
+  in T-ROI in NED group. Panel (D)—the correlation between ITH (the Simpson’s diversity
+  index computed for the first level of image segmentation) and Lymphocytic Host Response
+  (LHR) [] assessed by histopathology analysis in corresponding specimens (w/i—weak/intermediate,
+  i/s—intermediate/strong); number of samples with different LHR in the NED and PD
+  groups (bottom; “w/i” and “i/s” were combined with “intermediate”); * indicates
+  statistical significance (p < 0.05).
+article_title: Prognostic Value of Molecular Intratumor Heterogeneity in Primary Oral
+  Cancer and Its Lymph Node Metastases Assessed by Mass Spectrometry Imaging.
+citation: Agata Kurczyk, et al. Molecules. 2022 Sep;27(17):5458.
+year: '2022'
+
+doi: 10.3390/molecules27175458
+journal_title: Molecules
+journal_nlm_ta: Molecules
+publisher_name: MDPI
+
+keywords:
+- cancer prognosis
+- head and neck squamous cell carcinoma
+- intratumor heterogeneity
+- long-term outcome
+- mass spectrometry imaging
+- tumor microenvironment
+
+---

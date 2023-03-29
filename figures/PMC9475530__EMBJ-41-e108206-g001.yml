@@ -1,0 +1,60 @@
+---
+figid: PMC9475530__EMBJ-41-e108206-g001
+pmcid: PMC9475530
+image_filename: EMBJ-41-e108206-g001.jpg
+figure_link: /pmc/articles/PMC9475530/figure/embj2021108206-fig-0004/
+number: Figure 4
+figure_title: Molecular (auto‐)regulation of CD142+ ASPC (Areg)'s inhibitory activity
+caption: 'ARepresentative fluorescence microscopy images of CD142− ASPCs, co‐cultured
+  with CD142+ ASPCs (Aregs) carrying control (scrambled (scr)) or siRNA‐mediated knockdowns
+  of selected CD142+ ASPC (Areg)‐specific candidate genes: F3, Mgp and Gdf10 after
+  adipogenic differentiation (i.e., after exposure to an adipogenic cocktail, ).BFraction
+  of differentiated CD142− ASPCs, as quantified by the “adiposcore”, co‐cultured with
+  CD142+ ASPCs (Aregs) subjected to specific knockdowns (or scr siRNA control), as
+  indicated in (A); marker shapes correspond to different biological replicates, n = 10,
+  4 biological replicates, 2–3 independent wells for each.CPCA based on bulk RNA‐seq
+  data of CD142− ASPCs co‐cultured with CD142+ ASPCs (Aregs) subjected to specific
+  knockdowns as indicated in (A); see colour legend at the bottom of the figure.DExpression
+  heatmap of top CD142+ markers (i.e., Areg markers, Appendix Table ) with a positive
+  log2FC when performing differential expression analysis between CD142− ASPCs that
+  were exposed to “active Aregs” (WT, scr, siGdf10) versus CD142− ASPCs that were
+  exposed to “dysfunctional Aregs” (siF3, siMgp) across the bulk RNA‐seq of the same
+  samples and of CD142− and CD142+ ASPCs after exposure to an adipogenic cocktail;
+  genes are ordered from the highest (top) to the lowest (bottom) log2FC; significantly
+  differentially expressed genes (FDR < 0.05) are coloured in blue; Areg candidates
+  are highlighted in bold; log normalised expression scaled by row; see colour legend
+  at the bottom of the figure.EHeatmap showing the Euclidian distance of the transcriptomic
+  data of CD142− ASPCs co‐cultured (via transwell) with distinct CD142+ ASPC knockdown
+  types or controls as well as CD142+ or CD142− ASPCs post‐differentiation, calculated
+  on the five first principal components of the PCA shown in Appendix Fig D.FCorrelation
+  of “white fat cell differentiation score” versus “CD142+ score”; see colour legend
+  at the bottom of the figure.GVolcano plot showing the coefficient of the linear
+  regression performed between “white fat cell differentiation score” (WFCDS) and
+  log normalised gene expression (WFCDS ~ log(normalised expression)) (x‐axis) versus
+  the −log10(P‐value) (y‐axis); top CD142+ markers (i.e., Areg markers, Appendix Table )
+  are highlighted in blue and genes linked to “cellular response to RA” (GO:0071300)
+  and “RA receptor signalling pathway” (GO:0048384) terms in green. Data information:
+  In all images, nuclei are stained with Hoechst (blue) and lipids are stained with
+  Bodipy (yellow); scale bars, 100 μm. *P ≤ 0.05, **P ≤ 0.01, ***P ≤ 0.001, pairwise
+  two‐sided t‐test (B), for statistical details see .'
+article_title: Mammalian adipogenesis regulator (Areg) cells use retinoic acid signalling
+  to be non‐ and anti‐adipogenic in age‐dependent manner.
+citation: Magda Zachara, et al. EMBO J. 2022 Sep;41(18):e108206.
+year: '2022'
+
+doi: 10.15252/embj.2021108206
+journal_title: The EMBO Journal
+journal_nlm_ta: EMBO J
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- adipogenesis regulators (Aregs)
+- adipose stem and precursor cells
+- CD142
+- differentiation
+- retinoic acid
+- Development
+- Metabolism
+- Molecular Biology of Disease
+
+---

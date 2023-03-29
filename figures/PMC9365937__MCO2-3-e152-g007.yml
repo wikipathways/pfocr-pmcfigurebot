@@ -1,0 +1,36 @@
+---
+figid: PMC9365937__MCO2-3-e152-g007
+pmcid: PMC9365937
+image_filename: MCO2-3-e152-g007.jpg
+figure_link: /pmc/articles/PMC9365937/figure/mco2152-fig-0004/
+number: FIGURE 4
+figure_title: ''
+caption: 'Focal adhesion is involved in Glutathione peroxidase 8 (GPX8)‐regulated
+  metastasis in lung adenocarcinoma (LUAD). (A) The heatmap analysis based on RNA‐seq
+  after knockdown of GPX8 in A549 cells. (B and C) The Kyoto Encyclopedia of Genes
+  and Genomes (KEGG) pathway analysis based on RNA‐seq after knockdown of GPX8. (D)
+  The protein levels of focal adhesion pathway in A549 and NCI‐H1975 cells with downregulation
+  of GPX8 were detected by Western blot analysis. (E) The colocalization of p‐Paxillin
+  and F‐actin in A549 and NCI‐H1975 cells with downregulation of GPX8 was conducted
+  using immunofluorescence. Scale bar: 10 µm. (F) Gene Set Enrichment Analysis (GSEA)
+  analysis of focal adhesion, extracellular matrix (ECM) receptor interaction and
+  regulation of actin cytoskeleton signatures between GPX8 high and low group in TCGA_LUAD
+  dataset'
+article_title: Glutathione peroxidase 8 expression on cancer cells and cancer‐associated
+  fibroblasts facilitates lung cancer metastasis.
+citation: Yu‐Lian Xu, et al. MedComm (2020). 2022 Sep;3(3):e152.
+year: '2022'
+
+doi: 10.1002/mco2.152
+journal_title: MedComm
+journal_nlm_ta: MedComm (2020)
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- CAF
+- focal adhesion
+- GPX8
+- lung cancer
+- metastasis
+
+---

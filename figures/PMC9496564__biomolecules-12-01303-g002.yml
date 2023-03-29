@@ -1,0 +1,43 @@
+---
+figid: PMC9496564__biomolecules-12-01303-g002
+pmcid: PMC9496564
+image_filename: biomolecules-12-01303-g002.jpg
+figure_link: /pmc/articles/PMC9496564/figure/biomolecules-12-01303-f002/
+number: Figure 2
+figure_title: ''
+caption: Co-stimulatory signaling pathways of the Immunoglobulin and TNF-R superfamilies.
+  CD28 binds to B7 family members CD80 and CD86. Interaction with these ligands initiates
+  the recruitment of adaptor molecules including PI3K, Lck and Grb2. PI3K and Lck
+  activate PDK1 which diverges to activate both canonical NF-κB through Akt activation
+  and NFAT through GSK3β inhibition. The binding of Grb2/GADS initiates the SLP76/LAT/Vav
+  complex formation which activates PLCγ1 leading to NFAT-dependent gene transcription.
+  PLCγ1 also activates PKCθ, which regulates activation of NF-κB. Grb2 can also localize
+  independently at the distal motif to mediate MAPK and JNK activation, promoting
+  nuclear translocation of the AP-1 complex. 4-1BB binds to its sole ligand 4-1BBL,
+  which induces the recruitment of TRAF molecules. TRAF2 mediates RIP1 ubiquitination
+  leading to the recruitment of TAK1 and activation of the IKK complex. IKK activation
+  promotes the ubiquitin-mediated proteasomal degradation of IκB, releasing NF-κB
+  subunits from an inhibitory state. Independent of NF-κB signaling, TRAF2 also activates
+  upstream MAPK, MEKK1 and ASK-1, which initiate the p38 MAPK signaling cascade and
+  the JNK/SAPK pathway, respectively. Transcriptional activity induced by both Ig
+  and TNF-R signaling induce anti-apoptotic signals, T cell proliferation and cytokine
+  production (IL-2).
+article_title: Co-Stimulatory Receptor Signaling in CAR-T Cells.
+citation: Mackenzie M. Honikel, et al. Biomolecules. 2022 Sep;12(9):1303.
+year: '2022'
+
+doi: 10.3390/biom12091303
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: MDPI
+
+keywords:
+- chimeric antigen receptor
+- T cell engineering
+- co-stimulation
+- CD28
+- 4-1BB
+- signaling
+- hematologic malignancies
+
+---

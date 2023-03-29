@@ -1,0 +1,44 @@
+---
+figid: PMC9499289__pcbi.1010500.g005
+pmcid: PMC9499289
+image_filename: pcbi.1010500.g005.jpg
+figure_link: /pmc/articles/PMC9499289/figure/pcbi.1010500.g005/
+number: Fig 5
+figure_title: Human fMRI confirms computational advantage of transthalamic routing
+  of cortical information suggested by neural model
+caption: We considered a Bayesian model capturing computations in the OFC that detected
+  context changes and cued the dlPFC-MD neural model to switch behavioral strategy
+  accordingly. Two nodes of the Bayesian model represented belief in current context
+  (predominantly match or non-match context). Context nodes associated through Hebbian
+  learning to neurons in MD or dlPFC that happened to be active. When the OFC model
+  detected a switch, it activated the appropriate node for the inferred context, thereby
+  activating dlPFC or MD neurons associated with it. A. The OFC switch signal enhanced
+  performance immediately after a block change, and both sending the OFC signal to
+  dlPFC or through a transthalamic route to MD performed comparably. B. Average performance
+  in the 30 trials after a switch shows comparable enhancement in performance in the
+  model with OFC sending switch signal to MD or to dlPFC, compared with model with
+  no OFC signaling (paired t-test, MD vs dlPFC p = 0.6, dlPFC vs OFC off ***p <0.0001,
+  and MD vs OFC off ***p <0.0001). C. The transthalamic pathway required OFC to activate
+  only the 1 of the 2 MD neurons, whereas lowering the number of dlPFC neurons receiving
+  signal immediately deteriorated performance. D. We varied the number of timesteps
+  within a trial that OFC input needed to be active, and the transthalamic path required
+  shorter duration signal to achieve ceiling performance. E. Turning to human fMRI
+  analysis, Bayesian model selection from fMRI data revealed that the causal pattern
+  with connection from OFC to MD rather than to dlPFC was superior in explaining the
+  difference between trials where humans switched strategy or stayed in the same strategy
+  (model posterior probability = 0.99, for all model comparisons see ). F. Modulation
+  of connectivity in Switching from fMRI data. Green connections represent positive
+  modulation, red connections represent negative modulation. The number alongside
+  the connections indicate the coupling parameters from Bayesian parameter averaging,
+  which represents the strength of effective connectivity in Hz.
+article_title: Thalamic regulation of frontal interactions in human cognitive flexibility.
+citation: Ali Hummos, et al. PLoS Comput Biol. 2022 Sep;18(9):e1010500.
+year: '2022'
+
+doi: 10.1371/journal.pcbi.1010500
+journal_title: PLoS Computational Biology
+journal_nlm_ta: PLoS Comput Biol
+publisher_name: Public Library of Science
+
+keywords:
+---

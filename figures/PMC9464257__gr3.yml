@@ -1,0 +1,35 @@
+---
+figid: PMC9464257__gr3
+pmcid: PMC9464257
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9464257/figure/fig3/
+number: Fig. 3
+figure_title: ''
+caption: Gene set enrichment analyses. A) Bar plots for normalized enrichment scores
+  from gene set enrichment analysis of the expression changes (ICU vs NON-ICU) against
+  MSigDB Hall mark gene sets. Shown are FDR q < 0.05. B) Gene set enrichment analysis
+  of the genes sorted by the expression changes (ICU vs NON-ICU; the blue-to-red spectrum)
+  against gene set “ROS Pathway” (vertical bars) with top leading genes shown on the
+  left bottom and heatmap visualization of the gene expression for all leading genes
+  shown on the right. C) similar to B but for the gene set “IFN-α response). (For
+  interpretation of the references to color in this figure legend, the reader is referred
+  to the Web version of this article.)
+article_title: Redox imbalance in COVID-19 pathophysiology.
+citation: Nairrita Majumder, et al. Redox Biol. 2022 Sep 11 ;56:102465.
+year: '2022'
+
+doi: 10.1016/j.redox.2022.102465
+journal_title: Redox Biology
+journal_nlm_ta: Redox Biol
+publisher_name: Elsevier
+
+keywords:
+- SARS-CoV-2
+- COVID-19
+- EPR
+- Electron paramagnetic resonance
+- Redox imbalance
+- Uric acid
+- Transcriptomics
+
+---

@@ -1,0 +1,59 @@
+---
+figid: PMC9456757__pnas.2205608119fig04
+pmcid: PMC9456757
+image_filename: pnas.2205608119fig04.jpg
+figure_link: /pmc/articles/PMC9456757/figure/fig04/
+number: Fig. 4
+figure_title: ''
+caption: The SCFFBXO5–APC/C–GMNN pathway is a key mediator of CSN5i-3 toxicity. (A)
+  CSN5i-3 induces overreplication of DNA. K562 cells treated with DMSO or 1 μM CSN5i-3
+  for 1 to 3 d were pulse labeled with bromodeoxyuridine (BrdU), fixed, stained with
+  anti-BrdU and DAPI, and analyzed for cell cycle distribution by flow cytometry (Upper).
+  (Lower) Same as Upper except that cells were stained with fluorescent antibodies
+  to phosphohistone H3 (pHH3) to label cells in mitosis, prior to flow cytometry.
+  Representative graphs are shown; n ≥ 3. (B) Repression of FBXO5 or GMNN sensitizes
+  cells to CSN5i-3. This is the same as in  except that sgRNAs (BFP+; the top-scoring
+  one in the original screen; see SI Appendix, Table S3) targeting FBXO5 or GMNN were
+  used. Error bars represent ±SD; n = 2 to 3. (C) CSN5i-3 induces degradation of FBXO5
+  and GMNN. CHX chase was performed for 0 to 24 h on K562 cells treated with and without
+  1 μM CSN5i-3. Error bars represent ±SD; n = 3. (D) GMNN depletion by CSN5i-3 is
+  strongly modulated by FBXO5. A total of 1 μM CSN5i-3 was added for 0 to 3 d to unmodified
+  K562 cells (wild type [WT]) or K562 cells in which FBXO5 was repressed by CRISPRi
+  or overexpressed (o/e; stable integration of cDNA). Representative Western blots
+  are shown; n ≥ 2. (E and F) Transgene-driven overexpression and sgRNA-mediated repression
+  of FBXO5 or GMNN have opposite effects on induction of apoptosis and overreplication
+  by CSN5i-3 in K562 cells. Cells were treated with DMSO or 1 μM CSN5i-3 for 3 d.
+  Apoptosis (E) was estimated by measurement of activated Caspase 3. Cell cycle stage/DNA
+  content (F) was evaluated as in A. GMNN protein levels in untransfected wild-type,
+  repressed, and overexpressed cells are shown by Western blot. Error bars represent
+  ±SD; n = 3. (G) FBXO5 knockdown, GMNN knockdown, and CSN5i-3 treatment have similar
+  effects on cell cycle profile and overreplication. Cells were treated with siRNA
+  against either GMNN or FBXO5 or with 1 µM CSN5i-3 and incubated for 3 d. Cell cycle
+  stage and DNA content were evaluated as in A. FBXO5 and GMNN protein levels in HCT116
+  cells treated with indicated siRNAs are shown by Western blot. n = 3. (H) Depletion
+  of FBXO5 by CSN5i-3 is not dependent on the SCFβ-TrCPpathway. K562 cells were stably
+  transfected with constructs that express wild-type FBXO5 or the indicated mutants.
+  All three mutants shown lack the phosphodegron bound by SCFβ-TrCP. Transfected cells
+  were treated with DMSO, 50 μg/mL CHX, or CHX plus 1 µM CSN5i-3 for 4 h before immunoblotting.
+  The asterisk denotes the target bands, and the fast-migrating bands below these
+  bands are nonspecific. Representative Western blots are shown; n = 3. (I) Proposed
+  mechanism of CSN5i-3 toxicity through the SCFFBXO5–APC/C–GMNN axis.
+article_title: Adaptive exchange sustains cullin–RING ubiquitin ligase networks and
+  proper licensing of DNA replication.
+citation: Yaru Zhang, et al. Proc Natl Acad Sci U S A. 2022 Sep 6;119(36):e2205608119.
+year: '2022'
+
+doi: 10.1073/pnas.2205608119
+journal_title: Proceedings of the National Academy of Sciences of the United States
+  of America
+journal_nlm_ta: Proc Natl Acad Sci U S A
+publisher_name: National Academy of Sciences
+
+keywords:
+- Cop9 signalosome
+- CSN5i-3
+- CRISPR screen
+- DNA replication
+- deneddylation
+
+---

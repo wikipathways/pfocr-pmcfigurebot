@@ -1,0 +1,40 @@
+---
+figid: PMC9457765__molecules-27-05710-g001
+pmcid: PMC9457765
+image_filename: molecules-27-05710-g001.jpg
+figure_link: /pmc/articles/PMC9457765/figure/molecules-27-05710-f001/
+number: Figure 1
+figure_title: ''
+caption: 'The RAS functions as a binary switch in normal state. (a) Cartoon representation
+  of the crystal structure of RAS complexes: KRAS4B–GTP (modified from KRAS4B–GppNHp;
+  PDB ID: 3GFT) and KRAS4B–GDP (PDB ID: 4LPK). The helices (α1–α5), strands (β1–β6),
+  and loops (L1–L10) are shown in red, yellow, and gray, respectively. The P-loop
+  (P or L1), Switch I, and Switch II regions are colored lime, pink, and blue, respectively.
+  GTP/GDP are depicted by stick models []. (b) Schematic diagram showing the RAS-related
+  signaling pathways. After activation by epidermal growth factor (EGF), the tyrosine
+  kinase receptor EGFR recruits GEF such as SOS to the cell membrane via Src homology
+  2 domain containing (SHC) and growth-factor-receptor-bound protein 2 (Grb2) to activate
+  RAS []. Subsequently, the activated RAS dimerizes and binds to the downstream RAF
+  protein to regulate the MAPK signaling pathway (RAS–RAF–MEK–ERK pathway). The activated
+  ERK is transported to the nucleus and then phosphorylates a number of transcription
+  factors, such as erythroblastosis virus transcription factor (ETS), to ultimately
+  regulate the cell cycle []. In another RAS–PI3K–AKT pathway, the activated RAS recruits
+  PI3K to phosphorylate the substrate PIP2 and generate PIP3, whereupon PIP3 causes
+  the sequential phosphorylation of AKT and mTOR to regulate cell proliferation [].'
+article_title: Computer-Aided Drug Design Boosts RAS Inhibitor Discovery.
+citation: Ge Wang, et al. Molecules. 2022 Sep;27(17):5710.
+year: '2022'
+
+doi: 10.3390/molecules27175710
+journal_title: Molecules
+journal_nlm_ta: Molecules
+publisher_name: MDPI
+
+keywords:
+- RAS inhibitor
+- computer-aided drug design
+- virtual screening
+- molecular docking
+- molecular dynamics simulation
+
+---

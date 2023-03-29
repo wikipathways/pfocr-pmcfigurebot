@@ -1,0 +1,36 @@
+---
+figid: PMC9460920__plants-11-02195-g001a
+pmcid: PMC9460920
+image_filename: plants-11-02195-g001a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 1
+caption: Pathway analysis of Transcriptional effect of SSRE extract. (A) Cytotoxicity
+  assay of Sarcopoterium spinosum L. with different cell lines. A20 mouse lymphoma
+  (black), HL-60 human promyelocytic leukemia (blue), NB4 cells (green), and A549
+  human lung cancer cells (red) were incubated with a range of concentrations of SSRE
+  for 24 h, and an XTT assay was performed. (B) Comparative Gene Set Enrichment Analysis
+  (GSEA) of extract effect on lung (A549) and Mouse Adipocyte (3T3) cell lines. In
+  the middle, the number of common pathways that have been found in both cell lines
+  after extract treatment has been described. (C) RNAseq-based protein-protein interaction
+  networks of hub genes obtained from the STRING Database (interaction score > 0.9).
+  (Isolated protein nodes were not depicted in Figure). The Intensity of nodes between
+  genes represents the strength of the nodes and the interaction between proteins.
+article_title: Integration of the Connectivity Map and Pathway Analysis to Predict
+  Plant Extract’s Medicinal Properties—The Study Case of Sarcopoterium spinosum L..
+citation: Valid Gahramanov, et al. Plants (Basel). 2022 Sep;11(17):2195.
+year: '2022'
+
+doi: 10.3390/plants11172195
+journal_title: Plants
+journal_nlm_ta: Plants (Basel)
+publisher_name: MDPI
+
+keywords:
+- plant medicine
+- RNA sequencing
+- SARS-COV-2
+- autophagy
+- signaling pathway
+
+---

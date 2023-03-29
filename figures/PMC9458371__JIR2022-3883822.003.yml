@@ -1,0 +1,32 @@
+---
+figid: PMC9458371__JIR2022-3883822.003
+pmcid: PMC9458371
+image_filename: JIR2022-3883822.003.jpg
+figure_link: /pmc/articles/PMC9458371/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: Overexpressed pathways shared by the two in vitro monkeypox-infected models.
+  (a) The top 5% of overexpressed genes shared by the GSE21001 and GSE36854 datasets,
+  filtered by a Venn diagram, represent the monkeypox-infected Macaca mulatta kidney
+  epithelial (MK2) cell model and the human immortal epithelial cancer (HeLa) cell
+  model. (b) The most enriched biological pathways corresponding to genes from the
+  shortlist of upregulated genes shared by the two models, in order of decreasing
+  log (p values). (c) The most enriched metabolic pathways as components of the Endogenous
+  Metabolic Networks corresponding to genes from the shortlist of upregulated genes
+  shared by the two models, in order of decreasing log (p values). (d) Related pathways
+  and network analyses by MetaCore confirmed the vital role of the “immune response_IL-1
+  signaling” pathway in both monkeypox-infected models. (e) Endogenous Metabolic Networks
+  analyses by MetaCore confirmed the vital role of the “N-acyl-sphingosine phosphate
+  pathway” in both monkeypox-infected models.
+article_title: Comparison of Transcriptomic Signatures between Monkeypox-Infected
+  Monkey and Human Cell Lines.
+citation: Do Thi Minh Xuan, et al. J Immunol Res. 2022;2022:3883822.
+year: '2022'
+
+doi: 10.1155/2022/3883822
+journal_title: Journal of Immunology Research
+journal_nlm_ta: J Immunol Res
+publisher_name: Hindawi
+
+keywords:
+---

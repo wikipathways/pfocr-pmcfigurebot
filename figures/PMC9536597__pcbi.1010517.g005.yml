@@ -1,0 +1,22 @@
+---
+figid: PMC9536597__pcbi.1010517.g005
+pmcid: PMC9536597
+image_filename: pcbi.1010517.g005.jpg
+figure_link: /pmc/articles/PMC9536597/figure/pcbi.1010517.g005/
+number: Fig 5
+figure_title: Manhattan plot for cross scoring very severe confirmed COVID-19 with
+  medication class M05B for coherence
+caption: Data points correspond to genes. The dotted red line marks a Bonferroni significance
+  threshold of 1.18 × 10−7 (0.05 divided by the 18453 genes tested and 23 drug classes).
+  The inlay plot shows a zoom into the relevant locus chr3p21.31.
+article_title: Cross-GWAS coherence test at the gene and pathway level.
+citation: Daniel Krefl, et al. PLoS Comput Biol. 2022 Sep;18(9):e1010517.
+year: '2022'
+
+doi: 10.1371/journal.pcbi.1010517
+journal_title: PLoS Computational Biology
+journal_nlm_ta: PLoS Comput Biol
+publisher_name: Public Library of Science
+
+keywords:
+---

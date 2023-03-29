@@ -1,0 +1,54 @@
+---
+figid: PMC9526231__gr7
+pmcid: PMC9526231
+image_filename: gr7.jpg
+figure_link: /pmc/articles/PMC9526231/figure/fig7/
+number: Fig. 7
+figure_title: ''
+caption: IGF2BP1 recognizes and regulates MDM2 mRNA in an m6A-dependent manner. (A)
+  Venn diagram showing the intersection of DEGs from RNA-seq and enriched transcripts
+  from IGF2BP1 RIP-seq. (B) KEGG pathway enrichment analysis of genes obtained from
+  the intersection. (C) Venn diagram showing the intersection of KEGG pathway ‘Cell
+  cycle’, ‘p53 signaling pathway’, ‘FoxO signaling pathway’ and ‘Cellular senescence’.
+  (D, E) RT-qPCR and Western blot analysis of mRNA and protein levels of MDM2 in COV434 cells
+  after 3-NP treatment and IGF2BP1 knockdown/overexpression. a, lane1 vs 2; b, lane3
+  vs 4; (F) RT-qPCR analysis of MDM2 mRNA levels 0/3/6h after ActD treatment in IGF2BP1
+  depleted/overexpressed COV434 cells. (G) Map of SRAMP-predicted m6A sites and IGF2BP1-RIP
+  peaks on MDM2 mRNA. (H) Co-purification of MDM2 mRNAs with IGF2BP1 in wildtype,
+  control- (siCTRL) or METTL3-depleted(siMETTL3) COV434 cells was analyzed by RIP
+  using anti-IGF2BP1 antibodies and RT-qPCR analysis. (I) RT-qPCR and Western blot
+  analysis of mRNA and protein levels of MDM2 in COV434 cells after IGF2BP1 overexpression
+  and/or METTL3 knockdown. a, lane2 vs 1, P < 0.001; b, lane3 vs 1, P < 0.01. (J)
+  Schematic representation showing the reporters harboring wildtype or m6A-enriched-region
+  deleted fragments of SOX2-3′UTR (left panel). Dual luciferase reporter analysis
+  of MDM2-3′UTR-driven firefly luciferase reporter constructs in COV434 cells with
+  ectopically expressed IGF2BP1 (right panel). ns, not statistically significant;
+  *, P < 0.05; **, P < 0.01; ***, P < 0.001.
+article_title: RNA binding protein IGF2BP1 meditates oxidative stress-induced granulosa
+  cell dysfunction by regulating MDM2 mRNA stability in an m6A-dependent manner.
+citation: Hongbei Mu, et al. Redox Biol. 2022 Nov;57:102492.
+year: '2022'
+
+doi: 10.1016/j.redox.2022.102492
+journal_title: Redox Biology
+journal_nlm_ta: Redox Biol
+publisher_name: Elsevier
+
+keywords:
+- IGF2BP1
+- Granulosa cells
+- Oxidative stress
+- m6A modification
+- Cellular senescence
+- Reactive oxygen species
+- OS, oxidative stress
+- GCs, granulosa cells
+- ROS, reactive oxygen species
+- 3-NP, 3-nitropropionic acid
+- FSH, follicle-stimulating hormone
+- LH, luteinizing hormone
+- ActD, Actinomycin D
+- m6A, N6-methyladenosine
+- UTR, untranslated region
+
+---

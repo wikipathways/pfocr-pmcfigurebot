@@ -1,0 +1,34 @@
+---
+figid: PMC9495352__biomedicines-10-02100-g001
+pmcid: PMC9495352
+image_filename: biomedicines-10-02100-g001.jpg
+figure_link: /pmc/articles/PMC9495352/figure/biomedicines-10-02100-f001/
+number: Figure 1
+figure_title: ''
+caption: The ubiquitin–proteasome system (UPS) and proteolysis-targeting chimera (PROTAC).
+  For the degradation of a protein through UPS, the ubiquitin (Ub) is linked to an
+  Ub-activating enzyme (E1) via a thioester bond in the ATP-dependent reaction. Next,
+  activated Ub on E1 is transferred to an Ub-conjugating enzyme (E2) through trans-thioesterification.
+  The Ub-ligase (E3) recognizes a degradation signal (degron) of an endogenous substrate
+  and conjugates a Ub from E2 to a lysine residue of the substrate protein. The serial
+  cascades of Ub-activation, Ub-conjugation, and Ub-ligation by E1, E2, and E3 polyubiquitylate
+  the substrate or substrate-conjugated Ub. The 26S proteasome recognizes the polyubiquitin
+  chains on the substrate, subsequently followed by deubiquitylation, unfolding, and
+  degradation of the substrate. The PROTAC can hijack the E3 by its ligand and recruit
+  a target protein for degradation through UPS (adapted from [,]).
+article_title: 'Targeted Protein Degradation to Overcome Resistance in Cancer Therapies:
+  PROTAC and N-Degron Pathway.'
+citation: Hanbyeol Kim, et al. Biomedicines. 2022 Sep;10(9):2100.
+year: '2022'
+
+doi: 10.3390/biomedicines10092100
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: MDPI
+
+keywords:
+- targeted cancer therapy
+- PROTAC
+- N-degron
+
+---

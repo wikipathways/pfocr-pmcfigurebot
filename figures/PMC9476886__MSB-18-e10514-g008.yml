@@ -1,0 +1,50 @@
+---
+figid: PMC9476886__MSB-18-e10514-g008
+pmcid: PMC9476886
+image_filename: MSB-18-e10514-g008.jpg
+figure_link: /pmc/articles/PMC9476886/figure/msb202110514-fig-0006/
+number: Figure 6
+figure_title: A detailed mathematical model recapitulates experimental results of
+  both wt and tax‐6 mutant worms
+caption: In the detailed model (see Appendix Note  part 4), we integrated the available
+  dynamics of the AWA ion channels (Liu et al, ). To simulate circuit dynamics of
+  tax‐6 mutants, we set the contribution of calcium‐mediated inhibition to zero (
+  in equation  and shown in Fig ). A–C Calcium concentration and membrane potential
+  as simulated by the model, alongside calcium imaging measurements of a representative
+  worm in response to different stimulation patterns (top). (A) In response to a sigmoidal
+  gradient, simulated tax‐6 worms fail to generate pulsatile activity, in agreement
+  with the experimental results. Also, activity does not resume to its baseline levels.
+  (B) Response dynamics following a first long on step (identical to experiment protocol
+  described in Fig ). Experimental and simulated wt worms exhibit reduced amplitude
+  responses (increased habituation) following the second on step. In contrast, tax‐6
+  mutants did not show exact adaptation nor a reduced activity in response to the
+  second on step (no habituation). (C) Response dynamics of wt worms following a first
+  long (continues line) or short (dashed line) on step. A second on step following
+  a short on step (and hence a long off step), elicits calcium levels that match the
+  first step (purple). This contrasts with the attenuated response following a long
+  on step (and hence short off step, blue). Even though in both protocols, calcium
+  concentrations returned to baseline levels, the longer the off step, the higher
+  the response activity to a second step (in agreement with experimental results,
+  Fig ), suggesting that calcium‐independent processes contribute to the inhibition.
+  Note the different y‐scale for the experimental results in panels (B) and (C).  Source
+  data are available online for this figure.
+article_title: A negative feedback loop in the GPCR pathway underlies efficient coding
+  of external stimuli.
+citation: Rotem Ruach, et al. Mol Syst Biol. 2022 Sep;18(9):e10514.
+year: '2022'
+
+doi: 10.15252/msb.202110514
+journal_title: Molecular Systems Biology
+journal_nlm_ta: Mol Syst Biol
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- calcineurin/TAX‐6
+- calcium imaging
+- GPCR signaling
+- negative feedback
+- pulsatile response
+- Neuroscience
+- Signal Transduction
+
+---

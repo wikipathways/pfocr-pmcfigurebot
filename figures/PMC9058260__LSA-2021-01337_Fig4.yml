@@ -1,0 +1,43 @@
+---
+figid: PMC9058260__LSA-2021-01337_Fig4
+pmcid: PMC9058260
+image_filename: LSA-2021-01337_Fig4.jpg
+figure_link: /pmc/articles/PMC9058260/figure/fig4/
+number: Figure 4
+figure_title: Increased expression of genes associated with innate adjuvant signaling
+  in conventional dendritic cells (cDCs) after radiation in radioimmunogenic tumors
+caption: '(A) Experiment design: MC38 or Panc02-SIY (P2SIY) tumors were implanted
+  into WT mice and then treated with ±12 Gy of radiation therapy when they reached
+  5–6 mm average diameter. Twenty-four hours posttreatment, tumors were harvested,
+  and CD45+ were processed for single RNA sequencing (scRNAseq). n = 3 animal/group.
+  (B) Graph-based clustering in the Loupe Cell Browser from 10X Genomics (UMAP plot).
+  Each dot represents an individual cell. (C) Heatmap showing the z-score of expression
+  for cDC-specific genes across each cluster that was identified in (B). (D) Cells
+  in cluster 16 that expressed one or more transcripts of Zbtb46 were labeled in red
+  and used for downstream analysis and comparisons. Each dot represents an individual
+  cell. (E) cDCs from radiation-treated MC38 tumors were compared with cDCs from P2SIY
+  tumors using differential expression, and the data were plotted on using a volcano
+  plot. Each dot represents an individual gene, with the color indicating genes that
+  are significantly increased in MC38 cDCs (red), significantly increased in P2SIY
+  cDCs (blue) and not significant (gray). Genes were considered significant with BH-adjusted
+  P-value < 0.1 and fold change > 1.3. (F) The significant genes (red + blue dots)
+  were input in the Ingenuity Pathway Analysis (IPA) program from QIAGEN to identify
+  canonical pathways related to “cellular immune response.” (G) Within IPA, upstream
+  analysis was performed to identify transcriptional regulator, enzymes, and cytokines
+  that are predicted to be activated or inhibited in corresponding cDC populations.
+  Dots represent significant upstream regulators and their corresponding Z-score.
+  Red dots predict activation in radiation-treated MC38 cDCs, and blue dots predict
+  activation in P2SIY tumors. Pathways and regulators were considered significant
+  with P-value > 0.05 and absolute z-score > 2.0 in IPA.'
+article_title: Fluorescent tracking identifies key migratory dendritic cells in the
+  lymph node after radiotherapy.
+citation: Tiffany C Blair, et al. Life Sci Alliance. 2022 Sep;5(9):e202101337.
+year: '2022'
+
+doi: 10.26508/lsa.202101337
+journal_title: Life Science Alliance
+journal_nlm_ta: Life Sci Alliance
+publisher_name: Life Science Alliance LLC
+
+keywords:
+---

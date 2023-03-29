@@ -1,0 +1,37 @@
+---
+figid: PMC9454761__cells-11-02719-g006
+pmcid: PMC9454761
+image_filename: cells-11-02719-g006.jpg
+figure_link: /pmc/articles/PMC9454761/figure/cells-11-02719-f006/
+number: Figure 6
+figure_title: ''
+caption: Metabolite enrichment analysis using MetaboAnalyst. (A) Quantitative enrichment
+  analysis overview of the enriched metabolite sets derived from the quantified metabolites
+  of parental and PTX-res cells based on the KEGG pathways library. The dashed line
+  represents the cut-off for the significantly enriched metabolite sets in the PTX-res
+  cells (p < 0.05 and FDR < 0.1). (B) Table that summarizes the KEGG metabolism-related
+  pathways that were found enriched in the PTX-res cells. Match status indicates the
+  number of metabolites found in our data vs. the number of metabolites in the library
+  related to a specific pathway. (C) Concentration levels of the metabolites associated
+  with the pathways presented in (B) in parental and PTX-res cells (M; metabolism).
+article_title: Omics Analysis of Chemoresistant Triple Negative Breast Cancer Cells
+  Reveals Novel Metabolic Vulnerabilities.
+citation: Dimitris Kordias, et al. Cells. 2022 Sep;11(17):2719.
+year: '2022'
+
+doi: 10.3390/cells11172719
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- triple negative breast cancer
+- drug resistance
+- transcriptomics
+- metabolomics
+- lipidomics
+- MSMO1
+- myo-inositol
+- cholesterol biosynthesis
+
+---

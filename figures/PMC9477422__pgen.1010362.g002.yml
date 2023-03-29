@@ -1,0 +1,32 @@
+---
+figid: PMC9477422__pgen.1010362.g002
+pmcid: PMC9477422
+image_filename: pgen.1010362.g002.jpg
+figure_link: /pmc/articles/PMC9477422/figure/pgen.1010362.g002/
+number: Fig 2
+figure_title: GSEA Predicts High EGFR Activity in PTPRH Mutant NSCLC Tumors
+caption: Numerous bioinformatics methods illustrate the importance of PTPRH mutations
+  in human non-small cell lung cancer. A) data analyzed from the International Genome
+  Consortium as well as The Cancer Genome Atlas show PTPRH mutations occurring in
+  a number of human cancers. Lung cancer is highlighted due to the relationship of
+  PTPRH with EGFR, and EGFRs importance in lung cancer. B) Lollipop plot of human
+  PTPRH mutations correlated with predicted EGFR activity. Each dot represents a human
+  NSCLC tumor with a mutation in PTPRH. Dot color corresponds to EGFR activity predicted
+  through ssGSEA. C) CBIO oncoplot of NSCLC tumor mutation data from TCGA. Patient
+  tumors with PTPRH mutations are shown to be mutually exclusive from patient tumors
+  with EGFR mutations. D) Clustered heatmap of pathway activation prediction through
+  GSEA. Each column represents a NSCLC tumor with mutation status corresponding to
+  the color coded top bar. Each row represents predicted activation of pathways through
+  ssGSEA. E) GSEA random walk plots show predicted activation of PI3K and AKT within
+  PTPRH mutant tumors compared to PTPRH WT tumors.
+article_title: Elevated phosphorylation of EGFR in NSCLC due to mutations in PTPRH.
+citation: Matthew R. Swiatnicki, et al. PLoS Genet. 2022 Sep;18(9):e1010362.
+year: '2022'
+
+doi: 10.1371/journal.pgen.1010362
+journal_title: PLoS Genetics
+journal_nlm_ta: PLoS Genet
+publisher_name: Public Library of Science
+
+keywords:
+---

@@ -1,0 +1,35 @@
+---
+figid: PMC9473632__pbio.3001798.g001
+pmcid: PMC9473632
+image_filename: pbio.3001798.g001.jpg
+figure_link: /pmc/articles/PMC9473632/figure/pbio.3001798.g001/
+number: Fig 1
+figure_title: Biomimetic afferent response dynamics are implemented in the vestibular
+  prosthesis mapping between head motion and stimulation rate
+caption: (A) Schematic of the VOR pathway. Both types of vestibular afferents (regular
+  and irregular) convey head movement information to the vestibular nuclei, which,
+  in turn, stabilize the gaze via the VOR. (B) Schematic of how the prosthesis converts
+  head movements into pulsatile stimulation. The mapping (black box) consists of the
+  linear transfer functions, which mimic the response dynamics of regular (blue) and
+  irregular (red) afferents or represent the conventional mapping with static gain
+  and phase lead (gray), in cascade with the sigmoidal nonlinearity, which limits
+  the firing rate to be above zero and below the maximum rate of 500 Hz. (C) Example
+  of the stimulation rate, modulated around the baseline rate of 150 pps, in response
+  to sinusoidal head movements at 1 Hz. At this frequency, the stimulation rates are
+  similar for all mappings. Vertical line denotes the peak of head movement for phase
+  comparison. (D) Example of the stimulation rate in response to sinusoidal head movements
+  at 10 Hz. Both regular and irregular mappings display greater depth of modulation
+  in firing and bigger phase lead than the static mapping, which remains in-phase
+  and shows the same depth of modulation as in (C).
+article_title: A prosthesis utilizing natural vestibular encoding strategies improves
+  sensorimotor performance in monkeys.
+citation: Kantapon Pum Wiboonsaksakul, et al. PLoS Biol. 2022 Sep;20(9):e3001798.
+year: '2022'
+
+doi: 10.1371/journal.pbio.3001798
+journal_title: PLoS Biology
+journal_nlm_ta: PLoS Biol
+publisher_name: Public Library of Science
+
+keywords:
+---

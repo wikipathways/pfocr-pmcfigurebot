@@ -1,0 +1,37 @@
+---
+figid: PMC9500759__ijms-23-10886-g006
+pmcid: PMC9500759
+image_filename: ijms-23-10886-g006.jpg
+figure_link: /pmc/articles/PMC9500759/figure/ijms-23-10886-f006/
+number: Figure 6
+figure_title: ''
+caption: Differential metabolite correlation network in positive mode (a) and Kyoto
+  Encyclopedia of Genes and Genomes (KEGG) pathway enrichment (b). The vertical axis
+  in the bar graph represents each KEGG metabolic pathway, and the horizontal axis
+  represents the number of differentially expressed metabolites contained in each
+  KEGG metabolic pathway. The color represents the p-value of the enrichment analysis,
+  and the darker the color is, the smaller the p-value and the more significant the
+  degree of enrichment. The number on the column represents the enrichment factor,
+  and the enrichment factor represents the ratio of the number of differential metabolites
+  in the pathway to the number of annotated metabolites in the pathway.
+article_title: Induced Resistance Combined with RNA Interference Attenuates the Counteradaptation
+  of the Western Flower Thrips.
+citation: Tao Zhang, et al. Int J Mol Sci. 2022 Sep;23(18):10886.
+year: '2022'
+
+doi: 10.3390/ijms231810886
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- Frankliniella occidentalis
+- glutathione S-transferase
+- induced defense
+- jasmonic acid
+- methyl jasmonate
+- RNA interference
+- metabolites
+- counteradaptation
+
+---

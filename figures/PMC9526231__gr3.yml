@@ -1,0 +1,44 @@
+---
+figid: PMC9526231__gr3
+pmcid: PMC9526231
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9526231/figure/fig3/
+number: Fig. 3
+figure_title: ''
+caption: Impact of 3-NP on global transcriptome profiling by RNA-seq. (A) Expression
+  heatmap showing differential RNA-seq feature counts for COV434 cells with or without
+  3-NP treatment. This heatmap was built on normalized gene read counts. C = CONTROL;
+  N = 3-NP. (B) Volcano plot obtained from DESeq2 analysis showing DEGs (|log2 fold
+  change| ≥ 1 and P < 0.01) after 3-NP treatment. (C) KEGG pathway analysis of DEGs.
+  GeneRatio is defined as (count of core enrichment genes)/(count of pathway genes).
+  (D) The ridge plot visualizing the expression distributions of core enriched genes
+  for GSEA enriched Hallmark gene sets. (E) GSEA results of the Hallmark pathway ‘MITOTIC
+  SPINDLE’, ‘HYPOXIA’, ‘G2M CHECKPOINT’ and KEGG pathway ‘Cell Cycle’ are shown.
+article_title: RNA binding protein IGF2BP1 meditates oxidative stress-induced granulosa
+  cell dysfunction by regulating MDM2 mRNA stability in an m6A-dependent manner.
+citation: Hongbei Mu, et al. Redox Biol. 2022 Nov;57:102492.
+year: '2022'
+
+doi: 10.1016/j.redox.2022.102492
+journal_title: Redox Biology
+journal_nlm_ta: Redox Biol
+publisher_name: Elsevier
+
+keywords:
+- IGF2BP1
+- Granulosa cells
+- Oxidative stress
+- m6A modification
+- Cellular senescence
+- Reactive oxygen species
+- OS, oxidative stress
+- GCs, granulosa cells
+- ROS, reactive oxygen species
+- 3-NP, 3-nitropropionic acid
+- FSH, follicle-stimulating hormone
+- LH, luteinizing hormone
+- ActD, Actinomycin D
+- m6A, N6-methyladenosine
+- UTR, untranslated region
+
+---

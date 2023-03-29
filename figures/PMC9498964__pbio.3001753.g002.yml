@@ -1,0 +1,40 @@
+---
+figid: PMC9498964__pbio.3001753.g002
+pmcid: PMC9498964
+image_filename: pbio.3001753.g002.jpg
+figure_link: /pmc/articles/PMC9498964/figure/pbio.3001753.g002/
+number: Fig 2
+figure_title: Transcriptome profiling of human lung cancer cells expressing sgRNAs
+  against mito-respiratory hits reveals overexpression of glycolytic pathway genes
+  in vitro and repression in vivo
+caption: RNA-Seq was performed on HCC827 cells expressing individual sgRNA against
+  top hits c14orf2, MALSU1, TMEM261 (or control sgRNA) (n = 4 samples per cell line)
+  to determine changes in gene expression in vitro and in vivo. (A) Averaged expression
+  for each mito-respiratory sgRNA was compared to control cells, fold-change, indicated
+  by log2(FC) plotted on the x-axis, and log2(p-value) on the y-axis. SgRNA-targeted
+  genes are indicated by green triangles, with each cell line demonstrating the expected
+  reduced expression of its targeted gene (upper left quadrant). Glycolytic genes
+  were the most overexpressed genes overall, with ENO2, PGK1, and HK2 being the most
+  overexpressed genes across all 3 cell lines. (B) Gene set enrichment analysis identifies
+  glycolysis and mitochondria-associated pathways and ontologies as enriched in all
+  3 cell lines. Significance was set at p < 0.05. (C) Volcano plots shown for each
+  of the single sgRNA cell lines. Expected sgRNA-mediated silencing was observed in
+  all 3 cell lines (blue dot). (D) HCC827 cells transduced with either control sgRNA
+  or MALSU1 sgRNA were injected into the flanks of nude mice, then grown for 28 days,
+  after which tumors were removed and analyzed by RNA-Seq. Pathway analysis was performed
+  comparing the MALSU1 sgRNA cells to control sgRNA cells grown in vivo (blue) or
+  in vitro (red), and displayed in a bubble plot indicating normalized enrichment
+  score (NES) and log10p-value for significantly altered pathways. Control sgRNA tumors
+  n = 4, sgMALSU1 tumors n = 2. Underlying data can be found in .
+article_title: Primary and metastatic tumors exhibit systems-level differences in
+  dependence on mitochondrial respiratory function.
+citation: Neal K. Bennett, et al. PLoS Biol. 2022 Sep;20(9):e3001753.
+year: '2022'
+
+doi: 10.1371/journal.pbio.3001753
+journal_title: PLoS Biology
+journal_nlm_ta: PLoS Biol
+publisher_name: Public Library of Science
+
+keywords:
+---

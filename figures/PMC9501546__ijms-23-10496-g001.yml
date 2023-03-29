@@ -1,0 +1,38 @@
+---
+figid: PMC9501546__ijms-23-10496-g001
+pmcid: PMC9501546
+image_filename: ijms-23-10496-g001.jpg
+figure_link: /pmc/articles/PMC9501546/figure/ijms-23-10496-f001/
+number: Figure 1
+figure_title: ''
+caption: 'Analysis of TTYH3 mRNA expression pattern and prognosis in bladder cancer.
+  (A) Comparison of the expression of TTYH3 in normal and bladder urothelial carcinoma
+  (BLCA) tissues using the UALCAN database. Red boxes represent tumor tissues and
+  blue boxes represent normal tissues. Red and blue dashed lines represent the average
+  expression value of all tumor and normal tissues, respectively. (B) Comparison of
+  the expression of TTYH3 in normal and BLCA tissues using the GEPIA2 database. Red
+  boxes represent tumor tissues and gray boxes represent normal tissues. (C) Analysis
+  of TTYH3 expression levels in bladder cancer versus normal tissues on the Oncomine
+  dataset. The threshold was designed using the following specific parameters: p–value
+  = 1 × 105 and fold change = 1.5. (D) The graph compares the survival rate of high
+  (red) and low (blue) expression of TTYH3 in bladder cancer patients using the PrognoScan
+  database. (* p ≤ 0.05, *** p ≤ 0.001).'
+article_title: TTYH3 Modulates Bladder Cancer Proliferation and Metastasis via FGFR1/H-Ras/A-Raf/MEK/ERK
+  Pathway.
+citation: Polash Kumar Biswas, et al. Int J Mol Sci. 2022 Sep;23(18):10496.
+year: '2022'
+
+doi: 10.3390/ijms231810496
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- bladder cancer
+- FGFR1
+- gene expression
+- MAPK
+- patient survival
+- TTYH3
+
+---

@@ -1,0 +1,57 @@
+---
+figid: PMC9475453__thnov12p6363g004
+pmcid: PMC9475453
+image_filename: thnov12p6363g004.jpg
+figure_link: /pmc/articles/PMC9475453/figure/F4/
+number: Fig 4
+figure_title: ''
+caption: WEE2-AS1 interacts with RPN2 protein and contributes to GBM malignant progression
+  by activating the PI3K-AKT signaling pathway. A GSVA showing differences in hallmark
+  biological pathways between the high and low RPN2 samples in the TCGA GBM cohort.
+  Scatter plots were used to visualize these differences in pathways. The size of
+  the circle indicates the size of the fold change (FC), and the color indicates the
+  statistical significance of the difference. The red color indicates statistical
+  significance, and blue indicates statistical insignificance. B Correlations between
+  RPN2 and the enrichment scores of cancer hallmark pathways in the TCGA GBM cohort.
+  C GSEA showing that classical carcinogenic pathways involved in tumor pathogenesis
+  were significantly enriched in the high RPN2 expression group in the TCGA GBM dataset.
+  D Western blot analysis showing the interaction between WEE2-AS1 and RPN2 in (top)
+  LN229 GBM cells and (bottom) GSC20 GSCs. E RIP-qPCR assays showing the relative
+  enrichment of WEE2-AS1 detected by RPN2 antibody. Data represent the mean ± SD from
+  at least three independent experiments. F RNA FISH-immunofluorescence (FISH-IF)
+  assays showing the colocalization of WEE2-AS1 and RPN2 in GBM cells. G Secondary
+  structure of WEE2-AS1 predicted by the RNAfold WebServer. H RNA pull-down assay
+  by in vitro transcribed biotinylated RNAs corresponding to different fragments of
+  WEE2-AS1 in LN229 and GSC20 cells. Western blot assays showing the phosphorylation
+  levels of AKT in LN229 GBM cells transfected with (I) sh-NC or sh-WEE2-AS and (J)
+  si-NC or si-RPN2. K CCK-8 assays showing the proliferation ability of GBM cells
+  cotransfected with ov-NC or ov-WEE2-AS1 and siRPN2 as indicated. L Representative
+  tumor sphere formation images of GSCs cotransfected with ov-NC or ov-WEE2-AS1 and
+  si-RPN2 as indicated; scale bar, 200 µm. The quantification histogram represents
+  the average sphere diameter. Data represent the mean ± SD from at least three independent
+  experiments. M Representative Transwell migration and invasion assays showing the
+  migration and invasion ability of GBM cells cotransfected with ov-NC or ov-WEE2-AS1
+  and siRPN2 as indicated; scale bar, 200 µm. The quantification histogram represents
+  the relative cell numbers. Data represent the mean ± SD from at least three independent
+  experiments. N Western blot assays showing E-cadherin, N-cadherin, CD44, RPN2, AKT
+  and p-AKT protein levels in GBM cells cotransfected with ov-NC or ov-WEE2-AS1 and
+  siRPN2 as indicated. The statistical significance is shown as *P < 0.05; **P < 0.01;
+  ***P < 0.001; ****P < 0.0001.
+article_title: The N6-methyladenosine-mediated lncRNA WEE2-AS1 promotes glioblastoma
+  progression by stabilizing RPN2.
+citation: Boyan Li, et al. Theranostics. 2022;12(14):6363-6379.
+year: '2022'
+
+doi: 10.7150/thno.74600
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- Glioblastoma
+- N6-methyladenosine
+- IGF2BP3
+- RPN2
+- ubiquitination
+
+---

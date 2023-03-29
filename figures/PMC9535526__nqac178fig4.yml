@@ -1,0 +1,52 @@
+---
+figid: PMC9535526__nqac178fig4
+pmcid: PMC9535526
+image_filename: nqac178fig4.jpg
+figure_link: /pmc/articles/PMC9535526/figure/fig4/
+number: FIGURE 4
+figure_title: ''
+caption: 'Associations among dietary diversity, features of the gut environment, and
+  host circulating metabolites in Guangzhou Nutrition and Health Study participants.
+  (A) Associations of the stable DDS and DDS-related gut environment features with
+  host circulating metabolites within the WGCNA red module. (B, C) Relations between
+  the stable DDS, scores on gut environment features, and secondary bile acids according
+  to bidirectional mediation analysis (n = 306). (D) Cross-sectional associations
+  between secondary bile acids and glycemic and inflammatory phenotypes. (A) We used
+  linear regression models to investigate the associations of the stable DDS (n = 306)
+  and DDS-related gut environment features (n = 933) with host circulating metabolites.
+  (B, C) We separately calculated the DFS and DMS. Bidirectional mediation analysis
+  was conducted with the “RMediation” package in R. At each edge, the β coefficient
+  and P value labels between the 2 points were determined via linear regression. The
+  proportions and P values of indirect effects are labeled at the center of the triangle
+  charts. (D) We adjusted for age and sex in the Spearman correlation analysis of
+  bile acids and phenotypes. (D) n = 957 participants; among them, 81 had type 2 diabetes,
+  51 were prediabetic. *P < 0.05 and FDR < 0.25; #P < 0.05 and FDR > 0.25. ARGININE-SYN4-PWY,
+  l-ornithine de novo biosynthesis; CITRULBIO-PWY, l-citrulline biosynthesis; DCA,
+  deoxycholic acid; DDS, dietary diversity score; DFS, dietary diversity score fecal
+  metabolite feature score; DMS, dietary diversity score microbiota feature score;
+  DPA, docosapentaenoic acid; FDR, false discovery rate; GLCA, glycolithocholic acid;
+  GLCA-3S, glycolithocholic acid 3-sulfate; G/TDCA, glyco-/tauro-conjugated deoxycholic
+  acid; iso-LCA, isolithocholic acid; LCA, lithocholic acid; NAD-BIOSYNTHESIS-II,
+  NAD salvage pathway II; NorDCA, nordeoxycholic acid; PWY0-1298, superpathway of
+  pyrimidine deoxyribonucleosides degradation; PWY-4984, urea cycle; PWY-5101, l-isoleucine
+  biosynthesis II; TRPSYN-PWY, l-tryptophan biosynthesis; UDPNAGSYN-PWY, UDP-N-acetyl-d-glucosamine
+  biosynthesis I; WGCNA, weighted gene coexpression network analysis.'
+article_title: 'Associations of dietary diversity with the gut microbiome, fecal metabolites,
+  and host metabolism: results from 2 prospective Chinese cohorts.'
+citation: Congmei Xiao, et al. Am J Clin Nutr. 2022 Oct;116(4):1049-1058.
+year: '2022'
+
+doi: 10.1093/ajcn/nqac178
+journal_title: The American Journal of Clinical Nutrition
+journal_nlm_ta: Am J Clin Nutr
+publisher_name: Oxford University Press
+
+keywords:
+- dietary diversity
+- gut microbiota
+- metabolomics
+- gut environment
+- bile acids
+- host metabolism
+
+---

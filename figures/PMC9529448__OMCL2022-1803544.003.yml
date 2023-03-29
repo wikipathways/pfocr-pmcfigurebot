@@ -1,0 +1,38 @@
+---
+figid: PMC9529448__OMCL2022-1803544.003
+pmcid: PMC9529448
+image_filename: OMCL2022-1803544.003.jpg
+figure_link: /pmc/articles/PMC9529448/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: NLRC4/CASP1/CASP4/GSDMD signaling axis genes in TCGA cohort have similar
+  expression patterns and jointly affect overall survival. (a) Kaplan–Meier plots
+  for the OS of patients with different CASP gene expression in TCGA cohort, using
+  the median expression of each gene as a cutoff point to divide the high- and low-expression
+  groups. (b) Scatter plot of the correlation between the GSDMD gene and the expression
+  of three caspase genes in TCGA cohort. The degree of correlation was examined using
+  Spearman's coefficient. (c) Univariate Cox analysis of the effects of GSDMD, CASP4,
+  and CASP1 and their upstream inflammasome gene expression on overall survival. Genes
+  with p < 0.05 were selected for multivariate Cox analysis. Hazard ratios are presented
+  as forest plots. (d) Pathway enrichment of DEGs between the GSDMD high- and low-expression
+  groups using Metacore and visualization of CASP1 upstream gene hits. The red thermometer
+  indicates the Log2FC of different genes. (e, f) Expression levels of CASP1, CASP4,
+  and NLRC4 genes in patients with different WHO grades and IDH mutation phenotypes
+  in TCGA cohort. (g) Representative sections of matched GSDMD-N and NLRC4 immunohistochemistry
+  from normal brain tissue and different grades of glioma samples. (h, i) Semiquantitative
+  results of GSDMD-N and NLRC4 staining levels in tissue microarrays. Statistics were
+  calculated using one-way analysis of variance (ANOVA) in (f). Statistics were calculated
+  using two-tailed, unpaired Student's t-test with Welch's correction in (e, h, i).
+  ∗∗∗∗p < 0.0001,  ∗∗p < 0.01, and∗p < 0.05.
+article_title: Bulk and Single-Cell Transcriptome Analyses Revealed That the Pyroptosis
+  of Glioma-Associated Macrophages Participates in Tumor Progression and Immunosuppression.
+citation: Lin Li, et al. Oxid Med Cell Longev. 2022;2022:1803544.
+year: '2022'
+
+doi: 10.1155/2022/1803544
+journal_title: Oxidative Medicine and Cellular Longevity
+journal_nlm_ta: Oxid Med Cell Longev
+publisher_name: Hindawi
+
+keywords:
+---

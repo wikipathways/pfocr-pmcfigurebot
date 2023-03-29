@@ -1,0 +1,31 @@
+---
+figid: PMC9497331__cells-11-02881-g004
+pmcid: PMC9497331
+image_filename: cells-11-02881-g004.jpg
+figure_link: /pmc/articles/PMC9497331/figure/cells-11-02881-f004/
+number: Figure 4
+figure_title: ''
+caption: Signaling pathway analysis of the EMT-associated lncRNAs subgroup. (A) Heatmap
+  demonstrating normalized enrichment scores (NESs) of Hallmark pathways calculated
+  by comparing cluster 2 with cluster 1 (with a false discovery rate (FDR) of <0.05).
+  Radar plots indicating NESs of Hallmark pathways calculated through a gene set enrichment
+  analysis (GSEA) of cluster 1 versus cluster 2 in the TCGA cohort (B) and GEO cohort
+  (C).
+article_title: Prognostic Profiling of the EMT-Associated and Immunity-Related LncRNAs
+  in Lung Squamous Cell Carcinomas.
+citation: Qifeng Sun, et al. Cells. 2022 Sep;11(18):2881.
+year: '2022'
+
+doi: 10.3390/cells11182881
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- lncRNA
+- EMT
+- subtypes
+- prognosis
+- lung squamous cell carcinomas
+
+---

@@ -1,0 +1,36 @@
+---
+figid: PMC9493070__gr6
+pmcid: PMC9493070
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC9493070/figure/fig0006/
+number: Fig. 6
+figure_title: ''
+caption: Results of the enrichment analyses in the TCGA cohort. (A) The significant
+  GO term analyses of differentially expressed genes between the high- and low-risk
+  groups. (Red indicated up-regulation; Blue indicated down-regulation; Yellow indicated
+  biological process class; blue indicated molecular function class; green indicated
+  cellular component class.) (B) The significant KEGG term analyses of differentially
+  expressed genes between the high- and low-risk groups. (Red indicated up-regulation;
+  Blue indicated down-regulation; Yellow indicated Signaling Pathway class; Blue label
+  belonged to cellular process class. Purple label belonged to else class). (C) The
+  Ridge plot by GSEA between the high- and low-risk groups showed the top 15 significant
+  GO terms. (D) The Enrichment plot by GSEA between the high- and low-risk groups
+  showed the top 15 significant KEGG terms (Permutation tests P < 0.05, FDR < 0.25).
+article_title: Identification of a 5-gene-based signature to predict prognosis and
+  correlate immunomodulators for rectal cancer.
+citation: Lin Yi, et al. Transl Oncol. 2022 Dec;26:101529.
+year: '2022'
+
+doi: 10.1016/j.tranon.2022.101529
+journal_title: Translational Oncology
+journal_nlm_ta: Transl Oncol
+publisher_name: Neoplasia Press
+
+keywords:
+- Rectal cancer
+- Prognosis
+- Bioinformatics
+- Differentially expressed genes
+- Biomarker
+
+---

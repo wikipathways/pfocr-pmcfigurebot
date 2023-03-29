@@ -1,0 +1,42 @@
+---
+figid: PMC9501275__plants-11-02393-g004
+pmcid: PMC9501275
+image_filename: plants-11-02393-g004.jpg
+figure_link: /pmc/articles/PMC9501275/figure/plants-11-02393-f004/
+number: Figure 4
+figure_title: ''
+caption: Impact of sgRNA positions on the activation of UGT76G1 in transfected protoplasts
+  and the effect of UGT76G1 activation on the expression of other rebaudioside A biosynthetic
+  pathway genes (UGT74G1 and UGT85C2). qPCR was performed on the stevia protoplast
+  transfected with the different RNPs combination of dCas9-VP64 with sgRNAs targeting
+  different proximal promoter positions of UGT76G1. (a) Positional impacts of sgRNAs
+  on transcriptional activation level of UGT76G1; and (b) Effects of activating UGT76G1
+  on the expression of other key biosynthetic pathway genes. The expression was normalized
+  with three reference genes; Actin, Aquaporin, and Calmodulin. Bars denoted the mean
+  of three biological replications per treatment ± SE (Standard Error). Mean values
+  with the same letters are not significantly different based on the student’s t-test
+  at p = 0.05.
+article_title: DNA Free CRISPR/DCAS9 Based Transcriptional Activation System for UGT76G1
+  Gene in Stevia rebaudiana Bertoni Protoplasts.
+citation: Asish Kumar Ghose, et al. Plants (Basel). 2022 Sep;11(18):2393.
+year: '2022'
+
+doi: 10.3390/plants11182393
+journal_title: Plants
+journal_nlm_ta: Plants (Basel)
+publisher_name: MDPI
+
+keywords:
+- CRISPR
+- dCas9
+- VP64
+- stevia
+- UGT76G1
+- stevioside
+- rebaudiosideA
+- biosynthesis
+- transcriptional activation
+- sgRNA
+- protoplast
+
+---

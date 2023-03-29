@@ -1,0 +1,47 @@
+---
+figid: PMC9522790__41419_2022_5284_Fig1_HTML
+pmcid: PMC9522790
+image_filename: 41419_2022_5284_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC9522790/figure/Fig1/
+number: Fig. 1
+figure_title: Retinol metabolism is enriched in quiescent satellite cells
+caption: 'A Experimental study design. Eight to 12-week-old Pax7creER/+; Rosa26 tdTomato/+
+  mice were administrated with tamoxifen for five consecutive days followed by 5-day
+  waiting period to label MuSCs with tdTomato. Quiescent and freshly isolated MuSCs
+  were collected immediately after 5-day waiting period. MuSCs from CTX injury-, freeze
+  injury- and overload-mouse models were harvested 3-, 4- and 7-day after surgery,
+  respectively. Quiescent MuSCs as well as MuSCs from CTX injury-, freeze injury-
+  and overload-mouse model representing cells in vivo state were fixed by PFA perfusion
+  before isolation process. Freshly isolated MuSCs were collected without fixation.
+  RNA-seq library of MuSCs sorted by FACS were constructed by Smart-RNAseq. CTX, cardiotoxin;
+  PFA, paraformaldehyde; FACS, fluorescence activated cell sorting. B, C Representative
+  pictures showing EdU and PAX7 staining in the sham model and different injury models.
+  Arrows represent EdU+/PAX7+ cells; arrowheads represent EdU-/PAX7+ cells. C Quantification
+  of EdU-positive MuSCs. n = 3 mice/treatment, >450 Pax7+ cells counted/mouse. D Principal
+  component analysis (PCA) of the gene expression in quiescent MuSCs, CTX-injury MuSCs,
+  freeze-injury MuSCs, overloaded MuSCs and FISCs. FISCs, freshly isolated satellite
+  cells. n = 2 biological replicate RNA-seq data/group. E–G Expression heatmap of
+  (E) quiescence-, (F) Notch signaling pathway- and (G) stress-associated genes induced
+  by the isolation process. n = 2 biological replicate RNA-seq data/group. H Venn
+  diagram of differentially downregulated genes in different activated MuSCs compared
+  to quiescent cells. The red dashed area represents quiescence-maintaining genes.
+  I Kyoto Encyclopedia of Genes and Genomes pathway analysis of quiescence-maintaining
+  genes in H. The top 12 categories are shown. J Heatmap of representative gene expression
+  for the retinol metabolism signaling pathway. n = 2 biological replicate RNA-seq
+  data/group. Scale bar: 50 µm in B. Statistical results are expressed as the mean ± SEM.
+  ***p < 0.001.'
+article_title: Retinoic acid and RARγ maintain satellite cell quiescence through regulation
+  of translation initiation.
+citation: Wenzhe Luo, et al. Cell Death Dis. 2022 Sep;13(9):838.
+year: '2022'
+
+doi: 10.1038/s41419-022-05284-9
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Muscle stem cells
+- Quiescence
+
+---

@@ -1,0 +1,34 @@
+---
+figid: PMC9454699__cancers-14-04120-g007
+pmcid: PMC9454699
+image_filename: cancers-14-04120-g007.jpg
+figure_link: /pmc/articles/PMC9454699/figure/cancers-14-04120-f007/
+number: Figure 7
+figure_title: ''
+caption: Scatter plots represent the relationship between the risk score and other
+  indices. (a) The stemness index is a value to measure oncogenic dedifferentiation.
+  The risk score showed a strong positive correlation with the mRNA stemness index
+  (). (b) SAS is a score to measure the degree of activity of a subsystem (e.g., pathway).
+  The risk score showed a strong positive correlation with one carbon pool by folate
+  pathway (hsa00670) (). (c) The risk score showed a strong negative correlation with
+  nitrogen metabolism (hsa00910) (). r indicates Pearson’s correlation coefficient,
+  and p-values are the results of two-tailed correlation tests.
+article_title: Risk Stratification for Breast Cancer Patient by Simultaneous Learning
+  of Molecular Subtype and Survival Outcome Using Genetic Algorithm-Based Gene Set
+  Selection.
+citation: Bonil Koo, et al. Cancers (Basel). 2022 Sep;14(17):4120.
+year: '2022'
+
+doi: 10.3390/cancers14174120
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- patient stratification
+- molecular subtype
+- survival outcome
+- genetic algorithm
+- gene set selection
+
+---

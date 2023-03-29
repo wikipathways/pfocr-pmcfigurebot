@@ -1,0 +1,39 @@
+---
+figid: PMC9496853__cells-11-02867-g002a
+pmcid: PMC9496853
+image_filename: cells-11-02867-g002a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 2
+caption: 'Comparison of disease-related transcriptomic signature among four blood
+  CVD datasets. (A) Correlation matrix among four gene expression datasets. Distributions
+  located on the diagonal are expression values for all genes. Each point indicates
+  a gene Y and X axes are logFC between the two statuses described in the form of
+  (A/B). A scatter plot in the xth row and yth column indicates the correlation between
+  xth and yth datasets of diagonal datasets. Its correlation coefficient is described
+  on the xth column and yth row. (B) Numbers in upper triangle matrix indicate the
+  number of common genes between each of the four sets of DEGs between two conditions.
+  Their matched p-values measured by hypergeometric test are located in lower triangle
+  matrix. (C) Biological pathways were based on hypergeometric test described in Materials
+  and Methods. Numbers within rectangles indicate numbers of DEGs or possible DEGs
+  in each pathway. Abbreviations: CVD, cardiovascular disease; FC, fold change; PCC,
+  Pearson’s correlation coefficient; SCC, Spearman’s correlation coefficient; DEG,
+  differentially expressed gene.'
+article_title: Identification of Cardiovascular Disease-Related Genes Based on the
+  Co-Expression Network Analysis of Genome-Wide Blood Transcriptome.
+citation: Taesic Lee, et al. Cells. 2022 Sep;11(18):2867.
+year: '2022'
+
+doi: 10.3390/cells11182867
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- cardiovascular disease-related transcriptomic signature
+- cardiovascular disease-related gene
+- differential expression
+- differential co-expression
+- disease-related modules
+
+---

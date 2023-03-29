@@ -1,0 +1,26 @@
+---
+figid: PMC9486963__sb2c00255_0005
+pmcid: PMC9486963
+image_filename: sb2c00255_0005.jpg
+figure_link: /pmc/articles/PMC9486963/figure/fig5/
+number: Figure 5
+figure_title: ''
+caption: 'Networks beyond gene circuitry: coupling circuit designs to host metabolic
+  networks and circuit-building protocols. (A) The network of a gene circuit that
+  uses arabinose as input can interact with the arabinose degradation pathway. Top
+  figure: abstract network displaying critical components of a NOR gate and the initial
+  steps of the arabinose pathway. Bottom figure: linking the corresponding extended
+  networks. (B) NOR-gate experimental protocol formalized as a network structure.
+  The network can be interactively adjusted to show different levels of abstraction.
+  Nodes represent reagents or subprotocols, and edges imply input/output relationships.'
+article_title: A Network Approach to Genetic Circuit Designs.
+citation: Matthew Crowther, et al. ACS Synth Biol. 2022 Sep 16;11(9):3058-3066.
+year: '2022'
+
+doi: 10.1021/acssynbio.2c00255
+journal_title: ACS Synthetic Biology
+journal_nlm_ta: ACS Synth Biol
+publisher_name: American Chemical Society
+
+keywords:
+---

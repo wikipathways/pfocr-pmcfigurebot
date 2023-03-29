@@ -1,0 +1,44 @@
+---
+figid: PMC9504016__ijms-23-10911-g002
+pmcid: PMC9504016
+image_filename: ijms-23-10911-g002.jpg
+figure_link: /pmc/articles/PMC9504016/figure/ijms-23-10911-f002/
+number: Figure 2
+figure_title: ''
+caption: 'Identification of DEGs in the breast cancer patients of the GSE59733 dataset
+  and the functional analysis of the overlapping DEGs between the GSE59732 dataset
+  and GSE59733 dataset. (A) Volcano plots showing 585 DEGs in the tumor samples of
+  breast cancer patients pre- and post- radiotherapy. Red and blue dots represent
+  the up-regulated and down-regulated genes based on an adjusted p < 0.05 and |log
+  2(FC)| > 1. Black dots: no significant change. (B) Metascape analysis of the enriched
+  pathways of above 585 DEGs. (C) Venn diagrams of DEGs in MCF-7 and ZR751 cell lines
+  from GSE59732 dataset and breast cancer patients from GSE59733 dataset. A total
+  of 5 intersecting genes (GDF15, IFIT1, CDKN1A, FAS, BTG2) were screened out and
+  were all up-regulated. (D) The PPI network of these 5 DEGs and their related genes,
+  created by the online tool STRING. (E) The biological pathways of DEGs were analyzed
+  by the FunRich and showed as a bar chart (left) and pie chart (right), respectively.
+  In the bar chart, the upper x-axis represents the p-value (−log10), and the lower
+  x-axis represents the percentage of genes (blue). The y-axis represents the GO terms.
+  Yellow represents the reference p-value 0.05, and red represents the specific p-value.
+  The longer the rectangular zone, the smaller the p-value is. In the pie chart, each
+  color represents a signaling pathway, and the proportion of DEGs participating in
+  each signaling pathway in the 5 total DEGS showed in the form of the percentage.'
+article_title: GDF15 Contributes to Radioresistance by Mediating the EMT and Stemness
+  of Breast Cancer Cells.
+citation: Xinrui Zhao, et al. Int J Mol Sci. 2022 Sep;23(18):10911.
+year: '2022'
+
+doi: 10.3390/ijms231810911
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- bioinformatics analysis
+- GDF15
+- breast cancer cells
+- radioresistance
+- EMT
+- stem-like traits
+
+---

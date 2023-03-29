@@ -1,0 +1,64 @@
+---
+figid: PMC9488787__pgen.1010122.g007
+pmcid: PMC9488787
+image_filename: pgen.1010122.g007.jpg
+figure_link: /pmc/articles/PMC9488787/figure/pgen.1010122.g007/
+number: Fig 7
+figure_title: High RECQL4 expression correlates with increased recombination, mutations,
+  and tumorigenesis
+caption: (A) RECQL4 expression is elevated in tumors in comparison to adjacent normal
+  tissue. RNAseq data from tumors and normal tissue matched samples was acquired from
+  TCGA. The data was normalized by transcripts per million (TPM), then analyzed for
+  RECQL4 expression. Box and whisker plots graph the median of the data alongside
+  the 25th and 75th percentile. The number of samples alongside p-value are shown
+  using Mann-Whitney U test. (B) RECQL4 expression is higher in ER- breast cancer.
+  Transcriptome data from TCGA (RNA-seq) and METABRIC (microarray) was analyzed for
+  RECQL4 expression in ER- (blue) and ER+ (red) cancers. Log2 (TPM+1) and normalized
+  probe intensity were used respectively. Box and whisker plots alongside each data
+  point was graphed. The number of samples alongside p-value are shown using Mann-Whitney
+  U test. (C) Elevated levels of RECQL4 are associated with increased tumor mutation
+  burden. The expression of RECQL4 in ER- breast tumors from TCGA was divided into
+  quartiles based upon expression level. The mutation burden between the least expressing
+  tumors (Quartile 1 –Q1, blue) and the highest expressing tumors (Quartile 4 –Q4,
+  red) was analyzed. Box and whisker plots alongside each data point was graphed.
+  The number of samples alongside p-value are shown. Annotated mutational data from
+  ER- breast cancer was acquired from Firebrower. The mutational data was categorized
+  using “maftools” in R. Tumor mutation burden was scored as described (Wang et al
+  2019). Significance was determined by Mann-Whitney U test. (D) High expression of
+  RECQL4 correlates with enrichment of DNA repair, G2M checkpoint, MYC Targets V1,
+  E2F Targets 1 and 2 in TNBC. Gene set variation analysis (GSVA) was performed on
+  TNBC gene expression data from both TCGA and METABRIC using the 50 Hallmark gene
+  sets from MSigDB. Correlation between TCGA and METABRIC datasets was plotted for
+  enriched pathways. (E) Homologous recombination and RAD51 is enriched in TNBC tumors
+  expressing high levels of RECQL4. GVSA results of “KEGG Homologous Recombination”
+  gene set (MSigDB M11675) was parsed for the top 20 DNA repair genes enriched in
+  TNBC tumors expressing high levels of RECQL4. HR pathway was enriched by GSVA analysis
+  in RECQL4 high expressing TNBC compared to loss expressing TBNC. Box and whisker
+  plots alongside each data point was graphed. The number of samples alongside p-value
+  are shown using Mann-Whitney U test. (F,G) RECQL4 expression serves as a predictor
+  for clinical outcomes. High expression of RECQL4 correlates with positive response
+  to cisplatin and favorable clinical outcome (Good responder). Analysis from a study
+  where cisplatin was given as a neoadjuvant therapy in 24 TNBC tumors []. Lower expressing
+  RECQL4 tumors are shown as blue dots and high expressing RECQL4 tumors are shown
+  as red dots. Clinical response to cisplatin was measured as progressive disease
+  (PD), stable disease (SD), partial response (cPR), complete response (cCR). Good
+  and poor responders were defined as patients with cPR/cCR status and PD/SD status
+  respectively. Increased RECQL4 expression correlates with a good clinical response
+  as determined by Mann-Whitney U test. Pathological response to cisplatin was monitored
+  by Miller Payne metric score (grade 1 is no significant tumor reduction and grade
+  5 is compete tumor reduction) and graphed based on RECQL4 expression. Good and poor
+  responders were defined as patients with a Miller Payne Score of 4–5 or 0–3 respectively.
+  Increased RECQL4 expression correlates with a good pathological response as determined
+  by Mann-Whitney U test.
+article_title: Hrq1/RECQL4 regulation is critical for preventing aberrant recombination
+  during DNA intrastrand crosslink repair and is upregulated in breast cancer.
+citation: Thong T. Luong, et al. PLoS Genet. 2022 Sep;18(9):e1010122.
+year: '2022'
+
+doi: 10.1371/journal.pgen.1010122
+journal_title: PLoS Genetics
+journal_nlm_ta: PLoS Genet
+publisher_name: Public Library of Science
+
+keywords:
+---

@@ -1,0 +1,31 @@
+---
+figid: PMC9526582__BMRI2022-3825760.005
+pmcid: PMC9526582
+image_filename: BMRI2022-3825760.005.jpg
+figure_link: /pmc/articles/PMC9526582/figure/fig5/
+number: Figure 5
+figure_title: ''
+caption: Gene expression profiles of (a) FABP, CD36, IRS1, PCK1, THBS1, and TGFB1
+  in colorectal cancer (CRC). Boxplot showing transcriptional levels of differentially
+  expressed genes (DEGs) in colon adenocarcinoma (COAD) (n = 275) vs. normal samples
+  (n = 349) and rectal adenocarcinoma (READ) (n = 92) vs. normal tissues (n = 318)
+  using the GEPIA web tool based on TCGA database. Black colors show transcriptional
+  levels in normal tissues, while red colors show DEG transcriptional levels in COAD
+  and READ tissues. One-way ANOVA was used for the differential analysis with a statistically
+  significant value of p < 0.05. (b) All stages of CRC are shown for cancer progression
+  of the five DEGs. A violin plot shows different stages of cancer with log2 (transcripts
+  per million (TPM) + 1) of genes in stages I to IV. A t-test was used with the statistically
+  significant p < 0.05. The Pr(>F) < 0.05, followed by Student's t-test.
+article_title: Identification of Novel miRNAs, Targeting Genes, Signaling Pathway,
+  and the Small Molecule for Overcoming Oxaliplatin Resistance of Metastatic Colorectal
+  Cancer.
+citation: Md Misbah, et al. Biomed Res Int. 2022;2022:3825760.
+year: '2022'
+
+doi: 10.1155/2022/3825760
+journal_title: BioMed Research International
+journal_nlm_ta: Biomed Res Int
+publisher_name: Hindawi
+
+keywords:
+---

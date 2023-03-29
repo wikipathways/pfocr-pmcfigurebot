@@ -1,0 +1,33 @@
+---
+figid: PMC9499936__41419_2022_5215_Fig1_HTML
+pmcid: PMC9499936
+image_filename: 41419_2022_5215_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC9499936/figure/Fig1/
+number: Fig. 1
+figure_title: Over-expression of CTSK-associated IL-17A in castration-resistant prostate
+  cancer
+caption: A Principle description of the work procedure used to study the “IL-17A/CTSK”
+  axis in CRPC. The expression profiles data of various types of prostate cancer (#GSE70770,
+  GSE32982 and GSE32269). B Heatmap of 23 up-regulated genes and 85 down-regulated
+  genes mined from GSE70770, GSE32982 and GSE32269. The lower bar shows different
+  groups, the pink one represents the group of CRPC and the orange red one represents
+  the group of localized PC. C The bar chart shows KEGG pathway enrichment data for
+  DEGs. Pink represents up-regulated pathways and blue represents down-regulated pathways.
+  D Circle diagram was adopted for further exploration to clarify the expression genes
+  involved in the three significantly up-regulated pathways. E Estimate the therapeutic
+  values of CTSK by analyzing the ROC curve (p < 0.001).
+article_title: Cathepsin K regulates the tumor growth and metastasis by IL-17/CTSK/EMT
+  axis and mediates M2 macrophage polarization in castration-resistant prostate cancer.
+citation: Ning Wu, et al. Cell Death Dis. 2022 Sep;13(9):813.
+year: '2022'
+
+doi: 10.1038/s41419-022-05215-8
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Tumour immunology
+- Prostate cancer
+
+---

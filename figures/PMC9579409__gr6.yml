@@ -1,0 +1,33 @@
+---
+figid: PMC9579409__gr6
+pmcid: PMC9579409
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC9579409/figure/fig0006/
+number: Figure 6
+figure_title: ''
+caption: Functional analysis of common genes among the three groups with different
+  BW (D36T [top 10%], D36A [average], and D36B [bottom 10%]). (A) Visualization of
+  overlapping differentially expressed genes using Venn diagrams. (B) MonaGO was used
+  with the Gene Ontology database to visualize genes that interacted with each pathway.
+  (C) The ClueGO (v. 2.5.5, P-value ≤ 0.05, Kappa score = 0.4) plugin was used with
+  the Kyoto Encyclopedia of Genes and Genomes (KEGG) database to visualize genes related
+  to each pathway. (D) Genes upregulated in the D36T group and their biological functions
+  based on the gene expression pattern calculated using Multiple Experiment Viewer.
+article_title: Hepatic transcriptome profiling according to growth rate reveals acclimation
+  in metabolic regulatory mechanisms to cyclic heat stress in broiler chickens.
+citation: C. Lim, et al. Poult Sci. 2022 Dec;101(12):102167.
+year: '2022'
+
+doi: 10.1016/j.psj.2022.102167
+journal_title: Poultry Science
+journal_nlm_ta: Poult Sci
+publisher_name: Elsevier
+
+keywords:
+- hepatic transcriptome
+- growth performance
+- acclimation
+- heat stress
+- broiler chicken
+
+---

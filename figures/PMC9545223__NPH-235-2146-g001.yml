@@ -1,0 +1,41 @@
+---
+figid: PMC9545223__NPH-235-2146-g001
+pmcid: PMC9545223
+image_filename: NPH-235-2146-g001.jpg
+figure_link: /pmc/articles/PMC9545223/figure/nph18405-fig-0001/
+number: Fig. 1
+figure_title: ''
+caption: Schematic overview of the molecular mechanism of the RNA‐dependent DNA methylation
+  (RdDM) pathway. (a) Open chromatin representing active transcription. (b) In order
+  to induce the RdDM pathway, a recombinant viral DNA is developed by adding a fragment
+  of target region into a Tobacco rattle virus (TRV) VIGS vector and transforming
+  the vector into Agrobacterium tumefaciens. Upon infection, T‐DNA containing the
+  recombinant viral genome is transcribed by the host’s RNA polymerase (in yellow)
+  to produce single stranded RNA (ssRNA), which then is converted to double‐stranded
+  RNA (dsRNA) by RNA‐dependent RNA polymerase (in grey). DICER‐like enzymes recognize
+  the dsRNA molecules and cleave them into short, interfering RNAs (siRNA). Argonaute
+  (AGO4; in green) with target‐specific virus‐derived, siRNAs, directs plant‐encoded
+  DNA methyltransferases to methylate cytosine residues in DNA at sites with sequence
+  complementarity to the siRNA. Finally, DNA methylation induces chromatin condensation.
+  [Colour figure can be viewed at wileyonlinelibrary.com]
+article_title: Epigenetic switch reveals CRISPR/Cas9 response to cytosine methylation
+  in plants.
+citation: Sarah Raffan, et al. New Phytol. 2022 Sep;235(6):2146-2148.
+year: '2022'
+
+doi: 10.1111/nph.18405
+journal_title: The New Phytologist
+journal_nlm_ta: New Phytol
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- CRISPR/Cas9
+- crop improvement
+- cytosine methylation
+- DNA repair
+- epigenetic switch
+- gene regulation and genome stability
+- heterochromatin and euchromatin
+- mutation frequency
+
+---

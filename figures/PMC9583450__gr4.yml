@@ -1,0 +1,46 @@
+---
+figid: PMC9583450__gr4
+pmcid: PMC9583450
+image_filename: gr4.jpg
+figure_link: /pmc/articles/PMC9583450/figure/fig4/
+number: Figure 4
+figure_title: ''
+caption: 'Experiment 5: RNA-sequencing of total RNA from plantaris muscle of HSA-Myc
+  mice following a single pulse of Myc.A, PCA plots from doxycycline-treated HSA-Myc
+  versus littermate HSA-rtTA (Control) mice (generated using DESeq2 normalized gene
+  counts). B, pathway analysis of upregulated genes after Myc overexpression. C, Rpl3
+  mRNA levels after Myc overexpression. D, genes upregulated by Myc in muscle and
+  also enriched in myonuclei during 72 h of overload. E, Myh2 mRNA levels after Myc
+  overexpression. F, Reverbα (Nr1d1) and Reverbβ (Nr1d2) after Myc overexpression.
+  G, genes upregulated by Myc in muscle also enriched in myonuclei during 72 h of
+  overload. OV, overload; PCA, principal component analysis.'
+article_title: Multi-transcriptome analysis following an acute skeletal muscle growth
+  stimulus yields tools for discerning global and MYC regulatory networks.
+citation: Kevin A. Murach, et al. J Biol Chem. 2022 Nov;298(11):102515.
+year: '2022'
+
+doi: 10.1016/j.jbc.2022.102515
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- myosin
+- gene transcription
+- muscle hypertrophy
+- Warburg effect
+- transcriptomics
+- 5-Ethenyl uridine
+- Ankrd1
+- Runx1
+- Rpl3
+- myonuclei
+- ChIP-seq, chromatin immunoprecipitation sequencing
+- DEG, differentially expressed gene
+- ECM, extracellular matrix
+- EU, 5-Ethenyl uridine
+- FANS, fluorescent activated nuclear-sorting
+- Lisa, Landscape In Silico deletion analysis
+- RNA-seq, RNA-sequencing
+
+---

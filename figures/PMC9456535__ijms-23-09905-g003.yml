@@ -1,0 +1,37 @@
+---
+figid: PMC9456535__ijms-23-09905-g003
+pmcid: PMC9456535
+image_filename: ijms-23-09905-g003.jpg
+figure_link: /pmc/articles/PMC9456535/figure/ijms-23-09905-f003/
+number: Figure 3
+figure_title: ''
+caption: 'Expression of differentially expressed genes (DEGs) between the biofilms
+  of the WT and ∆ftcR strains: (A) Heatmap showing the expression levels of DEGs between
+  the biofilms of WT and ∆ftcR. (B) Volcano plot of expressed genes between the biofilms
+  of WT and ∆ftcR. The red, green, and blue colors denote upregulated, downregulated,
+  and non-regulated genes, respectively, based on the following criteria: absolute
+  log2 (fold change) ≥ 1, and adjusted p (Padj) ≤ 0.01. (C) Kyoto Encyclopedia of
+  Genes and Genomes (KEGG) analysis of the number and function of differentially expressed
+  genes. The rich factor represents the ratio of DEG numbers annotated with this pathway
+  term to all gene numbers annotated with this pathway term. A greater rich factor
+  indicates a greater degree of pathway enrichment. Padj represents the corrected
+  p-value, and ranges from 0 to 1; a lower value indicates greater pathway enrichment.
+  (D) Analysis of Gene Ontology (GO) terms.'
+article_title: The Flagellar Transcriptional Regulator FtcR Controls Brucella melitensis
+  16M Biofilm Formation via a betI-Mediated Pathway in Response to Hyperosmotic Stress.
+citation: Jia Guo, et al. Int J Mol Sci. 2022 Sep;23(17):9905.
+year: '2022'
+
+doi: 10.3390/ijms23179905
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- Brucella melitensis 16M
+- flagellar transcriptional factor FtcR
+- betI
+- biofilm
+- hyperosmotic stress
+
+---

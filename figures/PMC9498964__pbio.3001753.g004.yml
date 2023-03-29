@@ -1,0 +1,63 @@
+---
+figid: PMC9498964__pbio.3001753.g004
+pmcid: PMC9498964
+image_filename: pbio.3001753.g004.jpg
+figure_link: /pmc/articles/PMC9498964/figure/pbio.3001753.g004/
+number: Fig 4
+figure_title: Mito-respiratory gene silencing alters metabolic network structures
+  and in vivo tumor growth
+caption: (A-D) Pathway analysis of HCC827 cells expressing individual CRISPRi sgRNA
+  (control or mito-respiratory hits c14orf2, MALSU1, or TMEM261) grown in vitro (A-C)
+  or HCC827 cells expressing an individual CRISPRi sgRNA against MALSU1 grown in vivo
+  as flank tumor (D) was performed by integrating transcriptome and metabolomics data
+  and plotted on a KEGG graph depicting pathway components for glycolysis/gluconeogenesis.
+  (E) H1975 cells transduced with either control sgRNA or individual sgRNAs against
+  c14orf2, MALSU1, or TMEM261 were analyzed using Seahorse. OCR shown, compilation
+  of 3 independent experiments, each analyzing n = 4 per cell line, normalized to
+  cell numbers. Mean shown, 2-way ANOVA, **p < 0.01, ***p < 0.001. (F) OCR and ECAR
+  measurements for cells grown under basal or forced glycolysis (oligomycin). Compilation
+  of 3 independent experiments, each analyzing n = 4 replicates per cell line and
+  normalized to cell numbers. (G) ATP levels were measured in different substrate
+  conditions (basal, respiratory (10 mM 2DG), glycolytic (5 μM oligomycin) or depletion
+  (no glucose or pyruvate)) mean and SEM shown, 2-way ANOVA, ***p < 0.001). (H, I)
+  NAD+/NADH ratios and NAD+/NADH pool size. Shown are compilation of 2 independent
+  experiments **p < 0.01, ***p < 0.001. (J) MitoSox assay measuring mitochondrial
+  superoxide. Compilation of 3 independent experiments, each analyzing n = 4 replicates
+  per cell line. Two-way ANOVA, **p < 0.01. (K) Cells expressing either control sgRNA
+  or MALSU1 sgRNA were injected orthotopically into the left lungs of mice, then mice
+  were imaged using BLI 21 days postinjection. (L) Day 21 radiance within the left
+  1/3, central 1/3, and right 1/3 chest regions in mice injected with control sgRNA
+  tumor cells. N = 4 mice, mean shown. (M) Day 21 radiance within left 1/3, central
+  1/3, and right 1/3, chest regions in mice injected with MALSU1 sgRNA tumor cells.
+  N = 6 mice, mean shown. (N) Central 1/3 and contralateral right 1/3 lung radiance
+  each normalized to the matched left 1/3 radiance for control and MALSU1 mice, mean
+  shown, t test *p < 0.05. (O) Day 21postinjection radiance within the left 1/3 chest
+  in mice injected with either control or TMEM261-silenced tumor cells (n = 4 mice
+  for control, n = 5 mice for TMEM261, mean shown Mann–Whitney test, *p < 0.05). (P)
+  Day 28 postinjection central 1/3 and contralateral right 1/3 lung radiance, each
+  reading normalized to the matched left 1/3 radiance for control and TMEM261 cells
+  (n = 4 mice and n = 5 mice, respectively) mean shown, Mann–Whitney test, ns. (Q)
+  HE-stained sections of right lungs from mice injected with either control sgRNA
+  tumor cells or TMEM261 sgRNA tumor cells showing micrometastatic tumor deposits.
+  Red arrows indicate intraparenchymal micrometastases; black arrows indicate perivascular
+  metastases. (R) Systems-level testing implicates context-specific growth effects
+  of mitochondrial/respiratory function and ATP levels. ATP-modulating CRISPRi hits
+  grown in lung cancer cells produce specific energy substrate-driven growth effects
+  in vitro and in vivo. In vitro growth correlates with glycolytic ATP, while in vivo
+  primary growth in the subcutaneous and orthotopic lung setting correlate with mitochondrial-derived
+  ATP. Silencing discrete mito-respiratory genes also impacts the growth of regional
+  metastases, which are distinguishable from the primary tumor. Underlying data can
+  be found in  and  and  Data. BLI, bioluminescence imaging; ECAR, extracellular acidification
+  rate; HE, hematoxylin–eosin; OCR, oxygen consumption rate.
+article_title: Primary and metastatic tumors exhibit systems-level differences in
+  dependence on mitochondrial respiratory function.
+citation: Neal K. Bennett, et al. PLoS Biol. 2022 Sep;20(9):e3001753.
+year: '2022'
+
+doi: 10.1371/journal.pbio.3001753
+journal_title: PLoS Biology
+journal_nlm_ta: PLoS Biol
+publisher_name: Public Library of Science
+
+keywords:
+---

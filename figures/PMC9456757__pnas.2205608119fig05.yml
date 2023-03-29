@@ -1,0 +1,53 @@
+---
+figid: PMC9456757__pnas.2205608119fig05
+pmcid: PMC9456757
+image_filename: pnas.2205608119fig05.jpg
+figure_link: /pmc/articles/PMC9456757/figure/fig05/
+number: Fig. 5
+figure_title: ''
+caption: The CRL4DTL–SETD8 pathway contributes to CSN5i-3 toxicity. (A and B) Repression
+  and overexpression of DTL have opposite effects on induction of overreplication
+  and apoptosis by CSN5i-3. Unmodified K562 cells (WT) or cells in which either DTL
+  or SETD8 was repressed (CRISPRi) or overexpressed (o/e; stable integration of cDNA)
+  were treated for 3 (A) or 1 to 4 (B) days with DMSO or 1 µM CSN5i-3. Cell cycle
+  stage/DNA content (A) and apoptosis (B) were evaluated by fluorescence-activated
+  cell sorting (FACS) as in . Error bars represent ±SD; n = 3. (C) CSN5i-3 blocks
+  SETD8 degradation. CHX chase was performed for 0 to 24 h in K562 cells treated with
+  or without 1 µM CSN5i-3. Error bars represent ±SD; n = 3. (D) Up-regulation of SETD8
+  by CSN5i-3 is not an indirect consequence of G2 arrest. K562 cells were synchronized
+  at the G1/S boundary by double thymidine (dT) block and then released in the presence
+  of either DMSO or 1 µM CSN5i-3. At the indicated times, samples were withdrawn,
+  and cells were assessed by FACS to determine cell cycle stage, or cell lysates were
+  prepared and evaluated for content of SETD8 or its reaction product H4K20Me1 by
+  immunoblotting. Representative Western blots are shown; n = 3. (E) SETD8 modulates
+  cytotoxicity of CSN5i-3. This is the same as in  except that K562 cells in which
+  SETD8 was repressed (CRISPRi; BFP+) or overexpressed (o/e; GFP+) were mixed with
+  parental K562 cells. SETD8 protein levels in wild-type, repressed, and overexpressed
+  cells are shown by Western blot. Error bars represent ±SD; n = 3. (F) SETD8 contributes
+  to the CSN5i-3 sensitivity of DTL-deficient cells. This is the same as in  except
+  that K562 cells with CRISPRi repression of both DTL and SETD8 (GFP+BFP+) were mixed
+  1:1 at time 0 with cells with CRISPRi for only DTL (GFP+). Error bars represent
+  ±SD; n = 3. (G) DTL deficiency renders cells sensitive to CSN5i-3 by mechanisms
+  in addition to SETD8 accumulation. This is the same as in F except that cells with
+  CRISPRi repression of both DTL and SETD8 (GFP+BFP+) were cocultured with CRISPRi
+  for only SETD8 (GFP+). Error bars represent ±SD; n = 3. (H) Proposed mechanism of
+  CSN5i-3 toxicity through the CRL4DTL–SETD8 axis.
+article_title: Adaptive exchange sustains cullin–RING ubiquitin ligase networks and
+  proper licensing of DNA replication.
+citation: Yaru Zhang, et al. Proc Natl Acad Sci U S A. 2022 Sep 6;119(36):e2205608119.
+year: '2022'
+
+doi: 10.1073/pnas.2205608119
+journal_title: Proceedings of the National Academy of Sciences of the United States
+  of America
+journal_nlm_ta: Proc Natl Acad Sci U S A
+publisher_name: National Academy of Sciences
+
+keywords:
+- Cop9 signalosome
+- CSN5i-3
+- CRISPR screen
+- DNA replication
+- deneddylation
+
+---

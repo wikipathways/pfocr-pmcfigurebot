@@ -1,0 +1,47 @@
+---
+figid: PMC9510030__dmm-15-049627-g1
+pmcid: PMC9510030
+image_filename: dmm-15-049627-g1.jpg
+figure_link: /pmc/articles/PMC9510030/figure/DMM049627F1/
+number: Fig. 1
+figure_title: ''
+caption: 'Integration of RAS/MAPK signalling with the insulin/IGF signalling pathway.
+  The RAS/MAPK signalling pathway is intricately connected to the insulin/IGF signalling
+  pathway. Upon ligand binding, the activated insulin receptor recruits IRS proteins
+  to the intracellular receptor tail. These then assemble other adaptor proteins,
+  including GRB2, to the activated insulin receptor complex. GRB2 then binds to and
+  localises the RAS-GEF, SOS and, by association, activated RAS. Active GTP-bound
+  RAS then binds to and activates its effector molecules, including RAF, initiating
+  a phosphorylation cascade via MEK and ERK. As a key downstream effector of RAS/MAPK
+  signalling, activated ERK phosphorylates multiple cytoplasmic and cytoskeletal proteins,
+  including the energy-sensing AMPK. ERK can also translocate to the nucleus, where
+  it phosphorylates and activates several transcription factors, including members
+  of the ETS transcription factor family. In parallel, activation of PI3K leads to
+  the phosphorylation and activation of AKT, which can translocate to the nucleus
+  to phosphorylate FOXO. This phosphorylation results in the nuclear exclusion of
+  FOXO, thereby preventing FOXO target gene expression. Cross-regulation of the two
+  pathways occurs at multiple nodes: activated RAS can bind to and activate PI3K and
+  activated ERK phosphorylates FOXO, leading to FOXO degradation via the ubiquitin
+  proteosome system. AMPK, adenosine monophosphate-activated protein kinase; ERK,
+  extracellular signal-regulated kinase; ETS, E-twenty-six; FOXO, Forkhead box class
+  O; GEF, guanine nucleotide exchange factor; GRB2, growth factor receptor-bound protein
+  2; GTP, guanosine triphosphate; IGF, insulin-like growth factor; IRS, insulin receptor
+  substrate; MAPK, mitogen-activated protein kinase; MDM2, mouse double minute 2 homologue;
+  MEK, mitogen-activated protein kinase kinase; P, phosphorylation; PI3K, phosphoinositide-3
+  kinase; SOS, son of sevenless; ub, ubiquitin.'
+article_title: Molecular inhibition of RAS signalling to target ageing and age-related
+  health.
+citation: Mihails Laskovs, et al. Dis Model Mech. 2022 Oct 1;15(10):dmm049627.
+year: '2022'
+
+doi: 10.1242/dmm.049627
+journal_title: Disease Models & Mechanisms
+journal_nlm_ta: Dis Model Mech
+publisher_name: The Company of Biologists Ltd
+
+keywords:
+- MEK inhibitor
+- RAS pathway
+- Ageing
+
+---

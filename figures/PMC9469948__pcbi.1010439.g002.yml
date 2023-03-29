@@ -1,0 +1,36 @@
+---
+figid: PMC9469948__pcbi.1010439.g002
+pmcid: PMC9469948
+image_filename: pcbi.1010439.g002.jpg
+figure_link: /pmc/articles/PMC9469948/figure/pcbi.1010439.g002/
+number: Fig 2
+figure_title: Protein network corresponding to the key interactions between the intrinsic
+  apoptosis pathway and the integrated stress response (ISR)
+caption: Direct and indirect regulatory effects of venetoclax (ABT-199) and tedizolid
+  on the coupled pathway are shown in the left panel. ABT-199 binds to Bcl-2 to form
+  a protein-drug complex [, ]. In addition, both ABT-199 and tedizolid perturb ISR-related
+  and non-ISR pathways, ultimately exerting both positive and negative regulatory
+  effects on c-Myc and Chop (ISR effector protein) expression levels [, ]. The coupled
+  apoptosis-ISR pathway is shown in the right panel and depicts the regulatory effects
+  of the transcription factors c-Myc and Chop on the Bcl-2 family proteins, including
+  both the pro-survival and pro-apoptosis effects of c-Myc [, –, –], as well as the
+  pro-apoptosis effects of Chop [, , , , –]. In addition, the interactions between
+  the Bcl-2 family proteins [–] are shown, including the binding of anti-apoptosis
+  proteins (Bcl-2, Mcl-1) with pro-apoptosis activator (Bim) and effector (Bax, Bak)
+  proteins, as well as the binding of activator and effector proteins and the subsequent
+  activation of the latter. The activated effector proteins cause Caspase-3 activation,
+  which causes cleavage of the anti-apoptosis proteins and promotes apoptosis [, –,
+  –]. The pro-apoptosis species are coloured green, anti-apoptosis species are red,
+  neutral species are white, c-Myc is orange, and Chop is blue.
+article_title: An integrative systems biology approach to overcome venetoclax resistance
+  in acute myeloid leukemia.
+citation: Michelle Przedborski, et al. PLoS Comput Biol. 2022 Sep;18(9):e1010439.
+year: '2022'
+
+doi: 10.1371/journal.pcbi.1010439
+journal_title: PLoS Computational Biology
+journal_nlm_ta: PLoS Comput Biol
+publisher_name: Public Library of Science
+
+keywords:
+---

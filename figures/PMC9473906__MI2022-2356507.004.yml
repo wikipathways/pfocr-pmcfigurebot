@@ -1,0 +1,30 @@
+---
+figid: PMC9473906__MI2022-2356507.004
+pmcid: PMC9473906
+image_filename: MI2022-2356507.004.jpg
+figure_link: /pmc/articles/PMC9473906/figure/fig4/
+number: Figure 4
+figure_title: ''
+caption: Compound-genomics target drug prediction and functional analysis. (a) Prediction
+  of compound targeting FFAR1 was analyzed by PubChem (https://pubchem.ncbi.nlm.nih.gov).
+  (b) Target prediction of candesartan was analyzed by SwissTargetPrediction (http://www.swisstargetprediction.ch/),
+  and the top 25 targets were classified to obtain the target class pie chart. (c)
+  Then, Venn analysis (http://bioinformatics.psb.ugent.be/webtools/Venn/) of the compound
+  targets (100 genes) with profile 22 (359 genes) was performed. (d) The correlation
+  between gene expression and time of the intersection genes was analyzed by Venn
+  analysis. (e) Bar graph of enriched terms across input gene lists by Metascape (https://metascape.org/gp/index.html#/main/step1).
+  (f) Network of enriched terms. (g, h) Protein-protein interaction network and MCODE
+  components were identified in the gene lists. (i) Enrichment analysis of the input
+  gene was listed by Enrichr (https://maayanlab.cloud/Enrichr/).
+article_title: Candesartan Reduces Neuronal Apoptosis Caused by Ischemic Stroke via
+  Regulating the FFAR1/ITGA4 Pathway.
+citation: Yubao Ding, et al. Mediators Inflamm. 2022;2022:2356507.
+year: '2022'
+
+doi: 10.1155/2022/2356507
+journal_title: Mediators of Inflammation
+journal_nlm_ta: Mediators Inflamm
+publisher_name: Hindawi
+
+keywords:
+---

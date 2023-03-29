@@ -1,0 +1,44 @@
+---
+figid: PMC9499571__pnas.2123117119fig05
+pmcid: PMC9499571
+image_filename: pnas.2123117119fig05.jpg
+figure_link: /pmc/articles/PMC9499571/figure/fig05/
+number: Fig. 5
+figure_title: ''
+caption: Signal peptide mutations lead to the accumulation of DG-proLirL in untreated
+  G5132R cells. (A) Predicted molecular weights of LirL-ΔR truncated protein containing
+  G5132R-1 mutations in the signal peptide (LirL-ΔRG5132R1). PA, palmitic acid; SP,
+  signal peptide. (B) LC-UV-MS analysis of purified LirL-ΔRG5132R1 from untreated
+  cells or cells treated with 44.4 μg/mL G5132 leads to the accumulation of DG-proLirLΔRG5132R1
+  with or without an N-terminal fMet in untreated cells expressing LirL-ΔRG5132R1.
+  As with LirL-ΔR, the +28-Da peak represents LirL-ΔRG5132R1 modified with acyl tails
+  containing two additional carbons (CH2-CH2). RT denotes retention time. (C) Total
+  cell lysates from untreated (−) or G5132-treated (+) Ab17978 expressing His-tagged
+  LirL-ΔR or LirL-ΔRG5132R1 were subjected to western blot analysis. RNAPα was used
+  as a loading control (“§” represents DG-proLirL-ΔR, and mature triacylated LirL-ΔR
+  is depicted). (D) Proposed model explaining the mechanism of LirL resistance to
+  G5132 in A. baumannii. In wild-type A. baumannii, LirL is processed by the lipoprotein
+  biosynthetic enzymes Lgt, LspA, and Lnt into triacylated mature LirL localized to
+  the IM. Treatment with G5132 leads to the accumulation of DG-proLirL in the IM,
+  leading to a block in the pathway causing cell death. The G5132R mutations in the
+  LirL signal peptide lead to DG-proLirL mutants that are not efficiently catalyzed
+  by LspA, which overcomes the obstruction of lipoprotein biosynthetic flux causing
+  G5132 resistance.
+article_title: Deletion of a previously uncharacterized lipoprotein lirL confers resistance
+  to an inhibitor of type II signal peptidase in Acinetobacter baumannii.
+citation: Ke-Jung Huang, et al. Proc Natl Acad Sci U S A. 2022 Sep 20;119(38):e2123117119.
+year: '2022'
+
+doi: 10.1073/pnas.2123117119
+journal_title: Proceedings of the National Academy of Sciences of the United States
+  of America
+journal_nlm_ta: Proc Natl Acad Sci U S A
+publisher_name: National Academy of Sciences
+
+keywords:
+- LspA
+- Acinetobacter baumannii
+- globomycin
+- antibiotic resistance
+
+---

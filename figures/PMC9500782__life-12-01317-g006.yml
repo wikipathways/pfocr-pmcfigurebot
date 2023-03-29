@@ -1,0 +1,38 @@
+---
+figid: PMC9500782__life-12-01317-g006
+pmcid: PMC9500782
+image_filename: life-12-01317-g006.jpg
+figure_link: /pmc/articles/PMC9500782/figure/life-12-01317-f006/
+number: Figure 6
+figure_title: ''
+caption: Enrichment pathways analyses in HBECs treated with HIV, SARS-CoV-2 S1 spike
+  protein, or combination. We used the gene lists obtained from our gene expression
+  analyses to perform over-representation pathway analyses using the Reactome pathway
+  database (available at https://reactome.org/ (accessed on 21 August 2022)). The
+  enriched pathways shown in Venn diagrams in the top panel indicate the upregulated
+  pathways; the bottom panel shows downregulated signaling pathways. The blue shapes
+  represent data from HBECs exposed to SARS-CoV-2 S1 Spike protein only; the red shapes
+  represent data from HBECs treated with infectious HIV only, and the yellow shapes
+  represent data from HBECs treated with the combination. The blended colors (orange
+  and dark gray) represent signaling pathways that are common between the indicated
+  treatments.
+article_title: 'SARS-CoV-2 and HIV: Impact on Pulmonary Epithelial Cells.'
+citation: Nicholas J. Evans, et al. Life (Basel). 2022 Sep;12(9):1317.
+year: '2022'
+
+doi: 10.3390/life12091317
+journal_title: Life
+journal_nlm_ta: Life (Basel)
+publisher_name: MDPI
+
+keywords:
+- SARS-CoV-2
+- HIV
+- co-infection
+- polyparasitism
+- innate
+- adaptive
+- immune
+- air liquid interphase (ALI)
+
+---

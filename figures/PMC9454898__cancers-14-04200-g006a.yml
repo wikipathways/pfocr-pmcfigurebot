@@ -1,0 +1,42 @@
+---
+figid: PMC9454898__cancers-14-04200-g006a
+pmcid: PMC9454898
+image_filename: cancers-14-04200-g006a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 6
+caption: The correlation of the TIC composition and signaling pathway with EZH2 expression.
+  (A) Correlation of the TIC population with EZH2 expression, the Violin diagram shows
+  the relationship between the different 22 TIC subpopulations and the KIRC tumor
+  samples with low (green) or high (red) EZH2 expression, relative to the median of
+  the EZH2 expression level, the Wilcoxon rank sum was used for the significance test.
+  (B) The scatter plot shows the correlation of 12 TIC subpopulations to the EZH2
+  expression (p < 0.05), the blue line in each plot shows the fitted linear model
+  indicating the proportion tropism of the immune cell along with the EZH2 expression,
+  and the Pearson coefficient was used for the correlation test. (C) The Venn plot
+  displays nine TIC subpopulations correlated with the EZH2 expression codetermined
+  by difference and correlation tests displayed in violin and scatter plots, respectively.
+  (D) The gene set enrichment analysis for the enriched gene sets with high and low
+  EZH2 expression in the KEGG collection, each line represents one particular gene
+  set with a unique color, upregulated gene sets are located on the left near at the
+  origin of the coordinates, in contrast, the downregulated gene sets are on the right
+  of the x-axis. Only gene sets with NOM p < 0.05 and FDR q < 0.06 were considered
+  as significant and only some of the leading pathways are displayed in the plot.
+article_title: Identification of EZH2 as Cancer Stem Cell Marker in Clear Cell Renal
+  Cell Carcinoma and the Anti-Tumor Effect of Epigallocatechin-3-Gallate (EGCG).
+citation: Chen Lyu, et al. Cancers (Basel). 2022 Sep;14(17):4200.
+year: '2022'
+
+doi: 10.3390/cancers14174200
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- cancer stem cells
+- kidney renal clear cell carcinoma
+- prognosis
+- tumor microenvironment
+- phytochemicals
+
+---

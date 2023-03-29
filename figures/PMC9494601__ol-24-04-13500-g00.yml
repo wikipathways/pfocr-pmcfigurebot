@@ -1,0 +1,35 @@
+---
+figid: PMC9494601__ol-24-04-13500-g00
+pmcid: PMC9494601
+image_filename: ol-24-04-13500-g00.jpg
+figure_link: /pmc/articles/PMC9494601/figure/f1-ol-24-04-13500/
+number: Figure 1
+figure_title: ''
+caption: RNA sequencing analysis reveals the heterogeneity of NC, TP and TT. (A) PC
+  analysis and (B) hierarchical clustering analysis revealed an obvious distinction
+  between tumour and non-tumour tissues. (C) Volcano plot showing the DEGs between
+  TT and TP. (D) Top 20 DEGs in TT vs. TP; (E) KEGG pathway and GO BP analysis of
+  DEGs in TT vs. TP showing P-values (black dots) and gene counts (bars). (F) Gene
+  co-expression network analysis showing the key transcription factors and DEGs between
+  TT and TP (purple rectangles represent the key transcription factors; pink ovals
+  represent DEGs; pink lines represent positive correlations; and blue lines represent
+  negative correlations); BP, biological process; DEGs, differentially expressed genes;
+  GO, Gene Ontology; KEGG, Kyoto Encyclopedia of Genes and Genomes; NC, normal tissue;
+  PC, principal component; TP, paracarcinoma tissue; TT, primary tumour tissue.
+article_title: ISG15 is associated with cervical cancer development.
+citation: Pingping Tao, et al. Oncol Lett. 2022 Oct;24(4):380.
+year: '2022'
+
+doi: 10.3892/ol.2022.13500
+journal_title: Oncology Letters
+journal_nlm_ta: Oncol Lett
+publisher_name: D.A. Spandidos
+
+keywords:
+- cervical cancer
+- ISG15 ubiquitin-like modifier
+- tumourigenesis
+- RNA sequencing
+- human papillomavirus
+
+---

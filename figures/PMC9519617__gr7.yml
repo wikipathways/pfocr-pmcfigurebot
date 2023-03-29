@@ -1,0 +1,36 @@
+---
+figid: PMC9519617__gr7
+pmcid: PMC9519617
+image_filename: gr7.jpg
+figure_link: /pmc/articles/PMC9519617/figure/fig7/
+number: Figure 7
+figure_title: ''
+caption: 'Metabolic changes associated with SVZ NB fate conversion(A) Number of genes
+  involved in glycolysis (green), TCA cycle (blue) and mitochondrial respiratory chain
+  (red) in each cell population. A gene is considered as expressed in a given population
+  if its abundance is >1TPM in at least 25% of the cells.(B) Schematic representing
+  the glycolysis pathway and TCA cycle. Genes enriched in specific cell populations
+  are highlighted with the following color-code: green if enriched in NB, light green
+  for NBL, yellow for OligNBL, red for O and dark red for OL. A gene is considered
+  as enriched in a cell population if it is differentially expressed between this
+  cell population and at least one other population. Detailed mRNA levels are given
+  for some glycolysis (Slc2a3, Hk1, Eno1, PKM) and TCA cycle (Idh1, Mdh2) genes.(C
+  and D) SVZ cells from GAD67-GFP:Olig2-tdTomato neonate mice were cultured in presence
+  or absence of 2DG. GFP+ Tomato+ cells among GFP+ cells were observed (C) and quantified
+  (D) in each condition. Scale bars: 50 μm.'
+article_title: Neuroblasts contribute to oligodendrocytes generation upon demyelination
+  in the adult mouse brain.
+citation: Bilal El Waly, et al. iScience. 2022 Oct 21;25(10):105102.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.105102
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Cellular neuroscience
+- Developmental neuroscience
+- Molecular neuroscience
+
+---

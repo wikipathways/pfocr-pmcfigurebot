@@ -1,0 +1,30 @@
+---
+figid: PMC9494610__CTM2-12-e853-g005
+pmcid: PMC9494610
+image_filename: CTM2-12-e853-g005.jpg
+figure_link: /pmc/articles/PMC9494610/figure/ctm2853-fig-0004/
+number: FIGURE 4
+figure_title: ''
+caption: Transcriptional signatures are generalizable to predict the tumour‐associated
+  T cells (TATs) from other single cell datasets. (A) Glycosaminoglycan degradation
+  pathway is enriched in TATs, while the purine metabolism pathway is depleted in
+  TATs. (B) ROC plot by using a colorectal cancer (CRC) dataset to train the prediction
+  logistic regression model and testing the performance of model on the other datasets.
+  (C) Permutation analysis by randomizing the true labels of TATs 1000 times and comparing
+  the Area Under the Curve (AUC) distribution with the true prediction AUC values
+  on each dataset. (D) PD‐1 expression between TATs and non‐clonal T cell group. (E)
+  ROC plot using the expression of PD‐1 alone to differentiate TATs from non‐clonal
+  T cells. (F) Differential expression analysis between TATs in PBMCs and TILs_Shared
+  compartment in tumour‐infiltrated T lymphocytes (TILs)
+article_title: TCR repertoire and transcriptional signatures of circulating tumour‐associated
+  T cells facilitate effective non‐invasive cancer detection.
+citation: Fansen Ji, et al. Clin Transl Med. 2022 Sep;12(9):e853.
+year: '2022'
+
+doi: 10.1002/ctm2.853
+journal_title: Clinical and Translational Medicine
+journal_nlm_ta: Clin Transl Med
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+---

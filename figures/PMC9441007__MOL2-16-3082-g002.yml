@@ -1,0 +1,50 @@
+---
+figid: PMC9441007__MOL2-16-3082-g002
+pmcid: PMC9441007
+image_filename: MOL2-16-3082-g002.jpg
+figure_link: /pmc/articles/PMC9441007/figure/mol213217-fig-0004/
+number: Fig. 4
+figure_title: ''
+caption: Oncogenic transformation of BEAS‐2BDIF via EGFR‐PI3K‐MAPK pathway upregulates
+  USP28 and accelerates tumour cell growth. (A) Frequently occurring genetic alterations
+  and expression changes in recurring oncogenic drivers found in NSCLC (ADC and SCC).
+  Oncoprints generated with the online tool www.cbioportal.org. (B) mRNA expression
+  of Spearman's correlation between USP28 and EGFR, HRAS, BRAF or PIK3CA in NSCLC
+  (SCC and ADC). Correlation and P‐value generated with the online tool GEPIA www.gepia2.cancer‐pku.cn/
+  using lung cancer TCGA publicly available data set. (C) Immunoblot against endogenous
+  USP28 and the oncogenic transcription factor ∆NP63 in either BEAS‐2BDIF or BEAS‐2BDIF
+  upon retroviral transduction to express the indicated oncogenes EGFR [wild‐type
+  (WT) and L858R], HRAS (G12D), BRAF (V600E) and PIK3CA [wild‐type (WT), E545K and
+  H1047R], respectively. Actin served as loading control. n = 3. (D) RT‐PCR of USP28,
+  the SCC transcription factor ∆NP63 and its target cytokeratin 14 (KRT14) in BEAS‐2BUD,
+  BEAS‐2BDIF or the various BEAS‐2BONC as presented in C. Shown are mean log2 fold
+  change expression data, relative to actin, and normalized to the respective expression
+  in BEAS‐2BUD and standard deviation (SD). Shown are mean values and SD of n = 3.
+  (E) Relative cell numbers and assessment of growth capacity of BEAS‐2BUD, BEAS‐2BDIF
+  or the various BEAS‐2BONC over a total of 4 days. Cell numbers were analysed at
+  days 1, 2 and 4. Shown are relative mean values and standard deviation. n = 3 experiments.
+  P‐values were calculated using the two‐tailed t‐test statistical analysis. *P < 0.05,
+  **P < 0.01, ***P < 0.001 and ****P < 0.0001. (F) Schematic model of the various
+  stages of oncogenic transformation, as recapitulated by the transdifferentiation
+  from BEAS‐2BUD to BEAS‐2BDIF, and from BEAS‐2BDIF to BEAS‐2BONC (oncogenic transformed
+  BEAS‐2BDIF). The observed increases recapitulate the increase in USP28 protein abundance
+  as seen in human lung cancer samples. Exp., exposure; ONC, oncogenic. See also Figs .
+article_title: USP28 enables oncogenic transformation of respiratory cells, and its
+  inhibition potentiates molecular therapy targeting mutant EGFR, BRAF and PI3K.
+citation: Cristian Prieto‐Garcia, et al. Mol Oncol. 2022 Sep;16(17):3082-3106.
+year: '2022'
+
+doi: 10.1002/1878-0261.13217
+journal_title: Molecular Oncology
+journal_nlm_ta: Mol Oncol
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- buparlisib
+- c‐MYC
+- gefitinib
+- lung cancer
+- USP28
+- vemurafenib
+
+---

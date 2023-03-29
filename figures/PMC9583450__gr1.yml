@@ -1,0 +1,45 @@
+---
+figid: PMC9583450__gr1
+pmcid: PMC9583450
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC9583450/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: 'Experiment 1: RNA-sequencing of total RNA from plantaris muscle after 72 h
+  of mechanical overload.A, study design schematic showing the conditions of Experiments
+  1 to 5. B, pathway analysis of upregulated genes in OV versus sham. C, pathway analysis
+  of downregulated genes in OV versus sham. D, Myc mRNA levels in sham and overload
+  determined by RNA-seq. E, digital deconvolution of muscle overload data using CIBERSORTx
+  () and data from Oprescu et al. () to delineate cellular contributions to the global
+  transcriptome. Normalized gene count, gene counts normalized using DESeq2. EU, 5-Ethenyl
+  uridine; OV, overload.'
+article_title: Multi-transcriptome analysis following an acute skeletal muscle growth
+  stimulus yields tools for discerning global and MYC regulatory networks.
+citation: Kevin A. Murach, et al. J Biol Chem. 2022 Nov;298(11):102515.
+year: '2022'
+
+doi: 10.1016/j.jbc.2022.102515
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- myosin
+- gene transcription
+- muscle hypertrophy
+- Warburg effect
+- transcriptomics
+- 5-Ethenyl uridine
+- Ankrd1
+- Runx1
+- Rpl3
+- myonuclei
+- ChIP-seq, chromatin immunoprecipitation sequencing
+- DEG, differentially expressed gene
+- ECM, extracellular matrix
+- EU, 5-Ethenyl uridine
+- FANS, fluorescent activated nuclear-sorting
+- Lisa, Landscape In Silico deletion analysis
+- RNA-seq, RNA-sequencing
+
+---

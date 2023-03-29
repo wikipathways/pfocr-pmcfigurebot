@@ -1,0 +1,41 @@
+---
+figid: PMC9574713__gr5
+pmcid: PMC9574713
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC9574713/figure/fig5/
+number: Figure 5
+figure_title: ''
+caption: Lipidomic ontology and pathway analysis of differential abundances from analysis
+  of variance (ANOVA). A, Heatmap of enriched lipid ontology terms (LION) across the
+  experimental groups and between samples. LION analysis is based on differential
+  abundances from 1-way ANOVA. Red indicates enrichment of term within the sample.
+  B, Lipid-related gene set analysis revealed enrichment in sphingolipid and glycosphingolipid
+  metabolic processes summarizing pathways from Kyoto Encyclopedia of Genes and Genomes
+  (KEGG), Reactome, and Gene Ontology (GO) databases. Color of the circle is coded
+  by P value, and the radius is coded by the number of interacting genes in the set.
+article_title: Temporal Alterations of Sphingolipids in Optic Nerves After Indirect
+  Traumatic Optic Neuropathy.
+citation: Muhammad Z. Chauhan, et al. Ophthalmol Sci. 2023 Mar;3(1):100217.
+year: '2023'
+
+doi: 10.1016/j.xops.2022.100217
+journal_title: Ophthalmology Science
+journal_nlm_ta: Ophthalmol Sci
+publisher_name: Elsevier
+
+keywords:
+- Lipid ontology
+- Lipidomics
+- Sonication-induced optic neuropathy
+- Sphingolipid metabolism
+- Traumatic optic neuropathy
+- CerG1, hexosylceramide
+- ON, optic nerve
+- PC, principal component
+- PERG, pattern electroretinogram
+- RGC, retinal ganglion cell
+- SM, sphingomyelin
+- ST, sulfatide
+- TON, traumatic optic neuropathy
+
+---

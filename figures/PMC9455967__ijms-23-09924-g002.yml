@@ -1,0 +1,38 @@
+---
+figid: PMC9455967__ijms-23-09924-g002
+pmcid: PMC9455967
+image_filename: ijms-23-09924-g002.jpg
+figure_link: /pmc/articles/PMC9455967/figure/ijms-23-09924-f002/
+number: Figure 2
+figure_title: ''
+caption: Untargeted metabolomics of D. melanogaster reared on a habanero-pepper diet.
+  (a) 2-D principal component analysis score plot demonstrating statistical clustering
+  of metabolites in response to habanero-pepper (green) and control (red) diet. (b)
+  Volcano plot of metabolites with a fold-change threshold (x) 1.0 and t-test threshold
+  (y) 0.1. The red circles represent features above the threshold. The further the
+  position from the (0,0), the more significant the metabolite. (c) Heat map of the
+  top 30 metabolites showing contrasting abundance between the two treatment diets.
+  The red color represents upregulated metabolites and blue circles downregulated
+  metabolites. (d) KEGG pathway enrichment comparison of significant metabolites found
+  in Drosophila in response to a habanero-pepper diet. The y-axis indicates the term
+  categories, the x-axis the rich factor, the size of the dot the number of metabolites
+  found in one specific pathway, and the color of the dots the p-value of enrichment
+  analysis.
+article_title: 'Peppers in Diet: Genome-Wide Transcriptome and Metabolome Changes
+  in Drosophila melanogaster.'
+citation: Carlos Lopez-Ortiz, et al. Int J Mol Sci. 2022 Sep;23(17):9924.
+year: '2022'
+
+doi: 10.3390/ijms23179924
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- habanero pepper
+- diet
+- metabolome
+- transcriptome
+- Drosophila
+
+---

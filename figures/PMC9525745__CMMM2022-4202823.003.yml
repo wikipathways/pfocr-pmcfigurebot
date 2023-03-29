@@ -1,0 +1,26 @@
+---
+figid: PMC9525745__CMMM2022-4202823.003
+pmcid: PMC9525745
+image_filename: CMMM2022-4202823.003.jpg
+figure_link: /pmc/articles/PMC9525745/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: 'Weighted Gene coexpression network analysis of RNA-seq data. (a) Principal
+  component analysis of RNA-seq expression profiles of gingival tissue. (b) Sample
+  dendrogram and trait heatmap of RNA-seq data. (c) Gene dendrogram with a trait of
+  RNA-seq data. (d) Module-trait correlation thermograms: correlation of thermograms
+  between modules and given traits. The closer the correlation between trait and module
+  to the absolute value of 1; the trait is related to the gene function of the module.
+  (e) Heatmap of enriched terms across module gene members, colored by P values.'
+article_title: Weighted Gene Coexpression Network Analysis Identified IL2/STAT5 Signaling
+  Pathway as an Important Determinant of Peri-Implantitis.
+citation: Li Tang, et al. Comput Math Methods Med. 2022;2022:4202823.
+year: '2022'
+
+doi: 10.1155/2022/4202823
+journal_title: Computational and Mathematical Methods in Medicine
+journal_nlm_ta: Comput Math Methods Med
+publisher_name: Hindawi
+
+keywords:
+---

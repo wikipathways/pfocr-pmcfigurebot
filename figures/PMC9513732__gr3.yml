@@ -1,0 +1,45 @@
+---
+figid: PMC9513732__gr3
+pmcid: PMC9513732
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9513732/figure/f0015/
+number: Fig. 3
+figure_title: ''
+caption: Transcriptional changes and functional enrichment analysis among differentially
+  expressed genes (DEGs) between BCS192 and BCS297 in four developmental stages. A.
+  Statistic of differentially expressed genes including up-regulated and down-regulated
+  genes in each comparison groups between BCS192 and BCS297. The expression changes
+  of all genes were analyzed by performing pair-wise comparisons of BCS192 and BCS297
+  in four developmental stages. Samples at 7, 14,21, and 28 DPA group, respectively
+  (7 vs 7, 14vs 14, 21 vs 21, 28 vs 28). Red indicates genes that were up-regulated
+  in BCS297 compared with BCS192, while blue indicates genes that were down-regulated,
+  log2FC = 1. B. Venn diagram analysis of grain development-related DEGs in BCS297
+  and BCS192 across four time points (7 vs 7, 14 vs 14, 21 vs 21, and 28 vs 28 DPA).
+  log2FC = 1. C. Clustering and heatmap of 1,131 common DEGs based on their expression
+  profiles in BCS192 and BCS297 across four comparison groups (7 vs 7, 14 vs 14, 21
+  vs 21, and 28 vs 28 DPA). Numbers ranging from −10 to 10 indicate the multiples
+  of difference. D. GO enrichment of 540 commonly up-regulated DEGs during four grain
+  developing stages. Red pentacles represent putative GO terms related to β-glucan
+  content. E. KEGG pathway enrichment of 540 commonly up-regulated DEGs in four grain
+  developing stages. The blue box indicates significantly enriched pathways and red
+  pentacles represent putative KEGG pathways related to β-glucan content. (For interpretation
+  of the references to colour in this figure legend, the reader is referred to the
+  web version of this article.)
+article_title: Identification of the genes associated with β-glucan synthesis and
+  accumulation during grain development in barley.
+citation: La Geng, et al. Food Chem (Oxf). 2022 Dec 30;5:100136.
+year: '2022'
+
+doi: 10.1016/j.fochms.2022.100136
+journal_title: 'Food Chemistry: Molecular Sciences'
+journal_nlm_ta: Food Chem (Oxf)
+publisher_name: Elsevier
+
+keywords:
+- Barley (Hordeum vulgare L.)
+- β-Glucan
+- Molecular mechanism
+- Quality
+- Transcriptome
+
+---

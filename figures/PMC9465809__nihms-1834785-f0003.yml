@@ -1,0 +1,49 @@
+---
+figid: PMC9465809__nihms-1834785-f0003
+pmcid: PMC9465809
+image_filename: nihms-1834785-f0003.jpg
+figure_link: /pmc/articles/PMC9465809/figure/F2/
+number: Figure 2
+figure_title: Mapping global transcriptional dysregulation in DS and FXS hPSC models
+caption: (A) Schematic of isogenic DS cell lines used for RNA-seq analysis, including
+  five replicates per cell line and genotype.(B) Volcano plots of transcripts from
+  DS hPSCs (left) and neurons (right). Log2 fold change is shown on the x axis, with
+  the −log10 of the adjusted p value shown on the y axis. Positive fold change reflects
+  an increase in DS cells relative to euploid cells. Transcripts that reach significance
+  of p ≤ 0.05 are shown in the blue shaded area.(C) Bar chart showing the total number
+  of significant DEGs for both DS hPSC and neuron datasets as well as the number downregulated
+  (gray) versus upregulated (black).(D) Volcano plot of HSA21-encoded transcripts
+  from hPSCs (left) and neurons (right). Log2 fold change is shown on the x axis,
+  with the −log10 of the adjusted p value shown on the y axis for all transcripts
+  detected from HSA21. Transcripts that reach significance of p ≤ 0.05 are shown as
+  blue dots.(E and F) Examples of expression patterns for individual genes, including
+  two encoded on HSA21 and strongly implicated in DS disease biology (E) and the two
+  genes that were most significantly differentially expressed in the hPSC and neuron
+  datasets (F). TPM values are shown for five replicates per condition.(G and H) Top
+  5 most significant terms identified by canonical pathway analysis using IPA in the
+  DS hPSC dataset (G) and neuron dataset (H). The −log10(p value) for each term is
+  shown on the x axis.(I) Schematic of isogenic FXS cell lines used for RNA-seq analysis,
+  including five replicates per cell line and genotype.(J) Volcano plots of transcripts
+  from FXS hPSCs (left) and neurons (right). Log2 fold change is shown on the x axis,
+  with the −log10 of the adjusted p value shown on the y axis. Positive fold change
+  reflects an increase in FMR1y/− cells relative to FMR1y/+ cells. Transcripts that
+  reach significance of p ≤ 0.05 are shown in the purple shaded area.(K) Bar chart
+  showing the total number of significant DEGs for both FXS hPSC and neuron datasets
+  as well as the number downregulated (gray) versus upregulated (black).(L and M)
+  Top 5 most significant terms identified by canonical pathway analysis using IPA
+  in the FXS hPSC dataset (L) and neuron dataset (M). The −log10(p value) for each
+  term is shown on the x axis. For all panels, significance was calculated by Benjamini-Hochberg
+  adjusted Wald test as part of a DEseq2 RNA-seq experiment and is indicated by *p
+  ≤ 0.05, **p ≤ 0.005, and ***p ≤ 0.0005 relative to control. See also  and .
+article_title: Molecular convergence between Down syndrome and fragile X syndrome
+  identified using human pluripotent stem cell models.
+citation: Sara G. Susco, et al. Cell Rep. ;40(10):111312-111312.
+year: '2022'
+
+doi: 10.1016/j.celrep.2022.111312
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: ''
+
+keywords:
+---

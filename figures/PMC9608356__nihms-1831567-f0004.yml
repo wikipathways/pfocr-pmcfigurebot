@@ -1,0 +1,41 @@
+---
+figid: PMC9608356__nihms-1831567-f0004
+pmcid: PMC9608356
+image_filename: nihms-1831567-f0004.jpg
+figure_link: /pmc/articles/PMC9608356/figure/F4/
+number: 'Figure 4:'
+figure_title: Loss of NetG1 in CAFs alters the metabolite profile of CAF-sEVs
+caption: '(A) Relative differences in total particle concentrations found in sEV fractions
+  isolated from Ctl. vs. FRA1KD, and 4EBP1KD CAFs; normalized to the mean Ctl. CAF-sEV
+  value. Bars = standard error. Statistics: 1-way ANOVA, with multiple comparisons
+  using Tukey’s correction. n=4. Comprehensive statistical readouts provided in  (Tab=).
+  (B) Representative NTA histograms of sEV fractions from Ctl., FRA1KD, and 4EBP1KD
+  CAFs; using the NanoSight platform. (C) Cell viability assay of PANC-1 cells at
+  48 hours post-treatment with sEVs from Ctl., FRA1KD, or 4EBP1KD CAFs. n=3 biological
+  replicates; each replicate consists of 6 technical repeats. All repeats per replicate
+  were normalized to the mean of the corresponding PBS-treated condition. Bars=standard
+  error. Statistics: 1-way ANOVA, with multiple comparisons using Tukey’s correction.
+  * compared to PBS (negative control), # comparing between conditions. Comprehensive
+  statistical readouts provided in the  (Tab=). (D) Total amount of metabolites detected
+  in sEVs isolated from Ctl. vs. NetG1KD CAFs, normalized to equal protein levels.
+  n=3. Bars=standard error. Statistics=unpaired t-test using Welch’s correction. Comprehensive
+  statistical readouts provided in  (Tab=). (E) Heat map depicting significant metabolite
+  differences in sEVs isolated from control Ctl. vs. NetG1KD CAFs, normalized to median
+  sEV metabolite levels. A t-test p-value of <0.01 was used as a cutoff threshold.
+  A full readout of metabolomic analysis can be found in  (Tabs=Ctl SEV vs NetG1KD
+  sEV, Ctl SEV vs NetG1KD SEV HM). (F) Pathway enrichment analysis summary generated
+  by MetaboAnalyst using metabolomics data in (E). The top 25 most significantly represented
+  pathways are shown, ranked p-value in descending order of significance.'
+article_title: NetrinG1+ cancer-associated fibroblasts generate unique extracellular
+  vesicles that support the survival of pancreatic cancer cells under nutritional
+  stress.
+citation: Kristopher S. Raghavan, et al. Cancer Res Commun. ;2(9):1017-1036.
+year: '2022'
+
+doi: 10.1158/2767-9764.CRC-21-0147
+journal_title: Cancer Research Communications
+journal_nlm_ta: Cancer Res Commun
+publisher_name: American Association for Cancer Research
+
+keywords:
+---

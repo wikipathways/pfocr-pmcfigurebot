@@ -1,0 +1,51 @@
+---
+figid: PMC9543711__ELE-25-1986-g003
+pmcid: PMC9543711
+image_filename: ELE-25-1986-g003.jpg
+figure_link: /pmc/articles/PMC9543711/figure/ele14074-fig-0001/
+number: FIGURE 1
+figure_title: ''
+caption: Visual representation of the various hypotheses (via simulated data), where
+  yellow indicates high growth rates and blue low growth rates. (a) Truly asynchronous
+  population cycles, where each population (line) cycles independently of its neighbours.
+  (b) Partial synchrony where the neighbouring populations cycle almost simultaneously,
+  though they are not perfectly synchronised (decomposed into subsequent models).
+  (c) Perfectly synchronised populations where all populations cycle at precisely
+  the same time (where  should best be represented as varying with time only, model
+  N2). (d, e, g, h, j, k) All represent the spatial patterns on a given day for the
+  various parameterisations of fitted travelling wave models, described in Table .
+  (f) A purely spatial pattern (where any perceived spatio‐temporal pattern is merely
+  spatial, model N3, as Sherratt & Smith,  suggested may be the case for the apparent
+  snowshoe hare travelling wave). (d) A single planar wave at a snapshot in time (Moss
+  et al., ; Lambin et al., , Bjørnstad et al., , Berthier et al. , model P). (e) Either
+  an expanding or contracting single radial travelling wave (radially expanding from
+  a central location as suggested by Johnson et al.,  [model RE] or contracting as
+  suggested by Sherratt & Smith, , [model RC]). (g) Two isolated planar waves separated
+  by a physical feature, the Duero river (inferred from Sherratt & Smith, , model
+  PF). (h) Two radial waves separated by the same physical feature but may be either
+  contracting or expanding (models RFE and RFC). (j) Dual overlapping planar waves,
+  which additively form a single overall pattern (model PD). (k) Either dual overlapping
+  contracting or expanding radial waves, additively forming an overall pattern (models
+  RDE and RDC). (i) The modelling approach of an underlying cycle manifesting itself
+  in the form of partial asynchrony in the data. The graphical pathway of analysis
+  for the selected model (RDE) would be b  k  i, where k  i is carried out according
+  to model RDE in Table .
+article_title: From pattern to process? Dual travelling waves, with contrasting propagation
+  speeds, best describe a self‐organised spatio‐temporal pattern in population growth
+  of a cyclic rodent.
+citation: Deon Roos, et al. Ecol Lett. 2022 Sep;25(9):1986-1998.
+year: '2022'
+
+doi: 10.1111/ele.14074
+journal_title: Ecology Letters
+journal_nlm_ta: Ecol Lett
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- patterns
+- population cycles
+- population growth rate
+- spatio‐temporal
+- synchrony
+
+---

@@ -1,0 +1,37 @@
+---
+figid: PMC9519048__sciadv.abo4662-f2
+pmcid: PMC9519048
+image_filename: sciadv.abo4662-f2.jpg
+figure_link: /pmc/articles/PMC9519048/figure/F2/
+number: Fig. 2
+figure_title: Induction of DNA DSBs is sufficient to elicit immune pathway signaling
+  in neuron primary culture
+caption: '(A) Left: Representative images of NeuN and γH2AX immunostaining in etoposide
+  (ETP) and vehicle-treated primary cultures. Each data point represents γH2AX mean
+  gray value for one nucleus. Right: Representative images of p65 immunostaining in
+  ETP- and vehicle-treated primary cultures. Each data point represents p65 mean gray
+  value for one nucleus. (B) Schematic of ETP treatment. DIV13 neuron primary cultures
+  were treated with either 50 μM ETP or vehicle control (DMSO) for 6 hours. (C) Differential
+  Gene Ontology (biological pathway) terms identified through GSEA from ETP versus
+  DMSO contrast. (D) Left: Heatmap of stage 1 and stage 2 signature enrichment in
+  DMSO- and ETP-treated neurons. Right: Quantification of stage 1 and stage 2 signature
+  enrichment in DMSO- and ETP-treated neurons. Each data point represents one biological
+  replicate. (E) Venn diagram of significantly up-regulated protein-coding genes from
+  ETP-treated neurons and stage 1 and stage 2 gene signatures. Percentages are in
+  reference to the total number of unique genes from all three gene sets. Genes overlapping
+  in ETP and stage 2 are in turquoise. Genes overlapping in ETP, stage 2, and stage
+  1 are in magenta. The area of the circles is in proportion to the size of the gene
+  sets. Error bars represent SEM; ****P < 0.0001. Student’s t test (A). Wilcoxon test
+  (D). Data are representative of three independent experiments (A).'
+article_title: Neurons burdened by DNA double-strand breaks incite microglia activation
+  through antiviral-like signaling in neurodegeneration.
+citation: Gwyneth M. Welch, et al. Sci Adv. 2022 Sep;8(39):eabo4662.
+year: '2022'
+
+doi: 10.1126/sciadv.abo4662
+journal_title: Science Advances
+journal_nlm_ta: Sci Adv
+publisher_name: American Association for the Advancement of Science
+
+keywords:
+---

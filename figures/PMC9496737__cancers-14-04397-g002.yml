@@ -1,0 +1,44 @@
+---
+figid: PMC9496737__cancers-14-04397-g002
+pmcid: PMC9496737
+image_filename: cancers-14-04397-g002.jpg
+figure_link: /pmc/articles/PMC9496737/figure/cancers-14-04397-f002/
+number: Figure 2
+figure_title: ''
+caption: Restoration of miR-200c in mesenchymal-like EO771 murine mammary cancer cells
+  restores a more epithelial phenotype. (A) Representative images of the change in
+  morphology of EO771 cells in the presence of miR-200c. Cells were stained with DAPI
+  and visualized by microscopy (n = 2, with 10 fields of view). (B) Relative gene
+  expression of miR-200c and Zeb1 by qRT-PCR analysis following treatment with miR-200c
+  mimic or scrambled oligo is shown. Data were normalized to either U6 or Gapdh and
+  are presented as fold change relative to the scrambled oligo. (C) Western blot analysis
+  revealed downregulation in Zeb1 protein levels with miR-200c restoration. GAPDH
+  was used as a loading control. (D) Gene set enrichment analysis (GSEA) identified
+  the top 15 altered “Hallmark” pathways along with their respective normalized enrichment
+  score (NES). Epithelial to mesenchymal transition (EMT) is highlighted in red. (E)
+  Heatmap of the top altered genes from the Hallmark-EMT pathway that were altered
+  by miR-200c restoration. Each column represents an individual biological replicate
+  of EO771-TripZ-EV (Vehicle-treated, n = 3) or EO771-TripZ-miR-200c (+doxy, n = 3)
+  for 72 h. Asterisks (*) indicate similarities found in Mak et al. [], a published
+  human pan-carcinoma EMT signature. Genes depicted as Z-scores.
+article_title: Antigens Expressed by Breast Cancer Cells Undergoing EMT Stimulate
+  Cytotoxic CD8+ T Cell Immunity.
+citation: Faye A. Camp, et al. Cancers (Basel). 2022 Sep;14(18):4397.
+year: '2022'
+
+doi: 10.3390/cancers14184397
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- neojunction
+- neoantigen
+- intron retention
+- mIR-200c
+- epithelial-to-mesenchymal transition (EMT)
+- CD8+ T cells
+- peptide vaccines
+- whole cell vaccines
+
+---

@@ -1,0 +1,43 @@
+---
+figid: PMC9469104__bsr-42-bsr20221002-g4
+pmcid: PMC9469104
+image_filename: bsr-42-bsr20221002-g4.jpg
+figure_link: /pmc/articles/PMC9469104/figure/F4/
+number: Figure 4
+figure_title: FBP1 promotes the EZH2/ H3K27me3 signaling pathway
+caption: '(A) FBP1 was differentially enriched in epigenetic regulation of gene expression
+  according to GSEA. (B) FBP1 was differentially enriched in PRC2 methylation of histone
+  and DNA according to GSEA. (C) The relationship between FBP1 and EZH2 was determined
+  based on TCGA dataset. (D) Heatmap of co-expression of FBP1 and EZH2 based on TCGA
+  dataset. (E,F) The physical interaction between FBP1 and EZH2 in OC SKOV-3 cellswasdetected
+  by Co-IP assay using FBP1 or EZH2 antibody, respectively. (G) Protein expression
+  of FBP1, EZH2 and H3K27me3 in FBP1-C and FBP1-KD OC SKOV-3 cells as detected by
+  Western blot analysis. (H) mRNA expression levels of FBP1 and EZH2 in ovarian cells
+  as detected by qRT-PCR. (I) Relative protein expression levels of FBP1, EZH2 and
+  H3K27me3 in FBP1-C and FBP1-KD OC SKOV-3 cells. (J) Expression of EZH2 and H3K27me3
+  in normal, benign and malignant ovarian tissues as detected by IHC. (K) Expression
+  of EZH2 and H3K27me3 in xenograft tumor tissues as detected by IHC. (L) mRNA expression
+  of FBP1 and EZH2 in xenograft tumor tissues as detected by qRT-PCR. (M) Protein
+  expression of FBP1, EZH2 and H3K27me3 in xenograft tumor tissues as detected by
+  Western blot analysis. (N) Relative protein expression of FBP1, EZH2 and H3K27me3
+  in xenograft tumor tissues. Note: The blots were cropped from the same gel; magnification:
+  ×400; *P<0.05. ***P<0.001; bar: 50 μm.'
+article_title: FBP1 knockdown decreases ovarian cancer formation and cisplatin resistance
+  through EZH2-mediated H3K27me3.
+citation: Xifeng Xiong, et al. Biosci Rep. 2022 Sep 30;42(9):BSR20221002.
+year: '2022'
+
+doi: 10.1042/BSR20221002
+journal_title: Bioscience Reports
+journal_nlm_ta: Biosci Rep
+publisher_name: Portland Press Ltd.
+
+keywords:
+- cisplatin resistance
+- clinical significance
+- EZH2
+- FBP1
+- H3K27me3
+- ovarian cancer
+
+---

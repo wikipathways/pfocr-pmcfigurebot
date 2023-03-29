@@ -1,0 +1,40 @@
+---
+figid: PMC9460115__plants-11-02211-g003
+pmcid: PMC9460115
+image_filename: plants-11-02211-g003.jpg
+figure_link: /pmc/articles/PMC9460115/figure/plants-11-02211-f003/
+number: Figure 3
+figure_title: ''
+caption: Mechanism of the ethylene signaling pathway in plants. Ethylene receptors
+  ETHYLENE RESPONSE1 (ETR1), ETR2, ETHYLENE RESPONSE SENSOR1 (ERS1), ERS2, and ETHYLENE
+  INSENSITIVE4 (EIN4) are present on the endoplasmic reticulum (ER) membrane. In the
+  absence of ethylene, ethylene receptors activate the CONSTITUTIVE TRIPLE RESPONSE1
+  (CTR1) protein kinase, which, in turn, phosphorylates the C-terminal end of EIN2
+  (EIN2-CEND) and turns off EIN2’s function. In the cytosol, the m-RNA F-box proteins
+  EBF1 and EBF2 (EBF1/2) are translated and target the transcription regulation of
+  ethylene signaling. ETHYLENE INSENSITIVE3/ETHYLENE INSENSITIVE3-LIKE 1 (EIN3/EIL1),
+  functioning in the proteasome for protein turnover, is degraded in the nucleus,
+  thus preventing ethylene responses. When ethylene is available, ethylene receptors
+  no longer activate CTR1, dephosphorylate EIN2, and cleave, thus releasing EIN2-CEND,
+  which functions in the cytoplasm and nucleus. In the cytoplasm, one fate of EIN2-CEND
+  is to bind the RNAs for EBF1 and EBF2, become sequestered in processing bodies (P-bodies),
+  and inhibit their translation. The other fate of EIN2-CEND is that it shuttles into
+  the nucleus and directly or indirectly potentiates the activity of EIN3 and EIL1
+  via EIN2 nuclear-associated protein 1 (ENAP1). In the nucleus, EIN3/EIL1 regulates
+  the transcriptional cascade involving transcriptional factors.
+article_title: 'Ethylene Signaling under Stressful Environments: Analyzing Collaborative
+  Knowledge.'
+citation: Mehar Fatma, et al. Plants (Basel). 2022 Sep;11(17):2211.
+year: '2022'
+
+doi: 10.3390/plants11172211
+journal_title: Plants
+journal_nlm_ta: Plants (Basel)
+publisher_name: MDPI
+
+keywords:
+- environmental stress
+- ethylene biosynthesis
+- ethylene signaling
+
+---

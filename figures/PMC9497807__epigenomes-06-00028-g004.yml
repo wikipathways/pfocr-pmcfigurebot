@@ -1,0 +1,45 @@
+---
+figid: PMC9497807__epigenomes-06-00028-g004
+pmcid: PMC9497807
+image_filename: epigenomes-06-00028-g004.jpg
+figure_link: /pmc/articles/PMC9497807/figure/epigenomes-06-00028-f004/
+number: Figure 4
+figure_title: ''
+caption: Role of EZH2 in tumoral cells and tumor microenvironment (TME). (A) The blockage
+  of EZH2 in tumoral cells reduces the immunosuppressive EZH2-mediated mechanisms.
+  Therefore, upon EZH2, the inhibition double-stranded (ds) RNA-STING-IFN stimulated
+  genes (ISG) pathway is activated, promoting the increase in MHC class I (MHC-I)
+  expression, an increase in antigen presentation, Th1 chemokine signaling and interferon
+  response, the release of chemokines implicated in immune cells recruitment such
+  as CXCL9 and CXCL10, as well as PDL-1 expression. However, the inhibition of EZH2
+  can lead to the accumulation of MDSCs in tumor sites. EZH2 is expressed in many
+  immune cells, affecting cell function and differentiation. (B) In naïve CD8+ T-cells,
+  EZH2-dependent gene repression silences both pro-effector and -memory genes to maintain
+  developmental plasticity. In addition, in differentiated CD8+ effector T-cells,
+  EZH2 selectively inhibits memory precursor signature genes, such as Id3, to restrict
+  memory fate. In tumor-infiltrating CD8+ T-cells, EZH2 regulates BCL-2 expression,
+  inhibiting apoptosis (green box). EZH2 expression in naive CD4+ T-cells represses
+  T-bet, EOMES and GATA3 expression, leading to the inhibition of Th1 and Th2 polarization
+  (grey box). Moreover, EZH2 is required to stabilize FOXP3 expression in regulatory
+  T-cells (purple box). (C) In the PCa tumoral context, it has been reported that
+  EZH2 expression by tumoral cells promotes M2 macrophage polarization, but how EZH2
+  regulates differentiation, polarization and migration in myeloid cells is unknown.
+  Figure generated on the BioRender.com.
+article_title: Polycomb Directed Cell Fate Decisions in Development and Cancer.
+citation: Beatriz German, et al. Epigenomes. 2022 Sep;6(3):28.
+year: '2022'
+
+doi: 10.3390/epigenomes6030028
+journal_title: Epigenomes
+journal_nlm_ta: Epigenomes
+publisher_name: MDPI
+
+keywords:
+- polycomb group (PcG)
+- polycomb repressive complex 2 (PRC2)
+- the enhancer of zeste (EZH2)
+- prostate cancer (PCa)
+- small cell lung cancer (SCLC)
+- Merkel cell cancer (MCC)
+
+---

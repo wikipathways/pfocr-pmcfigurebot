@@ -1,0 +1,38 @@
+---
+figid: PMC9555018__ol-24-05-13533-g00
+pmcid: PMC9555018
+image_filename: ol-24-05-13533-g00.jpg
+figure_link: /pmc/articles/PMC9555018/figure/f1-ol-24-05-13533/
+number: Figure 1
+figure_title: ''
+caption: EDN1 expression, which is upregulated by ID1, is elevated in the vascular-related
+  region in tissues derived from patients with GBM. (A) Venn diagram obtained after
+  merging two datasets to identify vascular regulating factors associated with ID1
+  (Module 92 refers to a list containing 149 secreted signaling molecules in humans,
+  n=149, https://www.gsea-msigdb.org/gsea/msigdb/cards/module_92; ID1 Up-DEG, n=433,
+  >2 fold, <FDR value 0.05). (B) mRNA expression levels of EDN1 in tissues of patients
+  with GBM were determined using the Ivy GAP database. (C) Identification of mRNA
+  expression of candidate genes (NMU, WISP, EDN1 and ID1) using the Ivy GAP database
+  (http://glioblastoma.alleninstitute.org/). The relative mRNA levels were converted
+  to z-score and are presented using a heat-map. EDN1, endothelin1; FDR, false discovery
+  rate; FPKM, fragments per kilobase of exon per million mapped fragments; GBM, glioblastoma;
+  ID1, inhibitor of differentiation 1; ID1 Up-DEG, ID1 Upregulated-Differentially
+  Expressed Genes; Ivy GAP, Ivy glioblastoma atlas project; NMU, neuromedin u; WISP2,
+  wnt1 inducible signaling pathway protein 2.
+article_title: Inhibitor of differentiation 1 in U87MG glioblastoma cells promotes
+  HUVEC sprouting through endothelin-1.
+citation: Sang-Hun Choi, et al. Oncol Lett. 2022 Nov;24(5):413.
+year: '2022'
+
+doi: 10.3892/ol.2022.13533
+journal_title: Oncology Letters
+journal_nlm_ta: Oncol Lett
+publisher_name: D.A. Spandidos
+
+keywords:
+- inhibitor of differentiation 1
+- endothelin-1
+- glioblastoma
+- sprouting
+
+---

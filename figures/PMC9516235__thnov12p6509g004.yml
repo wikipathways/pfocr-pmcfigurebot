@@ -1,0 +1,44 @@
+---
+figid: PMC9516235__thnov12p6509g004
+pmcid: PMC9516235
+image_filename: thnov12p6509g004.jpg
+figure_link: /pmc/articles/PMC9516235/figure/F4/
+number: Figure 4
+figure_title: ''
+caption: MCM6 activates PI3K/Akt and focal adhesion signaling in GC. (A) Volcano plot
+  showed differentially expressed genes from BGC-823 cells treated with siNC vs. siMCM6
+  by RNA-seq analysis (blue for downregulated; red for upregulated). (B) KEGG pathway
+  analysis of altered signaling pathway in BGC-823 cells treated with siNC vs. siMCM6.
+  (C) FHRE luciferase reporter assayed the activity of PI3K/Akt pathway in GC cells
+  with or without MCM6 modulated. (D) Western blot analysis of GC cells with or without
+  MCM6 modulated. (E) Western blot analysis of three pairs of GC clinical samples.
+  N, adjacent non-tumor; T, tumor. (F-G) Western blot analysis of GC cells with or
+  without MCM6 overexpressed upon MK-2206 administration (4 μmol/L) (F, top). Quantification
+  of cell viability (F, bottom) and colony formed (G) in GC cells treated as indicated.
+  (H1-2) Western blot analysis of GC cells treated as indicated. (I-J) Quantification
+  of cell viability (I), migrated or invaded cells (J) in GC cells treated as indicated.
+  (K) Immunofluorescence staining of F-actin (green) for the number of filopodia per
+  cells. White arrows indicated the filopodia. DAPI (blue) for nuclei. Scale bar,
+  10 μm. (L) Pull-down assayed the activity of Cdc42 and Rac1 in GC cells with or
+  without MCM6 suppressed. Error bars in C, F, G, I, J and K represent mean ± standard
+  deviation. *P < 0.05; **P < 0.01; ***P < 0.001; analysis of variance test (ANOVA)
+  (C, F, G, I, J and K) or 2 tailed t test (C). EV, empty vector; FHRE, forkhead response
+  element; KEGG, Kyoto Encyclopedia of Genes and Genomes; NC, negative control.
+article_title: MCM6 is a critical transcriptional target of YAP to promote gastric
+  tumorigenesis and serves as a therapeutic target.
+citation: Yifei Wang, et al. Theranostics. 2022;12(15):6509-6526.
+year: '2022'
+
+doi: 10.7150/thno.75431
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- Gastric cancer
+- YAP
+- MCM6
+- PI3K/Akt
+- therapeutic target.
+
+---

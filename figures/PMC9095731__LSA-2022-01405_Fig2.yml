@@ -1,0 +1,38 @@
+---
+figid: PMC9095731__LSA-2022-01405_Fig2
+pmcid: PMC9095731
+image_filename: LSA-2022-01405_Fig2.jpg
+figure_link: /pmc/articles/PMC9095731/figure/fig2/
+number: Figure 2
+figure_title: Comparative analysis of PLWHART and PLWHEC
+caption: (A) Relative reservoir quantification using total HIV-1 DNA in PLWHART (n
+  = 17) and PLWHEC (n = 14). (B) MA plot showing differential gene expression results
+  of PLWHART versus PLWHEC. Negative log2-fold change values represent down-regulation
+  and positive values represent up-regulation in PLWHART. Grey-colored dots denote
+  non-significant genes (adjusted P > 0.05). (C) Heatmap showing the expression pattern
+  of significantly regulated genes between PLWHART and PLWHEC (adjusted P < 0.05).
+  Column annotation denotes cohort, age, gender, and duration of combination antiretroviral
+  therapy of the corresponding samples. Row and column clustering was performed using
+  Euclidian distance. (D) Gene set enrichment analysis results using MSigDB hallmark
+  gene set between PLWHART versus PLWHEC. A positive enrichment score represents up-regulation
+  and negative score represents down-regulation in PLWHART. Statistically significant
+  pathways are labeled and highlighted by asterisk. Bubble size is relative to the
+  adjusted P-values of the pathways. *Indicates FDR < 0.2. (E) Schematic visualization
+  of the five complexes of OXPHOS pathway. The heat-map shows expression pattern of
+  genes belonging to OXPHOS pathway in PLWHART and PLWHEC. Column annotation denotes
+  OXPHOS pathway complexes and row annotation denotes the cohort. The bottom annotation
+  shows the log2 fold change values of the genes. Red color represents up-regulation
+  and green color represents down-regulation of the gene in PLWHART compared with
+  PLWHEC.
+article_title: Genome-scale metabolic models for natural and long-term drug-induced
+  viral control in HIV infection.
+citation: Anoop T Ambikan, et al. Life Sci Alliance. 2022 Sep;5(9):e202201405.
+year: '2022'
+
+doi: 10.26508/lsa.202201405
+journal_title: Life Science Alliance
+journal_nlm_ta: Life Sci Alliance
+publisher_name: Life Science Alliance LLC
+
+keywords:
+---

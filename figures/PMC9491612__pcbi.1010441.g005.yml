@@ -1,0 +1,35 @@
+---
+figid: PMC9491612__pcbi.1010441.g005
+pmcid: PMC9491612
+image_filename: pcbi.1010441.g005.jpg
+figure_link: /pmc/articles/PMC9491612/figure/pcbi.1010441.g005/
+number: Fig 5
+figure_title: Application of TEAPS for NF-κB signaling pathway model
+caption: (A) The model structure of NF-κB signaling pathways. This signaling pathway
+  includes feedback inhibition of NF-κB activation through IκBα and A20. (B) Time
+  courses of NF-κB activation. The parameter set fitting to in vitro observation outputs
+  a damped oscillation as is consistent with experimental observation (red), while
+  the model outputs continuous oscillation when the parameter related to feedback
+  inhibitions are changed (green). (C) The estimated basin stability for the reported
+  parameter set (actual) and the parameter set outputting continuous oscillation (oscillation).
+  (D) The estimated basin stability was increased by individual optimization process
+  (gL-BFGS) when TEAPS were applied to the NF-κB model. (E) The distribution of parameter
+  sets found by TEAPS for the NF-κB model. The found parameter values were broadly
+  distributed (blue). For many parameters, the previously reported value (red) was
+  included in the range found by TEAPS. (F, G) The distribution of the parameter values
+  found by TEAPS in PC space. The reported values (red) were included in the found
+  distribution for most axes, while the oscillative parameter set was outside of dominant
+  distribution for later PCs. (F) The distributions for all PCs are shown. (G) The
+  distributions of later PCs are enlarged.
+article_title: Utility of constraints reflecting system stability on analyses for
+  biological models.
+citation: Yoshiaki Kariya, et al. PLoS Comput Biol. 2022 Sep;18(9):e1010441.
+year: '2022'
+
+doi: 10.1371/journal.pcbi.1010441
+journal_title: PLoS Computational Biology
+journal_nlm_ta: PLoS Comput Biol
+publisher_name: Public Library of Science
+
+keywords:
+---

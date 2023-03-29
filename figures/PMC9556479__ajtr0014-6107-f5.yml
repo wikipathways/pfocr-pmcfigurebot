@@ -1,0 +1,31 @@
+---
+figid: PMC9556479__ajtr0014-6107-f5
+pmcid: PMC9556479
+image_filename: ajtr0014-6107-f5.jpg
+figure_link: /pmc/articles/PMC9556479/figure/fig05/
+number: Figure 5
+figure_title: ''
+caption: Gene set enrichment analysis (GSEA). A. GSEA plot of KEGG pathways enriched
+  in ATRX-mt patients including antigen processing and presentation, natural killer
+  cell mediated cytotoxicity, RIG I like receptor signaling pathway and T cell receptor
+  signaling pathway. Nominal P-values and the false-discovery rate (FDR) are indicated.
+  B. Heatmap of the immune-related KEGG pathways and tumor hallmarks quantified by
+  gene set variation analysis (GSVA). The method of limma was used to make the differential
+  analysis. The cutoff value of FDR < 0.05 was considered to be significant.
+article_title: Association of ATRX mutations with immunologically active characteristics
+  in patients with MSI-prone tumors.
+citation: You Ge, et al. Am J Transl Res. 2022;14(9):6107-6122.
+year: '2022'
+
+doi: ''
+journal_title: American Journal of Translational Research
+journal_nlm_ta: Am J Transl Res
+publisher_name: e-Century Publishing Corporation
+
+keywords:
+- Immune checkpoint inhibitors
+- ATRX mutations
+- immune activation
+- microsatellite instability
+
+---

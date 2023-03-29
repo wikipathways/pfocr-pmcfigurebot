@@ -1,0 +1,46 @@
+---
+figid: PMC9481139__sciadv.abp9005-f4
+pmcid: PMC9481139
+image_filename: sciadv.abp9005-f4.jpg
+figure_link: /pmc/articles/PMC9481139/figure/F4/
+number: Fig. 4
+figure_title: Genetic inhibition of CDK9 or DHODH in combination with gilteritinib
+  alters multiple signature pathways
+caption: (A) GSEA plots of representative significantly down-regulated and up-regulated
+  pathways in hallmark gene sets for shCDK9/gilteritinib versus scrambled/gilteritinib
+  and scrambled/gilteritinib versus scrambled/vehicle comparisons. Combination treatment
+  suppresses these pathways that are activated by gilteritinib treatment alone. (B)
+  Cytoscape enrichment map of the top gene programs in shCDK9/gilteritinib combination.
+  Enriched GSEA gene sets are predicted with Enrichment Map in Cytoscape and depicted
+  by orange and purple nodes, where purple nodes represent significantly up-regulated
+  pathways in combination treatment and orange nodes represent significantly down-regulated
+  pathways in combination treatment. Node size is proportional to the number of genes
+  in each node, line thickness indicates the overlap of genes between nodes, and the
+  theme of genes in each cluster is specified. Clustered gene programs are labeled.
+  (C) Heatmap showing normalized read counts of genes in selected top enriched pathways
+  predicted by GSEA across different treatment groups of shCDK9-mediated synergy.
+  Selected genes are labeled. The hierarchical clustering of genes and samples was
+  performed with Euclidean distance matrix and Ward’s clustering method. (D) GSEA
+  plots of representative significantly down-regulated and up-regulated pathways in
+  hallmark gene sets for shDHODH/gilteritinib versus scrambled/vehicle and scrambled/gilteritinib
+  versus scrambled/vehicle comparisons. Combination treatment suppresses these pathways
+  that are activated by gilteritinib alone. (E) Heatmap showing normalized read counts
+  of genes in selected top enriched pathways predicted by GSEA across different treatment
+  groups of shDHODH-mediated synergy. Selected genes are labeled. The hierarchical
+  clustering of genes and samples was performed with Euclidean distance matrix and
+  Ward’s clustering method. (F) Cytoscape enrichment map of the top gene programs
+  in shDHODH/gilteritinib combination. (G) Top glycolysis-related hits in positive
+  selection of CRISPR screen upon gilteritinib treatment are highlighted in glycolysis
+  pathway. Log(fold change) values of the top five hits are listed.
+article_title: Targeting OXPHOS de novo purine synthesis as the nexus of FLT3 inhibitor–mediated
+  synergistic antileukemic actions.
+citation: Pu Zhang, et al. Sci Adv. 2022 Sep;8(37):eabp9005.
+year: '2022'
+
+doi: 10.1126/sciadv.abp9005
+journal_title: Science Advances
+journal_nlm_ta: Sci Adv
+publisher_name: American Association for the Advancement of Science
+
+keywords:
+---

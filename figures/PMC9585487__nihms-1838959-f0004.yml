@@ -1,0 +1,39 @@
+---
+figid: PMC9585487__nihms-1838959-f0004
+pmcid: PMC9585487
+image_filename: nihms-1838959-f0004.jpg
+figure_link: /pmc/articles/PMC9585487/figure/F3/
+number: Figure 3
+figure_title: PRC2-regulated super-enhancer-driven FOXC1 determines the cell lineage
+  specificity in MPNST cells
+caption: '(A) Heatmap of ChIP-seq signal intensity of FOXC1, H3K27ac, H3K4me3, and
+  H3K27me3 peaks in T265 without (−Dox) or with (+Dox) a functional PRC2 restored.
+  ChIP-seq signals were calculated over 11,613 FOXC1 peaks that were segmented into
+  three categories: promoter (281 peaks within 1,000 bp of the transcription start
+  site), enhancer (5,821 peaks overlapping enhancers determined by ROSE using the
+  H3K27ac ChIP-seq results), and others (5,511 peaks not at promoters or that do not
+  overlap with enhancers).(B) Composite plot of FOXC1, H3K27ac, H3K4me3, and H3K27me3
+  ChIP-seq signal intensity over 11,613 FOXC1 binding sites, showing that FOXC1 peaks
+  overlapped with H3K27ac signals.(C) IGV tracks of the SMAD3 locus (left) and qRT-PCR
+  quantification showing that SMAD3 mRNA level (right) increased after FOXC1 knockdown.(D)
+  IGV tracks at the TGFBI locus (left), showing multiple FOXC1 peaks and the corresponding
+  reduction of H3K27ac signals, as well as qRT-PCR quantification (right) of decreased
+  expression of this gene.(E) A table presenting the HOMER motif analysis results
+  using FOXC1 ChIP-seq peaks. The top four de novo motif categories and the best-matched
+  TFs representing that motif are shown.(F) Gene ontology pathway analysis of genes
+  associated with enhancers bound by FOXC1 in T265 cells.(G) Heatmap showing the transcriptional
+  alterations of direct FOXC1-targeted genes upon CRISPR-Cas9-mediated knockout of
+  FOXC1 in T265 cells.(H) Enrichment plot demonstrating that Ras signaling genes ()
+  were inhibited by FOXC1 knockout in T265 cells. NES, normalized enrichment score.'
+article_title: Single-cell sequencing reveals activation of core transcription factors
+  in PRC2-deficient malignant peripheral nerve sheath tumor.
+citation: Xiyuan Zhang, et al. Cell Rep. ;40(12):111363-111363.
+year: '2022'
+
+doi: 10.1016/j.celrep.2022.111363
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: ''
+
+keywords:
+---

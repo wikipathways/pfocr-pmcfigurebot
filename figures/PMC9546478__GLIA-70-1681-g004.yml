@@ -1,0 +1,37 @@
+---
+figid: PMC9546478__GLIA-70-1681-g004
+pmcid: PMC9546478
+image_filename: GLIA-70-1681-g004.jpg
+figure_link: /pmc/articles/PMC9546478/figure/glia24189-fig-0006/
+number: FIGURE 6
+figure_title: ''
+caption: Transcriptomic analysis of Olig2‐initiated tumors with PDGF‐A overexpression.
+  (a) Otv‐a‐Cre;p53fl/fl mice were injected with RCAS‐PDGF‐A and RCAS‐H3.3K27M or
+  RCAS‐H3.3WT. Volcano plot comparing gene expression in H3.3K27M and H3.3WT tumors.
+  There were a total of 907 significantly differentially expressed genes including
+  320 upregulated and 587 downregulated genes in the H3.3K27M group compared with
+  the controls. N = 5. (b) Principal component analysis comparing Otv‐a‐Cre;p53fl/fl;PDGF‐A;H3.3K27M
+  and Otv‐a‐Cre;p53fl/fl;PDGF‐A;H3.3WT tumors showing partial overlap. (c) Unsupervised
+  hierarchical clustering of differentially regulated genes (p adj  <.05) between
+  H3.3K27M and H3.3WT tumors (n = 5 each). (d) Gene ontology pathway analysis of upregulated
+  and downregulated genes. (e–g) GSEA plots for interferon alpha response (e), interferon
+  gamma response (f), and H3K27me3 promoters (g) (Mikkelsen et al., ) in H3.3K27M
+  tumors relative to H3.3WT. NES, normalized enrichment score
+article_title: A novel mouse model of diffuse midline glioma initiated in neonatal
+  oligodendrocyte progenitor cells highlights cell‐of‐origin dependent effects of
+  H3K27M .
+citation: Yusuke Tomita, et al. Glia. 2022 Sep;70(9):1681-1698.
+year: '2022'
+
+doi: 10.1002/glia.24189
+journal_title: Glia
+journal_nlm_ta: Glia
+publisher_name: John Wiley & Sons, Inc.
+
+keywords:
+- diffuse intrinsic pontine glioma
+- diffuse midline glioma
+- H3K27M
+- oligodendrocyte progenitor cells
+
+---

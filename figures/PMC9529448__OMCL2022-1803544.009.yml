@@ -1,0 +1,44 @@
+---
+figid: PMC9529448__OMCL2022-1803544.009
+pmcid: PMC9529448
+image_filename: OMCL2022-1803544.009.jpg
+figure_link: /pmc/articles/PMC9529448/figure/fig9/
+number: Figure 9
+figure_title: ''
+caption: 'Activation of oxidative stress pathways in pyroptotic BMDMs was associated
+  with poor prognosis. (a) BMDM and microglia identified in the GSE131928, GSE117891
+  and GSE117891 datasets were extracted and integrated using the harmony R package.
+  (b) tSNE plots show the distribution of BMDMs and microglia in glioma samples of
+  different disease grades after correction for batch effects. The pie charts show
+  the percentage of BMDMs and microglia in each WHO grade of sample. (c) Comparison
+  of CASP1, CASP4, GSDMD, and NLRC4 expression in BMDMs (left) and microglia (right)
+  from samples of different WHO grades. (d) CASP1+ GSDMD+ and CASP4+ GSDMD+ cells
+  were defined as pyroptotic cells, and the pyroptosis type of the cells was projected
+  in the tSNE plot. The pie charts show the percentage of BMDMs and microglia in each
+  WHO grade of sample. The pie chart shows the percentage of pyroptotic cells in BMDMs
+  and microglia. (e, f) Trajectory of all BMDMs along pseudotime. The colors from
+  blue to red represent the forward order of pseudotime. The pyroptosis type of the
+  cells is projected on the trajectory. (g) Heatmap revealing the dynamic changes
+  in gene expression during the differentiation process. From the middle to the left
+  and to the right represent the process of changes in gene expression toward differentiation
+  to the two cell fates. Differences in enriched pathways by GO between different
+  phases (right panel). Genes were grouped into four clusters according to their expression
+  patterns, and the results of GO enrichment analysis for each gene cluster are presented
+  in different colors and shown below. (h, i) ssGSEA in TCGA cohort based on the LPS/bacterial
+  response pathway and oxidative stress response pathway genes in Gene Cluster 1,
+  comparing their differences between the high- and low-risk groups and their impact
+  on overall survival. Statistics were calculated using the Wilcoxon test in (c).
+  Statistics were calculated using two-tailed, unpaired Student''s t-test with Welch''s
+  correction in (h). ns: not significant. ∗∗p < 0.01,  ∗∗∗p < 0.001, and∗∗∗∗p < 0.0001.'
+article_title: Bulk and Single-Cell Transcriptome Analyses Revealed That the Pyroptosis
+  of Glioma-Associated Macrophages Participates in Tumor Progression and Immunosuppression.
+citation: Lin Li, et al. Oxid Med Cell Longev. 2022;2022:1803544.
+year: '2022'
+
+doi: 10.1155/2022/1803544
+journal_title: Oxidative Medicine and Cellular Longevity
+journal_nlm_ta: Oxid Med Cell Longev
+publisher_name: Hindawi
+
+keywords:
+---

@@ -1,0 +1,58 @@
+---
+figid: PMC9454618__cancers-14-04303-g002
+pmcid: PMC9454618
+image_filename: cancers-14-04303-g002.jpg
+figure_link: /pmc/articles/PMC9454618/figure/cancers-14-04303-f002/
+number: Figure 2
+figure_title: ''
+caption: Transcriptional activation of the phosphoinositide 3-kinase (PI3K)-protein
+  kinase (AKT) pathway downstream of KRAS in the Gene Expression Omnibus (GEO) MPM
+  dataset GSE51024. Raw data of the gene expression profiles of MPM (n = 55) and normal
+  lung (n = 41) tissues assessed by Affymetrix HG-U133_Plus_2 microarrays were retrieved
+  from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE51024 (accessed on 3
+  March 2022) and were analyzed using Affymetrix transcriptome analysis console v4.0.
+  (a) Principal component analysis (PCA) plot showing color-coded individual patients
+  (circles), percentile weight of the three principal components (%), patient numbers
+  (n), and color-coded legend. (b) Unsupervised hierarchical clustering of all samples
+  (columns) by 2204 probes (rows) differentially regulated in MPM and normal lung
+  tissues. Data are presented as color-coded heatmaps of log2(signal intensities)
+  produced via robust multi-array average normalization. FDR q, probability, false
+  discovery rate; ΔGE, differential gene expression, fold-change MPM over lung tissues;
+  p, probability, hypergeometric test. (c) Fourteen WikiPathways statistically significantly
+  (p < 0.001, FDR) differentially regulated in the 2204 probes from (b). Data are
+  presented as average WikiPathway significance (bars) and threshold (p < 0.001; dotted
+  line). Red bars denote PI3K-AKT pathways and grey bars all other pathways. (d) Volcano
+  plot of probes for all genes (white circles) and of 48 probes for 27 genes of WikiPathways
+  “phosphoinositide 3-kinase (PI3K)-protein kinase (AKT) signaling” and “focal adhesion-PI3K-AKT-mTOR
+  signaling” (red circles; including CCNE2, CDK6, COL11A1, COL1A1, COL1A2, COL3A1,
+  COL5A1, COL6A1, COL6A2, COL6A3, COMP, EFNA5, EFNA5, FGF18, FGF9, FN1, HSP90B1, IGF1,
+  IGF2, ITGB4, LAMA1, PDGFD, SPP1, THBS2, THBS3, THBS4, and VTN; hereafter called
+  PI3K-AKT signature). (e) Volcano plot of differential gene expression of PI3K-AKT
+  signature genes in the major histologic MPM subtypes. In (d,e), data are presented
+  as color-coded individual probe data points (circles), thresholds of significance
+  (dotted lines), and ΔGE = 0 reference (dashed lines). In (e), light colors denote
+  non-significant and dark colors significant probes. (f) Unsupervised hierarchical
+  clustering of all samples (columns) by 48 probes for 27 PI3K-AKT signature genes
+  (rows). Data are presented as color-coded heatmaps of log2(signal intensities) produced
+  via robust multi-array average normalization. FDR q, probability, false discovery
+  rate; ΔGE, differential gene expression, fold-change MPM over lung tissues; p, probability,
+  hypergeometric test.
+article_title: 'KRAS Pathway Alterations in Malignant Pleural Mesothelioma: An Underestimated
+  Player.'
+citation: Lilith Trassl, et al. Cancers (Basel). 2022 Sep;14(17):4303.
+year: '2022'
+
+doi: 10.3390/cancers14174303
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- mutations
+- receptor tyrosine kinase pathway
+- TP53
+- RAS
+- PI3K
+- MAPK
+
+---

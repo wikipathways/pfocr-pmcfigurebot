@@ -1,0 +1,42 @@
+---
+figid: PMC9495822__biology-11-01253-g001
+pmcid: PMC9495822
+image_filename: biology-11-01253-g001.jpg
+figure_link: /pmc/articles/PMC9495822/figure/biology-11-01253-f001/
+number: Figure 1
+figure_title: ''
+caption: Comparison of differentially expressed genes between BMRs and mice (data
+  were reanalyzed from the transcriptome data of Altwasser et al.). (a) KEGG pathway
+  enrichment analysis of consistently activated and repressed genes in BMRs (n = 4)
+  when compared to mice (n = 3). The permutation of the gene set enrichment analysis
+  is 10,000, and the cutoff p-value was selected as 0.05. RNA samples from BMRs represent
+  the sequence data. The dot size is based on the gene count enriched in the pathway,
+  and the color of the dot shows the pathway enrichment significance. Gene set enrichment
+  analyses were performed with multiple test corrections (Benjamini–Hochberg). (b)
+  Expression changes in JAK–STAT signaling are represented as a heatmap by using the
+  transcriptome data of BMRs and mice. The columns represent individuals, and rows
+  represent genes. Before creating the heatmap, raw gene expression abundances were
+  scaled at the gene level, which is represented as the Z-score.
+article_title: 'Transcriptomics and Proteomics Analyses Reveal JAK Signaling and Inflammatory
+  Phenotypes during Cellular Senescence in Blind Mole Rats: The Reflections of Superior
+  Biology.'
+citation: Nurcan Inci, et al. Biology (Basel). 2022 Sep;11(9):1253.
+year: '2022'
+
+doi: 10.3390/biology11091253
+journal_title: Biology
+journal_nlm_ta: Biology (Basel)
+publisher_name: MDPI
+
+keywords:
+- aging
+- cancer
+- cellular senescence
+- JAK–STAT
+- SASP
+- inflammation
+- anticancer
+- MMP
+- NF-κB
+
+---

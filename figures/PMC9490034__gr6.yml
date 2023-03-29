@@ -1,0 +1,36 @@
+---
+figid: PMC9490034__gr6
+pmcid: PMC9490034
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC9490034/figure/fig6/
+number: Figure 6
+figure_title: ''
+caption: The expression and survival analysis of eRNA-mediated immune checkpoint score(A–C)
+  The immune checkpoints score of three types of gene sets, including major histocompatibility
+  complex (MHC), immune co-inhibitory checkpoints (IAP), and immune co-stimulator
+  checkpoints (ICP), were all significant differences in the three eRNA subtypes (p < 0.05).(D)
+  The correlation of BTLA and ENSR00000305509 (p < 0.05).(E) The correlation of TMIGD2
+  and ENSR00000106294 (p < 0.05).(F) K-M analysis of the high versus low TMIGD2 expression
+  group in the TCGA GC cohort. (p = 0.0054).(G) K-M analysis of the high versus low
+  BTLA expression group in the TCGA GC cohort. (p = 0.2).(H) ENSR00000305509 corresponding
+  mutation driver genes (SYNE1, APC, TP53) (p<0.05).(I) ENSR00000106294 corresponding
+  mutation driver genes (SYNE1, GPR98, TP53, TNN) (p<0.05).(J) The correlation of
+  ENSR00000106294 and immunotherapy-related pathway (left). The correlation of ENSR00000305509
+  and immunotherapy-related pathway (right).
+article_title: The integrated landscape of eRNA in gastric cancer reveals distinct
+  immune subtypes with prognostic and therapeutic relevance.
+citation: Xin Hu, et al. iScience. 2022 Oct 21;25(10):105075.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.105075
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Biological sciences
+- Bioinformatics
+- Systems biology
+- Cancer
+
+---

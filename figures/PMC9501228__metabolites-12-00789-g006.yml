@@ -1,0 +1,32 @@
+---
+figid: PMC9501228__metabolites-12-00789-g006
+pmcid: PMC9501228
+image_filename: metabolites-12-00789-g006.jpg
+figure_link: /pmc/articles/PMC9501228/figure/metabolites-12-00789-f006/
+number: Figure 6
+figure_title: ''
+caption: MapMan analysis based “metabolic overview map” of DEGs in three groups. (A)
+  Schematic diagram of metabolic overview categories. The small heatmap in each section
+  of the diagram shows the DEGs mapped to the pathway and a small square indicates
+  a transcript. Red, orange, and yellow indicate upregulated genes in each group;
+  blue, light sea green, and green mean downregulated genes in each group. (B,C) DEGs
+  related to (B) cell wall and (C) secondary metabolism. Heatmaps of DEGs were drawn
+  using the log2 (FC) value obtained from the pairwise comparison of samples. Red
+  and blue indicate upregulation and downregulation, respectively.
+article_title: Integrative Analysis of Metabolome and Transcriptome Reveals the Role
+  of Strigolactones in Wounding-Induced Rice Metabolic Re-Programming.
+citation: Ling Liu, et al. Metabolites. 2022 Sep;12(9):789.
+year: '2022'
+
+doi: 10.3390/metabo12090789
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: MDPI
+
+keywords:
+- strigolactones
+- wounding
+- jasmonates
+- metabolic response
+
+---

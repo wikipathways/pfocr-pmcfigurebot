@@ -1,0 +1,40 @@
+---
+figid: PMC9468144__41419_2022_5222_Fig5_HTML
+pmcid: PMC9468144
+image_filename: 41419_2022_5222_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC9468144/figure/Fig5/
+number: Fig. 5
+figure_title: CKS2 regulates cancer-associated PI3K–AKT signaling pathway
+caption: A Volcano plot of gene-level expression changes after CKS2 knockdown. The
+  orange and green dots represent genes with an at least two-fold increase or decrease
+  in expression level in CKS2-KD cells compared with control cells. B Heatmap of log2-transformed
+  expression profiles for DEGs compared CKS2-KD cells with control cells. Orange and
+  blue denote increased and decreased expression, respectively. C GO enrichment analysis
+  for all DEGs showed in (C). D Western blotting validations of PI3K–AKT–mTOR signaling
+  pathway-associated proteins in CKS2-KD and CKS2-Rescue cells compared with corresponding
+  control Y79 cells. E Western blotting was used to validate the knockdown of PTEN
+  in CKS2 down-regulated Y79 cells. F–H Knockdown of PTEN in CKS2 down-regulated Y79
+  cells reversed cell proliferation (F), colony formation (G) and EdU staining assay
+  (H, Representative images at left panel and quantification of percent EdU+ cells
+  at right panel, shown as mean ± SEM, **p < 0.01, ***p < 0.001, n ≥ 3). I Western
+  blotting was used to validate expression of PTEN in E2F1 knockdown Y79 cells. J
+  Lentivirus overexpression of PTEN (PTEN-OE) in Y79 cells was validated by Western
+  blotting. GAPDH served as the internal control. K, L Colony formation assay (K)
+  and EdU staining assay (L; Representative images at left panel and quantification
+  of percent EdU+ cells at right panel, shown as mean ± SEM, **p < 0.01, ***p < 0.001,
+  n ≥ 3) of Y79 cells between Ctrl group and PTEN-OE group. ***P < 0.001; **P < 0.01;
+  *P < 0.05, by two-tailed t-test.
+article_title: E2F1/CKS2/PTEN signaling axis regulates malignant phenotypes in pediatric
+  retinoblastoma.
+citation: Meng Chen, et al. Cell Death Dis. 2022 Sep;13(9):784.
+year: '2022'
+
+doi: 10.1038/s41419-022-05222-9
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Paediatric cancer
+
+---

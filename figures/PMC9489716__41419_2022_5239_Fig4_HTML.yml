@@ -1,0 +1,42 @@
+---
+figid: PMC9489716__41419_2022_5239_Fig4_HTML
+pmcid: PMC9489716
+image_filename: 41419_2022_5239_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9489716/figure/Fig4/
+number: Fig. 4
+figure_title: Elevated activity of Hif-1 signaling pathway in CKO growth plate chondrocytes
+caption: 'A Volcano plot of RNA-seq. B mRNA expression level of significantly downregulated
+  genes (Matn1, Comp, Pycr1, Angptl6, Cnmd, and Ucma) in E18.5 CKO growth plate cartilage
+  compared to WT. n = 3 biological replicates. C, D GO enrichment analysis (C) and
+  KEGG pathway enrichment analysis (D) of up- and down-regulated genes (Log2FC > 1
+  or < -1, p-value < 0.05) according to RNA-seq results. Red boxes: items we focus
+  on. E The expression of Hif1α of tibia of E18.5 WT and CKO embryos (left panel),
+  and protein level of Hif1α (right panel, top) and the luciferase activity (right
+  panel, bottom) of Hnrnpkfl/fl chondrocytes infected with Ad-GFP or Ad-Cre under
+  normoxic or hypoxic conditions. n = 4 biological replicates. Scale bar: 100 μm.
+  F Hnrnpk protein level of supernatant immunoprecipitated with antibodies of Hnrnpk
+  or IgG. G, H RIP-PCR (G) and RIP-qPCR (H) were used to determine the level of binding
+  between Hnrnpk and Hif1a mRNA. IgG IP was used as a specificity control. n = 3 biological
+  replicates. I Half-life of Hif1a mRNA of Hnrnpkfl/fl chondrocytes infected with
+  Ad-GFP or Ad-Cre. n = 3 biological replicates. J Protein level of Sox9, Mmp13, p21,
+  and Hnrnpk of Hnrnpkfl/fl chondrocytes infected with Ad-GFP or Ad-Cre under normoxic
+  or hypoxic conditions. K Protein level of Hif1α, Sox9, and Mmp13 in Hnrnpkfl/fl
+  chondrocytes treated with DMSO or Chetomin after being infected with Ad-GFP or Ad-Cre
+  under hypoxic condition. p-value was calculated by one-way ANOVA followed by Tukey’s
+  multiple comparisons tests (E) or two-tailed unpaired Student’s t-test (B, H, I).
+  Data were shown as mean ± SD. *p < 0.05; **p < 0.01; ***p < 0.001.'
+article_title: Hnrnpk maintains chondrocytes survival and function during growth plate
+  development via regulating Hif1α-glycolysis axis.
+citation: Yuyu Chen, et al. Cell Death Dis. 2022 Sep;13(9):803.
+year: '2022'
+
+doi: 10.1038/s41419-022-05239-0
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Apoptosis
+- Bone development
+
+---

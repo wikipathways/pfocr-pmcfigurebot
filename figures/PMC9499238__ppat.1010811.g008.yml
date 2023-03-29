@@ -1,0 +1,39 @@
+---
+figid: PMC9499238__ppat.1010811.g008
+pmcid: PMC9499238
+image_filename: ppat.1010811.g008.jpg
+figure_link: /pmc/articles/PMC9499238/figure/ppat.1010811.g008/
+number: Fig 8
+figure_title: SIRT5 proviral activity is independent of the MAVS signaling pathway
+caption: 'A. Western blot showing 90% reduction of MAVS in A549-A/T cells transduced
+  with a CRISPR lentivirus against MAVS. A549-A/T cells stably co-express ACE2 and
+  TMPRSS2. B. Viral titers in MAVS-KD cells treated with DMSO or SIRT5 inhibitor Sirt5-i,
+  after infection with SARS-Cov-2 for 3 days at MOI = 0.1, as shown by plaque assay.
+  Sirt5-i had a similar effect in WT and MAVS-KO, suggesting that SIRT5 function is
+  independent of MAVS. n = 9. C. RT-qPCR of GFP or Nsp14 after doxycycline induction.
+  WT and SIRT5-KO A549-ACE2 cells were stably transduced with doxycycline-inducible
+  constructs for GFP and Nsp14. After doxycycline treatment for 48 hours at 100ng/mL,
+  GFP was strongly overexpressed, but Nsp14 failed to be expressed. Data show fold-changes
+  compared to the first column (WT cells transduced with GFP without doxycycline),
+  after normalization with ACTIN. n = 4. D. Hypotheses for the role of the SIRT5/Nsp14
+  interaction during SARS-CoV-2 infection. In model 1, Nsp14 could enhance SIRT5 activity,
+  which would decrease innate immune responses and favor viral replication. In model
+  2, Nsp14 could redirect SIRT5 to novel targets, potentially in the replication-transcription
+  complex, where SIRT5 could deacylate other viral proteins. In model 3, the Nsp14/SIRT5
+  complex could be primarily involved in mRNA cap methylation. Absence or inhibition
+  of SIRT5 would lead to incomplete cap methylation and stronger immune recognition
+  of viral mRNA. B-C. Data show mean and SEM between biological replicates. Asterisks
+  summarize the results of one-way ANOVAs followed by Holm–Šidák multiple comparisons
+  test (on log-transformed data for plaque assays). *: p < 0.05, **: p < 0.01, ***:
+  p < 0.001, ****: p < 0.0001.'
+article_title: SIRT5 is a proviral factor that interacts with SARS-CoV-2 Nsp14 protein.
+citation: Marius Walter, et al. PLoS Pathog. 2022 Sep;18(9):e1010811.
+year: '2022'
+
+doi: 10.1371/journal.ppat.1010811
+journal_title: PLoS Pathogens
+journal_nlm_ta: PLoS Pathog
+publisher_name: Public Library of Science
+
+keywords:
+---

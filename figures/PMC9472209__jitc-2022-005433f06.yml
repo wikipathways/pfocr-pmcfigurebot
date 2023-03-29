@@ -1,0 +1,40 @@
+---
+figid: PMC9472209__jitc-2022-005433f06
+pmcid: PMC9472209
+image_filename: jitc-2022-005433f06.jpg
+figure_link: /pmc/articles/PMC9472209/figure/F6/
+number: Figure 6
+figure_title: ''
+caption: PIIO-1 attenuates canonical TGFβ signaling pathway in tumor-infiltrating
+  immune cells and rejuvenates antitumor immunity in hLRRC32KI mice. (A) 1×105 MB-49
+  cells were injected s.c. on the right flank of hLRRC32KI male mice. Humanized PIIO-1
+  (200 µg/mouse, i.p.) were administered on days 18 and 20. Tumors were collected
+  on day 21. TILs were isolated and stained for intracellular pSMAD2/3 with indicated
+  cell linage markers, followed by flow cytometry analysis. (B) Quantification of
+  panel A. (C–E) 1×105 MB-49 cells were injected s.c. on the right flank of hLRRC32KI
+  male mice. Humanized PIIO-1 (200 µg/mouse, i.p.) was delivered on days 6 and 9.
+  Tumors were collected on day 10. Single cell suspension and RNA isolation were prepared,
+  and then subjected to bulk RNA sequencing. (C) Volcano plot of transcript expression.
+  Differential gene expression was shown in red (up) or blue (down). Representative
+  transcripts such as Ccl3, Ccl9, Cxcl14, Cxcl15, Il6 and Tnfrsf25 were indicated.
+  (D) GSEA of differential expression genes between tumors treated with PBS and PIIO-1.
+  (E) Comparison of TILs between PBS and PIIO-1 treated tumors based on deconvolution
+  of bulk RNA sequencing data. Data were performed using two-tailed Student’s t-test,
+  data in (B) represented mean±SEM. *p<0.05, **p<0.01.
+article_title: Selective targeting of GARP-LTGFβ axis in the tumor microenvironment
+  augments PD-1 blockade via enhancing CD8+ T cell antitumor immunity.
+citation: Anqi Li, et al. J Immunother Cancer. 2022;10(9):e005433.
+year: '2022'
+
+doi: 10.1136/jitc-2022-005433
+journal_title: Journal for Immunotherapy of Cancer
+journal_nlm_ta: J Immunother Cancer
+publisher_name: BMJ Publishing Group
+
+keywords:
+- immunotherapy
+- CD8-positive T-lymphocytes
+- programmed cell death 1 receptor
+- transplantation immunology
+
+---

@@ -1,0 +1,43 @@
+---
+figid: PMC9472020__BTM2-7-e10314-g006
+pmcid: PMC9472020
+image_filename: BTM2-7-e10314-g006.jpg
+figure_link: /pmc/articles/PMC9472020/figure/btm210314-fig-0002/
+number: FIGURE 2
+figure_title: ''
+caption: Anti‐cancer effects of NTP therapy. (a) Melanoma tumor‐bearing mice were
+  treated with NTP for 5 consecutive days. (b) The NTP system consisting of a microsecond‐pulsed
+  power supply and a DBD applicator was used to generate NTP directly onto the tumor
+  surface. (c) Immediately after the fifth day of NTP treatment, tumor volumes were
+  significantly smaller compared to untreated controls (Ctrl). Data shown are mean ± SEM
+  from two independent experiments (Ctrl, n = 8; NTP, n = 11). *p≤ 0.05, **p ≤ 0.01,
+  ***p ≤ 0.001 (generalized linear mixed model). (d) Tumor kinetics were monitored
+  until humane endpoints were reached, and (e) Kaplan–Meier plots showed a significant
+  increase in median survival in the NTP‐treated group. **p ≤ 0.01. Tumors were resected
+  immediately after the last treatment (Day 7) or 3 (Day 10) or 7 (Day 14) days post.
+  RNA sequencing and transcriptome profiling were performed using a preranked GSEA.
+  (f) Several significantly (FDR ≤ 0.05) enriched pathways are shown. The IL‐6/JAK/STAT3
+  was of particular interest, and (g) the top downregulated genes in the pathway from
+  DEseq2 analysis are shown. Dotted lines indicate thresholds for uncorrected p ≤ 0.05
+  (y axis) and log2fold change ≤−0.5 or ≥0.5 (x axis). Genes labeled in blue or red
+  are above the uncorrected p value threshold (based on log2fold change threshold),
+  while points in green (above log2fold change threshold) are not
+article_title: The effect of local non‐thermal plasma therapy on the cancer‐immunity
+  cycle in a melanoma mouse model.
+citation: Abraham Lin, et al. Bioeng Transl Med. 2022 Sep;7(3):e10314.
+year: '2022'
+
+doi: 10.1002/btm2.10314
+journal_title: Bioengineering & Translational Medicine
+journal_nlm_ta: Bioeng Transl Med
+publisher_name: John Wiley & Sons, Inc.
+
+keywords:
+- cancer‐immunity cycle
+- cancer therapy
+- cold atmospheric plasma
+- melanoma
+- non‐thermal plasma
+- plasma oncology
+
+---

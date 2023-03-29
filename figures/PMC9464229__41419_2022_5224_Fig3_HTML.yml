@@ -1,0 +1,49 @@
+---
+figid: PMC9464229__41419_2022_5224_Fig3_HTML
+pmcid: PMC9464229
+image_filename: 41419_2022_5224_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC9464229/figure/Fig3/
+number: Fig. 3
+figure_title: P130cas interacts with YAP and promotes its stabilization, thus inducing
+  radioresistance
+caption: A GSEA analysis was performed to explore the signaling pathway positively
+  correlated with high P130cas expression in NSCLC. B Cytosolic and nuclear proteins
+  were extracted respectively to check YAP expression in the A549-NC and -P130cas
+  clones, and H1299-NC and –shP130cas clones, α-tubulin or LaminB1 were used as the
+  cytosolic or nuclear protein internal control, respectively. In the H1299-NC and
+  –shP130cas clones with or without betamethasone, immunofluorescence staining was
+  used to evaluate the subcellular localization of YAP (C, scale bar = 10 μm), western
+  blot assay was used to detect the phosphorylation of LATS1 and YAP (D), qPCR assay
+  was used to investigate the alteration of the target genes of YAP (E), luciferase
+  reporter assay was used to identify binding activity between YAP and TEAD4 promoter
+  (F). After being treated with CHX at indicated time point, the expression of YAP
+  was evaluated by western blotting in the A549-NC and -P130cas clones (G). The co-IP
+  assay was used to confirm the interaction between P130cas and YAP (H, I). Immunofluorescence
+  assay revealed the co-localization of endogenous P130cas and YAP in A549 cells,
+  colocation coefficient was quantified by Fiji software (J, scale bar = 10 μm). In
+  the A549-NC and -P130cas clones irradiated by 5 Gy X-ray, after incorporation with
+  YAP-siRNA or Verteporfin, western blotting (K, L) and immunofluorescence (M) were
+  used to observe the expression of YAP and γ-H2AX, as well as the number of γ-H2AX
+  foci (scale bar = 10 μm). Mice were subjected to radiation (8 Gy) on days 10, 11,
+  to 12 after tumor cell inoculation, and verteporfin (100 mg/kg) was injected intraperitoneally
+  every two days from day 10 to day 18 (n = 8). Mice were euthanatized on day 20 and
+  analyzed for tumor size (N). Representative explanted tumor growth curve of mice
+  treated as indicated (O, n = 8 per group). Each experiment was quantified as average ± SD
+  of three independent experiments (t-test, two-sided, *P < 0.05, **P < 0.01, ***P < 0.001).
+  For Western blot experiments, the samples derive from the same experiment and the
+  gels/blots were processed in parallel.
+article_title: P130cas-FAK interaction is essential for YAP-mediated radioresistance
+  of non-small cell lung cancer.
+citation: Jingduo Li, et al. Cell Death Dis. 2022 Sep;13(9):783.
+year: '2022'
+
+doi: 10.1038/s41419-022-05224-7
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Non-small-cell lung cancer
+- Radiotherapy
+
+---

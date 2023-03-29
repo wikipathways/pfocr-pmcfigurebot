@@ -1,0 +1,24 @@
+---
+figid: PMC9481367__JO2022-2965166.001
+pmcid: PMC9481367
+image_filename: JO2022-2965166.001.jpg
+figure_link: /pmc/articles/PMC9481367/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: (a) The number of nodes in each layer of the network is constructed based
+  on the Reactome pathway. The first layer has 26 nodes and the last layer has 2 nodes.
+  (b). The parent-child relationship network layer constructed based on the Reactome
+  pathway has a total of 9 layers, each node represents a pathway, and the node corresponds
+  to the corresponding pathway gene.
+article_title: A Deep Neural Network for Gastric Cancer Prognosis Prediction Based
+  on Biological Information Pathways.
+citation: Jili Hu, et al. J Oncol. 2022;2022:2965166.
+year: '2022'
+
+doi: 10.1155/2022/2965166
+journal_title: Journal of Oncology
+journal_nlm_ta: J Oncol
+publisher_name: Hindawi
+
+keywords:
+---

@@ -1,0 +1,45 @@
+---
+figid: PMC9552276__tcr-11-09-3108-f3
+pmcid: PMC9552276
+image_filename: tcr-11-09-3108-f3.jpg
+figure_link: /pmc/articles/PMC9552276/figure/f3/
+number: Figure 3
+figure_title: ''
+caption: 'Relationship between the abundance of TILs and gene expression. This was
+  determined via conducting the Spearman correlation in the EC sample on the TCGA-UCEC
+  database in the TISDB analysis. The stacked bar graph shows the infiltration of
+  28 immune cells in each sample. Each color represents a rho (A) or P value (B) in
+  a type of immune cell. The X axis represents the association between the ESCRT pathway
+  gene expression and immune subtypes across UCEC. The Y axis represents the TIL abundance
+  Kruskal-Wallis Test (−log 10pv). (A) Rho in Lymphocyte; (B) P value in Lymphocyte;
+  (C) the difference between the ESCRT genes: CHMP2A, CHMP2B, CHMP3, CHMP4B, CHMP4C,
+  CHMP5, CHMP5, CHMP7 and TILs on TCGA-UCEC tumor, normal and GTEx-Uterus dataset.
+  The Y axis represents log (TPM+1) in GEPIA analysis. UCEC, uterine corpus endometrial
+  carcinoma; TPM, transcripts per million; TILs, tumor-infiltrating immune cells;
+  Act CD8, activated CD8 T cell; Tcm CD8, central memory CD8 T cell; Tem CD8, effector
+  memory CD8 T cell; Act CD4, Activated CD4 T cell; Tcm CD4, central memory CD4 T
+  cell; Tem CD4, Effector memory CD4 T cell; Tfh, T follicular helper cell; Tgd, gamma
+  delta T cell; Th1, type 1 T helper cell; Th17, type 17 T helper cell; Th2, type
+  2 T helper cell; Treg, regulatory T cell; Act B, activated B cell; Imm B, immature
+  B cell; Mem B, memory B cell; NK, natural killer cell; CD56bright, CD56bright natural
+  killer cell; CD56dim, CD56dim natural killed cell; MDSC, myeloid derived suppressor
+  cell; NKT, natural killer T cell; Act DC, activated dendritic cell; pDC, plasmacytoid
+  dendritic cell; iDC, immature dendritic cell.'
+article_title: Genomic analysis of the endosomal sorting required for transport complex
+  III pathway genes as therapeutic and prognostic biomarkers for endometrial carcinoma.
+citation: Ye Yang, et al. Transl Cancer Res. 2022 Sep;11(9):3108-3127.
+year: '2022'
+
+doi: 10.21037/tcr-22-660
+journal_title: Translational Cancer Research
+journal_nlm_ta: Transl Cancer Res
+publisher_name: AME Publishing Company
+
+keywords:
+- ESCRT-III
+- CHMP2A
+- CHMP4B
+- CHMP7
+- endometrial carcinoma (EC)
+
+---

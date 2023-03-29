@@ -1,0 +1,33 @@
+---
+figid: PMC9476886__MSB-18-e10514-g006
+pmcid: PMC9476886
+image_filename: MSB-18-e10514-g006.jpg
+figure_link: /pmc/articles/PMC9476886/figure/msb202110514-fig-0001/
+number: Figure 1
+figure_title: Illustration of the core GPCR signaling pathway and the analogous model
+caption: A Key components of the GPCR signaling pathway. Dashed lines mark canonical
+  GPCR pathways, though they have not been verified yet in the AWA neuron.B An analogous
+  circuit topology that recapitulates the main signaling events related to calcium
+  dynamics. Note that S (TRPV and VGCC) depicts a self‐amplifying module to generate
+  the pulsatile activity. Symbols next to arrows mark the relevant constant in the
+  model's equations. Blue arrows indicate activation, and red lines mark inhibition.
+article_title: A negative feedback loop in the GPCR pathway underlies efficient coding
+  of external stimuli.
+citation: Rotem Ruach, et al. Mol Syst Biol. 2022 Sep;18(9):e10514.
+year: '2022'
+
+doi: 10.15252/msb.202110514
+journal_title: Molecular Systems Biology
+journal_nlm_ta: Mol Syst Biol
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- calcineurin/TAX‐6
+- calcium imaging
+- GPCR signaling
+- negative feedback
+- pulsatile response
+- Neuroscience
+- Signal Transduction
+
+---

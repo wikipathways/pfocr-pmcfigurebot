@@ -1,0 +1,37 @@
+---
+figid: PMC9438463__medscimonit-28-e937532-g001
+pmcid: PMC9438463
+image_filename: medscimonit-28-e937532-g001.jpg
+figure_link: /pmc/articles/PMC9438463/figure/f1-medscimonit-28-e937532/
+number: Figure 1
+figure_title: ''
+caption: Diagrammatic representation of the overall general process flow of this study
+  showing the RNA sequencing (RNA-Seq) datasets of 4 patients with severe COVID-19
+  and 4 healthy controls, from whom peripheral blood samples were obtained from GSE167930.
+  Then, the raw data were processed to identify the differentially expressed gene
+  (DEGs). We used these DEGs for Gene Ontology and pathway analysis and protein–protein
+  interaction (PPI) analysis. The most significant gene cluster in the PPI network
+  was identified and used for biological process enrichment analysis. Genes in this
+  cluster were found to play a role in protein ubiquitination. Then, the analysis
+  of genes involved in protein ubiquitination was performed to identify the network
+  of protein-chemical interactions for potent chemical agents, as well as transcription
+  factors and microRNAs at regulatory checkpoints. Ultimately, single-cell RNA-Seq
+  analysis of an online dataset was carried out to reveal the expression of the genes
+  regulating protein ubiquitination that is specific to different cell types.
+article_title: Transcriptome Analysis of Peripheral Blood Mononuclear Cells Response
+  in Patients with Severe COVID-19 Reveals Crucial Genes Regulating Protein Ubiquitination.
+citation: Jinfeng Huang, et al. Med Sci Monit. 2022;28:e937532-1-e937532-16.
+year: '2022'
+
+doi: 10.12659/MSM.937532
+journal_title: 'Medical Science Monitor : International Medical Journal of Experimental
+  and Clinical Research'
+journal_nlm_ta: Med Sci Monit
+publisher_name: International Scientific Literature, Inc.
+
+keywords:
+- COVID-19
+- Transcriptome
+- Ubiquitination
+
+---

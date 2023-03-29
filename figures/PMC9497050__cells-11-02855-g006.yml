@@ -1,0 +1,41 @@
+---
+figid: PMC9497050__cells-11-02855-g006
+pmcid: PMC9497050
+image_filename: cells-11-02855-g006.jpg
+figure_link: /pmc/articles/PMC9497050/figure/cells-11-02855-f006/
+number: Figure 6
+figure_title: ''
+caption: Clinical association of MYH9 in HNC patients. (A) Differential expression
+  of MYH9 in HNC and normal tissues, as determined using TCGA-HNSC datasets. (B) Prognostic
+  significance of MYH9 in HNC patients, as determined using the TCGA-HNSC dataset
+  by the KM plotter method (n = 500). The survival curve, hazard ratio (HR), and p-value
+  are indicated. (C) A molecular model representing MYH9 regulatory mechanism resulting
+  in cell invasion and radioresistance in HNC cells. MYH9 activates the pan-MAPK signaling
+  molecules, including Erk, p38, and JNK. This activation leads to the induction of
+  Nrf2 transcriptional activity, the upregulation of the antioxidant enzymes, and
+  the reduction of cellular ROS levels. The antioxidant enzyme, such as GCLC, further
+  confers cell invasion and radioresistance, resulting in aggressive cancer and poor
+  prognosis. Taken together, MYH9 exerts malignant effects in HNC via regulating cellular
+  ROS levels by activating the MAPK-Nrf2-GCLC signaling pathway.
+article_title: MYH9 Facilitates Cell Invasion and Radioresistance in Head and Neck
+  Cancer via Modulation of Cellular ROS Levels by Activating the MAPK-Nrf2-GCLC Pathway.
+citation: Guo-Rung You, et al. Cells. 2022 Sep;11(18):2855.
+year: '2022'
+
+doi: 10.3390/cells11182855
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- MYH9
+- head and neck cancer
+- cell invasion
+- radioresistance
+- prognosis
+- reactive oxygen species
+- GCLC
+- Nrf2
+- MAPK signaling pathway
+
+---

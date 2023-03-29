@@ -1,0 +1,47 @@
+---
+figid: PMC9544697__NPH-235-1853-g006
+pmcid: PMC9544697
+image_filename: NPH-235-1853-g006.jpg
+figure_link: /pmc/articles/PMC9544697/figure/nph18296-fig-0002/
+number: Fig. 2
+figure_title: ''
+caption: Proposed routes for thiamine biosynthesis in diatoms. (a) A tBlastn search
+  using selected algal peptide sequences as queries (please refer to Supporting Information
+  Table c) was performed against 19 diatom genomes to determine the presence (full
+  circle P‐value > 10−20; half‐full circle P‐value > 10−3) or absence (empty circle)
+  of different thiamine‐related genes. The presence of an associated predicted riboswitch
+  in the 3′UTR of the gene is indicated with a hairpin symbol at the right of the
+  circle. The genome abbreviations, accession numbers and references can be found
+  in Table . (b) Potential thiamine biosynthetic, salvage and uptake routes in diatoms.
+  The pathway steps with strong support across the diatom lineage are shown in green.
+  AIR, 5‐aminoimidazole ribotide; dA, 5′‐deoxyadenosine; DXP, 1‐deoxy‐d‐xylulose 5‐phosphate;
+  FAMP, N‐formyl‐4‐amino‐5‐aminomethyl‐2‐methylpyrimidine; GA3P, glyceraldehyde 3‐phosphate;
+  HET‐P, hydroxyethyl‐thiazole phosphate; HMP‐P, hydroxymethyl‐pyrimidine phosphate;
+  HMP‐PP, hydroxymethyl‐pyrimidine pyrophosphate; l‐Met, l‐methionine; NAD, nicotinamide
+  adenine dinucleotide; PLP, pyridoxal 5′‐phosphate; SAM, S‐adenosyl methionine; TMP,
+  thiamine monophosphate; TPP, thiamine pyrophosphate. &THI5/NMT1 candidates contain
+  an NMT1 Pfam domain (PF09084). $THIG and THIS are encoded in the chloroplast in
+  Phaeodactylum tricornutum, so the results can be biased in genomes that do not include
+  chloroplast sequences. +THID, THIE and HMPK functions are performed by a single
+  peptide in diatoms (TH1). *In some bacteria TenI accelerates a thiazole tautomerisation
+  reaction, but it is not necessary to synthesise HET‐P (Hazra et al., ).
+article_title: Thiamine metabolism genes in diatoms are not regulated by thiamine
+  despite the presence of predicted riboswitches.
+citation: Marcel Llavero‐Pasquina, et al. New Phytol. 2022 Sep;235(5):1853-1867.
+year: '2022'
+
+doi: 10.1111/nph.18296
+journal_title: The New Phytologist
+journal_nlm_ta: New Phytol
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- aptamer prediction
+- CRISPR/Cas9
+- diatoms
+- Phaeodactylum tricornutum
+- thiamine biosynthesis
+- thiamine uptake
+- TPP riboswitch
+
+---

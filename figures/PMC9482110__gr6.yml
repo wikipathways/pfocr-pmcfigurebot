@@ -1,0 +1,34 @@
+---
+figid: PMC9482110__gr6
+pmcid: PMC9482110
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC9482110/figure/fig6/
+number: Figure 6
+figure_title: ''
+caption: Enhanced repressive histone trimethylation and down-regulation of MYC signaling
+  in the mdig KO cells(A) Average plots of the merged peaks of ChIP-seq for H3K9me3,
+  H3K36me3 and H4K20me3 in the regions from -2 kb to 2 kb of gene loci in WT and mdig
+  KO cells. Right panel shows heatmaps of the merged peak distribution of H3K9me3
+  and H4K20me3 between WT and mdig KO cells.(B) Transcription factor pathway analysis
+  using Enrichr TF Perturbations Followed by Expression for the 980 downregulated
+  proteins in the mdig KO MDA-MB-231 cells.(C) Histone trimethylation profiles of
+  the selected MYC pathway genes in both WT and mdig KO cells. Block arrowheads depict
+  the enhanced enrichment of the repressive histone trimethylation markers on the
+  indicated genes in KO cells. Empty arrowheads indicate diminished active histone
+  trimethylation markers in the indicated gene in WT and KO cells.
+article_title: Deletion of mdig enhances H3K36me3 and metastatic potential of the
+  triple negative breast cancer cells.
+citation: Chitra Thakur, et al. iScience. 2022 Oct 21;25(10):105057.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.105057
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Molecular biology
+- Molecular mechanism of gene regulation
+- Cancer
+
+---

@@ -1,0 +1,36 @@
+---
+figid: PMC9496846__cancers-14-04532-g004a
+pmcid: PMC9496846
+image_filename: cancers-14-04532-g004a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 4
+caption: Network propagation and Reactome pathway analyses. (A,B) Network propagation
+  from query sets consisting of the 9 eribulin UFGs (A) and the 13 vinorelbine UFGs
+  (B) yielded the 100-gene networks shown, which included 7 of the 9 eribulin UFGs
+  and all 13 of the vinorelbine UFGs; 2 eribulin UFGs, C5ORF38 and GPR157, were not
+  themselves captured in the network propagation. Purple-highlighted network nodes
+  represent original UFG query input genes. (C–J) Reactome pathways derived from the
+  100-gene query sets obtained from network propagation. Full Reactome maps are shown
+  for eribulin (C) and vinorelbine (D), with blow ups of the Signal Transduction (E,F),
+  Immune System (G,H) and Cell Cycle (I,J) islands shown for eribulin (E,G,I) and
+  vinorelbine (F,H,J).
+article_title: Systematic Analysis of Genetic and Pathway Determinants of Eribulin
+  Sensitivity across 100 Human Cancer Cell Lines from the Cancer Cell Line Encyclopedia
+  (CCLE).
+citation: Pallavi Sachdev, et al. Cancers (Basel). 2022 Sep;14(18):4532.
+year: '2022'
+
+doi: 10.3390/cancers14184532
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- eribulin
+- paclitaxel
+- vinorelbine
+- gene expression
+- predictive biomarkers
+
+---

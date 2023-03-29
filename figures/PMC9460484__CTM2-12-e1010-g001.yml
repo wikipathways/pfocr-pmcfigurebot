@@ -1,0 +1,40 @@
+---
+figid: PMC9460484__CTM2-12-e1010-g001
+pmcid: PMC9460484
+image_filename: CTM2-12-e1010-g001.jpg
+figure_link: /pmc/articles/PMC9460484/figure/ctm21010-fig-0001/
+number: FIGURE 1
+figure_title: ''
+caption: Transcriptomic analysis of kidney interstitial fibrosis and tubular atrophy
+  (IFTA) at a single‐cell level and the transcriptional heterogeneity of proximal
+  tubular epithelial cells (PTECs). (A) Unbiased clustering of cells from all samples
+  by t‐SNE; (B) a bubble plot of the expression of markers for specific populations
+  of cells; (C) the relative cell proportion across three IFTA grades; (D) the differentially
+  expressed genes (DEGs) among the cell population of the IFTA samples compared to
+  others. The labelled genes were the top five upregulated or downregulated DEGs ranked
+  by the average log2FC; (E) a circle plot showing the top three changed pathways
+  and the corresponding top regulated genes according to the enrichment analysis based
+  on DEGs in (D) of PTECs; (F) the results of the GSVA regarding pathway activity
+  across different samples visualized by a heat map. The analysis was based on the
+  Hallmark of the MSigDB database; (G) the results of the GSVA of the pathway activity
+  in the IFTA group compared to others visualized by a bar plot. The analysis was
+  based on KEGG of the MSigDB database; (H) AUCell was used to visualize the relatively
+  upregulated activity of the cell differentiation‐related pathways (NOTCH and WNT‐β‐catenin)
+  with the progression of IFTA; (I) the metabolic pathway activity score of PTECs
+  was determined by the scMetabolism method. PTECs showed lower glucose and lipid
+  metabolism but higher arginine and glutamate metabolism with the development of
+  IFTA; (J) an interaction network analysis of the transcriptional heterogeneous hub
+  genes for IFTA was performed based on WGCNA. The hub genes are listed on the right.
+  The degree layout represents the number of interactions of the hub genes
+article_title: Single‐cell RNA landscape of cell fate decision of renal proximal tubular
+  epithelial cells and immune‐microenvironment in kidney fibrosis.
+citation: Minyan Zhu, et al. Clin Transl Med. 2022 Sep;12(9):e1010.
+year: '2022'
+
+doi: 10.1002/ctm2.1010
+journal_title: Clinical and Translational Medicine
+journal_nlm_ta: Clin Transl Med
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+---

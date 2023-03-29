@@ -1,0 +1,59 @@
+---
+figid: PMC9497173__cancers-14-04351-g001
+pmcid: PMC9497173
+image_filename: cancers-14-04351-g001.jpg
+figure_link: /pmc/articles/PMC9497173/figure/cancers-14-04351-f001/
+number: Figure 1
+figure_title: ''
+caption: Central carbon metabolism in pancreatic ductal adenocarcinoma (PDAC) is rewired
+  in a cell-autonomous manner by oncogenic KRAS signaling and in a cell-extrinsic
+  manner via interaction with host stromal cells. Key enzymes that are upregulated
+  by oncogenic KRAS are indicated with an asterisk. (Glucose metabolism, shown in
+  red) Glucose is preferentially used for anabolic processes (anabolic glucose metabolism)
+  in PDAC. This is mediated by the upregulation of key enzymes involved in those processes.
+  Glucose transporter 1 (GLUT1) upregulation increases the glucose uptake, which fuels
+  glycolysis and branching anabolic pathways. These include the hexosamine biosynthesis
+  pathway (HBP), which produces precursors for glycosylation, and the non-oxidative
+  pentose phosphate pathway (non-oxPPP), which produces ribose for nucleotide biosynthesis.
+  (Glutamine metabolism, shown in blue) Glutamine is a key substrate that is used
+  to fuel the tricarboxylic acid (TCA) cycle and maintain redox balance in PDAC, which
+  is mediated by a pathway distinct from all other types of cancers. (PSC-derived
+  alanine, shown in green) As shown above, glucose and glutamine are primarily used
+  for anabolic pathways and redox maintenance in PDAC. To supplement the TCA cycle,
+  PDAC cells utilize alanine that is released from pancreatic stellate cells (PSCs)
+  in the tumor microenvironment (TME). In response to stimuli from PDAC (unknown),
+  PSCs secrete alanine through SLC1A4 in an autophagy-dependent manner. PDAC cells
+  upregulate SLC38A2 to uptake PSC-derived alanine, which then fuels the TCA cycle
+  and is used to produce macromolecules, including free fatty acids (FFA). Ac-CoA,
+  acetyl coenzyme A; Asp, asparagine; αKG, α-ketoglutarate; Cit, citrate; Mal, malate;
+  OAA, oxaloacetate. Figure is adapted from reference [], the use of which is licensed
+  under a Creative Commons Attribution 4.0 International license https://creativecommons.org/licenses/by/4.0/.
+article_title: Targeting the Metabolic Rewiring in Pancreatic Cancer and Its Tumor
+  Microenvironment.
+citation: Keisuke Yamamoto, et al. Cancers (Basel). 2022 Sep;14(18):4351.
+year: '2022'
+
+doi: 10.3390/cancers14184351
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- pancreatic ductal adenocarcinoma
+- KRAS
+- tumor microenvironment
+- metabolic rewiring
+- anabolic glucose metabolism
+- glycolysis
+- pentose phosphate pathway
+- hexosamine biosynthesis pathway
+- glutamine metabolism
+- macropinocytosis
+- autophagy
+- lysosome
+- immune checkpoint blockade
+- immune evasion
+- MHC-I
+- serine biosynthesis pathway
+
+---

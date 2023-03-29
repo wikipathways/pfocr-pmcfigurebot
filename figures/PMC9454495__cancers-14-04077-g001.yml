@@ -1,0 +1,38 @@
+---
+figid: PMC9454495__cancers-14-04077-g001
+pmcid: PMC9454495
+image_filename: cancers-14-04077-g001.jpg
+figure_link: /pmc/articles/PMC9454495/figure/cancers-14-04077-f001/
+number: Figure 1
+figure_title: ''
+caption: Impact of KrasWT and KrasG12D mutation on expression levels of alt-EJ components.
+  (A) Protein expression of Polθ, PARP1, Lig3, Mre11, Lig4, Ku80, and Ku70 in cell
+  extracts isolated from transduced Panc02 and BxPC3 cells, and their respective quantification,
+  are presented. Representative immunoblots from three independent experiments are
+  shown. (B) Bar graphs show protein expression levels relative to GAPDH in Panc02
+  and BxPC3 determined by the means of densitometry of three independent experiments
+  (mean ± SD; * p < 0.05 is considered as significant; Student’s t−test). The uncropped
+  blots and molecular weight markers are shown in . (C,D) Gene Set Enrichment Analysis
+  plots for the Reactome NHEJ and alt-EJ in Panc02 and BxPC3 cells are shown. The
+  heatmap on the right side of each panel visualizes the genes contributing the most
+  to the enriched pathway. The green curve corresponds to the enrichment score (ES)
+  curve, the running sum of the weighted enrichment score in GSEA. p values are reported
+  within each graph (Panc02 control, n = 2; Panc02 KrasMT, n = 3; BxPC3 control, n
+  = 3; BxPC3 KrasMT, n = 3).
+article_title: DNA Polymerase Theta Plays a Critical Role in Pancreatic Cancer Development
+  and Metastasis.
+citation: Agnieszka Smolinska, et al. Cancers (Basel). 2022 Sep;14(17):4077.
+year: '2022'
+
+doi: 10.3390/cancers14174077
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- PDAC
+- DNA repair
+- non-homologous end joining
+- polymerase theta
+
+---
