@@ -103,13 +103,22 @@ for (j in 1:5) {
     next #try again
   })
   
-  ## get page count
-  page.count <- xml2::read_html(remDr$getPageSource()[[1]]) %>%
-    rvest::html_nodes(".title_and_pager") %>%
-    rvest::html_node(".pagination") %>%
-    rvest::html_nodes("a") %>%
-    rvest::html_attr("page")
-  page.count <- as.integer(page.count[4])
+  ## get page count if more than 100
+    item.count <- xml2::read_html(remDr$getPageSource()[[1]]) %>%
+      rvest::html_nodes(".title_and_pager") %>%
+      rvest::html_node(".result_count") %>%
+      rvest::html_text()
+    item.count <- as.integer(sub("Items: ","",item.count[1]))
+    
+    page.count <- 1
+    if (is.na(item.count))  {
+      page.count <- xml2::read_html(remDr$getPageSource()[[1]]) %>%
+        rvest::html_nodes(".title_and_pager") %>%
+        rvest::html_node(".pagination") %>%
+        rvest::html_nodes("a") %>%
+        rvest::html_attr("page")
+      page.count <- as.integer(page.count[4])
+    }
   
   cat(paste("\n",page.count," pages of results"), file="figures/fetch.log", append = T)
   
