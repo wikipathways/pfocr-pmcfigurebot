@@ -35,7 +35,11 @@ jobs:
     - name: Run R Script to Fetch Figures
       run: Rscript scripts/fetch_figures.R || true #commit files even if R crashes
       
-    - name: Commit new and updated content
+    - name: Pull and rebase any remote changes during this run
+      run: git pull --rebase
+  
+    - name: Commit and push new/updated content
       uses: stefanzweifel/git-auto-commit-action@v4  
       with:
+        push_options: '--force-with-lease'
         commit_message: new figures from pmc; updated config and log
