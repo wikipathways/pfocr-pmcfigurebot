@@ -1,0 +1,37 @@
+---
+figid: PMC9616486__gr1_lrg
+pmcid: PMC9616486
+image_filename: gr1_lrg.jpg
+figure_link: /pmc/articles/PMC9616486/figure/fig1/
+number: Fig. 1
+figure_title: ''
+caption: Graphical workflow of the analytical pipeline adopted in this work. (A) RNA-Seq
+  based gene expression profiles of lung epithelial cells for SARS-CoV-2 infection,
+  bronchial epithelial cells for asthma and ASM cells for vitamin D deficiency were
+  collected. (B) Differential expression analyses among all pair-wise conditions were
+  conducted, which resulted shared Differentially Expressed Genes (DEGs) among all
+  pair-wise conditions involving SARS-CoV-2 infection, asthma and vitamin D deficiency.
+  (C) Functional enrichment analysis was conducted for the shared DEGs for Gene Ontology
+  (GO) and pathway databases to assess the biological significance of those shared
+  DEGs. (D) Protein–protein interaction (PPI) network-based analysis, gene-disease
+  association and regulatory factors were conducted to identify potential therapeutic
+  targets, possible comorbidities and prognostic molecular check-points, respectively.
+article_title: Severity of COVID-19 patients with coexistence of asthma and vitamin
+  D deficiency.
+citation: M. Babul Islam, et al. Inform Med Unlocked. 2022 Oct 28 ;34:101116-101116.
+year: '2022'
+
+doi: 10.1016/j.imu.2022.101116
+journal_title: Informatics in Medicine Unlocked
+journal_nlm_ta: Inform Med Unlocked
+publisher_name: The Author(s). Published by Elsevier Ltd.
+
+keywords:
+- SARS-CoV-2
+- Asthma
+- Vitamin D
+- COVID-19
+- Protein-Protein interactions
+- Drug molecules
+
+---

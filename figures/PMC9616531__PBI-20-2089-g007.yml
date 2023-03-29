@@ -1,0 +1,37 @@
+---
+figid: PMC9616531__PBI-20-2089-g007
+pmcid: PMC9616531
+image_filename: PBI-20-2089-g007.jpg
+figure_link: /pmc/articles/PMC9616531/figure/pbi13891-fig-0002/
+number: Figure 2
+figure_title: ''
+caption: 'Brief flowchart of tea tender leaves scRNA‐seq. The 1st and 3rd leaves of
+  young shoot of C. sinensis var Shuchazao, representing 1 L and 3 L, respectively,
+  were used for single‐cell transcriptomics. Protoplasts were obtained by enzymatic
+  hydrolysis. mRNA released by rupture of a single‐cell suspension was combined with
+  gel bead and emulsion to form GEMs [10× Genomics Chromium Single‐Cell 3′ kit (V3)].
+  The mRNA of the cell was independently reverse‐transcribed in each GEM, and tagged
+  cDNA was mixed and amplified for library construction. Libraries were sequenced
+  on an Illumina NovaSeq 6000 sequencing system (paired‐end multiplexing run, 150 bp)
+  by LC‐Bio Technology co. ltd., (Hangzhou, China). Six tissues of 3 L were used for
+  cDNA preparation to identify cluster‐specific genes expression pattern by qRT‐PCR.
+  Red arrow: scRNA‐seq analysis; black arrow: experiment validation.'
+article_title: Single‐cell transcriptome atlas reveals developmental trajectories
+  and a novel metabolic pathway of catechin esters in tea leaves.
+citation: Qiang Wang, et al. Plant Biotechnol J. 2022 Nov;20(11):2089-2106.
+year: '2022'
+
+doi: 10.1111/pbi.13891
+journal_title: Plant Biotechnology Journal
+journal_nlm_ta: Plant Biotechnol J
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- catechin
+- ScRNA‐seq
+- development
+- leaf
+- glycosyltransferase
+- tea plant
+
+---
