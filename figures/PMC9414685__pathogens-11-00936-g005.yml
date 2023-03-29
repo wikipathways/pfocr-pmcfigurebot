@@ -1,0 +1,41 @@
+---
+figid: PMC9414685__pathogens-11-00936-g005
+pmcid: PMC9414685
+image_filename: pathogens-11-00936-g005.jpg
+figure_link: /pmc/articles/PMC9414685/figure/pathogens-11-00936-f005/
+number: Figure 5
+figure_title: ''
+caption: 'Differentially expressed genes upon ZIKV PRV infection of JEG3 cells. (A)
+  Volcano plot for each time point, colored points indicating differentially expressed
+  genes with a p-adjusted value < 0.1 and a log2FoldChange of greater than 0.58 (upregulated,
+  orange) or less than 0.58 (downregulated, purple). (B) Overall count of differentially
+  expressed genes with the previously mentioned statistics, compared to the total
+  data set of 11,697 genes. As indicated by the legend, orange indicates upregulated,
+  and purple indicates downregulated. (C) Bedgraphs of two genes that were differentially
+  expressed: NPIPA2 (downregulated) and NFX1 (upregulated). Below each bedgraph is
+  a map of the gene indicating introns/exons of alternative transcripts and the directionality
+  of the gene. Note that PAC-Seq sequences from the poly-A tail or 3′ end of the gene.
+  On the right we zoom in to find that there is a trailing off of the reads as they
+  get further from the 3′ end, as expected. (D) Scatterplots from Enrichr indicating
+  differentially expressed pathways or ontologies. (Enrichr is an online tool made
+  available by the Maayan Lab at Mount Sinai). These results suggest that ZIKV infection
+  results in the upregulation of mRNA decay, splicing and mRNA processing but downregulation
+  of cell cycle control as well as the ERAD pathway and IL-7 interactions.'
+article_title: Zika Virus Infection Alters Gene Expression and Poly-Adenylation Patterns
+  in Placental Cells.
+citation: Stephanea L. Sotcheff, et al. Pathogens. 2022 Aug;11(8):936.
+year: '2022'
+
+doi: 10.3390/pathogens11080936
+journal_title: Pathogens
+journal_nlm_ta: Pathogens
+publisher_name: MDPI
+
+keywords:
+- alternative polyadenylation
+- Poly(A)-ClickSeq
+- zika virus
+- placenta
+- microcephaly
+
+---

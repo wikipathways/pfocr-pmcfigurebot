@@ -1,0 +1,37 @@
+---
+figid: PMC9371581__medi-101-e29534-g005
+pmcid: PMC9371581
+image_filename: medi-101-e29534-g005.jpg
+figure_link: /pmc/articles/PMC9371581/figure/F5/
+number: Figure 5
+figure_title: ''
+caption: The results of the GO enrichment analysis and KEGG signaling pathway enrichment
+  analysis. (A) The GO enrichment analysis of BYHWD candidate targets for LDH treatment.
+  The horizontal axis of the bubble chart represents the gene ratio, the vertical
+  axis represents the name of GO, and the corresponding bubble represents enriched
+  gene counts. The smaller the q value, the redder the color, and the higher the significance
+  of enrichment. (B) The KEGG analysis of candidate targets of BYHWD for LDH treatment.
+  The horizontal axis of the bubble chart represents the gene ratio, the vertical
+  axis represents the name of the signaling pathway, and the corresponding bubble
+  represents enriched gene counts. The smaller the q value, the redder the color,
+  and the higher the significance of enrichment. (C) The PI3K-AKT signaling pathway.
+  BYHWD = Buyang Huanwu decoction, GO = Gene Ontology, KEGG = Kyoto Encyclopedia of
+  Genes and Genomes, LDH = lumbar disc herniation.
+article_title: Exploring the mechanism of Buyang Huanwu decoction in the treatment
+  of lumbar disc herniation based on network pharmacology and molecular docking.
+citation: Yong Gu, et al. Medicine (Baltimore). 2022 Aug 12;101(32):e29534.
+year: '2022'
+
+doi: 10.1097/MD.0000000000029534
+journal_title: Medicine
+journal_nlm_ta: Medicine (Baltimore)
+publisher_name: Lippincott Williams & Wilkins
+
+keywords:
+- active compounds
+- Buyang Huanwu decoction
+- lumbar disc herniation
+- molecular docking
+- molecular mechanism
+
+---

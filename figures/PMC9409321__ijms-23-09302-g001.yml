@@ -1,0 +1,34 @@
+---
+figid: PMC9409321__ijms-23-09302-g001
+pmcid: PMC9409321
+image_filename: ijms-23-09302-g001.jpg
+figure_link: /pmc/articles/PMC9409321/figure/ijms-23-09302-f001/
+number: Figure 1
+figure_title: ''
+caption: Transcriptome analysis of ZK3-KO cells versus reference cells. (A) Hierarchical
+  clustering heat-map for DEGs of the ZK3-KO HCT116 and parental HCT116 cells. (B)
+  GO analysis for biological processes. Red bars represent categories generated from
+  upregulated genes, and blue bars are those from the downregulated genes. p-values
+  are indicated. (C) Top 5 KEGG pathways in pathway enrichment analysis of the DEGs.
+  (D) STRING network analysis of cell cycle-associated genes classified by GO analysis.
+  (E) Heat-map plot comparing the transcription levels of genes involved in the regulation
+  of anaphase, based on the RNA sequencing results. GO, gene ontology; DEGs, differentially
+  expressed genes; KEGG, Kyoto Encyclopedia of Genes and Genomes.
+article_title: Role of the WNT/β-catenin/ZKSCAN3 Pathway in Regulating Chromosomal
+  Instability in Colon Cancer Cell lines and Tissues.
+citation: Young-Eun Cho, et al. Int J Mol Sci. 2022 Aug;23(16):9302.
+year: '2022'
+
+doi: 10.3390/ijms23169302
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- ZKSCAN3
+- MAD2L2
+- WNT
+- β-catenin
+- colon cancer
+
+---

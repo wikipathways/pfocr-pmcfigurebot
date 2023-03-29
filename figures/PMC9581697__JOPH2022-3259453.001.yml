@@ -1,0 +1,33 @@
+---
+figid: PMC9581697__JOPH2022-3259453.001
+pmcid: PMC9581697
+image_filename: JOPH2022-3259453.001.jpg
+figure_link: /pmc/articles/PMC9581697/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: Bioinformatics re-analysis of dataset GSE36331. In RPE cells cocultured with
+  activated T-cells, gene sets for inflammatory response, complement, and hypoxia
+  were significantly enriched in the RPE_T group compared to the RPE_N group (a-c).
+  The normalised enrichment score (NES) is used to compare the enrichment results
+  across the gene sets. The y-axis is the enrichment score (ES), and the x-axis represents
+  the genes (parallel vertical black lines) included in the gene sets. The green line
+  is composed of each ES from the genes. The ES calculated for each gene represents
+  the degree of over-expression at the top left or the bottom right along with the
+  ranked gene list. The red colour band below represents a positive correlation for
+  an enriched pathway. On the contrary, the blue colour is for the negative correlation.
+  FDR q-values < 0.05 were considered as significant thresholds. The box plot illustrates
+  the differential expression level of C3 between the RPE_N and RPE_T groups (d).
+  Nonparametric Wilcoxon test P values are shown on top of the graph, and the boxes
+  represent the median and quartiles of the gene expression values.
+article_title: Complement 3a Mediates CCN2/CTGF in Human Retinal Pigment Epithelial
+  Cells.
+citation: Kang Xiao, et al. J Ophthalmol. 2022;2022:3259453.
+year: '2022'
+
+doi: 10.1155/2022/3259453
+journal_title: Journal of Ophthalmology
+journal_nlm_ta: J Ophthalmol
+publisher_name: Hindawi
+
+keywords:
+---

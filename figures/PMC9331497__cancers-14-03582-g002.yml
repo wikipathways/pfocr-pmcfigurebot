@@ -1,0 +1,46 @@
+---
+figid: PMC9331497__cancers-14-03582-g002
+pmcid: PMC9331497
+image_filename: cancers-14-03582-g002.jpg
+figure_link: /pmc/articles/PMC9331497/figure/cancers-14-03582-f002/
+number: Figure 2
+figure_title: ''
+caption: 'Phagocytosis regulators regulate the involvement of macrophages in tumor
+  development. (A–L) Phagocytosis regulators regulate macrophage phagocytosis. (A–F)
+  Pearson correlation of phagocytosis regulators with macrophage enrichment scores
+  (Top6). We obtained 260 phagocytosis regulators with expression information from
+  the relevant literature and then calculated their Pearson correlations with macrophage
+  enrichment scores. We took the six with the strongest correlations (A–F: SP11, ITGB2,
+  NCKAP1L, SASH3, PTPN6, PIK3R5) to plot scatter plots (all p-values < 0.01 and correlation
+  coefficients > 0.8). (G–L) Differences in macrophage enrichment scores in high and
+  low gene expression groups. We divided the top six genes among the 260 phagocytosis
+  regulators into high and low expression groups according to the median. Our results
+  showed that the macrophage enrichment scores were significantly higher in the high
+  expression group than in the low expression group for all genes (**** p < 0.0001).
+  (M–P) Functional analysis of phagocytosis regulators. (M) Functional analysis of
+  biological process. (N) Functional analysis of cellular component. (O) Functional
+  analysis of molecular function. (P) Functional analysis of KEGG. (Q–S) Abnormal
+  phagocytosis in tumors. We examined the functional enrichment of stage groupings
+  of cancer samples in a set of 34 phagocytosis-associated genes. The following three
+  pathways reached significant enrichment levels (p < 0.01): (Q) WP microglia pathogen
+  phagocytosis pathway; (R) HP hemophagocytosis pathway; And (S) GOBP phagocytosis
+  recognition pathway.'
+article_title: 'The Multi-Omics Landscape and Clinical Relevance of the Immunological
+  Signature of Phagocytosis Regulators: Implications for Risk Classification and Frontline
+  Therapies in Skin Cutaneous Melanoma.'
+citation: Jiahua Xing, et al. Cancers (Basel). 2022 Aug;14(15):3582.
+year: '2022'
+
+doi: 10.3390/cancers14153582
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- phagocytosis regulators
+- skin cutaneous melanoma
+- tumor-associated macrophages
+- tumor immune cell infiltration
+- subtype division
+
+---

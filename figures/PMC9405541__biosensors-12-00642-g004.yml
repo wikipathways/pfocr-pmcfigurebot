@@ -1,0 +1,36 @@
+---
+figid: PMC9405541__biosensors-12-00642-g004
+pmcid: PMC9405541
+image_filename: biosensors-12-00642-g004.jpg
+figure_link: /pmc/articles/PMC9405541/figure/biosensors-12-00642-f004/
+number: Figure 4
+figure_title: ''
+caption: The regulation effect of the endogenous CRISPRi system targeting gltA. (a)
+  The metabolic pathway to the synthetic product. Two acetyl-CoA will condense to
+  produce acetoacetyl-CoA, which is catalyzed by acetoacetyl-CoA reductase to generate
+  (R)-3-hydroxybutyryl-CoA. Then, it is polymerized by PHA polymerase to form PHB.
+  (b) Comparison of the regulation effect between different plasmid copy numbers.
+  Ara58.6 is the strain with the aracr58.6 plasmid, and Ara15A is the strain with
+  the aracr15A plasmid. (c) The effect of different regulation times by switching
+  red light to green light. Green and red represent continuous exposure to green and
+  red light, respectively, whereas X h (X = 5.9) represents switching the light at
+  X hours after starting the culture. Data represent the mean ± SD from three independent
+  experiments (n = 3).
+article_title: A Gene Circuit Combining the Endogenous I-E Type CRISPR-Cas System
+  and a Light Sensor to Produce Poly-β-Hydroxybutyric Acid Efficiently.
+citation: Xiaomeng Li, et al. Biosensors (Basel). 2022 Aug;12(8):642.
+year: '2022'
+
+doi: 10.3390/bios12080642
+journal_title: Biosensors
+journal_nlm_ta: Biosensors (Basel)
+publisher_name: MDPI
+
+keywords:
+- optogenetics
+- metabolic engineering
+- CcaS-CcaR system
+- type I-E CRISPR system
+- PHB
+
+---

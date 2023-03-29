@@ -1,0 +1,41 @@
+---
+figid: PMC9410529__jof-08-00886-g004
+pmcid: PMC9410529
+image_filename: jof-08-00886-g004.jpg
+figure_link: /pmc/articles/PMC9410529/figure/jof-08-00886-f004/
+number: Figure 4
+figure_title: ''
+caption: Melanin biosynthesis genes were up-regulated in response to mechanical stimulus.
+  (A) Summary of gene set enrichment analysis (GSEA) of melanin biosynthesis pathway
+  proposed in A. bisporus. GSEA analysis was performed in comparison with 0 min samples
+  with indicated sample conditions. Bar graph indicates relative significance of enrichment
+  in each condition; higher bar with deeper brown color indicates significant enrichment.
+  Regulation patterns of melanin biosynthesis genes are indicated as colored dots.
+  Green dots indicate up-regulation in each condition, while purple dots indicate
+  down-regulation. Bigger dots indicate regulation was even significant in each condition.
+  Melanin biosynthesis genes are indicated in . (B) Heatmap of leading-edge genes
+  identified in GSEA analysis. CM; chorismate mutase, 4ABS; 4-aminobenzoate synthase,
+  4ABH; 4-aminobenzoate hydroxylase, GGT; γ-glutaminyltransferase, PDHtase; prephenate
+  dehydratase, PDH; prephenate dehydrogenase, AT; (4-hydroxy) phenylpyruvate aminotransferase,
+  PPO; polyphenoloxidase (tyrosinase), PAL; phenylalanine ammonialyase, C4H; Trans-cinnamate-4-monooxygenase,
+  4CL; 4-coumarate CoA ligase, GHB; γ-l-glutaminyl-4-hydroxybenzene, PAP; p-aminophenol,
+  DOPA; 3,4-dihydroxyphenylalanine.
+article_title: Pseudo-Chromosomal Genome Assembly in Combination with Comprehensive
+  Transcriptome Analysis in Agaricus bisporus Strain KMCC00540 Reveals Mechanical
+  Stimulus Responsive Genes Associated with Browning Effect.
+citation: Ick-Hyun Jo, et al. J Fungi (Basel). 2022 Aug;8(8):886.
+year: '2022'
+
+doi: 10.3390/jof8080886
+journal_title: Journal of Fungi
+journal_nlm_ta: J Fungi (Basel)
+publisher_name: MDPI
+
+keywords:
+- Agaricus bisporus
+- de novo assembly
+- transcriptome analysis
+- mechanical stress
+- melanin
+
+---

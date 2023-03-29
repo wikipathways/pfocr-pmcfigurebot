@@ -1,0 +1,57 @@
+---
+figid: PMC9368142__cells-11-02380-g005
+pmcid: PMC9368142
+image_filename: cells-11-02380-g005.jpg
+figure_link: /pmc/articles/PMC9368142/figure/cells-11-02380-f005/
+number: Figure 5
+figure_title: ''
+caption: 'Characterization of acetylation changes in non-histone proteins following
+  the reduction in HDAC activity. (A) Pie-charts depicting the proportions of peptides
+  with up- (violet), down- (orange) or non-significant (blue) changes in acetylation
+  in MS-275, SAHA and Hdac1 KO SC samples compared to control (LIMMA test, p-value
+  < 0.05, FC > 1.5). For each category, the number of peptides (#) and the peptide
+  quantity are indicated. For certain proteins, both significantly up- and downregulated
+  acetylated peptides were identified. Those peptides are grouped separately and corresponding
+  up- and downregulated peptides are colored in dark violet and dark orange. (B) Number
+  of proteins in individual categories based on identified acetylated peptides in
+  MS-275, SAHA and Hdac1 KO SC samples compared to control (LIMMA test, p-value <
+  0.05, FC > 1.5). Certain proteins with up- or downregulated peptides included also
+  other peptides with unchanged acetylation levels. (C) Venn diagrams depicting shared
+  proteins with up- or downregulated acetylation in MS-275, SAHA and Hdac1 KO SC samples
+  compared to control (LIMMA test, p-value < 0.05, FC > 1.5). Proteins with both up-
+  and downregulated acetylation sites were included in both groups. (D) REACTOME pathway
+  analysis of proteins with upregulated acetylation levels in MS-275, SAHA and Hdac1
+  KO SC samples compared to control (LIMMA test, p-value < 0.05, FC > 1.5), using
+  the STRING network analysis tool. (E) The protein network for proteins with upregulated
+  acetylation detected in MS-275 sample compared to control (LIMMA test, p-value <
+  0.05, FC > 1.5), where proteins involved in homology directed repair, cell cycle
+  and chromatin modifiers are highlighted. (F) Detection of γH2AX levels and cleavage
+  of PARP by Western blot in CTRL, Hdac1 KO, Hdac1 KO SC, SAHA and MS-275 samples,
+  following the 16 and 48 h treatment of SAHA and MS-275 sample with respective IC50
+  concentrations. (G) Characterization of apoptotic cells in CTRL, Hdac1 KO, Hdac1
+  KO SC, SAHA and MS-275 samples. Analyzed in triplicates. Above: fractions of live,
+  early apoptotic, late apoptotic and necrotic cells are shown. Below: fraction of
+  late apoptotic cells is shown. Data are represented as mean ± SD, * p < 0.05.'
+article_title: Quantitative Acetylomics Uncover Acetylation-Mediated Pathway Changes
+  Following Histone Deacetylase Inhibition in Anaplastic Large Cell Lymphoma.
+citation: Maša Zrimšek, et al. Cells. 2022 Aug;11(15):2380.
+year: '2022'
+
+doi: 10.3390/cells11152380
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- histone deacetylases
+- histone deacetylase inhibitors
+- SAHA
+- vorinostat
+- MS-275
+- entinostat
+- proteomics
+- acetylomics
+- anaplastic large cell lymphoma
+- ALCL
+
+---

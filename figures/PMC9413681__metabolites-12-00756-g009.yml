@@ -1,0 +1,35 @@
+---
+figid: PMC9413681__metabolites-12-00756-g009
+pmcid: PMC9413681
+image_filename: metabolites-12-00756-g009.jpg
+figure_link: /pmc/articles/PMC9413681/figure/metabolites-12-00756-f009/
+number: Figure 9
+figure_title: ''
+caption: Metabolic pathway enrichment in cotyledons (a) and embryonic axes (b) performed
+  with the MetaboAnalyst platform and a p < 0.05 threshold. Metabolic pathways are
+  indicated with circles according to their scores from enrichment (vertical axis;
+  (−log(p)) and topology analyses. Darker colors indicate more significant changes
+  in metabolites in the corresponding pathway. The size of a circle corresponds to
+  the pathway impact score and is correlated with the centrality of the involved metabolites.
+  Because of the highest pathway impact, the ‘phenylalanine metabolism’ pathway is
+  exceptionally visualized (p = 0.07). The shaded part of chart b corresponds to the
+  whole of chart a.
+article_title: 'Deterioration in the Quality of Recalcitrant Quercus robur Seeds during
+  Six Months of Storage at Subzero Temperatures: Ineffective Activation of Prosurvival
+  Mechanisms and Evidence of Freezing Stress from an Untargeted Metabolomic Study.'
+citation: Agnieszka Szuba, et al. Metabolites. 2022 Aug;12(8):756.
+year: '2022'
+
+doi: 10.3390/metabo12080756
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: MDPI
+
+keywords:
+- long-term storage
+- acorn damage
+- high individual variability
+- freezing stress
+- metabolic activation
+
+---

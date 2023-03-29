@@ -1,0 +1,37 @@
+---
+figid: PMC9398230__JCSM-13-2102-g005
+pmcid: PMC9398230
+image_filename: JCSM-13-2102-g005.jpg
+figure_link: /pmc/articles/PMC9398230/figure/jcsm13023-fig-0005/
+number: Figure 5
+figure_title: ''
+caption: Metabolic landscape of myonuclei from normal and denervated muscles. (A)
+  Clustering on metabolic gene expression profiles of myonuclei enables identification
+  of normal and denervation cell states. The dots are coloured according to different
+  conditions (normal, blue; denervation, pink). (B) UMAP of metabolic profiles of
+  different myonuclei subtypes in normal (right panel) and denervation (left panel).
+  The dots are coloured according to corresponding subtypes. (C) Boxplot showing the
+  metabolic activities of different myonuclei subtypes between normal and denervation.
+  Each dot represents the activity score of an individual metabolic pathway. Comparisons
+  between conditions are performed using Wilcoxon rank‐sum test. N, normal; D, denervation.
+  (D) The activity score of top metabolic pathways detected in myonuclei subtypes.
+  The blank indicates that the score of pathway activity is not significant in relevant
+  subtype (random permutation test, P > 0.01). The metabolic pathways are arranged
+  according to categories.
+article_title: Decoding the transcriptome of denervated muscle at single‐nucleus resolution.
+citation: Hongchun Lin, et al. J Cachexia Sarcopenia Muscle. 2022 Aug;13(4):2102-2117.
+year: '2022'
+
+doi: 10.1002/jcsm.13023
+journal_title: Journal of Cachexia, Sarcopenia and Muscle
+journal_nlm_ta: J Cachexia Sarcopenia Muscle
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- Denervation
+- snRNA‐seq
+- Skeletal muscle
+- Muscle atrophy
+- Muscle metabolism
+
+---

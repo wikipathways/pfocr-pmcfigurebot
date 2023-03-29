@@ -1,0 +1,37 @@
+---
+figid: PMC9385142__sciadv.abn9232-f4
+pmcid: PMC9385142
+image_filename: sciadv.abn9232-f4.jpg
+figure_link: /pmc/articles/PMC9385142/figure/F4/
+number: Fig. 4
+figure_title: Prediction of patient survival using splicing changes of CASEs
+caption: (A) Proportion of CASEs and CALEs that are significantly correlated with
+  patient survival at various cutoffs (P values from Cox regression). The difference
+  between the proportion of CASE and CALE was evaluated with Fisher’s exact test.
+  (B) KEGG (Kyoto Encyclopedia of Genes and Genomes) pathway enrichment of the genes
+  contained CASEs that correlated with patient survival with P < 0.01. (C) Forest
+  plot of top CASEs significantly correlated with patient survival in all cancers
+  (P < 10−10, Cox regression). HR, hazard ratio. (D) Kaplan-Meier curves of all cancer
+  patients stratified by PSI values of four individual CASEs with the highest predictive
+  power in (C). The top and bottom quartiles of patients ranked by the PSI values
+  of each CASE are grouped as PSI high and PSI low. (E) Pipeline to calculate the
+  risk factor based on the PSI values of eight CASEs (see Materials and Methods).
+  The patients with the top and bottom quartiles ranked by the risk factor were defined
+  as group 1 and group 2. (F) Kaplan-Meier curve of patients grouped by the CASE-based
+  risk factor. The P value was calculated by Cox regression. (G) Survival time distribution
+  of two groups of patients, which was grouped using the method in (D) in Chinese
+  ESCC cohort. The P value was calculated by Student’s t test. (H) Immune cell infiltration
+  defined by the relative fractions of different types of immune cells estimated using
+  CIBERSORT in two groups of cancer patients (***P < 0.001 and ****P < 0.0001; ns,
+  not significant, by Student’s t test).
+article_title: A widespread length-dependent splicing dysregulation in cancer.
+citation: Sirui Zhang, et al. Sci Adv. 2022 Aug;8(33):eabn9232.
+year: '2022'
+
+doi: 10.1126/sciadv.abn9232
+journal_title: Science Advances
+journal_nlm_ta: Sci Adv
+publisher_name: American Association for the Advancement of Science
+
+keywords:
+---

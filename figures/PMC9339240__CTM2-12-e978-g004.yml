@@ -1,0 +1,51 @@
+---
+figid: PMC9339240__CTM2-12-e978-g004
+pmcid: PMC9339240
+image_filename: CTM2-12-e978-g004.jpg
+figure_link: /pmc/articles/PMC9339240/figure/ctm2978-fig-0001/
+number: FIGURE 1
+figure_title: ''
+caption: 'Emergence of STAT1 in advanced PCa contributes to the acquisition of self‐renewal
+  capacity in PCSCs. (A,B) GSEA identifying upregulation of genes associated with
+  IFNα and IFNγ response in the tumour specimens of PCa patients with lymph node metastasis
+  (N1, Red, n = 80), compared to cohort without metastasis (N0, Blue, n = 345). (C)
+  TCGA PCa dataset demonstrating STAT1 expression level among stage T2 (n = 187),
+  T3 (n = 293) and T4 (n = 11) PCa patients. (D) TCGA PCa dataset demonstrating elevation
+  of STAT1 in PCa patients with lymph node metastasis (N1, n = 80), compared to cohort
+  without metastasis (N0, n = 345). (E) Clinical correlation of STAT1 with interferon
+  response‐associated genes (N = 550) derived from TCGA PCa dataset was calculated
+  using Pearson Correlation. (F) Expression level of interferon response‐associated
+  genes in PCa patients with lymph node metastasis (N1, n = 80), compared to cohort
+  without metastasis (N0, n = 345). (G) The sphere forming ability of sgTP53/RB1‐LNCaP
+  cell, compared to vector control (sgNT). (H) Protein level of STAT1, RB1 and TP53
+  in sgTP53/RB1‐LNCaP cell, compared to vector control (sgNT). (I) Left: morphology
+  of DU145, 22Rv1 and C4‐2 cells under adherent monolayer or ultra‐low attachment
+  sphere culture condition. Right: JAK1 and STAT1 protein expression in the sphere
+  (S) derived from each PCa line, compared to corresponding monolayer (M) culture.
+  (J) Heat map illustrating the expression profile of JAK‐STAT signalling pathway
+  molecules in the sphere (S) derived from LNCaP cells, compared to monolayer (M)
+  adherent culture. (K,L) Dose‐dependent impact of fludarabine and ruxolitinib on
+  the sphere forming ability of sgTP53/RB1‐LNCaP cells. Cells were treated with either
+  fludarabine or ruxolitinib at corresponding concentration right after seeding into
+  the ultra‐low attachment plate. Quantitation of sphere forming ability is done at
+  2 weeks afterward. (ns = no significant differences, *p < .05, **p < .001, ***p < .0001)'
+article_title: The driver role of JAK‐STAT signalling in cancer stemness capabilities
+  leading to new therapeutic strategies for therapy‐ and castration‐resistant prostate
+  cancer.
+citation: U‐Ging Lo, et al. Clin Transl Med. 2022 Aug;12(8):e978.
+year: '2022'
+
+doi: 10.1002/ctm2.978
+journal_title: Clinical and Translational Medicine
+journal_nlm_ta: Clin Transl Med
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- IFIT5
+- interferon signalling
+- JAK
+- STAT1
+- targeted therapy
+- therapy‐ and castration‐resistant prostate cancer
+
+---

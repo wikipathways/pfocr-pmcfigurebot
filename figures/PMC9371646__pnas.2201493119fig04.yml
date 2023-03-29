@@ -1,0 +1,48 @@
+---
+figid: PMC9371646__pnas.2201493119fig04
+pmcid: PMC9371646
+image_filename: pnas.2201493119fig04.jpg
+figure_link: /pmc/articles/PMC9371646/figure/fig04/
+number: Fig. 4
+figure_title: ''
+caption: Dominant active β-catenin alters the epigenetic and transcription profile
+  of DP thymocytes by redirecting Tcf-1 binding. (A) Histogram overlays of Tcf-1 binding
+  centered on Tcf-1–bound regions in Cre DP thymocytes (±1.5 kb, Top) and Venn diagram
+  of overlapping Tcf-1 peaks between Cre and CAT DP thymocytes. (B) Heat maps of ChIP-seq
+  peaks for Tcf-1 and indicated histone marks, centered on Tcf-1 binding (±3 kb) at
+  shared or unique sites as indicated. (C) Comparative enrichment histograms of histone
+  modifications associated with active promoters (H3K9/14Ac), active enhancers (H3K27ac),
+  transcription (H3K4Me3), and closed/poised chromatin (H3K27me3). (D) CDF plot of
+  expression changes in genes uniquely bound by Tcf-1 in CAT DP thymocytes (n = 2819,
+  red line) compared to all genes (blue line). (E) Pathway analysis of down-regulated
+  (blue) and up-regulated (red) genes uniquely bound by Tcf-1 in CAT (Top) and the
+  most significantly enriched transcription factor binding motifs (HOMER, Bottom).
+  (F) Comparative enrichment histograms for histone modifications (H3K9/14Ac, H3K27ac,
+  H3K4Me3, and H3K27Me3) centered on CAT-unique Tcf-1 binding sites corresponding
+  to up- or down-regulated genes in CAT versus Cre as indicated. (G) Pathway analysis
+  of cluster 1 (blue, Top) and cluster 6 (red, Bottom) genes uniquely bound by Tcf-1
+  in CAT. (H) The most significantly enriched transcription factor binding motifs
+  (HOMER) of cluster 1 (Left) and cluster 6 (Right) genes uniquely bound by Tcf-1
+  in CAT. (I) Pie charts show the distrubution of CAT unique Tcf-1 binding sites to
+  PR, PE, or AE of genes associated with cluster 1 and cluster 6. (J) Representative
+  enrichment tracks (Integrated Genome Browser), of Tcf-1, H3K27Ac, and H3K4me3 ChIP-seq
+  in Cre or CAT DP thymocytes as indicated, showing key replication and repair genes
+  that are differentially expressed and have novel Tcf-1 sites in CAT (yellow boxes).
+article_title: Tcf-1 promotes genomic instability and T cell transformation in response
+  to aberrant β-catenin activation.
+citation: Stephen Arnovitz, et al. Proc Natl Acad Sci U S A. 2022 Aug 9;119(32):e2201493119.
+year: '2022'
+
+doi: 10.1073/pnas.2201493119
+journal_title: Proceedings of the National Academy of Sciences of the United States
+  of America
+journal_nlm_ta: Proc Natl Acad Sci U S A
+publisher_name: National Academy of Sciences
+
+keywords:
+- genomic instability
+- T-ALL
+- β-catenin
+- Tcf-1
+
+---

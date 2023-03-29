@@ -1,0 +1,49 @@
+---
+figid: PMC9341188__jitc-2022-004935f01
+pmcid: PMC9341188
+image_filename: jitc-2022-004935f01.jpg
+figure_link: /pmc/articles/PMC9341188/figure/F1/
+number: Figure 1
+figure_title: ''
+caption: Delta-24-RGDOX treatment remodels the tumor microenvironment. Differentially
+  expressed genes in tumors treated with PBS versus tumors treated with Delta-24-RGDOX
+  were used for clustering, gene ontology (GO) biological process enrichment analysis,
+  and pathway and network analyses. Analyses of tumors were performed on day 12, 5 days
+  after the first dose of Delta-24-RGDOX. (A) Heatmap comparing the transcriptional
+  signatures of intracranial GL261-5–derived tumors treated with PBS or Delta-24-RGDOX.
+  The log2-normalized expression levels of genes with significant adjusted p values
+  (<0.05) across samples are shown. The color scale is shown above the heatmap. (B)
+  GO biological process enrichment results for tumors treated with PBS or Delta-24-RGDOX.
+  The five most significant GO biological processes are shown. GO biological processes
+  significantly associated with PBS-treated tumors are marked as ‘+’, whereas those
+  significantly associated with Delta-24-RGDOX-treated tumors are marked as ‘–’. (C)
+  The five most significantly altered canonical pathways in tumors treated with PBS
+  vs Delta-24-RGDOX. Activation z-scores are plotted in the graph. †Hypercytokinemia/hyperchemokinemia
+  in the pathogenesis of influenza; ††neuroinflammation signaling pathway. (D) The
+  five most significantly altered upstream regulators in tumors treated with PBS versus
+  Delta-24-RGDOX. Activation z-scores are plotted in the graph. The negative z-scores
+  represent activation in Delta-24-RGDOX. (E) The prediction of the immune cell composition
+  in GL261-5-derived brain tumors treated with PBS or Delta-24-RGDOX. The percentages
+  of various immune cell populations in each sample are presented in the graph. The
+  color code for the various immune cell types is shown to the right of the graph.
+  (F) IDO1 network genes with significantly altered expression levels in tumors treated
+  with PBS or Delta-24-RGDOX. The color intensity indicates the log2 fold-change (green=activation)
+  levels for each gene in PBS-treated tumors vs Delta-24-RGDOX-treated tumors. IDO,
+  indoleamine 2,3-dioxygenase.
+article_title: Reshaping the tumor microenvironment with oncolytic viruses, positive
+  regulation of the immune synapse, and blockade of the immunosuppressive oncometabolic
+  circuitry.
+citation: Teresa T Nguyen, et al. J Immunother Cancer. 2022;10(7):e004935.
+year: '2022'
+
+doi: 10.1136/jitc-2022-004935
+journal_title: Journal for Immunotherapy of Cancer
+journal_nlm_ta: J Immunother Cancer
+publisher_name: BMJ Publishing Group
+
+keywords:
+- Oncolytic Virotherapy
+- Brain Neoplasms
+- Immunomodulation
+
+---

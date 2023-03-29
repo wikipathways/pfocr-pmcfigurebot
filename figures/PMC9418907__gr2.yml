@@ -1,0 +1,69 @@
+---
+figid: PMC9418907__gr2
+pmcid: PMC9418907
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC9418907/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: Effects of TCDD on the expression of genes associated with propionyl-CoA
+  metabolism.A, schematic pathway depicting enzymes and metabolites associated with
+  propionyl-CoA metabolism via the cobalamin (Cbl)-dependent carboxylation pathway
+  or the Cbl-independent β-oxidation–like pathway. B, heatmap for dioxin response
+  element (DRE) presence, AhR enrichment, and expression of genes associated with
+  the propionyl-CoA canonical carboxylation pathway. C, heatmap for DRE presence,
+  AhR enrichment, and expression of genes associated with the Cbl-independent propionyl-CoA
+  β-oxidation–like pathway. Hepatic expression of genes associated with propionyl-CoA
+  was assessed in a time course–and dose-dependent manner. In time course study, male
+  C57BL/6 mice (n = 3) were administered a single bolus dose of 30 μg/kg TCDD, after
+  which tissue was collected at the corresponding time point, while in dose-dependent
+  study, male C57BL/6 mice (n = 3) were orally gavaged with sesame oil vehicle or
+  TCDD every 4 days for 28 days. The presence of putative DREs (pDREs) and AhR binding
+  to the intragenic region represents as green boxes. Color scale represents the log2(fold
+  change) for differential gene expression determined by RNA-Seq analysis. Counts
+  represents the maximum raw number of aligned reads to each transcript, where a lower
+  level of expression (≤500 reads) is depicted in yellow and a higher level of expression
+  (≥10,000) is depicted in pink. Genes that are diurnally regulated are denoted by
+  “Y”. Disruption of diurnal rhythmicity following oral gavage with 30 μg/kg TCDD
+  every 4 days for 28 days is denoted by an orange ‘X’. The ZT with maximum induction/repression
+  is shown for each gene. Differential expression with a posterior probability (P1(t))
+  > 0.80 is indicated with a black triangle in the upper right tile corner. TCDD,
+  2,3,7,8-tetrachlorodibenzo-p-dioxin; AHR, aryl hydrocarbon receptor; Cbl, cobalamin;
+  ZT, zeitgeber time.
+article_title: Dioxin-elicited decrease in cobalamin redirects propionyl-CoA metabolism
+  to the β–oxidation-like pathway resulting in acrylyl-CoA conjugate buildup.
+citation: Karina Orlowska, et al. J Biol Chem. 2022 Sep;298(9):102301.
+year: '2022'
+
+doi: 10.1016/j.jbc.2022.102301
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- liver
+- metabolism
+- dioxin
+- mouse
+- gene expression
+- acrylyl-CoA
+- AdoCbl, adenosylcobalamin
+- AHR, aryl hydrocarbon receptor
+- Cbl, cobalamin
+- DRE, dioxin response element
+- FA, fatty acid
+- HCC, hepatocellular carcinoma
+- HP, hydroxypropionate
+- IF, intrinsic factor
+- IFNɣ, interferon gamma
+- LPS, lipopolysaccharide
+- MUT, methylmalonyl-CoA mutase
+- NAFLD, non-alcoholic fatty liver disease
+- PCB, polychlorinated biphenyl
+- PCDD, polychlorinated dibenzodioxin
+- PCDF, polychlorinated dibenzofuran
+- SCEC, S-(2-carboxyethyl)-L-cysteine
+- TCDD, 2,3,7,8-tetrachlorodibenzo-p-dioxin
+- TCN2, transcobalamin II
+- ZT, zeitgeber time
+
+---

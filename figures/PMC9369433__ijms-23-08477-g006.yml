@@ -1,0 +1,35 @@
+---
+figid: PMC9369433__ijms-23-08477-g006
+pmcid: PMC9369433
+image_filename: ijms-23-08477-g006.jpg
+figure_link: /pmc/articles/PMC9369433/figure/ijms-23-08477-f006/
+number: Figure 6
+figure_title: ''
+caption: Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment scatter
+  diagram of DEGs. Only the top 20 most strongly represented pathways are displayed
+  in the diagram. The degree of KEGG pathway enrichment is represented by an enrichment
+  factor, the FDR value, and the number of genes enriched in a KEGG pathway. The enrichment
+  factor indicates the ratio of differentially expressed genes enriched in this pathway
+  to the total number of annotated unigenes in this pathway. The red underline represents
+  the same enriched pathways among whole plants, leaves, roots, and co-induced DEGs.
+  (A) KEGG enrichment analysis of the leaves. (B) KEGG enrichment analysis of the
+  roots.
+article_title: Comparative Transcriptomic Analysis of Root and Leaf Transcript Profiles
+  Reveals the Coordinated Mechanisms in Response to Salinity Stress in Common Vetch.
+citation: Xiaoshan Lin, et al. Int J Mol Sci. 2022 Aug;23(15):8477.
+year: '2022'
+
+doi: 10.3390/ijms23158477
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- common vetch
+- salinity stress
+- leaf
+- root
+- full-length transcripts
+- yeast
+
+---

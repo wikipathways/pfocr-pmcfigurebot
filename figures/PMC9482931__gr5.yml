@@ -1,0 +1,77 @@
+---
+figid: PMC9482931__gr5
+pmcid: PMC9482931
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC9482931/figure/fig0005/
+number: Figure 5
+figure_title: ''
+caption: Exercise training differentially alters the serine-sphingolipid muscle metabolite
+  networks in diet-sensitive and diet-resistant women with obesity. (a-e) Enriched
+  metabolite networks reveal differing profiles in vastus lateralis from DR and DS
+  individuals at BL and PET. (a) The correlation network for plasma serine. Shown
+  are partners with distance correlation > 0.7; P<0.02, (n=10). (b) Selection of the
+  most significantly different sphingolipid features in vastus lateralis. Shown are
+  features with ReliefF weight measure over 0.03 (major contributors to a classification
+  model), (n=5). (C) Immunoblot analyses revealed relative protein expression of SPTLC1
+  did not differ between DR and DS, whereas expression of SPTLC2 was lower in DR skeletal
+  muscle following exercise training. (*P<0.05, Two-way ANOVA for repeated-measures
+  with Holm-Sidak post hoc test, n=9). (d) Heatmap clustering of relative sphingolipid
+  level changes compared to the total sample mean in the DS and DR groups before and
+  after exercise. Data were log-transformed and z-scored. (e) Sphingolipid metabolic
+  pathway indicating network correlations are distinct in DR and DS groups at baseline.
+  Direction of arrows indicates direction of correlation; arrow colours indicate correlations
+  between sphingolipid species at the beginning (serine) or end (O-phosphorylethanolamine
+  (PE)) of the sphingolipid metabolic pathway in either the DR or DS groups. The number
+  of species with significant correlations in each subclass (absolute correlation
+  level over 0.6 with P<0.05) are indicated. Data in bar graphs represent mean ± SEM.
+  (*P< 0.05, t‐test with Welch's correction, n=5). See also Figure S4.
+article_title: Exercise training enhances muscle mitochondrial metabolism in diet-resistant
+  obesity.
+citation: Chantal A. Pileggi, et al. eBioMedicine. 2022 Sep;83:104192.
+year: '2022'
+
+doi: 10.1016/j.ebiom.2022.104192
+journal_title: eBioMedicine
+journal_nlm_ta: eBioMedicine
+publisher_name: Elsevier
+
+keywords:
+- Obesity
+- Muscle physiology
+- Mitochondria
+- Weight loss
+- Uncoupling
+- Mitochondrial supercomplexes
+- Metabolomics
+- Exercise
+- Serine
+- Sphingolipids
+- DR, diet-resistant with obesity
+- DS, diet-sensitive with obesity
+- ETC, electron transport chain
+- FFM, fat-free mass
+- IMTG, intramuscular triglycerides
+- OXPHOS, oxidative phosphorylation
+- RER, respiratory exchange ratio
+- ROS, reactive oxygen species
+- UCP3, uncoupling protein 3 3KS, 3-keto-sphinganine
+- CDase, ceramidase
+- CerS, ceramide synthase
+- CGT, ceramide galactosyltransferase
+- CerK, ceramide kinase
+- DAG, diacyl-glycerol
+- DES, desaturase
+- GalTase, galactosyltransferase
+- GCase, glucocerebrosidase
+- GCS, glucosylceramide synthase
+- GPC, glycerophosphocholine
+- GPE, glycerophosphoethanolamine
+- HexCer, hexosyl-ceramide
+- Pase, phosphatase
+- S1P, sphingosine 1-phosphate
+- SK, sphingosine kinase
+- SM, sphingomyelin
+- SMase, sphingomyelinase
+- SMS, sphingomyelin synthase
+
+---

@@ -1,0 +1,34 @@
+---
+figid: PMC9365556__aging-14-204196-g007
+pmcid: PMC9365556
+image_filename: aging-14-204196-g007.jpg
+figure_link: /pmc/articles/PMC9365556/figure/f7/
+number: Figure 7
+figure_title: ''
+caption: Gene set enrichment analysis for highly contributing CpGs. Each PC’s ranked
+  CpG weights were translated to genes according to annotations, and pathway enrichment
+  analysis was run for each PC. Here, the sparse consensus network of enriched curated
+  GO and REAC terms across the 15 PCs is visualized. Annotated clusters of significant
+  pathway similarities and high weights are labeled (5), along with the genes enriched
+  within that group beyond the rest of the network. Each node is colored according
+  to the enrichment score of that term, from PC1 (yellow) to PC15 (dark purple) according
+  to the viridis color palette, with more color slices demonstrating enrichment across
+  more PCs.
+article_title: 'Aging the brain: multi-region methylation principal component based
+  clock in the context of Alzheimer’s disease.'
+citation: Kyra L. Thrush, et al. Aging (Albany NY). 2022 Jul 31;14(14):5641-5668.
+year: '2022'
+
+doi: 10.18632/aging.204196
+journal_title: Aging (Albany NY)
+journal_nlm_ta: Aging (Albany NY)
+publisher_name: Impact Journals
+
+keywords:
+- epigenetic clocks
+- unsupervised machine learning
+- brain
+- Alzheimer's disease
+- age acceleration
+
+---

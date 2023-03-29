@@ -1,0 +1,32 @@
+---
+figid: PMC9415960__metabolites-12-00768-g005
+pmcid: PMC9415960
+image_filename: metabolites-12-00768-g005.jpg
+figure_link: /pmc/articles/PMC9415960/figure/metabolites-12-00768-f005/
+number: Figure 5
+figure_title: ''
+caption: Enriched metabolic pathways in the third stage of obesity, MetaboAnalyst
+  4.0/5.0, web-version. (a) DIMS mass-spectra after processing with the DataAnalysis/MatLab
+  pipeline were analyzed by the MSEA tool. (b) DIMS mass-spectra after MALDIquant/Mummichog
+  pipeline processing were analyzed with the Pathway Analysis tool. “Match Status”
+  indicates the number of annotated metabolites/number of known metabolites of the
+  KEGG pathway.
+article_title: An Open-Source Pipeline for Processing Direct Infusion Mass Spectrometry
+  Data of the Human Plasma Metabolome.
+citation: Anna Kozlova, et al. Metabolites. 2022 Aug;12(8):768.
+year: '2022'
+
+doi: 10.3390/metabo12080768
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: MDPI
+
+keywords:
+- metabolomics
+- direct infusion mass-spectrometry
+- MALDIquant
+- MetaboAnalyst
+- MetaboAnalystR
+- Mummichog
+
+---

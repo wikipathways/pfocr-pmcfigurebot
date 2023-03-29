@@ -1,0 +1,50 @@
+---
+figid: PMC9409040__ijms-23-09217-g002
+pmcid: PMC9409040
+image_filename: ijms-23-09217-g002.jpg
+figure_link: /pmc/articles/PMC9409040/figure/ijms-23-09217-f002/
+number: Figure 2
+figure_title: ''
+caption: E4F1 directly controls a limited set of genes in the TNBC cell line SUM159,
+  including a sub-program involved in the ATM/ATR-CHEK signaling pathway. (A)—Fold
+  change plot of differentially expressed genes, assessed by RNA-Seq, in SUM159 cells
+  four days after the initial exposure to either shCtrl or shE4F1. The expression
+  of a large set of genes is moderately deregulated in E4F1-depleted cells compared
+  to control; (B)—Identification of E4F1 target genes by ChIP-Seq. E4F1 ChIP-Seq read
+  densities in the 3 kb regions surrounding the Transcription Start Sites (TSS) of
+  the closest genes located nearby E4F1 binding sites, as identified in SUM159 cells.
+  Out of the 116 ChIP-Seq peaks identified by ChIP-Seq in SUM159 cells (n = 2; , 102
+  were in these 3kb regions and 94 in promoters, indicating that E4F1 is mainly located
+  nearby or on the TSS of its target genes; (C)—MEME logo sequence analysis of the
+  DNA fragments bound by E4F1 in SUM159 cells reveals a human E4F1 consensus motif
+  that is similar to the Mouse E4F1 consensus motif previously identified by our laboratory
+  []; (D)—Venn diagram of the overlap between all of the E4F1 bound genes identified
+  by ChIP-Seq in SUM159 cells (GSE128104 (in red)) and genes differentially expressed
+  (p < 0.05) between SUM159 cells treated with either shCtrl or shE4F1 (GSE128099
+  (in blue)). These genome-wide analyses were performed at a time where all of the
+  cells treated with shRNAs were still viable (annexin-V negative) and still actively
+  growing. The overlap defines a set of 57 genes directly bound and regulated by E4F1
+  in SUM159; (E)—List of the 57 E4F1 direct target genes as defined in panel D. Table
+  provides information about the differential expression of transcripts in SUM159
+  cells treated with either shCtrl or shE4F1 (Ratio KO/WT), the distance of the E4F1
+  consensus motif to the transcription start site (TSS) of the gene, and whether these
+  genes code for factors involved in cellular stress response and checkpoints (red+)
+  including proteins involved in the ATM/ATR-CHK kinases axis (CHK1, PPP5C and TTI2).
+article_title: Multi-Level Control of the ATM/ATR-CHK1 Axis by the Transcription Factor
+  E4F1 in Triple-Negative Breast Cancer.
+citation: Kalil Batnini, et al. Int J Mol Sci. 2022 Aug;23(16):9217.
+year: '2022'
+
+doi: 10.3390/ijms23169217
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- E4F1 transcription factor
+- DNA Damage Response (DDR)
+- ATM/ATR-CHK checkpoint pathway
+- triple-negative breast cancer
+- chemotherapy
+
+---

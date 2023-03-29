@@ -1,0 +1,38 @@
+---
+figid: PMC9368002__cells-11-02369-g001
+pmcid: PMC9368002
+image_filename: cells-11-02369-g001.jpg
+figure_link: /pmc/articles/PMC9368002/figure/cells-11-02369-f001/
+number: Figure 1
+figure_title: ''
+caption: Ingenuity pathway analysis tool (IPA, Qiagen) was used to analyse dataset
+  and explore the diseases and biological processes which are predicted to be increasing
+  or decreasing based on the pattern of differentially expressed genes in the dataset.
+  From this analysis we extrapolated the scheme in the Figure that includes the genes
+  related to lipid synthesis differentially expressed in our dataset (p-value = 9.67
+  × 10−4). The full names of these genes, together with the relative fold change (log2
+  ratio) are reported in . In red, upregulated genes; in green, downregulated genes.
+article_title: Rewiring of Glucose and Lipid Metabolism Induced by G Protein-Coupled
+  Receptor 17 Silencing Enables the Transition of Oligodendrocyte Progenitors to Myelinating
+  Cells.
+citation: Davide Marangon, et al. Cells. 2022 Aug;11(15):2369.
+year: '2022'
+
+doi: 10.3390/cells11152369
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- oligodendrocyte progenitor cell
+- oligodendrocyte
+- energy metabolism
+- glycolysis
+- lactate
+- myelin lipids
+- transcriptomics
+- metabolomics
+- lipidomics
+- myelination
+
+---

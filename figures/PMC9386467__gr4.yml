@@ -1,0 +1,75 @@
+---
+figid: PMC9386467__gr4
+pmcid: PMC9386467
+image_filename: gr4.jpg
+figure_link: /pmc/articles/PMC9386467/figure/fig0004/
+number: Fig. 4
+figure_title: ''
+caption: Association of gene enrichment and therapy response to immune TNBC immunotypes.
+  A-B. Barplot showing gene enrichment of (A) BIOCARTA and (B) Reactome pathways using
+  Enrichr tool (see Methods) in Immunotype-1. C. Schematic showing TCR and downstream
+  signalling that effects immune cell types based on data curated from the Indian
+  TNBC gene expression, pathway analysis in (A-B) and literature. D. Multiomics enrichment
+  analysis validation specific pathways from (C) using TCGA TNBC samples (n=18). Kruskal-Wallis
+  statistical test was performed for p-value significance. E. Boxplot showing differential
+  T-cell-inflammed gene expression profile (GEP) in immunotypes in the Indian cohort
+  (n=88). F. Kaplan-Meier curve and median survival data showing differential OS in
+  melanoma samples (pre-treatment; Mariathasan et al. ; n=348) with high and low enrichment
+  of Immunotype-1 genes and their association with immunotherapy response. Log-rank
+  test was performed for p-value significance. G. Barplot showing the association
+  of immune immunotypes with clinical RECIST response to immunotherapy in melanoma
+  (Mariathasan et al. ; n=298). * - represents a significant (p<0.05; Kruskal-Wallis
+  test) enrichment in samples with high Immunotype-1 score compared to those with
+  low score. H. Boxplot showing differential MAGEA3 therapy response signature in
+  immunotypes in the Indian cohort (n=88). I. Proportion of melanoma samples (n=56;
+  GSE35640) showing immune TNBC immunotypes with differential MAGEA3 therapy response,
+  as a cross-cancer comparison analysis. Kruskal-Wallis statistical test was performed
+  for p-value significance for (E) and (H). Chi-squared test was performed for p-value
+  calculations for (G) and (I).
+article_title: Comprehensive characterization of immune landscape of Indian and Western
+  triple negative breast cancers.
+citation: Aruna Korlimarla, et al. Transl Oncol. 2022 Nov;25:101511.
+year: '2022'
+
+doi: 10.1016/j.tranon.2022.101511
+journal_title: Translational Oncology
+journal_nlm_ta: Transl Oncol
+publisher_name: Neoplasia Press
+
+keywords:
+- Triple-negative breast cancer
+- Immunotherapy
+- Immune subtypes
+- Immune cells
+- Global oncology
+- India
+- TNBC, Triple-negative breast cancer
+- TIL, Tumor-infiltrating lymphocytes
+- Th, T-helper cells
+- TCR, T-cell receptor
+- DAMP, Damage-associated molecular pattern
+- ER, Estrogen receptor
+- PR, Progesterone receptor
+- HER2, Human epidermal growth factor receptor 2
+- US, United States
+- H&E, Hematoxylin and eosin
+- FFPE, Formalin-fixed paraffin embedded
+- ML, Machine learning
+- PPCCA, Probabilistic principal component and covariate analysis
+- IHC, Immunohistochemistry
+- SAM, Significance analysis of microarrays
+- PAM, Prediction analysis for microarrays
+- TCGA, The Cancer Genome Atlas
+- METABRIC, Molecular Taxonomy of Breast Cancer International Consortium
+- OS, Overall survival
+- ssGSEA, Single-sample geneset enrichment analysis
+- MHC, major histocompatibility class
+- APC, Antigen Presenting Cells
+- APP, Antigen processing and presentation
+- TAP, Transporter associated with antigen presenting
+- HLA, Human leukocyte antigen
+- BCR, B cell receptor
+- pPC, probabilisitic prinicipal component analysis
+- RPPA, Reverse phase protein array
+
+---

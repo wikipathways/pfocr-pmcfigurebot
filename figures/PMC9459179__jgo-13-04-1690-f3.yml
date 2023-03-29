@@ -1,0 +1,31 @@
+---
+figid: PMC9459179__jgo-13-04-1690-f3
+pmcid: PMC9459179
+image_filename: jgo-13-04-1690-f3.jpg
+figure_link: /pmc/articles/PMC9459179/figure/f3/
+number: Figure 3
+figure_title: ''
+caption: PPI and functional analyses. (A) The PPI network. The circular nodes represent
+  the upregulated genes, and the square nodes represent the downregulated genes. The
+  blue nodes show the genes in cluster 1, the green nodes show the genes in cluster
+  2, and the pink nodes show the genes in cluster 3. The size of each node represents
+  the degree value. (B) The KEGG pathway enrichment analysis of the hub genes in the
+  PPI network. The hub genes were those with a degree ≥5. PPI, protein-protein interaction,
+  KEGG, Kyoto Encyclopedia of Genes and Genomes.
+article_title: Identification of candidate biomarkers associated with gastric cancer
+  prognosis based on an integrated bioinformatics analysis.
+citation: Yong Liu, et al. J Gastrointest Oncol. 2022 Aug;13(4):1690-1700.
+year: '2022'
+
+doi: 10.21037/jgo-22-651
+journal_title: Journal of Gastrointestinal Oncology
+journal_nlm_ta: J Gastrointest Oncol
+publisher_name: AME Publishing Company
+
+keywords:
+- Gastric cancer (GC)
+- differentially expressed gene
+- protein-protein interaction analysis
+- survival analysis
+
+---

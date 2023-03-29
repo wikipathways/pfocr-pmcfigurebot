@@ -1,0 +1,40 @@
+---
+figid: PMC9367414__cells-11-02320-g005
+pmcid: PMC9367414
+image_filename: cells-11-02320-g005.jpg
+figure_link: /pmc/articles/PMC9367414/figure/cells-11-02320-f005/
+number: Figure 5
+figure_title: ''
+caption: 'GO enrichment analysis of DEGs in G vs. R tips. A list of genes that were
+  differentially expressed between growing tips and retracting tips (1488 genes) were
+  analyzed by DAVID enrichment analysis (v. 6.8): (A) GO terms for genes were expressed
+  more highly in G tips than R tips (FC > 1.5, FDR < 0.1). The horizontal axis represents
+  the −log10(FDR) of the significant GO terms. The x-intercept of the vertical red
+  line indicates the standard cutoff value, where −log10FDR = 1.301 (FDR = 0.05).
+  Numbers beside the bars indicate the list hit numbers vs. list total numbers. Red
+  terms are genes directly involved in protein synthesis; Green terms are for mitochondrial
+  function; Blue terms are for the modification of DNA or chromosomes; the Pink term
+  is for the ubiquitin conjugation pathway; and the Black terms are for other cell
+  functions. (B) Scatter plot for genes expressed more highly in G tips than R tips
+  (p < 0.05, FC > 1.5). Color dots represent categories of GO terms similar to those
+  in (A).'
+article_title: 'Transcriptomes of Injured Lamprey Axon Tips: Single-Cell RNA-Seq Suggests
+  Differential Involvement of MAPK Signaling Pathways in Axon Retraction and Regeneration
+  after Spinal Cord Injury.'
+citation: Li-Qing Jin, et al. Cells. 2022 Aug;11(15):2320.
+year: '2022'
+
+doi: 10.3390/cells11152320
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- spinal cord injury
+- single cell RNA-seq
+- axon regeneration
+- MAPK pathway
+- circadian rhythm
+- local protein synthesis
+
+---

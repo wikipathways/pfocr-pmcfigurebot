@@ -1,0 +1,43 @@
+---
+figid: PMC9367414__cells-11-02320-g003
+pmcid: PMC9367414
+image_filename: cells-11-02320-g003.jpg
+figure_link: /pmc/articles/PMC9367414/figure/cells-11-02320-f003/
+number: Figure 3
+figure_title: ''
+caption: 'Hierarchical cluster analysis of gene expression in growing, static and
+  retracting axon tips. Heat maps were constructed for those genes that showed significant
+  differential expression patterns between growing (G), static (S) and retracting
+  (R) axon tips: (A) A representative heat map cluster showing genes that were expressed
+  significantly more in G than in S tips. (B) A similar heat map for genes that were
+  expressed more in G tips than in R tips. (C) A similar heat map for genes that were
+  expressed more in R tips than in G tips. The blue-to-red gradation represents levels
+  in gene expression, from low to high. (D) Three gene lists identified that were
+  consistently expressed more in G tips than in S and R tips (G > S and R, 38 genes),
+  more in S tips than in G and R tips (S > G and R, 20 genes) or more in R tips than
+  in G and S tips (R > G and S, 18 genes). Among them, map3k2 and csnk1e (red font)
+  were significantly upregulated in G tips more than in S tips or R tips and are involved
+  either in “MAPK-signaling-cascades” or in “circadian rhythms”, respectively. The
+  gene mapk8(1) (green font) in the “S > G and R” list participates in “MAPK-signaling-cascades”,
+  and the gene prkcq (purple font) in the “R > G and S” list participates in the T
+  cell receptor signaling pathway.'
+article_title: 'Transcriptomes of Injured Lamprey Axon Tips: Single-Cell RNA-Seq Suggests
+  Differential Involvement of MAPK Signaling Pathways in Axon Retraction and Regeneration
+  after Spinal Cord Injury.'
+citation: Li-Qing Jin, et al. Cells. 2022 Aug;11(15):2320.
+year: '2022'
+
+doi: 10.3390/cells11152320
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- spinal cord injury
+- single cell RNA-seq
+- axon regeneration
+- MAPK pathway
+- circadian rhythm
+- local protein synthesis
+
+---

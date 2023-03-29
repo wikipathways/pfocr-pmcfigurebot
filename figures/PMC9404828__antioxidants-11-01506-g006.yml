@@ -1,0 +1,37 @@
+---
+figid: PMC9404828__antioxidants-11-01506-g006
+pmcid: PMC9404828
+image_filename: antioxidants-11-01506-g006.jpg
+figure_link: /pmc/articles/PMC9404828/figure/antioxidants-11-01506-f006/
+number: Figure 6
+figure_title: ''
+caption: Implications of inhibition of JAK–STAT Pathway in full chronicity. Socs1
+  is a negative regulator of the JAK–STAT pathway; therefore, its overexpression downregulates
+  JAK–STAT, as is shown by the underexpression of STAT genes. As an additional level
+  of downregulation, Il23a is also underexpressed in chronic wounds. The IL23 heterodimeric
+  cytokine complex which forms when IL23a binds to IL23r activates STAT3. Phosphorylated
+  STAT3 then dimerizes and translocates to the nucleus where it turns on gene expression
+  associated with adaptive and innate immunity. This leads to the stimulation of type
+  17 helper T (Th17) cells, which are crucial for host defense response against invading
+  microbes and fungi. Downregulation of Il23a shows that JAK–STAT is downregulated,
+  and therefore, stimulation of Th17 is downregulated as well, which could contribute
+  to microbes persisting in chronic wounds leading to biofilm formation.
+article_title: 'Signaling Pathways Associated with Chronic Wound Progression: A Systems
+  Biology Approach.'
+citation: Proma Basu, et al. Antioxidants (Basel). 2022 Aug;11(8):1506.
+year: '2022'
+
+doi: 10.3390/antiox11081506
+journal_title: Antioxidants
+journal_nlm_ta: Antioxidants (Basel)
+publisher_name: MDPI
+
+keywords:
+- WGCNA
+- gene–trait correlation
+- diabetic model
+- RNASeq
+- STRING
+- wound healing
+
+---

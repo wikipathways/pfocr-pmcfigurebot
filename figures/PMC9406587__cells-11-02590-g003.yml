@@ -1,0 +1,46 @@
+---
+figid: PMC9406587__cells-11-02590-g003
+pmcid: PMC9406587
+image_filename: cells-11-02590-g003.jpg
+figure_link: /pmc/articles/PMC9406587/figure/cells-11-02590-f003/
+number: Figure 3
+figure_title: ''
+caption: The unfolded protein response (UPR) and the integrated stress response (ISR).
+  The accumulation of misfolded proteins in the ER leads to ER stress, which triggers
+  intracellular stress sensors (UPR and/or ISR sensors) that can activate stress response
+  pathways to maintain ER homeostasis. However, an excessive unresolved or chronic
+  ER stress can trigger apoptosis responses leading to a different cell fate. The
+  UPR sensors (PERK, IRE1α and ATF6) reside in the ER membrane, while ISR sensors
+  (i.e., PKR, GCN2 and HRI) are cytoplasmic kinases that respond to different stressors
+  than those of the UPR. The UPR and ISR pathways converge at the PERK sensor which,
+  after its dimerization, halts global translation by phosphorylating eIF2α on Ser51.
+  The IRE1α features a cytoplasmic kinase domain and RNase domain; upon dimerization
+  and auto-phosphorylation, IRE1α induces its kinase and endoribonuclease activities,
+  leading to unconventional splicing of X-box-binding protein-1 (XBP1) mRNA []. In
+  this regard, RACK1 (receptor for activated C kinase 1) has been reported to activate
+  IRE1α-XBP1 signaling pathway and induce neuroprotection in rat models [], and the
+  IRE1α-RACK1 axis has been shown to orchestrate cytoprotective responses after ER
+  stress []. The ATF6 has a cytoplasmic domain which, upon ER stress, is processed
+  in the Golgi apparatus, and an ATF6 fragment is released in the cytoplasm. After
+  its activation, the UPR pathway induces central transcription factors ATF6, XBP1,
+  and ATF4 that are redirected to the nucleus to mediate the expression of UPR downstream
+  targets [].
+article_title: 'Proteostasis Deregulation in Neurodegeneration and Its Link with Stress
+  Granules: Focus on the Scaffold and Ribosomal Protein RACK1.'
+citation: Mirco Masi, et al. Cells. 2022 Aug;11(16):2590.
+year: '2022'
+
+doi: 10.3390/cells11162590
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- neurodegeneration
+- RNA
+- proteostasis
+- translation
+- stress granules
+- RACK1
+
+---

@@ -1,0 +1,51 @@
+---
+figid: PMC9336172__MSB-18-e10874-g001
+pmcid: PMC9336172
+image_filename: MSB-18-e10874-g001.jpg
+figure_link: /pmc/articles/PMC9336172/figure/msb202110874-fig-0006/
+number: Figure 6
+figure_title: Transcriptomic and proteomic signatures of different metabolic equilibria
+  in Wnt‐low and Wnt‐high tumors
+caption: 'ASelection of gene set enrichment analysis results for transcriptomic (x‐axis
+  “RNA”) and proteomic (x‐axis “protein”) differences between Wnt‐high and Wnt‐low
+  colorectal cancer cell lines (depmap, 39 Wnt‐high and 8 Wnt‐low cell lines for transcriptomics
+  and 16 Wnt‐high and 6 Wnt‐low for proteomic) and tumors (432 Wnt‐high and 108 Wnt‐low
+  for transcriptomics (TCGA), 31 Wnt‐high and 75 Wnt‐low samples for proteomic (CPTAC‐COAD)).
+  Positive enrichment scores in green indicate a higher expression of the respective
+  gene sets in Wnt‐high compared to Wnt‐low entities. Gene set annotation according
+  to Reactome pathways and GO cellular component, an adjusted P‐value threshold of
+  0.05 was applied.BDifferential transcript (x‐axis “RNA”) and protein (x‐axis “protein”)
+  abundance in colorectal cancer cell lines (depmap) and tumor tissues (TCGA and CPTAC‐COAD).
+  Selected genes which play a role in amino acid metabolism, glycolysis, mitochondrial
+  function and TCA cycle are displayed.C, DTranscript expression (C) and protein expression
+  (D) of HK1, MRPS31, PDHA1, and GOT2 (y‐axis) compared to transcript expression of
+  AXIN2 (x‐axis in the dotplot). Colors indicate CMS classification or normal colon
+  tissue. Violin plots in the left panels illustrate candidate transcript and protein
+  expression in the different CMS and tissue groups. Each datapoint corresponds to
+  an individual tumor. Number of tumors per CMS group for (C): CMS1 ‐ 41, CMS2 ‐ 88,
+  CMS3 ‐ 65, CMS4 ‐ 111, normal tissue ‐ 51; for (D): CMS1 ‐ 12, CMS2 ‐ 29, CMS3 ‐
+  13, CMS4 ‐ 21.E, FTranscript expression (E) and protein expression (F) differences
+  between tumor and normal colon tissue for Wnt‐high (y‐axis) and Wnt‐low (x‐axis)
+  tumors. Colors indicate to which functional pathway each gene belongs: purple ‐
+  glycolysis, green ‐ mitochondrial function, pink ‐ TCA cycle and mitochondrial pyruvate
+  metabolism.'
+article_title: Metabolic balance in colorectal cancer is maintained by optimal Wnt
+  signaling levels.
+citation: Katharina Imkeller, et al. Mol Syst Biol. 2022 Aug;18(8):e10874.
+year: '2022'
+
+doi: 10.15252/msb.202110874
+journal_title: Molecular Systems Biology
+journal_nlm_ta: Mol Syst Biol
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- APC
+- functional genomics
+- multi‐omic data integration
+- quantitative signaling
+- synthetic lethality
+- Cancer
+- Signal Transduction
+
+---

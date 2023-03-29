@@ -1,0 +1,41 @@
+---
+figid: PMC9369045__ijms-23-08520-g005
+pmcid: PMC9369045
+image_filename: ijms-23-08520-g005.jpg
+figure_link: /pmc/articles/PMC9369045/figure/ijms-23-08520-f005/
+number: Figure 5
+figure_title: ''
+caption: Pathway analysis and co-expression changes in the proteome and transcriptome
+  of H. rhodopensis. (A) Scatter plot of averaged log2 transformed fold changes of
+  abundances of RNA contigs (x-axis) and the corresponding proteins (y-axis). Colored
+  bar represents significant expression changes above log2 of 0.5 for contigs and
+  proteins (n.c.—no change; arrow up—upregulation; arrow down—downregulation). (B)
+  RNA contigs and peptides annotated in the CLUE GO network were searched against
+  the KEGG database and visualized together with available metabolomic data to clarify
+  their involvement in cellular metabolism. Squares represent assigned proteins, rectangles
+  represent transcripts, and circles represent metabolites. The colored bar represents
+  changes in log2 FC between plants in the fresh and dry states. P—phosphorylation
+  event. (C) Pathway signal flow analysis. The pathway was constructed by condensing
+  and enriching a subset of reactions from several primary metabolism pathways of
+  A. thaliana downloaded from KEGG. Unidirectional edges were used for reactions.
+  Nodes are colored from blue to red, corresponding to low to high signals, respectively.
+  The median was regarded as one because it represented the normal state.
+article_title: Proteomics Evidence of a Systemic Response to Desiccation in the Resurrection
+  Plant Haberlea rhodopensis.
+citation: Petko Mladenov, et al. Int J Mol Sci. 2022 Aug;23(15):8520.
+year: '2022'
+
+doi: 10.3390/ijms23158520
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- resurrection plant
+- proteomics
+- systems biology
+- subcellular fractionation
+- drought stress
+- dehydrin
+
+---

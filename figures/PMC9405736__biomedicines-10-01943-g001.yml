@@ -1,0 +1,64 @@
+---
+figid: PMC9405736__biomedicines-10-01943-g001
+pmcid: PMC9405736
+image_filename: biomedicines-10-01943-g001.jpg
+figure_link: /pmc/articles/PMC9405736/figure/biomedicines-10-01943-f001/
+number: Figure 1
+figure_title: ''
+caption: Lipid metabolism reprogramming in cancer cells. (1) Combined elevation of
+  glucose and glutamine consumption promotes lipogenesis by activating the SREBP/SCAP
+  pathway. Glucose produces N-glycans through HBP (Hexosamine Biosynthesis Pathway),
+  which stabilizes SCAP (SREBP-cleavage activating protein) through N-linked glycosylation
+  of its luminal loops (1 and 7). Glutamine enters the mitochondria and ammonia (NH3)
+  is released by GLS (glutaminase). NH3 is protonated and converted to NH4+, which
+  directly binds to the aspartate D428 and Serine S326/330 in the core of the SCAP
+  transmembrane domains, forming stable hydrogen bonds. This binding triggers a dramatic
+  conformation change in SCAP, leading to its dissociation from Insig (insulin-induced
+  gene), an endoplasmic reticulum (ER)-resident protein. Subsequently, SCAP escorts
+  SREBP (sterol regulatory element-binding protein) to the Golgi, where it is cleaved
+  by two enzymes S1P (site 1 protease) and S2P (site 2 protease) to release its active
+  N-terminal fragment. Finally, the N-terminal domain goes into the nucleus, binds
+  to the SRE (sterol regulatory element) motif located in the promoters of gene involved
+  in lipogenesis to activate their transcription and promote de novo lipid synthesis
+  and tumor growth. (2) Glucose is the main source for lipid synthesis. Glucose via
+  glycolysis breaks down into pyruvate, which enters the mitochondria and is converted
+  to acetyl-CoA by PDH (pyruvate dehydrogenase), followed by condensation with OAA
+  (oxaloacetate) to form citrate to enter the TCA cycle (tricarboxylic acid cycle).
+  Citrate is released to the cytosol via its mitochondria transporter, SLC25A1. Citrate
+  is then cleaved to acetyl-CoA by ACLY (ATP citrate lyase), which serves as a precursor
+  for fatty acid and cholesterol biosynthesis catalyzed by a series of enzymes that
+  are the main transcriptional targets of SREBPs, as shown in the Figure. In addition,
+  cytosol acetate can be converted to acetyl-CoA for lipid synthesis by ACCS2 (acetyl-CoA
+  synthetase 2). Besides that, acetyl-CoA is also the substrate for the acetylation
+  of histones, which is involved in epigenetic regulation. Moreover, glutamine through
+  glutaminolysis contributes as an anaplerotic substrate to replenish tricarboxylic
+  acid (TCA) cycle intermediates. Glutamate, the product of the first step of glutaminolysis,
+  is converted to α-KG (α-ketoglutaric acid) and then enters into the TCA cycle. (3)
+  SREBPs upregulates the expression of LDLR (low-density lipoprotein receptor), which
+  binds to LDL and transports it into cells through the endocytosis process. LDL is
+  then hydrolyzed in the lysosomes and cholesterol is released, promoting tumor growth.
+  (4) Excess fatty acids and cholesterol are converted to TAG (triacylglycerol) and
+  CE (cholesteryl ester) by DGAT1 (diacylglycerol O-acyltransferase 1) and sterol
+  O acyl-transferase 1 (SOAT1) to form LDs (lipid droplets) and prevent toxicity from
+  high lipid levels. Under conditions of nutrient deficiency, LDs are hydrolyzed by
+  autophagy to release free fatty acids and cholesterol for tumor survival.
+article_title: 'Lipid Metabolism in Glioblastoma: From De Novo Synthesis to Storage.'
+citation: Yongjun Kou, et al. Biomedicines. 2022 Aug;10(8):1943.
+year: '2022'
+
+doi: 10.3390/biomedicines10081943
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: MDPI
+
+keywords:
+- glioblastoma
+- fatty acids
+- cholesterol
+- lipid droplets
+- SREBP-1
+- DGAT1
+- SOAT1
+- lipotoxicity
+
+---

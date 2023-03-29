@@ -1,0 +1,46 @@
+---
+figid: PMC9380259__gr4
+pmcid: PMC9380259
+image_filename: gr4.jpg
+figure_link: /pmc/articles/PMC9380259/figure/fig4/
+number: Figure 4
+figure_title: ''
+caption: The selinexor responses in the AML ex vivo model and cell lines show common
+  and unique signaling responses(A) List of phosphorylation sites with a functional
+  score >0.6 commonly regulated between ex vivo analysis and AML cell lines. The list
+  highlights known regulatory site functions based on information obtained from Perseus
+  software. Asterisk (∗) indicates shared phosphorylation sites between response groups.(B)
+  Hierarchical clustering of significantly regulated proteins (n = 504; FDR = 0.01,
+  s0 = 0.1) between selinexor-sensitive (blue color) and -resistant (red color) cells.
+  KEGG pathway overrepresentation with Benjamini-Hochberg FDR-corrected p values for
+  cluster 1 and 2.(C) Heatmap of median log2-transformed label-free quantification
+  (LFQ) intensities for a selection of regulated proteins belonging to FOXO3/mTOR
+  signaling from (B) and include the top five most regulated proteins in (A). Arrows
+  indicate the phosphorylation site (p-site) regulation directionality in (A) and
+  blue/red colored text refers to the selinexor response group. Asterisk (∗) indicates
+  housekeeping genes.(D) Western blot analysis (upper) and quantification (lower)
+  of FOXO3, AKT, and p53 in AML cells. Data in bar graph represent mean ± SD (n =
+  3). See also ; , , and .
+article_title: Phosphoproteomics of primary AML patient samples reveals rationale
+  for AKT combination therapy and p53 context to overcome selinexor resistance.
+citation: Kristina B. Emdal, et al. Cell Rep. 2022 Aug 9;40(6):111177.
+year: '2022'
+
+doi: 10.1016/j.celrep.2022.111177
+journal_title: Cell Reports
+journal_nlm_ta: Cell Rep
+publisher_name: Cell Press
+
+keywords:
+- phosphoproteomics
+- mass spectrometry
+- functional scoring
+- selinexor
+- acute myeloid leukemia
+- drug resistance
+- combination therapy
+- MK-2206
+- subcellular proteomics
+- nutlin-3a
+
+---

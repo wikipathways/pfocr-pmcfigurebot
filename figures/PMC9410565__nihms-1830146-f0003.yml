@@ -1,0 +1,37 @@
+---
+figid: PMC9410565__nihms-1830146-f0003
+pmcid: PMC9410565
+image_filename: nihms-1830146-f0003.jpg
+figure_link: /pmc/articles/PMC9410565/figure/F3/
+number: FIGURE 3
+figure_title: ''
+caption: (A) Multivariate spatial analysis showing joint variation in spatial localization
+  of the pathways associated with cancer hallmarks in the four samples. The spatial
+  principal component analysis (sPCA) plot shows the loading of different pathway
+  scores along the first two principal axes. Moran’s I indicate the extent of spatial
+  autocorrelation coefficients of the pathways. (B) Representative pathways with high
+  loadings are spatially presented for the tumor samples with a correlation plot for
+  pathways associated with cancer hallmarks. The intensity of the black color indicates
+  proportionally higher pathway-level activity (C) Pathway activity was modeled as
+  a function of the estimated abundance of the cell types in the spatial transcriptomic
+  data using multivariate regression with a spatial lag to account for spatial autocorrelation.
+  Heatmap showing p-value associated with coefficients for the cell types in all pancreatic
+  tumor samples. Rho and residual variance values are indicated in
+article_title: Inference on spatial heterogeneity in tumor microenvironment using
+  spatial transcriptomics data.
+citation: Antara Biswas, et al. Comput Syst Oncol. ;2(3):e21043.
+year: '2022'
+
+doi: 10.1002/cso2.1043
+journal_title: Computational and systems oncology
+journal_nlm_ta: Comput Syst Oncol
+publisher_name: ''
+
+keywords:
+- cancer
+- heterogeneity
+- multivariate analysis
+- spatial transcriptomics
+- tissue microenvironment
+
+---

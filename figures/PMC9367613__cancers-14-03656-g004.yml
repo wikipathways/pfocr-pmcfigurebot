@@ -1,0 +1,38 @@
+---
+figid: PMC9367613__cancers-14-03656-g004
+pmcid: PMC9367613
+image_filename: cancers-14-03656-g004.jpg
+figure_link: /pmc/articles/PMC9367613/figure/cancers-14-03656-f004/
+number: Figure 4
+figure_title: ''
+caption: 'Radiomics workflow typically seen in the included studies. Imaging, biological,
+  and clinical data were sourced from institutions and/or public repositories, before
+  being subjected to further processing. To develop radiomic signatures, Pipeline
+  A describes the main approach taken in the reviewed studies. Here, radiomic features
+  were directly analysed for their association with CD8+ TILs. Features associated
+  with CD8+ TILs were retained for radiomic signature derivation, model construction,
+  and further evaluation. Pipeline B describes an alternate pathway where radiomic
+  signatures were first developed by assessing the association of features with clinical
+  variables, e.g., objective response. Signatures were then evaluated for their association
+  with CD8+ TILs to explain, at least partially, the biological basis of the radiomic
+  signatures. Acronyms: TCIA/TCGA = The Cancer Imaging Archive/The Cancer Genome Atlas,
+  IHC = immunohistochemistry, RNA-seq = RNA sequencing.'
+article_title: 'Radiomic Signatures Associated with CD8+ Tumour-Infiltrating Lymphocytes:
+  A Systematic Review and Quality Assessment Study.'
+citation: Syafiq Ramlee, et al. Cancers (Basel). 2022 Aug;14(15):3656.
+year: '2022'
+
+doi: 10.3390/cancers14153656
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- radiomics
+- cancer
+- systematic review
+- immunotherapy
+- immune cells
+- lymphocytes
+
+---

@@ -1,0 +1,39 @@
+---
+figid: PMC9379404__ijbsv18p4984g005
+pmcid: PMC9379404
+image_filename: ijbsv18p4984g005.jpg
+figure_link: /pmc/articles/PMC9379404/figure/F5/
+number: Figure 5
+figure_title: ''
+caption: Functional enrichment for the Risckscore. (A) Immunohistochemistry data of
+  the three model gene proteins in the HPA database. The three proteins exhibited
+  up-regulated expression in lung cancer; (B-D) Correlation between the expression
+  and methylation levels of PRC1 (B), MRPL51 (C), SLK (D); (E) CNV of the three model
+  genes. Deletion was much more frequent in SLK and PRC1 genes while amplification
+  was more frequent in MRPL51 gene; (F-G) Metascape functional enrichment analysis.
+  The genes up-regulated in the high-risk group were mainly involved in cell cycle
+  and DNA replication (Left), while the genes up-regulated in the low-risk group were
+  mainly associated with antigen-presenting and immune response (Right); (H-I) GSEA
+  enrichment analysis. High Riskcore was mainly involved in cell cycle and p53 signaling
+  pathway (H), while low riskscore was majorly enriched in immune function-related
+  pathways, such as asthma, autoimmune, hematopoiesis, autoimmune thyroid diseases
+  (I).
+article_title: Development and Validation of a DNA Methylation-related Classifier
+  of Circulating Tumour Cells to Predict Prognosis and to provide a therapeutic strategy
+  in Lung Adenocarcinoma.
+citation: Xuyu Gu, et al. Int J Biol Sci. 2022;18(13):4984-5000.
+year: '2022'
+
+doi: 10.7150/ijbs.75284
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- Lung adenocarcinoma
+- Circulating tumour cell
+- DNA methylation
+- Risk model
+- Clinical outcomes
+
+---

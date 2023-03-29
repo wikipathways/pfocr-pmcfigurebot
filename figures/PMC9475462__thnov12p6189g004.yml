@@ -1,0 +1,46 @@
+---
+figid: PMC9475462__thnov12p6189g004
+pmcid: PMC9475462
+image_filename: thnov12p6189g004.jpg
+figure_link: /pmc/articles/PMC9475462/figure/F4/
+number: Figure 4
+figure_title: ''
+caption: 'ARHGAP24 represses the transcriptional activity of β-catenin. A. Differential
+  genes (DEGs) were identified when ARHGAP24 high group (upper quarter) was compared
+  to ARHGAP24 low group (lower quarter) in TCGA dataset according to follow criteria:
+  p value < 0.05 and |log2 fold change (FC)| > 1. B. Bubble plot revealed significantly
+  enriched Wnt/β-catenin-related signaling according to Reactome pathway analysis.
+  C. GSEA analysis demonstrated highly activated Wnt/β-catenin signaling especially
+  the transcriptional activity were enriched in ARHGAP24-low subgroup. D. The transcriptional
+  activity of β-catenin in indicated cells received distinct treatment was analyzed
+  by TOP/FOP Flash assays. E. The mRNA expressions of downstream target genes of β-catenin
+  were detected by qRT-PCR assay. F. The mRNA (upper panel) and protein (lower panel)
+  expression of downstream target genes of β-catenin were determined in HCCLM3 cells
+  in the presence of ICG-001, a specific antagonist of Wnt/β-catenin pathway. G. Effects
+  of ICG-001 on the long-term proliferation potentials of HCCLM3 cells assessed by
+  colony formation assays. H. Effects of ICG-001 treatment on the migration and invasion
+  capacities of HCCLM3 cells were determined by Transwell and scratch wound healing
+  assays. I. Effects of ICG-001 on the migration capacities of ARHGAP24-knockdown
+  Li-7 cells were assessed by Transwell and scratch wound healing assays. J. mRNA
+  (upper panel) and protein (lower panel) expressions of downstream target of β-catenin
+  in Li-7 cells received indicated treatment were detected by qRT-PCR and WB assays.
+  K. Effects of ICG-001 on the proliferation of ARHGAP24-knockdown Li-7 cells were
+  evaluated using colony formation assays.'
+article_title: ARHGAP24 represses β-catenin transactivation-induced invasiveness in
+  hepatocellular carcinoma mainly by acting as a GTPase-independent scaffold.
+citation: Wenjing Yang, et al. Theranostics. 2022;12(14):6189-6206.
+year: '2022'
+
+doi: 10.7150/thno.72134
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- HCC
+- invasion
+- ARHGAP24
+- PKM2 degradation
+- β-catenin transactivation
+
+---

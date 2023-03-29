@@ -1,0 +1,37 @@
+---
+figid: PMC9402265__nihms-1828073-f0004
+pmcid: PMC9402265
+image_filename: nihms-1828073-f0004.jpg
+figure_link: /pmc/articles/PMC9402265/figure/F4/
+number: Figure 4
+figure_title: A2BAR signaling in IECs is required for their activation at the initiation
+  of the primary response to Hpb
+caption: (A–E) VillinCre-A2BARfl/fl and corresponding control VillinCre mice were
+  orally inoculated with 200 Hpb L3; controls included naive mice orally gavaged with
+  PBS. At 24 h after Hpb inoculation, IECs were sort purified, RNA was extracted,
+  and RNA-seq was performed. Analyses included a heatmap representing the Euclidean
+  distance matrix of the total transcriptome of each sample, along with hierarchical
+  clustering (A); principal-component analysis (PCA) of the total transcriptome of
+  each sample (B); and volcano plots (C); Venn diagram depicting the number of upregulated
+  and downregulated genes with a shared and unique expression from VillinCre-A2BARfl/fl
+  and corresponding controls VillinCre mice relative to naive (D); regulated gene
+  pathways and processes as determined by enrichment Ingenuity Pathway Analysis (IPA)
+  (E).(F and G) Further analyses revealed heatmaps representing G protein-coupled
+  receptor signaling (F) and type 2 immune response genes (G).(H) VillinCre-A2BARfl/fl
+  mice and VillinCre controls were inoculated with 200 L3 Hpb for 24 h. RNA from sorted
+  IECs (EpCAM+CD45−DAPI−) was extracted and analyzed for gene expression of Il33 by
+  qPCR. Data shown are the means and SEMs from 4 individual mice per group. qPCR experiment
+  shows the means and SEMs from 4–6 individual mice per group and are representative
+  of at least 2 independent experiments (1-way ANOVA, multiple comparisons; *p < 0.05).
+article_title: Adenosine metabolized from extracellular ATP promotes type 2 immunity
+  through triggering A2BAR signaling in intestinal epithelial cells.
+citation: Darine W. El-Naccache, et al. Cell Rep. ;40(5):111150-111150.
+year: '2022'
+
+doi: 10.1016/j.celrep.2022.111150
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: ''
+
+keywords:
+---

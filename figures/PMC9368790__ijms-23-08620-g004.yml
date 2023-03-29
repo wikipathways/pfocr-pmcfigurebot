@@ -1,0 +1,34 @@
+---
+figid: PMC9368790__ijms-23-08620-g004
+pmcid: PMC9368790
+image_filename: ijms-23-08620-g004.jpg
+figure_link: /pmc/articles/PMC9368790/figure/ijms-23-08620-f004/
+number: Figure 4
+figure_title: ''
+caption: KEGG (Kyoto Encyclopedia of Genes and Genomes Pathway) analysis of DEGs.
+  (A) GO map of DEGs in E1-10_vs_H32-10; (B) GO map of DEGs in E1-12_vs_H32-12; (C)
+  GO map of DEGs in E2-10_vs_H32-10; (D) GO map of DEGs in E2-12_vs_H32-12. y-axis
+  represents the pathname, and the x-axis represents the enrichment factor. The larger
+  the enrichment factor, the higher the enrichment level of DGEs in the pathway. The
+  p value is expressed by color with white as the border. The deeper the red color,
+  the more important the accumulation of DEGs in the signaling pathway. The number
+  of DEGs in a pathway was expressed by the size of the circle. The larger the circle,
+  the higher the enrichment of the pathway.
+article_title: Screening and Verification of Photosynthesis and Chloroplast-Related
+  Genes in Mulberry by Comparative RNA-Seq and Virus-Induced Gene Silencing.
+citation: Yong Li, et al. Int J Mol Sci. 2022 Aug;23(15):8620.
+year: '2022'
+
+doi: 10.3390/ijms23158620
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- photosynthesis regulation
+- mulberry
+- transcriptomes
+- re-annotation
+- VIGS
+
+---

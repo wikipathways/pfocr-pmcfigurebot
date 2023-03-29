@@ -1,0 +1,50 @@
+---
+figid: PMC9409250__ijms-23-08958-g002
+pmcid: PMC9409250
+image_filename: ijms-23-08958-g002.jpg
+figure_link: /pmc/articles/PMC9409250/figure/ijms-23-08958-f002/
+number: Figure 2
+figure_title: ''
+caption: DEG enrichment analysis utilizing GO and KEGG pathways. (A) GO classifications
+  of DEGs. (B) KEGG classifications of DEGs. The first circle from outside and inside
+  is the pathway of the top 20 enrichment terms, and the number outside the circle
+  is the gene number scale. The second circle represents the number and Q value of
+  the pathway in the background gene. The third circle represents the number and ratio
+  of up- (light purple) and down-regulated (dark purple) genes. The fourth circle
+  represents the Rich Factor value of each pathway. GO:0043531, ADP binding. GO:0005976,
+  polysaccharide metabolic process. GO:0016491, oxidoreductase activity. GO:0003824,
+  catalytic activity. GO:0003824, catalytic activity. GO:0005618, cell wall. GO:0071944,
+  cell periphery. GO:0055114, oxidation-reduction process. GO:0030312, external encapsulating
+  structure. GO:0005975, carbohydrate metabolic process. GO:0016684, oxidoreductase
+  activity, acting on peroxide as acceptor. GO:0004601, peroxidase activity. GO:0004601,
+  peroxidase activity. GO:0045229, external encapsulating structure organization.
+  GO:0020037, heme binding. GO:0044264, cellular polysaccharide metabolic process.
+  GO:0071554, cell wall organization or biogenesis. GO:0098754, detoxification. GO:0006633,
+  fatty acid biosynthetic process. GO:0016798, hydrolase activity, acting on glycosyl
+  bonds. ko04626, Plant-pathogen interaction. ko00073, Cutin, suberine and wax biosynthesis.
+  ko00940, Phenylpropanoid biosynthesis. ko01110, Biosynthesis of secondary metabolites.
+  ko00061, Fatty acid biosynthesis. ko00902, Monoterpenoid biosynthesis. ko01100,
+  Metabolic pathways. ko00480, Glutathione metabolism. ko00480, Glutathione metabolism.
+  ko00500, Starch and sucrose metabolism. ko00040, Pentose and glucuronate interconversions.
+  ko00062, Fatty acid elongation. ko00062, Fatty acid elongation. ko00780, Biotin
+  metabolism. ko00195, Photosynthesis. ko00052, Galactose metabolism. ko00010, Glycolysis/Gluconeogenesis.
+  ko04016, MAPK signaling pathway-plant. ko00944, Flavone and flavonol biosynthesis.
+  ko00130, Ubiquinone and other terpenoid-quinone biosynthesis.
+article_title: High-Depth Transcriptome Reveals Differences in Natural Haploid Ginkgo
+  biloba L. Due to the Effect of Reduced Gene Dosage.
+citation: Yaping Hu, et al. Int J Mol Sci. 2022 Aug;23(16):8958.
+year: '2022'
+
+doi: 10.3390/ijms23168958
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- ginkgo
+- haploid
+- transcriptome
+- gene dosage
+- mechanism
+
+---

@@ -1,0 +1,37 @@
+---
+figid: PMC9367414__cells-11-02320-g011
+pmcid: PMC9367414
+image_filename: cells-11-02320-g011.jpg
+figure_link: /pmc/articles/PMC9367414/figure/cells-11-02320-f011/
+number: Figure 11
+figure_title: ''
+caption: Network analysis of gene expression related to “map3k2”. Blue to red graduation
+  represents gene expressions from low to high. Diamond, round or triangle nodes represent
+  genes that are predominant in growing, static or retracting tips, respectively.
+  Rectangular gray nodes represent genes that are important but not present in the
+  sequencing lists. Six nodes (bottom left) are isolated because of their indirect
+  linkage to the network (ptprga, hhipl1, acox, stk38b), or possibly different connections
+  from their isoforms [mapk8(2), mapk14(β)]. Node mapk1 (erk) is referenced for its
+  particularly high expression level (2.9) in retracting tips. Enrichment analysis
+  indicated that nodes in this network are related to the “MAPK signaling pathway”
+  or to the “JNK cascade”.
+article_title: 'Transcriptomes of Injured Lamprey Axon Tips: Single-Cell RNA-Seq Suggests
+  Differential Involvement of MAPK Signaling Pathways in Axon Retraction and Regeneration
+  after Spinal Cord Injury.'
+citation: Li-Qing Jin, et al. Cells. 2022 Aug;11(15):2320.
+year: '2022'
+
+doi: 10.3390/cells11152320
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- spinal cord injury
+- single cell RNA-seq
+- axon regeneration
+- MAPK pathway
+- circadian rhythm
+- local protein synthesis
+
+---

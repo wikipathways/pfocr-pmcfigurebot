@@ -1,0 +1,38 @@
+---
+figid: PMC9331864__cells-11-02278-g002
+pmcid: PMC9331864
+image_filename: cells-11-02278-g002.jpg
+figure_link: /pmc/articles/PMC9331864/figure/cells-11-02278-f002/
+number: Figure 2
+figure_title: ''
+caption: The gut microbiota composition and inferred functional content of gut microbiota
+  between of control (CON) and undernourished (UND) C57BL/6 mice. (A) Relative abundance
+  at the phylum level for groups of CON (n = 6) and UND (n = 7) C57BL/6 mice; (B)
+  Principal coordinate analysis (PCoA) of Bray–Curtis distances among groups of CON
+  (n = 6) and UND (n = 7) C57BL/6 mice. Each point corresponds to a community from
+  a single mouse. Colors indicate group identity. Ellipses show the 95% confidence
+  intervals. Intra-group differences were evaluated using ADONIS test (p < 0.05);
+  (C) ANCOM-BC log fold change showing differentially abundant taxonomic clades in
+  the gut microbiota of UND (n = 7) versus CON (n = 6) C57BL/6 mice; (D) LEfSe LDA
+  scores showing significant pathway differences between CON (n = 6) and UND (n =
+  7) C57BL/6 mice of PICRUSt predicted the relative MetaCyc pathways abundances. Significant
+  differences between groups were corrected with Benjamini–Hochberg False Discovery
+  Rate p FDR < 0.05.
+article_title: Prophylactic Treatment of Undernourished Mice with Cotrimoxazole Induces
+  a Different Profile of Dysbiosis with Functional Metabolic Alterations.
+citation: Lívia Budziarek Eslabão, et al. Cells. 2022 Aug;11(15):2278.
+year: '2022'
+
+doi: 10.3390/cells11152278
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- microbiome
+- undernutrition
+- dysbiosis
+- cotrimoxazole
+- metabolism
+
+---

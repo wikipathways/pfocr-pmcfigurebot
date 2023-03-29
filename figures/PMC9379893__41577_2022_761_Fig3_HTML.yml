@@ -1,0 +1,51 @@
+---
+figid: PMC9379893__41577_2022_761_Fig3_HTML
+pmcid: PMC9379893
+image_filename: 41577_2022_761_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC9379893/figure/Fig3/
+number: Fig. 3
+figure_title: Integration of mechanotransduction pathways and innate immune cell activation
+caption: Pattern recognition receptor (PRR) stimulation accompanied by mechanical
+  force causes PIEZO1 co-localization with some Toll-like receptors (TLRs). Force-triggered
+  opening of transient receptor potential vanilloid type 4 (TRPV4) and PIEZO1 leads
+  to Ca2+ influx. Elevated cytosolic Ca2+ levels induce actin polymerization and activate
+  Rho GTPase, boosting phagocytosis. Concurrently, F-actin formation depletes G-actin
+  availability, and without G-actin to bind to, myocardin-related transcription factor
+  A (MRTFA) is shuttled into the nucleus where it forms a complex with serum response
+  factor (SRF). MRTFA–SRF enables transcription of immune effector genes, such as
+  those encoding interleukin-6 (IL-6) and CXC-chemokine ligand 9 (CXCL9), generally
+  skewing the cell towards an enhanced inflammatory phenotype. Ca2+ also enforces
+  TLR signalling by promoting the expression and activation of endothelin 1 (EDN1)
+  and NF-κB. EDN1 stabilizes hypoxia-inducible factor 1α (HIF1α), promoting TLR-induced
+  HIF1α accumulation. Active NF-κB and HIF1α translocate to the nucleus and drive
+  metabolic and inflammatory gene expression. Additionally, TRPV4-dependent Ca2+ influx
+  prompts dual-specificity phosphatase 1 (DUSP1) to activate p38 and inhibit JNK activity,
+  further enhancing phagocytosis. The mechanosensitive molecules yes-associated protein
+  (YAP) and transcriptional co-activator with PDZ-binding motif (TAZ) also translocate
+  to the nucleus upon activation, bind TEA domains (TEADs) and induce transcription
+  of genes that boost glycolysis, the pentose phosphate pathway and the tricarboxylic
+  acid (TCA) cycle. This immunometabolic regulation through multiple mechanosensitive
+  inputs mediates robust cell proliferation and increases the production of inflammatory
+  cytokines, such as IL-1α, IL-1β, IL-6 and CC-chemokine ligand 2 (CCL2). PIEZO1 also
+  activates histone deacetylases (HDACs) to further induce inflammatory cytokine output.
+  Dashed lines represent pathways where there are still major gaps in understanding
+  the transduction mechanisms, and solid lines depict more well-described pathways.
+  Linker of nucleoskeleton and cytoskeleton (LINC) complex modulation of immune activation
+  has been shown in adaptive cells only, but we hypothesize it also plays a role in
+  innate immune cell regulation. ECM, extracellular matrix; LPS, lipopolysaccharide;
+  TNF, tumour necrosis factor.
+article_title: Tuning immunity through tissue mechanotransduction.
+citation: Huixun Du, et al. Nat Rev Immunol. 2023;23(3):174-188.
+year: '2023'
+
+doi: 10.1038/s41577-022-00761-w
+journal_title: Nature Reviews. Immunology
+journal_nlm_ta: Nat Rev Immunol
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Innate immune cells
+- Adaptive immunity
+- Inflammation
+
+---

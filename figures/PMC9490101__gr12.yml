@@ -1,0 +1,69 @@
+---
+figid: PMC9490101__gr12
+pmcid: PMC9490101
+image_filename: gr12.jpg
+figure_link: /pmc/articles/PMC9490101/figure/fig12/
+number: Figure 12
+figure_title: ''
+caption: The regulatory role of CASC11 and MYC on cell-cycle–associated genes. (A)
+  ChIP-seq profiles from the Encyclopedia of DNA Elements, showing enriched signals
+  of MYC on promoter regions of CDK4 and CDK6. (B) Spearman correlation between CASC11
+  and MYC or CDK4 or CDK6 in HCC clinical samples (n = 50). The gene expression in
+  TCGA transcriptomic data was added with a pseudocount representing the lowest FPKM
+  value and expressed as log2-transformed FPKM. Spearman correlation was used to evaluate
+  the expression of data. (C) RT-qPCR analysis showing the expression changes of cell-cycle–related
+  genes at 48 hours post-transfection with LNA targeting CASC11 or siRNA targeting
+  MYC, respectively. Data are presented as mean ± SD from three independent experiments
+  (D) Gene Ontology Pathway analysis showing the enrichment of common downstream targets
+  as a result of CASC11 knockdown and MYC knockout. FC, fold change; FPKM, fragments
+  per kilobase million; RT-qPCR, Quantitative reverse transcription PCR .
+article_title: In Vivo Genome-Wide CRISPR Activation Screening Identifies Functionally
+  Important Long Noncoding RNAs in Hepatocellular Carcinoma.
+citation: Lok-Sze Wong, et al. Cell Mol Gastroenterol Hepatol. 2022;14(5):1053-1076.
+year: '2022'
+
+doi: 10.1016/j.jcmgh.2022.07.017
+journal_title: Cellular and Molecular Gastroenterology and Hepatology
+journal_nlm_ta: Cell Mol Gastroenterol Hepatol
+publisher_name: Elsevier
+
+keywords:
+- CRISPR Library Screening
+- CASC11
+- ChIRP-Seq
+- MYC
+- Cell Cycle
+- Long Noncoding RNA
+- Hepatocellular Carcinoma
+- Cis-Regulation
+- CASC11, cancer susceptibility 11
+- CDK, cyclin-dependent kinase
+- cDNA, complementary DNA
+- ChIP, chromatin immunoprecipitation
+- ChIRP, chromatin isolation by RNA purification
+- CRISPR, clustered regularly interspaced short palindromic repeats
+- CRISPRa, CRISPR activation
+- dCas9, dead clustered regularly interspaced short palindromic repeats–associated
+  protein 9
+- FDR, false discovery rate
+- GAPDH, glyceraldehyde-3-phosphate dehydrogenase
+- GBAP1, glucosylceramidase beta pseudogene 1
+- HCC, hepatocellular carcinoma
+- HKU, The University of Hong Kong
+- LNA, locked nucleic acid
+- lncRNA, long noncoding RNA
+- MS2, MS2 RNA-binding domain
+- MYC, MYC proto-oncogene
+- qPCR, quantitative polymerase chain reaction
+- RNA-seq, RNA sequencing
+- SAM, synergistic activation mediator
+- SDS, sodium dodecyl sulfate
+- sgRNA, single-guide RNA
+- shRNA, short hairpin RNA
+- siRNA, small interfering RNA
+- TCGA, The Cancer Genome Atlas
+- TSS, transcriptional start site
+- VP64, transcriptional activator composed of four tandem copies of Herpes Simplex
+  Viral Protein 16
+
+---

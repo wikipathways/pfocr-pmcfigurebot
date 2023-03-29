@@ -1,0 +1,45 @@
+---
+figid: PMC9352874__41419_2022_5135_Fig4_HTML
+pmcid: PMC9352874
+image_filename: 41419_2022_5135_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9352874/figure/Fig4/
+number: Fig. 4
+figure_title: NXN suppressed EMT and decreased Snail protein stability
+caption: A Differential expression of NXN affects cell morphology. Phase-contrast
+  images (× 200) of indicated HCC cells. Scale bar, 50 µm. B Gene set enrichment analysis
+  (GSEA) of transcriptome data in the TCGA database revealed that levels of NXN were
+  negatively correlated with epithelial-mesenchymal transition (EMT). NES, normalized
+  enrichment score; FDR, false-discovery rate. C Western blot revealed that NXN negatively
+  regulated the protein expression of mesenchymal markers in HCC cells. D Quantitative
+  real-time PCR analysis showed that NXN expression did not affect the mRNA levels
+  of transcription factors (Fibronectin, ZEB1 and Snail). Data were presented as the
+  mean ± SD. Ns, no statistical significance. E The down-regulation of NXN in HCC
+  activated the ubiquitin-mediated proteolysis signaling pathway. Top 20 statistics
+  of KEGG pathway enrichment based on the differentially expressed genes (DEGs) after
+  NXN knockdown in Hep3B cells. In the scatter plot, RichFactor was the ratio of DEG
+  numbers noted in this pathway term to all gene numbers noted in this pathway term,
+  indicating intensiveness. P-value ranges from 0 to 1, and a lower P-value represents
+  greater intensity. The ubiquitin-mediated proteolysis signaling pathway was one
+  of the most regulated biofunctions upon NXN knockdown. F The half-life of Snail
+  in Huh7 with NXN knockdown was significantly prolonged compared to control cells.
+  The half-life of Snail in NXN overexpressed PLC-8024 cells was markedly reduced
+  compared to control cells. The cells were treated with cycloheximide (CHX) at indicated
+  times; then, Snail levels were analyzed by Western blot. G Downregulation of Snail
+  in NXN overexpressed Huh7 and PLC-8024 cells were restored after the treatment of
+  proteasome inhibitor (MG132). H NXN overexpression enhanced ubiquitination of Snail
+  in 293 T, PLC-8024 and Huh7 cells.
+article_title: NXN suppresses metastasis of hepatocellular carcinoma by promoting
+  degradation of Snail through binding to DUB3.
+citation: Yuanping Zhang, et al. Cell Death Dis. 2022 Aug;13(8):676.
+year: '2022'
+
+doi: 10.1038/s41419-022-05135-7
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Tumour-suppressor proteins
+- Metastasis
+
+---

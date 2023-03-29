@@ -1,0 +1,33 @@
+---
+figid: PMC9406749__cimb-44-00244-g004
+pmcid: PMC9406749
+image_filename: cimb-44-00244-g004.jpg
+figure_link: /pmc/articles/PMC9406749/figure/cimb-44-00244-f004/
+number: Figure 4
+figure_title: ''
+caption: Pathway enrichment analysis observed for KEGG, Reactome, and Wikipathways.
+  A group-based pathway analysis was used to observe the pathways’ connectivity with
+  OC. On the figure, different groups of pathways consist of different colors. The
+  group pathways of KEGG cell cycle and influenza A (26.67 percent) for Reactome,
+  the group of pathways Formation of Cyclin B:Cdc2 complexes (27.69 percent), and
+  the group of pathways Type I Interferon Induction and Signaling During SARS-CoV-2
+  Infection (33.33 percent)are highly significant (* means significant and ** means
+  highly significant).
+article_title: Exploring the Novel Computational Drug Target and Associated Key Pathways
+  of Oral Cancer.
+citation: Fatema Akhter, et al. Curr Issues Mol Biol. 2022 Aug;44(8):3552-3572.
+year: '2022'
+
+doi: 10.3390/cimb44080244
+journal_title: Current Issues in Molecular Biology
+journal_nlm_ta: Curr Issues Mol Biol
+publisher_name: MDPI
+
+keywords:
+- biomarkers
+- drug signature identification
+- key pathways
+- oral cancer
+- oral squamous cell carcinoma
+
+---

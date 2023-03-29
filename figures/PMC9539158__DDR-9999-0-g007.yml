@@ -1,0 +1,40 @@
+---
+figid: PMC9539158__DDR-9999-0-g007
+pmcid: PMC9539158
+image_filename: DDR-9999-0-g007.jpg
+figure_link: /pmc/articles/PMC9539158/figure/ddr21982-fig-0001/
+number: Figure 1
+figure_title: ''
+caption: Assessment of gene signature in SARS‐CoV‐2‐infected human bronchial epithelial
+  cells (NHBE) for drug discovery to treat COVID‐19. (a) Enriched biological pathways
+  associated with COVID‐19 from Reactome annotations (p adj  < .05) from DEGs identified
+  in NHBE‐infected cells transcriptome data. The genes that enriched each pathway
+  (left) are indicated together with statistical results and pathway description (right).
+  (b) Heatmap of genes from the 50 best‐ranked compound signatures that reversed the
+  genetic signature of SARS‐CoV‐2‐infected NHBE cells in decreasing order of Q score.
+  The signature map annotations are related to up‐ and downregulated genes, and cell
+  lines are indicated in different colors. (c) Compounds in decreasing order of Q
+  score following the output of L1000CDS.2 A dashed line indicates the mean Q score
+  (0.26) threshold. Equal Q score values are displayed over the bars. (d) B score
+  for each compound, considering the enrichment analysis and reverse signature. The
+  dashed line corresponds to the mean B score (0.49). *Genetic signature that justified
+  the biological validation of celastrol. COVID‐19, coronavirus disease 2019; DEGs, differentially
+  expressed genes; SARS‐CoV‐2, severe acute respiratory syndrome coronavirus 2.
+article_title: 'Celastrol: A lead compound that inhibits SARS‐CoV‐2 replication, the
+  activity of viral and human cysteine proteases, and virus‐induced IL‐6 secretion.'
+citation: Carlos A. Fuzo, et al. Drug Dev Res. 2022 Aug 21 :10.1002/ddr.21982.
+year: '2022'
+
+doi: 10.1002/ddr.21982
+journal_title: Drug Development Research
+journal_nlm_ta: Drug Dev Res
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- celastrol
+- COVID‐19
+- cysteine protease inhibition
+- molecular docking
+- SARS‐CoV‐2
+
+---

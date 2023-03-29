@@ -1,0 +1,41 @@
+---
+figid: PMC9481920__gr7
+pmcid: PMC9481920
+image_filename: gr7.jpg
+figure_link: /pmc/articles/PMC9481920/figure/fig7/
+number: Figure 7
+figure_title: ''
+caption: SETD4 epigenetically regulates quiescence of NSCs via multiple signaling
+  pathways(A) Confocal images and quantification of the level of H3K9AC and H4K20ME3
+  in NSCs in the SVZ of lateral ventricles in control and Setd4 overexpression mice
+  after 3 day TAM induction. The white dotted circle line highlights the nuclear location
+  of the higher magnification boxed area.(B) Heatmap of gene expression in primary
+  adult SVZ NSCs after Setd4 overexpression using RNA-seq.(C) Volcano plot of total
+  changed genes after Setd4 overexpression.(D and E) Heatmap of differentially expressed
+  genes from top 30-folded-changed genes (D) and representative gene expression for
+  NSC quiescence-maintaining, activation, and cell cycle (E) after Setd4 overexpression.(F
+  and G) Gene set enrichment analysis (GSEA) (F) and Kyoto Encyclopedia of Genes and
+  Genomes (KEGG) pathway enrichment analysis (G) after Setd4 overexpression.Nuclei
+  were stained with DAPI (blue). LV, lateral ventricle. Data are represented as mean
+  ± SEM. n = 3 mice were analyzed per experiment. Student’s t test.
+article_title: SETD4 cells contribute to brain development and maintain adult stem
+  cell reservoir for neurogenesis.
+citation: Sun-Li Cai, et al. Stem Cell Reports. 2022 Sep 13;17(9):2081-2096.
+year: '2022'
+
+doi: 10.1016/j.stemcr.2022.07.017
+journal_title: Stem Cell Reports
+journal_nlm_ta: Stem Cell Reports
+publisher_name: Elsevier
+
+keywords:
+- SETD4
+- Brain origination
+- neural stem cell
+- Deep quiescence
+- Lineage tracing
+- Stem cell maintenance
+- neurogenesis
+- Damage repair
+
+---

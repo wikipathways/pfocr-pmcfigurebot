@@ -1,0 +1,29 @@
+---
+figid: PMC9352505__CMMM2022-5385456.002
+pmcid: PMC9352505
+image_filename: CMMM2022-5385456.002.jpg
+figure_link: /pmc/articles/PMC9352505/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: 'GC samples were clustered by NF-κB signaling pathway score. (a) The expression
+  of NF-κB-related genes in GC samples. (b) GC samples were divided into two cluster
+  (C1 and C2 type) based on NF-κB signaling pathway score (setting median value as
+  cutoff). The bar charts showed the proportions of different grade, T, pathology,
+  and stage in C1 and C2 type. (c) Volcano plot showed the DEGs between C1 and C2
+  type. The labeled items were immune checkpoint-related genes. (d) Volcano plot showed
+  differential biological processes analyzed by GSVA between C1 and C2 type. (e) GSEA
+  showed that multiple immune-related biological processes were enriched in C2 type.
+  GC: gastric cancer; DEGs: differential expressed genes; GSVA: gene set variation
+  analysis; GSEA: gene set enrichment analysis.'
+article_title: Bioinformatics Analysis Revealing the Correlation between NF-κB Signaling
+  Pathway and Immune Infiltration in Gastric Cancer.
+citation: Qiuxiang Chen, et al. Comput Math Methods Med. 2022;2022:5385456.
+year: '2022'
+
+doi: 10.1155/2022/5385456
+journal_title: Computational and Mathematical Methods in Medicine
+journal_nlm_ta: Comput Math Methods Med
+publisher_name: Hindawi
+
+keywords:
+---

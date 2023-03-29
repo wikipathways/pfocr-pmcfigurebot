@@ -1,0 +1,33 @@
+---
+figid: PMC9415398__metabolites-12-00744-g010
+pmcid: PMC9415398
+image_filename: metabolites-12-00744-g010.jpg
+figure_link: /pmc/articles/PMC9415398/figure/metabolites-12-00744-f010/
+number: Figure 10
+figure_title: ''
+caption: Overview of the pathway analysis arranged according to the scores from the
+  enrichment analysis (y-axis) and the topology analysis (x-axis). The color and size
+  of each circle (pathways) are based on its p-value and pathway impact value, respectively.
+  Circles located in the top right diagonal region represent pathways with significant
+  metabolite changes and higher impact. The pathway names with the highest impact
+  values (largest circles) are mentioned (glycine, serine, and threonine metabolism;
+  glyoxylate and dicarboxylate metabolism; citrate cycle; glutathione metabolism;
+  pyruvate metabolism).
+article_title: 1H NMR Urinary Metabolomic Analysis in Older Adults after Hip Fracture
+  Surgery May Provide Valuable Information for Patient Profiling—A Preliminary Investigation.
+citation: Wafa Douzi, et al. Metabolites. 2022 Aug;12(8):744.
+year: '2022'
+
+doi: 10.3390/metabo12080744
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: MDPI
+
+keywords:
+- hip fracture
+- frailty
+- functioning
+- metabolomics
+- nuclear magnetic resonance spectroscopy
+
+---

@@ -1,0 +1,36 @@
+---
+figid: PMC9326536__ncrna-08-00051-g011
+pmcid: PMC9326536
+image_filename: ncrna-08-00051-g011.jpg
+figure_link: /pmc/articles/PMC9326536/figure/ncrna-08-00051-f011/
+number: Figure 11
+figure_title: ''
+caption: Gene ontology (GO) and KEGG pathway analyses of genes co-expressed with THAP9-AS1
+  in normal vs. tumor samples. The enrichment test was performed for normal vs. tumor
+  samples (for each cancer) using ShinyGO for the top 10 enriched terms, with the
+  significance cutoff for adjusted p-values being set at 0.05. The font sizes in the
+  word cloud are proportional to their frequency after the enrichment rates were merged
+  for all cancers (left side for normal samples and right side for tumor samples).
+  Word clouds of enriched GO terms in (a) the biological process category, (b) cellular
+  component category, (c) molecular functions category, and (d) KEGG pathways.
+article_title: Pan-Cancer Analysis Reveals the Prognostic Potential of the THAP9/THAP9-AS1
+  Sense–Antisense Gene Pair in Human Cancers.
+citation: Richa Rashmi, et al. Noncoding RNA. 2022 Aug;8(4):51.
+year: '2022'
+
+doi: 10.3390/ncrna8040051
+journal_title: Non-Coding RNA
+journal_nlm_ta: Noncoding RNA
+publisher_name: MDPI
+
+keywords:
+- THAP9
+- THAP9-AS1
+- head-to-head genes
+- pan-cancer
+- TCGA
+- survival
+- co-expression
+- guilt-by-association
+
+---

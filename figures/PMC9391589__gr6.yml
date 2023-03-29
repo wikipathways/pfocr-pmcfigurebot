@@ -1,0 +1,32 @@
+---
+figid: PMC9391589__gr6
+pmcid: PMC9391589
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC9391589/figure/fig6/
+number: Figure 6
+figure_title: ''
+caption: Cell-type specific gene expression changes reveal dysregulated pathways in
+  aging ovariesIngenuity Pathway Analysis performed on all cluster DEG lists demonstrated
+  a shared functional aging signature among cell clusters. (corpus luteum-regressing,
+  CL-R; corpus luteum progressing, CL-P). EIF2 signaling, regulation of eIF4 and p70S6K
+  signaling, mTOR signaling, and sirtuin signaling were all significant (FDR ≤0.05)
+  in all clusters. Corpus luteum-R, stroma, and epithelium 1 share several other significant
+  pathways including estrogen receptor signaling, oxidative phosphorylation and mitochondrial
+  dysfunction, remodeling of epithelial adherens junctions, NRF2-mediated oxidative
+  stress response, and BAG2 signaling.
+article_title: Spatially resolved transcriptomic profiling of ovarian aging in mice.
+citation: Jennifer E. Russ, et al. iScience. 2022 Aug 19;25(8):104819.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.104819
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Physiology
+- Cellular physiology
+- Omics
+- Transcriptomics
+
+---

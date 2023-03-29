@@ -1,0 +1,27 @@
+---
+figid: PMC9357074__41419_2022_5134_Fig2_HTML
+pmcid: PMC9357074
+image_filename: 41419_2022_5134_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC9357074/figure/Fig2/
+number: Fig. 2
+figure_title: Functional enrichment and PPI network construction of DEGs
+caption: A, B Bubble plots show the results of GO functional enrichment and KEGG signaling
+  pathway enrichment of DEGs. C The PPI network of the DEGs. Nodes represent proteins,
+  edges represent interactions between proteins, and the intensity of the color indicates
+  the degree of interaction of each protein. Proteins with more interaction were shown
+  in the center of the network.
+article_title: Caveolin-1 identified as a key mediator of acute lung injury using
+  bioinformatics and functional research.
+citation: Lihua Qu, et al. Cell Death Dis. 2022 Aug;13(8):686.
+year: '2022'
+
+doi: 10.1038/s41419-022-05134-8
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cell signalling
+- Respiratory tract diseases
+
+---

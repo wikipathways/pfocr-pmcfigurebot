@@ -1,0 +1,44 @@
+---
+figid: PMC9329997__cancers-14-03600-g001a
+pmcid: PMC9329997
+image_filename: cancers-14-03600-g001a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 1
+caption: PDK1 levels were upregulated by HDAC2 and EZH2, which are associated with
+  glycolysis. (A) The expression levels of PDK1 were analyzed in normal and breast
+  cancer tissues from GEO dataset (GSE22820). (B) The relapse-free survival time was
+  analyzed in groups with high and low expression of PDK1. (C) The protein levels
+  of PDK1 were detected by Western blotting in MCF10A, MCF7, and MDA-MB-231 breast
+  cancer cell lines. (D) The Pearson’s correlation analysis was conducted to test
+  the correlation between levels of PDK1 and HDACs, including HDAC1-7. The data distribution,
+  correlation coefficients between genes, and statistical significance were shown;
+  the most significant correlation is indicated with a red border. (E) The Pearson’s
+  correlation analysis was used to verify the correlation between PDK1 and PRC2, including
+  EZH2, SUZ12, and EED levels. (F) HDAC2 and EZH2 protein levels were detected by
+  Western blotting (G–I). The GSEA program was employed to analyze HALLMARK_GLYCOLYSIS
+  pathway enrichment scores between (G) PDK1 high- and low-expression groups, (H)
+  HDAC2 high- and low-expression groups, and (I) EZH2 high- and low-expression groups
+  in TCGA BRCA dataset. (J) The protein expression levels of PDK1 were measured by
+  Western blotting in the MDA-MB-231 control group (siNC), HDAC2 silencing group (siHDAC2),
+  and EZH2 silencing group (siEZH2). Using the median value as the grouping standard.
+  *** Indicates significant difference at p < 0.001, **** indicates significant difference
+  at p < 0.0001. Original Blots see .
+article_title: HDAC2- and EZH2-Mediated Histone Modifications Induce PDK1 Expression
+  through miR-148a Downregulation in Breast Cancer Progression and Adriamycin Resistance.
+citation: Yunxia Xie, et al. Cancers (Basel). 2022 Aug;14(15):3600.
+year: '2022'
+
+doi: 10.3390/cancers14153600
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- PDK1
+- epigenetic modification
+- miR-148a
+- breast cancer
+- Adriamycin resistance
+
+---

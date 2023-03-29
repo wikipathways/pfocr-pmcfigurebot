@@ -1,0 +1,41 @@
+---
+figid: PMC9405209__antioxidants-11-01606-g003
+pmcid: PMC9405209
+image_filename: antioxidants-11-01606-g003.jpg
+figure_link: /pmc/articles/PMC9405209/figure/antioxidants-11-01606-f003/
+number: Figure 3
+figure_title: ''
+caption: Global proteomics analysis with NEM as an inhibitor for hydrogen sulfide
+  pathway. (A) The second stage of a three-stage framework for integrating triple
+  multi-omics data. (B) The pie chart displays the numbers of upregulated (log2 FC
+  > 0.2), downregulated (log2 FC < −0.2), and unchanged proteins in the total number
+  of proteins (7149) among control mice nerves (non-injured) and ex vivo mice nerves
+  with or without NEM for 1 day in vitro (1DIV). Control, con; NEM, N-ethylmaleimide;
+  NEM/1D, NEM treatment for 1DIV. (C) The fold change (log2) among 7149 proteins in
+  the nerves at 1DIV compared with control (1DIV/Con) is shown on the x-axis. The
+  y-axis shows the change of each protein in the nerves with or without NEM at 1DIV
+  comparison. The red, blue, and gray dots represent decreased proteins at NEM/1D,
+  increased proteins at NEM/1D, and unregulated proteins, respectively. (D) Hierarchical
+  clustering (1–5) of ex vivo sciatic nerves at 1DIV (1DIV) vs. control and NEM/1D
+  vs. 1DIV. (E) Protein expression dynamic clusters based on global protein expression
+  patterns among control, 1DIV, and NEM/1D. Gene ontology (GO) biological processes
+  upregulated (F) and downregulated (G) in response to NEM treatment are shown.
+article_title: 'Investigation of the Hydrogen Sulfide Signaling Pathway in Schwann
+  Cells during Peripheral Nerve Degeneration: Multi-Omics Approaches.'
+citation: Yoo Lim Chun, et al. Antioxidants (Basel). 2022 Aug;11(8):1606.
+year: '2022'
+
+doi: 10.3390/antiox11081606
+journal_title: Antioxidants
+journal_nlm_ta: Antioxidants (Basel)
+publisher_name: MDPI
+
+keywords:
+- Schwann cells
+- hydrogen sulfide
+- peripheral nerve degeneration
+- multi-omics
+- N-ethylmaleimide (NEM)
+- oxidative stress
+
+---

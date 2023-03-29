@@ -1,0 +1,32 @@
+---
+figid: PMC9385030__ppat.1010775.g005
+pmcid: PMC9385030
+image_filename: ppat.1010775.g005.jpg
+figure_link: /pmc/articles/PMC9385030/figure/ppat.1010775.g005/
+number: Fig 5
+figure_title: KSHV latent-2 cells are a unique viral population with a distinct gene
+  expression profile
+caption: (A) Heatmap of viral gene expression in KSHV cells (3 and 6 dpi combined).
+  Latent cells are GFP+. Latent-2 cells are GFP+/PAN- with gene expression from the
+  K2 to K5 area of the genome. Lytic cells are GFP+/PAN+ cells. (B) Heatmap showing
+  all significantly expressed genes in latent, latent-2, and lytic cells. Expression
+  is shown as log2 fold change comparing latent, latent-2, and lytic cells to the
+  bystander cells. (C) Heatmap showing pathway activation z-scores of the KSHV cell
+  populations compared to mock cells. (D-F) Violin plots showing gene expression of
+  genes involved in the wound healing, ephrin receptor signaling, or NRF2 response
+  to oxidative stress. Statistical comparisons are compared to the latent-2 population.
+  * indicates p-value ≤ 0.05, ** indicates p-value ≤ 0.01, *** indicates p-value ≤
+  0.001. Boxplots in gray within the violin show the first quartile, median, and third
+  quartile.
+article_title: Single-cell analysis of Kaposi’s sarcoma-associated herpesvirus infection
+  in three-dimensional air-liquid interface culture model.
+citation: Kyle L. Jung, et al. PLoS Pathog. 2022 Aug;18(8):e1010775.
+year: '2022'
+
+doi: 10.1371/journal.ppat.1010775
+journal_title: PLoS Pathogens
+journal_nlm_ta: PLoS Pathog
+publisher_name: Public Library of Science
+
+keywords:
+---

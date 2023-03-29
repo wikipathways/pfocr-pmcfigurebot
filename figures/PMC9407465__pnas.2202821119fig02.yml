@@ -1,0 +1,48 @@
+---
+figid: PMC9407465__pnas.2202821119fig02
+pmcid: PMC9407465
+image_filename: pnas.2202821119fig02.jpg
+figure_link: /pmc/articles/PMC9407465/figure/fig02/
+number: Fig. 2
+figure_title: ''
+caption: OGT-deficient GNPs exhibit disrupted Shh signaling pathway activation in vivo.
+  (A) Schematic diagram of the experimental procedure for RNA-seq. The cerebellum
+  from Ai9Atoh1 reporter Ctrl (Ctrl; Ai9) mice and OGTAtoh1; Ai9Atoh1 reporter cKO
+  (OGTAtoh1 cKO; Ai9) mice at P7 were digested for FACS sorting of Ai9+ GNPs for RNA-seq
+  analysis. (B) Gene ontology terms of differentially expressed genes in cKO compared
+  with Ctrl mice, showing enriched signaling pathways in cKO mice. Color indicates
+  the adjusted P value. The number of genes in each pathway are indicated by circle
+  size. (C) Heatmap of the expression for Ptch1, Ptch2, Gli1, Gli2, Gli3, Smo, and
+  Sufu genes in Shh signaling pathway. The mean expression levels in the heatmap were
+  standardized by taking the z-score within each row (n = 3). The top bar indicates
+  the genotypes of the samples. (D and E) Representative immunoblot showing the levels
+  of proteins in the Shh signaling pathway (Ptch1, Ptch2, Gli1, Gli2, Gli3, Smo, Sufu)
+  and OGT levels from Ctrl and OGThGFAP cKO mice, normalized to β-actin (D), and quantification
+  (E) (n = 3). Unpaired t test. (F) X-gal staining of Gli signaling reporter in the
+  sagittal section through the cerebellar vermis of Gli-LacZ Ctrl and OGThGFAP cKO
+  mice at P3. (Scale bars, 500 μm and 50 μm.) a, anterior; d, dorsal; p, posterior;
+  v, ventral. (G) Quantification of the relative X-gal signaling density in the EGL
+  in Ctrl and OGThGFAP cKO mice at P3 (n = 3). Unpaired t test. (H) Schematic diagram
+  showing altered Shh signaling pathway in OGT knockout GNPs. Down-regulated signaling
+  molecules (with log2 fold-change < −0.5 and FDR < 0.05) are indicated in blue in
+  the diagram. All data represent mean ± SEM **P < 0.01, ***P < 0.001; n.s., no significance.
+  See also SI Appendix, Figs. S5 and S6.
+article_title: O-GlcNAcylation promotes cerebellum development and medulloblastoma
+  oncogenesis via SHH signaling.
+citation: Liping Chen, et al. Proc Natl Acad Sci U S A. 2022 Aug 23;119(34):e2202821119.
+year: '2022'
+
+doi: 10.1073/pnas.2202821119
+journal_title: Proceedings of the National Academy of Sciences of the United States
+  of America
+journal_nlm_ta: Proc Natl Acad Sci U S A
+publisher_name: National Academy of Sciences
+
+keywords:
+- O-GlcNAcylation
+- Gli2
+- GNPs
+- neurogenesis
+- cerebellum
+
+---

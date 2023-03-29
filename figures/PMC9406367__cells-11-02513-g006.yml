@@ -1,0 +1,35 @@
+---
+figid: PMC9406367__cells-11-02513-g006
+pmcid: PMC9406367
+image_filename: cells-11-02513-g006.jpg
+figure_link: /pmc/articles/PMC9406367/figure/cells-11-02513-f006/
+number: Figure 6
+figure_title: ''
+caption: GO, KEGG pathway, and PPI analysis results of differentially expressed N-glycoproteins
+  in KBD vs. N. (A) GO analysis of the differentially expressed N-glycoproteins of
+  cartilage in KBD vs. N. (B) Bubble diagram of KEGG pathways in KBD vs. N. The blue
+  to red gradient of bubbles of KEGG pathways represents the significance from low
+  to high, respectively. Bubble size represents the number of differentially expressed
+  N-glycoproteins in the KEGG pathway. (C) PPI network between KBD and N. Rectangles
+  represent KEGG pathways, and circles represent N-glycoproteins. Solid lines mean
+  the relationship has been verified by research, dashed lines mean the relationship
+  has not been verified. The yellow and blue colors of the N-glycoproteins represent
+  up-regulated and down-regulated, respectively.
+article_title: Identification of N-Glycoproteins of Knee Cartilage from Adult Osteoarthritis
+  and Kashin-Beck Disease Based on Quantitative Glycoproteomics, Compared with Normal
+  Control Cartilage.
+citation: Jing Han, et al. Cells. 2022 Aug;11(16):2513.
+year: '2022'
+
+doi: 10.3390/cells11162513
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- glycoproteins
+- osteoarthritis
+- Kashin–Beck disease
+- cartilage
+
+---

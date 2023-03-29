@@ -1,0 +1,56 @@
+---
+figid: PMC9396662__sb2c00147_0008
+pmcid: PMC9396662
+image_filename: sb2c00147_0008.jpg
+figure_link: /pmc/articles/PMC9396662/figure/fig7/
+number: Figure 7
+figure_title: ''
+caption: 'Combining transgene cassettes to achieve predicted fluorescence levels within
+  a three-gene pathway. (A) High (PCsVMV-5CsVMV:FP:3nos, H), medium (P35S:5TMVΩ:FP:3gctt3CPMVnos,
+  M), and low (Pnos:5CMV1:FP:3gctt3CPMVnos, L) regulatory element cassettes (Table
+  S2) were designed to control the expression of either GFP, BFP, or RFP reporters
+  in all possible combinations. Combination 1 (Combo-1): H RFP, M GFP, and L BFP;
+  combination 2 (Combo-2): H BFP, M GFP, and L RFP; combination 3 (Combo-3): H GFP,
+  M BFP, and L RFP; combination 4 (Combo-4): H RFP, M BFP, and L GFP; combination
+  5 (Combo-5): H BFP, M RFP, and L GFP; combination 6 (Combo-6): H GFP, M RFP, and
+  L BFP. (B, C) Graphs represent scanning fluorometry and flow cytometry data obtained
+  using intact leaf tissue and protoplasts isolated from the same tissue. Scanning
+  fluorometry (excitation 475, 550, and 400 nm, emission 509, 574, and 455 nm) data
+  is expressed as log10 of CPS (counts per second) values, while flow cytometry (excitation
+  488, 561, and 405, emission 510/10, 585/16, and 440/50 bandpass filters) data is
+  expressed as log10 of MEFL (molecules of equivalent fluorescein) values for GFP,
+  RFP, and BFP respectively. Negative (plants transformed with untransformed Agrobacterium
+  tumefaciens) and positive (plants transformed with the P2x35S:5TMVΩ:GFP:335S construct)
+  controls are indicated with blue and red lines across the graphs, respectively.
+  Data is represented as the mean ± standard deviation (SD) of at least three transformed
+  plants per construct. The fluorescence levels of combinations 1–6 are compared with
+  predicted single cassette fluorescence levels (light green, blue, and red). (D)
+  Confocal images showing the same epidermal N. benthamiana leaf cells transformed
+  with the indicated construct combinations, (Combo-1–6); reference combination 7
+  (Combo-7): H GFP, H RFP, and H BFP; negative control 1 (NC1): H GFP only; negative
+  control 2 (NC2): H BFP only; negative control 3 (NC3): H RFP only; and negative
+  control 4 (NC4): leaves transformed with wild-type A. tumefaciens. Chlorophyll (Chl),
+  bright-field (BF), and merged images are indicated. Scale bars = 50 μm.'
+article_title: Building the Plant SynBio Toolbox through Combinatorial Analysis of
+  DNA Regulatory Elements.
+citation: Alexander C. Pfotenhauer, et al. ACS Synth Biol. 2022 Aug 19;11(8):2741-2755.
+year: '2022'
+
+doi: 10.1021/acssynbio.2c00147
+journal_title: ACS Synthetic Biology
+journal_nlm_ta: ACS Synth Biol
+publisher_name: American Chemical Society
+
+keywords:
+- synthetic biology
+- transgene expression
+- |-
+  genetic
+  regulatory elements
+- flow cytometry
+- |-
+  single-cell
+  analysis
+- fluorometry
+
+---

@@ -1,0 +1,42 @@
+---
+figid: PMC9481917__gr4
+pmcid: PMC9481917
+image_filename: gr4.jpg
+figure_link: /pmc/articles/PMC9481917/figure/fig4/
+number: Figure 4
+figure_title: ''
+caption: Transcriptome sequencing and genome occupancy analysis in E12.5 WT and Eed
+  cKO forebrain(A) Volcano plot shows 420 down-regulated genes (green) and 254 up-regulated
+  genes (orange) in E12.5 Eed cKO forebrains. WT, n = 2; Eed cKO, n = 3.(B, C) Bar
+  charts depicting the top GO terms (p-adjust < 0.05) of down-regulated genes and
+  up-regulated genes in E12.5 Eed cKO forebrains.(D) The KEGG pathway analysis of
+  differential expression genes in E12.5 Eed cKO forebrains.(E) Heatmaps show dysregulated
+  genes were enriched in the cAMP signaling, Hippo signaling, and Hedgehog signaling
+  pathways.(F) Pie chart illustrating the distribution of EED binding sites in the
+  genome at E12.5.(G) Sequence logos corresponding to top enriched motifs within EED-binding
+  sites identified by de novo motif analysis.(H) Statistical integration analysis
+  of dysregulated genes in E12.5 Eed cKO forebrains predicted a dual function of EED
+  as an al repressor (blue line) and an activator (red line), using a reference set
+  of non-differentially expressed genes (dashed black line) for normalization. The
+  p values for each function were indicated in the chart.(I) Top predicted al targets
+  of EED in E12.5 forebrains.(J) Bar plots showing the top GO terms (p-adjust < 0.05)
+  of top 200 up-regulated and 200 down-regulated targets of EED.
+article_title: The epigenetic state of EED-Gli3-Gli1 regulatory axis controls embryonic
+  cortical neurogenesis.
+citation: Shuang-Feng Zhang, et al. Stem Cell Reports. 2022 Sep 13;17(9):2064-2080.
+year: '2022'
+
+doi: 10.1016/j.stemcr.2022.07.004
+journal_title: Stem Cell Reports
+journal_nlm_ta: Stem Cell Reports
+publisher_name: Elsevier
+
+keywords:
+- PRC2
+- EED
+- cortical development
+- neurogenesis
+- hedgehog signaling
+- EED-Gli3-Gli1 regulatory axis
+
+---

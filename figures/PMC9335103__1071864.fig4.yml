@@ -1,0 +1,29 @@
+---
+figid: PMC9335103__1071864.fig4
+pmcid: PMC9335103
+image_filename: 1071864.fig4.jpg
+figure_link: /pmc/articles/PMC9335103/figure/fig004/
+number: Figure 4
+figure_title: ''
+caption: Integrated network analysis of differentially expressed genes in the three
+  disease groups. (A) STRING-based network (149 nodes; 209 edges) for differentially
+  expressed genes between PTCL-EBV and ENKTL. NFKB1 and TLR8 are network hubs based
+  on betweenness centrality calculations. (B) STRING-based network (45 nodes; 52 edges)
+  for differentially expressed genes between PTCL-EBV and PTCL-NOS. BIRC3 and TLR8
+  are network hubs based on betweenness centrality calculations. Nodes are sized based
+  on their degree (i.e., number of incoming edges). Genes that fall within the most
+  enriched gene ontology process for each network — which are (A) “Regulation of Immune
+  System Process” and (B) “immune response” — are indicated in yellow. All other genes
+  are colored light purple.
+article_title: Immune pathway upregulation and lower genomic instability distinguish
+  EBV-positive nodal T/NK-cell lymphoma from ENKTL and PTCL-NOS.
+citation: Cho Mar Myint Wai, et al. Haematologica. 2022 Aug 1;107(8):1864-1879.
+year: '2022'
+
+doi: 10.3324/haematol.2021.280003
+journal_title: Haematologica
+journal_nlm_ta: Haematologica
+publisher_name: Fondazione Ferrata Storti
+
+keywords:
+---

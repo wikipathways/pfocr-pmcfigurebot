@@ -1,0 +1,38 @@
+---
+figid: PMC9401975__gr2_lrg
+pmcid: PMC9401975
+image_filename: gr2_lrg.jpg
+figure_link: /pmc/articles/PMC9401975/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: Differentially expressed genes in bronchoalveolar lavage fluid samples from
+  patients with IAPA, influenza only, CAPA, or COVID-19 onlyVolcano plots showing
+  differentially expressed genes for the comparisons of IAPA versus influenza only
+  (A), CAPA versus COVID-19 only (B), IAPA versus CAPA (C), and influenza only versus
+  COVID-19 only (D). A dotted blue line marks a log2(fold change) value of zero. A
+  dotted red line crossing the y-axis marks a Benjamini–Hochberg q value of 0·05.
+  The two dotted red lines crossing the x-axis marks a log2(fold change) of 0·4 and
+  –0·4, respectively. We selected genes to present if they were linked to interesting
+  pathways related to antiviral and antifungal immunity. (E) Venn diagram showing
+  the downregulated differentially expressed genes shared in the comparisons of IAPA
+  versus influenza only and CAPA versus COVID-19 only. (F) Dot plot showing ClueGO
+  hypergeometric enrichment pathway analysis based on the downregulated differentially
+  expressed genes of the four disease comparisons, with Gene Ontology biological process
+  as the pathway database. *For the comparison of IAPA versus CAPA, differentially
+  expressed genes with q values (Benjamini–Hochberg) of less than 0·20 were included
+  to generate the analyses. Differentially expressed genes with q values (Benjamini–Hochberg)
+  of less than 0·05 were used for all other comparisons. CAPA=COVID-19-associated
+  pulmonary aspergillosis. IAPA=influenza-associated pulmonary aspergillosis. NIK=NF-κB-inducing
+  kinase.
+article_title: 'Lung epithelial and myeloid innate immunity in influenza-associated
+  or COVID-19-associated pulmonary aspergillosis: an observational study.'
+citation: 'Simon Feys, et al. Lancet Respir Med. 2022 Aug 24 '
+year: '2022'
+
+doi: 10.1016/S2213-2600(22)00259-4
+journal_title: The Lancet. Respiratory Medicine
+journal_nlm_ta: Lancet Respir Med
+publisher_name: Elsevier Ltd.
+
+keywords:
+---

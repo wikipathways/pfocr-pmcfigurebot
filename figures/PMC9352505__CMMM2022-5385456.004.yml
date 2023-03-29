@@ -1,0 +1,27 @@
+---
+figid: PMC9352505__CMMM2022-5385456.004
+pmcid: PMC9352505
+image_filename: CMMM2022-5385456.004.jpg
+figure_link: /pmc/articles/PMC9352505/figure/fig4/
+number: Figure 4
+figure_title: ''
+caption: 'Construction of a seven-gene risk score. (a) Volcano plot showed the DEGs
+  between normal and tumor samples in TCGA. (b) Venn plot showed the overlapping genes
+  between DEGs and NF-κB-related genes. (c) The parameters of LASSO algorithm. (d–f).
+  Survival analysis of the risk score in (d) discovery cohort and (e, f) validation
+  cohort. (g–i). Risk score, survival status, survival time in (g) TCGA, (h) GSE84437,
+  and (i) GSE62254 dataset. (j–l). The expression of the seven hub genes in (j) TCGA,
+  (k) GSE84437, and (l) GSE62254 dataset. DEGs: differentially expressed genes; TCGA:
+  The Cancer Genome Atlas; LASSO: least absolute shrinkage and selection operator.'
+article_title: Bioinformatics Analysis Revealing the Correlation between NF-κB Signaling
+  Pathway and Immune Infiltration in Gastric Cancer.
+citation: Qiuxiang Chen, et al. Comput Math Methods Med. 2022;2022:5385456.
+year: '2022'
+
+doi: 10.1155/2022/5385456
+journal_title: Computational and Mathematical Methods in Medicine
+journal_nlm_ta: Comput Math Methods Med
+publisher_name: Hindawi
+
+keywords:
+---

@@ -1,0 +1,52 @@
+---
+figid: PMC9442423__gr1
+pmcid: PMC9442423
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC9442423/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: Site-directed mutagenesis and location of the mutation sites. Mutations in
+  (A) mOR256-8 pocket and ECL2 and (B) mOR256-3 ECL2 affected the response to various
+  odorants. Data are mean ± SEM of three independent experiments. C, homology model
+  of mOR256-3 selected according to the data in A and B. D, consensus ECL2 sequence
+  of human and mouse ORs and location of the mutation sites. Effective mutations are
+  colored in pink (in the pocket) or red (in ECL2). Noneffective mutations are colored
+  in blue, including V993.27A, V1103.38T, L1985.38E, S2546.50T, R172ECL2N, I174ECL2L,
+  L178ECL2F, I185ECL2L, M187ECL2L, V190ECL2T, A192ECL2T, and V195ECL2N in mOR256-8.
+  In the 3D models, consistently, the noneffective mutation sites (blue) do not constitute
+  the ligand-binding site or the pathway to the binding site. ECL2, extracellular
+  loop 2.
+article_title: Extracellular loop 2 of G protein–coupled olfactory receptors is critical
+  for odorant recognition.
+citation: Yiqun Yu, et al. J Biol Chem. 2022 Sep;298(9):102331.
+year: '2022'
+
+doi: 10.1016/j.jbc.2022.102331
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- olfactory receptor
+- molecular modeling
+- virtual screening
+- site-directed mutagenesis
+- ch-5HT2CRECL2, chimeric mOR256-3 with ECL2 from the 5HT serotonin 2C receptor
+- ch-β2ARECL2, chimeric mOR256-3 with ECL2 from the β2 adrenergic receptor
+- ch-M2RECL2, chimeric mOR256-3 with ECL2 from the M2 muscarinic receptor
+- ECL, extracellular loop
+- FBS, fetal bovine serum
+- GPCR, G protein–coupled receptor
+- ICL, intracellular loop
+- MD, molecular dynamics
+- mOR, mouse olfactory receptor
+- OR, olfactory receptor
+- PDB, Protein Data Bank
+- PE, phycoerythrin
+- REST2, replica exchange with solute scaling 2
+- RTP, receptor-transporting protein
+- SV40, simian virus 40
+- TM, transmembrane helix
+- wt, wild-type
+
+---

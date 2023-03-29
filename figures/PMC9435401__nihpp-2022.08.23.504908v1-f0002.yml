@@ -1,0 +1,36 @@
+---
+figid: PMC9435401__nihpp-2022.08.23.504908v1-f0002
+pmcid: PMC9435401
+image_filename: nihpp-2022.08.23.504908v1-f0002.jpg
+figure_link: /pmc/articles/PMC9435401/figure/F2/
+number: Figure 2
+figure_title: ''
+caption: (a) Interferon alpha/beta signaling pathway genes that are significantly
+  down- or up-regulated regulated in symptomatic SARS-COV-2 adults with high viral
+  load compared to the low viral load group. On the x-axis is displayed the q-value
+  for the up- or down-regulated genes with q-values < 0.05. On the y-axis is displayed
+  the log2 fold change for those genes. The size of the dots represents “base mean”
+  which is the mean of normalized counts of all samples. b) Similar to (a), a plot
+  showing the genes involved in Immunoregulatory interactions between a Lymphoid and
+  a non-Lymphoid cell that are up-regulated in the high viral load group.
+article_title: Mucosal gene expression in response to SARS-CoV-2 is associated with
+  early viral load.
+citation: Seesandra V. Rajagopala, et al. bioRxiv. 2022 Aug 23:2022.08.23.504908.
+year: '2022'
+
+doi: 10.1101/2022.08.23.504908
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+- Metatranscriptomic
+- RNAseq
+- mucosal immune response
+- gene expression
+- nasal swab
+- coronavirus
+- COVID-19
+- SARS-CoV-2
+
+---

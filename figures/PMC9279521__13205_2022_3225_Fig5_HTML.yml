@@ -1,0 +1,29 @@
+---
+figid: PMC9279521__13205_2022_3225_Fig5_HTML
+pmcid: PMC9279521
+image_filename: 13205_2022_3225_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC9279521/figure/Fig5/
+number: Fig. 5
+figure_title: ''
+caption: Functional enrichment analysis of the top 10 hub genes targeted by three
+  miRNA clusters. a GO-BP (biological processes) enrichment, b GO-MF (Molecular functions)
+  enrichment, c GO-CC (Cellular Component) enrichment, and d signaling pathway analysis
+  was shown. The visual representation of functional enrichment analysis generated
+  through GOPlot, a package of R
+article_title: Diagnostic and prognostic potential clustered miRNAs in bladder cancer.
+citation: Akshay Pramod Ware, et al. 3 Biotech. 2022 Aug;12(8):173.
+year: '2022'
+
+doi: 10.1007/s13205-022-03225-z
+journal_title: 3 Biotech
+journal_nlm_ta: 3 Biotech
+publisher_name: Springer International Publishing
+
+keywords:
+- Cancer informatics
+- CNV driven miRNAs
+- Cancer prognosis marker
+- Big data analysis
+- Automated pipeline
+
+---

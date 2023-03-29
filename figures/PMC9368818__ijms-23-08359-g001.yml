@@ -1,0 +1,37 @@
+---
+figid: PMC9368818__ijms-23-08359-g001
+pmcid: PMC9368818
+image_filename: ijms-23-08359-g001.jpg
+figure_link: /pmc/articles/PMC9368818/figure/ijms-23-08359-f001/
+number: Figure 1
+figure_title: ''
+caption: Gene expression profiles of the retina samples. (A–D) Volcano plot showing
+  the differentially expressed genes in the PBS- and GCSF-treated groups. (A) The
+  PBS-treated group (day 3 post rAION) vs. the sham-operated group. (B) The PBS-treated
+  group (day 7 post rAION) vs. the sham-operated group. (C) The GCSF-treated group
+  (day 3 post rAION) vs. the sham-operated group. (D) The GCSF-treated group (day
+  7 post rAION) vs. the sham-operated group. For each plot, the X-axis represents
+  log2 FC, and the Y-axis represents −log10 (p-values). The differentially expressed
+  genes are shown as red dots. (E) The heatmap of the hierarchical clustering of the
+  differentially expressed genes. Up- and downregulated genes are represented in red
+  and green colors, respectively. The differentially expressed genes were defined
+  as having absolute FC > 1.5 and FDR < 0.1.
+article_title: Transcriptomic Analysis Reveals That Granulocyte Colony-Stimulating
+  Factor Trigger a Novel Signaling Pathway (TAF9-P53-TRIAP1-CASP3) to Protect Retinal
+  Ganglion Cells after Ischemic Optic Neuropathy.
+citation: Rong-Kung Tsai, et al. Int J Mol Sci. 2022 Aug;23(15):8359.
+year: '2022'
+
+doi: 10.3390/ijms23158359
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- rat anterior ischemic optic neuropathy model
+- retinal ganglion cell death
+- TBP associated factor 9
+- TP53 regulated inhibitor of apoptosis 1
+- transcriptome
+
+---

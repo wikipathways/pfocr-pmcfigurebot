@@ -1,0 +1,41 @@
+---
+figid: PMC9391950__JEM_20220126_Fig5
+pmcid: PMC9391950
+image_filename: JEM_20220126_Fig5.jpg
+figure_link: /pmc/articles/PMC9391950/figure/fig5/
+number: Figure 5
+figure_title: ''
+caption: 'Significantly activated ERBB2 (HER2) signaling pathway in invasive fibroblasts.
+  (A and B) Dot plot visualization of the −Log10(FDR) (A) and bar plot visualization
+  of the activation Z-score (B) of the top 30 activated and inhibited upstream regulators
+  of invasive fibroblasts by IPA analysis. ERBB2 was the most activated regulators
+  of invasive fibroblasts. ERBB2 was highlighted as the most activated regulator.
+  (C) IPA analysis revealed the upstream regulators of metastatic lung adenocarcinoma
+  cancer cells compared to primary cancer cells retrieved from GSE131907. Most of
+  the top activated/inhibited (listed in red/green texts, respectively) upstream regulators
+  of invasive fibroblasts were these of metastatic cancer cells. (D) Pearson correlation
+  analysis of activation z-score of shared upstream regulators (n = 129) of invasive
+  fibroblasts versus metastatic lung adenocarcinoma cancer cell. Linear regression
+  analysis was performed and visualized in red line. (E) p-HER2, total HER2, and SEMA7A
+  protein levels in sorted SEMA7A high and negative fibroblasts in nine IPF fibroblast
+  lines were determined by Western blot. GAPDH served as loading control. (F) Quantification
+  of the Western blot was used to determine the relative protein levels of p-HER2,
+  total HER2, and SEMA7A in E (n = 9 per group). (G and H) p-HER2 and total HER2 in
+  sorted fibroblasts from three normal and four IPF lung were determined by Western
+  blot and quantification was performed (H; n = 4). Neg, megative; P, proximal lung
+  regions; D, distal lung regions. Two independent experiments were performed on fibroblasts
+  from different patients (F and H). Data are the mean ± SEM. *, P < 0.05; **, P <
+  0.01; ****, P < 0.0001 by Student’s t test (F and H). Source data are available
+  for this figure: .'
+article_title: HER2 drives lung fibrosis by activating a metastatic cancer signature
+  in invasive lung fibroblasts.
+citation: Xue Liu, et al. J Exp Med. 2022 Oct 3;219(10):e20220126.
+year: '2022'
+
+doi: 10.1084/jem.20220126
+journal_title: The Journal of Experimental Medicine
+journal_nlm_ta: J Exp Med
+publisher_name: Rockefeller University Press
+
+keywords:
+---

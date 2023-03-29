@@ -1,0 +1,34 @@
+---
+figid: PMC9409189__insects-13-00719-g004a
+pmcid: PMC9409189
+image_filename: insects-13-00719-g004a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 4
+caption: 'Functional and pathway annotation comparison of the genes assigned to the
+  KEGG database. (A) Function annotation at KEGG level 1. (B) Function annotation
+  at KEGG level 2. (C) Gene abundance comparison in the fructose and mannose metabolism
+  pathway. (D) Gene abundance comparison in the starch and sucrose metabolism pathway.
+  Notes for C and D: The genes belonging to the three samples with significant differences
+  in the metabolic pathway map are marked by a color, in which Mec, Oce, and Gry are
+  from left to right. The red to green color represents the high to low gene abundance.
+  (https://www.omicstudio.cn/tool, accessed on 22 May 2022).'
+article_title: The Role of Feeding Characteristics in Shaping Gut Microbiota Composition
+  and Function of Ensifera (Orthoptera).
+citation: Xiang Zheng, et al. Insects. 2022 Aug;13(8):719.
+year: '2022'
+
+doi: 10.3390/insects13080719
+journal_title: Insects
+journal_nlm_ta: Insects
+publisher_name: MDPI
+
+keywords:
+- metagenomic
+- gut microbiota
+- feeding habits
+- KEGG
+- CAZymes
+- Ensifera
+
+---

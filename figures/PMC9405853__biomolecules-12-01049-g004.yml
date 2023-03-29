@@ -1,0 +1,31 @@
+---
+figid: PMC9405853__biomolecules-12-01049-g004
+pmcid: PMC9405853
+image_filename: biomolecules-12-01049-g004.jpg
+figure_link: /pmc/articles/PMC9405853/figure/biomolecules-12-01049-f004/
+number: Figure 4
+figure_title: ''
+caption: Selenophosphate synthetase 1 gene module. (a) 2D map of the genome-wide co-essentiality
+  network showing the cluster in red. The expanded view shows the tight clustering
+  of the 15 proteins (shown in red) in the cluster. (b) Pathway enrichment analysis
+  for the proteins in the cluster, which are listed on the right. (c) Correlation
+  heatmap of cell viability scores between the 15 proteins in the cluster. The values
+  correspond to Pearson’s correlation across 941 cancer cell lines from the Cancer
+  Dependency Map [].
+article_title: Selenocysteine Machinery Primarily Supports TXNRD1 and GPX4 Functions
+  and Together They Are Functionally Linked with SCD and PRDX6.
+citation: Didac Santesmasses, et al. Biomolecules. 2022 Aug;12(8):1049.
+year: '2022'
+
+doi: 10.3390/biom12081049
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: MDPI
+
+keywords:
+- selenocysteine
+- selenium
+- selenoprotein
+- co-essentiality network
+
+---

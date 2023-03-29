@@ -1,0 +1,41 @@
+---
+figid: PMC9342607__PBI-20-1578-g003
+pmcid: PMC9342607
+image_filename: PBI-20-1578-g003.jpg
+figure_link: /pmc/articles/PMC9342607/figure/pbi13834-fig-0001/
+number: Figure 1
+figure_title: ''
+caption: 'Schematic representation of the flavonoid biosynthetic pathway in plants.
+  The different metabolites are represented in boxes. The genes that integrate the
+  pathway are: ANS (anthocyanidin synthase), CHS (Chalcone synthase), CHI (Chalcone
+  isomerase), CCoAOMT (Caffeoyl‐CoA O‐methyltransferase), C3H (4‐coumarate 3‐hydroxylase),
+  C3’H (4‐coumaroyl shikimate/quinate 3’‐hydroxylase), C4H (Cinnamate 4‐hydroxylase),
+  4CL (4‐coumaroyl CoA ligase), DFR (Dihydroflavonol 4‐reductase), F3H (Flavanone
+  3‐hydroxylase), F3’H (flavonoid 3’‐hydroxylase), F3’‐5H (Flavonoid 3’ 5‐hydroxylase),
+  F3’‐5’H (Flavonoid 3’ 5’‐hydroxylase), FLS (Flavonol synthase), HCT (4‐hydroxycinnamoyl
+  CoA: shikimate/quinate hydroxycinnamoyltransferase), PAL (Phenylalanine ammonia‐lyase).
+  The genes marked in red are those selected for transcriptional activation with dCasEV2.1
+  in this work. The metabolites targeted for accumulation are shown in bold. A representation
+  of each candidate gene promoter with the targeted gRNA positions is also shown.
+  gRNAs assayed in the first round of optimization are shown in red, and those assayed
+  in the second round are shown in blue. Red/blue striped boxes represent activation
+  sites that were included in activation programmes assayed in both optimization rounds.
+  The asterisks represent the gRNA position recalculated with updated information
+  on the TSS available in databases (https://www.nbenth.com/).'
+article_title: Custom‐made design of metabolite composition in N. benthamiana leaves
+  using CRISPR activators.
+citation: Sara Selma, et al. Plant Biotechnol J. 2022 Aug;20(8):1578-1590.
+year: '2022'
+
+doi: 10.1111/pbi.13834
+journal_title: Plant Biotechnology Journal
+journal_nlm_ta: Plant Biotechnol J
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- CRISPRa
+- metabolic engineering
+- Nicotiana benthamiana
+- flavonoid pathway
+
+---

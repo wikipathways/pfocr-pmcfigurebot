@@ -1,0 +1,49 @@
+---
+figid: PMC9332011__biomolecules-12-01018-g001
+pmcid: PMC9332011
+image_filename: biomolecules-12-01018-g001.jpg
+figure_link: /pmc/articles/PMC9332011/figure/biomolecules-12-01018-f001/
+number: Figure 1
+figure_title: ''
+caption: Regulation of the Hsp90 chaperone cycle by co-chaperones. Progression of
+  client proteins through the Hsp90-mediated chaperone folding pathway is regulated
+  by co-chaperones, which act at defined stages in the cycle. Co-chaperones may regulate
+  Hsp90 association with clients, ATPase activity, conformational changes, and post-translational
+  modifications. When inactive, Hsp90 is constitutively dimerized at the C-terminus
+  but not the N-terminus. Entry of client proteins is facilitated by co-chaperones
+  including the Hsp70/Hsp90 organizing protein Hop, which regulates transfer of clients
+  from Hsp70 by binding simultaneously to Hsp70 and Hsp90, to form the intermediate
+  complexes. Hop is conserved in Plasmodium falciparum (PfHop, PF3D7_1434300). Kinase
+  clients require the kinase-specific co-chaperone Cdc37; however, a Cdc37-encoding
+  gene has not been identified in the P. falciparum genome. On ATP binding, Hsp90
+  undergoes N-terminal dimerization, and the client protein associates with the middle
+  domain of Hsp90. Bindings of other co-chaperones, including peptidyl-prolyl cis–trans
+  isomerases (PPIase) and protein phosphatase 5 (PP5), associate to form the asymmetric
+  Hsp90 complexes. The P. falciparum genome encodes a PP5 isoform (PfPP5, PF3D7_1355500)
+  and multiple PPIase isoforms (PfFKBP35, PF3D7_1247400; PfCns1, PF3D7_1108900; and
+  PfCyp40, PF3D7_1111800). These co-chaperones regulate the post-translational modification
+  and maturation of Hsp90 complexes. Early co-chaperones subsequently dissociate from
+  the complex to be replaced by p23, which stabilizes the late closed Hsp90 complex
+  and the client within the complex, and inhibits ATPase activity. Two homologs of
+  p23 are encoded in the P. falciparum genome (Pfp23A, PF3D7_1453700; and Pf23B, PF3D7_0927000).
+  ATP hydrolysis is stimulated by binding of Aha1, resulting in release of the client
+  protein and a return of Hsp90 to the inactive conformation. The P. falciparum genome
+  encodes a single Aha1 isoform (PfAha1, PF3D7_0306200). Image created with BioRender.com.
+article_title: Hsp90 and Associated Co-Chaperones of the Malaria Parasite.
+citation: Tanima Dutta, et al. Biomolecules. 2022 Aug;12(8):1018.
+year: '2022'
+
+doi: 10.3390/biom12081018
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: MDPI
+
+keywords:
+- Plasmodium falciparum
+- heat shock proteins
+- cytosolic Hsp90
+- ATPase
+- co-chaperones
+- client proteins
+
+---

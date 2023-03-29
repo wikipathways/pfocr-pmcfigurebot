@@ -1,0 +1,45 @@
+---
+figid: PMC9402397__nihms-1829334-f0005
+pmcid: PMC9402397
+image_filename: nihms-1829334-f0005.jpg
+figure_link: /pmc/articles/PMC9402397/figure/F5/
+number: Figure 5
+figure_title: Tumor BIRC2 expression inhibits T cell recognition of tumor through
+  negative regulation of IRF1-mediated upregulation of antigen presentation pathway
+  genes
+caption: (A) A375 melanoma cells were treated with IFN-γ (100 ng/mL) or TNF-α (100
+  ng/mL) for 8 h, and western blot analysis was performed.(B) ESO T cells were co-cultured
+  with A375 melanoma cells in the presence or absence of 5 μM LCL161 for 5 h along
+  with brefeldin A and monensin, and T cell intracellular production of IFN-γ was
+  measured by flow cytometry.(C) A375 melanoma cells transduced with Cas9 and non-targeting
+  (NT) or BIRC2-targeting sgRNAs were co-cultured with ESO T cells for 5 h in the
+  presence of brefeldin A and monensin, and T cell intracellular production of IFN-γ
+  was measured by flow cytometry.(D) Volcano plot representing differentially expressed
+  genes in A375 cells transduced with Cas9 and BIRC2 targeting sgRNA versus NT sgRNA.
+  Expression of genes was analyzed by RNA-seq and abundance represented as relative
+  fold change (x axis) versus significance (y axis).(E) Ingenuity Pathway Analysis
+  of genes significantly upregulated in BIRC2-targeting sgRNA transduced A375 cells.(F)
+  Ingenuity transcription factor (TF) analysis of genes significantly upregulated
+  in BIRC2-targeting sgRNA-transduced A375 cells. TF activation Z scores are depicted
+  on the x axis and the fold change in mRNA for each TF is shown on the y axis.(G)
+  A375 cells were transduced with Cas9 and NT sgRNA or BIRC2-targeted sgRNAs, and
+  western blot analysis was performed.(H) A375 cells were treated with vehicle or
+  5 μM LCL161 for 16 h and western blot analysis was performed.(I) Heatmap of mRNA
+  expression of differentially expressed genes in IRF1-related antigen presentation
+  pathway () in A375 cells transduced with Cas9 and NT sgRNA or BIRC2-targeted sgRNAs.Data
+  are representative of 3 independent experiments (A–C and G–H) or are pooled from
+  a single experiment, with 3 biological replicates per group (D–F and I).Error bars
+  depict standard deviation. Statistical significance was evaluated by 2-tailed Student’s
+  t test. **p < 0.01.
+article_title: Cancer genes disfavoring T cell immunity identified via integrated
+  systems approach.
+citation: Rigel J. Kishton, et al. Cell Rep. ;40(5):111153-111153.
+year: '2022'
+
+doi: 10.1016/j.celrep.2022.111153
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: ''
+
+keywords:
+---

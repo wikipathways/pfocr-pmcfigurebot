@@ -1,0 +1,45 @@
+---
+figid: PMC9406657__cells-11-02508-g002
+pmcid: PMC9406657
+image_filename: cells-11-02508-g002.jpg
+figure_link: /pmc/articles/PMC9406657/figure/cells-11-02508-f002/
+number: Figure 2
+figure_title: ''
+caption: The PAM signaling pathways. PAM pathway can be activated by G protein-coupled
+  receptor (GPCR) and receptor tyrosine kinases (RTKs), including human epidermal
+  growth factor receptor 2 (HER2/ERBB2), fibroblast growth factor receptor (FGFR),
+  insulin and insulin-like growth factor-1 receptor (InsR/IGF-1R), which PtdIns (4,5)
+  P2 (PIP2) to generate the second messenger PtdIns (3,4,5) P3 (PIP3) []. PTEN (phosphatase
+  and tensin homolog) dephosphorylates PIP3 to generate PIP2, while INPP4B (inositol
+  polyphosphate-4-phosphatase type II B) dephosphorylates PtdIns(3,4)P2 to generate
+  PtdIns(3)P (PI3P). Proteins, containing a pleckstrin homology (PH) domain, are recruited
+  to the cytomembrane by PIP3, including AKT, 3-phosphoinositide-dependent kinase
+  1 (PDK1), and serum and glucocorticoid-induced kinase (SGK). The main downstream
+  target of PI3K is AKT. It is activated by PDK1 and mTOR complex 2 (mTORC2), and
+  phosphorylates a large number of downstream effector proteins, including mTOR complex
+  1 (mTORC1), forkhead box protein O1 (FoxO1), glycogen synthesis kinase (GSK3) and
+  murine double minute 2 (MDM2). The AKT-mediated phosphorylation of GSK3β, FOXO1
+  and MDM2 directly or indirectly controls cellular growth and survival. The activated
+  mTORC1 ultimately regulates cellular processes, such as the initiation of mRNA transcription,
+  cell growth, autophagy and protein synthesis, via phosphorylation of 4EBP1 and S6K1
+  [,]. In addition, mTORC2 can phosphorylate both IGF-1R and AKT []. S6K-mediated
+  phosphorylation of PDK1 negatively feed back to inhibit PDK1 []. PKC and SGK are
+  also involved in PI3K signaling independent of AKT.
+article_title: PI3K/AKT/mTOR-Targeted Therapy for Breast Cancer.
+citation: Kunrui Zhu, et al. Cells. 2022 Aug;11(16):2508.
+year: '2022'
+
+doi: 10.3390/cells11162508
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- AKT
+- biomarker
+- breast cancer
+- cancer therapy
+- mTOR
+- PI3K
+
+---

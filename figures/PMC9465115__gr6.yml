@@ -1,0 +1,57 @@
+---
+figid: PMC9465115__gr6
+pmcid: PMC9465115
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC9465115/figure/fig6/
+number: Fig. 6
+figure_title: ''
+caption: The dia-PASEF workflow allows the robust detection of characteristic EGF
+  signaling events.A, numbers of all identified phosphopeptides and phosphosites before
+  and after filtering for localization probability and data completeness. B, phosphoproteome
+  Pearson correlation matrix. Scatter plot shows the correlation of replicates within
+  a condition. C, volcano plot of phosphosites regulated upon 15 min of EGF treatment
+  in HeLa cells versus untreated cells. (Two-sided Student’s t test, FDR <0.01 = gray,
+  FDR <0.05 = dark gray). Protein’s part of the GOBP term “EGFR signaling pathway”
+  are highlighted in turquoise. D, Fisher’s exact test of proteins with significantly
+  increased phosphosites upon EGF treatment (p < 0.002). Enrichment annotations are
+  GOBP, GOMF, and KEGG. E, scheme of significantly upregulated phosphosites that were
+  detected in this study and are part of the GOBP term “EGFR signaling pathway” and/or
+  changed significantly upon EGF stimulation (FDR < 0.05). DIA, data-independent acquisition;
+  EGF, epidermal growth factor; EGFR, EGF receptor; FDR, false discovery rate; GOBP,
+  Gene Ontology Biological Process; GOMF, Gene Ontology Molecular Function; KEGG,
+  Kyoto Encyclopedia of Genes and Genomes; PASEF, parallel accumulation–serial fragmentation.
+article_title: Rapid and In-Depth Coverage of the (Phospho-)Proteome With Deep Libraries
+  and Optimal Window Design for dia-PASEF.
+citation: Patricia Skowronek, et al. Mol Cell Proteomics. 2022 Sep;21(9):100279.
+year: '2022'
+
+doi: 10.1016/j.mcpro.2022.100279
+journal_title: 'Molecular & Cellular Proteomics : MCP'
+journal_nlm_ta: Mol Cell Proteomics
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- TIMS
+- PASEF
+- data-independent acquisition
+- phosphoproteomics
+- systems biology
+- ACN, acetonitrile
+- DDA, data-dependent acquisition
+- DIA, data-independent acquisition
+- EGF, epidermal growth factor
+- EGFR, EGF receptor
+- FA, formic acid
+- FDR, false discovery rate
+- GOBP, Gene Ontology Biological Process
+- IM, ion mobility
+- LC, liquid chromatography
+- MS, mass spectrometry
+- PASEF, parallel accumulation–serial fragmentation
+- PTM, post-translational modification
+- py_diAID, Python package for DIA with an automated isolation design
+- RT, retention time
+- SPD, samples per day
+- TIMS, trapped ion mobility spectrometry
+
+---

@@ -1,0 +1,46 @@
+---
+figid: PMC9475456__thnov12p6069g008
+pmcid: PMC9475456
+image_filename: thnov12p6069g008.jpg
+figure_link: /pmc/articles/PMC9475456/figure/F8/
+number: Figure 8
+figure_title: ''
+caption: 'ZEB1 binds to the DDX56 promoter and facilitates transcription of DDX56.
+  (A) HEK293T cells were co-transfected with the DDX56-luciferase construct together
+  with the indicated plasmids for 48 h. (B-C) mRNA (B) and protein (C) levels of indicated
+  genes were detected using RT-PCR and western blotting, respectively. (D) MHCC97H
+  and Huh-7 cells were co-transfected with DDX56 promoter luciferase constructs and
+  ZEB1-silencing molecules. (E) Computational prediction of ZEB1 binding sites on
+  DDX56 promoter region (-2000 to +1) by JASPAR and MEM-suite matrix model. (F) ChIP-PCR
+  assay was performed using anti-ZEB1 to confirm the two predicted ZEB1-binding sites
+  on the DDX56 promoter. (G) EdU assay showed that ectopic DDX56 expression in ZEB1-silenced
+  cells partially reversed the ZEB1 loss-of-function-mediated inhibitory effect on
+  HCC proliferation. Scale bars: 100 µm. (H-I) Protein levels of ZEB1 and DDX56 in
+  HCC tissues and corresponding adjacent normal tissues (n = 24) were examined using
+  western blot analysis (H), followed by an analysis of their correlation (r = 0.4435,
+  P = 0.03) (I). Protein band intensity was quantitated using Image J software. (J)
+  A schematic model showing the ZEB1-DDX56-MIST1 axis regulating HCC proliferation.
+  ZEB1 directly binds to the promoter region of DDX56 and promotes its transcription.
+  Upregulated DDX56 enhances MIST1 transcription by recruiting MECOM and mono-methylating
+  H3K9 at the MIST1 promoter, which subsequently reduces PTEN protein and facilitates
+  AKT phosphorylation, to promote HCC proliferation. Importantly, the PTEN agonist,
+  Oroxin B (OB), blocked the DDX56-mediated PTEN-AKT signaling pathway, suggesting
+  that treating of HCC patients with OB may result in a beneficial therapeutic intervention.'
+article_title: DDX56 transcriptionally activates MIST1 to facilitate tumorigenesis
+  of HCC through PTEN-AKT signaling.
+citation: Hongzhong Zhou, et al. Theranostics. 2022;12(14):6069-6087.
+year: '2022'
+
+doi: 10.7150/thno.72471
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- Hepatocellular carcinoma
+- Transcription
+- Zinc finger E-box binding homeobox 1
+- Proliferation
+- DEAD-Box 56
+
+---

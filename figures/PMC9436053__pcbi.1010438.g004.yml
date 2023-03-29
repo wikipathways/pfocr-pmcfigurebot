@@ -1,0 +1,32 @@
+---
+figid: PMC9436053__pcbi.1010438.g004
+pmcid: PMC9436053
+image_filename: pcbi.1010438.g004.jpg
+figure_link: /pmc/articles/PMC9436053/figure/pcbi.1010438.g004/
+number: Fig 4
+figure_title: Association of CHEK1 dependence with IGHV status in CLL
+caption: '(A) Beeswarm plot of the CHEK1 protein dependence values in all samples,
+  visualizing the increased dependence on CHEK1 in U-CLL tumors. Association testing
+  was performed using Student’s t-test test (two-sided, with equal variance) and Benjamini-Hochberg
+  correction was applied. (B) A network illustration of the off-target effect of CHEK1
+  inhibitors that involves BCR components (BTK, SYK, YES1 and LYN). Only the high
+  confidence pairs in the kinobeads dataset are considered. The drugs that only target
+  CHEK1 are colored in red. (C) Beeswarm plots showing the effect of three CHEK1-specific
+  inhibitors in U-CLL and M-CLL samples. Association testing was performed using Student’s
+  t-test test (two-sided, with equal variance) and Benjamini-Hochberg correction was
+  applied. (D) Differentially expressed hallmark gene sets in CLL cells after BCR
+  pathway stimulation through anti-IgM treatment (ArrayExpress ID: E-GEOD-39411).
+  Highlighted upregulated hallmark gene sets are associated with DNA-damage response
+  and cell cycle checkpoint.'
+article_title: Inferring tumor-specific cancer dependencies through integrating ex
+  vivo drug response assays and drug-protein profiling.
+citation: Alina Batzilla, et al. PLoS Comput Biol. 2022 Aug;18(8):e1010438.
+year: '2022'
+
+doi: 10.1371/journal.pcbi.1010438
+journal_title: PLoS Computational Biology
+journal_nlm_ta: PLoS Comput Biol
+publisher_name: Public Library of Science
+
+keywords:
+---

@@ -1,0 +1,40 @@
+---
+figid: PMC9370643__plants-11-01971-g001
+pmcid: PMC9370643
+image_filename: plants-11-01971-g001.jpg
+figure_link: /pmc/articles/PMC9370643/figure/plants-11-01971-f001/
+number: Figure 1
+figure_title: ''
+caption: Pipeline of the construction of the sugarcane reference transcriptome. (a)
+  A total of 16 libraries were analyzed and sequencing results were used to construct
+  a sugarcane reference transcriptome. Over 130 million reads were used for Velvet-Oases
+  pipeline assembly that resulted in 88,970 loci and 116,435 transcripts. A total
+  of 53,395 loci mapped with plant sequence databases and, within these, 40,964 matched
+  with sugarcane genome sequences available in public databases. A group of 12,673
+  loci mapped with other plant species databases. A group of 35,575 loci did not map
+  within Viridiplantae databases. The figure also shows the number of sugarcane transcripts
+  with no matches in sugarcane ESTs database that presented homologues in Arabidopsis,
+  maize, rice and sorghum with an e-value cut-off < 10−5, over 70% of identity and
+  best hits. The transcripts were categorized in (b) KEGG pathway annotation and (c)
+  GO database, using OmicShare tools. Only the most represented classes in sugarcane
+  reference transcriptome were displayed.
+article_title: Sugarcane Genotypes with Contrasting Biological Nitrogen Fixation Efficiencies
+  Differentially Modulate Nitrogen Metabolism, Auxin Signaling, and Microorganism
+  Perception Pathways.
+citation: Thais Louise G. Carvalho, et al. Plants (Basel). 2022 Aug;11(15):1971.
+year: '2022'
+
+doi: 10.3390/plants11151971
+journal_title: Plants
+journal_nlm_ta: Plants (Basel)
+publisher_name: MDPI
+
+keywords:
+- endophytic diazotrophic bacteria
+- nitrogen-fixing bacteria
+- differential RNA-seq transcriptome
+- nitrogen metabolism
+- plant receptors
+- auxin signaling
+
+---

@@ -1,0 +1,49 @@
+---
+figid: PMC9405012__biology-11-01233-g009
+pmcid: PMC9405012
+image_filename: biology-11-01233-g009.jpg
+figure_link: /pmc/articles/PMC9405012/figure/biology-11-01233-f009/
+number: Figure 9
+figure_title: ''
+caption: 'The regulatory relationship of transcription factor HIF-1 on the LDH-A gene
+  in the dual-luciferase reporter assay. (A) Transcription factor HIF-1 transcriptionally
+  regulates the LDH-A gene. The pGL3 and pc3.1 represent circular pGL3-Basic plasmid
+  and circular pcDNA3.1 (+) plasmid, respectively, which are not linked to the exogenous
+  sequence. Reporter plasmid pGL~LDH-A was constructed using the LDH-A gene promoter
+  sequence and fragmented pGL3-Basic plasmid digested by double endonuclease (SacI
+  and HindIII). Expression plasmid pc3.1~HIF-1α was constructed using the HIF-1α CDS
+  sequence and fragmented pcDNA3.1 (+) digested by single endonuclease (BamHI). Expression
+  plasmid pc3.1~HIF-1β was constructed using the same method. PRL-TK is the control
+  plasmid expressing Renilla luciferase (Rluc) to characterize the transfection efficiency.
+  Arabic numerals of abscissa in A indicate different treatment groups. (B) The fragmentation
+  deletion result. The high triangle icons represent the putative HIF-1 binding site,
+  which is predicted using JASPAR online software. Lp, Lf2, Lf1, and Lf0 represent
+  reporter plasmids connecting different length promoter sequences, which are shown
+  by four light gray horizontal lines. These reporter plasmids (pGL~Lf2, pGL~Lf1,
+  and pGL~Lf0) were connected by different length LDH-A gene promoter sequences and
+  fragmented pGL 3-Basic digested by double endonuclease (SacI and HindIII), respectively.
+  Plasmids of pGL~Lp and pGL are the same as pGL~LDH-A and pGL3 in A, respectively.
+  (C) The bases mutation result. We mutated one putative transcription factor binding
+  site (−2336) to obtain two mutant plasmids (pGL~Lmp, pGL~Lm2), which were deleted
+  putative HIF-1 binding sequences (−2343~−2336: GGACGTGA). The mutant plasmids were
+  constructed using fragmented pGL3-Basic digested using double endonuclease (SacI
+  and HindIII) and the mutant sequence obtained using high fidelity fusion PCR. Different
+  letters indicate significant differences (p < 0.05).'
+article_title: Hypoxia Affects HIF-1/LDH-A Signaling Pathway by Methylation Modification
+  and Transcriptional Regulation in Japanese Flounder (Paralichthys olivaceus).
+citation: Binghua Liu, et al. Biology (Basel). 2022 Aug;11(8):1233.
+year: '2022'
+
+doi: 10.3390/biology11081233
+journal_title: Biology
+journal_nlm_ta: Biology (Basel)
+publisher_name: MDPI
+
+keywords:
+- hypoxia stress
+- Japanese flounder
+- physiological response
+- transcriptional regulation
+- epigenetic modification
+
+---

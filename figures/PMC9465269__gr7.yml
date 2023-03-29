@@ -1,0 +1,29 @@
+---
+figid: PMC9465269__gr7
+pmcid: PMC9465269
+image_filename: gr7.jpg
+figure_link: /pmc/articles/PMC9465269/figure/f0035/
+number: Fig. 7
+figure_title: ''
+caption: DNA methylation profile of genes revealed by Bwa-meth, BSMAP, Bismark-bwt2-e2e
+  and Walt. (a) SOX9 gene was the highest differentially expressed genes between control
+  and schizophrenia in humans (43). (b) MPZ gene was the hub gene related to Wnt signaling
+  pathway of embryonic processes in cattle (44). (c) IGF2BP3 was the key gene that
+  regulated the development of skeletal muscle in pigs (45).
+article_title: Benchmarking DNA methylation analysis of 14 alignment algorithms for
+  whole genome bisulfite sequencing in mammals.
+citation: Wentao Gong, et al. Comput Struct Biotechnol J. 2022;20:4704-4716.
+year: '2022'
+
+doi: 10.1016/j.csbj.2022.08.051
+journal_title: Computational and Structural Biotechnology Journal
+journal_nlm_ta: Comput Struct Biotechnol J
+publisher_name: Research Network of Computational and Structural Biotechnology
+
+keywords:
+- Alignment algorithms
+- Comparative methylomes
+- Mammals
+- Whole genome bisulfite sequencing
+
+---

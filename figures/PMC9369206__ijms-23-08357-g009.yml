@@ -1,0 +1,33 @@
+---
+figid: PMC9369206__ijms-23-08357-g009
+pmcid: PMC9369206
+image_filename: ijms-23-08357-g009.jpg
+figure_link: /pmc/articles/PMC9369206/figure/ijms-23-08357-f009/
+number: Figure 9
+figure_title: ''
+caption: qPCR validation of genes involved in anthocyanin synthesis. The expression
+  profiles of 9 genes were measured by RNA-seq and qRT PCR. These nine genes include
+  structural genes and transcription factors related to the flavonoid pathway. The
+  histogram data represent qRT PCR data (left y-axis) and the broken line represents
+  RNA-seq data (right y-axis). Blue dots in the histogram represent light treatment
+  and orange dots represent dark treatment. The x-axis in each chart represents three-light
+  treatment stages (48 h, 72 h, and 168 h). The qRT PCR assay had three biological
+  replicates, each with three technical replicates (n = 9). The FPKM value of RNA-seq
+  has three biological repetitions (n = 3). The error bars indicate the standard deviation.
+article_title: Response of Anthocyanin Accumulation in Pepper (Capsicum annuum) Fruit
+  to Light Days.
+citation: Yan Zhou, et al. Int J Mol Sci. 2022 Aug;23(15):8357.
+year: '2022'
+
+doi: 10.3390/ijms23158357
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- purple pepper
+- anthocyanin
+- light days
+- WGCNA
+
+---

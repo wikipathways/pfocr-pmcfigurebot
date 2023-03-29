@@ -1,0 +1,32 @@
+---
+figid: PMC9394491__baac072f2
+pmcid: PMC9394491
+image_filename: baac072f2.jpg
+figure_link: /pmc/articles/PMC9394491/figure/F2/
+number: Figure 2
+figure_title: ''
+caption: '‘Signature Protein’ section. (A) Phosprof top page. Proteins with significant
+  change in phosphorylation level can be browsed by choosing the tested cell type
+  (MCF7 or K562) and treated drug. (B) Signature proteins are highlighted on a pathway
+  map. The 376 analyzed pathways were divided into four functional groups (g1: RTK
+  pathway; g2: Wnt–Hh pathway; g3: GPCR pathway and g4: Cell Death pathway), according
+  to the Reactome classification. (C) Signature proteins of K562 cells under treatment
+  with the SRC inhibitor bosutinib. Data type (Std: standardized data or Raw: raw
+  data), analysis type (RP: rank products or Pearson) and thresholds (Top 50/100/150/200
+  or P-value) can be selected. (D) Enlarged view after searching for SRC on the pathway
+  map. (E) The nodes of the pathway map are linked to the ‘details of the protein’
+  page. Detailed information includes the gene symbols, amino acid sequences and the
+  disorder scores. This page is also connected to the PDB web site and the protein
+  tertiary structures.'
+article_title: 'Phosprof: pathway analysis database of drug response based on phosphorylation
+  activity measurements.'
+citation: Harumi Kagiwada, et al. Database (Oxford). 2022;2022:baac072.
+year: '2022'
+
+doi: 10.1093/database/baac072
+journal_title: 'Database: The Journal of Biological Databases and Curation'
+journal_nlm_ta: Database (Oxford)
+publisher_name: Oxford University Press
+
+keywords:
+---

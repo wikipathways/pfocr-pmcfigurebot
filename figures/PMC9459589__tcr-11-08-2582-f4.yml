@@ -1,0 +1,32 @@
+---
+figid: PMC9459589__tcr-11-08-2582-f4
+pmcid: PMC9459589
+image_filename: tcr-11-08-2582-f4.jpg
+figure_link: /pmc/articles/PMC9459589/figure/f4/
+number: Figure 4
+figure_title: ''
+caption: The relationship between PCMT1 and oncogenic pathways in cervical cancer.
+  (A) GSEA showed the correlation between PCMT1 expression and HALLMARK gene sets
+  in cervical cancer based on TCGA data. (B) GSEA showed the correlation between PCMT1
+  expression and KEGG pathway gene sets in cervical cancer based on TCGA data. FDR,
+  false discovery rate; PCMT1, protein-L-isoaspartate O-methyltransferase-1; GSEA,
+  gene set enrichment analysis; TCGA, The Cancer Genome Atlas; KEGG, Kyoto Encyclopedia
+  of Genes and Genomes.
+article_title: Elevated expression of protein-L-isoaspartate O-methyltransferase-1
+  (PCMT1) in cervical cancer.
+citation: Liyun Shan, et al. Transl Cancer Res. 2022 Aug;11(8):2582-2590.
+year: '2022'
+
+doi: 10.21037/tcr-21-2700
+journal_title: Translational Cancer Research
+journal_nlm_ta: Transl Cancer Res
+publisher_name: AME Publishing Company
+
+keywords:
+- Protein-L-isoaspartate O-methyltransferase-1 (PCMT1)
+- cervical cancer
+- immunohistochemistry (IHC)
+- survival
+- gene set enrichment analysis (GSEA)
+
+---

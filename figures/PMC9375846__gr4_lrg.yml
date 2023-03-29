@@ -1,0 +1,32 @@
+---
+figid: PMC9375846__gr4_lrg
+pmcid: PMC9375846
+image_filename: gr4_lrg.jpg
+figure_link: /pmc/articles/PMC9375846/figure/fig4/
+number: Fig. 4
+figure_title: ''
+caption: KEGG pathway enrichment analysisEach circle in the figure represents a KEGG
+  pathway. The ordinate represents the pathway name, and the abscissa represents Enrichment
+  Factor, which represents the ratio of the proportion of genes annotated to a pathway
+  in the differential genes to the proportion of genes annotated to this pathway in
+  all genes.
+article_title: Transcriptomic analysis reveals crucial regulatory roles of immediate-early
+  response genes and related signaling pathways in coronavirus infectious bronchitis
+  virus infection.
+citation: Li Xia Yuan, et al. Virology. 2022 Aug 14 ;575:1-9.
+year: '2022'
+
+doi: 10.1016/j.virol.2022.08.001
+journal_title: Virology
+journal_nlm_ta: Virology
+publisher_name: Elsevier Inc.
+
+keywords:
+- Coronavirus
+- Infectious bronchitis virus (IBV)
+- Transcriptome
+- Differentially expressed genes (DEGs)
+- Immediate-early response genes (IEGs)
+- MAPK and Wnt signaling pathways
+
+---

@@ -1,0 +1,30 @@
+---
+figid: PMC9487635__bbac366f2
+pmcid: PMC9487635
+image_filename: bbac366f2.jpg
+figure_link: /pmc/articles/PMC9487635/figure/f2/
+number: Figure 2
+figure_title: ''
+caption: (A) A global map of LncRNAs in sensitivity-related triplets of different
+  drug types. (B) Categories of lncRNAs in different types of drugs. (C) Genomic locations
+  of lncRNAs. Each dot refers to a lncRNA. The colors of the dots represent different
+  types of lncRNAs. The dot tracks correspond to different drug types. (D) GO function
+  enrichment and KEGG pathway enrichment of genes in the triplets related to drug
+  sensitivity. (E) Hallmark gene sets of genes in the triplets related to drug sensitivity.
+  The regulation strength represents the P-value in the hypergeometric test, and the
+  smaller the P-value, the higher the regulation strength.
+article_title: Identifying and characterizing drug sensitivity-related lncRNA-TF-gene
+  regulatory triplets.
+citation: Congxue Hu, et al. Brief Bioinform. 2022 Sep;23(5):bbac366.
+year: '2022'
+
+doi: 10.1093/bib/bbac366
+journal_title: Briefings in Bioinformatics
+journal_nlm_ta: Brief Bioinform
+publisher_name: Oxford University Press
+
+keywords:
+- lncRNA-TF-gene triplets
+- drug sensitivity
+
+---

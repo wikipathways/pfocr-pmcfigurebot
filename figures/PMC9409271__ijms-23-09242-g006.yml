@@ -1,0 +1,31 @@
+---
+figid: PMC9409271__ijms-23-09242-g006
+pmcid: PMC9409271
+image_filename: ijms-23-09242-g006.jpg
+figure_link: /pmc/articles/PMC9409271/figure/ijms-23-09242-f006/
+number: Figure 6
+figure_title: ''
+caption: 'Differentially accumulated metabolites (DAMs) with KEGG pathway information
+  and the enriched pathways of these DAMs. (A): DAMs in the leaves after CLas infection;
+  (B): DAMs in the roots. The metabolites whose change did not meet the differentially
+  accumulation threshold were filled with gray color in A and B. The upregulated and
+  the downregulated ones were colored in red and blue, respectively. The cycle size
+  indicated the VIP value in the OPLS-DA analysis; (C): Pathway enrichment analysis
+  of the DAMs using the KEGG annotation background information detecting in the clusterProfiler
+  software []. Only pathways with p-value < 0.05 in the Fisher’s exact test were plotted.'
+article_title: Metabolomic Analysis Revealed Distinct Physiological Responses of Leaves
+  and Roots to Huanglongbing in a Citrus Rootstock.
+citation: Qing Chen, et al. Int J Mol Sci. 2022 Aug;23(16):9242.
+year: '2022'
+
+doi: 10.3390/ijms23169242
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- Huanglongbing
+- Citrus junos
+- metabolomic alterations
+
+---

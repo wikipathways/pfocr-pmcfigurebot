@@ -1,0 +1,100 @@
+---
+figid: PMC9520276__gr2
+pmcid: PMC9520276
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC9520276/figure/fig2/
+number: Fig. 2
+figure_title: ''
+caption: XBP1 regulates macrophage activation in a STING-NLRP3-dependent manner.(A)
+  Western blot was performed to analyse the levels of NLRP3 in liver macrophages isolated
+  from Xbp1FL/FL and Xbp1M-KO mice treated with CCl4, BDL, or MCD. Statistical analysis
+  was carried out using 1-way ANOVA. (B) Western blot was performed to analyse the
+  levels of TLR4, p-IRE1α, XBP1, NLRP3, cleaved caspase-1, pro-caspase-1, cleaved
+  IL-1β, and pro-IL-1β in Xbp1FL/FL and Xbp1M-KO BMDMs treated with LPS or LPS + ATP.
+  Statistical analysis was carried out using 1-way ANOVA. (C) Western blot was performed
+  to analyse the levels of STING in liver macrophages isolated from Xbp1FL/FL and
+  Xbp1M-KO mice treated with CCl4, BDL, or MCD. Statistical analysis was carried out
+  using 1-way ANOVA. (D) Western blot was performed to analyse the levels of cGAS,
+  STING, p-TBK1, TBK1, p-IRF3, and IRF3 in Xbp1FL/FL and Xbp1M-KO BMDMs treated with
+  LPS. Statistical analysis was carried out using 1-way ANOVA. (E) Immunofluorescence
+  staining showing STING (green) and NLRP3 (red) colocalization in Xbp1FL/FL and Xbp1M-KO
+  BMDMs stimulated with LPS. (F) Immunofluorescence was used to detect the expression
+  of NLRP3 in LPS-stimulated Xbp1M-KO BMDMs transfected with LV-Tmem173 or Sh-Irf3.
+  (G) The gene levels of Tnfa, Il6, Il1b, and Cxcl10 in BMDMs; n = 3/group; 1-way
+  ANOVA. (H) Schematic diagram of the putative IRF3 binding site within the Nlrp3
+  promoter. The BMDMs were subjected to ChIP assay with anti-IRF3 or IgG antibody.
+  The representative results from 3 independent experiments are shown. (I) Relative
+  Bnip3 mRNA expression in Xbp1FL/FL BMDMs treated with Sh-Irf3 or KIN1148 with or
+  without LPS stimulation were determined using qPCR; n = 3 biological replicates/group;
+  1-way ANOVA. (J) Western blot was performed to analyse the levels of p-IRF3 in liver
+  macrophages isolated from Xbp1FL/FL and Xbp1M-KO mice treated with CCl4, BDL, or
+  MCD. Statistical analysis was carried out using 1-way ANOVA. (K) Western blot was
+  performed to analyse the levels of p-IRF3 in human normal or fibrotic liver tissue;
+  Student t test. The values are shown as the mean ± SD. Statistical significance
+  was assessed by Student t test or ANOVA. ∗∗p <0.01; ∗p <0.05. BDL, bile duct ligation;
+  BMDMs, bone marrow-derived macrophages; BNIP3, BCL2/adenovirus E1B interacting protein
+  3; CCl4, carbon tetrachloride; ChIP, chromatin immunoprecipitation; cGAS, cyclic
+  GMP-AMP synthase; IRE1α, inositol-requiring enzyme-1α; IRF3, interferon regulatory
+  factor 3; LPS, lipopolysaccharide; MCD, methionine/choline-deficient diet; NLRP3,
+  nucleotide-binding oligomerization domain, leucine-rich repeat and pyrin domain-containing
+  3; STING, stimulator of interferon genes; TBK1, TANK binding kinase 1; TLR, toll-like
+  receptor; TNF-α, tumour necrosis factor alpha; XBP1, X-box binding protein 1.
+article_title: XBP1-mediated activation of the STING signalling pathway in macrophages
+  contributes to liver fibrosis progression.
+citation: Qi Wang, et al. JHEP Rep. 2022 Nov;4(11):100555.
+year: '2022'
+
+doi: 10.1016/j.jhepr.2022.100555
+journal_title: JHEP Reports
+journal_nlm_ta: JHEP Rep
+publisher_name: Elsevier
+
+keywords:
+- XBP1
+- Macrophage
+- Liver fibrosis
+- mtDNA
+- STING
+- BNIP3
+- Mitophagy
+- Acta2/α-SMA, actin, alpha 2, smooth muscle, aorta
+- BDL, bile duct ligation
+- BMDMs, bone marrow-derived macrophages
+- BNIP3, BCL2/adenovirus E1B interacting protein 3
+- CCl4, carbon tetrachloride
+- cGAS, cyclic GMP-AMP synthase
+- ChIP, chromatin immunoprecipitation
+- CM, conditional media
+- Col1a1, collagen, type I, alpha 1
+- DMXAA, 5,6-dimethylxanthenone-4-acetic acid
+- ER, endoplasmic reticulum
+- EtBr, ethidium bromide
+- HSC, hepatic stellate cell
+- IRE1α, inositol-requiring enzyme-1α
+- IRF3, interferon regulatory factor 3
+- KEGG, Kyoto Encyclopedia of Genes and Genomes
+- LC3B, microtubule-associated protein 1 light chain 3 beta
+- LPS, lipopolysaccharide
+- MCD, methionine/choline-deficient diet
+- MnSOD, manganese superoxide dismutase
+- mtDNA, mitochondrial DNA
+- NAFLD, non-alcoholic fatty liver disease
+- NASH, non-alcoholic steatohepatitis
+- NLRP3, nucleotide-binding oligomerization domain, leucine-rich repeat and pyrin
+  domain-containing 3
+- p62, sequestosome 1
+- PBMCs, peripheral blood mononuclear cells
+- ROS, reactive oxygen species
+- shRNAs, short hairpin RNAs
+- STING, stimulator of interferon genes
+- sXBP1, spliced XBP1
+- TBK1, TANK binding kinase 1
+- TGF-β1, transforming growth factor beta 1
+- Timp1, tissue inhibitor of matrix metalloproteinase 1
+- TLR, Toll-like receptor
+- TNF-α, tumour necrosis factor alpha
+- uXBP1, unspliced XBP1
+- WT, wild-type
+- XBP1, X-box binding protein 1
+
+---

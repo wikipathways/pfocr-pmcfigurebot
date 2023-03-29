@@ -1,0 +1,39 @@
+---
+figid: PMC9440293__gr4
+pmcid: PMC9440293
+image_filename: gr4.jpg
+figure_link: /pmc/articles/PMC9440293/figure/fig4/
+number: Figure 4
+figure_title: ''
+caption: 'Regulation of sphingolipid metabolism in NAFLD(A) A schematic illustration
+  of sphingolipid (SL) metabolism in human hepatocytes. Abbreviations: SPT, serine
+  palmitoyl-CoA transferase; CerS, ceramide synthase; and DES, dihydroceramide desaturase;
+  SMase, sphingomyelinase pathway S1P, sphingosine-1-phosphate; CDase, ceramidases;
+  SK, sphingosine kinase; S1PPase, sphingosine phosphate phosphatases GCDase, glucosidase;
+  GalCDase, galactosidase; C1P, ceramide 1-phosphate. The modeled reactions are labeled
+  with ‘R#’.(B) Averaged normalized flux differences across the SL reactions of the
+  hepatocytes at different stages of NAFLD. Red and blue color denotes up- and downregulation
+  of reaction fluxes within at two different stages of NAFLD. Reaction fluxes at a
+  particular NAFLD stage was estimated by using a non-uniform random sampling method
+  that finds solutions among the feasible flux distributions of the metabolic network.
+  ∗p < 0.05 (two-sample t-test, adjusted for FDR).(C) Log2 fold change (FC) of the
+  differentially expressed (p < 0.05 adjusted for FDR) metabolic genes (MGs) of SL
+  pathways at two different stages of NAFLD. Expression of multiple genes mapped to
+  a particular reaction was determined by GPR rules.'
+article_title: Quantitative modeling of human liver reveals dysregulation of glycosphingolipid
+  pathways in nonalcoholic fatty liver disease.
+citation: Partho Sen, et al. iScience. 2022 Sep 16;25(9):104949.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.104949
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Health sciences
+- Systems biology
+- Omics
+- Metabolomics
+
+---

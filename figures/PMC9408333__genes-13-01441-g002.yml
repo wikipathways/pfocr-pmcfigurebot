@@ -1,0 +1,35 @@
+---
+figid: PMC9408333__genes-13-01441-g002
+pmcid: PMC9408333
+image_filename: genes-13-01441-g002.jpg
+figure_link: /pmc/articles/PMC9408333/figure/genes-13-01441-f002/
+number: Figure 2
+figure_title: ''
+caption: Divergent pathway and gene expression between wild-type and gluk2−/− mutant.
+  (A) Number of DEGs obtained from the six tissues at the wild-type and gluk2−/− mutant.
+  (B) Gene Ontology (GO) enrichment analysis of differentially expressed genes identified
+  from the wild-type and gluk2−/− mutant. The abscissa represents the GO terms, and
+  the ordinate represents the number of target genes. Black arrow indicates the ‘Response
+  to temperature stimulus’ pathway. (C) Protein–protein interaction network for gluk2−/−
+  expressed in the response to temperature stimulus pathway. (D) Fragments Per Kilobase
+  per Million (FPKM) of divergent gene expression related to temperature signaling
+  pathway in different tissues. Values plotted are means ± SEM, * p < 0.05, ** p <
+  0.01, *** p < 0.001, compared with control.
+article_title: Transcriptomic and Phenotypic Analysis of CRISPR/Cas9-Mediated gluk2
+  Knockout in Zebrafish.
+citation: Qianqian Yan, et al. Genes (Basel). 2022 Aug;13(8):1441.
+year: '2022'
+
+doi: 10.3390/genes13081441
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: MDPI
+
+keywords:
+- gluk2
+- knockout
+- RNA-seq
+- behavior analysis
+- cold stress
+
+---

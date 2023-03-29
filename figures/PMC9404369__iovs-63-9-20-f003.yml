@@ -1,0 +1,32 @@
+---
+figid: PMC9404369__iovs-63-9-20-f003
+pmcid: PMC9404369
+image_filename: iovs-63-9-20-f003.jpg
+figure_link: /pmc/articles/PMC9404369/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: STAT3 signaling is the downstream of UBE2T in retinoblastoma cells. (A) JAK-STAT
+  pathway was enriched (red arrow) in the si-NC group compared with siUBE2T-1 group
+  in Y79 cell line by KEGG pathway analysis. (B) GSEA plot showing that UBE2T expression
+  positively correlated with JAK-STAT gene signatures. (C, D) The expression of STAT3
+  and p-STAT3 were measured by Western blotting in the UBE2T silenced cells. (E, F)
+  The Bcl-2, Bcl-xl, c-Myc, and p21 production in UBE2T knockdown Y79 and Weri-Rb-1
+  cells, respectively.
+article_title: UBE2T/STAT3 Signaling Promotes the Proliferation and Tumorigenesis
+  in Retinoblastoma.
+citation: Nuo Xu, et al. Invest Ophthalmol Vis Sci. 2022 Aug;63(9):20.
+year: '2022'
+
+doi: 10.1167/iovs.63.9.20
+journal_title: Investigative Ophthalmology & Visual Science
+journal_nlm_ta: Invest Ophthalmol Vis Sci
+publisher_name: The Association for Research in Vision and Ophthalmology
+
+keywords:
+- retinoblastoma
+- ubiquitin conjugating enzyme E2T
+- histo-pathologic features
+- proliferation
+- STAT3
+
+---

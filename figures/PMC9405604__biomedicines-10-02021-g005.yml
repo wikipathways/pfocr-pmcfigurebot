@@ -1,0 +1,39 @@
+---
+figid: PMC9405604__biomedicines-10-02021-g005
+pmcid: PMC9405604
+image_filename: biomedicines-10-02021-g005.jpg
+figure_link: /pmc/articles/PMC9405604/figure/biomedicines-10-02021-f005/
+number: Figure 5
+figure_title: ''
+caption: Diseases-associated pathways and protein network in the mdig KO vs. WT MDA-MB-231
+  cells as analyzed by IPA. (A), Top Diseases and Disorders, depicts the affected
+  functional categories based on differentially expressed proteins where the Name
+  column displays a category of diseases and functions showing Cancer, Organismal
+  Injury and Abnormalities, Tumor Morphology, Cardiovascular Disease and Developmental
+  Disorder as the top diseases in the proteomics dataset, along with the number of
+  molecules associated with the individual diseases and disorder. (B), IPA of protein
+  networks in the MDA-MB-231 KO over WT cells. The top five significant networks as
+  determined by the IPA with their scores and associated functions has been shown.
+  (C), Protein network showing the relationships and connectivity between the focus
+  molecules of the network related to protein synthesis, RNA post transcriptional
+  modification, DNA replication, Recombination and Repair. Red indicated increased
+  and green indicates decreased expression. Star * represents the elevated ribosomal
+  proteins in this pathway.
+article_title: Depletion of Mdig Changes Proteomic Profiling in Triple Negative Breast
+  Cancer Cells.
+citation: Chitra Thakur, et al. Biomedicines. 2022 Aug;10(8):2021.
+year: '2022'
+
+doi: 10.3390/biomedicines10082021
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: MDPI
+
+keywords:
+- mdig
+- mass spectrometry
+- signaling pathways
+- breast cancer
+- biomarker
+
+---

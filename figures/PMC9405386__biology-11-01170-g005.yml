@@ -1,0 +1,31 @@
+---
+figid: PMC9405386__biology-11-01170-g005
+pmcid: PMC9405386
+image_filename: biology-11-01170-g005.jpg
+figure_link: /pmc/articles/PMC9405386/figure/biology-11-01170-f005/
+number: Figure 5
+figure_title: ''
+caption: 'Identification of differentially expressed genes by RNA sequencing: (a)
+  diagram showing the numbers of genes that shared the same patterns of transcriptional
+  change. Genes with log2 fold change ≥ 1 and P ≤ 1 for the comparison between control
+  and treated groups were determined using the DESeq2 package in R (version 3.3.2)
+  and Cuffdiff v.2.2.156; (b) KEGG classification of differentially expressed genes;
+  (c) induced genes involved in ethylene signaling pathway.'
+article_title: Expression of the ripAA Gene in the Soilborne Pseudomonas mosselii
+  Can Promote the Control Efficacy against Tobacco Bacterial Wilt.
+citation: Tao Zhuo, et al. Biology (Basel). 2022 Aug;11(8):1170.
+year: '2022'
+
+doi: 10.3390/biology11081170
+journal_title: Biology
+journal_nlm_ta: Biology (Basel)
+publisher_name: MDPI
+
+keywords:
+- Pseudomonas mosselii
+- ripAA
+- bacterial wilt
+- defense signaling pathway
+- control efficacy
+
+---

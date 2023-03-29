@@ -1,0 +1,35 @@
+---
+figid: PMC9376751__ADVS-9-2200536-g005
+pmcid: PMC9376751
+image_filename: ADVS-9-2200536-g005.jpg
+figure_link: /pmc/articles/PMC9376751/figure/advs4194-fig-0005/
+number: Figure 5
+figure_title: ''
+caption: 'Enhancer state regions are associated with selectively activation of NF‐κB
+  target genes. A) The heatmap (left) shows the gene expression regulated by NF‐κB
+  signal pathway at five time points. Correlations between dynamic gene expression
+  and the corresponding H3K27ac, H3K4me1, and H3K4me3 signals (RPM, gene body ± 10–100 kb)
+  (right panel) were calculated, respectively. Genes reported to be involved in CRC
+  were marked in blue. B–G) Gene expressions of representative genes for each cluster
+  (B,D,F), and the corresponding gene expression in TCGA database (C,E,G). H) The
+  UCSC browser view shows H3K27ac, H3K4me1, and H3K4me3 enrichment on Cxcl family
+  locus. I) The UCSC browser view for H3K27ac enrichment of 3 pairs of normal and
+  colon tumor patient tissues around CXCL family locus. An unpaired student''s t test
+  was used. ∗ p < 0.05, ∗∗ p < 0.01, ∗∗∗ p < 0.001, ∗∗∗∗ p < 0.0001, ns: no significance.'
+article_title: Dynamic Chromatin States Coupling with Key Transcription Factors in
+  Colitis‐Associated Colorectal Cancer.
+citation: Lin Chen, et al. Adv Sci (Weinh). 2022 Aug;9(23):2200536.
+year: '2022'
+
+doi: 10.1002/advs.202200536
+journal_title: Advanced Science
+journal_nlm_ta: Adv Sci (Weinh)
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- chromatin states
+- colitis‐associated cancer
+- histone modification
+- NF‐κB, OTX2
+
+---

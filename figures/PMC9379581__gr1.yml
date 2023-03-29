@@ -1,0 +1,41 @@
+---
+figid: PMC9379581__gr1
+pmcid: PMC9379581
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC9379581/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: Knockdown of RIOK3 significantly inhibits FAK activation in PDAC cells. Using
+  lentiviral transfection, PANC-1 cells with stable knockdown of RIOK3 were created,
+  followed by RNA extraction and sequencing. Up-regulated (red) and down-regulated
+  (blue) mRNAs were characterized using volcano plots (A). Differential genes (| Log2FC
+  | > 0.5, FDR ˂ 0.05) were used to perform a KEGG pathway enrichment analysis (B).
+  The Log2 FC of all mRNA expression was used in GSEA (C). The spearman correlation
+  coefficients of RIOK3 with all other genes in the TCGA-PDAC transcriptome database
+  were used in GSEA (D). Western blot assay and quantitative analysis of the protein
+  expression of RIOK3, FAK, Phospho-FAK(Tyr397), Phospho-FAK(Tyr925), Integrin 1,
+  Integrin 4, and vinculin in cells (E). The qRT-PCR method was used to detect RIOK3
+  and FAK mRNA expression (F). Representative IHC staining of RIOK3 and Phospho-FAK(Tyr925)
+  in pancreatic cancer tissues and correlation analysis between RIOK3 and Phospho-FAK(Tyr925)
+  based on H-Score (G). R represents Pearson correlation coefficient. Analysis of
+  the ratio of phospho-FAK/FAK in E (H). The data shown represent the means (±SD)
+  of biological triplicates. ∗p < 0.05, ∗∗p < 0.01, ANOVA test. The uncropped images
+  of (E) were referred to in .
+article_title: RIOK3 promotes pancreatic ductal adenocarcinoma cell invasion and metastasis
+  by stabilizing FAK.
+citation: Mengyuan Xu, et al. Heliyon. 2022 Aug;8(8):e10116.
+year: '2022'
+
+doi: 10.1016/j.heliyon.2022.e10116
+journal_title: Heliyon
+journal_nlm_ta: Heliyon
+publisher_name: Elsevier
+
+keywords:
+- RIOK3
+- FAK
+- Pancreatic ductal adenocarcinoma
+- Invasion
+- Migration
+
+---

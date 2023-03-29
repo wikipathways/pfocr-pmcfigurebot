@@ -1,0 +1,37 @@
+---
+figid: PMC9467317__pcbi.1010383.g001
+pmcid: PMC9467317
+image_filename: pcbi.1010383.g001.jpg
+figure_link: /pmc/articles/PMC9467317/figure/pcbi.1010383.g001/
+number: Fig 1
+figure_title: The TNFR1 signal transduction pathway
+caption: Upon engagement of TNFR1, complex I is rapidly formed and mediates the signaling
+  to NF-κB activation. The ubiquitination mediated by E3 ligases, like cellular inhibitor
+  of apoptosis protein 1 (cIAP1) or cellular inhibitor of apoptosis protein 2 (cIAP2)
+  and linear ubiquitin chain assembly complex (LUBAC), promotes the association of
+  complex I. The Ub modification is required for full activation of the inhibitor
+  of NF-κB (IκB) and subsequent NF-κB activation. Activated NF-κB in the nucleus initiates
+  the expression of target genes like IκB, A20, cellular FLICE-inhibitory protein
+  (cFLIPL), B-cell lymphoma 2 (BCL-2), and X-linked inhibitor of apoptosis protein
+  (XIAP). A20 is a deubiquitinating enzyme (DUB), which is reported to cleave lysine
+  63 (K63) chains while protecting methionine 1 (M1) chains from cleavage. The deubiquitination
+  by CYLD (cylindromatosis) destabilizes the complex and promotes the formation of
+  complex II in the cytosol. Complex IIa associates caspase 8 (CASP8), while complex
+  IIb additionally binds RIP1. cFLIPL reduces, but does not fully inhibit, caspase
+  activity, which leads to RIP1 and RIP3 cleavage and inhibits apoptosis and necroptosis.
+  cFLIPS fully inhibits caspase activity and promotes the formation of the necrosome.
+  Autophosphorylation of RIP3 allows the recruitment and phosphorylation of MLKL,
+  which subsequently forms active oligomers and translocates to the plasma membrane
+  to induce necroptosis.
+article_title: Mathematical modeling of the molecular switch of TNFR1-mediated signaling
+  pathways applying Petri net formalism and in silico knockout analysis.
+citation: Leonie K. Amstein, et al. PLoS Comput Biol. 2022 Aug;18(8):e1010383.
+year: '2022'
+
+doi: 10.1371/journal.pcbi.1010383
+journal_title: PLoS Computational Biology
+journal_nlm_ta: PLoS Comput Biol
+publisher_name: Public Library of Science
+
+keywords:
+---

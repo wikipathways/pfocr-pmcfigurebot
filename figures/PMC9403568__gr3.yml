@@ -1,0 +1,49 @@
+---
+figid: PMC9403568__gr3
+pmcid: PMC9403568
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9403568/figure/fig0003/
+number: Fig. 3
+figure_title: ''
+caption: Survivin is a target of post-transcription repression by miR-494 in TNBC
+  cells. (A) Survivin mRNA expression level was increased in hypoxic TNBC cells by
+  qPCR; and (B) Survivin protein expression level was increased in hypoxic TNBC cells
+  by WB; (C) Hsa-miR-494 was the intersection miRNA of miRDB, miRWalk and TargetScan
+  databases targeted Survivin. (D) The wild-type and mutant variant of the putative
+  miR-494 target sequences of the Survivin gene. (E) Two copies of the wild-type and
+  mutant miR-494 target sequences were fused with a luciferase reporter and transfected
+  into control oligonucleotide and miR-494 mimics infected HEK293T cells. MiR-494
+  significantly suppressed the luciferase activity of the wild-type Survivin 3’UTR.
+  Survivin protein expression level was found regulated directly by miR-494, as reflected
+  by the decreased Survivin expression in hypoxic TNBC cells after transient transfection
+  of miR-494 mimic, and increased Survivin expression in normoxic TNBC cells after
+  miR-494 inhibitor transfection via (F) WB, or (G) Immunofluorescence. *P < 0.05,
+  **P < 0.01. Each bar represents the mean ± SD of three independent experiments.
+article_title: Hypoxia induces docetaxel resistance in triple-negative breast cancer
+  via the HIF-1α/miR-494/Survivin signaling pathway.
+citation: Hongchang Li, et al. Neoplasia. 2022 Oct;32:100821.
+year: '2022'
+
+doi: 10.1016/j.neo.2022.100821
+journal_title: Neoplasia (New York, N.Y.)
+journal_nlm_ta: Neoplasia
+publisher_name: Neoplasia Press
+
+keywords:
+- miR-494
+- HIF-1α
+- Survivin
+- TNBC
+- Drug-resistance
+- miRNA, microRNA
+- BC, Breast cancer
+- TNBC, Triple-negative Breast cancer
+- DTX, docetaxel
+- PI, propidium iodide
+- FITC, fluorescein isothiocyanate
+- shRNA, small hairpin RNA
+- qRT-PCR, Quantitative real-time PCR
+- OE, overexpression
+- KD, knock down
+
+---

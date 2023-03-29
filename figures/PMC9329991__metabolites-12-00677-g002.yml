@@ -1,0 +1,32 @@
+---
+figid: PMC9329991__metabolites-12-00677-g002
+pmcid: PMC9329991
+image_filename: metabolites-12-00677-g002.jpg
+figure_link: /pmc/articles/PMC9329991/figure/metabolites-12-00677-f002/
+number: Figure 2
+figure_title: ''
+caption: The metabolite set enrichment analysis of our metabolites with PLS-DA scores
+  higher than 1 and p-values < 0.05 after the analysis with MetaboAnalyst. Metabolic
+  pathways whose name is indicated are significant (p-value lower than 0.05 after
+  the adjustment using Holm-Bonferroni method and False Discovery Rate) and have a
+  pathway impact value calculated from pathway topology analysis over 0. The pathways
+  are represented as circles. The circle color indicates the significance level from
+  highest (red) to lowest (white) in the enrichment analysis. The circle size is proportional
+  to the impact value of each road from the topology analysis.
+article_title: Metabolomic Analysis of Severe Osteoarthritis in a Spanish Population
+  of Women Compared to Healthy and Osteoporotic Subjects.
+citation: Clara Pertusa, et al. Metabolites. 2022 Aug;12(8):677.
+year: '2022'
+
+doi: 10.3390/metabo12080677
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: MDPI
+
+keywords:
+- osteoarthritis
+- osteoporotic fracture
+- metabolomic analysis
+- postmenopausal women
+
+---

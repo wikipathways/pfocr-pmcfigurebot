@@ -1,0 +1,33 @@
+---
+figid: PMC9406749__cimb-44-00244-g001
+pmcid: PMC9406749
+image_filename: cimb-44-00244-g001.jpg
+figure_link: /pmc/articles/PMC9406749/figure/cimb-44-00244-f001/
+number: Figure 1
+figure_title: ''
+caption: The methodology process for the investigation is illustrated in a snapshot.
+  A transcriptomic comparative analysis was performed between the datasets of OC.
+  Initially, three datasets were exported for OC through the GEO open repository;
+  then GEO2R was used to normalize the datasets. Three normalized datasets were compared
+  with each other to find common DEGs. This comparison method showed a total of 166
+  DEGs, which were used to further analysis including the PPI network, GO analysis,
+  pathway analysis, module network, and hub genes. Finally, using the hub genes, drug
+  compounds and TF-miRNA co-regulatory network were extracted.
+article_title: Exploring the Novel Computational Drug Target and Associated Key Pathways
+  of Oral Cancer.
+citation: Fatema Akhter, et al. Curr Issues Mol Biol. 2022 Aug;44(8):3552-3572.
+year: '2022'
+
+doi: 10.3390/cimb44080244
+journal_title: Current Issues in Molecular Biology
+journal_nlm_ta: Curr Issues Mol Biol
+publisher_name: MDPI
+
+keywords:
+- biomarkers
+- drug signature identification
+- key pathways
+- oral cancer
+- oral squamous cell carcinoma
+
+---

@@ -1,0 +1,46 @@
+---
+figid: PMC9387775__gr1
+pmcid: PMC9387775
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC9387775/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: A pan-cancer proteomic map of 949 human cancer cell lines(A) Methodology
+  overview for pan-cancer characterization of 949 human cell lines using a DIA-MS
+  workflow.(B) Proteomic measurements were integrated with independent molecular and
+  phenotypic datasets spanning 1,303 cancer cell lines as part of the Cell Model Passports
+  Database. Data include proteomics (ProCan-DepMapSanger) presented here, transcriptomics,
+  drug response (Sanger), mutation, copy number, methylation, drug response (CTD2),
+  CRISPR-Cas9 gene essentiality (Broad&Sanger), drug response (PRISM), and proteomics
+  (CCLE). Each gray slice denotes a unique cell line, and the total number of cell
+  lines per dataset is indicated. The proteomic data (ProCan-DepMapSanger) generated
+  in this study are shown in orange, as well as the expanded drug response (Sanger)
+  dataset.(C) Number of drugs included in the drug response (Sanger) screen, with
+  the orange bar highlighting the additional number of unique drugs presented in this
+  study compared to previous studies. Drugs are grouped by the pathway of their canonical
+  targets.(D) Pearson’s correlations of the proteomes for each set of six technical
+  replicates, as well as each cancer type, tissue type, batch and instrument. Random
+  indicates the correlation between random unmatched sets of replicates. Median Pearson’s
+  r for each group is reported. Box-and-whisker plots indicate interquartile range
+  (IQR) with a line at the median. Whiskers represent the minimum and maximum values
+  at 1.5 × IQRs.See also ,  and .
+article_title: Pan-cancer proteomic map of 949 human cell lines.
+citation: Emanuel Gonçalves, et al. Cancer Cell. 2022 Aug 8;40(8):835-849.e8.
+year: '2022'
+
+doi: 10.1016/j.ccell.2022.06.010
+journal_title: Cancer Cell
+journal_nlm_ta: Cancer Cell
+publisher_name: Cell Press
+
+keywords:
+- proteomics
+- cancer
+- cell line
+- mass spectrometry
+- drug response
+- CRISPR-Cas9
+- gene essentiality
+- cancer vulnerability
+
+---

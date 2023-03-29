@@ -1,0 +1,50 @@
+---
+figid: PMC9481969__develop-149-200312-g6
+pmcid: PMC9481969
+image_filename: develop-149-200312-g6.jpg
+figure_link: /pmc/articles/PMC9481969/figure/DEV200312F6/
+number: Fig. 6
+figure_title: ''
+caption: 'Integrated comparison of gene expression pattern similarity across Wnt,
+  Fzd and other pathway component genes. (A) E11.5 example of the visual analysis
+  carried out; all virtual sections are identical, mid-sagittal. The top row shows
+  the territories where zero Wnts are detected (0 Wnt), where individual Wnt genes
+  are expressed uniquely (1 Wnt), where 2 or more (2+ Wnts) or 3 or more (3+ Wnts)
+  genes are co-expressed and where canonical Wnt pathway read-out is detected (Tcf/Lef-GFP).
+  Rows 2 and 3 represent mapped expression of each of the Wnt family genes as indicated.
+  The analysis included viewing the full set of sections in all orientations and across
+  stages. (Bi) Network diagrams representing the similarities between Wnt expression
+  pattern across time. The lines connecting nodes represent the JI of similarity (intersection/union),
+  with thickness scaled as shown. Each ‘node’ represents a Wnt gene as indicated (e.g.
+  3a=Wnt3a). For comparison of the network, thresholds were adjusted to show the 15
+  genes with expression patterns most similar to other Wnt genes at each stage. Blue
+  circles enclose the group with most highly similar expression patterns, consistent
+  across stages (Group 1). Red circles enclose the most divergent expression patterns
+  (Group 3). (Bii) Visual illustration of the nature of the lines connecting genes
+  in the network focussing on the most highly connected genes at E10.5; Wnt3, 3a,
+  4 and 10a. The mapped Wnt expression patterns are shown here in projection through
+  a 3D view of the reference model embryo, at each corner of the network (as indicated).
+  Intersection domains, where each pair of expression patterns intersect, are shown
+  on the lines connecting that gene pair. (C) Top 34 similarity scores among all Wnt
+  genes across stages. The horizontal axis refers to JI (red, E11.5; yellow, E10.5;
+  blue, E9.5). (D) Domains of multiple Fzd expression patterns (2+ Fzds) correspond
+  well to territories of canonical pathway read-out (Tcf/Lef-GFP). Fzd expression
+  patterns fall within two classes: class 1 (row 2) are similar to canonical read-out,
+  Tcf/Lef transcription factor and Sfrp family member expression patterns (row 1,
+  right). Example patterns at E11.5 are shown.'
+article_title: Integrated analysis of Wnt signalling system component gene expression.
+citation: Paula Murphy, et al. Development. 2022 Aug 15;149(16):dev200312.
+year: '2022'
+
+doi: 10.1242/dev.200312
+journal_title: Development (Cambridge, England)
+journal_nlm_ta: Development
+publisher_name: The Company of Biologists Ltd
+
+keywords:
+- Wnt signalling
+- 3D imaging
+- Integrated analysis
+- Computational analysis
+
+---
