@@ -1,0 +1,26 @@
+---
+figid: PMC9614987__cr1c01031_0013
+pmcid: PMC9614987
+image_filename: cr1c01031_0013.jpg
+figure_link: /pmc/articles/PMC9614987/figure/fig13/
+number: Figure 13
+figure_title: ''
+caption: Workflow for data (pre)processing and analysis. The various steps (1–8) involve
+  preprocessing of raw data into clean data. Eventually, the data is normalized, and
+  each analyte will be relatively quantified based upon the total summed area of all
+  analytes observed in a measurement (%area), also known as direct glycosylation traits.
+  To obtain insights in the biosynthetic pathway specific glycosylation features can
+  be summed (e.g., galactosylation, sialylation, fucosylation). Either the direct
+  or derived glycosylation traits can be used for statistical evaluation and the whole
+  data set can be integrated with other data sets (e.g., proteomics or genomics).
+article_title: High-Throughput Glycomic Methods.
+citation: Irena Trbojević-Akmačić, et al. Chem Rev. 2022 Oct 26;122(20):15865-15913.
+year: '2022'
+
+doi: 10.1021/acs.chemrev.1c01031
+journal_title: Chemical Reviews
+journal_nlm_ta: Chem Rev
+publisher_name: American Chemical Society
+
+keywords:
+---

@@ -1,0 +1,31 @@
+---
+figid: PMC9569810__ijms-23-11975-g007
+pmcid: PMC9569810
+image_filename: ijms-23-11975-g007.jpg
+figure_link: /pmc/articles/PMC9569810/figure/ijms-23-11975-f007/
+number: Figure 7
+figure_title: ''
+caption: Visualization of joint pathway enrichment analyses. Graph that resulted from
+  the joint pathway enrichment analysis using MetaboAnalyst of the proteins and metabolites
+  that altered significantly (p value < 0.05) in resistant Hep3B cells vs. parental
+  Hep3Bcells. Nodes are colored according to p value. Significant pathways are colored
+  red, while non-significant pathways are colored yellow to white. Nodes are sized
+  according to the number of associated members proteins and/or metabolites.
+article_title: Multi-Omics Analysis Revealed a Significant Alteration of Critical
+  Metabolic Pathways Due to Sorafenib-Resistance in Hep3B Cell Lines.
+citation: Kholoud Y. I. Abushawish, et al. Int J Mol Sci. 2022 Oct;23(19):11975.
+year: '2022'
+
+doi: 10.3390/ijms231911975
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- proteomics
+- metabolomics
+- parental Hep3B cells
+- sorafenib-resistant Hep3B cells
+- UHPLC-QTOF-MS
+
+---

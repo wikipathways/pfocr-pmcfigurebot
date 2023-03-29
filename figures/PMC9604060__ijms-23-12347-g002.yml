@@ -1,0 +1,45 @@
+---
+figid: PMC9604060__ijms-23-12347-g002
+pmcid: PMC9604060
+image_filename: ijms-23-12347-g002.jpg
+figure_link: /pmc/articles/PMC9604060/figure/ijms-23-12347-f002/
+number: Figure 2
+figure_title: ''
+caption: The impact of light on the expression of Cdr1as and associated genes. Evidence
+  plots show enrichment of SCN immediate light-induced genes (defined in Xu et al.
+  []) in the (A) cortex and (B) olfactory bulb of Cdr1as KO mice. The X-axis shows
+  the list of sorted genes (by adj. p-value Cdr1as KO vs. WT) from polyA RNA-Seq in
+  Piwecka et al. []. Y-axis is the fraction of the gene set defined by Xu et al.,
+  2021 []. In red are genes upregulated in Cdr1as KO with adj. p-value < 0.05. (C)
+  Log2 expression (normalized to the temporal mean) of the top 50 genes (sorted by
+  FPKM) from the twin-peak module in the LD cycle []. (D) The same set of genes (as
+  in C) in the DD cycle. Cheng et al. [] measured RNA expression in control and Sox2
+  mutant mice in the DD cycle at four different time points. Here, we used only control
+  samples. (E) Cdr1as and miR-7 are both expressed in the SCN. Predicted targets of
+  miR-7 were downloaded from Targetscan []. Twin-peak genes are defined in Pembroke
+  et al. []. The immediate light-induced gene module is from Xu et al. []. The annotation
+  of other pathway modules is from the MsigDB database.
+article_title: Analyses of circRNA Expression throughout the Light-Dark Cycle Reveal
+  a Strong Regulation of Cdr1as, Associated with Light Entrainment in the SCN.
+citation: Andranik Ivanov, et al. Int J Mol Sci. 2022 Oct;23(20):12347.
+year: '2022'
+
+doi: 10.3390/ijms232012347
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- circular RNA (circRNA)
+- Cdr1as
+- circadian rhythm
+- suprachiasmatic nucleus
+- SCN
+- non-coding RNA
+- Cyrano
+- light entrainment
+- miR-7
+- light-dark
+- wake-sleep
+
+---

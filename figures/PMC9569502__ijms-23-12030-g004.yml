@@ -1,0 +1,42 @@
+---
+figid: PMC9569502__ijms-23-12030-g004
+pmcid: PMC9569502
+image_filename: ijms-23-12030-g004.jpg
+figure_link: /pmc/articles/PMC9569502/figure/ijms-23-12030-f004/
+number: Figure 4
+figure_title: ''
+caption: Wnt pathway transcriptional dysregulation in the EZ and PIZ during the first
+  2 weeks of epileptogenesis. Modified KEGG pathways representing canonical and non-canonical
+  planar cell polarity and calcium pathway Wnt signaling 3 days after SE induction
+  in the (A) EZ and (B) PIZ. Scale bar represents log2 fold-change in transcription;
+  green color denotes upregulation and red color denotes downregulation. Modified
+  KEGG Wnt signaling pathways for other time-points can be found in . Whole transcriptome
+  volcano plots with Wnt signaling mediators individually labeled in the EZ (C) 3
+  days, (D) 7 days, and (E) 14 days, and in the PIZ (F) 3 days, (G) 7 days, and (H)
+  14 days after SE induction; dashed lines denote FDR < 0.01 and FC > ±1.5 (equivalent
+  to log2 fold-change > ±0.585). Pink dots represent genes with FDR < 0.01, FC > ±1.5;
+  orange dots represent genes with FDR < 0.01, FC < ±1.5; green dots represent genes
+  with FDR > 0.01, FC > ±1.5; gray dots represent genes with FDR > 0.01, FC < ±1.5.
+  Log2 fold-change values and adjusted p-values for these Wnt genes can be found in
+  .
+article_title: Transcriptome Profiling of the Hippocampal Seizure Network Implicates
+  a Role for Wnt Signaling during Epileptogenesis in a Mouse Model of Temporal Lobe
+  Epilepsy.
+citation: Muriel D. Mardones, et al. Int J Mol Sci. 2022 Oct;23(19):12030.
+year: '2022'
+
+doi: 10.3390/ijms231912030
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- hippocampus
+- mechanisms
+- adult hippocampal neurogenesis
+- translational research
+- epilepsy
+- Wnt signaling
+- neuroinflammation
+
+---

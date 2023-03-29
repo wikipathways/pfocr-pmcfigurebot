@@ -1,0 +1,51 @@
+---
+figid: PMC9609684__pharmaceutics-14-02214-g006
+pmcid: PMC9609684
+image_filename: pharmaceutics-14-02214-g006.jpg
+figure_link: /pmc/articles/PMC9609684/figure/pharmaceutics-14-02214-f006/
+number: Figure 6
+figure_title: ''
+caption: 'Hematoxylin and eosin (H&E) staining. (A) H&E staining of some tumors as
+  examples of the different groups and the pixel classification; red-colored pixels
+  show the tumor viable cells, black-colored pixels show the necrotic cells, and green-colored
+  pixels show the stroma. (B) Bars show the average percentage of necrotic cells,
+  viable cells, and stroma per individual tumor per group (G3–G9). Images were taken
+  from QuPath software set at a 0.5× magnification; the scale bar is equal to 2 mm.
+  An ANOVA test was computed to compare the necrotic area percentage between groups.
+  In the graph, different letters inside the bars indicate differences (p < 0.0001)
+  in the necrotic area between the groups. Controls G1 and G2 (no tumor developed)
+  treated with liposomes loaded with lunasin 30 mg/kg BW and unsaponifiable matter,
+  either applied topically or injected subcutaneously, respectively; G3, untreated
+  positive group (tumor-bearing mice); G4, empty liposomes topically applied (tumor-bearing
+  mice); G5, empty liposomes injected subcutaneously (tumor-bearing mice); treated
+  groups (with tumor transplantation): G6, liposomes loaded with 30 mg/kg BW lunasin
+  applied topically applied; G7, liposomes loaded with 30 mg/kg BW lunasin injected
+  subcutaneously; G8, liposomes loaded with 15 mg/kg BW lunasin applied topically;
+  G9, liposomes loaded with 15 mg/kg BW lunasin injected subcutaneously. Pearson’s
+  correlation showed a negative correlation (r = −0.83, p < 0.05) between tumor size
+  and caspase-3 expression. Therefore, the caspase-3 expression was higher in tumors
+  with a smaller size and lower in tumors with a higher tumor volume. Tumors treated
+  with UM + LunLip under-expressed the proliferation markers Ki-67 and GSK-3β and
+  overexpressed caspase-3 (). In general, these results suggest the activation of
+  the apoptosis pathway through caspase-3 overexpression, which could be initiated
+  after GSK-3β inhibition. The UM + LunLip treatments affected cell cycle progression,
+  as indicated by the under-expression of Ki-67.'
+article_title: Liposomes Loaded with Amaranth Unsaponifiable Matter and Soybean Lunasin
+  Prevented Melanoma Tumor Development Overexpressing Caspase-3 in an In Vivo Model.
+citation: Erick Damian Castañeda-Reyes, et al. Pharmaceutics. 2022 Oct;14(10):2214.
+year: '2022'
+
+doi: 10.3390/pharmaceutics14102214
+journal_title: Pharmaceutics
+journal_nlm_ta: Pharmaceutics
+publisher_name: MDPI
+
+keywords:
+- melanoma
+- liposomes
+- soybean lunasin
+- squalene from amaranth (Amaranthus hypochondriacus)
+- in vivo model
+- C57BL/6 mice
+
+---

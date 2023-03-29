@@ -1,0 +1,37 @@
+---
+figid: PMC9537037__GR2022-8213723.004
+pmcid: PMC9537037
+image_filename: GR2022-8213723.004.jpg
+figure_link: /pmc/articles/PMC9537037/figure/fig4/
+number: Figure 4
+figure_title: ''
+caption: 'Generation of a bone metastasis-related ceRNA network. (a-c) Differentially
+  expressed lncRNAs (a), miRNAs (b), and mRNAs (c) identified when comparing the LRBM
+  and HRBM cohorts. The top 10 upregulated and downregulated genes are shown for each
+  category, with horizontal lines corresponding to an adjusted P value of 0.05. (a,
+  c) Vertical lines correspond to a log2 (fold change) at −1 and 1. (b) Vertical lines
+  correspond to a log2 (fold change) at −0.58 and 0.58. (d) A ceRNA network was generated
+  in which lncRNAs, miRNAs, and mRNAs were represented by hexagons, rhombuses, and
+  ovals, respectively. (e) Enriched GO terms associated with mRNAs differentially
+  expressed between the LRBM and HRBM cohorts, with the top 10 terms in each of three
+  categories being shown. BP: biological processes. CC: cell component. MF: molecular
+  function. (f) KEGG enrichment analyses for mRNAs differentially expressed in the
+  HRBM and LRBM cohorts. The brown module was composed of five genes that were upregulated
+  in HRBM patient samples, among which COL10A1 was the hub gene (). These five genes
+  were enriched for GO terms including extracellular matrix structural constituent,
+  extracellular matrix structural constituent conferring tensile strength, heparin
+  binding, glycosaminoglycan binding, and sulfur compound binding (), as well as the
+  protein digestion and absorption of KEGG pathway (). In the brown module PPI network,
+  COL11A1 and COL10A1 were predicted to interact ().'
+article_title: An Integrative Multi-Omics Analysis Based on Nomogram for Predicting
+  Prostate Cancer Bone Metastasis Incidence.
+citation: Jun Zhao, et al. Genet Res (Camb). 2022;2022:8213723.
+year: '2022'
+
+doi: 10.1155/2022/8213723
+journal_title: Genetics Research
+journal_nlm_ta: Genet Res (Camb)
+publisher_name: Hindawi
+
+keywords:
+---

@@ -1,0 +1,35 @@
+---
+figid: PMC9562240__cancers-14-04923-g005
+pmcid: PMC9562240
+image_filename: cancers-14-04923-g005.jpg
+figure_link: /pmc/articles/PMC9562240/figure/cancers-14-04923-f005/
+number: Figure 5
+figure_title: ''
+caption: Spatial transcriptomic analysis of tumor-adjacent stroma and tumor. Heatmaps
+  generated using the normalized expression values for genes from the Cancer Transcriptome
+  Atlas, CTA panel for comparisons between (A) tumor epithelium and tumor-adjacent
+  stroma and (B) CD45+ tumor epithelium and CD45+ tumor-adjacent stroma. The most
+  significant genes (FDR < 0.2 and p-value < 0.05) that were differentially expressed
+  among pairs of ROIs are shown. (C) Bar diagrams depicting selected significant pathways
+  (p < 0.05) associated with downregulated genes and selected significant pathways
+  (p < 0.05) associated with upregulated genes in TAS as compared to tumor. Complete
+  pathway analysis can be found in , FDR = false discover rate; ROI = region of interest;
+  TAS = tumor-adjacent stroma.
+article_title: Spatial Profiling of the Prostate Cancer Tumor Microenvironment Reveals
+  Multiple Differences in Gene Expression and Correlation with Recurrence Risk.
+citation: Vinay Kumar, et al. Cancers (Basel). 2022 Oct;14(19):4923.
+year: '2022'
+
+doi: 10.3390/cancers14194923
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- prostate cancer
+- tumor microenvironment
+- Digital Spatial profiling
+- OX40L
+- CTLA4
+
+---

@@ -1,0 +1,42 @@
+---
+figid: PMC9547923__41419_2022_5307_Fig4_HTML
+pmcid: PMC9547923
+image_filename: 41419_2022_5307_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9547923/figure/Fig4/
+number: Fig. 4
+figure_title: PLEKHH2 promotes the malignant phenotype of lung cancer cells by activating
+  the PI3K/AKT signaling pathway
+caption: A GSEA analysis showed that, in lung adenocarcinoma, the expression of PLEKHH2
+  enriched in PI3K regulator activity in the TCGA cohort. B GEPIA analysis showed
+  that PLEKHH2 was positively correlated with AKT and MAPK in lung adenocarcinoma
+  (LUAD) and lung squamous cell carcinoma (LUSC). C The upregulation of PLEKHH2 significantly
+  increased p-PI3K and p-AKT levels. The p-ERK level was not significantly upregulated,
+  and the expression of total PI3K, AKT, and ERK did not change. In the cells with
+  downregulated PLEKHH2 expression, p-PI3K and p-AKT levels were decreased, but p-ERK
+  did not show a significant reduction. There was no significant change in total PI3K,
+  AKT, and ERK proteins. D After inhibiting the PI3K signaling pathway via LY294002
+  treatment, an upregulation in PLEKHH2 expression did not significantly increase
+  p-PI3K, p-AKT, and proliferation- and invasion-related proteins, as evidenced via
+  western blotting. Statistical analysis in lung cancer cell lines is shown in Supplementary
+  Fig. A and . Results of the clone formation assay (E, Statistical analysis is shown
+  in Supplementary Fig. C and ), CCK-8 assay (F), and Matrigel Transwell assay (G,
+  Statistical analysis is shown in Supplementary Fig. E and ) showed that the upregulation
+  PLEKHH2 expression had no significant effect on cell proliferation and invasion
+  ability after treatment with LY294002. P < 0.05 indicates statistical significance,
+  *P < 0.05, **P < 0.01.
+article_title: PLEKHH2 binds β-arrestin1 through its FERM domain, activates FAK/PI3K/AKT
+  phosphorylation, and promotes the malignant phenotype of non-small cell lung cancer.
+citation: Rui Wang, et al. Cell Death Dis. 2022 Oct;13(10):858.
+year: '2022'
+
+doi: 10.1038/s41419-022-05307-5
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Non-small-cell lung cancer
+- Cell invasion
+- Growth factor signalling
+
+---

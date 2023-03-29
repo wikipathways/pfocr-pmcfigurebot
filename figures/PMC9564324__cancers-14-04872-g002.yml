@@ -1,0 +1,45 @@
+---
+figid: PMC9564324__cancers-14-04872-g002
+pmcid: PMC9564324
+image_filename: cancers-14-04872-g002.jpg
+figure_link: /pmc/articles/PMC9564324/figure/cancers-14-04872-f002/
+number: Figure 2
+figure_title: ''
+caption: 'Gene expression data groups tumors with diverse genetic alterations that
+  affect similar biological processes. Tumors were clustered in four groups (EX1–EX4)
+  based on their resemblance to the four expression profiles identified by unsupervised
+  analysis of the 10,000 most variably expressed genes (see methods). (A) Tumors (columns)
+  of each expression cluster show upregulation of the genes (rows) of the corresponding
+  expression profile compared to tumors of other expression clusters. Shown are the
+  top 50 genes of each expression profile sorted by log2-fold change (l2fc). Tumors
+  are annotated by their histological subtype. (B) Representative biological processes
+  enriched in expression profiles (q-value < 0.05). (C) Oncoplot of tumors grouped
+  by their expression cluster with alterations (left) and CN profiles with SVs (right),
+  similar to . The Oncoplot displays alterations affecting recurrently altered cancer
+  genes, Wnt pathway genes and WT associated genes from Treger et. al. (2019) [].
+  Alteration types: SNVs (purple) and SV breakpoints (light green), as well as nearby
+  or overlapping SVs (dark green) and CNs (orange) in case of a gene expression change
+  (nz-score >+/−1.98). The CNs and SVs are displayed for recurrently altered chromosomes
+  1, 8, 11, 12, 16 and 17, depicted as in B. See  for gene alteration data and  and  for
+  full sized figures.'
+article_title: Molecular Characterization Reveals Subclasses of 1q Gain in Intermediate
+  Risk Wilms Tumors.
+citation: Ianthe A. E. M. van Belzen, et al. Cancers (Basel). 2022 Oct;14(19):4872.
+year: '2022'
+
+doi: 10.3390/cancers14194872
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- pediatric cancer
+- Wilms tumor
+- structural variation
+- chromosomal alterations
+- 1q gain
+- WGS
+- RNA-seq
+- cancer genomics
+
+---

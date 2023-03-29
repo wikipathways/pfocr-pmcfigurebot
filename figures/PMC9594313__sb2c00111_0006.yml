@@ -1,0 +1,34 @@
+---
+figid: PMC9594313__sb2c00111_0006
+pmcid: PMC9594313
+image_filename: sb2c00111_0006.jpg
+figure_link: /pmc/articles/PMC9594313/figure/fig5/
+number: Figure 5
+figure_title: ''
+caption: Dynamic regulation of 4CL in the naringenin synthetic pathway. The strain
+  contains one copy of 4CL, four copies of CHS, and four copies of CHI for naringenin
+  production from supplemented p-coumarate and malonate. Malonyl-CoA is produced endogenously
+  by Acc1-catalyzed carboxylation of acetyl-CoA. A malonate transporter, SpMae1, and
+  malonyl-CoA synthetase, RtMatB, were introduced for malonate assimilation to further
+  increase the malonyl-CoA supply. The transcriptional repressor FapR was utilized
+  to regulate 4CL expression in response to intracellular malonyl-CoA levels, while
+  CouR was employed for indirect control of 4CL expression through FapR, in feedback
+  to p-coumaroyl-CoA concentrations in the cell.
+article_title: A p-Coumaroyl-CoA Biosensor for Dynamic Regulation of Naringenin Biosynthesis
+  in Saccharomyces cerevisiae.
+citation: Dany Liu, et al. ACS Synth Biol. 2022 Oct 21;11(10):3228-3238.
+year: '2022'
+
+doi: 10.1021/acssynbio.2c00111
+journal_title: ACS Synthetic Biology
+journal_nlm_ta: ACS Synth Biol
+publisher_name: American Chemical Society
+
+keywords:
+- yeast
+- flavonoids
+- transcriptional regulation
+- transcription repressor
+- dynamic pathway control
+
+---

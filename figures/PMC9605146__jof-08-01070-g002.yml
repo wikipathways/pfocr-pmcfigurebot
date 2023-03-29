@@ -1,0 +1,44 @@
+---
+figid: PMC9605146__jof-08-01070-g002
+pmcid: PMC9605146
+image_filename: jof-08-01070-g002.jpg
+figure_link: /pmc/articles/PMC9605146/figure/jof-08-01070-f002/
+number: Figure 2
+figure_title: ''
+caption: Genes differentially expressed in the presence of VRC. (a) Volcano plot of
+  differentially expressed genes (DEGs) showing the log10 q-value (y-axis) vs. log2
+  fold change (x-axis). The cut-off values (dotted grey lines) used to define significant
+  DEGs were a q-value of < 0.05 and a log2 fold change > |1|, i.e., larger than 2-fold.
+  (b) Heatmap dendrogram (blue = down-regulation, red = up-regulation) for the normalized
+  mRNA expression levels (log2 of FPKMs) of the 316 DEGs relative to their combined
+  average expression levels for each of the three biological replicates grown in the
+  absence (UT1, UT2, UT3) or presence (80 min; T1, T2, T3) of sub-growth inhibitory
+  concentrations of VRC (16 mg/L). The hierarchical clustering indicates biologically
+  meaningful results. Colours of the vertical bar next to the y-axis dendrogram indicate
+  different levels of down-regulation (cyan-blue) or up-regulation (orange-magenta-red)
+  of groups of transcripts.
+article_title: Voriconazole Treatment Induces a Conserved Sterol/Pleiotropic Drug
+  Resistance Regulatory Network, including an Alternative Ergosterol Biosynthesis
+  Pathway, in the Clinically Important FSSC Species, Fusarium keratoplasticum.
+citation: Jasper E. James, et al. J Fungi (Basel). 2022 Oct;8(10):1070.
+year: '2022'
+
+doi: 10.3390/jof8101070
+journal_title: Journal of Fungi
+journal_nlm_ta: J Fungi (Basel)
+publisher_name: MDPI
+
+keywords:
+- FSSC
+- cyp51
+- erg6
+- ebp1
+- SR
+- AtrR
+- ABC transporters
+- azole
+- antifungal resistance
+- ergosterol biosynthesis
+- cholesterol biosynthesis
+
+---

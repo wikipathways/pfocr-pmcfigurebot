@@ -1,0 +1,37 @@
+---
+figid: PMC9579025__gr5
+pmcid: PMC9579025
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC9579025/figure/fig5/
+number: Figure 5
+figure_title: ''
+caption: Differential gene expression between L-DOPA WT vs 6-OHDA WT and L-DOPA iMSN-D2RKO
+  vs 6-OHDA iMSN-D2RKO mice(A) Volcano plot based on the −log10 adjusted p value versus
+  the log2FC of the DLS transcriptome (L-DOPA mice vs 6-OHDA mice in both genotypes).
+  Cut-offs are shown as dotted lines (p-adj < 0.01) and log2FC ± 20%. The numbers
+  in red refer to downregulated genes, the numbers in blue refer to up-regulated genes
+  with respect to the 6-OHDA mice. The genes named in the volcano plot are the 5 common
+  genes observed in 6-OHDA WT and iMSN-D2RKO mice following L-DOPA treatment. (B)
+  Pie charts represent protein functionality analysis of DEGs for WT and iMSN-D2RKO
+  mice after L-DOPA treatment. The most representative categories are shown in the
+  legend.(C) KEGG pathway analysis showing the most enriched pathways respectively
+  to the comparison of L-DOPA vs 6-OHDA mice of each genotype. KEGG p-value <0.05
+  (shown as -Log10).(D) Three heat maps (sham, 6-OHDA, L-DOPA) representing differences
+  in expression (z-score) between WT and iMSN-D2RKO mice of genes related to D2 pathway
+  activation and several transcription factors.
+article_title: D2R signaling in striatal spiny neurons modulates L-DOPA induced dyskinesia.
+citation: Ermanno Florio, et al. iScience. 2022 Oct 21;25(10):105263.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.105263
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Biological sciences
+- Neuroscience
+- Behavioral neuroscience
+- Transcriptomics
+
+---

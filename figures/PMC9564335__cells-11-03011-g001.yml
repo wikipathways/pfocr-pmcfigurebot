@@ -1,0 +1,40 @@
+---
+figid: PMC9564335__cells-11-03011-g001
+pmcid: PMC9564335
+image_filename: cells-11-03011-g001.jpg
+figure_link: /pmc/articles/PMC9564335/figure/cells-11-03011-f001/
+number: Figure 1
+figure_title: ''
+caption: 'Cisplatin induces specific immune effects in bladder cancer cell line. T24
+  cell lines were treated with 2 μg/mL cisplatin (T24 DDP group) or PBS (T24 PBS group)
+  for 24 h at standard condition. (A) The different genes expression panels between
+  T24 DDP group and T24 PBS group were showed in heatmap. (B) Gene expression levels
+  were quantified as Fragments Per Kilobase Million (FPKM) and then Log2–transformed
+  as A value. The significant different expression genes were identified as absolute
+  fold change of A value > 1.5 and Padj (adjust p) value < 0.05 between two groups.
+  Finally, the volcano map showed 235 up genes and 129 down genes with significant
+  difference. (C) Go pathways with Padj value < 0.05 were showed here between T24
+  DDP group and T24 PBS group. (D) Gene set enrichment analysis (GSEA) in: Interferon
+  α, β signaling (p < 0.001), cytokines and inflammatory response (p < 0.001) and
+  cytosolic DNA sensing pathway (p < 0.002). (E) Relative transcription levels of
+  genes expression involved in IRF3 and NF-κB signal pathway or targeting genes in
+  T24 DDP group and T24 PBS group. Gene expressions were normalized by R software
+  from −1.5 to 1.5 (Low to high, blue to red).'
+article_title: 'Activation of cGAS-STING Signal to Inhibit the Proliferation of Bladder
+  Cancer: The Immune Effect of Cisplatin.'
+citation: Guanghou Fu, et al. Cells. 2022 Oct;11(19):3011.
+year: '2022'
+
+doi: 10.3390/cells11193011
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- bladder cancer
+- cisplatin
+- cGAS-STING
+- DNA damage
+- chromatin bound
+
+---

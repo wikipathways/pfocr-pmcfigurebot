@@ -1,0 +1,41 @@
+---
+figid: PMC9562862__cells-11-03046-g005
+pmcid: PMC9562862
+image_filename: cells-11-03046-g005.jpg
+figure_link: /pmc/articles/PMC9562862/figure/cells-11-03046-f005/
+number: Figure 5
+figure_title: ''
+caption: E2F1 regulates miRNA-206 and miRNA-210 expression. (A–C). E2F1 ChIP-seq results
+  in multiple non-cancerous and cancer cells mined from publicly available databases
+  (see Methods for detail). Depicted are genomic regions in the vicinity of CDK1–a
+  classical E2F1 target gene (A), miRNA-210 (B), and miRNA-206 (C). (D) HEK-293 cells
+  were grown to 80% confluence in 6 well plates and subjected to E2F1 knockdown using
+  either non-coding siRNA (si_NS) or anti-E2F1 siRNA (si_E2F1), incubated for 48h,
+  then snap-frozen and processed for miRNA purification. Expression levels of miRNA-206
+  and miRNA-210-5p were measured using qRT-PCR. Presented are results of four experiments,
+  each with two biological replicates and two technical replicates. (E). Cells were
+  transfected with plasmids encoding either “empty” pCMV plasmid or a pCMV-hE2F1 plasmid,
+  incubated for 48h, then snap-frozen and processed for miRNA isolation. Expression
+  levels of miRNA-206 and miRNA-210-5p were measured using qRT-PCR. Presented are
+  results of three experiments, each with two biological replicates and two technical
+  replicates. Results are mean ± SEM. ** = Pv ≤ 0.01. Comparison of means was done
+  using Mann-Whitney non-parametric test. Effective E2F1 knock-down/over-expression
+  using the exact siRNA/plasmid transfection protocol was demonstrated elsewhere (1).
+article_title: Visceral Adipose Tissue E2F1-miRNA206/210 Pathway Associates with Type
+  2 Diabetes in Humans with Extreme Obesity.
+citation: Nitzan Maixner, et al. Cells. 2022 Oct;11(19):3046.
+year: '2022'
+
+doi: 10.3390/cells11193046
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- obesity
+- E2F1
+- miR-206
+- miR-210-5p
+- dys-glycemia
+
+---

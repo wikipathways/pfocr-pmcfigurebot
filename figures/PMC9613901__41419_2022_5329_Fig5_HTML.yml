@@ -1,0 +1,58 @@
+---
+figid: PMC9613901__41419_2022_5329_Fig5_HTML
+pmcid: PMC9613901
+image_filename: 41419_2022_5329_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC9613901/figure/Fig5/
+number: Fig. 5
+figure_title: AMPK activation elevates autophagy in IK-deficient cells
+caption: 'A Western blot analysis of αTubulin, LC3B (I + II), ULK1, phosphorylated
+  ULK1 at Ser555, p62 and GAPDH of protein lysates obtained from MMTV-PyMT WT (left)
+  and MMTV-PyMT IK KO (right) cells. Data represents average ±SEM of n = 6 independent
+  experiments per genotype. B Quantification of Western blot band intensities as demonstrated
+  in A and normalization of LC3B (I + II) on αTubulin and ULK1, pULK1 and p62 on GAPDH
+  of MMTV-PyMT WT (black bar) and MMTV-PyMT IK KO (red bar). Bars represent average
+  ±SEM, n = 6 with *p ≤ 0.05 and ***p ≤ 0.001, unpaired t-test. C Ratio of phosphorylated
+  ULK1 to total ULK1 protein normalized on GAPDH of MMTV-PyMT WT (black bar) and MMTV-PyMT
+  IK KO (red bar). Bars represent average ±SEM, n = 6 with ***p ≤ 0.001, unpaired
+  t-test. D Representative immunofluorescence (IF) staining of DAPI (left panel, blue,
+  left), p62 (left panel, green, middle left), Phalloidin (left panel, orange, middle
+  right) and pseudocoloured CellProfiler overlay images (left panel, merged, right)
+  and quantification of p62 puncta per cell (right panel) of MMTV-PyMT WT (black bars)
+  and MMTV-PyMT IK KO (red bars). Bars represent average ±SEM, n = 4 with ***p ≤ 0.001,
+  unpaired t-test. Scalebar = 10 µm. E Summarizing scheme of autophagic pathway and
+  the consequence of IK channel deficiency (red arrows). AKT: Protein kinase B; mTORC1:
+  Mammalian target of rapamycin complex 1; TSC1/2: Tuberous sclerosis proteins 1/2.
+  F Representative FRET (left panel, yellow, left), CFP (left panel, cyan, middle)
+  and pseudocoloured FRET-ratio images (left panel, 16-colors, right) and basal FRET-ratio
+  signals (right panel) of MMTV-PyMT WT (black bar) and MMTV-PyMT IK KO cells (red
+  bar) expressing AKTAR, a FRET-based AKT indicator (AKTact). Bars represent average
+  ±SEM, n = 5, unpaired t-test. Scalebar = 20 µm. G Representative FRET (left panel,
+  yellow, left), CFP (left panel, cyan, middle) and pseudocoloured FRET-ratio images
+  (left panel, 16-colors, right) and basal FRET-ratio signals (mean of 5 min measurement,
+  right panel) of MMTV-PyMT WT (black bar) and MMTV-PyMT IK KO cells (red bar) expressing
+  TORCAR, a FRET-based mTORC1 indicator (mTORC1act). Bars represent average ±SEM,
+  n = 6, unpaired t-test. Scalebar = 20 µm. H Summarizing scheme of metabolic pathway
+  and the influence of IK channel deficiency (red arrows). Lack of IK results in a
+  decreased Ca2+ load in multiple cellular compartments affecting mitochondrial ATP-production.
+  Consistent with lower glycolytic activity in MMTV-PyMT IK KO cells, these events
+  trigger AMPK activation, leading to compensatory induction of autophagy. Together
+  with the postulated lower energy consumption, autophagy explains the enhanced cytosolic
+  ATP level in IK-depleted cells. Figure created using BioRender.'
+article_title: IKCa channels control breast cancer metabolism including AMPK-driven
+  autophagy.
+citation: Dominic Gross, et al. Cell Death Dis. 2022 Oct;13(10):902.
+year: '2022'
+
+doi: 10.1038/s41419-022-05329-z
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Autophagy
+- Potassium channels
+- Breast cancer
+- Cellular imaging
+- Cancer metabolism
+
+---

@@ -1,0 +1,39 @@
+---
+figid: PMC9561794__ADVS-9-2201992-g007
+pmcid: PMC9561794
+image_filename: ADVS-9-2201992-g007.jpg
+figure_link: /pmc/articles/PMC9561794/figure/advs4406-fig-0003/
+number: Figure 3
+figure_title: ''
+caption: Functional enrichment and cluster analysis of differentially expressed proteins
+  (DEPs) between the KD and SD groups. A) Principal coordinates analysis (PCA) of
+  tumor tissues collected from the KD (left) and SD (right) groups treated for 16
+  d in PDX1 (n = 3 samples/arm). B) Comparison of protein expression in the KD versus
+  SD group (n = 3 samples/arm). Differentially expressed proteins are highlighted
+  with red (fold change > 1.5) or blue (fold change < 1/1.5). C) KEGG pathway enrichment
+  of upregulated proteins. D–F) Functional enrichment of upregulated proteins according
+  to GO “biological process,” “molecular function,” and “cellular component” between
+  the KD and SD groups (KD/SD). G) Functional enrichment of downregulated proteins
+  according to GO “molecular function” between the KD and SD groups (KD/SD). H) Protein‒protein
+  interaction (PPI) network of differentially expressed molecules. Red indicates upregulated
+  molecules, and green indicates downregulated molecules. I) Relative protein expression
+  of metabolic molecules associated with ketolytic, OXPHOS, and glycolytic pathways
+  (Rel. expression, the ratio between KD and SD groups, KD/SD).
+article_title: Metabolism‐Based Molecular Subtyping Endows Effective Ketogenic Therapy
+  in p53‐Mutant Colon Cancer.
+citation: Meng Tang, et al. Adv Sci (Weinh). 2022 Oct;9(29):2201992.
+year: '2022'
+
+doi: 10.1002/advs.202201992
+journal_title: Advanced Science
+journal_nlm_ta: Adv Sci (Weinh)
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- colon cancer
+- ketogenic therapy
+- metabolic subtype
+- OXCT1
+- p53
+
+---

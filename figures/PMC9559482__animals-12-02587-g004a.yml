@@ -1,0 +1,43 @@
+---
+figid: PMC9559482__animals-12-02587-g004a
+pmcid: PMC9559482
+image_filename: animals-12-02587-g004a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 4
+caption: 'Bioinformatics analysis of differential metabolites. (a) Hierarchical clustering
+  heatmap of significant differential metabolites. Note: Each row in the figure represented
+  a differential metabolite, and each column represented a group of samples. Red represented
+  significant up-regulation, blue represented significant down-regulation, and the
+  depth of the color represented the degree of up-regulation. Metabolites with similar
+  expression patterns gather under the same cluster on the left. (b) Correlation heatmap
+  of significant differential metabolites and intestinal microorganisms. Note: Red
+  indicated a positive correlation, blue indicated a negative correlation, and white
+  indicated a non-significant correlation. The color depth was related to theabsolute
+  value of the correlation coefficient that was, the higher the degree of positive
+  or negative correlation, and the darker the color was. The size of the square was
+  related to the significance of the correlation, the smaller the p-value, the stronger
+  the correlation, and the larger the square size was. (c) KEGG pathway annotation
+  and analysis. Note: The vertical axis in the bar graph represented each KEGG metabolic
+  pathway, and the horizontal axis represented the number of differentially expressed
+  metabolites contained in each KEGG metabolic pathway. The color represented the
+  p-value of the enrichment analysis, the darker the color, the smaller the p-value
+  was, and the more significant the degree of enrichment, and the number on the column
+  represented the rich factor.'
+article_title: Possible Effects of Early Maternal Separation on the Gut Microbiota
+  of Captive Adult Giant Pandas.
+citation: Xiaohui Zhang, et al. Animals (Basel). 2022 Oct;12(19):2587.
+year: '2022'
+
+doi: 10.3390/ani12192587
+journal_title: 'Animals : an Open Access Journal from MDPI'
+journal_nlm_ta: Animals (Basel)
+publisher_name: MDPI
+
+keywords:
+- captive giant panda
+- maternal separation
+- stress
+- gut microbiota
+
+---

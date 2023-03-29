@@ -1,0 +1,48 @@
+---
+figid: PMC9610092__viruses-14-02180-g004
+pmcid: PMC9610092
+image_filename: viruses-14-02180-g004.jpg
+figure_link: /pmc/articles/PMC9610092/figure/viruses-14-02180-f004/
+number: Figure 4
+figure_title: ''
+caption: 'Association between STAT1, JAK1, and ISG’s expressions using the GSE152075
+  dataset. (A) Schematic representation of the canonical IFN-γ signaling pathway.
+  (B) Gene expression analysis (log2 (norm counts +1)) for MX1 (i), MX2 (ii), ISG15
+  (iii), and OAS1 (iv) in COVID-19 (purple) vs. non-COVID-19 (pink) patients from
+  the GSE152075 dataset, assessed by RNA-seq. p-values correspond to Wilcoxon rank-sum
+  test. (C) Dot plots representing the pairwise Spearman correlation between STAT1
+  and JAK1, considering the expressions of MX1 (ii), MX2 (ii), ISG15 (iii), and OAS1
+  (iv) in COVID-19-positive patients. The independent variable is plotted on the x
+  axis, and the dependent variable is plotted on the y axis. MX1, MX2, ISG15 and OAS1
+  expressions are represented as a color scale (purple = high; pink = low). (D) Box
+  plot representing the combined expression of MX1 + MX2 + ISG15 + OAS1 and their
+  association with the viral load. Viral load was categorized as Negative (pink),
+  Low (first quartile; light blue), Intermediate (second and third quartile; purple),
+  or High (fourth quartile; blue). p-values correspond to Wilcoxon rank-sum test.
+  (E) Dot plot representing pairwise Spearman correlation between JAK2 + STAT1 and
+  MX1 + MX2 + ISG15 + OAS1 combined expressions, considering viral load in COVID-19-positive
+  patients from the GSE152075 dataset. Viral load is represented as a color scale
+  and was categorized as Negative (pink), Low (first quartile; light blue), Intermediate
+  (second and third quartile; purple), or High (fourth quartile; blue). (F) Forest
+  plots representing the coefficient of the viral load as predictor variable in regression
+  analyses (considering age and gender as covariables). (i) Model considering as response
+  variable: combined expression of JAK2 + STAT1 or MX1 + MX2 + ISG15 + OAS1; and (ii)
+  model considering response variable: individual expressions of JAK2, STAT1, MX1,
+  MX2, ISG15 and OAS1. Coef.: Coefficient. CI: Confidence interval. Statistical significance
+  * p < 0.05; ** p < 0.01; *** p < 0.001.'
+article_title: Pin-Pointing the Key Hubs in the IFN-γ Pathway Responding to SARS-CoV-2
+  Infection.
+citation: Ayelen Toro, et al. Viruses. 2022 Oct;14(10):2180.
+year: '2022'
+
+doi: 10.3390/v14102180
+journal_title: Viruses
+journal_nlm_ta: Viruses
+publisher_name: MDPI
+
+keywords:
+- IFN-γ
+- ISGs
+- COVID-19
+
+---

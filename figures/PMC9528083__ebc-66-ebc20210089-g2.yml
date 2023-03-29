@@ -1,0 +1,67 @@
+---
+figid: PMC9528083__ebc-66-ebc20210089-g2
+pmcid: PMC9528083
+image_filename: ebc-66-ebc20210089-g2.jpg
+figure_link: /pmc/articles/PMC9528083/figure/F2/
+number: Figure 2
+figure_title: Brassinosteroid, IAA, giberellins, and light points of cross-talk
+caption: The SCFTIR1/AFB-dependant auxin response pathway is shaded in pink. The TIR1/AFB
+  auxin co-receptors belong to a family of F-box proteins and mediate responses after
+  perceiving auxin. Binding IAA triggers recruitment of the SCFTIR1 E3 ubiquitin protein
+  ligase complex to the Auxin/Indole-3-Acetic acid (Aux/IAA) repressor proteins causing
+  their degradation. This allows Auxin response factor (ARF) transcription factors
+  to dimerize at the promoters of auxin-inducible genes thus activating gene expression
+  []. ARFs can interact with transcription factors from other pathways such as PIF4
+  (PHYTOCHROME INTERACTING FACTOR 4) and BZR1. Auxin modulates the brassinosteroid
+  pathway via BRI1 which has an auxin-response element targeted by ARFs []. Auxins
+  increase expression of brassinosteroid receptor, BRI1, and brassinosteroid -responsive
+  genes due to the presence of auxin-response elements targeted by ARFs in their promoters
+  []. The RXLR effector PSE1from Phytophthora parasitica reduces auxin accumulation
+  by altering distribution of the PIN4 and PIN7 auxin efflux carriers making the plant
+  more susceptible []. The Brassinosteroid pathway is shaded green and the described
+  brassinosteroid pathway components are same as in . Brassinosteroid responses can
+  promote gibberellin biosynthesis to increase DELLA degradation []. PIN-LIKES (PILS)
+  protein family of auxin transport facilitators can control the intracellular auxin
+  accumulation at the ER regulating auxin homeostasis []. Brassinosteroid signalling
+  restricts PILS transcription and protein levels and, thereby, increases nuclear
+  abundance and signalling of auxin []. BIN2 is crucial to potentiate auxin signalling
+  by phosphorylating ARF7 and ARF19 []. However, de-phosphorylation of BIN2 during
+  immune responses reduces auxins signalling. The Gibberellin pathway is shaded in
+  blue. Gibberellins (GA) activates receptor GID1 (GIBBERELLIN INSENSITIVE DWARF1)
+  which induces interaction with DELLA proteins []. The GA-GID1-DELLA complex interacts
+  with SCFSLY1/GID2, a E3 ubiquitin ligase, and is targeted for proteasomal degradation
+  [,] resulting in a lower abundance of DELLAs. DELLAs are negative regulators of
+  many transcription factors that can heterodimerise to induce integrated responses
+  e.g. from light, brassinosteroid and auxin response pathways [,]. The Xanthomonas
+  campestris effector protein, XopDXcc8004, targets and delays the degradation of
+  a GA repressor DELLA protein to trigger plant disease []. When leaves are shaded
+  from light, then a low Red:FarRed causes accumulation of the inactive form of the
+  red light receptor Phytochrome B (PhyB) which suppresses the activity of PIFs [].
+  UV-B and Cold stress activate the positive bZIP transcriptional regulator, HY5 (ELONGATED
+  HYPOCOTYL 5). HY5 promotes the accumulation of DELLA proteins under UV-B radiation
+  [] while cold stress, can activate or suppress DELLAs, which control a multitude
+  of other responses relevant in plant immunity [] as described in . The Arabidopsis
+  downy mildew effector HaRxLL470 suppresses plant immunity by decreasing the DNA‐binding
+  activity of HY5 []. The HOMOLOG OF BEE2 INTERACTING WITH IBH1 (HBI1), functions
+  with other transcription factorsto mediate positive and negative transcriptional
+  changes of many growth and defence responses [,]. The authors acknowledge that they
+  couldn’t include all known and emerging interaction events in this figure. Created
+  with BioRender.com.
+article_title: Interplay between phytohormone signalling pathways in plant defence
+  – other than salicylic acid and jasmonic acid.
+citation: Eleanor Gilroy, et al. Essays Biochem. 2022 Sep;66(5):657-671.
+year: '2022'
+
+doi: 10.1042/EBC20210089
+journal_title: Essays in Biochemistry
+journal_nlm_ta: Essays Biochem
+publisher_name: Portland Press Ltd.
+
+keywords:
+- crosstalk
+- immunity
+- plant hormones
+- signalling
+- signalling hubs
+
+---

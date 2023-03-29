@@ -1,0 +1,32 @@
+---
+figid: PMC9601110__cancers-14-05157-g010
+pmcid: PMC9601110
+image_filename: cancers-14-05157-g010.jpg
+figure_link: /pmc/articles/PMC9601110/figure/cancers-14-05157-f010/
+number: Figure 10
+figure_title: ''
+caption: 'Correlation heatmaps of LCK expression and immune checkpoint expression
+  from the Spearman correlation analysis: (A) Xijing Hospital data; (B) TCGA data
+  and (C) ICGC data. (D) Using R software to draw the immune scoring heatmap based
+  on the expression difference in LCK and MCP counter algorithm; (E) Box chart of
+  immune score difference between different LCK expression groups. (F) Scatter plot
+  of the correlation between LCK and the P53 signalling pathway. p < 0.001 = *** and
+  p < 0.01 = **.'
+article_title: Effect of Tertiary Lymphoid Structures on Prognosis of Patients with
+  Hepatocellular Carcinoma and Preliminary Exploration of Its Formation Mechanism.
+citation: Jianhui Li, et al. Cancers (Basel). 2022 Oct;14(20):5157.
+year: '2022'
+
+doi: 10.3390/cancers14205157
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- tertiary lymphoid structures
+- hepatocellular carcinoma
+- LCK
+- immunotherapy
+- prognosis
+
+---

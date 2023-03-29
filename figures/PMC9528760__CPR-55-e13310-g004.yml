@@ -1,0 +1,30 @@
+---
+figid: PMC9528760__CPR-55-e13310-g004
+pmcid: PMC9528760
+image_filename: CPR-55-e13310-g004.jpg
+figure_link: /pmc/articles/PMC9528760/figure/cpr13310-fig-0005/
+number: FIGURE 5
+figure_title: ''
+caption: GDF11 treatment significantly affects mRNA expression levels of mature 3T3‐L1
+  adipocytes. (A) Schematic figure illustrating 3T3‐L1 cell line differentiating protocol
+  and GDF11 treatment regimen. (B) Volcano plot of DESeq2 results with independent
+  filtering. Maximum of 20 most differentially expressed genes (by adjusted p value
+  of <0.05) are named. (C) Computational Gene Set Enrichment Analysis (GSEA) of our
+  statistically significant deregulated genes to uncover the most affected cellular
+  biological processes (D) Heat map showing differences in mRNA expression levels
+  in mature 3T3‐l1 adipocytes treated for 12 h with GDF11 and ALK5/β‐catenin inhibitors
+  (at least n = 3 per group). (E) Graphical representation of gene interactions by
+  STRING pathway analysis of Top 50 significantly (p ≤ 0.01) deregulated genes. Connections
+  between genes are indicating annotated, high confidence (>0.7) molecular interactions.
+article_title: GDF11 inhibits adipogenesis and improves mature adipocytes metabolic
+  function via WNT/β‐catenin and ALK5/SMAD2/3 pathways.
+citation: Jan Frohlich, et al. Cell Prolif. 2022 Oct;55(10):e13310.
+year: '2022'
+
+doi: 10.1111/cpr.13310
+journal_title: Cell Proliferation
+journal_nlm_ta: Cell Prolif
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+---

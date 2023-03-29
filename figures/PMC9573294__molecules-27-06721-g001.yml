@@ -1,0 +1,41 @@
+---
+figid: PMC9573294__molecules-27-06721-g001
+pmcid: PMC9573294
+image_filename: molecules-27-06721-g001.jpg
+figure_link: /pmc/articles/PMC9573294/figure/molecules-27-06721-f001/
+number: Figure 1
+figure_title: ''
+caption: ENPP1 expression across various cancer types. Publicly available sequencing
+  datasets were analyzed to determine the gene and protein expression of ENPP1 across
+  cancer types. (A) The Cancer Genome Atlas (TCGA) RNA sequencing data from tumor
+  tissue samples were analyzed using the UALCAN analysis tool. The gene expression
+  of ENPP1 across cancer types has been shown, where breast cancer shows the highest
+  expression (4.27 log2(TPM+1)). (B) Protein abundance of ENPP1 across cancer cell
+  lines. The data were acquired from the CCLE database and analyzed through cBioPortal.
+  MDA-MB-231 (triple-negative breast cancer cell line) shows an abundance ratio of
+  3.55 (ratio with adjacent normal). A549 (lung adenocarcinoma) had an abundance ratio
+  of 0.58. (C) Pearson’s correlation analysis showed the correlation between mRNA
+  and protein expressions of ENPP1. The mRNA expression levels are positively correlated
+  with the protein expression across all cancer cell lines (r = 0.55; p = 1.16 × 10−29).
+  MDA-MB-231 and A549 cell lines are highlighted in red and yellow, respectively.
+  (D) The PAM50-classified breast cancer samples [] have been analyzed to depict the
+  levels of ENPP1 protein abundance across the molecular subtypes.
+article_title: AVA-NP-695 Selectively Inhibits ENPP1 to Activate STING Pathway and
+  Abrogate Tumor Metastasis in 4T1 Breast Cancer Syngeneic Mouse Model.
+citation: Avijit Goswami, et al. Molecules. 2022 Oct;27(19):6721.
+year: '2022'
+
+doi: 10.3390/molecules27196721
+journal_title: Molecules
+journal_nlm_ta: Molecules
+publisher_name: MDPI
+
+keywords:
+- cancer immunotherapy
+- ENPP1 inhibitor
+- STING
+- 2′3′-cGAMP
+- EMT
+- 4T1 syngeneic model
+
+---

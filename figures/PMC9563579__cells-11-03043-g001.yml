@@ -1,0 +1,39 @@
+---
+figid: PMC9563579__cells-11-03043-g001
+pmcid: PMC9563579
+image_filename: cells-11-03043-g001.jpg
+figure_link: /pmc/articles/PMC9563579/figure/cells-11-03043-f001/
+number: Figure 1
+figure_title: ''
+caption: 'The cGAS-STING-TBK1 signaling pathway. Various DNA derived from virus, dying
+  tumor cells or nucleus and mitochondria binds to and activates the cytosolic DNA
+  sensor cGAS. cGAS utilizes GTP and ATP to produce the second messenger cGAMP, which
+  directly binds to the ER-localized adaptor protein STING. Stimuli other than cGAMP,
+  CDNs derived from bacteria can also activate STING. Subsequently, STING alters into
+  a more closed conformation and transfers to the Golgi via the ERGIC, where it binds
+  and activates the kinase TBK1 and IKK, which phosphorylate IRF3 and IκBα, respectively.
+  Then, Phosphorylated IRF3 and IκBα dimerize and enter the nucleus, initiating the
+  transcription of Type I IFN, TNF and IL6. These cytokines play a pivotal role in
+  host defense, inflammation and antitumor immunity. Abbreviations: cGAS, cyclic GMP-AMP
+  synthase; STING, stimulator of interferon genes; TBK1, TANK-binding kinase 1; cGAMP,
+  cyclic GMP-AMP; ER, endoplasmic reticulum; CDNs, cyclic dinucleotides; ERGIC, ER-Golgi
+  intermediate compartment; IKK, IκB kinase; IRF3, interferon regulatory factor 3;
+  TNF, tumour necrosis factor.'
+article_title: 'Post-Translational Modifications of cGAS-STING: A Critical Switch
+  for Immune Regulation.'
+citation: Yang Yu, et al. Cells. 2022 Oct;11(19):3043.
+year: '2022'
+
+doi: 10.3390/cells11193043
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- cGAS-STING
+- post-translational modification
+- innate immunity
+- type I interferons
+- dsDNA sensing
+
+---

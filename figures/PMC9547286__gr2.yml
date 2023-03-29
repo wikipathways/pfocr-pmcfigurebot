@@ -1,0 +1,46 @@
+---
+figid: PMC9547286__gr2
+pmcid: PMC9547286
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC9547286/figure/fig2/
+number: Fig. 2
+figure_title: ''
+caption: 'LOXL2 and L2Δ13 regulate metabolic reprogramming.(A) Top: PCR conformation
+  of overexpression of L2Δ13 in C57BL/6J mice; bottom: western blotting analysis of
+  livers from wild-type (WT), heterozygous (Δ13/-) and homozygous L2Δ13-mice (Δ13/Δ13).
+  (B) Volcano plot of differential gene expression between L2Δ13-overexpressing and
+  age-matched wild-type control mice in RNA-sequencing analysis (n = 6; GSE145238).
+  (C) Significant patterns for KEGG pathways of differentially-expressed genes of
+  L2Δ13-overexpressing and age-matched wild-type mice (n = 6; GSE145238). (D) Heatmap
+  of metabolite clusters in L2Δ13-overexpressing and paired wild-type mice measured
+  by LC-MS-based metabolomics (n = 6). (E) Metabolic pathways analysis of the significantly
+  enriched metabolites (q value < 0.05, fold change ≥1.2) using MetaboAnalyst. (F)
+  Schematic representation of the L2Δ13-regulated metabolic flux in mice under physiological
+  conditions. F6P, fructose-6-phosphate; FBP, fructose-1,6-bisphosphate; G3P, glyceraldehyde
+  3-phosphate; Actyl-CoA, actyl coenzyme A. (G and H) Levels of ATP, glucose uptake
+  and lactate of esophageal cancer cells following depletion of LOXL2 by specific
+  siRNAs (G) and LOXL2-depleted esophageal cancer cells following ectopic re-expression
+  of LOXL2 or L2Δ13 (H). Mean ± SD, n = 3–5. *P < 0.05, **P < 0.01 or ***P < 0.001.
+  ns, not significant. (I) Gene set enrichment analysis (GSEA) plot shows that LOXL2
+  gene expression positively correlated with genes in the glycolysis/gluconeogenesis
+  pathway (KEGG database/hsa00010, gene numbers = 68) in patients with esophageal
+  cancer (NCBI/GEO/GSE23400, n = 53). NES, normalized enrichment score. P-values were
+  determined by Pearson''s correlation.'
+article_title: LOXL2-dependent deacetylation of aldolase A induces metabolic reprogramming
+  and tumor progression.
+citation: Ji-Wei Jiao, et al. Redox Biol. 2022 Nov;57:102496.
+year: '2022'
+
+doi: 10.1016/j.redox.2022.102496
+journal_title: Redox Biology
+journal_nlm_ta: Redox Biol
+publisher_name: Elsevier
+
+keywords:
+- Lysyl oxidase-like 2
+- Aldolase
+- Glycolysis
+- Deacetylation
+- Tumorigenesis
+
+---

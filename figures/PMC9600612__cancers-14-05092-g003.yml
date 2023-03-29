@@ -1,0 +1,33 @@
+---
+figid: PMC9600612__cancers-14-05092-g003
+pmcid: PMC9600612
+image_filename: cancers-14-05092-g003.jpg
+figure_link: /pmc/articles/PMC9600612/figure/cancers-14-05092-f003/
+number: Figure 3
+figure_title: ''
+caption: 'Transcriptomic analyses of H358 tumors using nCounter PanCancer Human IO
+  360 assay. (A) Volcano plot showing differential expression of genes in tumors treated
+  with scL-RB94 versus the baseline of untreated tumors. The volcano plot is presented
+  as fold change in gene expression [log2(fold change)] against statistical significance
+  of change [−log10(p-value)]. (B) ToppGene Suite analysis of differentially expressed
+  genes. Groups reflect main categories of gene ontology (GO) terms: molecular function,
+  biological process, cellular component, and canonical pathway. Vertical and horizontal
+  axes represent each category term and −log10(FDR adjusted p-value) of the corresponding
+  term, respectively.'
+article_title: Nanomedicine-Based Gene Delivery for a Truncated Tumor Suppressor RB94
+  Promotes Lung Cancer Immunity.
+citation: Sang-Soo Kim, et al. Cancers (Basel). 2022 Oct;14(20):5092.
+year: '2022'
+
+doi: 10.3390/cancers14205092
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- non-small cell lung cancer
+- nanomedicine
+- retinoblastoma
+- tumor-targeted delivery
+
+---

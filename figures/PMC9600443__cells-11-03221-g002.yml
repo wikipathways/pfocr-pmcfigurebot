@@ -1,0 +1,42 @@
+---
+figid: PMC9600443__cells-11-03221-g002
+pmcid: PMC9600443
+image_filename: cells-11-03221-g002.jpg
+figure_link: /pmc/articles/PMC9600443/figure/cells-11-03221-f002/
+number: Figure 2
+figure_title: ''
+caption: Transcriptomic profiling of whole-cell lysate of HL-60 cells at 0.5 and 1
+  h after ATRA treatment. (a) Venn diagram shows intersection of differentially expressed
+  transcripts (DETs) at 0.5 and 1 h after the ATRA treatment. DETs expression differences
+  (fold change > 2, p-value < 0.05) (b) at 0.5h and (c) at 1 h after the ATRA treatment
+  compared to control. Red triangles indicate DETs involved in the interleukin-10
+  signaling pathway, purple circles indicate DETs with nuclear localization, blue
+  circles indicate DETs involved in the cell surface receptor signaling pathway (GO:0007166),
+  black circles indicate DETs involved in the apoptotic process (GO:0006915) and red
+  circles indicate DETs involved in both the cell surface receptor signaling pathway
+  and the apoptotic process. TF indicates DETs with transcription factor activity
+  (PC00264), p53 reg with an arrow indicates DETs that are involved in p53 regulation
+  (R-HSA-3700989). (d) TFs ID1, JUN, and HIC1 expression differences (fold change
+  > 2, p-value < 0.05) at 0, 0.5, and 1 h after ATRA treatment.
+article_title: Nuclear Proteomics of Induced Leukemia Cell Differentiation.
+citation: Svetlana Novikova, et al. Cells. 2022 Oct;11(20):3221.
+year: '2022'
+
+doi: 10.3390/cells11203221
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- HL-60 cells
+- ATRA
+- induced differentiation
+- nuclear proteome
+- transcription factors
+- isobaric labeling
+- alkaline fractionation
+- TMT
+- scheduled multiple reaction monitoring
+- isotopically labeled peptide standards
+
+---

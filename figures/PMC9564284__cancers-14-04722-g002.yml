@@ -1,0 +1,38 @@
+---
+figid: PMC9564284__cancers-14-04722-g002
+pmcid: PMC9564284
+image_filename: cancers-14-04722-g002.jpg
+figure_link: /pmc/articles/PMC9564284/figure/cancers-14-04722-f002/
+number: Figure 2
+figure_title: ''
+caption: Validation of LETM2 prognostic value and clinical significance for pancreatic
+  cancer in TCGA database. (A) TCGA + GTEx database analysis revealed that LETM2 expression
+  was significantly elevated in PDAC tumor tissue in comparison with normal tissue.
+  Red represents tumor tissue and blue represents normal tissue. (B,C) High levels
+  of LETM2 expression correlated with significantly poor (B) OS and (C) DFS of PDAC
+  patients based on survival analysis of the TCGA database. The dotted lines represented
+  95% confidence intervals. (D) LETM2 expression correlated with tumor inflammation
+  signature. (E) LETM2 expression correlated with PI3K-AKT-mTOR pathway. (F) LETM2
+  expression correlated with the P53 pathway. (G) LETM2 expression correlated with
+  immune infiltration level of B cell expression. (H) LETM2 expression correlated
+  with immune infiltration level of T cell CD8+ expression. (I) Sankey diagram demonstrated
+  the association between LETM2 expression and histological grade and living status.
+  * p < 0.05.
+article_title: A LETM2-Regulated PI3K-Akt Signaling Axis Reveals a Prognostic and
+  Therapeutic Target in Pancreatic Cancer.
+citation: Shurui Zhou, et al. Cancers (Basel). 2022 Oct;14(19):4722.
+year: '2022'
+
+doi: 10.3390/cancers14194722
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- LETM2
+- pan-cancer analysis
+- pancreatic ductal adenocarcinoma
+- PI3K-Akt pathway
+- tumor progression
+
+---

@@ -1,0 +1,32 @@
+---
+figid: PMC9600210__cells-11-03232-g005
+pmcid: PMC9600210
+image_filename: cells-11-03232-g005.jpg
+figure_link: /pmc/articles/PMC9600210/figure/cells-11-03232-f005/
+number: Figure 5
+figure_title: ''
+caption: HPGDS-related gene enrichment analysis. (A) Experimentally determined HPGDS-binding
+  proteins were identified using STRING. (B) The correlations of the expression of
+  HPGDS and the five most related genes in cancers are shown. (C) An analysis of the
+  intersections of genes encoding HPGDS-binding proteins and expression-correlated
+  genes was conducted. (D) KEGG pathway analyses were performed on the genes encoding
+  HPGDS-binding proteins and expression-correlated genes. (E) GO analyses were also
+  performed.
+article_title: Glutathione S-Transferases S1, Z1 and A1 Serve as Prognostic Factors
+  in Glioblastoma and Promote Drug Resistance through Antioxidant Pathways.
+citation: Bo Cheng, et al. Cells. 2022 Oct;11(20):3232.
+year: '2022'
+
+doi: 10.3390/cells11203232
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- HPGDS
+- GSTZ1
+- GSTA1
+- glioblastoma
+- glutathione
+
+---

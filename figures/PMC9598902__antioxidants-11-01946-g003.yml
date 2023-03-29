@@ -1,0 +1,42 @@
+---
+figid: PMC9598902__antioxidants-11-01946-g003
+pmcid: PMC9598902
+image_filename: antioxidants-11-01946-g003.jpg
+figure_link: /pmc/articles/PMC9598902/figure/antioxidants-11-01946-f003/
+number: Figure 3
+figure_title: ''
+caption: 'Metabolic changes associated with hypertension comorbid OSA. (A) Heat map
+  of the datasets of differential metabolites, indicating that the expressed trends
+  of most differential metabolites that distinguished patients with hypertension comorbid
+  OSA from non-OSA hypertensive patients were similar in the discovery and validation
+  sets. (B) Regression analysis plot depicting the association of each metabolite
+  and OSA condition; positive or negative β-coefficient values indicate a positive
+  or negative correlation between metabolites and OSA condition, FDR-adjusted p <
+  0.05 was considered as significant threshold, n.s. represents no significance. a
+  and b indicates if the metabolites are annotated by chemical-standards or not. Model
+  1: Univariate regression analysis; Model 2: Adjustments for changed clinical variables
+  and commonly known metabolic factors, including ages, sex, BMI, neck circumference,
+  waist circumference, hip circumference, waist-to-hip ratio, night-time SBP, night-time
+  DBP, TC, HDL-C. C Pathway enrichment analysis of the differentiated metabolites
+  by using MetaboAnalyst.'
+article_title: Comprehensive Metabolomics and Machine Learning Identify Profound Oxidative
+  Stress and Inflammation Signatures in Hypertensive Patients with Obstructive Sleep
+  Apnea.
+citation: Zhiyong Du, et al. Antioxidants (Basel). 2022 Oct;11(10):1946.
+year: '2022'
+
+doi: 10.3390/antiox11101946
+journal_title: Antioxidants
+journal_nlm_ta: Antioxidants (Basel)
+publisher_name: MDPI
+
+keywords:
+- hypertension
+- obstructive sleep apnea
+- metabolomics
+- biomarkers
+- diagnosis
+- oxidative stress
+- inflammation
+
+---

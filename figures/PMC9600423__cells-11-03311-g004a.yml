@@ -1,0 +1,53 @@
+---
+figid: PMC9600423__cells-11-03311-g004a
+pmcid: PMC9600423
+image_filename: cells-11-03311-g004a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 4
+caption: High UBQLN4 mRNA levels are associated with cisplatin and Olaparib responses.
+  (A) All cell lines from CCLE dataset were divided according to the median UBQLN4
+  mRNA levels and gene set enrichment analysis (GSEA) was performed to compare the
+  difference between the two groups. (Right) Bar plot showing the six significantly
+  enriched gene sets in high UBQLN4 mRNA group. The x-axis indicated the minus logarithm
+  of FDR values of each gene set. (Left) Comparison of the normalized enrichment score
+  for the DNA repair pathway determined by GSEA. FDR, false discovery rate; NES, normalized
+  enrichment score. (B) Comparison of cisplatin area under curve (AUC) values in low
+  UBQLN4 expression cell lines and high UBQLN4 expression cell lines in all cancer
+  types in PRISM Repurposing Secondary Screen datasets. Statistical difference was
+  evaluated using the Mann–Whitney U test. (C) Pearson’s Correlation between UBQLN4
+  mRNA levels and cisplatin AUC values in ovarian cancer (OV) cell lines in PRISM
+  Repurposing Secondary Screen datasets. The red dots indicated the cell lines containing
+  BRCA1 or/and BRCA2 mutations. (D) Comparison of cisplatin AUC values in ovarian
+  cancer (OV) cell lines with low and high UBQLN4 mRNA levels in PRISM Repurposing
+  Secondary Screen datasets. The red dots indicated the cell lines containing BRCA1
+  or/and BRCA2 mutations. Statistical difference was evaluated using the Mann–Whitney
+  U test. (E) Comparison of Olaparib AUC values in low and high UBQLN4 mRNA in all
+  cancer types in PRISM Repurposing Secondary Screen datasets. Statistical difference
+  was evaluated using the Mann–Whitney U test. (F) Pearson’s correlation between UBQLN4
+  mRNA expression and Olaparib AUC values in OV cell lines in PRISM Repurposing Secondary
+  Screen datasets. The red dots indicated the cell lines containing BRCA1 or/and BRCA2
+  mutations. (G) Comparison of Olaparib AUC values in low and high UBQLN4 mRNA levels
+  cell lines in OV in Sanger GDSC2 datasets. The red dots indicated the cell lines
+  containing BRCA1 or/and BRCA2 mutations. Statistical difference was evaluated using
+  the Mann–Whitney U test.
+article_title: Genomic Amplification of UBQLN4 Is a Prognostic and Treatment Resistance
+  Factor.
+citation: Yuta Kobayashi, et al. Cells. 2022 Oct;11(20):3311.
+year: '2022'
+
+doi: 10.3390/cells11203311
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- Ubiquilin-4
+- MRE11A
+- chemotherapy resistance
+- PARPi
+- genome amplification
+- prognosis
+- DDR
+
+---

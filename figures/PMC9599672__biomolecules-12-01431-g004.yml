@@ -1,0 +1,54 @@
+---
+figid: PMC9599672__biomolecules-12-01431-g004
+pmcid: PMC9599672
+image_filename: biomolecules-12-01431-g004.jpg
+figure_link: /pmc/articles/PMC9599672/figure/biomolecules-12-01431-f004/
+number: Figure 4
+figure_title: ''
+caption: 'Nusinersen modulates amino acid and ketone body metabolism in the CSF of
+  SMA2 patients. (A,D) PLS-DA score scatter plots showing the metabolomic profile
+  of CSF from SMA2 patients before treatment (T0) and at loading (T1) (A) or maintenance
+  (T2) (D) phases of Nusinersen administration. The clusters’ analyses are reported
+  in the Cartesian space that is described by the main components, PC1: 12.5% and
+  PC2: 12.3% (T0 vs. T1 clusters) (A) and PC1: 17.7% and PC2: 11.4% (T0 vs. T2 clusters)
+  (D). PLS-DA was evaluated using cross validation (CV) analysis. CV tests performed
+  according to PLS-DA statistical protocol show a significant separation between T0
+  and T1 clusters (0.94 and 1.0 accuracy values for PC1 and PC2, respectively, with
+  positive 0.58 and 0.83 Q2 indices) (A), and T0 and T2 clusters (0.57 and 0.71 accuracy
+  values for PC1 and PC2, respectively, and 0.23 and 0.29 Q2 indices) (D). The data
+  reveal that Nusinersen induces metabolic changes in the CSF of SMA2 patients at
+  both loading and maintenance phases. (B,E) VIP score graphs of metabolites discriminating
+  the CSF of SMA2 patients at T0 from that of the same patients at T1 (B) or T2 (E).
+  Metabolites characterized by a VIP score > 1 are shown. (C,F) Diagram of the pathway
+  enrichment analysis showing the effect of Nusinersen therapy on biochemical pathways
+  associated with amino acid and ketone body metabolism in SMA2 patients at both T1
+  (C) and T2 (F). The number of molecules (hits) related to the specific metabolic
+  pathway is shown within each bar (see also ). (G) Hierarchical heat maps generated
+  by MetaboAnalyst software are based on the Euclidean distance and Ward’s algorithm.
+  The heatmaps are calculated based on the concentrations of discriminating metabolites
+  with VIP > 1 in the CSF of SMA2 patients at T0, T1, and T2. For each metabolite,
+  the bar color represents its abundance on a normalized scale from blue (low level)
+  to red (high level). The dendrogram at the top is based on the similarity of the
+  metabolomic profile relative to each sample cluster. The dendrogram on the left
+  is based on the metabolite abundance profiles. The analysis highlights hierarchical
+  separation of CSF metabolomic profiles at loading (T1) and maintenance (T2) phases
+  from the baseline (T0). This confirms that Nusinersen administration induces changes
+  in the metabolomic CSF profile of SMA2 patients.'
+article_title: Nusinersen Induces Disease-Severity-Specific Neurometabolic Effects
+  in Spinal Muscular Atrophy.
+citation: Francesco Errico, et al. Biomolecules. 2022 Oct;12(10):1431.
+year: '2022'
+
+doi: 10.3390/biom12101431
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: MDPI
+
+keywords:
+- spinal muscular atrophy (SMA)
+- survival motor neuron (SMN)
+- nusinersen
+- cerebrospinal fluid (CSF)
+- nuclear magnetic resonance (NMR)
+
+---

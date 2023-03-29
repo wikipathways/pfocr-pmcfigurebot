@@ -1,0 +1,48 @@
+---
+figid: PMC9528636__jitc-2022-004793f05
+pmcid: PMC9528636
+image_filename: jitc-2022-004793f05.jpg
+figure_link: /pmc/articles/PMC9528636/figure/F5/
+number: Figure 5
+figure_title: ''
+caption: 'Differential gene expression and changes of receptor-ligand interactions
+  after treatments. (A) Venn diagrams show the number of differentially expressed
+  genes (DEGs) that were upregulated in the treated samples compared with no treatment
+  control. The number of common DEGs upregulated in multiple samples are shown in
+  the overlapped areas. Left: CD8 T cells. Right: macrophage. (B) Heatmap showing
+  cell-cell scaled communication probability as computed by CellChat across all treatments.
+  Rows show signaling pathways and columns indicate average communication probability
+  (using law of mass action by CellChat). We focus on a few signaling pathways (as
+  shown in the solid box) for which we show heatmaps of incoming (CD8+T cells to macrophages)
+  and outgoing (macrophages to CD8+T cells) for individual cell types. This heatmap
+  is displaying differential number of interactions and their strength in the cell-cell
+  communication network between control and HS201-PDT and aPD-L1 antibody combination
+  treatment. We focus on CXCL signaling pathway because of alternating cell-cell signaling
+  strength for incoming and out coming interactions between macrophages and CD8+T
+  cells. (C) Chord diagrams (or circos plots) showing ligand-receptor interactions
+  between macrophages and activated CD8+T cells in control and treatment groups. Cxcr3-associated
+  ligand-receptor interactions are highlighted in the circos plot of the combination
+  treatment. (D) Heatmap shows activation status of Cxcr3/Cxcr5/Cxcr6 on activated
+  CD8+T cells in each treatment group. Enhanced CXCR3 receptor activation (due to
+  active ligand binding from macrophages) on activated CD8+T cells is demonstrated
+  in combination treatment group compared with others. Barplot in the right panel
+  shows CXCR3 signature scores for each treatment group.'
+article_title: Combination of a novel heat shock protein 90-targeted photodynamic
+  therapy with PD-1/PD-L1 blockade induces potent systemic antitumor efficacy and
+  abscopal effect against breast cancers.
+citation: Kensuke Kaneko, et al. J Immunother Cancer. 2022;10(9):e004793.
+year: '2022'
+
+doi: 10.1136/jitc-2022-004793
+journal_title: Journal for Immunotherapy of Cancer
+journal_nlm_ta: J Immunother Cancer
+publisher_name: BMJ Publishing Group
+
+keywords:
+- Tumor Microenvironment
+- Breast Neoplasms
+- Lymphocytes, Tumor-Infiltrating
+- Macrophages
+- Combined Modality Therapy
+
+---

@@ -1,0 +1,38 @@
+---
+figid: PMC9563811__cancers-14-04875-g007
+pmcid: PMC9563811
+image_filename: cancers-14-04875-g007.jpg
+figure_link: /pmc/articles/PMC9563811/figure/cancers-14-04875-f007/
+number: Figure 7
+figure_title: ''
+caption: HMGB1-related gene enrichment analysis suggests four correlated genes. (a)
+  A Venn diagram of the HMGB1-related selected genes. (b) Protein analysis on STRING
+  tool. (c) A heatmap representing analysis of relationships between HMGB1 and four
+  hub genes in multicancer types. (d) HMGB1-related KEGG pathway analysis. (e) The
+  HMGB1-related centplot. (f) The corresponding scatter plots. (g) The expression
+  of HMGB1-related hub genes (CDK1, HMGB2, SSRP1, H2AFV) in GEPIA database. (h) The
+  changes in the expression of the 4 molecules were detected by immunohistochemical
+  experiment in normal tissue and colorectal cancer (COAD) model. * Statistically
+  significant p-value calculated (Pearson correlation analysis) p < 0.05.
+article_title: Oncogenic Role of HMGB1 as An Alarming in Robust Prediction of Immunotherapy
+  Response in Colorectal Cancer.
+citation: Huijiao Lu, et al. Cancers (Basel). 2022 Oct;14(19):4875.
+year: '2022'
+
+doi: 10.3390/cancers14194875
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- HMGB1
+- clinical prognosis
+- antitumor immune responses
+- cancer-associated fibroblasts (CAFs)
+- tumor immune microenvironment (TME)
+- immune checkpoints molecules (ICPs)
+- methylated DNA
+- phosphorylated protein
+- colorectal cancer
+
+---

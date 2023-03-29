@@ -1,0 +1,34 @@
+---
+figid: PMC9599833__biomolecules-12-01377-g006
+pmcid: PMC9599833
+image_filename: biomolecules-12-01377-g006.jpg
+figure_link: /pmc/articles/PMC9599833/figure/biomolecules-12-01377-f006/
+number: Figure 6
+figure_title: ''
+caption: Enrichment analysis of HSP90B1. (a) We first obtained 50 proteins that could
+  interact with HSP90B1 using the STRING tool. (b) Additionally, 100 genes with a
+  high correlation with HSP90B1 were obtained from the TCGA database, and the expression
+  correlation between HSP90B1 and selected targeted genes (including HSPA5, PDIA3,
+  MANF, PDIA4, CALR, and PDIA6) was analysed. (c) We analysed the relationship between
+  these six genes and the incidence of each cancer. (d) We conducted a crossover analysis
+  of 100 genes with a high correlation with HSP90B1 and 50 genes that could interact
+  with HSP90B1. Enrichment analysis based on HSP90B1 with high correlation and interaction
+  was performed using KEGG (e) and GO (f) pathway analyses.
+article_title: A Pan-Cancer Analysis of Heat-Shock Protein 90 Beta1(HSP90B1) in Human
+  Tumours.
+citation: Yaxuan Wang, et al. Biomolecules. 2022 Oct;12(10):1377.
+year: '2022'
+
+doi: 10.3390/biom12101377
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: MDPI
+
+keywords:
+- HSP90B1
+- cancer
+- prognosis
+- methylation
+- phosphorylation
+
+---

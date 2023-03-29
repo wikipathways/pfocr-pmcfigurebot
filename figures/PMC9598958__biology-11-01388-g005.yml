@@ -1,0 +1,31 @@
+---
+figid: PMC9598958__biology-11-01388-g005
+pmcid: PMC9598958
+image_filename: biology-11-01388-g005.jpg
+figure_link: /pmc/articles/PMC9598958/figure/biology-11-01388-f005/
+number: Figure 5
+figure_title: ''
+caption: Analysis of MASA genes. (a) Comprehensive view of each gene. Red dots are
+  MASA genes with R2 score > 0.3 and p ≤ 0.05. (b) Number of genes classified corresponding
+  to each specified characteristic. (c) KEGG pathway enrichment analysis using MASA.
+  (d) GO BP enrichment analysis using MASA.
+article_title: Genomic Effect of DNA Methylation on Gene Expression in Colorectal
+  Cancer.
+citation: Juyeon Hong, et al. Biology (Basel). 2022 Oct;11(10):1388.
+year: '2022'
+
+doi: 10.3390/biology11101388
+journal_title: Biology
+journal_nlm_ta: Biology (Basel)
+publisher_name: MDPI
+
+keywords:
+- colorectal cancer
+- DNA methylation
+- gene expression
+- regression
+- ElasticNet
+- survival analysis
+- immune system
+
+---

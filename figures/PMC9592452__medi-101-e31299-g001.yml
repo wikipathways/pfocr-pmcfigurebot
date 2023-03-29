@@ -1,0 +1,32 @@
+---
+figid: PMC9592452__medi-101-e31299-g001
+pmcid: PMC9592452
+image_filename: medi-101-e31299-g001.jpg
+figure_link: /pmc/articles/PMC9592452/figure/F1/
+number: Figure 1
+figure_title: ''
+caption: Functional enrichment analysis of the DEGs. (A) The Venn diagram demonstrating
+  intersecting DEGs in 3 GEO datasets. (B) GO Functional enrichment analysis of the
+  183 intersecting DEGs. The x-axis represents the number of genes in each term, and
+  the y-axis represents enriched GO terms. (C) KEGG Functional enrichment analysis
+  of the 183 intersecting DEGs. The x-axis represents the P value for each pathway
+  in the enrichment analysis, and the y-axis represents enriched KEGG pathways. DEGs
+  = differentially expressed genes, GEO = gene expression omnibus, GO = gene ontology,
+  KEGG = Kyoto encyclopedia of genes and genomes.
+article_title: Identification and verification of a 4-gene signature predicting the
+  overall survival of cervical cancer.
+citation: Lu Yuan, et al. Medicine (Baltimore). 2022 Oct 21;101(42):e31299.
+year: '2022'
+
+doi: 10.1097/MD.0000000000031299
+journal_title: Medicine
+journal_nlm_ta: Medicine (Baltimore)
+publisher_name: Lippincott Williams & Wilkins
+
+keywords:
+- cervical cancer
+- gene expression
+- gene signature
+- overall survival
+
+---

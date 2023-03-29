@@ -1,0 +1,47 @@
+---
+figid: PMC9576612__thnov12p6989g004
+pmcid: PMC9576612
+image_filename: thnov12p6989g004.jpg
+figure_link: /pmc/articles/PMC9576612/figure/F4/
+number: Figure 4
+figure_title: ''
+caption: CHI3L1 binds to ACTN4 and NFKB1, and promote the activation of NF-κB pathway.
+  (A) Schematic of the procedure used to detect biotin-hCHI3L1-binding proteins using
+  HuProt 20K human proteome microarrays. (B) ACTN1, 4, NFKB1, 2, and NFKBIB were identified
+  as CHI3L1-binding proteins in the proteome microarrays. (C) The IF analysis of the
+  expression levels of CHI3L1 and NF-κB p65 subunit in peritumor and intratumor regions;
+  Scale bars represent 100 µm. (D) Western blot analysis of the expression levels
+  of CHI3L1 in U118MG and U251MG cells after treated with TNFɑ (200 ng/mL) for 0-96
+  h. (E) Chi3l1+/+ and Chi3l1-/- BMDMs were treated with TNFɑ (50 and 200 ng/mL),
+  and phosphorylation of p65 were assessed via western blot. (F-G) U87MG and A172
+  cells transfected with shCtrl and shCHI3L1 were treated with TNFɑ, and the phosphorylation
+  of p65 were detected using western blot. (H-I) Cytoplasmic and nuclear proteins
+  were isolated from BMDMs and U87MG after treated with TNFɑ (50 ng/mL) and applied
+  to western blot to detect the expression of p65 and ACTN4. (J) Lysates from U87MG
+  and A172 cells were immunoprecipitated with IgG or anti-CHI3L1 antibody, and then
+  immunoblotted as indicated. (K) Cytoplasmic and nuclear proteins were isolated from
+  U87MG cells. The lysates were immunoprecipitated with IgG or anti-CHI3L1 antibody,
+  and then immunoblotted as indicated. (L-N) Co-localization of CHI3L1 and ACTN4,
+  NFKB1, or p65 in U87MG or A172 cells observed by confocal microscope. (O) CHI3L1
+  and ACTN4 enhance NF-kB activation by using a dual-luciferase reporter assay. (P)
+  Dox-inducible CHI3L1 expression enhanced enhanced NF-kB activation by TNFα in U251
+  cells. (Q) Pearson correlations between CHI3L1 expression and ACTN4, NFKB1, NFKB2,
+  RelA (p65), and NFKBIB in TCGA and CGGA glioma cohorts.
+article_title: Chitinase-3 like-protein-1 promotes glioma progression via the NF-κB
+  signaling pathway and tumor microenvironment reprogramming.
+citation: Ting Zhao, et al. Theranostics. 2022;12(16):6989-7008.
+year: '2022'
+
+doi: 10.7150/thno.75069
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- CHI3L1
+- glioma
+- NF-κB
+- ACTN4
+- tumor microenvironment
+
+---

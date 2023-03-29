@@ -1,0 +1,31 @@
+---
+figid: PMC9570386__ijms-23-11590-g007
+pmcid: PMC9570386
+image_filename: ijms-23-11590-g007.jpg
+figure_link: /pmc/articles/PMC9570386/figure/ijms-23-11590-f007/
+number: Figure 7
+figure_title: ''
+caption: Enrichment and pathway analysis of STK38-related partners. (A) The experimentally
+  verified STK38-binding proteins were obtained from the STRING website. (B) The correlation
+  analysis between STK38 and selected binding genes including PKN2, NUMB, MAPK14,
+  SP1 and SRPK1 using the GEPIA2 tool. (C) The corresponding heatmap data of different
+  cancer types are displayed in detail. (D) GO and KEGG pathway analysis were performed
+  based on the STK38-binding and interacted genes.
+article_title: 'Prognostic and Immunological Role of STK38 across Cancers: Friend
+  or Foe?.'
+citation: Yankuo Liu, et al. Int J Mol Sci. 2022 Oct;23(19):11590.
+year: '2022'
+
+doi: 10.3390/ijms231911590
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- STK38
+- pan-cancer
+- immune infiltration
+- prognosis
+- survival
+
+---

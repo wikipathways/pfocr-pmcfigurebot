@@ -1,0 +1,64 @@
+---
+figid: PMC9588995__gr4
+pmcid: PMC9588995
+image_filename: gr4.jpg
+figure_link: /pmc/articles/PMC9588995/figure/fig4/
+number: Fig. 4
+figure_title: ''
+caption: 'Subclustering of macrophages reveals cell heterogeneity induced by implant
+  materials.a Subclustering of macrophages further identified five distinct subclusters.
+  Visualized UMAP plot of macrophages is shown color-coded. b Violin plots of distinct
+  phenotypic signatures for each macrophage subcluster. c Expression of canonical
+  phenotype marker genes of inflammatory, tissue repair, and resolving macrophages.
+  d Circle diagrams depicting the proportion of each macrophage subcluster in the
+  SHAM, SS, PT, SLA, and SR groups. e Pseudo-temporal ordering of macrophages and
+  the definition of subcluster along the trajectory with the pseudo-time information
+  (up), distinctly differentiated subcluster (middle), and sample information (down),
+  respectively. f,g Up-regulated genes in the IL-17 signaling pathway, oxidative phosphorylation,
+  necroptosis, chemokine signaling pathway, phagosome, antigen process and presentation
+  among macrophages, each point is depicted as a single cell. Cells with indicated
+  signaling activation were colored in shades of purple-red, and those without signaling
+  activation were colored in yellow. Boxplots between the targeted macrophages subcluster
+  and the remaining four subclusters were shown on the right, the lists of genes used
+  to compute enrichment are according to KEGG: ko00190 (oxidative phosphorylation),
+  ko04657 (IL-17signaling pathway), ko04217 (necroptosis), ko04062 (chemokine signaling
+  pathway), ko04145 (phagosome), ko04612 (antigen process and presentation).'
+article_title: 'Remodeling of the osteoimmune microenvironment after biomaterials
+  implantation in murine tibia: Single-cell transcriptome analysis.'
+citation: Jia Li, et al. Bioact Mater. 2023 Apr;22:404-422.
+year: '2023'
+
+doi: 10.1016/j.bioactmat.2022.10.009
+journal_title: Bioactive Materials
+journal_nlm_ta: Bioact Mater
+publisher_name: KeAi Publishing
+
+keywords:
+- Osteoimmunology
+- Neutrophil
+- Implant
+- Osseointegration
+- Single-cell transcriptomics
+- BMP2, Bone Morphogenetic Proteins 2
+- RUNX2, Runt-related Transcription Factor 2
+- IL-1β, Interleukin-1 beta
+- IFN-γ, Interferon-gamma
+- MHC, Major Histocompatibility Complex
+- TNFα, Tumor Necrosis Factor-alpha
+- RANKL, Nuclear Factor B receptor Activator Ligand
+- OPG, Osteoprotegerin
+- TLR, Toll Like Receptor
+- SDF-1α, Stromal Cell-derived Factor-1 alpha
+- CXCL12, Chemokine (C-X-C mode) Ligand 12
+- CXCR, CXC Chemokine Receptor
+- MIP, Macrophage inflammatory cytokines
+- MPO, Myeloperoxidase
+- NE, Neutrophil Elastase
+- TRAP, Tartrate Resistant Acid Phosphatase
+- NOD, Nucleotide Binding Oligomerization Domain
+- NF-κB, Nuclear Factor Kappa-light-chain-enhancer of Activated B cells
+- STAT, Signal Transduction and Transcription Activator
+- S100a8, S100 Calcium Binding Protein A8
+- FcgR, Fc Gamma Receptor
+
+---

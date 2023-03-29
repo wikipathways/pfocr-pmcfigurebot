@@ -1,0 +1,33 @@
+---
+figid: PMC9588904__gr5
+pmcid: PMC9588904
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC9588904/figure/fig5/
+number: Figure 5
+figure_title: ''
+caption: Subnetworks of upregulated and downregulated genes after metformin treatment
+  in a-iCMsThe central node color corresponds to upregulated (green) or downregulated
+  (red) genes after metformin treatment in pacing a-iCMS. Outer node colors correspond
+  to KEGG pathway classification, and class is listed next to each pathway cluster.
+  See also .
+article_title: Transcriptomics-based network medicine approach identifies metformin
+  as a repurposable drug for atrial fibrillation.
+citation: Jessica C. Lal, et al. Cell Rep Med. 2022 Oct 18;3(10):100749.
+year: '2022'
+
+doi: 10.1016/j.xcrm.2022.100749
+journal_title: Cell Reports Medicine
+journal_nlm_ta: Cell Rep Med
+publisher_name: Elsevier
+
+keywords:
+- network medicine
+- atrial fibrillation
+- human inducible pluripotent stem cells
+- drug repurposing
+- pharmacoepidemiology
+- systems biology
+- electronic health record
+- EHR
+
+---

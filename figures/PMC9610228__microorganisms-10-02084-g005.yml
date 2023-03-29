@@ -1,0 +1,34 @@
+---
+figid: PMC9610228__microorganisms-10-02084-g005
+pmcid: PMC9610228
+image_filename: microorganisms-10-02084-g005.jpg
+figure_link: /pmc/articles/PMC9610228/figure/microorganisms-10-02084-f005/
+number: Figure 5
+figure_title: ''
+caption: The STEM analysis of mutant ΔQrr5 during the infection period compared to
+  wild-type strain by RNA-Seq. (a) Gene trend expression enrichment map of the wild-type
+  group. (b) Gene trend expression enrichment map of ΔQrr5 group. The colors represent
+  the module where the major genes are located, and the white represents the module
+  where fewer genes are located. (c) KEGG pathway enrichment analysis results of all
+  genes in profile 14 (the profile where Qrr5 is located) of the wild-type group trend.
+  (d) KEGG pathway enrichment analysis results of all genes in profile 10 (the profile
+  where most T3SS1 genes are located) of the ΔQrr5 group trend.
+article_title: Gene Regulatory Network of the Noncoding RNA Qrr5 Involved in the Cytotoxicity
+  of Vibrio parahaemolyticus during Infection.
+citation: Fei Zha, et al. Microorganisms. 2022 Oct;10(10):2084.
+year: '2022'
+
+doi: 10.3390/microorganisms10102084
+journal_title: Microorganisms
+journal_nlm_ta: Microorganisms
+publisher_name: MDPI
+
+keywords:
+- Qrr5
+- cytotoxicity
+- transcriptome
+- weighted co-expression network analysis
+- Vibrio parahaemolyticus
+- virulence factor
+
+---

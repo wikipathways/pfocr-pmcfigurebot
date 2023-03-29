@@ -1,0 +1,33 @@
+---
+figid: PMC9610901__metabolites-12-00926-g003
+pmcid: PMC9610901
+image_filename: metabolites-12-00926-g003.jpg
+figure_link: /pmc/articles/PMC9610901/figure/metabolites-12-00926-f003/
+number: Figure 3
+figure_title: ''
+caption: Principal component analysis, secondary structure and free energy landscape
+  of test system during 150 ns simulation period. (A) PCA plot of UGSC. (B) PCA plot
+  of DGSC. (C) PCA plot of RGSC. (D) Superimposed PCA plot of UGSC, DGSC, and RGSC.
+  (E) Evolution of secondary structure of UGSC during 150 ns MD simulation. (F) Evolution
+  of secondary structure of DAPT-bound GS during 150 ns MD simulation. (G) Evolution
+  of secondary structure of rutin-bound GS during 150 ns MD simulation. (H) 2D and
+  3D free energy landscape of UGSC. (I) 2D and 3D free energy landscape of DGSC. (J)
+  2D and 3D free energy landscape of RGSC.
+article_title: Rutin Potentially Binds the Gamma Secretase Catalytic Site, Down Regulates
+  the Notch Signaling Pathway and Reduces Sphere Formation in Colonospheres.
+citation: Atul Kumar Singh, et al. Metabolites. 2022 Oct;12(10):926.
+year: '2022'
+
+doi: 10.3390/metabo12100926
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: MDPI
+
+keywords:
+- gamma secretase
+- notch signaling pathway
+- flavonoid
+- colon cancer
+- stem-like cells
+
+---

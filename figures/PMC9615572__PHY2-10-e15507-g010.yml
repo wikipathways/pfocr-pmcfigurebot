@@ -1,0 +1,40 @@
+---
+figid: PMC9615572__PHY2-10-e15507-g010
+pmcid: PMC9615572
+image_filename: PHY2-10-e15507-g010.jpg
+figure_link: /pmc/articles/PMC9615572/figure/phy215507-fig-0004/
+number: FIGURE 4
+figure_title: ''
+caption: SnPP localization in proximal tubules (panel a), resulting in Nrf2 nuclear
+  translocation (panel b) and Nrf2 activation (panel c). Panel a within 4 h of SnPP
+  injection, SnPP's fluorescent signal was observed in mouse renal cortex, and specifically
+  localized to proximal tubules (the asterix denotes a glomerulus, which demonstrated
+  no uptake). The lower panel shows an absence of fluorescence in control mouse kidney
+  tissue. Panel b an increase in Nrf2 protein is observed by Western blots in nuclear
+  protein extracts following SnPP injection. C, control nuclear extracts. Panel c
+  RNAseq volcano plot showing differential gene expression between kidneys exposed
+  to SnPP × 4 h, versus saline‐injected controls. And 111 genes were found to be upregulated
+  (red dots) and 26 genes were found to be downregulated (green dots), compared to
+  the control group. The four genes with the highest SnPP‐induced expression were
+  HO‐1, cytochrome p450‐2a5 (Cyp2a5), aldo‐keto reductase family 1 member C18 (Akr1c18),
+  and cytokine inducible SH2‐containing protein (Cish). The most suppressed gene was
+  ALAS (aminolevulinate synthase), the first enzyme controlling the heme regulatory
+  pathway. x axis = log fold change (log10FC); y axis = false discovery rate (‐log10FDR)
+article_title: 'Oxidant‐ induced preconditioning: A pharmacologic approach for triggering
+  renal ‘self defense’.'
+citation: Richard A. Zager. Physiol Rep. 2022 Oct;10(20):e15507.
+year: '2022'
+
+doi: 10.14814/phy2.15507
+journal_title: Physiological Reports
+journal_nlm_ta: Physiol Rep
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- ferritin
+- IL‐10
+- iron sucrose
+- Nrf2
+- tin protoporphyrin heme oxygenase 1
+
+---

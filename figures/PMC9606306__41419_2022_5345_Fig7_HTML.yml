@@ -1,0 +1,38 @@
+---
+figid: PMC9606306__41419_2022_5345_Fig7_HTML
+pmcid: PMC9606306
+image_filename: 41419_2022_5345_Fig7_HTML.jpg
+figure_link: /pmc/articles/PMC9606306/figure/Fig7/
+number: Fig. 7
+figure_title: Negative relationship between MUC1 and ATAD3A in breast cancer patients
+caption: 'A Representative images of IHC analysis for MUC1 and ATAD3A in 110 breast
+  cancer specimens. Bars: 100 μm. B A total of 110 patient samples were divided into
+  four groups, as indicated in the table. C The correlation between MUC1 and ATAD3A
+  expression in breast cancer specimens was plotted by Pearson correlation analysis.
+  (D) Overall survival study of patients with high and low MUC1 expression was analyzed
+  in breast cancer patients from TCGA datasets (n = 76). E Overall survival study
+  of patients with high and low Pink1 expression was analyzed in breast cancer patients
+  from TCGA datasets (n = 1070). F Overall survival study of MUC1 low-ATAD3A high
+  and MUC1 high-ATAD3A low breast cancer patients was analyzed from TCGA datasets
+  (n = 491). G Schematic overview of the work model. CCCP-induced mitochondrial impairment
+  stimulates the translocation of MUC1 to mitochondria. In mitochondria, MUC1 binds
+  to ATAD3A and promotes ATAD3A degradation through the ubiquitin-proteasome pathway,
+  thereby protecting Pink1 from ATAD3A-mediated cleavage. Accumulation of Pink1 leads
+  to increased pSer65-Ub and subsequently induces mitophagy to promote malignant properties
+  of breast cancer. Targeting both MUC1 and mitophagy based on the combination of
+  GO203 and Mdivi-1 essentially suppresses tumor growth.'
+article_title: The oncoprotein MUC1 facilitates breast cancer progression by promoting
+  Pink1-dependent mitophagy via ATAD3A destabilization.
+citation: Quanfu Li, et al. Cell Death Dis. 2022 Oct;13(10):899.
+year: '2022'
+
+doi: 10.1038/s41419-022-05345-z
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Breast cancer
+- Mitophagy
+
+---

@@ -1,0 +1,45 @@
+---
+figid: PMC9530874__CAS-113-3405-g006
+pmcid: PMC9530874
+image_filename: CAS-113-3405-g006.jpg
+figure_link: /pmc/articles/PMC9530874/figure/cas15507-fig-0003/
+number: FIGURE 3
+figure_title: ''
+caption: LC3+ extracellular vesicles (EVs) activate lung fibroblasts to produce CCL2
+  via the TLR2‐MyD88‐NF‐kB pathway. (A, B), BALB/c mice (n = 5) were i.v. injected
+  with PKH67‐labeled LC3+ EVs. PKH67+ cells in the lung (A) and the proportion of
+  indicated cells in PKH67+ cells (B) were analyzed by flow cytometry (FCM). (C),
+  Confocal microscopy images of lung fibroblasts (red) ingesting of PKH67‐labeled
+  LC3+ EVs (green) (scale bar, 50 μm). (D), The lung fibroblasts treated with 4 T1‐LC3+
+  EVs (10 μg/ml) underwent RNA‐sequencing assay, which was followed by functional
+  enrichment analysis of the differentially expressed genes. (E), Heatmap of inflammatory
+  genes that were enriched in an unbiased Gene Ontology (GO) analysis. Analysis was
+  performed on genes significantly upregulated in control versus LC3+ EV–treated lung
+  fibroblasts. (F), ELISA detection of CCL2 secretion by lung fibroblasts incubated
+  with different concentrations of LC3+ EVs for 48 h. G‐H, The lung fibroblasts isolated
+  from mice on day 10 after Becn1 NC‐ or Becn1 KD‐4 T1 cell s.c. injection (G) or
+  after LC3+ EVs i.v. injection (H) were cultured for 48 h. CCL2 levels were determined
+  by ELISA. (I), ELISA detection of CCL2 secretion by lung fibroblasts purified from
+  WT, Tlr4 −/−, Tlr2 −/−, Myd88 −/−mice incubated with LC3+ EVs for 48 h. (J), Western
+  blot analyses of the phosphorylation of IKKα/β, IκB, p65 in lung fibroblasts treated
+  with LC3+ EVs. (K), The lung fibroblasts were pretreated with NF‐κB inhibitor for
+  1 h and then cocultured with LC3+ EVs for 48 h. CCL2 levels in supernatants were
+  determined by ELISA. Data were expressed as means ± SEM.
+article_title: Tumor cell–released LC3‐positive EVs promote lung metastasis of breast
+  cancer through enhancing premetastatic niche formation.
+citation: Xiaotong Sun, et al. Cancer Sci. 2022 Oct;113(10):3405-3416.
+year: '2022'
+
+doi: 10.1111/cas.15507
+journal_title: Cancer Science
+journal_nlm_ta: Cancer Sci
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- HSP60
+- LC3+ EVs
+- lung fibroblasts
+- premetastatic niche
+- secretory autophagosomes
+
+---

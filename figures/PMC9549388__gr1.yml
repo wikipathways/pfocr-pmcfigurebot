@@ -1,0 +1,40 @@
+---
+figid: PMC9549388__gr1
+pmcid: PMC9549388
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC9549388/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: Landscape of metabolic gene expression in bronchoalveolar immune cells from
+  patients with COVID-19 at single-cell level(A) A flowchart depicting the overall
+  design of the study.(B–D) A schematic diagram shows principal component analysis
+  (PCA) (B) and t-SNE visualization of subpopulations (C and D) in BALFs of healthy
+  controls (HCs, n = 4), mild COVID-19 (n = 3), and severe COVID-19 (n = 6) donors
+  based on all gene expression profiles.(E–G) A schematic diagram shows PCA (E) and
+  t-SNE plot of metabolic genes expression profiles (F-G) of cells from BALFs based
+  on 1,526 metabolic gene expressions. Different colors indicate distinct cell subsets
+  (C and F) and patient groups (D and G). Cell subset identity in F was defined by
+  using all variable genes.(H) Feature plots show expression of cell-subset marker
+  genes and indicated metabolic genes of macrophages, mDC, T cells, plasma cells,
+  and epithelial cells from BALFs of HC and patients with COVID-19.(I and J) GSEA
+  summarizing metabolic pathway alterations of indicated subpopulations in mild versus
+  HC (I) and patients with severe versus mild (J) COVID-19. A pathway was included
+  in the heatmap if there was an alteration with pvalue less than 0.1 in any cell
+  type.
+article_title: Metabolic modeling of single bronchoalveolar macrophages reveals regulators
+  of hyperinflammation in COVID-19.
+citation: Qiuchen Zhao, et al. iScience. 2022 Oct 10 ;25(11):105319.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.105319
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Biological sciences
+- Immunology
+- Virology
+- Bioinformatics
+
+---

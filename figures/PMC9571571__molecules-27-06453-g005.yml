@@ -1,0 +1,30 @@
+---
+figid: PMC9571571__molecules-27-06453-g005
+pmcid: PMC9571571
+image_filename: molecules-27-06453-g005.jpg
+figure_link: /pmc/articles/PMC9571571/figure/molecules-27-06453-f005/
+number: Figure 5
+figure_title: ''
+caption: Sensitivity analysis of the investigated models based on their ability to
+  identify known drugs. To validate the performance of our models, we compared their
+  performance using three types of questions. (A,B) We found that models G and H achieve
+  the highest sensitivity on generic questions. (A,B) Model F could be more suitable
+  for the pathway question–answer category. (C) Our K-means clustering analysis indicates
+  that the models separate based on their sensitivity into a cluster containing the
+  B, C, and D models and another cluster containing the models’; A, E, F, H, and G.
+article_title: 'Adera2.0: A Drug Repurposing Workflow for Neuroimmunological Investigations
+  Using Neural Networks.'
+citation: Marzena Lazarczyk, et al. Molecules. 2022 Oct;27(19):6453.
+year: '2022'
+
+doi: 10.3390/molecules27196453
+journal_title: Molecules
+journal_nlm_ta: Molecules
+publisher_name: MDPI
+
+keywords:
+- drug repurposing
+- neuro-immunology
+- deep neural network
+
+---

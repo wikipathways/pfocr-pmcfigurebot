@@ -1,0 +1,45 @@
+---
+figid: PMC9606688__JCB_202208103_Fig2
+pmcid: PMC9606688
+image_filename: JCB_202208103_Fig2.jpg
+figure_link: /pmc/articles/PMC9606688/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: Signaling pathways that connect mTORC1 activity with ferroptosis regulation.
+  mTORC1 is activated by growth factor signaling through the RTK-PI3K-Akt axis, of
+  which one downstream outcome is the elevated MUFA production mediated by SREBP1
+  and SCD1. Growth factor signaling also promotes glucose uptake, which antagonizes
+  AMPK activity. AMPK increases, while mTORC1 decreases, ULK1 activity that is required
+  for autophagy initiation. Autophagic degradation of ferritin, a process termed ferrotinophagy,
+  promotes ferroptosis by releasing iron from the intracellular iron store. The p53
+  tumor suppressor promotes expression of Sestrin2 that inhibits mTORC1 activity.
+  On the other hand, p53 represses the expression of SLC7A11 required by the system
+  xc− plasma membrane antiporter, thereby promoting ferroptosis. Both these anti-mTORC1
+  and pro-ferroptosis roles are key components of the p53-mediated tumor suppressive
+  function. mTORC1 promotes NRF2 activation by increasing KEAP1 degradation. NRF2
+  acts as a transcription factor that promotes the expression of enzymes involved
+  in glutathione biosynthesis for ferroptosis suppression. Besides mTORC1, the Hippo
+  pathway is another mechanism of cell size and growth regulation. The Hippo pathway
+  effector proteins YAP and TAZ promote ferroptosis partly by increasing the expression
+  of transferrin receptor and the acyl-CoA synthetase long chain family member 4 (ACSL4).
+  Intercellular contact mediated by cadherin proteins led to NF2 activation and subsequently
+  nuclear exclusion of YAP, thereby inhibiting ferroptosis. RTK, receptor tyrosine
+  kinase. PI3K, phosphoinositide 3-kinase. PTEN, phosphatase and tensin homolog. GLUT1,
+  glucose transporter 1 (encoded by SLC2A1). AMPK, AMP-activated protein kinase. ULK1,
+  unc-51 like autophagy activating kinase 1. KEAP1, kelch-like ECH-associated protein
+  1. NRF2, nuclear factor E2-related factor 2. SREBP1, sterol regulatory element binding
+  protein 1. SCD1, stearoyl-CoA desaturase 1. MUFA, monounsaturated fatty acid. NF2,
+  also known as MERLIN. LATS1/2, large tumor suppressor kinase 1/2. YAP, Yes1 associated
+  transcriptional regulator. TAZ, also known as WWTR1, WW domain containing transcription
+  regulator 1.
+article_title: 'mTORC1 beyond anabolic metabolism: Regulation of cell death.'
+citation: Jiajun Zhu, et al. J Cell Biol. 2022 Dec 5;221(12):e202208103.
+year: '2022'
+
+doi: 10.1083/jcb.202208103
+journal_title: The Journal of Cell Biology
+journal_nlm_ta: J Cell Biol
+publisher_name: Rockefeller University Press
+
+keywords:
+---

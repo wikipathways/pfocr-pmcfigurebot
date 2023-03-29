@@ -1,0 +1,33 @@
+---
+figid: PMC9587524__gr3
+pmcid: PMC9587524
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9587524/figure/f0015/
+number: Fig. 3
+figure_title: ''
+caption: Weighted gene co-expression network analysis (WGCNA) of UVA irradiation response
+  genes in the grape skin. (a) Hierarchical cluster tree of the 31,448 common genes
+  between different studies and the heatmap of 18 correlated metabolites enriched
+  in flavonoid and anthocyanin biosynthesis pathway. (b) Module-trait associations.
+  The left panel shows the 9 modules. Each cell contains the corresponding correlation
+  and p-value. (c) Co-expression network analysis of the hub genes in the turquoise
+  module. Connection strength is represented by edge width. The topological overlap
+  measure from the WGCNA was displayed using Cytoscape to illustrate the network.
+article_title: Effects of UVA disappearance and presence on the acylated anthocyanins
+  formation in grape berries.
+citation: Haining Yin, et al. Food Chem (Oxf). 2022 Dec 30;5:100142.
+year: '2022'
+
+doi: 10.1016/j.fochms.2022.100142
+journal_title: 'Food Chemistry: Molecular Sciences'
+journal_nlm_ta: Food Chem (Oxf)
+publisher_name: Elsevier
+
+keywords:
+- Wine grape
+- UVA
+- Skin color
+- Anthocyanin
+- WGCNA
+
+---

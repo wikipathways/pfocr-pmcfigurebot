@@ -1,0 +1,29 @@
+---
+figid: PMC9611268__metabolites-12-01004-g002
+pmcid: PMC9611268
+image_filename: metabolites-12-01004-g002.jpg
+figure_link: /pmc/articles/PMC9611268/figure/metabolites-12-01004-f002/
+number: Figure 2
+figure_title: ''
+caption: Serum metabolites as biomarkers for IIM. (A) The individual plot of IIM-specific
+  metabolites was selected by the backward stepwise method for constructing a prediction
+  model. * p < 0.05; ** p < 0.005; *** p < 0.0005, and **** p < 0.0001. (B) ROC curves
+  for seven sets of metabolites with five-fold cross-validation. AUC values were calculated
+  for each machine learning method; red indicates logistic regression, blue indicates
+  support vector machine, and yellow indicates random forest.
+article_title: Identification of Metabolic Signature Associated with Idiopathic Inflammatory
+  Myopathy Reveals Polyamine Pathway Alteration in Muscle Tissue.
+citation: Jihyun Kang, et al. Metabolites. 2022 Oct;12(10):1004.
+year: '2022'
+
+doi: 10.3390/metabo12101004
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: MDPI
+
+keywords:
+- idiopathic inflammatory myopathy
+- biomarker
+- polyamine pathway
+
+---

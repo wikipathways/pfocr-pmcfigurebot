@@ -1,0 +1,47 @@
+---
+figid: PMC9530868__CAS-113-3463-g008
+pmcid: PMC9530868
+image_filename: CAS-113-3463-g008.jpg
+figure_link: /pmc/articles/PMC9530868/figure/cas15509-fig-0001/
+number: FIGURE 1
+figure_title: ''
+caption: Ubiquitin‐specific protease 28 (USP28) is important for Wnt signaling in
+  hepatocellular carcinoma cells. (A) Expression of USP28 in liver cancer samples
+  and normal tissues (paracancer). Three hundred and fifty‐one of the samples were
+  cancerous and 61 were paracancer. (B) Distribution of USP28 expression in different
+  pathological stages of liver cancer. WILCOX test was used to calculate the differences
+  among the three groups and p values were directly calculated. (C) Relationship between
+  USP28 expression and survival in patients with liver cancer. Software X‐tile was
+  used to obtain the value of cut‐off. Cut‐off (USP28) = 1.8068. All data are from
+  The Cancer Genome Atlas database with 351 data in (A–C). (D) Correlation between
+  USP28 and Wnt signaling pathway was examined using Gene Set Enrichment Analysis.
+  (E) TOPFlash reporter assay in HepG2 and HuH6 cells depleted of USP28 by two independent
+  shRNAs. Results are expressed as relative (TOP/Renilla)/(FOP/Renilla) luciferase
+  activity. (F, G) Western blot analysis of USP28 and the cell viability detection
+  in HepG2 (F) and HuH6 (G) cells with USP28 depleted by shRNA‐mediated knockdown.
+  Cell viability was determined using MTS assay and the absorbance was 490 nm. (H)
+  Ability for plate clone formation in HepG2 and HuH6 cells depleted of USP28 by two
+  independent shRNAs. (I) Western blot analysis of USP28 in HepG2 cells depleted of
+  USP28 by two independent shRNAs followed the exogenous overexpression of USP28.
+  (J) Cell viability of HepG2 depleted of USP28 by two independent shRNAs followed
+  the exogenous overexpression of USP28 determined using MTS assay. All data are representative
+  of three independent experiments (mean ± SEM). Two‐tailed Student's t‐tests were
+  applied to examine statistical significance. **p < 0.01; ***p < 0.001; ****p < 0.0001.
+article_title: Ubiquitin‐specific protease 28 deubiquitinates TCF7L2 to govern the
+  action of the Wnt signaling pathway in hepatic carcinoma.
+citation: Xiao Sun, et al. Cancer Sci. 2022 Oct;113(10):3463-3475.
+year: '2022'
+
+doi: 10.1111/cas.15509
+journal_title: Cancer Science
+journal_nlm_ta: Cancer Sci
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- deubiquitination
+- liver cancer
+- TCF7L2
+- USP28
+- Wnt signaling
+
+---

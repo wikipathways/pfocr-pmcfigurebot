@@ -1,0 +1,41 @@
+---
+figid: PMC9598794__biology-11-01497-g003
+pmcid: PMC9598794
+image_filename: biology-11-01497-g003.jpg
+figure_link: /pmc/articles/PMC9598794/figure/biology-11-01497-f003/
+number: Figure 3
+figure_title: ''
+caption: ceRNA regulatory network construction and WGCNA between high and low IMF
+  in crossbred pigs (Berkshire × AQSW). (A) Sankey diagram of the ceRNAs network in
+  longissimus dorsi tissue. Each rectangle represents a gene, and the degree of connection
+  of each gene is expressed based on the size of the rectangle. (B) GO and KEGG enrichment
+  analysis of the five DE target genes in ceRNAs; (C) the mRNA expression of five
+  DE target genes in longissimus dorsi tissue between high and low IMF. (D) Module–trait
+  associations of longissimus dorsi tissue between high and low IMF. Each row corresponds
+  to a module epigene, while each column corresponds to IMF. Each cell contains the
+  corresponding correlation and p-value. The table is colour-coded by correlation
+  according to the colour legend. The black solid box represents the significance
+  of the modules associated with IMF. (E) The interaction network of FABP3 in the
+  MElightyellow module of the IMF. The hub genes of PPAR signalling pathway and lipids
+  metabolism in the modules are denoted by blue and red shadow. (F) Sequence alignment
+  analysis of miRNA-381-3p. sus, Sus scrofa; hsa, Homo sapiens; mmu, Mus musculus;
+  rno, Rattus norvegicus; oar, Ovis aries; bta, Bos taurus; ocu, Oryctolagus cuniculus;
+  ptr, Pantroglodytes; cfa, Canis familiaris; eca, Equus caballus; * p < 0.05.
+article_title: miR-381-3p Inhibits Intramuscular Fat Deposition through Targeting
+  FABP3 by ceRNA Regulatory Network.
+citation: Yao Jiang, et al. Biology (Basel). 2022 Oct;11(10):1497.
+year: '2022'
+
+doi: 10.3390/biology11101497
+journal_title: Biology
+journal_nlm_ta: Biology (Basel)
+publisher_name: MDPI
+
+keywords:
+- intramuscular fat deposition
+- ceRNA
+- miR-381-3p
+- FABP3
+- PPAR signalling pathway
+
+---

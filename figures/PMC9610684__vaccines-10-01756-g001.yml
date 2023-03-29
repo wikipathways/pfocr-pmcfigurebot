@@ -1,0 +1,33 @@
+---
+figid: PMC9610684__vaccines-10-01756-g001
+pmcid: PMC9610684
+image_filename: vaccines-10-01756-g001.jpg
+figure_link: /pmc/articles/PMC9610684/figure/vaccines-10-01756-f001/
+number: Figure 1
+figure_title: ''
+caption: 'Overactivation of NETosis-related proteins in A. phagocytophilum-infected
+  human cells. (A) Protein interactions network between proteins that are significantly
+  different in human cell proteomics analysis. The color of each nod is based on Log2
+  fold change, and edge mapping width is based on protein interaction score: min =
+  0.2, max = 1.00. (B1) Eleven different ontology terms have been used for the go
+  study. (B2) GO data shows that proteins are involved in the ‘innate immune system’,
+  ‘response to stress’, and ‘lipopolysaccharide-mediated signaling pathway’ are significant
+  triggers in the network. (B3) Reactome data shows the association of the ‘innate
+  immune system’ and ‘neutrophil degranulation’ pathways in our data. (C) String network
+  shows a protein-protein interaction implied in NETosis.'
+article_title: Low NETosis Induced in Anaplasma phagocytophilum-Infected Cells.
+citation: Sara Artigas-Jerónimo, et al. Vaccines (Basel). 2022 Oct;10(10):1756.
+year: '2022'
+
+doi: 10.3390/vaccines10101756
+journal_title: Vaccines
+journal_nlm_ta: Vaccines (Basel)
+publisher_name: MDPI
+
+keywords:
+- neutrophils
+- NETosis
+- Anaplasma phagocytophilum
+- ROS
+
+---

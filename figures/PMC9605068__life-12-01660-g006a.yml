@@ -1,0 +1,34 @@
+---
+figid: PMC9605068__life-12-01660-g006a
+pmcid: PMC9605068
+image_filename: life-12-01660-g006a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 6
+caption: 'Differential gene expression of genes contributing to the adipocytokine
+  signaling pathway interaction of different entities. The plots were created via
+  the pathview package in R. Red: Gene expression is elevated. Green: Gene expression
+  is reduced. Grey: Genes are expressed indifferent. (a) IgG4-ROD (b) NSOI. (c) MALT
+  lymphoma.'
+article_title: Novel Insights into Pathophysiology of Orbital Inflammatory Diseases
+  and Progression to Orbital Lymphoma by Pathway Enrichment Analysis.
+citation: Karim Al-Ghazzawi, et al. Life (Basel). 2022 Oct;12(10):1660.
+year: '2022'
+
+doi: 10.3390/life12101660
+journal_title: Life
+journal_nlm_ta: Life (Basel)
+publisher_name: MDPI
+
+keywords:
+- NSOI 1
+- IgG4-ROD 2
+- MALT 3
+- OID 4
+- TAO 5
+- adipocytokine 6
+- neurotrophin
+- '7'
+- ECM receptor 8
+
+---

@@ -1,0 +1,45 @@
+---
+figid: PMC9394524__LSA-2021-01245_Fig8
+pmcid: PMC9394524
+image_filename: LSA-2021-01245_Fig8.jpg
+figure_link: /pmc/articles/PMC9394524/figure/fig8/
+number: Figure 8
+figure_title: RGS and Kel1 form a complex and are in the same genetic pathway for
+  regulation of cytokinesis
+caption: (A) Cells expressing Kel1-GFP and overexpressing RGS (pRSII416 pADH Sst2-3xFLAG)
+  as either WT, ᵽRGS, or p*RGS were treated with pheromone for 1 h, lysed, and an
+  immunoprecipitation was performed with a GFP antibody resin (GFP-trap). Westerns
+  blots were probed for FLAG-RGS and for Kel1-GFP. Input lanes contain lysate equivalent
+  to 10% of protein used for the immunoprecipitation. (B) Quantitation of the immunoprecipitation
+  results from eight separate experiments. Error bars represent 95% confidence intervals.
+  Because these confidence intervals overlap, statistical significance was tested
+  by bootstrapping the 95% confidence interval of the difference in means. (C) Our
+  data thus far lead us to the hypothesis that unphosphorylated RGS binds Kel1, inhibiting
+  it, and that phosphorylated RGS binds less well, allowing more Kel1 to function
+  for cytokinesis. This can be tested by overexpressing the unphosphorylatable ᵽRGS,
+  which we would expect to decrease the delay in polarized growth and lead to increased
+  cytokinetic defects. This hypothesis can also be tested by attempting to rescue
+  cytokinetic defects in the ᵽRGS mutant by overexpressing Kel1. (D) We performed
+  hydroxyurea and pheromone experiments as in , with overexpression of WT and mutant
+  RGS constructs from pRSII416 pADH RGS-3xFlag, as above. Graphed is the percentage
+  of cells that carried out a normal response as previously defined. The green bars
+  are data from  for comparison. Error bars represent bootstrapped 95% confidence
+  intervals. Data consist of n = 1784 cells for WT RGS, n = 2,398 for ᵽRGS, and n
+  = 1,951 for p*RGS overexpression from three different experiments. (D, E) We carried
+  out the same experiments in (D) but with Kel1 overexpressed in WT or mutant RGS
+  backgrounds from pRSII416 pADH Kel1-3xFLAG. Green bars are data from  for comparison.
+  Error bars represent bootstrapped 95% confidence intervals. Data consist of n =
+  1,936 cells for WT RGS, n = 2,251 for ᵽRGS and n = 2,574 for p*RGS from three different
+  experiments.
+article_title: Phosphorylation of RGS regulates MAP kinase localization and promotes
+  completion of cytokinesis.
+citation: William C Simke, et al. Life Sci Alliance. 2022 Oct;5(10):e202101245.
+year: '2022'
+
+doi: 10.26508/lsa.202101245
+journal_title: Life Science Alliance
+journal_nlm_ta: Life Sci Alliance
+publisher_name: Life Science Alliance LLC
+
+keywords:
+---

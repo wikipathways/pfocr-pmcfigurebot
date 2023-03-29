@@ -1,0 +1,37 @@
+---
+figid: PMC9561678__41419_2022_5315_Fig4_HTML
+pmcid: PMC9561678
+image_filename: 41419_2022_5315_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9561678/figure/Fig4/
+number: Fig. 4
+figure_title: TPO/c-Mpl-del-activated PI3K/AKT pathway modulates anti-apoptotic responses
+caption: A Immunoblot and densitometry of HEK293T expressing c-Mpl C-terminus tyrosine
+  mutants (Y567F, Y602F, Y607F for c-Mpl-del; Y591F, Y626F, Y631F for c-Mpl-p) co-immunoprecipitated
+  with phospho-JAK2 following 20 ng/mL of TPO stimulation. B Immunoblot showing levels
+  of phosphorylated downstream signaling proteins following Dami-P or Dami-DEL stimulation
+  with indicated TPO concentrations. GAPDH was used as the loading control. Phospho-JAK2/GAPDH,
+  phospho-AKT/GAPDH, phospho-STAT5/GAPDH, and phospho-ERK1/2/GAPDH densitometric ratios
+  were recorded. C KEGG pathway enrichment analysis in c-Mpl-del expressed AML patients
+  from TCGA data set. D Immunoblot showing levels of Bcl-2, Bax, and DDIT3 from Dami-GFP
+  or Dami-DEL cells stimulated with TPO and treated with or without small molecule
+  inhibitors of JAK2 (AZD1480), STATs (SH-4-54), ERK1/2 (SCH772984) and AKT (AZD5363).
+  E Immunoblot showing the rescue of decreased Bcl-2 and increased Bax following Ara-c
+  and ATRA treatment in presence of JAK2 (AZD1480) and AKT (AZD5363) inhibitors in
+  TPO-stimulated Dami-DEL cells. F Immunoblot showing the rescue of decreased Bcl-2
+  and increased Bax following JAK2 and AKT knockdown in presence of Ara-c and ATRA
+  in TPO-stimulated Dami-DEL cells. Data represent the mean ± SD (n = 3; *p < 0.05;
+  **p < 0.01; ***p < 0.001).
+article_title: c-Mpl-del, a c-Mpl alternative splicing isoform, promotes AMKL progression
+  and chemoresistance.
+citation: Fei Li, et al. Cell Death Dis. 2022 Oct;13(10):869.
+year: '2022'
+
+doi: 10.1038/s41419-022-05315-5
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Acute myeloid leukaemia
+
+---

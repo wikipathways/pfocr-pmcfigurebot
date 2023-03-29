@@ -1,0 +1,36 @@
+---
+figid: PMC9610092__viruses-14-02180-g002
+pmcid: PMC9610092
+image_filename: viruses-14-02180-g002.jpg
+figure_link: /pmc/articles/PMC9610092/figure/viruses-14-02180-f002/
+number: Figure 2
+figure_title: ''
+caption: Expression of genes belonging to the canonical IFN-γ pathway in non-COVID-19
+  and COVID-19 patients. (A) Schematic representation of IFN-γ signaling pathway associated
+  genes. The canonical IFN-γ pathway is represented in green. (B) Gene expression
+  analysis (log2 (norm counts +1)) for (i) IFNG, (ii) IFNGR1, (iii) IFNGR2, (iv) JAK1,
+  (v) JAK2, and (vi) STAT1 in COVID-19 (purple) vs. non-COVID-19 (pink) patients from
+  the GSE152075 dataset, assessed by RNA-seq. p-values correspond to Wilcoxon rank-sum
+  test. Black squares represent the median. (C) Heatmaps depicting the fold change
+  (high = pink; low = blue) for gene expression of genes belonging to the canonical
+  IFN-γ pathway considering sex (i) and age groups 30 s, 40 s, 50 s, 60 s, and 70
+  s vs. <30 (ii) in non-COVID-19 (left panel) and COVID-19 (right panel) patients
+  from the GSE152075 dataset, assessed by RNA-seq. p-values correspond to decreasing
+  Jonckheere–Terpstra trend test. Statistical significance * p < 0.05; ** p < 0.01;
+  *** p < 0.001.
+article_title: Pin-Pointing the Key Hubs in the IFN-γ Pathway Responding to SARS-CoV-2
+  Infection.
+citation: Ayelen Toro, et al. Viruses. 2022 Oct;14(10):2180.
+year: '2022'
+
+doi: 10.3390/v14102180
+journal_title: Viruses
+journal_nlm_ta: Viruses
+publisher_name: MDPI
+
+keywords:
+- IFN-γ
+- ISGs
+- COVID-19
+
+---

@@ -1,0 +1,37 @@
+---
+figid: PMC9598790__antioxidants-11-01926-g006
+pmcid: PMC9598790
+image_filename: antioxidants-11-01926-g006.jpg
+figure_link: /pmc/articles/PMC9598790/figure/antioxidants-11-01926-f006/
+number: Figure 6
+figure_title: ''
+caption: Transcriptome analyses of NCOA4 deficiency in J774 cells reveal gene responses
+  functionally associated with immune system. Transcriptome of control and NCOA4 siRNA-treated
+  cells were profiled via RNA-seq. (a) Total of 293 transcript responses were identified
+  using |FC| > 1.5 and FDR-adjusted q < 0.05 as thresholds for differential expression
+  and significance, respectively (n = 3 biological replicates). Among these, 88 were
+  identified upregulated, while 205 genes were downregulated by NCOA4 deficiency.
+  (b) Gene set enrichment analysis (GSEA) revealed enrichment of interferon response
+  and hypoxia gene sets by genes with higher expressions in NCOA4 and control siRNA-treated
+  cells, respectively. (c) ConsensusPathDB, (d) g:Profiler, and (e) Ingenuity Pathway
+  Analysis tools commonly present over-representation of genes functionally annotated
+  to immune system networks and pathways by NCOA4-responsive genes.
+article_title: NCOA4 Regulates Iron Recycling and Responds to Hepcidin Activity and
+  Lipopolysaccharide in Macrophages.
+citation: Cole A. Guggisberg, et al. Antioxidants (Basel). 2022 Oct;11(10):1926.
+year: '2022'
+
+doi: 10.3390/antiox11101926
+journal_title: Antioxidants
+journal_nlm_ta: Antioxidants (Basel)
+publisher_name: MDPI
+
+keywords:
+- ferritinophagy
+- ferritin
+- erythrophagocytosis
+- iron deficiency
+- heme
+- inflammation
+
+---

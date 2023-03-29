@@ -1,0 +1,32 @@
+---
+figid: PMC9524952__medi-101-e30758-g002
+pmcid: PMC9524952
+image_filename: medi-101-e30758-g002.jpg
+figure_link: /pmc/articles/PMC9524952/figure/F2/
+number: Figure 2
+figure_title: ''
+caption: Functional analysis of DEGs correlated with CD8+ T cell in CRC. (A) The differentially
+  expressed genes in CRC tissues based on the TCGA database. (B) The differentially
+  expressed genes in CRC tissues based on the GSE44076 dataset. (C) Overlapping differentially
+  expressed genes and CD8+ T cell-related genes. (D) GO analysis of CD8TDEGs. (E)
+  KEGG pathway analysis of CD8TDEGs. CD8TDEGs = differentially expressed genes correlated
+  with CD8+ T cell, CRC = colorectal cancer, DEGs = differentially expressed genes.
+article_title: 'Identification and analysis of a CD8+ T cell-related prognostic signature
+  for colorectal cancer based on bulk RNA sequencing and scRNA sequencing data: A
+  STROBE-compliant retrospective study.'
+citation: Zhenguo Pan, et al. Medicine (Baltimore). 2022 Sep 30;101(39):e30758.
+year: '2022'
+
+doi: 10.1097/MD.0000000000030758
+journal_title: Medicine
+journal_nlm_ta: Medicine (Baltimore)
+publisher_name: Lippincott Williams & Wilkins
+
+keywords:
+- CD8+ T cell
+- colorectal cancer
+- prognosis
+- single-cell RNA sequencing
+- TCGA
+
+---

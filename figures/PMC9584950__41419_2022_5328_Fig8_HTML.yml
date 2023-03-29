@@ -1,0 +1,40 @@
+---
+figid: PMC9584950__41419_2022_5328_Fig8_HTML
+pmcid: PMC9584950
+image_filename: 41419_2022_5328_Fig8_HTML.jpg
+figure_link: /pmc/articles/PMC9584950/figure/Fig8/
+number: Fig. 8
+figure_title: The PVT1/CypB/STAT3 pathway is characteristic of primary CRC tissues
+caption: 'A–F Correlation of PVT1 and CypB with STAT3-downstream targets using TCGA
+  data of COAD and READ by GEPIA database (http://gepia.cancer-pku.cn/). Y-axis, transcripts
+  per million (TPM) of STAT3 targes; X-axis, TPM of PVT1 and CypB. Expression of PVT1
+  and CypB were positively correlated with CCND1 A, CDK1 B, BAX C, BIRC5 D, SNAIL1
+  E, and CTNNB1 F. G The cases in TMA cohort were divided into two groups: high BMI
+  (BMI ≥ 26) and low BMI (BMI <26). The representative images of high level of PVT1,
+  nuclear CypB and pSTAT3 were shown in upper panel, while the low level of PVT1,
+  nuclear CypB and pSTAT3 were shown lower panels. Scale Bars: 100 μm (main); 400 μm
+  (inset). H The levels of BMI levels were positively correlated with expression of
+  PVT1, CypB and pSTAT3 in CRC tissues. I Kaplan-Meier curves of patients with low
+  vs high expression of PVT1 in TMA cohort. J PVT1 levels in TCGA data of COAD (left,
+  P < 2e-12) and READ (right, P < 2e-12). K Kaplan-Meier curves of patients with low
+  vs high expression of PVT1 in TCGA cohort of COAD (left, n = 286; P = 0.0134, HR = 2.077)
+  and READ (right, P = 0.13). L Proposed working model in this study showing HFD-induced
+  IL-6/STAT3 activation expedited by CypB, followed by STAT3 nuclear translocation
+  and transcription of STAT3 targets, which increase cell proliferation, survival,
+  and metastasis. A feedforward regulation of STAT3 promotes PVT1 transcription and
+  its interaction with CypB, which reciprocally promotes STAT3 activation.'
+article_title: High-fat diet induced cyclophilin B enhances STAT3/lncRNA-PVT1 feedforward
+  loop and promotes growth and metastasis in colorectal cancer.
+citation: Hanqing Guo, et al. Cell Death Dis. 2022 Oct;13(10):883.
+year: '2022'
+
+doi: 10.1038/s41419-022-05328-0
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Long non-coding RNAs
+- Colorectal cancer
+
+---

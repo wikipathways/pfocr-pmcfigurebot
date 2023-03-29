@@ -1,0 +1,36 @@
+---
+figid: PMC9612825__pcbi.1010555.g001
+pmcid: PMC9612825
+image_filename: pcbi.1010555.g001.jpg
+figure_link: /pmc/articles/PMC9612825/figure/pcbi.1010555.g001/
+number: Fig 1
+figure_title: Metabolic network
+caption: The network of pancreatic beta cell central metabolism consists of 56 metabolites
+  connected via 65 enzyme-catalyzed reactions, making up glycolysis, glutaminolysis,
+  PPP, TCA Cycle, polyol pathway, the electron transport chain, and shuttles between
+  the cytoplasm and mitochondria (denoted by the shaded rectangle). For clarity, some
+  metabolites are shown as multiple nodes within a subcompartment (for example, mitochondrial
+  AKG is shown as two nodes, though they represent the same metabolic species). As
+  part of model training, we performed a sensitivity analysis, and the reactions whose
+  Vmax values were significantly impactful are colored green. We compared model predictions
+  of metabolite levels after 60 minutes of stimulation with 2.8 mM glucose, relative
+  to metabolite levels following 60 minutes of stimulation with 16.7 mM, to qualitative
+  shifts in metabolism as reported in the literature, provided in the supplemental
+  material (). The experimental observations are indicated by the left half of the
+  metabolite nodes, and the model predictions are shown on the right. The model can
+  differentiate between metabolite location (cytosol versus mitochondria), while the
+  mass spectrometry approaches can only measure the total (pooled) amount of a metabolite;
+  we have outlined those metabolites in orange. The full set of abbreviations and
+  reaction equations is given in .
+article_title: Kinetic and data-driven modeling of pancreatic β-cell central carbon
+  metabolism and insulin secretion.
+citation: Patrick E. Gelbach, et al. PLoS Comput Biol. 2022 Oct;18(10):e1010555.
+year: '2022'
+
+doi: 10.1371/journal.pcbi.1010555
+journal_title: PLOS Computational Biology
+journal_nlm_ta: PLoS Comput Biol
+publisher_name: Public Library of Science
+
+keywords:
+---

@@ -1,0 +1,33 @@
+---
+figid: PMC9562224__cells-11-03126-g006
+pmcid: PMC9562224
+image_filename: cells-11-03126-g006.jpg
+figure_link: /pmc/articles/PMC9562224/figure/cells-11-03126-f006/
+number: Figure 6
+figure_title: ''
+caption: Transcriptome analysis on CPP-treated HDFs and DMSO-treated HDFs via RNA
+  sequencing. HDFs were CPP treated for 6 days, RNA-seq was conducted to detect the
+  gene expression. (a) Differential gene volcano map. The abscissa is the log2FoldChange
+  value, the ordinate is -log10padj or -log10pvalue, and the blue dotted line represents
+  the threshold line of the differential gene screening criteria. (b) Heatmap representing
+  EC-related genes. Expression values relative to the average expression values across
+  all samples are represented by colors from green to red (log2 scale). (c) Differential
+  genes related to endothelial cells in CPP-induced HDFs obtained by RNA-seq.
+article_title: HOCI Probe CPP Induces the Differentiation of Human Dermal Fibroblasts
+  into Vascular Endothelial Cells through PHD2/HIF-1α/HEY1 Signaling Pathway.
+citation: Xiaoling Cui, et al. Cells. 2022 Oct;11(19):3126.
+year: '2022'
+
+doi: 10.3390/cells11193126
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- differentiation
+- human dermal fibroblasts
+- vascular endothelial cells
+- hypochlorous acid probe
+- PHD2/HIF-1α/HEY1 signal pathway
+
+---

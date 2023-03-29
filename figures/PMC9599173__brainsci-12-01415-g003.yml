@@ -1,0 +1,34 @@
+---
+figid: PMC9599173__brainsci-12-01415-g003
+pmcid: PMC9599173
+image_filename: brainsci-12-01415-g003.jpg
+figure_link: /pmc/articles/PMC9599173/figure/brainsci-12-01415-f003/
+number: Figure 3
+figure_title: ''
+caption: Interaction analysis of scinderin (SCIN). (A) Top 10 Gene ontology (GO) terms,
+  involving biological process (BP), cellular component (CC), and molecular function
+  (MF) in SCIN similar genes in glioma. (B) Top 30 Kyoto Encyclopedia of Genes and
+  Genomes (KEGG) pathway in SCIN similar genes in glioma. (C) The Protein–Protein
+  Interaction (PPI)network of 10 proteins constructed with STRING server. (D) Gene–gene
+  interaction network for SCIN constructed by GeneMANIA prediction server. (E,F) Correlation
+  analysis results of SCIN with MMP2 (r = 0.357, p < 0.01) and MMP9 (r = 0.356, p
+  < 0.01) in the The Cancer Genome Atlas (TCGA) dataset.
+article_title: Scinderin Is a Novel Oncogene for Its Correlates with Poor Prognosis,
+  Immune Infiltrates and Matrix Metalloproteinase-2/9 (MMP2/9) in Glioma.
+citation: Yiwei Wang, et al. Brain Sci. 2022 Oct;12(10):1415.
+year: '2022'
+
+doi: 10.3390/brainsci12101415
+journal_title: Brain Sciences
+journal_nlm_ta: Brain Sci
+publisher_name: MDPI
+
+keywords:
+- glioma
+- scinderin
+- MMP2
+- MMP9
+- immune infiltration
+- prognosis
+
+---

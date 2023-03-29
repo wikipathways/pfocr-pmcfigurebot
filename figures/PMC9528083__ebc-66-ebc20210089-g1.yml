@@ -1,0 +1,74 @@
+---
+figid: PMC9528083__ebc-66-ebc20210089-g1
+pmcid: PMC9528083
+image_filename: ebc-66-ebc20210089-g1.jpg
+figure_link: /pmc/articles/PMC9528083/figure/F1/
+number: Figure 1
+figure_title: Brassinosteroid, ABA, ethylene, cytokinins, and strigolactones points
+  of cross-talk
+caption: Brassinosteroid pathway is shaded green. Brassinosteroids (BR) binding to
+  the cell surface receptor BRI1 (BR INSENSITIVE 1) induces association with the co-receptor
+  BAK1 (BRI1-ASSOCIATED KINASE 1). BSK1 (BR SIGNALING KINASE 1) is phosphorylated
+  by BRI1 and interacts with BSU1 (BRI1 SUPPRESSOR 1) family of proteins including
+  BSL1 (BSU1-like 1) []. BSL1 is a target of the P. infestans effector Avr2 []. BSU1
+  dephosphorylates and inhibits BIN2 (BR-INSENSITIVE 2) allowing the transcription
+  factors (TF) BZR1 (BRASSINAZOLE-RESISTANT 1) and BES1 (BRI1-EMS-SUPPRESSOR 1) to
+  induce brassinosteroid response genes and others involved in immunity e.g. Chitinase
+  TaCht20.2, and TFs WRKY11, WRKY15, WRKY18 and HBI1 (HOMOLOG OF BEE2 INTERACTING
+  WITH IBH1) [,]. In a phosphorylated state, BIN2 phosphorylates BES1 and BZR1 repressing
+  brassinosteroid responses. BIN2 also phosphorylates and destabilizes JAZ1 (JASMONATE
+  ZIM-domain), an inhibitor of JA transcription factors inducing JA responses [].
+  BSK1 is also activated by MAMP-triggered immunity, which in turn activates MAPKKK5
+  (MAPK Kinase Kinase 5) inducing MAMP-triggered immunity signalling []. BES1 is a
+  substrate of MPK6 (MAP Kinase 6) induced by MAMP-triggered immunity signalling [].
+  ABA pathway is shaded purple. ABA binds to its receptor PYR1 (PYRABACTIN RESISTANCE1),
+  which is up-regulated during biotic stress. This inhibits the activity of ABI1/2
+  (ABSCISIC ACID INSENSITIVE 1 and 2) thereby activating downstream signalling via
+  phosphorylation of SnRK2 (SNF1-related kinases 2), resulting in phosphorylation
+  of the transcription factorsABI5/ABFs (ABRE-binding factors) inducing ABA responses
+  []. Increasing ABA dampens SA signalling and induces ethylene signalling. ABI1/2
+  de-phosphorylate and inactivate BIN2, activating Brassinosteroid transcriptional
+  responses []. Cytokinins pathway is shaded beige. Cytokinins (CK) bind to their
+  receptors; AHK2, AHK3 (HYBRID HISTIDINE PROTEIN KINASE 2, 3), CRE1 (CYTOKININ RESPONSE
+  1), and CKI1 (CYTOKININ INDEPENDENT 1) that result in phosphorylation of the histidine
+  kinase domain (H) and transphosphorylation of the receiver domain (D). AHPs (histidine
+  phosphotransfer proteins) transmit the signal from the receptor to B-type ARRs (nuclear
+  response regulators). ARR1/2/10 induce the transcription of A-type ARRs (ARR4/5/6/7)
+  to induce cytokinins responses and a negative feedback loop []. The effector, HopQ1,
+  from P. syringae induces the transcription of A-type ARRs to suppress immunity mediated
+  by FSL2 []. Cytokinins and SA act synergistically with ARR2 binding TGA3, to promote
+  the expression of PR-1 []. Strigolactones pathway is shaded blue. Strigolactones
+  (SL) binds to DWARF14 (D14) receptor which induces the formation of a protein complex
+  with the negative regulator SMXL6 (SUPPRESSOR OF MORE AXILLARY GROWTH2 1 LIKE) and
+  the F-box protein, SCFMAX2 (MORE AXILLARY GROWTH2) resulting in degradation of this
+  complex. This subsequently induces activation of SL responses and transcription
+  of SMXL6, 7, 8 [,]. SCFMAX2 interacts with BZR1 and BES1 resulting in their degradation
+  []. Ethylene pathway is shaded pink. Ethylene receptors are ER localized and in
+  the presence of ethylene (ET) are inhibited, reducing the activity of a Raf-like
+  serine/threonine (Ser/Thr) kinase, CTR1 which in turn activates the Nramp metal
+  ion transporter family protein EIN2 (ETHYLENE-INSENSITIVE 2), allowing transcription
+  factors; EIN3, EIL (EIN3-like), and ERFs (ETHYLENE RESPONSE FACTORS) to induce transcription
+  []. The ERF Family Transcription Factors, OCTADECANOID-RESPONSIVE ARABIDOPSIS 59
+  (ORA59) and RAP2.3 interact to mediate ethylene signalling []. During ethylene signalling
+  ORA59 binds the ERELEE4 promoter element however when induced by JA it binds a GCC
+  box promoter element to induce JA transcriptional activation []. The authors acknowledge
+  that all known and emerging interaction events could not be included in this figure
+  created with BioRender.com.
+article_title: Interplay between phytohormone signalling pathways in plant defence
+  – other than salicylic acid and jasmonic acid.
+citation: Eleanor Gilroy, et al. Essays Biochem. 2022 Sep;66(5):657-671.
+year: '2022'
+
+doi: 10.1042/EBC20210089
+journal_title: Essays in Biochemistry
+journal_nlm_ta: Essays Biochem
+publisher_name: Portland Press Ltd.
+
+keywords:
+- crosstalk
+- immunity
+- plant hormones
+- signalling
+- signalling hubs
+
+---
