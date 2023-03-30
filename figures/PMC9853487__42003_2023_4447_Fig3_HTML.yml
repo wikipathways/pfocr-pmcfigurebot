@@ -1,0 +1,45 @@
+---
+figid: PMC9853487__42003_2023_4447_Fig3_HTML
+pmcid: PMC9853487
+image_filename: 42003_2023_4447_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC9853487/figure/Fig3/
+number: Fig. 3
+figure_title: Single-cell transcriptional signatures of clonal expansion of CD4 T
+  cells
+caption: a UMAP visualization of 137,075 CD4 T cell single-cell transcriptomes from
+  the ISB-S CD4 dataset pooled across samples and conditions. 12 clusters identified
+  using the Louvain algorithm. b Two-dimensional density plot of cells from each disease
+  condition (healthy donor, mild, moderate, severe) by UMAP coordinates. Red represents
+  areas of high density of cells of a given condition; blue represents areas of low
+  density. c UMAP visualization with cells labeled by top eight most frequent CD4
+  TCR clusters identified by the GLIPH2 analysis. d Two-dimensional density plot of
+  cells with high or low pGen score clonotypes by UMAP coordinates. Yellow represents
+  areas of high density of cells; black represents areas of low density. e Boxplots
+  of clonally expanded cell proportions (in cluster 6) for each disease condition
+  (cell count healthy donor = 544, mild = 3568, moderate = 5012, severe = 2336). Comparison
+  between groups performed with two-sided Wilcoxon rank-sum test. f Volcano plot of
+  differentially expressed genes between clonally expanded cells and all other cells
+  in the ISB-S CD4 dataset (Cluster 6 cells = 5000, all other cells = 5000). Differential
+  gene expression was performed with Seurat using the two-sided Wilcoxon rank-sum
+  test; the Bonferroni corrected adjusted p-values and log fold-change of the average
+  expression were used for visualization. g Bar plot of biological processes (BP)
+  pathway terms associated with downregulated genes (clonally expanded cells vs all
+  other cells, q-value < 1e-4) by DAVID analysis. h Bar plot of biological processes
+  (BP) pathway terms associated with upregulated genes (clonally expanded cells vs
+  all other cells, q-value < 1e-4) by DAVID analysis.
+article_title: Machine learning identifies T cell receptor repertoire signatures associated
+  with COVID-19 severity.
+citation: Jonathan J. Park, et al. Commun Biol. 2023;6:76.
+year: '2023'
+
+doi: 10.1038/s42003-023-04447-4
+journal_title: Communications Biology
+journal_nlm_ta: Commun Biol
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Machine learning
+- Viral infection
+- Cellular immunity
+
+---

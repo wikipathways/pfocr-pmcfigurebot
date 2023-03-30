@@ -1,0 +1,49 @@
+---
+figid: PMC10040549__fnut-10-1090338-g001
+pmcid: PMC10040549
+image_filename: fnut-10-1090338-g001.jpg
+figure_link: /pmc/articles/PMC10040549/figure/F1/
+number: FIGURE 1
+figure_title: ''
+caption: The molecular mechanisms of ferroptosis. Fe3+ is the predominant form of
+  iron in circulation, which often combines with Trf and can be imported into cells
+  via Trf1 located on cellular membrane. In addition, a part of iron can be imported
+  into cells by SLC39A14 in the form of Fe2+. The Fe3+ within cells is firstly reduced
+  to Fe2+ in the lysosome catalyzed by STEAP3, and then, ZIP 8/14 or DMT1 leads to
+  the release of Fe2+ from the lysosome into LIP. Moreover, the Fe3+ in cells can
+  also be stored in ferritin. NCOA4 can recognize ferritin and mediate ferritinophagy,
+  reducing stored Fe3+ to Fe2+ and ultimately releasing Fe2+ into LIP. Furthermore,
+  ferroportin is mainly in charge of the export of Fe2+ from cells. If the iron metabolism
+  is disrupted, excessive Fe2+ will trigger lipid peroxidation and ferroptosis. PUFAs,
+  as the most predominant substrates of lipid peroxidation, are firstly converted
+  to PUFA-PLs by ACSL4 and LPCAT3. In the enzymatic pathway, LOXs oxidize PUFA-PLs
+  to PUFA-PLOOH. In the non-enzymatic pathway, the excessive Fe2+ firstly reacts with
+  ROS to generate OH∙ via Fenton reaction, which then abstracts hydrogen from PUFA-PL
+  and forms PUFA-PL∙. Subsequently, O2 oxidizes PUFA-PL∙ to PUFA-PLOO∙, which abstracts
+  hydrogen from the adjacent PUFA-PL and facilitates the propagation of lipid peroxidation.
+  Ultimately, the overwhelming lipid peroxidation results in cellular membrane destruction
+  and ferroptosis. ACSL4, acyl-CoA synthetase long-chain family member 4; NCOA4, nuclear
+  receptor coactivator 4; LIP, labile iron pool; DMT1, divalent metal-iron transporter
+  1; LOXs, lipoxygenases; STEAP3, six transmembrane epithelial antigens of prostate
+  3; Trf, transferrin; Trf1, transferrin receptor 1; SLC39A14, solute carrier family
+  39 member 14; ZIP 8/14, zinc-iron regulatory protein family 8/14; PUFAs, polyunsaturated
+  fatty acids; ROS, reactive oxygen species; LPCAT3, lysophosphatidylcholine acyltransferase
+  3. The symbol * means free radical.
+article_title: 'Ferroptosis in non-alcoholic liver disease: Molecular mechanisms and
+  therapeutic implications.'
+citation: Zilu Cheng, et al. Front Nutr. 2023;10:1090338.
+year: '2023'
+
+doi: 10.3389/fnut.2023.1090338
+journal_title: Frontiers in Nutrition
+journal_nlm_ta: Front Nutr
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- ferroptosis
+- iron metabolism
+- nonalcoholic liver disease
+- time-restricted feeding
+- enoyl coenzyme A hydratase 1
+
+---

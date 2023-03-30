@@ -1,0 +1,35 @@
+---
+figid: PMC10034023__fendo-14-1132194-g008
+pmcid: PMC10034023
+image_filename: fendo-14-1132194-g008.jpg
+figure_link: /pmc/articles/PMC10034023/figure/f8/
+number: Figure 8
+figure_title: ''
+caption: Enrichment analyses of pyroptosis-related hub genes. (A) Enriched GO terms
+  in the “cellular component” category. (B) Enriched GO terms in the “biological process”
+  category. (C) Enriched GO terms in the “molecular function” category. (D) Top 10
+  significantly enriched KEGG pathways of pyroptosis-related hub genes. (E) Abnormal
+  expression of pyroptosis-related hub genes in maturity-onset diabetes of the young
+  signaling pathway. (F) Enrichment map showing the top 5 pathways from pyroptosis
+  score-based GSEA. X-axis represents enrichment score, and Y-axis represents pathway
+  name. (G) Heatmap illustrating the enriched pathways between the low- and high-pyroptosis
+  score groups as well as between the T2D and non-DM groups. Red represents upregulation,
+  whereas green represents downregulation.
+article_title: Bulk and single-cell transcriptome analyses of islet tissue unravel
+  gene signatures associated with pyroptosis and immune infiltration in type 2 diabetes.
+citation: Yaxian Song, et al. Front Endocrinol (Lausanne). 2023;14:1132194.
+year: '2023'
+
+doi: 10.3389/fendo.2023.1132194
+journal_title: Frontiers in Endocrinology
+journal_nlm_ta: Front Endocrinol (Lausanne)
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- differentially expressed gene
+- type 2 diabetes
+- pyroptosis
+- immune infiltration
+- single-cell RNA
+
+---

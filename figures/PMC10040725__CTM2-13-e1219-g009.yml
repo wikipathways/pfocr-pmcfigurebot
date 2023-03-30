@@ -1,0 +1,45 @@
+---
+figid: PMC10040725__CTM2-13-e1219-g009
+pmcid: PMC10040725
+image_filename: CTM2-13-e1219-g009.jpg
+figure_link: /pmc/articles/PMC10040725/figure/ctm21219-fig-0004/
+number: FIGURE 4
+figure_title: ''
+caption: 'Potential targets for distinguishing cancer from precancer within the myeloid
+  lineage: plasmacytoid DCs (pDCs) and macrophages: (A) the UMAP plot of the myeloid
+  cells reclustered into 13 clusters; (B) the UMAP plot of the myeloid cells categorized
+  into 5 subsets, including CDC1 cells, CDC2 cells, cycling cells, macrophages and
+  pDCs (left); the UMAP plots of the myeloid cells presented in the 4 clinical groups,
+  respectively, including human papillomavirus (HPV)‐infected cervical cancer, HPV‐infected
+  high‐grade squamous intraepithelial lesions (HSIL), HPV‐infected normal cervix and
+  normal cervix without HPV infection (right); (C) the proportion of different myeloid
+  cell subsets in the 4 clinical groups; (D) the UMAP feature plots of the marker
+  genes of CDC1 cells (CLEC9A, XCR1), CDC2 cells (CD1C, FCER1A) and pDCs (LILRA4,
+  CLEC4C); (E) the bar plot indicating the functional pathways of pDCs through Pathway
+  analysis; (F) the violin plots manifesting the expression of IDO1 (upper) and CD274
+  (lower) in pDCs of the 4 clinical groups; (G) the M1/M2 polarization score of the
+  macrophages in clusters 2, 3, 4, 6, 7 and 8 (left); the UMAP plot of the macrophages
+  exhibiting the M1/M2 polarization state in the 4 clinical groups, respectively;
+  (H) the pseudotime plot elucidating the differentiation trajectories of different
+  clusters of macrophages (left) and trajectory presented in M1/M2 polarization state
+  (upper right) and according to the 4 clinical groups (lower right); (I) the bar
+  plot indicating the functional pathways of macrophages in clusters 2, 4 and 7 through
+  pathway analysis.'
+article_title: 'Spatiotemporally deciphering the mysterious mechanism of persistent
+  HPV‐induced malignant transition and immune remodelling from HPV‐infected normal
+  cervix, precancer to cervical cancer: Integrating single‐cell RNA‐sequencing and
+  spatial transcriptome.'
+citation: Chenyan Guo, et al. Clin Transl Med. 2023 Mar;13(3):e1219.
+year: '2023'
+
+doi: 10.1002/ctm2.1219
+journal_title: Clinical and Translational Medicine
+journal_nlm_ta: Clin Transl Med
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- cervical cancer
+- single cell
+- spatial transcriptome
+
+---

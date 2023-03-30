@@ -1,0 +1,39 @@
+---
+figid: PMC10035463__crc-22-0106_fig6
+pmcid: PMC10035463
+image_filename: crc-22-0106_fig6.jpg
+figure_link: /pmc/articles/PMC10035463/figure/fig6/
+number: FIGURE 6
+figure_title: ''
+caption: Loss of Notch4 resulted in the downregulation of Pcsk5 expression in pancreatic
+  cancer. A, Statistically significantly differentially expressed genes of RNA-seq
+  analyses between PKC versus N4−/−PKC pancreatic tumor cell lines (FDR < 0.05) were
+  compared with the Reactome Pathway database. NGF processing was the top signaling
+  pathway associated with Notch4 loss, thus NGF and Pcsk5 in the pathway were implicated
+  to be downstream mediators of Notch4. B, Volcanoplot depicting the differentially
+  expressed RNAs between PKC versus N4−/−PKC pancreatic tumor cell lines (FDR < 0.05).
+  RNAs were organized by log2 fold change (x-axis) and P value (y-axis). The Pcsk5
+  gene was one of the top ranked genes differentially expressed, with its expression
+  decreased by 8.36-folds, with P = 2.66E-07 and FDR = 5.82E-05 associated with Notch4
+  loss. C, qRT-PCR analysis confirmed the expression levels of Pcsk5 were downregulated
+  in the N4−/−PKC pancreatic tumor cell lines (n = 4) compared with those of the PKC
+  pancreatic tumor cell lines (n = 4). ***, P < 0.001 by t test. D, Representative
+  images of Pcsk5 immunolabeling of PanIN (ⅰ, ⅱ) and PDAC (ⅲ, ⅳ) in the PKC and the
+  N4−/−PKC mice. Lower expression of Pcsk5 was detected in the PanIN and PDAC of the
+  N4−/−PKC mice compared with the PKC mice. Arrowheads point to ADM structures while
+  arrow point to PanIN structures (D ⅰ–ⅳ; folds of magnification are 100× in the panel
+  and 400× in the window, respectively). E, Kaplan–Meier survival analysis of patients
+  with PDAC showed that patients with low (n = 115) PCSK5 expression had better overall
+  survival than those with high (n = 61) PCSK5 expression (Human Protein Atlas). *,
+  P < 0.05 by log-rank test.
+article_title: Inactivation of Notch4 Attenuated Pancreatic Tumorigenesis in Mice.
+citation: Kiyoshi Saeki, et al. Cancer Res Commun. 2022 Dec;2(12):1601-1616.
+year: '2022'
+
+doi: 10.1158/2767-9764.CRC-22-0106
+journal_title: Cancer Research Communications
+journal_nlm_ta: Cancer Res Commun
+publisher_name: American Association for Cancer Research
+
+keywords:
+---

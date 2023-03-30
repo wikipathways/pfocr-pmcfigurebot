@@ -1,0 +1,35 @@
+---
+figid: PMC9915907__ijerph-20-02283-g005
+pmcid: PMC9915907
+image_filename: ijerph-20-02283-g005.jpg
+figure_link: /pmc/articles/PMC9915907/figure/ijerph-20-02283-f005/
+number: Figure 5
+figure_title: ''
+caption: Biological process and signaling pathway functional enrichment analysis of
+  the candidate molecular targets for DM1. (A) The top 10 biological processes associated
+  with the candidate molecular targets for DM1. (B) REAC signaling pathway enrichment
+  analysis of the eight overrepresented signaling pathways using g:Profiler (https://biit.cs.ut.ee/gprofiler/gost
+  (accessed on 29 August 2022). The purple bars represent the number of genes annotated
+  in the category. GO, gene ontology; NGF, nerve growth factor; ERK, extracellular
+  signal-regulated kinase; PI3K/AKT, phosphatidylinositol-3-kinase/ protein kinase
+  B; ECM, extracellular matrix; NTRK1 (TRKA), neurotrophic tyrosine kinase receptor
+  type 1.
+article_title: Automatic Text-Mining Approach to Identify Molecular Target Candidates
+  Associated with Metabolic Processes for Myotonic Dystrophy Type 1.
+citation: Dhvani H. Kuntawala, et al. Int J Environ Res Public Health. 2023 Feb;20(3):2283.
+year: '2023'
+
+doi: 10.3390/ijerph20032283
+journal_title: International Journal of Environmental Research and Public Health
+journal_nlm_ta: Int J Environ Res Public Health
+publisher_name: MDPI
+
+keywords:
+- myotonic dystrophy type 1
+- metabolism
+- bibliometric analysis
+- VOSviewer
+- bioinformatics
+- functional enrichment analysis
+
+---

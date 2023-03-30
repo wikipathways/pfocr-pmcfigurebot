@@ -1,0 +1,46 @@
+---
+figid: PMC10038833__JEM_20221437_FigS4
+pmcid: PMC10038833
+image_filename: JEM_20221437_FigS4.jpg
+figure_link: /pmc/articles/PMC10038833/figure/figS4/
+number: Figure S4
+figure_title: ''
+caption: 'Analysis of the macrophage populations and the comparison of key genes related
+  to intestine barrier function and nutrient absorption function between chow diet
+  and HFHS diet intestine. (A) Heatmap showing the top six most upregulated and most
+  downregulated DEGs in CD8αα+ IEL-T cells between chow diet intestine and HFHS diet
+  intestine. (B) Heatmap showing the top six most upregulated and most downregulated
+  DEGs in CD8αβ+ IEL-T cells between chow diet intestine and HFHS diet intestine.
+  (C–G) An independent cohort consisting of 10 chow diet mice and 10 HFHS diet mice
+  were added to the previous cohort () to accumulate more macrophages. (C) UMAP visualization
+  of mouse intestine macrophages derived from lamina propria of 20 chow diet mice
+  and 20 HFHS diet mice is shown, where individual points correspond to single cells.
+  Cluster analysis yields three distinct clusters: Ly6ChiCX3CR1lo monocyte-derived
+  macrophage (blue), CX3CR1hi inflammatory macrophage (red), and CX3CR1hiregulatory
+  macrophage (blue). (D) Feature plots showing the selected signature genes projection
+  on UMAP. Intensity of gene expression in each cell was indicated in color saturation.
+  (E) Histogram showing the proportions of macrophages derived from 20 chow diet mice
+  and 20 HFHS diet mice. Inf. macrophage, CX3CR1hi inflammatory macrophage; Reg. macrophage,
+  CX3CR1hiregulatory macrophage; Mono. Macrophage, Ly6ChiCX3CR1lo monocyte-derived
+  macrophage. (F and G) KEGG pathway gene set enrichment analysis of DEGs between
+  chow diet and HFHS diet mice intestine cells. The top seven most upregulated signaling
+  pathways in response to the HFHS diet were shown. (F) CX3CR1hi inflammatory macrophages.
+  (G) CX3CR1hiregulatory macrophages. (H) Heatmaps of selected genes that are involved
+  in microbiota–host interactions, tight junction, and mucin functions. (I) Violin
+  plots showing the average signature scores calculated for microbiota–host interactions,
+  tight junction, and mucin functions. Each dot represents one cell. (J) Violin plots
+  showing the average signature scores calculated for the absorption of distinct nutrient
+  classes (fat and cholesterol, amino acid, peptide, and carbohydrate). Each dot represents
+  one cell.'
+article_title: Intestinal cell type-specific communication networks underlie homeostasis
+  and response to Western diet.
+citation: Yu-Chen Wang, et al. J Exp Med. 2023 May 1;220(5):e20221437.
+year: '2023'
+
+doi: 10.1084/jem.20221437
+journal_title: The Journal of Experimental Medicine
+journal_nlm_ta: J Exp Med
+publisher_name: Rockefeller University Press
+
+keywords:
+---

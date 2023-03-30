@@ -1,0 +1,36 @@
+---
+figid: PMC9755500__fimmu-13-1034159-g003
+pmcid: PMC9755500
+image_filename: fimmu-13-1034159-g003.jpg
+figure_link: /pmc/articles/PMC9755500/figure/f3/
+number: Figure 3
+figure_title: ''
+caption: Immune, stress and antiviral Response during the SARS-CoV-2 infection. (A)
+  G SEA at the single cell resolution across the three groups (COVID-19 patients,
+  healthy and recovered), the row dendrograms distinguish the immune and stress response
+  pathways. The cell types and the groups were highlighted using different color bars.
+  Data is expressed as a relative enrichment score for each pathway. (B, C) Expression
+  of (B) ADAM, and (C) APOBEC3 genes. (D) Expression of antiviral genes in the COVID-19
+  patients and correlation with HRCT score. (E) Expression of IFN family genes across
+  all the cell types across the three groups. Cell types and groups were highlighted
+  using different color bars. (F) Cumulative expression of type I and type II IFN
+  receptors between the Classical monocyte and CD4+ TCM across the three groups.
+article_title: Single-cell multiomics revealed the dynamics of antigen presentation,
+  immune response and T cell activation in the COVID-19 positive and recovered individuals.
+citation: Partha Chattopadhyay, et al. Front Immunol. 2022;13:1034159.
+year: '2022'
+
+doi: 10.3389/fimmu.2022.1034159
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- COVID-19
+- single cell multi-omics
+- recovered COVID-19 individuals
+- immune response
+- bayesian network model
+- T-cell activation
+
+---

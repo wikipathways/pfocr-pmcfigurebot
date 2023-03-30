@@ -1,0 +1,37 @@
+---
+figid: PMC10041709__fpls-14-1106104-g002
+pmcid: PMC10041709
+image_filename: fpls-14-1106104-g002.jpg
+figure_link: /pmc/articles/PMC10041709/figure/f2/
+number: Figure 2
+figure_title: ''
+caption: Schematic representation and screenshots of Little Millet transcriptome database
+  (LMTdb v.1.0.0). (A) Representation of key elements (DEGs, SSRs, Functional Search,
+  Pathway, and Portfolio) of the database as displayed on the database homepage. (B)
+  Functional Search page displaying information related to CYP71A1 like gene (TRINITY_DN6320_c0_g1_i4).
+  (C) BLAST details for CYP71A1 like gene (TRINITY_DN6320_c0_g1_i4) (D) Comparative
+  search for CYP71A1 like gene under DEG module. (E) Downregulation of CYP71A1 like
+  gene in secondary under drought stress. (F) Representation of SSRs information for
+  CYP71A1 like gene. (G) Primer details corresponding to CYP71A1 like gene. (H) Metabolic
+  pathway information with enzymes and pathway IDs corresponding to different transcripts.
+article_title: 'LMTdb: A comprehensive transcriptome database for climate-resilient,
+  nutritionally rich little millet (Panicum sumatrense).'
+citation: Shweta Shekhar, et al. Front Plant Sci. 2023;14:1106104.
+year: '2023'
+
+doi: 10.3389/fpls.2023.1106104
+journal_title: Frontiers in Plant Science
+journal_nlm_ta: Front Plant Sci
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- transcriptome
+- database
+- Little Millet
+- LMTdb
+- DEGs
+- SSRs
+- functional annotation
+- metabolic pathway
+
+---

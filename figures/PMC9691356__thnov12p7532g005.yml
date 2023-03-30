@@ -1,0 +1,33 @@
+---
+figid: PMC9691356__thnov12p7532g005
+pmcid: PMC9691356
+image_filename: thnov12p7532g005.jpg
+figure_link: /pmc/articles/PMC9691356/figure/F5/
+number: Figure 5
+figure_title: ''
+caption: Assessing the functional states of fibroblasts in cSCC. A. UMAP plot showing
+  the sub-populations of fibroblasts. B. Violin plot showing the high expression of
+  gene markers in fibroblasts. C. The proportion of fibroblasts relative to sample
+  ID and sample type. D. RNA velocity plot showing cell transition directions among
+  fibroblasts. E. The GSVA score of inflammatory pathways in fibroblasts among different
+  sample types. F. Cell-cell interactions in COLLAGEN signaling pathway. G. Cell-cell
+  interactions in FN1 signaling pathway. Wilcoxon signed-rank test, ****p < 0.0001.
+article_title: Signatures of EMT, immunosuppression, and inflammation in primary and
+  recurrent human cutaneous squamous cell carcinoma at single-cell resolution.
+citation: Xin Li, et al. Theranostics. 2022;12(17):7532-7549.
+year: '2022'
+
+doi: 10.7150/thno.77528
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- cSCC
+- recurrence
+- TME
+- EMT
+- immunosuppression
+- inflammation
+
+---

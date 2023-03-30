@@ -1,0 +1,46 @@
+---
+figid: PMC10040851__fgene-14-1105673-g006
+pmcid: PMC10040851
+image_filename: fgene-14-1105673-g006.jpg
+figure_link: /pmc/articles/PMC10040851/figure/F6/
+number: FIGURE 6
+figure_title: ''
+caption: IFN-I signaling is correlated with divergent biological functions in COVID-19
+  versus HIV-1. (A) Network plot of genes related to IFN-I signaling that are differentially
+  upregulated in COVID-19 (Right), HIV-1 (Left), or jointly upregulated compared to
+  healthy controls. Genes are colored based on Log-2-fold change in expression in
+  HIV-1+ versus COVID-19 patients. (B) Box plots of the average expression of HIV-1,
+  COVID, and shared IFN-I module scores for each condition. p-values are computed
+  with Wilcoxon signed-rank test with Holm-Bonferroni adjustment. (C) Normalized gene
+  expression plots of IFN-I genes in COVID-19 (top) and HIV-1 (bottom). (D) Network
+  plot of key pathways correlated with IFN-I signaling in COVID-19 (left) and HIV-1+
+  patients (right). Size of each center corresponds to the number of genes present
+  in the pathway. Genes are colored based on Log-2-fold change in expression in HIV-1+
+  versus COVID-19 patients. (E) Box plots of the average expression of CD8+ T cell
+  actin polymerization module scores for each disease condition (left). Box plots
+  of the average expression of CD8+ effector, T/NK proliferating, and CD8+ Tex precursor
+  scores for each disease condition (right). p-values are computed with Wilcoxon signed-rank
+  test with Holm-Bonferroni adjustment. (F) Box plots of the average expression of
+  CD8+ T cell TLR-signaling module scores for each disease condition (left). Box plots
+  of the average expression of CD8+ effector, CD8+ effector memory and CD8+ naive
+  TLR-signaling scores for each disease condition (right). p-values are computed with
+  Wilcoxon signed-rank test with Holm-Bonferroni adjustment.
+article_title: A single-cell atlas reveals shared and distinct immune responses and
+  metabolic profiles in SARS-CoV-2 and HIV-1 infections.
+citation: Tony Pan, et al. Front Genet. 2023;14:1105673.
+year: '2023'
+
+doi: 10.3389/fgene.2023.1105673
+journal_title: Frontiers in Genetics
+journal_nlm_ta: Front Genet
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- HIV
+- Single-cell RNA sequencing
+- SARS-CoV-2
+- type 1 interferon
+- inflammation
+- metabolic signaling
+
+---

@@ -1,0 +1,36 @@
+---
+figid: PMC10034447__gr8
+pmcid: PMC10034447
+image_filename: gr8.jpg
+figure_link: /pmc/articles/PMC10034447/figure/fig8/
+number: Figure 8
+figure_title: ''
+caption: 'Glucose metabolism changes in PMCs(A) KEGG enrichment analysis of up-regulated
+  genes in the long-term group. The histogram shows the first 20 most enriched gene
+  sets, and the blue depth of the histogram represents the significant level.(B) Up-regulated
+  enzymes in glycolysis pathway in the long-term group compared with the short-term
+  group, PGM: glucose phosphate mutase, GPI: glucose phosphate isomerase, ALDO: fructose-diphosphate
+  aldolase, GAPA: glyceraldehyde 3-phosphate dehydrogenase, PGAM: phosphoglycerate
+  mutase, ENO: enolase, PK: pyruvate kinase, ACEE: pyruvate dehydrogenase E1, G6PC:
+  glucose-6-phosphatase, TPI: phosphopyranose isomerase. BPGM: diphosphoglycerate
+  synthase, and LDH: lactate dehydrogenase.(C) The regulation potential heatmap of
+  ligand-target gene in signal pathway, X axis is the specific signal pathway in PMCs,
+  Y axis is ligand-target gene pair in DC-PMCs, the regulatory potential of ligand
+  on target gene is represented by different colors, and the color depth indicates
+  the regulatory potential of ligand-target gene on the pathway.'
+article_title: Single-cell sequencing reveals peritoneal environment and insights
+  into fibrosis in CAPD patients.
+citation: Wenxue Hu, et al. iScience. 2023 Apr 21;26(4):106336.
+year: '2023'
+
+doi: 10.1016/j.isci.2023.106336
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Immune response
+- Transcriptomics
+- Treatment
+
+---

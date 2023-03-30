@@ -1,0 +1,38 @@
+---
+figid: PMC10033593__fmicb-14-1131212-g003
+pmcid: PMC10033593
+image_filename: fmicb-14-1131212-g003.jpg
+figure_link: /pmc/articles/PMC10033593/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: Analysis of the 856 of 953 differentially expressed genes (DEGs) of OsARF17-dependent
+  genes were suppressed in 17cas-2-1-RSMV vs. ZH11-RSMV. (A) Venn diagram illustrating
+  the overlapping of down-regulated 856 DEGs in ZH11–RSMV vs. ZH11, 17cas-2-1-RSMV
+  vs. ZH11-RSMV and 17cas-2-1 vs. ZH11. (B) Hierarchical clustering of 856 DEGs in
+  (A) based on the log2 fold change in transcript levels in ZH11 and OsARF17 mutant
+  plants under mock or RSMV inoculation. The hierarchical clustering analysis was
+  performed on the FPKM values of all tested genes. (C) KEGG pathway enrichment analyses
+  of 856-down genes (labelled in red) in (A). (D) Gene ontology (GO) enrichment analysis
+  of 856-down genes (labelled in red) in (A). “Rich factor” shows the ratio between
+  the number of DEGs and the total genes in this pathway. All differentially expressed
+  genes were selected using cut-off p-value < 0.05 and fold-change > 2 compared with
+  controls. Data were collected from three biological replicates, each containing
+  a pool of three plants.
+article_title: Transcriptome analysis of auxin transcription factor OsARF17-mediated
+  rice stripe mosaic virus response in rice.
+citation: Qiang Ma, et al. Front Microbiol. 2023;14:1131212.
+year: '2023'
+
+doi: 10.3389/fmicb.2023.1131212
+journal_title: Frontiers in Microbiology
+journal_nlm_ta: Front Microbiol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- rice
+- rice stripe mosaic virus
+- transcriptome
+- auxin response factor (OsARF17)
+- auxin signaling
+
+---

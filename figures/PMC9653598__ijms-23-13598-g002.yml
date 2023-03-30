@@ -1,0 +1,39 @@
+---
+figid: PMC9653598__ijms-23-13598-g002
+pmcid: PMC9653598
+image_filename: ijms-23-13598-g002.jpg
+figure_link: /pmc/articles/PMC9653598/figure/ijms-23-13598-f002/
+number: Figure 2
+figure_title: ''
+caption: WikiPathway signaling analysis of GPR19-associated proteins. Using protein
+  lists assembled from the GEO GPR19 upregulated cohort (proteins used were from the
+  common to >3, >4, >5 and >6 sub-lists derived from the primary data list) or the
+  GPR19 downregulated cohort (proteins used were from the common to >5, >6, >7 and
+  >8 sub-lists derived from the primary data list) were subjected to WikiPathways
+  signaling pathway enrichment analysis. For a pathway to be significantly enriched,
+  an enrichment probability of <0.05 was required using at least two independent proteins.
+  Venn diagrams of the enriched pathways derived from the differing GPR19 upregulated
+  (A) or GPR19 downregulated (B) proteins were created. Pathways found in at least
+  three out of the four (indicated by an asterisk, *) different initial datasets were
+  then used for further analyses of their quantitative and qualitative enrichment
+  profiles.
+article_title: Intersection of the Orphan G Protein-Coupled Receptor, GPR19, with
+  the Aging Process.
+citation: Stuart Maudsley, et al. Int J Mol Sci. 2022 Nov;23(21):13598.
+year: '2022'
+
+doi: 10.3390/ijms232113598
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- GPR19
+- GPCR
+- aging
+- therapeutics
+- longevity
+- stress
+- resistance
+
+---

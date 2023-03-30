@@ -1,0 +1,48 @@
+---
+figid: PMC10018396__fmolb-10-1085887-g001
+pmcid: PMC10018396
+image_filename: fmolb-10-1085887-g001.jpg
+figure_link: /pmc/articles/PMC10018396/figure/F1/
+number: FIGURE 1
+figure_title: ''
+caption: Biosynthesis of glycoconjugate vaccine candidates against ETEC bacteria.
+  (A) Biosynthesis of ETEC O148 O-PS from plasmid pMW07-O148, which encodes the entire
+  O-PS locus from ETEC strain B7A (serotype O148:H28) between galF and gnd. (B) Glycoconjugate
+  biosynthesis is enabled by combining engineered O-antigen biosynthesis with N-linked
+  protein glycosylation by C. jejuni PglB (CjPglB). Several plasmid-encoded glycosyltransferases
+  sequentially add the repeat-unit sugars to the lipid carrier undecaprenol pyrophosphate
+  in the cytoplasmic membrane. The lipid-linked oligosaccharide is flipped by Wzx
+  and polymerized by the Wzy polymerase, and subsequently transferred to “DQNAT” acceptor
+  sites in the carrier protein by PglB. Deletion of waaL in the host strain is used
+  to eliminate transfer of the O-PS to lipid A-core and ensure efficient transfer
+  to the acceptor protein, while deletion of lpxM results in pentaacylated lipid A
+  structure having significantly reduced toxicity. (C) Immunoblot analysis of purified
+  carrier proteins derived from Escherichia coli CLM24 cells carrying a plasmid encoding
+  either CRM1974xDQNAT or PD4xDQNAT along with plasmid pMW07-O148 encoding the ETEC
+  O148 O-PS biosynthetic pathway and plasmid pMAF10 encoding wild-type CjPglB (wt)
+  or an inactive mutant of CjPglB (mut) as indicated. Blots were probed with anti-His
+  antibody to detect acceptor proteins and anti-ETEC O148 antibody to detect O-PS.
+  Images depict aglycosylated and multiply glycosylated forms of CRM1974xDQNAT or
+  PD4xDQNAT. Molecular weight (M W) markers are indicated on the left. Results are
+  representative of three biological replicates.
+article_title: A low-cost recombinant glycoconjugate vaccine confers immunogenicity
+  and protection against enterotoxigenic Escherichia coli infections in mice.
+citation: Asher J. Williams, et al. Front Mol Biosci. 2023;10:1085887.
+year: '2023'
+
+doi: 10.3389/fmolb.2023.1085887
+journal_title: Frontiers in Molecular Biosciences
+journal_nlm_ta: Front Mol Biosci
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- synthetic glycobiology
+- cell-free (CF) protein synthesis
+- bacterial protein expression
+- conjugate vaccine
+- protein glycan coupling technology
+- protein glycosylation
+- oligosaccharyl transferase
+- vaccine carrier protein
+
+---

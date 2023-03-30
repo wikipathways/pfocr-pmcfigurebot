@@ -1,0 +1,32 @@
+---
+figid: PMC10033605__fmicb-14-1093372-g006
+pmcid: PMC10033605
+image_filename: fmicb-14-1093372-g006.jpg
+figure_link: /pmc/articles/PMC10033605/figure/F6/
+number: FIGURE 6
+figure_title: ''
+caption: (A,B) Metabolic genes and pathways of interest, annotated in each bin using
+  KEGGDecoder and HMMER. Percentage completion of each pathway is indicated in shades
+  of green. Z-scores of bin abundance within each well and across all wells are indicated
+  in a blue/red heatmap at the top of the figure (negative z-scores in blue, positive
+  z-scores in red).
+article_title: An untargeted exometabolomics approach to characterize dissolved organic
+  matter in groundwater of the Samail Ophiolite.
+citation: Lauren M. Seyler, et al. Front Microbiol. 2023;14:1093372.
+year: '2023'
+
+doi: 10.3389/fmicb.2023.1093372
+journal_title: Frontiers in Microbiology
+journal_nlm_ta: Front Microbiol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- metabolomics
+- serpentinization
+- metagenomics
+- DOM
+- alkaliphiles
+- methanogenesis
+- biosignatures
+
+---

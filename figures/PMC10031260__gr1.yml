@@ -1,0 +1,44 @@
+---
+figid: PMC10031260__gr1
+pmcid: PMC10031260
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC10031260/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: MEK inhibition activates mitochondrial oxidative metabolism. (A) Cell sensitivity
+  to the MEK inhibitor trametinib and selumetinib. KRAS-mutant NSCLC cells were treated
+  with trametinib (Tram) or selumetinib (Selu) at gradient concentrations for 72 h,
+  and cell viability was measured. IC50 values are represented as mean ± SEM of three
+  independent experiments with three technical replicates each. Resistant cell lines
+  are marked in green, and sensitive cell lines are marked in brown. (B) Metabolite
+  set enrichment analysis. H460 and A549 cells were treated with trametinib at their
+  respective 1/2 IC50 values for 24 h and then harvested for metabolomic profiling
+  determination. Metabolite set enrichment analysis was performed to identify dysregulated
+  metabolic pathways. The corresponding enrichment pathways (n = 6) are shown. (C)
+  Abundance of major metabolites in the glycolysis and tricarboxylic acid (TCA)-oxidative
+  phosphorylation (OXPHOS) pathways. H460 and A549 cells were exposed to trametinib
+  at their respective 1/2 IC50 values for 24 h. Cell lysates were subjected to LC/MS
+  analysis. Heatmap showed change of metabolites in the glycolysis and the TCA-OXPHOS
+  pathway in trametinib-treated cells versus untreated cells. Metabolite abundance
+  was normalized by cell number. NADH, nicotinamide adenine dinucleotide; NAD+, oxidized
+  nicotinamide adenine dinucleotide. Values are scaled as indicated (2 to −2; n = 6).
+article_title: Targeting metabolic vulnerability in mitochondria conquers MEK inhibitor
+  resistance in KRAS-mutant lung cancer.
+citation: Juanjuan Feng, et al. Acta Pharm Sin B. 2023 Mar;13(3):1145-1163.
+year: '2023'
+
+doi: 10.1016/j.apsb.2022.10.023
+journal_title: Acta Pharmaceutica Sinica. B
+journal_nlm_ta: Acta Pharm Sin B
+publisher_name: Elsevier
+
+keywords:
+- KRAS-mutant lung cancer
+- MEK inhibitors
+- Drug resistance
+- Metabolic rewiring
+- Mitochondrial oxidative phosphorylation
+- Pyruvate dehydrogenase complex
+- Carnitine palmitoyl transferase IA
+
+---

@@ -1,0 +1,33 @@
+---
+figid: PMC7614365__EMS172352-f005
+pmcid: PMC7614365
+image_filename: EMS172352-f005.jpg
+figure_link: /pmc/articles/PMC7614365/figure/F5/
+number: Figure 5
+figure_title: Genome-wide transcriptional assessment of lineage converted Epi- and
+  Am-spheroids
+caption: 'A, Pearson correlation analysis of control Epi-, Am-spheroids and specific
+  pathway perturbations for lineage conversion conducted in cell line #1 with or without
+  MEFs. Correlation is pseudo-bulk of all cells passing quality control (Epi-spheroid
+  #1: 32 cells, ActA with MEFs: 29 cells, ActA no MEFs: 31 cells, FGF2 no MEFs: 31
+  cells, CHIR with MEFs: Am-spheroid #1: 31 cells, 31 cells, BMP4 no MEFs: 25 cells,
+  BMP4 with MEFs: 31 cells, SB43 with MEFs: 30 cells) B, Single-cell RNA-seq Seurat-normalized
+  mRNA levels for POU5F1 (EmDisc & amnion lineage marker), MIXL1 (Gastrulation marker),
+  TFAP2C and TFAP2A (amnion lineage markers). C-G, Principal component analysis of
+  adjusted expression values using a set of genes identified via canonical correlation
+  analysis comparing in vivo dataset to control Epi- and Am-spheroids (C) with the
+  perturbed samples: BMP4 with MEFs (D) Activin-A with (E) and without (F) MEFs, and
+  SB43 with MEFs (G). Silhouettes and decision boundary respectively highlight the
+  perturbation shown in each plot and the segregation of EmDisc and amnion samples.'
+article_title: Microgel culture and spatial identity mapping elucidate the signalling
+  requirements for primate epiblast and amnion formation.
+citation: Clara Munger, et al. Development. ;149(20):dev200263.
+year: '2023'
+
+doi: 10.1242/dev.200263
+journal_title: Development (Cambridge, England)
+journal_nlm_ta: Development
+publisher_name: ''
+
+keywords:
+---

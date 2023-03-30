@@ -1,0 +1,33 @@
+---
+figid: PMC10034094__fimmu-14-1134369-g007
+pmcid: PMC10034094
+image_filename: fimmu-14-1134369-g007.jpg
+figure_link: /pmc/articles/PMC10034094/figure/f7/
+number: Figure 7
+figure_title: ''
+caption: Differential metabolic pathways. (A), the plot of differential metabolic
+  pathways of HC vs. ME; (B), the plot of differential metabolic pathways of HC vs.
+  PUD; (C), the plot of differential metabolic pathways of ME vs. PUD; (D), the histogram
+  of predicted metabolic pathways of the flora based on PICRUSt2 and KEGG database.
+  Impact, the value of weight calculation based on topological analysis; larger Impact,
+  more significant Pathway; Total, total number of metabolites in the target metabolic
+  pathway; Hits, number of differential metabolites in the target metabolic pathway;
+  p-value, hypergeometric distribution test.
+article_title: Integrating microbiome and metabolome revealed microbe-metabolism interactions
+  in the stomach of patients with different severity of peptic ulcer disease.
+citation: Chao Wang, et al. Front Immunol. 2023;14:1134369.
+year: '2023'
+
+doi: 10.3389/fimmu.2023.1134369
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- peptic ulcer
+- gastric flora
+- microbiome
+- metabolome
+- comprehensive analysis
+
+---

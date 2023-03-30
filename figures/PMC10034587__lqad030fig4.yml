@@ -1,0 +1,30 @@
+---
+figid: PMC10034587__lqad030fig4
+pmcid: PMC10034587
+image_filename: lqad030fig4.jpg
+figure_link: /pmc/articles/PMC10034587/figure/F4/
+number: Figure 4
+figure_title: ''
+caption: Study and illustrations of complex multi-subunits IL1RAP signaling pathways
+  for COVID versus control samples using DiSiR from lung scRNA-seq data. (A) Heatmap
+  plot illustrating the differences between cell–cell communications identified by
+  DiSiR for the IL1RAP signaling pathway between COVID-19 and control samples in lung
+  scRNA-seq data. The colormap shows the strength of interaction between the cell
+  types. Chord diagram representation of significant ligand–receptor interactions,
+  involved in the IL1RAP signaling pathway, e.g. IL1A|IL1RAP + IL1A|IL1R1, IL1B|IL1RAP
+  + IL1B|IL1R1, IL1RN|IL1RAP + IL1RN|IL1RL1, IL33|IL1RAP + IL33|IL1RL1, IL36B|IL1RAP
+  + IL36B|IL1RL2, IL36G|IL1RAP + IL36G|IL1RL2 and IL36RN|IL1RAP + IL36RN|IL1RL2, between
+  different cell types identified by DiSiR for (B) healthy versus (C) COVID samples
+  using the default threshold level (Th= 0).
+article_title: 'DiSiR: fast and robust method to identify ligand–receptor interactions
+  at subunit level from single-cell RNA-sequencing data.'
+citation: Milad R Vahid, et al. NAR Genom Bioinform. 2023 Mar;5(1):lqad030.
+year: '2023'
+
+doi: 10.1093/nargab/lqad030
+journal_title: NAR Genomics and Bioinformatics
+journal_nlm_ta: NAR Genom Bioinform
+publisher_name: Oxford University Press
+
+keywords:
+---

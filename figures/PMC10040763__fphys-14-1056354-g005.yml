@@ -1,0 +1,35 @@
+---
+figid: PMC10040763__fphys-14-1056354-g005
+pmcid: PMC10040763
+image_filename: fphys-14-1056354-g005.jpg
+figure_link: /pmc/articles/PMC10040763/figure/F5/
+number: FIGURE 5
+figure_title: ''
+caption: Cortex-specific pathway analysis of trascriptome changes by limma after BCAS-hypoperfusion.
+  (A) PCA plot of cortex-specific RNA-seq obtained from sham and BCAS mice. N = 4
+  for each group. (B) Up-regulated and down-regulated functional pathways analyzed
+  by GSEA (BCAS vs. Sham) NES, normalized enrichment score. Notice high enrichment
+  for IFN-beta signaling pathways. (C–F) (Up) Enrichment plots and (Bottom) IGV map
+  tracks for representative genes in the up-regulated and down-regulated pathways.
+  Notice increases of RNA-seq signal for IFN-regulated genes (IFi204, Gbp2) and activation
+  of innate immune genes (Ifi209, Tlr2) in BCAS group compared to sham mice, accompanied
+  by decreases of RNA-seq signal for neuronal-activity related genes (Npas4, Grin1,
+  Nptx1, Nptx2).
+article_title: Cortex-specific transcriptome profiling reveals upregulation of interferon-regulated
+  genes after deeper cerebral hypoperfusion in mice.
+citation: Zengyu Zhang, et al. Front Physiol. 2023;14:1056354.
+year: '2023'
+
+doi: 10.3389/fphys.2023.1056354
+journal_title: Frontiers in Physiology
+journal_nlm_ta: Front Physiol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- bilateral carotid artery stenosis
+- cerebral cortex
+- RNA-seq
+- type I interferon
+- chronic cerebral hypoperfusion (CCH)
+
+---

@@ -1,0 +1,36 @@
+---
+figid: PMC10034123__fneur-14-1029370-g0002
+pmcid: PMC10034123
+image_filename: fneur-14-1029370-g0002.jpg
+figure_link: /pmc/articles/PMC10034123/figure/F2/
+number: Figure 2
+figure_title: ''
+caption: (A) The results of gene ontology (GO) enrichment categories of the DEGs for
+  both Parkinson's disease dementia (PDD) and Dementia with Lewy bodies (DLB) groups
+  including biological process (BP), cellular component (CC), and molecular function
+  (MF). (B) The results of the Kyoto encyclopedia of genes and genomes (KEGG) pathway
+  enrichment analyses of the DEGs for both PDD and DLB, the abscissa represents GeneRatio
+  (the number of genes enriched in this KEGG entry/the total number of genes), and
+  the ordinate represents KEGG terms. P-adjust refers to the P-value after correction,
+  the darker the red color, the greater the correlation. Counts refer to the number
+  of genes enriched in this KEGG entry, the larger the circle, the more the number
+  of genes.
+article_title: Identification of key genes and signaling pathways associated with
+  dementia with Lewy bodies and Parkinson's disease dementia using bioinformatics.
+citation: Jing Xu, et al. Front Neurol. 2023;14:1029370.
+year: '2023'
+
+doi: 10.3389/fneur.2023.1029370
+journal_title: Frontiers in Neurology
+journal_nlm_ta: Front Neurol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- Lewy body dementias
+- dementia with Lewy bodies
+- Parkinson's disease dementia
+- weighted gene co-expression network analysis
+- hub gene
+- biomarker
+
+---

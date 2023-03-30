@@ -1,0 +1,37 @@
+---
+figid: PMC9883409__CAM4-12-2033-g007
+pmcid: PMC9883409
+image_filename: CAM4-12-2033-g007.jpg
+figure_link: /pmc/articles/PMC9883409/figure/cam44956-fig-0001/
+number: FIGURE 1
+figure_title: ''
+caption: (A) KEGG analysis confirmed the key pathways for selected 42 genes and ferroptosis
+  ranked the top pathway, the genes were selected from publication based on Pubmed
+  database, and ferroptosis was involved from KEGG analysis; (B) GO analysis revealed
+  potential cellular component (CC), molecular function (MF), and biological process
+  (BP), the selected 42 genes were significantly correlated with iron ion homeostasis
+  and peroxisomal membrane; (C) mRNA expression difference heatmap of 42 genes between
+  CRC tumor and normal epithelium, the most significant 15 upregulated genes and 8
+  downregulated genes were selected for further survival analsysi; (D) Kaplan–Meier
+  analysis of OS for GPX4, NOX1, and ACSL4, results demonstrated that higher expression
+  of NOX1, low expression of GPX4, and low expression of ACSL4 separately demonstrated
+  better prognosis in CRC patients from TCGA. CRC, colorectal cancer; GO, Gene ontology;
+  KEGG, Kyoto Encyclopedia of Genes and Genomes; OS, overall survival
+article_title: Low ferroptosis score predicts chemotherapy responsiveness and immune‐activation
+  in colorectal cancer.
+citation: Yang Lv, et al. Cancer Med. 2023 Jan;12(2):2033-2045.
+year: '2023'
+
+doi: 10.1002/cam4.4956
+journal_title: Cancer Medicine
+journal_nlm_ta: Cancer Med
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- chemotherapy
+- colorectal cancer
+- ferroptosis
+- immune response
+- prognosis
+
+---

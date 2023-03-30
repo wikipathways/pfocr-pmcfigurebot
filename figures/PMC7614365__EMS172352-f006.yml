@@ -1,0 +1,32 @@
+---
+figid: PMC7614365__EMS172352-f006
+pmcid: PMC7614365
+image_filename: EMS172352-f006.jpg
+figure_link: /pmc/articles/PMC7614365/figure/F6/
+number: Figure 6
+figure_title: Dynamic spatial identity mapping of Epi- and Am-spheroid cultures
+caption: A, 3D reconstruction of the CS6 marmoset embryo (Bergmann et al., 2021) highlighting
+  the EmDisc and amnion. Additional lineages are displayed in low opacity for context.
+  B, Representative gene expression patterns depicted in Gaussian process regression-based
+  3D models of CS6 EmDisc and amnion. Expression patterns demarcate anterior EmDisc,posterior
+  EmDisc, and spatial domains of the amnion. C-D, Comparison of Epi-spheroids (C)
+  and Am-spheroids (D) to the embryo through static spatial identity mapping and comparative
+  ternary plots. Spatial identity mapping colour scale represents projection of correlation
+  values onto embryo model surfaces followed by Gaussian process regression mapping.
+  Ternary plots display proportional mRNA levels of lineage markers given by distance
+  to the vertex. E-J, Dynamic spatial identity and comparative ternary plots for indicated
+  screen conditions with MEF (E-G) or without MEF (H-J). In ternary plots, arrow origin
+  denotes levels in control spheroids, and arrow endpoint denotes levels when indicated
+  signalling pathway perturbation is applied.
+article_title: Microgel culture and spatial identity mapping elucidate the signalling
+  requirements for primate epiblast and amnion formation.
+citation: Clara Munger, et al. Development. ;149(20):dev200263.
+year: '2023'
+
+doi: 10.1242/dev.200263
+journal_title: Development (Cambridge, England)
+journal_nlm_ta: Development
+publisher_name: ''
+
+keywords:
+---

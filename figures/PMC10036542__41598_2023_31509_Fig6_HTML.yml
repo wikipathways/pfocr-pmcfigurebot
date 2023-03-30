@@ -1,0 +1,30 @@
+---
+figid: PMC10036542__41598_2023_31509_Fig6_HTML
+pmcid: PMC10036542
+image_filename: 41598_2023_31509_Fig6_HTML.jpg
+figure_link: /pmc/articles/PMC10036542/figure/Fig6/
+number: Figure 6
+figure_title: ''
+caption: Operon prediction and analysis. (A) Six operon clusters were identified with
+  k-means clustering method. Black colored line is the average of the operon values
+  that belonging to the cluster at the each time points. (B,C) Pathway enrichment
+  analysis of genes in operon cluster 1 and 2. Red colored bar is most enriched term
+  in cluster1 and orange colored bar is most enriched term in cluster2. The red dotted
+  line indicates statistical significance of p-value.
+article_title: Characterization of radiation-resistance mechanism in Spirosoma montaniterrae
+  DY10T in terms of transcriptional regulatory system.
+citation: Changyun Cho, et al. Sci Rep. 2023;13:4739.
+year: '2023'
+
+doi: 10.1038/s41598-023-31509-8
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Computational biology and bioinformatics
+- Computational models
+- Gene regulatory networks
+- Machine learning
+
+---

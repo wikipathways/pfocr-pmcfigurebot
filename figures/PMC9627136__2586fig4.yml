@@ -1,0 +1,43 @@
+---
+figid: PMC9627136__2586fig4
+pmcid: PMC9627136
+image_filename: 2586fig4.jpg
+figure_link: /pmc/articles/PMC9627136/figure/fig4/
+number: Figure 4
+figure_title: ''
+caption: Discovery of DNA repair and replication components enriched in non-pCR TNBC
+  tumors. A, Cytobands enriched in genes differentially expressed between non-pCR
+  and pCR for both mRNA and protein. To identify upregulated or downregulated features
+  overrepresented in certain cytobands within the chromosome, GSEA was used to identify
+  regions from chromosomal location databases enriched with differential genes [GSEA
+  input was ranked expression list (signed −log10P value) from Wilcoxon rank sum tests].
+  Overrepresented cytobands that were either enriched or depleted using differentially
+  expressed mRNA and protein are indicated in B, and the overlapping sets were used
+  for further analysis. B, Plot showing significantly enriched or depleted cytobands
+  obtained by running differential mRNA and protein ranked lists through GSEA. NES,
+  normalized enrichment score. Genes downregulated in non-pCR samples corresponding
+  to cytoband 19q13.31–33 are indicated in C. C, Venn diagram showing differential
+  (non-pCR vs. pCR) mRNA and proteins located on cytoband 19q13.3. D, Overrepresentation
+  analysis (ORA) shows that differential 19q13.31–33 genes are enriched with Hallmark
+  DNA repair pathway genes. Downregulation of these DNA repair genes at the mRNA and
+  protein levels in non-pCR cases is shown in the bar chart on the right as signed
+  −log10P values from Wilcoxon rank sum tests. E, Box plot comparing RNA expression
+  of DNA repair genes located on 19q13.31–33 in the previously published BrighTNess
+  clinical trial (treatment arms A and B), in which patients were treated with carboplatin
+  and paclitaxel. The Wilcoxon rank sum test was used to compare residual disease
+  (RD) cases with pCR cases. F, Forest plot showing hazard ratios (HR) and P values
+  for metastasis-free survival associated with LIG1, POLD1, XRCC1, and ERCC2. HR is
+  based on categorizing samples using a median expression cutoff for each gene in
+  the Hatzis dataset.
+article_title: Proteogenomic Markers of Chemotherapy Resistance and Response in Triple-Negative
+  Breast Cancer.
+citation: Meenakshi Anurag, et al. Cancer Discov. ;12(11):2586-2605.
+year: '2023'
+
+doi: 10.1158/2159-8290.CD-22-0200
+journal_title: Cancer Discovery
+journal_nlm_ta: Cancer Discov
+publisher_name: American Association for Cancer Research
+
+keywords:
+---

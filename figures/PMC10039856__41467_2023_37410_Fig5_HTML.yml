@@ -1,0 +1,44 @@
+---
+figid: PMC10039856__41467_2023_37410_Fig5_HTML
+pmcid: PMC10039856
+image_filename: 41467_2023_37410_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC10039856/figure/Fig5/
+number: Fig. 5
+figure_title: MAYA detects pathway activation in tumors across patients
+caption: 'a UMAP representation of activity matrix of Hallmark pathways, cells are
+  colored according to author annotation and patient. Clusters derived from activity
+  matrix are displayed next to relevant groups of cells. b Overlaid jitter and boxplot
+  representation of Shannon Diversity Index (SDI), for clusters derived from gene-based
+  dimensionality reduction and MAYA activity matrix of the ovary dataset. Clusters
+  corresponding to tumor cells are colored in pink; n = 11 and 4 independent clusters
+  respectively; Center line, median; box limits, upper and lower quartiles; whiskers,
+  1.5× interquartile range. c Barplot representation of specificity scores of the
+  top5 specific modes for the four most prevalent populations in the dataset. d Heatmap
+  of activity scores of the three modes of the Hallmark Epithelial Mesenchymal Transition
+  (EMT) pathway, initial author annotation is indicated above heatmap. Heatmap of
+  scaled gene expression for top10 contributing genes for the three modes of EMT,
+  ordered by decreasing contribution. e UMAP representation of activity matrix of
+  Hallmark pathways, cells are colored according to activity scores of the three EMT
+  modes. Specificity score of cell populations is displayed next to relevant clusters.
+  Violin plots of activity scores for corresponding modes, grouped by author annotation
+  (adjusted p-values from two-sided Wilcoxon test are symbolized with: *: <0.05, **:
+  <0.01, ***: <0.001, ****: <0.0001). Heatmap of the activity scores for the modes
+  of (f) Hallmark Estrogen Response Early pathway, (g) Hallmark Coagulation pathway
+  and (h) KEGG Wnt pathway, cells are grouped according to author annotation. Heatmap
+  of scaled gene expression for top10 contributing genes for corresponding modes,
+  ordered by decreasing contribution.'
+article_title: Multi-modal quantification of pathway activity with MAYA.
+citation: Yuna Landais, et al. Nat Commun. 2023;14:1668.
+year: '2023'
+
+doi: 10.1038/s41467-023-37410-2
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Data mining
+- Cellular signalling networks
+- RNA
+
+---

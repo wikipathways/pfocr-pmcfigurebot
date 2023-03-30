@@ -1,0 +1,34 @@
+---
+figid: PMC9722784__12276_2022_896_Fig5_HTML
+pmcid: PMC9722784
+image_filename: 12276_2022_896_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC9722784/figure/Fig5/
+number: Fig. 5
+figure_title: Maps showing the role of the TGF-β signaling pathway in the dialog between
+  cancer cells and the TME
+caption: 'a Radar chart from CellChat data showing the major signaling pathways that
+  mediate cell-to-cell interactions in LUAD. b TGF-β signaling pathway interactions
+  between cancer cells and nine specific cell types of the TME from scRNA-seq data.
+  The maps show TGF-β pathway interactions between cancer cells and cells of the immune
+  microenvironment in AIS (left panel), MIA (middle panel), and IAC (right panel).
+  c Heatmaps showing the distributions of ligands and receptors in the TGF-β pathway
+  in the three stages of LUAD (upper: AIS, middle: MIA, lower: IAC). d GSVA of scRNA-seq
+  showing that differences in the expression of genes (54 genes) downstream of the
+  TGF-β pathway between normal cells and cancer cells differed among the three stages
+  of LUAD. e TMAs were used to verify the expression of a gene related to TGF-β phosphorylation
+  (p-Smad2) in the three stages of LUAD.'
+article_title: Delineating the dynamic evolution from preneoplasia to invasive lung
+  adenocarcinoma by integrating single-cell RNA sequencing and spatial transcriptomics.
+citation: Jianfei Zhu, et al. Exp Mol Med. 2022 Nov;54(11):2060-2076.
+year: '2022'
+
+doi: 10.1038/s12276-022-00896-9
+journal_title: Experimental & Molecular Medicine
+journal_nlm_ta: Exp Mol Med
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Non-small-cell lung cancer
+- Cancer microenvironment
+
+---

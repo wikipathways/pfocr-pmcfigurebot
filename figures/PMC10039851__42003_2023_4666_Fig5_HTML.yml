@@ -1,0 +1,47 @@
+---
+figid: PMC10039851__42003_2023_4666_Fig5_HTML
+pmcid: PMC10039851
+image_filename: 42003_2023_4666_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC10039851/figure/Fig5/
+number: Fig. 5
+figure_title: ERK inhibitors combined with EZH2 inhibitors increased Utrn expression
+  in adult myoblasts
+caption: 'a Schematic of the ERK signalling pathway and the inhibitors used in this
+  study. b Bioluminescence image (left) and quantification of flux (right) of U22
+  A5 myoblasts after 24 h treatment with EZH2i GSK503 (grey triangles) or ERKi LY32
+  (red open circles) alone or in combination (black closed circles). LY32 treatment
+  caused a dose-dependent increase in flux which was further amplified by the addition
+  of GSK503 (shaded area). c As in b, for U22 A5 myoblasts treated with EZH2i GSK503
+  (grey triangles) and ERKi Ravox (red open circles) either alone or combined (black
+  closed circles). A dose dependent increase in flux was observed after Ravox treatment
+  and this was increased upon the addition of GSK503 (shaded area). d RT-qPCR of U22
+  A5 myoblasts after 24 h treatment with GSK503 and ERK pathway inhibitors (at 10 µM),
+  applied either alone or combined; increased Utrn mRNA upon treatment with ERK pathway
+  inhibitors was amplified by the addition of GSK503. One-way ANOVAs (in order: p = 0.0012,
+  p = 0.0047, p = 0.0036, p = 0.0015) with Sidak’s multiple comparisons test was used
+  to compare between groups. e, f Dmd-deficient U22 A5 myoblast lines 2a6 and 3b2
+  were generated using CRISPR/Cas9 (details in Fig. ). UtrnR bioluminescence (blue
+  green) after treatment with GSK503 or LY32 (10 µM) alone or in combination is shown
+  in e and RT-qPCR analysis of Utrn mRNA expression is shown in f. For each clone,
+  comparisons between treatment groups were performed with one-way ANOVAs (e, p = 0.0009
+  both, f p < 0.0001 and p = 0.0023) with Dunnett’s multiple comparisons test. Expression
+  levels were normalised to 18 S and Tbp and shown relative to the vehicle treated
+  control (d, f). Bars show mean + /− SEM with adjusted p values: *p < 0.05, **p < 0.01,
+  ***p < 0.001) (d–f).'
+article_title: Endogenous bioluminescent reporters reveal a sustained increase in
+  utrophin gene expression upon EZH2 and ERK1/2 inhibition.
+citation: Hannah J. Gleneadie, et al. Commun Biol. 2023;6:318.
+year: '2023'
+
+doi: 10.1038/s42003-023-04666-9
+journal_title: Communications Biology
+journal_nlm_ta: Commun Biol
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Imaging
+- Drug screening
+- Disease model
+- Epigenetics
+
+---

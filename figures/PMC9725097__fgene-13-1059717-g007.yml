@@ -1,0 +1,37 @@
+---
+figid: PMC9725097__fgene-13-1059717-g007
+pmcid: PMC9725097
+image_filename: fgene-13-1059717-g007.jpg
+figure_link: /pmc/articles/PMC9725097/figure/F7/
+number: FIGURE 7
+figure_title: ''
+caption: Pearson correlation network diagram of differentially expressed genes (DEGs)
+  and differentially accumulated metabolites (DAMs) abundance in pairwise comparison
+  of C. reticulata (HHYC), C. reticulata ‘Xuejiao’ (XJ) and C. reticulata ‘Tongzimian’
+  (TZM). (A). HHYC_vs_XJ. (B). HHYC_vs_TZM. (C). Heatmap clustering of seven metabolites
+  based on log2 transformed of ion intensities. The metabolites pme3392 (pelargonidin-3-O-glucoside),
+  pmb0550 (cyanidin-3-O-glucoside (kuromanin)), pmf0203 (peonidin-3-O-glucoside),
+  pmb0542 (cyanidin-3-O-(6″-O-malonyl) glucoside), pme1773 (cyanidin-3-O-rutinoside
+  (keracyanin)), pme1777 (cyanidin-3,5-O-diglucoside (cyanin)) and pmf0116 (delphinidin-3,5-di-O-glucoside).
+  The DEGs in the network (gene-LOC114285765 and gene-LOC114289234 encode for anthocyanidin
+  3-O-glucosyltransferase [EC:2.4.1.115] designated BZI in Anthocyanin biosynthetic
+  pathway in ). Color diagram at the right side shows the intensity of the metabolite
+  accumulation.
+article_title: Integrated transcriptome and metabolome profiling of Camellia reticulata
+  reveal mechanisms of flower color differentiation.
+citation: Fang Geng, et al. Front Genet. 2022;13:1059717.
+year: '2022'
+
+doi: 10.3389/fgene.2022.1059717
+journal_title: Frontiers in Genetics
+journal_nlm_ta: Front Genet
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- omics
+- anthocyanins
+- carotenoids
+- flower
+- Camellia reticulata
+
+---

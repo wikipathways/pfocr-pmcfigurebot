@@ -1,0 +1,45 @@
+---
+figid: PMC10038833__JEM_20221437_Fig8
+pmcid: PMC10038833
+image_filename: JEM_20221437_Fig8.jpg
+figure_link: /pmc/articles/PMC10038833/figure/fig8/
+number: Figure 8
+figure_title: ''
+caption: Analysis of signaling pathways and information flow reveals a distinct intestine
+  signalome in response to the HFHS diet. (A) Jointly projecting and clustering signaling
+  pathways from chow diet intestine and HFHS diet intestine onto shared 2D manifold
+  according to functional similarity of the inferred networks. Each dot represents
+  the communication network of one signaling pathway. Dot size is proportional to
+  the communication probability. Different colors represent different groups of signaling
+  pathways. IGF, insulin-like growth factor; GDF, growth differentiation factor; PDGF,
+  platelet-derived growth factor; EGF, epidermal growth factor; EPHA, ephrin-A; EPHB,
+  ephrin-B; APRIL, a proliferation-inducing ligand; SEMA, semaphorin; MPZ, myelin
+  protein zero; GH, growth hormone; CEACAM, carcinoembryonic antigen-related cell
+  adhesion molecules; RELN, reelin; TWEAK, TNF-related weak inducer of apoptosis;
+  NRG, neuregulins; SELL, selection; LIFR, LIF receptor; ANGPT, angiopoietin; OSM,
+  oncostatin M; ALCAM, activated leukocyte cell adhesion molecule; THBS, thrombospondin;
+  JAM, junctional adhesion molecules; LT, lymphotoxin; PARs, protease-activated receptors;
+  SELPLG, selectin P ligand; CLEC, C-type lectin-like receptor; MIF, macrophage migration
+  inhibitory factor. (B) Significant signaling pathways were ranked based on differences
+  in the overall information flow within the inferred networks between chow diet intestine
+  and HFHS diet intestine. The overall information flow of a signaling network is
+  calculated by summarizing all communication probabilities in that network. The top
+  signaling pathways with P value < 1 × 10−5 were listed. Pathways colored red are
+  enriched in HFHS diet intestine, and those colored blue were enriched in the chow
+  diet intestine. A paired Wilcoxon test is utilized to determine whether there is
+  significant difference between two datasets. (C) Hierarchical plot showing the inferred
+  intercellular communication network of NECTIN signaling pathway at chow diet intestine
+  and HFHS diet intestine, respectively. Circle color indicates each cell type and
+  edge width are proportional to the communication probability.
+article_title: Intestinal cell type-specific communication networks underlie homeostasis
+  and response to Western diet.
+citation: Yu-Chen Wang, et al. J Exp Med. 2023 May 1;220(5):e20221437.
+year: '2023'
+
+doi: 10.1084/jem.20221437
+journal_title: The Journal of Experimental Medicine
+journal_nlm_ta: J Exp Med
+publisher_name: Rockefeller University Press
+
+keywords:
+---

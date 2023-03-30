@@ -1,0 +1,36 @@
+---
+figid: PMC9188816__nihms-1791540-f0003
+pmcid: PMC9188816
+image_filename: nihms-1791540-f0003.jpg
+figure_link: /pmc/articles/PMC9188816/figure/F2/
+number: Figure 2
+figure_title: Downregulation of progenitor maintenance/placodal genes, Notch and Fgf-
+  signaling 0min after HC death
+caption: '(A) Heatmap of selected cell type-specific downregulated genes 0min after
+  neomycin treatment.(B) Dot plot of the average expression of progenitor/stem cell
+  maintenance/placodal genes during HC regeneration. The size of the dots represents
+  the proportion of cells expressing the gene.(C) ISH images of gata2b, gpx1a, and
+  sox2 expression during HC regeneration. Bottom two rows: ISH of sox2 in siblings
+  and atoh1a CRISPR mutants during homeostasis and 0min after neomycin treatment.(D
+  and E) Dot plots of the average expression of Notch (D) and Fgf (E) pathway members
+  during HC regeneration.(F) Enrichment term analysis of downregulated genes 0min
+  after HC death compared to all other time points.'
+article_title: Single cell transcriptome analysis reveals three sequential phases
+  of gene expression during zebrafish sensory hair cell regeneration.
+citation: Sungmin Baek, et al. Dev Cell. ;57(6):799-819.e6.
+year: '2023'
+
+doi: 10.1016/j.devcel.2022.03.001
+journal_title: Developmental cell
+journal_nlm_ta: Dev Cell
+publisher_name: ''
+
+keywords:
+- Hair cell regeneration
+- scRNASeq atlas
+- lateral line system
+- support cells
+- stem cells
+- pseudotime analysis
+
+---

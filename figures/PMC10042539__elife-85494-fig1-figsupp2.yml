@@ -1,0 +1,42 @@
+---
+figid: PMC10042539__elife-85494-fig1-figsupp2
+pmcid: PMC10042539
+image_filename: elife-85494-fig1-figsupp2.jpg
+figure_link: /pmc/articles/PMC10042539/figure/fig1s2/
+number: Figure 1—figure supplement 2
+figure_title: Cancer cells will macrophage mitochondria exhibit increased proliferation
+caption: (a) Cancer cells and macrophages were cocultured for 24 hours and scRNA-seq
+  was performed. Ingenuity Pathway Analysis of scRNA-seq data reveals significant
+  changes in canonical cell proliferation pathways in co-cultured cancer cells that
+  received macrophage mitochondria compared to co-cultured cancer cells that did not.
+  (b) Representative flow cytometry plots of mito-RFP 231/mito-mEm macrophage co-cultures
+  stained for Ki67 and DNA content. (c) 24 hr data from  but separated as percent
+  of cancer cells in each phase of the cell cycle with (triangle) or without transfer
+  (circle). (d) 48 hr of co-culture as described in (c) with aggregate data in stacked
+  bar graphs to the right (stats displayed for G2/M only). Each pair in (c) and (d)
+  represents cells within one technical replicate and each donor is represented by
+  color (N = 4 donors for both data sets). (e) Time-lapse imaging was used to quantify
+  the amount of co-cultured 231 cells that did (black) or did not complete (gray)
+  cytokinesis over a 48-hr period (N = 416 cells, 4 donors). Error bars represent
+  SEM. Two-way ANOVA (c–e), ***p<0.001; ****p<0.0001.
+article_title: Transferred mitochondria accumulate reactive oxygen species, promoting
+  proliferation.
+citation: Chelsea U Kidwell, et al. eLife. 2023;12:e85494.
+year: '2023'
+
+doi: 10.7554/eLife.85494
+journal_title: eLife
+journal_nlm_ta: eLife
+publisher_name: eLife Sciences Publications, Ltd
+
+keywords:
+- cell-cell communication
+- mitochondrial transfer
+- reactive oxygen species
+- macrophages
+- cancer
+- cell proliferation
+- Human
+- Mouse
+
+---

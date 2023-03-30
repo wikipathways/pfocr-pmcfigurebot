@@ -1,0 +1,46 @@
+---
+figid: PMC10039045__41467_2023_37237_Fig3_HTML
+pmcid: PMC10039045
+image_filename: 41467_2023_37237_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC10039045/figure/Fig3/
+number: Fig. 3
+figure_title: cRGT brings the signaling protein Rac1 to the proximity of inner PM
+  to initialize the signaling cascade of lamellipodia formation
+caption: 'a A non-PM targeting and constitutively active EGFP-NES-Rac1Q61LΔCAAX (i.e.
+  G-NES-Rac1) mutant with the truncation of its PM-targeting C-terminal CAAX-box was
+  engineered and co-expressed with mCherry-eDHFR-CAAX in live HeLa cells; treatment
+  of HeLa cells with cRGT will target Rac1 mutant to the functional PM location and
+  initialize lamellipodia signaling pathway. WAVE WASp-family verprolin-homologous
+  protein, Arp2/3 actin-related proteins-2/3. b Representative live HeLa cells coexpression
+  of G-NES-Rac1 (green, cytosolic) and mCherry-ED-CAAX (red, PM) before adding cRGT
+  (Pre), after treatment with cRGT (24 μM, 1.5 h), and after adding TMP (10 μM, 10 min);
+  NES: nucleus exporting signal, LQNKLEELDL, which reduces Rac1’s accumulation in
+  the nucleus. c Statistical PCC analysis between EGFP and mCherry channels (n = 22
+  cells for Pre, n = 21 cells for cRGT, n = 18 cells for TMP); one-sided Student’s
+  t-test was used; see Methods for description of box plots. d Quantification of the
+  cell areas before adding cRGT (Pre), after adding 24 μM cRGT, and after adding 10 μM
+  TMP for 10 min (n = 22 cells for Pre, n = 21 cells for cRGT, n = 17 cells for TMP);
+  one-sided Student’s t-test was used; see Methods for description of box plots. e
+  Representative confocal images of a comparable CID (TMP-Cl, 10 μM, 1 h) induced
+  targeting of eDHFR-EGFP-NES-Rac1Q61LΔCAAX (i.e. ED-G-NES-Rac1) to PM without washing
+  (left) and after washing out (30 min) excess of TMP-Cl (right); HT HaloTag. f Comparison
+  between cRGT and TMP-Cl induced dimerization using line profile analysis. All scale
+  bars: 10 μm.'
+article_title: Small molecule-nanobody conjugate induced proximity controls intracellular
+  processes and modulates endogenous unligandable targets.
+citation: Xiaofeng Sun, et al. Nat Commun. 2023;14:1635.
+year: '2023'
+
+doi: 10.1038/s41467-023-37237-x
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Chemical tools
+- Proteins
+- Chemical synthesis
+- Nanobiotechnology
+- Molecular engineering
+
+---

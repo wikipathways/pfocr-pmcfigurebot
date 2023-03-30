@@ -1,0 +1,41 @@
+---
+figid: PMC10031283__gr8
+pmcid: PMC10031283
+image_filename: gr8.jpg
+figure_link: /pmc/articles/PMC10031283/figure/fig8/
+number: Figure 8
+figure_title: ''
+caption: Inhibition of PKCβII via bezafibrate or overexpression of a dominant-negative
+  mutant of PKCβII is negatively associated with cancer pathways. (A) The experimental
+  scenario of the RNA sequencing of the LM-MCF-7 cell line. The 107 cells were treated
+  with plasmid pcDNA-PKCβII-DN (10 μg) or BZF (10 μmol/L) for 48 h. (B, C) Volcano
+  plot and KEGG pathway analysis of DEGs between the control group and BZF-treated
+  group. (D, E) Volcano plot and KEGG pathway analysis of DEGs between the control
+  group and PKCβII-DN-expressing group. (F) KEGG pathway analysis of 692 overlapping
+  DEGs. (G) Fold change in mRNA levels of 5 oncogenes determined by RT-qPCR assays.
+  LM-MCF-7 cells were treated with 10 μmol/L BZF or transfected with the plasmid pcDNA-PKCβII-DN.
+  (H) Fold changes in mRNA levels of 5 oncogenes in lung metastatic foci from BALB/c
+  nude mice performed by RT-qPCR assays. Columns with error bars symbolize the average
+  of three independent replicates ±SD. Three experiments with consistent results tendency
+  were repeated by two-tailed Student's t test. ∗∗∗P < 0.001; ∗∗P < 0.01; ∗P < 0.05.
+article_title: HBXIP blocks myosin-IIA assembly by phosphorylating and interacting
+  with NMHC-IIA in breast cancer metastasis.
+citation: Lu Zhang, et al. Acta Pharm Sin B. 2023 Mar;13(3):1053-1070.
+year: '2023'
+
+doi: 10.1016/j.apsb.2022.11.025
+journal_title: Acta Pharmaceutica Sinica. B
+journal_nlm_ta: Acta Pharm Sin B
+publisher_name: Elsevier
+
+keywords:
+- Breast cancer metastasis
+- Actomyosin cytoskeleton
+- HBXIP
+- Myosin-IIA
+- NMHC-IIA
+- Phosphorylation
+- PKCβII
+- Bezafibrate
+
+---

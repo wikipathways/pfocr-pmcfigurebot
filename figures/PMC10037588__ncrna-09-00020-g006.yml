@@ -1,0 +1,33 @@
+---
+figid: PMC10037588__ncrna-09-00020-g006
+pmcid: PMC10037588
+image_filename: ncrna-09-00020-g006.jpg
+figure_link: /pmc/articles/PMC10037588/figure/ncrna-09-00020-f006/
+number: Figure 6
+figure_title: ''
+caption: KEGG pathway view of islet-genes that are experimentally validated targets
+  of miR-148a-3p, miR-375, and miR-7-5p. All islet-genes that are experimentally validated
+  targets of miR-148a-3p, miR-375, and miR-7 were put into Pathview to generate a
+  KEGG pathway graph of the insulin signaling pathway (hsa04910). If the node of a
+  protein is labeled in white, no targets from the three miRNAs is involved in regulating
+  this protein. Nodes labeled from yellow to green to red indicate that an increased
+  number of targets are correlated with the protein at this node in the pathway.
+article_title: Reassessing the Abundance of miRNAs in the Human Pancreas and Rodent
+  Cell Lines and Its Implication.
+citation: Guihua Sun, et al. Noncoding RNA. 2023 Apr;9(2):20.
+year: '2023'
+
+doi: 10.3390/ncrna9020020
+journal_title: Non-Coding RNA
+journal_nlm_ta: Noncoding RNA
+publisher_name: MDPI
+
+keywords:
+- miRNA
+- miRNA-375
+- miRNA-7-5p
+- miRNA-148a-3p
+- islet
+- acinus
+
+---

@@ -1,0 +1,44 @@
+---
+figid: PMC10039923__41536_2023_290_Fig1_HTML
+pmcid: PMC10039923
+image_filename: 41536_2023_290_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC10039923/figure/Fig1/
+number: Fig. 1
+figure_title: Neurotrophin signaling is a key pathway dysregulated post-IR
+caption: A Representative H&E staining of control and IR human SMG and PG. Areas in
+  dotted boxes of IR SMG and IR PG are enlarged in right two panels to highlight increased
+  adiposity (a), immune infiltration (i), and fibrosis (f). B PCA plot of log-transformed
+  CPM counts from bulk RNAseq analysis of human biopsies. C Heatmaps of the top 50
+  DEGs by fold change in irradiated glands compared to controls. The color scale represents
+  scaled gene expression values. *Long non-coding RNAs, small nuclear RNAs, SNORAs,
+  and other pseudogenes were overrepresented among downregulated genes and were removed
+  from heatmap (see Supplementary Data  for complete list); a representative expression
+  profile is shown at the bottom of the heatmaps. D Bar graph with fold change gene
+  expression of selected genes in irradiated glands (n = 6 IR-SMG; n = 5 IR-PG) compared
+  to controls from RNAseq analysis. Stars denote statistical significance (adjusted
+  p < 0.05, statistical analysis with EdgeR-DeSeq2 (Wald test p-value and Benjamini-Hochberg
+  adjusted p-value)). E Results from Ingenuity Pathway Analysis (IPA) Software showing
+  common pathways dysregulated in PG and SMG. A combined score was calculated by adding
+  the –Log(p-val) for a given pathway in both glands. The Venn diagram highlights
+  the overlap of genes associated with the top dysregulated pathways. * NGF and NTRK1
+  were only significant in IR-SMG and NTRK3 in IR-PG. F Heatmap showing results from
+  Upstream Regulator analysis with IPA. Only genes that met the criteria for significance
+  in our dataset (p-value < 0.05 and fold change > 2) and that were predicted to be
+  upstream of DEGs in both glands are shown. Analysis was adjusted to only predict
+  genes annotated to function as growth factors, receptors, and transcription factors,
+  based on IPA’s database.
+article_title: Neurotrophin signaling is a central mechanism of salivary dysfunction
+  after irradiation that disrupts myoepithelial cells.
+citation: Alejandro M. Chibly, et al. NPJ Regen Med. 2023;8:17.
+year: '2023'
+
+doi: 10.1038/s41536-023-00290-7
+journal_title: NPJ Regenerative Medicine
+journal_nlm_ta: NPJ Regen Med
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Stress signalling
+- Transcriptomics
+
+---

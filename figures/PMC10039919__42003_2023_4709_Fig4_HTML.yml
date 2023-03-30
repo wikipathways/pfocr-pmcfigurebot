@@ -1,0 +1,43 @@
+---
+figid: PMC10039919__42003_2023_4709_Fig4_HTML
+pmcid: PMC10039919
+image_filename: 42003_2023_4709_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC10039919/figure/Fig4/
+number: Fig. 4
+figure_title: Gene expression analyses of 2- and 2e-treated Col-0 and jaz9-1 seedlings
+caption: 'a Principal component analysis of upregulated genes in each compound-treated
+  6-day-old Arabidopsis seedlings by RNAseq analyses (fold change >2.5, FDR < 0.1).
+  Black, blue, red, and green dots showed three independent replicates of each treatment.
+  b Venn diagram (FDR < 0.1) indicates the number of upregulated genes at least 2.5-fold
+  change in response to different treatments. c Heatmap illustrating changes in gene
+  expression of jasmonate response to different treatments (FDR < 0.1). Each GO ID
+  is as follows: Regulation of JA mediated signaling pathway: 2000022, Response to
+  JA: 0009753, Defense response: 0006952, Metabolic process: 0008152. d Venn diagram
+  (FDR < 0.1) indicating the number of downregulated genes at least 2.5-fold change
+  in response to different treatments and GO enrichment analysis. e Gene expression
+  analyses of cell wall organization-related genes by RT-qPCR in Col-0 and coi1-1
+  seedlings (n = 4) with or without compound treatment (1 µM) for 8 h. Similar results
+  were obtained in three independent experiments. Significant differences were evaluated
+  by one-way ANOVA/Tukey HSD post hoc test (p < 0.05). Values are mean ± SE. f Venn
+  diagram (FDR < 0.1) indicating the number of upregulated genes at least 2.5-fold
+  change in response to different treatments in Col-0 and jaz9-1. g RT-qPCR analyses
+  in Col-0 and jaz9-1 seedling (n = 4) with or without compound treatment (1 µM).
+  Each relative expression fold was calculated using an average expression level in
+  Mock- or 2e-treated Col-0 or jaz9-1 seedlings. Similar results were obtained in
+  three independent experiments. Significant differences were evaluated by Student’s
+  t-test (**p < 0.01, *p < 0.05; ns, not significant). Values are mean ± SE.'
+article_title: Subtype-selective agonists of plant hormone co-receptor COI1-JAZs identified
+  from the stereoisomers of coronatine.
+citation: Kengo Hayashi, et al. Commun Biol. 2023;6:320.
+year: '2023'
+
+doi: 10.1038/s42003-023-04709-1
+journal_title: Communications Biology
+journal_nlm_ta: Commun Biol
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Jasmonic acid
+- Chemical tools
+
+---

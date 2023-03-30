@@ -1,0 +1,47 @@
+---
+figid: PMC10040548__fimmu-14-1121495-g006
+pmcid: PMC10040548
+image_filename: fimmu-14-1121495-g006.jpg
+figure_link: /pmc/articles/PMC10040548/figure/f6/
+number: Figure 6
+figure_title: ''
+caption: Histone methylation through one-carbon metabolism and serine biosynthesis
+  in macrophages. Serine is biosynthesized from 3-phophoglycerol (3PG), an intermediate
+  of glycolysis, by phosphoglycerol dehydrogenase (PHGDH) to form phosphopyruvate
+  (p-Pyr) and catalyzed by phosphoserine aminotransferase (PSAT) to form phosphoserine
+  (p-Ser) and then phosphoserine phosphate (PSPH) to form serine. With the aid of
+  catalytic enzyme serine hydroxymethyltransferase (SHMT), serine is further converted
+  into glycine donating one-carbon (a methyl group) to the tetrahydrofolate (THF)
+  in the folate cycle to form sequentially 5, 10-methylenetetrahydrofolate (5,10-meTHF)
+  and 5-methyl-tetrahydrofolate (meTHF); the methyl group of the latter is transferred
+  to homocysteine (Hcy) to form methionine (Met) and S-adenosyl-methionine (SAM).
+  SAM is the co-substrate of methyltransferases for DNA and histone methylation. Methionine
+  and serine can also be respectively delivered from extracellular environment to
+  the cells by their transporters, L-type amino acid transporter/solute carrier family
+  member 5 (LAT1/SLC7A5) and alanine/serine/cysteine/threonine transporter 1 (ASCT1).
+  The methyl transfer from meTHF to Hcy needs methionine synthesis (MS/MTR) and its
+  co-substrate vitamin B12. In M1-MΦs, elevated nitric oxide (NO) poisons vitamin
+  B12 causing deactivation of MTR and the disruption of one-carbon metabolism, resulting
+  in reduced Met and SAM for histones/DNA methylation. In Mycobacterium tuberculosis
+  MTB) infected MΦs, independent of vitamin B12, the pathogen can bypass the one-carbon
+  metabolic pathway to synthesize methionine and SAM through homoserine, a product
+  of aspartate metabolic pathway.
+article_title: Sirtuin-dependent metabolic and epigenetic regulation of macrophages
+  during tuberculosis.
+citation: Kangling Zhang, et al. Front Immunol. 2023;14:1121495.
+year: '2023'
+
+doi: 10.3389/fimmu.2023.1121495
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- human macrophages
+- autophagy
+- glycolysis
+- metabolism
+- histone modifications
+- SIRTUIN
+
+---
