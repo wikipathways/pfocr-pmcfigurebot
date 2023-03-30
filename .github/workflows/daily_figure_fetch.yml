@@ -10,7 +10,30 @@ concurrency:
   cancel-in-progress: false # to allow multiple runs to queue up rather than clobber
 
 jobs:
+  check:
+    runs-on: ubuntu-latest
+    outputs:
+      status: ${{ steps.early.outputs.status }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - id: early
+        name: Date check
+        run: |
+          status="skip"
+          eval "$(yaml2json query_config.yml | jq -r 'to_entries | map("declare -gx \(.key)=\(.value|tostring)")|.[]')"
+          last_run_date="${last_run:0:10}"
+          today_date="$(date +'%Y/%m/%d')"
+          if [[ "$last_run_date" < "$today_date" ]]; then
+            status="proceed"
+          else
+            echo "Nothing more to collect at this time (see last_run date). Skipping other steps..."
+          fi
+          echo "status=$status" >> $GITHUB_OUTPUT
   scrape:
+    name: Scrape
+    needs: check
+    if: needs.check.outputs.status == 'proceed'
     runs-on: ubuntu-latest
     services:
       selenium:
@@ -22,7 +45,7 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v3
-      
+
     - name: Setup R
       uses: r-lib/actions/setup-r@v2
 
