@@ -1,0 +1,39 @@
+---
+figid: PMC9526773__12672_2022_565_Fig4_HTML
+pmcid: PMC9526773
+image_filename: 12672_2022_565_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9526773/figure/Fig4/
+number: Fig. 4
+figure_title: ''
+caption: Inverse relationship between PLA2G4F and KMT2A expression in metastatic prostate
+  cancer. A Expression of KMT2A across the LuCaP PDX models in our study displayed
+  as a heatmap, indicating which models are classified as KMT2A high or low. B Heatmap
+  of anti-AR and anti-HOXB13 ChIP-seq [] peak signals (aggregated across samples as
+  indicated) around TSS regions (± 3 kb) in LuCaP PDX's with differential KMT2A expression.
+  Each row is a peak ranked by KMT2A low to high. The location of PLA2G4F on heatmap
+  is marked by a black bar. C Functional enrichment from Ingenuity Upstream Pathway
+  Analysis of anti-AR and anti-HOXB13 ChIP-seq differential peaks overlapping genes
+  for pathways with P < 0.1. Red indicates that PLA2G4F is present in the pathway
+  gene set. D Integrative genome viewer tracks of the PLA2G4F gene locus from anti-AR
+  and anti-HOXB13 ChIP-seq. LNCaP DNase-hypersensitivity regions shown in blue. E–H
+  Spearman correlation of the log2 CPM expression level of PLA2G4F with log2 CPM expression
+  level of KMT2A (E, G) or the 54-gene ssGSEA MYC activity score (F, H) in the LuCaP
+  (E, F) or the West Coast Dream Team-Prostate Cancer Foundation metastatic CRPC cohort
+  (G, H). Samples with log2 CPM PLA2G4F < 0 were excluded. The error bars represent
+  the 95% confidence bands for linear regression
+article_title: Progression of prostate cancer reprograms MYC-mediated lipid metabolism
+  via lysine methyltransferase 2A.
+citation: Nichelle C. Whitlock, et al. Discov Oncol. 2022 Dec;13:97.
+year: '2022'
+
+doi: 10.1007/s12672-022-00565-3
+journal_title: Discover. Oncology
+journal_nlm_ta: Discov Oncol
+publisher_name: Springer US
+
+keywords:
+- Prostate cancer
+- Transcriptional regulation
+- Lipid metabolism
+
+---

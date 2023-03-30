@@ -1,0 +1,29 @@
+---
+figid: PMC9348635__LSA-2021-01340_Fig5
+pmcid: PMC9348635
+image_filename: LSA-2021-01340_Fig5.jpg
+figure_link: /pmc/articles/PMC9348635/figure/fig5/
+number: Figure 5
+figure_title: Inter-organoid heterogeneity
+caption: (A, B, C, D) Projection of organoids within each set after dimensionality
+  reduction by principal component analysis, including the annotation of each organoid’s
+  size as dot size. The variance for each PC is indicated in the axis labels. (E)
+  Heat map showing the expression values for marker genes after limma-voom normalisation,
+  with a minimum count = 1. Rows are annotated by official gene symbols and colours
+  indicating marker for proliferation (red), Wnt pathway (grey), epithelial (yellow)
+  as well as progenitor and mature cell types for hepatic (orange, brown) and ductal
+  (blue, violet). Data are clustered hierarchically by row and column and scaled by
+  row. (F) Bar graph showing number of organoids for each cell cycle phase, coloured
+  by set, after analysis with cyclone.
+article_title: RNA-sequencing of single cholangiocyte-derived organoids reveals high
+  organoid-to organoid variability.
+citation: Kristin Gehling, et al. Life Sci Alliance. 2022 Dec;5(12):e202101340.
+year: '2022'
+
+doi: 10.26508/lsa.202101340
+journal_title: Life Science Alliance
+journal_nlm_ta: Life Sci Alliance
+publisher_name: Life Science Alliance LLC
+
+keywords:
+---
