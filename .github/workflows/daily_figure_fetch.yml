@@ -21,8 +21,7 @@ jobs:
         name: Date check
         run: |
           status="skip"
-          eval "$(yaml2json query_config.yml | jq -r 'to_entries | map("declare -gx \(.key)=\(.value|tostring)")|.[]')"
-          last_run_date="${last_run:0:10}"
+          last_run_date=$(yq r query_config.yml last_run | cut -c1-10)
           today_date="$(date +'%Y/%m/%d')"
           if [[ "$last_run_date" < "$today_date" ]]; then
             status="proceed"
