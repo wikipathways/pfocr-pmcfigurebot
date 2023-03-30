@@ -70,7 +70,7 @@ for (j in 1:5) {
     break 
   }
   to.date <- format(as.Date(from.date) + months(1), "%Y/%m/%d")
-  if (as.Date(to.date) > Sys.Date())
+  if (as.Date(to.date) + months(3) > Sys.Date())
     to.date <- "3000/01/01" #near-future end dates behave oddly; this seems to work better
   query.date <- paste0(from.date,"[PUBDATE]+%3A+",to.date,"[PUBDATE]")
   term.arg <- paste0("term=(",query.terms,")+AND+(",query.date,")")
