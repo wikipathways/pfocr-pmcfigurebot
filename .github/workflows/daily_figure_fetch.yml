@@ -28,7 +28,7 @@ jobs:
           else
             echo "Nothing more to collect at this time (see last_run date). Skipping other steps..."
           fi
-          echo "status=$status" >> $GITHUB_OUTPUT
+          echo "status=$status"
   scrape:
     needs: check
     if: needs.check.outputs.status == 'proceed'
