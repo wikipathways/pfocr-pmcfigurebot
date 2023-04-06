@@ -20,18 +20,18 @@ jobs:
       - id: early
         name: Date check
         run: |
-          status="skip"
           last_run_date=$(sed -n 's/^last_run:[[:space:]]*\([[:digit:]]\{4\}\/[[:digit:]]\{2\}\/[[:digit:]]\{2\}\).*$/\1/p' query_config.yml)
           today_date="$(date +'%Y/%m/%d')"
           if [[ "$last_run_date" < "$today_date" ]]; then
-            status="proceed"
+            echo "status=proceed" >> $GITHUB_OUTPUT
           else
+            echo "status=quit" >> $GITHUB_OUTPUT
             echo "Nothing more to collect at this time (see last_run date). Skipping other steps..."
           fi
-          echo "status=$status"
+
   scrape:
     needs: check
-    if: needs.check.outputs.status == 'proceed'
+    if: ${{needs.check.outputs.status == 'proceed' }}
     runs-on: ubuntu-latest
     services:
       selenium:
