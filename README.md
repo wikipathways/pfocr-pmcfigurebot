@@ -24,3 +24,6 @@ Important: If used, this field will override the use of `last_run`
 The collected data files can be used in a variety of ways, including to generate
 social media posts, newsletters, feeds, annual reports, etc. See examples in the
 `scripts` folder.
+
+## Limitations
+* Only accesses the first page of results from PMC with a maximum of 100 figures.
