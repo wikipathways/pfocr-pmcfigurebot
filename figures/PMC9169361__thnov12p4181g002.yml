@@ -1,0 +1,46 @@
+---
+figid: PMC9169361__thnov12p4181g002
+pmcid: PMC9169361
+image_filename: thnov12p4181g002.jpg
+figure_link: /pmc/articles/PMC9169361/figure/F2/
+number: Figure 2
+figure_title: ''
+caption: Higher AMES correlates with higher TMB, intra-tumor heterogeneity and DDR
+  mutation frequency in BLCA. (A) The correlations among TMB, AMES, and APOBECs were
+  analyzed in pan-cancer. Among all cases, AMES exhibited the highest and most significant
+  correlation with TMB in BLCA (r = 0.514, p < 2.2e-16). (B) TMB, TNB, and ITH score
+  were stepwisely and significantly elevated as AMES increased. (C) AMES showed highly
+  positive correlations with both non-synonymous (r = 0.538, p < 0.001) and synonymous
+  (r = 0.564, p < 0.001) mutations in BLCA samples. (D) FGFR3 is a mutual driver gene
+  in both AMES-L and AMES-M groups, while no driver gene was detected in the AMES-H
+  group. (E) FGFR3 mutation frequency descends as AMES level increases. (F) Significantly
+  mutated genes were identified in the AMES-H group compared to the other two groups,
+  and TTN, MACF1 and PIK3CA are the three most frequently mutated genes in AMES-H
+  samples. ** p < 0.01; *** p < 0.001. (G) A ternary diagram was plotted to depict
+  the distribution of all non-silent mutations in the three AMES groups, and the 10
+  most frequent non-silent mutations (TP53, TTN, KMT2D, MUC16, KDM6A, ARID1A, PIK3CA,
+  SYNE1, RB1, and KMT2C) were highlighted in red dots. (H) More co-occurrence and
+  mutually exclusive mutations could be observed as AMES level increased. (I) Mutation
+  rates of seven DDR pathways (BER, NER, MMR, HRR, NHEJ, FA, and TLS) were summarized
+  in different AMES groups, and a higher frequency of DDR pathway mutation was observed
+  in the AMES-H group. (J) AMES is significantly elevated in DDR-Mut samples compared
+  to DDR-WT. (K) An oncoplot shows the distribution of the 10 most frequently mutated
+  DDR genes among different AMES groups.
+article_title: 'APOBEC-mediated mutagenesis is a favorable predictor of prognosis
+  and immunotherapy for bladder cancer patients: evidence from pan-cancer analysis
+  and multiple databases.'
+citation: Run Shi, et al. Theranostics. 2022;12(9):4181-4199.
+year: '2022'
+
+doi: 10.7150/thno.73235
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- APOBEC mutagenesis
+- Pan-cancer analysis
+- Immunotherapy
+- Prognosis
+
+---

@@ -1,0 +1,57 @@
+---
+figid: PMC9066074__EMBR-23-e52606-g012
+pmcid: PMC9066074
+image_filename: EMBR-23-e52606-g012.jpg
+figure_link: /pmc/articles/PMC9066074/figure/embr202152606-fig-0003/
+number: Figure 3
+figure_title: CEST‐2.2 overexpression induces transcriptional changes in gas‐1 mutant
+  nematodes
+caption: 'Representative image of 5‐day‐old cest‐2.2p::GFP (left panel) and an age‐matched
+  GFP‐negative control (right panel). Scale bar = 100 μm.Schematic representation
+  of CEST‐2.2 participation in very long‐chain fatty acid (VLCFA) metabolism and ascaroside
+  biosynthesis. Metabolites from peroxisomal β‐oxidation may contribute to the biosynthesis
+  of medium‐chain fatty acid (1) and intracellular signaling (2). Ascarosides may
+  take part in cell‐autonomous and/or cell‐nonautonomous signaling.Confocal images
+  of mitochondrial morphology in the intestines of gas‐1(fc21) animals exposed to
+  either 1.7% ethanol (control), 1 μM ascr#8 or 1 μM ascr#81 (scale bar= 5 μm).Representative
+  lifespan analysis of gas‐1(fc21) animals exposed to ethanol (control) and 1 μM ascr#8
+  from hatching. Underneath is the average median lifespan ± SEM across replicates.qRT‐PCR
+  of cest‐2.2 expression in the intestines of 5‐day‐old wt, gas‐1(fc21), gas‐1(fc21);
+  cest‐2.2 O/E and nuo‐6(qm200) animals (one‐way ANOVA with the Tukey’s multiple comparison
+  test, n = 3 biological replicates).Volcano plot of transcriptomes of intestines
+  from gas‐1(fc21) versus wt (left panel) and gas‐1(fc21); cest‐2.2 O/E versus gas‐1(fc21)
+  mutants (right panel). In red: significantly dysregulated genes (5% FDR).Pie charts
+  of differentially regulated genes in gas‐1(fc21) versus wt (top panel) and gas‐1(fc21);
+  cest‐2.2 O/E versus gas‐1(fc21) mutants (bottom panel), showing proportion of genes
+  of unknown function or involved in metabolism. Genes involved in lipid metabolism
+  specifically represented in a small box within the metabolism slice.Heatmap of genes
+  involved in lipid metabolism in gas‐1(fc21) versus wt and gas‐1(fc21); cest‐2.2
+  O/E versus gas‐1(fc21).Ingenuity pathway analysis (IPA) of transcriptome in gas‐1(fc21)
+  versus wt (top panel) and gas‐1(fc21); cest‐2.2 O/E versus gas‐1(fc21) (bottom panel)
+  with their predicted consequences on lipid metabolism. In red/green: results from
+  the transcriptome. In blue/orange: IPA‐generated predicted outcome of this gene
+  dysregulation. Shades of red and green are proportional to log2(fold change), while
+  shades of blue and orange are proportional to the statistical strength of the prediction
+  (z‐score), as calculated by IPA. Data information: In D, the median lifespan ± SEM
+  is reported underneath the graphs and additional information (e.g., n numbers) are
+  reported in Appendix Table ; in E, points represent mean ± SEM. Across experiments,
+  P‐value summary is ns = not significant, *P < 0.05, **P < 0.01, ***P < 0.001, ****P < 0.0001.'
+article_title: CEST‐2.2 overexpression alters lipid metabolism and extends longevity
+  of mitochondrial mutants.
+citation: Antonia Piazzesi, et al. EMBO Rep. 2022 May;23(5):e52606.
+year: '2022'
+
+doi: 10.15252/embr.202152606
+journal_title: EMBO Reports
+journal_nlm_ta: EMBO Rep
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- Caenorhabditis elegans
+- carboxylesterase CEST‐2.2
+- epigenetics
+- lipid metabolism
+- mitochondria
+- Metabolism
+
+---

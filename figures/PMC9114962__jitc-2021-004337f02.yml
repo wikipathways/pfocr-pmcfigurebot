@@ -1,0 +1,51 @@
+---
+figid: PMC9114962__jitc-2021-004337f02
+pmcid: PMC9114962
+image_filename: jitc-2021-004337f02.jpg
+figure_link: /pmc/articles/PMC9114962/figure/F2/
+number: Figure 2
+figure_title: ''
+caption: 'Mitoribosomal defects in hepatocytes promote progression of DEN-induced
+  liver cancer in mice. Liver tissues were harvested from control and LivKO mice at
+  10 weeks of age and compared. (A) Immunoblotting and qRT-PCR data showing expression
+  of CRIF1. (B) Representative western blot showing expression of OxPhos complex subunits,
+  and (C) representative data from BN-PAGE analysis showing the assembled OxPhos complex.
+  (D) Primary hepatocytes from 8-week-old control and LivKO mice were treated with
+  or without gamitrinib (a mitochondrial matrix chaperone inhibitor) at 1 or 2 µM,
+  followed by treatment with puromycin (1 µg/mL) for 30 min. Cells were harvested
+  for protein extraction and analysis by western blotting using an anti-puromycin
+  antibody to detect basal levels of global translation. (E) qRT-PCR analysis data
+  showing expression of genes related to mitochondrial stress in liver tissues of
+  tumor-free control and LivKO mice. Liver tissues were harvested from control and
+  LivKO mice at 10 weeks of age and compared. (F) Results of pathway enrichment analysis
+  comparing tumor-free control and LivKO mouse transcriptome data (colors correlate
+  with normalized enrichment scores). (G) Comparison of reporter metabolite analysis
+  between TCGA human HCC data and LivKO mouse tumor data. The statistical significance
+  (-log 10 p values) of upregulated metabolites (two rightmost columns) and downregulated
+  metabolites (two leftmost columns) is shown. (H) Visualization of upregulated (red
+  texts) or downregulated (blue texts) glycolysis pathways, as determined by reporter
+  metabolite analysis. Comparative analyses of DEN-treated control and LivKO mice
+  at 40 weeks of age. (I) Representative pictures of liver weight and number of tumor
+  nodules (J, K); and serum levels of alanine aminotransferase and aspartate aminotransferase
+  (L, M). (N) Survival of DEN-treated control and LivKO mice. Data are expressed as
+  the mean±SEM *p<0.05, **p<0.01 ((A, E, J–M): two-tailed t-test; (N): Gehan-Breslow-Wilcoxon
+  test). BN-PAGE, blue native polyacrylamide gel electrophoresis; HCC, hepatocellular
+  carcinoma; qRT-PCR, quantitative reverse transcription-PCR; TCGA, The Cancer Genome
+  Atlas.'
+article_title: Mitoribosomal defects aggravate liver cancer via aberrant glycolytic
+  flux and T cell exhaustion.
+citation: Byong-Sop Song, et al. J Immunother Cancer. 2022;10(5):e004337.
+year: '2022'
+
+doi: 10.1136/jitc-2021-004337
+journal_title: Journal for Immunotherapy of Cancer
+journal_nlm_ta: J Immunother Cancer
+publisher_name: BMJ Publishing Group
+
+keywords:
+- liver neoplasms
+- lymphocytes, tumor-infiltrating
+- gene expression profiling
+- inflammation
+
+---

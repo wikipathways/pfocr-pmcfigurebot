@@ -1,0 +1,38 @@
+---
+figid: PMC9174332__41419_2022_4875_Fig4_HTML
+pmcid: PMC9174332
+image_filename: 41419_2022_4875_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9174332/figure/Fig4/
+number: Fig. 4
+figure_title: miR-181d targets KLF6
+caption: 'A A Venn diagram of the downstream targets of miR-181d predicted by the
+  TargetScan, mirDIP and DIANA tool websites. B PPI networks for CREBRF and KLF6 and
+  their related genes constructed using the String website. The circle indicates the
+  input gene, and the triangle indicates the predicted related gene. The gene with
+  redder color presented higher degree of correlation, while the gene with bluer color
+  had lower degree of correlation. C The binding site between miR-181d and KLF6 was
+  predicted using the Targetscan website. D A box line diagram based on the KLF6 expression
+  data from the GSE36496 dataset. The blue box on the left represents the expression
+  of normal control samples, and the red box on the right represents the expression
+  of renal fibrosis samples. E miR-181d targeting of KLF6 is verified by dual luciferase
+  reporter gene assay. *p < 0.05 vs. mimic NC. F RT-qPCR analysis of KLF6 mRNA expression
+  in HK-2 cells after overexpression or silencing of miR-181d. *p < 0.05 vs. mimic
+  NC. #p < 0.05 vs. inhibitor NC. G Western blot analysis of KLF6 expression in HK-2
+  cells after overexpression or silencing of miR-181d. *p < 0.05 vs. mimic NC. #p < 0.05
+  vs. inhibitor NC. The cell experiment was repeated three independent times.'
+article_title: Bone marrow mesenchymal stem cell-derived extracellular vesicles containing
+  miR-181d protect rats against renal fibrosis by inhibiting KLF6 and the NF-κB signaling
+  pathway.
+citation: Shi-Jun Wang, et al. Cell Death Dis. 2022 Jun;13(6):535.
+year: '2022'
+
+doi: 10.1038/s41419-022-04875-w
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cell biology
+- Biotechnology
+
+---

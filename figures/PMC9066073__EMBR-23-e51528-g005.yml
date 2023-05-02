@@ -1,0 +1,60 @@
+---
+figid: PMC9066073__EMBR-23-e51528-g005
+pmcid: PMC9066073
+image_filename: EMBR-23-e51528-g005.jpg
+figure_link: /pmc/articles/PMC9066073/figure/embr202051528-fig-0002/
+number: Figure 2
+figure_title: Expression profiling reveals pathways downstream of Opn4
+caption: 'Representation of the zebrafish adult brain shows the lateral and dorsal
+  view with abbreviations for the following domains: olfactory bulb [OB], telencephalon
+  [Tel], epiphysis cerebri or pineal [E], optic tectum [TeO], cerebellum [Ce], medulla
+  oblongata [MO], hypothalamus [H] and hypophysis or pituitary [Pit]. Transcriptome
+  sequencing was performed on cDNA from wild‐type and opn4 dko eyes and brains, sampled
+  in the light phase (ZT4‐6). The brains were separated in an anterior part, which
+  includes part of the forebrain and the pineal, and a posterior part, which includes
+  part of the forebrain and the whole mid‐ and hindbrain. The cut lines through the
+  depicted brain indicate where the brain was partitioned and which parts were subjected
+  to transcriptome sequencing. The blue (anterior brain) and grey (posterior brain)
+  arrows connect the brain parts in (A) with the differentially expressed genes in
+  (B).Venn diagram shows the number of differentially expressed genes in the opn4
+  dko anterior brain (dark blue circle), posterior brain (grey circle) and eye (light
+  blue circle). The cutoff for differential expression was set at the significance
+  level of α = 0.05. Heat maps of all the differentially expressed genes are presented
+  in Appendix Fig . The number of differentially expressed genes that are shared between
+  the data sets is indicated where the datasets overlap.Fisher''s exact test shows
+  that the shared differentially expressed genes between data sets are unlikely to
+  be the result of coincidence. P‐values for the common differentially expressed genes
+  are indicated where the datasets overlap. The large number of common differentially
+  expressed genes between the data sets derived from the anterior and posterior brain
+  parts is likely due to forebrain regions that are shared between these parts.Pie
+  chart shows the number of differentially expressed genes in the opn4 dko anterior
+  brain that were assigned with KEGG software to phototransduction (dark blue), metabolic
+  (orange) and other pathways. Of the metabolic pathway, 5 genes were assigned to
+  the subcategory tryptophan metabolism (red), which encode all the enzymes that convert
+  tryptophan into melatonin. Note that 189 genes were not assigned to a pathway.Ancestor
+  charts show the gene ontology attributes to which the differentially expressed genes
+  in the opn4 dko anterior brain were assigned with FuncAssociate software (cutoff:
+  α = 0.05). The number of genes assigned to an attribute is indicated in the upper
+  right corner. All retrieved biological processes and molecular functions are associated
+  with light, consistent with knockout of a photoreceptor.  Source data are available
+  online for this figure.'
+article_title: Melanopsin elevates locomotor activity during the wake state of the
+  diurnal zebrafish.
+citation: Marcus P S Dekens, et al. EMBO Rep. 2022 May;23(5):e51528.
+year: '2022'
+
+doi: 10.15252/embr.202051528
+journal_title: EMBO Reports
+journal_nlm_ta: EMBO Rep
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- behavioural genetics
+- melatonin
+- neurogenetics
+- photobiology
+- pineal
+- Neuroscience
+- Signal Transduction
+
+---

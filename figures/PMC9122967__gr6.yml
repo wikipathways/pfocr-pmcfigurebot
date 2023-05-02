@@ -1,0 +1,52 @@
+---
+figid: PMC9122967__gr6
+pmcid: PMC9122967
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC9122967/figure/fig6/
+number: Figure 6
+figure_title: ''
+caption: 'Visualization and explanations for three types of users(A) ProtoDash and
+  CEM Explorer allow data scientists to inspect the trained model using the contrastive
+  explanation method. The examples shown are related to an RNN model predicting in
+  patient re-admission risk based on previous emergency room (ER) visits and variables
+  extracted from insurance claims, such as hospital-acquired condition, vascular-catheter-associated
+  infection, length of stay, number of diagnosis on claims, and number of prior ER
+  visits. Each representative patient (yellow line and yellow dot) is extracted using
+  ProtoDash, and then CEM is used to obtain explanations, as represented by the different
+  colors: red box, inpatient; yellow box, outpatient; and green box, skilled nursing
+  facility (SNF).(B) DPVis helps clinical researchers to understand the disease progression
+  patterns by interacting with multiple, coordinated visualizations. (Top) Represents
+  a diagram of a hidden Markov model (HMM) and the used/unused variables to find disease
+  progression states using different visits over time. The HMM extracts the most probable
+  sequence of states for a specific patient. (Bottom) The waterfall view shows the
+  state progression patterns and time/age for each patient (represented by a line)
+  over time as well as the age distribution at diagnosis for all the cohort (red)
+  and the selected cohort (yellow). Overlap is shown in orange.(C) RetainVis can help
+  clinicians test how (top) an RNN-based model performs on a set of patients by conducting
+  various what-if analyses. (Middle) Single-patient view of the feature contribution
+  score, representing drugs (violet), diagnosis (yellow), or physiological markers
+  (green) for each visit in the treatment pathway. (Bottom) Questions can be answered
+  by editing patient visits, because medical records and update timestamps can be
+  modified for each visit obtaining new predictions and contributions over patients
+  visits by re-running the model. Contribution scores show how much each medical code
+  and visit affects the prediction score at the end. Top contribution scores can be
+  also generated per patient and for multiple patients by aggregating the scores.'
+article_title: Human-centered explainability for life sciences, healthcare, and medical
+  informatics.
+citation: Sanjoy Dey, et al. Patterns (N Y). 2022 May 13;3(5):100493.
+year: '2022'
+
+doi: 10.1016/j.patter.2022.100493
+journal_title: Patterns
+journal_nlm_ta: Patterns (N Y)
+publisher_name: Elsevier
+
+keywords:
+- explainability
+- artificial intelligence
+- machine learning
+- life sciences
+- clinical research
+- healthcare
+
+---
