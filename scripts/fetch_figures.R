@@ -94,19 +94,19 @@ for (j in 1:5) {
     port = 4445L
   )
   cat("Attempting to open remoteDriver\n")
-  remDr$open()
+  #remDr$open()
+  rD <- rsDriver()
+  remDr <- rD$client
+  
+  cat("\n\nDEBUG:\n")
+  cat(remDr$getStatus()[[1]])
   
   ## go to page
   tryCatch({
     remDr$navigate(query.url)
   }, error = function(e) {
-    cat(paste("\nError: ", e))
-    cat("\nTrying again")
     next #try again
   })
-  
-  cat("\n\nDEBUG:\n")
-  cat(remDr$getPageSource())
   
   ## get page count if more than 100
     item.count <- xml2::read_html(remDr$getPageSource()[[1]]) %>%
