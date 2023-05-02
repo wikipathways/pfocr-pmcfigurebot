@@ -100,8 +100,13 @@ for (j in 1:5) {
   tryCatch({
     remDr$navigate(query.url)
   }, error = function(e) {
+    cat(paste("\nError: ", e))
+    cat("\nTrying again")
     next #try again
   })
+  
+  cat("\n\nDEBUG:\n")
+  cat(remDr$getPageSource())
   
   ## get page count if more than 100
     item.count <- xml2::read_html(remDr$getPageSource()[[1]]) %>%
