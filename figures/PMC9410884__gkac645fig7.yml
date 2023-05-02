@@ -1,0 +1,45 @@
+---
+figid: PMC9410884__gkac645fig7
+pmcid: PMC9410884
+image_filename: gkac645fig7.jpg
+figure_link: /pmc/articles/PMC9410884/figure/F7/
+number: Figure 7
+figure_title: ''
+caption: 'CBL0137 activates NK cell-mediated killing of virus-infected cells. (A)
+  Total RNAs were extracted from NK-92 cells treated with CBL0137 (500 nM) or DMSO
+  at four independent replicates, and subjected to RNA-seq analysis. A volcano plot
+  was constructed for RNA-seq results. (B) Correlation between RNA-seq and RT-qPCR
+  data for the selected ISGs was determined by Pearson''s r with statistical significance.
+  (C) Upregulation of selected ISGs in RNA-seq data of NK-92 cells treated with CBL0137
+  was illustrated in a heatmap (R package: pheatmap). (D) Pathway analysis was performed
+  for RNA-seq data of NK-92 cells treated with CBL0137 using GO biological process
+  (BP) (R package: clusterProfiler). (E) NK-92 cells treated with CBL0137 (500 nM)
+  or DMSO were co-cultured with or without K562 cells, followed by the protein immunofluorescence
+  analysis of CD107a or IFNγ in NK-92 cells by flow cytometry. Percentage of cell
+  population expressing CD107a or IFNγ as well as the mean fluorescence intensity
+  (MFI) of CD107a or IFNγ were calculated and normalized to DMSO without K562 stimulation.
+  (F) Schematic illustration of the procedure to measure NK cell-mediated killing
+  of ZIKV-infected cells. (G) Knockdown of SUPT16H by its siRNAs in NK-92 cells was
+  confirmed by both protein immunoblotting and RT-qPCR. (H–J) NK-92 cells transfected
+  with SUPT16H or NT siRNAs (H), treated with CBL0137 (500 nM) or DMSO (I), or primary
+  NK cells treated with CBL0137 (500 nM) or DMSO (J), were co-cultured with mock or
+  ZIKV-infected HeLa cells. Viability of HeLa cells was measured by using ATP-based
+  assay (upper panel), and converted to cell killing efficacy (lower panel, lines
+  in plots indicate median and 25%/75% percentile). Viability of HeLa cells without
+  co-culture with NK cells nor ZIKV infection was set as 100% (NC: negative control;
+  Mo: mono-culture of HeLa; Co: co-culture of HeLa with NK). Results were calculated
+  from four biological replicates for J, and three independent experiments for all
+  others (* P < 0.05, ** P < 0.01, *** P < 0.001, **** P < 0.0001, two-way ANOVA for
+  H–J [upper panel], E, and Student''s t-test for H–J [lower panel]).'
+article_title: FACT subunit SUPT16H associates with BRD4 and contributes to silencing
+  of interferon signaling.
+citation: Dawei Zhou, et al. Nucleic Acids Res. 2022 Aug 26;50(15):8700-8718.
+year: '2022'
+
+doi: 10.1093/nar/gkac645
+journal_title: Nucleic Acids Research
+journal_nlm_ta: Nucleic Acids Res
+publisher_name: Oxford University Press
+
+keywords:
+---

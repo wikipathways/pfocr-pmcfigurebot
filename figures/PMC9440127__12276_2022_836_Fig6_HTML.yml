@@ -1,0 +1,45 @@
+---
+figid: PMC9440127__12276_2022_836_Fig6_HTML
+pmcid: PMC9440127
+image_filename: 12276_2022_836_Fig6_HTML.jpg
+figure_link: /pmc/articles/PMC9440127/figure/Fig6/
+number: Fig. 6
+figure_title: Clinical relevance of CDA expression in NSCLC patients
+caption: 'a CDA expression in lung adenocarcinoma tumor (n = 483, from TCGA) and normal
+  (n = 347, from GTEx) tissue samples. Each dot represents an expression in a single
+  sample. b Overall survival of lung adenocarcinoma patients with low or high CDA
+  expression as analyzed by the Kaplan–Meier method and log-rank test. Median values
+  in transcripts per million (TPM) are indicated by solid red and blue lines. The
+  highest dotted red line is for a sample with higher expression than the median value
+  for the high-expression cohort; the lowest dotted blue line is for a sample with
+  lower expression than the median value for the low-expression cohort. HR hazard
+  ratio. c EMT scores in lung adenocarcinoma tumor samples with low (n = 257) or high
+  (n = 258) CDA expression. d Levels of CDA mRNA (left) and protein (right) assessed
+  by qRT–PCR and western blotting of primary cancer cells from ALK-rearranged NSCLC
+  patients with acquired resistance to crizotinib. n = 3 independent experiments,
+  mean ± SD, **P < 0.01 (Mann–Whitney U-test). e Immunohistochemical staining of CDA
+  in tumor biopsies from 11 NSCLC patients with ALK rearrangements before and/or after
+  ALK inhibitor therapy. Left: Boxplot depicting CDA H-score distribution in NSCLC
+  patients pretreated (n = 8) or posttreated (n = 8) with TKIs. Right: Representative
+  images. f Model for targeting CDA-directed metabolism with 5fdC to overcome resistance
+  to ALKis. CDA-overexpressing cells were preexisting in the naïve cell population
+  and propagated during acquired resistance. Overexpression of this pyrimidine salvage
+  pathway enzyme promotes cell proliferation, migration, and EMT. Epigenome-related
+  nucleosides such as 5fdC can induce DNA damage through an accumulation of 5fdU in
+  the DNA and ultimately lead to cell death in CDA-overexpressing resistant cells.'
+article_title: DNA methylome and single-cell transcriptome analyses reveal CDA as
+  a potential druggable target for ALK inhibitor–resistant lung cancer therapy.
+citation: Haejeong Heo, et al. Exp Mol Med. 2022 Aug;54(8):1236-1249.
+year: '2022'
+
+doi: 10.1038/s12276-022-00836-7
+journal_title: Experimental & Molecular Medicine
+journal_nlm_ta: Exp Mol Med
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Gene expression
+- Epigenomics
+- Non-small-cell lung cancer
+
+---

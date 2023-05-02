@@ -1,0 +1,38 @@
+---
+figid: PMC9374706__41419_2022_5062_Fig3_HTML
+pmcid: PMC9374706
+image_filename: 41419_2022_5062_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC9374706/figure/Fig3/
+number: Fig. 3
+figure_title: miR-596-3p was explored as a downregulated gene in NSCLC tissues by
+  integrative analysis
+caption: A High level of miR-596-3p was detected in the circulation of healthy donors
+  (n = 30) compared to the patients with early stage of NSCLC (n = 30). B The expression
+  of miR-596-3p was examined by RT-qPCR for Beas-2B, A549, H460, PC9, H1915, PC9-BrM
+  and H1915-BrM cells. C GO analysis were performed to detect the function of miR-596-3p
+  in cell processes. D Enriched KEGG pathway analysis of miR-596-3p associated genes
+  by DAVID. E The target genes of miR-596-3p were selected from the top 60 genes predicted
+  by StarBase V2.0 database followed by GSEA (Gene Set Enrichment Analysis) between
+  patients with or without brain metastasis in GSE11969 dataset. F Inter-relations
+  of gene expression levels. The gene expression values were conducted to separate
+  different categories for their interrelationship. For this, hierarchical cluster
+  dendrogram was explored using Ward Minimum Variance Method. (In the heatmap, the
+  red color shows a strong positive expression correlation while blue color depicts
+  weak expression correlation while the rest color codes fall in between). Data were
+  presented as the means ± standard error of the mean of at least three independent
+  experiments. *P < 0.05 and ***P < 0.001.
+article_title: miR-596-3p suppresses brain metastasis of non-small cell lung cancer
+  by modulating YAP1 and IL-8.
+citation: Chenlong Li, et al. Cell Death Dis. 2022 Aug;13(8):699.
+year: '2022'
+
+doi: 10.1038/s41419-022-05062-7
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- CNS cancer
+- miRNAs
+
+---

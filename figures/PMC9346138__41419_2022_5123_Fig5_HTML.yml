@@ -1,0 +1,56 @@
+---
+figid: PMC9346138__41419_2022_5123_Fig5_HTML
+pmcid: PMC9346138
+image_filename: 41419_2022_5123_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC9346138/figure/Fig5/
+number: Fig. 5
+figure_title: BRD4 inhibition suppresses the expression of PD-1 and Tim-3 via NFAT2
+caption: 'A The top 12 enriched terms of the Kyoto Encyclopedia of Genes and Genomes
+  (KEGG) enrichment pathway analyses were shown in the bubble plot (DMSO + PHA VS
+  DMSO). The KEGG pathways was identified by R package “clusterProfiler”, and P < 0.05
+  was considered statistically significant. B Scatter plot of top 15 enriched KEGG
+  pathways were shown in the bubble plot (DMSO + PHA VS JQ1 + PHA). C A heatmap of
+  the expression of genes involved in the TCR signaling pathway in Jurkat cells was
+  analyzed by RNA-seq. D CD8 + T cells were cultured with 100 ng/ml FK506 for 24 h
+  in the presence and absence of P/I (PMA: 20 ng/L, ionomycin: 0.5 μM), NFAT2 expression
+  was determined by qRT-PCR (n = 4). E PD-1 expression of CD8 + T cells treated with
+  100 ng/ml FK506 for 24 h in the presence and absence of P/I was determined by FACS
+  (n = 4). F PD-1 expression of CD8 + T cells treated with 100 ng/ml FK506 for 24 h
+  in the presence and absence of P/I was determined by qRT-PCR (n = 4). G Jurkat cells
+  were stimulated with and without PHA (150 ng/mL) after NFAT2 knockdown, then qRT-PCR
+  was used to examine the expression of NFAT2 (n = 4). H PD-1 expression of Jurkat
+  cells stimulated with and without PHA (150 ng/mL) after NFAT2 knockdown was determined
+  by FACS (n = 3). I PD-1 expression of Jurkat cells stimulated with and without PHA
+  (150 ng/mL) after NFAT2 knockdown was determined by qRT-PCR (n = 3). J Jurkat cells
+  were treated with 0.5 μM JQ1 for 24 h in the presence and absence of PHA (150 ng/mL),
+  and NFAT2 expression was detected by immunofluorescence. K Jurkat cells were treated
+  with 0.5 μM JQ1 for 24 h in the presence and absence of PHA (150 ng/mL), and NFAT2
+  expression was detected by western blot. L NFAT2 expression was examined by western
+  blot after overexpressing BRD4 in Jurkat cells. Shown are the representative images
+  of three separate experiments. M Jurkat cells were treated with 0.5 μM JQ1 for 24 h
+  in the presence and absence of PHA (150 ng/mL), the expression of JUN was examined
+  by qRT-PCR (n = 3). N JUN expression was detected by qRT-PCR after BRD4 overexpression
+  in Jurkat cells (n = 3). O Chromatin samples from Jurkat cells stimulated with 150 ng/ml
+  PHA for 24 h were immunoprecipitated with anti-BRD4 antibody, and enrichment of
+  BRD4 at the promoter regions of NFAT2 and PDCD1 was measured by qRT-PCR (n = 3).
+  P The chromatin samples were stimulated with 150 ng/ml PHA for 24 h and immunoprecipitated
+  with an anti-NFAT2 antibody, enrichment of NFAT2 at the promoter regions of PDCD1
+  and HAVCR2 was measured by qRT-PCR (n = 3). Data are expressed as mean ± SD. n = 3
+  or more independent biological replicates, presented as individual points. P value
+  < 0.05 was considered to be significant (D, F–I, M, O, P: one-way ANOVA with Bonferroni
+  post hoc test; N: two-tailed unpaired Student’s t tests).'
+article_title: BET bromodomain inhibition rescues PD-1-mediated T-cell exhaustion
+  in acute myeloid leukemia.
+citation: Mengjun Zhong, et al. Cell Death Dis. 2022 Aug;13(8):671.
+year: '2022'
+
+doi: 10.1038/s41419-022-05123-x
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Acute myeloid leukaemia
+- Preclinical research
+
+---

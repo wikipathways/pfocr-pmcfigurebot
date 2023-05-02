@@ -1,0 +1,68 @@
+---
+figid: PMC9332245__cells-11-02275-g004
+pmcid: PMC9332245
+image_filename: cells-11-02275-g004.jpg
+figure_link: /pmc/articles/PMC9332245/figure/cells-11-02275-f004/
+number: Figure 4
+figure_title: ''
+caption: 'ROS homeostasis regulated by CERK-mediated immune signaling plays a crucial
+  role during fungus–plant interactions. In this figure, the chitin-induced particles
+  CERK, LysM, CEBiP, BIK1, and ROPs/RACs and GEF-mediated ROS homeostasis by regulation
+  of NOX activity, perhaps perform vital roles in plant response to FHB. In Arabidopsis,
+  a chitin elicitor receptor kinase CERK1, and a LysM-containing receptor-like kinase
+  LYK5 were found to be able to bind chitin and form a chitin-dependent immune complex,
+  CERK1-LYK5 [,], in which AtCERK1 is involved in activating BIK1 by phosphorylation
+  directly. The activated BIK1 (GTP-BIK1) directly phosphorylates AtRbohD and enhances
+  ROS production for defense responses [,]. In rice, a plasma membrane-localized receptor-like
+  kinase OsCERK1 is associated with receptor-like kinase OsCEBiP under chitin treatment
+  []. In addition, OsCEBiP can form a homodimer upon chitin binding that is followed
+  by heterodimerization with OsCERK1, creating a signaling-active sandwich-type receptor
+  system [,]. Then, OsGEF1, a regulator functioning as a molecular switch, is phosphorylated
+  by OsCERK1 []. The activated OsGEF1, coupling with OsRACK1 [] in turn, phosphorylates
+  a ROP/RAC GTPase, OsRAC1, and changes it from the inactive form RAC-GDP to the active
+  form RAC-GTP [,]. Finally, the actived OsRAC1 then activates OsRbohB (OsNOX1) for
+  ROS production by directly interacting with the N-terminus of NADPH oxidase [,].
+  Additionally, a wall-associated kinases WAK2A-800 performed a positive role in response
+  to Fg through a chitin-induced pathway. More importantly, silencing TaWAK2A-800
+  reduced the expression levels of the chitin-triggering marker genes TaCERK1, TaRLCK1B,
+  and TaMAPK3 under treatment with Fg []. MAPK-mediated phosphorylation of WRKYs was
+  a exciter, which promoted the downstream signalings: the activated WRKYs then bind
+  to and regulate the expression of NOX/RBOH genes [].For example, TaWRKY19 repressed
+  plant immunity against pathogens by negatively regulating the transcriptional level
+  of TaNOX10 and compromising ROS generation in wheat []. In addition, Ca2+signaling
+  was central to both pattern- and effector-triggered immunity activation of the immune
+  system in plants []. Moreover, CDPKs, in a Ca2+-dependent manner, can directly interact
+  with and activate NOXs/RBOHs for ROS production, which plays a crucial role in plant
+  defense responses to pathogens. Therefore, under pathogen stimulation, plant cells
+  often elevate the levels of ROS to implement plant immunity by eliminating compromised
+  host cells, in turn limiting the further infection by the pathogen. At the same
+  time, H2O2, the precursor of ROS, plays a crucial role during cell wall rigidification
+  (lignification and crosslinking of cell wall monomers) []. On the other hand, plant
+  cells also enhance the expression levels of peroxidase (APX), superoxide dismutase
+  (SOD), and catalase (CAT) to scavenge ROS and maintain the redox balance in plant
+  cells. CERK1: a plasma membrane-localized chitin elicitor receptor kinase 1; LYP4/6:
+  receptor-like OsLYP4 and OsLYP6; CEBiP: receptor-like kinases; LKY5: LysM-containing
+  receptor-like kinase 5; GEF: guanine nucleotide exchange factors; RAC1-GTP: a subfamily
+  of Rho-type GTPases; RACK: receptor for activated C-kinase; CDPK: calcium-dependent
+  protein kinase; BIK1: botrytis-induced kinase 1; PBL1: PBS-like kinase, which is
+  a close homolog of receptor-like cytoplasmic kinases; TF: transcription factor.'
+article_title: Arms Race between the Host and Pathogen Associated with Fusarium Head
+  Blight of Wheat.
+citation: Chunhong Hu, et al. Cells. 2022 Aug;11(15):2275.
+year: '2022'
+
+doi: 10.3390/cells11152275
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- wheat
+- fusarium head blight (FHB)
+- resistant germplasm resources
+- pathogenesis
+- resistance mechanism
+- resistant QTL/genes
+- signaling pathway
+
+---

@@ -1,0 +1,84 @@
+---
+figid: PMC9332245__cells-11-02275-g003
+pmcid: PMC9332245
+image_filename: cells-11-02275-g003.jpg
+figure_link: /pmc/articles/PMC9332245/figure/cells-11-02275-f003/
+number: Figure 3
+figure_title: ''
+caption: 'FHB-resistant signaling pathways in fungus–plant interactions. There are
+  three resistant pathways: first, the detoxification pathway, in which the members
+  of (UDP)-glucose transferase TaUGT1~6 can enhance plant tolerance to FHB by converting
+  the fungal mycotoxin DON to the less toxic DON-3-O-glucoside, D3G (❶). In addition,
+  another gene, Fhb7, encoding a glutathione S-transferase (GST), from a distant variety
+  of wheat, Elytrigia elongata, confers broad resistance and tolerance to Fusarium
+  species by detoxifying trichothecenes, such as NIV, through conjugating GSH to the
+  epoxy group of NIV. Second are CERK1-mediated metabolic pathways to thicken the
+  plant walls. It is well known that the first layer of innate immunity in plants
+  is initiated by the surface-localized pattern recognition receptors (PRRs), in which
+  the leading role is played by chitin elicitor receptor kinase 1 (CERK1), which mainly
+  participates in chitin-induced immunity []. Meanwhile, chitin is a typical component
+  of the fungal cell wall and can trigger the plant innate immune response by activating
+  PAMPs (pathogen-associated molecular patterns). Here, a transcription factor, HvWRKY23,
+  can be induced by HvCERK1 with some unclear methods upon infection with Fg. HvWRKY23
+  subsequently regulates downstream genes, such as HvPAL2, HvCHS1, HvHCT, HvLAC15,
+  and HvUDPGT, to biosynthesize HCAAs, flavonoid glycosides, lignin, and so on, which
+  reinforces the cell walls to contain the spread of Fg in plant cells. Similarly,
+  TaWRKY70 was also identified as having a potential role against Fg in the early
+  stages of defense through physically interacing with and activating the downstream
+  genes TaACT, TaDGK, and TaGLI, among which TaACT is the rate-limiting enzyme in
+  the biosynthesis of HCAAs and TaDGK and TaGLI are the crucial enzymes in the biosynthesis
+  of PAs (phosphatidic acids) in plants []. Moreover, HCAAs and PAs have functions
+  during fungus–plant interactions; PAs contribute to the plant defense response through
+  translocation and catabolism in the apoplast, leading to the production of H2O2,
+  which has several roles, such as directly eliminating pathogens and assisting in
+  cell wall strengthening; HCAAs were identified as biomarkers during fungus–plant
+  interactions and support a functional role in plant defense []. What is more, a
+  guanidine cinnamyl transferase gene, TaACT, was confirmed as having a role involved
+  in FHB response in plants []; another potential downstream gene, TaLAC4, encoding
+  a wheat laccase, was also reported to restrain FHB infestation by promoting the
+  synthesis of lignin in the secondary cell wall of plants in order to thicken the
+  cell wall []. Therefore, this indicated that a signaling pathway of WRKY-mediated
+  RRI metabolite accumulation in cells perhaps plays an important role in the plant
+  response to FHB stress (❷). The second is an energy-related metabolic pathway. It
+  is known that many pathogens have acquired the ability to inject virulence effector
+  proteins into host cells to achieve more effective infection. As shown in ❸, FHB-causing
+  fungi secrete a virulence effector protein, Osp24 (an orphan protein), which promotes
+  mycelium growth and toxin accumulation in plant cells. At the same time, Osp24 can
+  combine with TaSnRK1α, a FHB-resistant protein, resulting in TaSnRK1α being ubiquitinated
+  and degraded. There is always an arms race between the pathogen and its host. For
+  plants, the second layer of immune recognition is intracellular immune receptor
+  forms, and the intracellular immune receptors are most often the nucleotide-binding
+  proteins, which can recognize those effectors and elicit a second layer of defense.
+  From this, it is not difficult to speculate that the N-acetylcysteine-like transcription
+  factors, TaNACs (TaNACL-D1/TaNAC032), as the intracellular immune receptors, perhaps
+  can recognize Osp24 or its analogs, and then are activated by them. Subsequently,
+  the activated TaNACs regulate the expresion of the downstream gene TaFROG, which
+  encodes a wheat orphan protein (an analog of Osp24). Thus, TaFROG can compete against
+  Osp24 to combine with TaSnRK1α, preventing TaSnRK1α from being ubiquitinated and
+  increasing plant resistance to FHB. However, the resistance mechanism of TaSnRK1α
+  to FHB in plants still remains unclear. In addition, Han et al. found that SnRK1
+  interacts with and phosphorylates WRKY3 repressor in barley, leading to the degradation
+  of WRKY3 and enhanced barley immunity []. Consequently, there may be molecular crosstalk
+  between pathway ❷ and ❸ mediated by phosphorylation. PLD: phenylpropanoid; HCAAs:
+  hydroxycinnamic acid amides; PAs: phosphatidic acids; TaACT: agmatinecoumaroyl transferase;
+  TaDGK: diacylglycerol kinase; TaGLI: glycerol kinase.'
+article_title: Arms Race between the Host and Pathogen Associated with Fusarium Head
+  Blight of Wheat.
+citation: Chunhong Hu, et al. Cells. 2022 Aug;11(15):2275.
+year: '2022'
+
+doi: 10.3390/cells11152275
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- wheat
+- fusarium head blight (FHB)
+- resistant germplasm resources
+- pathogenesis
+- resistance mechanism
+- resistant QTL/genes
+- signaling pathway
+
+---

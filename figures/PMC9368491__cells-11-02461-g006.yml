@@ -1,0 +1,49 @@
+---
+figid: PMC9368491__cells-11-02461-g006
+pmcid: PMC9368491
+image_filename: cells-11-02461-g006.jpg
+figure_link: /pmc/articles/PMC9368491/figure/cells-11-02461-f006/
+number: Figure 6
+figure_title: ''
+caption: Kv11.1 activation promotes β-catenin interaction with R-cadherin at sites
+  of cell–cell contact. (A) MDA-MB-231 cells treated with DMSO or 50 μM NS1643 for
+  48 h were lysed and immunoprecipitated with an anti-β-catenin antibody covalently
+  conjugated with magnetic beads. The pellets were washed, eluted, and labeled with
+  TMT6plex Isobaric Label Reagent Set (as ). Labeled samples were analyzed via mass
+  spectrometry. Protein intensity was normalized to β-catenin intensity. Data were
+  processed using Ingenuity Pathway Analysis (IPA) and a summary graph was generated
+  using machine learning prediction. (B) Heat map of cytoskeleton-associated proteins
+  calculated from the results of TMT labeling proteomics. Association of 11 proteins
+  with β-catenin, which include actin crosslinking proteins and those associated with
+  focal adhesion complexes increased in cells treated with NS1643. (C) Fold change
+  of junctional proteins interacting with β-catenin in DMSO, and NS1643 treated cells
+  from proteomics analysis. R-cadherin and desmosome-related proteins were shown to
+  interact with β-catenin, and pulldown of these proteins increased in cells treated
+  with NS1643, n = 3. (D) MDA-MB-231 cells that were untreated (CTL) or treated with
+  DMSO or 50 μM NS1643 for 24 h were lysed and subjected to Western blotting. No change
+  in R-cadherin expression was found in NS1643 treated cells, n = 3. (E) The expression
+  of desmoglein-2, plakophilin, and desmoplakin-2 increased in cells treated with
+  NS1643, whereas no effect was observed for desmoplakin-1 expression, n = 4. All
+  data are mean ± SD, ns = not significant; * p < 0.05, ** p < 0.005, *** p < 0.001
+  via t test.
+article_title: Pharmacological Activation of Potassium Channel Kv11.1 with NS1643
+  Attenuates Triple Negative Breast Cancer Cell Migration by Promoting the Dephosphorylation
+  of Caveolin-1.
+citation: Ying Jiang, et al. Cells. 2022 Aug;11(15):2461.
+year: '2022'
+
+doi: 10.3390/cells11152461
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- calpain
+- PTP1B
+- β-catenin
+- R-cadherin
+- adherens junction
+- focal adhesion complex
+- triple negative breast cancer metastasis
+
+---

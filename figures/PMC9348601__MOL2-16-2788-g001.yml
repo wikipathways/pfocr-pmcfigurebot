@@ -1,0 +1,54 @@
+---
+figid: PMC9348601__MOL2-16-2788-g001
+pmcid: PMC9348601
+image_filename: MOL2-16-2788-g001.jpg
+figure_link: /pmc/articles/PMC9348601/figure/mol213265-fig-0001/
+number: Fig. 1
+figure_title: ''
+caption: Oncogenic activation of WNT pathway upregulates RNAPOL1 machinery and its
+  functional activity. (A) Gene Set Enrichment Analysis (GSEA) comparing human wild‐type
+  mucosa to colorectal (CRC) samples from the ‘The Cancer Genome Atlas’ (TCGA) database
+  (left enrichment plots) (n = 276) and analysis comparing intestinal mucosa from
+  wild‐type mice to mucosa from mice with a bi‐allelic deletion of adenomatous polyposis
+  coli (Apc; right enrichment plots; n = 3). Enrichment plots of indicated gene sets
+  are displayed. Calculation of the normalized enrichment score (NES) is based on
+  a weighted running sum statistic and computed as part of the GSEA methodology. A
+  Kolmogorov–Smirnov test with 1000 permutations was used to calculate P values that
+  were then corrected for multiple testing using the Benjamini–Hoechberg procedure
+  (FDR). (B) mRNA expression of RNA polymerase 1 (RNAPOL1) subunits (Polr1A and Polr1B)
+  and components of RNAPOL1 preinitiation complex (Rrn3 and Ubtf) in murine tumor
+  organoids (MTOs) with Apc def Tgfb del Kras mut Tp53 del  relative to the expression
+  in WT organoids analyzed via qPCR, representative of three independent experiments
+  with similar results obtained; unpaired, two‐tailed t‐test; error bars indicate
+  standard deviation (SD). (C) mRNA expression of RNAPOL1 subunits (POLR1A and POLR1B)
+  and components of RNAPOL1 preinitiation complex (RRN3 and UBTF) in human primary
+  CRC samples (TT) in comparison to corresponding untransformed mucosa (NT) analyzed
+  via qPCR. Data show mean ± SD (n = 8 individual patient samples for POLR1A and n = 28
+  for POLR1B, RRN3 and UBFT); unpaired, two‐tailed t‐test. (D) Immunohistochemical
+  staining of POLR1A and UBTF in human CRC samples and corresponding untransformed
+  mucosa (representative images of n = 10 biologically independent patients). Scale
+  bars as indicated 1 mm. (E) Expression level of 45S pre‐rRNA in MTOs compared with
+  WT organoids determined via qPCR. Data show the mean ± SD of six technical replicates.
+  Results are representative of three independent experiments with similar results
+  obtained; unpaired, two‐tailed t‐test. (F) Expression level of 45S pre‐rRNA in human
+  CRC tumor tissue (TT) compared with normal tissue (NT) samples determined via qPCR.
+  Data show mean ± SD (n = 31 individual patient samples); unpaired, two‐tailed t‐test.
+article_title: RNA polymerase I inhibition induces terminal differentiation, growth
+  arrest, and vulnerability to senolytics in colorectal cancer cells.
+citation: Christoph Otto, et al. Mol Oncol. 2022 Aug;16(15):2788-2809.
+year: '2022'
+
+doi: 10.1002/1878-0261.13265
+journal_title: Molecular Oncology
+journal_nlm_ta: Mol Oncol
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- CRC
+- CX5461
+- MIZ1
+- MYC
+- ribosome
+- RNAPOL1
+
+---
