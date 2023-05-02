@@ -1,0 +1,42 @@
+---
+figid: PMC9253713__gr3
+pmcid: PMC9253713
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9253713/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: SUFU downregulates YAP activity(A) Gene set enrichment analysis (GSEA) of
+  YAP target gene set upon knockdown of SUFU in HCC1954 cells. Gene symbols of the
+  YAP common MCF10 and 3T3_Zhao gene set and detailed information on GSEA results
+  were provided in . AXL, as a YAP-dependent target gene, was highlighted in the display.(B
+  and C) Immunoblot (IB) analysis of AXL and ACSL4 abundance upon SUFU depletion in
+  HCC1954, MCF-7, and MDA-MB-231 cells (B). A rescue experiment was performed by ectopic
+  expression of a V5-tagged SUFU construct in SUFU-depleted cells (C). GAPDH as a
+  loading control. Numbers indicate the normalized ratio of ACSL4 or AXL over GAPDH
+  signals obtained by densitometric analysis.(D) Expression of TEAD luciferase reporter
+  in SUFU-depleted MCF-7 and HCC1954 cells and their respective control cells. Cells
+  were transfected with the 8xGTIIC-luciferase reporter and pRL-TK Renilla luciferase.
+  Renilla luciferase was used as an internal control. Data were normalized to vector
+  control.(E) Confocal analysis of YAP nuclear localization in SUFU-depleted HCC1954
+  (left panels) and SUFU-depleted MCF-7 (right panels) cells; scale bar, 50μm.(F and
+  G) IB analysis of P-YAP127 and total YAP levels in SUFU-overexpressed HCC1954 and
+  MDA-MB-231 cells (F), in SUFU-depleted HCC1954, MCF-7, and MDA-MB-231 cells (G).
+  Densitometric analysis of the normalized ratio of P-YAP127 over total YAP signals
+  was shown. Data are presented as mean ± SD (∗p < 0.05, ∗∗p < 0.01, ∗∗∗p < 0.001,
+  one-way ANOVA with Tukey’s multiple comparisons test).
+article_title: SUFU suppresses ferroptosis sensitivity in breast cancer cells via
+  Hippo/YAP pathway.
+citation: Kun Fang, et al. iScience. 2022 Jul 15;25(7):104618.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.104618
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Cell biology
+- Functional aspects of cell biology
+- Cancer
+
+---
