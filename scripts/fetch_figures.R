@@ -88,16 +88,13 @@ for (j in 1:5) {
   ## SCRAPE PMC 
   ##############
   
-  # Set up the remote web driver using Selenium/standalone-firefox
+  # Set up the remote web driver using selenium/standalone-firefox
   remDr <- remoteDriver(
     remoteServerAddr = "localhost", 
     port = 4445L
   )
   cat("Attempting to open remoteDriver\n")
   remDr$open()
-  
-  cat("\n\nDEBUG2:\n")
-  cat(unlist(remDr$errorDetails()))
   
   ## go to page
   tryCatch({

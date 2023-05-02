@@ -2,8 +2,8 @@ name: Fetch pathway figures and metadata
 
 on:
   workflow_dispatch:
-  #schedule:
-  #- cron: "30 */6 * * *" #Runs every 6 hours at 30 past the hour, everyday. 
+  schedule:
+  - cron: "30 */6 * * *" #Runs every 6 hours at 30 past the hour, everyday. 
  
 concurrency:
   group: ${{ github.workflow }}-${{ github.head_ref || github.ref }}
