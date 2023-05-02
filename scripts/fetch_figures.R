@@ -94,12 +94,10 @@ for (j in 1:5) {
     port = 4445L
   )
   cat("Attempting to open remoteDriver\n")
-  #remDr$open()
-  rD <- rsDriver()
-  remDr <- rD$client
+  remDr$open()
   
   cat("\n\nDEBUG:\n")
-  cat(remDr$getStatus()[[1]])
+  cat(unlist(remDr$errorDetails()))
   
   ## go to page
   tryCatch({
