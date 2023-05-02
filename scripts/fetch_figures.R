@@ -96,7 +96,7 @@ for (j in 1:5) {
   cat("Attempting to open remoteDriver\n")
   remDr$open()
   
-  cat("\n\nDEBUG:\n")
+  cat("\n\nDEBUG2:\n")
   cat(unlist(remDr$errorDetails()))
   
   ## go to page
