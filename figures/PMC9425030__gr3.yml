@@ -1,0 +1,48 @@
+---
+figid: PMC9425030__gr3
+pmcid: PMC9425030
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9425030/figure/fig3/
+number: Fig. 3
+figure_title: ''
+caption: 'EA treatment suppresses fibrosis via ferroptosis induced by the activated
+  HSC pathway. Primary HSCs were further isolated from CCl4 mice treated with or without
+  EA, and total RNA was extracted for RNA-Seq.(A) Microarray heatmap illustrating
+  genes with at least a 2-fold change in transcript levels between isolated primary
+  HSCs treated with EA and control cells. Bright blue, underexpression; gray, no change;
+  bright red, overexpression (CCl4, n = 3; CCl4+EA, n = 3). (B) Volcano plot demonstrates
+  clustering of isolated primary HSCs. Hierarchical cluster analysis of significantly
+  differentially expressed mRNAs: bright blue, underexpression; gray, no change; bright
+  red, overexpression (CCl4, n = 3; CCl4+EA, n = 3). (C) Gene set enrichment analysis
+  (GSEA) indicated a significant change in ferroptosis signaling induced by EA treatment.
+  NES, normalized enrichment score. (D) The levels of total GSH, GSH/GSSG ratio, (E)
+  intracellular ferrous iron, (F) MDA and (G) the fluorescence intensity of C11-BODIPY581/591
+  were assayed in isolated primary HSCs from control and CCl4 mice treated with or
+  without EA (n = 8–10). (H) Representative western blot and summary data of PTGS2
+  and GPX4 in control and CCl4 mice. Data were normalized to GAPDH. n = 5. (I) Representative
+  images of PTGS2 (green) and α-SMA (red) costained liver sections from control and
+  CCl4 mice collected at 4 weeks. Cell nuclei were stained with DAPI (blue). (J) The
+  morphological mitochondrial changes in control and CCl4 mice treated with or without
+  EA were determined by transmission electron microscopy analysis. Representative
+  photographs are shown. n = 3. The black arrow indicates mitochondria. Data are expressed
+  as the mean ± SEM of three independent experiments; *P < 0.05, **P < 0.01 between
+  the indicated groups. (For interpretation of the references to color in this figure
+  legend, the reader is referred to the Web version of this article.)'
+article_title: Ferroportin-dependent ferroptosis induced by ellagic acid retards liver
+  fibrosis by impairing the SNARE complexes formation.
+citation: Lihua Li, et al. Redox Biol. 2022 Oct;56:102435.
+year: '2022'
+
+doi: 10.1016/j.redox.2022.102435
+journal_title: Redox Biology
+journal_nlm_ta: Redox Biol
+publisher_name: Elsevier
+
+keywords:
+- Ellagic acid
+- Liver fibrosis
+- Ferroptosis
+- Ferroportin translocation
+- SNARE complexes formation
+
+---

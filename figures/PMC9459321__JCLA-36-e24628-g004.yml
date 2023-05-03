@@ -1,0 +1,48 @@
+---
+figid: PMC9459321__JCLA-36-e24628-g004
+pmcid: PMC9459321
+image_filename: JCLA-36-e24628-g004.jpg
+figure_link: /pmc/articles/PMC9459321/figure/jcla24628-fig-0001/
+number: FIGURE 1
+figure_title: ''
+caption: 'GNPNAT1 was selected as the candidate gene after screening. (A, B) PCA and
+  heatmap were based on the top 1000 probe sites with the largest variance after removal
+  of the outliers, and the final 26 pairs of matched methylated samples were obtained.
+  In PCA, pink circles were for the normal group and blue triangles were for the tumor
+  group. In heatmap, the red color indicated upregulated genes, while the blue color
+  signified downregulated genes. (C, D) Volcano plot displayed the pattern of upregulated
+  and downregulated genes, and a clustering heatmap indicated the varied expression
+  of genes in two groups after the deep filtration of DMPs with deltaβ >0.2 and FDR
+  <0.05 as threshold. The red dots in the left plot represented upregulated genes,
+  blue dots denoted downregulated genes with statistical significance, and gray dots
+  exhibited no differentially expressed genes of DMPs. The dark blue in the right
+  plot indicated up‐regulated genes, while the light blue color signified down‐regulated
+  genes. (E) The Venn Diagram analysis was conducted to determine the intersection
+  of DMPs and DEGs under the screening standard of FDR <0.05 and log2FC >1. Methylation‐driving
+  genes were harvested after differential expression analysis towards RNA‐seq via
+  edgeR. (F, G) GO and KEGG pathway analyses were carried out for predicting the differentially
+  expressed genes. The y‐coordinate in (F) represented the GO entry, and the abscissa
+  was the ratio of genes enriched on the GO entry to the total target genes. The color
+  in the right side indicated the size of the p value, while the bubble size represents
+  the number of genes enriched on the modified GO entry. PCA: principal component
+  analysis, FDR: False Discovery Rate, DMPs: differential methylated points, DEGs,
+  differentially expressed genes, GO, Gene ontology, Kyoto Encyclopedia of Genes and
+  Genomes.'
+article_title: Glucosamine‐phosphate N‐acetyltransferase 1 and its DNA methylation
+  can be biomarkers for the diagnosis and prognosis of lung cancer.
+citation: Peikun Ding, et al. J Clin Lab Anal. 2022 Sep;36(9):e24628.
+year: '2022'
+
+doi: 10.1002/jcla.24628
+journal_title: Journal of Clinical Laboratory Analysis
+journal_nlm_ta: J Clin Lab Anal
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- Biomarker
+- DNA methylation
+- GNPNAT1
+- Lung cancer
+- Prognosis
+
+---

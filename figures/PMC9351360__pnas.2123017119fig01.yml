@@ -1,0 +1,49 @@
+---
+figid: PMC9351360__pnas.2123017119fig01
+pmcid: PMC9351360
+image_filename: pnas.2123017119fig01.jpg
+figure_link: /pmc/articles/PMC9351360/figure/fig01/
+number: Fig. 1
+figure_title: ''
+caption: S. aureus infection induces a cell type–specific response that is muted compared
+  with cytokine treatment. (A) Schematic of the experimental design for RNA-Seq performed
+  with PMNs, CD14+ monocytes, MDMs, and MDDCs isolated from the same donors. RNA was
+  isolated 4 h after infection. (B) Principal component analysis was performed using
+  the 1,000 most variable genes among all samples. For each sample, principal component
+  1 (PC1) and principal component 2 (PC2) are plotted. Shapes denote cell type (▪,
+  MDDCs; ●, MDMs; ▴, monocytes; ♦, PMNs). Color denotes treatment (gray, buffer; red,
+  S. aureus infected). n = 3 donors. (C) Venn diagram of the number of genes whose
+  transcription was significantly altered by S. aureus exposure for the four cell
+  types. Percentages are the percentages of all differentially expressed genes. DEG,
+  differentially expressed gene. (D–G) Bar graphs of the number of genes that are
+  significantly down-regulated (blue) and up-regulated (red) in comparison with buffer
+  treatment for S. aureus–infected, IFN-γ–treated, and IL-4–treated PMNs (D), monocytes
+  (E), macrophages (F), and DCs (G). Significantly differentially expressed genes
+  are considered genes with a |log2 fold change (log2FC)| ≥ 1 and an adjusted P value
+  ≤ 0.05. (H) Heat map of log2FC of genes that are significantly differentially expressed
+  in at least one treatment in PMNs. The histograms show the distribution of log2FCs
+  within each treatment for PMNs. (I) Gene ontology (GO) term enrichment analysis
+  of all genes found to be significantly differentially expressed in at least one
+  cell type. Pathways are separated by broad categories. Within each category, pathways
+  are ranked by percentage of differentially expressed genes. Count indicates the
+  number of differentially expressed genes in each GO pathway. IS, immune system;
+  DE, differentially expressed.
+article_title: Staphylococcus aureus induces a muted host response in human blood
+  that blunts the recruitment of neutrophils.
+citation: Erin E. Zwack, et al. Proc Natl Acad Sci U S A. 2022 Aug 2;119(31):e2123017119.
+year: '2022'
+
+doi: 10.1073/pnas.2123017119
+journal_title: Proceedings of the National Academy of Sciences of the United States
+  of America
+journal_nlm_ta: Proc Natl Acad Sci U S A
+publisher_name: National Academy of Sciences
+
+keywords:
+- bacteremia
+- immunosuppression
+- human leukocytes
+- Staphylococcus aureus
+- MRSA
+
+---

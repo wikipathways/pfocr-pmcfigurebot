@@ -1,0 +1,63 @@
+---
+figid: PMC9418907__gr5
+pmcid: PMC9418907
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC9418907/figure/fig5/
+number: Figure 5
+figure_title: ''
+caption: TCDD-elicited effects on gene expression involved in hepatic uptake, metabolism,
+  and trafficking of cobalamin (Cbl).A, overview of Cbl uptake, metabolism, and trafficking
+  in the mouse liver. B, the presence of putative dioxin response elements (pDREs)
+  and AhR genomic binding 2 h after a single bolus dose of 30 μg/kg TCDD. C, hepatic
+  expression of genes associated with Cbl uptake, metabolism, and trafficking in a
+  time course study. Male C57BL/6 mice (n = 3) were administered a single bolus dose
+  of 30 μg/kg TCDD. Liver samples were collected at the corresponding time point.
+  Color scale represents the log2(fold change) for differential gene expression determined
+  by RNA-Seq analysis. Counts represent the maximum number of raw aligned reads for
+  any treatment group. Low counts (<500 reads) are denoted in yellow with high counts
+  (>10,000) in pink. D, dose-dependent gene expression was assessed in mice (n = 3)
+  following oral gavage with sesame oil vehicle or TCDD. E, diurnally regulated genes
+  are denoted with a “Y”. An orange ‘X’ indicates disrupted diurnal rhythm following
+  oral gavage with 30 μg/kg TCDD every 4 days for 28 days. ZT indicates statistically
+  significant (P1(t) > 0.8) time of maximum gene induction/repression. Differential
+  expression with a posterior probability (P1(t)) > 0.80 is indicated with a black
+  triangle in the upper right tile corner. TCDD, 2,3,7,8-tetrachlorodibenzo-p-dioxin;
+  AHR, aryl hydrocarbon receptor; Cbl, cobalamin; ZT, zeitgeber time.
+article_title: Dioxin-elicited decrease in cobalamin redirects propionyl-CoA metabolism
+  to the β–oxidation-like pathway resulting in acrylyl-CoA conjugate buildup.
+citation: Karina Orlowska, et al. J Biol Chem. 2022 Sep;298(9):102301.
+year: '2022'
+
+doi: 10.1016/j.jbc.2022.102301
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- liver
+- metabolism
+- dioxin
+- mouse
+- gene expression
+- acrylyl-CoA
+- AdoCbl, adenosylcobalamin
+- AHR, aryl hydrocarbon receptor
+- Cbl, cobalamin
+- DRE, dioxin response element
+- FA, fatty acid
+- HCC, hepatocellular carcinoma
+- HP, hydroxypropionate
+- IF, intrinsic factor
+- IFNɣ, interferon gamma
+- LPS, lipopolysaccharide
+- MUT, methylmalonyl-CoA mutase
+- NAFLD, non-alcoholic fatty liver disease
+- PCB, polychlorinated biphenyl
+- PCDD, polychlorinated dibenzodioxin
+- PCDF, polychlorinated dibenzofuran
+- SCEC, S-(2-carboxyethyl)-L-cysteine
+- TCDD, 2,3,7,8-tetrachlorodibenzo-p-dioxin
+- TCN2, transcobalamin II
+- ZT, zeitgeber time
+
+---

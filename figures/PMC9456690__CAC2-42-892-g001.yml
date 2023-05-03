@@ -1,0 +1,50 @@
+---
+figid: PMC9456690__CAC2-42-892-g001
+pmcid: PMC9456690
+image_filename: CAC2-42-892-g001.jpg
+figure_link: /pmc/articles/PMC9456690/figure/cac212292-fig-0001/
+number: FIGURE 1
+figure_title: ''
+caption: 'RUNX2 multi‐layered hierarchical network. (A) Work‐flow of the pipeline
+  used to identify RUNX2 regulative elements (REs) and their putative target genes
+  and TF cooperators. (B) Schematic representation of ChIP‐seq profile integration
+  and target gene prediction. (C) Ranking of super‐enhancers and classical enhancers
+  based on their input‐normalized H3K27ac signal intensity in stitched regions performed
+  by ROSE. (D) Distribution of RUNX2 putative TF cooperators identified by FIMO search
+  is associated with predicted S‐ENHs in TPC1 cells. (E) Schematic representation
+  of the hierarchical model backbone highlighting each functional layer. (F) Final
+  hierarchical model of the reconstructed RUNX2 transcriptional landscape. The integration
+  of different omics information allowed to stratify the RUNX2 regulative network.
+  The node composition of each layer is shown in the legend. The transcriptional flow
+  converged on target genes (layer 3) whose expression similarity assessed using a
+  weighted correlation analysis is represented by different colored modules. The biological
+  importance of each cluster was assessed by GO analysis using an FDR < 0.05 as the
+  significance threshold. The number of genes and the major GO macro‐category are
+  indicated above each module. N/S indicates that no significant pathway (FDR < 0.05)
+  was detected for the considered module. (G) Correlation heatmap between eigengenes
+  in each module and patients’ clinical features. Scale bar indicates correlation
+  as expressed by R2 values. *P < 0.05, (**P < 0.01, *** P < 0.001. (H) Ranking of
+  the top 5% TF model nodes identified as the bottleneck with a topological network
+  analysis. The TF functional categories are represented with a binary color scale.
+  (I Western blotting showing the RUNX2 KD mediated by CRISPR‐interference in the
+  indicated cell lines. (J) Intersection of RUNX2‐network module genes with RNA‐seq
+  profile. The histogram represents the percentage of deregulated genes in each module.
+  (K) Top GO categories of deregulated gene modules ranked by enrichment significance
+  (P value adjusted by Benjamini‐Hochberg correction for multiple tests). Abbreviations:
+  TF, Transcription Factor; S‐ENH, Super‐Enhancer; ENH, Enhancer; ChIP‐seq, Chromatin
+  Immunoprecipitation Sequencing; H3K27ac, Histone 3 acetyl lysine 27; RNA‐PolII,
+  RNA‐polymerase II; H3K4me1, Histone 3 mono‐methyl Lysine 4; H3K4me3, Histone 3 tri‐methyl
+  Lysine 4; WGCNA, Weighted correlation network analysis; TCGA‐THCA, The Cancer Genome
+  Atlas‐Thyroid Cancer; GO, Gene Ontology; KD, Knock‐Down; NT, Non‐targeting control'
+article_title: A multimodal integrative approach to model transcriptional addiction
+  of thyroid cancer on RUNX2.
+citation: Emanuele Vitale, et al. Cancer Commun (Lond). 2022 Sep;42(9):892-896.
+year: '2022'
+
+doi: 10.1002/cac2.12292
+journal_title: Cancer Communications
+journal_nlm_ta: Cancer Commun (Lond)
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+---

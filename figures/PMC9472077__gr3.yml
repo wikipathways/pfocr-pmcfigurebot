@@ -1,0 +1,64 @@
+---
+figid: PMC9472077__gr3
+pmcid: PMC9472077
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9472077/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: 'Locating the first critical pauses for PRE folding.A, experimental overview
+  for mapping the first critical pause (“pause 1”) in the PRE folding pathway. B,
+  pause mapping. RNA sequencing ladder generated using corresponding 3′-deoxyNTP.
+  Time-course samples were run alongside sequencing ladder for precise identification
+  of the pause locations. Pause band numbering denotes nucleotide position on the
+  PRE. All pause bands disappear after 5 min with saturating NTP (“chase” lane), indicating
+  these do not result from arrested transcription complexes and indeed represent transient
+  PECs. The asterisk (∗) denotes a pause RNA band downstream of the sequential pauses
+  most likely introduced by shortening of the downstream DNA. The splice borders denote
+  samples that were not adjacent to one another in the original gel image. C, sequence
+  comparison of PRE sequential pauses to the consensus elemental pause. Top panel,
+  the ePEC structure (Protein Data Bank ID: 6BJS; representation adapted from reference
+  ) (, ) is shown above the consensus elemental pause sequence logo identified via
+  NET-seq (), represented as the nucleotide sequence of the nontemplate DNA. The ePEC
+  structure and sequence logo have the following color scheme: upstream fork junction
+  (usFJ, blue), hybrid (red), downstream fork junction (dsFJ, green), and downstream
+  DNA (dsDNA, purple). Numbering corresponds to position relative to the RNA 3′ end
+  at the RNAP active site. Bottom panel, PRE pause sequences with color scheme to
+  match that used for the pause consensus to facilitate sequence comparison. D, synchronized
+  single-round in vitro transcription from the alx promoter to visualize the sequential
+  pauses. Transcription elongation reactions were performed with one NTP at a limiting
+  concentration (20 μM) to slow pause escape, permitting visualization of each pause
+  in the sequential series. Each pause RNA band is denoted with an asterisk (∗). Radiolabeled
+  RNA samples were separated on a 10% denaturing polyacrylamide gel. ePEC, elemental
+  paused elongation complex; PEC, paused elongation complex; PRE, pH-responsive element.'
+article_title: Alkaline pH has an unexpected effect on transcriptional pausing during
+  synthesis of the Escherichia coli pH-responsive riboswitch.
+citation: Christine Stephen, et al. J Biol Chem. 2022 Sep;298(9):102302.
+year: '2022'
+
+doi: 10.1016/j.jbc.2022.102302
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- riboswitch
+- bacterial transcription
+- transcription
+- pausing
+- RNA
+- RNA polymerase
+- gene regulation
+- DMS, dimethyl sulfate
+- EC, elongation complex
+- ePEC, elemental paused elongation complex
+- nt, nucleotide
+- NT-DNA, nontemplate DNA
+- NTP, nucleotide triphosphate
+- PEC, paused elongation complex
+- PNK, polynucleotide kinase
+- PRE, pH-responsive element
+- RBS, ribosome binding sequence
+- RNAP, RNA polymerase
+- T-DNA, template DNA
+
+---

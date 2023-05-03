@@ -1,0 +1,66 @@
+---
+figid: PMC9502050__gr3
+pmcid: PMC9502050
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9502050/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: Establishment of heterozygous knockin at rs1617640 (A/C) in HEK-293 cells
+  using CRISPR-Cas9 gene-editing technology alongside piggyBac transposon system(A)
+  Schematic of the generation of a SNP knockin model of rs1617640 using CRISPR-Cas9
+  gene editing alongside the piggyBac transposon system. The location of rs1617640
+  (A/A) and the site at which the gRNA is designed to introduce a DSB within the wild-type
+  sequence of HEK-293 cells is shown in the top panel. Two homology arms either side
+  of the closest TTAA site are designed with one (5′ arm) containing the desired gene
+  edit at rs1617640 (C/C). The two homology arms are cloned into the targeting construct
+  either side of the piggyBac transposon carrying the selectable markers, puroΔtk.
+  Upon introduction of a DSB at the site targeted by the gRNA, DNA repair via homologous
+  recombination due to the presence of the homologous arms is initiated and the the
+  piggyBac transposon becomes integrated into the genomic DNA at the TTAA site. After
+  selection with puromycin, clones with mutation-corrected lines were identified and
+  transiently transfected with piggyBac transposase plasmid, followed by FIAU treatment
+  to eliminate piggyBac-containing clones. Mutation-corrected heterozygous clones
+  for rs1617640 (A/C genotype) were isolated with no marks remaining within the genomic
+  DNA.(B) Sanger sequencing results of the sequence at each stage of the CRISPR-Cas9
+  and piggyBac transposon technique. The top panel represents the wild-type sequence
+  at rs1617640 and the wild-type sequences up- and downstream of the TTAA site prior
+  to gene editing. The middle panel represents the mutated sequence at rs1617640 and
+  the insertion of the piggyBac transposon sequence at the TTAA site following homologous
+  recombination after successful introduction of the DSB. The bottom panel represents
+  the seamless excision of the piggyBac transposon from the genomic DNA. The yellow
+  highlighted region represents the gRNA sequence.(C) PCR gel electrophoresis confirming
+  the insertion of the piggyBac transposon in clones 61 and 67.(D) PCR gel electrophoresis
+  confirming successful removal of the piggyBac transposon from the genome following
+  treatment with the transposase in clone 7-3.(E) qRT-PCR of EPO to validate rs1617640
+  as causal in controlling EPO mRNA expression levels. The graph shows the relative
+  change in mRNA expression levels (+/− SEM) between genotypes (A/A and A/C).(F) qRT-PCR
+  of genes involved in the Notch signaling pathway (HEY2, DTX3L, and PARP9) and two
+  control genes (PPIA and POLR2A). EPO was repeated again as a positive control for
+  altered expression for comparison. The graph shows the relative change in mRNA expression
+  levels (+/− SEM) between genotypes. Columns and error bars in (E) and (F) represent
+  mean and SEM values. Paired t test was performed. ns, non-significant; ∗p ≤ 0.05,
+  ∗∗p ≤ 0.01, ∗∗∗p ≤ 0.001, ∗∗∗∗p ≤ 0.0001.
+article_title: Identification and single-base gene-editing functional validation of
+  a cis-EPO variant as a genetic predictor for EPO-increasing therapies.
+citation: Charli E. Harlow, et al. Am J Hum Genet. 2022 Sep 1;109(9):1638-1652.
+year: '2022'
+
+doi: 10.1016/j.ajhg.2022.08.004
+journal_title: American Journal of Human Genetics
+journal_nlm_ta: Am J Hum Genet
+publisher_name: Elsevier
+
+keywords:
+- anaemia in chronic kidney disease
+- mendelian randomization
+- drug-target mendelian randomization
+- gene editing
+- functional genomics
+- CRISPR-Cas9
+- functional validation
+- statistical genetics
+- population studies
+- genome-wide association study
+- cardiovascular disease risk
+
+---

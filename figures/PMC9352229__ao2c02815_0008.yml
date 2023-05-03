@@ -1,0 +1,52 @@
+---
+figid: PMC9352229__ao2c02815_0008
+pmcid: PMC9352229
+image_filename: ao2c02815_0008.jpg
+figure_link: /pmc/articles/PMC9352229/figure/fig8/
+number: Figure 8
+figure_title: ''
+caption: Reference measurements of the two-enzyme cascade reaction shown in  run in
+  the bulk solution inside quartz glass cuvettes at RT with the two enzymes, namely,
+  BCA and HRP, and the substrates DCFH2-DA and H2O2, all of which were present from
+  the beginning at [BCA] = 1.5 μM and [DCFH2-DA]0 = 50 μM, pH = 7.2 (PBS). The conditions
+  were chosen such that the reaction proceeded predominantly over pathway 2 (see ).
+  (A) UV–vis spectra of the reaction mixture recorded during the reaction (every 5
+  min for 15 h) using [HRP] = 100 nM and [H2O2]0 = 10 μM. In the inset, A460 (red)
+  indicates the formation of DCF-MA or DCF (absorbance at the isosbestic point of
+  the two molecules) and A503 (orange) is the absorbance at λmax of DCF. The change
+  in A370 reflects changes in [DCF-MA]. After 90 min, A460 (DCF-MA and DCF) remained
+  stable, while A370 (DCF-MA) decayed exponentially and A503 (DCF) continued to increase
+  due to Hyd_3 (see ). Since A460 remained stable above t = 90 min, oxidation no longer
+  took place, i.e., all the H2O2 was used up. (B) Changes in the molar concentrations
+  of DCFH2-DA, DCFH2-MA and DCFH2, and DCF-MA and DCF for the reaction shown in panel
+  A. Changes were determined using ε460(DCF-MA/DCF) = 19 800 M–1cm–1 (see Ghéczy et
+  al.) and kcat/KM = 0.0130 μM–1 min–1 for the BCA-catalyzed hydrolysis of DCFH2-DA
+  (see the Supporting Information, Figure S24) and by considering the mass balance
+  to determine [DCFH2-MA] + [DCFH2] = 50 μM – ([DCFH2-DA] + [DCF-MA] + [DCF]). The
+  calculated concentrations were crosschecked by spectral fitting the spectrum at
+  t = 90 min (using the molar absorptions for all reaction components as obtained
+  in our previous work). (C) Dependence of the initial rate of formation of DCF-MA
+  and DCF on the concentration of HRP for [H2O2]0 = 30 μM, as analyzed by recording
+  the increase in A460 with time (see the Supporting Information, Figure S26, for
+  details). (D) Dependence of the formation of DCF-MA and DCF on the initial concentration
+  of H2O2 (between 1 and 10 μM) for [HRP] = 100 nM, as analyzed by recording A460
+  after t = 2 h. The ordinate on the right side refers to the total concentration
+  of [DCF-MA] and [DCF], which was calculated by taking into account ε460(DCF-MA/DCF)
+  = 19 800 M–1cm–1 (see Ghéczy et al.). As expected for the peroxidase cycle of HRP,
+  for each two electron reduction of H2O2 by HRP, two one-electron oxidation products
+  are produced. The solid line (red) reflects the linear regression of [DCF-MA] +
+  [DCF] = 0.61 μM + 2.01 × [H2O2]0 (R2 = 0.9994, see the Supporting Information, Figure
+  S30, for details).
+article_title: Controllable Enzyme Immobilization via Simple and Quantitative Adsorption
+  of Dendronized Polymer–Enzyme Conjugates Inside a Silica Monolith for Enzymatic
+  Flow-Through Reactor Applications.
+citation: Nicolas Ghéczy, et al. ACS Omega. 2022 Aug 2;7(30):26610-26631.
+year: '2022'
+
+doi: 10.1021/acsomega.2c02815
+journal_title: ACS Omega
+journal_nlm_ta: ACS Omega
+publisher_name: American Chemical Society
+
+keywords:
+---

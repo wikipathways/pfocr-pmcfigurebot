@@ -1,0 +1,63 @@
+---
+figid: PMC9454662__cancers-14-04137-g006
+pmcid: PMC9454662
+image_filename: cancers-14-04137-g006.jpg
+figure_link: /pmc/articles/PMC9454662/figure/cancers-14-04137-f006/
+number: Figure 6
+figure_title: ''
+caption: 'Hyperactivation of the Wnt pathway stimulates TROP2 in healthy colon organoids.
+  (A) Left, qRT-PCR analysis of expression levels of the indicated genes in human
+  healthy colon organoids (Healthy) and organoids derived from human CRC. The organoids
+  were cultured either in standard organoid medium (ENR), or in ENR medium supplemented
+  with next-generation surrogate Wnt ligand (WntSur) at final concentrations of 0.05
+  nM, 0.1 nM, and 0.5 nM (WntSur 0.05, WntSur 0.1, and WntSur 0.5, respectively).
+  RNA samples isolated from three healthy and three tumor organoid cultures were analyzed
+  (each in technical triplicate; the average value of each triplicate is represented
+  by a grey or red dot, respectively). The diagram shows ΔCt counts, i.e., the cycle
+  threshold (Ct) value of the gene of interest minus the Ct-value of housekeeping
+  gene β-ACTIN (the lower the ΔCt value, the higher the gene expression); black lines
+  indicate the mean value for three biological replicates; * p < 0.05; ** p < 0.01;
+  *** p < 0.001. Wnt/β-catenin target genes—axis inhibition protein 2 (AXIN2), achaete-scute
+  complex homolog 2 (ASCL2), leucine-rich repeat containing G protein-coupled receptor
+  5 (LGR5); differentiation markers—alkaline phosphatase (ALPI), sucrase-isomaltase
+  (SIM); and genes related to the EMT status—E-cadherin and vimentin. Right: fluorescent
+  microscopy images of TROP2 (membranous green fluorescent signal) in tumor organoids
+  derived from human CRC; organoids with intermediate levels of TROP2 mRNA (ΔCt value
+  ± 13, see the very left diagram) were used for the staining. The organoids were
+  cultured either in the ENR medium alone or in the ENR medium containing 0.5 nM WntSur
+  (WENR). Note that the TROP2 protein expression is independent of the presence of
+  WntSur in the culture medium. The specimen was counterstained with DAPI. Left images
+  show three-dimensional (3D) projection of the whole organoid; right images show
+  one image layer; representative pictures are shown. Scale bar: 10 µm. (B) Left:
+  quantitative RT-PCR analysis of expression levels of the YAP/TAZ signaling target
+  genes. The experimental setup is identical to panel (A); ANKRD1, ankyrin repeat
+  domain 1; ANXA1, annexin A1; CTGF, connective tissue growth factor; CTSE, cathepsin
+  E; CYR61, cysteine-rich angiogenic inducer 61; E2F1, E2F transcription factor 1;
+  SCA1/LY6a, stem cell antigen-1/lymphocyte antigen 6; TEAD2, TEA domain transcription
+  factor 2. Right: fluorescent microscopy images of TROP2 (membranous green fluorescent
+  signal) and YAP (nuclear red florescent signal) protein localization in a healthy
+  human colon organoid. The organoids were cultured in the WENR medium containing
+  0.5 nM WntSur. The specimen was counterstained with DAPI. Setting of the left image
+  is described in panel (A); right image shows maximal intensity projection of six
+  adjacent layers; the enlarged image is shown in the inset. Scale bar: 25 µm.'
+article_title: TROP2 Represents a Negative Prognostic Factor in Colorectal Adenocarcinoma
+  and Its Expression Is Associated with Features of Epithelial–Mesenchymal Transition
+  and Invasiveness.
+citation: Jiří Švec, et al. Cancers (Basel). 2022 Sep;14(17):4137.
+year: '2022'
+
+doi: 10.3390/cancers14174137
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- APC
+- colorectal cancer
+- EMT
+- expression profiling
+- organoids
+- TACSTD2
+- WNT/β-catenin signaling
+
+---
