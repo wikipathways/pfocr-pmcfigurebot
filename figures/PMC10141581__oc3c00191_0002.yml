@@ -1,0 +1,38 @@
+---
+figid: PMC10141581__oc3c00191_0002
+pmcid: PMC10141581
+image_filename: oc3c00191_0002.jpg
+figure_link: /pmc/articles/PMC10141581/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: Construction of functional FrbABCDE biosynthetic pathways for translational
+  incorporation into sfGFP in E. coli. (A) Biosynthetic pathway for nhpSer by S. rubellomurinus.
+  The first committed step of nhpSer biosynthesis is catalyzed by a phosphoenolpyruvate
+  mutase, FrbD, which forms the unusual C–P phosphonate bond. The energetically unfavorable
+  equilibrium is pulled forward by the homocitrate synthase homologue FrbC via irreversible
+  condensation of acetyl-CoA. The next two steps parallel those of the TCA cycle and
+  are carried out by FrbA (an aconitase) and Frbs B and/or E (divergent homologues
+  of isocitrate dehydrogenase). It is not yet known whether FrbB or FrbE catalyze
+  this reaction, or if both are required.− It may be possible the FrbB and FrbE form
+  a heterodimer, or that the two-step isocitrate dehydrogenase reaction is decoupled
+  such that one catalyzes NADP-dependent oxidation while the other performs decarboxylation.
+  (B) A library of FrbABCDE pathways containing all combinations of Frb enzyme transcriptional
+  strengths was cotransformed with a plasmid housing all nhpSer GCE components and
+  either a sfGFP-WT or sfGFP-150TAG reporter plasmid into BL21(DE3) ΔserC cells. (C)
+  Comparison of nhpSer incorporation efficiency into sfGFP-150TAG for the top 5 isolated
+  FrbABCDE pathways compared to wild-type sfGFP expression. Error bars represent standard
+  deviations of expressions performed in triplicate. (D) Promoter identities for the
+  Frb enzymes for each isolated pathway shown in panel C. Promoter sequences are indicated
+  in Figure S3.
+article_title: Autonomous Synthesis of Functional, Permanently Phosphorylated Proteins
+  for Defining the Interactome of Monomeric 14-3-3ζ.
+citation: Phillip Zhu, et al. ACS Cent Sci. 2023 Apr 26;9(4):816-835.
+year: '2023'
+
+doi: 10.1021/acscentsci.3c00191
+journal_title: ACS Central Science
+journal_nlm_ta: ACS Cent Sci
+publisher_name: American Chemical Society
+
+keywords:
+---

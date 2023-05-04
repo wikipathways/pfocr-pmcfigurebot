@@ -1,0 +1,44 @@
+---
+figid: PMC10154027__elife-82502-fig3
+pmcid: PMC10154027
+image_filename: elife-82502-fig3.jpg
+figure_link: /pmc/articles/PMC10154027/figure/fig3/
+number: Figure 3
+figure_title: Smoothness of metabolic pathways in the principal odor map (POM)
+caption: '(a) Left: a four-step pathway (DIBOA-glucoside biosynthesis) depicted in
+  a 2D representation of the structure fingerprints (count-based fingerprints, or
+  cFP) using principal components analysis. Right: the same pathway depicted in a
+  2D representation of the POM. (b) Left: the same 2D cFP representation for a six-step
+  pathway (gibberellin biosynthesis). Right: a 2D representation of the same pathway
+  in the POM. We observe relatively smooth trajectories in POM for these pathways
+  even though the same pathways show irregular trajectories in the structure space.
+  (c) To systematically quantify such ‘smoothness,’ we examine all unique pathways
+  in the metabolic network (top). A desirable molecular representation should exhibit
+  smooth reaction paths, proceeding in a more consistent direction from the starting
+  metabolite to the final metabolite allowing interpolation for intermediate metabolites
+  (center). Smoothness for an intermediate metabolite is formally defined as the ratio
+  between the direct euclidean distance and total path length between the start and
+  end metabolites. A smoother path will result in a ratio close to 1 (bottom). (d)
+  Metabolic trajectories are smoother after metabolite structures are projected to
+  POM than when using alternative structural distance metrics (paired t-test, p<0.0001
+  for both structure distance metrics).'
+article_title: Metabolic activity organizes olfactory representations.
+citation: Wesley W Qian, et al. eLife. 2023;12:e82502.
+year: '2023'
+
+doi: 10.7554/eLife.82502
+journal_title: eLife
+journal_nlm_ta: eLife
+publisher_name: eLife Sciences Publications, Ltd
+
+keywords:
+- machine learning
+- olfaction
+- metabolome
+- psychophysics
+- D. melanogaster
+- Human
+- Mouse
+- Other
+
+---

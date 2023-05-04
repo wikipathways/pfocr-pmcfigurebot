@@ -1,0 +1,33 @@
+---
+figid: PMC9618568__41467_2022_34255_Fig3_HTML
+pmcid: PMC9618568
+image_filename: 41467_2022_34255_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC9618568/figure/Fig3/
+number: Fig. 3
+figure_title: Activation of proinflammatory, profibrotic pathways in ADPKD kidneys
+caption: a Heatmap showing enrichment of hallmark genesets of the Molecular Signatures
+  Database (MsigDB) in each cell type of ADPKD or control kidneys. Source data are
+  provided as a Source Data file. b UMAP displaying enrichment of genes regulated
+  by NF-κB pathway in response to TNFα (upper), genes upregulated by IL6 via STAT3
+  (middle) or genes upregulated in response to TGFβ signaling (lower) in snRNA-seq
+  dataset. c–e UMAP displaying enrichment of transcription factor binding motifs in
+  control or ADPKD kidneys (left) and violin plot showing the relative motif enrichment
+  scores in each cell type (right) for RELA (c), STAT3 (d), or SMAD2/SMAD3/SMAD4 complex
+  (e). The color scale represents a normalized log-fold-change (LFC).
+article_title: Defining cellular complexity in human autosomal dominant polycystic
+  kidney disease by multimodal single cell analysis.
+citation: Yoshiharu Muto, et al. Nat Commun. 2022;13:6497.
+year: '2022'
+
+doi: 10.1038/s41467-022-34255-z
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Mechanisms of disease
+- Polycystic kidney disease
+- Epigenetics
+- RNA sequencing
+
+---

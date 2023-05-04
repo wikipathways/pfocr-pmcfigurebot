@@ -1,0 +1,42 @@
+---
+figid: PMC10149707__fphar-14-1091378-g008
+pmcid: PMC10149707
+image_filename: fphar-14-1091378-g008.jpg
+figure_link: /pmc/articles/PMC10149707/figure/F8/
+number: FIGURE 8
+figure_title: ''
+caption: The prognostic risk models in predicting patients’ benefit from immunization/chemotherapy.
+  (A) Differences in “T cell inflamed GEP score” between subgroups; (B) Differences
+  in “response to IFN-γ” between subgroups; (C) Differences in “C-γ” between subgroups.
+  (C) Difference of “Cytolytic activity” between different subgroups; (D) Difference
+  of immune checkpoint gene expression between different subgroups; (E) Spearman analysis
+  was conducted for correlation analysis on drug sensitivity and RiskScore, with each
+  column representing a type of drug. Correlation significance is reflected in color
+  brightness. The correlation of RiskScore with drug sensitivity (Rs < 0) or drug
+  resistance (Rs > 0) was reflected in the height of a column. (F) The horizontal
+  axis is the drug name and the vertical axis is the signaling pathway targeted by
+  the drug. The signaling pathway targeted by the drug is sensitive to RiskScore (blue);
+  (G) Box plots of IC50 estimates for dasatinib, gemcitabine, cisplatin, erlotinib
+  and 5-fluorouracil in TCGA-PAAD; *p < 0.05; **p < 0.01; ***p < 0.001; and ****p
+  < 0.0001.
+article_title: Establishment of a 7-gene prognostic signature based on oxidative stress
+  genes for predicting chemotherapy resistance in pancreatic cancer.
+citation: Shengmin Zhang, et al. Front Pharmacol. 2023;14:1091378.
+year: '2023'
+
+doi: 10.3389/fphar.2023.1091378
+journal_title: Frontiers in Pharmacology
+journal_nlm_ta: Front Pharmacol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- pancreatic cancer
+- oxidative stress
+- methylation
+- molecular subtypes
+- risk score
+- small molecule chemotherapeutic drugs
+- prognosis
+- tumor immunity
+
+---

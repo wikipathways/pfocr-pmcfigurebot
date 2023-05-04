@@ -1,0 +1,42 @@
+---
+figid: PMC10140937__ijms-24-07545-g004
+pmcid: PMC10140937
+image_filename: ijms-24-07545-g004.jpg
+figure_link: /pmc/articles/PMC10140937/figure/ijms-24-07545-f004/
+number: Figure 4
+figure_title: ''
+caption: Gene network and differential gene expression of functional pathways identified
+  by enrichment analysis. (A) Interferon signalling pathway (R-HSA-913531) genes expressed
+  in tissues were used to construct a protein interaction network by STRING. Levels
+  of differential gene expression between control and mtDNA-supplemented-derived liver
+  are shown as fold change relative to control by colour scale (right). (B) The tricarboxylic
+  acid (TCA) cycle pathway (R-HSA-71403) genes expressed in tissues were used to construct
+  a protein interaction network. Levels of differential gene expression between heterologous
+  and autologous mtDNA-supplemented-derived brain are shown as fold change relative
+  to autologous mtDNA-supplemented-derived brain by colour scale. The same colour
+  scale was used as shown in (A). Genes displayed in grey boxes have no DEG data due
+  to low or no expression in the corresponding tissues.
+article_title: Mitochondrial DNA Supplementation of Oocytes Has Downstream Effects
+  on the Transcriptional Profiles of Sus scrofa Adult Tissues with High mtDNA Copy
+  Number.
+citation: Takashi Okada, et al. Int J Mol Sci. 2023 Apr;24(8):7545.
+year: '2023'
+
+doi: 10.3390/ijms24087545
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- autologous
+- heterologous
+- glyoxylate metabolism
+- immune response
+- imprinted gene
+- mitochondrial DNA
+- mitochondrial DNA supplementation
+- oxidative phosphorylation
+- Sus scrofa
+- transcriptome analysis
+
+---
