@@ -1,0 +1,42 @@
+---
+figid: PMC9633439__nihms-1837080-f0004
+pmcid: PMC9633439
+image_filename: nihms-1837080-f0004.jpg
+figure_link: /pmc/articles/PMC9633439/figure/F4/
+number: 'Figure 4:'
+figure_title: UPF2KO cells fail to activate the ATM-regulated DNA damage response
+  pathway
+caption: A. Plots showing mean intensity of γH2AX-Ser139 staining in the nuclei of
+  parental and UPF2KO AGS and HGC27 cells treated with the indicated concentrations
+  of AZD6738. Mean values and SD are indicated with a black dot and bar, respectively,
+  and p-values were calculated using a Welch two sample t-test. B. Western blot analyses
+  of lysates from parental and UPF2KO AGS cells treated with the indicated concentrations
+  of AZD6738. ß-actin is shown as a loading control. C. Survival curves of parental
+  and UPF2KO AGS cells treated with AZD1775 (WEE1i), PF477736 (CHK1i) or AZD0156 (ATMi).
+  Cell counts were determined using an Incucyte Zoom system and normalized to DMSO
+  control. Data is plotted as mean ± SD; n = 8. D. Plots showing mean intensity of
+  pH2AX-Ser139 staining in nuclei of parental and UPF2KO AGS cells treated with 1000
+  nM AZD6738, 500 nM AZD1775, 500 nM AZD0156 or a DMSO control. Mean values and SD
+  are indicated with a black dot and bar, respectively, and p-values were calculated
+  using a Welch two sample t-test. E. Cell cycle analysis bar graphs showing the percentage
+  of FastFUCCI labeled parental and UPF2KO AGS cells treated with either DMSO or the
+  indicated nM concentrations of AZD1775 (WEE1i), PF477736 (CHK1i) or AZD0156 (ATMi)
+  for 24 hours. Data are shown as mean ± SD; n = 3. p<0.05, **p<0.01, ***p<0.001,
+  ****p<0.0001, ns = non-significant.
+article_title: Resistance to ATR inhibitors is mediated by loss of the nonsense-mediated
+  decay factor UPF2.
+citation: Patrick C. O’Leary, et al. Cancer Res. ;82(21):3950-3961.
+year: '2023'
+
+doi: 10.1158/0008-5472.CAN-21-4335
+journal_title: Cancer research
+journal_nlm_ta: Cancer Res
+publisher_name: ''
+
+keywords:
+- Stomach cancer
+- drug resistance
+- DNA damage
+- cell cycle
+
+---

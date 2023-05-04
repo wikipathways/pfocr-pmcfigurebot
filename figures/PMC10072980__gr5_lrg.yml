@@ -1,0 +1,31 @@
+---
+figid: PMC10072980__gr5_lrg
+pmcid: PMC10072980
+image_filename: gr5_lrg.jpg
+figure_link: /pmc/articles/PMC10072980/figure/fig5/
+number: Fig. 5
+figure_title: ''
+caption: '(A) Dot-plot representing the regulation pattern of the common DEGs in different
+  COVID-19-related studies from the Metascape server. The y-axis represents the COVID-19-related
+  studies with authors'' names. (B) The dot-plot representation of the signaling pathway
+  involved with the shared DEGs. The x-axis represents the overlapping gene counts
+  with the enrichment terms. The color gradient indicates the adjusted p-value distribution
+  of the DEGs within those ontology terms (low: red, high: blue).'
+article_title: Risk factors and actionable molecular signatures in COVID-19-associated
+  lung adenocarcinoma and lung squamous cell carcinoma patients.
+citation: Md. Asad Ullah, et al. Comput Biol Med. 2023 Apr 5 ;158:106855-106855.
+year: '2023'
+
+doi: 10.1016/j.compbiomed.2023.106855
+journal_title: Computers in Biology and Medicine
+journal_nlm_ta: Comput Biol Med
+publisher_name: Elsevier Ltd.
+
+keywords:
+- COVID-19
+- Lung cancer
+- Risk factors
+- Diagnosis
+- Treatment
+
+---

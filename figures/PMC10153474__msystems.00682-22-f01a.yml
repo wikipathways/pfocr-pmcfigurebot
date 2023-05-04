@@ -1,0 +1,45 @@
+---
+figid: PMC10153474__msystems.00682-22-f01a
+pmcid: PMC10153474
+image_filename: msystems.00682-22-f01a.jpg
+figure_link: .na.character
+number: ''
+figure_title: FIG 1
+caption: 'Profiling of the mouse skeletal muscle metabolites triggered by V. vulnificus
+  infection. The metabolite profiles of mouse skeletal muscles 9 h after infection.
+  (A) Concentrations of arginine, creatine, and creatinine metabolites in skeletal
+  muscles were extracted from CE-TOFMS data at 9 h after infection. The samples were
+  divided into four groups: PBS-treated leg (PBS), V. vulnificus-injected leg (Vv),
+  leg opposite the PBS-treated leg (OP), and leg opposite the V. vulnificus-injected
+  leg (OV) (3/group). (B) PCA plots showing different clustering between the PBS and
+  Vv groups. The red and blue dots indicate PBS- and V. vulnificus (Vv)-injected tissue.
+  x axis, 63.46%; y axis, 13.43%; z axis, 9.03% (3/group). (C) Heat map analysis of
+  the metabolic changes to the fold change of each metabolite using the autoscaling
+  method. Red and blue indicate high and low concentrations of metabolites, respectively
+  (3/group). (D) Volcano plot showing relative changes in the metabolites in the Vv
+  group, with red denoting significantly changed metabolites (by more than 2-fold),
+  blue indicating metabolites that changed (by more than 2-fold) but not significantly,
+  and orange indicating significant differences which were less than 2-fold (3/group).
+  (E) Volcano plot showing relative changes of the metabolites in the Vv group, categorized
+  into six metabolic pathways (TCA cycle, carbohydrate metabolism, pentose phosphate
+  pathway, amino acid metabolism, ornithine cycle, and nucleic acid metabolism) (3/group).
+  P values were determined by one-way ANOVA followed by Dunnett’s test. *, FDR < 0.05
+  compared with the Vv group.'
+article_title: Characteristic Metabolic Changes in Skeletal Muscle Due to Vibrio vulnificus
+  Infection in a Wound Infection Model.
+citation: Kai Ishida, et al. mSystems. 2023 Mar-Apr;8(2):e00682-22.
+year: '2023'
+
+doi: 10.1128/msystems.00682-22
+journal_title: mSystems
+journal_nlm_ta: mSystems
+publisher_name: American Society for Microbiology
+
+keywords:
+- CE-TOFMS
+- host metabolomics
+- MARTX toxin
+- TCA cycle
+- Vibrio vulnificus
+
+---

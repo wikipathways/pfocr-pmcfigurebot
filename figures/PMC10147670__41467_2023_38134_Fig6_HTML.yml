@@ -1,0 +1,43 @@
+---
+figid: PMC10147670__41467_2023_38134_Fig6_HTML
+pmcid: PMC10147670
+image_filename: 41467_2023_38134_Fig6_HTML.jpg
+figure_link: /pmc/articles/PMC10147670/figure/Fig6/
+number: Fig. 6
+figure_title: Cell-cell interaction analysis between the different lung cell populations
+  after different time points and doses of IR
+caption: 'a Circle plot showing the differential number of interactions between IR10Gy
+  and IR17Gy in the main cellular compartments at 3 M, 4 M, and 5 M post-IR: mesenchymal,
+  endothelial, epithelia, myeloid and lymphoid. Red (or blue) colored edges represent
+  increased (or decreased) signaling in the IR17Gy compared to the IR10Gy. b Heatmap
+  showing the differential number of interactions between IR10Gy and IR17Gy in the
+  endothelial and mesenchymal subpopulations at 3 M, 4 M, and 5 M post-IR. Red (or
+  blue) represents increased (or decreased) signaling in the IR17Gy compared to the
+  IR10Gy. The top-colored bar plot represents the sum of column of values displayed
+  in the heatmap (incoming signaling). The right-colored bar plot represents the sum
+  of row of values (outgoing signaling). c Bar graph showing significant signaling
+  pathways ranked based on differences in the overall information flow within the
+  inferred networks between IR5M10Gy and IR5M17Gy from the Fibroblasts Col14a1 and
+  Myofibroblasts (sources) to the gCap (targets). The top signaling pathways colored
+  red are enriched after IR5M10Gy, and the ones colored green were enriched after
+  IR5M17Gy. d Increased signaling ligand-receptor pairs of the Collagen pathway in
+  IR10Gy and IR17Gy compared to NI at 3 M, 4 M, and 5 M after IR. e Schematic drawing
+  of the intercellular communication between fibroblasts and myofibroblasts with the
+  gCap through the collagen pathway.'
+article_title: An interactive murine single-cell atlas of the lung responses to radiation
+  injury.
+citation: Sandra Curras-Alonso, et al. Nat Commun. 2023;14:2445.
+year: '2023'
+
+doi: 10.1038/s41467-023-38134-z
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Data publication and archiving
+- Mechanisms of disease
+- Gene expression
+- Respiratory tract diseases
+
+---

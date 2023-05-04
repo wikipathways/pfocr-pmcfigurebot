@@ -1,0 +1,42 @@
+---
+figid: PMC10143425__plants-12-01612-g004
+pmcid: PMC10143425
+image_filename: plants-12-01612-g004.jpg
+figure_link: /pmc/articles/PMC10143425/figure/plants-12-01612-f004/
+number: Figure 4
+figure_title: ''
+caption: Metabolome analysis of HS and ZFY. (a) Two-dimensional principal component
+  analysis (2D PCA). PC1 denotes the first principal component and PC2 denotes the
+  second principal component. This percentage indicates the explanation rate of the
+  principal component of the dataset. (b) K-means analysis showing trends in the relative
+  content of metabolites in different subgroups. The mean values of the relative contents
+  of differential metabolites in each group were standardized using z-score and subjected
+  to K-means clustering analysis. The horizontal coordinate indicates the name of
+  the sample, the vertical coordinate indicates the relative content of standardized
+  metabolites, the sub-class represents the number of metabolite classes with the
+  same trend of change. (c) VIP score plot showing the results of differentially expressed
+  metabolites with the top ranked VIP values in the OPLS-DA model for each group comparison.
+  Horizontal coordinates indicate VIP values, vertical coordinates indicate differential
+  metabolites, red represents upregulated differentially expressed metabolites and
+  green represents downregulated differentially expressed metabolites. (d) KEGG pathway
+  analysis of differential metabolites. The vertical coordinate is the name of the
+  KEGG metabolic pathway and the horizontal coordinate is the number of metabolites
+  annotated to that pathway and their number as a percentage of the total number of
+  annotated metabolites.
+article_title: Comprehensive Microbiome and Metabolome Analyses Reveal the Medicinal
+  Components of Paeonia lactiflora.
+citation: Liping Yang, et al. Plants (Basel). 2023 Apr;12(8):1612.
+year: '2023'
+
+doi: 10.3390/plants12081612
+journal_title: Plants
+journal_nlm_ta: Plants (Basel)
+publisher_name: MDPI
+
+keywords:
+- Paeonia lactiflora
+- microbiome
+- metabolome
+- ornamental cultivar
+
+---

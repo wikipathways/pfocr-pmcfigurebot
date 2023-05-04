@@ -1,0 +1,37 @@
+---
+figid: PMC9616577__ddac104f4
+pmcid: PMC9616577
+image_filename: ddac104f4.jpg
+figure_link: /pmc/articles/PMC9616577/figure/f15/
+number: Figure 4
+figure_title: ''
+caption: 'Differentially methylated genes in both genotypes were enriched for locomotor
+  behavior and glutamate signaling functions. (A) GO biological process terms enriched
+  at multifunctionality-corrected, multiple test-corrected hypergeometric p-value
+  (CorrectedMFPvalue) < 0.05 in genes shared between control (n = 7 biological replicates)
+  vs. WT aSyn (n = 8) and control vs. A30P aSyn (n = 8) DNAm analyses. (B) Heat map
+  showing beta values for all probes annotated to the ‘locomotory behavior’ pathway
+  and differentially methylated in at least one comparison. Row labels (left to right):
+  probes that passed significance thresholds (absolute delta beta ≥0.05 and padj ≤ 0.05,
+  limma empirical Bayes moderated t test with Benjamini–Hochberg adjustment) in control
+  vs. WT aSyn comparison, probes that passed significance thresholds in control vs.
+  A30P aSyn comparison. (C) Representative examples of 353 total locomotory behavior-related
+  CpG sites differentially methylated only in WT aSyn cells (DAB1 padj = 1.91e−4,
+  CRH padj = 9.34e−5). (D) Representative examples of 22 total locomotory behavior-related
+  CpG sites differentially methylated only in A30P aSyn cells (CYTH2 padj = 1e−5,
+  FXYD1 padj = 0.028). (E) Representative examples of 67 total locomotory behavior-related
+  CpG sites differentially methylated in both genotypes (PCDH15 WT aSyn padj = 7.8e−6,
+  PCDH15 A30P aSyn padj = 8.61e−5, PAPP2 WT aSyn padj = 1.68e−9, PAPP2 A30P aSyn padj = 3.55e−7).
+  p-values: limma empirical Bayes moderated t test with Benjamini–Hochberg adjustment.'
+article_title: Alpha-synuclein overexpression induces epigenomic dysregulation of
+  glutamate signaling and locomotor pathways.
+citation: Samantha L Schaffner, et al. Hum Mol Genet. 2022 Nov 1;31(21):3694-3714.
+year: '2022'
+
+doi: 10.1093/hmg/ddac104
+journal_title: Human Molecular Genetics
+journal_nlm_ta: Hum Mol Genet
+publisher_name: Oxford University Press
+
+keywords:
+---

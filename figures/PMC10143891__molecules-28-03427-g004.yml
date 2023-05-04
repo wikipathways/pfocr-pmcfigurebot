@@ -1,0 +1,35 @@
+---
+figid: PMC10143891__molecules-28-03427-g004
+pmcid: PMC10143891
+image_filename: molecules-28-03427-g004.jpg
+figure_link: /pmc/articles/PMC10143891/figure/molecules-28-03427-f004/
+number: Figure 4
+figure_title: ''
+caption: (A–C). Heatmap showing the relative gene expression of lipid metabolism pathway,
+  PPAR signaling pathway and steroid hormone biosynthesis according to the results
+  of RNA-seq. Log2 fold change is represented by the horizontal axis, and genes are
+  represented by the vertical axis. Red indicates up-regulation, and blue indicates
+  down-regulation in expression. (D). PPI network for 76 lipid metabolism proteins
+  in the liver of mice with CF ethyl acetate extract treatment. (E). Up-regulated
+  and down-regulated genes using RNA-Seq and qRT-PCR. (F). Protein levels of PPARα,
+  Fabp2 as measured by Western blot. GAPDH was used as the control protein. Bars represent
+  the mean ± SD. The statistically significant differences from the control were defined
+  as ***, p < 0.001.
+article_title: Hepatotoxic Components Effect of Chebulae Fructus and Associated Molecular
+  Mechanism by Integrated Transcriptome and Molecular Docking.
+citation: Liwen Ai, et al. Molecules. 2023 Apr;28(8):3427.
+year: '2023'
+
+doi: 10.3390/molecules28083427
+journal_title: Molecules
+journal_nlm_ta: Molecules
+publisher_name: MDPI
+
+keywords:
+- Chebulae Fructus
+- differentially expressed genes
+- hepatotoxicity
+- lipid metabolism
+- integrated transcriptome
+
+---

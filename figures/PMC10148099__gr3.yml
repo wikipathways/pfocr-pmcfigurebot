@@ -1,0 +1,44 @@
+---
+figid: PMC10148099__gr3
+pmcid: PMC10148099
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC10148099/figure/fig3/
+number: Fig. 3
+figure_title: ''
+caption: 'HIBCH overexpression in hepatocytes affects cellular pathways related to
+  FA metabolism and oxidative phosphorylation. Huh7 liver cells were transfected with
+  pCMV6-HIBCH or control (pCMV6-empty vector) plasmid (0.2 μg per well in a 24-well
+  plate) diluted in Opti-MEM® Reduced Serum Media and TransIT-X2® transfection reagent
+  (Mirus). 24 h after transfection, the cells were treated with and without free FAs
+  (1:1 M ratio of 50 μM PA and 50 μM OA) for 24 h before analyses. A: HIBCH expression
+  in Huh7 cells measured by qPCR (n = 6). B: The quantitative values of HIBCH relative
+  to α-VINCULIN in Huh7 cells (n = 3). C: Average net medium appearance per hour of
+  3-HIB and valine during a 24 h period (n = 6). D: Relative FA uptake in Huh7 cells
+  treated with or without FA for 24 h, followed by addition of fluorescent dodecanoic
+  acid whose uptake was detected spectrophotometrically after 1 h (n = 9–12). E: GSEA
+  showing up-and down-regulated pathways by HIBCH overexpression relative to control
+  expression (without and with FAs) in Huh7 (HALLMARK pathway analysis of RNA sequencing
+  data) (n = 24). Gene sets are ordered by normalized enrichment score (NES) and significant
+  adjusted p-values for each pathway are shown. F: Number of up-and down-regulated
+  genes by HIBCH overexpression with/without FA treatment in Huh7 cells shown as a
+  Venn diagram (adjusted p-value cutoff <0.1). FA, fatty acid treatment; NES, normalized
+  enrichment score.∗p < 0.05, ∗∗p < 0.01, ∗∗∗p < 0.001 (–unpaired t-test or Mann–Whitney
+  test).'
+article_title: Metabolic role of the hepatic valine/3-hydroxyisobutyrate (3-HIB) pathway
+  in fatty liver disease.
+citation: Mona Synnøve Bjune, et al. eBioMedicine. 2023 May;91:104569.
+year: '2023'
+
+doi: 10.1016/j.ebiom.2023.104569
+journal_title: eBioMedicine
+journal_nlm_ta: eBioMedicine
+publisher_name: Elsevier
+
+keywords:
+- Branched-chain amino acids (BCAA)
+- NAFLD
+- NASH
+- Insulin resistance
+- Lipid metabolism
+
+---

@@ -1,0 +1,47 @@
+---
+figid: PMC10150008__fonc-13-1048419-g009
+pmcid: PMC10150008
+image_filename: fonc-13-1048419-g009.jpg
+figure_link: /pmc/articles/PMC10150008/figure/f9/
+number: Figure 9
+figure_title: ''
+caption: Global proteomic profiling of subcluster A miRNA expression in 769-P cells
+  identifies ATXN-2 as a downregulated target. (A) Bar graph representation of 19
+  targets for miRNA subcluster overexpressed cells with p<0.05 and Z-score >1. The
+  chromosomal locations are indicated with the y-axis labels. (B) Volcano plot demonstrating
+  subcluster A miRNA-induced differentially expressed proteins with proteins highlighted
+  in red representing additional filtering related to fold-change (Welch’s t-test,
+  p<0.05 and Z-score>3). (C) Hierarchical clustering showing two major groups and
+  related cluster-specific gene ontology enrichment results for selected biologically
+  relevant pathways (Fisher’s Exact test with a Benjamini-Hochberg FDR<0.05). (D)
+  Analyses via Ingenuity Pathway Analysis was subsequently performed to identify miRNA
+  and proteome dataset relationships. Upregulation of miR-432-3p is predicted to affect
+  the experimentally observed downregulation of several proteins, which included the
+  highly downregulated target ATXN-2, as well as other targets that overlap with renal
+  cancer biomarkers (CDH6) and necrosis of kidney (CDH6 and RBM7). (E) The downstream
+  effect on apoptosis signaling was also a predicted result of decreased expression
+  of BAD and MAPK8, which are targets of miR-127-3p and miR-433-3p. (F) Upregulated
+  miR-127-3p and miR-127-5p are predicted to downregulate several experimentally observed
+  proteins identified from proteomic analysis, which are associated with pathophysiological
+  processes of the kidney.
+article_title: Deregulated expression of the 14q32 miRNA cluster in clear cell renal
+  cancer cells.
+citation: Ravneet Chhabra, et al. Front Oncol. 2023;13:1048419.
+year: '2023'
+
+doi: 10.3389/fonc.2023.1048419
+journal_title: Frontiers in Oncology
+journal_nlm_ta: Front Oncol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- 14q32
+- miRNA
+- ccRCC
+- LPA
+- iron
+- DNMT1
+- claudin-1
+- ATXN2
+
+---

@@ -1,0 +1,43 @@
+---
+figid: PMC9622893__41467_2022_34081_Fig5_HTML
+pmcid: PMC9622893
+image_filename: 41467_2022_34081_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC9622893/figure/Fig5/
+number: Fig. 5
+figure_title: BRCA2 expression in the cancer cells affects the transcriptional profile
+  of PSCs and CAFs
+caption: (a) A heatmap representing the 20 most upregulated genes in KPC-shBrca2-CM-treated
+  PSCs compared to shControl, (see Methods and Supplementary Data , tab 7), and the
+  20 most upregulated genes in KPC-shControl-CM-treated PSCs (compared to shBrca2).
+  Clu is marked by an arrow. n = 2 biologically independent domes for DMEM treated
+  PSCs and n = 3 biologically independent domes for shControl-CM-treated and KPC-shBrca2-CM-treated
+  PSCs. (b) Schematic representation of the workflow. 2×104 KPC-shBrca2 or KPC-shControl
+  cells were inoculated into the pancreata of syngeneic C57BL/6 J mice. Three weeks
+  later the mice were sacrificed, tumors were dissected and CAFs were isolated by
+  FACS sorting (see Methods). The scheme was generated with biorender.com. (c, d)RNA-seq
+  analysis of CAFs from KPC tumors. n = 3 mice for KPC-shControl tumors and n = 4
+  mice for KPC-shBrca2 tumors (c) Heatmap representing hierarchical clustering of
+  the DE genes between CAFs from KPC-shBrca2 or KPC-shControl tumors (right), and
+  pathways enriched in each cluster with their corresponding p-values (left). Pathway
+  analysis was performed using Metascape, selected pathways are shown, see Supplementary
+  Data  for the full list. (d) A heatmap representing the 20 most upregulated genes
+  in KPC-shBrca2-tumor CAFs, and the 20 most upregulated genes in KPC-shControl-tumor
+  CAFs. (e, f) DE genes between KPC-shBrca2-CM treated- and KPC-shControl-CM treated-PSCs
+  (e) and CAFs (f) were matched to a database of murine HSF1 targets genes. The statistical
+  significance of the dependency between treatment (shBrca2/ shControl) and HSF1 targets
+  was tested using a Chi-square test. Source data are provided as a Source Data file.
+article_title: BRCA mutational status shapes the stromal microenvironment of pancreatic
+  cancer linking clusterin expression in cancer associated fibroblasts with HSF1 signaling.
+citation: Lee Shaashua, et al. Nat Commun. 2022;13:6513.
+year: '2022'
+
+doi: 10.1038/s41467-022-34081-3
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cancer microenvironment
+- Pancreatic cancer
+
+---

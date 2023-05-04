@@ -1,0 +1,48 @@
+---
+figid: PMC10151738__fendo-14-1129162-g003
+pmcid: PMC10151738
+image_filename: fendo-14-1129162-g003.jpg
+figure_link: /pmc/articles/PMC10151738/figure/f3/
+number: Figure 3
+figure_title: ''
+caption: Sensitivity of luminal A ERα-positive invasive ductal carcinomas to GART
+  inhibition. Linear regression and Spearman Correlation values between the sensitivity
+  to GART siRNA-induced anti-proliferative effect as downloaded by the DepMap portal
+  (https://depmap.org/portal) and the calculated inhibitor concentration 50 (IC50)
+  for lometrexol (LMX)-induced anti-proliferative effect in the same BC cell lines
+  stratified in luminal A (LumA, green dots) and luminal B (LumB, red dots) BC cell
+  lines and in non-invasive ductal carcinomas (Not-IDC) (A) or invasive ductal carcinomas
+  (IDC) (B) r and p-values are given in the main panels. The sensitivity to GART siRNA-induced
+  (C) and lometrexol (LMX)-induced (D) ERα degradation effect as calculated by extrapolating
+  the effective concentration 50 (EC50) and -Log2 transforming it in different BC
+  cell lines stratified as luminal A (LumA, green dots) and luminal B (LumB, red dots)
+  and non-invasive ductal carcinomas (Not-IDC) or invasive ductal carcinomas (IDC).
+  Kaplan-Meier plots showing the relapse-free survival (RFS) probability in women
+  carrying breast tumors expressing ERα, both expressing or not progesterone receptor
+  (PR) but not HER2 (E) or ERα, HER2 or both expressing or not PR (F) as a function
+  of GART mRNA levels. Significant differences between the RFS are given as p-value
+  in each panel. Data have been downloaded by the website (https://kmplot.com/analysis/).
+  All possible cutoff values between the lower and upper quartiles are automatically
+  computed (i.e., auto-select best cutoff on the website), and the best performing
+  threshold is used as a cutoff ().
+article_title: A functional genetic screen for metabolic proteins unveils GART and
+  the de novo purine biosynthetic pathway as novel targets for the treatment of luminal
+  A ERα expressing primary and metastatic invasive ductal carcinoma.
+citation: Manuela Cipolletti, et al. Front Endocrinol (Lausanne). 2023;14:1129162.
+year: '2023'
+
+doi: 10.3389/fendo.2023.1129162
+journal_title: Frontiers in Endocrinology
+journal_nlm_ta: Front Endocrinol (Lausanne)
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- breast cancer
+- estrogen receptor α
+- 17β-estradiol
+- lometrexol
+- GART
+- de novo purine biosynthetic pathway
+- metabolic reprogramming
+
+---

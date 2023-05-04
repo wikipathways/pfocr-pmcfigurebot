@@ -1,0 +1,40 @@
+---
+figid: PMC9044136__db210830f3
+pmcid: PMC9044136
+image_filename: db210830f3.jpg
+figure_link: /pmc/articles/PMC9044136/figure/F3/
+number: Figure 3
+figure_title: ''
+caption: 'Identification and extraction of endothelial cell clusters within the skin
+  samples of individuals with diabetes and without diabetes. A: Identification and
+  extraction of the endothelial cell cluster in human skin by visualizing the expression
+  level of CDH5, VWF, and PECAM1 gene expression enrichment (Supplementary Fig. 4A).
+  B: tSNE plots showing nonsignificant difference of VEGF ligands between diabetic
+  and nondiabetic skin endothelial cells (VEGFC, FDR-adjusted P value: 1; VEGFB, adjusted
+  P value: 1; VEGFA, not expressed in >20% of the cells in either group). C: tSNE
+  plots showing nonsignificant difference of VEGF receptors between diabetic and nondiabetic
+  skin endothelial cells (KDR, FDR-adjusted P value: 1; FLT1, FDR-adjusted P value:
+  0.04, logFC < ±0.25; FLT4, not expressed in >20% of the cells in either group).
+  D: GSEA showing that the VEGF signaling was not significantly altered between diabetic
+  and nondiabetic skin endothelial cells (normalized enrichment score [NES] −0.43;
+  P = 0.4). E: Signaling interaction analysis of VEGF pathway across different cell
+  types in diabetic and nondiabetic skin. E, top: VEGF signaling network in nondiabetic
+  (left) and diabetic (right) skin. E, bottom: Ligands and receptors contributed in
+  VEGF signaling in nondiabetic (left) and diabetic (right) skin cells. F: tSNE plots
+  showing PLCγ2 expression level between nondiabetic (left) and diabetic (right) skin
+  endothelial cells (logFC: −0.52; FDR-adjusted P value: 5.98E-100). Immunohistochemical
+  analysis of VWF+/PLCγ2+ colocalization in human nondiabetic and diabetic skin (G)
+  and its colocalization coefficient (H). Scale bars, 50 µm. n = 9 and 7. *P < 0.05
+  (Student t test). Data are represented as the mean ± SEM.'
+article_title: Endothelial Phospholipase Cγ2 Improves Outcomes of Diabetic Ischemic
+  Limb Rescue Following VEGF Therapy.
+citation: Yashika Rustagi, et al. Diabetes. 2022 May;71(5):1149-1165.
+year: '2022'
+
+doi: 10.2337/db21-0830
+journal_title: Diabetes
+journal_nlm_ta: Diabetes
+publisher_name: American Diabetes Association
+
+keywords:
+---

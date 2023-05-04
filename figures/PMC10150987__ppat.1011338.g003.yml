@@ -1,0 +1,42 @@
+---
+figid: PMC10150987__ppat.1011338.g003
+pmcid: PMC10150987
+image_filename: ppat.1011338.g003.jpg
+figure_link: /pmc/articles/PMC10150987/figure/ppat.1011338.g003/
+number: Fig 3
+figure_title: The roles of Rpn4 in ergosterol gene expression
+caption: A. Expression of the ERG genes and UPC2 in the RNA-seq experiment in wild
+  type (WT) and rpn4Δ/Δ in the absence and presence of fluconazole (FLC). Shown are
+  the log2 values of fold change relative to untreated (-FLC) WT, which is set to
+  1 (log2 of 0). The ergosterol biosynthesis pathway is shown on the left for context.
+  B. Comparison of fold change (expressed as log2 values) in the expression of the
+  ERG genes and UPC2 in wild type and rpn4Δ/Δ in response to FLC. C. Same heat map
+  as the ergosterol biosynthesis genes shown in  but here shown as fold change in
+  gene expression relative to wild type +FLC. Cut-offs were 1.5 fold change; FDR <
+  0.05. D. qPCR analysis of ERG27 gene expression in WT, rpn4Δ/Δ and complemented
+  strains. Gene expression was normalized to RDN25. Data points represent three independent
+  experiments, each analysed in two technical replicates. Horizontal bars represent
+  the mean and error bars represent the standard error of mean. ** P < 0.01; *** P
+  < 0.001 (2-way ANOVA Bonferroni’s multiple comparison test). Only significant statistical
+  comparisons are shown. E. qPCRs of proteasome and ERG gene expression in response
+  to proteasome inhibition with MG132. Wild type C. albicans was treated with 50 μM
+  MG132 for 3 h, followed by 30 min of fluconazole (FLC) treatment (3 μg/ml). Gene
+  expression was normalized to RDN25 and expressed relative to the average expression
+  in the untreated wild type (See ). Data points represent biological repeats from
+  4 independent experiments. In each experiment, 3 independent colonies were cultured
+  for each condition, leading to 12 repeats. The horizontal bars represent the mean
+  and error bars represent the standard error of mean. ** P < 0.01; *** P < 0.0001
+  (2-way ANOVA Bonferroni’s multiple comparison test). Only significant statistical
+  comparisons are shown.
+article_title: The proteasome regulator Rpn4 controls antifungal drug tolerance by
+  coupling protein homeostasis with metabolic responses to drug stress.
+citation: Ka Pui Sharon Yau, et al. PLoS Pathog. 2023 Apr;19(4):e1011338.
+year: '2023'
+
+doi: 10.1371/journal.ppat.1011338
+journal_title: PLOS Pathogens
+journal_nlm_ta: PLoS Pathog
+publisher_name: Public Library of Science
+
+keywords:
+---

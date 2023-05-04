@@ -1,0 +1,35 @@
+---
+figid: PMC10151179__awac385f4
+pmcid: PMC10151179
+image_filename: awac385f4.jpg
+figure_link: /pmc/articles/PMC10151179/figure/awac385-F4/
+number: Figure 4
+figure_title: ''
+caption: RF models (increase in prediction error). In the normal cognition groups
+  (HC and SCD), MD in the external capsule pathway was important in predicting scores
+  in attention tests, while NBM volume and WM hypointensities received low importance
+  scores in all models. In the impaired cognition groups (MCI and Alzheimer’s disease
+  dementia), NBM volume and MD in external capsule and cingulum pathways were important
+  in predicting scores in most memory and attention tests. ExCap = external capsule
+  pathway; Cing = cingulum pathway; Rem WM = WM excluding cholinergic pathways; NBM/TIV
+  = volume of NBM scaled by TIV; Var = variance; yrs = years. IncMSE = conditional
+  variable importance computed by increase in the mean square error of prediction.
+  This IncMSE is the result of a corresponding variable being permuted within a grid
+  defined by the covariates that are associated to the variable of interest.
+article_title: Cholinergic white matter pathways along the Alzheimer's disease continuum.
+citation: Milan Nemy, et al. Brain. 2023 May;146(5):2075-2088.
+year: '2023'
+
+doi: 10.1093/brain/awac385
+journal_title: Brain
+journal_nlm_ta: Brain
+publisher_name: Oxford University Press
+
+keywords:
+- cholinergic system
+- nucleus basalis of Meynert
+- Alzheimer’s disease
+- CSF markers
+- MRI
+
+---

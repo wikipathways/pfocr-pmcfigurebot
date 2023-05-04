@@ -1,0 +1,35 @@
+---
+figid: PMC10148119__gr2
+pmcid: PMC10148119
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC10148119/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: 'PBMC RNA-seq of PBMCs in the fasted and refed state(A and B) Biological
+  process and (B) molecular function GO analysis of 971 DE genes from PBMCs. Top 3
+  enriched processes shown, ranked by the inverse log of the p-value.(C) Relative
+  expression of 28 DE genes (p < 0.05) enriched in the G-protein coupled receptor
+  signaling pathway (GO: 0007186). Gene expression (FPKM, Fragments Per Kilobase of
+  transcript per Million) indicated by row Z-score as relative increase (red) or decrease
+  (blue). Samples (x-axis) grouped by fasted and refed timepoints. Genes (y-axis)
+  ranked by mean fold change.(D) GPR18 RNA expression in PBMCs collected at fasting
+  and re-feeding timepoints (relative to the mean of fasted group, n = 15/group).
+  Significance using a paired t-test, ∗ - p < 0.05.'
+article_title: N-arachidonylglycine is a caloric state-dependent circulating metabolite
+  which regulates human CD4+T cell responsiveness.
+citation: Allison M. Meadows, et al. iScience. 2023 May 19;26(5):106578.
+year: '2023'
+
+doi: 10.1016/j.isci.2023.106578
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Human metabolism
+- Immunology
+- Lipidomics
+- Metabolomics
+- Transcriptomics
+
+---

@@ -1,0 +1,38 @@
+---
+figid: PMC10150478__13046_2023_2680_Fig3_HTML
+pmcid: PMC10150478
+image_filename: 13046_2023_2680_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC10150478/figure/Fig3/
+number: Fig. 3
+figure_title: ''
+caption: TRAF3 knockout (TRAF3KO) cells alter the immune response. A Profile of total
+  myeloid cells (CD45+CD11b+), macrophages (CD45+CD11b+F4/80+), dendrites (CD45+CD11b+CD11c+MHCII+),
+  monocytic (CD45+CD11b+Ly6C+Ly6G-), and polymorphonuclear (CD45+CD11b+Ly6C-Ly6G+)
+  MDSCs in ITB1- (cyan) and TRAF3KO (pink)-injected mice. B Profile of total T cells
+  (CD45+CD3+), B cells (CD45+CD19+), helper T-cells (CD45+CD3+CD4+), cytotoxic T-cells
+  (CD45+CD3+CD8+), and NK cells (CD45+CD3-NK1.1+) in ITB1-injected (cyan) and TRAF3KO-injected
+  (pink) mice. C Expression of immunoglobulin markers (IgA, IgD, IgM) on the surface
+  of B cells in ITB1- and TRAF3KO-injected mice. D Volcano plot of a multiple t-test
+  analysis comparing TRAF3KO and ITB1 washes. The plot shows the difference (x-axis)
+  and p-value (y-axis) of the mean fluorescence intensity of each immunoglobulin scanned
+  with an Ig isotyping array, E Heatmap showing that the ovarian cancer TCGA cohort
+  is clustered according to the B cell pathway. F Survival curve showing the difference
+  between patients with high (cyan) and low (pink) levels of IGHA1 in the TCGA data
+article_title: TRAF3 suppression encourages B cell recruitment and prolongs survival
+  of microbiome-intact mice with ovarian cancer.
+citation: Jonathan Zorea, et al. J Exp Clin Cancer Res. 2023;42:107.
+year: '2023'
+
+doi: 10.1186/s13046-023-02680-7
+journal_title: 'Journal of Experimental & Clinical Cancer Research : CR'
+journal_nlm_ta: J Exp Clin Cancer Res
+publisher_name: BioMed Central
+
+keywords:
+- TRAF3
+- B cells
+- BRAC1-mutated ovarian cancer
+- IgA
+- Microbiome
+
+---

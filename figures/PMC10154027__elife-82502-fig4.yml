@@ -1,0 +1,47 @@
+---
+figid: PMC10154027__elife-82502-fig4
+pmcid: PMC10154027
+image_filename: elife-82502-fig4.jpg
+figure_link: /pmc/articles/PMC10154027/figure/fig4/
+number: Figure 4
+figure_title: Co-occurrence of odorous molecules in natural substances is explained
+  by the principal odor map (POM)
+caption: (a) We compiled a dataset of 214 molecules found in 303 essential oils and
+  computed their pairwise POM distance (red) and count-based fingerprint (cFP) edit
+  distance (blue), where molecule pairs that co-occur in the same essential oil are
+  indicated by dark boxes. (b) To make POM and cFP edit distance comparable, we sort
+  both POM and cFP edit distances for all 22,791 molecular pairs in the dataset from
+  small to large and mark co-occurring pairs with dark lines; we then (c) plot the
+  average shift in distance rank (relative to a random pair) for co-occurring (left)
+  and non-co-occurring (right) molecule pairs under POM distance (red), cFP edit distance
+  (blue), and Tanimoto distance (purple). As expected, the co-occurring pairs have
+  a smaller rank (nearer together), and non-co-occurring pairs have a higher rank
+  (further apart). More importantly, this rank shift for co-occurring molecules is
+  ~2× larger in POM than for structures distance (paired t-test, p<0.0001) and reversed
+  for non-co-occurring pairs (paired t-test, p<0.001). Error bar indicates the 95%
+  CI. (d) Two example pairs of co-occurring molecules that POM successfully recognizes
+  as closely related while conventional structure-based distance fails. Common odor
+  labels for the two molecules as predicted by a state-of-the-art model (). (e) The
+  terpenoid biosynthesis pathway shows that these molecule pairs (red) are close downstream
+  metabolic products of geranyl diphosphate (), explaining both their co-occurrence
+  and their proximity in the POM despite their dissimilar structures.
+article_title: Metabolic activity organizes olfactory representations.
+citation: Wesley W Qian, et al. eLife. 2023;12:e82502.
+year: '2023'
+
+doi: 10.7554/eLife.82502
+journal_title: eLife
+journal_nlm_ta: eLife
+publisher_name: eLife Sciences Publications, Ltd
+
+keywords:
+- machine learning
+- olfaction
+- metabolome
+- psychophysics
+- D. melanogaster
+- Human
+- Mouse
+- Other
+
+---

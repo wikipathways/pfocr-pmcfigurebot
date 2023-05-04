@@ -1,0 +1,35 @@
+---
+figid: PMC10149837__fphar-14-1144330-g002
+pmcid: PMC10149837
+image_filename: fphar-14-1144330-g002.jpg
+figure_link: /pmc/articles/PMC10149837/figure/F2/
+number: FIGURE 2
+figure_title: ''
+caption: Cordycepin decreases the function of macrophage I (M1 macrophages) (A). PCA
+  showed the difference between the two groups (B). DEGs of two groups. The marked
+  genes by tags were those with a p-value < 0.005 and a log Fc > 0.25 (C). Heatmap
+  was chosen to show the top 20 up- and downregulated genes (D). Heatmap was chosen
+  to show the correlations of the top 20 genes (E). KEGG pathway enrichment analysis
+  was performed utilizing the KEGG pathway database (http://www.genome.jp/kegg). Based
+  on the function of macrophages, the pathways were selected. The decreasing function
+  is represented by the bar graphs (blue), and the increasing function is represented
+  by the bar graphs (red) (F). Heatmap was chosen to show the differential gene expression
+  of molecular markers of the M1 phenotype. Cordycepin was represented by “COR”.
+article_title: Synergistic effect of CD47 blockade in combination with cordycepin
+  treatment against cancer.
+citation: Chen Feng, et al. Front Pharmacol. 2023;14:1144330.
+year: '2023'
+
+doi: 10.3389/fphar.2023.1144330
+journal_title: Frontiers in Pharmacology
+journal_nlm_ta: Front Pharmacol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- cordycepin
+- anti-CD47
+- macrophage
+- tumor microenvironment
+- scRNA-seq
+
+---

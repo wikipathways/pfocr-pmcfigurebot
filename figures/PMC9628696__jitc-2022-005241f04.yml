@@ -1,0 +1,36 @@
+---
+figid: PMC9628696__jitc-2022-005241f04
+pmcid: PMC9628696
+image_filename: jitc-2022-005241f04.jpg
+figure_link: /pmc/articles/PMC9628696/figure/F4/
+number: Figure 4
+figure_title: ''
+caption: RNA-seq analysis of differentially expressed genes in miR-125b-5p transfected
+  Tregs. Purified CD4+CD25+ Treg cells were transfected with 100 nM LV-miR-125b-5p
+  or its negative control (LV-miR-NC) for 2 days, then transcriptome sequencing was
+  performed. (A) The differentially expressed genes in miR-125b-5p overexpressed Tregs
+  compared with control cells (n=3, each group) were shown in the heatmap. (B) The
+  differentially expressed genes were shown in volcano plot. X-axis means log2 foldchange;
+  Y-axis means −log10pvalue. Gray dotted line represents the screening standard threshold
+  of different expressed genes. (C) The selected most upregulated and downregulated
+  genes were shown in heatmap. (D) KEGG pathway analysis of enriched differentially
+  expressed genes. (E) Gene Set Enrichment Analysis (GSEA) using Tregs RNA-seq data
+  showed that miR-125b-5p expression levels affect regulation of immune response to
+  tumor cell progression.
+article_title: MiR-125b-5p modulates the function of regulatory T cells in tumor microenvironment
+  by targeting TNFR2.
+citation: Mengmeng Jiang, et al. J Immunother Cancer. 2022;10(11):e005241.
+year: '2022'
+
+doi: 10.1136/jitc-2022-005241
+journal_title: Journal for Immunotherapy of Cancer
+journal_nlm_ta: J Immunother Cancer
+publisher_name: BMJ Publishing Group
+
+keywords:
+- Tumor Microenvironment
+- CD4-Positive T-Lymphocytes
+- Immunotherapy
+- Lymphocytes, Tumor-Infiltrating
+
+---

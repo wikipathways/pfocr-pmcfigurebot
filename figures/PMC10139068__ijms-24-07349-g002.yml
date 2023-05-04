@@ -1,0 +1,37 @@
+---
+figid: PMC10139068__ijms-24-07349-g002
+pmcid: PMC10139068
+image_filename: ijms-24-07349-g002.jpg
+figure_link: /pmc/articles/PMC10139068/figure/ijms-24-07349-f002/
+number: Figure 2
+figure_title: ''
+caption: (A) Weighted gene co-expression network analysis (WGCNA) constructed the
+  Arabidopsis Drought-specific Gene Co-expression Network (ADGCN) encompassing 9370
+  nodes connected by 402,598 weighted edges (≥0.75). Nodes are colored based on their
+  specific module assignment. Most significant modules based on connectivity and clustering
+  coefficient were annotated by GO analysis and the enriched pathways are listed next
+  to their respective modules (p-value ≤ 0.05). (B–D) ADGCN network analysis plots
+  displaying clustering coefficient (CC) (B), betweenness centrality (C), and degree
+  distribution (D). (E) Functional annotation and pathway enrichment analyses of high
+  CC (green), high bottleneck (red), and high hub (violet) genes.
+article_title: Network Biology Analyses and Dynamic Modeling of Gene Regulatory Networks
+  under Drought Stress Reveal Major Transcriptional Regulators in Arabidopsis.
+citation: Nilesh Kumar, et al. Int J Mol Sci. 2023 Apr;24(8):7349.
+year: '2023'
+
+doi: 10.3390/ijms24087349
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- co-expression network
+- water deprivation
+- drought
+- systems biology
+- network centrality
+- computational simulation
+- Arabidopsis
+- transcriptional regulation
+
+---

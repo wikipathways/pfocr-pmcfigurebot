@@ -1,0 +1,32 @@
+---
+figid: PMC10151353__gr6
+pmcid: PMC10151353
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC10151353/figure/fig6/
+number: Fig. 6
+figure_title: ''
+caption: Cartilage intermediate layer protein 2 (CILP2) gene enrichment analysis in
+  The Cancer Genome Atlas (TCGA) COAD-READ dataset. (A–B) Heatmaps showing genes positively
+  and negatively correlated with CILP2 in COAD-READ (top50). (C) Gene onthology (GO)
+  analysis of CILP2-associated genes and prediction of the Kyoto Encyclopedia of Genes
+  and Genomes (KEGG) pathway were performed. (D) Gene Set Enrichment Analysis (GSEA)
+  related to CILP2 expression. Terms with p values of <0.05 were considered significantly
+  enriched.
+article_title: 'CILP2: A prognostic biomarker associated with immune infiltration
+  in colorectal cancer.'
+citation: Xueli Wang, et al. Heliyon. 2023 May;9(5):e15535.
+year: '2023'
+
+doi: 10.1016/j.heliyon.2023.e15535
+journal_title: Heliyon
+journal_nlm_ta: Heliyon
+publisher_name: Elsevier
+
+keywords:
+- Colorectal cancer
+- CILP2
+- Immune microenvironment
+- Prognosis
+- Immune infiltration
+
+---

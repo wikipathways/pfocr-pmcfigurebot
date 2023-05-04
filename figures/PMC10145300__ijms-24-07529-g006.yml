@@ -1,0 +1,38 @@
+---
+figid: PMC10145300__ijms-24-07529-g006
+pmcid: PMC10145300
+image_filename: ijms-24-07529-g006.jpg
+figure_link: /pmc/articles/PMC10145300/figure/ijms-24-07529-f006/
+number: Figure 6
+figure_title: ''
+caption: 'AsA biosynthetic pathway DEGs in Z5 and Z6 transcriptomes. A heat map was
+  generated from the log2 fold change calculated from transcriptome. Each line represents
+  a gene. The arrow direction indicates the conversion of metabolite into another.
+  The change of color from red to gray to blue represents the log2 value from large
+  to small. The first, second, and third columns represent log2FC(Z6/Z5) on days 10,
+  50, and 80. The enzymes involved in AsA biosynthesis are: GDP-mannose pyrophosphorylase
+  (GMP), GDP-mannose-3′,5′-epimerase (GME), GDP-L-galactose phosphorylase (GGP), L-galactose-1-phosphate
+  phosphatase (GPP), L-galactono-1,4-lactone dehydrogenase (GalLDH), L-gulonolactone
+  oxidase (GulLO), L-myo-inositol 1-phosphate synthase (IPS), myo-inositol oxygenase
+  (MIOX), pectin methylesterase (PME), D-galacturonic acid reductase (GalUR), and
+  aldonolactonase (Alase).'
+article_title: Identification of the GDP-L-Galactose Phosphorylase Gene as a Candidate
+  for the Regulation of Ascorbic Acid Content in Fruits of Capsicum annuum L..
+citation: Yixin Wang, et al. Int J Mol Sci. 2023 Apr;24(8):7529.
+year: '2023'
+
+doi: 10.3390/ijms24087529
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- Capsicum
+- ascorbic acid
+- transcriptome
+- WGCNA
+- GGP
+- VIGS
+- CCS
+
+---
