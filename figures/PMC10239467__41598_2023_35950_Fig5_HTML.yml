@@ -1,0 +1,34 @@
+---
+figid: PMC10239467__41598_2023_35950_Fig5_HTML
+pmcid: PMC10239467
+image_filename: 41598_2023_35950_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC10239467/figure/Fig5/
+number: Figure 5
+figure_title: ''
+caption: 'Transcriptome (QuantSeq) profiling of IP6K2 and XPO4 knockout clones. (a,
+  b) GSEA analysis of the C4_Cas9 (WT), C4_scc_IP6K2_3, and C4_scc_XPO4_2 cell lines.
+  Only significantly enriched/depleted signatures are shown (FDR < 0.05 after 1000
+  permutations). KO: Knockout. NES: Normalized enrichment score. (c, d) Enrichr analysis
+  showing the top ten significant (unadjusted p-value < 0.05) pathways/ontologies
+  from five different databases based on genes that were differentially expressed
+  between vehicle (DMSO) and enzalutamide-treated C4_scc_IP6K2_3 (n = 90) or C4_scc_XPO4_2
+  (n = 67) cells, but not differentially expressed in C4_Cas9 cells (Supplementary
+  Data ). The x-axis shows the combined score (multiplied log of Fisher’s exact test
+  p-value and z-score) for each pathway, as determined by Enrichr analysis. The y-axis
+  shows the unadjusted Fisher’s exact test p-value, as determined by Enrichr analysis.'
+article_title: Investigation of enzalutamide, docetaxel, and cabazitaxel resistance
+  in the castration resistant prostate cancer cell line C4 using genome-wide CRISPR/Cas9
+  screening.
+citation: Jakob Haldrup, et al. Sci Rep. 2023;13:9043.
+year: '2023'
+
+doi: 10.1038/s41598-023-35950-7
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Prostate cancer
+- High-throughput screening
+
+---

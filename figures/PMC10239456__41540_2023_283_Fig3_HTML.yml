@@ -1,0 +1,32 @@
+---
+figid: PMC10239456__41540_2023_283_Fig3_HTML
+pmcid: PMC10239456
+image_filename: 41540_2023_283_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC10239456/figure/Fig3/
+number: Fig. 3
+figure_title: Interaction graph and dynamic behavior of the PanNETs Boolean model
+caption: a The 198 directed edges in the static interaction graph depict the regulatory
+  dependencies between the 56 nodes (genes/proteins). Here, arrows show activating
+  regulations while bar-headed lines depict inhibitory interactions. Linear cascades
+  of interactions are represented by dashed lines between the starting and the end
+  node. The color of each node depicts its association to a specific pathway. b Percentage
+  distribution of PanNET phenotypes in the wild type (unperturbed) as well after introducing
+  common mutations like DAXX, TSC, or MEN1 knockout (KO). The complete phenotypical
+  landscape with the activity of each node can be found in the Supplementary Figs.
+  –.
+article_title: A systems biology approach to define mechanisms, phenotypes, and drivers
+  in PanNETs with a personalized perspective.
+citation: Silke D. Werle, et al. NPJ Syst Biol Appl. 2023;9:22.
+year: '2023'
+
+doi: 10.1038/s41540-023-00283-8
+journal_title: NPJ Systems Biology and Applications
+journal_nlm_ta: NPJ Syst Biol Appl
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Regulatory networks
+- Dynamical systems
+- Logic gates
+
+---

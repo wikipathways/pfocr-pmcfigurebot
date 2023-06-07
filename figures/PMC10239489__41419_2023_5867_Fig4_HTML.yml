@@ -1,0 +1,33 @@
+---
+figid: PMC10239489__41419_2023_5867_Fig4_HTML
+pmcid: PMC10239489
+image_filename: 41419_2023_5867_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC10239489/figure/Fig4/
+number: Fig. 4
+figure_title: A3B coordinates with R-loops to regulate the expression of RS-associated
+  genes
+caption: 'A Genome browser view of R-loop and A3B signals at example loci. B The heatmap
+  presentation of ChIP-seq signals for A3B in regions ±3 Kb from R-loop centers. C
+  Venn diagram shown genome-wide co-occurrence across A3B target genes (blue) and
+  R-loop-prone differential genes on A3B knock down (orange). D GO analysis of overlapping
+  genes in (C). E Heatmap of gene expression of MEL290 RNA-seq. F GSEA pathway enrichment
+  analysis of differential genes obtained by transcriptomic sequencing of stable transfection
+  cell lines of MEL290. NES: normalized enrichment score. G Bar charts of RNASEH1
+  expression based on RNA-seq of A3B overexpression. H Bar charts of RSR signature
+  score based on RNA-seq of A3B overexpression.'
+article_title: APOBEC3B coordinates R-loop to promote replication stress and sensitize
+  cancer cells to ATR/Chk1 inhibitors.
+citation: Chunyan Zong, et al. Cell Death Dis. 2023 Jun;14(6):348.
+year: '2023'
+
+doi: 10.1038/s41419-023-05867-0
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cancer therapy
+- DNA replication
+- DNA damage response
+
+---

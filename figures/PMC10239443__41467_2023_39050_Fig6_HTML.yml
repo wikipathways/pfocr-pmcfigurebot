@@ -1,0 +1,34 @@
+---
+figid: PMC10239443__41467_2023_39050_Fig6_HTML
+pmcid: PMC10239443
+image_filename: 41467_2023_39050_Fig6_HTML.jpg
+figure_link: /pmc/articles/PMC10239443/figure/Fig6/
+number: Fig. 6
+figure_title: Decreased expression of TGF-β receptors and impaired metabolism in the
+  proximal tubule of CKD patients
+caption: a UMAP plot of normalized data clustering. Numbers represent PT clusters.
+  b Bar plot depicting the proportion of PT cells per clusters in healthy and CKD
+  kidney biopsy datasets. c UMAPs showing TGFBRs (1, 2, and 3) features in healthy
+  and CKD PT cells. d Differential gene expression analysis showing a significant
+  decrease of TGFBRs (1, 2, and 3) and TGFBRAP1 in CKD PT cells as compared to healthy
+  PT cells. e Pathway activity analysis showing impaired mitochondrial biogenesis,
+  complex I activity, and metabolism. N = 5 CKD patients (eGFR<60) and 3 healthy controls.
+  Differential gene expression was evaluated using the Wilcoxon Rank Sum test from
+  the FindMarkers function. Calculation of the pathway scores was performed using
+  REACTOME genesets.
+article_title: Intrinsic TGF-β signaling attenuates proximal tubule mitochondrial
+  injury and inflammation in chronic kidney disease.
+citation: Merve Kayhan, et al. Nat Commun. 2023;14:3236.
+year: '2023'
+
+doi: 10.1038/s41467-023-39050-y
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Energy metabolism
+- Chronic kidney disease
+- Chronic inflammation
+
+---
