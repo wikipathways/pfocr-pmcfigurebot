@@ -405,7 +405,7 @@ for (j in 1:5) {
       }
       
       # Turn the page
-      if (i < page.count-1){
+      if (i < page.count){
         result <- NULL
         for (i in 1:15) {
           result <- tryCatch({
