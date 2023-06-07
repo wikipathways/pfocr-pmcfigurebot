@@ -1,0 +1,66 @@
+---
+figid: PMC9411331__12079_2021_659_Fig3_HTML
+pmcid: PMC9411331
+image_filename: 12079_2021_659_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC9411331/figure/Fig3/
+number: Fig. 3
+figure_title: ''
+caption: 'Bioinformatic analysis and deletion studies of the promoter region of CCN5.
+  a Schematic illustration of CCN5 promoter region (− 1800/+ 21) upstream of the coding
+  state of CCN5 gene. All tracks were set and displayed as dense. Red arrows demonstrate
+  Transcription Start Site (TSS)/+ 1. (1) CCN5 gene is located on chromosome 20. The
+  numbers are indicative of the base position with the genomic coordinates of the
+  displayed region (gene promoter). (2) Homo sapiens WNT1 inducible signaling pathway
+  protein 2 (WISP-2)/CCN5, mRNA, assembled by UCSC genome browser. (3) SwitchGear
+  TSS: location of Transcription Start Sites (TSSs) throughout the human genome. Red
+  arrow illustrates the chosen TSS/+ 1 with higher confidence score based on reported
+  experimental evidence. (4) Transcript variants alignments of CCN5 according to RNA
+  reference sequences (RefSeq) gene predictions from NCBI. (5) H3K27Ac mark: this
+  involves acetylation of lysine 27 of the H3 histone protein. H3K27Ac is defined
+  as an active enhancer mark often found near active regulatory elements. Overlayed
+  H3K27Ac tracks show where modification of histone proteins is suggestive of enhancer
+  and, to a lesser extent, other regulatory activity. (6) DNase I hypersensitive clusters
+  (from ENCODE analysis) which are accessible chromatin zones, transcriptionally active
+  and necessary for the binding of transcription factors. A gray box designates the
+  degree of the hypersensitive region. The darkness is relative to the maximum signal
+  strength observed in any of the reported 125 cell types. (7) Txn Factor ChIP: transcription
+  factor (161 factors) binding motifs from a large collection of ChIP-seq experiments
+  (chromatin immunoprecipitation followed by sequencing) performed by the ENCODE Factorbook
+  repository. Clusters are showing occupancy regions for each factor and motif sites
+  within the regions. A gray box surrounds each peak cluster of transcription factor
+  occupancy. The darkness is indicative of the maximum signal strength observed in
+  any cell line contributing to the transcription factor occupancy. A green highlight,
+  within a cluster indicates the highest scoring site of a Factorbook-identified established
+  motif for the corresponding transcription factor. b Full length WISP-2/CCN5 promoter
+  (− 1800/+ 21) immediately preceding the transcription start site (TSS/+ 1) and coding
+  sequence of firefly luciferase (FLUC) as reporter of CCN5 promoter activity. Consensus
+  enhancer/suppressor elements in the promoter region of CCN5 are predicted and indicated
+  according to the Transfac database. c Schematic demonstrating various deletions
+  of the − 1800/+ 21 promoter construct with indications of the previously identified
+  glucocorticoid response (enhancer) element (GRE). After infection of primary cardiac
+  fibroblasts d with recombinant adenovirus encoding luciferase under control of the
+  CCN5 promoter fragment with various deletions, the cells were stimulated with 100 nM
+  dexamethasone or vehicle for 24 h and assayed for luciferase activity. The results
+  are presented as the mean ± SEM (n = 3 independent experiments with two replicates
+  per condition) of luciferase activity in primary cardiac fibroblasts stimulated
+  in the absence or presence of dexamethasone. Statistical significance was assessed
+  by unpaired Student’s two tailed t-test. ***p < 0.001 and ****p < 0.0001'
+article_title: Tissue distribution and transcriptional regulation of CCN5 in the heart
+  after myocardial infarction.
+citation: Sima Zolfaghari, et al. J Cell Commun Signal. 2022 Sep;16(3):377-395.
+year: '2022'
+
+doi: 10.1007/s12079-021-00659-7
+journal_title: Journal of Cell Communication and Signaling
+journal_nlm_ta: J Cell Commun Signal
+publisher_name: Springer Netherlands
+
+keywords:
+- β2-Adrenergic receptor
+- Catecholamines
+- CCN5
+- CCN2
+- Myocardial infarction
+- Primary cardiac fibroblasts
+
+---

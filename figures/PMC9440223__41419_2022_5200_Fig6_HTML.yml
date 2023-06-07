@@ -1,0 +1,54 @@
+---
+figid: PMC9440223__41419_2022_5200_Fig6_HTML
+pmcid: PMC9440223
+image_filename: 41419_2022_5200_Fig6_HTML.jpg
+figure_link: /pmc/articles/PMC9440223/figure/Fig6/
+number: Fig. 6
+figure_title: KCTD9 regulates the stability of β-catenin
+caption: A Western blot analysis comparing the expression of β-catenin in SW620 cells
+  without (pCDH) or with overexpression of KCTD9 (pCDH-KCTD9) in untreated or MG132
+  treated cells (10 μM MG132 for 12 h). β-actin was used as a loading control throughout.
+  Data shown represent three independent experiments (bottom) and relative density
+  were quantified by using ImageJ software (top). B, C Western blot comparing the
+  expression of β-catenin in SW620 cells without (pCDH) or with overexpression of
+  KCTD9 (pCDH-KCTD9) after treatment with cycloheximide (50 μg/ml) for the indicated
+  times. Accompanying densitometric quantitation of β-catenin relative to β-actin
+  (C). D, E Western blot comparing the expression of β-catenin in SW620 cells without
+  (sh-ctrl) or with knockdown of ZNT9 (shZNT9) after treatment with cycloheximide
+  (50 μg/ml) for the indicated times. Accompanying densitometric quantitation of β-catenin
+  relative to β-actin (E). D Represent three independent experiments. F SW620 cells
+  were infected with the indicated combinations of sh-ctrl, sh-ZNT9, pCDH, or pCDH-KCTD9
+  lentiviruses, followed by co-transfection with HA-ubiquitin. Cells were then pretreated
+  with MG132 (10 μM) for 12 h before immunoprecipitating β-catenin with polyubiquitination
+  detected using anti-HA antibodies. Data shown represent three independent experiments.
+  G Western blot comparing the levels of KCTD9, β-catenin, E-cadherin, N-Cadherin,
+  SNAIL, vimentin, c-Myc, cyclin D1, and MMP-7 in HCT-116 cells infected with the
+  indicated combinations of sh-ctrl, sh-KCTD9, and sh-β-catenin lentiviruses. Data
+  shown represent three independent experiments (left) and relative density were quantified
+  by using ImageJ software (right). H qPCR analysis of samples from G comparing the
+  mRNA levels of c-Myc, cyclin D1, and MMP-7. I Assessment of cell viability in the
+  cells from G measured using CCK-8 assays. J Assessment of proliferation in the cells
+  from G measured using Count Star (Countstar BioTech) over 1–4 days by cell counting.
+  K–M Assessment of migration and invasion in the cells from G using Transwell™ assays.
+  Representative images of migrating/invading cells after 24 h (scale bar=200 µm)
+  K with comparative quantitation of total migrating (L) or invading (M) cells. K
+  Represent three independent experiments. A, G, I, L, M are mean ± SD; n = 3 independent
+  experiments, one-way ANOVA with Tukey’s multiple comparison post-test, ns, not significant,
+  *p < 0.05, **p < 0.01, ***p < 0.001. C, E, H, J are mean ± SD, n = 3 independent
+  experiments, two-way ANOVA with Bonferroni’s multiple comparison post-test, ns not
+  significant, **p < 0.01, ***p < 0.001.
+article_title: KCTD9 inhibits the Wnt/β-catenin pathway by decreasing the level of
+  β-catenin in colorectal cancer.
+citation: Hanhui Yao, et al. Cell Death Dis. 2022 Sep;13(9):761.
+year: '2022'
+
+doi: 10.1038/s41419-022-05200-1
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Colon cancer
+- Epithelial-mesenchymal transition
+
+---

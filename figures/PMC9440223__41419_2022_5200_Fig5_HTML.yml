@@ -1,0 +1,54 @@
+---
+figid: PMC9440223__41419_2022_5200_Fig5_HTML
+pmcid: PMC9440223
+image_filename: 41419_2022_5200_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC9440223/figure/Fig5/
+number: Fig. 5
+figure_title: KCTD9 binding to ZNT9 competes with ZNT9 binding to β-catenin
+caption: A Protein-protein interaction network predicted for KCTD9 using the Search
+  Tool for Retrieval of Interacting Genes/Proteins (STRING) database. B Recombinant
+  Flag-tagged (3xF)-KCTD9 was immunoprecipitated from HCT-116 cells to identify putative
+  KCTD9-binding proteins. Coomassie blue-stained SDS-PAGE gel compares control IgG
+  versus Flag immunoprecipitates with the highlighted bands identified as KCTD9 and
+  ZNT9 using mass spectrometry. Data shown represent three independent experiments.
+  C Venn diagram showing intersecting candidate KCTD9-binding proteins identified
+  from the analyses in A, B. D, E Western blotting verification that ZNT9 co-precipitates
+  with ectopically expressed 3xF-KCTD9 and conversely that KCTD9 co-precipitates with
+  ZNT9 in HCT-116 cells. Data shown represent three independent experiments. F Western
+  blotting analysis of ZNT9, E-cadherin, N-cadherin, vimentin, and SNAIL in LoVo and
+  SW620 cells after knockdown of ZNT9. Data shown represent three independent experiments
+  (top) and relative density were quantified by using ImageJ software (bottom). G
+  Western blotting analysis of β-catenin, c-Myc, cyclin D1, and MMP-7 in total cell
+  lysates and β-catenin in nuclear isolates of the ZNT9 knockdown cells from (F).
+  β-actin and PCNA were used as loading controls for total and nuclear proteins, respectively.
+  Data shown represent three independent experiments (top) and relative density were
+  quantified by using ImageJ software (bottom). H, I SW620 cells were transfected
+  with the indicated constructs and immunoprecipitation (IP) analyses used to detect
+  protein-domain interactions between KCTD9 and the indicated HA-tagged constructs
+  of ZNT9 (FL, P1, P2, and P3) or ZNT9 and the indicated Flag-tagged constructs of
+  KCTD9 (FL, P1, and P2). Data shown represent three independent experiments. J, K
+  Co-immunoprecipitation assays were conducted in SW620 cells measuring interactions
+  between β-catenin and ZNT9 and ZNT9 and β-catenin in the absence or presence of
+  KCTD9 overexpression. Data shown represent three independent experiments (left)
+  and relative density were quantified by using ImageJ software (right). L Mammalian
+  two-hybrid assays in SW620 cells measuring interactions between ZNT9 and β-catenin
+  in the absence or presence of KCTD9 overexpression. F, G are mean ± SD; n = 3 independent
+  experiments, one-way ANOVA with Tukey’s multiple comparison post-test, *p < 0.05,
+  **p < 0.01, ***p < 0.001. J, K are mean ± SD, n = 3 independent experiments, two-tailed
+  Student’s t test, **p < 0.01. L Is mean ± SD, n = 3 independent experiments, two-way
+  ANOVA with Bonferroni’s multiple comparison post-test, **p < 0.01.
+article_title: KCTD9 inhibits the Wnt/β-catenin pathway by decreasing the level of
+  β-catenin in colorectal cancer.
+citation: Hanhui Yao, et al. Cell Death Dis. 2022 Sep;13(9):761.
+year: '2022'
+
+doi: 10.1038/s41419-022-05200-1
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Colon cancer
+- Epithelial-mesenchymal transition
+
+---

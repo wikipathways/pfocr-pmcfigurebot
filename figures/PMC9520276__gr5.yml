@@ -1,0 +1,100 @@
+---
+figid: PMC9520276__gr5
+pmcid: PMC9520276
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC9520276/figure/fig5/
+number: Fig. 5
+figure_title: ''
+caption: BNIP3-mediated mitophagy activation decreases mtDNA release and STING-NLRP3
+  activation in Xbp1-deficient macrophages.(A) Western blot was performed to examine
+  intracellular BNIP3, LC3B, and p62 protein levels in LPS-stimulated Xbp1M-KO BMDMs
+  transfected with SCR-siRNA or Bnip3-siRNA. Statistical analysis was carried out
+  using the Student t test. (B) Autophagic microstructures in mitochondria in LPS-stimulated
+  Xbp1M-KO BMDMs transfected with SCR-siRNA or Bnip3-siRNA were examined by transmission
+  electron microscopy, 5,000 × magnification; scale bars, 2 μm. Arrowheads, mitophagy.
+  (C) The levels of ROS in LPS-stimulated Xbp1M-KO BMDMs transfected with SCR-siRNA
+  or Bnip3-siRNA were examined by DCFH-DA (original magnification 200 × ). (D) Relative
+  total mtDNA amounts in LPS-stimulated Xbp1M-KO BMDMs transfected with SCR-siRNA
+  or Bnip3-siRNA were determined using qPCR with primers specific for mtDNA (D-loop)
+  and nuclear DNA (Tert); n = 3 biological replicates/group; Student t test. (E) mtDNA
+  released from mitochondria in Xbp1M-KO BMDMs transfected with SCR-siRNA or Bnip3-siRNA,
+  as shown by confocal microscopy. Arrowheads, mtDNA released into cytoplasm. (F)
+  The mitochondrial membrane potential of Xbp1M-KO BMDMs transfected with SCR-siRNA
+  or Bnip3-siRNA was determined by TMRM staining. (G) The levels of ROS in LPS-stimulated
+  Xbp1FL/FL BMDMs treated with PBS or MitoTEMPO were examined using DCFH-DA (original
+  magnification 200 × ). (H) Relative amounts of total cytosolic mtDNA in LPS-stimulated
+  Xbp1FL/FL BMDMs treated with PBS or MitoTEMPO were determined using qPCR with primers
+  specific for mtDNA (D-loop) and nuclear DNA (Tert); n = 3 biological replicates/group;
+  Student t test. (I) Schematic showing the administration protocol for mannose-conjugated
+  SCR-siRNA and Bnip3-siRNA in CCl4-, BDL-, and MCD-induced murine liver fibrosis
+  models for the experiments shown in (J). (J) Xbp1M-KO male mice were subjected to
+  CCl4-, BDL-, or MCD-induced experimental fibrosis and injected with SCR-siRNA or
+  Bnip3-siRNA via the tail vein, and the collected livers were subjected to H&E and
+  Sirius Red staining and α-SMA immunohistochemical analysis; scale bar=100 μm. Representative
+  of 6 mice/group. (K) The proportions of the Sirius Red- and α-SMA-positive areas
+  were quantified; n = 6 mice/group; 1-way ANOVA. The values are shown as mean ± SD.
+  Statistical significance was assessed by Student t test or ANOVA. ∗∗p <0.01. BMDMs,
+  bone marrow-derived macrophages; BNIP3, BCL2/adenovirus E1B interacting protein
+  3; LC3B, microtubule-associated protein 1 light chain 3 beta; LPS, lipopolysaccharide;
+  NLRP3, nucleotide-binding oligomerization domain, leucine-rich repeat and pyrin
+  domain-containing 3; p62, sequestosome 1; ROS, reactive oxygen species; STING, stimulator
+  of interferon genes; XBP1, X-box binding protein 1.
+article_title: XBP1-mediated activation of the STING signalling pathway in macrophages
+  contributes to liver fibrosis progression.
+citation: Qi Wang, et al. JHEP Rep. 2022 Nov;4(11):100555.
+year: '2022'
+
+doi: 10.1016/j.jhepr.2022.100555
+journal_title: JHEP Reports
+journal_nlm_ta: JHEP Rep
+publisher_name: Elsevier
+
+keywords:
+- XBP1
+- Macrophage
+- Liver fibrosis
+- mtDNA
+- STING
+- BNIP3
+- Mitophagy
+- Acta2/α-SMA, actin, alpha 2, smooth muscle, aorta
+- BDL, bile duct ligation
+- BMDMs, bone marrow-derived macrophages
+- BNIP3, BCL2/adenovirus E1B interacting protein 3
+- CCl4, carbon tetrachloride
+- cGAS, cyclic GMP-AMP synthase
+- ChIP, chromatin immunoprecipitation
+- CM, conditional media
+- Col1a1, collagen, type I, alpha 1
+- DMXAA, 5,6-dimethylxanthenone-4-acetic acid
+- ER, endoplasmic reticulum
+- EtBr, ethidium bromide
+- HSC, hepatic stellate cell
+- IRE1α, inositol-requiring enzyme-1α
+- IRF3, interferon regulatory factor 3
+- KEGG, Kyoto Encyclopedia of Genes and Genomes
+- LC3B, microtubule-associated protein 1 light chain 3 beta
+- LPS, lipopolysaccharide
+- MCD, methionine/choline-deficient diet
+- MnSOD, manganese superoxide dismutase
+- mtDNA, mitochondrial DNA
+- NAFLD, non-alcoholic fatty liver disease
+- NASH, non-alcoholic steatohepatitis
+- NLRP3, nucleotide-binding oligomerization domain, leucine-rich repeat and pyrin
+  domain-containing 3
+- p62, sequestosome 1
+- PBMCs, peripheral blood mononuclear cells
+- ROS, reactive oxygen species
+- shRNAs, short hairpin RNAs
+- STING, stimulator of interferon genes
+- sXBP1, spliced XBP1
+- TBK1, TANK binding kinase 1
+- TGF-β1, transforming growth factor beta 1
+- Timp1, tissue inhibitor of matrix metalloproteinase 1
+- TLR, Toll-like receptor
+- TNF-α, tumour necrosis factor alpha
+- uXBP1, unspliced XBP1
+- WT, wild-type
+- XBP1, X-box binding protein 1
+
+---
