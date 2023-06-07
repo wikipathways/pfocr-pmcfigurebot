@@ -123,8 +123,7 @@ for (k in 1:2){
       page.count <- xml2::read_html(remDr$getPageSource()[[1]]) %>%
         rvest::html_nodes(".title_and_pager") %>%
         rvest::html_node(".pagination")
-      pagination <- as.integer(sub("Items: ","",page.count[1]))
-      if (is.na(pagination)){
+      if (is.na(page.count[1])){
         page.count <- 0
       } else {
         page.count <- page.count %>%
