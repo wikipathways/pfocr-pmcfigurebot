@@ -1,0 +1,42 @@
+---
+figid: PMC9132450__sciadv.abl9806-f3
+pmcid: PMC9132450
+image_filename: sciadv.abl9806-f3.jpg
+figure_link: /pmc/articles/PMC9132450/figure/F3/
+number: Fig. 3
+figure_title: The Hippo pathway mediates the biological functions of SEMA3s
+caption: (A) SEMA3B is down-regulated in lung cancers. ****P < 0.0001, Wilcoxon matched-pairs
+  signed-rank test. LUSC, lung squamous cell carcinoma. RSEM, RNA-seq by expectation-maximization.
+  (B) Deletion of LATS1/2 in NCI-H1299 cells block SEMA3B-induced YAP/TAZ phosphorylation.
+  The left panel shows the KO efficiency of LATS1 and LATS2, while the right panel
+  shows YAP phosphorylation by SEMA3B. (C) Suppression of anchorage-independent colony
+  formation in NCI-H1299 cells by SEMA3B requires LATS1/2. A representative image
+  was shown for triplicates in each group. Notably, LATS1/2 dKO formed larger colonies,
+  and SEMA3B still reduced colony size in LATS1/2 dKO cells, suggesting that SEMA3B
+  may attenuate colony growth by additional mechanisms. (D) Quantification of (C).
+  ***P < 0.001, two-tailed t test, n = 3; n = 3. (E) Inhibition of NCI-H1299 xenograft
+  volume by SEMA3B requires LATS1/2. ****P < 0.0001, two-way analysis of variance
+  (ANOVA) test, n = 8. The results shown here are representative of two independent
+  animal trials. (F) Measurement of tumor weights. **P < 0.01, two-tailed t test,
+  n = 8. (G) Deletion of LATS1/2 in HUVECs blocks YAP phosphorylation induced by SEMA3A-conditioned
+  medium. (H) Recombinant SEMA3A proteins inhibit tube formation of WT but not LATS1/2
+  dKO HUVECs. (I) Hematoxylin and eosin staining of an in vivo plug assay using WT
+  and LATS1/2 dKO HUVECs inoculated into nonobese diabetic/severe combined immunodeficient
+  mice. SEMA3A gene expression was introduced to the cells by lentiviral transduction.
+  Mature blood vessels with blood are shown in the representative images. Scale bars,
+  50 μm. (J) CD31 staining of endothelial cells in the plugs. Scale bars, 20 μm. (K)
+  Quantification and statistical analysis of (J). **P < 0.01, S3A versus Ctrl, Student’s
+  t test was performed. (L) Conditioned medium from SEMA3B-restored NCI-H1299 cells,
+  but not from the control cells, inhibits transwell migration of HUVECs in a LATS1/2-dependent
+  manner.
+article_title: The Hippo pathway mediates Semaphorin signaling.
+citation: Zhipeng Meng, et al. Sci Adv. 2022 May;8(21):eabl9806.
+year: '2022'
+
+doi: 10.1126/sciadv.abl9806
+journal_title: Science Advances
+journal_nlm_ta: Sci Adv
+publisher_name: American Association for the Advancement of Science
+
+keywords:
+---

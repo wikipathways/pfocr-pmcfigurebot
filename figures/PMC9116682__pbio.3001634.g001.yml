@@ -1,0 +1,53 @@
+---
+figid: PMC9116682__pbio.3001634.g001
+pmcid: PMC9116682
+image_filename: pbio.3001634.g001.jpg
+figure_link: /pmc/articles/PMC9116682/figure/pbio.3001634.g001/
+number: Fig 1
+figure_title: Melanogenesis is coupled to transcriptional activation of metabolic
+  genes
+caption: (A) Schematic diagram illustrating the assay setup where culturing B16 cells
+  at low density of 100 cells/cm2 (Top) results in the transition of melanocyte from
+  depigmented (day 0) to pigmented state (day 6) as shown in the pellet images (N
+  = 3) (Bottom). Quantitative analysis of melanin intensity of the pellets is shown
+  in the line graph (Between). Mean ± SEM is plotted for 3 biological replicates.
+  One-way ANOVA is applied, F(3,8) = 18.28. p-Value = 0.0006. Turkey’s test is performed
+  for pairwise comparison. (B) Representative western blot of key pigmentation proteins,
+  MITF, PMEL, TYR, and DCT on days 3 to 6 (D3 to D6) (N = 3). Arrows mark the sizes
+  of molecular weight markers written in kDa. Numerical values show average fold change
+  for 3 biological replicates. (C) Heatmap depicting relative mean expression levels
+  of pigmentation proteins wrt D3 for 3 independent experiments. Scale from red to
+  green represents the z-scores of fold change (below). (D) Heatmap represents 1,493
+  DEGs with an adjusted p-value < 0.001 obtained from time-course analysis performed
+  using the LRT test for 2 independent biological replicates. Scale from blue to red
+  represents z-score from ‒1 to +1. Hierarchical clustering was performed on the expression
+  data of 1,493 DEGs into 7 clusters. (E) KEGG pathway enrichment analysis was done
+  for DEGs with adjusted p-value < 0.001 up-regulated on days 3, 4, 5, and 6. Bubble
+  plot depicts the enrichment of pathways on different days, where the size of bubble
+  represents the gene ratio and colour represents the p-value. (F) Representative
+  confocal microscopy images show lipid droplet accumulation in B16 cells during pigmentation.
+  Images were taken at 63×. Scale is 5 μm. (G) Violin plot depicting the quantitation
+  of total volume of lipid droplets per cell using VOLOCITY software. Approximately
+  25 to 30 cells are taken in each replicate. Mean ± SEM is plotted in 3 independent
+  biological replicates. One-way ANOVA is applied, F(2,52) = 11.45. p-Value < 0.0001.
+  Turkey’s test is performed for pairwise comparison. ***p-Value = 0.0001, **p-value
+  = 0.034. ns is not significant. (H) Dot plot depicting the quantitation of size
+  of individual lipid droplets (as volume spread of lipid droplets) using VOLOCITY
+  software. Approximately 25 to 30 cells are taken in each replicate. Mean ± SEM is
+  plotted in 3 independent biological replicates. One-way ANOVA is applied, F(2,262)
+  = 3.54. p-Value = 0.0303. Turkey’s test is performed for pairwise comparison. Quantitative
+  data are provided in  for Panels A, C, G, and H. Quantitative data for Panels D
+  and E are provided in . DEG, differentially expressed gene; LRT, likelihood-ratio
+  test.
+article_title: Temporal analysis of melanogenesis identifies fatty acid metabolism
+  as key skin pigment regulator.
+citation: Farina Sultan, et al. PLoS Biol. 2022 May;20(5):e3001634.
+year: '2022'
+
+doi: 10.1371/journal.pbio.3001634
+journal_title: PLoS Biology
+journal_nlm_ta: PLoS Biol
+publisher_name: Public Library of Science
+
+keywords:
+---

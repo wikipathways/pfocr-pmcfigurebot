@@ -1,0 +1,47 @@
+---
+figid: PMC9038766__41396_2021_1119_Fig1_HTML
+pmcid: PMC9038766
+image_filename: 41396_2021_1119_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC9038766/figure/Fig1/
+number: Fig. 1
+figure_title: Propionate suppresses the cell growth of HCT116 and LS174T cells via
+  cell apoptosis
+caption: A, B Cell growth assay after sodium propionate treatment for 48 h. HCT116
+  and LS174T cells were fixed in 100% methanol and stained with crystal violet solution.
+  Scale bar, 200 μm (A). Cells were incubated for 5 min at 37 °C after adding CCK-8
+  solution. The intensity of cell growth was measured using a microplate reader (450 nm).
+  Mean ± SD of three independent experiments. p values were calculated using Student’s
+  t-test (***p < 0.001) (B). C Western blot analysis after sodium propionate treatment
+  using anti-PARP. ACTB was used as the internal control in HCT116 and LS174T cells.
+  The signal intensities were quantified using ImageJ software. D FACS analysis using
+  Muse Caspase 3/7 working solution was performed after sodium propionate treatment.
+  The upper right panel indicates the apoptotic and dead cell proportions (left).
+  Quantification of caspase 3/7 activity. Mean ± SD of three independent experiments.
+  p values were calculated using Student’s t-test (***p < 0.001, **p < 0.01) (right).
+  E FACS analysis of Annexin V staining was performed after sodium propionate treatment.
+  The lower right and upper right quadrants indicate early apoptosis and late apoptosis
+  (left). Quantification of apoptosis. Mean ± SD of three independent experiments.
+  p values were calculated using Student’s t-test (***p < 0.001) (right). F DAVID-based
+  GO analysis of RNA-seq results of the up- and downregulated genes among the 872
+  genes. G DAVID-based KEGG pathway analysis of 872 genes. The enriched terms are
+  shown. H GSEA using 872 genes. I Representative images of the morphology of hIOs
+  after treatment with varying concentrations of propionate. Scale bar, 500 μm. J
+  Cell viability assessed by the CCK assay in hIO treated with the indicated concentrations
+  of propionate. n = 3 per group. Mean ± SD of three independent experiments. p values
+  were calculated using Student’s t-test (n.s. nonsignificant).
+article_title: Human gut-microbiome-derived propionate coordinates proteasomal degradation
+  via HECTD2 upregulation to target EHMT2 in colorectal cancer.
+citation: Tae Young Ryu, et al. ISME J. 2022 May;16(5):1205-1221.
+year: '2022'
+
+doi: 10.1038/s41396-021-01119-1
+journal_title: The ISME Journal
+journal_nlm_ta: ISME J
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Colorectal cancer
+- Transcriptomics
+- Functional genomics
+
+---

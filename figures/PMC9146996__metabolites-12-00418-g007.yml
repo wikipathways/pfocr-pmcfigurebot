@@ -1,0 +1,60 @@
+---
+figid: PMC9146996__metabolites-12-00418-g007
+pmcid: PMC9146996
+image_filename: metabolites-12-00418-g007.jpg
+figure_link: /pmc/articles/PMC9146996/figure/metabolites-12-00418-f007/
+number: Figure 7
+figure_title: ''
+caption: 'Searching for pathways of sphingolipid metabolism in the genome of L. gormanii
+  ATCC 33297. (A) Mapping the L. gormanii ATCC 33297 genome annotation to the KEGG
+  sphingolipid metabolism pathway map (map00600). Chemical compounds are represented
+  as circles, and gene products are represented as rectangles. The two important entry
+  enzymes in the pathway: serine palmitoyltransferase (SPT, EC 2.3.1.50, K00654) and
+  sphingomyelin phosphodiesterase (SMPD1, 3.1.4.12, K12350) are outlined in red. Green
+  rectangles represent enzymes found in the genome of L. gormanii ATCC 33297 via KofamKOALA
+  and with assigned KO identifiers. For the first step of sphingolipid synthesis,
+  i.e., condensation between serine and the acyl-CoA thioester, no SPT enzyme was
+  found in the L. gormanii ATCC 33297 genome, based on the standard thresholds for
+  KO identification. However, there are sequences encoding SPT protein homologues
+  (8-amino-7-oxononanoate synthase, locus tag: A8O30_RS00250; 2-amino-3-oxobutyrate
+  coenzyme A ligase, locus tag: A8O30_RS04185) present, belonging to the bacterial
+  α-oxoamine synthases family. In the case of SMPD1, which catalyzes the breakdown
+  of sphingomyelin into ceramide and phosphatidylcholine, although KO identification
+  failed to assign this function, the homologue of predicted sphingomyelinase encoded
+  by the lpp2641 L. pneumophila str. Paris gene with a level of identity of 61% was
+  found in the L. gormanii ATCC 33297 genome. (B) Multiple protein sequence alignment
+  of reference bacterial SPT from Sphingomonas paucimobilis (Q93UV0_SPHPI) and SPT
+  homologues present in the genome of L. gormanii ATCC 33297. The color-coded bar
+  at the top indicates the conservation degree. Below, there is the consensus sequence.
+  In addition, the recognized Pfam domain (Pfam_Aminotran_1_2) is marked with a green
+  rectangle, which indicates the presence of certain mechanistic features, such as
+  the covalent binding of the pyridoxal-phosphate group to a lysine residue. The level
+  of identity between Sphingomonas paucimobilis SPT and L. gormanii ATCC 33297 homologues
+  is at the level of 30%. The alignment was generated using the Multiple Sequence
+  Comparison by Log-Expectation (MUSCLE) algorithm in SnapGene (GSL Biotech). (C)
+  Comparison of genomic regions encoding SMPD1 between in L. pneumophila str. Paris
+  and L. gormanii ATCC33297. The individual coding sequences are marked with arrows
+  according to their orientation. Above is the locus tag for the individual coding
+  sequence in the GenBank database. The color lines joining the two regions indicate
+  the level of identity above the designated threshold (0.22) for specific proteins.
+  There are four CDSs with significant similarity within the analyzed regions coding
+  for SGNH/GDSL hydrolase (violet), sphingomyelinase (red), D-alanyl-D-alanine carboxypeptidase
+  (green), and ParB partition protein (green). This may indicate a common evolutionary
+  origin of SMPD1 in these species. The comparison and visualization were made using
+  the clinker tool.'
+article_title: Unusual Lipid Components of Legionella gormanii Membranes.
+citation: Elżbieta Chmiel, et al. Metabolites. 2022 May;12(5):418.
+year: '2022'
+
+doi: 10.3390/metabo12050418
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: MDPI
+
+keywords:
+- Legionella gormanii
+- phosphatidylcholine
+- ceramides
+- lipidomic analysis
+
+---

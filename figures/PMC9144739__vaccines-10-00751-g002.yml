@@ -1,0 +1,69 @@
+---
+figid: PMC9144739__vaccines-10-00751-g002
+pmcid: PMC9144739
+image_filename: vaccines-10-00751-g002.jpg
+figure_link: /pmc/articles/PMC9144739/figure/vaccines-10-00751-f002/
+number: Figure 2
+figure_title: ''
+caption: Applied and experimental bacterial vaccines. Today, established bacterial
+  vaccines that are in use are the immunizations with WCA, recombinant proteins including
+  toxoids, polysaccharide/protein conjugates, live attenuated vaccines (LAV), and,
+  since the last few years, also bacterial outer membrane vesicles (OMVs). Vaccination
+  with WCA, bacterial ghosts (BGs), and recombinant proteins/toxoids predominantly
+  results in the processing of protein components for the presentation via MHCII and
+  the activation predominantly of CD4+ T cells. In addition, antigen-specific activated
+  B cells produce high-affinity IgG antibodies with the help of CD4+ T cells, and
+  a memory response is induced. In the case of polysaccharide/protein conjugates,
+  the carrier protein serves as the protein component that can be recognized by CD4+
+  T cells. This enables B cells to produce high-affinity IgG antibodies against the
+  polysaccharide instead of the production of low-affinity IgM without T cell help.
+  Immunization against intracellular bacterial pathogens requires the activation of
+  cytotoxic CD8+ T cells, which is usually not efficiently achieved with these methods.
+  Antigens recognized by CD8+ T cells predominantly derive from cytosolic proteins
+  that are degraded by the proteasome and further processed for the presentation via
+  MHCI. A major difficulty of efficient vaccination against intracellular bacterial
+  pathogens lies in the introduction of immunogens into the cytosol of host cells.
+  This can be achieved by the use of OMVs, LAV, viral vectors, bacterial vectors,
+  immunization with DNA or mRNA, and the use of the T3SS translocation system of bacteria
+  such as Salmonella. Immunization with OMVs and LAV results in both antigen presentation
+  by MHCII and MHCI molecules for the activation of CD4+ and CD8+ T cells, whereby
+  the mechanisms of MHCI presentation in the case of OMV immunization are not well
+  understood and may be a result of cross presentation, either by the release of proteins
+  from the lysosome into the cytosol or by fusion of lysosomes with MHCI-containing
+  vesicles. LAV may release proteins into the cytosol. In addition, surface proteins
+  may be accessible to the proteasome for processing via the MHCI presentation pathway.
+  The most frequently used viral vectors for vaccination are adenoviruses and modified
+  vaccinia virus Ankara (MVA). Adenoviruses translocate their double-stranded (ds)
+  DNA genome into the nucleus of non-dividing cells for replication. Viral mRNA transcription
+  products are exported into the cytosol of the infected cells where ribosomal translation
+  occurs. In contrast, MVA, which also carries a dsDNA genome, has a unique replication
+  cycle that is restricted to the cytosol. In both cases, proteins are expressed in
+  the cytosol of infected cells, which has also been shown for bacterial vectors that
+  carry plasmid DNA with eukaryotic expression cassettes for the expression of immunogens.
+  Cytosolic protein expression is also achieved by the direct transfection of target
+  cells with either DNA or mRNA. While mRNA is transferred directly into the cytosol
+  for protein translation, DNA has to enter the nucleus of the target cell for transcription,
+  which is usually more efficiently achieved with viral vectors. Finally, a rather
+  experimental approach to the introduction of antigens into the cytosol of target
+  cells is the use of recombinant attenuated bacteria such as Salmonella that possess
+  a T3SS translocation system. This system allows active and direct injection of proteins
+  into the cytosol of target cells. In contrast to the use of WCA and LAV, all other
+  methods generally require knowledge of the immunogenic determinants of the pathogen
+  to prepare recombinant vaccines.
+article_title: 'Vaccination against Bacterial Infections: Challenges, Progress, and
+  New Approaches with a Focus on Intracellular Bacteria.'
+citation: Anke Osterloh. Vaccines (Basel). 2022 May;10(5):751.
+year: '2022'
+
+doi: 10.3390/vaccines10050751
+journal_title: Vaccines
+journal_nlm_ta: Vaccines (Basel)
+publisher_name: MDPI
+
+keywords:
+- extracellular and intracellular bacteria
+- vaccine
+- immunity
+- antigens
+
+---
