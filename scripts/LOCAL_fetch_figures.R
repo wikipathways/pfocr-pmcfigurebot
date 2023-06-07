@@ -122,317 +122,327 @@ for (k in 1:2){
     if (is.na(item.count))  {
       page.count <- xml2::read_html(remDr$getPageSource()[[1]]) %>%
         rvest::html_nodes(".title_and_pager") %>%
-        rvest::html_node(".pagination") %>%
-        rvest::html_nodes("a") %>%
-        rvest::html_attr("page")
-      page.count <- as.integer(page.count[4])
+        rvest::html_node(".pagination")
+      pagination <- as.integer(sub("Items: ","",page.count[1]))
+      if (is.na(pagination)){
+        page.count <- 0
+      } else {
+        page.count <- page.count %>%
+          rvest::html_nodes("a") %>%
+          rvest::html_attr("page")
+        page.count <- as.integer(page.count[4])
+      }
     }
     
     cat(paste("\n",page.count," pages of results"), file="figures/fetch.log", append = T)
     
-    exfigids <- read.table(config$exclude_figids, sep = "\t", stringsAsFactors = F)[,1]
-    
-    res.fig.count <- 0
-    
-    for (i in 1:page.count){
-      cat(sprintf("\nPage %i of %i", i, page.count))
-      cat(sprintf("\nPage %i of %i", i, page.count), file="figures/fetch.log", append = T)
-      ## Parse page
-      page.source <- NULL
-      get.page.flag <- FALSE
-      for (p in 1:5){
-        page.source <- tryCatch({
-          xml2::read_html(remDr$getPageSource()[[1]])
-        }, error = function(e) {
-          NULL
-        })
-        if (is.null(page.source) || inherits(page.source, "try-error")){
-          Sys.sleep(3)
-          next
-        } else {
-          get.page.flag <- TRUE
-          break
-        }
-      }
-      if(!get.page.flag){
-        ## Exit out of page loop if page read fails
-        reload.flag <- TRUE
-        break
-      }
-      image_filename <- page.source %>%
-        rvest::html_nodes(".rprt_img") %>%
-        rvest::html_node("img") %>%
-        rvest::html_attr("src-large") %>%
-        stringr::str_match("bin/(.*\\.jpg)") %>%
-        as.data.frame() %>%
-        dplyr::select(2) %>%
-        as.matrix() %>%
-        as.character()
+    if (page.count > 0){ # if any results
       
-      ## check for results
-      if(!length(image_filename) > 0){
-        cat("\n0 results")
-        cat("\n0 results", file="figures/fetch.log", append = T)
-      } else {
-        titles <- page.source %>%
-          rvest::html_nodes(".rprt_img") %>%
-          rvest::html_node(xpath='..') %>%
-          rvest::html_node(".rprt_cont") %>%
-          rvest::html_node(".title") %>%
-          rvest::html_text() %>%
-          stringr::str_split("\\s+From: ", simplify = TRUE)
-        article_title <- titles[,2] %>% 
-          stringr::str_trim()
-        number <- page.source %>%
-          rvest::html_nodes(".rprt_img") %>%
-          rvest::html_node("img") %>%
-          rvest::html_attr("alt")
-        caption <- page.source %>%
-          rvest::html_nodes(".rprt_img") %>%
-          rvest::html_node(xpath = "..") %>%
-          rvest::html_node(".rprt_cont") %>%
-          rvest::html_node(".supp") %>%
-          rvest::html_text()
-        figure_link <- page.source %>%
-          rvest::html_nodes(".rprt_img") %>%
-          rvest::html_attr("image-link")
-        citation <- page.source %>%
-          rvest::html_nodes(".rprt_img") %>%
-          rvest::html_node(xpath='..') %>%
-          rvest::html_node(".rprt_cont") %>%
-          rvest::html_node(".aux") %>%
-          rvest::html_text() %>%
-          stringr::str_remove(stringr::fixed("CitationFull text"))
-        pmcid <- page.source %>%
-          rvest::html_nodes(".rprt_img") %>%
-          rvest::html_node(xpath='..') %>%
-          rvest::html_node(".rprt_cont") %>%
-          rvest::html_node(".title") %>%
-          rvest::html_node("a") %>%
-          rvest::html_attr("href") %>%
-          stringr::str_match("PMC\\d+") %>%
-          as.character()
-        
-        ## Extract best figure title from analysis of provided figure number, title and caption
-        temp.df <- data.frame(n = number, t = titles[, 1], c = caption, stringsAsFactors = FALSE) %>%
-          dplyr::mutate(t = str_trim(str_remove(
-            t, stringr::fixed(
-              as.character(
-                if_else(
-                  number != "",
-                  number,
-                  "a string just to suppress the empty search patterns warning message"
-                )
-              )
-            )
-          ))) %>%
-          dplyr::mutate(t = str_trim(str_remove(
-            t,
-            "\\.$"
-          ))) %>%
-          dplyr::mutate(t = if_else(!is.na(str_match(t,"^\\. .*")[,1]),
-                                    str_remove(t, "^\\. "), 
-                                    t)) %>%
-          dplyr::mutate(c = str_trim(str_replace(
-            c,
-            "\\.\\.", "\\."
-          ))) %>%
-          dplyr::mutate(c = if_else(is.na(c), t, c)) %>%
-          dplyr::mutate(t = str_trim(str_remove(
-            t,
-            "\\.+$"
-          ))) %>%
-          dplyr::mutate(n = str_trim(str_replace(n, "\\.$", "")))
-        number <- as.character(temp.df[, 1])
-        figure_title <- as.character(temp.df[, 2])
-        caption <- as.character(temp.df[, 3])
-        
-        ## Construct a few more fields
-        figid <- paste(pmcid, sub(".jpg$", "", image_filename), sep = "__")
-        year <- rep(substr(from.date,1,4), length(image_filename)) # if not in citation
-        cit.year <- stringr::str_extract(citation, "(?<=\\s)\\d{4}") # try citation
-        year <- ifelse(!is.na(cit.year), cit.year, year) # keep citation if found
-        
-        ## Prepare df
-        df <- data.frame(figid, pmcid, image_filename, figure_link, number, figure_title, caption, article_title, citation, year) 
-        df <- unique(df)
-        
-        ## Log run
-        cat(paste("\n",nrow(df), "results"), file="figures/fetch.log", append = T)
-        
-        page.fig.count <- 0
-        
-        ## For each figure...
-        for (a in 1:nrow(df)){
-          # check exclude list
-          if (df[a,"figid"] %in% exfigids)
-            next
-          
-          cat(sprintf("\nFigure %i of %i (%i)", a, nrow(df),res.fig.count+1))
-          
-          #slice of df from above
-          article.data <- df[a,]
-          
-          #################
-          ## MORE METADATA
-          #################
-          md.query <- paste0("https://www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi?verb=GetRecord&identifier=oai:pubmedcentral.nih.gov:",gsub("PMC","", article.data$pmcid),"&metadataPrefix=pmc_fm")
-          
-          md.source <- NULL
-          get.md.flag <- FALSE
-          for (m in 1:5){
-            md.source <- tryCatch({
-              xml2::read_html(md.query) 
-            }, error = function(e) {
-              NULL
-            })
-            if (is.null(md.source) || inherits(md.source, "try-error")){
-              Sys.sleep(3)
-              next
-            } else {
-              get.md.flag <- TRUE
-              break
-            }
-          }
-          if(!get.md.flag){
-            ## Exit out of page loop if metadata read fails
-            reload.flag <- TRUE
-            break
-          }
-          doi <- md.source %>%
-            rvest::html_node(xpath=".//article-id[contains(@pub-id-type, 'doi')]") %>%
-            rvest::html_text()
-          journal_title <- md.source %>%
-            rvest::html_node(xpath=".//journal-title") %>%
-            rvest::html_text()
-          journal_nlm_ta <- md.source %>%
-            rvest::html_node(xpath=".//journal-id[contains(@journal-id-type, 'nlm-ta')]") %>%
-            rvest::html_text()
-          journal_iso_abbrev <- md.source %>%
-            rvest::html_node(xpath=".//journal-id[contains(@journal-id-type, 'iso-abbrev')]") %>%
-            rvest::html_text()
-          publisher_name <- md.source %>%
-            rvest::html_node(xpath=".//publisher-name") %>%
-            rvest::html_text()
-          keywords <- md.source %>% 
-            rvest::html_nodes(xpath=".//kwd") %>% 
-            purrr::map(~rvest::html_text(.)) %>%
-            unlist() %>% 
-            unique() %>%
-            trimws()
-          
-          md.data <- data.frame(doi,journal_title, journal_nlm_ta, publisher_name) %>%
-            mutate_all(~if_else(is.na(.), "", as.character(.)))
-          
-          #################
-          ## MAKE MEMORIES
-          #################
-          
-          ## write yml
-          yml.path = file.path('figures',paste(article.data$figid, "yml", sep = "."))
-          write("---", yml.path, append = F)
-          write(yaml::as.yaml(article.data), yml.path, append = T)
-          write(yaml::as.yaml(md.data), yml.path, append = T)
-          write("keywords:", yml.path, append = T)
-          if(length(keywords)>1){ # as.yaml makes list
-            write(yaml::as.yaml(keywords), yml.path, append = T)
-          } else if (length(keywords)==1) { # manually make list of one
-            write(paste("-",yaml::as.yaml(keywords)), yml.path, append = T)
-          } else { #leave empty
-          }
-          write("---", yml.path, append = T)
-          
-          ## download image from PMC, politely
-          img.from.path = paste0("https://www.ncbi.nlm.nih.gov/pmc/articles/",
-                                 article.data$pmcid,
-                                 "/bin/",article.data$image_filename)
-          img.to.path = file.path('figures',paste(article.data$figid, "jpg", sep = "."))
-          headers = c(
-            `user-agent` = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36'
-          )
-          res <- NULL
-          get.image.flag <- FALSE
-          for (h in 1:5){
-            res <- tryCatch({
-              httr::GET(url = img.from.path, httr::add_headers(.headers=headers))
-            }, error = function(e) {
-              NULL
-            })
-            if (is.null(res) || httr::http_error(res)){
-              Sys.sleep(3)
-              next
-            } else {
-              get.image.flag <- TRUE
-              break
-            }
-          }
-          if(get.image.flag){
-            content_type <- headers(res)$`Content-Type`
-            if (content_type == "image/jpeg"){
-              jpg <- jpeg::readJPEG(res$content)
-              jpeg::writeJPEG(jpg, img.to.path)
-            } else {
-              cat("\nNo image.")
-            }
-          } else {
-            cat("\nImage url failed.")
-          }
-          
-          #record figid  
-          exfigids <- c(exfigids,article.data$figid)
-          write.table(exfigids,config$exclude_figids, sep = "\t", row.names = F, col.names = F)
-          
-          #increment counters
-          page.fig.count <- page.fig.count+1
-          res.fig.count <- res.fig.count+1
-          
-          #take a breath
-          Sys.sleep(0.5)
-        } #end for each figure
-        
-        ## Log results per page
-        cat(sprintf("\n%i results (%i new figures)", nrow(df),page.fig.count))
-        cat(sprintf("\n%i results (%i new figures)", nrow(df),page.fig.count), file="figures/fetch.log", append = T)
-        
-      } # end if results on page 
+      exfigids <- read.table(config$exclude_figids, sep = "\t", stringsAsFactors = F)[,1]
       
-      # Turn the page
-      if (i < page.count-1){
-        result <- NULL
-        for (i in 1:15) {
-          result <- tryCatch({
-            remDr$findElement(using = "xpath", "//*[@class='active page_link next']")
+      res.fig.count <- 0
+      
+      for (i in 1:page.count){
+        cat(sprintf("\nPage %i of %i", i, page.count))
+        cat(sprintf("\nPage %i of %i", i, page.count), file="figures/fetch.log", append = T)
+        ## Parse page
+        page.source <- NULL
+        get.page.flag <- FALSE
+        for (p in 1:5){
+          page.source <- tryCatch({
+            xml2::read_html(remDr$getPageSource()[[1]])
           }, error = function(e) {
             NULL
           })
-          if (!is.null(result)) {
-            break  # exit for loop
+          if (is.null(page.source) || inherits(page.source, "try-error")){
+            Sys.sleep(3)
+            next
+          } else {
+            get.page.flag <- TRUE
+            break
           }
-          Sys.sleep(1)
         }
-        # check if successful over 15 seconds
-        if (!is.null(result)) {
-          next.page.button <- remDr$findElement(using = "xpath", "//*[@class='active page_link next']")
-          next.page.button$clickElement()
-          remDr$screenshot(display = TRUE)
-        } else {
-          message("Page failed to load after 15 seconds. Reloading query results and trying again...")
+        if(!get.page.flag){
+          ## Exit out of page loop if page read fails
           reload.flag <- TRUE
+          break
         }
-      } #end page turn
+        image_filename <- page.source %>%
+          rvest::html_nodes(".rprt_img") %>%
+          rvest::html_node("img") %>%
+          rvest::html_attr("src-large") %>%
+          stringr::str_match("bin/(.*\\.jpg)") %>%
+          as.data.frame() %>%
+          dplyr::select(2) %>%
+          as.matrix() %>%
+          as.character()
+        
+        ## check for results
+        if(!length(image_filename) > 0){
+          cat("\n0 results")
+          cat("\n0 results", file="figures/fetch.log", append = T)
+        } else {
+          titles <- page.source %>%
+            rvest::html_nodes(".rprt_img") %>%
+            rvest::html_node(xpath='..') %>%
+            rvest::html_node(".rprt_cont") %>%
+            rvest::html_node(".title") %>%
+            rvest::html_text() %>%
+            stringr::str_split("\\s+From: ", simplify = TRUE)
+          article_title <- titles[,2] %>% 
+            stringr::str_trim()
+          number <- page.source %>%
+            rvest::html_nodes(".rprt_img") %>%
+            rvest::html_node("img") %>%
+            rvest::html_attr("alt")
+          caption <- page.source %>%
+            rvest::html_nodes(".rprt_img") %>%
+            rvest::html_node(xpath = "..") %>%
+            rvest::html_node(".rprt_cont") %>%
+            rvest::html_node(".supp") %>%
+            rvest::html_text()
+          figure_link <- page.source %>%
+            rvest::html_nodes(".rprt_img") %>%
+            rvest::html_attr("image-link")
+          citation <- page.source %>%
+            rvest::html_nodes(".rprt_img") %>%
+            rvest::html_node(xpath='..') %>%
+            rvest::html_node(".rprt_cont") %>%
+            rvest::html_node(".aux") %>%
+            rvest::html_text() %>%
+            stringr::str_remove(stringr::fixed("CitationFull text"))
+          pmcid <- page.source %>%
+            rvest::html_nodes(".rprt_img") %>%
+            rvest::html_node(xpath='..') %>%
+            rvest::html_node(".rprt_cont") %>%
+            rvest::html_node(".title") %>%
+            rvest::html_node("a") %>%
+            rvest::html_attr("href") %>%
+            stringr::str_match("PMC\\d+") %>%
+            as.character()
+          
+          ## Extract best figure title from analysis of provided figure number, title and caption
+          temp.df <- data.frame(n = number, t = titles[, 1], c = caption, stringsAsFactors = FALSE) %>%
+            dplyr::mutate(t = str_trim(str_remove(
+              t, stringr::fixed(
+                as.character(
+                  if_else(
+                    number != "",
+                    number,
+                    "a string just to suppress the empty search patterns warning message"
+                  )
+                )
+              )
+            ))) %>%
+            dplyr::mutate(t = str_trim(str_remove(
+              t,
+              "\\.$"
+            ))) %>%
+            dplyr::mutate(t = if_else(!is.na(str_match(t,"^\\. .*")[,1]),
+                                      str_remove(t, "^\\. "), 
+                                      t)) %>%
+            dplyr::mutate(c = str_trim(str_replace(
+              c,
+              "\\.\\.", "\\."
+            ))) %>%
+            dplyr::mutate(c = if_else(is.na(c), t, c)) %>%
+            dplyr::mutate(t = str_trim(str_remove(
+              t,
+              "\\.+$"
+            ))) %>%
+            dplyr::mutate(n = str_trim(str_replace(n, "\\.$", "")))
+          number <- as.character(temp.df[, 1])
+          figure_title <- as.character(temp.df[, 2])
+          caption <- as.character(temp.df[, 3])
+          
+          ## Construct a few more fields
+          figid <- paste(pmcid, sub(".jpg$", "", image_filename), sep = "__")
+          year <- rep(substr(from.date,1,4), length(image_filename)) # if not in citation
+          cit.year <- stringr::str_extract(citation, "(?<=\\s)\\d{4}") # try citation
+          year <- ifelse(!is.na(cit.year), cit.year, year) # keep citation if found
+          
+          ## Prepare df
+          df <- data.frame(figid, pmcid, image_filename, figure_link, number, figure_title, caption, article_title, citation, year) 
+          df <- unique(df)
+          
+          ## Log run
+          cat(paste("\n",nrow(df), "results"), file="figures/fetch.log", append = T)
+          
+          page.fig.count <- 0
+          
+          ## For each figure...
+          for (a in 1:nrow(df)){
+            # check exclude list
+            if (df[a,"figid"] %in% exfigids)
+              next
+            
+            cat(sprintf("\nFigure %i of %i (%i)", a, nrow(df),res.fig.count+1))
+            
+            #slice of df from above
+            article.data <- df[a,]
+            
+            #################
+            ## MORE METADATA
+            #################
+            md.query <- paste0("https://www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi?verb=GetRecord&identifier=oai:pubmedcentral.nih.gov:",gsub("PMC","", article.data$pmcid),"&metadataPrefix=pmc_fm")
+            
+            md.source <- NULL
+            get.md.flag <- FALSE
+            for (m in 1:5){
+              md.source <- tryCatch({
+                xml2::read_html(md.query) 
+              }, error = function(e) {
+                NULL
+              })
+              if (is.null(md.source) || inherits(md.source, "try-error")){
+                Sys.sleep(3)
+                next
+              } else {
+                get.md.flag <- TRUE
+                break
+              }
+            }
+            if(!get.md.flag){
+              ## Exit out of page loop if metadata read fails
+              reload.flag <- TRUE
+              break
+            }
+            doi <- md.source %>%
+              rvest::html_node(xpath=".//article-id[contains(@pub-id-type, 'doi')]") %>%
+              rvest::html_text()
+            journal_title <- md.source %>%
+              rvest::html_node(xpath=".//journal-title") %>%
+              rvest::html_text()
+            journal_nlm_ta <- md.source %>%
+              rvest::html_node(xpath=".//journal-id[contains(@journal-id-type, 'nlm-ta')]") %>%
+              rvest::html_text()
+            journal_iso_abbrev <- md.source %>%
+              rvest::html_node(xpath=".//journal-id[contains(@journal-id-type, 'iso-abbrev')]") %>%
+              rvest::html_text()
+            publisher_name <- md.source %>%
+              rvest::html_node(xpath=".//publisher-name") %>%
+              rvest::html_text()
+            keywords <- md.source %>% 
+              rvest::html_nodes(xpath=".//kwd") %>% 
+              purrr::map(~rvest::html_text(.)) %>%
+              unlist() %>% 
+              unique() %>%
+              trimws()
+            
+            md.data <- data.frame(doi,journal_title, journal_nlm_ta, publisher_name) %>%
+              mutate_all(~if_else(is.na(.), "", as.character(.)))
+            
+            #################
+            ## MAKE MEMORIES
+            #################
+            
+            ## write yml
+            yml.path = file.path('figures',paste(article.data$figid, "yml", sep = "."))
+            write("---", yml.path, append = F)
+            write(yaml::as.yaml(article.data), yml.path, append = T)
+            write(yaml::as.yaml(md.data), yml.path, append = T)
+            write("keywords:", yml.path, append = T)
+            if(length(keywords)>1){ # as.yaml makes list
+              write(yaml::as.yaml(keywords), yml.path, append = T)
+            } else if (length(keywords)==1) { # manually make list of one
+              write(paste("-",yaml::as.yaml(keywords)), yml.path, append = T)
+            } else { #leave empty
+            }
+            write("---", yml.path, append = T)
+            
+            ## download image from PMC, politely
+            img.from.path = paste0("https://www.ncbi.nlm.nih.gov/pmc/articles/",
+                                   article.data$pmcid,
+                                   "/bin/",article.data$image_filename)
+            img.to.path = file.path('figures',paste(article.data$figid, "jpg", sep = "."))
+            headers = c(
+              `user-agent` = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36'
+            )
+            res <- NULL
+            get.image.flag <- FALSE
+            for (h in 1:5){
+              res <- tryCatch({
+                httr::GET(url = img.from.path, httr::add_headers(.headers=headers))
+              }, error = function(e) {
+                NULL
+              })
+              if (is.null(res) || httr::http_error(res)){
+                Sys.sleep(3)
+                next
+              } else {
+                get.image.flag <- TRUE
+                break
+              }
+            }
+            if(get.image.flag){
+              content_type <- headers(res)$`Content-Type`
+              if (content_type == "image/jpeg"){
+                jpg <- jpeg::readJPEG(res$content)
+                jpeg::writeJPEG(jpg, img.to.path)
+              } else {
+                cat("\nNo image.")
+              }
+            } else {
+              cat("\nImage url failed.")
+            }
+            
+            #record figid  
+            exfigids <- c(exfigids,article.data$figid)
+            write.table(exfigids,config$exclude_figids, sep = "\t", row.names = F, col.names = F)
+            
+            #increment counters
+            page.fig.count <- page.fig.count+1
+            res.fig.count <- res.fig.count+1
+            
+            #take a breath
+            Sys.sleep(0.5)
+          } #end for each figure
+          
+          ## Log results per page
+          cat(sprintf("\n%i results (%i new figures)", nrow(df),page.fig.count))
+          cat(sprintf("\n%i results (%i new figures)", nrow(df),page.fig.count), file="figures/fetch.log", append = T)
+          
+        } # end if results on page 
+        
+        # Turn the page
+        if (i < page.count-1){
+          result <- NULL
+          for (i in 1:15) {
+            result <- tryCatch({
+              remDr$findElement(using = "xpath", "//*[@class='active page_link next']")
+            }, error = function(e) {
+              NULL
+            })
+            if (!is.null(result)) {
+              break  # exit for loop
+            }
+            Sys.sleep(1)
+          }
+          # check if successful over 15 seconds
+          if (!is.null(result)) {
+            next.page.button <- remDr$findElement(using = "xpath", "//*[@class='active page_link next']")
+            next.page.button$clickElement()
+            remDr$screenshot(display = TRUE)
+          } else {
+            message("Page failed to load after 15 seconds. Reloading query results and trying again...")
+            reload.flag <- TRUE
+          }
+        } #end page turn
+        
+        ## Exit out of page loop if page turn aborted
+        if (reload.flag)
+          break 
+      } #end for each page
       
-      ## Exit out of page loop if page turn aborted
+      ## Reload query if prior result aborted
       if (reload.flag)
-        break 
-    } #end for each page
-    
-    ## Reload query if prior result aborted
-    if (reload.flag)
-      next 
-    
-    ## Log final results 
-    cat(sprintf("\n\n%i new figures total\n",res.fig.count))
-    cat(sprintf("\n\n%i new figures total\n",res.fig.count), file="figures/fetch.log", append = T)
+        next 
+      
+      ## Log final results 
+      cat(sprintf("\n\n%i new figures total\n",res.fig.count))
+      cat(sprintf("\n\n%i new figures total\n",res.fig.count), file="figures/fetch.log", append = T)
+      
+    } # end if any results
     
     ## log last_run
     config$last_run <- format(as.Date(from.date) + months(1), "%Y/%m/%d")
