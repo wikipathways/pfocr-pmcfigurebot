@@ -1,0 +1,51 @@
+---
+figid: PMC9533011__nihms-1827850-f0005
+pmcid: PMC9533011
+image_filename: nihms-1827850-f0005.jpg
+figure_link: /pmc/articles/PMC9533011/figure/F5/
+number: 'Figure 5:'
+figure_title: PPARδ activation restores tumour growth and T cell exclusion in the
+  absence of GOT2
+caption: '(A) Viable cell measurements in control or sgGot2 PDAC cells treated with
+  vehicle or 100 nM GW501516. (B) PDAC tumour weight at experimental endpoint, 30
+  days after orthotopic transplantation of the control or sgGot2 cells, with daily
+  i.p. injection of vehicle or 4 mg/kg GW501516. Ctrl: n = 5 per cohort, sgGot2: n
+  = 4 per cohort. Data are presented as mean ± s.e.m. *p < 0.05, **p < 0.01 by one-way
+  ANOVA. (C) Immunohistochemical staining of control and sgGot2 688M tumours treated
+  with vehicle or GW501516 as in B for T cell marker CD3. Representative images are
+  shown above (scale bar = 50 μm), with quantification below (Ctrl: n = 5, Ctrl +
+  GW501516: n = 5, sgGot2: n = 3, sgGot2 + GW501516: n = 4). Data are presented as
+  mean ± s.e.m. **p < 0.01 by one-way ANOVA. (D) Immunohistochemical staining for
+  PTGS2/COX2 in control or sgGot2 PDAC treated with vehicle or GW501516 (representative
+  of n = 3-5 per cohort). Scale bar = 50 μm. (E) Viable cell measurements in control
+  or sgGot2 PDAC cells stably transduced with empty vector or VP16-PPARδ. Data are
+  presented as mean ± s.e.m. (F,G) PDAC tumour weight at experimental endpoint in
+  the indicated (F) 688M and (G) FC1245 lines. 688M: Ctrl: n = 5, sgGot2: n = 4, Ctrl
+  VP16-PPARδ: n = 4, sgGot2 VP16-PPARδ: n = 4, endpoint = day 27. FC1245: Ctrl: n
+  = 5, sgGot2: n = 5, Ctrl VP16-PPARδ: n = 5, sgGot2 VP16-PPARδ: n = 4, endpoint =
+  day 18. Ctrl and sgGot2 FC1245 arms here are also depicted in . *p < 0.05, **p <
+  0.01, ***p < 0.001, ****p < 0.0001 by one-way ANOVA. (H) qPCR for PPARδ-regulated
+  genes in the indicated FC1245 stable cell lines, normalized to 36b4. Data are presented
+  as mean ± s.e.m. from biological triplicates. *p < 0.05, **p < 0.01, ***p < 0.001,
+  ****p < 0.0001 by one-way ANOVA. (I) PDAC tumour weight at experimental endpoint
+  (day 18) in Ctrl (n = 4) and shPpard (n = 5 per hairpin) FC1245 tumours. **p < 0.01
+  by one-way ANOVA. (J) Quantification of CD3 immunohistochemistry on the tumours
+  from I (scale bar = 50 μm). *p < 0.05 by one-way ANOVA. (K) Heatmap depicting differentially
+  expressed genes in control and sgGot2 FC1245 PDAC cells, untreated or treated with
+  500 nM GW501516 for 24 h (n = 3 per group), identified by RNA-seq using cut-off
+  criteria padj < 0.01 and logFC < −1 or > 1 in at least one comparison. (L) Venn
+  diagram showing RNA-seq results by the criteria in K, with sample gene identities
+  at the overlap listed. Overlapping gene frequency: ***p < 0.001 by permutation test.
+  (M) MSigDB pathway analysis showing top ten enriched pathways of genes at the overlap
+  in L.'
+article_title: A cancer cell-intrinsic GOT2-PPARδ axis suppresses antitumor immunity.
+citation: Jaime Abrego, et al. Cancer Discov. ;12(10):2414-2433.
+year: '2022'
+
+doi: 10.1158/2159-8290.CD-22-0661
+journal_title: Cancer Discovery
+journal_nlm_ta: Cancer Discov
+publisher_name: American Association for Cancer Research
+
+keywords:
+---

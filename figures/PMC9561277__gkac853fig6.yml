@@ -1,0 +1,54 @@
+---
+figid: PMC9561277__gkac853fig6
+pmcid: PMC9561277
+image_filename: gkac853fig6.jpg
+figure_link: /pmc/articles/PMC9561277/figure/F6/
+number: Figure 6
+figure_title: ''
+caption: 'While TopBP1 is dispensable for YFP-APE1 nucleolar localization, the W119
+  residue within APE1’s putative ATR activation domain is required for its biomolecular
+  condensate formation in nucleoli and nucleolar ATR activation. (A) YFP-APE1 still
+  assembled condensates and activated ATR-chk1 pathway when endogenous TopBP1 was
+  knocked down via siRNA. After 1-d incubation of CTL or TopBP1 siRNA in PANC1 cells,
+  YFP or YFP-APE1 overexpression plasmid was added and incubation for another 3 d.
+  The cells were fixed and incubated with anti-TopBP1-AF647 for fluorescence microscopy
+  analysis. (B). After 1-d incubation of CTL, TopBP1 and/or ETAA1 siRNA in PANC1 cells,
+  YFP or YFP-APE1 overexpression plasmid was added and incubated for another 3 d.
+  The cells were extracted and examined by immunoblotting analysis as indicated. (C)
+  Schematic diagrams of functional domains of hAPE1, hTopBP1 and hETAA1 as well as
+  sequence alignment of the N-terminal domain and putative ATR activation domain (AAD)
+  within APE1. hAPE1 (human APE1, NCBI#: P27695.1), mAPE1 (mouse APE1, NCBI#: NP_033817.1),
+  xAPE1 (Xenopus laevis APE1, NCBI#: AAH72056.1), hTopBP1 (human TopBP1, NCBI#: Q92547.3),
+  and hETAA1 (human ETAA1, NCBI#: NP_061875.2). * identical;: highly conserved;. low
+  conservation. In the AAD alignment, highlighted green indicates aa with hydrophobic
+  side chains, highlighted yellow indicates aa with polar uncharged side chains, highlighted
+  pink indicates aa with positive charged sides chains, highlighted turquoise indicates
+  aa with negative charged sides chains, and highlighted gray indicates the conserved
+  WxxP/N peptide. (D) The K6, K7 and W119 residues within APE1 are important for Chk1
+  phosphorylation induced by YFP-APE1 in PANC1 cells. After YFP, WT or mutant (i.e.
+  K6R/K7R, K24R/K25R, K31R/K32R, W119R) YFP-APE1 overexpression plasmid was added
+  to PANC1 cells and incubation for 3 d, total cell lysates were extracted and examined
+  via immunoblotting analysis as indicated. (E) APE1 forms biomolecular condensates
+  in nucleoli dependent on its W119 residue. After WT or mutant (i.e. K6R/K7R, K24R/K25R,
+  K31R/K32R, W119R) YFP-APE1 overexpression plasmid was added to PANC1 cells and incubation
+  for 3 d, the cells were fixed and incubated with anti-NPM1-AF647 for overnight at
+  4°C, followed by fluorescence microscopy analysis. (F) WT but not W119R YFP-APE1
+  directly activates ATR to phosphorylate Chk1 phosphorylaton at S345 in vitro. In
+  in vitro kinase assays, equal amount of His-YFP, WT or W119R His-APE1-YFP was added
+  to the kinase assays (purified Flag-ATR as kinase and purified His-Chk1 as substrate).
+  Beads bound with lysates from HEK293 cells without Flag-ATR transfection were used
+  as a negative control (‘Control’). ‘No addition’ indicate the kinase assays without
+  the addition of His-YFP or WT/W119R His-APE1-YFP. The samples were examined via
+  immunoblotting analysis as indicated. (A, E) All scale bars = 10 μm.'
+article_title: APE1 assembles biomolecular condensates to promote the ATR–Chk1 DNA
+  damage response in nucleolus.
+citation: Jia Li, et al. Nucleic Acids Res. 2022 Oct 14;50(18):10503-10525.
+year: '2022'
+
+doi: 10.1093/nar/gkac853
+journal_title: Nucleic Acids Research
+journal_nlm_ta: Nucleic Acids Res
+publisher_name: Oxford University Press
+
+keywords:
+---

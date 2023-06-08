@@ -1,0 +1,51 @@
+---
+figid: PMC9596731__gr2
+pmcid: PMC9596731
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC9596731/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: 'PDAC induced fat loss trigged hypothermia: A) Study design. KPC tumor cells
+  (5 × 106) were implanted intraperitoneally into C57BL/6 mice (KPCi group, n = 5).
+  The control mice were administered with PBS solution (PBS group, n = 5). B) Plasma
+  levels of Lcn2 at day 8 post KPC tumor cell implantation or PBS administration in
+  mice were measured by ELISA, n = 5. C) Immunoblot analysis of Lcn2 in inguinal white
+  adipose tissue (iWAT) from control and KPCi mice, n = 5. D) Surface body temperature
+  was measured using infrared camera at indicated time points, n = 5. E) Representative
+  images of gross appearance of brown adipose tissue (BAT) (indicated by yellow dots)
+  from control and KPCi mice are shown. F, G) Representative images of hematoxylin
+  and eosin (H&E) (F) and Oil Red O (G) staining of BAT from day 4 and day 10 post
+  KPC tumor cell implantation or PBS administration are shown. H, I) FACS analyses
+  were used to identify immune cell populations gated out of total live cells isolated
+  from BAT tissue on day 4 and day 10 post tumor cell implantation of indicated groups
+  of mice. CD45+ cells (H) and CD11b + F4/80+ cells (I), n = 5. J) Top-ranking pathways
+  identified by PGSEA on Kyoto Encyclopedia of Genes and Genomes (KEGG) using IDEPv905.
+  Significance cutoff of FDR <0.5 and differential pathways are listed according to
+  adjusted p value. Pathways activated are shown in red, and suppressed pathways are
+  shown in blue. K) Volcano plot of gene expression of up-regulated (purple) and down-regulated
+  (green) genes in BAT from KPCi mice compared with WT mice using ShinyGo 0.76. Selected
+  genes are indicated. L) Heatmap of relative expression of selected thermogenesis-associated
+  genes from the RNA-seq dataset. Genes with p < 0.05 are displayed. M) Thermogenesis
+  pathway from KEGG. Genes significantly downregulated (red) and upregulated (green)
+  in BAT during tumor progression compared with BAT of control group. ∗p < 0.05, ∗∗p < 0.01.
+  For J–M: n = 2, gene set downregulated in KPCi mice by > 1.5 fold, FDR<0.05, p < 0.05
+  compared with WT mice used for analysis.'
+article_title: Lcn2 mediates adipocyte-muscle-tumor communication and hypothermia
+  in pancreatic cancer cachexia.
+citation: Mengistu Lemecha, et al. Mol Metab. 2022 Dec;66:101612.
+year: '2022'
+
+doi: 10.1016/j.molmet.2022.101612
+journal_title: Molecular Metabolism
+journal_nlm_ta: Mol Metab
+publisher_name: Elsevier
+
+keywords:
+- Cachexia
+- Thermogenesis
+- BAT
+- Lcn2
+- PDAC
+- Hypothermia
+
+---

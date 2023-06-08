@@ -1,0 +1,61 @@
+---
+figid: PMC9534359__gr6
+pmcid: PMC9534359
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC9534359/figure/fig6/
+number: Figure 6
+figure_title: ''
+caption: Genetic mapping of BA modulators and the identification of Ces1c as a potential
+  regulator of plasma TUDCA levels(A) The genetic effects of the TUDCA QTL on chromosome
+  8 on plasma TUDCA levels of the BXD animals at 30 min after a test meal. Plasma
+  TUDCA concentrations (log2 transformed data) were compared between strains inheriting
+  the genetic allele from the reference C57BL/6J strain at the QTL (indicated as B/B)
+  and those inheriting from the DBA/2J strain (indicated as D/D). ∗∗∗p < 0.001 by
+  two-tailed Student’s t test.(B) Heatmap presenting the correlations between the
+  TUDCA levels across different biological compartments and phenotypic traits. ∗p < 0.05,
+  ∗∗p < 0.01, and ∗∗∗p < 0.001, for Pearson correlation coefficient.(C) Systems genetics
+  pipeline applied to filter for genes responsible for the plasma TUDCA QTL at T30
+  by integrating 3 major criteria, that is, (1) whether genes have high-impact genetic
+  variants or cis-eQTLs in the liver, (2) whether their liver expression level correlates
+  with plasma TUDCA levels at T30, and (3) whether they associate with the primary
+  BA biosynthesis (KEGG 0120) pathway in GMAD (). The numbers of genes that fulfill
+  each or several of these criteria are listed in the Venn diagram.(D) Heatmap listing
+  the genes under the plasma TUDCA QTL at T30 on chromosome 8 reveals the potential
+  modulators of TUDCA. Only genes fulfilling at least 2 criteria were included in
+  the heatmap. The first block of the heatmap represents whether the genes have high-impact
+  variants or cis-eQTLs in liver transcriptome datasets of the BXDs. The second block
+  (Corr) indicates the correlations between the liver expression of these genes and
+  plasma TUDCA levels at T30 in CD or HFD. The third block shows the association between
+  these genes and the primary BA biosynthesis pathway predicted by GMAD () in human,
+  mouse, and rat. The last block shows the enrichment of the expression of these genes
+  in the liver, retrieved from the Human Protein Atlas (https://www.proteinatlas.org/)
+  (). r, Pearson correlation coefficient. GMAS, gene-module association score. Asterisk
+  (∗p < 0.05) and hash (#) indicate statistical significance in correlation and GMAD,
+  respectively. The 3 selected candidates are in bold and underlined. Full list of
+  the 191 genes under the TUDCA QTL on chromosome 8 is in .(E) Zonation protein (left)
+  or mRNA (right) profiles of key BA synthesis and transport genes, as well as candidate
+  TUDCA modulators in the mouse liver. Protein or mRNA expression of each gene was
+  scaled to 0–1.See also  and , , and .
+article_title: Integrative systems analysis identifies genetic and dietary modulators
+  of bile acid homeostasis.
+citation: Hao Li, et al. Cell Metab. 2022 Oct 4;34(10):1594-1610.e4.
+year: '2022'
+
+doi: 10.1016/j.cmet.2022.08.015
+journal_title: Cell Metabolism
+journal_nlm_ta: Cell Metab
+publisher_name: Cell Press
+
+keywords:
+- mouse genetic reference population
+- BXD
+- systems genetics
+- high-fat diet
+- bile acids
+- metabolism
+- TUDCA
+- CES1C
+- quantitative trait locus
+- gene-environment interaction
+
+---
