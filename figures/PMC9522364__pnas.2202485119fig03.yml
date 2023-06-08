@@ -1,0 +1,63 @@
+---
+figid: PMC9522364__pnas.2202485119fig03
+pmcid: PMC9522364
+image_filename: pnas.2202485119fig03.jpg
+figure_link: /pmc/articles/PMC9522364/figure/fig03/
+number: Fig. 3
+figure_title: ''
+caption: Opsin and disk membrane swelling caused by chromophore isomerization, hydrolysis,
+  and conversion to at-ROL may account for component 2 of the COS elongation response.
+  (A) State space and flow schematic of reactions governing deactivation of photoisomerized
+  cone pigment (photoactivated cone pigment [P*] = Meta II cone opsin) and production
+  of at-ROL. At the high bleach levels that give rise to component 2, phosphorylation
+  of P* by GRKs (including [G-protein receptor kinase] GRK1 and GRK7) is predictably
+  saturated, and binding to PnPi of arrestin (ARR) (including ARR1 and ARR7) is limited
+  by the relatively small amount of ARR in the dark-adapted COS, so that hydrolysis
+  of all-trans retinal chromophore becomes the dominant pathway of P* deactivation
+  (). RDH (RDH8 and possibly, other RDHs) is hypothesized to form a transient complex
+  with P* to which hydrolyzed at-RAL may be weakly bound () and catalyzes the reduction
+  of at-RAL to at-ROL with cofactor NADPH. (The phosphatase [P’ase] reaction, included
+  for completeness, is unlikely to be material on the timescale of the experiments
+  [i.e., a few seconds].) (B) Molecular structures of two key states in the scheme
+  of A. (B, Left) GK1 bound to P* (). (B, Right) Lipid-anchored RDH8 associates transiently
+  with unliganded cone opsin (Pops), to whose intramembrane surface at-RAL is thought
+  to weakly associate (); at-RAL must diffuse to the membrane–cytosol interface and
+  position its aldehyde group for RDH-catalyzed reduction to at-ROL. at-ROL is oriented
+  with its dipole axis parallel to the membrane lipids () and should preferentially
+  remain with its alcohol group near the membrane surface (). (C) Predicted average
+  bleaching of M and L opsin in situ in the whole COS by the stimuli used in the OCT
+  experiments of  and  expressed in the units of energy density at the COS waveguide
+  entrance (green and red symbols indicate M and L pigments, respectively, which are
+  slightly differentially bleached due to their different absorption spectra). The
+  thicker black line plots SI Appendix, Eq. S2.6, the fraction bleached over the whole
+  COS given as the exponential approximation to the solution of SI Appendix, Eq. S2.4′,
+  while the thin black line plots bleaching at the COS waveguide entrance (SI Appendix,
+  Eq. 2.5), where 1/ = 1.38 × 108 photons μm−2 is the photosensitivity of cone opsin
+  in situ at the pigment λmax and fDens = 0.79 (SI Appendix, Table S1). (The black
+  symbols plot the average of the M- and L-opsin values used in the model.) (D) Kinetic
+  predictions of the model. The black traces replot a subset of the extracted component
+  2 traces along with the fitted exponential curves (red) of  and the model traces
+  (magenta). The black filled circles in C show the bleach levels for the specific
+  stimuli corresponding to the traces. The topmost data trace is the saturated component
+  2 response; its asymptotic level is 200 nm, but this is not reached on this time
+  base (cf SI Appendix, section 1).
+article_title: Human cone elongation responses can be explained by photoactivated
+  cone opsin and membrane swelling and osmotic response to phosphate produced by RGS9-catalyzed
+  GTPase.
+citation: Vimal Prabhu Pandiyan, et al. Proc Natl Acad Sci U S A. 2022 Sep 27;119(39):e2202485119.
+year: '2022'
+
+doi: 10.1073/pnas.2202485119
+journal_title: Proceedings of the National Academy of Sciences of the United States
+  of America
+journal_nlm_ta: Proc Natl Acad Sci U S A
+publisher_name: National Academy of Sciences
+
+keywords:
+- cone photoreceptors
+- photosensitivity
+- opsin bleaching
+- optical coherence tomography
+- optoretinogram
+
+---

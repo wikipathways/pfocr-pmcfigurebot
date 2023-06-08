@@ -1,0 +1,60 @@
+---
+figid: PMC9584521__ppat.1010860.g004
+pmcid: PMC9584521
+image_filename: ppat.1010860.g004.jpg
+figure_link: /pmc/articles/PMC9584521/figure/ppat.1010860.g004/
+number: Fig 4
+figure_title: Fungicide binding sites in target enzymes and fungicide-induced transcriptional
+  changes in FocTR4 persisters
+caption: 'A Azole binding site in Candida albicans Erg11 (Ca_ERG11, UniProt ID: P10613),
+  Z. tritici Erg11 (Zt_Erg11, UniProt ID: F9XG32), FocTR4 Erg11_1 (Foc_Erg11_1; UniProt
+  ID: X0JWG9), FocTR4 Erg11_2 (Foc_Erg11_2, UniProt ID: X0LR56) and FocTR4 Erg11_3
+  (Foc_Erg11_3, UniProt ID: X0JM02). Residues known in C. albicans Cyb51, reported
+  to bind the azoles posaconazole and oteseconazole [], are shown in red-bold; asterisk
+  indicate potential involvement in resistance []; the impact of all residue substitutions
+  in the Z. tritici and FocTR4 homologues of Ca_ERG11 was estimated using the SIFT
+  server (https://sift.bii.a-star.edu.sg/); sequence alignment and determination of
+  conserved amino acid exchanges used Clustal Omega (https://www.ebi.ac.uk/Tools/msa/clustalo/).
+  B SDHI-binding site in succinate dehydrogenase subunits of Z. tritici (ZtSdh2, UniProt
+  ID: O42772; ZtSdh4, UniProt ID: F9X9V6; ZtSdh3_1, UniProt ID: F9XH52; ZtSdh3_2,
+  UniProt ID: F9XLX9 (partial); complete ZtSdh3_2 sequence at FungiDB, https://fungidb.org/fungidb/app/record/gene/ZTRI_10.476;)
+  and FocTR4 (FocSdh2, UniProt ID: X0JUP8; FocSdh4, UniProt ID: X0JC07; FocSdh3_1,
+  UniProt ID: X0JTM7; FocSdh3_2, UniProt ID: X0K132). Residues known in Z. tritici
+  and other fungi to bind SDHI molecules [] are shown in red-bold; asterisks indicate
+  potential involvement in resistance []; the impact of all residue substitutions
+  in FocTR4 homologues was estimated using the SIFT server (https://sift.bii.a-star.edu.sg/);
+  sequence alignment used Clustal Omega (https://www.ebi.ac.uk/Tools/msa/clustalo/).
+  C Comparison of the amino acid sequence of quinol oxidation (Qo) site of mitochondrial
+  cytochrome b in Z. tritici (ZtCytb; UniProt ID: Q6X9S4) and FocTR4 (FocCytb, UniProt
+  ID: A0A1A7TD23). Residues known to bind strobilurin molecules are shown in red-bold;
+  asterisks indicate potential involvement in resistance; the impact of all residue
+  substitutions in FocTR4 was estimated using the SIFT server (https://sift.bii.a-star.edu.sg/);
+  sequence alignment used Clustal Omega (https://www.ebi.ac.uk/Tools/msa/clustalo/).
+  Note that all substitutions in FocCytb are predicted to be of low impact ("tolerated").
+  Information on strobilurin molecule-interacting (Cpd-interacting) and resistance-conferring
+  residues from [,]. D Venn diagram showing numbers of FocTR4 genes, up-regulated
+  significantly (>5-fold) in the presence of fungicides. Note that a transcription
+  factor (UniProt ID: X0JJ38) and an ABC transporter (UniProt ID: X0JJA9) are up-regulated
+  in all conditions. E Number of up-regulated genes in FocTR4 persister cells, putatively
+  involved in providing fungicide tolerance. Putative detoxifying enzymes (red), efflux
+  transporter and pumps (green) and proteins involved in the targeted cellular pathway
+  (blue) that are significantly upregulated (P<0.05) in epoxiconazole, fluxapyroxad
+  and azoxystrobin-persisters are included. F Regulation of FocTR4 mitochondrial respiration
+  complex subunits in the presence of 500 μg ml-1 azoxystrobin. Dotted green line
+  indicates non-significant difference to methanol-treated control cells. Median of
+  expression of nucleus-encoded subunits (red) is indicated by black lines. Data shown
+  in (D) were derived from RNA-preparations of cells, grown for 2 days in medium,
+  supplemented with 3 μg ml-1 epoxiconazole, 500 μg ml-1 azoxystrobin or 500 μg ml-1
+  fluxapyroxad.'
+article_title: Multi-site fungicides suppress banana Panama disease, caused by Fusarium
+  oxysporum f. sp. cubense Tropical Race 4.
+citation: Stuart Cannon, et al. PLoS Pathog. 2022 Oct;18(10):e1010860.
+year: '2022'
+
+doi: 10.1371/journal.ppat.1010860
+journal_title: PLoS Pathogens
+journal_nlm_ta: PLoS Pathog
+publisher_name: Public Library of Science
+
+keywords:
+---

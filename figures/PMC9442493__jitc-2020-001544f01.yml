@@ -1,0 +1,62 @@
+---
+figid: PMC9442493__jitc-2020-001544f01
+pmcid: PMC9442493
+image_filename: jitc-2020-001544f01.jpg
+figure_link: /pmc/articles/PMC9442493/figure/F1/
+number: Figure 1
+figure_title: ''
+caption: 'MemIL-18 constructs: design, expression and signaling. (A) Sketches of the
+  membrane-anchored protein products. S, short and L, long linker. (B) Immunoblot
+  analysis for the indicated protein products in lysates of K562 cells. Twenty-four hours
+  post-transfection, cell lysates were subjected to PAGE analysis and probed by using
+  rabbit anti-human IL-18 Ab and HRP-conjugated goat anti-rabbit Ab. (C) Quantitative
+  fluorescence imaging in CD8 T cells engineered by memIL-18 mRNA electroporation.
+  Images were acquired using the WiScan Hermes High-Content Imaging System using an
+  X60 objective and quantification was performed with the WiSoft Athena software protein
+  expression application. Graph summarizes mean intensity ±SEM of at least a thousand
+  cells in 137 images. Nuclei (blue). Scale bar: 12.5 µm. Indicated significance was
+  determined by one-way ANOVA with Tukey’s multiple comparison test; (***p≤0.001).
+  (D) Representative flow cytometry data for the surface expression of memIL-18 in
+  TIL14, 24 hours post-mRNA transfection. The experiment was repeated twice. (E) Upregulation
+  of T-bet in mRNA-transfected CD8+ T cells of a healthy donor. Cells were transfected
+  with the indicated mRNAs and stained for cell surface IL-18 and for intracellular
+  T-bet, using a PE-conjugated anti-human T-bet mAb. The experiment was repeated twice.
+  (F) Reporter assay for activation of the NF-κB pathway in HEK293T cells. Cells were
+  transiently transfected with the NF-κB-Luciferase reporter plasmid. Twenty-four hours
+  later, cells were transfected with 10 µg of the indicated mRNAs and after 24 hours
+  luciferase activity in cell lysates was monitored. caTLR4 and caCD40, constitutively
+  active TLR4 and CD40, respectively. All experimental data show mean values±SEM from
+  four independent experiments. Indicated significance was determined by one-way ANOVA
+  with Tukey’s multiple comparison test; (**p≤0.01; ***p≤0.001). (G) The two memIL-18
+  products engage IL-18R both in cis and in trans. CD8+ T cells were electroporated
+  with mRNA encoding the two memIL-18 products or GFP. Six hours post-transfection,
+  coculture was performed at a 1:1 GFP/CD8+:memIL-18/CD8+ cell ratio. Fourteen hours
+  later, cells were stained for cell surface IL-18 and for intracellular T-bet as
+  described above. (H) CD8+ T cells were transfected with the indicated mRNAs, with
+  or without the anti-melanotransferrin CAR mRNA, and cocultured at a 1:1 ratio with
+  579 melanoma cells for 24 hours. Growth medium was then collected and analyzed for
+  the presence of IL-18 by MAGPIX Luminex. Graph bars present the mean cytokine concentration
+  (pg/mL)±SEM (triplicate) from three healthy donors (n=3). (I) TIL14 and TIL86 were
+  transfected with the indicated mRNAs, cultured in the presence or absence of the
+  624 melanoma cells at a 1:2 E:T ratio for 24 hours and growth medium was similarly
+  analyzed for IL-18. Some error bars obtained with MAGPIX are too small to be visible.
+  ANOVA, analysis of variance; E:T, effector:target; mAb, monoclonal antibody; N.T.,
+  non-transfected; P.O., pulse-only.'
+article_title: Membrane anchored IL-18 linked to constitutively active TLR4 and CD40
+  improves human T cell antitumor capacities for adoptive cell therapy.
+citation: Dayana Blokon-Kogan, et al. J Immunother Cancer. 2022;10(9):e001544.
+year: '2022'
+
+doi: 10.1136/jitc-2020-001544
+journal_title: Journal for Immunotherapy of Cancer
+journal_nlm_ta: J Immunother Cancer
+publisher_name: BMJ Publishing Group
+
+keywords:
+- Immunotherapy, Adoptive
+- Adjuvants, Immunologic
+- Lymphocytes, Tumor-Infiltrating
+- Cytokines
+- Receptors, Chimeric Antigen
+
+---

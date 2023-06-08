@@ -1,0 +1,74 @@
+---
+figid: PMC9472579__gr1_lrg
+pmcid: PMC9472579
+image_filename: gr1_lrg.jpg
+figure_link: /pmc/articles/PMC9472579/figure/fig0005/
+number: Figure 1
+figure_title: ''
+caption: Induction and antagonism of type-I/-III IFN responses by SARS-CoV-2 and IAV.
+  Type-I/-III IFN induction by SARS-CoV-2 relies primarily on MDA5, which senses long
+  dsRNA species. MDA5 then undergoes a series of PTMs, including ISGylation in its
+  caspase activation and recruitment domains (CARDs), oligomerizes, and translocates
+  to the mitochondrion where it interacts with and activates MAVS. MAVS recruits downstream
+  signaling molecules such as TBK1/IKKε and the IKKα/β/γ complex that subsequently
+  activate transcription factors, including IRF3 and NF-κB. Upon translocation from
+  the cytoplasm to the nucleus, these transcription factors drive the expression of
+  type-I/-III IFNs and proinflammatory cytokines, which, once secreted, prompt autocrine
+  and paracrine signaling in infected and bystander cells, respectively. Specifically,
+  type-I/-III IFNs engage cognate IFN receptors that signal through the JAK–STAT axis
+  to upregulate ISGs. Besides MDA5, the cGAS–STING pathway (via released mtDNA), as
+  well as TLR3 and TLR7, are also implicated in SARS-CoV-2 sensing possibly in a cell-type-specific
+  manner, though the mechanistic details require further investigation. These sensing
+  pathways activate similar downstream kinases and transcription factors, leading
+  to type-I/-III IFN gene expression. A prenylated OAS1 isoform, which anchors to
+  the endoplasmic reticulum-derived double-membrane vesicles (DMVs) where SARS-CoV-2
+  replication takes place, restricts virus replication by activating RNase L. RIG-I
+  exerts an IFN-independent restriction mechanism by competing with the SARS-CoV-2
+  polymerase for binding to the 3′-UTR of the viral genome (not depicted). Likewise,
+  during IAV infection, RIG-I binds to the genomic RNA panhandle region associated
+  with the IAV polymerase, which can impede viral replication in an IFN-independent
+  manner (not illustrated). In many cell types (except plasmacytoid dendritic cells
+  for example), IFN induction by IAV is primarily or exclusively dependent on RIG-I.
+  Upon recognition of the IAV (sub)genomic panhandle structure, RIG-I undergoes conformational
+  changes and PTMs such as activating K63-linked polyubiquitination in its CARDs and
+  C-terminal domain (CTD) by TRIM25 and Riplet, respectively. RIG-I then activates
+  an analogous signaling pathway as MDA5 to induce antiviral immunity. To evade immune
+  surveillance, IAV uses the NS1 protein as the primary IFN antagonist. NS1 binds
+  to TRIM25 and Riplet, thereby inhibiting the K63-linked polyubiquitination of RIG-I
+  in the cytoplasm. NS1 also localizes to the nucleus where it blocks polyadenylation
+  and nuclear export of cellular mRNAs via binding to the cellular cleavage and polyadenylation
+  factor 30 (CPSF30). This host-shutoff strategy is believed to act in concert with
+  another host-shutoff mechanism carried out by IAV PA-X protein, which selectively
+  degrades host RNA polymerase II (Pol II) transcripts via its endonucleolytic activity.
+  The IAV PB1–F2 protein binds to MAVS at the mitochondrion and suppresses MAVS activation
+  by decreasing the mitochondrial membrane potential. Like IAV, SARS-CoV-2 targets
+  critical PTMs of innate sensors and downstream signaling molecules to antagonize
+  IFN responses. The PLpro activity of Nsp3 actively removes conjugated ISG15 from
+  MDA5 and IRF3 to suppress their activation. Furthermore, extracellular secretion
+  of free ISG15 prompted by PLpro’s de-ISGylating activity can exacerbate proinflammatory
+  cytokine responses. Nsp5 cleaves and disables RIG-I and also induces MAVS degradation.
+  Nsp1 plugs the mRNA entry tunnel of the 40S ribosomal subunit to shut off host-protein
+  translation. Nsp14 and Nsp16 also reportedly disturb host translation and transcription
+  processes, though the precise mechanisms are still unknown. Nsp14 and Nsp16 catalyze
+  Cap-1 modification of viral RNA to mimic host mRNA and escape recognition by MDA5.
+  Nsp15 of murine hepatitis virus and likely also SARS-CoV-2 cleaves and limits the
+  accumulation of viral dsRNA to evade MDA5 sensing. Orf9b competes with the chaperone
+  protein Hsp90 for binding to TOM70 and thereby impairs the recruitment of TBK1 and
+  IRF3 (both associated with Hsp90) to the TOM70–MAVS complex. Orf6 interacts with
+  the nuclear pore complex Nup98–Rae1 and impedes the nuclear import of IRF3 and STAT1/2.
+  Orf3a, Orf7a/b, M, and N also reportedly dampen STAT1/2 and/or MAVS activation; the
+  underlying mechanisms, however, require further investigation. SARS-CoV-2 proteins
+  inhibiting IFN/ISG responses are depicted in pink. IAV proteins blocking innate
+  immune signaling are illustrated in orange. ‘Ub’ indicates ubiquitin.
+article_title: 'Insights into pandemic respiratory viruses: manipulation of the antiviral
+  interferon response by SARS-CoV-2 and influenza A virus.'
+citation: GuanQun Liu, et al. Curr Opin Immunol. 2022 Oct;78:102252-102252.
+year: '2022'
+
+doi: 10.1016/j.coi.2022.102252
+journal_title: Current Opinion in Immunology
+journal_nlm_ta: Curr Opin Immunol
+publisher_name: Elsevier Ltd.
+
+keywords:
+---

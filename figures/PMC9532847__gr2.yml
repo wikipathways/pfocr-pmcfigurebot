@@ -1,0 +1,59 @@
+---
+figid: PMC9532847__gr2
+pmcid: PMC9532847
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC9532847/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: FOXA1 calibrates the alternative splicing equilibrium of PC by enhancing
+  the production of dominant isoforms(A) Overview of alternatively spliced exon trajectories
+  in the space defined by mean and standard deviation (SD) of exon inclusion levels
+  (Ψs). Color codes indicate positive (red) and negative (blue) changes of mean and
+  SD of Ψs between FOXA1 highly expressing tumors and remaining ones.(B) Cumulative
+  distribution plots depict the number (N) of exons with either positive (red) or
+  negative (blue) changes ranging from μ(Ψ)primary PC of 0.5 (i.e., mixed isoforms)
+  to the boundaries of 0 and 1 (i.e., dominant isoforms). Dashed lines represent the
+  expected mean cumulative distribution of events with inclusion changes generated
+  by 1,000 Monte Carlo simulations. Gray area represents confidence intervals (5%–95%).
+  Histograms of the number of exons with positive and negative changes are superimposed
+  on the x axis. On left panel, a preponderance of blue over red indicates that FOXA1
+  mostly inhibits exon inclusion, whereas the dominance of red compared with blue
+  indicates a major enhancement of exon inclusion by FOXA1. On right panel, a preponderance
+  of blue over red indicates that exons were more uniformly spliced across tumors
+  by FOXA1, whereas the dominance of red compared with blue indicates more heterogeneous
+  inclusion upon high FOXA1 expression.(C and D) Cumulative distribution plots depict
+  differentially alternatively spliced events (N) with positive (red) and negative
+  (blue) mean inclusion changes upon FOXA1 depletion in VCaP (C) and PC3 (D) cells
+  ranging from mixed (i.e., μ(Ψ) = 0.5) to dominant (i.e., μ(Ψ) = {0,1}) isoform population.
+  Histograms of the number of exons with positive and negative changes are superimposed
+  on the x axis. A preponderance of blue over red indicates that FOXA1 mostly inhibits
+  exon inclusion.(E) Over representation analysis performed on genes harboring FOXA1-regulated
+  AS events in primary PCs and cell lines. Shape size and gene ratio indicate the
+  number (from 12 to 59) and the fraction of selected genes in each pathway, respectively.
+  Color key represents the statistical significance (FDR) of the enrichment. Only
+  top 5 enriched pathways (FDR < 0.1), if any, are shown and sorted by statistical
+  significance. For (B–D), stars indicate the significance of two-tailed exact binomial
+  tests comparing the abundances of exons with positive and negative changes against
+  a null hypothesis with probability = 0.5 in four groups of Ψs. ∗∗p <10−2 and ∗∗∗p < 10−3.
+article_title: FOXA1 regulates alternative splicing in prostate cancer.
+citation: Marco Del Giudice, et al. Cell Rep. 2022 Sep 27;40(13):111404.
+year: '2022'
+
+doi: 10.1016/j.celrep.2022.111404
+journal_title: Cell Reports
+journal_nlm_ta: Cell Rep
+publisher_name: Cell Press
+
+keywords:
+- FOXA1
+- alternative splicing
+- prostate cancer
+- splicing factors
+- HNRNPK
+- SRSF1
+- nonsense-mediated decay
+- poison exons
+- FLNA
+- biomarkers
+
+---
