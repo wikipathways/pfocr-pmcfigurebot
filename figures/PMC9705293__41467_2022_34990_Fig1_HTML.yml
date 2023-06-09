@@ -1,0 +1,38 @@
+---
+figid: PMC9705293__41467_2022_34990_Fig1_HTML
+pmcid: PMC9705293
+image_filename: 41467_2022_34990_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC9705293/figure/Fig1/
+number: Fig. 1
+figure_title: Single-cell transcriptome atlas of the human testis in health and T2DM
+caption: a Schematic illustration of the experimental and analysis workflow. b UMAP
+  and clustering analysis of single-cell transcriptome data from normal spermatogenesis
+  human testis (n = 2810), integrated with single-cell transcriptome data of two Type
+  2 diabetes mellitus (T2DM)’ testes (DM patient 1 (DM1), n = 441; DM patient 2 (DM2),
+  n = 459). Each dot represents a single cell and is colored according to its donor
+  of origin. c UMAP plots showing the cell colors by the identified cell clusters
+  between normal and diabetic patients. d Histogram showing the number of (left) upregulated
+  differential expression genes and (right) downregulated differential genes from
+  the normal and diabetic patients single-cell RNA sequencing data. The blue histogram
+  represented total differential genes, and the red represented metabolic genes. e
+  Enriched GO terms in the upregulated and downregulated metabolism-related genes
+  of testicular cells from diabetic versus normal. The statistical test is a hypergeometric
+  test. f Metabolic pathway activities in the testicular cell types including spermatogonia
+  (SPG), spermatocyte (SPC), spermatid (SPD), and Sertoli (ST) cells from the normal
+  and diabetic single-cell RNA sequencing data.
+article_title: Targeting APLN/APJ restores blood-testis barrier and improves spermatogenesis
+  in murine and human diabetic models.
+citation: Ke Song, et al. Nat Commun. 2022;13:7335.
+year: '2022'
+
+doi: 10.1038/s41467-022-34990-3
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Type 2 diabetes
+- Metabolic disorders
+- Infertility
+
+---

@@ -1,0 +1,38 @@
+---
+figid: PMC10197783__nihpp-rs2815300v1-f0003
+pmcid: PMC10197783
+image_filename: nihpp-rs2815300v1-f0003.jpg
+figure_link: /pmc/articles/PMC10197783/figure/F3/
+number: Fig. 3 ∣
+figure_title: RCAN1 KD and CaN KD-induced chromatin changes
+caption: a, Quantification of caspase 3/7 activation (left) and annexin V signal (right)
+  in four independent HD-MSNs (HD43, HD40, HD47, HD45, n=10~18) transduced with shCtrl,
+  shRCAN1, RCAN1, or shCalcineurin (shCaN). Cells were also treated with 10 μM of
+  Cyclosporin A, a CaN inhibitor. b, Representative images (left) and quantification
+  (right) of cells with HTT inclusion bodies (IBs) in three independent HD-MSNs (HD.43,
+  HD.40, HD.47, n=3) transduced with shCtrl, shRCAN1, or shCaN. Cells were treated
+  with 10 μM of Cyclosporin A, a CaN inhibitor. Cells were immunostained with anti-HTT
+  and TUBB3 antibodies. An average of 117 cells of each were counted from three or
+  more randomly chosen fields. Scale bars represent 20 μm. c-e, Analysis of ATAC-sequencing
+  from four independent HD-MSNs (HD43, HD40, HD47, HD45, three replicates each) transduced
+  with shCtrl (control), shRCAN1 (rescuing), or shCaN (detrimental). Heatmaps (c)
+  of signal intensity in overlapping chromatin peaks of open DAR (FDR<0.05, FC≥1.5)
+  in shRCAN1-HD-MSNs and closed DAR (FDR<0.05, FC≤−1.5) in shCaN-HD-MSNs compared
+  to shCtrl-HD-MSNs. KEGG pathway enrichment analysis (d) and pathway enrichment analysis
+  (e) of genes associated with open DARs in shRCAN1-HD-MSNs and closed DARs in shCaN-HD-MSNs
+  in (c). Statistical significance was determined using one-way ANOVA in (a,b); ****p<0.0001,
+  ***p<0.001, **p<0.01, *p<0.05, and mean±s.e.m. Each dot represents one individual’s
+  reprogrammed HD-MSNs (a,b). The sample size (n) corresponds to the number of biological
+  replicates (a,b).
+article_title: Longitudinal modeling of human neuronal aging identifies RCAN1-TFEB
+  pathway contributing to neurodegeneration of Huntington’s disease.
+citation: Seong Won Lee, et al. Res Sq. 2023 May 9:rs.3.rs-2815300.
+year: '2023'
+
+doi: 10.21203/rs.3.rs-2815300/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+
+keywords:
+---

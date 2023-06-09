@@ -1,0 +1,40 @@
+---
+figid: PMC9708076__elife-82563-fig2
+pmcid: PMC9708076
+image_filename: elife-82563-fig2.jpg
+figure_link: /pmc/articles/PMC9708076/figure/fig2/
+number: Figure 2
+figure_title: The Regulator of Ace2 and Morphogenesis (RAM) pathway effector kinase
+  Cbk1 is critical for CO2 tolerance
+caption: (A). The clinical reference strain H99 and environmental strains A7-35-23
+  and A1-38-2 were grown overnight in yeast peptone dextrose (YPD), serially diluted,
+  and spotted onto solid YPD media plates. Photographs were taken 2 days after incubation
+  in the indicated condition. (B) This serial dilution spotting assay was similarly
+  performed for H99 and the mutants indicated. Two independent overexpression transformants
+  for each mutant background were included as biological replicates. (C) Heatmap showing
+  normalized total RNA counts of NanoString targets in H99 and cbk1Δ cultured at either
+  ambient or 5% CO2, red indicates higher and blue indicates lower transcript abundance.
+  (D) Volcano plot showing significantly differentially expressed transcripts (p-value
+  of <0.05) in the cbk1Δ compared to H99 in the 5% CO2 condition. (E) Serial dilution
+  spotting assay of H99 and four of the mutants found in the deletion set screening
+  to be CO2 sensitive which also correspond to significantly downregulated genes shown
+  in the volcano plot.
+article_title: The RAM signaling pathway links morphology, thermotolerance, and CO2
+  tolerance in the global fungal pathogen Cryptococcus neoformans.
+citation: Benjamin J Chadwick, et al. eLife. 2022;11:e82563.
+year: '2022'
+
+doi: 10.7554/eLife.82563
+journal_title: eLife
+journal_nlm_ta: eLife
+publisher_name: eLife Sciences Publications, Ltd
+
+keywords:
+- genetics
+- suppressor screen
+- medical mycology
+- virulence traits
+- pathogenesis
+- Other
+
+---

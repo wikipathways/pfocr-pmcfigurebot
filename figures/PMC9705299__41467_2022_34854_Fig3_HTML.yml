@@ -1,0 +1,40 @@
+---
+figid: PMC9705299__41467_2022_34854_Fig3_HTML
+pmcid: PMC9705299
+image_filename: 41467_2022_34854_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC9705299/figure/Fig3/
+number: Fig. 3
+figure_title: Injury-specific chromatin opening dictates gene activation
+caption: a Heatmap visualization of ATAC-seq signals in Sham, MI, and SI TECs centered
+  on peak summits ± 2 Kb. Peaks are ordered vertically by ATAC-seq signal strength.
+  The signal strength are denoted by color intensities. b Volcano plots showing differentially
+  expressed genes (DEGs) (MI versus SI). c Scatterplots of the DEGs and DARs-associated
+  genes. Red indicates genes that are more accessible and upregulated in SI, and blue
+  indicates genes that are more accessible and upregulated in MI. For Day 2, P = 3.08 × 10−3;
+  for Day 7, P < 2.20 × 10−16. d Visualization of H3K27ac ChIP-seq signals in Sham,
+  MI, and SI TECs centered on peak summits ± 3 Kb. e Scatterplot of the fold change
+  (MI versus SI) of ATAC-seq signals in TECs at day 2 and day 7. P < 2.20 × 10−16.
+  f Scatterplot of day 2 DARs-associated genes and day 7 DEGs. P = 7.63 × 10−15. g
+  Pathway analysis of DEGs within day 2 DARs and day 7 DARs in mild or severe injury.
+  Venn diagram shows overlap of MI- and SI-DARs-associated genes identified in c and
+  f. h Genome browser view showing DARs at the indicated gene loci for TECs. Red represents
+  increase, and blue represents decrease (b, c, f). Statistical significance was analyzed
+  by cor.test (c, e, f) or Metascape (https://metascape.org/gp/index.html) (g). Source
+  data are provided as a Source Data file.
+article_title: Chromatin accessibility dynamics dictate renal tubular epithelial cell
+  response to injury.
+citation: Xinyi Cao, et al. Nat Commun. 2022;13:7322.
+year: '2022'
+
+doi: 10.1038/s41467-022-34854-w
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Acute kidney injury
+- Epigenetics
+- Disease model
+- Chromatin remodelling
+
+---

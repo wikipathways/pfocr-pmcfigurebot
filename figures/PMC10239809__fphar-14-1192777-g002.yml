@@ -1,0 +1,32 @@
+---
+figid: PMC10239809__fphar-14-1192777-g002
+pmcid: PMC10239809
+image_filename: fphar-14-1192777-g002.jpg
+figure_link: /pmc/articles/PMC10239809/figure/F2/
+number: FIGURE 2
+figure_title: ''
+caption: Pseudotime time series analysis, enrichment analysis, and cell communication
+  analysis of 10 × scRNA-seq data from ovarian cancer. (A–C) Cell trajectory analysis
+  and pseudotime of identified immune cell types. (D) Functional enrichment analysis
+  of all cell types using the “ReactomeGSA” software package. (E,F) Cellular communication
+  networks were inferred by calculating the likelihood of communication. Studies of
+  intercellular communication networks suggest that the CXCL signaling pathway plays
+  an important role in intercellular communication networks.
+article_title: A novel T-cell exhaustion-related feature can accurately predict the
+  prognosis of OC patients.
+citation: Kemiao Yuan, et al. Front Pharmacol. 2023;14:1192777.
+year: '2023'
+
+doi: 10.3389/fphar.2023.1192777
+journal_title: Frontiers in Pharmacology
+journal_nlm_ta: Front Pharmacol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- t cell exhaustion
+- OC
+- ScRNA-seq
+- machine learning
+- immunotherapy
+
+---

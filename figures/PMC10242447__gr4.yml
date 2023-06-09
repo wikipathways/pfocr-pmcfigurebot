@@ -1,0 +1,46 @@
+---
+figid: PMC10242447__gr4
+pmcid: PMC10242447
+image_filename: gr4.jpg
+figure_link: /pmc/articles/PMC10242447/figure/fig4/
+number: Figure 4
+figure_title: ''
+caption: TI characteristics of four monocyte subpopulations(A and B) The number of
+  up- and downregulated TIGs in each subpopulation. The results of pathway enrichment
+  analysis using up- and downregulated TIGs identified in (A), separately, are summarized
+  in (B). See also C–S4F. Pathways in the pink area were upregulated and in the blue
+  area downregulated. IFN-γ pathways were upregulated in TM1 but downregulated in
+  TM2.(C and D) Comparisons of the number of shared and unique TIGs in high and low
+  responders in each population. The results of enrichment analysis (C) using specific
+  up- and downregulated TIGs in high and low responders, separately, are summarized
+  in (D). Pathways in the pink area were upregulated and in the blue area downregulated.
+  Interestingly, IFN-γ pathways were upregulated in TM1 in high responders but were
+  downregulated in TM2 in low responders. This again indicated the importance of IFN-γ
+  pathways in TI and the role of these pathways in explaining individual diversity
+  in responding to TI. See also C–S5H and A–S6D.(E) Further investigation comparing
+  monocytes and CD8+ T cells explored communications between four monocyte subpopulations
+  and CD8+ T cells. The expression level of the top 20 most active ligands identified
+  in four subpopulations are shown as a dot plot. Different ligands were interacting
+  with CD8+ T cells in each subpopulation, and TM1 was the most active cell type.
+  Heatmap shows the potential regulatory relationship between ligands in monocyte
+  subpopulations and TIGs in CD8+ T cells. See also E–S6G.
+article_title: A single-cell view on host immune transcriptional response to in vivo
+  BCG-induced trained immunity.
+citation: Wenchao Li, et al. Cell Rep. 2023 May 30;42(5):112487.
+year: '2023'
+
+doi: 10.1016/j.celrep.2023.112487
+journal_title: Cell Reports
+journal_nlm_ta: Cell Rep
+publisher_name: Cell Press
+
+keywords:
+- trained immunity
+- BCG
+- monocyte heterogeneity
+- IFN-γ
+- STAT1
+- single-cell RNA-seq
+- in vivo training
+
+---

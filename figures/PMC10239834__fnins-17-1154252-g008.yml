@@ -1,0 +1,32 @@
+---
+figid: PMC10239834__fnins-17-1154252-g008
+pmcid: PMC10239834
+image_filename: fnins-17-1154252-g008.jpg
+figure_link: /pmc/articles/PMC10239834/figure/fig8/
+number: Figure 8
+figure_title: ''
+caption: 'HBNW response to translational motion sequences. Here we plotted HBNW response
+  to translational motion sequence: 180°. (A) represents a frame in an input sequence
+  and corresponding DSMN response is shown in (B). Hebbian network (16 × 16 × 8) response
+  titled as “HBNW Resp” is plotted in (C). At each vertical column, the winner is
+  highlighted with the arrow whose head indicate the neuron’s direction preference.'
+article_title: Modeling the development of cortical responses in primate dorsal (“where”)
+  pathway to optic flow using hierarchical neural field models.
+citation: Anila Gundavarapu, et al. Front Neurosci. 2023;17:1154252.
+year: '2023'
+
+doi: 10.3389/fnins.2023.1154252
+journal_title: Frontiers in Neuroscience
+journal_nlm_ta: Front Neurosci
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- optic flow
+- lateral connectivity
+- asymmetric Hebbian learning
+- response similarity matrix
+- motion processing
+- multi stage neural network
+- neural field network
+
+---

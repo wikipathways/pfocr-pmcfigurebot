@@ -1,0 +1,41 @@
+---
+figid: PMC10241105__fcvm-10-1148618-g005
+pmcid: PMC10241105
+image_filename: fcvm-10-1148618-g005.jpg
+figure_link: /pmc/articles/PMC10241105/figure/F5/
+number: Figure 5
+figure_title: ''
+caption: Predicted miRNA-gene regulatory networks in mouse hearts within the first
+  9 postnatal days. (A) Chord diagram showing that target genes of early downregulated
+  miRNAs (P04–P01) were enriched in GO:BP and KEGG pathways (p ≤ 0.05) associated
+  with cell cycle and proliferation. (B) The upregulated miR-150-5p showed negative
+  regulatory effect on GO biological processes and KEGG pathways (p ≤ 0.05) related
+  to cell cycle and proliferation in P01 to P09 time span. (C,D) Chord diagram demonstrating
+  interaction network between enriched biological processes (C) and KEGG pathways
+  (D) with downregulated miRNAs identified in P09–P04 and P09–P01 comparisons. The
+  enrichment of the target genes of each miRNA with the GO biological processes and
+  KEGG pathways (p ≤ 0.05) are presented with a single color. Gene-regulatory networks
+  of miRNAs from P09–P01 comparison are shown in black color. The size of the section
+  representing each GO term or KEGG pathway is proportional to the number of target
+  genes associated with the corresponding GO term or KEGG pathway. (E) Sankey plot
+  showing mitochondria-associated GO:CC enriched in verified target genes of downregulated
+  miRNAs in the P09–P04 comparison.
+article_title: Genome-wide profiling of miRNA-gene regulatory networks in mouse postnatal
+  heart development—implications for cardiac regeneration.
+citation: Umesh Chaudhari, et al. Front Cardiovasc Med. 2023;10:1148618.
+year: '2023'
+
+doi: 10.3389/fcvm.2023.1148618
+journal_title: Frontiers in Cardiovascular Medicine
+journal_nlm_ta: Front Cardiovasc Med
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- miRNAs
+- gene regulatory networks
+- transcriptomics
+- neonatal mouse heart
+- cardiac development
+- cardiac regeneration
+
+---

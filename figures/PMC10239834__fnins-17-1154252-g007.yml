@@ -1,0 +1,36 @@
+---
+figid: PMC10239834__fnins-17-1154252-g007
+pmcid: PMC10239834
+image_filename: fnins-17-1154252-g007.jpg
+figure_link: /pmc/articles/PMC10239834/figure/fig7/
+number: Figure 7
+figure_title: ''
+caption: The response of Model-1 to optic flow sequences. The response of OFNW to
+  (A) Anti-clockwise sequence, (B) clockwise sequence, (C) zooms out or radially outward
+  sequence, and (D) zoom in or radially inward sequence. In each case, “DSMN Resp”
+  represents the populations of neurons that are active in each tile of DSMN. “CPNW
+  Resp” represents the subset of neurons that are active in each cell-plane in response
+  to the given optic flow stimulus. The responses on eight cell-planes are arranged
+  as a 1D vector before giving it to OFNW. OFNW is a four-class perceptron made up
+  of two layers (input and output), and its response to four types of optic flow patterns
+  is shown as OFNW Resp.
+article_title: Modeling the development of cortical responses in primate dorsal (“where”)
+  pathway to optic flow using hierarchical neural field models.
+citation: Anila Gundavarapu, et al. Front Neurosci. 2023;17:1154252.
+year: '2023'
+
+doi: 10.3389/fnins.2023.1154252
+journal_title: Frontiers in Neuroscience
+journal_nlm_ta: Front Neurosci
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- optic flow
+- lateral connectivity
+- asymmetric Hebbian learning
+- response similarity matrix
+- motion processing
+- multi stage neural network
+- neural field network
+
+---

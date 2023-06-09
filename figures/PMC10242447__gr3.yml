@@ -1,0 +1,45 @@
+---
+figid: PMC10242447__gr3
+pmcid: PMC10242447
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC10242447/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: 'Subclustering of monocytes based on TI responses, which are changes between
+  T3m_LPS and T0_LPS(A) Unsupervised clustering using the top 50 most variable genes
+  in monocytes. For each gene in each cell, the value was calculated by the difference
+  in T3m_LPS and the mean value of the corresponding gene in the corresponding individual
+  in T0_LPS. Spearman correlation was calculated between cells, and k-means was used
+  to cluster cells. In total, four distinct monocytes were identified. See also A
+  and S4B.(B) UMAP visualization of identified monocyte subpopulations. Monocytes
+  were extracted from the UMAP of PBMC in T3m_LPS, and cells in each subpopulation
+  were mapped to UMAP directly. Four subpopulations were independently distributed,
+  which may demonstrate their heterogeneous functions in TI.(C) Expression level of
+  markers in four defined monocyte subpopulations. Based on the markers, four subpopulations
+  were defined: type I IFN-related monocytes (TM1); proinflammatory cytokine monocytes
+  (mainly IL-1 pathway) (TM2); proinflammatory monocytes (combination of chemokines
+  and IFNs) (TM3); and neutrophil-related monocytes (TM4).(D) Comparative analysis
+  of four monocyte subpopulations and previously reported monocyte subpopulations
+  (i.e., MCI and MC) using an in vitro dataset. Markers of MCI and MC were selected
+  from Zhang et al. The expression pattern indicated that TM1–TM3 were subtypes of
+  MCI while TM4 tended to have characteristics similar to those of MC.'
+article_title: A single-cell view on host immune transcriptional response to in vivo
+  BCG-induced trained immunity.
+citation: Wenchao Li, et al. Cell Rep. 2023 May 30;42(5):112487.
+year: '2023'
+
+doi: 10.1016/j.celrep.2023.112487
+journal_title: Cell Reports
+journal_nlm_ta: Cell Rep
+publisher_name: Cell Press
+
+keywords:
+- trained immunity
+- BCG
+- monocyte heterogeneity
+- IFN-γ
+- STAT1
+- single-cell RNA-seq
+- in vivo training
+
+---

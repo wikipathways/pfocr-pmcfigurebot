@@ -1,0 +1,58 @@
+---
+figid: PMC9700323__gr4
+pmcid: PMC9700323
+image_filename: gr4.jpg
+figure_link: /pmc/articles/PMC9700323/figure/fig4/
+number: Figure 4
+figure_title: ''
+caption: Enhanced DNA protection ability of the YHSC for hadal adaptationGenes in
+  red and blue underwent the expansion and positive selection in the YHSC, while genes
+  in green and yellow refer to expanded and positively selected genes in P. swirei.(A–C)
+  Mechanisms for restoring stalled and collapsed replication forks., Upon encountering
+  obstacles, the replication fork stalled, and the ssDNA is generated and covered
+  by replication protein A (RPA) to avoid secondary structure formation. The stalled
+  fork can be rescued through the fork recovery pathway by activating the downstream
+  effector CHK1 (A) or REV1-mediated translesion synthesis, (B). If the fork is not
+  properly restarted, the replication fork collapses, one-ended double-strand breaks
+  are induced and the fork is repaired by homologous recombination (C). (A) In the
+  fork recovery pathway, the ssDNA-RPA complex recruits some proteins., Meanwhile,
+  BRCA2 catalyzes the formation and stabilization of RAD51-ssDNA filaments, which
+  protects nascent DNA from MRE11-mediated nucleolytic degradation., Then, CHK1 is
+  activated with the help of G2E3, and the replication fork restarts after obstacle
+  removal., (B) In the translesion synthesis pathway, RAD18 and RAD6 interact with
+  the ssDNA-RPA complex and then ubiquitinate proliferating cell nuclear antigen (PCNA).
+  REV1, which possesses a high affinity for ubiquitinated PCNA, is recruited to lesions
+  and mediates translesion synthesis by interacting with Polζ and one of the three
+  Y-family polymerases (Polι, Polη, and Polκ), and selecting the polymerases required
+  for translesion synthesis., (C) In the homologous recombination pathway, the RAD51
+  filament facilitates strand invasion and homologous recombination after binding
+  with RAD51AP1.(D) Phylogeny based on proteins containing the BRCA2 repeat domain
+  (BRCA2) showed expansion of BRCA2 in the YHSC genome.(E) A gene tree of G2E3 constructed
+  by Orthofinder (version 2.3.8).(F) Phylogenetic tree based on protein sequences
+  containing DEAD/DEAH box helicases (DEAD). RecQ family labeled with an arc was not
+  further subdivided, as different members could not be distinguished from each other.
+  Nevertheless, 49 genes from the YHSC were annotated as WRN, far more than those
+  from other species.(G) Phylogeny built with proteins containing the impB/mucB/samB
+  family C-terminal domain (IMS_C) showing the expansion of the REV1 gene.(H) Nucleotide
+  excision repair pathway. In the presence of DNA lesions, XPC or RNA Pol II loads
+  TFIIH onto DNA, which is promoted by XPA. Upon detection of a bulky lesion, XPF-ERCC1
+  and XPG make dual incisions.(I) Multiple sequence alignment of XPC. XPC underwent
+  convergent positive selection in the hadal YHSC and P. swirei. Amino acids unique
+  to the YHSC or P. swirei are indicated by arrows.
+article_title: The genome of a hadal sea cucumber reveals novel adaptive strategies
+  to deep-sea environments.
+citation: Guangming Shao, et al. iScience. 2022 Dec 22;25(12):105545.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.105545
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Zoology
+- Genetics
+- Evolutionary mechanisms
+- Genomics
+
+---

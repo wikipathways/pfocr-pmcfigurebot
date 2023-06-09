@@ -1,0 +1,51 @@
+---
+figid: PMC9703440__41467_2022_34969_Fig5_HTML
+pmcid: PMC9703440
+image_filename: 41467_2022_34969_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC9703440/figure/Fig5/
+number: Fig. 5
+figure_title: p38α controls Blimp1 transcription through TCF3
+caption: 'a Schematic outline of CRISPR/Cas9 screen of p38α substrates in iPC differentiation.
+  Naive B cells from Cas9tg/+ mice (GFP+) and WT littermates (GFP−) were mixed at
+  a 1:1 ratio and cultured. Cultured B cells were transduced with retroviruses encoding
+  individual sgRNAs targeting p38α substrates, BFP, and puromycin-resistance gene
+  at day 2. iPCs at day 8 among retrovirus-transduced Cas9-expressing B cells (CD19+GFP+BFP+CD138+)
+  were analyzed by flow cytometry. b Summary of the screen results in (a). X axis:
+  The ratio between iPCs percentages of p38α substrates sgRNA-expressing and NTC sgRNA-expressing
+  B cells (Fold change); Y axis: The variation of effect on iPCs generation of 3 sgRNAs
+  targeting gene of interest as measured by Students’ t-tests. c Flow cytometry analysis
+  of iPCs among cultured Cas9tg/+ B cells transduced with retroviruses encoding p38α
+  or Tcf3 sgRNA (CD19+GFP+BFP+CD138+). Immunoblot analysis of BLIMP1, TCF3 and Actin
+  expression in Tcf3 sgRNA expressing B cells at indicated time of culture. d Schematic
+  diagram of a putative TCF3-binding site in the Prdm1 locus. p38α KO and WT B cells
+  cultured on IL-21 feeder cells for 2 days were utilized for CUT&Tag assay and immunoprecipitated
+  with anti-TCF3 antibody. The enrichment of TCF3 binding genomic fragments containing
+  the reported TCF3 binding site in Blimp1 enhancer region was measured by quantitative
+  RT-PCR (n = 3 per group). e Flow cytometry analysis of iPCs among cultured p38α
+  KO B cells transduced with retroviruses encoding the TCF3 splicing isoforms E12
+  and E47 (CD19+GFP+CD138+) (n = 6 per group), protein levels of TCF3, IgG H-chain,
+  BLIMP1, p38α, and Actin were analyzed by immunoblot. f Flow cytometry analysis of
+  iPCs among cultured Tcf3 KO B cells transduced with retroviruses encoding p38α (CD19+GFP+CD138+)
+  (n = 7 per group). g Flow cytometry analysis of iPCs (CD19+CD138+) among cultured
+  p38αfl/flCD19cre, Tcf3fl/flCD19cre, p38αfl/flTcf3fl/flCD19cre, p38αfl/flTcf3fl/fl
+  B cells at day 8 of in vitro iPC differentiation (n = 3 per group). NTC, non-targeting
+  control. Data were representative of at least three independent experiments (b–g).
+  Each symbol represents a representative sample. Small horizontal lines indicate
+  the mean (±s.d.). Data were analyzed by two-tailed unpaired t-tests. Source data
+  are provided as a Source Data file.'
+article_title: A p38α-BLIMP1 signalling pathway is essential for plasma cell differentiation.
+citation: Jianfeng Wu, et al. Nat Commun. 2022;13:7321.
+year: '2022'
+
+doi: 10.1038/s41467-022-34969-0
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Plasma cells
+- Stress signalling
+- Germinal centres
+- Gene targeting
+
+---

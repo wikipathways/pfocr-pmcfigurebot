@@ -1,0 +1,34 @@
+---
+figid: PMC10239834__fnins-17-1154252-g014
+pmcid: PMC10239834
+image_filename: fnins-17-1154252-g014.jpg
+figure_link: /pmc/articles/PMC10239834/figure/fig14/
+number: Figure 14
+figure_title: ''
+caption: Direction tuning in conv1 layer. (A, B) shows conv1 response similarity matrix
+  (8 × 8) for speed1 and speed2 respectively. Entries in the matrix indicating pairwise
+  Euclidean distance between responses to translational motion directions (one sequence
+  considered for each direction). The directions are indicated along the axes. From
+  the plot one can observe that the conv1 layer produce similar response to the sequences
+  with opposite directions. Matrix entries along green lines are positively correlated
+  and the entries between orthogonal angle are negatively correlated (values are <0).
+article_title: Modeling the development of cortical responses in primate dorsal (“where”)
+  pathway to optic flow using hierarchical neural field models.
+citation: Anila Gundavarapu, et al. Front Neurosci. 2023;17:1154252.
+year: '2023'
+
+doi: 10.3389/fnins.2023.1154252
+journal_title: Frontiers in Neuroscience
+journal_nlm_ta: Front Neurosci
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- optic flow
+- lateral connectivity
+- asymmetric Hebbian learning
+- response similarity matrix
+- motion processing
+- multi stage neural network
+- neural field network
+
+---

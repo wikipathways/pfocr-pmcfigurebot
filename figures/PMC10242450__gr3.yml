@@ -1,0 +1,48 @@
+---
+figid: PMC10242450__gr3
+pmcid: PMC10242450
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC10242450/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: Relationship between the mTOR activity signature in the vaginal microenvironment(A)
+  Heatmap of the leading mTOR edge proteins identified by GSEA and relationship to
+  vaginal microbiome.(B) Core mTOR proteins identified using the Pathway Interaction
+  Database were used to identify mTOR expression. An mTOR activity score was determined
+  using partial least-squares discriminant analysis (PLS-DA) inference of the latent
+  variable combining pathway proteins or transcripts to describe mTOR pathway activity
+  relative to LD status (“mTOR Score”). This numeric score was then used to determine
+  both host and bacterial factors that associate with a high mTOR score. See A for
+  mTOR score analysis performed using Nugent score.(C) Vaginal tissue gene expression
+  for immune response pathways (inflammation, TNFα, IFNγ) overlapped with genes associated
+  with mTOR and LPS-stimulated genes identified using significant pathways identified
+  GSEA when comparing Lactobacillus-dominant (LD) with non-dominant (nLD) groups.(D)
+  mTOR score is significantly correlated with measured epithelial barrier protein
+  expression in the mucosal fluid (Spearman’s correlations, p < 0.0001) showing key
+  distinctions in barrier function and structural changes that were clearly separated
+  by cluster analysis.
+article_title: Vaginal epithelial dysfunction is mediated by the microbiome, metabolome,
+  and mTOR signaling.
+citation: Alicia R. Berard, et al. Cell Rep. 2023 May 30;42(5):112474.
+year: '2023'
+
+doi: 10.1016/j.celrep.2023.112474
+journal_title: Cell Reports
+journal_nlm_ta: Cell Rep
+publisher_name: Cell Press
+
+keywords:
+- vaginal microbiome
+- metabolomics
+- proteomics
+- transcriptomics
+- bacterial vaginosis
+- BV
+- vaginal dysbiosis
+- mTOR signaling
+- in vitro models
+- epithelial barrier
+- inflammation
+- imidazolepropionic acid
+
+---

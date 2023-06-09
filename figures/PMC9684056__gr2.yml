@@ -1,0 +1,39 @@
+---
+figid: PMC9684056__gr2
+pmcid: PMC9684056
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC9684056/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: Impaired cell proliferation and attenuated Notch signaling occur in the islets
+  of T-cadherin KO mice under HFD conditions(A) Principal component analysis of gene
+  expression profiles of islets isolated from 8-week-old (8w) and 14-week-old CT and
+  KO mice fed an NC or HFD for 6 weeks (n = 3).(B) Volcano plot of DE-Gs of the isolated
+  islets under HFD conditions. Data show expression in KO mice compared to CT mice.(C)
+  Enrichment analysis of DE-Gs from the isolated islets under HFD conditions using
+  the terms of Gene Ontology biological process. Data show regulations in KO mice
+  compared to CT mice.(D) Analysis of canonical pathways under HFD conditions using
+  Ingenuity Pathway Analysis. Data show the regulation of canonical pathways in KO
+  mice compared to CT mice.(E) Heatmap of mRNA expression associated with cell proliferation,
+  Notch signaling, and the IL-6 family in RNA-seq analysis. The color scale shows
+  Z scored FPKM, representing the mRNA expression of each gene in blue (low)-white-red
+  (high).(F and G) Quantitative PCR analyses of the isolated murine islets under HFD
+  conditions and with the genes associated with cell proliferation, Notch signaling,
+  and the IL-6 family (F), and maturation of pancreatic β-cells (G) (∗∗p < 0.01, ∗∗∗p < 0.001;
+  unpaired t test. n = 8). Data are shown as the mean ± SEM (F and G). See also .
+article_title: Soluble T-cadherin promotes pancreatic β-cell proliferation by upregulating
+  Notch signaling.
+citation: Tomonori Okita, et al. iScience. 2022 Nov 18;25(11):105404.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.105404
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Molecular biology
+- Immunology
+- Cell biology
+
+---

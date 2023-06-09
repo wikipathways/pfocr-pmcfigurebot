@@ -1,0 +1,42 @@
+---
+figid: PMC9700271__gr2
+pmcid: PMC9700271
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC9700271/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: Boolean decision in RTG signaling pathway(A) Logic gate analog for the RTG
+  signaling pathway Rtg1p(left) and Rtg3p(right). Mitochondrial damage and the existence
+  of Rtg1p, Rtg2p, and Rtg3p determined the translocation of Rtg1p into nucleus through
+  a series of logic gate decisions (). The input is defined as 0 with knockout protein
+  or absence of mitochondrial damage, and 1 represents the existence of a protein
+  or mitochondrial damage. On the other hand, the output is defined as 1 with nucleus
+  accumulation and 0 means no accumulation event. The solid line represents logic
+  gate decision for nucleus accumulation, and the dotted line represents biological
+  process that leads to retrograde response.(B) Boolean transformation of Rtg proteins
+  nucleus translocation in healthy and damaged mitochondria. Simulated distribution
+  of GFP-labeled Rtg1p under multiple conditions was compared to the Boolean model.
+  The steady states of GFP proteins are listed by the cell icon labeled with nucleus
+  (inner circle) and cytoplasmic (outer circle) concentration in arbitrary units.
+  Localized concentrations are described as the summation of GFP-labeled proteins,
+  including heterodimers. The relative quantity indicates the localized concentration-to-summation
+  ratio, from 0 (gray) to 1 (green). To verify the result, simulated distributions
+  are compared with the qualitative data of // () and  (). Nuclear accumulation is
+  regarded as nuclear-to-cytoplasmic ratio is greater than 1.5. Simulation distribution
+  of GFP-labeled Rtg1p(left) and GFP-labeled Rtg3p(right).
+article_title: Mathematical modeling and analysis of mitochondrial retrograde signaling
+  dynamics.
+citation: Shao-Ting Chiu, et al. iScience. 2022 Dec 22;25(12):105502.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.105502
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Biological sciences
+- Cell biology
+- Systems biology
+
+---

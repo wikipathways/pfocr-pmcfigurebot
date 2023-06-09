@@ -1,0 +1,44 @@
+---
+figid: PMC10186977__gr4_lrg
+pmcid: PMC10186977
+image_filename: gr4_lrg.jpg
+figure_link: /pmc/articles/PMC10186977/figure/fig4/
+number: Figure 4
+figure_title: ''
+caption: Multi-omics integration reveals the landscape of time-resolved host responses(A)
+  Workflow of MOFA integrating the four omics datasets.(B) MOFA deconstructed vast
+  variances into 15 factors in PLT-T, PLT-P, PLM-T, and PLM-M.(C) Correlation analysis
+  of the top 15 MOFA factors with clinical parameters.(D) Top 15 MOFA factors were
+  classified into three groups and two waves of host responses. AR, acute response;
+  PR, persistent response; CR, convalescence response; and Var.%, percentage of variances
+  explained.(E) Differences of factors among distinct Omicron phases (left) along
+  with top-weighted features from the four omics datasets (right) in the AR group.
+  Red font indicates positive weighting, whereas blue font shows negative weighting.(F–I)
+  Pathway enrichment analyses utilizing the four omics datasets for each factor from
+  the three response groups. Red dots indicate enrichment in positive changes, whereas
+  blue dots show enrichment in negative changes in Omicron patients compared with
+  healthy controls.(J) Pathway enrichment of the platelet proteome in factor 1. The
+  x axis shows enriched pathways, whereas the y axis shows the −log (10) p value.See
+  also  and .
+article_title: Multi-omics blood atlas reveals unique features of immune and platelet
+  responses to SARS-CoV-2 Omicron breakthrough infection.
+citation: 'Hong Wang, et al. Immunity. 2023 May 16 '
+year: '2023'
+
+doi: 10.1016/j.immuni.2023.05.007
+journal_title: Immunity
+journal_nlm_ta: Immunity
+publisher_name: Elsevier Inc.
+
+keywords:
+- COVID-19
+- Omicron, platelet
+- blood
+- plasma
+- platelet-leukocyte aggregate
+- re-positive
+- proteome
+- metabolome
+- single-cell RNA-seq
+
+---

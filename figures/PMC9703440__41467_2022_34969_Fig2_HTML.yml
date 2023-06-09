@@ -1,0 +1,47 @@
+---
+figid: PMC9703440__41467_2022_34969_Fig2_HTML
+pmcid: PMC9703440
+image_filename: 41467_2022_34969_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC9703440/figure/Fig2/
+number: Fig. 2
+figure_title: p38α promotes plasma cell generation in a cell-intrinsic and kinase
+  activity-dependent manner
+caption: a Schematic outline of in vitro plasma cell (iPC) differentiation from splenic
+  naïve B cells. Flow cytometry analysis of the percentage of iGCB cells (CD19+FashiGL7hi)
+  at day 4 and iPCs (CD19+CD138+) at day 8 of culture, and supernatant IgG1 and IgE
+  of p38α KO and WT B cells at day 8 of iPC culture were measured by ELISA (n = 6
+  per group). b Principal-component analysis (PCA) of RNA-seq data from sorted iGCB
+  cells (n = 2 per group), iPCs (CD19+CD138+) and CD138− B cells (CD19+CD138−) of
+  indicated genotypes (n = 3 per group). Numbers of upregulated (red) and downregulated
+  (blue) genes (p value < 0.01) in p38α KO iGCB cells and iPCs in comparison with
+  WT cells. c Purified splenic naïve B cells from p38αfl/flVavcre or p38αfl/fl mice
+  (CD45.2+) were mixed and co-cultured with CD45.1+ WT splenic naïve B cells at a
+  1:1 ratio. Flow cytometry analysis of iPCs gated on CD45.1+ and CD45.2+ B cells
+  in iPC differentiation system at day 8 of culture (n = 3 per group). d Immunoblot
+  analysis of p38α, p-p38α, IgG heavy (H)-chain and Actin in cultured p38α KO and
+  WT B cells at indicated time points after being transferred onto IL-21 feeder cells.
+  e Cultured p38α KO and WT B cells were transduced with retroviruses encoding p38α
+  and p38α kinase-dead mutants (K53M or T180A/Y182F) at day 2 of iGCB cell differentiation.
+  iPCs among retrovirus-transduced B cells (CD19+GFP+CD138+) were analyzed by flow
+  cytometry 6 days after retroviral transduction (n = 6 per group). Protein levels
+  of p38α, IgG heavy (H)-chain and Actin in retrovirus-transduced B cells were analyzed
+  by immunoblot. Data were representative of at least three independent experiments
+  (a), (c–e). Each symbol represents a representative sample. Small horizontal lines
+  indicate the mean (±s.d.). Data were analyzed by two-tailed unpaired t-tests. Source
+  data are provided as a Source Data file.
+article_title: A p38α-BLIMP1 signalling pathway is essential for plasma cell differentiation.
+citation: Jianfeng Wu, et al. Nat Commun. 2022;13:7321.
+year: '2022'
+
+doi: 10.1038/s41467-022-34969-0
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Plasma cells
+- Stress signalling
+- Germinal centres
+- Gene targeting
+
+---

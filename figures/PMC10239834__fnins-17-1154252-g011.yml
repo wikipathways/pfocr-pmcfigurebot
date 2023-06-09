@@ -1,0 +1,37 @@
+---
+figid: PMC10239834__fnins-17-1154252-g011
+pmcid: PMC10239834
+image_filename: fnins-17-1154252-g011.jpg
+figure_link: /pmc/articles/PMC10239834/figure/fig11/
+number: Figure 11
+figure_title: ''
+caption: NF response in VSMN. In (A) first and fourth columns display the first frame
+  (8 × 8) of an input sequence that consists of dots (2 × 2) moving in specific direction
+  with two speeds. The second, third, fifth, and sixth columns represent the corresponding
+  NF (48 × 48) activity. The same neuron population become selective to the inputs
+  of same direction and different speeds, however within the population neurons have
+  different speed preferences which are shown in (B) the velocity selective map. Neuron
+  direction preferences are shown by head of the arrow and the speed preferences are
+  shown by the arrow color. Color bars indicate 16 input types (8 directions × 2 speeds).
+  1–8 belong to speed-1 and 9–16 to speed-2. (C) shows the architecture of CNN. (D)
+  shows the confusion matrix obtained for the test set.
+article_title: Modeling the development of cortical responses in primate dorsal (“where”)
+  pathway to optic flow using hierarchical neural field models.
+citation: Anila Gundavarapu, et al. Front Neurosci. 2023;17:1154252.
+year: '2023'
+
+doi: 10.3389/fnins.2023.1154252
+journal_title: Frontiers in Neuroscience
+journal_nlm_ta: Front Neurosci
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- optic flow
+- lateral connectivity
+- asymmetric Hebbian learning
+- response similarity matrix
+- motion processing
+- multi stage neural network
+- neural field network
+
+---

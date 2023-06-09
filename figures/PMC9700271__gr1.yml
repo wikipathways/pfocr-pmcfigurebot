@@ -1,0 +1,46 @@
+---
+figid: PMC9700271__gr1
+pmcid: PMC9700271
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC9700271/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: Mitochondrial retrograde signaling pathway model(A) The mitochondria-to-nucleus
+  communication circuit. Retrograde signaling is divided into the activation layer
+  and modulation layer. Retrograde proteins (Bmhp, Mksp, and Rtg1/2/3p) are classified
+  into an active (-act) and inactive state (-ina). Cellular compartments are divided
+  based on the nucleus (-nuc) and cytosol (-cyt). The arrow represents the binding
+  of two proteins, transformation of active states, or translocation between nucleus
+  and cytosol, with the kinetic coefficient labeled besides it. The input s is defined
+  as the summation of mitochondrial damage signals. Rtg2p is activated once the mitochondrion
+  loses its membrane potential, or the ATP concentration decreases. The active form
+  of Rtg2p suppresses the formation of the Mks/bmhp complex by competitive binding
+  with Mksp, resulting in dephosphorylation of Rtg3p and translocates to the nucleus
+  accompanied by Rtg1p. The Rtg1p-Rtg3p complex eventually triggers the retrograde
+  response and upregulates CIT2 expression.(B) Step responses of Bmh/Mksp, Rtg1pn
+  and Rtg3pn showing switch-like responses of Bmh/Mksp, capacity-charging curve with
+  a time delay for Rtg1pn and delayed two-staged rise with a sharp transition at the
+  beginning, for Rtg3pn.(C) The sinusoidal inputs of  Hz response reveals RTG signaling
+  pathway as a low-pass filter. The mitochondrial damage signal (thin gray line),
+  labeled as the input with quantity shown on the right y axis. The concentration
+  of RTG proteins (thick blue line), regarded as outputs with quantities labeled on
+  the left y axis. To normalize the response, the mass fraction is defined as the
+  ratio of the concentration of a given protein set to its total concentration. Nucleus
+  accumulation is described by the ratio of nucleus concentration to total protein
+  concentration.
+article_title: Mathematical modeling and analysis of mitochondrial retrograde signaling
+  dynamics.
+citation: Shao-Ting Chiu, et al. iScience. 2022 Dec 22;25(12):105502.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.105502
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Biological sciences
+- Cell biology
+- Systems biology
+
+---

@@ -1,0 +1,50 @@
+---
+figid: PMC10244093__ajcr0013-1718-f2
+pmcid: PMC10244093
+image_filename: ajcr0013-1718-f2.jpg
+figure_link: /pmc/articles/PMC10244093/figure/fig02/
+number: Figure 2
+figure_title: ''
+caption: 'Linc00662 was identified as a m6A-enriched lncRNA in PC cells. A. MeRIP
+  sequencing analysis showed that the knockdown of METTL3 significantly reduced the
+  number of unique m6A genes in PANC-1 cells. B. MeRIP sequencing analysis showed
+  that the knockdown of METTL3 significantly reduced the number of unique m6A peaks
+  in PANC-1 cells. C. MeRIP sequencing revealed that the knockdown of METTL3 caused
+  4631 hypomethyladenosine RNAs and 3151 hypermethyladenosine RNAs in PANC-1 cells.
+  D. RNA sequencing revealed that the knockdown of METTL3 caused 938 downregulated
+  RNAs and 461 upregulated RNAs in PANC-1 cells. E. An interaction analysis of MeRIP
+  and RNA sequencing screened five hypomethyladenosine lncRNAs (OIP5-AS1, AC021078.1,
+  MAGI2-AS3, MIR100HG, Linc00662) in METTL3-knockdown PANC-1 cells, which were all
+  downregulated at the RNA level. F. The expression of the five lncRNAs was examined
+  in PC cells using qPCR and the results showed that Linc00662 showed a consistent
+  downregulation in the two strains of METTL3-knockdown PC cells. G. Correlation analysis
+  indicated a positive relationship between METTL3 and Linc00662 expressions in PC
+  tissues (P = 2.1e-08) using an online bioinformatics analysis tool (GEPIA). H. The
+  m6A peak on Linc00662 was located on chromosome 19 (27723041~27732875), which is
+  consistent with the Linc00662-201 transcript. I. Schematic diagram of m6A motifs
+  on Linc00662. The m6A peak was located on the third exon (exon 3) of Linc00662 containing
+  four m6A motifs: A341, A672, A841, and A1725. J. The m6A motifs on Linc00662 were
+  predicted using the online tool SRAMP. Three of the four m6A motifs were covered
+  with moderate or low confidence. Red arrows indicate the m6A motifs: A341, A672,
+  and A841. K. Four m6A motifs on Linc00662 were confirmed in PC cells using MeRIP-qPCR.
+  Abbreviations: PC: pancreatic cancer, MeRIP: Methylated RNA immunoprecipitation,
+  qPCR: quantitative polymerase chain reaction, m6A: N6-methyladenosine.'
+article_title: Linc00662 m6A promotes the progression and metastasis of pancreatic
+  cancer by activating focal adhesion through the GTF2B-ITGA1-FAK pathway.
+citation: Shuo Zhang, et al. Am J Cancer Res. 2023;13(5):1718-1743.
+year: '2023'
+
+doi: ''
+journal_title: American Journal of Cancer Research
+journal_nlm_ta: Am J Cancer Res
+publisher_name: e-Century Publishing Corporation
+
+keywords:
+- Pancreatic cancer
+- N6-methyladenosine
+- Linc00662
+- focal adhesion
+- ITGA1
+- FAK
+
+---

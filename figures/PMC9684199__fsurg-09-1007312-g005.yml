@@ -1,0 +1,38 @@
+---
+figid: PMC9684199__fsurg-09-1007312-g005
+pmcid: PMC9684199
+image_filename: fsurg-09-1007312-g005.jpg
+figure_link: /pmc/articles/PMC9684199/figure/F5/
+number: Figure 5
+figure_title: ''
+caption: KEGG pathway enrichment analysis results of differential genes. (A) KEGG
+  pathway enrichment results in differential expression of circRNAs in wound tissues
+  of diabetic patients. (B). KEGG pathway enrichment analysis of differentially expressed
+  circRNAs in diabetic wound tissues. (C) KEGG functional enrichment analysis of differentially
+  expressed miRNAs in wound tissues of diabetic patients showed that the differentially
+  expressed genes are involved in multiple signaling pathways. (D) KEGG pathway enrichment
+  results of differentially expressed miRNA in diabetic wound tissues. According to
+  the results of KEGG enrichment pathway analysis, the degree of enrichment was measured
+  by rich factor, FDR values, and the number of miRNA target genes enriched on this
+  pathway. The value range of FDR is 0–1. The closer it is to zero, the more significant
+  the enrichment is. The top 20 KEGG pathways with the lowest FDR value and the most
+  significant enrichment are selected for display. The abscissa is the name of the
+  path, and the ordinate is—log10 (p-value) of each path.
+article_title: Screening and analysis of differentially expressed circRNAs and miRNAs
+  in chronic diabetic extremity wounds.
+citation: Xiaoliang Li, et al. Front Surg. 2022;9:1007312.
+year: '2022'
+
+doi: 10.3389/fsurg.2022.1007312
+journal_title: Frontiers in Surgery
+journal_nlm_ta: Front Surg
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- diabetes mellitus
+- chronic wound and burn healing
+- high-Throughput nucleotide sequencing
+- circRNA
+- miRNA
+
+---

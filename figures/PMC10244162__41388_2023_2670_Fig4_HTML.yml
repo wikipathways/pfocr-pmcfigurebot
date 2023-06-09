@@ -1,0 +1,35 @@
+---
+figid: PMC10244162__41388_2023_2670_Fig4_HTML
+pmcid: PMC10244162
+image_filename: 41388_2023_2670_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC10244162/figure/Fig4/
+number: Fig. 4
+figure_title: Molecular mechanisms associated with the neoantigen signature
+caption: A Left panel, GSVA showing DDR pathways significantly enriched in high NEO2IS
+  group (adjusted p value <0.05); right panel, the estimated proportion of POLE and
+  MMR-related gene mutations in two subgroups according to median NEO2IS. B Proteomic
+  analysis showing correlation between NEO2IS and the abundance of relevant proteins
+  involving cell cycle and DDR pathways. C Left panel, tumor ploidy significantly
+  related to the neoantigen signature; right panel, GSEA enrichment results (q-value
+  <0.3) for immunomodulatory REACTOME pathways (top 10) that correlated with NEO2IS
+  in external NSCLC samples. D Comparison of expression levels of genes associated
+  with T-effector and INFγ pathway, PDL1, pY705 STAT3 and STAT5 between high and low
+  NEO2IS groups. E Potential immune evasion mechanisms associated with higher NEO2IS,
+  including higher levels of co-inhibitory receptors, loss of heterozygosity of HLA
+  gene locus (LOHHLA) and somatic mutations in HLA or B2M gene. F NEO2IS shows significant
+  association with clinical features (left panel); differentially expressed genes
+  between metastatic and primary tumors (right panel).
+article_title: A novel integrated approach to predicting cancer immunotherapy efficacy.
+citation: Ruihan Luo, et al. Oncogene. 2023;42(23):1913-1925.
+year: '2023'
+
+doi: 10.1038/s41388-023-02670-1
+journal_title: Oncogene
+journal_nlm_ta: Oncogene
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Immunosurveillance
+- Cancer genomics
+
+---

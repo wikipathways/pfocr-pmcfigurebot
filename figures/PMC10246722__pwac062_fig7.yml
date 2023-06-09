@@ -1,0 +1,54 @@
+---
+figid: PMC10246722__pwac062_fig7
+pmcid: PMC10246722
+image_filename: pwac062_fig7.jpg
+figure_link: /pmc/articles/PMC10246722/figure/F7/
+number: Figure 7
+figure_title: ''
+caption: HIF-1α activator DMOG induces hair growth in vivo. (A) The schematic illustration
+  showing DMOG increased HIF-1α stabilization and activated the target genes through
+  inhibiting Prolyl hydroxylase (PHD). (B) Western blot analysis of HIF-1 α in pMVECs
+  treated with DMOG. n = 3 biological replicates. Two-tailed unpaired Student’s t-test
+  was used and data are presented as the mean ± SEMs. (C) Left, representative hair
+  coats of vehicle- or DMOG-treated mice on day 27 post-treatment. Right, quantification
+  for the appearance of melanin pigmentation in mouse skin treated with DMOG versus
+  vehicle. Pigmentation scoring is described in Materials and methods. Vehicle, n
+  = 14; DMOG, n = 17. Two-tailed unpaired Student’s t-test was used and data are presented
+  as the mean ± SEMs. (D) Volcano plot showing the expression patterns DEGs of mouse
+  skin treated with DMOG versus vehicle. (E) Heatmap showing the relative expression
+  level (row-scaling) of DEGs (left) and representative GO terms and pathways (right)
+  for upregulated and downregulated DEGs in mouse skin treated with DMOG versus vehicle.
+  (F) GSEA showing HIF-1 signaling pathway (top) and blood vessel morphogenesis (bottom)
+  enriched in mouse skin treated with vehicle or DMOG. NES, normalized enrichment
+  score; FDR, false discovery rate. (G) Immunofluorescence staining of VWF in skin
+  tissues on day 27 post-treatment with vehicle or DMOG. Right, the quantitative data
+  of VWF-positive area in the skin. Vehicle, n = 8; DMOG, n = 8. Two-tailed unpaired
+  Student’s t-test was used and data are presented as the mean ± SEMs. Scale bar,
+  100 μm. (H) Immunofluorescence staining of Ki67 in HFs on day 27 post-treatment
+  with vehicle or DMOG. Right, the quantitative data of Ki67-positive cells per HF.
+  Vehicle, n = 6; DMOG, n = 6 and 15 HFs were calculated for each individual. Two-tailed
+  unpaired Student’s t-test was used and data are presented as the mean ± SEMs. Scale
+  bars, 50 μm. (I) H&E staining of skin tissues sections on day 27 post-treatment
+  with vehicle or DMOG (left) and the quantitative data of the percentage of anagen
+  HFs and the relative HF length in skin tissue (right). Vehicle, n = 6; DMOG, n =
+  6. Two-tailed unpaired Student’s t-test was used and data are presented as the mean
+  ± SEMs. Scale bars, 200 μm. (J) A schematic illustration showing the phenotypical
+  and molecular changes during the hair regrowth upon Que treatment.
+article_title: Single-cell profiling reveals a potent role of quercetin in promoting
+  hair regeneration.
+citation: Qian Zhao, et al. Protein Cell. 2023 Jun;14(6):398-415.
+year: '2023'
+
+doi: 10.1093/procel/pwac062
+journal_title: Protein & Cell
+journal_nlm_ta: Protein Cell
+publisher_name: Oxford University Press
+
+keywords:
+- single-cell RNA-sequencing
+- Que
+- hair follicle regeneration
+- endothelial cells
+- HIF-1α
+
+---

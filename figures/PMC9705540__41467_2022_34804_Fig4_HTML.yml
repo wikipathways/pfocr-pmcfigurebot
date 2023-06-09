@@ -1,0 +1,53 @@
+---
+figid: PMC9705540__41467_2022_34804_Fig4_HTML
+pmcid: PMC9705540
+image_filename: 41467_2022_34804_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9705540/figure/Fig4/
+number: Fig. 4
+figure_title: Dlx5-creER+ early perichondrial cells regulate marrow formation in response
+  to Hedgehog signaling
+caption: 'a–f CellChat intercellular communication analysis of the E13.5 Col2a1-cre-marked
+  chondrocyte and perichondrial cell scRNA-seq dataset. a Outgoing and incoming interaction
+  strength of signaling pathways. Each circle represents the number of interactions
+  a cluster participates in. (Left): Cluster 1 has a low tendency to send signals
+  but a high tendency to receive signals in overall pathways. (Right): Cluster 1 exhibits
+  a high propensity to both send and receive signals via the Hh pathways. Dotted box:
+  UMAP-based plot and cluster labels of the E13.5 scRNA-seq data. b Feature plots
+  of Ihh and Ptch1. Violet: high expression, yellow: low expression. c Violin plots
+  displaying the expression distribution of Ihh and Ptch1 in each cluster. d Chord
+  diagram shows the signals linking Cluster 1 and other clusters via the Hh pathway.
+  e Heatmap represents the relative importance of each cluster. Dark green: higher
+  importance, white: lower importance. Cluster 1 is scored as the dominant sender,
+  receiver, and influencer of the Ihh-Ptch1 signaling pathway. Cluster 5 is measured
+  as a dominant receiver. f Hierarchical plot showing the intercellular interactions
+  of the chondrocyte-perichondrial cell lineage via the Ihh-Ptch1 signaling pathway.
+  g Functional analysis of Hedgehog signaling in Dlx5-creER+ early perichondrial cells
+  and Fgfr3-creER+ fetal chondrocytes in bone marrow development. Left panels: Histological
+  images of Dlx5-creER; Ptch1fl/+; R26RtdTomato (Dlx5-Control), Dlx5-creER; Ptch1fl/fl;
+  R26RtdTomato (Dlx5-Ptch1 cKO), Fgfr3-creER; Ptch1fl/+; R26RtdTomato (Fgfr3-Control),
+  Fgfr3-creER; Ptch1fl/fl; R26RtdTomato (Fgfr3-Ptch1 cKO), femur at E18.5 (pulsed
+  at E12.5). Scale bar: 500 μm. n = 8 (Dlx5-Control), n = 11 (Dlx5-Ptch1 cKO), n = 10
+  (Fgfr3-Control), n = 8 (Dlx5-Ptch1 cKO) mice per each group. Right panels: quantification
+  of whole femur length (top left), bone marrow length per total bone length (middle
+  left), distal cartilage length per total bone length (bottom left), Col1a1-GFP+
+  trabecular area per total bone marrow area (top right), number of chondrocytes per
+  column (middle right) and total number of columns in growth plate (bottom right).
+  n = 8 (Dlx5-Control), n = 11 (Dlx5-Ptch1 cKO), n = 10 (Fgfr3-Control), n = 8 (Dlx5-Ptch1
+  cKO) mice per group. Two-tailed, Mann–Whitney’s U test. Data are presented as mean ± s.d.
+  Exact P value is indicated in the figures. Source data are provided as a Source
+  Data file.'
+article_title: The fate of early perichondrial cells in developing bones.
+citation: Yuki Matsushita, et al. Nat Commun. 2022;13:7319.
+year: '2022'
+
+doi: 10.1038/s41467-022-34804-6
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Bone development
+- Cartilage development
+- Differentiation
+
+---

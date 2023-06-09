@@ -1,0 +1,62 @@
+---
+figid: PMC10241879__41467_2023_38968_Fig4_HTML
+pmcid: PMC10241879
+image_filename: 41467_2023_38968_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC10241879/figure/Fig4/
+number: Fig. 4
+figure_title: Pitavastatin induces cell death through the inhibition of prenylation
+  of Rabs and the disruption of integrin signal pathway
+caption: a Volcano plot of proteomic data. Protein changes in parental (left) and
+  chronic BRAF-inhibitor treated K029A cells (right) upon treatment with 1 µM pitavastatin
+  for 24 h. p value (two side unpaired t test) plotted in a log10 scale, including
+  fold-change in detected protein (pitavastatin vs DMSO) plotted in a log2 scale.
+  Significance calculated as un-paired, two-sided t test. b Heatmap of the expression
+  of cell cycle associated genes in K029A parental, chronic BRAF-inhibitor treated,
+  chronic BRAF-inhibitor treated with ectopic expression of LacZ or dual Rabs, following
+  treatment with/without 1 µM pitavastatin for 24 h. As indicated, one group of chronic
+  BRAF-inhibitor treated K029A cells were added GGPP at 0.4 µg/ml. c Fractions of
+  G0/G1, S and G2/M phase cells in K029A chronic treated BRAF-inhibitor adapted cells.
+  Cells were treated with/without pitavastatin [1 µM for 24 h] (mean ± SEM, n = 3).
+  Significance calculated as un-paired, two-sided t test. d Western blots of RAB6B
+  and RAB27A. Total, membrane attached and soluble RAB6B and RAB27A in K029A chronic
+  treated BRAF-inhibitor adapted cells with the ectopic expression of wild type dual
+  RABs or prenylation-mutant dual RABs are indicated. Cells were treated with/without
+  pitavastatin [1 µM for 24 h]. e Heatmap of changes in plasma membrane associated
+  integrins within chronic treated BRAF-inhibitor treated K029A cells with ectopic
+  expression of RAB6B and RAB27A (LacZ as a control). Cells were treated with/without
+  pitavastatin [1 µM for 18 h]. f Western blot analyses of plasma membrane located
+  integrin-α5 and integrin-β1 in parental K029A cells with/without PGC1α knockout
+  and chronic BRAF-inhibitor treated K029A cells with ectopic expression of LacZ or
+  combination of RAB6B and RAB27A. The cells were treated with pitavastatin [1 µM
+  for 18 h]. g Western blots of FAK-pY397 in K029A parental cells with/without PGC1α
+  knockout and chronic treated BRAF-inhibitor adapted cells with the ectopic expression
+  of LacZ or RAB27A and RAB6B. The cells were treated with pitavastatin [1 µM for
+  24 h]. h Crystal violet staining images. K029A (left) and A375P (right) parental,
+  chronic BRAF-inhibitor adapted cells with ectopic expression of LacZ or combination
+  RAB6B and RAB27A were pre-treated with pitavastatin for 18 h and then seeded into
+  6-well plates. The unattached cells were washed away with PBS and the attached cells
+  subsequently stained with crystal violet. i, j Percentages of viable cells in suspension.
+  K029A (i) and A375P (j) parental, chronic BRAF-inhibitor adapted cells with ectopic
+  expression of LacZ or RAB6B and RAB27A were suspended in 0.5% methylcellulose and
+  treated with/without NAC or pitavastatin. Viable cells were assessed by staining
+  negative for trypan blue (mean ± SEM, n = 3). Significance calculated as un-paired,
+  two-sided t test. k A proposed schematic model depicts how chronic BRAF-inhibitor
+  treatment causes downregulation of PPARGC1A with effects on RAB6B and RAB27A, which
+  causes a collateral vulnerability towards HMGCR inhibitors (statins) by elevated
+  dependence on RAB-mediated integrin trafficking.
+article_title: Epigenetic suppression of PGC1α (PPARGC1A) causes collateral sensitivity
+  to HMGCR-inhibitors within BRAF-treatment resistant melanomas.
+citation: Jiaxin Liang, et al. Nat Commun. 2023;14:3251.
+year: '2023'
+
+doi: 10.1038/s41467-023-38968-7
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Melanoma
+- Cancer
+- Skin cancer
+
+---

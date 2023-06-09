@@ -1,0 +1,33 @@
+---
+figid: PMC10240816__thnov13p2930g002
+pmcid: PMC10240816
+image_filename: thnov13p2930g002.jpg
+figure_link: /pmc/articles/PMC10240816/figure/F2/
+number: Figure 2
+figure_title: ''
+caption: scRNA-seq shows epidermal and dermal cell interactions and mechanical signaling
+  pathways in dermal cells in human skin organoid culture. A. Schematic of human skin
+  organoid at D48. UMAP plots of epidermal and dermal clusters by unbiased clustering.
+  B. CellChat analysis of epidermal and dermal cell interactions. C. CellCall analysis
+  of epidermal and dermal cell interactions. D. KEGG analysis shows the regulation
+  of the actin cytoskeleton in dermal cells (FB3) (left); Venn diagram shows overlapping
+  genes between the Regulation of the actin cytoskeleton pathway, Focal adhesion pathway,
+  and FB3 cluster.
+article_title: Mechanical force drives the initial mesenchymal-epithelial interaction
+  during skin organoid development.
+citation: Mengyue Wang, et al. Theranostics. 2023;13(9):2930-2945.
+year: '2023'
+
+doi: 10.7150/thno.83217
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- Skin cyst
+- Dermal cell attachment
+- Calcium
+- Piezo1
+- Mechanical stretch
+
+---

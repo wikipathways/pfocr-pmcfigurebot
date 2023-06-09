@@ -1,0 +1,39 @@
+---
+figid: PMC10239920__gr2
+pmcid: PMC10239920
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC10239920/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: 'Comparison of pathways altered by glucocorticoids in patients with SRNS
+  vs. patients with SSNS using a “patient-specific” analysis of integrated omics.
+  Chord plot represents pathways that were significantly perturbed (P < 0.05) by joint
+  pathway analysis for individual patients. R1–R8: 8 patients with SRNS (in red);
+  S1–S7: 7 patients with SSNS (in blue). For example, patient R1 had 2 pathways significantly
+  perturbed: nicotinate and nicotinamide metabolism and mucin type O-glycan biosynthesis.
+  For pathway mucin type O-glycan biosynthesis, 3 patients with SRNS (R1, R2, and
+  R6) and 5 patients with SSNS (S1, S3, S4, S6, and S7) had this pathway activated.
+  The percentages labeled above the pathways are Pathway Group Enrichment Index numbers
+  calculated by , which represents the enrichment of a pathway in patients with SRNS
+  compared to patients with SSNS. Although a total of 34 KEGG metabolic pathways were
+  perturbed in 15 patients, we selected 12 pathways whose Pathway Group Enrichment
+  Index was < −25% or >25% to show in this chord plot. TCA, tricarboxylic acid cycle.'
+article_title: Multiomics Analysis of Plasma Proteomics and Metabolomics of Steroid
+  Resistance in Childhood Nephrotic Syndrome Using a “Patient-Specific” Approach.
+citation: Sagar Bhayana, et al. Kidney Int Rep. 2023 Jun;8(6):1239-1254.
+year: '2023'
+
+doi: 10.1016/j.ekir.2023.03.015
+journal_title: Kidney International Reports
+journal_nlm_ta: Kidney Int Rep
+publisher_name: Elsevier
+
+keywords:
+- biomarker
+- informatics
+- MetaboAnalystR
+- nephrosis
+- personalized
+- steroid resistance
+
+---

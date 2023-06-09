@@ -1,0 +1,49 @@
+---
+figid: PMC9703440__41467_2022_34969_Fig4_HTML
+pmcid: PMC9703440
+image_filename: 41467_2022_34969_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9703440/figure/Fig4/
+number: Fig. 4
+figure_title: The p38α-BLIMP1 axis controls iPC differentiation and ER-related transcriptome
+caption: 'a Cultured p38α KO and WT B cells were transduced with retroviruses encoding
+  p38α or BLIMP1 at day 2 of in vitro differentiation. Flow cytometry analysis of
+  iPCs in retrovirally transduced B cells (CD19+GFP+CD138+) 6 days after transduction
+  (n = 6 per group). b ELISpot analysis of IgG1 and IgE antibody-secreting cells among
+  cultured B cells as (a) (n = 3 per group). c Heatmap analysis of differential expression
+  genes (foldchange > 2) in iPCs of indicated genotypes. Group 1: decreased in p38α
+  KO iPCs, restored by p38α or BLIMP1 overexpression. Group 2: decreased in p38α KO
+  iPCs, restored by p38α but not BLIMP1 overexpression. Group 3: decreased in p38α
+  KO iPCs, restored by BLIMP1 but not p38α overexpression. Group 4: decreased in p38α
+  KO iPCs, restored by neither p38α nor BLIMP1 overexpression. Group 5: increased
+  in p38α KO iPCs, restored by p38α or BLIMP1 overexpression. Group 6: increased in
+  p38α KO iPCs, restored by p38α but not BLIMP1 overexpression. Group 7: increased
+  in p38α KO iPCs, restored by BLIMP1 but not p38α overexpression. Group 8: increased
+  in p38α KO iPCs, restored neither p38α nor BLIMP1 overexpression. d Gene Ontology
+  enrichment analysis of Group 1 from (c). e Immunoblot analysis of BLIMP1, p38α,
+  IgG H-chain, Actin and UPR-related proteins, Bip, IRE1α, SEC61A1 and SEC61B in retrovirally
+  transduced B cells at day 8 in iPC culture. f Cultured p38α KO and WT B cells were
+  transduced with retroviruses encoding p38α or BLIMP1 at day 2 of in vitro differentiation.
+  Representative transmission electron microscopy images of sorted iPCs in retrovirally
+  transduced B cells (CD19+GFP+CD138+) of indicated groups at day 8. Scale bars, 500 nm.
+  Percentage of endoplasmic reticulum (ER) expansion and diameter of ER lumen in iPCs
+  of indicated groups (n ≥ 100 per group). Data were representative of at least three
+  independent experiments (a, b, e, f). Each symbol represents a representative sample.
+  Small horizontal lines indicate the mean (±s.d.). Data were analyzed by one-side
+  hypergeometric test (d) and two-tailed unpaired t-tests (a, f). Source data are
+  provided as a Source Data file.'
+article_title: A p38α-BLIMP1 signalling pathway is essential for plasma cell differentiation.
+citation: Jianfeng Wu, et al. Nat Commun. 2022;13:7321.
+year: '2022'
+
+doi: 10.1038/s41467-022-34969-0
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Plasma cells
+- Stress signalling
+- Germinal centres
+- Gene targeting
+
+---

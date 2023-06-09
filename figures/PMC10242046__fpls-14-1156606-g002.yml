@@ -1,0 +1,39 @@
+---
+figid: PMC10242046__fpls-14-1156606-g002
+pmcid: PMC10242046
+image_filename: fpls-14-1156606-g002.jpg
+figure_link: /pmc/articles/PMC10242046/figure/f2/
+number: Figure 2
+figure_title: ''
+caption: Differentially abundant proteins (DAPs) in drought-tolerant (DT) and drought-sensitive
+  (DS) chickpea genotypes under control (C) and drought stress (D) conditions. DAPs
+  in the DT and DS genotypes were identified under drought stress as compared to control,
+  DT(D/C) and DS(D/C), respectively, and between DT and DS genotypes under control
+  condition, [DT(C)/DS(C)]. (A) Venn diagram showing common and specific DAPs in DT(D/C),
+  DS(D/C) and DT(C)/DS(C) comparisons, where total number of proteins are shown by
+  black color font, and up- and down-regulated proteins are presented by red and blue
+  color fonts, respectively. (B, C) Bubble plots showing significantly enriched pathways
+  among up- (B) and down-regulated (C) proteins in DT(D/C), DS(D/C) and DT(C)/DS(C)
+  comparisons. Top 20 pathways with P-value ≤ 0.05 were selected. The bubble size
+  defines the number of proteins assigned to the pathway and bubble color represents
+  P-value as per the given scale.
+article_title: Unravelling the molecular mechanism underlying drought stress response
+  in chickpea via integrated multi-omics analysis.
+citation: Vikram Singh, et al. Front Plant Sci. 2023;14:1156606.
+year: '2023'
+
+doi: 10.3389/fpls.2023.1156606
+journal_title: Frontiers in Plant Science
+journal_nlm_ta: Front Plant Sci
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- chickpea
+- drought
+- metabolome
+- proteome
+- transcriptome
+- co-expression
+- WGCNA
+
+---

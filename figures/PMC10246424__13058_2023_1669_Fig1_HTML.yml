@@ -1,0 +1,38 @@
+---
+figid: PMC10246424__13058_2023_1669_Fig1_HTML
+pmcid: PMC10246424
+image_filename: 13058_2023_1669_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC10246424/figure/Fig1/
+number: Fig. 1
+figure_title: ''
+caption: 'A Projection of different subgroups of breast cancer infiltrating myeloid
+  cells in 2-dimensional UMAP space (axes represent dimensions, colors represent different
+  cell subgroups). B Dot-plot of representative marker genes of each myeloid subgroup
+  (y axis represents cell subgroups, x axis represents different genes, colors represent
+  the average expression level of each gene, dot-size represents the expression percentage
+  in each cell subtype). C Heatmap of single-sample gene set enrichment analysis (ssGSEA)
+  score of major myeloid pathways in each subgroup (y axis represents the different
+  pathways with breaks for major pathway types, x axis represents different cell subgroups,
+  colors represent the enrichment scores (Red: high score; Blue: Low score)). D Interaction
+  intensities between each myeloid subgroup as measured by interacting receptor pairs
+  (y axis represents the receiver (target) of interactions, x axis represents the
+  donor (source) of interactions). E Graph-based arrangement of different myeloid
+  subgroups according to their interacting centricity (colors represent different
+  cell subtypes, line weight represents the intensity of interactions)'
+article_title: Infiltrating myeloid cell diversity determines oncological characteristics
+  and clinical outcomes in breast cancer.
+citation: Chenxuan Yang, et al. Breast Cancer Res. 2023;25:63.
+year: '2023'
+
+doi: 10.1186/s13058-023-01669-6
+journal_title: 'Breast Cancer Research : BCR'
+journal_nlm_ta: Breast Cancer Res
+publisher_name: BioMed Central
+
+keywords:
+- Breast cancer
+- Tumor microenvironment
+- Myeloid cells
+- Immunotherapy
+
+---

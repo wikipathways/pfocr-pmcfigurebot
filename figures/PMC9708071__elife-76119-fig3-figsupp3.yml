@@ -1,0 +1,30 @@
+---
+figid: PMC9708071__elife-76119-fig3-figsupp3
+pmcid: PMC9708071
+image_filename: elife-76119-fig3-figsupp3.jpg
+figure_link: /pmc/articles/PMC9708071/figure/fig3s3/
+number: Figure 3—figure supplement 3
+figure_title: The loading values of all predictive metabolites of the orthogonal partial
+  least squares discriminant analysis model
+caption: The differential metabolites between producers and non-producers were determined
+  by a Mann Whitney test (adjusted p-values with Benjamini-Hochberg method) with a
+  level of significance of 0.05 (bars with black outline) and used as input for a
+  metabolic pathway enrichment with FELLA algorithm. The colors indicate the mapped
+  metabolite pathway for each metabolite.
+article_title: Evolution and regulation of microbial secondary metabolism.
+citation: Guillem Santamaria, et al. eLife. 2022;11:e76119.
+year: '2022'
+
+doi: 10.7554/eLife.76119
+journal_title: eLife
+journal_nlm_ta: eLife
+publisher_name: eLife Sciences Publications, Ltd
+
+keywords:
+- Pseudomonas aeruginosa
+- mathematical modeling
+- social evolution
+- metabolism
+- Other
+
+---

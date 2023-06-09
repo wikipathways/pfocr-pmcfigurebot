@@ -1,0 +1,69 @@
+---
+figid: PMC10244093__ajcr0013-1718-f6
+pmcid: PMC10244093
+image_filename: ajcr0013-1718-f6.jpg
+figure_link: /pmc/articles/PMC10244093/figure/fig06/
+number: Figure 6
+figure_title: ''
+caption: 'Linc00662 regulated GTF2B-mediated ITGA1 transcription in a m6A-dependent
+  manner. A. The subcellular location of Linc00662 was analyzed using FISH. The result
+  showed that Linc00662 was localized in both the nucleus and cytoplasm of PC cells.
+  Scale bar: 20 µm. B. KEGG enrichment analysis identified focal adhesion as the most
+  commonly enriched signaling pathway associated with METTL3. C. Three differentially
+  expressed mRNAs were involved in the focal adhesion pathway: integrin alpha-1 (ITGA1),
+  JUN, and CCND2. D. The results showed that the knockdown of METTL3 reduced the expression
+  of ITGA1 in PC cells using qPCR. E. The results showed that the knockdown of METTL3
+  reduced the expression of ITGA1 in PC cells by western blotting. F. The results
+  showed that the knockdown of Linc00662 reduced the expression of ITGA1 in PC cells
+  using qPCR. G. The results showed that the overexpression of Linc00662 Wt increased
+  the expression of ITGA1 but had no effect on the expression of IGF2BP3 in PC cells
+  using qPCR. And the overexpression of Linc00662 Mut failed to affect the expressions
+  of ITGA1 and IGF2BP3. H. The results showed that the overexpression of Linc00662
+  Wt increased the protein expression of ITGA1, but Linc00662 Mut failed and the knockdown
+  of Linc00662 reduced the protein expression of ITGA1 by western blotting. I. Correlation
+  analysis revealed a positive correlation between Linc00662 and ITGA1 expression
+  (P = 5.5e-06) using the online bioinformatics analysis tool (GEPIA). J. The secondary
+  structure of GTF2B. K. The proteins pulled down with the Linc00662 probe were examined
+  by western blotting and the results showed that GTF2B was a component of the complexes.
+  L. The RIP assay confirmed that Linc00662 was enriched in the GTF2B group but not
+  in the IgG group. Bar chart showed the fold enrichment of Linc00662 normalized by
+  IgG in PC cells. *: P < 0.05. M. Correlation analysis indicated that ITGA1 expression
+  was positively related with GTF2B expression (P = 0.001) using the online bioinformatics
+  analysis tool (GEPIA). N. GTF2B was knocked down in PC cells using siRNAs and qPCR
+  examined the inhibitory efficacy. The result indicated that GTF2B si-1 showed the
+  highest inhibitory efficacy. O. GTF2B was knocked down in PC cells using siRNAs
+  and western blotting examined the inhibitory efficacy. The result indicated that
+  GTF2B si-1 showed the highest inhibitory efficacy. P. The result indicated that
+  the knockdown of GTF2B in PC cells reduced the expression of ITGA1using qPCR. Q.
+  The result indicated that the knockdown of GTF2B in PC cells reduced the expression
+  of ITGA1 by western blotting. R. The result indicated that the overexpression of
+  GTF2B increased the expression of ITGA1 in PC cells using qPCR. S. The result indicated
+  that the overexpression of GTF2B increased the protein expression of ITGA1 in PC
+  cells by western blotting. T. The dual-luciferase reporter assay was conducted to
+  examine the transcriptional role of GTF2B on ITGA1 and the role of m6A modification
+  in Linc00662 on ITGA1 transcription. The results indicated that GTF2B overexpression
+  increased fluorescence intensity, and knockdown of GTF2B decreased fluorescence
+  intensity. In addition, the overexpression of Linc00662 Wt increased the fluorescence
+  intensity, but Linc00662 Mut failed. Abbreviations: PC: pancreatic cancer, NC: negative
+  control, Wt: wide type, Mut: 4A-mutated, RIP: RNA immunoprecipitation, qPCR: quantitative
+  polymerase chain reaction, GTF2B: general transcription factor II-B, ITGA1: integrin
+  alpha-1, m6A: N6-methyladenosine.'
+article_title: Linc00662 m6A promotes the progression and metastasis of pancreatic
+  cancer by activating focal adhesion through the GTF2B-ITGA1-FAK pathway.
+citation: Shuo Zhang, et al. Am J Cancer Res. 2023;13(5):1718-1743.
+year: '2023'
+
+doi: ''
+journal_title: American Journal of Cancer Research
+journal_nlm_ta: Am J Cancer Res
+publisher_name: e-Century Publishing Corporation
+
+keywords:
+- Pancreatic cancer
+- N6-methyladenosine
+- Linc00662
+- focal adhesion
+- ITGA1
+- FAK
+
+---

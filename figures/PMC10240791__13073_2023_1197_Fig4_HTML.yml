@@ -1,0 +1,50 @@
+---
+figid: PMC10240791__13073_2023_1197_Fig4_HTML
+pmcid: PMC10240791
+image_filename: 13073_2023_1197_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC10240791/figure/Fig4/
+number: Fig. 4
+figure_title: ''
+caption: Driver–TIME functional networks in HNSC subtypes. A Reconstruction of HNSC
+  driver-TIME functional networks. HNSC transcriptional regulatory network was used
+  to identify the transcription factors (TFs) differentially active (DA) in the three
+  HNSC subtypes that correlated with TIME features and were associated with TIME drivers.
+  Combining functional data, the significant functional networks linking these drivers
+  to TIME TFs were derived. B DNMT3B functional subnetwork in HPV+ HNSCs. C Comparison
+  of PHF1 protein activity between DNMT3B-damaged and wild-type (wt) HPV+ HNSCs. D
+  Gene set enrichment analysis (GSEA) plot comparing the activation of the keratinization
+  pathway between DNMT3B-damaged and wt HPV+ HNSCs. E Comparison of DNMT3B-damaged
+  samples between immune (IMU) and keratinization (KRT) HPV+ HNSCs from []. F Comparison
+  of FASL gene expression levels between CASP8-damaged and wt HPV− CNAlow HNSCs. G
+  Schematic of cytotoxic T-cell induced apoptosis of cancer cells through the FAS-FASL
+  cascade. H CASP8 functional subnetwork in HPV− CNAlow HNSCs. I Comparison of IRF7
+  protein activity in CASP8-damaged and wt HPV− CNAlow HNSCs. J GSEA plots comparing
+  the activation of the α/β interferon signalling and apoptosis regulation pathways
+  between CASP8-damaged and wt HPV− CNAlow HNSCs. K GSEA plot comparing the activation
+  of the WNT signalling pathway between TERT-damaged and wt HPV− CNAhigh HNSCs. L
+  TERT functional subnetwork in HPV− CNAhigh HNSCs. M Comparison of PRMT5 protein
+  activity between TERT-damaged and wt HPV− CNAhigh HNSCs. N GSEA plot comparing the
+  activation of the interferon signalling pathway between TERT-damaged and wt HPV−
+  CNAhigh HNSCs. CNA, copy number alteration; HNSC, head and neck squamous cell carcinoma;
+  HPV, human papilloma virus; TIME, tumour immune microenvironment. Distributions
+  (C, F, I, M) were compared using Wilcoxon rank-sum test. Proportions (E) were compared
+  using Fisher’s exact test. GSEAs (D, J, K, N) were performed using gene set permutation
+  tests
+article_title: Mechanistic insights into the interactions between cancer drivers and
+  the tumour immune microenvironment.
+citation: Hrvoje Misetic, et al. Genome Med. 2023;15:40.
+year: '2023'
+
+doi: 10.1186/s13073-023-01197-0
+journal_title: Genome Medicine
+journal_nlm_ta: Genome Med
+publisher_name: BioMed Central
+
+keywords:
+- Cancer driver genes
+- Cancer immunology
+- Computational biology
+- Head and neck cancer
+- Functional networks
+
+---

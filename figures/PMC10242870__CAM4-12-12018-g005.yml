@@ -1,0 +1,43 @@
+---
+figid: PMC10242870__CAM4-12-12018-g005
+pmcid: PMC10242870
+image_filename: CAM4-12-12018-g005.jpg
+figure_link: /pmc/articles/PMC10242870/figure/cam45883-fig-0005/
+number: FIGURE 5
+figure_title: ''
+caption: DKK1 expression is related to AFP in AFPGC. (A) Bubble chart showing the
+  top 15 genes related to AFP expression via correlation analysis. (B) Scatter plots
+  showing the correlation between AFP expression and three selected genes using TCGA
+  gastric cancer dataset. (C) Violin plot shows DKK1 expression level among malignant
+  epithelium clusters. (D) Consensus clustering divided 341 cases (from TCGA‐STAD
+  cohort) into two groups, namely the AFPGC group (45 cases) and common gastric cancer
+  (GC) group (296 cases). (E) Bubble chart showing the enriched pathway of AFPGC upregulated
+  genes. (F) Bar diagram showing the expression level of several marker genes and
+  hepatocyte score based on GSVA. (G) Correlation between AFP and DKK1 expression
+  among 45 AFPGC patients in TCGA cohort. (H) HE stains and immunohistochemistry on
+  another two AFPGC tissues. All pictures were captured at a magnification of 100×.
+  (I) Western blot showing AFP, ALB, GPC3, and several EMT marker expression in FU97
+  cells with or without DKK1 stimulation. RT‐qPCR was performed to detect AFP transcription
+  level. FU97 was treated with DKK1 (0.1 μg/mL) and incubated for 48 h before extracting
+  protein and total RNA.
+article_title: Single‐cell characteristics and malignancy regulation of alpha‐fetoprotein‐producing
+  gastric cancer.
+citation: Yanxia Mei, et al. Cancer Med. 2023 May;12(10):12018-12033.
+year: '2023'
+
+doi: 10.1002/cam4.5883
+journal_title: Cancer Medicine
+journal_nlm_ta: Cancer Med
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- alpha‐fetoprotein
+- alpha‐fetoprotein‐producing gastric cancer
+- Dickkopf‐1
+- gene expression omnibus
+- malignancy
+- molecular feature
+- single‐cell RNA sequencing
+- the cancer genome atlas
+
+---

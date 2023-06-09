@@ -1,0 +1,42 @@
+---
+figid: PMC10242447__gr6
+pmcid: PMC10242447
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC10242447/figure/fig6/
+number: Figure 6
+figure_title: ''
+caption: TIG association with sepsis disease(A and B) Upregulated genes in TM1 were
+  all enriched in downregulated genes of macrophage activation-like syndrome (MALS)
+  and immune paralysis patients compared with healthy controls. Enrichment analysis
+  using enriched genes identified from MALS and immune paralysis (A), which were upregulated
+  in TM1 but downregulated in patients, separately, are summarized in (B). IFN-γ responses
+  and inflammatory responses were significantly enriched in both patients.(C) Downregulated
+  genes in TM1 were enriched in upregulated genes in patients in immune paralysis
+  and MALS patients compared with healthy controls. The same result was also detected
+  in ICU-SEPSIS patients from the second cohort.(D) In two independent sepsis cohorts,
+  we observed that upregulated genes in TM4 are enriched in upregulated genes in both
+  immune paralysis and ICU-SEPSIS patients compared with healthy controls.(E) Pathway
+  enrichment analysis using enriched genes from (C) and (D) showed genes that were
+  upregulated in TM1 and downregulated in TM4, but upregulated in patients (compared
+  with healthy controls), were all enriched in the complement pathway. These analyses
+  may indicate the balance between TM1 and TM4.
+article_title: A single-cell view on host immune transcriptional response to in vivo
+  BCG-induced trained immunity.
+citation: Wenchao Li, et al. Cell Rep. 2023 May 30;42(5):112487.
+year: '2023'
+
+doi: 10.1016/j.celrep.2023.112487
+journal_title: Cell Reports
+journal_nlm_ta: Cell Rep
+publisher_name: Cell Press
+
+keywords:
+- trained immunity
+- BCG
+- monocyte heterogeneity
+- IFN-γ
+- STAT1
+- single-cell RNA-seq
+- in vivo training
+
+---
