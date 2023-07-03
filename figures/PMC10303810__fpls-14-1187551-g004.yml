@@ -1,0 +1,32 @@
+---
+figid: PMC10303810__fpls-14-1187551-g004
+pmcid: PMC10303810
+image_filename: fpls-14-1187551-g004.jpg
+figure_link: /pmc/articles/PMC10303810/figure/f4/
+number: Figure 4
+figure_title: ''
+caption: Preliminary analysis of transcriptome data. KEGG enrichment analysis of DEGs
+  between the comparison groups (A) KuijinA vs KuijinF (B) KuijinA vs KuijinB (C)
+  KuijinA vs KatyA. Each bubble in the plot represents a metabolic pathway. A larger
+  bubble size indicates a larger impact factor. Darker bubble colors represent a higher
+  degree of enrichment. (D) The number of common DEGs in KuijinA vs KuijinF (A represent
+  it), KuijinA vs KuijinB (B represent it) and KuijinA vs KatyA (C represent it) (|log2Fold
+  Change| ≥ 1, FDR< 0.05).
+article_title: Transcriptome and metabolome analysis of flavonol synthesis in apricot
+  fruits.
+citation: Xueping Han, et al. Front Plant Sci. 2023;14:1187551.
+year: '2023'
+
+doi: 10.3389/fpls.2023.1187551
+journal_title: Frontiers in Plant Science
+journal_nlm_ta: Front Plant Sci
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- Chinese apricot
+- metabolomics
+- RNA-Seq
+- flavonols
+- Flesh
+
+---

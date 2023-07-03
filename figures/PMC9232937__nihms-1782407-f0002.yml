@@ -1,0 +1,52 @@
+---
+figid: PMC9232937__nihms-1782407-f0002
+pmcid: PMC9232937
+image_filename: nihms-1782407-f0002.jpg
+figure_link: /pmc/articles/PMC9232937/figure/F2/
+number: Figure 2
+figure_title: Nucleus accumbens astrocytes are highly rhythmic at the transcriptome
+  level
+caption: Among the 12,739 genes identified in NAc astrocytes, approximately 43.3%
+  of genes exhibited rhythmic expression across the 6 ZTs sampled (ZT2,6,10,14,18,22;
+  n=4–5 per ZT, JTK_Cycle), or 5,527 genes at the Bonferroni-adjusted p-value cutoff
+  of p<0.05. Even using the most stringent statistical cutoff (Benjamini-Hochberg
+  q-value cutoff of q<0.0001), approximately ~9% of transcripts still display diurnal
+  rhythmicity, or 1,141 genes. (B) Phase analysis through radar plotting of top rhythmic
+  transcripts (p<0.05) and heatmap visualization of the top 200 rhythmic genes reveal
+  a majority of rhythmic transcripts peak between ZT14 and ZT18, coinciding with the
+  dark phase / active phase. The radar plot perimeter axis represents ZT, while the
+  inner axis is the number of genes with peak expression at a given ZT. Heatmap displays
+  Z-transformed expression for each of the top 200 statistically rhythmic genes (as
+  determined by JTK_Cycle), ranked in descending order along the Y-axis (rows) and
+  each subject ordered by ZT along the x-axis (columns). The white bar indicates lights
+  on (ZT2,6,10) and the black bars indicate lights off (ZT14,18,22). (C) IPA pathway
+  analysis and Metascape Gene Ontology (GO) Biological Process analysis revealed both
+  circadian and metabolic-related processes enriched among the top rhythmic genes.
+  Notable pathways/processes include circadian rhythm signaling and circadian regulation
+  of gene expression, as well as NRF2-mediated oxidative stress response, regulation
+  of ATPase activity, and glucocorticoid receptor signaling. Red line in bar graphs
+  indicates significance threshold of p<0.05 or −log10(p-value) > 1.3. (D) Core circadian
+  genes are among the top rhythmic genes and show expression patterns that align with
+  previously established functional relationships; i.e., Arntl (gene that encodes
+  BMAL1) is anti-phasic with Per2 and Nr1d1). (E) Among the top enriched rhythmic
+  GO biological processes, the circadian regulation of gene expression and glucocorticoid
+  receptor signaling node clusters show a high degree of interconnectivity.
+article_title: Astrocyte Molecular Clock Function in the Nucleus Accumbens is Important
+  for Reward-Related Behavior.
+citation: Darius D. Becker-Krail, et al. Biol Psychiatry. ;92(1):68-80.
+year: '2023'
+
+doi: 10.1016/j.biopsych.2022.02.007
+journal_title: Biological psychiatry
+journal_nlm_ta: Biol Psychiatry
+publisher_name: ''
+
+keywords:
+- Astrocytes
+- Nucleus Accumbens
+- Circadian Rhythms
+- Reward
+- BMAL1
+- Metabolic State
+
+---

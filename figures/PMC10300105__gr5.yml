@@ -1,0 +1,35 @@
+---
+figid: PMC10300105__gr5
+pmcid: PMC10300105
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC10300105/figure/fig0025/
+number: Fig. 5
+figure_title: ''
+caption: Active-subnetwork-oriented pathway enrichment of DEPs in non-HA-CRC. (A)
+  Bubble chart of enrichment results of non-HA-CRC, grouped by clusters. The x axis
+  denotes the fold enrichment value, while the y axis indicates the significantly
+  enriched terms (enrichment threshold =0.05). The bubble size represents the number
+  of DEPs in a certain term. The color scale corresponds to the -log10 (lowest-P)
+  value. (B) Consolidated active subnetworks of non-HA-CRC. The up- and down- regulated
+  DEPs were indicated in red and green, respectively. The Top 5 clusters per p-value
+  ranking and their corresponding sub-networks are shown.
+article_title: Systems crosstalk between antiviral response and cancerous pathways
+  via extracellular vesicles in HIV-1-associated colorectal cancer.
+citation: Zimei Chen, et al. Comput Struct Biotechnol J. 2023;21:3369-3382.
+year: '2023'
+
+doi: 10.1016/j.csbj.2023.06.010
+journal_title: Computational and Structural Biotechnology Journal
+journal_nlm_ta: Comput Struct Biotechnol J
+publisher_name: Research Network of Computational and Structural Biotechnology
+
+keywords:
+- HIV-1-associated colorectal cancer
+- Proteomics
+- HIV-1 reservoir
+- Extracellular vesicles
+- IFN pathway
+- Cell-associated HIV-1 RNA
+- Antiviral response
+
+---

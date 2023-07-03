@@ -1,0 +1,44 @@
+---
+figid: PMC9236881__ajpheart.00105.2022_f003
+pmcid: PMC9236881
+image_filename: ajpheart.00105.2022_f003.jpg
+figure_link: /pmc/articles/PMC9236881/figure/F0003/
+number: Figure 3
+figure_title: ''
+caption: 'Transcriptomic analysis of the maternal heart during pregnancy and postpartum.
+  Analyses of transcriptional changes in hearts extracted from nonpregnant, diestrus
+  (NP), midpregnant (MP; day 8 of pregnancy), late pregnant (LP; day 16 of pregnancy),
+  and 1 wk postbirth (PB) female mice (n = 3–5 per group). A: principal component
+  analysis (PCA) was performed to examine group separation during analysis of differentially
+  expressed genes. B: heatmap showing the top 75 differentially expressed transcripts
+  in hearts from NP, MP, LP, and PB female mice. C: analysis showing partial least
+  squares discriminant analysis (PLS-DA) highlighting group separation based on differentially
+  expressed transcripts. D: the variable importance in projection plot (VIP) of the
+  top 25 transcripts contributing to the group separation observed in the PLS-DA plot.
+  E–I: counts per million (CPM) values for transcript expression of Pdk4 (E), Ogdhl1
+  (F), Bdh1 (G), Acer2 (H), and Acot2 (I). ANOVA analysis was performed to identify
+  significantly expressed cardiac metabolite and transcript abundances [P <0.05; false
+  discovery rate (FDR) 0.05] across all time points (NP, MP, LP, and PB). Human Metabolome
+  Database (HMDB) and official gene names of those significantly expressed targets
+  were added to the joint pathway analysis tool in Metaboanalyst 5.0. J and K: joint
+  pathway analysis was performed with Fisher’s exact test with degree centrality topology
+  applied and these data integrated based on pathway level combined P values for all
+  pathways (J) and metabolic pathways (K). *P < 0.05, **P <0.01, ***P < 0.001, ****P
+  < 0.0001, ANOVA with Tukey’s post hoc test.'
+article_title: Metabolic signatures of pregnancy-induced cardiac growth.
+citation: Kyle L. Fulghum, et al. Am J Physiol Heart Circ Physiol. 2022 Jul 1;323(1):H146-H164.
+year: '2022'
+
+doi: 10.1152/ajpheart.00105.2022
+journal_title: American Journal of Physiology - Heart and Circulatory Physiology
+journal_nlm_ta: Am J Physiol Heart Circ Physiol
+publisher_name: American Physiological Society
+
+keywords:
+- hypertrophy
+- metabolomics
+- pregnancy
+- proteomics
+- transcriptomics
+
+---

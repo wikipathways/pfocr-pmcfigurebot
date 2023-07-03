@@ -1,0 +1,42 @@
+---
+figid: PMC9877271__12192_2022_1307_Fig1_HTML
+pmcid: PMC9877271
+image_filename: 12192_2022_1307_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC9877271/figure/Fig1/
+number: Fig. 1
+figure_title: ''
+caption: Schematic diagram of UPR signaling and ERAD pathway proteins under ER stress.
+  In an inactive state, IRE-1 and PERK are associated with Grp78. However, under ER
+  stress, when the levels of misfolded/unfolded proteins rise in the ER lumen, Grp78
+  is competitively titrated by the excess of unfolded proteins, and this leads to
+  activation of ATF6, PERK-1, and IRE-1 via oligomerization and autophosphorylation.
+  Inactive ATF6 (90 kDa) translocates to the Golgi apparatus and becomes active (50 kDa),
+  then translocates to the nucleus to guide adaptive transcriptional responses of
+  downstream targets (Grp78, Grp94). Activated PERK stimulates eIF2α, and phosphorylates
+  and induces ATF4, which leads to transcription of downstream gene targets (GADD153,
+  GADD34). IRE-1 oligomerization catalyzes the splicing of XBP-1 mRNA to synthesize
+  50 kDa active XBP-1 protein that can induce expression of Grp chaperones (Grp78,
+  Grp94). The action of Grps enhances the protein folding capacity of cells along
+  with ERAD protein (EDEM) that induces proteasomal degradation of misfolded/unfolded
+  proteins. Image created with www.BioRender.com
+article_title: Role of unfolded protein response and ER-associated degradation under
+  freezing, anoxia, and dehydration stresses in the freeze-tolerant wood frogs.
+citation: Jacques Niles, et al. Cell Stress Chaperones. 2023 Jan;28(1):61-77.
+year: '2023'
+
+doi: 10.1007/s12192-022-01307-8
+journal_title: Cell Stress & Chaperones
+journal_nlm_ta: Cell Stress Chaperones
+publisher_name: Springer Netherlands
+
+keywords:
+- Metabolic rate depression
+- Anoxia
+- Dehydration
+- Apoptosis
+- Endoplasmic reticulum
+- ATF6
+- ATF4
+- XBP1
+
+---

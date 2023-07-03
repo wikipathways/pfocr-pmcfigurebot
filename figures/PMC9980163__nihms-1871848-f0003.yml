@@ -1,0 +1,45 @@
+---
+figid: PMC9980163__nihms-1871848-f0003
+pmcid: PMC9980163
+image_filename: nihms-1871848-f0003.jpg
+figure_link: /pmc/articles/PMC9980163/figure/F3/
+number: Fig. 3 |
+figure_title: NR3C2–NCOR2 signalling limits disease-promoting astrocyte responses
+caption: a, Schematic of scFIND-seq applied to Aqp4+Edem1+ astrocytes in EAE. b, Uniform
+  manifold approximation and projection (UMAP) plots of Aqp4+Edem1+ and Aqp4+Edem1−
+  astrocytes from naive and EAE mice analysed by scFIND-seq. c, Analysis of marker
+  genes in Aqp4+Edem1+ or Aqp4+Edem1− astrocytes from naive and EAE mice. d, Pathway
+  analysis of cluster 1 astrocytes analysed by scFIND-seq using IPA. Fisher’s exact
+  test. e, In vivo knockdown of Nr3c2 in astrocytes. Top, schematic of the lentiviral
+  vector containing sgRNA targeting Nr3c2 and Streptococcus pyogenes Cas9 under the
+  control of a Gfap promoter. Bottom, EAE disease progression in mice transduced with
+  sgScrmbl (n = 14) or sgNr3c2 (n = 7) lentiviruses. Two-way repeated measures ANOVA.
+  f, Quantitative PCR with reverse transcription Il1b, Il6 and Ccl2 after 24 h and
+  Xbp1 after 4 h in primary mouse astrocytes treated with or without 1 ng ml−1 IL-1β
+  and TNF in the presence of 1 μM finerenone or vehicle. n = 5 per group. Unpaired
+  two-sided t-test. g, Left, heat map of RNA-seq data from of astrocytes isolated
+  from sgScrmbl and sgNr3c2 mice. n = 3 per group. Right, GSEA pre-ranked analysis
+  of RNA-seq data comparing astrocytes isolated from sgNr3c2 versus sgScrmbl mice.
+  h, FACS analysis of spliced XBP1 (XBP1S+) in astrocytes from sgScrmbl and sgNr3c2
+  mice (n = 3 per group). Unpaired two-sided t-test. i, Left, prediction of decreased
+  NCOR2 activation by IPA in cluster 1 scFIND-seq data compiled from all cells. Fisher’s
+  exact test. Right, differential gene expression of candidate co-regulators of NR3C2
+  in sgNr3c2 versus sgScrmbl astrocytes showing Ncor2 as the top candidate. j, Analysis
+  of EAE mice transduced with lentivirus co-expressing Gfap::Cas9 and sgNcor2 (n =
+  9) or sgScrmbl (n = 9). Top, schematic of the lentiviral vector containing sgRNA
+  targeting Ncor2 and S. pyogenes Cas9 under the control of a Gfap promoter. Bottom,
+  disease progression in sgScrmbl versus sgNcor2 mice. Two-way repeated measures ANOVA.
+  k, Heat map of RNA-seq data from astrocytes in sgScrmbl versus sgNcor2 mice. n =
+  3 per group. l, GSEA pre-ranked analysis of scRNA-seq data in astrocytes from sgScrmbl
+  versus sgNcor2 mice. Data are mean ± s.e.m.
+article_title: Identification of astrocyte regulators by nucleic acid cytometry.
+citation: Iain C. Clark, et al. Nature. ;614(7947):326-333.
+year: '2023'
+
+doi: 10.1038/s41586-022-05613-0
+journal_title: Nature
+journal_nlm_ta: Nature
+publisher_name: ''
+
+keywords:
+---

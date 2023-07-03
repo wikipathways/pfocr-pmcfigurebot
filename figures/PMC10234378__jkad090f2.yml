@@ -1,0 +1,29 @@
+---
+figid: PMC10234378__jkad090f2
+pmcid: PMC10234378
+image_filename: jkad090f2.jpg
+figure_link: /pmc/articles/PMC10234378/figure/jkad090-F2/
+number: Fig. 2
+figure_title: ''
+caption: Predicted transcript counts (numbers above bars) from BRAKER annotations
+  using different sources of evidence with BUSCO completeness (color coded). The transcript
+  selector, TSEBRA, was used for the “Combined” category.
+article_title: 'A high-quality, long-read genome assembly of the whitelined sphinx
+  moth (Lepidoptera: Sphingidae: Hyles lineata) shows highly conserved melanin synthesis
+  pathway genes.'
+citation: R Keating Godfrey, et al. G3 (Bethesda). 2023 Jun;13(6):jkad090.
+year: '2023'
+
+doi: 10.1093/g3journal/jkad090
+journal_title: 'G3: Genes|Genomes|Genetics'
+journal_nlm_ta: G3 (Bethesda)
+publisher_name: Oxford University Press
+
+keywords:
+- Lepidoptera
+- whitelined sphinx
+- Hyles lineata
+- genome assembly
+- melanin synthesis genes
+
+---

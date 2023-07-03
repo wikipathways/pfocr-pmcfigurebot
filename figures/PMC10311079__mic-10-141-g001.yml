@@ -1,0 +1,43 @@
+---
+figid: PMC10311079__mic-10-141-g001
+pmcid: PMC10311079
+image_filename: mic-10-141-g001.jpg
+figure_link: /pmc/articles/PMC10311079/figure/fig1/
+number: Figure 1
+figure_title: 'FIGURE 1: A comprehensive model integrating both the metabolic and
+  transcriptional coordination of nucleotide and amino acid metabolisms upon stringent
+  response in E. coli'
+caption: (A) Amino acid starvation in E. coli leads to the activation of RelA to produce
+  (p)ppGpp, which binds to the RNA polymerase (RNAP) to downregulate stable RNA (rRNA,
+  tRNA) and upregulate amino acid biosynthesis genes at the transcriptional level.
+  (B) At the metabolic level, (p)ppGpp directly inhibits (in red broken lines) the
+  de novo and the salvage pathways (highlighted in red shadow) of purine nucleotides
+  synthesis by targeting the PurF and Gpt/Hpt/Gsk proteins, respectively (in red font).
+  Meanwhile, (p)ppGpp binds to PpnN (light blue font) and stimulates its activity
+  (in blue broken lines) to degrade excess nucleotides, from both the redundant nucleotides
+  and the degraded rRNAs/tRNAs. Degraded nucleotides lead to increased nucleobases
+  (Gua, Xan, Hyp) (in blue up arrows) and R5P. The former ones bind to PurR to repress
+  expression of genes (in red dotted lines) in the de novo purine and pyrimidine biosynthesis
+  pathways. R5P, used to produce pRpp, enters the pentose phosphate pathway and culminates
+  with the synthesis of (aromatic) amino acids and the intermediate metabolites. Metabolites
+  highlighted with light blue up arrows are the ones that increased their concentrations
+  upon amino acid starvation in the wild type E. coli, but not in the ΔppnN mutant
+  strain []. The list of abbreviated metabolites is included in the inset.
+article_title: 'Ribose 5-phosphate: the key metabolite bridging the metabolisms of
+  nucleotides and amino acids during stringent response in Escherichia coli?.'
+citation: Paulina Katarzyna Grucela, et al. Microb Cell. 2023 Jul 3;10(7):141-144.
+year: '2023'
+
+doi: 10.15698/mic2023.07.799
+journal_title: Microbial Cell
+journal_nlm_ta: Microb Cell
+publisher_name: Shared Science Publishers OG
+
+keywords:
+- (p)ppGpp
+- stringent response
+- nucleotide
+- amino acid
+- ribose 5'-phosphate
+
+---

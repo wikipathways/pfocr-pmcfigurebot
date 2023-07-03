@@ -1,0 +1,51 @@
+---
+figid: PMC10303345__12929_2023_930_Fig3_HTML
+pmcid: PMC10303345
+image_filename: 12929_2023_930_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC10303345/figure/Fig3/
+number: Fig. 3
+figure_title: ''
+caption: IFI35 increases the intratumoral number of CD8+ T cells. A–E Effect of IFI35
+  overexpression on CT26 tumor-infiltrating various immune cells. IFI35 transfected
+  CT26 cells were inoculated into BALB/c mice. The numbers of tumor-infiltrating CD45+
+  T cells (A), CD8+ T cells (B), CD4+ T cells (C), Foxp3+ cells (D), and MDSC cells
+  (E) were analyzed by flow cytometry. Cell numbers are given for 1000,000 total cells
+  from each tumor. Values are represented as mean ± SEM. P values were determined
+  by two tailed t-tests. *P < 0.05, **P < 0.01, ns not significant. F–J Effect of
+  IFI35 overexpression on MC38 tumor-infiltrating various immune cells. IFI35 transfected
+  MC38 cells were inoculated into C57/BL6 mice. The numbers of tumor-infiltrating
+  CD45+ T cells (F), CD8+ T cells (G), CD4+ T cells (H), Foxp3+ cells (I), and MDSC
+  cells (J) were analyzed by flow cytometry. Cell numbers are given for 1000,000 total
+  cells from each tumor. Values are represented as mean ± SEM. P values were determined
+  by two tailed t-tests. *P < 0.05, **P < 0.01, ns not significant. K–O Quantification
+  of CD8+ T cells from paraffin sections of CT26 and MC38 colon cancer by IHC. K Representative
+  IHC staining for CD8 in paraffin sections of MC38 colon cancer. L–O Average cell
+  number per high-power field (HPF) is shown; Two tailed t-tests, *P < 0.05, **P < 0.01,
+  ***P < 0.001, ****P < 0.0001. P Positive correlation of IFI35 protein levels with
+  that of CD8 IHC levels in human colorectal cancer. Q Scatterplots showing correlation
+  between IFI35 expression and CD8+ T cell expression level in The Cancer Genome Atlas
+  Colon Adenocarcinoma (TCGA-COAD) data collection determined by tumor immune estimation
+  resource (Timer, http://cistrome.dfci. harvard.edu/TIMER/) website. R Violin plot
+  showing expression of IFI35 between four CMS subtypes in the single-cell cohort.
+  S Kaplan–Meier analysis of overall survival (OS) in CRC patients with low IFI35
+  and low CD8 expression (n = 11), low IFI35 and high CD8 expression (n = 37), high
+  IFI35 and low CD8 expression (n = 26), high IFI35 and high CD8 expression (n = 103).
+  The corresponding cutoff values was calculated by the maxstat algorithm in R package
+  “maxstat”
+article_title: Tumor-secreted IFI35 promotes proliferation and cytotoxic activity
+  of CD8+ T cells through PI3K/AKT/mTOR signaling pathway in colorectal cancer.
+citation: Peisi Li, et al. J Biomed Sci. 2023;30:47.
+year: '2023'
+
+doi: 10.1186/s12929-023-00930-6
+journal_title: Journal of Biomedical Science
+journal_nlm_ta: J Biomed Sci
+publisher_name: BioMed Central
+
+keywords:
+- IFI35
+- CD8+ T cells
+- Immunotherapy
+- Colorectal cancer
+
+---

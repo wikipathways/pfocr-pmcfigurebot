@@ -1,0 +1,51 @@
+---
+figid: PMC10309559__fmicb-14-1158777-g002
+pmcid: PMC10309559
+image_filename: fmicb-14-1158777-g002.jpg
+figure_link: /pmc/articles/PMC10309559/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: 'The signal pathway regulatory network of IFNβ. (A) NF-κB pathway and MAPK
+  pathway When stimulated, TLRs recruited myeloid differentiation primary reactive
+  protein 88 (MyD88) and IL-1 receptor-related kinases (IRAKs), and then bound tumor
+  necrosis factor (TNF) receptor-related factor 6 (TRAF6) to promote phosphorylation
+  and polyubiquitination to activate TAK1. On the one hand, through ubiquitination,
+  TAK1 binds to the catalytic subunits IKKα, IKKβ and regulatory subunits NEMO of
+  the IKK complex, and finally forms two NF-кB heterodimers p50: RelA and p50: cRel
+  into the nucleus to participate in gene expression. TAK1 activates MAPK kinase family
+  members (MKKs) to produce c-Jun, c-Fos and CREB through AMPK pathway, and then forms
+  polymeric complexes that bind to the promoter region to regulate the expression
+  of IFNβ (; ). (B) MAVS-RIG pathway When the stimulus signal is detected, the conformation
+  of RNA sensor RIG-I and MDA5 change to release the signal domain CARD. MAVS form
+  MAVS complex with CARD in coordination with LPG2, which can cause the cascade reaction
+  of TBK1/IRFs and also increases the activation of NF-кB to promote IFNβ expression
+  (; ). (C) cGAS-STING pathway When recognizing DNA, cGAS catalyzes the reaction of
+  adenosine triphosphate (ATP) and guanosine triphosphate (GTP) to form GMP-AMP (cGAMP).
+  cGAMP binds to STING as a second messenger, causing STING to be palmitoacylated
+  at two cysteine residues (Cys88 and Cys91), while recruiting TBK1 to form a complex.
+  This complex triggers the phosphorylation and dimerization of IRF3, which then enters
+  the nucleus to promote IFNβ production (; ). (D) JAK–STAT pathway The combination
+  of parathine IFNβ and receptor IFNΑR leads to recruitment of STAT1 and STAT2 by
+  JAK, which phosphorylates Tyr701 of STAT1 and Tyr690 of STAT2 to form heterodimers
+  that interact with IRF9 to form the trimer complex ISGF3. ISGF3 can increase IFNβ
+  expression through transcription factors such as IRF3/7 in a positive feedback way
+  (; ).'
+article_title: 'Regulation of IFNβ expression: focusing on the role of its promoter
+  and transcription regulators.'
+citation: Jiqiang Fan, et al. Front Microbiol. 2023;14:1158777.
+year: '2023'
+
+doi: 10.3389/fmicb.2023.1158777
+journal_title: Frontiers in Microbiology
+journal_nlm_ta: Front Microbiol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- IFNβ
+- regulatory element
+- promoter
+- enhancer
+- nucleosome
+- mechanism
+
+---

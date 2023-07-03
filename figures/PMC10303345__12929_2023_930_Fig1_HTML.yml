@@ -1,0 +1,55 @@
+---
+figid: PMC10303345__12929_2023_930_Fig1_HTML
+pmcid: PMC10303345
+image_filename: 12929_2023_930_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC10303345/figure/Fig1/
+number: Fig. 1
+figure_title: ''
+caption: Tumor IFI35 correlates with CD8+ T cells expression and patient outcome.
+  A Screening of CTL function-correlated genes associated with good prognosis in human
+  colorectal cancer. In the TCGA dataset, 412 top genes were identified as positively
+  correlated with Cytolytic Activity (CYT) Score in pan-cancer using Spearman correlation
+  analysis. Among the shared 412 genes, based on our own CRC proteomics, 19 proteins
+  were identified to be correlated with CTL function signature on the protein level
+  using Spearman correlation analysis. The proteomic analysis detected 6 out of 19
+  proteins with a good prognosis in CRC through Kaplan–Meier analysis. B, C IFI35
+  expression in normal colorectal tissues and colorectal cancer tissues. B Statistical
+  analysis of IFI35 mRNA levels of 66 paired samples of CRC and adjacent normal tissues
+  from the Sixth Affiliated Hospital (n = 66, non-parametric Wilcoxon matched-pairs
+  signed rank test, p < 0.01). C IFI35 protein expression in colorectal adenocarcinoma
+  tissues (n = 90) and normal colorectal tissues (n = 30). Two tailed t-tests, p < 0.
+  01. D–G Kaplan–Meier analyses of the association of overall survival with IFI35
+  proteins. D Overall survival analysis in CRC with low (n = 14) and high (n = 101)
+  levels of IFI35 in 115 CRC patients from our CRC proteomics datasets, E overall
+  survival analysis in CRC with low (n = 81) and high (n = 64) levels of IFI35 in
+  145 CRC patients from Shanghai’ proteomics datasets, F overall survival analysis
+  in CRC with low (n = 69) and high (n = 487) levels of IFI35 in 556 CRC patients
+  from GSE39582, G overall survival analysis in CRC with low (n = 85) and high (n = 105)
+  levels of IFI35 in 190 CRC patients from GSE87211. Log-rank test. The optimal cutoff
+  values were calculated by the X-tile software. H, I Expression of IFI35 protein
+  and its prognostic value in CRC. H The expression of IFI35 in CRC was detected by
+  Fluorescent Immunohistochemistry analysis based on tissue microarray. I Patients
+  with high expression of IFI35 (n = 80) showed better overall survival time than
+  the patients with low expression of IFI35 (n = 89). J, K Relationship between IFI35
+  expression and immunotherapy efficacy in melanoma patients. J Overall survival analysis
+  in melanoma with low (n = 21) and high (n = 20) levels of IFI35 treated with Anti-PD1
+  therapy. K Progression-free survival was analyzed and compared between patients
+  with low (n = 8) and high (n = 7) levels of IFI35 in melanoma patients treated with
+  Anti-CTLA4 therapy. Log-rank test
+article_title: Tumor-secreted IFI35 promotes proliferation and cytotoxic activity
+  of CD8+ T cells through PI3K/AKT/mTOR signaling pathway in colorectal cancer.
+citation: Peisi Li, et al. J Biomed Sci. 2023;30:47.
+year: '2023'
+
+doi: 10.1186/s12929-023-00930-6
+journal_title: Journal of Biomedical Science
+journal_nlm_ta: J Biomed Sci
+publisher_name: BioMed Central
+
+keywords:
+- IFI35
+- CD8+ T cells
+- Immunotherapy
+- Colorectal cancer
+
+---

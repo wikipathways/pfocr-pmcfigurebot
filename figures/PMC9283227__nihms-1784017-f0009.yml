@@ -1,0 +1,38 @@
+---
+figid: PMC9283227__nihms-1784017-f0009
+pmcid: PMC9283227
+image_filename: nihms-1784017-f0009.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 4.Effects of JAK1 pathway inhibitor on Cytomix treated 3D organotypic
+  skin culture
+caption: A. Staining of fully differentiated 3D skin equivalents untreated (Control),
+  low concentration (1 ng/mL) Cytomix and Cytomix + JAK1 pathway inhibitor (ABT-317)
+  respectively. Top row represents H&E staining followed by IHC staining of S100A7
+  (middle) and loricrin (bottom). Representative images at 32X magnification are shown
+  (bar = 100μm). B. Differences between RNA transcript levels in treated and non-treated
+  3D skin equivalents were quantified for each probe using qRT-PCR. Average of 4 samples
+  is shown ± S.E.M. Data is presented as fold change over control (untreated) whose
+  value was fixed at 1 (dashed line). (*p<0.05, **p<0.01, ***p<0.001, ****p<0.0001
+  using ratio paired t-test of Cytomix vs. Cytomix + ABT-317). C. Differences between
+  secreted IL-6 and IL-8 proteins in control and treated 3D skin equivalents were
+  quantified using immunoassays. Average of at least 5 treated samples is shown ±
+  S.E.M. (**p<0.01, ****p<0.0001 using ANOVA with Dunnett’s post hoc test vs. Cytomix)
+article_title: Cytokine Induced 3-D Organotypic Psoriasis Skin Model Demonstrates
+  Distinct Roles for NF-κB and JAK Pathways in Disease Pathophysiology.
+citation: Viktor Todorović, et al. Exp Dermatol. ;31(7):1036-1047.
+year: '2023'
+
+doi: 10.1111/exd.14551
+journal_title: Experimental dermatology
+journal_nlm_ta: Exp Dermatol
+publisher_name: ''
+
+keywords:
+- TNFα
+- IL-17A
+- IL-22
+- IKK-2 inhibitor IV
+- ABT-317
+
+---

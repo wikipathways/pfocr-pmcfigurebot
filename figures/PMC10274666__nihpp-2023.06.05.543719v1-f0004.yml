@@ -1,0 +1,58 @@
+---
+figid: PMC10274666__nihpp-2023.06.05.543719v1-f0004
+pmcid: PMC10274666
+image_filename: nihpp-2023.06.05.543719v1-f0004.jpg
+figure_link: /pmc/articles/PMC10274666/figure/F4/
+number: Figure 4
+figure_title: These four common human-nasal-associated Corynebacterium species have
+  a largely shared metabolic capacity
+caption: 'All genomes were analyzed using KEGG annotations of genes in each anvi’o
+  contigs database with KEGG Orthology (KO) numbers from the KEGG KOfam database.
+  Completion scores were calculated for each module in each genome ranging from 0–1
+  representing the fraction of enzymes present out of total enzymes that make up each
+  module. To identify the complete KEGG modules shared by the four common nasal Corynebacterium
+  species, we ran a module enrichment analysis in which we assigned each genome a
+  species group and compared whether that complete module was more likely to be found
+  in one group or multiple groups. Modules with an adjusted p-value <0.05 were considered
+  enriched in their associated species and modules that were not significantly enriched
+  (adjusted p-value >0.05) in comparisons in three out of the four species, were categorized
+  as shared. (A) Venn diagram summarizing complete (completion score ≥ 0.75) KEGG
+  modules shared between the four Corynebacterium species: C. propinquum (Cpr), C.
+  pseudodiphtheriticum (Cps), C. accolens (Cac), and C. tuberculostearicum (Ctu).
+  Specific modules are grouped by the subgroup of ≤ 3 species encoding these and shown
+  in boxes surrounding the Venn diagram with species labels. (B) Detailed list of
+  the functions encompassed by the 50 KEGG modules shared by all four Corynebacterium
+  species grouped by module category. In amino acid metabolism, gray indicates amino
+  acids lacking complete biosynthesis modules; orange indicates that biosynthetic
+  capabilities that vary by species (as influenced by predicted assimilatory sulfate
+  reduction capabilities); deep pink indicates a predicted requirement for an exogenous
+  source of either Asp or Asn; and light pink indicates the ability to make Met depends
+  on either exogenous Asp or Asn. (C) Manual assessment for Corynebacterium orthologs
+  predicted full biosynthetic pathway in several instances where KEGG annotations
+  gave completion scores < 1. We performed blastX with enzymes with names in bold.
+  (Ci) glycogen degradation and synthesis. (Cii) synthesis of UDP-glucose. (Ciii)
+  Assimilatory sulfate reduction. Noted on the right side is the pathway defined in
+  the KEGG module and on the left is the pathway identified in C. glutamicum by Ruckert,
+  Kalinowski, and colleagues ().'
+article_title: Metabolic capabilities are highly conserved among human nasal-associated
+  Corynebacterium species in pangenomic analyses.
+citation: Tommy H. Tran, et al. bioRxiv. 2023 Jun 5:2023.06.05.543719.
+year: '2023'
+
+doi: 10.1101/2023.06.05.543719
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+- nasal microbiota
+- phylogenetics
+- pangenomics
+- metabolism
+- Corynebacterium accolens
+- Corynebacterium propinquum
+- Corynebacterium pseudodiphtheriticum
+- Corynebacterium tuberculostearicum
+- Corynebacterium
+
+---

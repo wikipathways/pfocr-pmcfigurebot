@@ -1,0 +1,36 @@
+---
+figid: PMC10055176__nihpp-2023.03.15.532439v2-f0008
+pmcid: PMC10055176
+image_filename: nihpp-2023.03.15.532439v2-f0008.jpg
+figure_link: /pmc/articles/PMC10055176/figure/F8/
+number: Figure 8
+figure_title: ''
+caption: Canonical pathways and upstream regulators between Study 1 and Study 2 in
+  wild-type (WT) rats support changes in environmental stress between the two studies.
+  The top canonical pathway in WT rats was the superpathway for cholesterol biosynthesis,
+  although some genes had connection to the myelination signaling pathway. Notably,
+  there is predicted activation of sterol regulatory element-binding factors 1 and
+  2 (SREBF1, SREBF2), which have sterol sensing functions. Red and green indicate
+  up- and down-regulated genes in the dataset, respectively. Orange and blue indicate
+  IPA predictions of activity, where orange indicates predicted activation while blue
+  indicates predicted inhibition. Correspondingly, orange arrows suggest activation
+  while blue arrows suggest inhibition; yellow arrows indicate that the prediction
+  is inconsistent with the state of the downstream molecule.
+article_title: Changes in Environmental Stress over COVID-19 Pandemic Likely Contributed
+  to Failure to Replicate Adiposity Phenotype Associated with Krtcap3.
+citation: Alexandria M Szalanczy, et al. bioRxiv. 2023 Mar 15:2023.03.15.532439.
+year: '2023'
+
+doi: 10.1101/2023.03.15.532439
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+- Obesity
+- genetics
+- rat model
+- environmental stress
+- corticosterone
+
+---

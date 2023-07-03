@@ -1,0 +1,46 @@
+---
+figid: PMC9232937__nihms-1782407-f0001
+pmcid: PMC9232937
+image_filename: nihms-1782407-f0001.jpg
+figure_link: /pmc/articles/PMC9232937/figure/F1/
+number: Figure 1
+figure_title: Aldh1l1-eGFP/Rpl10a mice allow for isolation of astrocyte-specific ribo-associated
+  mRNA
+caption: 'Schematic illustrating the immunoprecipitation (IP) of astrocyte-specific
+  ribo-associated mRNA from whole NAc tissue of Aldh1l1-eGFP/Rpl10a mice that express
+  an eGFP tag on the ribosomal subunit RpL10a. (B) Isolated mRNA is highly specific
+  for astrocytes, as revealed by a cell-type enrichment heatmap generated from plotting
+  Log2CPM values of established cell-type markers from our RNA-sequencing dataset
+  (alternate names: Slc1a2 = EAAT2 or Glt-1; Slc1a3 = EAAT1 or Glast; Glul = GS; Rbfox3
+  = NeuN; Slc17a6 = Vglut2). Columns are the individual samples, rows are individual
+  genes. Purple indicates low expression, while yelllow indicates peak expression.
+  (C) Moreover, the fluorophore eGFP is expressed specifically in cells expressing
+  the pan-astrocyte marker Aldh1l1, but not in cells expressing the neuronal GABA
+  transporter VGAT, as determined by RNAscope; arrows indicate cells with co-expression
+  of Aldh1l1 and eGFP. (D) Following RNA-seq, Ingenuity Pathway Analysis () and Metascape
+  analysis () revealed the top canonical pathways and biological processes enriched
+  among the top 200 expressed genes in NAc astrocytes include key metabolic and synaptic
+  neurotransmission functions generally attributed to astrocytes. Notable NAc-astrocyte
+  enriched processes include glycolysis and lactate synthesis, oxidative phosphorylation,
+  glutamate receptor signaling, neurotransmitter uptake (e.g., glutamate), and neuroinflammation
+  signaling. Red line in bar graphs indicates significance threshold of p<0.05 or
+  −log10(p-value) > 1.3.'
+article_title: Astrocyte Molecular Clock Function in the Nucleus Accumbens is Important
+  for Reward-Related Behavior.
+citation: Darius D. Becker-Krail, et al. Biol Psychiatry. ;92(1):68-80.
+year: '2023'
+
+doi: 10.1016/j.biopsych.2022.02.007
+journal_title: Biological psychiatry
+journal_nlm_ta: Biol Psychiatry
+publisher_name: ''
+
+keywords:
+- Astrocytes
+- Nucleus Accumbens
+- Circadian Rhythms
+- Reward
+- BMAL1
+- Metabolic State
+
+---

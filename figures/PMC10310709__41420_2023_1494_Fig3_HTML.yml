@@ -1,0 +1,40 @@
+---
+figid: PMC10310709__41420_2023_1494_Fig3_HTML
+pmcid: PMC10310709
+image_filename: 41420_2023_1494_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC10310709/figure/Fig3/
+number: Fig. 3
+figure_title: Oxidative phosphorylation is upregulated in FBXW7−/− cells
+caption: a Analysis of Hallmark pathways using gene set enrichment analysis (GSEA)
+  demonstrates that the oxidative phosphorylation pathway was the most upregulated
+  gene set in FBXW7−/− cells. This graph shows the top ten differentially expressed
+  gene sets by normalised enrichment scores. b 86 genes within the oxidative phosphorylation
+  gene set were differentially expressed. Among these 86, the 14 which showed log2FC > 0.7
+  or <0.7 have been represented in this heatmap. c Metabolic analysis of oxygen consumption
+  rate was increased in FBXW7−/− cells relative to wildtype cells (p = 0.0015). There
+  was no significant difference in the extracellular acid production rate. d Immunofluorescence
+  of wildtype and FBXW7−/− cells with Hoechst 33342 nuclear stain (blue), phalloidin
+  cytoskeleton stain (red) and HSP60 (green). Scale bar represents 50 µm. e Immunofluorescence
+  of HSP60 was normalised against Hoechst and was increased in FBXW7−/− cells (p = 0.0086).
+  f Immunofluorescence of wildtype and FBXW7−/− cells with Hoechst 33342 nuclear stain
+  (blue), phalloidin cytoskeleton stain (red) and ATP5A1 (green). Scale bar represents
+  50 µm. g Immunofluorescence of ATP5A1 was normalised against Hoechst and was increased
+  in FBXW7−/− cells (p = 0.0085). h Western blot showing upregulation of HSP60 and
+  ATP5A1 in FBXW7−/− cells compared to wildtype cells. The values in this figure are
+  mean ± sd, and statistical significance was measured by unpaired t-test. All experiments
+  were performed with N = 3 biological replicates.
+article_title: Biallelic FBXW7 knockout induces AKAP8-mediated DNA damage in neighbouring
+  wildtype cells.
+citation: Dedrick Kok Hong Chan, et al. Cell Death Discov. 2023;9:200.
+year: '2023'
+
+doi: 10.1038/s41420-023-01494-y
+journal_title: Cell Death Discovery
+journal_nlm_ta: Cell Death Discov
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cancer genomics
+- Colorectal cancer
+
+---

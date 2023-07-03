@@ -1,0 +1,78 @@
+---
+figid: PMC10308151__gr1
+pmcid: PMC10308151
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC10308151/figure/fig1/
+number: Fig. 1
+figure_title: ''
+caption: 'FXR inhibits Wnt/β-catenin signaling pathway through activation of TLE3.
+  (A) Representative Immunohistochemistry (IHC) staining image of TLE3 in normal and
+  colon cancer tissue samples from Human Protein Atlas in TCGA cohort, Scale bar 200 μm
+  upper panel, 50 μm upper panel. (B) The expression levels of TLE3 in normal colon
+  tissues (n = 51) versus primary tumors (n = 647) from COAD and READ cohort of TCGA
+  data. Box and whiskers graph is presented within 5–95 percentile, with medium number
+  shown in the middle. (C) Gene-set enrichment analysis (GSEA) of TLE3 in colorectal
+  cancer patients from TCGA. Representative GSEA plots indicated that TLE3 expression
+  is positively associated with downregulated signature genes in Colorectal adenoma
+  formation pathway gene sets, with significant cut-off defined by false discovery
+  rate (FDR) and normalized enrichment score (NES) of TLE3 are indicated. (D) The
+  expression levels of FXR in normal colon tissues (n = 51) versus primary tumors
+  (n = 647) from COAD and READ cohort of TCGA data. Box and whiskers graph is presented
+  within 5–95 percentile, with medium number shown in the middle. (E) Correlation
+  between gene expression of TLE3 and FXR genes in normal colorectal tissues from
+  TCGA RNA-seq database (n = 50). (F) Immunofluorescent staining of Tle3 expression
+  (green) in intestine section of WT and FXRKO mice, with the nucleus counterstained
+  with DAPI (blue). Scale bar 25 μm. (G) The expression of Tle3 and Fxr downstream
+  targets (Ibabp) are reduced in FXRKO mice, compared with WT mice. (H) The expression
+  of Tle3, Fxr target gene (Ibabp), cell cycle gene (Ccnd1), intestinal stem cell
+  (ISCs) signature genes (Lgr5 and Ascl2) were measured by RT-qPCR in WT and ApcMin/+
+  mice, a classic CRC mouse model, on normal diet treated with FXR agonists, Fexaramine
+  D (FexD) from 8 to 16 weeks old. (I) Histogram of FXR binding sites at the promoter
+  region of Tle3 genes from both intestine and liver FXR ChIP-seq data. The y-axis
+  displays the peak value, and the x-axis shows the chromosomal location of the gene.
+  The top panel (displayed in red) represents FXR binding in liver, and the bottom
+  panel (displayed in blue) represents FXR binding in intestine. TLE3 is displayed
+  above the chromosome-scale are oriented in the sense directions (right arrow). (J)
+  HCT116 cells were treated with FXR agonistic drug, FexD and FXR antagonist natural
+  bile acids, T-βMCA for 4h. Pooled cells were collected, and ChIP assays were performed.
+  Occupancy of FXR at SHP, IBABP, TLE3 promoter regions were detected by q-PCR analysis.
+  (K) ApcMin/+ mice were treated with FexD or vehicle for 6 h, intestines were collected,
+  and ChIP assays were performed. Occupancy of Fxr at Ibabp and Tle3 promoter regions
+  were detected by q-PCR analysis. (L) HCT116 cells were transiently transfected with
+  pooled siRNA of TLE3 (siTLE3) and Control (siCTL) for 20 h, then treated with FXR
+  agonistic drug, FexD and FXR antagonist natural bile acids, T-βMCA for 4h. The expression
+  of TLE3, FXR and its target genes (FXR, IBABP), Wnt signaling gene (CTNNB1), cell
+  cycling gene (CCND1), intestinal stem cell markers (LGR5, ASCL2) were measured by
+  RT-qPCR. (M) Knockdown of TLE3 by siTLE3 promotes HCT116 cell growth and proliferation,
+  as determined by Crystal violet assay. Representative phase-contrast images were
+  displayed, Scale bar 100 μm. (N) Silence of TLE3 by siTLE3 increased migratory capabilities
+  of HCT116 cells. Wound healing assay was performed, and representative images are
+  shown. Scale bar 200 μm. (O) Knockdown of TLE3 by siTLE3 activates Wnt signaling,
+  as measured by Cignal TCF/LEF luciferase reporter assay, with provided negative
+  and positive control. (P) HCT116 cells were knocked down by siTLE3 and control siRNA.
+  Western blot analysis was formed to measure the key Wnt signaling pathway-related
+  markers (TLE3, c-MYC, AXIN1). Band intensities were quantified by image J and labeled
+  below each band. (Q) Heatmap showing relative gene expression of Wnt signaling inhibitors
+  and activators in Lgr5-GFP + stem cells with or without FXR conditional knockdown.
+  Lgr5-GFP + cells were isolated from different intestinal segments of APCmin/+/Lgr5-GFP,
+  APCmin/+/Lgr5-GFP/FXRflox, (Lgr5-GFP + high cells–Intestinal Stem cells, were isolated
+  were pooled from six mice 1 week after tamoxifen treatment). n = 3–9/group. Experiments
+  were independently replicated twice, and representative data are shown as the mean ± SEM.
+  p-values are computed with Student''s unpaired t-test or one sample Wilcoxon test,
+  or one-way ANOVA test followed by multiple comparisons. ∗ FXRKO or ApcMin/+ versus
+  WT, or siTLE3 versus siCtl, or Drugs versus control, # FexD versus Vehicle in WT
+  and ApcMin/+ cohort, or T-βMCA versus FexD treatment, or Drug treatment after siTLE3
+  versus siTLE3. $ siTLE3 with FexD versus FexD only treatment. ∗, #, $P < 0.05; ∗∗,
+  ##, $$P < 0.01; ∗∗∗, ###, $$$P < 0.005; ns-not significant.'
+article_title: FXR suppresses colorectal cancer by inhibiting the Wnt/β-catenin pathway
+  via activation of TLE3.
+citation: Xingchen Dong, et al. Genes Dis. 2023 May;10(3):719-722.
+year: '2023'
+
+doi: 10.1016/j.gendis.2022.09.006
+journal_title: Genes & Diseases
+journal_nlm_ta: Genes Dis
+publisher_name: Chongqing Medical University
+
+keywords:
+---

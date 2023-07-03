@@ -1,0 +1,37 @@
+---
+figid: PMC9250625__nihms-1800929-f0004
+pmcid: PMC9250625
+image_filename: nihms-1800929-f0004.jpg
+figure_link: /pmc/articles/PMC9250625/figure/F4/
+number: Figure 4
+figure_title: The RSI describes distinct tumor immune microenvironments
+caption: (a) RSIlo versus RSIhi tumors were compared with single sample gene set enrichment
+  analysis (ssGSEA) using the MSigDB hallmark pathway genes related to immune signaling.
+  Heatmap intensity depicts the -log p-value of the Fisher exact test multiplied by
+  the directionality of expression difference; enriched in RSIlo (red) or RSIhi (blue).
+  Tumor types are ordered by the immune score. (b) Tumor types are ordered by immune
+  score and normalized CIBERSORT immune cell infiltrate estimates are compared within
+  a given tumor type by dichotomizing at the median RSI value to identify RSIlo and
+  RSIhi tumors. Immune cell infiltrates involved in the innate (left panel) and the
+  adaptive (right panel) response. Hypothesis tests (Fisher’s exact test) in tumor
+  types between RSIhi and RSIlo were performed; a black bar beneath the comparison
+  denotes false-discovery rate adjusted q < 0.05. Black bars to the right of heatmap
+  indicate proportion of significant tumor types for given immune cell infiltrate
+  enrichment comparison between RSIlo and RSIhi tumors. (d) Associations of IFNα and
+  the RSI with immune cell (IC) subtypes as independent or coordinated biology. Half-circles
+  represent whether comparison within a tumor type and IC subtype are significant
+  (q < 0.05); red (RSI vs IC), blue (IFNα vs IC). Empty circles imply no association
+  between variables. Tumor types are ordered by immune score.
+article_title: The Radiosensitivity Index (RSI) Gene Signature Identifies Distinct
+  Tumor Immune Microenvironment Characteristics Associated with Susceptibility to
+  Radiotherapy.
+citation: G. Daniel Grass, et al. Int J Radiat Oncol Biol Phys. ;113(3):635-647.
+year: '2023'
+
+doi: 10.1016/j.ijrobp.2022.03.006
+journal_title: International journal of radiation oncology, biology, physics
+journal_nlm_ta: Int J Radiat Oncol Biol Phys
+publisher_name: ''
+
+keywords:
+---

@@ -1,0 +1,41 @@
+---
+figid: PMC9745782__fonc-12-1039145-g007
+pmcid: PMC9745782
+image_filename: fonc-12-1039145-g007.jpg
+figure_link: /pmc/articles/PMC9745782/figure/f7/
+number: Figure 7
+figure_title: ''
+caption: The association between molecular functional dynamics of B cells subsets
+  and prognosis. (A) UMAP of B cells processed by the scSTAR algorithm, colored by
+  sample and cluster. (B) The association between scSTAR-processed clusters and treatment
+  (above) or B cell subclusters (down). The area of the ties represents the relative
+  enrichment. (C) Trajectory analysis for the three scSTAR-processed clusters. Each
+  point corresponds to an individual cell colored by cluster (above) or by sample
+  (down). The density curves represent the distribution of each cluster. (D) Heatmap
+  of scaled normalized expression for B cell function genes. (E) Pathway enrichment
+  analysis of genes in scSTAR-C2 and scSTAR-C3, respectively. The bar plot showed
+  the top 10 enriched GO pathways. Benjamini-Hochberg (BH) adjusted p value < 0.05.
+  (F) The number of associations between all changed genes, pathways in which scSTAR-C2
+  or scSTAR-C3 was involved and better or worse overall survival in the 21 tumor types.
+  (G) The percentage of prognosis results predicted by scSTAR-C2 and scSTAR-C3 in
+  21 cancer types.
+article_title: Single-cell analyses reveal the therapeutic effects of ATHENA and its
+  mechanism in a rhabdomyosarcoma patient.
+citation: Yujun Liu, et al. Front Oncol. 2022;12:1039145.
+year: '2022'
+
+doi: 10.3389/fonc.2022.1039145
+journal_title: Frontiers in Oncology
+journal_nlm_ta: Front Oncol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- single-cell RNA sequencing
+- autologous tumor vaccines
+- scSTAR
+- T cells
+- B cells
+- exhausted state
+- central memory
+
+---

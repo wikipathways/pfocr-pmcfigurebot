@@ -1,0 +1,57 @@
+---
+figid: PMC10308090__gr1
+pmcid: PMC10308090
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC10308090/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: MiR-126-5p directly targets and inhibits SPRED1, acting on ERK1/2 signaling
+  pathway and affecting cell apoptosis and cell sensitivity to chemotherapy drugs.
+  (A) Volcano plot for the comparison between HCT8 and HCT8/T cells. The cutoff values
+  log2FC < −1.2 or >1.2 and FDR <0.05 were set to screen differentially expressing
+  miRNAs. Red indicates up-regulated miRNAs, grey indicates unchanged miRNAs and green
+  indicates down-regulated miRNAs. (B) The transcripts per million (TPM) values of
+  miR-126-5p in HCT8 and HCT8/T from histological data. (C) qRT-PCR analysis of relative
+  miR-126-5p expression levels in HCT8 and HCT8/T cells. (D) qRT-PCR analysis of relative
+  miR-126-5p expression levels in HCT8 cells treated with increasing concentrations
+  of Taxol (TAX) for 3 days, with 10 nM TAX for incremental days or TAX removal after
+  18 days of TAX incubation. (E) qRT-PCR analysis of relative miR-126-5p expression
+  levels in HCT8/T cells treated with increasing concentrations of TAX for 9 days,
+  with 20 nM TAX for incremental days or TAX removal after 18 days of TAX incubation.
+  (F) Overexpression of miR-126-5p desensitized HCT8 cells to chemotherapy drugs.
+  The cells were treated with TAX, doxorubicin (DOX), vinorelbine (NVB), vincristine
+  (VCR) or 7-Ethyl-10-hydroxycamptothecin (SN38) at incremental concentrations for
+  72 h. IC50 values were detected by CCK-8 assay. (G) Knockdown of miR-126-5p resensitized
+  HCT8/T cells to chemotherapy drugs. The cells were treated with drugs at incremental
+  concentrations for 72 h. IC50 values were detected by CCK-8 assay. (H, I) Nude mice
+  xenografts models with HCT8/T shNC and HCT8/T shmiR were injected with paclitaxel
+  (PTX, 20 mg/kg) intraperitoneally every two days for 28 or 20 days. Saline was used
+  for control group. Tumor volume was measured every two days. (H) The change of tumor
+  volume. (I) The tumor weight after treatments. (J) Verification of miR-126-5p directly
+  targeting SPRED1 by dual luciferase reporter assay. Luciferase activities after
+  co-transfecting with empty vector or miR-126-5p and wild-type or mutant 3′ UTR of
+  SPRED1 in 293T cells. (K) Silencing SPRED1 desensitized HCT8 shmiR cells to multiple
+  chemotherapy drugs. The cells were treated with drugs at incremental concentrations
+  for 72 h. IC50 values were detected by CCK-8 assay. (L) Western blotting analysis
+  of Bax, Bcl-2, Caspase3 and Cleaced-Caspase3 protein expression in HCT8/T cell groups.
+  (M) Selumetinib resensitized cells to chemotherapy agents. After transfection and/or
+  incubation, the cells were treated with drugs at incremental concentrations for
+  72 h. IC50 values were detected by CCK-8 assay. (N) Silencing of SPRED1 reduced
+  cell apoptosis and selumetinib promoted cell apoptosis in the chemotherapy setting.
+  After transfection and/or incubation, HCT8/T cellswere exposed to 10 μM TAX for
+  another 24 h. The flow cytometry was used to detect cell apoptosis. (O) MiR-126-5p
+  affects the chemosensitivity of colorectal cancer cells by regulating SPRED1, ERK1/2
+  pathway and apoptosis. All data were expressed as mean ± SD, except that the data
+  of H, I expressed as mean ± SEM. ns, P > 0.05, ∗P < 0.05, ∗∗P < 0.01, ∗∗∗P < 0.001.
+article_title: miR-126-5p affects the chemosensitivity of colorectal cancer cells
+  by regulating SPRED1, ERK1/2 pathway and apoptosis.
+citation: Mingshi Xu, et al. Genes Dis. 2023 May;10(3):675-678.
+year: '2023'
+
+doi: 10.1016/j.gendis.2022.05.024
+journal_title: Genes & Diseases
+journal_nlm_ta: Genes Dis
+publisher_name: Chongqing Medical University
+
+keywords:
+---

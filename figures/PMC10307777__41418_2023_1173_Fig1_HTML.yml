@@ -1,0 +1,55 @@
+---
+figid: PMC10307777__41418_2023_1173_Fig1_HTML
+pmcid: PMC10307777
+image_filename: 41418_2023_1173_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC10307777/figure/Fig1/
+number: Fig. 1
+figure_title: USP28 regulates the mevalonate pathway (MVP)
+caption: a A431 cells expressing inducible shRNA sequences targeting USP28 (shUSP28#1
+  and shUSP28#2) or non-targeting control (shRen) were treated with 1 µg/ml of doxycycline
+  (DOX) for 96 h. Protein lysates were analysed for expression of USP28 and USP25
+  by immunoblotting. Vinculin is shown as loading control. b Proteins differentially
+  regulated by USP28 (shUSP28#1) silencing for 72 h in A431 cells [] (FDR ≤ 0.05 compared
+  to shRen, total of 2200 proteins) were subjected to pathway analysis using the PANTHER
+  tool. c Differential expression of MVP proteins as determined by proteomics analysis.
+  Pathway map is coloured by log2FC (*q-value ≤ 0.05, n = 3). d A431 cells expressing
+  an inducible shRNA sequence targeting USP28 (shUSP28#2) or non-targeting control
+  (shRen) were treated with 1 µg/ml of doxycycline (DOX) for 120 h. Changes in gene
+  expression were analysed and enrichment plots for gene sets mapping to direct ΔNP63
+  targets and cholesterol biosynthesis are shown. e Validation of downregulation of
+  mevalonate pathway genes following USP28 silencing using 1 µg/ml of doxycycline
+  (DOX) for 96 h. Data are presented as mean ± SD of three independent experiments
+  (*p < 0.05, ****p < 0.0001, unpaired two-tailed t-test with FDR). f A431 cells expressing
+  an inducible shRNA sequence targeting USP28 (shUSP28#2) or non-targeting control
+  (shRen) were treated with 0.5 µg/ml of doxycycline (DOX) for 96 h. Expression of
+  USP28 and HMGCS1 were analysed by immunoblotting. Actin is shown as loading control.
+  g Overlap between genes downregulated by silencing of USP28 and SREBP2 in A431 cells.
+  Among the 252 overlapping genes are 8 mevalonate pathway enzymes (boxed) that also
+  showed downregulation in the proteomics dataset. h A431 cells were incubated with
+  medium containing 25 mM [U13C]-glucose for 48 h. Metabolites were extracted and
+  analysed by LC-MS. Fractions of labelled and unlabelled ubiquinone (CoQ10) and cholesterol
+  are shown. Data are presented as mean ± SD of three independent experiments. i A431
+  cells expressing inducible shRNA sequences targeting USP28 (shUSP28#1 and shUSP28#2)
+  or non-targeting control (shRen) were treated with 1 µg/ml of doxycycline (DOX)
+  for 120 h. During the last 48 h, cells were incubated with medium containing 25 mM
+  [U13C]-glucose. Metabolites were extracted and analysed by LC-MS. Fractions of labelled
+  and unlabelled ubiquinone (CoQ10) and cholesterol are shown. Data are presented
+  as mean ± SD of three independent experiments (n.s. non-significant, *p < 0.05,
+  ****p < 0.0001, one-way ANOVA with post-hoc Dunnett’s test).
+article_title: USP28 controls SREBP2 and the mevalonate pathway to drive tumour growth
+  in squamous cancer.
+citation: Carina R. Maier, et al. Cell Death Differ. 2023 Jul;30(7):1710-1725.
+year: '2023'
+
+doi: 10.1038/s41418-023-01173-6
+journal_title: Cell Death and Differentiation
+journal_nlm_ta: Cell Death Differ
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Non-small-cell lung cancer
+- Deubiquitylating enzymes
+- Sterols
+- Gene regulation
+
+---

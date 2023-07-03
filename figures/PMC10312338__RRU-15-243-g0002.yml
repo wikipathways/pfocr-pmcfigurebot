@@ -1,0 +1,51 @@
+---
+figid: PMC10312338__RRU-15-243-g0002
+pmcid: PMC10312338
+image_filename: RRU-15-243-g0002.jpg
+figure_link: /pmc/articles/PMC10312338/figure/f0002/
+number: Figure 2
+figure_title: ''
+caption: PARP inhibitors mechanism of action. DNA damage and PARPsThe most common
+  type of DNA damage is DNA Single-Strand Break or SSB (1), which is repaired mostly
+  by PARP-dependent Base Excision Repair (BER) pathway (2).The PARP (Poly ADP-Ribose
+  Polymerase) enzyme family can catalyze the transfer of ADP-ribose to target proteins.
+  Some isoforms of PARP family have the function of detecting and initiating an immediate
+  response to DNA SSBs. Once a SSB is detected, one of these PARPs binds to the DNA
+  (3) and undergoes a conformational change, allowing β-NAD+ (the PARP co-factor)
+  to bind to the active site of the enzyme (4). At this point, the enzyme uses the
+  hydrolysis of β-NAD+ to catalyze the transfer of ADP-Ribose moieties onto target
+  proteins, leading to the synthesis (PARylation) of a Polymeric ADP-Ribose (PAR)
+  chain (5). This step allows the recruitment (via their PAR-binding domains) of DNA
+  repair effectors(6), which are required for efficient DNA repair (7). The process
+  ends with the degradation of PAR chains via Poly (ADP-ribose) Glycohydrolase (PARG)
+  and the release of PARP and repair enzymes. PARP inhibitorsPARP inhibitors or PARPi
+  (8) induce catalytic inhibition of PARP-dependent repair (preventing PARylation)
+  and binding of PARP on damaged DNA (9). Failure to repair SSBs leads to DSBs (Double-Strand
+  Breaks) during DNA replication, thus PARP inhibition induces further DNA damage
+  (10). Nevertheless, DNA damage can also be repaired through Homologous Recombination
+  (HR) mechanisms, so HR-proficient cells can repair DSBs originated from SSBs and
+  survive (11), while HRdeficient cells that cannot repair DSBs die (12). Usually,
+  cancer cells are mutated in one of their DNA repair pathways. For example, BRCA1
+  and BRCA2 encode key components of the HRR mechanism, so mutations of these two
+  genes lead to the inability to repair DSBs. Accordingly, PARP inhibitors exploit
+  a principle called synthetic lethality, in which two conditions that independently
+  of each other allow the cell to survive together cause cell death.
+article_title: 'Metastatic Castration-Resistant Prostate Cancer: Insights on Current
+  Therapy and Promising Experimental Drugs.'
+citation: Simone Ferretti, et al. Res Rep Urol. 2023;15:243-259.
+year: '2023'
+
+doi: 10.2147/RRU.S385257
+journal_title: Research and Reports in Urology
+journal_nlm_ta: Res Rep Urol
+publisher_name: Dove
+
+keywords:
+- metastatic castration resistant prostate cancer
+- chemotherapy
+- androgen-receptors axis targeted therapies
+- PARP inhibitors
+- theragnostic
+- predictive biomarkers
+
+---

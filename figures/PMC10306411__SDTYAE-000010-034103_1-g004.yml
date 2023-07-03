@@ -1,0 +1,46 @@
+---
+figid: PMC10306411__SDTYAE-000010-034103_1-g004
+pmcid: PMC10306411
+image_filename: SDTYAE-000010-034103_1-g004.jpg
+figure_link: /pmc/articles/PMC10306411/figure/f4/
+number: FIG. 4
+figure_title: ''
+caption: (a) Reaction pathways of CHI3 photolysis in methanol and cyclohexane, adapted
+  from the literature. (b) Potential signal components for CHI3 photolysis in cyclohexane,
+  predicted based on the null hypothesis that the reaction pathway for cyclohexane
+  is the same as that assigned for methanol. (c) ΔS(q, t)exp from a TRXL experiment
+  on CHI3 in cyclohexane, and ΔS(q, t)PEPC obtained by applying the PEPC method to
+  ΔS(q, t)exp. The contributions of the four signal components shown in (b) are removed
+  from ΔS(q, t)exp via PEPC. The remaining signal in ΔS(q, t)PEPC indicates that the
+  null hypothesis is not true, and the reaction pathways are different for cyclohexane
+  and methanol. (d) The first RSV obtained from the SVD analysis of ΔS(q, t)PEPC (dots).
+  The kinetics of the first RSV agrees well with the time-dependent concentration
+  profile of iso-CHI2–I retrieved using GFA (solid line), indicating that the remaining
+  signal in ΔS(q, t)PEPC is due to the contribution of the reaction pathway yielding
+  iso-CHI2–I. (e) The first LSV obtained from the SVD analysis of ΔS(q, t)PEPC (black
+  solid line). The LSV is compared with the SADS corresponding to the formation of
+  iso-CHI2–I [SADS(iso-CHI2–I), red solid line]. Although the first LSV did not correspond
+  well with SADS(iso-CHI2–I), the LSVcorr (black dashed line), which was adjusted
+  for the contributions of the signal components excessively removed during the PEPC
+  procedure, showed excellent agreement with SADS(iso-CHI2–I). The LSVcorr is described
+  as the sum of five terms, LSV, α × (∂S/∂T)ρ, β × (∂S/∂ρ)T, γ × SADS(CHI3 → CHI2
+  + I), and δ × SADS(CHI3 → CHI2 + ½ I2) where α, β, γ, and δ are the fitting parameters.
+  (f) and (g) The time traces of ΔT(f) and Δρ(g), retrieved from the correct kinetic
+  framework that includes the contribution of iso-CHI2–I (dots). Once the kinetics
+  of the reaction is determined using PEPC and the solute-related term for each relevant
+  chemical species is determined through a subsequent structural analysis, the reconstruction
+  of the hydrodynamic response of the solvent is straightforward. ΔT and Δρ for each
+  time delay can be retrieved as described in the text. The resulting ΔT and Δρ match
+  those determined using GFA (solid lines).
+article_title: Projection to extract the perpendicular component (PEPC) method for
+  extracting kinetics from time-resolved data.
+citation: H. Ki, et al. Struct Dyn. 2023 May;10(3):034103.
+year: '2023'
+
+doi: 10.1063/4.0000189
+journal_title: Structural Dynamics
+journal_nlm_ta: Struct Dyn
+publisher_name: American Crystallographic Association
+
+keywords:
+---

@@ -1,0 +1,44 @@
+---
+figid: PMC10310764__41420_2023_1499_Fig3_HTML
+pmcid: PMC10310764
+image_filename: 41420_2023_1499_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC10310764/figure/Fig3/
+number: Fig. 3
+figure_title: UBE3A is a target of miR-375
+caption: A Overlaps of miR-375 predicted targets from 5 public databases and the differentially
+  expressed genes determined by RNA sequencing after miR-375 was overexpressed in
+  SK-MES-1 cells, and five genes were selected. B, C The expression of five selected
+  genes in unpaired (B) and paired (C) LUSC (n = 502) and normal tissues (n = 49)
+  from TCGA. D RNA-seq, E qRT‒PCR and F western blotting were carried out to verify
+  the relationship between miR-375 and UBE3A. GAPDH served as an internal control
+  for the detection of UBE3A mRNA. G IHC assay displaying UBE3A expression between
+  cancer and adjacent normal tissues, with magnifications of ×40 and ×200, respectively.
+  H Quantitative immunohistochemistry analysis of UBE3A in LUSC and paracarcinoma
+  tissues. I ROC curve analysis for differentiating normal from tumor tissue, with
+  an AUC of 0.892. J Relationship between UBE3A expression and OS was assessed by
+  a Kaplan–Meier plot. The log-rank test was conducted to explore statistical significance
+  based on the survival curves. K Correlation between UBE3A and miR-375 expression
+  levels in LUSC tissues (n = 89 patients). L The putative binding sites of miR-375
+  within the 3’UTR of UBE3A mRNA predicted by the TargetScan database. M Luciferase
+  reporter assays were carried out in HEK293T cells cotransfected with miR-375 expression
+  vector or control vector with the luciferase reporter plasmid containing either
+  wild‐type (WT) or mutant (MUT) 3′UTR of UBE3A to confirm the regulation of UBE3A
+  by miR-375.
+article_title: MicroRNA-375 restrains the progression of lung squamous cell carcinoma
+  by modulating the ERK pathway via UBE3A-mediated DUSP1 degradation.
+citation: Junqing Gan, et al. Cell Death Discov. 2023;9:199.
+year: '2023'
+
+doi: 10.1038/s41420-023-01499-7
+journal_title: Cell Death Discovery
+journal_nlm_ta: Cell Death Discov
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Non-small-cell lung cancer
+- miRNAs
+- Ubiquitylation
+- Cell growth
+- Cell migration
+
+---

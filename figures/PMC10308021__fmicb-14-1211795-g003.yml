@@ -1,0 +1,35 @@
+---
+figid: PMC10308021__fmicb-14-1211795-g003
+pmcid: PMC10308021
+image_filename: fmicb-14-1211795-g003.jpg
+figure_link: /pmc/articles/PMC10308021/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: 'Transcriptome-based analysis of genes involved in pigment synthesis. (A)
+  PCA analysis, the more similar the sample composition is, the closer the distance
+  in the PCA plot. (B) Correlation heat map: repeatability between repeated samples
+  can be investigated. (C) DEG distribution in each sample, red represents upregulation
+  and green represents downregulation. (D) Venn diagram of differential genes during
+  the three development periods of purple and white strains. (E) Venn diagram of targeted
+  genes. (F) KEGG enrichment bubble diagram. The red boxes represent the pathways
+  associated with predicted pigment synthesis. (G) GESA enrichment ES curves. The
+  gene enriched when ES reached the highest score is the major gene of the pathway.'
+article_title: High-quality genome assembly and multi-omics analysis of pigment synthesis
+  pathway in Auricularia cornea.
+citation: Xiaoxu Ma, et al. Front Microbiol. 2023;14:1211795.
+year: '2023'
+
+doi: 10.3389/fmicb.2023.1211795
+journal_title: Frontiers in Microbiology
+journal_nlm_ta: Front Microbiol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- Auricularia cornea
+- genome
+- transcriptome
+- metabolome
+- shikimate pathway
+- GDHB pigment
+
+---

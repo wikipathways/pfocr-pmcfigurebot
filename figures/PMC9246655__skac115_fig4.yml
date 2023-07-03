@@ -1,0 +1,48 @@
+---
+figid: PMC9246655__skac115_fig4
+pmcid: PMC9246655
+image_filename: skac115_fig4.jpg
+figure_link: /pmc/articles/PMC9246655/figure/F4/
+number: Figure 4
+figure_title: ''
+caption: A depiction of the regulators of RAR signaling identified in each dataset,
+  modified from Ingenuity Pathway Analysis and based upon its database. The mRNAs
+  that were greater on day 20 of pregnancy are depicted in gold, whereas those that
+  were less on day 20 of pregnancy are depicted in blue. Components of the pathway
+  not regulated in the present dataset are shown in black boxes. mRNAs that were only
+  regulated in dataset 1 are labeled (1) and those only regulated in dataset 2 are
+  labeled (2). Conversion of retinyl esters and retinol to retinoic acid can occur
+  via the enzymatic action of PNPLA4, AKR1C4, DHRS3, and RDH12, all of which were
+  regulated in the CL during early pregnancy. Retinoic acid inhibits the activity
+  of MAP3K5 via increased phosphorylation of PTEN and activation of the PTEN pathway,
+  and increases activation of adenylate cyclase (ADCY5), leading to phosphorylation
+  of RAR by protein kinase A (PKA). Downregulation of MAP3K5 may ultimately lead to
+  a reduced activation of the AP-1 complex (FOS/JUN), through a reduction in JNK signaling.
+  The AP-1 complex may also be inhibited by the RAR/RXR heterodimer, and there may
+  also be other protein–protein interactions between these two transcription factors.
+  MAP3K1 inhibits the binding activity of SMRT. Both SMRT and ZBTB16 can bind to RAR
+  prior to heterodimer formation and inhibit the activity of RAR. PML, TRIM 24, and
+  SMARCD3 can all increase the activation and thus the transcriptional activity of
+  the RAR/RXR heterodimer. Ultimately, alterations in these pathways regulate the
+  activity of the RAR/RXR transcription factor, leading to downstream effects on retinoic
+  acid-regulated genes, including AKR1C4, DHRS3, IGFBP3, and RDH12. FOS, fos proto-oncogene,
+  AP-1 transcription factor subunit; JNK, c-Jun N-terminal kinases; JUN, jun proto-oncogene,
+  AP-1 transcription factor subunit; PKA, protein kinase A; PTEN, phosphatase and
+  tensin homolog; RXR, retinoid X receptor.
+article_title: Insights from two independent transcriptomic studies of the bovine
+  corpus luteum during pregnancy.
+citation: Camilla H K Hughes, et al. J Anim Sci. 2022 Jul;100(7):skac115.
+year: '2022'
+
+doi: 10.1093/jas/skac115
+journal_title: Journal of Animal Science
+journal_nlm_ta: J Anim Sci
+publisher_name: Oxford University Press
+
+keywords:
+- corpus luteum
+- interferon signaling
+- maternal recognition of pregnancy
+- transcriptomics
+
+---

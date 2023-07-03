@@ -1,0 +1,37 @@
+---
+figid: PMC10307726__395_2023_996_Fig4_HTML
+pmcid: PMC10307726
+image_filename: 395_2023_996_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC10307726/figure/Fig4/
+number: Fig. 4
+figure_title: ''
+caption: Identification of mRNAs binding to Ybx-1 in NRCMs. (A) Experimental design
+  for RNA Immunoprecipitation (RIP)-Seq in NRCMs. NRCMs were treated with PE (50uM)
+  for 24 h and then harvested. Beads and antibody were incubated at room temperature
+  for an hour and then the cell lysate was added to the mixture. The protein (Ag)-antibody
+  (Ab) bead mixture was incubated overnight and then washed to remove any unbound
+  protein from the beads. Finally, RNA was isolated and used for RNA-Seq. Illustration
+  created with Biorender.com (B) Immunoblot showing the binding of Ybx1 after immunoprecipitation.
+  (C) Scatter plot of the mRNAs bound to Ybx1 identified by RIP-seq in NRCMs. Full
+  data set can be found in Supplementary Table 1. Ybx1 mRNA is known to bind its own
+  transcript and is, therefore, highlighted in red. (D) Validation of the hits from
+  the RIP-Seq by RIP–RT–PCR. Ybx1, Foxp1, Aldoa, Ide were taken as positive controls
+  and Carns was used as negative control. (E) KEGG pathway enrichment for the mRNAs
+  bound to Ybx1
+article_title: Translational control of Ybx1 expression regulates cardiac function
+  in response to pressure overload in vivo.
+citation: Eshita Varma, et al. Basic Res Cardiol. 2023;118(1):25.
+year: '2023'
+
+doi: 10.1007/s00395-023-00996-1
+journal_title: Basic Research in Cardiology
+journal_nlm_ta: Basic Res Cardiol
+publisher_name: Springer Berlin Heidelberg
+
+keywords:
+- YBX1
+- mTOR
+- RNA-binding proteins
+- Heart failure
+
+---

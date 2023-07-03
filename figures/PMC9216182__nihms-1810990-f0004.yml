@@ -1,0 +1,38 @@
+---
+figid: PMC9216182__nihms-1810990-f0004
+pmcid: PMC9216182
+image_filename: nihms-1810990-f0004.jpg
+figure_link: /pmc/articles/PMC9216182/figure/F4/
+number: 'Figure 4:'
+figure_title: Effects of Myeloid cell-specific Smad7 loss on the gene expression profile
+  of infarct macrophages
+caption: 'A-D: RNA-seq was used to compare the transcriptional profile of infarct
+  macrophages harvested from MyS7KO and Smad7 fl/fl infarcted hearts, 3 and 7 days
+  after coronary occlusion. Volcano plots demonstrate upregulation of 291 genes and
+  downregulation of 464 genes in Smad7 KO macrophages 3 days after myocardial infarction
+  (A). 867 genes were upregulated and 613 genes were downmodulated by macrophage-specific
+  loss of Smad7 at the 7-day post-infarction timepoint (B). C-D: the number of genes
+  up and down regulated in MyS7KO infarct macrophages. E: Ingenuity pathway analysis
+  (IPA) of the transcriptomic data at the 7-day timepoint identified 3 canonical pathways
+  that were differentially regulated by Smad7 loss (with an absolute z score >2).
+  The semaphorin pathway was predicted to be activated in Smad7 KO cells, whereas
+  TREM1 signaling and oxidative phosphorylation were predicted to be inhibited.'
+article_title: The role of endogenous Smad7 in regulating macrophage phenotype following
+  myocardial infarction.
+citation: Jun Li, et al. FASEB J. ;36(7):e22400-e22400.
+year: '2023'
+
+doi: 10.1096/fj.202101956RR
+journal_title: 'FASEB journal : official publication of the Federation of American
+  Societies for Experimental Biology'
+journal_nlm_ta: FASEB J
+publisher_name: ''
+
+keywords:
+- macrophage
+- TGF-β
+- myocardial infarction
+- inflammation
+- fibrosis
+
+---

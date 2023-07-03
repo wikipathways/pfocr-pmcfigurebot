@@ -1,0 +1,33 @@
+---
+figid: PMC10310787__41419_2023_5907_Fig4_HTML
+pmcid: PMC10310787
+image_filename: 41419_2023_5907_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC10310787/figure/Fig4/
+number: Fig. 4
+figure_title: SMYD3 deficiency and increased EMP1 mitigate Akt signaling in GC cells
+caption: A KEGG pathway enrichment analysis of RNA-seq data (GSE214155) found that
+  PI3K-Akt was the most influenced signaling pathway. B Immunoblotting analysis for
+  H4K20me3 level, as well as EMP1, p-AKT(S473) and T-AKT in HGC-27 and SGC-7901 cells
+  with SMYD3 deficiency. C Immunoblotting analysis for p-AKT(S473) level, as well
+  as T-AKT in HGC-27 and SGC-7901 cells with exogenous expression of EMP1. D Immunoblotting
+  analysis for H4K20me3 level, as well as EMP1, p-AKT(S473) and T-AKT in HGC-27 and
+  SGC-7901 cells with SMYD3 deficiency combined with re-expression of SMYD3. E EMP1
+  expression was decreased in GC tissues (N = 375) relative to normal ones (N = 32)
+  (p < 0.05) in TCGA GC cohort. F EMP1 inhibits the cell growth in HGC-27 and SGC-7901
+  cells by CCK-8 assay. G EMP1 suppresses the colony formation in HGC-27 and SGC-7901
+  cells.
+article_title: SMYD3 drives the proliferation in gastric cancer cells via reducing
+  EMP1 expression in an H4K20me3-dependent manner.
+citation: Yi Zeng, et al. Cell Death Dis. 2023 Jun;14(6):386.
+year: '2023'
+
+doi: 10.1038/s41419-023-05907-9
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Gastric cancer
+- Cancer epigenetics
+
+---

@@ -1,0 +1,43 @@
+---
+figid: PMC9354703__2269fig1
+pmcid: PMC9354703
+image_filename: 2269fig1.jpg
+figure_link: /pmc/articles/PMC9354703/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: 'Global changes in gene expression and RNA splicing associated with expression
+  of mutant PIK3CA signaling. A, Venn diagram overlap of differentially expressed
+  genes having a FDR adjusted P < 0.05 and absolute fold change > 0.2 among comparisons:
+  mutant vs. parental, mutant + alpelisib vs. mutant, and parental + alpelisib vs.
+  parental MCF10A cells. B, Scatter plot of gene expression log2-fold changes in MCF10A
+  mutant vs. parental on the x-axis and mutant + alpelisib vs. mutant on the y-axis.
+  Red dots, significantly differential genes (FDR < 0.05 and absolute fold change
+  > 0.2); gray points, nonsignificantly differential genes. Pearson correlation coefficient
+  r is shown for all points in gray or significantly differential genes, red points.
+  C, C2 Reactome mRNA splicing pathway enrichment in the indicated comparisons. D,
+  Scatter plot of JunctionSeq log2-fold changes showing mutant vs. parental on x-axis
+  and mutant + inhibitor vs. mutant MCF10A cells on y-axis; events significant in
+  PI3K-activation and PI3K-inhibition groups or only in PI3K-activation, or only PI3K-inhibition
+  groups are red, orange, and blue, respectively. E, Venn overlap of genes containing
+  significantly differential exonic regions. The intersection of the same significantly
+  differential exonic regions having opposite log2-fold change in mutant vs. parental
+  and mutant + alpelisib vs. mutant was assigned to 188 unique genes. F, The percentage
+  of alternatively spliced isoforms was annotated using 8 possible transcriptional
+  events. MES, multiple exon skipping; ATSS, alternative transcription start site;
+  ATTS, alternative transcription termination site; ES, exon skipping; IR, intron
+  retention; A3, alternative 3′ splice sites; A5, alternative 5′ splice sites; MEE,
+  mutually exclusive exons. G, An MA plot of isoforms. Red points, significantly differential
+  isoforms; blue points, nonsignificant alternatively spliced isoforms. Validated
+  candidates are labeled with isoform names.'
+article_title: The Oncogenic PI3K-Induced Transcriptomic Landscape Reveals Key Functions
+  in Splicing and Gene Expression Regulation.
+citation: Erik Ladewig, et al. Cancer Res. 2022 Jun 15;82(12):2269-2280.
+year: '2022'
+
+doi: 10.1158/0008-5472.CAN-22-0446
+journal_title: Cancer Research
+journal_nlm_ta: Cancer Res
+publisher_name: American Association for Cancer Research
+
+keywords:
+---

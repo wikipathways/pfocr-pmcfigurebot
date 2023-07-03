@@ -1,0 +1,44 @@
+---
+figid: PMC10311109__gr1
+pmcid: PMC10311109
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC10311109/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: 'Molecular feature-based survival prediction model of ovarian cancer (OC)
+  using deep neural network. (A) Overall workflow. The workflow includes four steps:
+  Step 1, dataset preparation; Step 2, data preprocessing and survival-related feature
+  selection; Step 3, Patient clustering; Step 4, model development and verification.
+  In step 1, the whole dataset compose of miRNA and mRNA data in The Cancer Genome
+  Atlas was prepared. In step 2, the data were preprocessed followed by survival-related
+  features. In step 3, the patients were optimally grouped into 6 subgroups with three
+  different survival outcomes. In step 4, the trained and integrated models were subsequently
+  developed, followed by verification by individually inputting original data for
+  mimicking reality. (B) Heatmap presenting the expression profile of 327 survival-related
+  mRNAs/miRNAs in OC solid tumor samples. The median survival times of the grouped
+  patients were shown. (C) The Silhouette coefficient was used to select the optimal
+  parameters for patient clustering. (D) The patients were optimally clustered into
+  6 subgroups with three different survival outcomes (high, moderate, and poor survival)
+  according to 13 survival-related features. (E) Heatmap presenting the expression
+  profile of 13 survival-related features used in optimal clustering in OC solid tumor
+  samples. The median survival times of each subgroup were shown. (F) Score plot of
+  unsupervised principal component analysis overview of 13 survival-related features
+  among the high, moderate, and poor survival groups. (G) Receiver operating characteristic
+  (ROC) curve for trained prediction model to discriminate between high, moderate,
+  and poor survival groups through preprocessed data. (H) ROC curve for integrated
+  prediction model to discriminate between high, moderate, and poor survival groups
+  through individually inputted original data. (I) Pathway enrichment analysis of
+  13 survival-related mRNAs used in the prediction model was visualized by a chord
+  diagram.'
+article_title: Development of a molecular feature-based survival prediction model
+  of ovarian cancer using the deep neural network.
+citation: Tingyuan Lang, et al. Genes Dis. 2023 Jul;10(4):1190-1193.
+year: '2023'
+
+doi: 10.1016/j.gendis.2022.10.011
+journal_title: Genes & Diseases
+journal_nlm_ta: Genes Dis
+publisher_name: Chongqing Medical University
+
+keywords:
+---

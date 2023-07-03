@@ -1,0 +1,34 @@
+---
+figid: PMC10293923__gr3
+pmcid: PMC10293923
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC10293923/figure/fig0003/
+number: Fig 3
+figure_title: ''
+caption: The carotenoid biosynthetic pathway for P. megaterium strain MARUCO02 genome.
+  The pathway was reconstructed by combining antiSMASH BGC analysis with manual protein
+  functional annotation and confirmation with databases (NCBI (https://blast.ncbi.nlm.nih.gov/Blastp)
+  and UniProt (https://www.uniprot.org/blast)). Genes encoding the respective enzymes
+  are represented in black bolded letters together with the accession numbers (blue
+  bolded) of individual protein sequences manually sorted from PGAP annotation.
+article_title: Complete genome sequence data of Priestia megaterium strain MARUCO02
+  isolated from marine mangrove-inhabited sediments of the Indian Ocean in the Bagamoyo
+  Coast.
+citation: Reuben S. Maghembe, et al. Data Brief. 2023 Jun;48:109119.
+year: '2023'
+
+doi: 10.1016/j.dib.2023.109119
+journal_title: Data in Brief
+journal_nlm_ta: Data Brief
+publisher_name: Elsevier
+
+keywords:
+- Priestia megaterium
+- Genome sequence
+- Phylogenomics
+- Biosynthetic gene clusters
+- Carotenoids
+- Polyhydroxyalkanoates
+- MARUCO02
+
+---

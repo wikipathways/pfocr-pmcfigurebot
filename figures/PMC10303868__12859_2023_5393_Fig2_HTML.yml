@@ -1,0 +1,30 @@
+---
+figid: PMC10303868__12859_2023_5393_Fig2_HTML
+pmcid: PMC10303868
+image_filename: 12859_2023_5393_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC10303868/figure/Fig2/
+number: Fig. 2
+figure_title: ''
+caption: Overall survival curves of immunotherapy treated skin cancer patients. Overall
+  survival curves of immunotherapy treated skin cancer patients dichotomized based
+  on perforin 1 (PRF1) (A) and HLA-DPA1 (B). User interface of the gene-level survival
+  analysis of PRF1. Samples were filtered based on pre-treatment (2 and 3). PF1 was
+  searched and selected from the Single-gene list (4, 5, 6). Kaplan meier curve is
+  shown comparing a median dichotemized patient population (7)
+article_title: 'PATH-SURVEYOR: pathway level survival enquiry for immuno-oncology
+  and drug repurposing.'
+citation: Alyssa N. Obermayer, et al. BMC Bioinformatics. 2023;24:266.
+year: '2023'
+
+doi: 10.1186/s12859-023-05393-y
+journal_title: BMC Bioinformatics
+journal_nlm_ta: BMC Bioinformatics
+publisher_name: BioMed Central
+
+keywords:
+- Pathway-level survival analysis
+- R Shiny app
+- Hazard ratio GSEA
+- Pathway clustering
+
+---

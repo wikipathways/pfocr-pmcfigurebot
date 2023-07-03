@@ -1,0 +1,34 @@
+---
+figid: PMC10300223__gr2
+pmcid: PMC10300223
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC10300223/figure/fig2/
+number: Fig. 2
+figure_title: ''
+caption: 'The Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG)
+  pathways of DEGs in the database for annotation, visualization, and integrated discovery
+  (DAVID). (A) GO and KEGG pathway analysis for up-regulated DEGs. (B) GO and KEGG
+  pathway analysis for down-regulated DEGs. The GO term and KEGG pathways were ranked
+  by gene counts. Top 5 GO terms and KEGG pathways were filtered according to gene
+  counts. Gene counts: the number of DEGs enriched genes enriched in each term. Gene
+  Ratio: the ratio of the number of enriched DEGs in each term to the total number
+  of DEGs.'
+article_title: Identification of the prognostic biomarkers and their correlations
+  with immune infiltration in colorectal cancer through bioinformatics analysis and
+  in vitro experiments.
+citation: Min Guo, et al. Heliyon. 2023 Jun;9(6):e17101.
+year: '2023'
+
+doi: 10.1016/j.heliyon.2023.e17101
+journal_title: Heliyon
+journal_nlm_ta: Heliyon
+publisher_name: Elsevier
+
+keywords:
+- Colorectal cancer (CRC)
+- Hub gene
+- Prognosis
+- Immune infiltration
+- BIRC5
+
+---

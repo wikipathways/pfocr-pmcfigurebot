@@ -1,0 +1,41 @@
+---
+figid: PMC10300554__gr6
+pmcid: PMC10300554
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC10300554/figure/fig6/
+number: Figure 6
+figure_title: ''
+caption: Prioritization of new drug targets in AS(A) Overview of the modified Pi prioritization
+  algorithm.(B) Inclusion of disease-specific datasets (AS) improves the Pi algorithm
+  output relative to the original Pi algorithm (Original) and outperformance relative
+  to Open Targets textMining and geneticAssociations. AUC, area under the curve.(C)
+  Prioritized target pathways (FDR < 0.05) based on KEGG pathway enrichment analysis
+  using the top 1% prioritized genes. Dot size represents percentages of genes represented
+  in that pathway.(D) Identification of pathway crosstalk; that is, a network of highly
+  prioritized and interconnecting genes defined by KEGG interaction data, with nodes
+  segmented by predictor/evidence types.(E) Table summarizing the prioritization and
+  evidence information associated with pathway crosstalk genes. Colored boxes underneath
+  each predictor type represent the datasets in support. Existing therapeutic targets
+  are indicated for aAS and bother autoimmune conditions.See also .
+article_title: Comprehensive epigenomic profiling reveals the extent of disease-specific
+  chromatin states and informs target discovery in ankylosing spondylitis.
+citation: Andrew C. Brown, et al. Cell Genom. 2023 Jun 14;3(6):100306.
+year: '2023'
+
+doi: 10.1016/j.xgen.2023.100306
+journal_title: Cell Genomics
+journal_nlm_ta: Cell Genom
+publisher_name: Elsevier
+
+keywords:
+- ankylosing spondylitis
+- spondyloarthritis
+- epigenomics
+- functional genomics
+- transcriptomics
+- target discovery
+- chromatin interactions
+- gene regulation
+- genome-wide association study
+
+---
