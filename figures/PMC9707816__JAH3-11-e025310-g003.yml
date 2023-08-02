@@ -1,0 +1,51 @@
+---
+figid: PMC9707816__JAH3-11-e025310-g003
+pmcid: PMC9707816
+image_filename: JAH3-11-e025310-g003.jpg
+figure_link: /pmc/articles/PMC9707816/figure/jah37648-fig-0002/
+number: Figure 2
+figure_title: Analysis of lipopolysaccharide‐induced changes in myocardial metabolites
+  and the effects of TB‐peptide in young mice
+caption: Mice were given 5 mg/kg lipopolysaccharide intraperitoneally and heart tissues
+  were harvested 18 hours later. A, Volcano plots generated using GraphPad Prism software
+  showing metabolite‐wise fold changes (log2 FC) plotted against false discovery rate
+  (FDR, −log10 FDR). Significantly differentially abundant metabolites were indicated
+  in red for upregulation and blue for downregulation (FDR ≤10%, FDR was determined
+  using Benjamin‐Hochberg procedure). B, Comparison of lipopolysaccharide‐induced
+  changes between groups with and without the treatment of TB‐peptide. Degrees of
+  fold change in abundance were shown in bar graphs. Results obtained from sham and
+  lipopolysaccharide‐challenged groups without the treatment of TB‐peptide were shown
+  in blue, and those from groups given treatment were shown in red. C, Metabolic pathways
+  altered by lipopolysaccharide in the young hearts. D, TB‐peptide‐mediated regulation
+  of metabolic pathways in the young hearts challenged by lipopolysaccharide. In (C
+  and D) pathway analysis was performed by using Shiny GAM (integrated analysis of
+  genes and metabolites) and Cytoscape software. Signaling networks were built on
+  pathway clustering against the small molecule pathway database using MBRole 2.0
+  software. FC, fold change; FDR, false discovery rate; LPS, lipopolysaccharide; NAD,
+  nicotinamide adenine dinucleotide; and UDP, Uridine diphosphate.
+article_title: Age‐Independent Cardiac Protection by Pharmacological Activation of
+  Beclin‐1 During Endotoxemia and Its Association With Energy Metabolic Reprograming
+  in Myocardium—A Targeted Metabolomics Study.
+citation: Matthew Kim, et al. J Am Heart Assoc. 2022 Jul 19;11(14):e025310.
+year: '2022'
+
+doi: 10.1161/JAHA.122.025310
+journal_title: 'Journal of the American Heart Association: Cardiovascular and Cerebrovascular
+  Disease'
+journal_nlm_ta: J Am Heart Assoc
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- autophagy
+- Beclin‐1
+- cardiac function
+- cardiac metabolism
+- endotoxemia
+- sepsis
+- Basic Science Research
+- Inflammation
+- Mechanisms
+- Pathophysiology
+- Animal Models of Human Disease
+
+---
