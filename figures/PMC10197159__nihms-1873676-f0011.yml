@@ -1,0 +1,37 @@
+---
+figid: PMC10197159__nihms-1873676-f0011
+pmcid: PMC10197159
+image_filename: nihms-1873676-f0011.jpg
+figure_link: /pmc/articles/PMC10197159/figure/F11/
+number: Extended Data Fig. 5 |
+figure_title: Related to . Viscoelasticity impacts Jak2 signaling in Jak2-V167F monocytes
+caption: A) Volcano plot of global transcriptome of differentially expressed genes
+  comparing mouse Jak2-V617F monocytes in stiff, elastic versus stiff, viscous gels.
+  Bulk RNA-sequencing was performed in duplicate. Genes marked in red are above thresholds
+  of both fold change = 21 and p-value = 10−2 threshold (dotted lines). Green indicates
+  genes above fold change threshold, but below the p-value threshold. Blue indicates
+  genes above the p-values threshold, but below the fold change threshold. Grey indicates
+  genes that are not significantly differentially expressed. Data was obtained from
+  n = 2 biological replicates. B) Normalized expression of JAK-STAT pathway genes
+  in Jak2-V617F monocytes cultured in elastic versus viscous hydrogels, with linear
+  regression fit (black line). Genes enriched in elastic gels are marked in red and
+  appear above the linear regression (viscous in blue). Data points indicate mean
+  normalized expression of n = 2 biological replicates from a single experiment (one
+  of each gender). C) IL6 and LIF levels of conditioned media from WT or Jak2-V617F
+  monocytes in viscous (blue) or elastic (red) hydrogels. Data shown from a single
+  experiment with n samples as individual data points collected from n = 2 biological
+  replicates (one of each gender). P-value<0.05 indicates statistically significant
+  difference by Brown–Forsythe and Welch ANOVA test with Dunnett’s T3 multiple comparisons
+  test.
+article_title: Mechanical checkpoint regulates monocyte differentiation in fibrotic
+  niches.
+citation: Kyle H. Vining, et al. Nat Mater. ;21(8):939-950.
+year: '2023'
+
+doi: 10.1038/s41563-022-01293-3
+journal_title: Nature materials
+journal_nlm_ta: Nat Mater
+publisher_name: ''
+
+keywords:
+---

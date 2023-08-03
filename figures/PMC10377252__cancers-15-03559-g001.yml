@@ -1,0 +1,41 @@
+---
+figid: PMC10377252__cancers-15-03559-g001
+pmcid: PMC10377252
+image_filename: cancers-15-03559-g001.jpg
+figure_link: /pmc/articles/PMC10377252/figure/cancers-15-03559-f001/
+number: Figure 1
+figure_title: ''
+caption: 'ACC-TCGA analysis identifies Wnt/β-catenin-associated ECM: (A). Independent
+  component analysis of the TCGA transcriptome dataset in ACC identified a signature
+  of coordinately expressed genes. A.U. stands for arbitrary units. (B). GSEA identified
+  that the signature was enriched for the Wnt/β-catenin pathway and the expression
+  of ECM and ECM-adhesion genes. (C). Kaplan–Meier analysis of the TCGA cohort indicated
+  that patients with component signature expression above the median show shorter
+  overall survival (OS) (high score n = 39, low score n = 39). An expression higher
+  (n = 24) or lower (n = 24) than the median also predicted shorter disease-free survival
+  (DFS). (D). The rxpression of COL11A1, COL26A1, ITGA2, and LAMC3 was significantly
+  correlated with a Wnt score representing the expression of bona fide Wnt/β-catenin
+  target genes AXIN2, LEF1, APCDD1, NKD1, and LGR5.'
+article_title: Targeting Oncogenic Wnt/β-Catenin Signaling in Adrenocortical Carcinoma
+  Disrupts ECM Expression and Impairs Tumor Growth.
+citation: Morgan K. Penny, et al. Cancers (Basel). 2023 Jul;15(14):3559.
+year: '2023'
+
+doi: 10.3390/cancers15143559
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- adrenocortical carcinoma
+- adrenal
+- Wnt/β-catenin
+- Wnt
+- β-catenin
+- extracellular matrix
+- collagen
+- xenograft
+- targeted therapy
+- COL11A1
+
+---

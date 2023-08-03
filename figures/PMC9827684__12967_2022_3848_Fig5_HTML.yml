@@ -1,0 +1,42 @@
+---
+figid: PMC9827684__12967_2022_3848_Fig5_HTML
+pmcid: PMC9827684
+image_filename: 12967_2022_3848_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC9827684/figure/Fig5/
+number: Fig. 5
+figure_title: ''
+caption: 'PTC-derived organoids as a platform for predicting drug responses. a Protocol
+  for the treatment of PTC organoids with various anticancer drugs. Organoids were
+  plated (10,000 organoids/mL) and cultured for 2 days, and drugs were diluted in
+  organoid medium and added into each well with six-point fivefold dilution series
+  (3.2 × 10–3 µM to 10 µM). After 5 days of treatment with the drugs, organoid viability
+  was examined by using the CellTiter-Glo® 3D Reagent. b Simplified scheme of the
+  RAS/RAF/MEK/ERK signaling pathway including targeted drugs used. c Heatmap of logIC50
+  values for 13 anticancer drugs used to treat 9 PTC organoid lines by applying nonlinear
+  regression. The corresponding colors for logIC50 are depicted in the legend. Orange
+  indicates high IC50 values, violet indicates low IC50 values. The assay was performed
+  with 3 biological replicates (different passages of PTC organoids). d Representative
+  scatterplots of 1-AUC values generated from two biological replicates of the drug
+  screening data. Each data point represents 1-AUC for a drug used to treat the indicated
+  PTC organoids. Passage numbers of PTC organoid lines were: PTC-1_O, P3, P4 and P5;
+  PTC-2_O, P2, P3 and P4; PTC-3_O, P3, P4 and P5; PTC-4_O, P3, P4 and P5; PTC-5_O,
+  P3, P4 and P5; PTC-6_O, P3, P4 and P5; PTC-7_O, P4, P5 and P6; PTC-8_O, P3, P4 and
+  P5; PTC-9_O, P4, P5 and P6'
+article_title: Papillary thyroid cancer organoids harboring BRAFV600E mutation reveal
+  potentially beneficial effects of BRAF inhibitor-based combination therapies.
+citation: Dong Chen, et al. J Transl Med. 2023;21:9.
+year: '2023'
+
+doi: 10.1186/s12967-022-03848-z
+journal_title: Journal of Translational Medicine
+journal_nlm_ta: J Transl Med
+publisher_name: BioMed Central
+
+keywords:
+- Papillary thyroid cancer
+- Organoid
+- BRAFV600E
+- Combination therapy
+- Treatment prediction
+
+---

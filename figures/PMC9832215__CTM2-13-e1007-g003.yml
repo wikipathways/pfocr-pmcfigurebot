@@ -1,0 +1,40 @@
+---
+figid: PMC9832215__CTM2-13-e1007-g003
+pmcid: PMC9832215
+image_filename: CTM2-13-e1007-g003.jpg
+figure_link: /pmc/articles/PMC9832215/figure/ctm21007-fig-0004/
+number: FIGURE 4
+figure_title: ''
+caption: Smc5 deficiency activates tp53‐related apoptosis pathway in zebrafish. (A)
+  Volcano plot showing common differentially expressed genes (DEGs) of HOM and wild‐type
+  (WT) 3‐dpf embryos. The horizontal line indicates a log10 (adjusted p value) of
+  1.3 (Qvalue of .05); and the vertical lines a log2 fold change of −.58 and .58.
+  (B) Top 20 enriched KEGG pathway and gene ontology (GO) biological process (ranked
+  by p.adjust) from DEGs as in (A) using the ClusterProfiler R package. (C) The expression
+  of genes involved in the DNA damage response and signal transduction by tp53 detected
+  in 3‐dpf larvae by quantitative real‐time PCR (qPCR). Actin was chosen as the internal
+  reference gene. (D) Knockdown of tp53 partially rescued the short phenotype in smc5−/−
+  larvae. WT, n = 77; smc5−/−, n = 36; smc5−/− + Ctrl morpholino (MO), n = 26; smc5−/−
+  + tp53 MO, n = 31; (E) body length of smc5−/− embryos at 5‐dpf treated with 10‐μM
+  C3742 from 3.5 to 4.5 dpf or indicated concentration of PFT‐α from 24 hpf to 5 dpf.
+  WT, n = 38; smc5−/−, n = 38; C3742 (10 μM) + smc5−/−, n = 46; PFT‐α (1 μM) + smc5−/−,
+  n = 9; PFT‐α (2 μM) + smc5−/−, n = 46; (F) deletion of tp53 in smc5 knockout (KO)
+  zebrafish rescued the reduced body length. tp53+/+, smc5+/+, n = 9; tp53+/+, smc5−/−,
+  n = 6; tp53−/−, smc5−/−, n = 9. In parts (C–F), values represent the mean ± s.e.m.
+  *p < .05, **p < .01, ***p < .001
+article_title: In‐frame deletion of SMC5 related with the phenotype of primordial
+  dwarfism, chromosomal instability and insulin resistance.
+citation: Wenjiao Zhu, et al. Clin Transl Med. 2023 Jan;13(1):e1007.
+year: '2023'
+
+doi: 10.1002/ctm2.1007
+journal_title: Clinical and Translational Medicine
+journal_nlm_ta: Clin Transl Med
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- insulin resistance
+- primordial dwarfism
+- SMC5 mutation
+
+---

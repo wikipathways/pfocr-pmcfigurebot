@@ -1,0 +1,51 @@
+---
+figid: PMC10388370__fnut-10-1144131-g005
+pmcid: PMC10388370
+image_filename: fnut-10-1144131-g005.jpg
+figure_link: /pmc/articles/PMC10388370/figure/fig5/
+number: Figure 5
+figure_title: ''
+caption: 'Pertubation of metbaolites on tryptophan pathway regarding BMI and HDP status.
+  Metabolites in the tryptophan pathway (A) were first annotated by the Mummichog
+  algorism in Metabanalyst via the empirical compound library, and then verified by
+  matching against the in-house physical standard library (OL1-OL2b) and public database
+  (PDa-PDd). OL1, matching with In-house physical standard library (IPSL) via retention
+  time (RT), exact mass (MS), and tandem mass similarity (MS/MS); OL2a, matching with
+  IPSL via MS and RT; and OL2b, the annotation for the isomer or derivatives of the
+  compound, based on matching with IPSL via MS and MS/MS. PDa, annotation based on
+  public database via MS and experimental MS/MS (could be the listed compound, or
+  the isomer or derivatives of the listed compound); PDc, annotation based on public
+  database via exact mass and isotopic similarity. #metabolite determined to associate
+  with BMI in the non-HDP and/or HDP group (); ## metabolite determined to associate
+  with HDP in at least one of the BMI categories (); ### metabolite determined to
+  associate with HDP and BMI by regression modeling (). The box plots (B) of the identified/annotated
+  metabolites were based on the relative peak intensity of the corresponding signal
+  (RT_exact mass) and the classification with BMI categories (NW, normal weight; OW,
+  overweight; OB, obese) and the HDP status (blue: with-HDP; orange: without HDP).
+  The pairwise comparison was conducted by student t-test or Wilcoxon Rank-Sum Test
+  (if the sample size in one of the group is <10). Pairwise comparisons: (a) HDP vs.
+  without-HDP in NW; (b) with-HDP vs. without-HDP in OW; (c), with-HDP vs. without-HDP
+  in OB; (d) OW vs. NW in with-HDP; (e) OB vs. NW in with-HDP; (f) OW vs. NW in without-HDP;
+  (G) OB vs. NW in without-HDP. Comparisons with significant changes were labled in
+  the box plots (*p < 0.05, **p < 0.01, ***p < 0.001). (B) only presented the box
+  plots for metabolites for serotonin, acetyl serotonin, and 5-methoxyindoleacetate.
+  Box plots for other metabolites were shown in .'
+article_title: 'Untargeted metabolomics on first trimester serum implicates metabolic
+  perturbations associated with BMI in development of hypertensive disorders: a discovery
+  study.'
+citation: Yuanyuan Li, et al. Front Nutr. 2023;10:1144131.
+year: '2023'
+
+doi: 10.3389/fnut.2023.1144131
+journal_title: Frontiers in Nutrition
+journal_nlm_ta: Front Nutr
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- 1st-trimester
+- untargeted metabolomics
+- hypertensive disorders in pregnancy
+- BMI
+- metabolic perturbation
+
+---

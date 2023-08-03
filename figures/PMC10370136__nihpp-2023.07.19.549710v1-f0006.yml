@@ -1,0 +1,52 @@
+---
+figid: PMC10370136__nihpp-2023.07.19.549710v1-f0006
+pmcid: PMC10370136
+image_filename: nihpp-2023.07.19.549710v1-f0006.jpg
+figure_link: /pmc/articles/PMC10370136/figure/F6/
+number: Figure 6
+figure_title: GluCer directly impairs mitochondria and lysosome function leading to
+  S100A9 upregulation and a senescence-like phenotype in dopaminergic (DA) neurons
+caption: a, LysoTracker staining of wild-type (WT) N2A cells treated with DMSO control,
+  2.5 mM GluCer, or 40 mM GluCer for 6 days, demonstrating a significant dose-dependent
+  increase in lysosomal content (corrected total cellular fluorescence) upon lipid
+  treatment. b, Seahorse analysis of lipid-treated mesencephalic DA (mDA) neurons
+  showing dose-dependent alterations in oxygen consumption rate (2 ng/ml is 2.8 mM).
+  c, Treatment with GENZ-112638, an inhibitor of GluCer synthesis, mitigates the effects
+  of lipid treatment on mitochondrial function. d, e SA-b-Gal-based senescence assay
+  performed to evaluate senescence induction after 7 days of GluCer treatment in N2A
+  cells (d) and mature WT human mDA neurons (e), demonstrating that GluCer treatment
+  is sufficient to induce senescence in both cell types. f, RNA-seq analysis of WT
+  human DA neurons treated with DMSO, 2.5 mM GluCer, or 40 mM GluCer, revealing increased
+  S100A9 expression following a 7-day lipid treatment g, Overview of the SATB1-MIR22HG-GBA-GluCer
+  pathway. The senescence regulator SATB1 acts as a negative regulator of MIR22HG
+  expression. Decreased SATB1 levels lead to increased MIR22HG expression. Following
+  nuclear processing, miR-22-3p targets GBA mRNA, reducing its transcription. This
+  results in reduced GCase activity and the consequent accumulation of its substrate
+  GluCer, a cerebroside that impairs mitochondrial and lysosomal function. GluCer
+  accumulation leads to elevated ROS production and increased S100A9 expression, ultimately
+  driving cellular senescence. Importantly, the genes SATB1, MIR22HG, and GBA (red
+  stars) are associated with Parkinson’s Disease. During aging, SATB1 and GBA levels
+  decrease (red hourglasses), while MIR22HG, GluCer, S100A9, and ROS levels increase
+  (green hourglasses), rendering DA neurons more vulnerable. Both S100A9 and miR22
+  induce cellular senescence (; ).
+article_title: The SATB1-MIR22-GBA axis mediates glucocerebroside accumulation inducing
+  a cellular senescence-like phenotype in dopaminergic neurons.
+citation: Taylor Russo, et al. bioRxiv. 2023 Jul 21:2023.07.19.549710.
+year: '2023'
+
+doi: 10.1101/2023.07.19.549710
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+- Gene Expression Regulation
+- Glucosylceramides
+- Lysosomes
+- MicroRNAs
+- Mitochondria
+- Neuroinflammation
+- Parkinson’s Disease
+- Senescence
+
+---

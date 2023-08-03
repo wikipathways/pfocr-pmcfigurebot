@@ -1,0 +1,48 @@
+---
+figid: PMC9923384__kuac024fig1
+pmcid: PMC9923384
+image_filename: kuac024fig1.jpg
+figure_link: /pmc/articles/PMC9923384/figure/fig1/
+number: Fig. 1
+figure_title: ''
+caption: Metabolic map of major fermentation products and potential for lactate cross-feeding
+  in an anaerobic co-culture system composed of anaerobic fungi and anaerobic bacterium
+  C. acetobutylicum. The breakdown of plant biomass (lignocellulose or cellulose)
+  is carried out by enzymes secreted by anaerobic fungi, enabling conversion of released
+  glucose by the fungus and bacteria. Major metabolic steps in glucose utilization
+  are shown for the anaerobic fungus A. robustus as well as the anaerobic bacterium
+  C. acetobutylicum. Red text is used to denote primary products produced by C. acetobutylicum
+  under solventogenesis conditions. Blue text denotes primary products produced by
+  C. acetobutylicum under acidogenesis conditions. Lactate (circled) is produced by
+  both C. acetobutylicum and anaerobic fungi and it is hypothesized that C. acetobutylicum
+  can crossfeed lactate via a mechanism for lactate metabolism based on the lactate
+  oxidation pathway in Acetobacterium woodii. This mechanism couples a flavin adenine
+  dinucleotide (FAD)-dependent lactate dehydrogenase with an electron flavoprotein
+  complex to convert a reduced ferredoxin, lactate, and two oxidized nicotinamide
+  adenine dinucleotides (NAD) to an oxidized ferredoxin, pyruvate, and two reduced
+  nicotinamide adenine dinucleotides (NADH) (Detman et al., ; Schwalm et al., ). Bold
+  arrows denote that the TPM count of at least one gene associated with the conversion
+  is equal to or exceeds the median TPM count (491.85) for all genes expressed in
+  the pathways shown via RNA-Seq. TPM counts for individual genes can be found in
+  the . Annotations were obtained from Crown, et al.,  and Dash et al., ; genes associated
+  with lactate formation were obtained from KEGG (Crown et al., ; Dash et al., ; Ogata
+  et al., ). Genes associated with lactate formation are also in agreement with i802
+  C. acetobutylicum model (Dash et al., ). Image made using Biorender.
+article_title: Co‑cultivation of anaerobic fungi with Clostridium acetobutylicum bolsters
+  butyrate and butanol production from cellulose and lignocellulose.
+citation: Jennifer L Brown, et al. J Ind Microbiol Biotechnol. 2022 Nov;49(6):kuac024.
+year: '2022'
+
+doi: 10.1093/jimb/kuac024
+journal_title: Journal of Industrial Microbiology & Biotechnology
+journal_nlm_ta: J Ind Microbiol Biotechnol
+publisher_name: Oxford University Press
+
+keywords:
+- Anaerobic fungi
+- Clostridia
+- RNA-Seq
+- Consortia
+- Biofuel
+
+---

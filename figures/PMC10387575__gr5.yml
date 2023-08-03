@@ -1,0 +1,43 @@
+---
+figid: PMC10387575__gr5
+pmcid: PMC10387575
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC10387575/figure/fig5/
+number: Figure 5
+figure_title: ''
+caption: 'Cell cycle and metabolism are commonly reduced following all heat shock
+  protocols, while other processes related to key characteristics of MSC are differently
+  regulatedRelated to .(A) Venn diagram of upregulated genes (padj <0.05) between
+  the treatment groups.(B) Venn diagram of downregulated genes (padj <0.05) between
+  the treatment groups.(C) Heat shock common GSEA hallmark gene sets (FDR q < 25%
+  and p < 0.05) and their enrichment score.(D) Hypergeometric enrichment analysis
+  of cell cycle related biological processes, effected by HS, and their enrichment
+  score. N00455: CDC25-Cell cycle G2/M (KEGG pathway), GO:0007049: Cell cycle (MGI
+  database), R-BTA-69002 – DNA Replication Pre-Initiation (Reactome). Size node represents
+  p value as indicated in E.(E) Hypergeometric enrichment analysis of biological processes
+  related to development effected by HS. GO:0060070: Canonical WNT signaling, GO 0048863:
+  Stem cell differentiation, GO:0048468: Cell development, GO:0009888: Tissue development,
+  GO:0007492: Endoderm development. GO:0007498: Mesoderm development, GO:0048762:
+  mesenchymal cell differentiation. The legends in this graph – enriched groups and
+  p values - are applicable also to D and F.(F) Hypergeometric analysis of biological
+  processes related to immune system effected by HS. GO:0002526: Acute Inflammatory
+  response, GO:1905517: Macrophage migration, GO:0032635: IL-6 production, Cytokine
+  pathway list was taken from PathCards v5.7.551.0. Size node represents p value as
+  indicated in E.(G) Heatmap of cytokine pathways genes that are differentially expressed
+  in LongHS vs. LongNT.'
+article_title: Short heat shock has a long-term effect on mesenchymal stem cells’
+  transcriptome.
+citation: Ivana Ribarski-Chorev, et al. iScience. 2023 Aug 18;26(8):107305.
+year: '2023'
+
+doi: 10.1016/j.isci.2023.107305
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Biological sciences
+- Cell biology
+- Stem cells research
+
+---

@@ -1,0 +1,32 @@
+---
+figid: PMC10382320__41397_2022_297_Fig4_HTML
+pmcid: PMC10382320
+image_filename: 41397_2022_297_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC10382320/figure/Fig4/
+number: Fig. 4
+figure_title: Affects of compounds (i.e., instances) on the FOXM1 pathway activity
+  and expression pattern
+caption: a The FOXM1 pathway activity score differences derived from the 1390 CMAP
+  gene expression instances. The y-axis shows the difference between the activity
+  score in the treatment and the paired control for each instance. The x-axis shows
+  the instances ordered by increasing corresponding activity score difference. b The
+  connectivity score of the 1390 CMAP gene expression instances where the y-axis shows
+  the connectivity score and the x-axis shows the instances ordered by increasing
+  corresponding connectivity score. c A Venn diagram showing the intersection between
+  the top 50 drugs identified by the activity score difference and the activity score.
+article_title: Bioinformatics driven discovery of small molecule compounds that modulate
+  the FOXM1 and PPARA pathway activities in breast cancer.
+citation: Shujun Huang, et al. Pharmacogenomics J. 2023;23(4):61-72.
+year: '2023'
+
+doi: 10.1038/s41397-022-00297-1
+journal_title: The Pharmacogenomics Journal
+journal_nlm_ta: Pharmacogenomics J
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Gene regulatory networks
+- Predictive medicine
+- Cancer genomics
+
+---

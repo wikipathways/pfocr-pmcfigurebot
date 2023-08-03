@@ -1,0 +1,33 @@
+---
+figid: PMC10385741__microorganisms-11-01803-g001
+pmcid: PMC10385741
+image_filename: microorganisms-11-01803-g001.jpg
+figure_link: /pmc/articles/PMC10385741/figure/microorganisms-11-01803-f001/
+number: Figure 1
+figure_title: ''
+caption: Abundance of sulfur metabolism genes in Porcelana hot spring metagenomes.
+  Genes from the sulfur cycle are grouped based on the pathway ((A,C) for ASR; (B,D)
+  for DSR; and (E) for Sox) and at which step of the sulfur cycle reaction they are
+  involved ((A,B) for sulfide to sulfite; (C,D) for sulfite to sulfate; (E) for sulfate
+  to thiosulfate). Orders with their respective phyla are shown on the Y-axis and
+  samples are shown on the X-axis. The reads counts are normalized by quantiles and
+  Log2-transformed for metagenomes from the three sampled temperatures (48, 58, and
+  66 °C). Analyzed genes are listed in . * C denote “Candidatus”.
+article_title: Distribution and Activity of Sulfur-Metabolizing Bacteria along the
+  Temperature Gradient in Phototrophic Mats of the Chilean Hot Spring Porcelana.
+citation: Ricardo Konrad, et al. Microorganisms. 2023 Jul;11(7):1803.
+year: '2023'
+
+doi: 10.3390/microorganisms11071803
+journal_title: Microorganisms
+journal_nlm_ta: Microorganisms
+publisher_name: MDPI
+
+keywords:
+- sulfur oxidation/reduction
+- soxB
+- aprA
+- phototrophic hot spring mat
+- metagenomics
+
+---

@@ -1,0 +1,31 @@
+---
+figid: PMC10379198__ijms-24-11300-g006
+pmcid: PMC10379198
+image_filename: ijms-24-11300-g006.jpg
+figure_link: /pmc/articles/PMC10379198/figure/ijms-24-11300-f006/
+number: Figure 6
+figure_title: ''
+caption: Pathway and biological functions affected by RBMS1 knockdown in adipocytes.
+  (A) The most significant signaling and metabolic pathways and (B) biological functions
+  identified through IPA analysis of differentially expressed genes in RBMS1KD adipocytes.
+  The ranking is based on the negative log of the ρ value of the enrichment score
+  (upper x–axis) as calculated using IPA. The yellow straight line shows the designated
+  significant threshold −log p value = 1.301 (ρ < 0.05) for pathway analysis and −log
+  p value = 2 (ρ < 0.01) for biological functions.
+article_title: Transcriptomic and Proteomic Analysis Reveals the Potential Role of
+  RBMS1 in Adipogenesis and Adipocyte Metabolism.
+citation: Ghida Dairi, et al. Int J Mol Sci. 2023 Jul;24(14):11300.
+year: '2023'
+
+doi: 10.3390/ijms241411300
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- adipogenesis
+- RBMS1
+- RNA-binding proteins
+- lipid metabolism
+
+---

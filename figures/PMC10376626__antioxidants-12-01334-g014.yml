@@ -1,0 +1,32 @@
+---
+figid: PMC10376626__antioxidants-12-01334-g014
+pmcid: PMC10376626
+image_filename: antioxidants-12-01334-g014.jpg
+figure_link: /pmc/articles/PMC10376626/figure/antioxidants-12-01334-f014/
+number: Figure 14
+figure_title: ''
+caption: PPI network analysis of ECM receptor signaling pathway in downregulated DEGs
+  in NMN treatment group. (A) PPI network analysis based on STRING database. The top
+  10 hub genes in the network ranked by the cytoHubba degree method were shown. The
+  darker the color, the higher the score and importance of the gene. (B) Heat map
+  of DEGs expression enriched in the ECM-receptor interaction pathway. Red colors
+  indicate upregulated DEGs. Blue colors indicate downregulated DEGs.
+article_title: Antioxidants Improve the Proliferation and Efficacy of hUC-MSCs against
+  H2O2-Induced Senescence.
+citation: Zhaojuan Zheng, et al. Antioxidants (Basel). 2023 Jul;12(7):1334.
+year: '2023'
+
+doi: 10.3390/antiox12071334
+journal_title: Antioxidants
+journal_nlm_ta: Antioxidants (Basel)
+publisher_name: MDPI
+
+keywords:
+- human umbilical cord mesenchymal stem cells (hUC-MSCs)
+- nicotinamide mononucleotide (NMN)
+- coenzyme Q10
+- senescence
+- cell proliferation
+- RNAseq
+
+---

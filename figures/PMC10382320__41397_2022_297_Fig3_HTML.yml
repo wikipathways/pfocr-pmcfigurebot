@@ -1,0 +1,28 @@
+---
+figid: PMC10382320__41397_2022_297_Fig3_HTML
+pmcid: PMC10382320
+image_filename: 41397_2022_297_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC10382320/figure/Fig3/
+number: Fig. 3
+figure_title: The PPARA pathway activity score in breast cancer
+caption: 'a The PPARA pathway activity scores from TCGA BC tissue samples. b The PPARA
+  pathway activity score in GSE48213 BC cell lines. Pairwise comparisons between groups
+  were performed with t-tests followed by Benjamini–Hochberg corrections. The significance
+  level of adjusted p-values is as follows: ns, p > 0.05; *p ≤ 0.05; **p ≤ 0.01; ***p ≤ 0.001;
+  ****p ≤ 0.0001.'
+article_title: Bioinformatics driven discovery of small molecule compounds that modulate
+  the FOXM1 and PPARA pathway activities in breast cancer.
+citation: Shujun Huang, et al. Pharmacogenomics J. 2023;23(4):61-72.
+year: '2023'
+
+doi: 10.1038/s41397-022-00297-1
+journal_title: The Pharmacogenomics Journal
+journal_nlm_ta: Pharmacogenomics J
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Gene regulatory networks
+- Predictive medicine
+- Cancer genomics
+
+---

@@ -1,0 +1,36 @@
+---
+figid: PMC9357096__nihms-1815050-f0001
+pmcid: PMC9357096
+image_filename: nihms-1815050-f0001.jpg
+figure_link: /pmc/articles/PMC9357096/figure/F1/
+number: 'Figure 1:'
+figure_title: LSD1 expression is highly overexpressed in small cell lung cancer and
+  inversely correlated with the expression of genes encoding the antigen presentation
+  pathway
+caption: (A) KDM1A mRNA expression was profiled in 29 unique cancer types; data from
+  Cancer Cell Line Encyclopedia (CCLE) (Broad, 2019) (Downloaded from cBioPortal).
+  (B) KDM1A expression was queried in primary tumors previously analyzed in the SCLC-Atlas,
+  consisting of LUAD (n=24) and SCLC (n=21) clinical samples. (C) KDM1A expression
+  was profiled at the single-cell level from the SCLC-Atlas dataset, consisting of
+  54,313 SCLC transcriptomes, 3341 LUAD transcriptomes and matched normal tissues.
+  (D) Pearson’s correlations between LSD1 (KDM1A) expression and HLA-A, HLA-B, HLA-C,
+  B2M, TAP1, TAP2, LMP-2 (PSMB8), LMP-7 (PSMB9) from SCLC-Global (downloaded from
+  CellMiner). Values were calculated as RNAseq RPKM (log2(value+1)).
+article_title: Targeting LSD1 rescues MHC class I antigen presentation and overcomes
+  PD-L1 blockade resistance in small cell lung cancer.
+citation: Evelyn M. Nguyen, et al. J Thorac Oncol. ;17(8):1014-1031.
+year: '2023'
+
+doi: 10.1016/j.jtho.2022.05.014
+journal_title: 'Journal of thoracic oncology : official publication of the International
+  Association for the Study of Lung Cancer'
+journal_nlm_ta: J Thorac Oncol
+publisher_name: ''
+
+keywords:
+- Small cell lung cancer
+- LSD1
+- epigenetics
+- antigen presentation
+
+---

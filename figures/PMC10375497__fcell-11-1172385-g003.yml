@@ -1,0 +1,34 @@
+---
+figid: PMC10375497__fcell-11-1172385-g003
+pmcid: PMC10375497
+image_filename: fcell-11-1172385-g003.jpg
+figure_link: /pmc/articles/PMC10375497/figure/F3/
+number: FIGURE 3
+figure_title: ''
+caption: Transcriptome changes between iPSCs and P-iPSCs. (A) Principal component
+  analysis of HEF, P-HAF, hESCs, iPSCs, and P-iPSCs. (B) DEGs of iPSCs and P-iPSCs.
+  (C) GO analysis of the DEGs comparing iPSCs and P-iPSCs. (D) KEGG pathway analysis
+  comparing iPSCs and P-iPSCs. (E) DEGs (|log2 (fold change)| > 1, FDR< 0.05) related
+  to the cell cycle are shown in the heatmap. (F) Heatmap showing the expression of
+  marker genes in HEF, P-HAF, iPSCs, P-iPSCs, and hESCs. (G) GSEA showing enriched
+  GO-BP terms for up- and downregulated DEGs, respectively. (H) DEGs (|log2 (fold
+  change)| > 1, FDR< 0.05) related to the Wnt signaling pathway are shown in the heatmap.
+  (I) Network of candidate targets in the Wnt signaling pathway.
+article_title: Derivation and characteristics of induced pluripotent stem cells from
+  a patient with acute myelitis.
+citation: Shuo Cao, et al. Front Cell Dev Biol. 2023;11:1172385.
+year: '2023'
+
+doi: 10.3389/fcell.2023.1172385
+journal_title: Frontiers in Cell and Developmental Biology
+journal_nlm_ta: Front Cell Dev Biol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- induced pluripotent stem cells
+- acute myelitis
+- reprogramming
+- ectoderm
+- differentiation
+
+---

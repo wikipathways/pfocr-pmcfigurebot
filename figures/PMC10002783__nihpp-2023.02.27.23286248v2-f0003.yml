@@ -1,0 +1,37 @@
+---
+figid: PMC10002783__nihpp-2023.02.27.23286248v2-f0003
+pmcid: PMC10002783
+image_filename: nihpp-2023.02.27.23286248v2-f0003.jpg
+figure_link: /pmc/articles/PMC10002783/figure/F3/
+number: 'Figure 3:'
+figure_title: Transcriptomic analysis of RHO-CNV retinal organoids presented elevated
+  RHO expression
+caption: (A) qRT-PCR analysis shows ~3 Log2FC increased RHO mRNA levels in patient
+  (RM) organoids at both the time-points of rod differentiation and maturation. No
+  significant change was observed in other photoreceptor genes except for a small
+  ~1 Log2FC increase in rod arrestin (SAG) at D300 time-point. Log2FC=Log 2 Foldchange.
+  Statistical two-way ANOVA analysis with Fisher’s LSD test and 95% confidence interval.
+  * = p <0.05, and **** = p <0.0001. Blue bars, D120; Maroon bars, D300 (B) Volcano
+  plot showing significant differentially expressed genes. Significantly upregulated
+  genes are highlighted in red and significantly downregulated genes are highlighted
+  in blue (adjusted p<0.01). (C) Dot plot showing EnrichGO analysis of biological
+  process on the differentially expressed genes. The size of the dot represents number
+  of differentially expressed genes in the pathway and the X-axis represent the ratio
+  over all genes associated with the pathway. Plot shows a defect in rods and phototransduction
+  associated pathways as well as synaptic transmission suggesting rod dysfunction.
+  (D) Box plot showing the data from pathway enrichment analysis of cellular component
+  category predominantly highlighting the defect in glycosylation and Golgi/ER modification/transport.
+  Colors in the dot and blot plots represent relative significance (calculated p-values
+  in scale). N=3–4 independent experiments and 12–15 organoids per experiment.
+article_title: Disease modeling and pharmacological rescue of autosomal dominant Retinitis
+  Pigmentosa associated with RHO copy number variation.
+citation: Sangeetha Kandoi, et al. medRxiv. 2023 Mar 2:2023.02.27.23286248.
+year: '2023'
+
+doi: 10.1101/2023.02.27.23286248
+journal_title: medRxiv
+journal_nlm_ta: medRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+---

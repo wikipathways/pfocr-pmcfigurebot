@@ -1,0 +1,31 @@
+---
+figid: PMC9805883__cmb.2021.0598_figure3
+pmcid: PMC9805883
+image_filename: cmb.2021.0598_figure3.jpg
+figure_link: /pmc/articles/PMC9805883/figure/f3/
+number: FIG. 3
+figure_title: ''
+caption: The results of pathway analysis. (A) Clustered heatmap of SHAP value with
+  the red color denoting increase and green color denoting decrease. The KEGG pathways
+  enriched in each of the 20 clusters are represented with a heatmap. (B) The pathway
+  network of cluster J. (C) The pathway network of cluster S. Yellow circles denote
+  well-known AD-related genes. AD, Alzheimer's disease; KEGG, Kyoto Encyclopedia of
+  Genes and Genomes; SHAP, Shapley additive explanation.
+article_title: 'SDGCCA: Supervised Deep Generalized Canonical Correlation Analysis
+  for Multi-Omics Integration.'
+citation: Sehwan Moon, et al. J Comput Biol.  August 2022;29(8):892-907.
+year: '2022'
+
+doi: 10.1089/cmb.2021.0598
+journal_title: Journal of Computational Biology
+journal_nlm_ta: J Comput Biol
+publisher_name: Mary Ann Liebert, Inc., publishers
+
+keywords:
+- Alzheimer's disease
+- canonical correlation analysis
+- deep neural networks
+- multi-omics
+- supervised learning
+
+---

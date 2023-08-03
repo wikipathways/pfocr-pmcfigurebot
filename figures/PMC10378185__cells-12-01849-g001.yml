@@ -1,0 +1,46 @@
+---
+figid: PMC10378185__cells-12-01849-g001
+pmcid: PMC10378185
+image_filename: cells-12-01849-g001.jpg
+figure_link: /pmc/articles/PMC10378185/figure/cells-12-01849-f001/
+number: Figure 1
+figure_title: ''
+caption: 'Identifying biomarkers of growth and carrying capacity: (A) Logistic growth
+  curves fit to the cell counts of eight gastric cancer cell lines at various stages
+  of their growth. Fits were shifted along the x-axis such that the midpoint of each
+  curve lay above . The eight cell lines differed in their maximum growth rate (r),
+  as well as their maximum sustainable population size (K). (B) Summary statistics
+  of linear regression models used to correlate KEGG pathway activity levels with
+  logistic function growth parameters. The top five models and their performance in
+  the training cell lines are shown for growth rate (r: light gray rows) and carrying
+  capacity (K: dark gray). Columns: Pearson = Pearson correlation coefficient; P =
+  FDR corrected p-value;  = adjusted . (C,D) Relation between growth parameters ()
+  and the model with best performance in the validation dataset: ‘Amoebiasis’ (C)
+  and ‘Arginine and proline metabolism’ (D), respectively. Pathway activity quantified
+  using AUCell with scRNA-seq data. Error bars represent median absolute deviation.
+  (E) Clonal composition confirmed by both scDNA- and scRNA-seq in eight gastric cancer
+  cell lines (data taken from []). (F,G) Violin plots showing predicted values for
+  clonal growth rate as a function of ‘Amoebiasis’ activity (F), and clonal carrying
+  capacity as a function of ‘Arginine and proline metabolism’ activity (G). Wilcoxon
+  signed rank test: o p < 0.1, * p < 0.05, ** p < 0.01. If a cell line had more than
+  three significant clone pairs, we displayed only the three highest p-values below
+  0.1.'
+article_title: Mathematical Modeling of Clonal Interference by Density-Dependent Selection
+  in Heterogeneous Cancer Cell Lines.
+citation: Thomas Veith, et al. Cells. 2023 Jul;12(14):1849.
+year: '2023'
+
+doi: 10.3390/cells12141849
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- mathematical oncology
+- tumor evolution
+- intratumoral heterogeneity
+- density-dependent selection
+- life history theory
+- r/K selection
+
+---

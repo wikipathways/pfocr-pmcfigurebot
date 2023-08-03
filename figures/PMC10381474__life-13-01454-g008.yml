@@ -1,0 +1,37 @@
+---
+figid: PMC10381474__life-13-01454-g008
+pmcid: PMC10381474
+image_filename: life-13-01454-g008.jpg
+figure_link: /pmc/articles/PMC10381474/figure/life-13-01454-f008/
+number: Figure 8
+figure_title: ''
+caption: Expression patterns of genes specific to wild barley H. spontaneum in pathways
+  “plant hormone signal transduction” (ko04075) and “MAPK signaling pathway-plant”
+  (ko04016) at the 0, 2, 12 and 24 h timepoints of salt stress (500 mM NaCl). All
+  genes showed upregulation at the 2 and 12 h timepoints of salt stress (500 mM NaCl).
+  Gene 1 = encodes two-component response regulator ORR3, gene 2 = encodes serine/threonine-protein
+  kinase BSK1-2, gene 3 = encodes auxin-responsive protein SAUR71, gene 4 = encodes
+  auxin-responsive protein SAUR36 (isoform 1), gene 5 = encodes auxin-responsive protein
+  SAUR36 (isoform 2), gene 6 = encodes auxin-responsive protein SAUR40, gene 7 = encodes
+  protein phosphatase 2C. Genes 1-6 regulate enzymes/proteins of the “plant hormone
+  signal transduction” pathway, while genes 2 and 7 regulate enzymes of “MAPK signaling
+  pathway-plant”. These seven genes were recently proven to be regulated in wild barley
+  (H. spontaneum), yet are not regulated in cultivated barley []. See  for more details.
+article_title: Salt Stress-Related Mechanisms in Leaves of the Wild Barley Hordeum
+  spontaneum Generated from RNA-Seq Datasets.
+citation: Aminah A. Barqawi, et al. Life (Basel). 2023 Jul;13(7):1454.
+year: '2023'
+
+doi: 10.3390/life13071454
+journal_title: Life
+journal_nlm_ta: Life (Basel)
+publisher_name: MDPI
+
+keywords:
+- photorespiration
+- ubiquitination
+- homeostasis
+- nitrate assimilation
+- carbon level
+
+---

@@ -1,0 +1,51 @@
+---
+figid: PMC10274805__nihpp-2023.06.08.542766v2-f0004
+pmcid: PMC10274805
+image_filename: nihpp-2023.06.08.542766v2-f0004.jpg
+figure_link: /pmc/articles/PMC10274805/figure/F4/
+number: Fig. 4
+figure_title: Characterization of the lipogenic effects of treatment of human primary
+  macrophages with conditioned medium from ACHN cell cultures
+caption: Monocyte-derived macrophages (MDM) were incubated with ACHN-conditioned medium;
+  lipid droplet and neutral lipid content was measured after 7 days of treatment.
+  A. Lipid droplet content of MDM determined by imaging flow cytometry. Representative
+  images of MDM untreated and ACHN-treated stained with Bodipy 493/503 (neutral lipid
+  dye, green fluorescence) acquired by imaging flow cytometry. B. Quantification of
+  lipid droplet content by imaging flow cytometry expressed as median fluorescence
+  intensity (MFI) of Bodipy 493/503. Each dot represents one human donor. C. Neutral
+  lipid measurements in MDM. TAG and cholesterol were measured in infected and uninfected
+  cells using a commercially available kit. The box plots show lower quartile, median,
+  and upper quartile of the distribution of multiple donors. The whiskers represent
+  minimum and maximum values. The plus symbol indicates the mean. *, p < 0.05; **,
+  p < 0.01 (Wilcoxon signed-rank test). D. Pathway analysis of the transcriptome of
+  ACHN-medium-treated MDM. The panel shows Gene Ontology (GO) annotations related
+  to metabolic processes that were upregulated in ACHN-medium-treated MDM, relative
+  to untreated control cells. The differential expression between sample classes (infected
+  vs uninfected) was tested with coincident extreme ranks in numerical observations
+  (CERNO). Pathways were selected using a cutoff false discovery rate of 0.055; the
+  p-values for these pathways are plotted onto the x-axis. To represent effect size,
+  pathway gene sets containing fewer genes were given greater bar height/font size
+  than were larger sets that yielded similar p values. It is noted that immunoglobulin
+  production by macrophages in the context of tumor microenvironments has been described
+  () - it is not discussed as it does not appear relevant to the topic of our report.
+  Additional pathway analysis data are shown in .
+article_title: Heterogeneity of foam cell biogenesis across diseases.
+citation: Valentina Guerrini, et al. bioRxiv. 2023 Jun 8:2023.06.08.542766.
+year: '2023'
+
+doi: 10.1101/2023.06.08.542766
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+- kidney disease
+- tuberculosis
+- cryptococcosis
+- papillary renal cell carcinoma
+- lipid metabolism
+- storage lipids
+- Biological sciences
+- Cell biology
+
+---

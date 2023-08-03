@@ -1,0 +1,38 @@
+---
+figid: PMC10379992__genes-14-01382-g004
+pmcid: PMC10379992
+image_filename: genes-14-01382-g004.jpg
+figure_link: /pmc/articles/PMC10379992/figure/genes-14-01382-f004/
+number: Figure 4
+figure_title: ''
+caption: Overlapped and unique signaling pathways associated with DEGs on the dorsolateral
+  areas of the frontal cortex of rats 4.5 h after tMCAO. The pathway enrichment analysis
+  of DEGs in the IR vs. SH, IS vs. IR, and IA vs. IR pairwise comparisons was carried
+  out according to DAVID (2021 Update). (a) Schematic comparison of DEG-related annotations
+  obtained in the three IR vs. SH, IS vs. IR, and IA vs. IR pairwise comparisons using
+  a Venn diagram. The number of annotations is indicated using numbers on the chart
+  segments. (b–d) The most significant pathways among the annotations in each comparison
+  group and the corresponding Padj values, as well as the number of upregulated (green)
+  and downregulated (red) DEGs in the three pairwise comparisons IR vs. SH (b), IS
+  vs. IR (c), and IA vs. IR (d) are presented. Only DEGs and pathways with Padj <
+  0.05 were selected for analysis. Each comparison group included 3 animals.
+article_title: Synthetic Adrenocorticotropic Peptides Modulate the Expression Pattern
+  of Immune Genes in Rat Brain following the Early Post-Stroke Period.
+citation: Ivan B. Filippenkov, et al. Genes (Basel). 2023 Jul;14(7):1382.
+year: '2023'
+
+doi: 10.3390/genes14071382
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: MDPI
+
+keywords:
+- ischemic stroke
+- RNA-Seq
+- ACTH(4-7)PGP
+- ACTH(6-9)PGP
+- tMCAO
+- gene expression
+- gene network
+
+---

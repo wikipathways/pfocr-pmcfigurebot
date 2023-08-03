@@ -1,0 +1,40 @@
+---
+figid: PMC10380654__ijms-24-11505-g004
+pmcid: PMC10380654
+image_filename: ijms-24-11505-g004.jpg
+figure_link: /pmc/articles/PMC10380654/figure/ijms-24-11505-f004/
+number: Figure 4
+figure_title: ''
+caption: 'ANCO1 reduction increases chromatin accessibility and enhances H3K27Ac binding
+  at known breast cancer enhancers. (A) Heatmaps and summary plots of detection q-values
+  of ANCO1-regulated H3K27Ac peaks in 10A and DCIS shANCO1 versus control cell lines
+  overlaid to the center of the peaks. Blue and green curves in the summary plot for
+  the DCIS line indicate up- or down-regulated peaks in shANCO1 cells, respectively.
+  The shANCO1 #3 cell line was used for this analysis. The 43 down-regulated peaks
+  in 10A shANCO1 cells were not included in the heatmap due to the small number. (B)
+  Heatmaps and summary plots of read counts of ANCO1-regulated H3K27Ac peaks in 10A
+  and DCIS shANCO1 and control cell lines overlaid to known breast cancer enhancer
+  regions []. (C) Venn diagram showing unique and shared ANCO1-regulated H3K27Ac peaks
+  in 10A and DCIS cell lines. (D) DAVID pathway analysis results of top 25 enriched
+  pathways in genes annotated to ANCO1-regulated H3K27Ac peaks in 10A and DCIS cell
+  lines. Ranking was based on −log10 (p-value) values in the DCIS line. (E) Selected
+  HOMER motif enrichment analysis results of up-regulated H3K27Ac peaks in shANCO1
+  versus control cells. The known motif method was used for discovery.'
+article_title: Loss of ANCO1 Expression Regulates Chromatin Accessibility and Drives
+  Progression of Early-Stage Triple-Negative Breast Cancer.
+citation: Meng Yuan, et al. Int J Mol Sci. 2023 Jul;24(14):11505.
+year: '2023'
+
+doi: 10.3390/ijms241411505
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- ANCO1
+- ANKRD11
+- TNBC
+- tumor suppressor
+- breast cancer enhancer
+
+---

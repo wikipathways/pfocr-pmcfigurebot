@@ -1,0 +1,51 @@
+---
+figid: PMC10375137__ADVS-10-2206540-g005
+pmcid: PMC10375137
+image_filename: ADVS-10-2206540-g005.jpg
+figure_link: /pmc/articles/PMC10375137/figure/advs5861-fig-0001/
+number: Figure 1
+figure_title: ''
+caption: IGFBP1 is upregulated in tumor cells during confined migration. A) Schematic
+  model for sample preparation of confined cells for RNA sequencing analysis. Transwell
+  migration assay was performed in A549 lung cancer cells with a chamber of 8 µm pore
+  size. The migrating cells were split into two groups. In control group, the cells
+  did not through the pores of transwell inserts. In confined group, the cells were
+  constrained in the pores. RNA‐sequencing (RNA‐Seq) analysis was performed in these
+  two groups of the cells. B) Volcano plot shows upregulated genes (Fold change >
+  1, p < 0.05, FPKM > 10) in the confined cells. Highly upregulated genes (Fold change
+  > 1.5, p < 0.05, FPKM > 10) were highlighted in red. C) A Venn diagram was used
+  to visually represent overlapped 13 genes between upregulated genes in confined
+  cells and genes of cellular response to stress pathway in Reactome database (top
+  panel). Overlapped 13 genes were displayed in a heatmap. D) IGFBP1 expression was
+  examined in A549 or SK‐Hep1 cells with or without confinement by using immunoblotting
+  analyses. Brefeldin A (5 µm), inhibitor of protein secretion. E) A549 or SK‐Hep1
+  cells were cultured in Transwell chambers with 0.4 or 8 µm pore size. Culture media
+  of the cells were collected for the examination of secreted IGFBP1 by ELISA assay.
+  In the chambers of 0.4 µm pore size, the cells could not migrate through the pores
+  and served as the control cells for confined cells. Data represent the mean ± S.D.
+  of three independent experiments. F) Left is a model of compression system. Right
+  is IGFBP1 protein levels in A549 or SK‐Hep1 cells with or without mechanical compression
+  (5 kPa) were examined by immunoblotting analyses. G) The mRNA levels of PIEZO1 and
+  IGFBP1 in A549 and SK‐Hep1 cells with or without PIEZO1 depletion in the absence
+  or presence of confinement were detected by quantitative PCR analysis. H) The protein
+  levels of IGFBP1 in SK‐Hep1 cells with or without PIEZO1 depletion in the absence
+  or presence of confinement were detected by immunoblotting analyses. Immunoblots
+  are representative of three independent experiments.
+article_title: IGFBP1 Sustains Cell Survival during Spatially‐Confined Migration and
+  Promotes Tumor Metastasis.
+citation: Guoqing Cai, et al. Adv Sci (Weinh). 2023 Jul;10(21):2206540.
+year: '2023'
+
+doi: 10.1002/advs.202206540
+journal_title: Advanced Science
+journal_nlm_ta: Adv Sci (Weinh)
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- confined migration
+- insulin‐like growth factor‐binding protein 1
+- mitochondrial reactive oxygen species
+- superoxide dismutase
+- tumor metastasis
+
+---

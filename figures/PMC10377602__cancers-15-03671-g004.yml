@@ -1,0 +1,34 @@
+---
+figid: PMC10377602__cancers-15-03671-g004
+pmcid: PMC10377602
+image_filename: cancers-15-03671-g004.jpg
+figure_link: /pmc/articles/PMC10377602/figure/cancers-15-03671-f004/
+number: Figure 4
+figure_title: ''
+caption: SELENOF expression and its related gene signatures correlate with cell cycle
+  regulators in breast tumors. (A) Correlation plots generated to analyze the expression
+  of SELENOF versus Ki67, p21, or p27 in breast tumors from the METABRIC database,
+  n = 1904 samples. Spearman and Pearson coefficients and their respective p-values
+  are indicated. (B) The top 400 genes co-expressed (negative correlation in the left
+  panel versus positive correlation in the right panel) with SELENOF in breast tumors
+  were analyzed for pathway enrichment using the Metascape gene annotation software
+  (Metascape.org). The −log of p-values are shown in the graphs.
+article_title: SELENOF Controls Proliferation and Cell Death in Breast-Derived Immortalized
+  and Cancer Cells.
+citation: Roudy C. Ekyalongo, et al. Cancers (Basel). 2023 Jul;15(14):3671.
+year: '2023'
+
+doi: 10.3390/cancers15143671
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- breast cancer
+- selenoprotein F (SELENOF)
+- tumor suppressor
+- acinar growth
+- proliferation
+- cell death
+
+---

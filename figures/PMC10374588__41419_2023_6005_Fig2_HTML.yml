@@ -1,0 +1,50 @@
+---
+figid: PMC10374588__41419_2023_6005_Fig2_HTML
+pmcid: PMC10374588
+image_filename: 41419_2023_6005_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC10374588/figure/Fig2/
+number: Fig. 2
+figure_title: Pathways controlling pyroptosis, apoptosis, ferroptosis, and cuproptosis
+caption: a Pyroptosis can be triggered in response to PAMPs or DAMPs, which activate
+  inflammasomes such as NLRP1, NLRP3, NLRP4, AIM2, and Pyrin and recruit the adaptor
+  ASC, resulting in caspase-1 activation. LPS activates Caspase-4/5/11 in the cytoplasm.
+  Ultimately, active caspase-1/4/5/11 cleaves GSDMD to generate GSDMD-NT, resulting
+  in pore formation, plasma membrane rupture, cell lysis, and IL-1β/18 release. b
+  Apoptosis can occur via an intrinsic or extrinsic pathway. The intrinsic pathway
+  is activated by mitochondrial damage. Cytochrome c induces apoptotic protease activating
+  factor-1 (Apaf-1) and a caspase-9 precursor combine to produce an apoptosome that
+  activates caspase-9. In turn, caspase 9 activates caspase-3/7, resulting in apoptosis.
+  In the extrinsic pathway, the oligomerization of cell surface death receptors leads
+  to caspase-8 activation, which directly cleaves pro-caspase-3 to mediate apoptosis.
+  Additionally, caspase-8 can cleave Bid to produce tBid, which migrates to the mitochondria
+  and forms Bax/Bak openings on its surface, releasing cytochrome c and initiating
+  apoptosis. c Ferroptosis is an iron-dependent RCD, mainly related to iron-dependent
+  lipid peroxidation and glutathione (GSH) exhaustion, leading to ROS generation and
+  cell death. The ferroportin (SLC40A1), transferrin-transferrin receptor complex
+  (TF-TFRC), and ferritinophagy contribute to iron accumulation and cause ferroptosis.
+  On the other hand, in conjunction with RAB7A-dependent lipophagy, the ACSL4/LPCAT3/ALOXs
+  pathway promotes ferroptosis by activating lipid peroxidation to generate PLOOH.
+  GPX4 and other free radical scavengers, such as ferrostatin-1 inhibit lipid peroxidation
+  (lipid-ROS). In the absence of GPX4, lipid peroxides accumulate, resulting in the
+  onset of ferroptosis. d Cuproptosis can be induced by accumulation of intracellular
+  free copper ions. In particular, elesclomol acts as a copper ionophore that facilitates
+  copper transport into cells. Intracellular copper levels are also regulated by copper
+  importers (SLC31A1) and copper exporters (ATP7B). FDX1, a reductase, is responsible
+  for reducing Cu2+ to Cu+ which helps in the lipoylation of mitochondrial TCA cycle
+  enzymes, particularly DLAT. This process leads to Fe-S cluster protein instability,
+  causing proteotoxic stress and ultimately cell death.
+article_title: 'Pyroptosis in renal inflammation and fibrosis: current knowledge and
+  clinical significance.'
+citation: Ya Liu, et al. Cell Death Dis. 2023 Jul;14(7):472.
+year: '2023'
+
+doi: 10.1038/s41419-023-06005-6
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Inflammasome
+- Chronic kidney disease
+
+---

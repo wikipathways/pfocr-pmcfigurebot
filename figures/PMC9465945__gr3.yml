@@ -1,0 +1,42 @@
+---
+figid: PMC9465945__gr3
+pmcid: PMC9465945
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9465945/figure/fig3/
+number: Fig 3
+figure_title: ''
+caption: Differential expression of opioid-related genes in colon adenocarcinoma.
+  Transcriptomic data from The Cancer Genome Atlas Colon Adenocarcinoma (TCGA-COAD)
+  database was analysed. (a) Volcano plot showing differential expression of opioid
+  genes for MSI (dMMR) vs MSS (pMMR) tumours. –Log10 P-value (adjusted for multiple
+  testing) is plotted against log2 (fold change). The horizontal dotted line represents
+  P=0.05. Vertical lines dotted at an absolute fold change of 2. Genes with absolute
+  fold change higher than 2 and P-value<0.05 are coloured blue. (b) SSGSEA analysis
+  correlation plot highlighting major pathways and cell types correlated with MSI
+  upregulated (Opioid∗MSI) and downregulated (Opioid∗MSS) opioid genes. For each pairwise
+  correlation, the colour and the size of the circle denote the Spearman correlation.
+  (c) SSGSEA correlation of MSI upregulated opioid genes and Th1 immune signature
+  and (d) MSI downregulated opioid genes and Wnt beta-catenin pathway; each patient
+  sample is labelled as MSI (blue) or MSS (purple) and is plotted by normalised SSGSEA
+  scores for the relevant gene sets on the x- and y-axes. Shaded area represents the
+  95% confidence interval around the best fit line. MSI, microsatellite instability;
+  MSS, microsatellite stability; SSGSEA, single-sample gene set enrichment analysis.
+article_title: 'Intraoperative opioids are associated with decreased recurrence rates
+  in colon adenocarcinoma: a retrospective observational cohort study.'
+citation: Jonathan B. Yuval, et al. Br J Anaesth. 2022 Aug;129(2):172-181.
+year: '2022'
+
+doi: 10.1016/j.bja.2022.04.024
+journal_title: 'BJA: British Journal of Anaesthesia'
+journal_nlm_ta: Br J Anaesth
+publisher_name: Elsevier
+
+keywords:
+- colon adenocarcinoma
+- DNA mismatch repair
+- gene expression
+- immunomodulation
+- opioids
+- surgery
+
+---

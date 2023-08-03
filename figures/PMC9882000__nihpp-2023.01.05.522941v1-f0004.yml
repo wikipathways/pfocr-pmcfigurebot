@@ -1,0 +1,37 @@
+---
+figid: PMC9882000__nihpp-2023.01.05.522941v1-f0004
+pmcid: PMC9882000
+image_filename: nihpp-2023.01.05.522941v1-f0004.jpg
+figure_link: /pmc/articles/PMC9882000/figure/F4/
+number: 'Figure 4:'
+figure_title: Using the connectivity search webapp to explore the pathophysiology
+  of Alzheimer’s disease
+caption: This figure shows an example user workflow for https://het.io/search/.A.
+  The user selects two nodes. Here, the user is interested in Alzheimer’s disease,
+  so selects this as the source node. The user limits the target node search to metanodes
+  relating to gene function. The target node search box suggests nodes, sorted by
+  the number of significant metapaths. When the user types in the target node box,
+  the matches reorder based on search word similarity. Here, the user becomes interested
+  in how the circadian rhythm might relate to Alzheimer’s disease.B. The webapp returns
+  metapaths between Alzheimer’s disease and the circadian rhythm pathway. The user
+  unchecks “precomputed only” to compute results for all metapaths with length ≤ 3,
+  not just those that surpass the database inclusion threshold. The user sorts by
+  adjusted p-value and selects 7 of the top 10 metapaths.C. Paths for the selected
+  metapaths are ordered by their path score. The user selects 8 paths (1 from a subsequent
+  page of results) to show in the graph visualization and highlights a single path
+  involving ARNT2 for emphasis.D. A subgraph displays the previously selected paths.
+  The user improves on the automated layout by repositioning nodes. Clicking an edge
+  displays its properties, informing the user that association between Creutzfeldt-Jakob
+  disease and NPAS2 was detected by GWAS.
+article_title: Hetnet connectivity search provides rapid insights into how two biomedical
+  entities are related.
+citation: Daniel S. Himmelstein, et al. bioRxiv. 2023 Jan 7:2023.01.05.522941.
+year: '2023'
+
+doi: 10.1101/2023.01.05.522941
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+---

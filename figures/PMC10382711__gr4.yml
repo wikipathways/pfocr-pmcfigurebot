@@ -1,0 +1,48 @@
+---
+figid: PMC10382711__gr4
+pmcid: PMC10382711
+image_filename: gr4.jpg
+figure_link: /pmc/articles/PMC10382711/figure/fig4/
+number: Figure 4
+figure_title: ''
+caption: BCL11B-regulated transcription programs in MSNs and CTX neurons overlap with
+  mHTT–coregulated pathways. (A) Kyoto Encyclopedia of Genes and Genomes and Ingenuity
+  Pathway Analysis of differentially expressed genes at false discovery rate padj
+  < .01 shows a significant enrichment of genes regulating cAMP-PKA-calcium signaling
+  axis and synaptic signaling in both neuron types as well as DA-DARPP32 signaling
+  specifically in MSNs (full gene set lists are presented in ). (B) BCL11B target
+  genes within shortlisted core biological processes affected by the loss of BCL11B
+  in MSN and CTX neurons. Next to gene name, color icons indicate significant association
+  (differential expression or identified risk variant) with HD (pink), SCZ (green),
+  NDD (blue), and ASD (yellow). (C) Exclusion of BCL11B target genes from differentially
+  expressed gene list results in several pathways in MSNs becoming either drastically
+  less significant or not significant at all, including cAMP-PKA-calcium signaling
+  axis pathways and dopamine synapse signaling, while having almost no effect on signaling
+  pathways in CTX neurons. (D) BCL11B-regulated signaling abnormalities in MSNs and
+  CTX neurons are shared by HD neurons (full gene set lists are presented in ). In
+  pathway graphs (A, D), dot size corresponds to gene set size, dot color corresponds
+  to −log10(pval), where p_adj < .05 dot is framed inside a black circle. See also  and  and
+  . ASD, autism spectrum disorder; BDNF, brain-derived neurotrophic factor; CTX, cortical
+  glutamatergic; DA, dopamine; excl., exclusion; GABA, gamma-aminobutyric acid; HD,
+  Huntington’s disease; incl., inclusion; mHTT, mutant huntingtin; MSNs, medium spiny
+  neurons; NDD, neurodevelopmental disorder; p_adj, p adjusted; PKA, protein kinase
+  A; SCZ, schizophrenia.
+article_title: 'Dysfunction of cAMP–Protein Kinase A–Calcium Signaling Axis in Striatal
+  Medium Spiny Neurons: A Role in Schizophrenia and Huntington’s Disease Neuropathology.'
+citation: Marija Fjodorova, et al. Biol Psychiatry Glob Open Sci. 2023 Jul;3(3):418-429.
+year: '2023'
+
+doi: 10.1016/j.bpsgos.2022.03.010
+journal_title: Biological Psychiatry Global Open Science
+journal_nlm_ta: Biol Psychiatry Glob Open Sci
+publisher_name: Elsevier
+
+keywords:
+- BCL11B
+- Calcium signaling
+- Dopaminergic synapse
+- Glutamatergic synapse
+- Medium spiny neuron
+- Psychiatric disorder
+
+---

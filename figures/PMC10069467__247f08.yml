@@ -1,0 +1,31 @@
+---
+figid: PMC10069467__247f08
+pmcid: PMC10069467
+image_filename: 247f08.jpg
+figure_link: /pmc/articles/PMC10069467/figure/GR277206WANF8/
+number: Figure 8
+figure_title: ''
+caption: Correlation between differential gene expression and CCN hierarchy in cancer.
+  (A) Boxplot showing significance [−log10(P-value)] of RP increase from normal colon
+  to CRC. Loci were grouped according to RP of normal colon. For instance, 0.1 in
+  the x axis means the annular area defined by a radius ranging from 0 to 0.2 in the
+  Poincaré disk. The horizontal dashed line indicates −log10(0.05). (B) Bars showing
+  the ratio of down-regulated genes (left) and that of up-regulated genes (right)
+  in CRC for genes in each group. The horizontal dashed lines indicate the proportion
+  of corresponding differentially expressed genes in all genes. Enriched functions
+  for colon-specific (C) and CRC-specific genes (D) in the highest hierarchy class.
+  For each bar representing a pathway, the average TPM fold change (log2) of involved
+  genes from normal colon to CRC is manifested by the bar color. The vertical dashed
+  lines indicate FDR-adjusted P-value equaling 0.05.
+article_title: Characterization of network hierarchy reflects cell state specificity
+  in genome organization.
+citation: Jingyao Wang, et al. Genome Res. 2023 Feb;33(2):247-260.
+year: '2023'
+
+doi: 10.1101/gr.277206.122
+journal_title: Genome Research
+journal_nlm_ta: Genome Res
+publisher_name: Cold Spring Harbor Laboratory Press
+
+keywords:
+---

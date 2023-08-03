@@ -1,0 +1,32 @@
+---
+figid: PMC10375739__13071_2023_5855_Fig6_HTML
+pmcid: PMC10375739
+image_filename: 13071_2023_5855_Fig6_HTML.jpg
+figure_link: /pmc/articles/PMC10375739/figure/Fig6/
+number: Fig. 6
+figure_title: ''
+caption: 'Prediction results of signaling pathways involved in the intestinal flora
+  of each experimental group in the Eimeria spp. challenge experiment. The Tax4Fun
+  assignment was utilized to predict the function of the intestinal flora and was
+  used to classify KEGG pathway identification according to three levels: Level 1
+  (A), level 2 (B), and level 3 (C). The prediction was performed by cal_tax4fun2
+  function in R package microeco. KEGG, Kyoto Encyclopedia of Genes and Genomes'
+article_title: Effects of a complex probiotic preparation, Fengqiang Shengtai and
+  coccidiosis vaccine on the performance and intestinal microbiota of broilers challenged
+  with Eimeria spp..
+citation: Haiming Cai, et al. Parasit Vectors. 2023;16:253.
+year: '2023'
+
+doi: 10.1186/s13071-023-05855-5
+journal_title: Parasites & Vectors
+journal_nlm_ta: Parasit Vectors
+publisher_name: BioMed Central
+
+keywords:
+- Probiotics
+- Coccidiosis vaccine
+- Production performance
+- Intestinal microbiota
+- 16S rRNA
+
+---

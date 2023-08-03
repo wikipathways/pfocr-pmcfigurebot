@@ -1,0 +1,40 @@
+---
+figid: PMC10120761__nihpp-rs2767780v1-f0002
+pmcid: PMC10120761
+image_filename: nihpp-rs2767780v1-f0002.jpg
+figure_link: /pmc/articles/PMC10120761/figure/F2/
+number: Figure 2
+figure_title: RNA sequencing performed on TAMs and CAFs demonstrate distinct in ammatory
+  phenotypes in responding tumors
+caption: (A) PCA plot of bulk RNA sequencing from TAMs isolated from d14 untreated
+  or irradiated (SCRT; d9–13) tumors. Red circle=untreated; UT. Purple circles=irradiated.
+  (B) The Euclidian distance between the untreated average and each irradiated sample
+  plotted against tumor size. Red=untreated, blue=responders, green=nonresponders
+  and quantified in (C). (D) DAMP/PAMP pathway analysis of differentially expressed
+  genes (DEGs) from responder or nonresponder TAMs compared to TAMs from untreated
+  tumors. (E) DEGs from responding sorted TAMs compared to nonresponding TAMs analyzed
+  by gene set enrichment analysis (GSEA). (F) DEGs between responding and nonresponding
+  cancer-associated fibroblasts (CAFs) plotted on a hierarchical clustering heatmap.
+  Teal box=nonresponders and untreated and pink box=responders. (G) GSEA analysis
+  identified differences in predominately immune related signatures in CAFs from responder
+  tumors. N=5 untreated, 10 irradiated (6 responder, 4 nonresponders for TAMs; 4 responders,
+  6 nonresponders for CAFs)
+article_title: 'New insights into the responder/nonresponder divide in rectal cancer:
+  Damage-induced Type I IFNs dictate treatment efficacy and can be targeted to enhance
+  radiotherapy.'
+citation: Scott Gerber, et al. Res Sq. 2023 Apr 13:rs.3.rs-2767780.
+year: '2023'
+
+doi: 10.21203/rs.3.rs-2767780/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+
+keywords:
+- rectal cancer
+- DAMPs
+- STING
+- radiotherapy
+- immunology
+
+---

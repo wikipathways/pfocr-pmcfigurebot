@@ -1,0 +1,45 @@
+---
+figid: PMC10388370__fnut-10-1144131-g004
+pmcid: PMC10388370
+image_filename: fnut-10-1144131-g004.jpg
+figure_link: /pmc/articles/PMC10388370/figure/fig4/
+number: Figure 4
+figure_title: ''
+caption: 'Pertubation of metabolites on vitamin D pathway regarding BMI and HDP status.
+  Metabolites in the enriched vitamin D3 pathway were first annotated by the Mummichog
+  algorism in Metabanalyst via the empirical compound library and then verified by
+  matching against the public database. PDd indicated the annotation was supported
+  by the exact mass match in the public database. The current untargeted approach
+  may not unambiguously identify the structural isomers because of lacking experimental
+  spectra and chromatographic information in the in-house library. #metabolite determined
+  to associate with BMI in the non-HDP and/or HDP group (); ## metabolite determined
+  to associate with HDP in at least one of the BMI categories (); ### metabolite determined
+  to associate with HDP and BMI by regression modeling (). The box plots of the annotated
+  metabolites were based on the relative peak intensity of the corresponding signal
+  (ΔRT_exact mass) and the classification with BMI categories (NW, normal weight;
+  OW, overweight; OB, obese) and the HDP status (with-HDP, without HDP). The pairwise
+  comparison between BMI category or between HDP status was conducted by student t-test
+  or Wilcoxon Rank-Sum Test (if the sample size in one of the groups is <10). Pairwise
+  comparisons: (a) HDP vs. without-HDP in NW; (b) with-HDP vs. without-HDP in OW;
+  (c) with-HDP vs. without-HDP in OB; (d) OW vs. NW in with-HDP; (e) OB vs. NW in
+  with-HDP; (f) OW vs. NW in without-HDP; (g) OB vs. NW in without-HDP. Comparisons
+  with significant changes were labled in the box plots (*p < 0.05, **p < 0.01, ***p < 0.001).'
+article_title: 'Untargeted metabolomics on first trimester serum implicates metabolic
+  perturbations associated with BMI in development of hypertensive disorders: a discovery
+  study.'
+citation: Yuanyuan Li, et al. Front Nutr. 2023;10:1144131.
+year: '2023'
+
+doi: 10.3389/fnut.2023.1144131
+journal_title: Frontiers in Nutrition
+journal_nlm_ta: Front Nutr
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- 1st-trimester
+- untargeted metabolomics
+- hypertensive disorders in pregnancy
+- BMI
+- metabolic perturbation
+
+---

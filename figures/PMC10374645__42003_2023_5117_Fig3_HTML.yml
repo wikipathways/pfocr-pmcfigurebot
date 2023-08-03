@@ -1,0 +1,31 @@
+---
+figid: PMC10374645__42003_2023_5117_Fig3_HTML
+pmcid: PMC10374645
+image_filename: 42003_2023_5117_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC10374645/figure/Fig3/
+number: Fig. 3
+figure_title: Comprehensive functional profiling of cellular states in CRC
+caption: a Circos plot depicting the enriched cancer hallmark and immune-related pathways
+  for genes highly expressed in cellular states in CRC. Cellular states across cell
+  types are organized on the left and pathways are on the right, widths of the links
+  are corresponding to the proportion of genes enriched in pathways. b Scatter plot
+  showing the normalized enrichment scores (NES) of pathways in fibroblasts S03 cell
+  states. Pathways are ranked by NES. Colors of dots are corresponding to the p-values.
+  c The enrichment score (ES) distribution for the genes differentially expressed
+  in fibroblast cell state S03 enriched in five pathways. Each line is for a pathway.
+article_title: Deep immunophenotyping reveals clinically distinct cellular states
+  and ecosystems in large-scale colorectal cancer.
+citation: Si Li, et al. Commun Biol. 2023;6:785.
+year: '2023'
+
+doi: 10.1038/s42003-023-05117-1
+journal_title: Communications Biology
+journal_nlm_ta: Commun Biol
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Computational biology and bioinformatics
+- Tumour immunology
+- Data integration
+
+---

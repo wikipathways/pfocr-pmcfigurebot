@@ -1,0 +1,34 @@
+---
+figid: PMC9829700__gr1
+pmcid: PMC9829700
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC9829700/figure/fig0001/
+number: Figure 1
+figure_title: ''
+caption: KEGG analyses of DEGs between control and CORT treated group in 6–8 mm GCs.
+  (A-B) Heat map shows the DEGs enriched into the steroid biosynthesis (A) and steroid
+  hormone biosynthesis (B) signaling pathway, respectively. (C) The protein-protein
+  interaction between the above enriched DEGs is based on the STRING database. (D)
+  qRT-PCR validation of several DEGs identified in transcriptome sequencing, including
+  LSS, SQLE, CYP51A1, EBP, DHCR24, FDFT1, MSMO1, DHCR7, StAR, and HSD3B1. Each data
+  point represents the mean ± SEM of at least three replicates (N ≥ 3). Significant
+  differences between CORT treatment and control group are indicated with asterisks
+  * or **, reflecting P < 0.05, P < 0.01, respectively.
+article_title: Corticosterone stage-dependently inhibits progesterone production presumably
+  via impeding the cAMP-StAR cascade in granulosa cells of chicken preovulatory follicles.
+citation: Ming Yang, et al. Poult Sci. 2023 Feb;102(2):102379.
+year: '2023'
+
+doi: 10.1016/j.psj.2022.102379
+journal_title: Poultry Science
+journal_nlm_ta: Poult Sci
+publisher_name: Elsevier
+
+keywords:
+- corticosterone
+- granulosa cells
+- progesterone
+- cAMP
+- StAR
+
+---

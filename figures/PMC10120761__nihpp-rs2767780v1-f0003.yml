@@ -1,0 +1,36 @@
+---
+figid: PMC10120761__nihpp-rs2767780v1-f0003
+pmcid: PMC10120761
+image_filename: nihpp-rs2767780v1-f0003.jpg
+figure_link: /pmc/articles/PMC10120761/figure/F3/
+number: Figure 3
+figure_title: MC38 cells from responding tumors have increased cell death and damage
+caption: (A) DEGs between responder and nonresponder tumor cells plotted on a differential
+  clustering heatmap. Teal box=nonresponders and untreated, pink box=responders. (B)
+  Quantification of DEGs comparing untreated vs. responders to untreated vs, nonresponders.
+  (C) DEGs from responding and nonresponding tumors compared to published gene sets
+  for apoptosis/DNA damage. Red=upregulated genes; green=downregulated genes; both
+  are compared to untreated. N=5 untreated, 10 irradiated (4 responders, 6 nonresponders).
+  (D) Immunohistochemistry performed on d14 untreated or irradiated tumors against
+  anti- cleaved caspase 3, HMGB1 (E), calreticulin (F). N=10 untreated, 7 nonresponders,
+  4 responders. (G) Pathway analysis of DEGs from responding (R) sorted tumor cells
+  compared to nonresponding (NR).D, E, F - Statistical significance by ANOVA.
+article_title: 'New insights into the responder/nonresponder divide in rectal cancer:
+  Damage-induced Type I IFNs dictate treatment efficacy and can be targeted to enhance
+  radiotherapy.'
+citation: Scott Gerber, et al. Res Sq. 2023 Apr 13:rs.3.rs-2767780.
+year: '2023'
+
+doi: 10.21203/rs.3.rs-2767780/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+
+keywords:
+- rectal cancer
+- DAMPs
+- STING
+- radiotherapy
+- immunology
+
+---

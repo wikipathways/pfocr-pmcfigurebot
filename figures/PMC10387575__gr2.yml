@@ -1,0 +1,47 @@
+---
+figid: PMC10387575__gr2
+pmcid: PMC10387575
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC10387575/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: 'Downregulation of cell cycle and immune response genes while developmental
+  pathways genes are induced following long heat shockRelated to .(A) Illustration
+  of long heat shock treatment.(B) Cells after LongHS stained with G3BP1 (green),
+  actin filaments stained with phalloidin (red) and nuclei stained with DAPI (blue).
+  Imaging was done using Nikon ECLIPSE TI-DH Florescent Microscope, scale bar = 10 μm.
+  Turquoise nuclei marked with arrows contain the stress granules. No stress granules
+  were found in LongNT.(C and D) (C) Results of Gene set enrichment analysis (GSEA)
+  Hallmark analysis showing significantly enriched gene sets (FDR q < 25% and p < 0.05).
+  A positive normalized enrichment score value, in red, indicates enrichment in the
+  LongHS phenotype (upregulated gene sets in LongHS). Negative enrichment, in blue,
+  indicate enrichment in the LongNT phenotype (downregulated in LongHS). Upregulated
+  heat stress genes and redox maintenance related genes are marked by red and green
+  errors, respectively, while downregulated genes are pointed at by blue errors (D)
+  Differentiation pathways significantly (padj < 0.05) upregulated in LongHS vs. LongNT
+  as per g:Profiler GO analysis, and their associated genes are presented in GOChord
+  plot. The plot’s left half shows the DEGs shared by at least 3 differentiation pathways
+  and the right half displays the GO terms related to differentiation pathways marked
+  in various colors. The colored bands connect a gene to a specific GO term. The scale
+  bar presents gene’s log2FC.(E) KEGG pathways significantly enriched in upregulated
+  DEGs of LongHS vs. LongNT presented by ClueGo pathway analysis and visualization.
+  Colors represented p value: light red 0.05, red 0.01, brown 0.001. The node size
+  represents the term enrichment significance.(F) Significantly enriched (FDR q < 25%
+  and p < 0.05) upregulated GSEA GO terms related to histone modifications and PcG
+  complex following LongHS.'
+article_title: Short heat shock has a long-term effect on mesenchymal stem cells’
+  transcriptome.
+citation: Ivana Ribarski-Chorev, et al. iScience. 2023 Aug 18;26(8):107305.
+year: '2023'
+
+doi: 10.1016/j.isci.2023.107305
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Biological sciences
+- Cell biology
+- Stem cells research
+
+---

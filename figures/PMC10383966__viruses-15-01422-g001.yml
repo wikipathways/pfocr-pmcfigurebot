@@ -1,0 +1,57 @@
+---
+figid: PMC10383966__viruses-15-01422-g001
+pmcid: PMC10383966
+image_filename: viruses-15-01422-g001.jpg
+figure_link: /pmc/articles/PMC10383966/figure/viruses-15-01422-f001/
+number: Figure 1
+figure_title: ''
+caption: Major signaling pathways regulated by Pellino proteins. Pellino proteins
+  act as intermediate signaling molecules between cytokine, RLR, and TLR in membranes
+  or the cytosol, and transcription factors in the nucleus. Upon IL-1 binding, MyD88
+  is recruited to the membrane-bound receptor IL-1R1 and IL-1RAP. The IRAK and Pellino
+  proteins are further engaged and promote downstream activation of the IKK (IκB-kinase)
+  complex, which in turn phosphorylates IκB. IκB becomes ubiquitinated and is degraded.
+  This releases the transcription factor NF-κB, which translocates to the nucleus
+  where it activates the expression of pro-inflammatory genes. The pathway can branch
+  to activate MAP kinases essential for activation of the transcription factors AP1
+  and Elk1. The same signaling cascades can be activated by extracellular TLRs, including
+  TLR2 and TLR4, which may be involved in the recognition of several viral surface
+  proteins. TLR3, TLR7, TLR8, and TLR9, which bind single- and double-stranded RNA
+  and DNA present in endosomes, can activate the same pathways in an MyD88-dependent
+  or -independent manner. The latter requires TRIF and results in interactions between
+  Pellino proteins and the two kinases IKKε and TBK1. Through phosphorylation, this
+  results in the activation of IRFs. The IRFs form homo- and heterodimers that in
+  the nucleus bind to promoter regions of genes encoding type I IFNs. The Pellino•IKKε•TBK1•IRF
+  pathway is also engaged by RLRs such as RIG-I and MDA5, which recognizes viral RNA
+  in the cytosol. These pathways also contribute to activation of the inflammasome.
+  Pellino primes the inflammasome through the ubiquitination of NLRP3 and ASC. IL1B
+  is among the many immune response genes activated by NF-κB. The gene transcript
+  is translated into pro-IL-1β, which is activated through cleavage by caspase-1 in
+  the inflammasome. In a similar manner, GSDMD (gasdermin-D) is cleaved. The N-terminal
+  fragment N-GSDMD oligomerizes and forms membrane pores through which IL-1β is released.
+  These pores can also contribute to pyroptotic cell death. The specific mechanisms
+  engaged during viral infection appear to be cell type- and context-dependent (see
+  text for details). The individual signaling cascades and the involvement of specific
+  Pellino proteins are more comprehensively reviewed elsewhere [,].
+article_title: Pellino Proteins in Viral Immunity and Pathogenesis.
+citation: Liselotte E. Jensen. Viruses. 2023 Jul;15(7):1422.
+year: '2023'
+
+doi: 10.3390/v15071422
+journal_title: Viruses
+journal_nlm_ta: Viruses
+publisher_name: MDPI
+
+keywords:
+- ubiquitin
+- ligase
+- Pellino
+- peli
+- immunity
+- immune evasion
+- inflammation
+- innate immunity
+- Toll-like receptor
+- virus
+
+---

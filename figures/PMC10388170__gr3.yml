@@ -1,0 +1,44 @@
+---
+figid: PMC10388170__gr3
+pmcid: PMC10388170
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC10388170/figure/fig3/
+number: Fig. 3
+figure_title: ''
+caption: 'The view of the interaction between the four different m6A-associated T
+  cell clusters. A: The heatmap showed the correlation of the four m6A-associated
+  T cells by NMF; B: The heatmap displayed the interactions between the m6A-associated
+  T cell clusters and the cancer cells; C: Cell-to-cell interaction network between
+  the m6A-associated T cells and cancer cells; D: The bar-plot revealed the different
+  proportion of m6A-associated T cell clusters in the tumor and normal groups. E：
+  The heatmap showed the difference between the T scores and the three groups, including
+  CD4+T/Treg cells, CD8+T/NK T cells, and TFH cells by pySCENIC (p < 0.01); F: The
+  heatmaps revelated the relationship between the m6A-associated T cells clusters
+  and the immune checkpoint associated genes among the three groups; G: G.O. and KEGG
+  functional enrichment analysis of the genes in m6A-associated T cell clusters; H:
+  Interactions between the enriched pathways across the genes in m6A-associated T
+  cell clusters. The size of the dots denotes the number of genes in the relevant
+  pathway, and the color indicates the cluster type. The paths for the clustering
+  category are given in the tab on the label. Dots representing the same enrichment
+  route have varied colors based on the p-value given on labels. The deeper the dots,
+  the lower the p-value, and the more statistically significant it is. (For interpretation
+  of the references to color in this figure legend, the reader is referred to the
+  Web version of this article.)'
+article_title: Identification of the relationship between single-cell N6-methyladenosine
+  regulators and the infiltrating immune cells in esophageal carcinoma.
+citation: Yunyi Bian, et al. Heliyon. 2023 Aug;9(8):e18132.
+year: '2023'
+
+doi: 10.1016/j.heliyon.2023.e18132
+journal_title: Heliyon
+journal_nlm_ta: Heliyon
+publisher_name: Elsevier
+
+keywords:
+- Esophageal squamous carcinoma
+- N6-methyladenosine
+- Tumor microenvironment
+- Single-cell
+- Cell communication
+
+---

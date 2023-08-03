@@ -1,0 +1,43 @@
+---
+figid: PMC9992270__nihms-1869063-f0007
+pmcid: PMC9992270
+image_filename: nihms-1869063-f0007.jpg
+figure_link: /pmc/articles/PMC9992270/figure/F7/
+number: Extended Data Fig. 1
+figure_title: HDAC6 score in BC
+caption: (a) The number of samples and data set of origin used to evaluate the HDAC6
+  regulon. (b) Overlap of the original and updated HDAC6 regulons. P value was estimated
+  using two-tailed Fisher’s exact test. N was determined by the total number of genes
+  for network inference. (c) The network plot of HDAC6 and updated HDAC6 regulon.
+  Edge width is corresponding to the correlation strength measured by mutual information.
+  Red and blue edges indicate positive and negative correlations between HDAC6 and
+  each of the regulon genes. The table below shows the pathway enrichment of the genes
+  in the regulon, showing its association with unfolded protein response. P value
+  was estimated using two-tailed Fisher’s exact test. (d) New HDAC6 score comparing
+  IBCs vs non-IBCs. (e) HDAC6 scores of all BCs from TCGA and METABRIC are divided
+  into molecular subtypes. (f) HDAC6 scores in 45 ductal metastatic breast cancer
+  samples from the MBC Project divided into histological molecular subtypes. In d,
+  e and f, the center line indicates the median value. The lower and upper hinges
+  represent the 25th and 75th percentiles, respectively, and whiskers denote 1.5x
+  interquartile range; the red line represents the median of the HDAC6 scores in IBC
+  samples and the numbers over each whisker plot indicate the percentage of samples
+  over this value in each clinical subtype. Sample size (n=number of samples) of each
+  group was indicated in the axis labels. P value was estimated using two-tailed t
+  test.
+article_title: Network-based assessment of HDAC6 activity predicts pre-clinical and
+  clinical responses to the HDAC6 inhibitor ricolinostat in breast cancer.
+citation: Tizita Z. Zeleke, et al. Nat Cancer. ;4(2):257-275.
+year: '2023'
+
+doi: 10.1038/s43018-022-00489-5
+journal_title: Nature cancer
+journal_nlm_ta: Nat Cancer
+publisher_name: ''
+
+keywords:
+- HDAC6
+- ricolinostat
+- network activity
+- breast cancer
+
+---

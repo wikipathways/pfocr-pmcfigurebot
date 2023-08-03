@@ -1,0 +1,38 @@
+---
+figid: PMC10384765__pathogens-12-00896-g006
+pmcid: PMC10384765
+image_filename: pathogens-12-00896-g006.jpg
+figure_link: /pmc/articles/PMC10384765/figure/pathogens-12-00896-f006/
+number: Figure 6
+figure_title: ''
+caption: Hierarchical cluster analysis (HCA) showing the differential gene expressions
+  (DGEs) between rNJ0612NME6 (WT) or rNJ0612NME6-M51R (mutant) of genes associated
+  with interferon (IFN) responses. These analysis included genes associated with;
+  (A) Interferons (IFNs), (B) IFN signaling pathway, (C) Viral RNA sensing and enhancement
+  of the IFN response, (D) Inhibition of IFN expression, (E) Transcription factors,
+  (F) NFκΒ inhibition (G) IFN signaling suppression, and (H) Suppression of RIG-I-like
+  sensors. HCA employs a color scheme to represent the extent of gene expression,
+  with gradients ranging from green (suppressed or decreased) to red (increased).
+  More information about the DGEs of these genes can be found in .
+article_title: 'Exploring the Molecular Basis of Vesicular Stomatitis Virus Pathogenesis
+  in Swine: Insights from Expression Profiling of Primary Macrophages Infected with
+  M51R Mutant Virus.'
+citation: Lauro Velazquez-Salinas, et al. Pathogens. 2023 Jul;12(7):896.
+year: '2023'
+
+doi: 10.3390/pathogens12070896
+journal_title: Pathogens
+journal_nlm_ta: Pathogens
+publisher_name: MDPI
+
+keywords:
+- microarray
+- vesicular stomatitis
+- porcine macrophages
+- interferon
+- M51R mutant
+- immune response
+- pathogenesis
+- RNA sensors
+
+---

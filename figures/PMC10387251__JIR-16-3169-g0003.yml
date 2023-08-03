@@ -1,0 +1,30 @@
+---
+figid: PMC10387251__JIR-16-3169-g0003
+pmcid: PMC10387251
+image_filename: JIR-16-3169-g0003.jpg
+figure_link: /pmc/articles/PMC10387251/figure/f0003/
+number: Figure 3
+figure_title: ''
+caption: GO annotation and KEGG enrichment analyses of differentially expressed genes.
+  (A–C) Enriched GO terms in MF, BP and CC. (D) KEGG pathway enrichment analysis.
+  GO, Gene Ontology; KEGG, Kyoto Encyclopedia of Genes and Genomes; MF, molecular
+  function; BP, biological process; CC, cellular component.
+article_title: Immune Cell Infiltration Analysis Based on Bioinformatics Reveals Novel
+  Biomarkers of Coronary Artery Disease.
+citation: Tianwen He, et al. J Inflamm Res. 2023;16:3169-3184.
+year: '2023'
+
+doi: 10.2147/JIR.S416329
+journal_title: Journal of Inflammation Research
+journal_nlm_ta: J Inflamm Res
+publisher_name: Dove
+
+keywords:
+- biomarkers
+- coronary artery disease
+- CAD
+- immune infiltration
+- inflammation
+- machine learning
+
+---

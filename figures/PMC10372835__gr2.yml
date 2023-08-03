@@ -1,0 +1,33 @@
+---
+figid: PMC10372835__gr2
+pmcid: PMC10372835
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC10372835/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: VPS13C expression is negatively correlated with GSTP1 expression in cervical
+  cancer(A) Gene set enrichment analysis based on KEGG pathways and the LinkedOmics
+  database showed that VPS13C-related genes were significantly enriched in drug metabolism
+  pathways.(B) Top-ranked genes whose expression was negatively correlated with VPS13C
+  expression in the drug metabolism pathway.(C) KEGG pathway enrichment analysis of
+  VPS13C-related genes in SiHa cells treated with cisplatin.(D) GSEA plot of glutathione
+  metabolism enrichment in ME180 cells treated with cisplatin.(E) Venn diagram showing
+  the overlapping genes identified by RNA-seq analysis of SiHa and ME180 cells and
+  obtained from the LinkedOmics database.(F) Correlation analysis of VPS13C and GSTP1
+  mRNA expression. Pearson’s correlation coefficients and p values are shown.
+article_title: Downregulation of VPS13C promotes cisplatin resistance in cervical
+  cancer by upregulating GSTP1.
+citation: Xiangyu Tan, et al. iScience. 2023 Aug 18;26(8):107315.
+year: '2023'
+
+doi: 10.1016/j.isci.2023.107315
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Molecular biology
+- Cancer
+- Transcriptomics
+
+---

@@ -1,0 +1,30 @@
+---
+figid: PMC9882000__nihpp-2023.01.05.522941v1-f0006
+pmcid: PMC9882000
+image_filename: nihpp-2023.01.05.522941v1-f0006.jpg
+figure_link: /pmc/articles/PMC9882000/figure/F6/
+number: 'Figure 6:'
+figure_title: From null distribution to p-value for DWPCs
+caption: Null DWPC distributions are shown for three metapaths between Alzheimer’s
+  disease and the circadian rhythm pathway, selected from . For each metapath, null
+  DWPCs are computed on 200 permuted hetnets and grouped according to source–target
+  degree. Histograms show the null DWPCs for the degree group corresponding to Alzheimer’s
+  disease and the circadian rhythm pathway (as noted in the plot titles by deg.) The
+  proportion of null DWPCs that were zero is calculated, forming the “hurdle” of the
+  null distribution model. The nonzero null DWPCs are modeled using a gamma distribution,
+  which can be fit solely from a sample mean and standard deviation. The mean of nonzero
+  null DWPCs is denoted with a diamond, with the standard deviation plotted twice
+  as a line in either direction. Actual DWPCs are compared to the gamma-hurdle null
+  distribution to yield a p-value.
+article_title: Hetnet connectivity search provides rapid insights into how two biomedical
+  entities are related.
+citation: Daniel S. Himmelstein, et al. bioRxiv. 2023 Jan 7:2023.01.05.522941.
+year: '2023'
+
+doi: 10.1101/2023.01.05.522941
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+---

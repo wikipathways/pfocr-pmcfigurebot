@@ -1,0 +1,46 @@
+---
+figid: PMC9419935__thy.2022.0087_figure4
+pmcid: PMC9419935
+image_filename: thy.2022.0087_figure4.jpg
+figure_link: /pmc/articles/PMC9419935/figure/f4/
+number: FIG. 4
+figure_title: ''
+caption: Functional link of NOTCH1 to cMYC in maintaining cancer stemness. (A) Comparison
+  of mRNA expression of cMYC between normal thyroid (n = 45), PTC (n = 49), and ATC
+  tissues (n = 11) in GSE33630. (B) Strong positive correlation between CDK7 and cMYC
+  gene expression in the human ATC tissues (GSE33630). (C) Representative Western
+  blot analysis (n = 3) showing high expression of cMyc protein in the ATC cell lines.
+  (D) Representative Western blot analysis (I, n = 3) showing dose-dependent inhibition
+  of RNAPII CTD phosphorylation (a–c) and cMYC (e) by THZ1 and its quantitative analyses
+  (II). (E) Gene set enrichment analysis for GOBP_NOTCH signaling pathway according
+  to mRNA expression of cMYC (n = 125, respectively) in TCGA-THCA. The heat map shows
+  coordinated enrichment of the gene set in the representative 10 samples of each
+  group. (F) Strong correlation between NOTCH1 and cMYC gene in the human ATC tissues
+  (GSE33630). p-Value was calculated using Pearson correlation coefficient (n = 105).
+  (G) RT-qPCR showing the simultaneous inhibition of cMYC and NOTCH1 gene in 11T (i)
+  and 16T (ii) cells treated with THZ1 500 nM for 6 hours. (H) Comparison of Stemness
+  Index between low and high NOTCH1 (a), or between low and high cMYC (b) tumor group
+  (n = 50, respectively) in TCGA-THCA. (I) Representative IHC images (I) for cMYC
+  and its quantitative analysis (II, n = 4, respectively) in monolayer-cultured cells
+  and tumorspheres of 11T (a, b) and 16T (c, d) cells, respectively. Significant differences
+  are indicated by asterisks (**p < 0.01 and ****p < 0.0001). Data represent mean ± SD.
+  Scale bar represents 50 μm. ns, not significant.
+article_title: Blocking CDK7-Mediated NOTCH1-cMYC Signaling Attenuates Cancer Stem
+  Cell Activity in Anaplastic Thyroid Cancer.
+citation: Woo Kyung Lee Doolittle, et al. Thyroid.  August 2022;32(8):937-948.
+year: '2022'
+
+doi: 10.1089/thy.2022.0087
+journal_title: Thyroid
+journal_nlm_ta: Thyroid
+publisher_name: Mary Ann Liebert, Inc., publishers
+
+keywords:
+- anaplastic thyroid cancer
+- cancer stem cells
+- CDK7
+- NOTCH1
+- transcription
+- tumorigenesis
+
+---

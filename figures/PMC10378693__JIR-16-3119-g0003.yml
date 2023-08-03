@@ -1,0 +1,33 @@
+---
+figid: PMC10378693__JIR-16-3119-g0003
+pmcid: PMC10378693
+image_filename: JIR-16-3119-g0003.jpg
+figure_link: /pmc/articles/PMC10378693/figure/f0003/
+number: Figure 3
+figure_title: ''
+caption: Identification of DEGs and pathway analysis in validation cohort. (A) Volcanic
+  plot of DEGs in GSE62646. The Y-axis represents the -1og10 (P value) and the X-axis
+  represents the gene fold change (log2FC). Blue and red colors dots represent low
+  and high expression, respectively. (B) Volcanic map of DEGs in GSE50772 dataset.
+  (C) Shared genes between the DEGs in GSE62646 and GSE50772. (D) Signaling pathways
+  significantly enriched in shared DEGs in validation cohort.
+article_title: Screening of Potential Circulating Diagnostic Biomarkers and Molecular
+  Mechanisms of Systemic Lupus Erythematosus-Related Myocardial Infarction by Integrative
+  Analysis.
+citation: Haoran Ding, et al. J Inflamm Res. 2023;16:3119-3134.
+year: '2023'
+
+doi: 10.2147/JIR.S404066
+journal_title: Journal of Inflammation Research
+journal_nlm_ta: J Inflamm Res
+publisher_name: Dove
+
+keywords:
+- myocardial infarction
+- systemic lupus erythematosus
+- WGCNA
+- DEGs
+- RNA-seq
+- neutrophil
+
+---

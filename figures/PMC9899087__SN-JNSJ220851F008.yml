@@ -1,0 +1,46 @@
+---
+figid: PMC9899087__SN-JNSJ220851F008
+pmcid: PMC9899087
+image_filename: SN-JNSJ220851F008.jpg
+figure_link: /pmc/articles/PMC9899087/figure/F8/
+number: Figure 8
+figure_title: ''
+caption: Muscarinic inhibition of MTN, but not PL input, is mediated by an M3 receptor-dependent
+  facilitation of retrograde eCB signaling. A, The CB1 receptor antagonist, AM251
+  (AM, 1 μm), had no significant effect on muscarine (10 μm) inhibition in the PL
+  pathway. Muscarine inhibition was completely reversed by atropine (5 μm, n = 6,
+  N = 6; one-way repeated-measures ANOVA, F(3,15) = 209.96; p = 1.803 × 10−12). B,
+  The CB1 agonist, Win 55212-2 (5 μm) strongly suppressed fEPSPs at PL inputs. This
+  suppression was reversed by AM251, indicating that it was dependent on CB1 receptors
+  (n = 6, N = 6; one-way repeated-measures ANOVA, F(2,6) = 20.31; p = 0.0021). These
+  findings suggest that CB1 receptors are present at PL terminals but are not engaged
+  during muscarinic inhibition. C, In contrast, at MTN input, AM251 (1 μm) reversed
+  muscarine inhibition (n = 7, N = 7; one-way repeated-measures ANOVA, F(3,18) = 16.46;
+  p = 2.12 × 10−5). Subsequent addition of atropine had no additional significant
+  effect (Tukey post hoc test, p = 0.26). D, AM251 by itself had no significant effect
+  on the optogenetically evoked fEPSP at the MTN input (n = 3, N = 3, p = 0.34, paired
+  t test), indicating that AM251 did not directly facilitate synaptic transmission
+  in this pathway. Together, these results suggest that muscarine inhibits responses
+  in the MTN pathway by acting on postsynaptic M3 receptors to facilitate retrograde
+  eCB release which acts on presynaptic CB1 receptors on MTN terminals. **p < 0.01.
+  E, Summary of the differing sites of action of M3 and M4 muscarinic receptors at
+  PL and MTN inputs to BLa.
+article_title: Differential Regulation of Prelimbic and Thalamic Transmission to the
+  Basolateral Amygdala by Acetylcholine Receptors.
+citation: Sarah C. Tryon, et al. J Neurosci. 2023 Feb 1;43(5):722-735.
+year: '2023'
+
+doi: 10.1523/JNEUROSCI.2545-21.2022
+journal_title: The Journal of Neuroscience
+journal_nlm_ta: J Neurosci
+publisher_name: Society for Neuroscience
+
+keywords:
+- amygdala
+- cholinergic
+- muscarinic
+- nicotinic
+- prelimbic
+- thalamus
+
+---
