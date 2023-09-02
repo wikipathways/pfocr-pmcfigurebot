@@ -1,0 +1,35 @@
+---
+figid: PMC9650835__12931_2022_2226_Fig6_HTML
+pmcid: PMC9650835
+image_filename: 12931_2022_2226_Fig6_HTML.jpg
+figure_link: /pmc/articles/PMC9650835/figure/Fig6/
+number: Fig. 6
+figure_title: ''
+caption: Gene Set Variation Analysis (GSVA) compares cellular, molecular, and immune
+  characteristics of the four UrCCG subtypes based on KEGG, HALLMARK, or GO signatures.
+  A–P Enrichment scores of the cell cycle (A), regulation of autophagy (B), mismatch
+  repair (C), MTORC1 signaling (D), MYC-targets V2 (E), reactive oxygen species pathway
+  (F), unfolded protein response (G), nucleotide expression repair (H), PI3K/AKT/mTOR
+  (I), B cell receptor pathway (J), p53 pathway (K), EMT (L), alpha–beta T (αβT)-cell
+  activation (M), natural killer cell differentiation (N), T helper 1 type immune
+  response (O), and activation-induced cell death of T cells (P). *p < 0.05, **p < 0.01,
+  and ***p < 0.001
+article_title: Pan-cancer analysis of UBE2T with a focus on prognostic and immunological
+  roles in lung adenocarcinoma.
+citation: Kui Cao, et al. Respir Res. 2022;23:306.
+year: '2022'
+
+doi: 10.1186/s12931-022-02226-z
+journal_title: Respiratory Research
+journal_nlm_ta: Respir Res
+publisher_name: BioMed Central
+
+keywords:
+- Pan-cancer
+- UBE2T
+- Risk signature
+- Consensus clustering
+- Tumor immune infiltration
+- LUAD
+
+---

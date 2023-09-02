@@ -1,0 +1,41 @@
+---
+figid: PMC9627673__MSB-18-e11033-g005
+pmcid: PMC9627673
+image_filename: MSB-18-e11033-g005.jpg
+figure_link: /pmc/articles/PMC9627673/figure/msb202211033-fig-0006/
+number: Figure 6
+figure_title: Sensitivity to genetic and pharmacological inhibition between metabolic
+  types
+caption: 'Schematic representation of pathways depicting analyzed reactions. Gene
+  effect (CERES score (Meyers et al, )) estimate gene‐dependency levels from CRISPR‐Cas9
+  knock‐out screens on cell line''s growth and is scale so that the median score of
+  common essentials genes is −1.Gene effect of PGM3, phosphoglucomutase 3, from the
+  amino sugar pathway PGAM1, phosphoglycerate mutase 1, from glycolysis SDHAF4, succinate
+  dehydrogenase assembly factor 4 mitochondrial, and IDH2, isocitrate dehydrogenase
+  2 mitochondrial, both from the TCA cycle (cell lines n = 63, two‐sided unpaired
+  student t‐test).Top dependent metabolic pathways in type 1 (blue) or type 2 (red),
+  where normalized enrichment scores are computed using GSEA.Growth response to drug
+  MK‐8245, which targets SCD, stearoyl‐CoA desaturase, from the unsaturated fatty
+  acids biosynthesis pathway. Data information: Boxplot depicts first quartile, median
+  and third quartile, two‐sided unpaired student t‐test. ns: P > 0.05, *P < 0.05,
+  **P < 0.01, ***P < 0.001, ****P < 0.0001.'
+article_title: A functional analysis of 180 cancer cell lines reveals conserved intrinsic
+  metabolic programs.
+citation: Sarah Cherkaoui, et al. Mol Syst Biol. 2022 Nov;18(11):e11033.
+year: '2022'
+
+doi: 10.15252/msb.202211033
+journal_title: Molecular Systems Biology
+journal_nlm_ta: Mol Syst Biol
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- cancer metabolism
+- cell lines
+- metabolomics
+- metabolic flux
+- omics
+- Cancer
+- Metabolism
+
+---

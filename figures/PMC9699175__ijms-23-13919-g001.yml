@@ -1,0 +1,35 @@
+---
+figid: PMC9699175__ijms-23-13919-g001
+pmcid: PMC9699175
+image_filename: ijms-23-13919-g001.jpg
+figure_link: /pmc/articles/PMC9699175/figure/ijms-23-13919-f001/
+number: Figure 1
+figure_title: ''
+caption: An overview of DRPreter. In the graph representation sections, embeddings
+  of pathway subgraphs and drug molecule were obtained using GNN. With the obtained
+  pathway embeddings and drug embeddings as inputs to the transformer-based cell-line
+  and drug fusion module, the embeddings were updated by reflecting inter-pathway
+  relationships and pathway-drug relationships in the model learning process.
+article_title: 'DRPreter: Interpretable Anticancer Drug Response Prediction Using
+  Knowledge-Guided Graph Neural Networks and Transformer.'
+citation: Jihye Shin, et al. Int J Mol Sci. 2022 Nov;23(22):13919.
+year: '2022'
+
+doi: 10.3390/ijms232213919
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- transcriptomics
+- artificial intelligence
+- pharmacogenomics
+- human health
+- cancer
+- drug sensitivity
+- graph neural networks
+- Explainable AI
+- precision medicine
+- drug discovery
+
+---

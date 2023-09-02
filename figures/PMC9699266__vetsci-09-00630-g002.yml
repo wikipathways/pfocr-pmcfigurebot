@@ -1,0 +1,33 @@
+---
+figid: PMC9699266__vetsci-09-00630-g002
+pmcid: PMC9699266
+image_filename: vetsci-09-00630-g002.jpg
+figure_link: /pmc/articles/PMC9699266/figure/vetsci-09-00630-f002/
+number: Figure 2
+figure_title: ''
+caption: M. bovis inhibits multiple expression genes for cell growth and nutrient
+  metabolism. (A) Heatmap showing the differences in the transcripts between the two
+  samples, with the screening criteria of log2 Ratio of M. bovis infection/Control
+  ≥1 or ≤1 and p-value ≤0.05. (B) GO annotation and KEGG pathway analysis of down-regulated
+  genes showed that the down-regulated genes after M. bovis infection are mainly involved
+  in metabolic process and immune response. Enriched factors are presented as histogram
+  and the gene counts are shown as line chart. (C) Selected genes differentially regulated
+  involved in cell cycle, cell grown, insulin, PI3K-Akt and mTOR pathways.
+article_title: High Concentration of FBS Can Save mTOR Down-Regulation Caused by Mycoplasmas
+  bovis Infection.
+citation: Xiaochun Wu, et al. Vet Sci. 2022 Nov;9(11):630.
+year: '2022'
+
+doi: 10.3390/vetsci9110630
+journal_title: Veterinary Sciences
+journal_nlm_ta: Vet Sci
+publisher_name: MDPI
+
+keywords:
+- Mycoplasma bovis
+- mTOR signaling pathway
+- EBL cells
+- nutritional metabolism
+- bovine serum
+
+---

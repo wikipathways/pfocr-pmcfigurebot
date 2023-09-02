@@ -1,0 +1,54 @@
+---
+figid: PMC9630750__fmicb-13-991678-g002
+pmcid: PMC9630750
+image_filename: fmicb-13-991678-g002.jpg
+figure_link: /pmc/articles/PMC9630750/figure/F2/
+number: FIGURE 2
+figure_title: ''
+caption: Immune recognition of microorganisms in Drosophila. The two major pathways
+  that sense bacteria and fungi in fruit flies are the Toll pathway (left) and the
+  immune deficiency (Imd) pathway (right). Both pathways function in the fat body
+  for the production of antimicrobial peptides (AMP) by activating the expression
+  of NF-κB-like factors, which are highly conserved among species. In addition, the
+  Imd pathway also functions in the epithelial surfaces. The Imd pathway is activated
+  when DAP-type peptidoglycan from gram-negative bacteria, and some gram-positive,
+  binds to Peptidoglycan Recognition Proteins (PGRPs), and this activation leads to
+  the generation of AMP and synthesis of Duox enzyme for the production of reactive
+  oxygen species (ROS). Gram-positive bacteria contain lys-type peptidoglycan, which
+  is recognized by PGRP-SA and Gram Negative Bacteria Protein (GNBP) 1, and GNBP3
+  binds to β-glucans of yeasts and fungi, leading to the activation of the Toll pathway.
+  This pathway can also be triggered by danger signals like proteases or abnormal
+  cell death that activates the protease Persephone (Psh). In all cases, the activation
+  of the Toll pathway triggers a proteolytic cascade that activates the protease Spätzle-
+  processing enzyme (SPE). This protein will cleave Spätzle (Spz). As a result of
+  the activation of the Toll pathway, the transcription factors Dorsal-related immunity
+  factor (Dif) or Dorsal (Dl) will translocate to the nucleus, thus inducing the expression
+  of AMP genes like drosomycin. Similarly, the activation of the Imd pathway induces
+  the nuclear translocation of the transcription factor Relish (Rel) and induction
+  of the expression of AMP genes, such as diptericin. The generation of ROS is induced
+  by the activation of Duox in the presence of uracil. This is caused by the activation
+  of a G protein-coupled receptor (GPCR), which promotes the release of calcium from
+  the endoplasmic reticulum. This signaling pathway, together with the activation
+  of the Imd pathway, contributes to the expression of the Duox enzyme during infection.
+  Atf2, activating transcription factor 2; Dredd, death-related ced-3/Nedd2-like caspase;
+  Fadd, FAS-associated death domain ortholog; Gαq, G protein αq-subunit; IKK, inhibitor
+  of NF-κB kinase; MKK3, MAPK kinase 3; modSP, modular serine protease; Tak1, TGFβ-activated
+  kinase 1. Adapted from  and .
+article_title: Drosophila melanogaster as a model to study innate immune memory.
+citation: Marta Arch, et al. Front Microbiol. 2022;13:991678.
+year: '2022'
+
+doi: 10.3389/fmicb.2022.991678
+journal_title: Frontiers in Microbiology
+journal_nlm_ta: Front Microbiol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- Drosophila melanogaster
+- innate immune memory
+- trained immunity
+- tolerance
+- resistance
+- infection
+
+---

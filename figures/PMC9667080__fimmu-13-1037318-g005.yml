@@ -1,0 +1,33 @@
+---
+figid: PMC9667080__fimmu-13-1037318-g005
+pmcid: PMC9667080
+image_filename: fimmu-13-1037318-g005.jpg
+figure_link: /pmc/articles/PMC9667080/figure/f5/
+number: Figure 5
+figure_title: ''
+caption: Correlation of AD and MS patients with immune cells and metabolic signaling
+  pathways. (A) Immune infiltration analysis of eight candidate genes in AD. (B) Comparison
+  of immune cell infiltration between AD and CT samples. (C) Immune infiltration analysis
+  of eight candidate genes in MetS. (D) Comparison of immune cell infiltration between
+  MetS and CT samples. (E) Metabolic pathway analysis of eight candidate genes in
+  AD. (F) Metabolic pathway analysis of eight candidate genes in MetS. *P < 0.05,
+  **P < 0.01, ***P <0.001.
+article_title: Identification of diagnostic genes for both Alzheimer’s disease and
+  Metabolic syndrome by the machine learning algorithm.
+citation: Jinwei Li, et al. Front Immunol. 2022;13:1037318.
+year: '2022'
+
+doi: 10.3389/fimmu.2022.1037318
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- Alzheimer’s disease
+- metabolic syndrome
+- XGBost
+- machine learning algorithm
+- immune infiltration
+- single cell sequencing
+
+---

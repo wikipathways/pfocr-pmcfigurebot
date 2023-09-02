@@ -1,0 +1,35 @@
+---
+figid: PMC8585704__nihms-1739932-f0005
+pmcid: PMC8585704
+image_filename: nihms-1739932-f0005.jpg
+figure_link: /pmc/articles/PMC8585704/figure/F5/
+number: 'Figure 5:'
+figure_title: A Subset of Genes are Regulated by TRβ in Breast and Thyroid Cancer
+  Cells
+caption: A) A 4-way venn diagram comparing the significantly up- and down-regulated
+  genes in both T3-treated 468-EV and 468-TRβ cells and T3-treated SW1736-EV and SW1736-TRβ
+  cells (n=3). 255 genes were upregulated and 70 genes were repressed independent
+  of cell type. B) IPA was used to predict the canonical signaling pathways of these
+  325 genes. Shown is the color for the associated activation Z-score and size corresponds
+  to the gene ratio for each enriched each pathway (p<0.01). C-D) Bar plots showing
+  the normalized RNA-seq expression counts for genes encoding stearate biosynthetic
+  enzymes MDA-MB-468 and SW1736 cell lines expressing empty vector or TRβ. E) Percentage
+  of fatty acids within Vehicle or T3-treated (10 nM) in 468-EV and 468-TRβ cells
+  after 24 and 48h. *p<0.05, **p<0.01, *****p<0.0001.
+article_title: Common Tumor Suppressive Signaling of Thyroid Hormone Receptor Beta
+  in Breast and Thyroid Cancer Cells.
+citation: Eric L. Bolf, et al. Mol Carcinog. ;60(12):874-885.
+year: '2023'
+
+doi: 10.1002/mc.23352
+journal_title: Molecular carcinogenesis
+journal_nlm_ta: Mol Carcinog
+publisher_name: ''
+
+keywords:
+- Breast Cancer
+- Thyroid Hormone
+- Thyroid Cancer
+- Gene Expression
+
+---

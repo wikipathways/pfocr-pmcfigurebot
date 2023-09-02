@@ -1,0 +1,37 @@
+---
+figid: PMC9646549__fimmu-13-968165-g009
+pmcid: PMC9646549
+image_filename: fimmu-13-968165-g009.jpg
+figure_link: /pmc/articles/PMC9646549/figure/f9/
+number: Figure 9
+figure_title: ''
+caption: Individual assessment of NRGPI genes and association with necroptosis. (A)
+  Spearman’s correlation between NRGPI genes and infiltration of macrophages in the
+  TCGA STAD dataset assessed with TIMER database. (B) Spearman’s correlation between
+  NRGPI genes and KEGG TGF-β signaling pathway signature genes and (C) WNT signaling
+  pathway signature genes. (D) mRNA expression level of RIPK1, RIPK3, MLKL (necroptosis
+  core mediators), NRGPI oncogenes (SERPINE1, GPX3, GRP, FCN1, CYTL1, CNTN1, PLCL1,
+  and APOD), and markers of WNT signaling pathway (WNT2B, WNT9A) and TGF- signaling
+  pathway (TGFB1, TGFB3) in gastric cancer cells (AGS and MNK45) after being treated
+  with a combination of human recombinant TNF-α, SMAC mimetic, and zVAD-FMK (TSZ)
+  to induce necroptosis or added necroptosis inhibitor (necrostatin-1) to inhibit
+  necroptosis. Graph shows mean ± SD. *P<0.05; **P < 0.01; ***P < 0.001; ****P < 0.0001;
+  ns, not signficant.
+article_title: A novel necroptosis-related gene index for predicting prognosis and
+  a cold tumor immune microenvironment in stomach adenocarcinoma.
+citation: Muhammad Khan, et al. Front Immunol. 2022;13:968165.
+year: '2022'
+
+doi: 10.3389/fimmu.2022.968165
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- programmed cell death
+- tumor microenvironment
+- molecular targeted therapy
+- immunotherapy
+- cancer prognosis
+
+---

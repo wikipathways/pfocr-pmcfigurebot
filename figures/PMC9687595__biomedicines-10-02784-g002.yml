@@ -1,0 +1,48 @@
+---
+figid: PMC9687595__biomedicines-10-02784-g002
+pmcid: PMC9687595
+image_filename: biomedicines-10-02784-g002.jpg
+figure_link: /pmc/articles/PMC9687595/figure/biomedicines-10-02784-f002/
+number: Figure 2
+figure_title: ''
+caption: ROS signaling pathways involved in wound healing and metastasis. Extracellular
+  ROS activate intracellular signaling pathways. ① Nrf2 pathway. In unstressed conditions,
+  Keap1 retains Nrf2 in the cytoplasm. When ROS are produced, Keap1 is oxidized and
+  ubiquitinated thereby leading to its proteasomal degradation. Consequently, Nrf2
+  is free to translocate to the nucleus and binds to the anti-oxidant response elements
+  (AREs). This binding inhibits NOX2 and pro-inflammatory cytokines transcription
+  and enhances the anti-oxidant defense response expression. ② NF-κB pathway. In normal
+  conditions, NF-κB is associated with IκB and retained in the cytoplasm. In the presence
+  of ROS, IKK is activated and can phosphorylate IκB to induce its dissociation with
+  NF-κB and its proteasomal degradation. Then, free NF-κB translocates to the nucleus,
+  binds to NF-κB Response Elements (NREs) and induces target genes transcription leading
+  to a global inflammatory response. ROS are able to directly act in the nucleus inhibiting
+  NF-κB binding to the NREs. ③ HIF pathway. In homeostatic conditions, HIF-1α is hydroxylated
+  by PHDs and targeted for proteasomal degradation. HIF-1α is also regulated by FIH,
+  which blocks the interaction between HIF-1α transactivation domain and coactivators
+  on HREs. During hypoxia or when ROS are produced, PHDs are inactivated which stabilizes
+  HIF-1α and FIH is inhibited. HIF-1α then translocates into the nucleus where it
+  binds to HIF Response Elements (HREs). Transcription of target genes is induced
+  leading to hypoxic and angiogenic response. Nrf2, NF-κB and HIF pathways are closely
+  interlinked. Nrf2 can inhibit IκB proteasomal degradation and NF-κB nuclear translocation,
+  NF-κB pathway induces anti-oxidant response regulating iNOS and COX-2 transcription
+  and HIF-1α expression is regulated by NF-κB.
+article_title: 'Wound Healing versus Metastasis: Role of Oxidative Stress.'
+citation: Tatiana Lopez, et al. Biomedicines. 2022 Nov;10(11):2784.
+year: '2022'
+
+doi: 10.3390/biomedicines10112784
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: MDPI
+
+keywords:
+- wound healing
+- metastasis
+- oxidative stress
+- macrophage
+- Hypoxia Induced Factor
+- Nuclear Factor Kappa B
+- nuclear factor erythroid-2-related factor 2
+
+---

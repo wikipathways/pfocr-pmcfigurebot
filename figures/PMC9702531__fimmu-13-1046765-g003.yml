@@ -1,0 +1,34 @@
+---
+figid: PMC9702531__fimmu-13-1046765-g003
+pmcid: PMC9702531
+image_filename: fimmu-13-1046765-g003.jpg
+figure_link: /pmc/articles/PMC9702531/figure/f3/
+number: Figure 3
+figure_title: ''
+caption: Selecting and validating characteristic genes (A, B) Investigation of the
+  characteristic genes of the IL6/JAK/STAT signaling pathway (ISP) by the least absolute
+  shrinkage and selection operator (LASSO) regression. (C, D) Investigation of the
+  characteristic genes of the estrogen response pathway (ERP) by LASSO regression.
+  (E) Nomogram based on the characteristic genes of ISP. (F) Validation of the diagnostic
+  efficacy of STAT2 for intracranial aneurysm (IA) by the receiver operator characteristic
+  (ROC)analysis. (G) Predictive accuracy of STAT2 for IA by the calibration curve.
+  (H) Nomogram based on STAT2 as diagnostic tool for IA formation.
+article_title: Integrated analysis identifies the IL6/JAK/STAT signaling pathway and
+  the estrogen response pathway associated with the pathogenesis of intracranial aneurysms.
+citation: Aihong Wu, et al. Front Immunol. 2022;13:1046765.
+year: '2022'
+
+doi: 10.3389/fimmu.2022.1046765
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- intracranial aneurysm
+- GSVA
+- IL6/JAK/STAT signaling pathway
+- estrogen
+- immune microenviroment
+- WGCNA
+
+---

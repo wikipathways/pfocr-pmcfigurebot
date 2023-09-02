@@ -1,0 +1,40 @@
+---
+figid: PMC9688806__cancers-14-05538-g004
+pmcid: PMC9688806
+image_filename: cancers-14-05538-g004.jpg
+figure_link: /pmc/articles/PMC9688806/figure/cancers-14-05538-f004/
+number: Figure 4
+figure_title: ''
+caption: Knockdown of UCHL5 results in inactivation of the AKT/mTOR signaling pathway
+  and contributes to decreased c-Myc, SLC25A19, and ICAM5 expression. (A) KEGG pathway
+  enrichment analysis was used to assess RNA-Seq data containing shControl and shUCHL5
+  bladder cancer cells. (B,C) GSEA identified enrichment of AKT/mTOR signaling pathway
+  and c-Myc gene sets. (D) Heat map of the differential expressed genes. (E) The difference
+  in AKT/mTOR signaling pathway scores was defined using ssGSEA between the UCHL5
+  high- and UCHL5 low-expression groups. (F) The association of UCHL5 expression and
+  AKT/mTOR signaling pathway score. (G) qRT-PCR determination of the mRNA levels of
+  c-Myc, SLC25A19, and ICAM5 in bladder cancer cells transfected with shControl or
+  shUCHL5. (H–K) Protein levels of the AKT/mTOR signal pathway proteins (t-PI3K, p-PI3K,
+  t-AKT, p-AKT, t-mTOR, and p-mTOR), c-Myc, SLC25A19, and ICAM5 in UCHL5 silenced
+  and overexpressed bladder cancer cells shown by Western blotting. β-Actin is used
+  as the loading control. Values are shown as mean ± SD. * p < 0.05 and **** p < 0.0001
+  compared with controls.
+article_title: UCHL5 Promotes Proliferation and Migration of Bladder Cancer Cells
+  by Activating c-Myc via AKT/mTOR Signaling.
+citation: Yuanfei Cao, et al. Cancers (Basel). 2022 Nov;14(22):5538.
+year: '2022'
+
+doi: 10.3390/cancers14225538
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- UCHL5
+- bladder cancer
+- proliferation
+- migration
+- AKT
+- c-Myc
+
+---

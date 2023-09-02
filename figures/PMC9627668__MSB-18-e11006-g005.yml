@@ -1,0 +1,36 @@
+---
+figid: PMC9627668__MSB-18-e11006-g005
+pmcid: PMC9627668
+image_filename: MSB-18-e11006-g005.jpg
+figure_link: /pmc/articles/PMC9627668/figure/msb202211006-fig-0004/
+number: Figure 4
+figure_title: Metabolic activity correlates with drug sensitivity and resistance
+caption: Sankey plot of sensitivity associations (Pearson‐rho P‐value < 0.05) between
+  metabolic pathway classes (left) and drug classes (right).−log10(P‐value)*correlation
+  direction (iterative hypergeometric test) for associations between rapamycin IC50
+  and SMPDB core metabolic pathways, highlighting key pathways associated with resistance
+  (positive) and sensitivity (negative) to rapamycin.Spectrum of relative resistance
+  to glycolysis and fatty acid biosynthesis for all drugs studied, highlighting drugs
+  with most extreme anticorrelation between the two pathways.Correlations between
+  metabolic resistance associations for the most anticorrelated drugs. Metabolic pathway
+  correlations against drug sensitivities are compared for all drugs. Red squares
+  represent known drug synergies from DrugCombDB. Drug synergies tend to coincide
+  with anticorrelated metabolic sensitivities.
+article_title: Heterogeneity of the cancer cell line metabolic landscape.
+citation: David Shorthouse, et al. Mol Syst Biol. 2022 Nov;18(11):e11006.
+year: '2022'
+
+doi: 10.15252/msb.202211006
+journal_title: Molecular Systems Biology
+journal_nlm_ta: Mol Syst Biol
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- cancer
+- heterogeneity
+- metabolomics
+- mutation
+- Cancer
+- Metabolism
+
+---

@@ -1,0 +1,35 @@
+---
+figid: PMC9679413__fmolb-09-999582-g004
+pmcid: PMC9679413
+image_filename: fmolb-09-999582-g004.jpg
+figure_link: /pmc/articles/PMC9679413/figure/F4/
+number: FIGURE 4
+figure_title: ''
+caption: 'KEGG pathway enrichment analysis of DEGs. (A): Differentially expressed
+  gene KEGG pathway bubble map. The horizontal coordinates indicate the proportion
+  of enriched differential genes to the background genes of the pathway, and the vertical
+  coordinates indicate the name of the pathway; the size of the dots in the graph
+  indicates the number of enriched differential genes, and the color indicates the
+  p-value. The size of the dots in the graph indicates the number of enriched differential
+  genes, and the color indicates the p-value. (B): Distribution of differentially
+  expressed gene KEGG pathway enrichment.'
+article_title: Identification of potential target genes of breast cancer in response
+  to Chidamide treatment.
+citation: Han Han, et al. Front Mol Biosci. 2022;9:999582.
+year: '2022'
+
+doi: 10.3389/fmolb.2022.999582
+journal_title: Frontiers in Molecular Biosciences
+journal_nlm_ta: Front Mol Biosci
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- Chidamide
+- breast cancer
+- RNA-seq
+- bioinformatics
+- TP53
+- ACLY
+- PPARG
+
+---

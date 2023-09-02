@@ -1,0 +1,32 @@
+---
+figid: PMC9627673__MSB-18-e11033-g007
+pmcid: PMC9627673
+image_filename: MSB-18-e11033-g007.jpg
+figure_link: /pmc/articles/PMC9627673/figure/msb202211033-fig-0002/
+number: Figure 2
+figure_title: The metabolic activity landscape of cancer cell lines
+caption: 'Inference of pathway score, a proxy for pathway activity, for 49 KEGG metabolic
+  pathways. Hierarchical clustering of: (above) cell lines, colored by their tissue
+  of origin and the batch they were grown in, (side) metabolic pathways, colored by
+  their pathway class (cell lines n = 180, three biological replicates and two technical
+  per cell line averaged).'
+article_title: A functional analysis of 180 cancer cell lines reveals conserved intrinsic
+  metabolic programs.
+citation: Sarah Cherkaoui, et al. Mol Syst Biol. 2022 Nov;18(11):e11033.
+year: '2022'
+
+doi: 10.15252/msb.202211033
+journal_title: Molecular Systems Biology
+journal_nlm_ta: Mol Syst Biol
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- cancer metabolism
+- cell lines
+- metabolomics
+- metabolic flux
+- omics
+- Cancer
+- Metabolism
+
+---

@@ -1,0 +1,36 @@
+---
+figid: PMC9627224__CTM2-12-e1098-g002
+pmcid: PMC9627224
+image_filename: CTM2-12-e1098-g002.jpg
+figure_link: /pmc/articles/PMC9627224/figure/ctm21098-fig-0001/
+number: FIGURE 1
+figure_title: ''
+caption: Differential gene and pathway expression analysis revealed key genes and
+  potential drug targets involved in the host translation machinery with SARS‐CoV‐2
+  infection. (A) Upregulation of the interferon signalling pathway in SARS‐CoV‐2‐infected
+  samples reveals many key genes and potential drug targets. This pathway figure was
+  designed in BioRender.com based on the EIF2AK2 pathway diagram indicated as significantly
+  represented in our data sets by IPA. Elements of the pathway not significant in
+  the data sets analysed were excluded for clarity. Compounds identified from the
+  DGIdb analysis whose effects on COVID‐19 have been suggested by other studies are
+  shown modulating their respective targets. (B) Downregulation of key genes in the
+  eIF2 signalling pathway reveals how SARS‐CoV‐2 interferes with host cell translation
+  machinery to inhibit host protein synthesis. The eIF2 signalling pathway indicated
+  as significant in our data sets by IPA was recreated in BioRender.com to highlight
+  the elements of the pathway most significantly represented in our data. Genes that
+  were not significantly differentially expressed in our data sets and did not interact
+  with key genes were excluded from the figure for clarity. EIF2AK2 was the only potential
+  drug target identified by DGIdb analysis within this pathway, shown modulated by
+  PKR inhibitors. Figure legend was also designed in BioRender.com .
+article_title: RNASeq profiling of COVID19‐infected patients identified an EIF2AK2
+  inhibitor as a potent SARS‐CoV‐2 antiviral.
+citation: Sidharth Jain, et al. Clin Transl Med. 2022 Nov;12(11):e1098.
+year: '2022'
+
+doi: 10.1002/ctm2.1098
+journal_title: Clinical and Translational Medicine
+journal_nlm_ta: Clin Transl Med
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+---

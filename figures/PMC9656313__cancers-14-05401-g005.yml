@@ -1,0 +1,38 @@
+---
+figid: PMC9656313__cancers-14-05401-g005
+pmcid: PMC9656313
+image_filename: cancers-14-05401-g005.jpg
+figure_link: /pmc/articles/PMC9656313/figure/cancers-14-05401-f005/
+number: Figure 5
+figure_title: ''
+caption: Biological processes that are enriched in patients with long PFS, their interaction,
+  and shared components (e.g., One-carbon metabolism, BCAA biosynthesis, and TCA cycle)
+  between gut microbiota and host cells (e.g., T cells). Methanogenesis generates
+  serine, which enters one-carbon metabolism, and lysine, which enters the aspartate
+  pathway. The aspartate pathway produces methionine which enters the methionine cycle
+  of one-carbon metabolism. In addition, along with BCAA biosynthesis, it generates
+  isoleucine that feeds the TCA cycle. BCAA biosynthesis pathway also produces valine
+  and leucine that enter the TCA cycle. Finally, NADH/NADPH connect one-carbon metabolism,
+  TCA cycle, and BCAA biosynthesis pathway—three important biological processes that
+  are shared by host cells, including immune cells such as CTLs. These pathways can
+  integrate metabolites/metabolic intermediates directly from gut microbiota, such
+  as NADPH, serine, methionine, etc., and prime CTLs to respond better to ICIs in
+  cancer immunotherapy.
+article_title: Exploring Gut Microbiome in Predicting the Efficacy of Immunotherapy
+  in Non-Small Cell Lung Cancer.
+citation: Ben Liu, et al. Cancers (Basel). 2022 Nov;14(21):5401.
+year: '2022'
+
+doi: 10.3390/cancers14215401
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- immunotherapy
+- non-small cell lung cancer
+- gut microbiome
+- prediction model
+- machine learning
+
+---

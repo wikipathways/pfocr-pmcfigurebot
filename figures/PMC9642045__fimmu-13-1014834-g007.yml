@@ -1,0 +1,40 @@
+---
+figid: PMC9642045__fimmu-13-1014834-g007
+pmcid: PMC9642045
+image_filename: fimmu-13-1014834-g007.jpg
+figure_link: /pmc/articles/PMC9642045/figure/f7/
+number: Figure 7
+figure_title: ''
+caption: Correlation between TRPC score and response to NCRT in the GSE45404 cohort.
+  The scatter diagram of the TRPC score between response and non-response group (A),
+  and fourfold table between TRPC score and NCRT response (B). (C) ROC curve of TRPC
+  score to predict NCRT response. (D) The distribution of the TRPC activity between
+  response and non-response group. (E) Scatter plot showed the association between
+  the TRPC activity and TRPC score. (F) Heat map of correlation between the TRPC activity
+  and immune infiltration. (G) ssGSEA scores of immune cells and immune-related functions
+  between response and non-response group. (H-J) Scatter plot showed the association
+  between immune checkpoints (e.g., PD-1, PD-L1, and CTLA4) and the TRPC activity.
+  (K-M) Scatter plot showed the association between signaling pathway (e.g., mismatch
+  repair, MAPK signaling pathway, and B cell receptor signaling pathway) and the TRPC
+  activity. NCRT, neoadjuvant chemoradiotherapy; ROC, receiver operator characteristic;
+  ssGSEA, single sample gene set enrichment analysis; TRPC, transient receptor potential
+  channels; ns, not significant; *P< 0.05; **P< 0.01.
+article_title: Comprehensive analysis of transient receptor potential channels-related
+  signature for prognosis, tumor immune microenvironment, and treatment response of
+  colorectal cancer.
+citation: Lei Wang, et al. Front Immunol. 2022;13:1014834.
+year: '2022'
+
+doi: 10.3389/fimmu.2022.1014834
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- transient receptor potential channels
+- colorectal cancer
+- prognosis
+- immune checkpoint inhibitor
+- neoadjuvant treatment
+
+---

@@ -1,0 +1,39 @@
+---
+figid: PMC9633330__gr2
+pmcid: PMC9633330
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC9633330/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: Comparison of Treg-cell transcriptomic profiles between young post-pubertal
+  cisgender men and womenFACS-sorted Treg cells (CD4+CD25+CD127–) from five young,
+  post-pubertal cisgender men and five young, post-pubertal cisgender women were analysed
+  by RNA-sequencing and whole genome expression was compared by sex. (A) Volcano plot
+  displaying log2 fold changes and log10 p values of DEGs between cisgender men and
+  women, where coloured points represent statistically significant DEGs below p value
+  threshold of 0·01). (B) Hierarchical clustering heatmap (Clustvis, Pearson's) of
+  normalised gene counts of statistically significantly altered DEGs between cisgender
+  men and women. (C) Pathway analysis plot displaying the –log10 p values of enriched
+  DEG pathway ontology terms of Treg cells between cisgender men and women using the
+  82 statistically significant DEGs. (D) Pathway analysis plot displaying the p value
+  and enrichment ratios of enriched DEG pathway ontology terms of Treg cells between
+  cisgender men and women using the extended gene list, incorporating both original
+  seed genes and the genes from respective protein–protein interaction networks; the
+  size of the points are relative to the number of genes contributing to that pathway.
+  Box and whisker plots displaying Treg-cell gene expression by normalised counts
+  of genes associated with the PI3K–AKT signalling (E), altered translation initiation
+  pathways (F), and FOXP3 expression (G); data are mean (SE). DEG=differentially expressed
+  gene. ER=oestrogen receptor alpha. Treg=regulatory T. Tresp=responder T.
+article_title: 'Investigating sex differences in T regulatory cells from cisgender
+  and transgender healthy individuals and patients with autoimmune inflammatory disease:
+  a cross-sectional study.'
+citation: George A Robinson, et al. Lancet Rheumatol. 2022 Oct;4(10):e710-e724.
+year: '2022'
+
+doi: 10.1016/S2665-9913(22)00198-9
+journal_title: The Lancet. Rheumatology
+journal_nlm_ta: Lancet Rheumatol
+publisher_name: Elsevier Ltd
+
+keywords:
+---

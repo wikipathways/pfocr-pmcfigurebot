@@ -1,0 +1,31 @@
+---
+figid: PMC9630940__fphar-13-1032282-g003
+pmcid: PMC9630940
+image_filename: fphar-13-1032282-g003.jpg
+figure_link: /pmc/articles/PMC9630940/figure/F3/
+number: FIGURE 3
+figure_title: ''
+caption: GSEA identified IL-6 type cytokine receptor ligand interactions. (A,B) IL-6
+  family signaling pathways; (C) IL-10 pathway and (D) MAPK cascade as regulatory
+  targets of paeoniflorin in pancreatic cancer. (E) Differences in pathway activities
+  scored per sample by GSVA between PF-treated group and control group. Blue represents
+  the pathway with t value greater than 2, and green represents the pathway with t
+  value less than -2. NES, normalized enrichment score; FDR, False discovery rate.
+article_title: 'Deciphering the action mechanism of paeoniflorin in suppressing pancreatic
+  cancer: A network pharmacology study and experimental validation.'
+citation: Chunhao Cao, et al. Front Pharmacol. 2022;13:1032282.
+year: '2022'
+
+doi: 10.3389/fphar.2022.1032282
+journal_title: Frontiers in Pharmacology
+journal_nlm_ta: Front Pharmacol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- paeoniflorin
+- pancreatic cancer
+- network pharmacology
+- p38 MAPK signal pathway
+- WGCNA
+
+---

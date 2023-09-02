@@ -1,0 +1,37 @@
+---
+figid: PMC9676284__10.1177_17588359221136759-fig5
+pmcid: PMC9676284
+image_filename: 10.1177_17588359221136759-fig5.jpg
+figure_link: /pmc/articles/PMC9676284/figure/fig5-17588359221136759/
+number: Figure 5
+figure_title: ''
+caption: scRNA-seq of PSC. (a) UMAP plot of 5064 cells from two patients with PSC
+  and two patients with adenocarcinoma and major cell-type composition of each patient.
+  (b) UMAP plot of immune cells and cell-type composition of each patient. (c) ITH
+  scores based on CNAs (ITHCNA) and gene expressions (ITHGEX). (d) The top 5 enriched
+  pathway of GSEA of cancer cells. (e) Antigen receptor-mediated signaling pathway
+  was upregulated in PSC while basement membrane organization pathway was upregulated
+  in adenocarcinoma. (f). The top 5 enriched pathway of GSEA of T cells, including
+  naïve T cells, CD8+ effector T cells, proliferating CD8+ effector T cells and regulatory
+  T cells and (g). GO analyses of T cells.AD, adenocarcinoma; GSEA, gene set enrichment
+  analysis; ITH, intratumoral heterogeneity; PSC, pulmonary sarcomatoid carcinoma;
+  scRNA-seq, single-cell RNA sequencing.
+article_title: 'Immune checkpoint inhibitors plus chemotherapy in patients with locally
+  advanced or metastatic pulmonary sarcomatoid carcinoma: a multicentric real-world
+  study.'
+citation: Fei Zhou, et al. Ther Adv Med Oncol. 2022;14:17588359221136759.
+year: '2022'
+
+doi: 10.1177/17588359221136759
+journal_title: Therapeutic Advances in Medical Oncology
+journal_nlm_ta: Ther Adv Med Oncol
+publisher_name: SAGE Publications
+
+keywords:
+- chemotherapy
+- immune checkpoint inhibitors
+- PD-1/PD-L1
+- pulmonary sarcomatoid carcinoma
+- tumor microenvironment
+
+---

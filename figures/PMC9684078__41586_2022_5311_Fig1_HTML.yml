@@ -1,0 +1,50 @@
+---
+figid: PMC9684078__41586_2022_5311_Fig1_HTML
+pmcid: PMC9684078
+image_filename: 41586_2022_5311_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC9684078/figure/Fig1/
+number: Fig. 1
+figure_title: Heterogeneity of gene expression and phylogenetic signal in CRC
+caption: 'a, Heatmaps showing clustering of genes by expression level across tumours
+  (left) and expression variation within tumours (right). Hierarchical clustering
+  showed four distinct groups, groups 1–4. Units are scaled by column in each heatmap.
+  b,c, Summary box plots per gene group (group 1, 891 genes; group 2, 2,444 genes;
+  group 3, 5,033 genes; group 4, 3,033 genes). Mean expression level (b) and intratumour
+  heterogeneity of expression (c) per group, as measured by s.d. d, Meta-KEGG pathway
+  analysis showing which pathway categories are most over-represented in each group
+  (after removal of ‘infectious disease: bacterial’ and ‘neurodegenerative disease’—most
+  significant in group 1). e,f, Phylogenetic trees and heatmaps of genes with evidence
+  of phylogenetic signal (at P < 0.05) for tumours C551 (e) and C554 (f). g, Heatmap
+  of genes with recurrent phylogenetic signal across tumours (those which were found
+  to have evidence of phylogenetic signal in at least three tumours). h, Results of
+  chi-squared test showing whether gene groups were enriched for phylogenetic genes
+  (those with evidence of phylogenetic signal in at least one tumour—“Phylo”) compared
+  to all other genes (“Non-phylo”). i, Enrichment of KEGG PPAR signalling pathway
+  for recurrently phylogenetic genes. j, Example phylogenetic tree and pathway enrichment
+  heatmap for tumour C559. Pathways are ordered by decreasing significance of phylogenetic
+  signal. k, Heatmap showing recurrence of phylogenetic signal of pathways across
+  tumours. Pathways are ordered by decreasing recurrence. Refer to pathway key in
+  Extended Data Fig.  for pathway names. *P < 0.05, **P < 0.01, ***P < 0.001; Mean
+  norm., mean gene expression in normal samples; Mean mean exp., mean of mean gene expression
+  per tumour; Mean var., mean standard deviation of gene expression; MedPval, median
+  P-value from forest of 100 trees; MedLambda, median λ value from forest of 100 trees;
+  NumRec, number of tumours in which gene has evidence of phylogenetic signal; Num
+  Sig, number of tumours in which pathway has evidence of phylogenetic signal; d.f.,
+  degrees of freedom.'
+article_title: Phenotypic plasticity and genetic control in colorectal cancer evolution.
+citation: Jacob Househam, et al. Nature. 2022;611(7937):744-753.
+year: '2022'
+
+doi: 10.1038/s41586-022-05311-x
+journal_title: Nature
+journal_nlm_ta: Nature
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Tumour heterogeneity
+- Computational models
+- Evolutionary genetics
+- Colon cancer
+- Cancer genomics
+
+---

@@ -1,0 +1,36 @@
+---
+figid: PMC9682206__fendo-13-963382-g001
+pmcid: PMC9682206
+image_filename: fendo-13-963382-g001.jpg
+figure_link: /pmc/articles/PMC9682206/figure/f1/
+number: Figure 1
+figure_title: ''
+caption: Identification of differentially expressed immune-related genes (DEIRGs)
+  and construction of co-expression modules. 680DEIRGs were identified. (A) Heatmap
+  of the 680 DEIRGs. The DEIRGs were enriched in GO terms (B) related with humoral
+  immune response, complement activation, adaptive immune response, B cell mediated
+  immunity, lymphocyte mediated immunity and immunoglobulin mediate immune response
+  and KEGG pathways (C) related with cytokine-cytokine receptor interaction, complement
+  and coagulation cascades, viral protein interaction with cytokine and cytokine receptor,
+  IL-17 signaling pathway, chemokine signaling pathway, MAPK signal pathway. Six co-expression
+  modules were constructed through WGCNA. The yellow module has the strongest correlation
+  with colon cancer. (D) Dendrogram of the six modules. (E) Heatmap of the correlation
+  between module eigengenes and sample types.
+article_title: Construction and validation of an immune-related genes prognostic index
+  (IRGPI) model in colon cancer.
+citation: Yabin Jin, et al. Front Endocrinol (Lausanne). 2022;13:963382.
+year: '2022'
+
+doi: 10.3389/fendo.2022.963382
+journal_title: Frontiers in Endocrinology
+journal_nlm_ta: Front Endocrinol (Lausanne)
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- colon cancer
+- immune cells
+- prognostic model
+- biomarker
+- tumor microenvironment (TME)
+
+---

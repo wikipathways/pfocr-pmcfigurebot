@@ -1,0 +1,37 @@
+---
+figid: PMC9658476__ijms-23-12831-g003
+pmcid: PMC9658476
+image_filename: ijms-23-12831-g003.jpg
+figure_link: /pmc/articles/PMC9658476/figure/ijms-23-12831-f003/
+number: Figure 3
+figure_title: ''
+caption: Functional classification and enrichment analysis of differentially expressed
+  genes (DEGs) in P. mume. (a) Gene ontology (GO) classification of DEGs. The horizontal
+  axis is the GO slim classification, and the vertical axis is the number of genes.
+  (b) KEGG pathway classification of DEGs. The vertical axis is the name of the KEGG
+  metabolic pathway, the horizontal axis is the ratio of the number of genes annotated
+  to the pathway to the total number of annotated genes, and the value in the figure
+  is the number of genes annotated to the pathway. (c) GO enrichment analysis of DEGs.
+  The horizontal axis is the number of differentially expressed genes, and the vertical
+  axis is the functional classification of GO. The color represents the q-value, and
+  the smaller the q-value, the more significant it is. (d) KEGG enrichment analysis
+  of DEGs. The horizontal axis is the number of differentially expressed genes, the
+  vertical axis is KEGG Pathway, the color represents q-value, and the smaller the
+  q-value, the more significant the enrichment result is.
+article_title: Integrated Transcriptome and Metabolome Analysis of Color Change and
+  Low-Temperature Response during Flowering of Prunus mume.
+citation: Bin Dong, et al. Int J Mol Sci. 2022 Nov;23(21):12831.
+year: '2022'
+
+doi: 10.3390/ijms232112831
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- Prunus mume
+- cold response
+- transcriptome
+- metabolome
+
+---
