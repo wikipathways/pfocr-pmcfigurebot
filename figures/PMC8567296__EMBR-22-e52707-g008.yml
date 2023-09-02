@@ -1,0 +1,60 @@
+---
+figid: PMC8567296__EMBR-22-e52707-g008
+pmcid: PMC8567296
+image_filename: EMBR-22-e52707-g008.jpg
+figure_link: /pmc/articles/PMC8567296/figure/embr202152707-fig-0005/
+number: Figure 5
+figure_title: lncPSCA‐induced degradation of DDX5 releases RNA Pol II from the DDX5‐Pol
+  II complex in nucleus
+caption: 'Western blot for RNA Pol II among proteins pulled down with anti‐DDX5 (up)
+  and for DDX5 among proteins pulled down with an anti‐Pol II antibody (down).Global
+  increase in RNA Pol II signals after silencing of DDX5 (lv‐shD) in HGC‐27 cells.
+  Average RNA Pol II ChIP‐seq signal at all RNA Pol II peak regions. Upper subpanel:
+  negative control, Lv‐NC; lower subpanel: silencing of DDX5, lv‐shD.Reads per million
+  mapped reads (RPM) of RNA Pol II ChIP‐seq signals of genes in human genome.KEGG
+  Pathway analyses of overlapped differential expressed genes (DEGs) in both lncPSCA‐overexpression
+  cells and the DDX5‐konckdown cells identified multiple pathways involved in cancer
+  biology, with the P53 and MAPK signaling pathways as two of the most markedly changed
+  pathways.RNA Pol II ChIP‐seq and RNA‐seq signals of PMAIP1, CDKN1A, SESN2, and SESN3
+  in HGC‐27 cells. Red bars represent the RNA Pol II ChIP‐seq signal. Orange or blue
+  bars represent the RNA‐seq signals of HGC‐27 cells overexpressing lncPSCA (lncP)
+  or with silenced DDX5 (shD), respectively.Validation of candidate downstream genes
+  of the lncPSCA‐DDX5 axis identified through the integrated analyses. RT–qPCR was
+  performed for PMAIP1, CDKN1A, and SESN2 genes upon overexpression of lncPSCA (lncP),
+  silencing of DDX5 (shD) or lncPSCA knockout. Error bars indicate the SEM. Data show
+  one representative example of three biological replicates.ChIP‐qPCR assays were
+  performed for PMAIP1, CDKN1A, and SESN2 genes and demonstrated that significantly
+  decreased RNA Poll II enrichment around TSS of PMAIP1, CDKN1A and SESN2 in various
+  stable lncPSCA knockout GC cell lines. Left subpanel: RNA Pol II ChIP‐qPCR fragments
+  a, b, and c on PMAIP1, CDKN1A, and SESN2 genes; middle and right subpanels: RNA
+  Pol II ChIP‐qPCR results of PMAIP1, CDKN1A, and SESN2 genes in MGC80‐3 (middle)
+  and HGC‐27 cells (right). Data show one representative example of three biological
+  replicates.Correlations between lncPSCA levels and the mRNA levels of the P53 signaling
+  PMAIP1, CDKN1A, and SESN2 genes in gastric cancer tissues discovery cohort (n = 96)
+  and validation cohort (n = 30). RNA levels were determined by RT–qPCR relative to
+  GAPDH. The r values and P values are from Pearson’s correlation analyses. Data information:
+  The difference between two groups was calculated using Student’s t test. The significance
+  of expression association between different genes was calculated using Spearman’s
+  correlation. *P < 0.05, **P < 0.01, ***P < 0.001. Source data are available online
+  for this figure.'
+article_title: LncPSCA in the 8q24.3 risk locus drives gastric cancer through destabilizing
+  DDX5.
+citation: Yan Zheng, et al. EMBO Rep. 2021 Nov 4;22(11):e52707.
+year: '2021'
+
+doi: 10.15252/embr.202152707
+journal_title: EMBO Reports
+journal_nlm_ta: EMBO Rep
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- DDX5
+- gastric cancer
+- lncPSCA
+- Pol II
+- risk variant
+- Cancer
+- RNA Biology
+- Signal Transduction
+
+---

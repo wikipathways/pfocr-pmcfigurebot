@@ -1,0 +1,36 @@
+---
+figid: PMC9657917__ijms-23-13546-g007
+pmcid: PMC9657917
+image_filename: ijms-23-13546-g007.jpg
+figure_link: /pmc/articles/PMC9657917/figure/ijms-23-13546-f007/
+number: Figure 7
+figure_title: ''
+caption: Expression changes in plant-hormone signaling and MAPK signaling—plant pathways
+  in XY15 (cold-sensitive) and GX74 (cold-tolerant) rapeseed siliques—in response
+  to cold treatment. The pathways are drawn according to the respective reference
+  pathways in KEGG pathway database []. The heatmap was drawn in TBtools [] using
+  the log2 foldchange values of differentially expressed genes enriched in these two
+  pathways. CK and LW represent control and cold treatments. The gene abbreviations
+  and other genes refer to full names presented in .
+article_title: Combined Transcriptome and Metabolome Profiling Provide Insights into
+  Cold Responses in Rapeseed (Brassica napus L.) Genotypes with Contrasting Cold-Stress
+  Sensitivity.
+citation: Xinhong Liu, et al. Int J Mol Sci. 2022 Nov;23(21):13546.
+year: '2022'
+
+doi: 10.3390/ijms232113546
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- cold-stress tolerance
+- ROS scavenging
+- silique length
+- sugar metabolism
+- ABA signaling
+- JA signaling
+- MAPK signaling
+- photosystems
+
+---

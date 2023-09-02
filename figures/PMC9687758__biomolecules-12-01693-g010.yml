@@ -1,0 +1,35 @@
+---
+figid: PMC9687758__biomolecules-12-01693-g010
+pmcid: PMC9687758
+image_filename: biomolecules-12-01693-g010.jpg
+figure_link: /pmc/articles/PMC9687758/figure/biomolecules-12-01693-f010/
+number: Figure 10
+figure_title: ''
+caption: Annotation of genes in the KEGG generated hsa04390 pathway; the Hippo signaling
+  pathway. Differentially expressed genes in the hsa04390 pathway have been annotated
+  using R package Pathview. Gene expression has been normalised to a range of [−1,
+  1] to enhance visibility in which orange corresponds to upregulation while cyan
+  corresponds to downregulation. Grey coloured genes are expressed but not differentially
+  so. White coloured genes were not found to be expressed in our dataset.
+article_title: 'Genome-Wide RNA Sequencing of Human Trabecular Meshwork Cells Treated
+  with TGF-β1: Relevance to Pseudoexfoliation Glaucoma.'
+citation: Anton W. Roodnat, et al. Biomolecules. 2022 Nov;12(11):1693.
+year: '2022'
+
+doi: 10.3390/biom12111693
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: MDPI
+
+keywords:
+- exfoliation syndrome
+- exfoliation glaucoma
+- pseudoexfoliation syndrome
+- pseudoexfoliation glaucoma
+- open-angle glaucoma
+- transforming growth factor beta1
+- RNA-Seq
+- transcriptome
+- trabecular meshwork
+
+---

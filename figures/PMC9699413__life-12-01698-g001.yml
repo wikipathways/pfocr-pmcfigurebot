@@ -1,0 +1,33 @@
+---
+figid: PMC9699413__life-12-01698-g001
+pmcid: PMC9699413
+image_filename: life-12-01698-g001.jpg
+figure_link: /pmc/articles/PMC9699413/figure/life-12-01698-f001/
+number: Figure 1
+figure_title: ''
+caption: Activation of TNFα signaling by A2E and BL in ARPE-19 cells. (A) RNA-seq
+  of in AREP-19 cells treated with A2E and BL (A2E+BL). The number of DEGs (129 upregulated
+  and 43 downregulated) were shown in the pie chart (|FC| ≥ 2.0, Q < 0.05). (B) Heat
+  map of genes responsible for cytokines and chemokines, transcription factors, and
+  regulation of TNFα signaling. (C) Bar charts of potential signaling pathways generated
+  using DEGs by A2E+BL in ARPE-19 cells. Pathway analyses were performed using KEGG
+  and MSigDB.
+article_title: Photooxidation of A2E by Blue Light Regulates Heme Oxygenase 1 Expression
+  via NF-κB and Lysine Methyltransferase 2A in ARPE-19 Cells.
+citation: Chae Young Shin, et al. Life (Basel). 2022 Nov;12(11):1698.
+year: '2022'
+
+doi: 10.3390/life12111698
+journal_title: Life
+journal_nlm_ta: Life (Basel)
+publisher_name: MDPI
+
+keywords:
+- retinal pigment epithelium
+- N-retinylidene-N-retinylethanolamine
+- blue light
+- NF-κB
+- heme oxygenase 1
+- lysine methyltransferase 2A
+
+---

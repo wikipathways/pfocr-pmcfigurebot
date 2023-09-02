@@ -1,0 +1,52 @@
+---
+figid: PMC9708828__41467_2022_35161_Fig2_HTML
+pmcid: PMC9708828
+image_filename: 41467_2022_35161_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC9708828/figure/Fig2/
+number: Fig. 2
+figure_title: Design of RAG-inducible modules for fast secretion control of ER-accumulated
+  glycoproteins with avoidance of disulfide bridge formation in CID domains
+caption: 'a Schematic illustration of the molecular components that comprise the endoplasmic
+  reticulum RAG-inducible system. b SEAP levels after 24 h in culture supernatants
+  of HEK-293 cells transfected with 5 ng of pMMH51 and pMMH10 plasmids, which encode
+  intact secTEVp-KDEL (PhCMV-ssTEVp-KDEL-pA) and SEAP-TCS-KDEL (PhCMV-SEAP-TCS-KDEL-pA)
+  separately or in combination. Data are presented as mean ± SD of n = 5 biologically
+  independent samples. ***P < 0.0001 was calculated using two-tailed, unpaired Student’s
+  t-test. c SEAP levels in culture supernatants of HEK-293 cells transfected with
+  pMMH10 (5 ng) with pMMH26 (PhCMV-SS-FKBP-(GGGGS)2-ssTEVp1–118-KDEL-pA) and pMMH27
+  (PhCMV-SS-FRB-ssTEVp119–245-KDEL-pA), pMMH44 (PhCMV- SS-PYL1-ssTEVp119–245-KDEL-pAbGH)
+  and pMMH45 (PhCMV- SS-ABI-(GGGGS)2-ssTEVp1–118-KDEL-pAbGH), pMMH43 (PhCMV-SS-GAI-ssTEVp119–245-KDEL
+  -pAbGH) and pPW26 (PhCMV-SS-ssTEVp1–118-(GGGGS)2-GID1-KDEL-pAbGH) (5 ng each). Cells
+  were treated with DMSO, RAPA (100 nM), ABA (100 µM), or GA (100 µM). Data are presented
+  as mean ± SD of n = 6 biologically independent samples. ***P < 0.0001 was calculated
+  using two-tailed, unpaired Student’s t-test. d Left: SEAP levels in culture supernatants
+  of HEK-293 cells transfected with pMMH125b, which encodes MDD-tTA, along with 1 ng
+  of the cytoplasmic pPW20 (PhCMV-ABI-(GGGGS)2-ssTEVp1–118-KDEL-pAbGH) and pPW21 (PhCMV-PYL1-ssTEVp119–245-KDEL-pAbGH).
+  Right: SEAP levels in the supernatants of cells transfected with the ER-resident
+  counterparts, e.g., pMMH44 (PhCMV- SS-PYL1-ssTEVp119–245-KDEL-pAbGH) and pMMH45
+  (PhCMV-SS-ABI-(GGGGS)2-ssTEVp1–118-KDEL-pAbGH), in combination with 5 ng of the
+  reporter gene pMMH10, which encodes SEAP-TCS-KDEL (PhCMV-SEAP-TCS-KDEL-pA). Transfected
+  cells were treated either with DMSO or ABA (100 µM). Data are presented as mean ± SD
+  of n = 6 biologically independent samples. ***P < 0.0001 was calculated using two-tailed,
+  unpaired Student’s t-test. e Site-directed mutagenesis of ER-localized ABI and PYL1
+  dimerization domains fused with ssTEVp1–118 and ssTEVp119–245, respectively. SEAP
+  levels in culture supernatants of cells transfected with 5 ng pMMH10 in addition
+  to 5 ng of different S to C mutants of pMMH44 (PhCMV-SS-PYL1-ssTEVp119–245-KDEL-pAbGH)
+  and pMMH45 (PhCMV-SS-ABI-(GGGGS)2-ssTEVp1–118-KDEL-pAbGH). Data are presented as
+  mean ± SD of n = 6 biologically independent samples. ***P < 0.0001 was calculated
+  using two-tailed, unpaired Student’s t-test. Source data are provided as a  file.'
+article_title: Engineering receptors in the secretory pathway for orthogonal signalling
+  control.
+citation: Mohamed Mahameed, et al. Nat Commun. 2022;13:7350.
+year: '2022'
+
+doi: 10.1038/s41467-022-35161-0
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Synthetic biology
+- Genetic engineering
+
+---

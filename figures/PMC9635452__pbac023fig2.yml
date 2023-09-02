@@ -1,0 +1,30 @@
+---
+figid: PMC9635452__pbac023fig2
+pmcid: PMC9635452
+image_filename: pbac023fig2.jpg
+figure_link: /pmc/articles/PMC9635452/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: Identification of altered hepatic gene expression and functional pathways
+  in response to AAI. (A) Volcano plots show DEGs and DEPs in scRNA-seq and proteomics
+  datasets, AAI-4w vs Control and AAI-8w vs Control, respectively. (B) The heatmap
+  plot indicates the relative expressions of DEGs and DEPs across two datasets. (C)
+  Pathway and process enrichment analysis of DEGs and DEPs across two datasets in
+  response to AAI.
+article_title: Dissection of cellular and molecular mechanisms of aristolochic acid-induced
+  hepatotoxicity via single-cell transcriptomics.
+citation: Piao Luo, et al. Precis Clin Med. 2022 Dec;5(4):pbac023.
+year: '2022'
+
+doi: 10.1093/pcmedi/pbac023
+journal_title: Precision Clinical Medicine
+journal_nlm_ta: Precis Clin Med
+publisher_name: Oxford University Press
+
+keywords:
+- aristolochic acid
+- scRNA-seq
+- hepatotoxicity
+- proteomics
+
+---

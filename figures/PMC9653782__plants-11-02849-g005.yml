@@ -1,0 +1,39 @@
+---
+figid: PMC9653782__plants-11-02849-g005
+pmcid: PMC9653782
+image_filename: plants-11-02849-g005.jpg
+figure_link: /pmc/articles/PMC9653782/figure/plants-11-02849-f005/
+number: Figure 5
+figure_title: ''
+caption: 'Volcano plots and KEGG metabolic pathway enrichment map of differential
+  metabolites. (A,C) Positive ion mode, (B,D) Negative ion mode; each point represents
+  a metabolite: horizontal coordinates indicate different multiplicities of differential
+  metabolites (log2 values), vertical coordinates indicate p-values (−log10 values),
+  grey indicates metabolites with no significant differences (NoDiff), red indicates
+  up–regulated metabolites (UP), green indicates down–regulated metabolites (DW),
+  and the size of the points indicates VIP values. The abscissa in the figure is x/y
+  (the number of differential metabolites in the corresponding metabolic pathway/the
+  total number of metabolites identified in the pathway), and the larger the value,
+  the higher the enrichment of differential metabolites in the pathway. The color
+  of the point represents the p-value of the hypergeometric test. The smaller the
+  value, the more reliable and statistically significant the test is. The size of
+  the dots represents the number of differential metabolites in the corresponding
+  pathway; the larger the number, the more differential metabolites in the pathway.'
+article_title: The Changes of Microbial Communities and Key Metabolites after Early
+  Bursaphelenchus xylophilus Invasion of Pinus massoniana.
+citation: Yibo An, et al. Plants (Basel). 2022 Nov;11(21):2849.
+year: '2022'
+
+doi: 10.3390/plants11212849
+journal_title: Plants
+journal_nlm_ta: Plants (Basel)
+publisher_name: MDPI
+
+keywords:
+- pinewood nematode
+- microbial community
+- endophytic microbes
+- metabolite profiling
+- pines
+
+---

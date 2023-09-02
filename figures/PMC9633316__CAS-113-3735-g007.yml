@@ -1,0 +1,42 @@
+---
+figid: PMC9633316__CAS-113-3735-g007
+pmcid: PMC9633316
+image_filename: CAS-113-3735-g007.jpg
+figure_link: /pmc/articles/PMC9633316/figure/cas15547-fig-0001/
+number: FIGURE 1
+figure_title: ''
+caption: 'LINC00460 was associated with the gemcitabine resistance in pancreatic ductal
+  adenocarcinoma cells (PDAC). (A) Relative expression level of LINC00460 was detected
+  by qRT‐PCR (local chemotherapy cohort, n = 20; drug measure of response: PD (progressive
+  disease); SD (stable disease); PR (partial response); CR (complete response)). (B)
+  The correlation between high/low LINC00460 level and gemcitabine response was analyzed
+  using Fisher''s exact test. (C) Schematic to generate gemcitabine‐resistant primary
+  human PDAC for PDX studies. PDX (P1) tumors were grafted subcutaneously to BALB/c
+  mice for the gemcitabine‐resistance model (P2–P4). Once tumor volume reached 150 mm3,
+  mice were treated with gemcitabine 50 mg/kg by intraperitoneal injection twice weekly
+  until tumor growth relapsed (approximately 6 weeks), indicating drug resistance.
+  (D) Relative expression level of LINC00460 in PDX tumor cells of the gemcitabine‐resistant/control
+  model was detected by qRT‐PCR. (E) Heatmap of 734 differentially expressed genes
+  in shControl (cyan) versus shLINC00460 (purple) (356 downregulated and 378 upregulated
+  (n = 4 and 8; all absolute fold change >2 or ≤2, p‐value < 0.01). (F) GO annotation
+  using genes whose differential expression is significant. (G) GSEA results showed
+  that cytokine‐mediated signaling pathway and growth factors were activated when
+  LINC00460 was knocked down.'
+article_title: Pancreatic ductal adenocarcinoma cells regulated the gemcitabine‐resistance
+  function of CAFs by LINC00460 .
+citation: Xiao‐Xu Zhu, et al. Cancer Sci. 2022 Nov;113(11):3735-3750.
+year: '2022'
+
+doi: 10.1111/cas.15547
+journal_title: Cancer Science
+journal_nlm_ta: Cancer Sci
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- cancer associated fibroblasts
+- gemcitabine‐resistance
+- LINC00460
+- pancreatic ductal adenocarcinoma
+- PDAP1
+
+---

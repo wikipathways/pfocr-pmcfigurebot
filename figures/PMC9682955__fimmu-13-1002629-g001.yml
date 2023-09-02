@@ -1,0 +1,41 @@
+---
+figid: PMC9682955__fimmu-13-1002629-g001
+pmcid: PMC9682955
+image_filename: fimmu-13-1002629-g001.jpg
+figure_link: /pmc/articles/PMC9682955/figure/f1/
+number: Figure 1
+figure_title: ''
+caption: 'Schematic diagram of ImmUniverse data integration strategy. Ulcerative colitis
+  and atopic dermatitis will be analyzed separately according to the same principle:
+  First, supervised multi-omics analysis will be performed to identify candidate prognostic
+  and predictive signatures from multi-omics analysis of single tissue data and evaluate
+  their performance in cross-validation (CV) or through publicly available data (as
+  available). Signatures will be then correlated between sample matrices to identify
+  ‘proxy’ – signatures in matrices suitable for clinical exploitation. Features from
+  prediction and correlation tasks will be pooled, mapped to pathways and ontologies
+  and prioritized on the basis of their importance for prediction, across-tissue correlation
+  and pathway annotation in a collaborative effort between project partners (clinicians,
+  biologists and bioinformaticians). Comparison between UC and AD will be done subsequently
+  on the basis of shared and specific pathways and ontologies. From these, interaction
+  networks and disease maps will be generated to describe the overlapping and unique
+  processes in the relevant tissue types. ISF, interstitial fluid.'
+article_title: 'ImmUniverse Consortium: Multi-omics integrative approach in personalized
+  medicine for immune-mediated inflammatory diseases.'
+citation: Stefania Vetrano, et al. Front Immunol. 2022;13:1002629.
+year: '2022'
+
+doi: 10.3389/fimmu.2022.1002629
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- ulcerative colitis
+- atopic dermatitis
+- omic analyses
+- immunomediated diseases
+- liquid biopsy
+- dOFM
+- LIPUS
+
+---

@@ -1,0 +1,38 @@
+---
+figid: PMC9652152__41388_2022_2482_Fig3_HTML
+pmcid: PMC9652152
+image_filename: 41388_2022_2482_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC9652152/figure/Fig3/
+number: Fig. 3
+figure_title: Identification and validation of Mcl-1 as a AKT and PI3Kβ inhibitor
+  sensitizer
+caption: A STRING network analysis of interactions between AZD8186 (left) and capivasertib
+  (right) sensitisation genes identified in at least two lines (n = 28 for AZD8186
+  and n = 15 for capivasertib). Node size corresponds to drug sensitization effect
+  (mean gRNA FC for each gene across cell lines). Node colour represents pathway or
+  function associated with gene. Smallest and largest node represents a FC of −1.5
+  and −8, respectively. Colour and size of node on STRING network were modified manually.
+  B Heatmap representing synergy scores from a 5-day combination proliferation assay
+  in EVSA-T, HCC70 and ZR-75-1 cells. Synergy scores determined using the Loewe additivity
+  model. C Apoptosis induction analysed by Annexin V staining after 2-hour treatment.
+  Data are mean ± SD; n = 3. D Crystal violet staining after 4-day treatment. E Western
+  blot analysis in EVSA-T (Ei) and HCC70 (Eii) treated with AZD5991, AZD8186, AZD4320
+  or in combination. Data shown is representative of two independent experiments.
+  For EVSA-T, 50 nM AZD5991, 500 nM AZD4320, 250 nM AZD8186 were used. For HCC70,
+  200 nM AZD5991, 100 nM AZD8186 and 500 nM AZD4320 were used.
+article_title: AKT-mTORC1 reactivation is the dominant resistance driver for PI3Kβ/AKT
+  inhibitors in PTEN-null breast cancer and can be overcome by combining with Mcl-1
+  inhibitors.
+citation: Shanade Dunn, et al. Oncogene. 2022;41(46):5046-5060.
+year: '2022'
+
+doi: 10.1038/s41388-022-02482-9
+journal_title: Oncogene
+journal_nlm_ta: Oncogene
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cancer therapeutic resistance
+- Target identification
+
+---

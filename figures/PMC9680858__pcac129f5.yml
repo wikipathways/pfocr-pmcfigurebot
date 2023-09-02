@@ -1,0 +1,45 @@
+---
+figid: PMC9680858__pcac129f5
+pmcid: PMC9680858
+image_filename: pcac129f5.jpg
+figure_link: /pmc/articles/PMC9680858/figure/F5/
+number: Fig. 5
+figure_title: ''
+caption: Functional network of the oil body genes and related enzyme genes. (A) The
+  biosynthetic pathways of terpenoids. Different colors indicate the subcellular location
+  of each pathway. Asterisks indicate genes represented in the functional network
+  (B). ACT, acetoacetyl-CoA thiolase; CMK, CDP-ME kinase; CPT, cis-prenyltransferase;
+  DMAPP, dimethylallyl diphosphate; DXR, 1-deoxy-d-xylulose 5-phosphate reductoisomerase;
+  FPP, farnesyl diphosphate; DXS, 1-deoxy-D-xylulose-5-phosphate synthase; FTPSL,
+  fungal-type terpene synthase-like; GPP, geranyl diphosphate; HDR, (E)-4-hydroxy-3-methylbut-2-enyl
+  diphosphate reductase; HDS, (E)-4-hydroxy-3-methylbut-2-enyl diphosphate synthase;
+  HMGR, 3-hydroxy-3-methylglutaryl-CoA reductase; HMGS, 3-hydroxy-3-methylglutaryl-CoA
+  synthase; IDI, isopentenyl diphosphate isomerase; IDS, isoprenyl diphosphate synthases;
+  IPP, isopentenyl diphosphate; MCT, 2-C-methyl-d-erythritol 4-phosphate cytidylyltransferase;
+  MDS, 2-C-methyl-d-erythritol 2,4-cyclodiphosphate synthase; MVD, mevalonate diphosphate
+  decarboxylase; MK, mevalonate kinase; MTPSL, microbial-type synthase-like; PMK,
+  phosphomevalonate kinase. (B) The functional network of the four marker genes for
+  oil bodies (dark green) and their functionally and transcriptionally associated
+  genes (light green). The shape of each gene represents the KOG annotation, as explained
+  on the MBEX website. (C) The UpSet plot of co-expressed genes with the four marker
+  genes. (D) Word cloud of the GO enrichment result of genes, shown in arbitrary colors,
+  that were co-expressed with at least three of the four marker genes. The size of
+  each word indicates the degree of enrichment. (E) Bar plot of Pfam enrichment genes
+  co-expressed with at least three of the four marker genes.
+article_title: 'MarpolBase Expression: A Web-Based, Comprehensive Platform for Visualization
+  and Analysis of Transcriptomes in the Liverwort Marchantia polymorpha.'
+citation: Shogo Kawamura, et al. Plant Cell Physiol. 2022 Nov;63(11):1745-1755.
+year: '2022'
+
+doi: 10.1093/pcp/pcac129
+journal_title: Plant and Cell Physiology
+journal_nlm_ta: Plant Cell Physiol
+publisher_name: Oxford University Press
+
+keywords:
+- Co-expression analysis
+- Gene network
+- Marchantia polymorpha
+- Transcriptome
+
+---

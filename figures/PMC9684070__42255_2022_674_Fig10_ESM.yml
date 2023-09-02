@@ -1,0 +1,45 @@
+---
+figid: PMC9684070__42255_2022_674_Fig10_ESM
+pmcid: PMC9684070
+image_filename: 42255_2022_674_Fig10_ESM.jpg
+figure_link: /pmc/articles/PMC9684070/figure/Fig10/
+number: Extended Data Fig. 3
+figure_title: Obesity induces ECM genes in adipose tissue ECs
+caption: (a-b) Top 5 enriched genes in (a) visceral and (b) subcutaneous AT EC clusters.
+  (c-d) Comparison of obesity-induced gene expression changes across EC clusters in
+  (c) visceral and (d) subcutaneous AT. Any gene showing a |log(FC)| > 0.1 in any
+  cluster was used to collate the list of genes used for these analyses. The numbers
+  show the Pearson’s r-value for each comparison. (e) BioPlanet-annotated pathways
+  enriched in DEGs in the cap2 versus cap1 population in visceral AT. Data are expressed
+  as -log10(p-adj). Genes significantly enriched (p-adj < 0.05) in cap2 versus cap1
+  ECs were used for this analysis. (f) Heatmap showing obesity-associated gene expression
+  changes in select ECM components. a – arteries + arterioles (art), c – capillaries,
+  v – veins + venules (ven). Art, capillary and ven ECs were defined using markers
+  outlined in Extended Data Fig. . (g) Heatmap showing gene expression changes in
+  the ‘Integrin signaling’ pathway in cap ECs. Cap ECs were defined using markers
+  outlined in Extended Data Fig. . (h-i) Quantification of (h) angiogenic and (i)
+  proliferating ECs in each of the 7 tissues. Top genes enriched in angiogenic and
+  proliferating ECs in the AT are provided in Extended Data Fig. 3a, b and Supplementary
+  Tables –. Data were analyzed using a two-sided χ2-test. (j) Obesity-associated changes
+  in the expression of genes associated with angiogenesis and proliferation in visceral
+  and sc AT capillary ECs. (k-l) BioPlanet-annotated terms significantly enriched
+  in genes (k) upregulated and (l) downregulated in LECs in visceral and sc AT. Data
+  are expressed as -log10(p-adj). Top 100 (k) up- and (l) downregulated genes, ranked
+  by log(FC), were used for these analyses. p-adj indicates adjustments for multiple
+  comparisons using the Benjamini-Hochberg method, FC – fold change. Differential
+  expression from scRNA-seq data is expressed on a natural log (loge) scale.
+article_title: Single-cell profiling of vascular endothelial cells reveals progressive
+  organ-specific vulnerabilities during obesity.
+citation: Olga Bondareva, et al. Nat Metab. 2022;4(11):1591-1610.
+year: '2022'
+
+doi: 10.1038/s42255-022-00674-x
+journal_title: Nature Metabolism
+journal_nlm_ta: Nat Metab
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Obesity
+- Vascular diseases
+
+---

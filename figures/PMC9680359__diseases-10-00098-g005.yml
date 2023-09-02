@@ -1,0 +1,30 @@
+---
+figid: PMC9680359__diseases-10-00098-g005
+pmcid: PMC9680359
+image_filename: diseases-10-00098-g005.jpg
+figure_link: /pmc/articles/PMC9680359/figure/diseases-10-00098-f005/
+number: Figure 5
+figure_title: ''
+caption: Enriched gene datasets containing HERV-PLS CREs. The dataset of 110 genes,
+  based on GENEMania analysis were used as an input in the Enrichr meta-analysis tool,
+  for enrichment in gene databases. Representative results from KEGG2021 Pathway Human,
+  KEGG2019 Pathway Mouse, Clinvar2019 and MirTarbase2017 are presented. The results
+  were visualized in Appyter tool. * denotes the level of statistical significance.
+article_title: A Systems Biology Approach on the Regulatory Footprint of Human Endogenous
+  Retroviruses (HERVs).
+citation: Georgios S. Markopoulos. Diseases. 2022 Dec;10(4):98.
+year: '2022'
+
+doi: 10.3390/diseases10040098
+journal_title: Diseases
+journal_nlm_ta: Diseases
+publisher_name: MDPI
+
+keywords:
+- endogenous retrovirus
+- regulatory networks
+- regulatory elements
+- systems biology
+- epigenetics
+
+---

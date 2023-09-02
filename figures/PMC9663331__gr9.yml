@@ -1,0 +1,33 @@
+---
+figid: PMC9663331__gr9
+pmcid: PMC9663331
+image_filename: gr9.jpg
+figure_link: /pmc/articles/PMC9663331/figure/fig9/
+number: Figure 9
+figure_title: ''
+caption: 'Inference of observable flux configurations for E. coli chemostat culturesExperimental
+  (x axis) v.s. model predicted (y axis) absolute relative fluxes, for a set of FBA
+  formulations and ME. All fluxes are normalized by the experimental glucose uptake.
+  The first row shows exchange fluxes reported in,,. The rest of the rows show some
+  inner fluxes reported in. Each row corresponds to a different dilution rate . The
+  last row includes all internal flux correlations. Different subsystems are signalized
+  by the shape of the marker, meanwhile different colors denote individual reactions.
+  The legend is as follows: acetate exchange (gray), CO2 exchange (blue square), glyoxylate
+  cycle (pink), pyruvate kinase  (dark green), Krebs cycle (diamond shaped), glycolysis
+  (circle shaped) and pentose phosphate pathway (triangle shaped).'
+article_title: 'Inference of metabolic fluxes in nutrient-limited continuous cultures:
+  A Maximum Entropy approach with the minimum information.'
+citation: José Antonio Pereiro-Morejón, et al. iScience. 2022 Dec 22;25(12):105450.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.105450
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Bioinformatics
+- Systems biology
+- Metabolic flux analysis
+
+---

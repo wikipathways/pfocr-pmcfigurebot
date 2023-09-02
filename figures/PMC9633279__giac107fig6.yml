@@ -1,0 +1,41 @@
+---
+figid: PMC9633279__giac107fig6
+pmcid: PMC9633279
+image_filename: giac107fig6.jpg
+figure_link: /pmc/articles/PMC9633279/figure/fig6/
+number: 'Figure 6:'
+figure_title: ''
+caption: Effects of LHX2 deletion sequence on reporter gene expression. (A) Phylogenetic
+  tree of 13 primates and ungulates for the detection of the 582-bp deleted sequence.
+  (B) Regulatory elements, epigenomic signals, and conservation scores on selective
+  sweep region in chromosome 11. The black box represents the deletion variant location
+  of LHX2. (C) The expression of LHX2, CRB2, and DENND1A in different stages of prenatal
+  skin in cashmere goats. Boxes of different colors are used to represent genes. The
+  expression data have been downloaded from a previous report []. (D) A dual-luciferase
+  assay using NIH3T3 cell and 293T cell shows the LHX2 upstream deletion sequence
+  blocks the activity of luciferase. Data are shown as the mean ± standard error.
+  The Pvalue was calculated using the Student ttest. (E) The molecular mechanisms
+  of cashmere fiber development. In detail, the deletion of the LHX2 insulator increases
+  the expression of LHX2 and promotes the cashmere fiber growth at the anagen stage,
+  and AR could participate in hair growth at the anagen stage through the IGF1 pathway
+  [], while the deletion of the 504-bp enhancer reduces the expression of FGF5, thereby
+  inhibiting growth regression; JAK2 and EDA2R may also participate in this stage
+  via the JAK/STAT and Wnt pathways, respectively.
+article_title: Selection signatures in goats reveal a novel deletion mutant underlying
+  cashmere yield and diameter.
+citation: Hu Han, et al. Gigascience. 2022;11:giac107.
+year: '2022'
+
+doi: 10.1093/gigascience/giac107
+journal_title: GigaScience
+journal_nlm_ta: Gigascience
+publisher_name: Oxford University Press
+
+keywords:
+- LHX2
+- selective sweep
+- insulator
+- whole genome sequencing
+- cashmere trait
+
+---

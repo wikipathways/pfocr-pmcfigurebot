@@ -1,0 +1,31 @@
+---
+figid: PMC8604792__nihms-1747689-f0002
+pmcid: PMC8604792
+image_filename: nihms-1747689-f0002.jpg
+figure_link: /pmc/articles/PMC8604792/figure/F2/
+number: 'Figure 2:'
+figure_title: ''
+caption: 'Results of network-based pathway enrichment analysis based on a breast cancer
+  data set. -values ( scale) of t-tests for group difference of each gene pathway:
+  a - compare REHE results against REML results; b - compare reREHE results against
+  REML results. Two out-of-range data points are omitted from the plots, which correspond
+  to: Glycosphingolipid biosynthesis - lacto and neolacto series pathway, with -value  by
+  REML,  by REHE,  by reREHE; and Caffeine metabolism pathway with -value  by REML,  by
+  REHE, and  by reREHE.'
+article_title: 'REHE: Fast Variance Components Estimation for Linear Mixed Models.'
+citation: Kun Yue, et al. Genet Epidemiol. ;45(8):891-905.
+year: '2023'
+
+doi: 10.1002/gepi.22432
+journal_title: Genetic epidemiology
+journal_nlm_ta: Genet Epidemiol
+publisher_name: ''
+
+keywords:
+- Genome-wide association study
+- Heritability study
+- Linear mixed model
+- Restricted Haseman-Elston regression
+- Variance component
+
+---

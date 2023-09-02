@@ -1,0 +1,35 @@
+---
+figid: PMC9675833__41419_2022_5428_Fig4_HTML
+pmcid: PMC9675833
+image_filename: 41419_2022_5428_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9675833/figure/Fig4/
+number: Fig. 4
+figure_title: mRNA expression of tuft cell-like small cell lung cancer (SCLC), pulmonary
+  large cell neuroendocrine carcinoma (LCNEC), and squamous cell carcinoma (SQCC)
+  ([, ], TCGA Nature 2012)
+caption: A Unsupervised mRNA expression clustering with the combined SCLC and LCNEC
+  cohort. B Significantly expressed genes in both tuft cell-like SCLC and LCNEC, compared
+  with the respective non-tuft cell-like counterparts (>2 folds, P < 0.05). POU2F3,
+  GFI1B, TRPM5, SOX9, ASCL2, AVIL, representative tuft cell genes; FOXI1, the master
+  regulator of ionocytes; BCL2, KIT, and MYC, well-known oncogenes; KRT5, a marker
+  of squamous differentiation, were included among the 92 genes. C FOXI1 mRNA expression
+  in tuft cell-like SCLC and LCNEC. The numbers of the y-axis indicate mRNA expression
+  Z score in SCLC and FPKM (fragments per kilobase of exon per million reads mapped)
+  in LCNEC. D The pathways and gene ontology (GO) analyses for upregulated genes in
+  tuft cell-like SCLC and LCNEC. Genes related to the Notch signaling pathway were
+  most significantly enriched.
+article_title: Pulmonary cancers across different histotypes share hybrid tuft cell/ionocyte-like
+  molecular features and potentially druggable vulnerabilities.
+citation: Yosuke Yamada, et al. Cell Death Dis. 2022 Nov;13(11):979.
+year: '2022'
+
+doi: 10.1038/s41419-022-05428-x
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Lung cancer
+- Oncogenes
+
+---

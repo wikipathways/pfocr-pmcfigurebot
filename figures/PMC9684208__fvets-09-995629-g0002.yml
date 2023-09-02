@@ -1,0 +1,34 @@
+---
+figid: PMC9684208__fvets-09-995629-g0002
+pmcid: PMC9684208
+image_filename: fvets-09-995629-g0002.jpg
+figure_link: /pmc/articles/PMC9684208/figure/F2/
+number: Figure 2
+figure_title: ''
+caption: Expression and functional enrichment analysis of DE-circRNAs. (A) Volcano
+  plots reveal the abundance of circRNAs in mammary epithelial cells of cows in the
+  HMF and LMF groups. (B) Clustering of the 100 circRNA expression profiles with the
+  most remarkable differences between the HMF and LMF groups. (C) Significantly enriched
+  DE-circRNAs and lipid metabolism-related GO term (each lattice represents a term,
+  the size of the lattice area represents how many genes are enriched for that term,
+  and color represents significance). (D) DE-circRNAs were enriched in signaling pathways
+  related to lipid metabolism (the size of the dots represents how many genes are
+  enriched in that pathway).
+article_title: CircRNA screening and ceRNA network construction for milk fat metabolism
+  in dairy cows.
+citation: Xiaofang Feng, et al. Front Vet Sci. 2022;9:995629.
+year: '2022'
+
+doi: 10.3389/fvets.2022.995629
+journal_title: Frontiers in Veterinary Science
+journal_nlm_ta: Front Vet Sci
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- dairy cows
+- circRNAs
+- milk fat percentage
+- ceRNAs
+- RNA-seq
+
+---

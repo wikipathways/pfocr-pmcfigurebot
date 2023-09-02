@@ -1,0 +1,40 @@
+---
+figid: PMC9671496__elife-79981-fig5
+pmcid: PMC9671496
+image_filename: elife-79981-fig5.jpg
+figure_link: /pmc/articles/PMC9671496/figure/fig5/
+number: Figure 5
+figure_title: Mycolic acids are required for CL31 infection
+caption: (A) Cartoon of the mycolic acid synthesis pathway. Proteins outlined in burgundy
+  were enriched for transposon insertions following CL31 challenge. (1) Long-chain
+  fatty acids are synthesized by FadD2 and the acyl-CoA carboxylase complex (ACC),
+  including PccB, for condensation by Pks. Concurrently, (2) OtsAB synthesizes trehalose
+  from UDP-glucose (UDP-G) and glucose-6-phosphate (G-6-P). (3) The mycolic acid is
+  attached to trehalose to form trehalose monomycolate (TMM) that is acetylated and
+  reduced before (4) being transported across the membrane by the transporters CmpL1
+  and CmpL4. Once in the periplasm, (5) TMM is then used as a substrate of the corynemycoloyltransferases
+  (CMTs), including Cmt1, to transfer the mycolate moieties to the arabinogalactan
+  or proteins. (B) Transposon sequencing (Tn-Seq) insertion profile for a locus encoding
+  core mycolic acid synthesis genes. (C) Validation of the Tn-Seq results for ostA.
+  Ten-fold serial dilutions of lysates for the indicated phages were prepared and
+  3 µL of each dilution were spotted on a lawn of the indicated host strain.
+article_title: Phage resistance profiling identifies new genes required for biogenesis
+  and modification of the corynebacterial cell envelope.
+citation: Amelia C McKitterick, et al. eLife. 2022;11:e79981.
+year: '2022'
+
+doi: 10.7554/eLife.79981
+journal_title: eLife
+journal_nlm_ta: eLife
+publisher_name: eLife Sciences Publications, Ltd
+
+keywords:
+- Corynebacterium
+- bacteriophage
+- mycolic acid
+- cell envelope
+- arabinogalactan
+- porin
+- Other
+
+---

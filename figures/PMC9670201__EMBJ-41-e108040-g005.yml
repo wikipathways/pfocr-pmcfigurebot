@@ -1,0 +1,40 @@
+---
+figid: PMC9670201__EMBJ-41-e108040-g005
+pmcid: PMC9670201
+image_filename: EMBJ-41-e108040-g005.jpg
+figure_link: /pmc/articles/PMC9670201/figure/embj2021108040-fig-0006ev/
+number: Figure EV6
+figure_title: Differentially expressed genes between DIS3 mutant and WT samples
+caption: Canonical Interferon signaling pathways by IPA. The abundance of transcripts
+  that are increased or decreased in DIS3 mutated samples are colored with various
+  intensities according to log2 fold change, represented in red or green, respectively.Differentially
+  expressed IFN‐related pathways (N = 14 out of 26 tested) between DIS3 mutant vs
+  DIS3 WT. Enrichment scores of each pathway were compared between DIS3 mutant vs
+  DIS3 WT using a t‐test. FDR is calculated using the Benjamini–Hochberg procedure.
+  Red color dots represent the median value in each group (88 DIS3 mutated DIS3, 765
+  DIS3 WT samples), the line the interquartile range.Log 2 expression of 72 IFN‐related
+  genes belonging to any of the 26 curated IFN signatures and IPA canonical IFN signaling
+  pathways were represented by violin plots (blue, DIS3 WT samples; orange, DIS3 mutant).
+  Red color dots represent the median in each group (88 DIS3 mutated DIS3, 765 DIS3
+  WT samples), the line the interquartile range.
+article_title: Loss of ribonuclease DIS3 hampers genome integrity in myeloma by disrupting
+  DNA:RNA hybrid metabolism.
+citation: Ilaria Gritti, et al. EMBO J. 2022 Nov;41(22):e108040.
+year: '2022'
+
+doi: 10.15252/embj.2021108040
+journal_title: The EMBO Journal
+journal_nlm_ta: EMBO J
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- DNA damage repair
+- DNA:RNA Hybrids
+- interferon
+- multiple myeloma
+- R‐loops
+- Cancer
+- DNA Replication, Recombination & Repair
+- RNA Biology
+
+---

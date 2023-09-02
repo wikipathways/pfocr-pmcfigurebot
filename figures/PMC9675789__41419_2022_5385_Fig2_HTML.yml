@@ -1,0 +1,32 @@
+---
+figid: PMC9675789__41419_2022_5385_Fig2_HTML
+pmcid: PMC9675789
+image_filename: 41419_2022_5385_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC9675789/figure/Fig2/
+number: Fig. 2
+figure_title: Cisplatin-induced dormant and reactivated lung cancer cells show distinct
+  gene expression profiles
+caption: The differential gene expression profiles were evaluated by RNA-seq. The
+  DEGs were subjected to KEGG pathway enrichment analysis between dormant cancer cells
+  and untreated cancer cells (A); between reactivated cancer cells and dormant cancer
+  cells (B); C The heatmap of the expression of significant genes in cell cycle, EMT
+  et al. between 3 cell phases induced by cisplatin; D GSEA analysis of differentially
+  expressed genes. Gene set enrichment analysis using “GSEA, KERLEY_RESPONSE_TO_CISPLATIN_UP”
+  was performed. P value < 0.001. The NES and FDR were shown. E The heatmap of the
+  expression of significant genes in cisplatin-resistance between 3 cell phases induced
+  by cisplatin.
+article_title: Cell-cell contact-driven EphB1 cis- and trans- signalings regulate
+  cancer stem cells enrichment after chemotherapy.
+citation: Lujuan Wang, et al. Cell Death Dis. 2022 Nov;13(11):980.
+year: '2022'
+
+doi: 10.1038/s41419-022-05385-5
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Non-small-cell lung cancer
+- Epithelial-mesenchymal transition
+
+---

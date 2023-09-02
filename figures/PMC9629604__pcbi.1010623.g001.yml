@@ -1,0 +1,35 @@
+---
+figid: PMC9629604__pcbi.1010623.g001
+pmcid: PMC9629604
+image_filename: pcbi.1010623.g001.jpg
+figure_link: /pmc/articles/PMC9629604/figure/pcbi.1010623.g001/
+number: Fig 1
+figure_title: IFN activation of the JAK-STAT signaling pathway
+caption: Free IFN binds to the IFNAR subunits 1 and 2 to form an active complex. After
+  IFNAR activation the signal is transduced inside the cytoplasm; here STAT1 and STAT2
+  are phosphorylated. Phosphorylated forms of STAT1 and STAT2 form a heterodimer (dimerSTAT).
+  dimerSTAT interacts with IRF9 to form ISGF3 (a trimolecular complex). ISGF3 translocates
+  to the nucleus. In the nucleus, ISGF3 binds to free transcription factor binding
+  sites (ISRE), inducing transcriptional activity leading to production of more IRF9
+  as a positive feedback and SOCS as a negative feedback given by the SOCS1 degradation
+  of active receptors. ISGF3 induces the expression of around 350 different ISGs,
+  including MxA and IFIT1. Additionally, there is a constitutive formation of STAT2-IRF9
+  heterodimers, that stimulate the expression of interferon-induced genes (ISGs) without
+  a signaling requirement (basal expression). The model consists of 42 species in
+  two compartments and 62 kinetic reactions and is fully described in the methods
+  section. In the figure, boxes represent the chemical species, empty symbols represent
+  degradation processes, arrows represent the reactions described in Section B.1 in
+  , initial conditions and parameters are given in Tables ,  and , respectively. The
+  pathway diagram was created with the Newt Editor [, ] following the Systems Biology
+  Graphical Notation (SBGN) [].
+article_title: Stochastic dynamics of Type-I interferon responses.
+citation: Benjamin D. Maier, et al. PLoS Comput Biol. 2022 Oct;18(10):e1010623.
+year: '2022'
+
+doi: 10.1371/journal.pcbi.1010623
+journal_title: PLOS Computational Biology
+journal_nlm_ta: PLoS Comput Biol
+publisher_name: Public Library of Science
+
+keywords:
+---

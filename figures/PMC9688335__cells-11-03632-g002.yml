@@ -1,0 +1,47 @@
+---
+figid: PMC9688335__cells-11-03632-g002
+pmcid: PMC9688335
+image_filename: cells-11-03632-g002.jpg
+figure_link: /pmc/articles/PMC9688335/figure/cells-11-03632-f002/
+number: Figure 2
+figure_title: ''
+caption: 'Characteristics of CRPC xenografts. (A) Growth trajectories of PDXs in the
+  first 600 days after engraftment. Each step marks a mouse-to-mouse transplantation.
+  Time from tumor engraftment to first mouse-to-mouse transplantation is indicated
+  by an arrow. (B) Histological architecture of PDXs (top panel) and original patient
+  tumors (bottom panel), examined by hematoxylin and eosin staining. Scale bars equal
+  100 µm. (C) CNA profiles of CRPC PDXs (PC2400, PC2412, PC2416, PC2416-DEC and PC2459),
+  HSPC PDXs (PC82, PC295 and PC310) and a normal prostate tissue control from an unmatched
+  source, across a subset of genes and genomic regions recurrently altered in CRPC.
+  Grouping per biological pathway. Amplifications (blue), homozygous deletions (red),
+  partial losses (yellow) and unaltered regions (grey) are indicated based on ASCAT
+  analysis of SNP array data (n = 1 for each PDX). ASCAT analysis failed for PC2412
+  PDX due to sample complexity. All PC2412 CNA calls were determined manually except
+  for the region 10q with complex rearrangements (white). CNA frequency bar plots
+  are provided for each PDX (top panel) and each genomic region (right panel). Additional
+  alterations present in PC2416-DEC PDX, as compared to PC2416 PDX are marked with
+  a white asterisk. (D) t-SNE plot of pathway activity in CRPC PDXs (PC2400 (n = 5),
+  PC2412 (n = 5), PC2416 (n = 5), PC2416-DEC (n = 5) and PC2459 (n = 3); red) and
+  HSPC PDXs (PC82 (n = 2), PC295 (n = 2), PC310 (n = 7); blue), based on GSVA scores
+  for 50 MSigDB cancer hallmark gene sets, using RNA sequencing data. (E) Nuclear
+  ERG staining in PC2459 PDX. Scale bar indicates 100 µm. (F) Copy number profile
+  of chromosome 21 in PC2459 PDX, displaying the ERG and TMPRSS2 genes on 21q22.2-3.
+  BAF: B allele frequency; LRR: log R ratio; CN: total copy number.'
+article_title: Patient-Derived Xenografts and Organoids Recapitulate Castration-Resistant
+  Prostate Cancer with Sustained Androgen Receptor Signaling.
+citation: Annelies Van Hemelryk, et al. Cells. 2022 Nov;11(22):3632.
+year: '2022'
+
+doi: 10.3390/cells11223632
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- castration-resistant prostate cancer
+- patient-derived xenografts
+- organoids
+- androgen receptor
+- drug testing
+
+---

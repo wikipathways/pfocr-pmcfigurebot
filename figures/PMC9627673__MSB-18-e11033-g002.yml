@@ -1,0 +1,38 @@
+---
+figid: PMC9627673__MSB-18-e11033-g002
+pmcid: PMC9627673
+image_filename: MSB-18-e11033-g002.jpg
+figure_link: /pmc/articles/PMC9627673/figure/msb202211033-fig-0004/
+number: Figure 4
+figure_title: Differential pathway utilization inferred by 13C labeling analysis
+caption: Schematic representation of fractional difference, difference between each
+  metabolite fractional contribution (percentage of 13C labeled) subtracted between
+  type 1 and type 2. The metabolites are ranked by their fractional difference, where
+  positive values are associated with higher labeling in type 1 and negative values
+  with higher labeling in type 2. The bar plot bellow indicates the position of metabolites
+  of TCA cycle, where seven metabolites out of 11 were more labeled in type 2.Metabolic
+  pathways enrichment computed using metabolites fractional differences. Pathways
+  associated to higher labeling in type 1 are displayed in blue and in type 2 in red
+  (cell lines n = 9 with three biological replicates, hypergeometric test corrected
+  for FDR). Results of labeling experiment using [U‐13C]glucose or [U‐13C]glutamine
+  denoted on top of heatmap.
+article_title: A functional analysis of 180 cancer cell lines reveals conserved intrinsic
+  metabolic programs.
+citation: Sarah Cherkaoui, et al. Mol Syst Biol. 2022 Nov;18(11):e11033.
+year: '2022'
+
+doi: 10.15252/msb.202211033
+journal_title: Molecular Systems Biology
+journal_nlm_ta: Mol Syst Biol
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- cancer metabolism
+- cell lines
+- metabolomics
+- metabolic flux
+- omics
+- Cancer
+- Metabolism
+
+---

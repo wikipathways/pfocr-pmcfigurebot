@@ -1,0 +1,56 @@
+---
+figid: PMC9638859__EMBR-23-e54421-g006
+pmcid: PMC9638859
+image_filename: EMBR-23-e54421-g006.jpg
+figure_link: /pmc/articles/PMC9638859/figure/embr202154421-fig-0003ev/
+number: Figure EV3
+figure_title: Nanog enhances the expression of FGF autocrine signaling pathway components
+caption: 'A Browser tracks of NANOG enrichment in Fragment Per Kilobase of transcripts
+  per Million (FPKM) in Oct4+/+ cells (normal NANOG levels) and Oct4+/− cells (higher
+  NANOG levels at Fgf4, Fgfbp1, Fgfr1, and Fgfr2 loci) (Data ref: Karwacki‐Neisius
+  et al, ).B Histogram of FGFR1 expression on the cell surface analyzed by immunostaining
+  and FACS of fixed but unpermeabilized TNERT cells treated with (red) or no OHT (blue).
+  The dotted line represents the FACS profile of E14Tg2a cells stained with control
+  IgG and secondary antibody used as negative control (−ve c).C Relative expression
+  levels of pERK, FGFR2, and FGFR1 at indicated time points after OHT treatment in
+  TNERT cells (n > 3).D ELISA‐based relative quantification of FGF4 and FGFBP1in media
+  from EDiN cells cultured with or no Doxycycline (n = 3). EDiN cell was generated
+  by introducing a Doxycycline inducible Flag‐Avi‐NANOG transgene in E14Tg2a cells.E
+  Nanog:GFP population median of Tβc44Cre6 treated with OHT‐induced conditioned media
+  collected after different time points (n = 3).F (top) Schematic of TNERTZfp281−/−
+  cells, (upper‐middle) CRISPR‐based paired guide knock‐out strategy indicating the
+  relative position of the sgRNAs, FP and RP indicate the genotyping primers. (Lower
+  middle) Genotyping PCR indicating +/− and −/− clones. (Bottom) The sequencing chromatogram
+  of the deleted region confirms the exact site of deletion, followed by RT‐qPCR analysis
+  of the Zfp281 transcripts.G Nanog:GFP population median of Tβc44Cre6 treated with
+  conditioned media from TNERT + OHT 0 h, TNERTFGF4−/− + OHT 48 h, Tβc44Cre6 48 h,
+  E14Tg2a‐FGF4‐OE (overexpression) 48 h, TNERT + OHT 48 h and 50 ng/ml FGF4 (n = 3).H,
+  I ELISA‐based relative quantities of FGF4 and FGFBP1 in media from TNERT after 18,
+  24, and 48 h of OHT treatment (n = 3).J ELISA‐based relative quantities of FGF4
+  in conditioned media from cell lines—TNERT + OHT 0 h, TNERTFGF4−/− + OHT 48 h, E14Tg2a‐FGF4‐OE
+  48 h (overexpression), TNERT−/+OHT 48 h, and 50 ng/ml FGF4 (n = 3).K ELISA‐based
+  relative quantities of FGFBP1 in conditioned media from various cell lines—TNERT + OHT
+  0 h, TNERT‐Fgfbp1−/− 48 h + OHT, TNERT 48 h −/+OHT, and 50 ng/ml FGBP1 (n = 3).Data
+  information: n ≥ 3 biological replicates (each dot represents a biological replicate).
+  Data are presented as mean ± SEM in C and D–K. *P < 0.05, **P < 0.01, ***P < 0.001,
+  ****P < 0.0001 and ns = not significant (paired two‐tailed Student''s t‐test).'
+article_title: A NANOG‐pERK reciprocal regulatory circuit regulates Nanog autoregulation
+  and ERK signaling dynamics.
+citation: Hanuman T Kale, et al. EMBO Rep. 2022 Nov;23(11):e54421.
+year: '2022'
+
+doi: 10.15252/embr.202154421
+journal_title: EMBO Reports
+journal_nlm_ta: EMBO Rep
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- autoregulation
+- ERK
+- ESC
+- FGFR2
+- Nanog
+- Signal Transduction
+- Stem Cells & Regenerative Medicine
+
+---

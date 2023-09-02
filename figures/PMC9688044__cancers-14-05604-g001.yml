@@ -1,0 +1,41 @@
+---
+figid: PMC9688044__cancers-14-05604-g001
+pmcid: PMC9688044
+image_filename: cancers-14-05604-g001.jpg
+figure_link: /pmc/articles/PMC9688044/figure/cancers-14-05604-f001/
+number: Figure 1
+figure_title: ''
+caption: 'Evaluation of the performance of drug response prediction when using only
+  panel-seq features (mutations and/or copy number variations) or using transcriptome
+  features in combination with panel-seq features (multi-omics). (A) Improvement of
+  multi-omics (as in R-square metric) in comparison to panel-seq features for the
+  testing portion of BeatAML (left panel) and CCLE (right panel) datasets for 106
+  and 396 drugs, respectively. (B) Correlation of the prediction performance improvement
+  (multi-omics vs. panel-seq) with respect to the proportion of transcriptome features
+  among the top 100 most important predictors of drug response for CCLE datasets.
+  (C) Improvement of multi-omics (in red) (as in R-square metric) in comparison to
+  panel-seq features (in blue) for the testing portion of the PDX dataset for 12 drugs.
+  Stars above the boxplots represent significance levels: *** for p < 0.001, ** for
+  p < 0.01, * for p < 0.05. (D) Drug classes with loose pathway specificity show higher
+  average improvement in MO over PS. Drug classes (y-axis) are ordered by average
+  improvement in MO and filtered to keep only those that have a minimum of five drugs
+  in a class. The dashed line corresponds to the global average improvement in MO
+  (0.051) as reported in figure panel (C).'
+article_title: Multi-Omics Alleviates the Limitations of Panel Sequencing for Cancer
+  Drug Response Prediction.
+citation: Artem Baranovskii, et al. Cancers (Basel). 2022 Nov;14(22):5604.
+year: '2022'
+
+doi: 10.3390/cancers14225604
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- multi-omics
+- cancer
+- drug response prediction
+- pharmacogenomics
+- panel sequencing
+
+---

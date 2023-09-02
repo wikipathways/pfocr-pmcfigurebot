@@ -1,0 +1,32 @@
+---
+figid: PMC9682178__fgene-13-966365-g007
+pmcid: PMC9682178
+image_filename: fgene-13-966365-g007.jpg
+figure_link: /pmc/articles/PMC9682178/figure/F7/
+number: FIGURE 7
+figure_title: ''
+caption: KEGG and GO enrichment analysis of differentially expressed genes between
+  high and low expression of ERBB2 groups. (A) 146 ERBB2-related differentially expressed
+  genes were enriched in KEGG signaling pathways and GO annotations, such as the primary
+  immunodeficiency. (B) GSEA analysis of 19433 protein-coding genes and 146 ERBB2-related
+  differentially expressed genes showed that the genes involved in the primary immunodeficiency
+  pathway were mainly 23 down-regulated genes in the ERBB2 high expression group;
+  Gene expression was sorted by log2 (fold change).
+article_title: ERBB2 as a prognostic biomarker correlates with immune infiltrates
+  in papillary thyroid cancer.
+citation: Yuchen Jin, et al. Front Genet. 2022;13:966365.
+year: '2022'
+
+doi: 10.3389/fgene.2022.966365
+journal_title: Frontiers in Genetics
+journal_nlm_ta: Front Genet
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- ERBB2
+- prognosis
+- biomarker
+- immune microenviroment
+- papillary thyroid cancer
+
+---

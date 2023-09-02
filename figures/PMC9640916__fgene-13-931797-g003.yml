@@ -1,0 +1,42 @@
+---
+figid: PMC9640916__fgene-13-931797-g003
+pmcid: PMC9640916
+image_filename: fgene-13-931797-g003.jpg
+figure_link: /pmc/articles/PMC9640916/figure/F3/
+number: FIGURE 3
+figure_title: ''
+caption: 'Screening for target mRNA with decreasing expression from the anagen to
+  telogen phase in murine hair follicle cycle. (A) Construction of the miRNA-mRNA
+  network. The miRNA-mRNA interactions were experimentally validated in previous studies.
+  (B) The GO enrichment analysis of target mRNAs on biological processes, cellular
+  component, and molecular function. (C) The KEGG pathway enrichment analysis of target
+  mRNAs. (D) The PPI network analysis of target mRNAs. (E) Volcano plot shows differentially
+  expressed mRNAs between telogen and anagen phases in the GSE1912 data set. (F) The
+  intersection of downregulated mRNAs and target mRNAs. (G) Heatmap shows target mRNAs
+  with decreasing expression from the anagen to telogen phase in the GSE1912 data
+  set. (H) Validation of identified target mRNAs with a decrease in expression using
+  another data set: GSE11186. The expression of Atp6v1a, Cacna2d3, Cdkn1a, Gadd45a,
+  Gspt1, Mafb, Mitf, Notch1, Plk2, Runx1, Slc7a5, and Sox5 at P23-P44 of murine hair
+  follicle cycle. (I) Validation of screened target mRNAs using RT-qPCR. The expression
+  of Atp6v1a, Cacna2d3, Cdkn1a, Gadd45a, Gspt1, Mafb, Mitf, Notch1, Plk2, and Slc7a5
+  at different stages of murine hair follicle cycle. *, p < 0.05; **, p < 0.01; ***,
+  p < 0.001; ****, p < 0.0001. GO, Gene Ontology; KEGG, Kyoto Encyclopedia of Genes
+  and Genomes; PPI, protein–protein interactions; p, postnatal.'
+article_title: An integrative analysis of the lncRNA-miRNA-mRNA competitive endogenous
+  RNA network reveals potential mechanisms in the murine hair follicle cycle.
+citation: Yuxin Ding, et al. Front Genet. 2022;13:931797.
+year: '2022'
+
+doi: 10.3389/fgene.2022.931797
+journal_title: Frontiers in Genetics
+journal_nlm_ta: Front Genet
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- hair follicle cycle
+- murine hair follicle
+- androgenetic alopecia
+- noncoding RNA
+- ceRNA
+
+---

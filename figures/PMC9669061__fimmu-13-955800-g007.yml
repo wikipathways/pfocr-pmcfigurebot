@@ -1,0 +1,36 @@
+---
+figid: PMC9669061__fimmu-13-955800-g007
+pmcid: PMC9669061
+image_filename: fimmu-13-955800-g007.jpg
+figure_link: /pmc/articles/PMC9669061/figure/f7/
+number: Figure 7
+figure_title: ''
+caption: Correlation between the SMO mutation status and signaling pathways. (A) Gene
+  set enrichment analysis (GSEA) of Gene Ontology biological process (GO-BP), Hallmark,
+  and Reactome gene sets downloaded from MSigDB. In each panel, the gene sets marked
+  on the left were enriched in the SMO mutant (SMO_MUT) group, while the pathways
+  marked on the right were enriched in the SMO wild-type (SMO_WT) group. Each run
+  was performed with 1,000 permutations. (B, C) Differences in pathway activities
+  scored using GSEA (B) and gene set variation analysis (GSVA) (C) between the SMO_MUT
+  and SMO_WT tumors in The Cancer Genome Atlas (TCGA) cohort. Enrichment results with
+  significant associations between the SMO_MUT and SMO_WT tumors are shown. In (B),
+  the blue bar indicates that the enrichment score (ES) of the pathway is more than
+  0, while the yellow bar indicates that the ES of the pathway is less than 0.
+article_title: 'SMO mutation predicts the effect of immune checkpoint inhibitor: From
+  NSCLC to multiple cancers.'
+citation: Wenxiang Ji, et al. Front Immunol. 2022;13:955800.
+year: '2022'
+
+doi: 10.3389/fimmu.2022.955800
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- SMO
+- immune checkpoint inhibitor
+- pan-cancers
+- tumor immune microenvironment (TIME)
+- biomarker
+
+---

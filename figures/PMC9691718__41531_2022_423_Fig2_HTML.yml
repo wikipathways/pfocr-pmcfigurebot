@@ -1,0 +1,39 @@
+---
+figid: PMC9691718__41531_2022_423_Fig2_HTML
+pmcid: PMC9691718
+image_filename: 41531_2022_423_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC9691718/figure/Fig2/
+number: Fig. 2
+figure_title: RNA velocity demonstrates developmental streams from NPCs into mDA neurons
+  reminiscent of a developing midbrain
+caption: a Rank abundance plot showing copy number of proteins from proteomic analysis
+  with expression of mDA proteins in blue and PD-linked proteins in red. b PCA visualises
+  the progression from precursor cells (NPCs) (yellow-red colours) towards mDA neuronal
+  cells (blue colours). RNA velocity trajectories are indicated by arrows. c Velocity
+  stream visualised in UMAP reveals a more detailed progression of the direction of
+  differentiation. d PAGA graph showing the NPC cluster transition into mDA neuron
+  clusters. e Velocity inferred latent time analysis visualised in UMAP, showing mDA
+  clusters are later (brighter colour) in time than NPC clusters (darker colours).
+  f A heatmap listing a selection of cluster driver genes sorted according to their
+  inferred latent time. g, h GO enrichment analysis to clarify gene categories per
+  cell cluster based on the functional characteristics of the driver genes. g Example
+  of GO enrichment of two NPC clusters showing that some clusters are more proliferative
+  (left graph), and some are more differentiated and on the neuronal pathway (right
+  graph). h Example of two mDA neuron clusters showing complex neuronal pathways which
+  are highly activated.
+article_title: Protein aggregation and calcium dysregulation are hallmarks of familial
+  Parkinson’s disease in midbrain dopaminergic neurons.
+citation: Gurvir S. Virdi, et al. NPJ Parkinsons Dis. 2022;8:162.
+year: '2022'
+
+doi: 10.1038/s41531-022-00423-7
+journal_title: NPJ Parkinson's Disease
+journal_nlm_ta: NPJ Parkinsons Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cellular neuroscience
+- Stem-cell differentiation
+- Induced pluripotent stem cells
+
+---

@@ -1,0 +1,54 @@
+---
+figid: PMC9681748__41467_2022_34059_Fig5_HTML
+pmcid: PMC9681748
+image_filename: 41467_2022_34059_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC9681748/figure/Fig5/
+number: Fig. 5
+figure_title: Fgfr2 pathway prevents AT2 reprogramming to AT1 after birth
+caption: a scRNAseq of adult AT2 cells. Expression of Fgfr2, downstream transcription
+  factor Etv5, and target genes indicates pathway remains on after birth. AT2, AT2
+  markers; Ubiq, ubiquitously-expressed genes. b, c AT2 in adult (PN60) Sftpc-CreER;Rosa26-mTmG
+  mouse tamoxifen-induced to label AT2 (GFP) and co-stained for Fgfr2 (b) or phosphorylated
+  MAP kinase (pMAPK) to show pathway activity (c). Blue, DAPI counterstain. Bars,
+  10 µm. d Quantification of b, c. Nearly all labeled cells (GFP+) express AT2 marker
+  (Muc1) and Fgfr2, and show Fgfr2 activity (pMAPK+). n = 300 GFP+ cells scored (three
+  animals). e Fgfr2 ligand expression (scRNAseq) in lung stromal cells. f AT2 in adult
+  Sftpc-CreER;Rosa26-mTmG mouse tamoxifen-induced to label AT2 (GFP+) and co-stained
+  for Fgfr2 (isoform iiib) ligand-binding domain to show Fgfr2 ligands (ligands identified
+  in Supplementary Fig. ). Blue, DAPI. Bar, 10 µm. g smFISH (Fgf7, Fgf10, Sftpc) in
+  adult (PN60) lung. Cell neighboring AT2 co-expresses Fgf7 (white dots) and Fgf10
+  (red dots) (enlarged in inset). Blue, DAPI; arrowhead, AT2. Bar, 5 µm. h, i Quantification
+  of g showing the density of Fgf-expressing and AT2 cells (h, ***p = 4.8 × 10−5,
+  Student’s two-sided t-test, data shown as mean ± SD) and distance between them (i,
+  ***p = 2.9 × 10−50, Mann Whitney, boxplot shows minimum, maximum, first quartile,
+  second quartile (median), and third quartile). n = 182 AT2, 103 Fgf+ cells scored
+  (four animals). (Values indicate Fgf availability and how many AT2 it supports,
+  and how far each Fgf-expressing cell must extend (or ligand diffuse) for support).
+  j–o Alveolar region of LyzM-Cre;Rosa26-mTmG;Fgfr2fl/+ (j–l) or LyzM-Cre;Rosa26-mTmG;Fgfr2fl/fl
+  (m–o) mice (ages indicated) immunostained for Cre reporter (mTmG), AT2 (Muc1), and
+  macrophage (Mac2, distinguishes GFP-labeled macrophages) markers. LyzM-Cre becomes
+  active in AT2 in early postnatal life, activating the GFP reporter and deleting
+  Fgfr2fl. Control GFPpos AT2 cells carry a wild-type Fgfr2 allele (Fgfr2fl/+, j–l)
+  and remain AT2 (inset in l), whereas those lacking Fgfr2 (Fgfr2fl/fl, m–o) convert
+  to AT1 (arrowheads, inset in o). Bar, 50 µm. p–r Quantification (mean ± SD) of j–o
+  showing increasing Cre activity in AT2 in early postnatal life (p) and identities
+  of GFPpos cells in control (q) and following Fgfr2 loss (r). n = 300 GFPpos cells
+  scored (three animals) per timepoint/condition; *p = 0.01 for (p) and ***p = 0.0002
+  for (r) (Student’s two-sided t-test, time series end vs. start).
+article_title: Alveolar cell fate selection and lifelong maintenance of AT2 cells
+  by FGF signaling.
+citation: Douglas G. Brownfield, et al. Nat Commun. 2022;13:7137.
+year: '2022'
+
+doi: 10.1038/s41467-022-34059-1
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Differentiation
+- Cell lineage
+- Cell signalling
+- Self-renewal
+
+---

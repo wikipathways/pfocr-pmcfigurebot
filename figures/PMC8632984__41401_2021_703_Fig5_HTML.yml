@@ -1,0 +1,54 @@
+---
+figid: PMC8632984__41401_2021_703_Fig5_HTML
+pmcid: PMC8632984
+image_filename: 41401_2021_703_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC8632984/figure/Fig5/
+number: Fig. 5
+figure_title: RNA-seq analysis of mouse cardiac tissues
+caption: C57BL/6J mice received darapladib (50 mg·kg−1·d−1) or vehicle by gavage and
+  were infused with saline or Ang II (1500 ng·kg−1·min−1) for 7 days. Hearts were
+  collected for RNA-seq analysis. a Heatmap of differentially expressed genes that
+  were both significantly changed in Ang II (compared to saline) and darapladib+Ang
+  II (compared to Ang II) groups. Each column represents an individual replicate,
+  with three replicates per group. Each row represents an individual gene. The top
+  of the heatmap is the cluster of genes that are upregulated in Ang II-infused hearts
+  compared with saline-infused hearts and those that are downregulated in darpladib + Ang
+  II hearts, whereas the bottom is the cluster of genes that are downregulated in
+  Ang II-infused hearts compared with saline-infused hearts and those that are upregulated
+  in darapladib + Ang II hearts. The color bar represents the relative gene expression
+  of log-transformed and normalized fragments per kilobase of transcript per million
+  mapped reads (FPKM). Upregulated genes are shown in red, and downregulated genes
+  are shown in blue. b Volcano plot shows the fold change and the significance of
+  genes that were altered in darapladib+Ang II hearts vs. Ang II hearts. Upregulated
+  genes are plotted in red, downregulated genes are plotted in blue, and genes not
+  significant are plotted in gray. GO analysis of biological processes for the genes
+  upregulated in the Ang II group compared with the saline group (c), and the genes
+  downregulated in the darapladib+Ang II group compared with the Ang II group (d).
+  Significantly changed ontology terms are mainly involved in inflammation, proliferation,
+  fibrosis, and several fibrotic signaling pathways (c, d). KEGG pathway analysis
+  of upregulated genes in the Ang II group compared with the saline group (e) and
+  downregulated genes in the darapladib + Ang II group compared with the Ang II group
+  (f). Significantly changed signaling pathways are mainly involved in inflammation,
+  proliferation, and fibrosis (e, f). NS indicates not significant. P adj < 0.05 is
+  considered to be different.
+article_title: Lp-PLA2 inhibition prevents Ang II-induced cardiac inflammation and
+  fibrosis by blocking macrophage NLRP3 inflammasome activation.
+citation: Si-lin Lv, et al. Acta Pharmacol Sin. 2021 Dec;42(12):2016-2032.
+year: '2021'
+
+doi: 10.1038/s41401-021-00703-7
+journal_title: Acta Pharmacologica Sinica
+journal_nlm_ta: Acta Pharmacol Sin
+publisher_name: Springer Singapore
+
+keywords:
+- NLRP3 inflammasome
+- lipoprotein-associated phospholipase A2
+- macrophage
+- cardiac inflammation
+- hypertension
+- cardiac fibrosis
+- angiotensin II
+- darapladib
+
+---

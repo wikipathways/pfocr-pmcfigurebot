@@ -1,0 +1,63 @@
+---
+figid: PMC9684461__41467_2022_34417_Fig4_HTML
+pmcid: PMC9684461
+image_filename: 41467_2022_34417_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9684461/figure/Fig4/
+number: Fig. 4
+figure_title: Kap120 recognizes Xrn1 NLSs
+caption: a Interaction of Kap120 with Xrn1 is mediated by its NLSs. Affinity purified
+  FLAG-tagged Xrn1 or its mutant derivative, Xrn1ΔNLS1/2, and recombinant Kap120-6xHis
+  that had been purified with Ni-NTA column were mixed together and co-IPed with Ni-NTA
+  column, followed by Western blotting. Xrn1-FLAG intensity was normalized to Kap120
+  intensity, defining Xrn1WT/Kap120 as 100%. n = 3 biologically independent experiments.
+  Error bars represent standard deviation (S.D.). p values were determined by two-tailed
+  unpaired t-test. b Kap120 binds both Xrn1 NLSs. Experiment shown in a was repeated
+  three times. Xrn1-FLAG intensity was normalized to Kap120 intensity, defining arbitrarily
+  Xrn1ΔNLS2/Kap120 as 100%. n = 3 biologically independent experiments. Error bars
+  represent standard deviation (S.D.). p-values were determined by two-tailed unpaired
+  t-test. c Xrn1 interaction with Kap120 is mediated by NLSs in optimally proliferating
+  cells. TAP-tagged Kap120 was affinity purified with IgG-sepharose and the co-IPed
+  proteins were subjected to Western blotting. Quantification is shown in d. d NLS1/2
+  are required for efficient co-IP with Kap120 of Xrn1 and other DFs. The membrane
+  shown in c and two more membranes of additional replicates were also decorated with
+  anti-Pat1 and anti-Dhh1 antibodies. Signals (minus that of the no-tag control) were
+  normalized to that of Kap120. The normalized WT signal was defined as 100%. n = 3
+  (for Xrn1), n = 2 (for Dhh1 and Pat1) biologically independent experiments. Error
+  bars represent standard deviation (S.D.). p values were determined by two-tailed
+  unpaired t-test. e Kap120 is used for efficient import of TailS454P-GFP. Optimally
+  proliferating WT or Δkap120 cells expressing TailS454P-GFP and NUP49-mCherry (to
+  mark the nucleus) were inspected microscopically. The nuclear/whole-cell ratio of
+  the fluorescent signal was determined by ImageJ, see Methods. The mean ratio (Mean
+  nuclear intensity/Mean whole-cell intensity) is represented in a jittered box-plot.
+  Each box represents the 25th to 75th percentile of values, with the median noted
+  by the horizontal bar. Whiskers terminate at maxima/minima or a distance of 1.5
+  times the inter quartile range (IQR) away from the upper/lower quartile, whichever
+  is closer. The p-value was calculated using Wilcoxon rank sum test (**** - ≤ 0.0001)
+  f RNA blocks Xrn1-Kap120 interaction. Interaction between purified Kap120-6xHis
+  and FLAG-tagged Xrn1 carrying mutations in indicated NLS, was determine as in a,
+  except that EDTA (to inactivate Xrn1) and increasing amounts of 40 b RNA were included.
+  Xrn1-Kap120 complexes were affinity purified by anti-FLAG antibodies and analysed
+  and quantified as in a. n = >100 cells examined over 3 independent experiments.
+  Error bars represent standard deviation (S.D.). g Deletion of KAP120 affects mRNA
+  synthesis and decay, but not mRNA level. Genomic Run-On (GRO) analysis was performed
+  (n = 3), as described in Method. Box and whisker plot of the median levels (in arbitrary
+  units) of synthesis rate (SR), half-lives (HLs) and mRNA abundance (RA). Each box
+  represents the 25th to 75th percentile of values, with the median noted by the horizontal
+  bar. Whiskers terminate at maxima/minima or a distance of 1.5 times the IQR away
+  from the upper/lower quartile, whichever is closer. P value was calculated by Wilcoxon
+  rank sum test (p < 0.001).
+article_title: RNA-controlled nucleocytoplasmic shuttling of mRNA decay factors regulates
+  mRNA synthesis and a novel mRNA decay pathway.
+citation: Shiladitya Chattopadhyay, et al. Nat Commun. 2022;13:7184.
+year: '2022'
+
+doi: 10.1038/s41467-022-34417-z
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Molecular biology
+- RNA decay
+
+---

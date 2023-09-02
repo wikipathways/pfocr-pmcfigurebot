@@ -1,0 +1,67 @@
+---
+figid: PMC9654807__cancers-14-05305-g001
+pmcid: PMC9654807
+image_filename: cancers-14-05305-g001.jpg
+figure_link: /pmc/articles/PMC9654807/figure/cancers-14-05305-f001/
+number: Figure 1
+figure_title: ''
+caption: 'Summary of the six main mechanisms responsible for the DDR. (A) Mismatch
+  repair: At the beginning of the process of the mismatch repair, mispaired bases
+  are recognized by the sliding clamp MutSα homolog (MSH2:MSH6). Subsequently, the
+  MLH1:PMS2complex is recruited for the incision, followed by the excision of the
+  damage by exonuclease-1, resulting in a gap, which is then filled by Polδ and DNA
+  ligase I. (B) BER: This pathway is responsible for the removal of small covalent
+  modifications. These lesions are recognized by one of the specific DNA glycosylases
+  and then hydrolyzed by AP-endonuclease (APE). PARP1 is recruited by nicked DNA due
+  to APE1 and aid in DNA repair. If a single nucleotide is damaged, then the shortpatch
+  BER pathway repairs it. The long-patch BER pathway is responsible for the repair
+  of a lesion of at least two nucleotides. (C) Homologous recombination: This pathway
+  is involved in the repair of the double-strand breaks and is carried out in late
+  S and G2 phases when the homologous sister chromatid can be used as a template.
+  In this process, ATM facilitates the activity of MRN complex at the site of DNA
+  damage. The MRN complex then resects DNA from the dsDNA break site and the DNA strand
+  is digested. As a result, single-stranded DNA is produced and RPA binds to it. BRCA1
+  and BRCA2 proteins (linked by PALB2 protein) control Rad51 that facilitates the
+  search for a homologous DNA sequence and the formation of a D-loop. DNA polymerase
+  eta finishes this process. (D) NHEJ: This pathway is involved in DSB repair but
+  does not require a homologous template. Two free DNA ends are bound by Ku70/Ku80
+  heterodimer, DNA-PK is then utilized, and an active catalytic complex is formed.
+  Subsequently, artemis endonuclease is also recruited for the endonucleolytic cleavage,
+  then the Ligase IV/XRCC4 complex ligates DNA ends. A sub-pathway of NHEJ, which
+  is an alternative end-joining, utilizes the Pol θ, PARP1 and MRN complex for DNA
+  repair. (E) NER: This pathway is divided into two sub-pathways based on the DNA
+  damage recognition step. Global genome nucleotide excision repair (GG-NER) detects
+  and eliminates bulky DNA excisions throughout the genome, including non-transcribed
+  regions and silent chromatin. In this pathway, XPC-RAD23B complex recognizes DNA
+  lesions and recruits downstream factors. Transcription-coupled NER (TC-NER) operates
+  when a transcribed DNA strand is damaged, limiting transcription activity. TC-NER
+  is triggered by RNAPIIo-bound Cockayne Syndrome Group B (CSB) protein, which recruits
+  CSA via the CSA-interaction motif (CIM). Once recruited, CSA facilitates UVSSA’s
+  association with stalled RNA Pol II (RNA P IIo). UVSSA is the key factor that recruits
+  the TFIIH complex in response to CSB and CSA. TC-NER and GG-NER use the same mechanism
+  after detecting damage. The TFIIH complex unwinds the DNA helix to obtain access
+  to the pre-incision complex (XP family), allowing for RPA to be recruited. The damaged
+  DNA is then excised, aided by XPG and the endonucleases excision repair cross-complementing
+  enzyme group 1 (CPF-ERCC1). Then, the DNA gap is refilled by PCNA and RPC, followed
+  by backbone repair via DNA ligase I. (F) Direct repair: The presence of the alkyl
+  group at the O6 position of guanine causes G:C to A:T transitions. The direct repair
+  functions through the removal of the alkyl group at the site of lesion by the enzyme
+  O6-methylguanine DNA methyltransferase (MGMT), thus restoring the proper nucleotide.'
+article_title: The Prognostic and Therapeutic Potential of DNA Damage Repair Pathway
+  Alterations and Homologous Recombination Deficiency in Lung Cancer.
+citation: Karam Khaddour, et al. Cancers (Basel). 2022 Nov;14(21):5305.
+year: '2022'
+
+doi: 10.3390/cancers14215305
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- non-small cell lung cancer
+- small cell lung cancer
+- DNA-damage repair
+- homologous recombination deficiency
+- PARP
+
+---

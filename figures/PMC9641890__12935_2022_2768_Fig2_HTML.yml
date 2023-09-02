@@ -1,0 +1,38 @@
+---
+figid: PMC9641890__12935_2022_2768_Fig2_HTML
+pmcid: PMC9641890
+image_filename: 12935_2022_2768_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC9641890/figure/Fig2/
+number: Fig. 2
+figure_title: ''
+caption: Hub genes in green and blue modules. A Go enrichment of green module. Top
+  5 significant pathways in different aspects. Circle represents biological process,
+  triangle represents cellular component, rectangle represents molecular function.
+  B Go enrichment of blue module. Top 5 significant pathways in different aspects.
+  Circle represents biological process, triangle represents cellular component, rectangle
+  represents molecular function. C, D KEGG enrichment of green and blue modules respectively.
+  E, F Hub genes in green and blue modules respectively, which is calculated by the
+  MCODE in Cytoscape. G Differential expressed genes in GSE10448. Up genes represent
+  genes highly expressed in pancreatic cancer patients with lymph node metastasis.
+  Down genes represent genes highly expressed in pancreatic cancer patients without
+  lymph node metastasis. H 0 gene was derived from the intersection between hub genes
+  in green module and up genes in GSE10448. I 13 genes were derived from the intersection
+  between hub genes in blue module and down genes in GSE10448
+article_title: CHRNB2 represses pancreatic cancer migration and invasion via inhibiting
+  β-catenin pathway.
+citation: Cheng Qin, et al. Cancer Cell Int. 2022;22:340.
+year: '2022'
+
+doi: 10.1186/s12935-022-02768-8
+journal_title: Cancer Cell International
+journal_nlm_ta: Cancer Cell Int
+publisher_name: BioMed Central
+
+keywords:
+- Pancreatic cancer
+- Lymph node ratio
+- Weighted gene co-expression network analysis
+- CHRNB2
+- β-catenin pathway
+
+---

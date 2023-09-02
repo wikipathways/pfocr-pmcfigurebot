@@ -1,0 +1,51 @@
+---
+figid: PMC9657268__cells-11-03412-g004
+pmcid: PMC9657268
+image_filename: cells-11-03412-g004.jpg
+figure_link: /pmc/articles/PMC9657268/figure/cells-11-03412-f004/
+number: Figure 4
+figure_title: ''
+caption: Molecular changes in retinal organoids at the juncture of retinal cell specification.
+  (A) Genomic tracks for individual day 45 organoids at the TSS of SIX6 and VSX2 (left)
+  and the corresponding RNA-seq values of day 35 and 45 (right). (B) Flow cytometry
+  was performed at days 15 and 45 for GFP and tdTomato. No tdTomato+ cells were detected
+  at day 15, and at day 45 all tdTomato+ cells additionally were GFP+. (C) qRT-PCR
+  for SIX6 and VSX2 mRNA expression at day 45 was performed. (D) Genomic tracks (left)
+  and mRNA expression (right) of bipolar cell genes. (E) Genomic region upstream of
+  VSX2 from day 45 ATAC-seq samples. The location of published core regulatory circuit
+  super enhancer (CRC-SE, Diri et al.) are indicated by black arrows and the location
+  of proximal promoter elements (Kim et al., arrowhead) are indicated by white arrowheads.
+  (F) A scatter plot showing corresponding values from RNA-seq of VSX2 and the upstream
+  gene LIN52 (right). (G) Genomic tracks (left) and mRNA expression line graphs (right)
+  of characteristic photoreceptor markers. (H) Genomic tracks (left) and corresponding
+  mRNA expression line graphs (right) for retinal progenitor cell markers. (I) Genomic
+  tracks (left) and mRNA expression line graphs (right) from day 45 samples for stem
+  cell markers. (J) A bar graph showing the number of genes involved in each pathway
+  and a line graph depicting the –log(Benjamini-Hochberg) for the 10 statistically
+  significant pathways (−log(Benjamini-Hochberg) > 3) as determined by DAVID (). (K)
+  “Visual perception” was the most highly significant pathway and was further classified
+  into phototransduction, functional, and structural genes and heatmaps were generated.
+  Scale for all genomic tracks = 0–100.
+article_title: Chromatin Accessibility and Transcriptional Differences in Human Stem
+  Cell-Derived Early-Stage Retinal Organoids.
+citation: Melissa K. Jones, et al. Cells. 2022 Nov;11(21):3412.
+year: '2022'
+
+doi: 10.3390/cells11213412
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- CRISPR
+- organoids
+- retina
+- chromatin
+- transcription
+- gene-editing
+- ATAC-seq
+- RNA-seq
+- SIX6
+- VSX2
+
+---

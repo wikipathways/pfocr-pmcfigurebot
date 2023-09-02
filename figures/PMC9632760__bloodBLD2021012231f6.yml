@@ -1,0 +1,43 @@
+---
+figid: PMC9632760__bloodBLD2021012231f6
+pmcid: PMC9632760
+image_filename: bloodBLD2021012231f6.jpg
+figure_link: /pmc/articles/PMC9632760/figure/F6/
+number: Figure 6
+figure_title: ''
+caption: ARID3A interacts with SMAD2/3 and promotes TGFβ pathway activation. (A) Experimental
+  design for isolating ARID3A-containing protein complexes from CMK cells. (B) Volcano
+  plot showing enriched proteins in LC-MS/MS after ARID3A pulldown, compared with
+  the IgG control (n = 2). Significantly-enriched proteins (red); and ARID3A (green)
+  and SMAD2 (blue). (C) Western blot confirming the coimmunoprecipitation of SMAD2
+  and SMAD3 and ARID3A. (D) Venn diagram showing the number of genomic regions bound
+  by ARID3A, SMAD2 and/or SMAD3. The data were obtained via CUT&RUN, after the doxycycline-induced
+  Arid3a expression in miR-125b-expressing Gata1s FLCs. Significantly enriched peaks
+  were called using SEACR. (E) Heat maps depicting the colocalization of ARID3A (green,
+  left), SMAD2/3 (blue and gray, middle), and chromatin accessibility (green, right)
+  signals after doxycycline-induced Arid3a expression in miR-125b-expressing Gata1s
+  FLCs. The data were generated using CUT&RUN and ATAC-seq, respectively. Regions
+  ±3 kb of the peak center are shown. Aggregate signals of single- and co-occupied
+  regions are also provided (bottom; ARID3A and SMAD2/3 cobound [black], ARID3A and
+  SMAD2 cobound [blue], ARID3A and SMAD3 cobound [gray], and ARID3A-bound only [green]
+  are indicated). (F) Volcano plot showing the differential expression of ARID3A and
+  SMAD2/3 cobound genes upon Arid3a knockdown in Gata1s FLCs. Genes involved in apoptosis
+  and cell cycle arrest (green); significantly downregulated (blue) and upregulated
+  (red) genes; non-significantly changed genes (gray). (G) GSEA enrichment plots showing
+  genes bound by ARID3A, SMAD2 and SMAD3, and their response to Arid3a modulation
+  in Gata1s FLCs. (H) Integrative Genomics Viewer snapshots of genes involved in apoptosis
+  and cell cycle arrest, showing occupancy of the ARID3A-SMAD2-SMAD3 protein complex
+  and chromatin accessibility (ATAC). The tracks display coverage (RPKM) (left). Scale
+  and chromosome location are shown (top).
+article_title: The megakaryocytic transcription factor ARID3A suppresses leukemia
+  pathogenesis.
+citation: Oriol Alejo-Valle, et al. Blood. 2022 Feb 3;139(5):651-665.
+year: '2022'
+
+doi: 10.1182/blood.2021012231
+journal_title: Blood
+journal_nlm_ta: Blood
+publisher_name: American Society of Hematology
+
+keywords:
+---

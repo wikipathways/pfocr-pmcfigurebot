@@ -1,0 +1,34 @@
+---
+figid: PMC9699081__ijms-23-14256-g003
+pmcid: PMC9699081
+image_filename: ijms-23-14256-g003.jpg
+figure_link: /pmc/articles/PMC9699081/figure/ijms-23-14256-f003/
+number: Figure 3
+figure_title: ''
+caption: 'Enrichment analysis of COVID-19, regarding the KEGG pathways (A) and signaling
+  pathways in the Reactome database (B). Pathways that are overrepresented in the
+  gene set of interest are shown. Furthermore, only genes present in a given pathway
+  are given. Overrepresentation of the gene set of interest (input genes), regarding
+  the pathways was tested using the hypergeometric test against the pre−defined gene
+  sets (background genes) obtained from Reactome or KEGG. Input genes that are overlapping
+  in the pathway, the enrichment p-value and the proportion of the overlapping genes
+  (input genes relative to the tested gene set) are shown. Source: FUMA.'
+article_title: 'Vitamin D Deficiency and COVID-19: A Biological Database Study on
+  Pathways and Gene-Disease Associations.'
+citation: Ángela Alcalá-Santiago, et al. Int J Mol Sci. 2022 Nov;23(22):14256.
+year: '2022'
+
+doi: 10.3390/ijms232214256
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- vitamin D
+- COVID-19
+- SARS-CoV-2
+- genes
+- nutrition
+- computational biology
+
+---

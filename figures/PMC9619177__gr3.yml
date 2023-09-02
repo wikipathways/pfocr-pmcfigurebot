@@ -1,0 +1,35 @@
+---
+figid: PMC9619177__gr3
+pmcid: PMC9619177
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9619177/figure/fig3/
+number: Fig. 3
+figure_title: ''
+caption: dCas9 mediated deregulation of ilvE gene (A) Schematic diagram of ilvE promoter
+  from EcoCyc E. coli database showing spacer sequences within promoter IlvE (p) and
+  gene region IlvE (g) designed for dCas9 targeting. (B) Colony PCR for screening
+  of transformed colonies for successful integration of spacer regions into dCas9.
+  L, represents 10 kb ladder; expected sizes for correct integration are represented
+  by arrows. PCR products are separated on 1.5% agarose gel. ‘C’ represents control.
+  (C) Effect of dCas9-mediated downregulation at the ORF using dcas9IlvE (g) primer
+  (MG02) and promoter region using dcas9IlvE (p) primer (MG03) on the growth of E.
+  coli having KIV pathway integrated. Data is replicate of three values. Error bars
+  represent standard deviation.
+article_title: Isobutanol production by combined in vivo and in vitro metabolic engineering.
+citation: Mamta Gupta, et al. Metab Eng Commun. 2022 Dec;15:e00210.
+year: '2022'
+
+doi: 10.1016/j.mec.2022.e00210
+journal_title: Metabolic Engineering Communications
+journal_nlm_ta: Metab Eng Commun
+publisher_name: Elsevier
+
+keywords:
+- α-Ketoisovalerate
+- Isobutanol
+- CRISPR
+- CRISPRi
+- Bicistronic
+- Fed-batch
+
+---

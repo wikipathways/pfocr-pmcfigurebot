@@ -1,0 +1,43 @@
+---
+figid: PMC9658454__plants-11-02899-g008a
+pmcid: PMC9658454
+image_filename: plants-11-02899-g008a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 8
+caption: The sub-transcriptional regulatory network in different types of perturbation.
+  (A,B) Transcriptional regulatory networks for the target genes of OsMADS58 in WT-dSpm
+  (A) and WT-CRISPR (B) comparisons. Only the genes either differentially expressed
+  in at least one comparison or directly targeted by OsMADS58 are shown. The node
+  sizes indicate the number of neighborhoods for corresponding genes. OsMADS58, OsMADS58
+  target genes, and oxidation reduction-related genes are highlighted by green, black,
+  and orange circles, respectively. Gene IDs of transcription factors and oxidation
+  reduction-related genes are shown with big and small text size, respectively. Nodes
+  are colored according to high (red) or low expression (blue) related to wild-type
+  (WT) samples. Grey nodes indicate non-differentially expressed genes. Edges denote
+  regulation supported by ChIP-seq data (solid) or predicted by motif scanning (dashed).
+  Only the edges with an absolute of correlation greater than 0.25 are shown. Edges
+  are colored according to positive (blue) or negative (red) correlation between gene
+  pairs. (C–L) Transcriptional regulatory networks for each pathway in WT-dSpm (left)
+  and WT-CRISPR (right) comparisons. (C,D) Chloroplast development genes; (E,F) oxidation
+  reduction genes; (G,H) cell cycle genes; (I,J) meiosis genes; (K,L) tapetum differentiation
+  genes. Only the upstream and downstream genes of the pathway-related genes differentially
+  expressed in at least one comparison are shown. High quality original files (A–L)
+  can be found in the .
+article_title: OsMADS58 Stabilizes Gene Regulatory Circuits during Rice Stamen Development.
+citation: Liping Shen, et al. Plants (Basel). 2022 Nov;11(21):2899.
+year: '2022'
+
+doi: 10.3390/plants11212899
+journal_title: Plants
+journal_nlm_ta: Plants (Basel)
+publisher_name: MDPI
+
+keywords:
+- OsMADS58
+- rice stamen
+- meiosis
+- tapetum
+- gene regulatory circuits
+
+---

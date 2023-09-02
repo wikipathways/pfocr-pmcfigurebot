@@ -1,0 +1,44 @@
+---
+figid: PMC9701798__41419_2022_5434_Fig5_HTML
+pmcid: PMC9701798
+image_filename: 41419_2022_5434_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC9701798/figure/Fig5/
+number: Fig. 5
+figure_title: 8GL represses mTORC1 activity via the GPR132-PKA pathway in AML
+caption: 'A Schematic illustration of the GPCR-Gs-PKA signaling axis that inhibits
+  mTORC1. B HL60 cells were treated with 8GL (30 μM) for indicated times. The levels
+  of p-S6K1 (Thr389) and p-CREB (Ser133) were measured using western blotting. C HL60
+  cells were treated with 8GL at concentrations of 0, 15, 30, and 60 μM. The levels
+  of p-S6K1 (Thr389) and p-CREB (Ser133) were measured using western blotting. The
+  antibodies were purchased from Cell Signaling Technology (CST). p-S6K1, CST-9205;
+  S6K1, CST-9202; p-CREB, CST-9198; CREB, CST-9197. D Western blotting analysis of
+  p-S6K1 (Thr389) and p-CREB (Ser133) in 8GL-treated GPR132 WT and GPR132 KO AML cell
+  lines. 8GL treatment: 30 μM for 3 h. Sg1 and sg2 represent two distinct sgRNAs for
+  GPR132. E Phosphorylation status of S6K1 (Thr389) and CREB (Ser133) in HL60 and
+  MV4-11 cells incubated with 8GL (30 μM or 60 μM) and/or H89 (1 μM). F HL60 and MV4-11
+  cells were treated with 8GL (0 μM, 30 μM, and 60 μM) for 48 h, and c-Myc expression
+  was detected using western blotting. G Western blot analysis of c-Myc protein in
+  GPR132 WT and GPR132 KO AML cells in the presence of 8GL (30 μM for 48 h). Sg1 and
+  sg2 represent two distinct sgRNAs for GPR132. H Gene set enrichment analysis of
+  the GSE12417-GPL96 dataset comparing GPR132 HIGH (top 10% of GPR132 expression)
+  and GPR132 LOW (top 10% of GPR132 expression). I HL60 and MV4-11 cells were treated
+  with 8GL (30 μM) and/or H89 (1 μM) for 72 h, and CD11b expression was detected using
+  flow cytometry. Data are shown as mean ± SEM (n = 3). One-way ANOVA with Tukey’s
+  multiple comparison tests was performed. **P < 0.01, ***P < 0.001. J Representative
+  NBT reduction results of AML cell lines treated with or without 30 μM 8GL and/or
+  1 μM H89 for 72 h. The scale bar represents 10 μm.'
+article_title: Activation of orphan receptor GPR132 induces cell differentiation in
+  acute myeloid leukemia.
+citation: Chunyang Yi, et al. Cell Death Dis. 2022 Nov;13(11):1004.
+year: '2022'
+
+doi: 10.1038/s41419-022-05434-z
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Drug discovery
+- Cell biology
+
+---

@@ -1,0 +1,48 @@
+---
+figid: PMC9646498__41587_2022_1342_Fig11_ESM
+pmcid: PMC9646498
+image_filename: 41587_2022_1342_Fig11_ESM.jpg
+figure_link: /pmc/articles/PMC9646498/figure/Fig11/
+number: Extended Data Fig. 6
+figure_title: TmS is associated with tumor genomic features and metabolic pathway
+  activities across cancer types
+caption: a, Contributors to tumor-specific total mRNA expression. b, Distributions
+  of TmS for TCGA samples with or without specific mutations in six cancer-gene pairs.
+  The number of samples is indicated on the top. We performed an agnostic association
+  analysis of TmS with all non-synonymous mutations (32,894 cancer-gene pairs, using
+  logistic regression models), and concurrently a driver mutation-specific association
+  analysis of TmS (24 cancer-gene pairs). We find 5 overlapping pairs out of 6 statistically
+  significant pairs produced from each interrogation (BH adjusted P values < 0.01).
+  The additional pair found through the agnostic search (FGFR3 in bladder carcinoma
+  in TCGA) was not identified in the driver mutation analysis due to a limited sample
+  size. These associations in breast, lung, thyroid, and bladder cancers show that
+  TmS can capture changes in tumor phenotypes induced by driver mutations in a cancer
+  type-specific manner. Our observation also supports previous findings that the same
+  driver mutations may not have the same prognostic effect across cancers, and their
+  effects may be modified by additional tumor and/or treatment-related factors. c-e,
+  Distribution of TmS for patient samples with (c) high or low tumor mutation burden
+  (TMB); (d) high or low chromosomal instability score; (e) with or without a whole
+  genome duplication event. Patient groups are categorized as high vs. low based on
+  the median values of TMB and chromosomal instability scores in (c) and (d) respectively.
+  f, Heatmap of normalized enrichment scores (NES) of Reactome metabolism of carbohydrates
+  pathways across 15 cancer types in TCGA. Pathways are ordered by the mean NES across
+  15 cancer types, from high to low. g, Distribution of TmS for patient samples with
+  high or low for pentose phosphate pathway activity, where patient groups are defined
+  by hierarchical clustering of expression levels from 13 genes. For b-d and g, the
+  BH adjusted P values for two-sided Wilcoxon rank-sum tests comparing TmS between
+  corresponding groups are indicated by asterisks (* P < 0.05, ** < 0.01, *** < 0.001).
+article_title: Estimation of tumor cell total mRNA expression in 15 cancer types predicts
+  disease progression.
+citation: Shaolong Cao, et al. Nat Biotechnol. 2022;40(11):1624-1633.
+year: '2022'
+
+doi: 10.1038/s41587-022-01342-x
+journal_title: Nature Biotechnology
+journal_nlm_ta: Nat Biotechnol
+publisher_name: Nature Publishing Group US
+
+keywords:
+- Computational models
+- Tumour heterogeneity
+
+---

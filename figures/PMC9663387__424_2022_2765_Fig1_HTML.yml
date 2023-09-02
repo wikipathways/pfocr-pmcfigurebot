@@ -1,0 +1,35 @@
+---
+figid: PMC9663387__424_2022_2765_Fig1_HTML
+pmcid: PMC9663387
+image_filename: 424_2022_2765_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC9663387/figure/Fig1/
+number: Fig. 1
+figure_title: ''
+caption: hOPN5-mediated activation of Gq signalling pathways as suggested by Wagdi
+  and colleagues []. Human OPN5, a seven-transmembrane opto-GPCR, is activated by
+  near-ultraviolet light (406 nm) and deactivated by green light (511 nm). Upon activation,
+  hOPN5 exclusively triggers the Gq downstream signalling pathway. The Gαq subunit
+  of the heterotrimeric G protein acts via phospholipase C (PLC) catalysing the conversion
+  of phosphatidylinositol 4,5-bisphosphate (PIP2) into diacylglycerol (DAG) and inositol
+  1,4,5-trisphosphate (IP3). In turn, DAG activates protein kinase C (PKC) and canonical
+  transient receptor potential (TRPC) channels. IP3 triggers the release of Ca2+ from
+  intracellular stores, thereby inducing positive chronotropic (increase in rate)
+  and inotropic (increase in contractility) responses in muscle cells. Based on a
+  G protein coupled inwardly-rectifying potassium channel (GIRK) assay combined with
+  pharmacological inhibition of either Gq or Gi proteins using FR900359 or pertussis
+  toxin (PTX), respectively, the authors excluded the activation of Gi signalling
+  pathways, which would decrease the intracellular cAMP levels by inhibiting adenylyl
+  cyclase (AC) and would increase GIRK currents. In contrary, GIRK currents were reduced
+  due to PLC-dependent PIP2 depletion
+article_title: 'Optogenetic interrogation of cell signalling: human neuropsin (hOPN5)
+  represents a potent tool for controlling the Gq pathway with light.'
+citation: Siri Leemann, et al. Pflugers Arch. 2022;474(12):1217-1219.
+year: '2022'
+
+doi: 10.1007/s00424-022-02765-w
+journal_title: Pflugers Archiv
+journal_nlm_ta: Pflugers Arch
+publisher_name: Springer Berlin Heidelberg
+
+keywords:
+---

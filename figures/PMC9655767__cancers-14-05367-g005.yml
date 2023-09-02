@@ -1,0 +1,44 @@
+---
+figid: PMC9655767__cancers-14-05367-g005
+pmcid: PMC9655767
+image_filename: cancers-14-05367-g005.jpg
+figure_link: /pmc/articles/PMC9655767/figure/cancers-14-05367-f005/
+number: Figure 5
+figure_title: ''
+caption: 'Machine learning approach to narrow down the critical genes regulated via
+  SETD8/H4K20 methylation in endometrial cancer. (A) H4K20me1 ChIP-seq tag densities
+  across different experiments. Density plot of the genomic region is shown as the
+  read count per million mapped reads on the y-axis from 2000 bp upstream of the TSS
+  to 2000 bp downstream of the transcription end site (TES) on the x-axis. The results
+  for HEC50B cells treated with negative control siRNA (siNC, red line) or SETD8-targeting
+  siRNA (#1 or #2, blue lines) are shown. Input is represented by the grey line. (B)
+  Volcano plots illustrating DEGs (FDR < 0.05, red dots). H4K20me1 target genes annotated
+  between 0–2 kb from TSS are shown as large circles. TP73 and KIAA1324 genes are
+  indicated by the arrows. (C) Flowchart for narrowing down important genes using
+  AI. RNA-seq and ChIP-seq results identified genes regulated via SETD8/H4K20 methylation.
+  TCGA database was used to narrow down the genes related to OS and DFS prognosis
+  of endometrial cancer using the random forest method. (D) The important genes regulated
+  by SETD8 and related to the prognosis of endometrial cancer were identified using
+  random forest method. (E) H4K20me1 occupancy at the KIAA1324 or TP73 gene promoter
+  regions. HEC50B cells for ChIP-qPCR were treated with negative-control siRNA (NC)
+  or SETD8-targeting siRNAs (SETD8 #1 and #2), respectively. Bar plots are shown as
+  fold enrichment from Input (y-axis). * p < 0.05, ** p < 0.01, *** p < 0.001.'
+article_title: The Histone Methyltransferase SETD8 Regulates the Expression of Tumor
+  Suppressor Genes via H4K20 Methylation and the p53 Signaling Pathway in Endometrial
+  Cancer Cells.
+citation: Asako Kukita, et al. Cancers (Basel). 2022 Nov;14(21):5367.
+year: '2022'
+
+doi: 10.3390/cancers14215367
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- chromatin immunoprecipitation sequencing
+- endometrial cancer
+- histone methyltransferases
+- machine learning
+- SETD8 TP73
+
+---

@@ -1,0 +1,73 @@
+---
+figid: PMC9647533__gr3
+pmcid: PMC9647533
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9647533/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: miR-16 promotes enterocyte viability, maintains tight junction integrity,
+  and inhibits apoptosis and cytokine production by inhibiting the TLR4/NF-κB signaling
+  pathway.A, interaction of 161 genes analyzed by STRING and visualized by Cytoscape
+  3.5.1. Blue node indicates a high degree while orange a low degree. A thick link
+  between the nodes indicates a close coexpression relation while a thin link indicates
+  a far relation. B, Venn diagram of the miR-16 target gene and IBS target genes.
+  C, plot of KEGG enrichment. The abscissa represents the number of genes involved
+  in the pathway and the ordinate represents the name of the pathway. The color of
+  the dots indicates −log10 p-value. D, the binding site of miR-16 with TLR4 in mouse
+  and human predicted by microRNA.org. E, the binding of miR-16 to TLR4 in HEK293T
+  cells verified by dual-luciferase reporter assay. F, Western blot detection of TLR4,
+  NF-κB, and p65p-NF-κB p65 levels in the colorectal tissue of control and IBS-D mice;
+  G, qRT-PCR determination of miR-16 expression in LPS-induced NCM460 cells treated
+  with miR-16 mimic or inhibitor; H, Western blot detection of TLR4, NF-κB p65, and
+  p-NF-κB p65 expression in LPS-induced NCM460 cells treated with miR-16 mimic or
+  inhibitor. I, qRT-PCR for determination of miR-16 in LPS-induced NCM460 cells treated
+  with miR-16 mimic alone or combined with oe-TLR4/TAK-242. J, Western blot detection
+  of TLR4, NF-κB p65, and p-NF-κB p65 expression in LPS-induced NCM460 cells treated
+  with miR-16 mimic alone or combined with oe-TLR4/TAK-242. K, CCK-8 assay of LPS-induced
+  NCM460 cell viability following treatment with miR-16 mimic alone or combined with
+  oe-TLR4/TAK-242. L, flow cytometry of LPS-induced NCM460 cell apoptosis following
+  treatment with miR-16 mimic alone or combined with oe-TLR4/TAK-242. M, ELISA and
+  qRT-PCR for detection of IL-1β and IL-6 levels in the culture medium of LPS-induced
+  NCM460 cells treated with miR-16 mimic alone or combined with oe-TLR4/TAK-242. N,
+  Western blot detection of expression of tight junction proteins ZO-1 and occludin
+  in LPS-induced NCM460 cells treated with miR-16 mimic alone or combined with oe-TLR4/TAK-242.
+  O, TER was determined to reflect the tight junction integrity in the LPS-induced
+  NCM460 cells treated with miR-16 mimic alone or combined with oe-TLR4/TAK-242. ∗p <
+  0.05. Measurement data were expressed as mean ± SD. Comparison of data among multiple
+  groups was performed by one-way ANOVA, followed by Tukey’s post hoc test. Statistical
+  analysis concerning time-based measurements within each group was realized using
+  repeated measures ANOVA with Bonferroni’s post hoc test. All cell experiments were
+  conducted independently in triplicate. IBS, irritable bowel syndrome; IBS-D, IBS
+  with diarrhea; CCK-8, cell-counting kit-8; LPS, lipopolysaccharide; qRT-PCR, quantitative
+  RT-PCR; TER, transepithelial resistance.
+article_title: MicroRNA-16 inhibits the TLR4/NF-κB pathway and maintains tight junction
+  integrity in irritable bowel syndrome with diarrhea.
+citation: Meijuan Xi, et al. J Biol Chem. 2022 Nov;298(11):102461.
+year: '2022'
+
+doi: 10.1016/j.jbc.2022.102461
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- microRNA-16
+- toll-like receptor 4
+- NF-κB
+- X-inactive specific transcript
+- irritable bowel syndrome with diarrhea
+- AWR, abdominal withdrawal reflex
+- CCK-8, cell-counting kit-8
+- cDNA, complementary DNA
+- EMG, electromyography
+- FBS, fetal bovine serum
+- IBS, irritable bowel syndrome
+- IBS-D, IBS with diarrhea
+- LPS, lipopolysaccharide
+- NC, negative control
+- PDTC, pyrrolidine dithiocarbamate
+- qRT-PCR, quantitative RT-PCR
+- TER, transepithelial resistance
+- XIST, X-inactive specific transcript
+
+---

@@ -1,0 +1,34 @@
+---
+figid: PMC9688869__cancers-14-05704-g007
+pmcid: PMC9688869
+image_filename: cancers-14-05704-g007.jpg
+figure_link: /pmc/articles/PMC9688869/figure/cancers-14-05704-f007/
+number: Figure 7
+figure_title: ''
+caption: ACY1 inactivated the Wnt/β-catenin pathway to regulate the radiosensitivity
+  of HCT116-R cells. (A) Spearman’s correlation analysis of ACY1 expression and WNT3,
+  CTNNB1, and GSK3B in the TCGA COAD dataset. (B) Spearman’s correlation analysis
+  of ACY1 expression and WNT8B, CTNNB1, and GSK3B in the TCGA READ dataset. (C) The
+  Western blot assay revealed the expression of E-cadherin and β-catenin in HCT116-R
+  cells treated with 0, 4, and 6 Gy. (D) The Western blot assay revealed that the
+  levels of E-cadherin and β-catenin in HCT116-R cells transfected with siRNA-NC or
+  siRNA-ACY1 treated with 4 Gy. The experiment was repeated three times, and the data
+  are presented as the mean ± SD.
+article_title: ACY1 Downregulation Enhances the Radiosensitivity of Cetuximab-Resistant
+  Colorectal Cancer by Inactivating the Wnt/β-Catenin Signaling Pathway.
+citation: Wulin Shan, et al. Cancers (Basel). 2022 Nov;14(22):5704.
+year: '2022'
+
+doi: 10.3390/cancers14225704
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- colorectal cancer
+- cetuximab resistance
+- radiosensitivity
+- ACY1
+- Wnt/β-catenin pathway
+
+---

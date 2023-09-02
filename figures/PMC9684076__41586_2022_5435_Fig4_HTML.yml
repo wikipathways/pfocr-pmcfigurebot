@@ -1,0 +1,53 @@
+---
+figid: PMC9684076__41586_2022_5435_Fig4_HTML
+pmcid: PMC9684076
+image_filename: 41586_2022_5435_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9684076/figure/Fig4/
+number: Fig. 4
+figure_title: F. nucleatum induces neutrophil swarming and the migration of cancer
+  epithelial cells
+caption: a, Live-cell confocal imaging showing neutrophil movements relating to CRC
+  spheroids without (left) or with (right) F. nucleatum. Colour bars represent neutrophil
+  cluster volume (µm3). Scale bars, 100 μm. b,c, Average speed (b) and cell displacement
+  (c) of neutrophils migrating inside untreated control (lilac) and F. nucleatum-treated
+  (red) spheroids. Red bars indicate mean. Data points represent individual tracks;
+  n indicates the number of tracks per condition; three independent experiments. P
+  values calculated by Mann–Whitney test. d, Neutrophil cell trajectory plots. e,
+  Left, the log10-transformed fold change in volume over time of neutrophil clusters
+  relative to the initial volume (T = 0 h). Data points represent average volume per
+  time point, per condition. Right, quantification of the area under the curve for
+  the fold change in volume. f, Confocal microscopy of HCT116 spheroid invasion capabilities
+  without (left) or with (right) F. nucleatum over 19 h. Inset images represent differences
+  in migration modes. Scale bar, 100 μm. g, The log10-transformed fold change in volume
+  over time, representing the expansion rate of uninfected CRC spheroids. Error bars,
+  s.d. h, Number of F. nucleatum-positive single cancer cells detaching from the spheroid
+  over time. Error bars, s.d. i,j, Average speed (i) and cell displacement (j) of
+  single cells escaping the F. nucleatum-infected spheroid. Red bars indicate mean.
+  Data points represent individual tracks; n indicates the number of tracks per condition;
+  three independent experiments. k, Cell trajectories of invading cancer cells escaping
+  the F. nucleatum-infected spheroids. l, Signalling pathway analysis of CRC spheroids
+  infected with F. nucleatum compared to uninfected control. The directed global significance
+  (DGS) score was calculated as the square root of the mean squared t-statistic for
+  genes in a gene set. ECM, extracellular matrix. m, Volcano plots of differential
+  gene expression for selected pathways in F. nucleatum-infected spheroids compared
+  to uninfected controls. Dashed lines indicate the threshold of significance, defined
+  as log2-transformed fold change ≤ −0.58 and ≥ 0.58 and −log10(P) ≥ 1.301 after LMM
+  analysis and Benjamini–Hochberg multiple-correction testing.
+article_title: Effect of the intratumoral microbiota on spatial and cellular heterogeneity
+  in cancer.
+citation: Jorge Luis Galeano Niño, et al. Nature. 2022;611(7937):810-817.
+year: '2022'
+
+doi: 10.1038/s41586-022-05435-0
+journal_title: Nature
+journal_nlm_ta: Nature
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cancer microenvironment
+- Tumour heterogeneity
+- Oral cancer
+- Colorectal cancer
+- Pathogens
+
+---

@@ -1,0 +1,35 @@
+---
+figid: PMC9664704__12859_2022_5005_Fig3_HTML
+pmcid: PMC9664704
+image_filename: 12859_2022_5005_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC9664704/figure/Fig3/
+number: Fig. 3
+figure_title: ''
+caption: The relationship between pathway overlap and significance. The artificially
+  enriched pathway (R-HSA-1483206) is represented by a red cross. Overlap coefficient
+  values of each pathway with R-HSA-1483206 are shown on the x-axis. t-test p-values
+  of pathway scores (testing for significant difference in mean pathway score between
+  disease and control group) for each pathway are shown on the y-axis (-log10 scale).
+  Note, for GSEA the p-values are calculated using the original GSEA permutation procedure,
+  and for ORA, p-values are calculated using the Fisher’s exact test. A LOWESS regression
+  line is shown in black. Point size corresponds to the coverage of each pathway (i.e.
+  the number of metabolites in the pathway which were present in the dataset)
+article_title: 'Single sample pathway analysis in metabolomics: performance evaluation
+  and application.'
+citation: Cecilia Wieder, et al. BMC Bioinformatics. 2022;23:481.
+year: '2022'
+
+doi: 10.1186/s12859-022-05005-1
+journal_title: BMC Bioinformatics
+journal_nlm_ta: BMC Bioinformatics
+publisher_name: BioMed Central
+
+keywords:
+- Single-sample pathway analysis
+- Metabolomics pathway analysis
+- Enrichment analysis
+- Benchmarking
+- Simulation
+- Pathway visualisation
+
+---

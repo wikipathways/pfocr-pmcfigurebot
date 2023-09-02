@@ -1,0 +1,49 @@
+---
+figid: PMC9681209__elife-77335-fig3
+pmcid: PMC9681209
+image_filename: elife-77335-fig3.jpg
+figure_link: /pmc/articles/PMC9681209/figure/fig3/
+number: Figure 3
+figure_title: A positive correlation between DNA hypo-methylation and astrocyte signature
+  enrichment
+caption: '(A) Single sample gene set enrichment analysis (ssGSEA) enrichment scores
+  of glioblastoma initiating cells (GICs) (N=2) for three different gene signatures;
+  ACS (red), OPC Enriched-300 Signature (blue) and OPC Specific-300 Signature (teal),
+  statistical significance tested using two-way ANOVA. Green dashed line indicating
+  threshold for enrichment. (B) ssGSEA enrichment scores based on pseudo-bulk (aggregated
+  within a patient) data of the cancer cell subset from the single-cell RNA sequencing
+  (scRNAseq) glioblastoma tumour data from , and , for three different gene signatures,
+  ACS (red), OPC Enriched-300 Signature (blue), and OPC Specific-300 Signature (teal).
+  (C) Percentage of single cells for each tumour, which scored the highest for one
+  of the three different signatures: ACS (red), OPC Enriched-300 Signature (blue),
+  and OPC Specific-300 Signature (teal). Green dashed line indicating threshold for
+  enrichment. (D) Scatter plot of the ACS enrichment score and the percentage of hypo-methylated
+  DMRs for each of the GICs from our cohort, when comparing to iNSCs from our cohort.
+  (E) Scatter plot of the ACS enrichment score and the percentage of hypo-methylated
+  differentially methylated regions (DMRs) for each of the HGCC GICs, when comparing
+  to induced neural stem cells (iNSCs) from our cohort. (F) Volcano plot of differentially
+  expressed genes (DEGs) identified from the comparison of BE-GICs versus nBE-GICs
+  (glm model used for differentially expressed [DE] analysis). (G) Volcano plot of
+  DEGs identified from the comparison of BE-GICs versus nBE-GICs from the HGCC cohort
+  (glm model used for DE analysis). (H) Summary of pathway analysis performed using
+  gProfiler, using the DEGs identified in (F) and (G). Figure 3—source data 1.Source
+  data for .'
+article_title: Global hypo-methylation in a proportion of glioblastoma enriched for
+  an astrocytic signature is associated with increased invasion and altered immune
+  landscape.
+citation: James Boot, et al. eLife. 2022;11:e77335.
+year: '2022'
+
+doi: 10.7554/eLife.77335
+journal_title: eLife
+journal_nlm_ta: eLife
+publisher_name: eLife Sciences Publications, Ltd
+
+keywords:
+- glioblastoma
+- astrocytes
+- DNA methylation
+- Human
+- Mouse
+
+---

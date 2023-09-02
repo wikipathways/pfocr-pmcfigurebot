@@ -1,0 +1,42 @@
+---
+figid: PMC9633300__CAS-113-3751-g007
+pmcid: PMC9633300
+image_filename: CAS-113-3751-g007.jpg
+figure_link: /pmc/articles/PMC9633300/figure/cas15532-fig-0001/
+number: FIGURE 1
+figure_title: ''
+caption: 'Interleukin‐10 (IL‐10) signaling was the top enriched pathway related to
+  triple‐negative breast cancer (TNBC) bone metastasis according to gene enrichment
+  analysis. A, Principal components analysis (PCA) of the gene set in GSE20611. B,
+  Volcano plot of the DEGs (left: Dor vs. Par; right: PDor vs. Dor). Dor, MDA‐MB‐231
+  with weakly bone metastatic variants; PDor, MDA‐MB‐231 reactivated cells with high
+  bone metastatic activity after dormancy in bone metastases; and Par, parental MDA‐MB‐231
+  cells. p < 0.05 and |fold change (FC)| > 2 were set as the criteria for differential
+  expression. C, Cluster analysis of the DEGs. D, Venn diagram showing the overlapping
+  DEGs. E, Heatmap of the 312 candidate DEGs obtained from (D). F, Results of Reactome
+  enrichment analysis with the 312 candidate DEGs. Pathway classification (G), top
+  10 pathways (H), and pathway distribution (I) results of the Reactome enrichment
+  analysis. J, Protein‐protein interaction (PPI) network of the 312 candidate DEGs
+  and the top 10 proteins according to the MCC score with Search Tool for the Retrieval
+  of Interacting Genes/Proteins (STRING) PPI network functional enrichment analysis.
+  K, PPI network of the top 10 genes in (J). L, Pathway activity analysis of the top
+  10 genes in (J) using GSCALite. DEGs, differentially expressed genes; MCC, maximal
+  clique centrality'
+article_title: ICAM1 promotes bone metastasis via integrin‐mediated TGF‐β/EMT signaling
+  in triple‐negative breast cancer.
+citation: Mingcang Chen, et al. Cancer Sci. 2022 Nov;113(11):3751-3765.
+year: '2022'
+
+doi: 10.1111/cas.15532
+journal_title: Cancer Science
+journal_nlm_ta: Cancer Sci
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- bone metastasis
+- epithelial‐to‐mesenchymal transition
+- intercellular adhesion molecule 1
+- TGF‐β/SMAD signaling
+- triple‐negative breast cancer
+
+---

@@ -1,0 +1,52 @@
+---
+figid: PMC9629834__elife-78847-fig4
+pmcid: PMC9629834
+image_filename: elife-78847-fig4.jpg
+figure_link: /pmc/articles/PMC9629834/figure/fig4/
+number: Figure 4
+figure_title: Temporal trajectories of the corticostriatal axonal proteome
+caption: '(A) Heat map showing temporal expression across development. Protein clusters
+  were defined using a time course regression analysis implemented in maSigPro R package.
+  The row dendrogram shows hierarchical clustering of proteins in each protein cluster.
+  Log2 protein abundance was normalized to the mean of the neonatal time point. All
+  biological replicates are shown in columns. (B) Temporal trajectories of protein
+  expression in each cluster. Log2 protein abundance was normalized to the mean of
+  the neonatal time point. Red lines represent the average expression of all proteins
+  in a cluster. Gray lines represent individual protein trajectories. Neonate (P5),
+  early postnatal (P11), preweanling (P18–20), and adult (P50). (C) SynGO analysis
+  of presynaptic protein maturation, annotated by gene names. Proteins mapped to SynGO
+  presynapse ontology term were grouped into seven categories: presynapse, cytosol-cytoskeleton-endosome,
+  presynaptic membrane, presynaptic active zone, presynaptic endocytic zone, presynaptic
+  ribosome and ER, and neuronal dense core vesicle. Heatmap shows log2 protein abundance
+  normalized to neonatal time point. Three categories, presynaptic membrane, presynaptic
+  active zone, and presynaptic endocytic zone are shown. Remaining categories are
+  in . (D) Over-representation analysis of protein clusters for central nervous system
+  (CNS) traits and disorders. Dot size indicates the number of genes enriched for
+  a particular disease. Color density indicates the degree of significance, –log(pvalue).
+  Only significantly enriched diseases are shown. AD (Alzheimer’s disease), EP (Epilepsy),
+  BP (bipolar disorders), and ASD (Autism spectrum disorders). (E) Reactome pathway
+  enrichment analysis for protein clusters that are associated with CNS traits and
+  disorders (clusters 2, 4, 7, and 8). Top 5 Reactome pathway terms are plotted. Gray
+  bar indicates –log(p value). (F) KEGG axon guidance pathway analysis, annotated
+  by gene names. Heatmap of normalized Log2 protein abundance for proteins mapped
+  to the KEGG axon guidance pathway (mmu04360). Left, protein abundance for kinases
+  and phosphatases clustered by family. Right, other proteins in the pathway.'
+article_title: Dynamic proteomic and phosphoproteomic atlas of corticostriatal axons
+  in neurodevelopment.
+citation: Vasin Dumrongprechachan, et al. eLife. 2022;11:e78847.
+year: '2022'
+
+doi: 10.7554/eLife.78847
+journal_title: eLife
+journal_nlm_ta: eLife
+publisher_name: eLife Sciences Publications, Ltd
+
+keywords:
+- neuroproteomics
+- corticostriatal
+- axon
+- development
+- phosphoproteomics
+- Mouse
+
+---

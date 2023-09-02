@@ -1,0 +1,39 @@
+---
+figid: PMC9640663__41467_2022_34532_Fig3_HTML
+pmcid: PMC9640663
+image_filename: 41467_2022_34532_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC9640663/figure/Fig3/
+number: Fig. 3
+figure_title: Transcriptional downregulation of lipid metabolic pathways in CD1d-KO
+  cells
+caption: a pMacs isolated from WT or CD1d-KO mice were subjected to RNAseq analyses
+  (n = 4). Top left, volcano plot including differentially expressed genes (black).
+  A fold change cut-off of 1.5 and adjusted p-value cut off of 0.01 were applied.
+  Top right, functional enrichment analysis of genes significantly changed in WT vs.
+  CD1d-KO pMacs. The GO terms are shown ranked by p-values. Enrichment and p-values
+  (from a Fisher’s exact test with Bonferroni correction) were calculated with PANTHER
+  tools. Bottom left, heat map for selected transcripts significantly changed in WT
+  vs. CD1d-KO pMacs. Bottom right, representative image of the cholesterol biosynthesis
+  pathway, showing metabolites and enzymes responsible for the individual synthetic
+  step. Enzymes encoded by genes significantly downregulated in CD1d-KO pMacs are
+  shown in blue. b–f qPCR analyses showing relative expression of the depicted genes
+  in WT (blue) and CD1d-KO (red) pMacs, pMacs sort purified from 50:50 WT:CD1d-KO
+  bone-marrow chimeras and BMDCs as indicated (n = 4–11). Bars represent mean +/− SEM;
+  *p < 0.05; **p < 0.01; ***p < 0.001, one-sample t-test. Values for n represent biologically
+  independent samples (as shown by the number of data points in each graph). n = cells
+  isolated from individual mice. Source data are provided as a Source Data file.
+article_title: CD1d-dependent rewiring of lipid metabolism in macrophages regulates
+  innate immune responses.
+citation: Phillip M. Brailey, et al. Nat Commun. 2022;13:6723.
+year: '2022'
+
+doi: 10.1038/s41467-022-34532-x
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Pattern recognition receptors
+- Monocytes and macrophages
+
+---

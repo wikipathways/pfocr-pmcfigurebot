@@ -1,0 +1,33 @@
+---
+figid: PMC9676265__fgene-13-1020899-g002
+pmcid: PMC9676265
+image_filename: fgene-13-1020899-g002.jpg
+figure_link: /pmc/articles/PMC9676265/figure/F2/
+number: FIGURE 2
+figure_title: ''
+caption: Functional enrichment analysis and interaction of key DEGs. (A) PPI network
+  of key DEGs. (B) Key modules in the PPI network. The lines indicate the interaction
+  between the DEGs. (C) GO enrichment bars for key DEGs. The ordinate indicates the
+  enriched GO term, the length of the bars indicates the number of DEGs, and the colour
+  from blue to red indicates the confidence from low to high. (D) Bubble chart of
+  KEGG functional enrichment for key DEGs. The ordinate indicates the enrichment KEGG
+  pathway, the bubble size indicates the number of DEGs, and the colour from blue
+  to red indicates the confidence from low to high.
+article_title: 'Identification of biomarkers in nonalcoholic fatty liver disease:
+  A machine learning method and experimental study.'
+citation: Na Han, et al. Front Genet. 2022;13:1020899.
+year: '2022'
+
+doi: 10.3389/fgene.2022.1020899
+journal_title: Frontiers in Genetics
+journal_nlm_ta: Front Genet
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- NAFLD
+- machine learning
+- biomarkers
+- bioinformactics
+- immune infiltration
+
+---

@@ -1,0 +1,59 @@
+---
+figid: PMC8648894__nihms-1711852-f0001
+pmcid: PMC8648894
+image_filename: nihms-1711852-f0001.jpg
+figure_link: /pmc/articles/PMC8648894/figure/F1/
+number: Fig. 1
+figure_title: ''
+caption: A simplified diagram of cell proliferation signaling in the crowded cell.
+  In the presence of the receptor tyrosine kinase (RTK) signal, Ras gets activated
+  (upper left region). Ras activates Raf through the kinase domain dimerization. Active
+  Raf dimer activates MEK, and subsequently activates ERK through cascading phosphorylation,
+  leading to cell proliferation. Oncogenic Ras forms nanoclusters, promoting Raf dimerization
+  (upper right region). In the MAPK pathway, KSR scaffolds MEK and ERK, substituting
+  Raf and forming heterodimer with Raf. In the PI3K/AKT/mTOR pathway, both RTK and
+  Ras recruit PI3K to the plasma membrane and fully activate it (lower right region).
+  PI3K phosphorylates signaling lipid, PIP2 to PIP3, leading to cell growth. PTEN
+  dephosphorylates PIP3 to PIP2, suppressing the growth signal. In the missing RTK
+  signal, both CaM and KRas4B can fully activate PI3Kα in the KRAS-driven adenocarcinoma
+  (lower left region). PDK1 and mTORC2 phosphorylate and activate AKT, and active
+  AKT phosphorylates multiple sites in TSC (tuberous sclerosis complex) containing
+  TSC1, TSC2, and TBC (Tre2-Bub2-Cdc16). Phosphorylated TSC impairs the GAP activity
+  for RHEB (Ras homolog enriched in brain), increasing the population of active GTP-bound
+  RHEB. At the lysosomal surface in the presence of cytosolic amino acids, RHEB-GTP
+  activates mTORC1 in complex with the LYNUS (lysosome nutrient sensing) machinery.
+  The LYNUS complex involves a heterodimer of Rag isoforms, Ragulator, SLC38A9 (sodium-coupled
+  neutral amino acid transporter 9, an arginine-regulated transporter), and V-ATPase
+  (vacuolar ATPase, a proton pump). IQGAP1 is a scaffolding protein in both MAPK and
+  PI3K/AKT pathways (right region). The multi-domain protein of IQGAP1 is composed
+  of the N-terminal CHD (calponin-homology domain), IQ repeats, WW (polyproline binding
+  region) domain, IQ domain with four IQ motifs, GRD (Ras GTPase activating protein-related
+  domain), and RGCT (RasGAP C-terminus). Here we propose that the entities are not
+  physically separated as shown here, but dynamically physically linked, transiently
+  clustered within phases, in line with high resolution imaging, such as that of the
+  ER and actin [], and actin, spectrin, and other molecules forming a MPS (membrane-associated
+  periodic skeleton) in neurons to which e.g. GPCRs (G protein-coupled receptors),
+  cell adhesion molecules, RTKs, are recruited to promote ERK signaling [].
+article_title: Signaling in the crowded cell.
+citation: Ruth Nussinov, et al. Curr Opin Struct Biol. ;71:43-50.
+year: '2023'
+
+doi: 10.1016/j.sbi.2021.05.009
+journal_title: Current opinion in structural biology
+journal_nlm_ta: Curr Opin Struct Biol
+publisher_name: ''
+
+keywords:
+- Ras nanoclusters
+- cytoskeleton
+- phase separation
+- membraneless
+- allosteric
+- co-localization
+- scaffolding
+- chromatin accessibility
+- targeted therapy
+- K-Ras
+- network medicine
+
+---

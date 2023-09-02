@@ -1,0 +1,43 @@
+---
+figid: PMC9660330__fimmu-13-965342-g011
+pmcid: PMC9660330
+image_filename: fimmu-13-965342-g011.jpg
+figure_link: /pmc/articles/PMC9660330/figure/f11/
+number: Figure 11
+figure_title: ''
+caption: Dose-dependent inhibitory effects of CKI on the proliferation, clone formation
+  and migration of MDA-MB-231 cells. (A) The viability of MDA-MB-231 cells treated
+  with different concentrations of CKI for 24, 48, and 72 h, respectively. (B) Clone
+  formation images of MDA-MB-231 cells treated with different concentrations of CKI.
+  (C) Wound healing images of MDA-MB-231 cells treated with different concentrations
+  of CKI for 6, 12, 24 and 48 h, respectively. (D) Bar plot showing clone formation
+  rates. (E) Bar plot showing wound healing rates. (F) Heatmap of significantly differential
+  genes. Top 20 up- and down-regulated genes in the differential genes with base mean
+  larger than the median value were shown. (G) Volcano plot of significantly differential
+  genes. The red dot represents up-regulated genes (adjusted P < 0.05 and log2FC >
+  1) and the green dot represents down-regulated genes (adjusted P < 0.05 and log2FC
+  < -1). Top 10 up- and down-regulated differential genes were labeled. (H) GSEA analysis
+  of genes involved in MYC targets variant 2 pathway. (I) GSEA analysis of genes involved
+  in E2F targets pathway. (J) GSEA analysis of genes involved in MYC targets variant
+  1 pathway. (K) GSEA analysis of genes involved in G2M checkpoint pathway. Data represents
+  mean ± SD (n=3 per group). *0.01 < P < 0.05, **0.001 < P < 0.01, ***P < 0.001. ns,
+  non-significant.
+article_title: Single-cell RNA-sequencing uncovers compound kushen injection synergistically
+  improves the efficacy of chemotherapy by modulating the tumor environment of breast
+  cancer.
+citation: Xinkui Liu, et al. Front Immunol. 2022;13:965342.
+year: '2022'
+
+doi: 10.3389/fimmu.2022.965342
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- compound kushen injection
+- triple-negative breast cancer
+- 4T1 tumor bearing mice
+- single cell RNA-sequencing
+- T lymphocytes
+
+---

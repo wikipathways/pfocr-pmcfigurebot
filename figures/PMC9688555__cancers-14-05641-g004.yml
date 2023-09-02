@@ -1,0 +1,34 @@
+---
+figid: PMC9688555__cancers-14-05641-g004
+pmcid: PMC9688555
+image_filename: cancers-14-05641-g004.jpg
+figure_link: /pmc/articles/PMC9688555/figure/cancers-14-05641-f004/
+number: Figure 4
+figure_title: ''
+caption: The correlations between CYP1B1 expression and TMB, MSI, neoantigen, and
+  immune-related pathways. (A) Correlations between CYP1B1 expression and TMB in cancer.
+  (B) Correlation between CYP1B1 and MSI in cancer. (C) Correlation between CYP1B1
+  and neoantigen in cancer. (D,E) The melatonin-related pathways enriched by ssGSEA
+  analysis in LIHC (D) and STAD (E). (F,G) The classical immune related pathways enriched
+  by ssGSEA analysis in LIHC (F) and STAD (G). Two groups (High-expression and Low-expression)
+  of pathway scores with boxplots using the Mann-Whitney U test. * p < 0.05; ** p
+  < 0.01; *** p < 0.001; **** p < 0.0001.
+article_title: 'CYP1B1: A Novel Molecular Biomarker Predicts Molecular Subtype, Tumor
+  Microenvironment, and Immune Response in 33 Cancers.'
+citation: Benchao Yuan, et al. Cancers (Basel). 2022 Nov;14(22):5641.
+year: '2022'
+
+doi: 10.3390/cancers14225641
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- pan-cancer
+- CYP1B1
+- tumor mutation burden
+- microsatellite instability
+- neoantigen
+- immune activity
+
+---

@@ -1,0 +1,32 @@
+---
+figid: PMC9648002__13059_2022_2803_Fig8_HTML
+pmcid: PMC9648002
+image_filename: 13059_2022_2803_Fig8_HTML.jpg
+figure_link: /pmc/articles/PMC9648002/figure/Fig8/
+number: Fig. 8
+figure_title: ''
+caption: Summary of somatic SVs detected in PacBio long-read sequencing data and assembled
+  contigs. A Counts of somatic SVs with supports from two or more calling methods
+  in tumor sample (HCC1395) using PacBio long reads and assembled contigs on HCC1395BL_v1.0
+  as compared to GRCh38 references. B Mapping 744 GRCh38-based somatic SVs that were
+  supported by three or more calling methods onto HCC1395BL_v1.0, 531 SVs were mapped
+  with matched SVs on HCC1395BL_v1.0, and 129 SVs were mapped but without matching
+  SVs, whereas 84 SVs were considered “unmapped” on HCC1395BL_v1.0. C KEGG pathway
+  enrichment analysis for 86 genes overlapped with 91 novel SVs. Shown here are the
+  top 10 enriched pathways with “odds ratio” (zScore) and log (p-value) on the y-axis.
+  The numeric labels are the enriched gene counts versus the total genes in each pathway.
+  D Repeat annotation for the sequences of 72 deletions from 91 SVs that overlapped
+  86 gene regions using RepeatMasker showed that 32 deletions overlapped 10 classes
+  of repeat families, among them 17 SINE/Alu, 8 simple repeats, and 3 retroposon/SVA
+article_title: Personalized genome assembly for accurate cancer somatic mutation discovery
+  using tumor-normal paired reference samples.
+citation: Chunlin Xiao, et al. Genome Biol. 2022;23:237.
+year: '2022'
+
+doi: 10.1186/s13059-022-02803-x
+journal_title: Genome Biology
+journal_nlm_ta: Genome Biol
+publisher_name: BioMed Central
+
+keywords:
+---

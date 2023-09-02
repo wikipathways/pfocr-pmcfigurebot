@@ -1,0 +1,58 @@
+---
+figid: PMC9656664__ijms-23-12801-g005
+pmcid: PMC9656664
+image_filename: ijms-23-12801-g005.jpg
+figure_link: /pmc/articles/PMC9656664/figure/ijms-23-12801-f005/
+number: Figure 5
+figure_title: ''
+caption: Computational model of the heteromeric TM4/5 CB2R-OX1R interface. (A,B) The
+  possible modulation (indicated by the black arrows) of an antagonist to a neighbor
+  receptor through a network of aromatic residues connecting both orthosteric sites,
+  viewed from the membrane. (A) the CB2R/JWH133-OX1R/SB334867 complex; The experimental
+  structure of the OX1R antagonist SB334867 revealed the presence of two copies of
+  the ligand in the binding pocket interacting antiparallelly with each other, which
+  resulted in a large ligand volume near TM5. (B) The CB2R/SR144528-OX1R/orexin-A.
+  Similarly, the CB2R antagonist SR144528 puts an aromatic ring at the region where
+  most CB ligands place the alkyl chain (such as in JHW133), also towards TM5. The
+  CB2R receptor is shown in gold and the OX1R receptor in blue. Small-molecule ligands
+  and aromatic side chains connecting the pockets are shown as sticks; orexin-A with
+  a thick green cartoon. Dotted boxes indicate TMs 4 and 5 of both receptors. In (C)
+  detail of the CB2R/SR144528-OX1R/orexin-A complex viewed from the extracellular
+  side superposing different orientations of the extracellular portion of TM5 and
+  proximal region of the second extracellular loop (ECL2) (i) from the OX2R/orexin-B
+  complex (PDB id 7L1U, cylinder and loop in light blue), which would clash sterically
+  with the TM4 of the CB2R; and (ii) from the OX1R/SB334867 complex (PDB id 6TQ7,
+  pink cylinder), which orients in a direction that does not directly face TM4 and
+  better avoids the possible clashes with it TM4. Arrows indicate the movements of
+  TM5 helices towards the TM5 modeled in the heteromer (see , dark blue) []. This
+  complex shows a characteristic signaling where the OX1R selective antagonist potentiates
+  the cannabinoid CB2R function in cAMP signaling while it blocks the indirect MAPK
+  pathway. These interesting results are also observed in resting microglia. However,
+  in activated microglia, the OX1R antagonist blockade became stronger, inducing a
+  higher potentiation of CB2R cannabinoid signaling not only in cAMP but also in MAPK
+  signaling. These results can be explained because in primary microglia from the
+  transgenic AD model, the CB2-OX1 receptor heteromer expression is significantly
+  higher than in equivalent cells from control animals, as shown by PLA. This finding
+  suggests that the heteromer could be a target to combat neurodegeneration. We have
+  previously shown that primary microglia from this AD model have an activated phenotype
+  that is, likely, neuroprotective [,,]. This hypothesis would explain why cognitive
+  deficits do not appear at birth but later in life. Future research should address
+  whether the CB2-OX1 receptor heteromer is a suitable target to skew microglia to
+  the neuroprotective phenotype.
+article_title: Antagonization of OX1 Receptor Potentiates CB2 Receptor Function in
+  Microglia from APPSw/Ind Mice Model.
+citation: Iu Raïch, et al. Int J Mol Sci. 2022 Nov;23(21):12801.
+year: '2022'
+
+doi: 10.3390/ijms232112801
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- orexin
+- cannabinoids
+- Alzheimer’s disease
+- activated microglia
+
+---

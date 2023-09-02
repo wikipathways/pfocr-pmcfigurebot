@@ -1,0 +1,64 @@
+---
+figid: PMC9635874__elife-68760-fig2
+pmcid: PMC9635874
+image_filename: elife-68760-fig2.jpg
+figure_link: /pmc/articles/PMC9635874/figure/fig2/
+number: Figure 2
+figure_title: CeA-PKCδ inhibitory projections to the ZI (A) Schematic drawing of retrograde
+  tracing experimental approach (left panel)
+caption: 'Fluorescently tagged cholera toxin B (CTB-647) was injected into the ZI
+  of a PKCδ-cre::Ai9 mouse brain. A representative coronal brain slice depicting the
+  focal injection of CTB-647 (cyan) into the ZI is shown in the middle panel. A representative
+  coronal brain slice containing the CeA is shown in the right panel. PKCδ-tdTomato
+  cells are shown in red. The white square delineates the area magnified in panel
+  B. Scale bar represents 1000 µm. (B) Representative high magnification images of
+  the CeA in a PKCδ-cre::Ai9 mouse injected with CTB-647 into the ZI. CTB-positive
+  cells are shown in cyan and PKCδ-tdTomato cells in red. The merged image is shown
+  on the right. Lower insets show higher magnification images of the area delineated
+  by the white squares in the top panel. Arrowheads highlight cells that are positive
+  for CTB and PKCδ-tdTomato. Scale bars represent 100 µm (top panel) and 10 µm (bottom
+  panel). The mean ± SEM percentage of PKCδ or CTB cells co-labeled for both PKCδ
+  and CTB as a function of the rostral-caudal level is shown on the right (n=2 mice,
+  8 slices per mouse). (C) Schematics for the optogenetically assisted circuit mapping
+  experiments. VGAT-cre::Ai9 and C57BL/6 J mice were stereotaxically injected with
+  AAV-hsyn-hChR2-EYFP into the CeA. Lower left panel – perisomatic ChR2-EYFP (green)
+  in VGAT-positive CeA neurons (red) are highlighted by white arrows. Lower right
+  panel – CeA terminals (green; white arrows) in proximity to VGAT-positive ZI neurons
+  (red; blue arrows). Scale bars are 20 µm. (D) Schematic diagram and differential
+  contrast image of the ZI for ex-vivo whole-cell recordings in acute ZI brain slices
+  is shown in the left panel. Scale bar is 500 µm. Top right panel - Representative
+  traces showing responses of VGAT-positive (cyan) and VGAT-negative (blue) ZI neurons
+  upon optical paired pulse stimulation of ChR2-expressing CeA terminals (0.5–10ms
+  duration, 200ms inter-stimulus interval). Ten overlaid responses are shown in black
+  and the averaged response in cyan or blue. Blue bars under the traces represent
+  the timing and duration of blue light stimulation. The mean ± SEM paired pulse ratio
+  is shown on the bottom right panel (n=8 VGAT-negative and 12 VGAT-positive cells).
+  (E) Representative traces of optically evoked inhibitory postsynaptic currents (oIPSCs)
+  of ZI neurons before and 3 min after bath exchange to ACSF containing 10 μM Bicuculline
+  (Bic). The mean ± SEM of the oIPSC amplitude is shown on the right panel (n=7 cells
+  collected from 7 mice; paired two-tailed t-test: t=3.361, df = 6, *p=0.0152 for
+  ACSF vs Bicuculline). (F) Representative traces of light-evoked responses recorded
+  at 0 mV and –70 mV. The mean ± SEM response amplitude is shown on the right panel
+  (n=10 cells collected from 7 mice; paired two-tailed t-test: t=5.879, df = 9, ***p=0.0002
+  for 0 mV vs –70 mV). See . Figure 2—source data 1.Source data for anatomical and
+  electrophysiological validation of CeA-PKCd to ZI pathway.'
+article_title: An inhibitory circuit from central amygdala to zona incerta drives
+  pain-related behaviors in mice.
+citation: Sudhuman Singh, et al. eLife. 2022;11:e68760.
+year: '2022'
+
+doi: 10.7554/eLife.68760
+journal_title: eLife
+journal_nlm_ta: eLife
+publisher_name: eLife Sciences Publications, Ltd
+
+keywords:
+- pain
+- central amygdala
+- zona incerta
+- pain pathways
+- amygdala circuit
+- protein kinase c delta
+- Mouse
+
+---

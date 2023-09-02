@@ -1,0 +1,47 @@
+---
+figid: PMC9652997__13578_2022_919_Fig4_HTML
+pmcid: PMC9652997
+image_filename: 13578_2022_919_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9652997/figure/Fig4/
+number: Fig. 4
+figure_title: ''
+caption: Effect of SIRT4 overexpression on methionine cycle and HCC tumorigenesis.
+  A Heatmap displaying metabolite changes upon methionine restriction (MR). The red
+  color indicates detected metabolites were increased while the blue ones decreased
+  between MR and Ctrl conditions in six biological replicates. B Pathway enrichment
+  analysis of differentially detected metabolites (fold change > 1.5, p-value < 0.05)
+  upon methionine restriction in MetaboAnalyst 4.0. The circle color is indicative
+  of the level of enrichment significance, with yellow being low and red being high.
+  The circle size is proportional to the pathway impact value. C Schematic of the
+  methionine cycle. D The changes of specific metabolites upon methionine restriction.
+  Blue means increased while red indicates decreased. E Western blot analysis of modified
+  histones in the cell culture supplemented with specific metabolites. Total histone
+  H3 was used as a loading control. F, G Migration and sphere formation efficiency
+  of primary liver cells derived from SIRT4+/+ and SIRT4−/− mice under control or
+  methionine restriction conditions. Quantification was shown in the right panel.
+  H Immunoblot showing SIRT4 protein level in the liver lysates of SIRT4+/+ and SIRT4−/−
+  mice. I, J Tumour volumes and survival analysis of SIRT4+/+ and SIRT4−/− mice. n = 5
+  mice per group. Data are means ± SEM. Group differences were analyzed by two-way
+  ANOVA followed by Tukey’s multiple comparison test (F, G, I) or log-rank test (J)
+  (**p < 0.01, ***p < 0.001 ****p < 0.0001). n.s., not significant
+article_title: mTORC1-c-Myc pathway rewires methionine metabolism for HCC progression
+  through suppressing SIRT4 mediated ADP ribosylation of MAT2A.
+citation: Liang Zhao, et al. Cell Biosci. 2022;12:183.
+year: '2022'
+
+doi: 10.1186/s13578-022-00919-y
+journal_title: Cell & Bioscience
+journal_nlm_ta: Cell Biosci
+publisher_name: BioMed Central
+
+keywords:
+- Cancer
+- mTOR
+- c-Myc
+- SIRT4
+- MAT2A
+- TRIM32
+- ADP ribosylation
+- Methionine metabolism
+
+---

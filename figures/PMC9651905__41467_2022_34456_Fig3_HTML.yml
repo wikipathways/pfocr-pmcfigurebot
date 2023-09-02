@@ -1,0 +1,32 @@
+---
+figid: PMC9651905__41467_2022_34456_Fig3_HTML
+pmcid: PMC9651905
+image_filename: 41467_2022_34456_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC9651905/figure/Fig3/
+number: Fig. 3
+figure_title: Pathway and gene set enrichment analyses
+caption: a Pathway enrichment analysis for genes at the significant GWAS loci (two-sided
+  enrichment test P-values). b Gene-set enrichment for genes that cause abnormal IgA
+  level. c abnormal immune tolerance; and (d) abnormal response to infection when
+  genetically manipulated in mice. The y-axis shows the fixed effects meta-analysis
+  –log10 (P-value) for the variant with the lowest two-sided unadjusted P-value in
+  each candidate gene. The dashed line corresponds to genome-wide significance (P
+  = 5 × 10−8). Enrichment P-value corresponds to the two-sided Fisher exact test comparing
+  the observed number of genes with association signals below the genome-wide threshold
+  against the number expected under binomial distribution.
+article_title: Genetic regulation of serum IgA levels and susceptibility to common
+  immune, infectious, kidney, and cardio-metabolic traits.
+citation: Lili Liu, et al. Nat Commun. 2022;13:6859.
+year: '2022'
+
+doi: 10.1038/s41467-022-34456-6
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Genome-wide association studies
+- Mucosal immunology
+- IgA nephropathy
+
+---

@@ -1,0 +1,40 @@
+---
+figid: PMC9702992__fimmu-13-935710-g004
+pmcid: PMC9702992
+image_filename: fimmu-13-935710-g004.jpg
+figure_link: /pmc/articles/PMC9702992/figure/f4/
+number: Figure 4
+figure_title: ''
+caption: Macrophages with dysregulated CMPK2 display increased hypoxia. (A) Scatter
+  plot of genes differentially expressed in KD or OE macrophages relative to the expression
+  levels in the control macrophages (NT or VC), respectively. Change in expression
+  is depicted as log2 fold change in expression. The number of genes upregulated and
+  downregulated in the macrophages is depicted as a Venn diagram (inset). (B) GSEA
+  hallmark pathway enrichment analysis of the commonly upregulated and downregulated
+  genes in the KD and OE macrophages are represented as a bubble plot. X axis is the
+  number of genes of the pathway and size of the bubble depicts significance (−log
+  p-value). (C) Heat map of the hypoxia response gene expression in the CMPK2 dysregulated
+  macrophages KD and OE. The values represent log2 fold change from the corresponding
+  control cells. (D) Analysis of HIF1α in protein extracts of NT, KD, VC, and OE cells.
+  Equal amounts of protein from the different extracts were probed with specific antibodies,
+  and a representative blot of three independent experiments is depicted. The change
+  in expression level of HIF1α with respect to α-TUBULIN was calculated by densitometric
+  analysis and is graphically represented. GSEA, Gene Set Enrichment Analysis. **p<0.01.
+article_title: The mitochondrial gene-CMPK2 functions as a rheostat for macrophage
+  homeostasis.
+citation: Prabhakar Arumugam, et al. Front Immunol. 2022;13:935710.
+year: '2022'
+
+doi: 10.3389/fimmu.2022.935710
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- CMPK2
+- M1 macrophage
+- immuno-metabolism
+- mitochondria
+- infection
+
+---

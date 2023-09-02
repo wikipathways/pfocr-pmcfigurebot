@@ -1,0 +1,33 @@
+---
+figid: PMC9682532__ijbsv18p6068g001
+pmcid: PMC9682532
+image_filename: ijbsv18p6068g001.jpg
+figure_link: /pmc/articles/PMC9682532/figure/F1/
+number: Figure 1
+figure_title: ''
+caption: GALNT1 as a candidate target in gastric cancer by bioinformatics analysis.
+  A, GALNT1 expression in different types of human cancers. B, Analysis of GALNT1
+  expression in gastric cancer using the GEPIA database. C-E, Analysis of GALNT1 expression
+  grouped by gastric cancer grade (C), pathological stages (D), and lymph node metastasis
+  status (E). *** p<0.001. F, Overall survival comparing low and high expression of
+  GALNT1 in gastric cancer from TCGA datasets is shown. G, The receiver-operating
+  characteristic (ROC) curve analysis of GALNT1 in patients with gastric cancer from
+  TCGA datasets.
+article_title: GALNT1 Enhances Malignant Phenotype of Gastric Cancer via Modulating
+  CD44 Glycosylation to Activate the Wnt/β-catenin Signaling Pathway.
+citation: Junchang Zhang, et al. Int J Biol Sci. 2022;18(16):6068-6083.
+year: '2022'
+
+doi: 10.7150/ijbs.73431
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- Gastric cancer
+- GALNT1
+- CD44
+- O-Glycosylation
+- Wnt/β-catenin signaling pathway
+
+---

@@ -1,0 +1,42 @@
+---
+figid: PMC9675355__nihms-1850661-f0005
+pmcid: PMC9675355
+image_filename: nihms-1850661-f0005.jpg
+figure_link: /pmc/articles/PMC9675355/figure/F5/
+number: Figure 5
+figure_title: Regulators of nucleotide excision repair (NER) in melanocytes
+caption: NER is the major DNA repair pathway in mammals which removes UV-induced CPDs
+  and (6–4) PPs from the genomic DNA. It is broadly classified as global genomic NER
+  (GG-NER) and transcription-coupled NER (TC-NER). Of the two, GG-NER is the major
+  type of NER which is initiated upon detection of photolesions by XPC (sensor proteins),
+  which then recruits other NER proteins. NER in its entirety is a self-driven process
+  which helps maintain the genomic integrity of the cell; however, it takes input
+  from various cellular process to function effectively. In melanocytes, apart from
+  the standard endogenous regulator of NER, it is influenced by exogenous factors
+  like the melanin stimulating hormone (MSH) and endothelin 1 (ET1), classified as
+  paracrine factors. These factors influence the DNA damage sensor protein ATR, which
+  in turn influences NER either directly through a p53-mediated pathway or by stabilization
+  of XPA, an essential rate-limiting protein of NER. In parallel, the circadian clock
+  influences NER through transcriptional regulation of XPA. Overall, the clock regulation
+  of NER makes the process efficient, as it anticipates the requirement of NER according
+  to time of the day.
+article_title: 'Solar UV-induced DNA damage response: Melanocytes story in transformation
+  to environmental melanomagenesis.'
+citation: Soumyadeep Sarkar, et al. Environ Mol Mutagen. ;61(7):736-751.
+year: '2023'
+
+doi: 10.1002/em.22370
+journal_title: Environmental and molecular mutagenesis
+journal_nlm_ta: Environ Mol Mutagen
+publisher_name: ''
+
+keywords:
+- Melanocytes
+- Solar UVB
+- DDR signaling
+- NER
+- αMSH
+- End1
+- Circadian clock
+
+---

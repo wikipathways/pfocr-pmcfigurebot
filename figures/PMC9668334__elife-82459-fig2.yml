@@ -1,0 +1,59 @@
+---
+figid: PMC9668334__elife-82459-fig2
+pmcid: PMC9668334
+image_filename: elife-82459-fig2.jpg
+figure_link: /pmc/articles/PMC9668334/figure/fig2/
+number: Figure 2
+figure_title: Functional annotations and validations of genes associated with genome-wide
+  associations studies (GWAS) for cardiac performance
+caption: '(A) Gene Ontology (GO) enrichment analyses. Selected molecular functions
+  (MF, left) and cellular components (CC, right) associated with cardiac performances
+  at FDR < 0.05 are shown. Enrichment analysis was performed using G:profiler with
+  a correction for multitesting (see Materials and methods). (B) Interaction network
+  of genes associated with natural variations of cardiac performance. Direct genetic
+  and physical interactions between cardiac fly GWAS genes are displayed. Nodes represent
+  genes and/or proteins, edges represent interactions (blue: genetic; black: physical).
+  Node shapes refer to single marker and/or epistasis GWAS, node color to the cardiac
+  performances phenotype(s) for which associations were established. Genes and proteins
+  highlighted in pink point to transcription factors, in green and blue to signaling
+  pathways (FGF and TGFb, respectively), and in yellow to ion channels. (C) Heatmap
+  representing the effects on indicated cardiac traits of heart-specific RNAi-mediated
+  knockdown (KD) of 42 genes identified in GWAS for cardiac performance. Results of
+  Wilcoxon rank sum test of the effects of indicated heart-specific RNAi-mediated
+  gene KD (rows) for cardiac performance traits (columns), analyzed on semi-intact
+  1-week females flies. Detailed data are presented in . Thirty-eight (out of 42)
+  genes tested lead to significant effects on cardiac performance traits upon KD.
+  Black dots indicate the trait(s) for which the corresponding gene was associated
+  in GWAS. ns: not significant; *: pval <0.05; **: pval <0.01; ***: pval <0.005; ****pval
+  <0.0001 (p-values were adjusted for multiple testing using Bonferroni correction).
+  Comparison with heart-specific effect of random selected genes is displayed in .
+  (D) Schematic drawing of BMP and activin pathways in Drosophila. (E) Genetic interactions
+  between BMP and activin pathway genes. Genetic interactions tested between snooBSC234
+  and sogU2 for SI and between dppd14 and babo32 for FS (other phenotypes are shown
+  in ). Cardiac traits were measured on each single heterozygotes and on double heterozygotes
+  flies. Two-way ANOVA reveals that the interaction between snooBSC234 and sogU2 for
+  SI and between dppd14 and babo32 for FS are significant. Detailed data for interaction
+  effect corresponding to all phenotypes are displayed in . Figure 2—source data 1.Collection
+  of physical (IP, Y2H) and genetic interactions identified in Drosophila.  Figure
+  2—source data 2.Data from validation experiments.(Heart-specific RNAi validations
+  and tests for genetic interactions among BMP members.)'
+article_title: Genetic architecture of natural variation of cardiac performance from
+  flies to humans.
+citation: Saswati Saha, et al. eLife. 2022;11:e82459.
+year: '2022'
+
+doi: 10.7554/eLife.82459
+journal_title: eLife
+journal_nlm_ta: eLife
+publisher_name: eLife Sciences Publications, Ltd
+
+keywords:
+- heart function
+- GWAS
+- gene regulatory networks
+- Drosophila
+- human
+- conserved genetic architecture
+- D. melanogaster
+
+---

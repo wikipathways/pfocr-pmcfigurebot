@@ -1,0 +1,33 @@
+---
+figid: PMC9695006__metabolites-12-01037-g003
+pmcid: PMC9695006
+image_filename: metabolites-12-01037-g003.jpg
+figure_link: /pmc/articles/PMC9695006/figure/metabolites-12-01037-f003/
+number: Figure 3
+figure_title: ''
+caption: Exosome metabolite profiling. Purified exosomes were analyzed by LC-MS/MS.
+  (A) HCA showed the clustered m/z features of exosomes in SH003, DTX, and combination
+  groups. (B) PCA score plots showing the variation of clusters based on measured
+  metabolites. (C) The pathway on significant metabolites identified after combined
+  SH003 and DTX treatment was mapped from the KEGG database. Enrichment statistics
+  and topology analysis of pathways were performed by MetaboAnalyst 5.0.
+article_title: Metabolomic Analysis of Exosomes Derived from Lung Cancer Cell Line
+  H460 Treated with SH003 and Docetaxel.
+citation: Yu-Jeong Choi, et al. Metabolites. 2022 Nov;12(11):1037.
+year: '2022'
+
+doi: 10.3390/metabo12111037
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: MDPI
+
+keywords:
+- non-small cell lung cancer
+- exosome
+- SH003
+- docetaxel
+- pyrimidine metabolism
+- metabolism of xenobiotics by cytochrome P450
+- predictive biomarker
+
+---

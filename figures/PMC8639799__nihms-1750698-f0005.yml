@@ -1,0 +1,41 @@
+---
+figid: PMC8639799__nihms-1750698-f0005
+pmcid: PMC8639799
+image_filename: nihms-1750698-f0005.jpg
+figure_link: /pmc/articles/PMC8639799/figure/F5/
+number: 'Figure 5:'
+figure_title: Mechanism of mDAAO-dependent H2S generation and detection in response
+  to D-cysteine
+caption: (A) This left hand portion of this schematic represents the simplified biochemical
+  pathway for the oxidation of D-Cysteine by mDAAO to 3-mercaptopyruvate, leading
+  to formation of H2S.The right hand portion of the schematic shows reduction of the
+  genetically encoded hsGFP biosensor upon its interaction with H2S. (B) The left
+  panel shows representative real-time traces of chemogenetically-produced H2S in
+  response to 1 mM D-Alanine, D-Methionine, and D-Cysteine, respectively, in HEK293
+  cells co-expressing untargeted hsGFP and mCherry-mDAAO-NLS. The bar graph shows
+  statistical analysis of the maximum response of hsGFP in response to 1 mM D-Alanine
+  (n=27, white bar), 1 mM D-Methionine (n=27, black bar), 1 mM D-Cysteine (n=27, yellow
+  bar). One-way ANOVA and Bonferroni’s multiple comparison post-test were applied
+  to compare all columns with each other, p < 0.0001 P-value summary ***. All values
+  are given as ±SD.
+article_title: 'Complexities of the chemogenetic toolkit: differential mDAAO activation
+  by D-amino substrates and subcellular targeting.'
+citation: Yusuf C. Erdogan, et al. Free Radic Biol Med. ;177:132-142.
+year: '2023'
+
+doi: 10.1016/j.freeradbiomed.2021.10.023
+journal_title: Free radical biology & medicine
+journal_nlm_ta: Free Radic Biol Med
+publisher_name: ''
+
+keywords:
+- D-amino Acid Oxidase (DAAO) catalysis and targeting
+- D-amino acids
+- Hydrogen Peroxide
+- Hydrogen Sulfide
+- Genetically Encoded Biosensors
+- hsGFP
+- HyPer7
+- Multiparametric imaging
+
+---

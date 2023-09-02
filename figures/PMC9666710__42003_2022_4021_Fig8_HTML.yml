@@ -1,0 +1,38 @@
+---
+figid: PMC9666710__42003_2022_4021_Fig8_HTML
+pmcid: PMC9666710
+image_filename: 42003_2022_4021_Fig8_HTML.jpg
+figure_link: /pmc/articles/PMC9666710/figure/Fig8/
+number: Fig. 8
+figure_title: Comprehensive serine/threonine/tyrosine phosphoproteomics confirm EGFR1
+  pathway involvement in TgErbB2 hypertrophy and tyrosine kinase receptor inhibition
+  by AG-825
+caption: a A heatmap was used to visualize the unsupervised hierarchical clustering
+  of Ser/Thr peptides, and b pTyrosine peptides normalized to full proteome expression
+  with p-value < 0.05 by ANOVA. Overrepresented (yellow) and underrepresented (Blue).
+  c Volcano plots showing the Log2 fold-change and –Log10 p-value of each pSer/pThr
+  peptide and d pTyr peptides in the pairwise comparison of Ntg and TgErbB2 after
+  two weeks of Vehicle Treatment. e Volcano plots showing the Log2 fold-change and
+  –Log10 p-value of each pSer/pThr peptide and f pTyr peptides in the pairwise comparison
+  of Ntg and TgErbB2 after two weeks of AG-825 Treatment, (g) KSEA shows in a red
+  rectangle the kinases significantly inhibited by AG-825. KSEA and Pathway Enrichment
+  Analysis of combined Ser/Thr/Tyr phosphorylation data analysis using PTMSigDB confirm
+  that EGFR1 Pathway is significantly involved. h The Signaling Network Open Resource
+  (Signor 2.0) analysis shows that nine kinases are involved in the EGFR pathway.
+  Kinases found in the network and also in KSEA are circled in dotted blue circles.
+  The symbol code of the network is displayed next to the pathway.
+article_title: Alteration in tyrosine phosphorylation of cardiac proteome and EGFR
+  pathway contribute to hypertrophic cardiomyopathy.
+citation: Mingguo Xu, et al. Commun Biol. 2022;5:1251.
+year: '2022'
+
+doi: 10.1038/s42003-022-04021-4
+journal_title: Communications Biology
+journal_nlm_ta: Commun Biol
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Proteomics
+- Cardiac hypertrophy
+
+---

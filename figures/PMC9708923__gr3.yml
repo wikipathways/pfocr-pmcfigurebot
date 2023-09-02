@@ -1,0 +1,36 @@
+---
+figid: PMC9708923__gr3
+pmcid: PMC9708923
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9708923/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: Pairwise comparison of optic nerve head and optic nerve proper astrocytes(A)
+  Volcano plot for all genes tested in ONH vs ONP astrocytes. The top 20 most significant
+  genes are annotated. Dotted line indicates the p value cutoff for significance (0.05).(B)
+  Heatmap showing the variation in expression level across samples for the top 50
+  DEGs, based on rank from smallest to largest adjusted p value. The color code reflects
+  the deviation from the mean expression across all samples for the given gene (Z
+  score).(C) Normalized enrichment scores (NES, in absolute value) of significant
+  pathways identified in gene set enrichment analysis of ONH vs ONP astrocytes. Significance
+  is adjusted p value < 0.05. Each pathway is color matched for the broader category
+  it belongs to.(D) Schematic of the oxidative phosphorylation pathway from KEGG and
+  a table showing in red genes enriched in the metabolism/TCA cycle and respiratory
+  electron transport pathway in panel (C). Many of the genes belonging to Complex
+  I were enriched in our dataset.
+article_title: Astrocyte heterogeneity within white matter tracts and a unique subpopulation
+  of optic nerve head astrocytes.
+citation: Arpan G. Mazumder, et al. iScience. 2022 Dec 22;25(12):105568.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.105568
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Sensory neuroscience
+- cell biology
+- transcriptomics
+
+---

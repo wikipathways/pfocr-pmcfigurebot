@@ -1,0 +1,45 @@
+---
+figid: PMC9672449__gr1
+pmcid: PMC9672449
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC9672449/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: Scaffold STE5 has pathway regulatory properties mediated via conformational
+  changes. On the left is the traditional stable platform depiction of the three-tiered
+  MAPK cascade modulated by STE5 in yeast, where α-factor binds to STE2 and a phosphorylation
+  cascade involving STE11, STE7, and FUS3 is initiated. This leads to the eventual
+  phosphorylation of the STE12 transcription factor to initiate transcription of mating
+  response genes. On right is a more detailed depiction of the complexity of STE5’s
+  role in the pathway. In unstimulated cells, STE5 is in a closed state where FUS3
+  binding is blocked. After α-factor binds to its receptor STE2, STE5 is recruited
+  to PIP2 at the plasma membrane. This causes a conformational change in STE5 to transition
+  it to an open state such that FUS3 can bind to STE5. Upon binding to STE5, FUS3
+  then undergoes a conformational change to be properly presented to STE7 for phosphorylation.
+article_title: Scaffold proteins as dynamic integrators of biological processes.
+citation: Christopher J. DiRusso, et al. J Biol Chem. 2022 Dec;298(12):102628.
+year: '2022'
+
+doi: 10.1016/j.jbc.2022.102628
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- scaffold protein
+- conformational change
+- signaling
+- KSR
+- NEMO
+- SHANK3
+- STE5
+- liquid–liquid phase separation
+- IDR, intrinsically disordered region
+- IVD, intervening domain
+- LLPS, liquid–liquid phase separation
+- PSD, postsynaptic density
+- SAXS, small angle X-ray scattering
+- XRC, X-ray crystallography
+- ZF, zinc finger
+
+---

@@ -1,0 +1,56 @@
+---
+figid: PMC9662279__AD-13-6-1787-g5
+pmcid: PMC9662279
+image_filename: AD-13-6-1787-g5.jpg
+figure_link: /pmc/articles/PMC9662279/figure/F5-ad-13-6-1787/
+number: Figure 5
+figure_title: ''
+caption: 'The roles played by SIRT6 in the regulation of oxidative stress and inflammation.
+  (A) Oxidative stress: SIRT6 deacetylates H3K56 at the promoter of Nrf2 target genes
+  and is a bridge that recruits the NRF2-RNAP II transcription complex, thereby upregulating
+  antioxidant enzyme expression. Furthermore, in response to oxidative stress, SIRT6
+  mono-ADP-ribosylates BAF170 at K312 to promote the recruitment of the SWI/SNF complex
+  to the promoter region of HO-1, facilitating chromatin loop formation at the HO-1
+  locus to reduce the total physical volume between the enhancer and transcription
+  start site. On the promoter of Mt1/2, SIRT6 physically interacts with and deacetylates
+  Mtf1, coactivating the transcription of Mt1 and Mt2 to boost cell defenses against
+  reactive oxygen species (ROS). Moreover, increased Mt1 and Mt2 levels promote the
+  GSH-GSSH system to counteract oxidative stress. SIRT6 deacetylates NAMPT at K53
+  to promote its activity, increasing cellular NAD+ and NADPH levels, which confers
+  cell resistance against oxidative stress damage. Increased NAD+ levels also upregulate
+  SIRT6 deacetylase activity. (B) Inflammation: Through deacetylating H3K9 on the
+  promoter of NF-κB target genes, SIRT6 prevents the binding of RelA to chromatin,
+  repressing proinflammatory factor expression. In addition, SIRT6 directly interacts
+  with and deacetylates RelA at K310, which restricts its DNA binding activity, terminating
+  NF-κB signaling. Under TNF-α stimulation, IκBα is phosphorylated, subsequently ubiquitinated
+  and eventually degraded, which leads to the translocation of NF-κB (RelA/p50) to
+  the nucleus, where it binds to target gene promoters and regulates their expression.
+  Moreover, TNF-α-induced activation of NF-κB activates SIRT6, which in turn deacetylates
+  the E3 ubiquitin ligase SKP2 at K73 and K77, resulting in subsequent phosphorylation
+  of SKP2. These modifications enhance the stability and nuclear content of SKP2,
+  contributing to SKP2-mediated monoubiquitination of Suv39h1 and subsequent Suv39h1
+  release from the promoter of IκBα. Then, the H3K9 demethylation rate is increased,
+  and H3S10 is phosphorylated by IKKα on the IκBα promoter, eventually promoting the
+  transcription of IκBα. The product of SIRT6-mediated deacetylation OAADPr and its
+  derivative ADPr activate TRPM2 to promote Ca2+ influx, thereby promoting TNF-α and
+  IL-8 expression through the calcineurin-nuclear factor of activated T cells (NFAT)
+  pathway. SIRT6 promotes TNF-α secretion by removing the fatty acyl groups from K19/20.
+  SIRT6 upregulates TNF-α mRNA translation efficiency.'
+article_title: SIRT6 in Aging, Metabolism, Inflammation and Cardiovascular Diseases.
+citation: Zhenyang Guo, et al. Aging Dis. 2022 Dec 1;13(6):1787-1822.
+year: '2022'
+
+doi: 10.14336/AD.2022.0413
+journal_title: Aging and Disease
+journal_nlm_ta: Aging Dis
+publisher_name: JKL International LLC
+
+keywords:
+- SIRT6
+- molecular network
+- ageing
+- metabolism
+- inflammation
+- cardiovascular diseases
+
+---

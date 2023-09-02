@@ -1,0 +1,81 @@
+---
+figid: PMC9668737__gr1
+pmcid: PMC9668737
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC9668737/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: 'Herpes simplex virus 1 (HSV-1) pUL21 alters the rate of ceramide (Cer) to
+  sphingomyelin (SM) conversion in cultured cells.A, simplified schematic diagram
+  of sphingolipid biosynthetic pathways that lead from sphingosine (Sph) to SM and
+  glycosphingolipids (hexosylceramide; HexCer), or to phosphatidylcholine (PC) via
+  a “salvage” pathway. In this salvage pathway, Sph-1-phosphate is converted to trans-2-hexadecenal,
+  then trans-2-hexadecenoic acid and trans-2-hexadecenoyl-coA before being converted
+  to palmitoyl-coA (), which is in turn conjugated to glycerol-3-phosphate to form
+  lysophosphatidic acid before being converted to phosphatidic acid, diacylglycerol,
+  and then PC (). Cer to SM conversion is accelerated by the transport protein CERT,
+  which is selectively inhibited by HPA-12. B, rate of Sph conversion to Cer, SM,
+  or PC was measured in HaCaT cells, untreated or treated with 1 μM HPA-12, and in
+  HaCaT cells stably expressing pUL21 (HaCaT21). Cells were incubated with 5 μM “clickable”
+  alkyne-Sph (pulse) for 5 min and harvested for lipid extraction either immediately
+  (0 min) or at the indicated times (chase). Extracted lipids were bioconjugated to
+  3-azido-7-hydroxycoumarin, separated by HPTLC and detected using UV light. Separated
+  lipids were identified using clickable standards (Stds) and previous literature
+  (). Data are from one representative experiment of two independent repeats. C, quantitation
+  of the lipid intensities from (B) as determined by densitometry and represented
+  as percentage fraction of total signal. D, rate of SM synthesis expressed as its
+  fraction in the cumulative signal for SM and Cer. E, the ratio of alkyne-Sph incorporated
+  into either Cer or SM as a proportion of total alkyne-lipid signal, representing
+  the influx of Sph into the SM biosynthetic pathway. For D and E, the data represent
+  two independent experiments (mean ± SD). Data points are labeled if significantly
+  different to parental HaCaT cells: ∗p < 0.05; ∗∗p < 0.01; ∗∗∗p < 0.001; and ∗∗∗∗p <
+  0.0001 (two-way ANOVA with Dunnett’s multiple comparisons test). F, the resolubilized
+  proteins precipitated during lipid extraction were analyzed by SDS-PAGE and immunoblotting
+  using the antibodies listed. Where indicated, the gel was supplemented with PhosTag
+  reagent to retard the migration of phosphorylated proteins, thus enhancing the separation
+  of CERT that is hypophosphorylated (CERTO) or hyperphosphorylated (CERTP). GAPDH
+  serves as a loading control.'
+article_title: Herpes simplex virus 1 protein pUL21 alters ceramide metabolism by
+  activating the interorganelle transport protein CERT.
+citation: Tomasz H. Benedyk, et al. J Biol Chem. 2022 Nov;298(11):102589.
+year: '2022'
+
+doi: 10.1016/j.jbc.2022.102589
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- virus–host interactions
+- ceramide transport
+- herpesvirus
+- lipid metabolism
+- protein phosphatases
+- BAC, bacterial artificial chromosome
+- Cer, ceramide
+- DMEM, dulbecco’s modified eagle's medium
+- DMSO, dimethyl sulfoxide
+- ER, endoplasmic reticulum
+- GST, glutathione-S-transferase
+- HEK293T, human embryonic kidney 293T cell line
+- hpi, hours postinfection
+- HPTLC, high-performance TLC
+- HSV, herpes simplex virus
+- ITC, isothermal titration calorimetry
+- MOI, multiplicity of infection
+- MR, middle region
+- NEC, nuclear egress complex
+- PC, phosphatidylcholine
+- PDB, protein data bank
+- PH, pleckstrin homology
+- PP1, protein phosphatase 1
+- RT, room temperature
+- SAXS, small-angle X-ray scattering
+- SEC–MALS, size-exclusion chromatography with inline multiangle light scattering
+- SM, sphingomyelin
+- Sph, sphingosine
+- START, steroidogenic acute regulatory–related lipid transfer
+- TCEP, Tris(2-carboxyethyl)phosphine
+- TGN, trans-golgi network
+
+---

@@ -1,0 +1,41 @@
+---
+figid: PMC9662268__AD-13-6-1606-g2
+pmcid: PMC9662268
+image_filename: AD-13-6-1606-g2.jpg
+figure_link: /pmc/articles/PMC9662268/figure/F2-13-6-1606/
+number: Figure 2
+figure_title: ''
+caption: The activation process of the STING pathway. Under resting state, STIM1 binds
+  to STING, suppressing its exit from ER, a critical step in STING’s initiation of
+  downstream type I interferon signaling. TMEM203 binds to IP3R and STIM1 to maintain
+  cellular calcium homeostasis. Under pathological conditions, overexpression of TMEM203
+  leads to a depletion of endoplasmic reticulum (ER) calcium stores. The activation
+  of TMEM203 directly promotes the dissociation of STING from STIM1, followed by the
+  activation of the STING cascade. On the other hand, alteration of cellular calcium
+  concentration indirectly activates the STING cascade. Firstly, the calcium store
+  depletion induced by overexpression of TMEM203 facilitates the translocation of
+  STIM1 and retains more STIM1 protein for binding to Orai1. Secondly, upon stimulation
+  by mitochondrial damage generated dsDNA, and induced by elevated intracellular calcium
+  concentration, cGAS utilizes ATP and GTP to synthesize cyclic GMP-AMP (cGAMP). Subsequently,
+  cGAMP acts as a second messenger, diffusing and binding to STING, thus priming its
+  translocation into the ER-Golgi intermediate compartment (ERGIC) to recruit TANK-binding
+  kinase 1 (TBK1) and interferon regulatory factor 3 (IRF3). IRF3, upon phosphorylation
+  by TBK1, homo-dimerizes and translocates into the nucleus to induce transcription
+  of type I IFNs, followed by the activation of the inflammatory cascade.
+article_title: cGAS-STING Pathway Performance in the Vulnerable Atherosclerotic Plaque.
+citation: Xueqi Wan, et al. Aging Dis. 2022 Dec 1;13(6):1606-1614.
+year: '2022'
+
+doi: 10.14336/AD.2022.0417
+journal_title: Aging and Disease
+journal_nlm_ta: Aging Dis
+publisher_name: JKL International LLC
+
+keywords:
+- atherosclerosis
+- plaque vulnerability
+- STIM1
+- STING
+- Ca2+
+
+---

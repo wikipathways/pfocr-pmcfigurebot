@@ -1,0 +1,45 @@
+---
+figid: PMC9677915__13073_2022_1127_Fig5_HTML
+pmcid: PMC9677915
+image_filename: 13073_2022_1127_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC9677915/figure/Fig5/
+number: Fig. 5
+figure_title: ''
+caption: ECM components contribute to signaling pathways associated with prognosis.
+  A Top 25 up- and downregulated differentially enriched MSigDb hallmark pathways
+  in the ECM-High matreotype compared with the ECM-Low matreotype. Circle size indicates
+  the inverse of the −log10(p-value), color reflects the log fold change (logFC) of
+  the ECM-High matreotype compared with the ECM-Low matreotype. B Pathway analysis
+  of cisplatin-related signatures comparing ECM-High matreotype with the ECM-Low matreotype.
+  C Abundance of CHK2 in the ECM-High matreotype (green) compared with the ECM-Low
+  matreotype (blue). p=1.5E−4, Mann-Whitney U test. D Comparison of the phosphorylated
+  YB1(S102) in the ECM-High matreotype (green) compared with the ECM-Low matreotype
+  (blue). p=1.1E−3, Mann-Whitney U test. E Ligand-receptor interaction results of
+  differentially expressed core matrisomal genes significantly upregulated in ECM-High
+  compared with ECM-Low matreotypes and the receptor groups that they directly interact
+  with. Sector width is the aggregated log fold change of the ligand-receptor interaction
+  strength comparing the ECM-High to ECM-Low matreotype. The scale indicates the width
+  of each link between the ECM category and its cognate receptors. The widths of each
+  link are the maximum fold change of the ligand-receptor interaction scores comparing
+  the ECM-High and ECM-Low groups for that ligand-receptor interaction. F Hallmark
+  pathways regulated by ligand-receptor interactions that are significantly enriched
+  in the ECM-High compared with the ECM-Low matreotypes. The scale indicates the width
+  of each link between the ECM category and the hallmark pathway. The widths of each
+  link are the maximum fold change of the ligand-receptor interaction scores comparing
+  the ECM-High and ECM-Low groups for that hallmark pathway
+article_title: Extracellular matrix profiles determine risk and prognosis of the squamous
+  cell carcinoma subtype of non-small cell lung carcinoma.
+citation: Amelia L. Parker, et al. Genome Med. 2022;14:126.
+year: '2022'
+
+doi: 10.1186/s13073-022-01127-6
+journal_title: Genome Medicine
+journal_nlm_ta: Genome Med
+publisher_name: BioMed Central
+
+keywords:
+- Extracellular matrix
+- Non-small cell lung cancer
+- Squamous
+
+---

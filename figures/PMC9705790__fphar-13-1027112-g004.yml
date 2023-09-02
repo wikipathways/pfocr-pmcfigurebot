@@ -1,0 +1,38 @@
+---
+figid: PMC9705790__fphar-13-1027112-g004
+pmcid: PMC9705790
+image_filename: fphar-13-1027112-g004.jpg
+figure_link: /pmc/articles/PMC9705790/figure/F4/
+number: FIGURE 4
+figure_title: ''
+caption: GO/KEGG enrichment analysis of AO treat PIH (A), The bar graph of top 10
+  GO items, including biological process (BP), cellular compound (CC) and molecular
+  function (MF) (B), The bubble diagram of the top 10 KEGG pathway (C), GO chord chart
+  (D), The core pathway, PI3K-AKT cascade mapped by KEGG Mapper database, whereby
+  therapeutic targets were colored in red, targets of AO but not in the treatment
+  of PIH were in blue, the other targets of PIH were yellow (E), The H-C-T network
+  map showed the importance of each AO compounds, whereby 29 compounds ranked by degree
+  value (F), The H-C-T-P-D network map showed the complex regulation of AO treat PIH.
+  The deep green diamond represents herb (AO), the light green hexagon represents
+  the therapeutic compound of AO, the red and orange circles represent targets based
+  on the degree value, the blue V icon represents the pathway involved, and the yellow
+  rectangle is the disease (PIH).
+article_title: Exploring the mechanism of Alisma orientale for the treatment of pregnancy
+  induced hypertension and potential hepato-nephrotoxicity by using network pharmacology,
+  network toxicology, molecular docking and molecular dynamics simulation.
+citation: Yilin Liao, et al. Front Pharmacol. 2022;13:1027112.
+year: '2022'
+
+doi: 10.3389/fphar.2022.1027112
+journal_title: Frontiers in Pharmacology
+journal_nlm_ta: Front Pharmacol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- pregnancy induced hypertension
+- Alisma orientale
+- network pharmacology
+- network toxicology
+- molecular docking
+
+---

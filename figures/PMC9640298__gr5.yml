@@ -1,0 +1,42 @@
+---
+figid: PMC9640298__gr5
+pmcid: PMC9640298
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC9640298/figure/fig5/
+number: Fig. 5
+figure_title: ''
+caption: RNA sequencing of acutely FACS-isolated ADSCs identified PI3K-Akt signaling
+  as the key regulator in rGO-induced ADSC reprogramming. (A) Schematic illustration
+  of isolating and purifying GFP-expressing ADSCs from regenerated nerve bridge via
+  FACS. (B) Representative FACS plots of ADSC purification based on GFP expression
+  level. Control ADSCs without GFP expression were used for gating. (C) Differentially
+  expressed genes from PI3K and FA signaling were listed as heatmaps. (D) Visualization
+  of KEGG pathway enrichment analysis for the up-regulated genes between the rGO/PCL
+  and PCL groups. The size of dots indicates the relative number of up-regulated DEGs.
+  (E) MBP and NGF expression of ADSCs on rGO/PCL scaffolds dramatically decreased
+  in response to LY294002 treatment. (F) RNA-sequencing differential gene expression
+  analysis of ADSCs from rGO/PCL and PCL conduits. Genes regulated over 2-fold changes
+  (adj. p < 0.05) were highlighted in red and green. (G) Quantitative analysis of
+  MBP, NGF and p-Akt showed the expression of these proteins decreased about 2.425,
+  3.885, and 2.436 folds respectively, after treatment of LY294002, as measured by
+  Western blot. **p < 0.01, ***p < 0.001.
+article_title: Non-electric bioelectrical analog strategy by a biophysical-driven
+  nano-micro spatial anisotropic scaffold for regulating stem cell niche and tissue
+  regeneration in a neuronal therapy.
+citation: Xiangyun Yao, et al. Bioact Mater. 2023 Feb;20:319-338.
+year: '2023'
+
+doi: 10.1016/j.bioactmat.2022.05.034
+journal_title: Bioactive Materials
+journal_nlm_ta: Bioact Mater
+publisher_name: KeAi Publishing
+
+keywords:
+- Reduced graphene oxide
+- Nerve regeneration
+- Biophysical
+- Bioelectrical
+- Nano-micro
+- Adipose-derived stem cell
+
+---

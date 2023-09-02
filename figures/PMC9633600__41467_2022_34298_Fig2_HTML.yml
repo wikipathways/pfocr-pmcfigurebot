@@ -1,0 +1,51 @@
+---
+figid: PMC9633600__41467_2022_34298_Fig2_HTML
+pmcid: PMC9633600
+image_filename: 41467_2022_34298_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC9633600/figure/Fig2/
+number: Fig. 2
+figure_title: Phosphoproteomics analysis identifies FGFR2b internalisation- and recycling-dependent
+  signalling pathways
+caption: a Workflow of the phosphoproteomics experiment in HeLa cells transiently
+  expressing FGFR2b (HeLa_FGFR2b) and either GFP, DnRAB11 or DnDNM2 and treated with
+  FGF10 for 40 min. UT, treatment with vehicle as control. b Principal component analysis
+  (PCA) of the HeLa phosphoproteome from 2a showed small variation between technical
+  replicates and separated samples based on experimental conditions. c t-distributed
+  stochastic neighbour embedding (t-sne) analysis identified 11 clusters corresponding
+  to phosphorylated peptides differentially regulated among four conditions. Colour
+  corresponds to the cluster with the highest membership score, determined using fuzzy
+  c-means clustering based on the median z-score of the four conditions. Each cluster
+  is identified by a unique colour and corresponding number. Opacity corresponds to
+  the membership score assigned to each phosphorylated site within its most likely
+  cluster. Membership scores and t-sne coordinates are available in Source Data File.
+  d Plots of the median z-scored intensities of phosphorylated sites based on the
+  11 clusters from Fig. 2c identified membrane response (red; clusters 3 and 4), internalisation
+  response (light blue; clusters 5 and 8), and recycling response (dark blue; clusters
+  9 and 11). Colour key indicates membership value assigned by Fuzzy c-means clustering.
+  e Plots of the median z-scored intensities of phosphorylated sites based on the
+  three main clusters identified in Fig. 2d. HeLa_FGFR2b (yellow) and T47D (dark green)
+  were treated as in Fig. 2a and Supplementary Fig. , respectively. f KEGG pathway
+  enrichment (calculated with Fisher’s exact test and FDR adjustment) between HeLa_FGFR2b
+  and T47D phosphorylated proteins within the membrane (red), internalisation (light
+  blue) and recycling (dark blue) responses (Fig. 2d) identified mTOR signalling as
+  associated with FGFR2b recycling. The size of dot indicates statistical significance
+  based on p value. g Visualisation of the subcellular localisation of the phosphorylated
+  proteins belonging to the mTOR signalling pathway KEGG term in HeLa_FGFR2b (yellow)
+  and T47D (green) using SubCellularVis.
+article_title: Spatially resolved phosphoproteomics reveals fibroblast growth factor
+  receptor recycling-driven regulation of autophagy and survival.
+citation: Joanne Watson, et al. Nat Commun. 2022;13:6589.
+year: '2022'
+
+doi: 10.1038/s41467-022-34298-2
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Proteomics
+- Autophagy
+- Phosphorylation
+- Endocytosis
+
+---

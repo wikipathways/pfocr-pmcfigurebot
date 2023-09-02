@@ -1,0 +1,33 @@
+---
+figid: PMC9627509__fimmu-13-1015882-g004
+pmcid: PMC9627509
+image_filename: fimmu-13-1015882-g004.jpg
+figure_link: /pmc/articles/PMC9627509/figure/f4/
+number: Figure 4
+figure_title: ''
+caption: (A) the top 20 enriched clusters across feature genes, colored by p-values.
+  (B) The top-level Gene Ontology biological processes colored by p-values. The darker
+  the color, the stronger the enrichment of the gene in that pathway. (C) The PPI
+  network of feature genes. Each blue node represents a gene, and each other node
+  represents a protein. Different sizes indicate the core degree of genes in the PPI
+  network, whereas a bigger size indicates more importance in the network.
+article_title: The shared biomarkers and pathways of systemic lupus erythematosus
+  and metabolic syndrome analyzed by bioinformatics combining machine learning algorithm
+  and single-cell sequencing analysis.
+citation: Yingyu Wang, et al. Front Immunol. 2022;13:1015882.
+year: '2022'
+
+doi: 10.3389/fimmu.2022.1015882
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- systemic lupus erythematosus
+- metabolic syndrome
+- bioinformatics
+- machine learning
+- hub genes
+- single-cell
+
+---

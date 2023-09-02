@@ -1,0 +1,45 @@
+---
+figid: PMC9633591__41598_2022_23167_Fig4_HTML
+pmcid: PMC9633591
+image_filename: 41598_2022_23167_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9633591/figure/Fig4/
+number: Figure 4
+figure_title: ''
+caption: 'Extracellular matrix (ECM) genes and pathways are downregulated in exon
+  2  −/− neurons. RNA-Seq analysis of exon 2  −/− and CTR neurons reveal suppression
+  of ECM related genes and pathways in exon 2  −/− neurons. (a) GO (biological process)
+  enrichment analysis reveal downregulation of collagen and ECM genes in exon 2  −/−
+  neurons (res 4 and 5). (b) Heatmap visualisation of top 20 most variable genes clustered
+  with complete hierarchical clustering using z-scored counts. Column annotations
+  represent Aβ25–35 treatment condition and neuron genotype (CTR, A4 or D1). (c) Functional
+  directionality analysis identified focal adhesion and ECM receptor interaction were
+  suppressed in exon 2  −/− neurons, which was not altered by Aβ25–35 treatment. (d)
+  Topology identified a significant suppression of ECM-receptor interaction and PI3K-Akt
+  signalling pathways were suppressed in exon 2  −/− neurons, again unaltered by Aβ25–35.
+  Figure legend outlines comparisons made in this analysis: res1; Aβ25–35 treated
+  vs untreated CTR neurons, res2; Aβ25–35 treated vs untreated A4 neurons, res3; Aβ25–35
+  treated vs untreated D1 neurons, res4; untreated A4 vs untreated CTR neurons, res5;
+  untreated D1 vs untreated CTR neurons, res6; Aβ25–35 treated A4 vs CTR neurons and
+  res7; Aβ25–35 treated D1 vs CTR neurons. Differential gene expression satisfied
+  thresholds for both fold change (> 1.5) and adjusted p value (< 0.05) were included
+  in this analysis. Numbers of each res represent the number of differentially expressed
+  genes enriched in each pathway for each comparison. Gene set enrichment satisfied
+  adjusted p value (< 0.05). NES (enrichment score normalised to mean enrichment of
+  random samples of the same size). tA the observed total perturbation accumulation
+  in the pathway, pPERT probability to observe a total accumulation more extreme than
+  tA only by chance. pPERT* < 0.05, ** < 0.01 and *** < 0.001.'
+article_title: Glycosylated clusterin species facilitate Aβ toxicity in human neurons.
+citation: Evangeline M. Foster, et al. Sci Rep. 2022;12:18639.
+year: '2022'
+
+doi: 10.1038/s41598-022-23167-z
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Stem cells
+- Neuroscience
+- Alzheimer's disease
+
+---

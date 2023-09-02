@@ -1,0 +1,41 @@
+---
+figid: PMC9636054__gr1
+pmcid: PMC9636054
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC9636054/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: Overview of differentially expressed genes and top 30 enriched Reactome signaling
+  pathways in the target tissues of the four diseases following GSEA analysis(A–D)
+  (A) The number of genes differentially expressed in type 1 diabetes (T1D), type
+  2 diabetes (T2D), multiple sclerosis (MS), and Alzheimer’s disease (AD). The numbers
+  above the bars represent the genes with an adjusted p-value <0.05. GSEA of T1D (B),
+  T2D (C), MS (D), and AD (E) target tissues based on the Reactome database. Bars
+  in red and blue represent enrichment or inhibition of pathways, respectively. The
+  x-axis shows the normalized enrichment score (NES) of the fGSEA analysis, and the
+  y-axis shows enriched pathways with an adjusted p-value <0.05. The full name of
+  pathway “Immunoregulatory interactions” in (B, D and E) is “Immunoregulatory interactions
+  between a lymphoid and a non-lymphoid cell”; “Runx1 regulates transcription of genes”
+  in A is “Runx1 regulates transcription of genes involved in differentiation of HSCS”;
+  “Runx1 regulates genes involved in megakaryocyte differentiation” in A is “Runx1
+  regulates genes involved in megakaryocyte differentiation and platelet function”;
+  “Gene and protein expression by JAK stat signaling ” in B is “Gene and protein expression
+  by JAK stat signaling after interleukin-2 stimulation”; “Respiratory electron transport
+  ATP synthesis” in D is “Respiratory electron transport ATP synthesis and heat production”
+  (see also ).
+article_title: Mining the transcriptome of target tissues of autoimmune and degenerative
+  pancreatic β-cell and brain diseases to discover therapies.
+citation: Xiaoyan Yi, et al. iScience. 2022 Nov 18;25(11):105376.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.105376
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Biological sciences
+- Immunology
+- Transcriptomics
+
+---

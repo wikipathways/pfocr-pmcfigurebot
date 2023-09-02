@@ -1,0 +1,52 @@
+---
+figid: PMC9708828__41467_2022_35161_Fig1_HTML
+pmcid: PMC9708828
+image_filename: 41467_2022_35161_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC9708828/figure/Fig1/
+number: Fig. 1
+figure_title: Engineering RAG-inducible intracellular receptors using a membrane-docked,
+  dormant transcription factor for orthogonal cell signaling control
+caption: a Schematic illustration showing the molecular mechanism of chemically regulated
+  intracellular receptors using membrane-docked, dormant transcription factor (MDD-TF).
+  b Basal activity analysis of different tTA-PH hybrids. SEAP levels in culture supernatants
+  of HEK-293 cells transfected with 5 ng of pMMH171 (PhPGK-tTA-pA), pMMH172 (PhPGK-PH-tTA-pA),
+  pMMH173 (PhPGK-PH-tTA-PH-pA), pMMH174 (PhPGK-PHx2-tTA-pA), or pMMH125a (PhPGK-PHx2-tTA-PHx2-pA)
+  plasmids. All samples were transfected with 20 ng of reporter plasmid pTS1017, which
+  encodes tetO7-driven SEAP (PhCMV*−1-SEAP-pAbGH; PhCMV*−1, OtetO7-PhCMVmin). Data
+  are presented as mean ± SD of n = 8 biologically independent samples. c SEAP levels
+  after 24 h in culture supernatants of HEK-293 cells transfected with 5 ng of pMMH201
+  (PhPGK-SrcMS-TCS-tTA-pAbGH), pMMH202 (PhPGK-ecDHFR(DD)-TCS-tTA-pAbGH), pMMH203 (PhPGK-DRD1-TCS-tTA-pAbGH),
+  or pMMH125b which encode MDD-tTA (PhPGK-PHx2-TCS-tTA-TCS-PHx2-pA) in combination
+  with pcDNA3.1(+) or cytoplasmic intact TEVp pTS2405 (PhCMV-TEVp-pA). Data are shown
+  as mean ± SD of n = 6 biologically independent samples. ***P < 0.0001 was calculated
+  using two-tailed, unpaired Student’s t-test. d SEAP levels in culture supernatants
+  of HEK-293 cells transfected with 5 ng of pMMH125b in addition to 1 ng of pMMH139
+  (PhCMV-FKBP-(GGGGS)2-scTEVp1–118-pAbGH) with pMMH140 (PhCMV-FRB-scTEVp119–245-pAbGH),
+  pPW20 (PhCMV-ABI-(GGGGS)2-scTEVp1–118-pAbGH) with pPW21 (PhCMV-PYL1-scTEVp119–245-pAbGH),
+  or pPW22 (PhCMV-GID1-(GGGGS)2-scTEVp1–118- pAbGH) with pPW23 (PhCMV-GAI-scTEVp119–245-pAbGH).
+  Cells were treated with DMSO, RAPA (100 nM), ABA (100 µM), or GA (100 µM) for 24 h.
+  Data are presented as mean ± SD of n = 6 biologically independent samples. ***P < 0.0001
+  was calculated using two-tailed, unpaired Student’s t-test. e Illustrative depiction
+  of different spatial topologies of GID1/GAI chimeras that are linked to csTEVp parts,
+  annotated A–D. f HEK-293 cells were transfected with A–D constructs in different
+  transfection combinations using 5 ng of pMMH125b and 1 ng of pPW22 (PhCMV-GID1-(GGGGS)2-scTEVp1–118-pAbGH),
+  pPW23 (PhCMV-GAI-scTEVp119–245-pAbGH), pPW24 (PhCMV-scTEVp1–118-(GGGGS)2-GID1-pAbGH),
+  pPW25 (PhCMV-scTEVp119–245-GAI-pAbGH). SEAP levels were measured 24 f following
+  GA (100 µM) treatment. Data are presented as mean ± SD of n = 6 biologically independent
+  samples. ***P < 0.0001 was calculated using two-tailed, unpaired Student’s t-test.
+  Source data are provided as a  file.
+article_title: Engineering receptors in the secretory pathway for orthogonal signalling
+  control.
+citation: Mohamed Mahameed, et al. Nat Commun. 2022;13:7350.
+year: '2022'
+
+doi: 10.1038/s41467-022-35161-0
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Synthetic biology
+- Genetic engineering
+
+---

@@ -1,0 +1,38 @@
+---
+figid: PMC9638763__gr3
+pmcid: PMC9638763
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9638763/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: (A) Protein-protein interaction network. The pink color indicates the 16
+  intersecting genes, the blue color indicates the other genes in the PPI network
+  where the 16 intersecting genes are located, the green color indicates the gene
+  in the sub-network 1 extracted after Degree >18, and the yellow color indicates
+  the gene in the sub-network 2. The top 20 BP (B) and MF (C) of the 16 intersecting
+  genes enriched. The top 20 BP(F), MF(G), and CC(H) of GQD. The horizontal axis of
+  the bars represents the percentage of intersecting genes in that term; the darker
+  the color, the smaller the false discovery rate (FDR). The values on the bars indicate
+  the number of genes on that pathway and the FDR value. Bubble plot for the top 10
+  signaling pathways of the 16 intersecting genes (D) and GQD (I). The larger the
+  bubble, the more the number of genes enriched on that pathway; the darker the color,
+  the smaller the FDR(E) A network diagram of the intersecting genes and their pathways.
+  The larger the icon, the more enriched the genes and their pathways.
+article_title: The potential effects and mechanisms of Gegen Qinlian Decoction in
+  oxaliplatin-resistant colorectal cancer based on network pharmacology.
+citation: Xiang Lin, et al. Heliyon. 2022 Nov;8(11):e11305.
+year: '2022'
+
+doi: 10.1016/j.heliyon.2022.e11305
+journal_title: Heliyon
+journal_nlm_ta: Heliyon
+publisher_name: Elsevier
+
+keywords:
+- Colorectal cancer
+- Gegen qinlian decoction
+- Chemotherapy resistance
+- Network pharmacology
+- ABC transporter
+
+---

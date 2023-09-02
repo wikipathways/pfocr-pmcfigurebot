@@ -1,0 +1,48 @@
+---
+figid: PMC9660162__10456_2022_9860_Fig7_HTML
+pmcid: PMC9660162
+image_filename: 10456_2022_9860_Fig7_HTML.jpg
+figure_link: /pmc/articles/PMC9660162/figure/Fig7/
+number: Fig. 7
+figure_title: ''
+caption: Functional gene expression analysis of COVID-19, influenza, and lymphocytic
+  non-influenza myocarditis heart tissues. A Functional Pathway analysis via gene
+  set enrichment analysis against the Gene Ontology aspect biological functions highlights
+  the differential functional gene expression in the heart tissue of COVID-19 and
+  influenza patients. The activation of biological functions in cardiac injury patterns
+  compared to healthy controls was predicted for each sample. Color indicates up-
+  (red) and down (blue)-regulation; circle size depicts FDR. Only significantly up-or
+  down-regulated pathways are shown. B Spider-Plot depicting the enrichment of biological
+  functions from Gene Ontology based on gene expression data of COVID-19 and influenza
+  heart samples as compared with expression in non-infected control specimen. The
+  y-axis shows the normalized enrichment scores (NES) on a scale from 0 to 2. C Venn
+  diagram of statistically differentially expressed genes of COVID-19 and influenza
+  heart samples as compared with expression in controls in both disease groups (Student’s
+  t test, controlled for the familywise error rate with a Benjamini–Hochberg false
+  discovery rate threshold of 0.05). Up-regulation and down-regulation of genes are
+  indicated by colored arrowheads suffixed to the gene symbols (green denotes upregulation,
+  red denotes down-regulation). Numbers given are the total of differentially regulated
+  genes, displayed are the top 10 up- or down-regulated genes. Note that there were
+  no differentially expressed genes for lymphocytic non-influenza myocarditis
+article_title: Inflammation and vascular remodeling in COVID-19 hearts.
+citation: Christopher Werlein, et al. Angiogenesis. 2022 Nov 12 ;26(2):233-248.
+year: '2022'
+
+doi: 10.1007/s10456-022-09860-7
+journal_title: Angiogenesis
+journal_nlm_ta: Angiogenesis
+publisher_name: Springer Netherlands
+
+keywords:
+- COVID-19
+- Heart
+- Macrophages
+- Angiogenesis
+- Intussusception
+- Coronavirus disease 2019
+- Acute heart failure
+- Intussusceptive angiogenesis
+- CD11b
+- TIE2
+
+---

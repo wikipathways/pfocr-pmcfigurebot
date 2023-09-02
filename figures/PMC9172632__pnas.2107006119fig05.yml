@@ -1,0 +1,46 @@
+---
+figid: PMC9172632__pnas.2107006119fig05
+pmcid: PMC9172632
+image_filename: pnas.2107006119fig05.jpg
+figure_link: /pmc/articles/PMC9172632/figure/fig05/
+number: Fig. 5
+figure_title: ''
+caption: Decreased expression of MITF target genes and decreased MAPK transcriptional
+  activity correlate with poor UM patient survival. RNA sequencing of primary human
+  UM (n = 80 patients) and the corresponding survival data were obtained from TCGA
+  PanCancer Atlas database. (A) Patients with relatively lower MITF RNA expression
+  (z score < 0; n = 49) have significantly decreased (P = 0.0457, determined by log-rank
+  test) disease-free survival compared to patients with relatively higher MITF RNA
+  expression (z score > 0; n = 31). (B) Z scores for the MITF differentiation target
+  genes DCT, TYR, TYRP1, and SILV were calculated and summed for each UM tumor, and
+  patients in the lower quartile (n = 20) were found to have significantly decreased
+  (P = 0.04, determined by log-rank test) progression-free survival compared to patients
+  in the upper quartile (n = 20). (C) UM patients were binned by “poor prognosis”
+  (those deceased or with progression of the disease [n = 34]) versus “good/NA prognosis”
+  (those last reported as living without progression for at least 2 y [n = 27]). The
+  poor prognosis cohort showed significantly lower combined z scores for the four
+  MITF differentiation targets (P = 0.0041, determined by Student’s unpaired t test;
+  line denotes median). (D) Z scores for genes in the transcriptional MAPK activity
+  gene set were calculated and summed. Patients in the lower quartile (n = 20) showed
+  significantly decreased (P = 0.0261, determined by log-rank test) progression-free
+  survival compared to patients in the upper quartile (n = 20). (E) UM patients with
+  poor prognosis (binned as described in C) have a significantly lower transcriptional
+  MAPK pathway activity combined z scores (P = 0.0218, determined by Student’s unpaired
+  t test; line denotes median) than the good/NA prognosis cohort.
+article_title: MITF deficiency accelerates GNAQ-driven uveal melanoma.
+citation: Grace B. Phelps, et al. Proc Natl Acad Sci U S A. 2022 May 10;119(19):e2107006119.
+year: '2022'
+
+doi: 10.1073/pnas.2107006119
+journal_title: Proceedings of the National Academy of Sciences of the United States
+  of America
+journal_nlm_ta: Proc Natl Acad Sci U S A
+publisher_name: National Academy of Sciences
+
+keywords:
+- uveal
+- melanoma
+- mitf
+- zebrafish
+
+---

@@ -1,0 +1,38 @@
+---
+figid: PMC9657218__ijms-23-12937-g004
+pmcid: PMC9657218
+image_filename: ijms-23-12937-g004.jpg
+figure_link: /pmc/articles/PMC9657218/figure/ijms-23-12937-f004/
+number: Figure 4
+figure_title: ''
+caption: Competition between MMEJ and other DSB repair pathways. MMEJ, as an alternative
+  nonhomologous end-joining pathway, competes with C-NHEJ, especially when the KU
+  family is defective. It could also be possible that losing DNApk subunits or blocking
+  ATM phosphorylation of DNApk would lead to defective C-NHEJ but elevated MMEJ. In
+  the S phase of the cell cycle, initial resection will be the key step in promoting
+  both HR and MMEJ, and the synthetic lethal relationship between HR and MMEJ could
+  mainly occur in the S phase. In addition, several important factors, such as PARP1,
+  may contribute to initial resection and promote MMEJ, and POLQ could functionally
+  inhibit RAD51 [] filaments, leading to less HR. In telomeres, MMEJ helps to repair
+  most DSBs and does not generate fragile telomeres; however, it does cause telomere
+  fusion. Instead, BIR would form fragile telomeres, which could be repaired better
+  by MMEJ factors, such as PARP1 and ligase III.
+article_title: 'Contribution of Microhomology to Genome Instability: Connection between
+  DNA Repair and Replication Stress.'
+citation: Yuning Jiang. Int J Mol Sci. 2022 Nov;23(21):12937.
+year: '2022'
+
+doi: 10.3390/ijms232112937
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- microhomology-mediated end joining (MMEJ)
+- DNA repair
+- DNA end resection
+- replication stress
+- synthetic lethality
+- cancer therapy
+
+---

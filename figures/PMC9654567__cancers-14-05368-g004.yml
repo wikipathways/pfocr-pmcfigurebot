@@ -1,0 +1,37 @@
+---
+figid: PMC9654567__cancers-14-05368-g004
+pmcid: PMC9654567
+image_filename: cancers-14-05368-g004.jpg
+figure_link: /pmc/articles/PMC9654567/figure/cancers-14-05368-f004/
+number: Figure 4
+figure_title: ''
+caption: SUN5 regulated the level of phosphorylated ERK1/2 in colorectal cancer. (A)
+  Scattered map of upregulated (red) and downregulated (green) genes positioned away
+  from unchanged genes (gray). (B) Heatmap of DEGs comparing control and SUN5-OE group.
+  (C) GO enrichment analysis of cellular components, molecular functions, and biological
+  processes of DEGs comparing control and SUN5-OE group. (D) KEGG analysis showed
+  that the proteins encoded by these DEGs were involved in multiple signaling pathways.
+  (E) Six genes, including CCNA2, CD164, CDKN1A, CKAP2, EGR1 and RAD21, were identified
+  by RT-qPCR to verify the creditability of the sequencing (Student′s t-test, n =
+  3. ** p < 0.01, *** p < 0.001, **** p < 0.0001). (F) ERK1/2 and the phosphorylation
+  of ERK1/2 were determined by Western blotting after overexpression and knockdown
+  of SUN5 in LoVo and DLD-1 cells (* p < 0.05, ** p < 0.01; “ns” indicates not significantly
+  different).
+article_title: Nuclear Membrane Protein SUN5 Is Highly Expressed and Promotes Proliferation
+  and Migration in Colorectal Cancer by Regulating the ERK Pathway.
+citation: Xiaoyue Song, et al. Cancers (Basel). 2022 Nov;14(21):5368.
+year: '2022'
+
+doi: 10.3390/cancers14215368
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- SUN5
+- proliferation
+- migration
+- colorectal cancer
+- ERK1/2
+
+---

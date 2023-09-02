@@ -1,0 +1,51 @@
+---
+figid: PMC9651203__fmicb-13-1022704-g005
+pmcid: PMC9651203
+image_filename: fmicb-13-1022704-g005.jpg
+figure_link: /pmc/articles/PMC9651203/figure/F5/
+number: FIGURE 5
+figure_title: ''
+caption: 'Lists of the total number of proteins immunoprecipitated by DnaK-V5 and
+  identified by mass spectrometry analysis in each cell type that are part of the
+  DNA repair Reactome pathway (R-HSA-73894). (A) A total of 34 proteins were identified
+  (see , ). The histogram indicates the number of hits for each cell type. (B) A Venn
+  diagram visualizes the number of shared and unique proteins obtained from each cell
+  type. Of these, 7 proteins were shared among all five human cell lines analyzed.
+  (C) The Circos plot shows the overlaps between the proteins from theDNA repair pathway.
+  On the outside, each arc represents the identity of the 5 cell lines (red for AGS,
+  blue for H446, green for HCT116, purple for PC3 and orange for SH-SY5Y); on the
+  inside, each arc represents a protein list, where each protein has a spot on the
+  arc. The dark orange color of the inside arc represents the DNA repair proteins
+  that appear in multiple lists and the light orange color of the inside arc represents
+  DNA repair proteins that are unique to that cell type list. Purple lines link the
+  proteins that are shared by multiple cell types. The greater the number of purple
+  links and the longer are the dark orange arcs. This implies a greater overlap among
+  the protein from each cell line. A full list of the total 34 isolated proteins from
+  the DNA repair Reactome pathway is given in . (D) Table indicating the membership
+  of the seven proteins in the 4 DNA repair pathways of Base Excision Repair (BER),
+  Nucleotide Excision Repair (NER), Non-Homologous End Joining (NHEJ) and Homologous
+  Recombination (HR). (E) Western blot from DnaK immunoprecipitation comparing the
+  five cancer cell lines. On the left side, the Molecular Weight (MW) Marker is indicated.
+  On the right side, the name and MW of each validated protein are given. For each
+  of the 5 cell types, three samples were loaded: the immunoprecipitated DnaK-transfected
+  lysate with the antibody isotype control, the immunoprecipitated DnaK-transfected
+  lysate with anti-V5 antibody and 2.5% load of the DnaK-transfected lysate used for
+  the immunoprecipitations.'
+article_title: Characterization of the interactome profiling of Mycoplasma fermentans
+  DnaK in cancer cells reveals interference with key cellular pathways.
+citation: Sabrina Curreli, et al. Front Microbiol. 2022;13:1022704.
+year: '2022'
+
+doi: 10.3389/fmicb.2022.1022704
+journal_title: Frontiers in Microbiology
+journal_nlm_ta: Front Microbiol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- Mycoplasma fermentans
+- chaperone protein
+- DnaK protein
+- proteomics
+- cellular pathways
+
+---

@@ -1,0 +1,50 @@
+---
+figid: PMC9661196__fonc-12-958155-g005
+pmcid: PMC9661196
+image_filename: fonc-12-958155-g005.jpg
+figure_link: /pmc/articles/PMC9661196/figure/f5/
+number: Figure 5
+figure_title: ''
+caption: 'TRIAP1 depletion activates a p53-related stress response. (A) Transcriptomics
+  analysis of HCT116 cells transduced with control (ctrl#1, #2) and TRIAP1 (TRIAP1
+  #1, #2, #3) shRNAs. Heat map and hierarchical clustering based on genes that are
+  differentially expressed between TRIAP1-depleted (shRNA TRIAP1 #1, #2, #3) and control
+  (shRNA Ctrl #1, #2) cells analyzed by RNA-seq, 6 days post transduction (adjusted
+  p value < 0.05). Genes are listed by row and analyzed samples by column. The color
+  intensity represents the Z score, where green corresponds to upregulated and red
+  downregulated expression. (B) Top enriched biological processes (top panel). The
+  differentially expressed genes were analyzed for Gene Ontology (GO) using the “ToppGene
+  Suite” (). The top GO terms for biological processes are represented with a bar
+  plot with most significant p-values (Adj. p value <0.07). Top enriched signaling
+  and functional pathways (bottom panel). Significantly enriched pathway term analysis
+  for differentially expressed genes in relation to TRIAP1 depletion was carried out
+  using the online PANTHER website (). (C) mRNA expression analyses of several P53
+  target genes identified as differentially expressed during transcriptomics studies
+  performed in (A) qPCR studies were realized for the indicated mRNA. Relative expression
+  fold variation was calculated for TRIAP1-depleted cells (shRNA TRIAP1 #1, #2, #3)
+  compared with control (shRNA Ctrl) cells, using the comparative Ct method (after
+  normalization against actin mRNA). Data represent mean ± SEM of three experiments.
+  Kruskal–Wallis tests were used for statistical comparisons. *p < 0.05; **p < 0.01;
+  ***p < 0.001; ns, non significant. (D) Immunoblot analysis of extracts of HCT116
+  cells transduced with lentiviral control (Ctrl) and TRIAP1 (TRIAP1 #1, #2, #3) shRNAs
+  and grown in standard growth conditions. Actin was used as a loading control.'
+article_title: Relevance of the TRIAP1/p53 axis in colon cancer cell proliferation
+  and adaptation to glutamine deprivation.
+citation: Kenza Nedara, et al. Front Oncol. 2022;12:958155.
+year: '2022'
+
+doi: 10.3389/fonc.2022.958155
+journal_title: Frontiers in Oncology
+journal_nlm_ta: Front Oncol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- TRIAP1/Mdm35
+- mitochondria
+- lipid homeostasis
+- coiled-coil-helix-coiled-coil-helix domain (CHCHD)-containing proteins
+- colon cancer
+- p53-mediated stress response
+- glutamine starvation
+
+---

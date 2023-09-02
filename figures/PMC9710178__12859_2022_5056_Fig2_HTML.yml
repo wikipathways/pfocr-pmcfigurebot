@@ -1,0 +1,33 @@
+---
+figid: PMC9710178__12859_2022_5056_Fig2_HTML
+pmcid: PMC9710178
+image_filename: 12859_2022_5056_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC9710178/figure/Fig2/
+number: Fig. 2
+figure_title: ''
+caption: Flow chart of ChiMera processes. ChiMera has 3 submodules that can be used
+  separately. The ones signed with “C” are part of the core module, which performs
+  model creation, evaluation and creation of visualization files. “T” represents the
+  translator module that adds KEEG pathway information to the compounds in the edges
+  file. The file can be loaded into Cytoscape or Gephi for visualization. “K” represents
+  the knockout module, which performs gene and reaction knockouts. “V” represents
+  the use of outputs created by ChiMera to create custom maps by third-party tools
+  based on user needs
+article_title: 'ChiMera: an easy to use pipeline for bacterial genome based metabolic
+  network reconstruction, evaluation and visualization.'
+citation: Gustavo Tamasco, et al. BMC Bioinformatics. 2022;23:512.
+year: '2022'
+
+doi: 10.1186/s12859-022-05056-4
+journal_title: BMC Bioinformatics
+journal_nlm_ta: BMC Bioinformatics
+publisher_name: BioMed Central
+
+keywords:
+- Genome-scale metabolic model
+- GSMR
+- Metabolic engineering
+- Metabolic network visualization
+- Flux balance analysis
+
+---

@@ -1,0 +1,54 @@
+---
+figid: PMC9703761__12943_2022_1679_Fig7_HTML
+pmcid: PMC9703761
+image_filename: 12943_2022_1679_Fig7_HTML.jpg
+figure_link: /pmc/articles/PMC9703761/figure/Fig7/
+number: Fig. 7
+figure_title: ''
+caption: IL-6 pathway is activated in tumors treated with ICB therapy upregulating
+  NMD activity. (A) Treatment schedule for (A) and (B). (B)Tumor-free and Panc02.gCtrl
+  tumor-bearing C57/BL6 mice were treated with isotype control (ISO) SO or anti-CTLA-4
+  + anti-PD-1 combination or untreated on day 1, 4 and 7 and n day 14 post tumor inoculation,
+  mice were bled, to analyze TNF-α, MCP-1, IL-12, IL-10, IL-6 and IFN-γ by Cytometric
+  Bead Array (CBA). (B) Cytokine levels measured by CBA in mouse sera from (A). n
+  = 3-7/group. (C) Representative individual sample from (B) for each cytokine. (D)
+  UMAP depicting expression of SMG1, IL6ST and STAT3 in tumor cells. IL-6 signaling
+  factors perfectly co-localize with SMG1 []. Only tumor cells are shown in this figure.
+  (E) IL6ST (gp130) and STAT3 expression at scRNAseq in malignant cells from (D) show
+  a highly significant linear correlation with SMG1. (F) IL-6 signaling upregulates
+  NMD expression in B16.gCtrl cell line. B16.gCtrl were incubated in the presence
+  of hyper-IL-6 for 96 h. Protein levels were analyzed by western blot. (G) IL-6 signaling
+  upregulates NMD. B16, Panc02 and 4T1 mouse tumor cells stably transduced with our
+  luciferase-SIINFEKL NMD reporter plasmid were plated and murine hyper-IL-6 or vehicle
+  was added to the media. 96 h later, luciferase signal was measured. n = 3. (H) 4T1.gCtrl
+  or SMG1KD were treated as in (F). Trp53 mRNA levels were measured by qRT-PCR. (I)
+  4T1.gCtrl and STAT3KD were treated with hyper-IL-6 as in (F). SMG1 mRNA levels were
+  measured by qRT-PCR. (J) STAT3KD or gCtrl Panc02 were injected in the left and right
+  flanks, respectively, of Rag2/IL2rg-/- mice. Activated OT-I splenocytes were administered
+  intravenously as shown in the schedule (right). n = 9. (K) STAT3KD or gCtrl Panc02
+  were injected in the left and right flanks, respectively of Rag2/IL2rg-/- mice.
+  Activated Pmel splenocytes were administered intravenously as shown in the schedule
+  (right). n = 7. (L) Antitumor effect of IL-6 blockade and NMD knockdown. Balb/c
+  mice were injected with 4T1.gCtrl or SMG1KD cells. Treatment was carried out as
+  shown in the tumor schedule. n = 6-8/group. 2-way ANOVA corrected with Bonferroni’s
+  test was performed for tumor growth and luciferase evolution over time; 1-way ANOVA
+  corrected by Bonferroni’s test was used in (B); 2-tail t-test employed in (F). ∗p
+  < 0.05, ∗∗p < 0.01, ∗∗∗p < 0.001. ns = non-significant (p > 0.05)
+article_title: IL-6/STAT3 signaling in tumor cells restricts the expression of frameshift-derived
+  neoantigens by SMG1 induction.
+citation: Daniel Meraviglia-Crivelli, et al. Mol Cancer. 2022;21:211.
+year: '2022'
+
+doi: 10.1186/s12943-022-01679-6
+journal_title: Molecular Cancer
+journal_nlm_ta: Mol Cancer
+publisher_name: BioMed Central
+
+keywords:
+- Tumor immunity
+- Neoantigens
+- Cancer immunotherapy
+- Immunoediting
+- NMD
+
+---

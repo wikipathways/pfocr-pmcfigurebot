@@ -1,0 +1,37 @@
+---
+figid: PMC9688691__cancers-14-05550-g002a
+pmcid: PMC9688691
+image_filename: cancers-14-05550-g002a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 2
+caption: Systemic metabolic changes associated with a ketogenic diet. Global metabolic
+  profiling was performed on serum from mice fed a KD or SD (n = 6/group). (A) Significantly
+  altered metabolites were classified into major metabolic pathways, and the differential
+  abundance (DA) scores of each pathway were plotted. (B) Metabolic profiles of KD
+  and SD were classified into lipid, nucleotides and peptides, amino acids, carbohydrates,
+  and cofactor and vitamin metabolism. Values from each metabolite were used to calculate
+  log2 (fold change KD/SD) and plotted against—Log10 (p-value) to generate a volcano
+  plot. Metabolites with >2-fold change and with a p value < 0.05 were considered
+  to be above the threshold (solid circles or diamonds). Metabolites with <2-fold
+  change or with a p value > 0.05 were below the threshold (empty circles). Lipids
+  with significant p values were characterized into 3 groups (saturated, unsaturated,
+  and unclassified) based on saturation levels and their abundance and depicted as
+  a pie chart.
+article_title: The Influence of the Ketogenic Diet on the Immune Tolerant Microenvironment
+  in Glioblastoma.
+citation: Pravin Kesarwani, et al. Cancers (Basel). 2022 Nov;14(22):5550.
+year: '2022'
+
+doi: 10.3390/cancers14225550
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- ketogenic diet
+- GBM
+- immunosuppressive macrophages
+- CSF-1R inhibition
+
+---

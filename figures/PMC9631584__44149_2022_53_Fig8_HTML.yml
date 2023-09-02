@@ -1,0 +1,35 @@
+---
+figid: PMC9631584__44149_2022_53_Fig8_HTML
+pmcid: PMC9631584
+image_filename: 44149_2022_53_Fig8_HTML.jpg
+figure_link: /pmc/articles/PMC9631584/figure/Fig8/
+number: Fig. 8
+figure_title: ''
+caption: GSEA plots of enriched KEGG pathways. a GSEA plots indicating the running
+  enrichment score for gene expression signature of ‘cytokine-cytokine receptor interaction’
+  (NES = 1.89, padj = 0.0001), and its associated top up-regaulted genes (b) visualized
+  in a heatmap, in addition to the GSEA plot for the (c) ‘neuroactive ligand-receptor
+  interaction’ pathway (NES = 1.76, padj = 0.0001) and its associated top activated
+  genes (d). Black bars underneath the graph present the rank positions of genes from
+  the gene set, the green line refers to the enrichment profile. GO, KEGG and GSEA
+  were performed by the R package clusterProfiler; R package DOSE; R package org.HS.eg.db.
+  and visualized by the R package Enrichplot and R package ggplot2
+article_title: Altered gene expression in human brain microvascular endothelial cells
+  in response to the infection of influenza H1N1 virus.
+citation: Doaa Higazy, et al. Anim Dis. 2022;2(1):25.
+year: '2022'
+
+doi: 10.1186/s44149-022-00053-9
+journal_title: Animal Diseases
+journal_nlm_ta: Anim Dis
+publisher_name: Springer Nature Singapore
+
+keywords:
+- Blood–brain barrier
+- Influenza A virus (IAV)
+- hBMECs
+- CNS
+- Neurodegenerative diseases
+- RNAseq
+
+---

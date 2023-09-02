@@ -1,0 +1,42 @@
+---
+figid: PMC9273332__nihms-1820192-f0005
+pmcid: PMC9273332
+image_filename: nihms-1820192-f0005.jpg
+figure_link: /pmc/articles/PMC9273332/figure/F5/
+number: Fig. 5
+figure_title: ''
+caption: 'Time-dependent progressive divergence of Bcl11b knockout from wild type
+  gene expression trajectories at late pro-T cell stages. (A) Schematic of experiments
+  to determine pathway of response to loss of Bcl11b. Staggered setup of cultures
+  from aliquots of frozen BM progenitors enables samples from the same donors to be
+  collected after 10 or 13 days of differentiation, simultaneously. Magenta arrowheads
+  indicate that endogenous Bcl11b normally turns on at approximately D7 of differentiation.
+  (B) Top: FACS purification strategy for the Bcl11b scRNA-seq experiments. Bottom:
+  surface staining phenotypes of progenitor-marker c-Kit levels in WT (green) and
+  Bcl11b KOs (replicates in blue, red, orange, also see ). (C) Left: alignment of
+  two experiments of Bcl11b KO scRNA-seq profiles after CCA scaling, as ‘Bcl11b_run1’
+  and ‘Bcl11b_run2’, in UMAP1–2. N=7451 cells from ‘Bcl11b_run1’, and N=8558 cells
+  from ‘Bcl11b_run2’, total 16009 cells. Note that ‘Bcl11b_run1’ samples were only
+  collected in D10. Right: Louvain clustering of the integrated samples from all timepoints
+  and both genotypes. (D) Samples subsetted according to the hashtag demultiplexed
+  genotype and time of harvest, and displayed in UMAP1–2, colored by the same clustering
+  annotation as in panel C, right (individual mouse samples shown in ). Note that
+  these samples were not subjected to cell cycle regression before UMAP plotting,
+  as this helped to distinguish genotypes. Proliferating cells had higher UMAP1 values
+  (right). (E) Heatmap displaying the top 5 enriched genes in each sub-cluster ordered
+  by approximate developmental trajectories of WT and Bcl11b KO, based on gene expression
+  and connectivity in UMAP displays. (Seurat 3 pipeline, minimum fraction of expressing
+  cells ≥ 0.25, Wilcoxon rank sum test, avg_logFC ≥ 0.3). Full details of cluster-defining
+  marker genes are provided in .'
+article_title: Single-cell deletion analyses show control of pro-T cell developmental
+  speed and pathway by Tcf7, Spi1, Gata3, Bcl11a, Erg, and Bcl11b.
+citation: Wen Zhou, et al. Sci Immunol. ;7(71):eabm1920-eabm1920.
+year: '2023'
+
+doi: 10.1126/sciimmunol.abm1920
+journal_title: Science immunology
+journal_nlm_ta: Sci Immunol
+publisher_name: ''
+
+keywords:
+---

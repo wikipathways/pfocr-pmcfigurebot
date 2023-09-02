@@ -1,0 +1,45 @@
+---
+figid: PMC9629834__elife-78847-fig6
+pmcid: PMC9629834
+image_filename: elife-78847-fig6.jpg
+figure_link: /pmc/articles/PMC9629834/figure/fig6/
+number: Figure 6
+figure_title: Correlation analysis of phosphorylated peptides and proteins implicates
+  Tsc2 Ser664 in MTOR regulation in corticostriatal axon development
+caption: '(A) Correlation analysis workflow. Spearman rank correlation is calculated
+  for each protein and phosphopeptide pair across time points. One protein may have
+  multiple phosphopeptide-protein pairs, yielding multiple correlation values. False-discovery
+  rate was controlled by the Benjamini-Hochberg approach.(B) Distribution of protein-phosphopeptide
+  correlations. Left-skewed histogram (bin width = 1). Most phosphopeptides correlate
+  with their respective protein expression across time. (C) Classification of protein-phosphopeptide
+  correlations. Cutoff for correlated peptides, Spearman correlation ≥0. Of 1800 phosphopeptides,
+  1344 are positively correlated with proteins by their temporal expression at 10%
+  false discovery rate (FDR). A small proportion of peptides (59 of 309 phosphopeptides)
+  are decorrelated (inversely correlated) at 10% FDR. 42 phosphopeptides decrease
+  in abundance as protein levels increases, while 17 phosphopeptides show the opposite
+  pattern. (D) TSC2 and TSC2_Ser664 expression. Log2 abundance for TSC2 (open circles)
+  and TSC2_Ser664 (solid circles) were normalized to the neonatal time point (Spearman
+  rank correlation: –0.570, FDR = 0.009. n=5 for each time point. Error bars represent
+  SEM).(E) Expression heatmap for proteins and phosphosites in the TSC2-RHEB-MTOR
+  signaling pathway. Log2 protein expression was normalized to the neonate time point.
+  Log2 phosphopeptide signal was normalized to the corresponding protein abundance
+  and to the neonate time point. (F) Model for MTOR-mediated growth cone collapse.'
+article_title: Dynamic proteomic and phosphoproteomic atlas of corticostriatal axons
+  in neurodevelopment.
+citation: Vasin Dumrongprechachan, et al. eLife. 2022;11:e78847.
+year: '2022'
+
+doi: 10.7554/eLife.78847
+journal_title: eLife
+journal_nlm_ta: eLife
+publisher_name: eLife Sciences Publications, Ltd
+
+keywords:
+- neuroproteomics
+- corticostriatal
+- axon
+- development
+- phosphoproteomics
+- Mouse
+
+---

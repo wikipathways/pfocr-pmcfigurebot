@@ -1,0 +1,43 @@
+---
+figid: PMC8688322__nihms-1749479-f0005
+pmcid: PMC8688322
+image_filename: nihms-1749479-f0005.jpg
+figure_link: /pmc/articles/PMC8688322/figure/F5/
+number: 'Figure 5:'
+figure_title: The temporal properties of the BOLD “impulse response function” vary
+  with stimulus duration and with brain region
+caption: Impulse response functions (i.e., convolution kernels) were estimated from
+  BOLD response to visual stimuli with varying durations presented in a conventional
+  block design; on-block durations were 4 s, 2 s, 1 s, 0.5 s, and 0.17 s. (A) The
+  stimulus-specific impulse response function timing (measured as the time to peak
+  or TTP of the impulse response) and shape (measured as the full-width at half-maximum
+  or FWHM of the impulse response) were estimated along the visual pathway at the
+  primary visual cortex (V1), the lateral geniculate nucleus (LGN) of the thalamus,
+  and the superior colliculus (SC) of the brainstem. Both TTP and FWHM became systematically
+  shorter with shorter stimulus durations in all three brain regions. (B) A similar
+  analysis applied to the superficial and deep cortical depths of V1, with the timing
+  and shape parameters plotted from LGN as a reference. Both response timing and response
+  shape were systematically faster in the deeper cortical depths compared to the superficial
+  depths, but both were consistently slower than the responses measured within the
+  LGN, suggesting that the fastest responses in V1 are still slower than the responses
+  in LGN. (Reproduced from ​​, with permission.)
+article_title: 'Imaging faster neural dynamics with fast fMRI: a need for updated
+  models of the hemodynamic response.'
+citation: Jonathan R. Polimeni, et al. Prog Neurobiol. ;207:102174-102174.
+year: '2023'
+
+doi: 10.1016/j.pneurobio.2021.102174
+journal_title: Progress in neurobiology
+journal_nlm_ta: Prog Neurobiol
+publisher_name: ''
+
+keywords:
+- high-resolution fMRI
+- brain hemodynamics
+- biophysical modeling
+- blood-oxygenation-level-dependent contrast
+- human neuroimaging
+- fast fMRI
+- hemodynamic response function
+
+---

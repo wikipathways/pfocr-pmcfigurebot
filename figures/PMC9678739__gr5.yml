@@ -1,0 +1,46 @@
+---
+figid: PMC9678739__gr5
+pmcid: PMC9678739
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC9678739/figure/fig5/
+number: Figure 5
+figure_title: ''
+caption: Identification of potential targets regulated in a similar manner to AGAP2(A)
+  Workflow diagram used to identify genes whose expression could be regulated by the
+  alternative selection of a TSSs, involving the presence of a G quadruplex (G4).
+  First, the FANTOM database was used to identify all the transcripts that contained
+  a G quadruplex (G4) consensus sequence between alternative TSSs within their defined
+  TSS cluster. The G4 consensus sequences were identified using the pqsfinder package
+  in R. The FANTOM database was also used to detect differential expression in PC
+  (DU145, PC3) and CML (KU812, K562, KCL-22) cell lines for those genes that would
+  encode a G4 consensus between alternative TSSs. Microarray and SWATH-MS data from
+  the NCI-60 database were integrated to characterize genes that demonstrated discrepancies
+  between their mRNA and protein levels (high mRNA and low protein) within those genes
+  showing a differential 5′ UTRs with G4 sequences.(B) Metacore pathway enrichment
+  analysis of mRNAs with alternative 5′ UTRs that contain G4 consensus sequences.
+  The dot plot shows the top 15 enriched pathways with the largest gene ratio. The
+  size of the dots represents the number of genes in each pathway and the color of
+  the dots represents the adjusted p values (BH).(C) Venn diagram illustrating the
+  overlapping genes in the FANTOM and NCI-60 databases showing differential 5′ UTRs
+  with G4 consensus, with differentially expressed mRNA (≥1 log FC), and either no
+  statistically significant differences in protein levels or significantly lower proteins
+  levels in CML cell lines (left) or PC cell lines (right). The differential expression
+  and TSS distribution were computed by linear modeling followed by empirical Bayes
+  statistics.
+article_title: Implications of differential transcription start site selection on
+  chronic myeloid leukemia and prostate cancer cell protein expression.
+citation: Arif A. Surani, et al. iScience. 2022 Dec 22;25(12):105519.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.105519
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Molecular biology
+- molecular mechanism of gene regulation
+- bioinformatics
+- cancer
+
+---

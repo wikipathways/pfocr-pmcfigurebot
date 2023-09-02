@@ -1,0 +1,48 @@
+---
+figid: PMC9668732__gr5
+pmcid: PMC9668732
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC9668732/figure/fig5/
+number: Figure 5
+figure_title: ''
+caption: mTORC1 regulates GCN2 activity postactivation.A, time-dependent GCN2 pathway
+  analysis of torin-1 on GCN2 activation. 3T3 cells were starved for Leu for 1 h or
+  4 h in the absence or presence of GCN2-IN-6 (10 μM), rapamycin (1 μM), everolimus,
+  (1 μM), and torin-1 (1 μM). Lysates were probed for activation of GCN2 (p-GCN2 T898),
+  total GCN2, ATF4 as a marker of the ISR or p-4EBP1. GRB2 was used as a loading control.
+  Note that torin-1 does not inhibit p-GCN2 or ATF4 at 1 h. B, 3T3 cells were cultured
+  in Leu-free media for the times indicated in the absence of presence of torin-1
+  (100 nM). The GRB2 loading control indicates the expected time-dependent decline
+  in total protein amounts in the lysates over the 24 h starvation period. C, quantification
+  of the inhibitory effect of RapaLink-1 (10 μM) in Ddti3::mCherry 3T3 cells upon
+  L-leu starvation compared with rapamycin (1 μM) and sapanisertib (10 μM). Data are
+  depicted as mean ± SEM of three technical replicates and represent one of two independent
+  experiments. D, pathway immunoblotting analysis of the effects of RapaLink-1 compared
+  to its parent inhibitors (rapamycin and sapanisertib) using Leu-starved 3T3 cells
+  for 4 h. Data are representative of three independent experiments. ISR, integrated
+  stress response.
+article_title: A cell-based chemical-genetic screen for amino acid stress response
+  inhibitors reveals torins reverse stress kinase GCN2 signaling.
+citation: Johanna B. Brüggenthies, et al. J Biol Chem. 2022 Dec;298(12):102629.
+year: '2022'
+
+doi: 10.1016/j.jbc.2022.102629
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- GCN2
+- mTORC1
+- torins
+- amino acid starvation
+- integrated stress response
+- BSA, bovine serum albumin
+- CHX, cycloheximide
+- DMSO, dimethyl sulfoxide
+- ER, endoplasmic reticulum
+- IP, immunoprecipitation
+- ISR, integrated stress response
+- Tg, thapsigargin
+
+---

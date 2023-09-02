@@ -1,0 +1,36 @@
+---
+figid: PMC9636380__12276_2022_868_Fig1_HTML
+pmcid: PMC9636380
+image_filename: 12276_2022_868_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC9636380/figure/Fig1/
+number: Fig. 1
+figure_title: Activation of RIPK3 by multiple stimuli
+caption: RIPK3 can be activated via various receptors when bound by their respective
+  ligands. These are TNF receptor 1 (TNF-R1), CD95, death receptors (DR4/5), Toll-like
+  receptors (TLR3/4), and Z-DNA-binding protein-1 (ZBP1)/DAI. In the first three of
+  these pathways (but not TLR3/4 or ZBP1), RIPK1 is required and binds to RIPK3 through
+  its receptor-interacting protein homotypic interaction motif (RHIM). In the case
+  of ZBP1, RIPK3 is recruited directly via the ZBP1 RHIM domain, while in the case
+  of TLR3/4, RIPK3 is recruited indirectly via the RHIM domain of TRIF. Once activated,
+  RIPK3 autophosphorylates and then phosphorylates and activates MLKL to induce a
+  conformational change and translocation to the membrane, where membrane permeabilization
+  follows. During this process, post-translational modifications positively and negatively
+  regulate the necroptosis pathway. Two E3 ligases, Pellino-1 (PELI1) and carboxy
+  terminus of HSC70-interacting protein (CHIP), may control the basal threshold of
+  necroptosis. Another E3 ubiquitin ligase, TRIM21, is proposed to be a regulator
+  of necroptotic cell death in response to TRAIL. PPM1B suppresses necroptosis by
+  dephosphorylating RIPK3.
+article_title: Roles of RIPK3 in necroptosis, cell signaling, and disease.
+citation: Michael J. Morgan, et al. Exp Mol Med. 2022 Oct;54(10):1695-1704.
+year: '2022'
+
+doi: 10.1038/s12276-022-00868-z
+journal_title: Experimental & Molecular Medicine
+journal_nlm_ta: Exp Mol Med
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Inflammatory diseases
+- Necroptosis
+
+---

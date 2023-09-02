@@ -1,0 +1,43 @@
+---
+figid: PMC9648056__12964_2022_991_Fig7_HTML
+pmcid: PMC9648056
+image_filename: 12964_2022_991_Fig7_HTML.jpg
+figure_link: /pmc/articles/PMC9648056/figure/Fig7/
+number: Fig. 7
+figure_title: ''
+caption: Increased expression of genes involved in PI3K-AKT signaling in cancer-associated
+  fibroblasts and cancer epithelial cells from ovarian cancer patients is associated
+  with worse overall survival. A Expression levels [log2(norm_count + 1)] of ligands
+  and receptors of the PI3K-AKT signaling pathway in ovarian cystadenocarcinoma (n = 419)
+  of The Cancer Genome Atlas (TCGA) compared to normal ovarian tissues (n = 88) tissues
+  of Genotype-Tissue Expression (GTEx). Rows (for ligand or receptor genes) were ordered
+  based on a marker selection (signal to noise) that highlights the differences in
+  the expression profile [log2(norm_count + 1)] of GTEx tissues when compared to the
+  TCGA tissues. Twenty genes exhibited increased expression levels and were selected
+  to test their association with overall survival. B Forest plots for these twenty
+  ligand and receptor genes of the PI3K-AKT signaling pathway in two cohorts of patients
+  with ovarian cancer (TCGA, n = 557 and GSE9891, n = 264) available on the Kaplan–Meier
+  (KM) plotter []. The hazard ratio (HR) with 95% confidence intervals (CI) determined
+  by Cox proportional hazards model was used to evaluate the association between gene
+  expression values and overall survival. The statistical significance was determined
+  by a log-rank test. C Representative Kaplan–Meier curves of overall survival for
+  patients with ovarian cancer (TCGA and GSE9891) based on the expression of IGF2,
+  COL1A2, IGF1, and FGFR2
+article_title: Single-cell and bulk RNA sequencing reveal ligands and receptors associated
+  with worse overall survival in serous ovarian cancer.
+citation: Robson Francisco Carvalho, et al. Cell Commun Signal. 2022;20:176.
+year: '2022'
+
+doi: 10.1186/s12964-022-00991-4
+journal_title: 'Cell Communication and Signaling : CCS'
+journal_nlm_ta: Cell Commun Signal
+publisher_name: BioMed Central
+
+keywords:
+- Cancer-associated fibroblasts
+- Organoids
+- Serous ovarian cancer
+- Single-cell RNA-sequencing
+- Cell–cell communication
+
+---

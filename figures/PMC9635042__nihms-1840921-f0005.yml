@@ -1,0 +1,38 @@
+---
+figid: PMC9635042__nihms-1840921-f0005
+pmcid: PMC9635042
+image_filename: nihms-1840921-f0005.jpg
+figure_link: /pmc/articles/PMC9635042/figure/F5/
+number: Figure 5
+figure_title: Vascular cell-type specific perturbations in Alzheimer’s disease
+caption: a, Proportion of cell types captured in Alzheimer’s disease (AD) and no cognitive
+  impairment individuals (NCI) (left). Proportion of BEC and pericyte subpopulations
+  in AD and NCI (right) (n = 8 NCI, n = 9 AD, two-sided t-test; mean +/− s.e.m.).
+  **BEC P = 0.002, **Pericyte P = 0.003, *P. fibroblast P = 0.0461.b, Immunohistochemical
+  validation of a loss of vascular cell density in AD (number of Hoechst+ nuclei within
+  Collagen IV+ vasculature). Scale bar = 50 microns (n = 5 NCI and AD, nested two-sided
+  t-test; mean +/− s.e.m.). Yellow arrows denote example vascular nuclei.c, Differentially
+  expressed gene (DEG) counts for each cell type in AD. The intensity of the blue
+  color and the size of the squares are proportional to entry values.d, Enriched biological
+  pathways from AD differentially expressed genes in pericytes, smooth muscle cells,
+  and perivascular fibroblast-like cells, plotted by Pathway Representation (in a
+  given pathway, what proportion of all members are DEGs) and Significance (-log10P)
+  of pathway enrichment.e, Enriched biological pathways from genes upregulated in
+  AD APOE4 carriers in capillary and venous endothelial cells (P value < 0.05, cumulative
+  hypergeometric test).f, Venn diagram comparing DEG BECs in human AD samples compared
+  to those from the Thy1-hAPP T41BLon,Swe amyloidosis mouse model. Note that only
+  genes with human-mouse orthologs are shown, and that the absolute logFC threshold
+  for calling DEGs in mouse APP BECs was lowered to 0.15 (by half) to ensure claims
+  of limited overlap with human BECs were robust.
+article_title: A human brain vascular atlas reveals diverse mediators of Alzheimer’s
+  risk.
+citation: Andrew C. Yang, et al. Nature. ;603(7903):885-892.
+year: '2023'
+
+doi: 10.1038/s41586-021-04369-3
+journal_title: Nature
+journal_nlm_ta: Nature
+publisher_name: ''
+
+keywords:
+---

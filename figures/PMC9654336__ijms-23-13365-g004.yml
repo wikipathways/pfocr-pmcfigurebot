@@ -1,0 +1,37 @@
+---
+figid: PMC9654336__ijms-23-13365-g004
+pmcid: PMC9654336
+image_filename: ijms-23-13365-g004.jpg
+figure_link: /pmc/articles/PMC9654336/figure/ijms-23-13365-f004/
+number: Figure 4
+figure_title: ''
+caption: Associations between MEK/ERK pathway activity, patient survival, and MEK/ERK
+  responder genes’ expression in HGSOC patient samples from TCGA. (A) Cluster analysis
+  of phosphorylated ERK1/2 protein levels in samples from TCGA “PanCancer Atlas” dataset
+  (n = 414). Unsupervised hierarchical clustering was performed using Euclidean distance
+  metrics. (B) Kaplan–Meyer analysis of overall patient survival differences between
+  three pERK1/2-defined cohorts from TCGA “PanCancer Atlas” dataset (n = 414). Statistical
+  significance was evaluated using log-rank tests. (C) Kaplan–Meyer analysis of overall
+  patient survival differences between the “High pERK” cohort and combined “Low pERK”+”Moderate
+  pERK” cohort from the TCGA “PanCancer Atlas” dataset. Statistical significance was
+  evaluated using log-rank test. (D) Expression levels of COMS genes in samples from
+  the TCGA “Nature 2011” dataset with available pERK1/2 protein data (n = 337). Boxes
+  represent median and quartile values, whiskers represent minimum and maximum values,
+  and squares represent sample mean values. Statistical significance was evaluated
+  using two-tailed T-test with Welch’s correction.
+article_title: Optimized Transcriptional Signature for Evaluation of MEK/ERK Pathway
+  Baseline Activity and Long-Term Modulations in Ovarian Cancer.
+citation: Mikhail S. Chesnokov, et al. Int J Mol Sci. 2022 Nov;23(21):13365.
+year: '2022'
+
+doi: 10.3390/ijms232113365
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- ovarian cancer
+- chemoresistance
+- MAPK
+
+---

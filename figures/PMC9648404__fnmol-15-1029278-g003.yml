@@ -1,0 +1,33 @@
+---
+figid: PMC9648404__fnmol-15-1029278-g003
+pmcid: PMC9648404
+image_filename: fnmol-15-1029278-g003.jpg
+figure_link: /pmc/articles/PMC9648404/figure/F3/
+number: FIGURE 3
+figure_title: ''
+caption: Canonical signaling pathways demonstrate distinct regulation patterns in
+  females and males. Canonical pathways were predicted in IPA and ranked by z-scores.
+  Positive (red) and negative (green) z-scores indicate pathway up-regulation or down-regulation,
+  respectively, according to the color scale. Asterisks indicate significance *, z
+  < –2.0 or z > 2.0; **, z < –3.0, or z > 3.0. The gray color indicates that the directionality
+  of pathway regulation was not determined. Purple (females) and blue (males) horizontal
+  bars correspond to –log10(P) ≥ 1.3 calculated in IPA using Fisher exact test.
+article_title: Sexual dimorphism of early transcriptional reprogramming in degenerating
+  peripheral nerves.
+citation: Andrei V. Chernov, et al. Front Mol Neurosci. 2022;15:1029278.
+year: '2022'
+
+doi: 10.3389/fnmol.2022.1029278
+journal_title: Frontiers in Molecular Neuroscience
+journal_nlm_ta: Front Mol Neurosci
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- Mus musculus
+- sexual dimorphism
+- peripheral nerve injury
+- axotomy
+- RNA-seq
+- Wallerian degeneration
+
+---

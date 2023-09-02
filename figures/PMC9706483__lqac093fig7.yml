@@ -1,0 +1,28 @@
+---
+figid: PMC9706483__lqac093fig7
+pmcid: PMC9706483
+image_filename: lqac093fig7.jpg
+figure_link: /pmc/articles/PMC9706483/figure/F7/
+number: Figure 7
+figure_title: ''
+caption: The clusters in the disease module for Biliary liver cirrhosis inferred by
+  TOPAS(2) using FunCoup. The different node colors correspond to subclusters of the
+  resulting disease module. Seed genes have a black border, while the connectors have
+  none. The size of the nodes is proportional to the degree of connectivity. Biological
+  relevance in terms of Jaccard index (JI) for KEGG pathway term overlap between seeds
+  and connectors of the same subcluster is depicted at the bottom of the image as
+  circles with colors corresponding to subclusters and numbers depicting the corresponding
+  JI. Five out of eight subclusters show a statistically significant overlap at FDR
+  < 5%.
+article_title: TOPAS, a network-based approach to detect disease modules in a top-down
+  fashion.
+citation: Davide Buzzao, et al. NAR Genom Bioinform. 2022 Dec;4(4):lqac093.
+year: '2022'
+
+doi: 10.1093/nargab/lqac093
+journal_title: NAR Genomics and Bioinformatics
+journal_nlm_ta: NAR Genom Bioinform
+publisher_name: Oxford University Press
+
+keywords:
+---

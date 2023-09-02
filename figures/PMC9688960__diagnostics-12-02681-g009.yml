@@ -1,0 +1,38 @@
+---
+figid: PMC9688960__diagnostics-12-02681-g009
+pmcid: PMC9688960
+image_filename: diagnostics-12-02681-g009.jpg
+figure_link: /pmc/articles/PMC9688960/figure/diagnostics-12-02681-f009/
+number: Figure 9
+figure_title: ''
+caption: GO and KEGG enrichment analyses for the Timeless gene and the 25 most frequently
+  altered neighbor genes in lung cancer performed using the DAVID database. (D) GO
+  analysis suggested that the Timeless gene and its altered neighbor genes were mainly
+  enriched in BP terms including DNA replication, regulation of signal transduction
+  by p53 class mediator and DNA damage checkpoint. (B) GO analysis in the category
+  CC indicated that these genes were mainly enriched in DNA replication factor C complex
+  and Ctf18 RFC-like complex in the nucleoplasm. (A) GO analysis in the category MF
+  suggested that the genes were mainly enriched in DNA clamp loader activity, single-stranded
+  DNA-dependent ATPase activity and DNA binding. (C) KEGG pathway enrichment analysis
+  of the genes indicated that mismatch repair, circadian rhythm and DNA replication
+  may be involved in the oncogenesis and mechanism of lung cancer. GO, Gene Ontology;
+  MF, molecular function; CC, cellular component; BP, biological process; KEGG, Kyoto
+  Encyclopedia of Genes and Genomes.
+article_title: Association of the Timeless Gene with Prognosis and Clinical Characteristics
+  of Human Lung Cancer.
+citation: Jishi Ye, et al. Diagnostics (Basel). 2022 Nov;12(11):2681.
+year: '2022'
+
+doi: 10.3390/diagnostics12112681
+journal_title: Diagnostics
+journal_nlm_ta: Diagnostics (Basel)
+publisher_name: MDPI
+
+keywords:
+- timeless
+- lung cancer
+- ESPL1
+- bioinformatic analysis
+- prognosis
+
+---

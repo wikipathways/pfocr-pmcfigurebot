@@ -1,0 +1,51 @@
+---
+figid: PMC9631078__ADVS-9-2202834-g001
+pmcid: PMC9631078
+image_filename: ADVS-9-2202834-g001.jpg
+figure_link: /pmc/articles/PMC9631078/figure/advs4397-fig-0002/
+number: Figure 2
+figure_title: ''
+caption: 'BNIP‐2 knockdown activates YAP target genes in H9c2 cells. A) Heatmap represents
+  genes that were up or downregulated comparing control H9c2 cells to BNIP‐2 knockdown
+  H9c2 cells, and Day 0 versus Day 3 ATRA treated H9c2 cells. Reads per kilobase of
+  transcript, per million mapped reads (RPKM) are indicated by Log2 RPKM. The color
+  indicates the fold change difference (high: red, low: blue). B) The bar graph represents
+  number of genes up or downregulated compared between samples using Poisson distribution
+  algorithms to detect the differential expressed genes. C) KEGG pathway analysis
+  identified pathway differences between Day 3 control versus Day 3 BNIP‐2 knockdown
+  cells. Red boxes highlight pathways related to cardiac signaling. The color in the
+  chart indicates the q‐value (high: white, low: blue), lower q‐value indicates the
+  more significant enrichment. Point size indicates DEG number (The bigger dots refer
+  to larger amounts). Rich factor refers to the value of enrichment factor, which
+  is the quotient of foreground value (the number of DEGs) and background value (total
+  gene amount). The larger the value, the more significant enrichment. D) BNIP‐2 knockdown
+  increased the expression of YAP regulated transcriptional target genes (highlighted
+  in red) and reduced expression of cardiac markers (cTnT and Myl2). Color intensity
+  (high: red; low: blue) shows fold difference in reads per kilobase of transcript,
+  per million mapped reads (RPKM) of BNIP‐2 knockdown cells against Day 0 and Day
+  3 control cells. E) RT‐PCR analysis of total mRNA from H9c2 extracts shows that
+  YAP regulated transcriptional targets, MYC, CTGF, and AXL, were increased in BNIP‐2
+  knockdown cells. Knockdown of BNIP‐2 was also unable to reduce the expressions of
+  MYC, CTGF, and AXL after 3 d of ATRA treatment. The graph represents mean ± SEM,
+  n = 5. p‐values were calculated by the Student''s t‐test: *p < 0.05, **p < 0.01,
+  ***p < 0.001, and ****p < 0.0001.'
+article_title: BNIP‐2 Activation of Cellular Contractility Inactivates YAP for H9c2
+  Cardiomyoblast Differentiation.
+citation: Darren Chen Pei Wong, et al. Adv Sci (Weinh). 2022 Nov;9(31):2202834.
+year: '2022'
+
+doi: 10.1002/advs.202202834
+journal_title: Advanced Science
+journal_nlm_ta: Adv Sci (Weinh)
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- BNIP‐2
+- cardiomyoblast
+- cellular contractility
+- LATS1
+- mechanotransduction
+- RhoA
+- 'Yes‐associated protein (YAP)'
+
+---

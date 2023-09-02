@@ -1,0 +1,44 @@
+---
+figid: PMC9643005__elife-79924-fig2
+pmcid: PMC9643005
+image_filename: elife-79924-fig2.jpg
+figure_link: /pmc/articles/PMC9643005/figure/fig2/
+number: Figure 2
+figure_title: tSNE analysis of the B cell phenotypes and frequencies relative to COVID-19
+  clinical parameters including disease severity, neutrophil lymphocyte ratio, SARS-CoV-2
+  viremia, and HIV status
+caption: A total of 80,000 CD19+ B cells, all sampled at baseline, from four patient
+  groups (20,000 cells per group) were used in an unbiased tSNE analysis. Patients
+  were grouped by decreasing disease severity according to an ordinal scale ranging
+  from 3 to 1 (OS3 to 1) and a healthy control group. There was an equal contribution
+  from people living with HIV (PLWH) and HIV-ve patients per group except for the
+  control group. Three B cell phenotyping panels were used, focusing on homing (A,
+  B), maturation (C), and regulatory (D) markers. Each panel included an anchor panel
+  of CD19, IgD, IgM, CD27, and CD38. The key to the colouring of the different tSNE
+  clusters is included alongside with a description of the phenotype. The phenotype
+  is then depicted as a heatmap of the median fluorescence intensity (MFI) of each
+  surface marker within that cluster, followed by a heatmap of the cluster frequency
+  relative to ordinal scale (OS3 to 1); neutrophil-lymphocyte ratio (NLR) cut-off
+  of 3.0 to separate moderate and mild inflammation, SARS-CoV-2 viremia (S-CoV), and
+  HIV status. (B) The frequency of each B cell phenotypic cluster identified by tSNE
+  depicted as pie charts, separated based on disease severity (OS3 to 1) and controls.
+article_title: HIV skews the SARS-CoV-2 B cell response towards an extrafollicular
+  maturation pathway.
+citation: Robert Krause, et al. eLife. 2022;11:e79924.
+year: '2022'
+
+doi: 10.7554/eLife.79924
+journal_title: eLife
+journal_nlm_ta: eLife
+publisher_name: eLife Sciences Publications, Ltd
+
+keywords:
+- COVID-19
+- SARS-CoV-2
+- HIV
+- B cell
+- spike
+- RBD
+- Human
+
+---

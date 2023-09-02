@@ -1,0 +1,61 @@
+---
+figid: PMC9684461__41467_2022_34417_Fig6_HTML
+pmcid: PMC9684461
+image_filename: 41467_2022_34417_Fig6_HTML.jpg
+figure_link: /pmc/articles/PMC9684461/figure/Fig6/
+number: Fig. 6
+figure_title: Xrn1∆NLS1/2 abnormally responds to changes in the environment
+caption: a xrn1∆NLS1/2mutant cells bud abnormally slowly during exit from long-term
+  starvation to sated conditions. Seven days starved cells were re-fed (see Methods)
+  and percentage of budded cells was plotted as a function of time post re-feeding.
+  n = 2 biologically independent experiments. Error bars represent standard deviation
+  (S.D.). b, c xrn1∆NLS1/2mutant cells enter abnormally slowly into S-phase, as assayed
+  by Flow cytometry (FACS) analysis. Cells were re-fed as in a. DNA content was determined
+  by FACS, and plotted as a function of time post-re-feeding. n = 3 biologically independent
+  experiments. Error bars represent standard deviation (S.D.). d Xrn1WT-GFP, but not
+  Xrn1∆NLS1/2-GFP accumulates in the nucleus concomitantly with bud appearance. Cells
+  were inspected under a fluorescence microscope and % cells with nuclear localization
+  of GFP was plotted as a function of time following re-feeding. Error bars represent
+  S.D. of 3 replicates. Note that, in this import experiment, no cycloheximide was
+  added to avoid its effect on the actual process of exiting the starvation. Therefore,
+  in this case (unlike our other experiments), we cannot differentiate between import
+  of pre-existing Xrn1 or newly synthesized one. n = 3 biologically independent experiments.
+  Error bars represent standard deviation (S.D.). e NLS2 is required for Xrn1 import
+  during starvation and exit from starvation, whereas NLS1 is required only following
+  3 h post re-feeding. The indicated mutant cells were examined following re-feeding
+  as in d. n = 3 biologically independent experiments. Error bars represent standard
+  deviation (S.D.). p-values were determined by two-tailed unpaired t-test. ns not-significant.
+  f Kap120 is required for efficient import of Xrn1 during starvation and upon exit
+  from starvation. WT or Δkap120 cells, expressing XRN1-GFP and RPB7-RFP (to mark
+  the nucleus), were inspected microscopically. After examining the starved cells
+  (Time 0), the culture was re-fed as in a and examined microscopically at 2.25 h
+  later. The nuclear/whole-cell ratio was performed as in Fig. . P-value, based on
+  3 replicates, was calculated by Wilcoxon rank sum test. g Xrn1 induces transcription
+  of a group of genes during exit from starvation. Starvation exit experiment was
+  done as in a. RNA was sequenced (Methods). Reads were normalized to spike-in (S.
+  pombe) and plotted (Methods). h NLS1/2 of Xrn1 are necessary for efficient expression
+  of a group of mRNAs during exit from starvation. Genes that were sensitive to Xrn1
+  NLSs (red dots in g) were selected. Fold-change of mRNA level is expressed as a
+  ratio between the normalized WT and the normalized ∆NLS1/2 mutant mRNA level. Each
+  box represents the 25th to 75th percentile of values, with the median noted by the
+  horizontal bar. Whiskers terminate at maxima/minima or a distance of 1.5 times the
+  IQR away from the upper/lower quartile, whichever is closer; P-values from the Wilcoxon
+  signed-rank test are indicated for each comparison. i Xrn1 import is required for
+  normal proliferation rate under fluctuating temperatures. See Methods. Both strains
+  proliferated comparably at constant temperatures (see Fig. S). n = 2 biologically
+  independent experiments. Error bars represent standard deviation (S.D.).
+article_title: RNA-controlled nucleocytoplasmic shuttling of mRNA decay factors regulates
+  mRNA synthesis and a novel mRNA decay pathway.
+citation: Shiladitya Chattopadhyay, et al. Nat Commun. 2022;13:7184.
+year: '2022'
+
+doi: 10.1038/s41467-022-34417-z
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Molecular biology
+- RNA decay
+
+---

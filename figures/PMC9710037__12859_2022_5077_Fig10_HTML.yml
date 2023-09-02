@@ -1,0 +1,27 @@
+---
+figid: PMC9710037__12859_2022_5077_Fig10_HTML
+pmcid: PMC9710037
+image_filename: 12859_2022_5077_Fig10_HTML.jpg
+figure_link: /pmc/articles/PMC9710037/figure/Fig10/
+number: Fig. 10
+figure_title: ''
+caption: a Temporal evolution of average protein activities over 1000 model simulations
+  in response to repeated stimulation on all the receptors. b The overall activity
+  of proteins on a fixed time scale (from 0 to 15,000). Points represent the average
+  over 1000 simulations, and error bars are the coefficient of variation
+article_title: Mathematical model of the cell signaling pathway based on the extended
+  Boolean network model with a stochastic process.
+citation: Minsoo Kim, et al. BMC Bioinformatics. 2022;23:515.
+year: '2022'
+
+doi: 10.1186/s12859-022-05077-z
+journal_title: BMC Bioinformatics
+journal_nlm_ta: BMC Bioinformatics
+publisher_name: BioMed Central
+
+keywords:
+- Extended Boolean network model
+- Stochastic process
+- MAPK signaling pathway
+
+---

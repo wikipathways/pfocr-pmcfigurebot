@@ -1,0 +1,52 @@
+---
+figid: PMC9652997__13578_2022_919_Fig5_HTML
+pmcid: PMC9652997
+image_filename: 13578_2022_919_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC9652997/figure/Fig5/
+number: Fig. 5
+figure_title: ''
+caption: 'SIRT4 regulates methionine metabolism through mediating MAT2A ADP ribosylation.
+  A Volcano plot showing differential gene expression in mice’s livers upon methionine
+  restriction. Red circles indicates genes increased in the Ctrl set while blue ones
+  means genes decreased in the MR set. B Western blot analysis of MAT2A mono-ADP-ribosylation
+  (MARylation) in HEK293 and SNU449 cells in which SIRT4 was silenced (shRNA). C The
+  MARylation of MAT2A was measured by western blot in HEK293 or SNU449 cells stably
+  expressing HA tagged SIRT4. D Western blot analysis of MAT2A MARylation in the FLAG
+  immunoprecipitated samples from HEK293 or SNU449 cells treated with nicotinamide
+  (NAM) for indicated times. E Western blot analysis of MAT2A MARylation in the FLAG
+  immunoprecipitated samples from HEK293 or SNU449 cells treated with Sirtinol for
+  indicated times. F Relative activity of MAT2A was shown in the SNU449 cells in which
+  either c-Myc or SIRT4 was knockdown or overexpressed or c-Myc and SIRT4 overexpressed
+  together. G Abundances of intracellular primary methionine cycle metabolites were
+  compared between the control cells and the SNU449 cells where either c-Myc or SIRT4
+  was knockdown or stably overexpressed or c-Myc and SIRT4 overexpressed together.
+  H MARylation level of mutant FLAG-MAT2A-E111A ectopically expressed in MAT2A-knockout
+  HEK293 or SNU449 cells was measured by using anti-ADP ribosylation antibody when
+  SIRT4 was silenced. I MARylation level of mutant FLAG-MAT2A-E111A ectopically expressed
+  in MAT2A-knockout HEK293 or SNU449 cells was measured by using anti-ADP ribosylation
+  antibody when SIRT4 was overexpressed. J MAT2A dimer are shown in blue or lightblue
+  (PDB ID: 4NDN). The active site was shown in red circle. K E111 in MAT2A is conserved.
+  Protein sequence alignment surrounding E111 colored in light blue from indicated
+  species. Data are means ± SEM. Group differences were analyzed by two-tailed Student’s
+  multiple comparison test (F, G) (**p < 0.01)'
+article_title: mTORC1-c-Myc pathway rewires methionine metabolism for HCC progression
+  through suppressing SIRT4 mediated ADP ribosylation of MAT2A.
+citation: Liang Zhao, et al. Cell Biosci. 2022;12:183.
+year: '2022'
+
+doi: 10.1186/s13578-022-00919-y
+journal_title: Cell & Bioscience
+journal_nlm_ta: Cell Biosci
+publisher_name: BioMed Central
+
+keywords:
+- Cancer
+- mTOR
+- c-Myc
+- SIRT4
+- MAT2A
+- TRIM32
+- ADP ribosylation
+- Methionine metabolism
+
+---

@@ -1,0 +1,33 @@
+---
+figid: PMC9692281__medicina-58-01657-g004
+pmcid: PMC9692281
+image_filename: medicina-58-01657-g004.jpg
+figure_link: /pmc/articles/PMC9692281/figure/medicina-58-01657-f004/
+number: Figure 4
+figure_title: ''
+caption: Gene ontology and KEGG pathway analysis of the different PPI networks. (A)
+  Top 10 KEGG pathways of the expanded network based on the identified PPI network
+  for the mutated proteins (PKD1, PKD2, TSC2, and BRSK2). Terms are ordered based
+  on significance (p-value). (B) Top 10 KEGG pathways of the expanded network based
+  on the first neighbors of BRSK2 derived from the main PPI network. Terms are ordered
+  based on significance (p-value).
+article_title: Identification and Characterization of Novel Mutations in Chronic Kidney
+  Disease (CKD) and Autosomal Dominant Polycystic Kidney Disease (ADPKD) in Saudi
+  Subjects by Whole-Exome Sequencing.
+citation: Othman R. Alzahrani, et al. Medicina (Kaunas). 2022 Nov;58(11):1657.
+year: '2022'
+
+doi: 10.3390/medicina58111657
+journal_title: Medicina
+journal_nlm_ta: Medicina (Kaunas)
+publisher_name: MDPI
+
+keywords:
+- whole-exome sequencing
+- autosomal recessive polycystic kidney disease (ARPKD)
+- autosomal dominant polycystic kidney disease (ADPKD)
+- polycystin-1-polycystin-2 PKD1
+- PKD2
+- end-stage renal disease ESRD
+
+---

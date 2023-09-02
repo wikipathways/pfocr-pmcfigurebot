@@ -1,0 +1,37 @@
+---
+figid: PMC9660330__fimmu-13-965342-g009
+pmcid: PMC9660330
+image_filename: fimmu-13-965342-g009.jpg
+figure_link: /pmc/articles/PMC9660330/figure/f9/
+number: Figure 9
+figure_title: ''
+caption: GSVA analysis of single cells from 4T1 mice. (A) Differential hallmark pathway
+  activities in the PTX+CKI group versus the saline group. (B) Differential hallmark
+  pathway activities in the PTX+CKI group versus the PTX group. (C) Heatmap showing
+  enrichment scores (based on the signatures developed by Bagaev et al.) in the four
+  groups. (D) Difference in the enrichment scores of the signatures related to cytotoxic
+  T and NK cells among the four groups (based on the signatures developed by Bagaev
+  et al.). (E) Heatmap showing T cell enrichment scores (based on the signatures developed
+  by Sun et al.) in the four groups. (F) Difference in the T cell enrichment scores
+  (based on the signatures developed by Sun et al.) among the four groups. (G) Difference
+  in the T cell enrichment scores (based on the signatures developed by Sun et al.)
+  between the PTX+CKI group and the PTX group. ***P < 0.001.
+article_title: Single-cell RNA-sequencing uncovers compound kushen injection synergistically
+  improves the efficacy of chemotherapy by modulating the tumor environment of breast
+  cancer.
+citation: Xinkui Liu, et al. Front Immunol. 2022;13:965342.
+year: '2022'
+
+doi: 10.3389/fimmu.2022.965342
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- compound kushen injection
+- triple-negative breast cancer
+- 4T1 tumor bearing mice
+- single cell RNA-sequencing
+- T lymphocytes
+
+---

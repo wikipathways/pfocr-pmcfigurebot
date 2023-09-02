@@ -1,0 +1,49 @@
+---
+figid: PMC9632086__13048_2022_1050_Fig1_HTML
+pmcid: PMC9632086
+image_filename: 13048_2022_1050_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC9632086/figure/Fig1/
+number: Fig. 1
+figure_title: ''
+caption: Clinicopathologic characteristics of PDE10A expression in ovarian cancer.
+  A Kaplan-Meyer overall survival analysis of TCGA ovarian cystadenocarcinoma patients
+  stratified by PDE10A mRNA expression levels. PDE10Ahigh and PDE10Alow correspond
+  to mRNA expression 2x higher (n = 16) and 2 × lower (n = 154) than mean PDE10A mRNA
+  levels in the population, respectively; PDE10Amedium, remainder patients (n = 132).
+  B PDE10A protein levels in ovarian cancer cell lines and normal ovarian surface
+  epithelial (OSE) cells measured by western-blotting. GAPDH was used as the loading
+  control. HOSEpic are primary OSE cells, while IOSE-80 and IOSE-7576 are immortalized
+  OSE cell lines. C Comparison of PDE10A expression in normal ovary tissue (from GTEx
+  database; n = 88) and ovarian cancer (from TCGA; n = 426) using GEPIA. D PDE10A
+  mRNA levels measured by qPCR in ovary tumor (n = 59) and normal ovary (n = 14) clinical
+  specimens deposited at our institutional Biobank. Relative expression was calculated
+  with the ΔCt method using GPS1 as housekeeping gene. Error bars, ± SD, **p < 0.01
+  (Unpaired two-tailed students t-test). E PDE10A mRNA expression in normal human
+  tissue from the GTEx Portal (top 16 tissues included). F–H iPathway Guide impact
+  analysis of genes differentially expressed when comparing TCGA ovarian tumors with
+  PDE10AHIGHvs. PDE10ALOW mRNA levels. In this comparison, 1,510 differentially expressed
+  (DE) genes were identified out of a total of 19,331 genes with measured expression
+  using thresholds of log2-fold change ± 0.6 and adjusted p-value < 0.1. F Each pathway
+  is represented as a single dot, with significant pathways shown in red and yellow,
+  and non-significant in black. G Hub genes and interactions for the Pathways in Cancer
+  pathway. Genes with elevated mRNA expression depicted in red and genes with decreased
+  mRNA expression depicted in blue. H Log2-fold change for the Pathways in Cancer
+  gene set
+article_title: Phosphodiesterase 10A (PDE10A) as a novel target to suppress β-catenin
+  and RAS signaling in epithelial ovarian cancer.
+citation: Rebecca M. Borneman, et al. J Ovarian Res. 2022;15:120.
+year: '2022'
+
+doi: 10.1186/s13048-022-01050-9
+journal_title: Journal of Ovarian Research
+journal_nlm_ta: J Ovarian Res
+publisher_name: BioMed Central
+
+keywords:
+- PDE10A
+- Sulindac
+- β-catenin
+- RAS
+- Ovarian cancer
+
+---

@@ -1,0 +1,60 @@
+---
+figid: PMC8636169__gr6
+pmcid: PMC8636169
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC8636169/figure/fig6/
+number: Figure 6
+figure_title: ''
+caption: METTL1 depletion reduced tRNA m7G modification, m7G tRNA expression, and
+  oncogenic mRNA translation(A and B) m7G modification decreased in A549 lung cancer
+  cells with METTL1 or WDR4 depletion. (C) The list of m7G-modified tRNAs in A549
+  cells identified by TRAC-seq. (D) Representative images of cleavage scores of indicated
+  tRNAs at m7G-modified sties. Decreased cleavage score was shown in the shMETTL1
+  group, indicating the reduced m7G tRNA modification level in METTL1-depleted cells.
+  (E) tRNA m7G modification level was decreased in METTL1-depleted A549 cells. (F)
+  m7G-modified tRNAs expression levels were decreased in METTL1-depleted A549 cells
+  compared to that of the non-m7G-modified tRNAs. (G) Relative expression profile
+  of m7G-modified tRNAs based on TRAC-seq. The relative expression of each tRNA type
+  was calculated from the combined expression of all of the tRNA genes belonging to
+  the same tRNA type. (H) Northern blotting analyzed the expression levels of representative
+  m7G-modified tRNAs and non-m7G-modified tRNAs in lung cancer cells upon METTL1 or
+  WDR4 depletion. U6 snRNA was used as a loading control. (I) Overexpression of METTL1
+  or WDR4 increased the expression level of m7G modification and m7G-modified tRNAs
+  in lung cancer cells. (J) Polysome profiling of A549 cells with or without METTL1
+  knockdown. (K) Translation efficiency (TE) of METTL1-depleted A549 cells was decreased
+  by analyzing the puromycin intake in cells. Overexpression of wild-type METTL1 instead
+  of catalytic inactive mutant METTL1 rescued translation deficiency of METTL1-depleted
+  A549 cells. (L) Scatterplot of gene TE in A549 cells with or without METTL1 depletion.
+  TE was calculated by dividing the RNC-mRNA sequencing signals to input mRNA sequencing
+  signals. (M) Frequency of the m7G-related codons in TE up, TE down, and other genes
+  (others) in METTL1 depletion cells. (N) m7G codon frequency of genes with the top
+  25% TE was significantly higher than that of the genes with the bottom 25% TE in
+  the NC group. (O) TEs of the identified TE down gene were significantly higher than
+  that of the other and TE up genes in NC cells. (P) Gene ontology analysis of function
+  enrichment in the biological process with TE down genes in METTL1 depletion cells.
+  (Q) Pathway analysis with TE down genes in METTL1 depletion cells. (R and S) qRT-PCR
+  and western blotting confirmed the TEs changes of the identified cell-cycle-related
+  genes. (T) IHC confirmed the decreased expression of the identified TE down gene
+  CCND3 in METTL1-depleted xenograft tumors sections. Data were presented as mean ± SD.
+  Scale bars, 100 μm and 50 μm. (One-way ANOVA, Student’s t test, ∗p < 0.05, ∗∗∗p <
+  0.001, compared to the shGFP group.)
+article_title: METTL1/WDR4-mediated m7G tRNA modifications and m7G codon usage promote
+  mRNA translation and lung cancer progression.
+citation: Jieyi Ma, et al. Mol Ther. 2021 Dec 1;29(12):3422-3435.
+year: '2021'
+
+doi: 10.1016/j.ymthe.2021.08.005
+journal_title: Molecular Therapy
+journal_nlm_ta: Mol Ther
+publisher_name: American Society of Gene & Cell Therapy
+
+keywords:
+- METTL1
+- WDR4
+- N7-methylguanosine
+- m7G
+- tRNA modification
+- translation
+- lung cancer
+
+---

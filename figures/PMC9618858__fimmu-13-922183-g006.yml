@@ -1,0 +1,40 @@
+---
+figid: PMC9618858__fimmu-13-922183-g006
+pmcid: PMC9618858
+image_filename: fimmu-13-922183-g006.jpg
+figure_link: /pmc/articles/PMC9618858/figure/f6/
+number: Figure 6
+figure_title: ''
+caption: Cell cycle-related factors associated with cancer were affected by carboline.
+  (A) The Venn diagram displays the common genes shared by the SARC and predicted
+  drug-target profiles. (B) PPI network analysis of 19 hub genes. The network was
+  constructed using the CytoHubba plugin in Cytoscape, and the core gene scores were
+  calculated using the maximal clique centrality (MCC) method. The deeper the color
+  of the node is, the higher the PPI score of the targets, and the red nodes represent
+  the β-carboline-3-carboxylic acid dimers. (C) KEGG pathway analysis of 24 targets
+  from Venn analysis. (D) Differential and functional enrichment analysis of 24 targets
+  shared by SARC-related transcriptomic profiles and drug-target networks. (E) Disease-free
+  survival analysis for predicted target genes and TCGA consensus genes, P <0.05 (CCNA2,
+  PLK1, and TK1). (F) mRNA expression of CCNA2, DBF4, TK1, PLK1, MMP7, and CDK2 in
+  MG-63 cells detected by RT–qPCR. (G) Western blot analysis of CCNA2 and CDK2. MG-63
+  cells were treated with Comp1 and Comp2 at 5 and 10 µM for 48 h. ACTB was used as
+  an internal control. *P < 0.05, **P < 0.01.
+article_title: β-Carboline dimers inhibit the tumor proliferation by the cell cycle
+  arrest of sarcoma through intercalating to Cyclin-A2.
+citation: Huiya Ma, et al. Front Immunol. 2022;13:922183.
+year: '2022'
+
+doi: 10.3389/fimmu.2022.922183
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- β-Carboline-3-carboxylic acid dimers
+- CCNA2
+- CDK2
+- cell cycle
+- apoptosis
+- tumor-infiltrating cell
+
+---

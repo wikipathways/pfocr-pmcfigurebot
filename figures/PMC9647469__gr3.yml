@@ -1,0 +1,32 @@
+---
+figid: PMC9647469__gr3
+pmcid: PMC9647469
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9647469/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: Protein-protein interaction (PPI) network of DDT target for the treatment
+  of ICH. (A) Hub genes of DDT for ICH. The top 35 key targets were screened by degree
+  value using the CytoNCA plugin. (B) STRING analysis of the PPI network of DDT targets
+  for treating ICH. Different colored spheres represent target genes, with protein
+  structures inside. Lines indicate interactions between protein targets. The thicker
+  lines represent the more considerable degree of the target node. (C) Statistical
+  analysis of (B) The X-axis represented the name of the protein, and the Y-axis represented
+  the number of network neighbor nodes.
+article_title: Didang Tang inhibits intracerebral hemorrhage-induced neuronal injury
+  via ASK1/MKK7/JNK signaling pathway, network pharmacology-based analyses combined
+  with experimental validation.
+citation: Jing Lu, et al. Heliyon. 2022 Nov;8(11):e11407.
+year: '2022'
+
+doi: 10.1016/j.heliyon.2022.e11407
+journal_title: Heliyon
+journal_nlm_ta: Heliyon
+publisher_name: Elsevier
+
+keywords:
+- Intracerebral hemorrhage
+- Didang tang
+- ASK1/MKK7/JNK
+
+---

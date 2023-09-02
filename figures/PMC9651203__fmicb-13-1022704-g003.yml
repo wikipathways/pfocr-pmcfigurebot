@@ -1,0 +1,38 @@
+---
+figid: PMC9651203__fmicb-13-1022704-g003
+pmcid: PMC9651203
+image_filename: fmicb-13-1022704-g003.jpg
+figure_link: /pmc/articles/PMC9651203/figure/F3/
+number: FIGURE 3
+figure_title: ''
+caption: Top 10 significant protein-protein interaction networks. (A) The top 10 MCODE
+  complexes formed by the 520 proteins from the pulled list of the 5 analyzed cell
+  lines. The PPI included the mRNA splicing pathway (MCODE1 and 7), the nonsense-mediated
+  decay (NMD) (MCODE2), the effect of progerin on the involved genes in Hutchinson-Gilford
+  Progeria Syndrome (MCODE3), the INO80 chromatin remodeling complex (MCODE4), Large
+  Drosha complex (MCODE5), chromatin remodeling complex (MCODE6), DNA repair pathways
+  (MCODE8), stress granule assembly (MCODE9), and protein-DNA complex subunit organization
+  (MCODE10). The mRNA splicing pathway was the most significant. P-value in Log 10
+  are given in parenthesis in the Legend and in . In the Legend R = Reactome, WP =
+  WikiPathways, GO = GO term. (B) The network nodes are displayed as pie. Color code
+  for pie sector represents a protein list from each of the five analyzed cell lines.
+  The keys codes for the MCODEs shown in this figure are listed in , together with
+  their correspondent p-value.
+article_title: Characterization of the interactome profiling of Mycoplasma fermentans
+  DnaK in cancer cells reveals interference with key cellular pathways.
+citation: Sabrina Curreli, et al. Front Microbiol. 2022;13:1022704.
+year: '2022'
+
+doi: 10.3389/fmicb.2022.1022704
+journal_title: Frontiers in Microbiology
+journal_nlm_ta: Front Microbiol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- Mycoplasma fermentans
+- chaperone protein
+- DnaK protein
+- proteomics
+- cellular pathways
+
+---

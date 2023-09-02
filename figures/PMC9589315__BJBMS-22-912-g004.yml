@@ -1,0 +1,37 @@
+---
+figid: PMC9589315__BJBMS-22-912-g004
+pmcid: PMC9589315
+image_filename: BJBMS-22-912-g004.jpg
+figure_link: /pmc/articles/PMC9589315/figure/F4/
+number: FIGURE 4
+figure_title: ''
+caption: 'Identification of hub genes and their expression patterns in CRC cancer
+  development in TCGA dataset. (A) The bar plot shows results of the GSEA analysis
+  in CRC development; (B) the volcano map presents the CRC-related differential gene
+  distribution; (C) the overall-survival analysis in response to C1QC based on the
+  TCGA database. The survival curve is based on survival and survminer functions.
+  The optimal cutoff values of multiple gene variables are calculated by an automatic
+  cut-off algorithm, and the survival curve is drawn; (D) summary of GSEA analysis
+  of TCGA differential genes: In C7, the immune signature analysis involved in neutrophil
+  activation mainly enriched GSE22886 NEUTROPHIL VS DC UP, GSE22886 NAIVE BCELL VS
+  NEUTROPHIL UP and GSE22886 NEUTROPHIL VS MONOCYTE UP core pathways. Further validation
+  of neutrophil activation in the progression of colon cancer; and (E-G) the biological
+  process, targeted drugs, and pathway enrichment analysis for C1QC.'
+article_title: Complement C1QC as a potential prognostic marker and therapeutic target
+  in colon carcinoma based on single-cell RNA sequencing and immunohistochemical analysis.
+citation: Huiming Deng, et al. Bosn J Basic Med Sci. 2022 Dec;22(6):912-922.
+year: '2022'
+
+doi: 10.17305/bjbms.2022.7309
+journal_title: Bosnian Journal of Basic Medical Sciences
+journal_nlm_ta: Bosn J Basic Med Sci
+publisher_name: Association of Basic Medical Sciences of Federation of Bosnia and
+  Herzegovina
+
+keywords:
+- C1QC
+- colon carcinoma
+- prognostic marker
+- single-cell RNA sequencing
+
+---

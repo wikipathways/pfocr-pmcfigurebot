@@ -1,0 +1,46 @@
+---
+figid: PMC9655519__ijms-23-12846-g002
+pmcid: PMC9655519
+image_filename: ijms-23-12846-g002.jpg
+figure_link: /pmc/articles/PMC9655519/figure/ijms-23-12846-f002/
+number: Figure 2
+figure_title: ''
+caption: 'Analysis of differentially phosphorylated proteins in MA-10 Leydig cells
+  in response Forskolin. LC-MS/MS was performed on enriched phosphopeptides extracted
+  and digested from MA-10 Leydig cells treated with either DMSO (control) or Forskolin
+  (Fsk, 10 µm) for 1 h. Phosphorylated proteins were then quantified and compared
+  between treatments. Results are the mean of three individual experiments, each performed
+  in triplicate. (A) Volcano plot comparing the level of phosphorylated proteins detected
+  by LC-MS/MS in control and Fsk-treated MA-10 Leydig cells. Each dot represents a
+  distinct phosphoprotein. A Log2 fold change of +/−1.17 (corresponds to 2.25-fold)
+  with a p-value of 0.05 was used and is represented by the blue dotted lines. In
+  response to Fsk, blue dots depict a decrease in phosphorylation level (two proteins
+  are identified in that group: MAPT and PARD3), while red dots correspond to an increase
+  in phosphorylation level (four proteins are identified in that group: SRP14, NR4A1,
+  RAF1, AKAP1). Grey dots correspond to proteins with no significant changes in phosphorylation
+  levels. (B) Heatmap of protein phosphorylation levels for differentially phosphorylated
+  proteins between treatment groups (control DMSO vs. Fsk). The name of the protein
+  is indicated. The scale on the right represents expression levels (Log10). Biological
+  Process (C), Pathway Analysis (D), Cellular Component (E), and Molecular Function
+  (F) of the differentially phosphorylated proteins are shown.'
+article_title: Comprehensive and Quantitative Analysis of the Changes in Proteomic
+  and Phosphoproteomic Profiles during Stimulation and Repression of Steroidogenesis
+  in MA-10 Leydig Cells .
+citation: Zoheir B. Demmouche, et al. Int J Mol Sci. 2022 Nov;23(21):12846.
+year: '2022'
+
+doi: 10.3390/ijms232112846
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- testis
+- Leydig cells
+- steroidogenesis
+- star
+- AMPK
+- phosphoproteomics
+- proteomics
+
+---

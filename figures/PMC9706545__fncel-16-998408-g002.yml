@@ -1,0 +1,43 @@
+---
+figid: PMC9706545__fncel-16-998408-g002
+pmcid: PMC9706545
+image_filename: fncel-16-998408-g002.jpg
+figure_link: /pmc/articles/PMC9706545/figure/F2/
+number: FIGURE 2
+figure_title: ''
+caption: Single nuclei analysis identifies SCA1 disease associated transcriptional
+  changes in Purkinje cells. For identified Purkinje Neurons, limma was used to test
+  differential gene abundance between control and Pcp2-ATXN1[82Q] samples. N = 3 mice
+  of each genotype. P values were adjusted using Benjamini-Hockberg method. Differential
+  gene expression was determined by an adjusted p-values of 0.05. (A) Number of upregulated
+  and downregulated differentially expressed genes (DEGs) in PCs. (B) Volcano plot
+  showing DEGs of PC cluster in Pcp2-ATXN1[82Q] SCA1. (C) Heatplot displaying expression
+  profiles of top 25 highest upregulated and downregulated PC DEGs in wild-type and
+  Pcp2-ATXN1[82Q] samples determined by logFC values with adjusted p-values ≤0.05.
+  N = 3 mice of each genotype. (D) Ridgeplot showing distribution of expression of
+  selected genes in wild-type and Pcp2-ATXN1[82Q] Purkinje cells. (E) Dot plot of
+  the differential expression of Magenta genes in Purkinje cells, Bergmann glia, velate
+  astrocytes and oligodendrocytes with color of dot depicting expression and size
+  of the dot depicting percentage of cells. All selected genes had adjusted p-value
+  ≤ 0.05. (F) Pathway analysis of total DEGs between WT and Pcp2-ATXN1[82Q] PCs at
+  12 weeks of age. The color of dots depicts the adjusted p values, radius of the
+  dot depicts gene counts (number of genes in the enriched pathway).
+article_title: Single nuclei RNA sequencing investigation of the Purkinje cell and
+  glial changes in the cerebellum of transgenic Spinocerebellar ataxia type 1 mice.
+citation: Ella Borgenheimer, et al. Front Cell Neurosci. 2022;16:998408.
+year: '2022'
+
+doi: 10.3389/fncel.2022.998408
+journal_title: Frontiers in Cellular Neuroscience
+journal_nlm_ta: Front Cell Neurosci
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- cerebellum
+- SCA1
+- Purkinje cells
+- Bergmann glia
+- oligodendrocytes
+- velate astrocytes
+
+---

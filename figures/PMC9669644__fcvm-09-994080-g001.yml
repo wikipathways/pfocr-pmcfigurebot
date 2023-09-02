@@ -1,0 +1,38 @@
+---
+figid: PMC9669644__fcvm-09-994080-g001
+pmcid: PMC9669644
+image_filename: fcvm-09-994080-g001.jpg
+figure_link: /pmc/articles/PMC9669644/figure/F1/
+number: FIGURE 1
+figure_title: ''
+caption: Analysis of miR-199a-5p targets involved in Atherosclerosis. (A) Representation
+  of miR-199a-5p expression in human tissue using Gtex Portal. Expression values are
+  shown in TPM (Transcripts Per Million), calculated from a gene model with isoforms
+  collapsed to a single gene. No other normalization steps have been applied. Box
+  plots are shown as median and 25th and 75th percentiles and points are displayed
+  as outliers if they are above or below 1.5 times the interquartile range. (B) Bioinformatic
+  analysis of prominent miR-199a-5p target genes obtained thought TargetScan 6.2.
+  involved in atherosclerosis using GeneMania. Blue lines indicate pathway co-localization,
+  yellow lines indicate predicted and purple lines indicate co-expression. (C) Table
+  of human predicted targets genes of miR-199a-5p involved in atherosclerosis obtained
+  using TargetScan 6.2., showing the number and type of the putative binding sites
+  and the conservation in mouse and human.
+article_title: Role of miR-199a-5p in the post-transcriptional regulation of ABCA1
+  in response to hypoxia in peritoneal macrophages.
+citation: Juan Francisco Aranda, et al. Front Cardiovasc Med. 2022;9:994080.
+year: '2022'
+
+doi: 10.3389/fcvm.2022.994080
+journal_title: Frontiers in Cardiovascular Medicine
+journal_nlm_ta: Front Cardiovasc Med
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- miRNAs
+- hypoxia
+- ABCA1
+- atherosclerosis
+- macrophage
+- cholesterol efflux
+
+---

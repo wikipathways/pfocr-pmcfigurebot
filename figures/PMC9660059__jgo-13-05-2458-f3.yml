@@ -1,0 +1,41 @@
+---
+figid: PMC9660059__jgo-13-05-2458-f3
+pmcid: PMC9660059
+image_filename: jgo-13-05-2458-f3.jpg
+figure_link: /pmc/articles/PMC9660059/figure/f3/
+number: Figure 3
+figure_title: ''
+caption: STING regulates biological characteristics through the AMPK-mTOR pathway
+  and glucose uptake in CRC cells. (A-C) GSEA was conducted using gene sequencing
+  data from the GEO GSE129436 and 100179 data sets (KEGG enrichment, tumor-associated
+  pathways). (D) cBioPortal indicated that STING is closely related to the mammalian
+  target of the rapamycin (mTOR) signaling pathway in CRC. (E) 48 hours after the
+  transfection of STING siRNA and the negative control siRNA, the expressions of p-mTOR,
+  T-mTOR, p-guanosine monophosphate-adenosine 5’-monophosphate (AMP)-activated protein
+  kinase (AMPK), T-AMPK, and STING were detected by Western blot assays. (F) For the
+  quantitative analysis of the gray value of results in (E), we repeated the experiment
+  three times. (G) A glucose fluorescent probe was used to detect the glucose uptake
+  of the HCT116 and SW480 CRC cells. Average fluorescence intensity was quantified
+  by randomly selecting 5 microscopic fields. P<0.05 was considered statistically
+  significant. *P<0.05, **P<0.01, and ***P<0.001. CRC, colorectal cancer; GSEA, Gene
+  Set Enrichment Analysis; GEO, Gene Expression Omnibus; KEGG, Kyoto Encyclopedia
+  of Genes and Genomes; NC, normal control; CTL, control; STING, stimulator of interferon
+  genes.
+article_title: STING promotes proliferation and induces drug resistance in colorectal
+  cancer by regulating the AMPK-mTOR pathway.
+citation: Huihui Yao, et al. J Gastrointest Oncol. 2022 Oct;13(5):2458-2471.
+year: '2022'
+
+doi: 10.21037/jgo-22-957
+journal_title: Journal of Gastrointestinal Oncology
+journal_nlm_ta: J Gastrointest Oncol
+publisher_name: AME Publishing Company
+
+keywords:
+- Colorectal cancer (CRC)
+- stimulator of interferon genes (STING)
+- clinicopathological features
+- proliferation
+- drug resistance
+
+---

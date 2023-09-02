@@ -1,0 +1,34 @@
+---
+figid: PMC9652152__41388_2022_2482_Fig1_HTML
+pmcid: PMC9652152
+image_filename: 41388_2022_2482_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC9652152/figure/Fig1/
+number: Fig. 1
+figure_title: CRISPR screens identify genes involved in resistance to AKT and PI3Kβ
+  inhibitors in PTEN-deficient breast cancer cell lines
+caption: A Outline of CRISPR screening approach used to identify gene knockouts that
+  increase or decrease sensitivity to capivasertib and AZD8186. B Venn diagram showing
+  overlap in AZD8186 and capivasertib resistance genes identified across the lines.
+  C STRING network analysis of AZD8186 (left) and capivasertib (right) resistance
+  genes identified in at least two cell lines (n = 9 for AZD8186 and n = 19 for capivasertib).
+  Node size represents resistance effect caused by gene KO (mean gRNA FC for each
+  gene in drug treated relative to DMSO control across three cell lines). Smallest
+  and largest node represent mean gRNA FC of 1.5 and 15, respectively. Node colour
+  represents pathway or associated gene function. Colour and size of node on STRING
+  network were modified manually.
+article_title: AKT-mTORC1 reactivation is the dominant resistance driver for PI3Kβ/AKT
+  inhibitors in PTEN-null breast cancer and can be overcome by combining with Mcl-1
+  inhibitors.
+citation: Shanade Dunn, et al. Oncogene. 2022;41(46):5046-5060.
+year: '2022'
+
+doi: 10.1038/s41388-022-02482-9
+journal_title: Oncogene
+journal_nlm_ta: Oncogene
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cancer therapeutic resistance
+- Target identification
+
+---

@@ -1,0 +1,35 @@
+---
+figid: PMC9648056__12964_2022_991_Fig2_HTML
+pmcid: PMC9648056
+image_filename: 12964_2022_991_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC9648056/figure/Fig2/
+number: Fig. 2
+figure_title: ''
+caption: Single-cell transcriptomics re-analysis confirm the heterogeneity of cancer-associated
+  fibroblasts (CAFs) in ovarian cancer malignant ascites. A Single-cell RNA-sequencing
+  (scRNA-seq) data visualization of four CAFs populations using t-distributed stochastic
+  neighbor embedding (tSNE). B Violin plots show the expression levels of canonical
+  CAFs markers in CAFs populations, including myofibroblastic cancer-associated fibroblasts
+  (myCAF1-2) and inflammatory cancer-associated fibroblasts (iCAF1-2). C Heatmap shows
+  the pathway enrichment analysis (EnrichR [, ]) for gene sets of cluster-specific
+  CAFs markers. Top 25 pathway terms (lowest adjusted P-value) selected from the WikiPathways
+  2021 and MSigDB Hallmark 2020 libraries available in EnrichR [, ]. D Violin plots
+  show the expression levels of ovarian cancer CAFs markers among the four CAFs populations
+article_title: Single-cell and bulk RNA sequencing reveal ligands and receptors associated
+  with worse overall survival in serous ovarian cancer.
+citation: Robson Francisco Carvalho, et al. Cell Commun Signal. 2022;20:176.
+year: '2022'
+
+doi: 10.1186/s12964-022-00991-4
+journal_title: 'Cell Communication and Signaling : CCS'
+journal_nlm_ta: Cell Commun Signal
+publisher_name: BioMed Central
+
+keywords:
+- Cancer-associated fibroblasts
+- Organoids
+- Serous ovarian cancer
+- Single-cell RNA-sequencing
+- Cell–cell communication
+
+---

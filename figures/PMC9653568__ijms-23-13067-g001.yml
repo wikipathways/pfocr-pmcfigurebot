@@ -1,0 +1,32 @@
+---
+figid: PMC9653568__ijms-23-13067-g001
+pmcid: PMC9653568
+image_filename: ijms-23-13067-g001.jpg
+figure_link: /pmc/articles/PMC9653568/figure/ijms-23-13067-f001/
+number: Figure 1
+figure_title: ''
+caption: 'Proteomics analysis of normal pituitary gland and corticotroph adenomas,
+  gonadotroph adenomas, and somatotroph adenomas. (A): A heatmap of differentially
+  expressed proteins (FC > 1.5 or FC < 0.67 and FDR q < 0.1). High expression is shown
+  in red; low expression is shown in blue. (B): Volcano map of differentially expressed
+  proteins.** p < 0.01, *** p < 0.001 (C): KEGG pathway analysis based on differentially
+  expressed proteins. (D): The most enriched GO terms. (E): Enrichment analysis in
+  TRRUST showing differentially expressed proteins regulated by STAT3, REST, TFAP2A,
+  and SNAI1 based on the Metascape database.'
+article_title: The Integrated Stress Response Is Tumorigenic and Constitutes a Therapeutic
+  Liability in Somatotroph Adenomas.
+citation: Zhenye Li, et al. Int J Mol Sci. 2022 Nov;23(21):13067.
+year: '2022'
+
+doi: 10.3390/ijms232113067
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- somatotroph adenomas
+- integrated stress response
+- tumorigenesis
+- EIF2
+
+---

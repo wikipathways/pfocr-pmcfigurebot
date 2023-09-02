@@ -1,0 +1,39 @@
+---
+figid: PMC9682348__gr2
+pmcid: PMC9682348
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC9682348/figure/fig2/
+number: Fig. 2
+figure_title: ''
+caption: 'Inflammatory cytokine and metabolomic profiling. (A) Heatmaps for the differential
+  cytokines related to sarcopenia and tumor recurrence, respectively (R package: ggplot2);
+  (B) The Venn Diagrams for the cytokines/metabolites related to sarcopenia and tumor
+  recurrence concurrently; (C) The protein interaction mapping for the 6 cytokines
+  that were concurrently related to sarcopenia and tumor recurrence; (D) The heatmap
+  for the metabolites that were concurrently related to sarcopenia and tumor recurrence
+  (R package: ggplot2); (E) Pathway analysis for the identified metabolites that were
+  concurrently related to sarcopenia and tumor recurrence (MBROLE 2.0); (F) and (G)
+  The co-expression network of the metabolites belonging to sterol metabolism and
+  fatty acid metabolism. Gray hexagon and green border indicate decreased level in
+  sarcopenic patients and recurrent patients, respectively. Red hexagon and orange
+  border indicate increased level in sarcopenic patients and recurrent patients, respectively.
+  (For interpretation of the references to colour in this figure legend, the reader
+  is referred to the Web version of this article.)'
+article_title: Multi-omics profiling reveals Chitinase-3-like protein 1 as a key mediator
+  in the crosstalk between sarcopenia and liver cancer.
+citation: Di Lu, et al. Redox Biol. 2022 Dec;58:102538.
+year: '2022'
+
+doi: 10.1016/j.redox.2022.102538
+journal_title: Redox Biology
+journal_nlm_ta: Redox Biol
+publisher_name: Elsevier
+
+keywords:
+- Sarcopenia
+- Hepatocellular carcinoma
+- CHI3L1
+- Metabolomic
+- Lipid peroxide
+
+---

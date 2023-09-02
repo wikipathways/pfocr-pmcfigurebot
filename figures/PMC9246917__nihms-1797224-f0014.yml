@@ -1,0 +1,42 @@
+---
+figid: PMC9246917__nihms-1797224-f0014
+pmcid: PMC9246917
+image_filename: nihms-1797224-f0014.jpg
+figure_link: /pmc/articles/PMC9246917/figure/F14/
+number: Extended Data Fig. 6
+figure_title: NCOR2 associates with the promoters of the genes in the STAT-1/IRF1
+  death signaling pathway
+caption: a, Results of chromatin immunoprecipitation (ChIP) and ChIP-re-ChIP assays
+  showing that NCOR2 and HDAC3 are concomitantly recruited to the IRF1 binding site
+  (IRF-E) at the TNFSF10, CASP1, CASP7 or STAT1 promoters in TRAIL (1 μg/mL × 3 hr)-treated
+  HMT-3522 T4–2 cells overexpressing (OE) NCOR2 or an empty vector (Vector). Re-ChIP
+  was then carried out using the precipitates from the first round of ChIP for the
+  indicated genes using anti-HDAC3 antibody (representative data of n=2 independent
+  experiments with similar results). b, ChIP assay data showing association of NCOR2
+  together with STAT-1 at the IRF1 promoter in TRAIL-treated HMT-3522 T4–2 cells with
+  the OE of NCOR2 or an empty vector (Vector) using anti-NCOR2, STAT-1, acetylated
+  histone H3 (Ac-H3), transcription factor IIB (TF IIB), RNA polymerase II (Pol II)
+  antibodies or an isotype control IgG (representative data of n=2 independent experiments
+  with similar results). c, ChIP assay data showing molecular associations of NCOR2
+  at the promoters of TNFSF10, CASP1, CASP7 or STAT1 in TRAIL-treated HMT-3522 T4–2
+  cells with the OE of NCOR2 or an empty vector (Vector) using anti-NCOR2, HDAC3,
+  Ac-H3, TF IIB, Pol II antibodies or an isotype control IgG (representative data
+  of n=2 independent experiments with similar results). d, Results of ChIP from HMT-3522
+  T4–2 cells with lentiviral-shRNA-mediated knockdown (KD) of NCOR2 expression showing
+  attenuation of the association of HDAC3 with the IRF-E on the promoter of TNFSF10,
+  CASP1, CASP7 or STAT1 following TRAIL treatment. Findings also showed that loss
+  of NCOR2 simultaneously permitted histone hyperacetylation and enhanced the recruitment
+  of the TF IIB and Pol II (representative data of n=2 independent experiments with
+  similar results).
+article_title: Breast cancer patient-derived organoid screening implicates the repressor
+  NCOR2 in cytotoxic stress response and anti-tumor immunity.
+citation: Kelvin K. Tsai, et al. Nat Cancer. ;3(6):734-752.
+year: '2023'
+
+doi: 10.1038/s43018-022-00375-0
+journal_title: Nature cancer
+journal_nlm_ta: Nat Cancer
+publisher_name: ''
+
+keywords:
+---

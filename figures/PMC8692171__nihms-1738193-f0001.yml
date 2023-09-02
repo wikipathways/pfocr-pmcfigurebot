@@ -1,0 +1,42 @@
+---
+figid: PMC8692171__nihms-1738193-f0001
+pmcid: PMC8692171
+image_filename: nihms-1738193-f0001.jpg
+figure_link: /pmc/articles/PMC8692171/figure/F1/
+number: Figure 1
+figure_title: The PTEN-PI3K-AKT-mTOR pathway and therapeutic targets
+caption: 'Activation of PI3K-AKT signaling can occur by binding of growth factors,
+  hormones, or cytokines to receptor tyrosine kinases (RTK), leading to activation
+  of phosphatidylinositol 3-phosphate kinase (PI3K). PI3K phosphorylates phosphatidylinositol-4,5-bisphosphate
+  (PIP2), generating phosphatidylinositol 3,4,5-trisphosphate (PIP3), leading to the
+  activation of AKT by phosphorylation at Thr308 (p-AKT). PTEN opposes the effect
+  of PI3K by hydrolyzing PIP3 to PIP2. p-AKT deactivates glycogen synthase kinase-3
+  β (GSK3β), which is a negative regulator of β-catenin, and suppresses the tuberous
+  sclerosis complex (TSC1/TSC2), a negative regulator of mTORC1. mTORC1 suppresses
+  eukaryotic translation initiation factor 4E-binding protein (4EBP1) and activates
+  p-S6, leading to increased protein translation. mTORC2 modulates cytoskeletal remodeling
+  and ion channel activation and leads to phosphorylation of AKT at Ser473. Pharmacological
+  treatment with LY294002 and BKM120 inhibits PI3K activity. AZD5363 inhibits AKT.
+  Rapamycin inhibits mTORC1 activity. Abbreviations: AKT, protein kinase B; AMPK,
+  AMP-activated protein kinase; mTOR, mammalian target of rapamycin; mTORC1, mammalian
+  target of rapamycin complex 1; mTORC2, mammalian target of rapamycin complex 2;
+  PTEN, phosphatase and tensin homolog; PKD1, polycystin 1; LKB1, liver kinase B1;
+  SGK1, serum/glucocorticoid regulated kinase 1.'
+article_title: 'PTEN mutations in autism spectrum disorder and congenital hydrocephalus:
+  developmental pleiotropy and therapeutic targets.'
+citation: Tyrone DeSpenza, et al. Trends Neurosci. ;44(12):961-976.
+year: '2023'
+
+doi: 10.1016/j.tins.2021.08.007
+journal_title: Trends in neurosciences
+journal_nlm_ta: Trends Neurosci
+publisher_name: ''
+
+keywords:
+- neurodevelopment disorders
+- ventriculomegaly
+- macrocephaly
+- mTOR
+- rapamycin
+
+---

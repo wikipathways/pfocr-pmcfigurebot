@@ -1,0 +1,35 @@
+---
+figid: PMC9649669__41419_2022_5392_Fig2_HTML
+pmcid: PMC9649669
+image_filename: 41419_2022_5392_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC9649669/figure/Fig2/
+number: Fig. 2
+figure_title: SR9009 downregulated the cell cycle pathway and suppressed lethal prostate
+  cancer subtype 1 (PCS1)
+caption: A Volcano plot of differentially expressed genes between the SR9009 group
+  (n = 3) and DMSO group (n = 3) after RNA sequencing. B, C Kyoto Encyclopedia of
+  Genes and Genome (KEGG) pathway analysis of up- (B) and downregulated (C) pathways
+  after SR9009 or DMSO was added; D, E Gene Set Enrichment Analysis (GSEA) analysis
+  of the top 5 upregulated (D) and downregulated (E) pathways applying “c2.cp.v7.2.symbols.gmt
+  [Curated]” from the MSigDB database. F GSEA of PCS1 after SR9009 or DMSO administration.
+  G Cluster analysis of genes in PCS1, PCS2, and PCS3 between the SR9009 and DMSO
+  groups. H Heatmap of genes in PCS1 after SR9009 or DMSO administration. I, J qPCR
+  validations of genes downregulated in PCS1 in 22RV1 (I) and PC3 (J); n = 3; means ± SDs;
+  ANOVA. K Western blot validation of SR9009 treatment on the expression of FOXM1
+  and RRM2 in PC3 and 22RV1 cells. ns, not significant; *p < 0.05; **p < 0.01; ***p < 0.001;
+  ****p < 0.0001.
+article_title: SR9009 inhibits lethal prostate cancer subtype 1 by regulating the
+  LXRα/FOXM1 pathway independently of REV-ERBs.
+citation: Hang Xu, et al. Cell Death Dis. 2022 Nov;13(11):949.
+year: '2022'
+
+doi: 10.1038/s41419-022-05392-6
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Prostate cancer
+- Drug development
+
+---

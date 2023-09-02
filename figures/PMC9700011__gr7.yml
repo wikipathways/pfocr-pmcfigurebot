@@ -1,0 +1,40 @@
+---
+figid: PMC9700011__gr7
+pmcid: PMC9700011
+image_filename: gr7.jpg
+figure_link: /pmc/articles/PMC9700011/figure/fig0007/
+number: Figure 7
+figure_title: ''
+caption: Identification of genome-wide DNA binding sites and transcription targets
+  for BMP4 by ChIP-seq. (A) Detection of the immunoprecipitation efficiency of BMP4
+  overexpressed granular cells with SMAD4 antibody binding. (B) ChIP peaks over chromosomes
+  by ChIP-seq using the primary antibody against BMP4 (the right represents the chromosome
+  number, the left ordinate represents the peak value of each chromosome). (C) The
+  distribution of reads on both sides of the transcription start site (TSS). (D) Pie
+  diagram showed the ratios of BMP4 binding sites located relative to a transcription
+  unit including intergenic, 1st intron, 1st exon, promotor, other intron and other
+  exon. (E) GO enrichment of Peak related genes (top ten terms of each category).
+  (F) KEGG enrichment map of metabolic pathways of Peak related genes (top 20 pathways).
+  (G) Five common motifs with the most significant differences among peaks. (H) Interaction
+  network diagram between TFs and genes based on sequencing results, purple represented
+  the transcription factor or transcription factor family, red represented the target
+  gene that TF may act through motifs. (I) Validation of the expression level of annotated
+  genes BAMBI and CPEB2 in granular cells with BMP4 overexpression or knockdown plasmid.
+article_title: BMP4/SMAD8 signaling pathway regulated granular cell proliferation
+  to promote follicle development in Wanxi white goose.
+citation: Congcong Wei, et al. Poult Sci. 2023 Jan;102(1):102282.
+year: '2023'
+
+doi: 10.1016/j.psj.2022.102282
+journal_title: Poultry Science
+journal_nlm_ta: Poult Sci
+publisher_name: Elsevier
+
+keywords:
+- Goose
+- BMP/SMAD signal pathway
+- granular cell
+- ChIP-Seq
+- activin membrane binding inhibitor
+
+---

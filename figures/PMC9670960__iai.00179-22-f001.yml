@@ -1,0 +1,52 @@
+---
+figid: PMC9670960__iai.00179-22-f001
+pmcid: PMC9670960
+image_filename: iai.00179-22-f001.jpg
+figure_link: /pmc/articles/PMC9670960/figure/F1/
+number: FIG 1
+figure_title: ''
+caption: AHA labeling of BMDMs identifies 302 proteins selectively synthesized after
+  L. pneumophila challenge. (A) Strategy for identification of newly synthesized proteins
+  in macrophages infected with L. pneumophila. Methionine-starved C57BL/6 BMDMs were
+  challenged with L. pneumophila-GFP at a multiplicity of infection (MOI) of 15 and
+  incubated for 4 h. AHA was introduced into the medium, and infection was allowed
+  to proceed for an additional 2 h. Cells were then harvested and subjected to cell
+  sorting, gating on GFP expression to identify macrophages with associated bacteria.
+  The sorted cells from the GFP+ gate were lysed and incubated with alkyne-coated
+  beads in the presence of Cu2+ to allow covalent linkage of AHA-incorporated nascent
+  chains to resin (see Materials and Methods). An uninfected sample was also run in
+  parallel. The covalently linked proteins with AHA incorporated were released from
+  the resin by trypsin digestion and then subjected to LC-MS/MS analysis to identify
+  all proteins translated during this time frame. (B) BMDMs challenged with L. pneumophila
+  were blocked for protein synthesis. Shown is flow cytometry analysis of BMDMs cells
+  infected with L. pneumophila at MOI = 15 for 6 h allowing for 2 h AHA incorporation
+  as in panel A. Sorted cells were fixed, permeabilized, and incubated with APC-phosphine
+  to allow detection of AHA incorporation. (C) Flow chart demonstrating strategy for
+  identification of proteins by mass spectrometry (MS). Modified Z-score analysis
+  was performed (see Materials and Methods) (). To determine nonspecific binding to
+  the alkyne resin, a control sample was used with the omission of AHA. (D) Modified
+  Z-scores for protein candidates identified by MS in uninfected and infected BMDMs.
+  Proteins that were absent from a sample were given a value of 0.001 as the lowest
+  limit of detection (Data Set S1). (E) IPA-bases enriched pathway analysis of the
+  list of newly synthesized proteins A (Qiagen Inc; https://digitalinsights.qiagen.com)
+  Proteins identified, values, and statistical significance are described in Data
+  Set S1.
+article_title: 5′ Untranslated mRNA Regions Allow Bypass of Host Cell Translation
+  Inhibition by Legionella pneumophila.
+citation: Erion Lipo, et al. Infect Immun. 2022 Nov;90(11):e00179-22.
+year: '2022'
+
+doi: 10.1128/iai.00179-22
+journal_title: Infection and Immunity
+journal_nlm_ta: Infect Immun
+publisher_name: American Society for Microbiology
+
+keywords:
+- Legionella pneumophila
+- innate immunity
+- interferon
+- macrophages
+- translation inhibition
+- translation initiation
+
+---

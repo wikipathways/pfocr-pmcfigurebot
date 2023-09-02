@@ -1,0 +1,39 @@
+---
+figid: PMC9623986__12885_2022_10177_Fig3_HTML
+pmcid: PMC9623986
+image_filename: 12885_2022_10177_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC9623986/figure/Fig3/
+number: Fig. 3
+figure_title: ''
+caption: Activation schemes of KEGG Bladder cancer Main Pathway (a-c) and NCI p73
+  transcription factor network Pathway apoptosis and DNA repair (d-f) in experimental
+  (ad), TCGA (be) and Syn2623706 (cf.) CRC samples. Color indicates log10-transformed
+  ratio of mean gene expression values in patients with poor prognosis normalized
+  on gene expression in patients with favorable prognosis. Bold margins indicate most
+  strongly up/downregulated nodes. Patients were divided into poor and favorable prognosis
+  groups by median survival for experimental and TCGA datasets. Because median survival
+  was undefined for Syn2623706 dataset, poor and favorable prognosis was determined
+  relatively median of survival time for non-censored patients
+article_title: Personalized targeted therapy prescription in colorectal cancer using
+  algorithmic analysis of RNA sequencing data.
+citation: Maxim Sorokin, et al. BMC Cancer. 2022;22:1113.
+year: '2022'
+
+doi: 10.1186/s12885-022-10177-3
+journal_title: BMC Cancer
+journal_nlm_ta: BMC Cancer
+publisher_name: BioMed Central
+
+keywords:
+- Transcriptomics
+- RNA sequencing
+- Molecular diagnostics
+- Biomarkers detection
+- Colorectal cancer
+- Targeted therapy
+- Oncobox
+- Second opinion system
+- Personalized medicine
+- Bioinformatics
+
+---

@@ -1,0 +1,34 @@
+---
+figid: PMC9637741__41598_2022_23588_Fig4_HTML
+pmcid: PMC9637741
+image_filename: 41598_2022_23588_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9637741/figure/Fig4/
+number: Figure 4
+figure_title: ''
+caption: Fit of responses measured after partial irreversible receptor inactivation
+  (Furchgott method) with SABRE using unified pathway amplification (γ) and ligand
+  affinity (Kd) parameters. Simulated data (symbols) for three different compounds
+  (Cpd. 1, 2, and 3) and two different inactivation levels (Trt_1 and Trt_2) were
+  generated in Prism as described in Methods with the parameter values as shown (three
+  compounds with corresponding log Kd,is and εis, i = 1, 2, and 3 at three different
+  inactivation levels with corresponding qjs, j = 0, 1, and 2; 5% random error) and
+  fitted with SABRE (lines) using a total of nine parameters (Table B). Data were
+  selected to illustrate that receptor inactivation can change full agonists into
+  partial ones with significant change in apparent and even relative efficacies—compare
+  compound 2 (red) and 1 (blue) at Trt_0 versus Trt_2.
+article_title: 'Quantification of receptor binding from response data obtained at
+  different receptor levels: a simple individual sigmoid fitting and a unified SABRE
+  approach.'
+citation: Peter Buchwald. Sci Rep. 2022;12:18833.
+year: '2022'
+
+doi: 10.1038/s41598-022-23588-w
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Pharmacodynamics
+- Receptor pharmacology
+
+---

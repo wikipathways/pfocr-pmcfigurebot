@@ -1,0 +1,35 @@
+---
+figid: PMC9691841__fped-10-1050326-g003
+pmcid: PMC9691841
+image_filename: fped-10-1050326-g003.jpg
+figure_link: /pmc/articles/PMC9691841/figure/F3/
+number: Figure 3
+figure_title: ''
+caption: Enrichment analysis for 22 common TFs and their targets. (A) Biological Process
+  Pathways for 22 common TFs. Pathway terms were ranked according to their −log10
+  (p value) values. The dot sizes were proportional to number of genes. (B) Top 10
+  Biological Process Pathways for targets of 14 activated TFs (dataset I, dataset
+  II, dataset III). All the targets and pathways were common in three datasets. Pathway
+  terms were ranked according to their −log10 (p value) values. The dot sizes were
+  proportional to number of genes. (C) Top 10 Biological Process Pathways for targets
+  of 8 repressed TFs (dataset I, dataset II, dataset III). All the targets and pathways
+  were common in three datasets. Pathway terms were ranked according to their −log10
+  (p value) values. The dot sizes were proportional to number of genes.
+article_title: A joint transcriptional regulatory network and protein activity inference
+  analysis identifies clinically associated master regulators for biliary atresia.
+citation: Panpan Sun, et al. Front Pediatr. 2022;10:1050326.
+year: '2022'
+
+doi: 10.3389/fped.2022.1050326
+journal_title: Frontiers in Pediatrics
+journal_nlm_ta: Front Pediatr
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- pediatric
+- cholangiopathy
+- deconvolution
+- transcription factor
+- network
+
+---

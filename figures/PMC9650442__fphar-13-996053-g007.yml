@@ -1,0 +1,42 @@
+---
+figid: PMC9650442__fphar-13-996053-g007
+pmcid: PMC9650442
+image_filename: fphar-13-996053-g007.jpg
+figure_link: /pmc/articles/PMC9650442/figure/F7/
+number: FIGURE 7
+figure_title: ''
+caption: 'Database analysis of stem and K-Ras gene expressions in colon cancer. (A)
+  Chordal graph of the correlation between the expression of CD133 and inflammatory
+  genes. The expression of CD133 was found to positively correlate with IL-7, IL-17A,
+  IL-17RC, IL-22RA2, IL-22, and IL-23A. (B) Chordal graph of the correlation between
+  the expression of Lgar5 and inflammatory genes. The expression of LGR5 was found
+  to positively correlate with IL-11RA, IL-17RB, IL-17RD, IL-17D, IL-22RA1, IL-23R,
+  and IL-23A, and negatively correlate with IL-17C, and IL-17REL. (C) Chordal graph
+  of the correlation between the expression of K-Ras and inflammatory genes. The expression
+  of K-Ras was found to positively correlate with RAF1, PIK3CA, PIK3C3, AKT3, and
+  MAPK1, and negatively correlate with AKT1, AKT2, and IL-17RC. (D) K-Ras gene expression
+  based on the TCGA database analysis in normal and colon cancer tissues (***: p <
+  0.001). (E) GSEA analysis indicated significant correlations between K-Ras mRNA
+  expression and stemness-related gene signatures. GSEA from the publicly available
+  GEO database (Colon cancer) has shown positive correlation (p < 0.05) between K-Ras
+  expression and stemness-related gene signatures.'
+article_title: Inhibition of colon cancer K-RasG13D mutation reduces cancer cell proliferation
+  but promotes stemness and inflammation via RAS/ERK pathway.
+citation: Yan Qi, et al. Front Pharmacol. 2022;13:996053.
+year: '2022'
+
+doi: 10.3389/fphar.2022.996053
+journal_title: Frontiers in Pharmacology
+journal_nlm_ta: Front Pharmacol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- K-RasG13D mutation
+- colon cancer
+- cancer stem cells
+- tumor spheroid
+- ERK pathway
+- PI3K/Akt pathway
+- inflammation
+
+---

@@ -1,0 +1,48 @@
+---
+figid: PMC8819711__nihms-1772642-f0001
+pmcid: PMC8819711
+image_filename: nihms-1772642-f0001.jpg
+figure_link: /pmc/articles/PMC8819711/figure/F1/
+number: Figure 1
+figure_title: Overview of genome-wide changes of OCT1 binding in response to PTS
+caption: (A) A pie chart depicting the number of changes in OCT1 binding in MCF10CA1a
+  breast cancer cells treated with 7μM PTS for 9 days. OCT1 binding was assessed by
+  ChIP sequencing. (B) Chromosomal view of OCT1-reduced peaks in response to PTS treatment.
+  Each bar represents a single peak that was called using MACS2 peak calling software.
+  (C) Chromatin states associated with OCT1-reduced peaks were determined using Broad
+  ChromHMM data from human mammary epithelial cells (HMEC) available on USCS Genome
+  Browser (hg19). Peaks could correspond to active, weak or poised promoters, strong
+  or weak enhancers, putative insulators, active or weak transcription, Polycomb-repressed
+  regions, heterochromatin or repetitive regions. (D) The 326 genes with OCT1-reduced
+  peaks in promoter/enhancer regions upon PTS were subjected to Gene Ontology (GO)
+  function (blue color) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway
+  analysis (pink color) using DAVID Knowledgebase. The number of genes in different
+  categories is depicted in a chart. (E) OCT1 expression in normal and cancer tissues
+  based on microarray data from Oncomine database. Expression is presented as log2-transformed
+  median centered per array, and SD-normalized to 1 per array. (F) Schematic of analysis
+  of peaks and genes associated with OCT1-reduced and DNMT3B-enriched peaks within
+  promoter/enhancer in MCF10CA1a breast cancer cells treated with 7μM PTS for 9 days.
+  (G) The 47 genes with DNMT3B enrichment in OCT1-reduced peaks in promoter/enhancer
+  in response to PTS were categorized into genes containing promoter peaks only, promoter
+  and enhancer peaks, or enhancer peaks only as depicted by the Venn diagram. Selected
+  genes with known or potential oncogenic role that are associated with those peaks
+  are listed.
+article_title: Pterostilbene leads to DNMT3B-mediated DNA methylation and silencing
+  of OCT1-targeted oncogenes in breast cancer cells.
+citation: Megan Beetch, et al. J Nutr Biochem. ;98:108815-108815.
+year: '2023'
+
+doi: 10.1016/j.jnutbio.2021.108815
+journal_title: The Journal of nutritional biochemistry
+journal_nlm_ta: J Nutr Biochem
+publisher_name: ''
+
+keywords:
+- pterostilbene
+- oncogenes
+- DNA methylation
+- DNMT3B
+- chromatin
+- cancer
+
+---

@@ -1,0 +1,49 @@
+---
+figid: PMC9655519__ijms-23-12846-g003
+pmcid: PMC9655519
+image_filename: ijms-23-12846-g003.jpg
+figure_link: /pmc/articles/PMC9655519/figure/ijms-23-12846-f003/
+number: Figure 3
+figure_title: ''
+caption: 'Analysis of differentially phosphorylated proteins in MA-10 Leydig cells
+  treated with Forskolin or Forskolin+AICAR. LC-MS/MS was performed on enriched phosphopeptides
+  extracted and digested from MA-10 Leydig cells treated with Forskolin (Fsk, 10 µm)
+  or Fsk+AICAR (10 µM and 1 mM, respectively) for 1 h. Phosphorylated proteins were
+  then quantified and compared between treatments. Results are the mean of three individual
+  experiments, each performed in triplicate. (A) Consensus sequence motif of phosphorylated
+  peptides. The amino acid chosen is the one with the highest probability of being
+  phosphorylated. (B) Volcano plot comparing the level of phosphorylated proteins
+  detected by LC-MS/MS in Fsk-treated vs. Fsk+AICAR-treated MA-10 Leydig cells (to
+  observe the effects of AICAR). Each dot represents a distinct phosphoprotein. A
+  Log2 fold change of +/−1.17 (corresponds to 2.25-fold) with a p-value of 0.05 was
+  used and is represented by the blue dotted lines. In response to AICAR, blue dots
+  depict a decrease in phosphorylation level (one protein is identified in that group:
+  NUMA1), while red dots correspond to an increase in phosphorylation level (three
+  proteins are identified in that group: MAPT, PARD3, NFATC3). Grey dots correspond
+  to proteins with no significant changes in phosphorylation levels. (C) Heatmap of
+  protein phosphorylation levels for differentially phosphorylated proteins between
+  treatments (Fsk vs. Fsk+AICAR). The name of the protein in indicated. The scale
+  on the right represents expression levels (Log10). Biological Process (D), Pathway
+  Analysis (E), Cellular Component (F), and Molecular Function (G) of the differentially
+  phosphorylated proteins are shown.'
+article_title: Comprehensive and Quantitative Analysis of the Changes in Proteomic
+  and Phosphoproteomic Profiles during Stimulation and Repression of Steroidogenesis
+  in MA-10 Leydig Cells .
+citation: Zoheir B. Demmouche, et al. Int J Mol Sci. 2022 Nov;23(21):12846.
+year: '2022'
+
+doi: 10.3390/ijms232112846
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- testis
+- Leydig cells
+- steroidogenesis
+- star
+- AMPK
+- phosphoproteomics
+- proteomics
+
+---

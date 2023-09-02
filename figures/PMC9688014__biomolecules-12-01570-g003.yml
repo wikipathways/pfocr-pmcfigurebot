@@ -1,0 +1,37 @@
+---
+figid: PMC9688014__biomolecules-12-01570-g003
+pmcid: PMC9688014
+image_filename: biomolecules-12-01570-g003.jpg
+figure_link: /pmc/articles/PMC9688014/figure/biomolecules-12-01570-f003/
+number: Figure 3
+figure_title: ''
+caption: 'Heterozygous losses impacting key DNA repair effectors are enriched in MYBL2
+  High tumors. (A) Weighted expression scores reveal an imbalance in DNA repair pathway
+  regulation. (B) Observed differences in WE scores are highly correlated across different
+  cancer types. Correlations with x marks indicate correlations that are not statistically
+  significant (Pearson). (C) Heterozygous losses in genes encoding key single-strand
+  break repair, TLS, and NHEJ effectors are highly enriched in MYBL2 High tumors.
+  One-sided Fisher’s exact test, p < 0.05, *; p < 0.01, **; p < 0.001, ***. Heterozygous
+  loss events are highly correlated with decreased expression of repair effectors.
+  Benjamini-Hochberg corrected q. q < 0.05, *; q < 0.01, **, q < 0.001, ***. (D) COSMIC
+  v3.2 SBS analysis reveals heterozygous loss of repair effectors is associated with
+  impaired pathway function. S: Signatures specifically observed only in MYBL2 High
+  or MYBL2 Low tumors. Dotted line represents Student’s t-test p = 0.05.'
+article_title: Replicative Instability Drives Cancer Progression.
+citation: Benjamin B. Morris, et al. Biomolecules. 2022 Nov;12(11):1570.
+year: '2022'
+
+doi: 10.3390/biom12111570
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: MDPI
+
+keywords:
+- replicative instability (RIN)
+- cancer progression
+- metastasis
+- MYBL2
+- single-strand break repair
+- translesion synthesis
+
+---

@@ -1,0 +1,41 @@
+---
+figid: PMC9627512__fpls-13-964558-g002
+pmcid: PMC9627512
+image_filename: fpls-13-964558-g002.jpg
+figure_link: /pmc/articles/PMC9627512/figure/f2/
+number: Figure 2
+figure_title: ''
+caption: Enrichment analyses of the differentially expressed genes (DEGs) related
+  to triterpenoid saponin (TS) biosynthesis. (A) shows Gene Ontology (GO) enrichment
+  analyses of DEGs among the above four comparison groups. It is composed of four
+  cycles. Cycle 1 (Cy1, the outermost cycle) means nine GO terms located in the above
+  four comparison groups. Cycle 2 (Cy2, the secondary outer cycle) means the number
+  of DEGs corresponding to GO terms. The different colors of the rectangles below
+  the number are the q_value (-log10). Cycle 3 (Cy3, the sub-internal cycle) means
+  the number of upregulated and downregulated genes corresponding to GO Classify2,
+  which were labeled in pink and green, respectively. Cycle 4 (Cy4, the innermost
+  cycle) means the enrichment range and the enrichment factors of GO terms, including
+  cellular components, biological processes, and molecular functions. The green circular
+  line indicates enrichment factor = 1. (B) shows the Kyoto Encyclopedia of Genes
+  and Genomes (KEGG) pathway enrichment analyses of DEGs in N1_vs_B1, N2_vs_B2, N1_vs_N2,
+  and B1_vs_B2 comparison groups. The abscissa and ordinate denote the enrichment
+  factors and pathways, respectively. The size and color of the circles represent
+  the number and q_value of DEGs.
+article_title: 'Transcriptomics–metabolomics joint analysis: New highlight into the
+  triterpenoid saponin biosynthesis in quinoa (Chenopodium quinoa Willd.).'
+citation: Yulu Zhao, et al. Front Plant Sci. 2022;13:964558.
+year: '2022'
+
+doi: 10.3389/fpls.2022.964558
+journal_title: Frontiers in Plant Science
+journal_nlm_ta: Front Plant Sci
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- quinoa
+- triterpenoid saponins (TSs)
+- triterpenoid biosynthesis
+- transcriptomics-metabolomics joint analysis
+- qRT-PCR
+
+---

@@ -1,0 +1,44 @@
+---
+figid: PMC9666710__42003_2022_4021_Fig3_HTML
+pmcid: PMC9666710
+image_filename: 42003_2022_4021_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC9666710/figure/Fig3/
+number: Fig. 3
+figure_title: PTMSigDB reveals common pTyr signatures of cardiac proteome in HCM
+caption: 'a Unsupervised PCA of the full cardiac Proteome of Non-transgenic, TgErbB2,
+  and R403Q-αMyHC mice show distinct segregation of the experimental groups. The groups
+  segregate along with the first principal component (PC #1), which accounts for 46%
+  of the total correlation in the expression of Full Proteome (normalized, mean = 0,
+  variance = 1). b Unsupervised PCA of the pTyrosine peptides signal normalized to
+  full proteome expression. The groups also segregate along with the first principal
+  component (PC #1), accounting for 52.2% of the total correlation. c A heatmap was
+  used to visualize the unsupervised hierarchical clustering of pTyrosine peptides
+  normalized to full proteome expression with a p-value < 0.05 by ANOVA. Overrepresented
+  (yellow) and underrepresented (Blue). d Volcano plot showing the Log2 fold-change
+  and –Log10 p-value of each pTyr peptide in the pairwise comparison of Ntg and TgErbB2.
+  The data points highlighted in red show a significantly lower intensity, whereas
+  the data in green show significantly higher intensity. The significant sites were
+  magnified in the figure (dotted squares) to label some peptide sites. Magenta data
+  points match genes significantly associated with MsigDB disease pathways. Cyan data
+  point did not reach statistical significance although point to EGFR1 pathway. e
+  Volcano plot showing the Log2 fold-change and –Log10 p-value of each pTyr peptide
+  in the pairwise comparison of Ntg and R403Q-αMyHC. Red and green data points were
+  color-coded as above. With a similar magnification as above, cyan data points show
+  a significant association to EGFR1 Pathway by PTMsigDB. f Molecular Signature DB
+  (MSigDB) and Molecular PTMs Signature DB (PTMsigDB) of Global pTyr data identified
+  pathways that were significantly altered.'
+article_title: Alteration in tyrosine phosphorylation of cardiac proteome and EGFR
+  pathway contribute to hypertrophic cardiomyopathy.
+citation: Mingguo Xu, et al. Commun Biol. 2022;5:1251.
+year: '2022'
+
+doi: 10.1038/s42003-022-04021-4
+journal_title: Communications Biology
+journal_nlm_ta: Commun Biol
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Proteomics
+- Cardiac hypertrophy
+
+---

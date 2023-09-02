@@ -1,0 +1,49 @@
+---
+figid: PMC9634552__fmolb-09-1034928-g002
+pmcid: PMC9634552
+image_filename: fmolb-09-1034928-g002.jpg
+figure_link: /pmc/articles/PMC9634552/figure/F2/
+number: FIGURE 2
+figure_title: ''
+caption: Multi-omics characteristic landscapes of 26 m6A regulators and relevant biological
+  pathway of m6A modification pattern in HCC. (A) The intra-clusters similarities
+  of 26 m6A regulators were visualized by the metascape enrichment network, and the
+  cluster annotations were presented with color code, including methylation, stability,
+  and C complex spliceosome. (B) Genetic mutations landscape of 26 m6A regulators
+  was found in 35of the 361 HCC patients, with a frequency of 9.7%, and the mutation
+  frequency of each regulator were shown on the right. (C) The bar plot indicated
+  the CNV alterations frequency of regulators in the TCGA-LIHC cohort. The amplification
+  frequency was presented in pink dot, and the deletion frequency was in green dot.
+  (D) The transcriptome landscape of regulators between normal and HCC samples in
+  TCGA-LIHC cohort. The statistical p-value was showed by the asterisks above (ns,
+  p > 0.05; *p < 0.05; **p < 0.01; ***p < 0.001). (E) The interaction of expression
+  on 24 m6A regulators were sequenced in both TCGA and GSE76427 HCC cohorts. The 24
+  m6A regulators were depicted into three RNA modification types by the left half
+  of circle in different colors. Erasers, red, Readers, yellow; Writers, blue; and
+  the lines connecting each m6A regulator represented their interaction with each
+  other. The size of each circle was referring to the overall survival (OS) p–value.
+  The green dot on the right half of circle indicated favorable factors for HCC prognosis,
+  while the purple dot represented risk factors. (F) Kaplan-Meier curves of overall
+  survival (OS) for merged HCC cohorts (TCGA-LIHC and GSE76427 cohorts) among three
+  distinct m6A clusters. The numbers of patients in m6Aclusters A, B and C phenotypes
+  are 159, 151, and 175, respectively (Log-rank test, p < 0.05). (G) Heatmap indicated
+  the significant KEGG pathways curated from MSigDB in m6Acluster A vs. m6Acluster
+  B.
+article_title: Construction of m6A-based prognosis signature and prediction for immune
+  and anti-angiogenic response.
+citation: Xiang-Xu Wang, et al. Front Mol Biosci. 2022;9:1034928.
+year: '2022'
+
+doi: 10.3389/fmolb.2022.1034928
+journal_title: Frontiers in Molecular Biosciences
+journal_nlm_ta: Front Mol Biosci
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- hepatocellular carcinoma
+- m6A modification
+- tumor microenvironment
+- prognostic signature
+- immunotherapy
+
+---

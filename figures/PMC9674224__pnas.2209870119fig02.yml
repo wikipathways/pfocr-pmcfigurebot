@@ -1,0 +1,70 @@
+---
+figid: PMC9674224__pnas.2209870119fig02
+pmcid: PMC9674224
+image_filename: pnas.2209870119fig02.jpg
+figure_link: /pmc/articles/PMC9674224/figure/fig02/
+number: Fig. 2
+figure_title: ''
+caption: 'HHIP is expressed by habenular cholinergic neurons. (A) Graphical representation
+  of TRAP-seq procedure to identify L10a-associated mRNAs undergoing translation in
+  MHbChat neurons using ChATDW167 mice, which were screened against GWAS Catalog using
+  Enrichr. (B) Sixty-one of the most abundantly translated genes in MHbChat neurons
+  are associated with increased risk of smoking-related behaviors or disease. Genes
+  in pink are expressed more densely in MHb relative to other brain regions. (C) Representative
+  RNA-seq reads of L10a-associated transcripts in MHbChat neurons aligned to Hhip
+  gene (Left). (D) Relative Hhip reads (mean ± SEM) in MHbChat neurons from TRAP-seq
+  of ChATDW167 mice (n = 9) and in MHb tissue from RNA-seq of habenula tissue from
+  wild-type mice (MHb; n = 6); ***P < 0.001, unpaired two-sided t test. (E, Left)
+  Coronal brain slice from C57BL6J mouse showing RNAscope in situ hybridization of
+  Hhip, Chat, and Olig2 transcripts, with right hemisphere MHb identified by white
+  box. (E, Right) High-magnification images of the same right hemisphere of MHb identified
+  by white demarcation lines. (F) Pearson coefficient of Hhip expression in cells
+  that coexpressed Chat, Olig2, or neither of these transcripts. (G) Graphical representation
+  of experimental procedure to investigate the effect of acute nicotine injection
+  (1 mg⋅kg−1 SC) on habenular HHIP expression. (H) Normalized Hhip expression in MHb
+  of mice injected with saline or nicotine (n = 6 per group); main effect of nicotine
+  in one-way ANOVA: F(2, 9) = 19.12, P = 0.0006; ***P = 0.007 compared with saline-treated
+  mice, Tukey multiple comparison test. (I) Graphical representation of septal inputs
+  to MHb–IPn circuit and the two major population of α5 nAChR-expressing neurons contained
+  in IPn (α5Amigo and α5Epyc neurons). Sm, stria medullaris; Fr, fasciculus retroflexus.
+  (J) Heat map of normalized TRAP-seq reads of Hedgehog pathway gene transcripts contained
+  in MHbChat, α5Amigo, or α5Epyc neurons. Shh, sonic hedgehog; Ihh, Indian hedgehog;
+  Dhh, desert hedgehog; Wnt7b, wingless-type MMTV integration site family, member
+  7b. (K) Fluorescence micrograph of HHIP protein expression (green) in MHb of mice.
+  Cell nuclei are highlighted by DAPI staining (blue). (Scale bar: 100 μM.) (L) Micrograph
+  of PTCH-1 protein expression (red) in MHb of mice. PVT, paraventricular nucleus
+  of thalamus. (Scale bar: 100 μM.) (M) Immunofluorescent images of PTCH-1 protein
+  expression in NDB: Nucleus of the Diagonal Band. (Scale bar: 100 μM.) (N) PTCH-1
+  in MS: Medial Septum. (O and P) Whole-brain slides identifying GLI1-driven β-gal
+  activity (blue stain; identified by black arrows) in adult Gli1LacZ reporter mice
+  injected with saline (O) or nicotine (1 mg⋅kg−1 per) (P) on three consecutive days
+  and assessed 24 h after final injection. Areas of MHb and septum in boxes (i and
+  ii, respectively) from saline- and nicotine-treated mice are shown in higher magnification
+  in bottom panels. (Q) Graphical representation of GLI1 lentireporter. (R) GLI-driven
+  luciferase activity in ex vivo brain slices of rats expressing the GLI-lentireporter
+  in IPn and treated with vehicle (n = 4) or recombinant Shh protein (n = 9). Main
+  effect of Shh protein: F(1, 11) = 0.6668, P = 0.4315; main effect of time: F(2.917,
+  32.09) = 1.935, P = 0.1451; interaction effect: F(4, 44) = 0.5448, P = 0.7037. (S)
+  Graphical representation of IPn cannulation and injection of recombinant HHIP protein
+  (100 ng) into the IPn of nicotine self-administering rats. (T) Number of nicotine
+  rewards (0.12 mg⋅kg−1 per infusion) earned by rats after intra-IPn injection of
+  vehicle (n = 12) or HHIP (n = 6); P = 0.6704, unpaired two-sided t test.'
+article_title: Hedgehog-interacting protein acts in the habenula to regulate nicotine
+  intake.
+citation: Stephanie P. B. Caligiuri, et al. Proc Natl Acad Sci U S A. 2022 Nov 15;119(46):e2209870119.
+year: '2022'
+
+doi: 10.1073/pnas.2209870119
+journal_title: Proceedings of the National Academy of Sciences of the United States
+  of America
+journal_nlm_ta: Proc Natl Acad Sci U S A
+publisher_name: National Academy of Sciences
+
+keywords:
+- nicotine
+- habenula
+- single-cell RNA sequencing
+- hedgehog signaling
+- chronic obstructive pulmonary disease
+
+---

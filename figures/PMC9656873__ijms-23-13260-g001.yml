@@ -1,0 +1,79 @@
+---
+figid: PMC9656873__ijms-23-13260-g001
+pmcid: PMC9656873
+image_filename: ijms-23-13260-g001.jpg
+figure_link: /pmc/articles/PMC9656873/figure/ijms-23-13260-f001/
+number: Figure 1
+figure_title: ''
+caption: The roles of cyclin-dependent kinase and cGAS–STING signaling. Cyclin-dependent
+  kinase 1 (CDK1), CDK2, and CDK6 inhibit SAMHD1 antiviral function via phosphorylation
+  and inactivation. HBV recruits cyclin E2 to bind CDK2 and further phosphorylates
+  SAMHD1 to abrogate its restriction of HBV replication. SARS-CoV-1 suppresses the
+  activity of cyclin d-CDK4 and cyclin A/E–CDK2 complexes, and SARS-CoV-2 enhances
+  the phosphorylation of CDK2 to inhibit cellular mitosis. Pattern recognition receptors
+  are essential in sensing pathogen-associated molecular patterns (PAMPs) and DAMPs.
+  For example, Toll-like receptors (TLRs) recognize a variety of PAMPs and DAMPs that
+  initiate the inflammatory process via NF-κB (nuclear factor-kappa B cells) and the
+  synthesis and release of cytokines and IFNs. Inflammasomes are a separate class
+  of intracellularly expressed pattern recognition receptors (PRRs) that recognize
+  nucleic acids and mediate proinflammatory responses. Cell surface–expressed ACE2
+  and TLR4 increase the NLRP3 inflammasome downstream mediator caspase-1, and exposure
+  to spike proteins upregulates the protein expression involved in the positive stimulation
+  of TLR4 signaling and the inflammasome pathway. The induction of neuroinflammation
+  in microglia is mediated through the activation of NF-κB and p38 MAPK (mitogen-activated
+  protein kinase), possibly due to TLR4 activation. TLR4 has been found to play a
+  critical role as a mediator of the neurotoxicity induced by α-synuclein oligomers.
+  Misfolded α-synuclein (α-Syn) induces inflammatory responses, and extracellular
+  α-Syn can activate proinflammatory TLR4 pathways in astrocytes, but α-Syn uptake
+  is independent of TLR4. The interaction between TLR4 and the SARS-CoV-2 spike protein
+  can trigger an intracellular TLR4 signaling cascade. NF-kB’s transcriptional activation
+  of specific genes induces the release of proinflammatory cytokines, which can cause
+  neuronal damage and the pathological modification of α-Syn. Serum neurofilament
+  light chain (NFL) is a biomarker of neuronal injury. NFL was higher in COVID-19
+  patients than in the control groups. Higher NFL levels were associated with neuronal
+  injury. This is common in critically ill patients. The hyperinflammatory state of
+  COVID-19 has high levels of proinflammatory cytokines, and this might have triggered
+  central nervous system neuroinflammation through the activation of astrocytes and
+  microglia, which could have facilitated prion-like pathology. In addition, similar
+  to other prion proteins, the spike protein also contains several prionogenic domains.
+  Thus, direct toxic action of the spike protein, triggering a neurodegenerative condition
+  mimicking a prion disease-like pathology, is also possible. The biological implications
+  of nuclear cGAS and its interaction with chromatin, including various mechanisms
+  for nuclear cGAS inhibition, the release of chromatin-bound cGAS, the regulation
+  of different cGAS pools in the cell, and chromatin structure/chromatin protein effects
+  on cGAS activation, could lead to cGAS-induced autoimmunity. Cytosolic DNA recognition
+  leads to active cGAS by clustering and forming large liquid—liquid phase-separated
+  cGAS–DNA condensates, excluding the ER-directed exonuclease three-prime repair exonuclease
+  1 (TREX1). Nuclear cGAS is sequestered at chromatin in an inactive state. Active
+  cGAS produces cyclic GMP-AMP (cGAMP), which binds to STING. STING relocalizes to
+  the perinuclear Golgi and forms a clustered platform where the tank-binding kinase
+  1 (TBK1) kinase phosphorylates the transcription factor IRF3 (interferon regulatory
+  factor 3). Phosphorylated IRF3 enters the nucleus and, along with NF-κB, triggers
+  the expression of type I interferon and proinflammatory cytokine genes (reproduced
+  from []) (HBV, hepatitis B virus; P, phosphate; the green arrows indicate enhancement
+  and the dashed arrow indicates the effect is uncertain; CDK, cyclin-dependent kinase;
+  SAMHD1, sterile alpha motif histidine-aspartic acid domain-containing protein 1).
+article_title: 'COVID-19 Molecular Pathophysiology: Acetylation of Repurposing Drugs.'
+citation: Jong Hoon Lee, et al. Int J Mol Sci. 2022 Nov;23(21):13260.
+year: '2022'
+
+doi: 10.3390/ijms232113260
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- ACE2 (angiotensin-converting enzyme 2)
+- aspirin
+- cGAS–STING (cyclic guanosine monophosphate (GMP)-adenosine monophosphate (AMP) synthase
+  (cGAS)–stimulator of interferon genes (STING))
+- dapsone
+- dexamethasone
+- immunologic engram
+- inflammasome
+- SAMHD1 (sterile alpha motif and histidine-aspartate domain-containing protein 1)
+- SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)
+- spike protein
+- TLR4 (Toll-like receptor 4)
+
+---

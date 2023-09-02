@@ -1,0 +1,35 @@
+---
+figid: PMC9703702__40168_2022_1388_Fig4_HTML
+pmcid: PMC9703702
+image_filename: 40168_2022_1388_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9703702/figure/Fig4/
+number: Fig. 4
+figure_title: ''
+caption: Metagenome inference of microbial pathways. A Screening prognosis-associated
+  metagenome pathways using PICRUSt2. Wilcoxon test was performed to examine the distribution
+  of microbial pathways. Differential TRFA was regarded as the effect size. B TRFA
+  and taxonomic contribution of pathways enriched in the M5-low patients. C TRFA and
+  taxonomic contribution of pathways depleted in the M5-low patients. D, E PFS curves
+  by thiamine diphosphate salvage II pathway (PWY-6897) (D) and L-histidine degradation
+  pathway (HISDEG-PWY) (E). F TRFA of the two significant microbial pathways by clinical
+  stage and recurrence of CRC. G Spearman’s correlation between TRFA and the number
+  of CD8+ T cells in the epithelium and its significance. The numbers at risk are
+  presented under the survival curves
+article_title: Enterotypical Prevotella and three novel bacterial biomarkers in preoperative
+  stool predict the clinical outcome of colorectal cancer.
+citation: Ji-Won Huh, et al. Microbiome. 2022;10:203.
+year: '2022'
+
+doi: 10.1186/s40168-022-01388-8
+journal_title: Microbiome
+journal_nlm_ta: Microbiome
+publisher_name: BioMed Central
+
+keywords:
+- Gut microbiome
+- Metagenome
+- Microbial hazard score
+- Dysbiosis
+- QIIME
+
+---

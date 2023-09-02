@@ -1,0 +1,41 @@
+---
+figid: PMC9675567__jciinsight-7-158906-g244
+pmcid: PMC9675567
+image_filename: jciinsight-7-158906-g244.jpg
+figure_link: /pmc/articles/PMC9675567/figure/F4/
+number: Figure 4
+figure_title: Transcriptome analysis of BI 749327–treated DKO mice reveals significantly
+  reduced expression of genes involved in lipid synthesis and fibrosis pathways
+caption: (A) Volcano plot of differentially expressed genes in BI 749327– and vehicle-treated
+  DKO mice (n = 3 biological replicates, female DKO mice, 8 weeks of age; FDR < 0.05).
+  (B) PCA analysis of the same data revealed a treated DKO cluster separated from
+  vehicle controls. (C) Ingenuity transcription regulatory analysis of proximal signaling
+  pathways (all with an absolute activation z score > 2). Dominant downregulated pathways
+  involve lipid and carbohydrate metabolism and fibrosis. (D) Volcano plot for differentially
+  regulated genes in TKO and DKO mice, showing a similar number of upregulated and
+  downregulated genes, with broader log fold changes than with the drug intervention.
+  (E) PCA plot comparing DKO and TKO mice as well as DKO mice treated with BI 749327,
+  showing separation of both from DKO mice in principal component 1 (PC1). (F) Ingenuity
+  pathway analysis of differentially downregulated pathways identified many significant
+  pathways shared by BI 749327–treated compared with vehicle-treated DKO mice as well
+  as DKO mice compared with TKO mice. Dot size indicates the number of genes differentially
+  altered in the pathway, and color indicates the P value. Shared pathways were also
+  enriched for lipid and carbohydrate metabolism.
+article_title: Pharmacological TRPC6 inhibition improves survival and muscle function
+  in mice with Duchenne muscular dystrophy.
+citation: Brian L. Lin, et al. JCI Insight. 2022 Oct 10;7(19):e158906.
+year: '2022'
+
+doi: 10.1172/jci.insight.158906
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+
+keywords:
+- Cardiology
+- Muscle Biology
+- Calcium channels
+- Cardiovascular disease
+- Muscle
+
+---

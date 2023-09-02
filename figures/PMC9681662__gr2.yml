@@ -1,0 +1,55 @@
+---
+figid: PMC9681662__gr2
+pmcid: PMC9681662
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC9681662/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: PCAT19 represses endothelial cell proliferation, angiogenic sprouting, and
+  cardiac organoid vascularization(A) Endothelial cell proliferation measured by percentage
+  EdU-positive cells after LNA GapmeR-mediated knockdown of PCAT19 (P19) or negative
+  control (CTL). Scale bars, 100 μm; n = 3 biological replicates, unpaired t test.
+  Representative shown.(B) Endothelial cell proliferation measured by percentage EdU-positive
+  cells after overexpression (OE) of PCAT19 (P19) or pcDNA3.1+ control (CTL). Scale
+  bars, 100 μm; n = 6 biological replicates, unpaired t test. Representative images
+  shown.(C and D) Endothelial cell spheroid outgrowth assay after LNA GapmeR-mediated
+  knockdown of PCAT19 (P19) or negative control (CTL) LNA GapmeR (C) or overexpression
+  of PCAT19 (P19) or pcDNA3.1+ control (CTL) (D). Spheroids were treated with and
+  without VEGF-A. Scale bars, 100 μm; n = 3 biological replicates, one-way ANOVA.
+  Representative images shown.(E) Vascularization of cardiac organoids after LNA GapmeR-mediated
+  knockdown of PCAT19 (P19) or negative control (CTL). Scale bars, 200 μm; n = 3 biological
+  replicates, unpaired t test. Representative images with maximum projection of the
+  full z stack.(F) PCAT19 expression in HUVECs seeded at various densities; n = 3,
+  one-way ANOVA.(G) Heatmap of top 50 differentially expressed genes after PCAT19
+  knockdown. The Z score is displayed (n = 3).(H) Relative gene expression in response
+  to PCAT19 knockdown. Dashed line indicates a threshold of padj < 0.05 (n = 3).(I)
+  KEGG pathway fold enrichment over background from differentially expressed genes
+  (padj < 0.05) after PCAT19 knockdown.(J) Prediction of upstream regulators of differentially
+  expressed genes (padj < 0.05) after PCAT19 knockdown using the QuaternaryProd R
+  package. Color of outer circles indicates up- or downregulation for that upstream
+  regulator. Size of circle indicates number of downstream targets. Thickness of line
+  connecting inner and outer circles indicates significance level of that upstream
+  regulator. Data are presented as the mean ± SD; ∗p < 0.05, ∗∗p < 0.01, ∗∗∗p < 0.001,
+  ∗∗∗∗p < 0.0001.
+article_title: Long non-coding RNA PCAT19 safeguards DNA in quiescent endothelial
+  cells by preventing uncontrolled phosphorylation of RPA2.
+citation: James A. Oo, et al. Cell Rep. 2022 Nov 15;41(7):111670.
+year: '2022'
+
+doi: 10.1016/j.celrep.2022.111670
+journal_title: Cell Reports
+journal_nlm_ta: Cell Rep
+publisher_name: Cell Press
+
+keywords:
+- long non-coding RNA
+- endothelial cells
+- replication protein A
+- quiescence
+- checkpoint control
+- ataxia telangiectasia and Rad3 related
+- cell cycle
+- PCAT19
+- DNA damage
+
+---

@@ -1,0 +1,32 @@
+---
+figid: PMC9678731__gr3
+pmcid: PMC9678731
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9678731/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: Identifying prognostic clusters and examining differentially methylated pathways
+  and features(A) Consensus clustering done on PRIME-filtered SCLC methylated cfDNA
+  identified two clusters, A and B.(B) Volcano plot of differentially methylated region
+  (DMR) analysis between cluster A and B. The horizontal line corresponds to p-adjusted =
+  0.05 and vertical lines correspond to log2 fold-change of +2 and −1. There are 174
+  hypermethylated DMRs in cluster A and 9,037 in cluster B.(C) KEGG pathway analysis
+  of hypermethylated DMRs in cluster A and cluster B.(D) Kaplan-Meier survival analysis
+  on cluster A and B identified by consensus clustering (p = 0.013).
+article_title: Cell-free DNA methylation-defined prognostic subgroups in small-cell
+  lung cancer identified by leukocyte methylation subtraction.
+citation: Sami Ul Haq, et al. iScience. 2022 Dec 22;25(12):105487.
+year: '2022'
+
+doi: 10.1016/j.isci.2022.105487
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Cancer
+- Cancer systems biology
+- Epigenetics
+- Genomics
+
+---

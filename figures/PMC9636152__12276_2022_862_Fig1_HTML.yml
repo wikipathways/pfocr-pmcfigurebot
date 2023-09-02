@@ -1,0 +1,32 @@
+---
+figid: PMC9636152__12276_2022_862_Fig1_HTML
+pmcid: PMC9636152
+image_filename: 12276_2022_862_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC9636152/figure/Fig1/
+number: Fig. 1
+figure_title: Overview of the DNA damage signaling pathway
+caption: Upon DNA damage, DSBs (DNA double-strand breaks) are sensed by the MRN complex
+  and ATM homodimer. ATM is activated by autophosphorylation at S1981 and phosphorylates
+  histone H2AX at S139. Phosphorylated H2AX, called γH2AX, recruits MDC1 and further
+  propagates γH2AX signaling at DSB sites. MDC1 is phosphorylated by ATM, and phosphorylated
+  MDC1 recruits the ubiquitin ligase RNF8. The RNF8-UBC13 complex promotes K63-linked
+  polyubiquitination of H1, which is recognized by RNF168. RNF168 initially monoubiquitinates
+  H2A at K13/15 and amplifies polyubiquitin chains. K13/15-monoubiquitinated H2A and
+  H4K20me2 are recognized by 53BP1 and further recruit RIF1 and the Shieldin complex
+  to promote NHEJ repair. Alternatively, the RNF168-mediated polyubiquitin chain also
+  recruits RAP80 and the BRCA1/BARD1 complex, further promoting HR repair.
+article_title: Transcriptional regulation and chromatin dynamics at DNA double-strand
+  breaks.
+citation: Sunwoo Min, et al. Exp Mol Med. 2022 Oct;54(10):1705-1712.
+year: '2022'
+
+doi: 10.1038/s12276-022-00862-5
+journal_title: Experimental & Molecular Medicine
+journal_nlm_ta: Exp Mol Med
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Double-strand DNA breaks
+- DNA damage response
+
+---

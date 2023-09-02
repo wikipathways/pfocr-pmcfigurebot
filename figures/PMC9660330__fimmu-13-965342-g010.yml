@@ -1,0 +1,38 @@
+---
+figid: PMC9660330__fimmu-13-965342-g010
+pmcid: PMC9660330
+image_filename: fimmu-13-965342-g010.jpg
+figure_link: /pmc/articles/PMC9660330/figure/f10/
+number: Figure 10
+figure_title: ''
+caption: GSEA analysis of single cells from 4T1 mice. (A) Volcano plot showing DEGs
+  between the mice treated with PTX+CKI and saline. (B) Volcano plot showing DEGs
+  between the mice treated with PTX+CKI and PTX. The red dot represents up-regulated
+  genes (adjusted P < 0.01 and log2FC > 0.25) and the green dot represents down-regulated
+  genes (adjusted P < 0.01 and log2FC < -0.25). (C) Venn plot showing consistently
+  down-regulated DEGs. (D) Venn plot showing consistently up-regulated DEGs. (E) Immune-related
+  KEGG pathways enriched in the PTX+CKI group compared with the PTX group. (F) T cell
+  receptor signaling pathway enriched in the PTX+CKI group compared with the PTX group.
+  (G) Immune-related GO biological processes enriched in the PTX+CKI group compared
+  with the PTX group. (H) Positive regulation of immune response enriched in the PTX+CKI
+  group compared with the PTX group. (I) Positive regulation of T cell activation
+  enriched in the PTX+CKI group compared with the PTX group.
+article_title: Single-cell RNA-sequencing uncovers compound kushen injection synergistically
+  improves the efficacy of chemotherapy by modulating the tumor environment of breast
+  cancer.
+citation: Xinkui Liu, et al. Front Immunol. 2022;13:965342.
+year: '2022'
+
+doi: 10.3389/fimmu.2022.965342
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- compound kushen injection
+- triple-negative breast cancer
+- 4T1 tumor bearing mice
+- single cell RNA-sequencing
+- T lymphocytes
+
+---

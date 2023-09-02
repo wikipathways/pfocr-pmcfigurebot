@@ -1,0 +1,48 @@
+---
+figid: PMC9404532__nihms-1788564-f0001
+pmcid: PMC9404532
+image_filename: nihms-1788564-f0001.jpg
+figure_link: /pmc/articles/PMC9404532/figure/F1/
+number: Figure 1
+figure_title: IKZF1/IKAROS and MTA2 exhibit synthetic lethal interaction with pharmacologic
+  inhibition of MENIN and DOT1L
+caption: 'a, Functional genetic screen schematic: cells treated with EPZ-5676 (1 μM),
+  VTP-50469 (500 nM) or vehicle. b, Drug targeting of MENIN (VTP-50469) and DOT1L
+  (EPZ-5676) disrupts MLL-fusion complex function. c, Volcano plot depicting Wald
+  p-value and beta value calculated using MAGeCK MLE for the VTP-50469 and EPZ-5676
+  combined analysis comparing vehicle-treated (n=2) and drug-treated states (n=4)
+  on Day 14. d, MAGeCKFlute 9-square correlation plot using the beta value calculated
+  between Day 0 and Day 14 for vehicle-treatment as compared to drug treatment (VTP-50469
+  and EPZ-5676 screens combined). Regions corresponding to pathway (group1), resistance
+  (group2) and synthetic lethal (group4) genetic hits are indicated. e, Leading edge
+  analysis from GSEA showing overlapping genetic hits for each screen considered separately.
+  f, CRISPR/Cas9-based competition assays targeting either IKZF1 or MTA2 monitoring
+  sgRNA-RFP expression over time in Cas9-expressing MOLM13 AML cell line +/− VTP-50469.
+  g, Proliferation assay on sorted, sgRNA-RFP-expressing cells +/− VTP-50469 or EPZ-5676.
+  Data represent mean+/−SEM (n=3) with p-value calculated using paired, two-tail t-test.
+  h, Cell morphology assessed using light microscopy (100X) 7 days following CRISPR/Cas9-mediated
+  deletion of IKZF1 or MTA2, compared to non-targeting sgRNA control i, Colony forming
+  assay comparing MOLM13 cells with sgRNA targeting Luciferase (Non-Targeting) control
+  versus two different sgRNAs targeting IKZF1 (n =4 per sgRNA). Data represent mean
+  +/− SEM. p-value determined by unpaired, two-tailed t-test. j, Proliferation assay
+  comparing MOLM13 cells with sgRNA targeting Luciferase (NT control) and two sgRNAs
+  targeting IKZF1 (n=3 per sgRNA) upon treatment with VTP-50469 for 5 days. Data represent
+  mean +/− SEM. k, Schematic for in vivo, MOLM13 xenograft experiment: 200,000 MOLM13
+  cells with sgRNA targeting Luciferase (NT control) versus two different sgRNAs targeting
+  IKZF1 (n = 5 per group) were injected via tail vein at Day 0, treatment began with
+  VTP-50469 chow at Day 9, and mice were sacrificed at Day 18 when they became ill.
+  l, MOLM13 xenograft experiment, burden of disease and differentiation markers in
+  spleen and bone marrow after 9 days of VTP-50469 treatment. Data represent mean
+  +/− SEM. p-value determined by unpaired, two-tailed t-test.'
+article_title: IKAROS and MENIN Coordinate Therapeutically Actionable Leukaemogenic
+  Gene Expression in MLL-r Acute Myeloid Leukaemia.
+citation: Brandon J. Aubrey, et al. Nat Cancer. ;3(5):595-613.
+year: '2023'
+
+doi: 10.1038/s43018-022-00366-1
+journal_title: Nature cancer
+journal_nlm_ta: Nat Cancer
+publisher_name: ''
+
+keywords:
+---

@@ -1,0 +1,33 @@
+---
+figid: PMC9649517__fphar-13-981201-g007
+pmcid: PMC9649517
+image_filename: fphar-13-981201-g007.jpg
+figure_link: /pmc/articles/PMC9649517/figure/F7/
+number: FIGURE 7
+figure_title: ''
+caption: Co-expression module genes associated with FNDC5 were identified using WGCNA.
+  (A) Relationship between scale-free topological model fit and soft threshold (power)
+  in the GSE62254 database. (B) Relationship between average connectivity and various
+  soft thresholds in the GSE62254 database. (C) Dendrogram of modules identified by
+  WGCNA. (D) The top ten genes most associated with FNDC5 expression in GSE62254.
+  (E,F) The (E) KEGG pathway and (F) GO-BP enrichment analysis of these FNDC5-related
+  1156 genes. ***, p < 0.001.
+article_title: Low FNDC5/Irisin expression is associated with aggressive phenotypes
+  in gastric cancer.
+citation: Luyun Xu, et al. Front Pharmacol. 2022;13:981201.
+year: '2022'
+
+doi: 10.3389/fphar.2022.981201
+journal_title: Frontiers in Pharmacology
+journal_nlm_ta: Front Pharmacol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- gastric cancer
+- FNDC5
+- irisin
+- KLF9
+- methylation
+- immune
+
+---

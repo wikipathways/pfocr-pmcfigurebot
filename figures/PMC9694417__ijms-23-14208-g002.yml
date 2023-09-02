@@ -1,0 +1,41 @@
+---
+figid: PMC9694417__ijms-23-14208-g002
+pmcid: PMC9694417
+image_filename: ijms-23-14208-g002.jpg
+figure_link: /pmc/articles/PMC9694417/figure/ijms-23-14208-f002/
+number: Figure 2
+figure_title: ''
+caption: DEGs induced by TDZ (TDZ vs. control) in cotton AZs under different temperatures.
+  (A) The numbers of DEGs in cotton AZs induced by TDZ. N-24 h, 24 h after treatment
+  at normal temperature (25 °C). L-24 and L-144 h, 24 and 144 h, respectively, after
+  treatment at low temperature (15 °C). The DEGs are controlled by q-value < 0.05
+  and |log2FC| ≥ 1. FC represents the expression-level fold change of genes. Black
+  digits indicate the gene numbers; (B) enriched biological process GO terms (FDR
+  (false discovery rate) < 0.001,). X-axis shows numbers of DEGs and Y-axis shows
+  the top ten enriched GO terms of DEGs induced by TDZ at N-24 h; (C) enriched KEGG
+  pathways (FDR < 0.05). X-axis shows numbers of DEGs and Y-axis shows the top-ten
+  enriched KEGG pathways of DEGs induced by TDZ at N-24 h; (D) the numbers of plant
+  signaling genes in cotton AZs regulated by TDZ; (E,F) Venn diagram displaying the
+  number of DEGs unique to each time point or overlapping between different time points
+  in AZs treated with TDZ compared with control. Upregulated DEGs (E). Downregulated
+  DEGs (F). Black digits indicate the gene numbers. The percentage shows the proportion
+  of DEGs of each part in all DEGs at three time points.
+article_title: Low Temperature Inhibits the Defoliation Efficiency of Thidiazuron
+  in Cotton by Regulating Plant Hormone Synthesis and the Signaling Pathway.
+citation: Hongmei Shu, et al. Int J Mol Sci. 2022 Nov;23(22):14208.
+year: '2022'
+
+doi: 10.3390/ijms232214208
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- TDZ
+- low temperature
+- cotton leaf abscission
+- abscission zone
+- transcriptome
+- plant hormones
+
+---

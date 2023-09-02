@@ -1,0 +1,54 @@
+---
+figid: PMC9645811__elife-79940-fig7
+pmcid: PMC9645811
+image_filename: elife-79940-fig7.jpg
+figure_link: /pmc/articles/PMC9645811/figure/fig7/
+number: Figure 7
+figure_title: ATM mediates the protection from FLT3 inhibition by human bone marrow
+  stromal cell (hBMSC-CM) upstream of mTOR signaling and oxidative phosphorylation
+caption: '(A) MOLM-13 cells were treated with vehicle, 3 nM quizartinib, 10 nM everolimus,
+  and combo in RPMI or hBMSC-CM for 15 hr and harvested to determine the levels of
+  total and phosphorylated ATM by Western blotting. (B) MOLM-13 cells were transduced
+  with lentiviruses-expressing shRNAs (shNT: nontargeting shRNA; or shATM: ATM-targeting
+  shRNA). Cells were treated with either vehicle or 3 nM quizartinib (Quiz) for 48
+  hr in RPMI or hBMSC-CM, followed by measurement of apoptosis (n = 3). (C) MOLM-13
+  cells expressing shNT or shATM were treated with the indicated conditions for 15
+  hr and harvested for Western blot analyses. (D) MOLM-13 cells expressing shNT or
+  shATM were treated with the indicated conditions for 15 hr, followed by measurement
+  of oxygen consumption rate (OCR) by Seahorse XF Cell Mito Stress Test (n = 4). (E)
+  Model of ATM and mTOR-dependent survival of FLT3-ITD acute myeloid leukemia (AML)
+  cells following FLT3 inhibition in BM microenvironment. In the absence of BM stroma,
+  FLT3-ITD AML cells undergo apoptosis upon FLT3 inhibition as a result of downregulation
+  of ATM and mTOR complex 1 (mTORC1) activity (left). In the presence of BM stroma,
+  on the other hand, FLT3-ITD AML cells are protected from cell-killing effects by
+  FLT3 inhibition (right). As indicated by orange arrows, the BM stroma-mediated protection
+  is driven by ATM through regulation of mTOR protein levels, as well as mTORC1 activity
+  via AKT, subsequently leading to partial restoration of translation. Restored mTORC1
+  activity selectively drives translation of oxidative phosphorylation mRNAs that
+  promote cell survival even in the presence of FLT3 inhibition. The BM stroma-mediated
+  protection against apoptosis upon FLT3 inhibition is reversed with combinatorial
+  treatment with everolimus, which inhibits mTOR signaling and downstream processes
+  including polysome enrichment and selective translation of oxidative phosphorylation
+  mRNAs, and oxidative phosphorylation. Effects of drugs that target FLT3 (quizartinib)
+  or mTOR (everolimus) are represented with red or blue, respectively, arrows and
+  Xs. Figure 7—source data 1.Unedited raw blots for  are shown.  Figure 7—source data
+  2.Unedited blots with labels for  are shown.  Figure 7—source data 3.Unedited raw
+  blots for  are shown.  Figure 7—source data 4.Unedited blots with labels for  are
+  shown.'
+article_title: Therapeutic resistance in acute myeloid leukemia cells is mediated
+  by a novel ATM/mTOR pathway regulating oxidative phosphorylation.
+citation: Hae J Park, et al. eLife. 2022;11:e79940.
+year: '2022'
+
+doi: 10.7554/eLife.79940
+journal_title: eLife
+journal_nlm_ta: eLife
+publisher_name: eLife Sciences Publications, Ltd
+
+keywords:
+- AML
+- drug resistance
+- bone marrow
+- Human
+
+---

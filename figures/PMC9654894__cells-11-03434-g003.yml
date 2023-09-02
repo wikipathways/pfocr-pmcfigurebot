@@ -1,0 +1,37 @@
+---
+figid: PMC9654894__cells-11-03434-g003
+pmcid: PMC9654894
+image_filename: cells-11-03434-g003.jpg
+figure_link: /pmc/articles/PMC9654894/figure/cells-11-03434-f003/
+number: Figure 3
+figure_title: ''
+caption: 'Transcriptomic analyses of tumors using NanoString Immune Profiling assay.
+  (A) Volcano plot showing differential expression of immune related genes in anti-PD-1
+  plus SGT-53 versus the baseline of anti-PD-1 monotherapy. Volcano plot is presented
+  as fold change in gene expression [log2(fold change)] against significance of change
+  [−log10(p-value)]. (B) The list of genes with a significant change. (C) GSEA analysis
+  of 28 identified differentially expressed genes. Groups reflect main categories
+  of GO terms: biological process; cellular component; molecular function, hallmark,
+  and canonical pathway. Vertical and horizontal axes represent each category term
+  and −log10(FDR adjusted p-value) of the corresponding term, respectively.'
+article_title: A Novel P53 Nanomedicine Reduces Immunosuppression and Augments Anti-PD-1
+  Therapy for Non-Small Cell Lung Cancer in Syngeneic Mouse Models.
+citation: Sang-Soo Kim, et al. Cells. 2022 Nov;11(21):3434.
+year: '2022'
+
+doi: 10.3390/cells11213434
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- anti-PD-1
+- immune checkpoint inhibitor
+- immunosuppression
+- non-small cell lung cancer
+- nano-medicine
+- p53
+- SGT-53
+- tumor-targeted delivery
+
+---

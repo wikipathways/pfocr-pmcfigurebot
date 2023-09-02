@@ -1,0 +1,88 @@
+---
+figid: PMC9664406__gr4
+pmcid: PMC9664406
+image_filename: gr4.jpg
+figure_link: /pmc/articles/PMC9664406/figure/fig4/
+number: Figure 4
+figure_title: ''
+caption: 'The RNA importome of human mitochondriaSome nucleus-encoded RNAs are actively
+  imported into the mitochondrial matrix. They play a variety of roles in mitochondria,
+  ranging from cytosol-mitochondrion signaling to participation in mitochondrial essential
+  processes such as translation or mtRNA metabolism., All of the known imported RNA
+  species are non-coding, and no mRNA has been reported to be naturally targeted for
+  import into human mitochondria. Most of the mitochondrial functions of the imported
+  RNAs remain undefined and can be different from the functions of these RNAs in the
+  cytosol. At the top, the types of imported RNA species, their mechanism of import,
+  and their function in mitochondria are shown. From left to right, these are as follows.
+  tRNA (tRNAGlnUUG, tRNAGlnCUG, and tRNALeuUAA)., Cytosolic function: translation.
+  Mitochondrial function: mitochondrial translation; could play a role in conditional
+  adaptation in mitochondrial protein synthesis. Import mechanism: not well defined
+  in humans; ATP dependent; may require cytosolic factors and be similar to that in
+  S. cerevisiae (reviewed here: Kamenski et al.). 5S rRNA. Cytosolic function: structural
+  component of a large subunit of cytosolic ribosomes. Mitochondrial functions: still
+  to be defined. Does not act as a scaffold for mitochondrial ribosomes. Disruption
+  of 5S rRNA import leads to a decrease in mitochondrial translation. Import mechanism:
+  pre-MRP-L18 binds the ƴ-domain of 5S rRNA in the cytosol; this exposes the α domain
+  of 5S rRNA, which binds nascent rhodanese, displacing pre-MRP-L18 in the process.
+  The rhodanese-5S rRNA complex is then imported into mitochondria. PNPase may be
+  involved in transfer of 5S rRNA because its knockdown leads to decreased import
+  of 5S rRNA. Import determinants: ƴ-domain (specifically loop E and helix IV) and
+  α domain (helix I). RPPH1 (RNA component of RNAse P; H1 RNA). Cytosolic function:
+  component of RNAse P, 5′ tRNA maturation. Mitochondrial function: mitochondrial
+  localization induces replicative cellular senescence. May play a role in mt-tRNA
+  maturation as a part of mitochondrial RNAse P. Import mechanism: mediated by PNPase.,
+  Import determinants: 20-nt stem-loop, nucleotides 115–134 (NR_002312.1). RMRP (RNA
+  component of RNAse MRP). Cytosolic function: component of the nuclear RNAse MRP;
+  5′ 5.8S rRNA maturation; participates in generation of double-stranded RNA (dsRNA)
+  precursors of siRNA; cell cycle progression., Mitochondrial function: not firmly
+  defined. May participate in mitochondrial RNA metabolism in a complex with GRSF1.,
+  Import mechanism: exported from the nucleus in a complex with HuR. The precise mechanism
+  of RMRP transport through the mitochondrial membrane is unknown, although it has
+  been hypothesized that it may cross the OMM via the TOMM40 complex and intramembrane
+  space (IMS) in a PNPase-dependent manner. It has also been shown that levels of
+  GRSF1 (associated with RMRP in the mitochondrial matrix) in mitochondria can affect
+  RMRP localization. Import determinants: 20-nt stem-loop, Nucleotides 151–170 (NR_003051.3).
+  GAS5 (growth arrest-specific 5). Cytosolic function: RNA sponge to buffer miRNAs;
+  regulates INSR transcription in adipocytes; acts as a decoy hormone response element
+  for glucocorticoid receptor (GR).,, Mitochondrial function: modulates mitochondrial
+  tricarboxylic acid (TCA) cycle flux. Import mechanism: Unknown. Import determinants:
+  GAS5-loop 2. hTERC (human telomerase RNA gene). Cytosolic function: telomerase-related
+  functions; Cellular senescence and cognitive decline in mice as hTERC-53., Mitochondrial
+  function: mitochondrion-cytosol communication (hTERC-53 export is affected by mitochondrial
+  function). Import mechanism: mediated by PNPase. Import determinants: stem-loop
+  structure, similar to the ones found in RPPH1 and RMRP. miRNA (various miRNAs; e.g.,
+  miR-1, miR-181c, miR-378, and others); pre-miRNAs).,,,,,, Cytosolic function: repress
+  gene expression at the post-transcriptional level. Mitochondrial function: stimulate
+  or inhibit mitochondrial gene expression, suppress mtDNA transcription, cytosol-mitochondrion
+  crosstalk.,,, Import mechanism: It is unknown whether all miRNAs share the same
+  import mechanism. PNPase participates in import of miR-378. Import determinants:
+  unknown. SAMMSON (survival-associated mitochondrial melanoma-specific oncogenic
+  non-coding RNA). Cytosolic function: facilitates p32 trafficking to mitochondria
+  in melanoma cells., Mitochondrial function: unknown. Import mechanism: unknown.
+  Import determinants: unknown. Straight green arrows indicate that the import mechanism
+  is still unknown. Arrows going to PNPase mean that the import pathway involves PNPase
+  in the IMS. OMM, outer mitochondrial matrix; IMS, intramembrane space; IMM, inner
+  mitochondrial membrane; matrix, mitochondrial matrix. Question marks mean that the
+  function/import mechanism is plausible based on the current state of knowledge but
+  has not yet been definitively proven.'
+article_title: Mitochondrion-targeted RNA therapies as a potential treatment strategy
+  for mitochondrial diseases.
+citation: Timofei Chernega, et al. Mol Ther Nucleic Acids. 2022 Dec 13;30:359-377.
+year: '2022'
+
+doi: 10.1016/j.omtn.2022.10.012
+journal_title: Molecular Therapy. Nucleic Acids
+journal_nlm_ta: Mol Ther Nucleic Acids
+publisher_name: American Society of Gene & Cell Therapy
+
+keywords:
+- 'MT: Oligonucleotides, Therapies and Applications'
+- mitochondrial disease
+- RNA therapy
+- RNA therapeutics
+- mitochondrial therapy
+- mitochondrion-targeted nanocarrier
+- mitochondrial RNA import
+- mitochondrial DNA
+
+---

@@ -1,0 +1,33 @@
+---
+figid: PMC9659911__fphar-13-966218-g012
+pmcid: PMC9659911
+image_filename: fphar-13-966218-g012.jpg
+figure_link: /pmc/articles/PMC9659911/figure/F12/
+number: FIGURE 12
+figure_title: ''
+caption: Comprehensive analysis of metabolic pathways. (A,B) are Pathway analysis.
+  Each bubble in the bubble map represents a metabolic pathway, where the Y-axis and
+  bubble size represent the impact factor of this pathway in the topology analysis,
+  and the X-axis and bubble color represent the p-value of enrichment analysis. (A)
+  is CRS vs. Control. (B) is CRS + YSDZ vs. CRS. (C) Representative metabolic pathways
+  found in metabolomics analysis. (D) Key metabolite-Target-Enzyme-Reaction-Compound-Gene
+  networks.
+article_title: 'Anxiolytic effect of YangshenDingzhi granules: Integrated network
+  pharmacology and hippocampal metabolomics.'
+citation: Shimeng Lv, et al. Front Pharmacol. 2022;13:966218.
+year: '2022'
+
+doi: 10.3389/fphar.2022.966218
+journal_title: Frontiers in Pharmacology
+journal_nlm_ta: Front Pharmacol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- network pharmacology
+- metabolomics
+- anxiolytics
+- YangshenDingzhi granules
+- molecular docking
+- molecular dynamics simulation
+
+---

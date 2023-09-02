@@ -1,0 +1,33 @@
+---
+figid: PMC9647193__gr1
+pmcid: PMC9647193
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC9647193/figure/f0005/
+number: Fig. 1
+figure_title: ''
+caption: A flowchart showing the workflow of CommPath. CommPath infers pathway-mediated
+  intercellular communication chain from single-cell transcriptomics. (1) CommPath
+  curated LR molecule interaction database based on CellPhoneDB and FANTOM5 database
+  and takes expression profile and cell annotation labels from scRNA-seq data as input
+  to infer potential LR associations. (2) CommPath screens pathway-associated LR interactions
+  by searching in a variety of signaling pathway databases. (3) CommPath infers LR
+  interactions and relevant biological pathways among cell types, enables comparison
+  between two conditions, and meanwhile provides diverse representations.
+article_title: 'CommPath: An R package for inference and analysis of pathway-mediated
+  cell-cell communication chain from single-cell transcriptomics.'
+citation: Hao Lu, et al. Comput Struct Biotechnol J. 2022;20:5978-5983.
+year: '2022'
+
+doi: 10.1016/j.csbj.2022.10.028
+journal_title: Computational and Structural Biotechnology Journal
+journal_nlm_ta: Comput Struct Biotechnol J
+publisher_name: Research Network of Computational and Structural Biotechnology
+
+keywords:
+- Cell-cell communication
+- Ligand-receptor interaction
+- scRNA-seq
+- R
+- Webserver
+
+---

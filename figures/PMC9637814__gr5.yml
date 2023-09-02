@@ -1,0 +1,43 @@
+---
+figid: PMC9637814__gr5
+pmcid: PMC9637814
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC9637814/figure/fig5/
+number: Figure 5
+figure_title: ''
+caption: Phosphorylation of PKM2 at T45 is critical for Aurora A–mediated tumor proliferation.A,
+  Flag-Aurora A or kinase dead Aurora A (KD-Aurora A) were overexpressed in H1299 cells
+  that had endogenous PKM2 knocked down and expressed shRNA-resistant Flag PKM2 WT
+  or Flag-PKM2 T45A. The extracts of these cells were immunoblotted with the indicated
+  antibodies. B, cell proliferation assay was conducted with the H1299 cells tested
+  in (A) (n = 2). C, H1299 cells tested in (A) were inoculated in nude mice. The tumors
+  at the endpoint (left panel), the growth curve of the xenograft (middle panel),
+  and the weight of tumors (right panel) were shown (n = 6). D, a working model summarizes
+  the function of Aurora A-PKM2 pathway in the regulation of Warburg effect in cancer
+  cells.
+article_title: Aurora A–mediated pyruvate kinase M2 phosphorylation promotes biosynthesis
+  with glycolytic metabolites and tumor cell cycle progression.
+citation: Ya Jiang, et al. J Biol Chem. 2022 Nov;298(11):102561.
+year: '2022'
+
+doi: 10.1016/j.jbc.2022.102561
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- Aurora A
+- PKM2
+- phosphorylation
+- biosynthesis
+- cell cycle progression
+- 2PG, phosphoglycerate
+- co-IP, coimmunoprecipitation
+- G6P, glucose 6-phosphate
+- KD, kinase-dead
+- MS, mass spectrometry
+- PEP, phosphoenolpyruvate
+- PLA, proximal ligation assay
+- SEC, size-exclusion chromatography
+
+---

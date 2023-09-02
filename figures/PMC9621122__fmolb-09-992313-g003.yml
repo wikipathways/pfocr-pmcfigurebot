@@ -1,0 +1,37 @@
+---
+figid: PMC9621122__fmolb-09-992313-g003
+pmcid: PMC9621122
+image_filename: fmolb-09-992313-g003.jpg
+figure_link: /pmc/articles/PMC9621122/figure/F3/
+number: FIGURE 3
+figure_title: ''
+caption: 'Differential expression analysis for proteomic data in HeLa. (A) Heatmap
+  for all proteins (associated and not associated with genes) differentially expressed.
+  Plot shows the expression pattern for the 3 biological replicates of genotype ALMS1
+  +/+ (CT) and genotype ALMS1 −/− (KO). (B) Principal components analysis (PCA) for
+  the top 500 variable proteins with all biological replicates for each genotype.
+  (C) Volcano-plot showing the top 40 most significant genes associated with proteins.
+  Proteins with no clear gene association were removed from this plot. Significant
+  thresholds: |log2FC| > 1.5, adj p-value < 0.05. This experiment was carried out
+  in triplicate (n = 3).'
+article_title: Depletion of ALMS1 affects TGF-β signalling pathway and downstream
+  processes such as cell migration and adhesion capacity.
+citation: Brais Bea-Mascato, et al. Front Mol Biosci. 2022;9:992313.
+year: '2022'
+
+doi: 10.3389/fmolb.2022.992313
+journal_title: Frontiers in Molecular Biosciences
+journal_nlm_ta: Front Mol Biosci
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- ALMS1
+- alström syndrome
+- ciliopathies
+- primary cilia
+- TGF-β
+- epithelial-mesenchymal transition (EMT)
+- cell cycle arrest
+- apoptosis
+
+---

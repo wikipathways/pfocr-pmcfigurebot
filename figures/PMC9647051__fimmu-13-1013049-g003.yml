@@ -1,0 +1,33 @@
+---
+figid: PMC9647051__fimmu-13-1013049-g003
+pmcid: PMC9647051
+image_filename: fimmu-13-1013049-g003.jpg
+figure_link: /pmc/articles/PMC9647051/figure/f3/
+number: Figure 3
+figure_title: ''
+caption: Screening of CAPN8-related hub pathways in thyroid cancer. (A, B) Coefficient
+  profiles (A) and deviance profiles (B) of the adaptive Least Absolute Shrinkage
+  and Selection Operator regression model. Six cancer hallmarks were selected. (C)
+  Error rate of the random survival forest (RSF) model. Eight cancer hallmarks were
+  determined. (D, E) Importance (D) and marginal effect (E) of each pathway in the
+  RSF model. The blue color represented pathways with a certain influence on overall
+  survival, while the red color represented background noise with no impact on the
+  dependent variable.
+article_title: CAPN8 involves with exhausted, inflamed, and desert immune microenvironment
+  to influence the metastasis of thyroid cancer.
+citation: Xiang Zhong, et al. Front Immunol. 2022;13:1013049.
+year: '2022'
+
+doi: 10.3389/fimmu.2022.1013049
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- CAPN8
+- thyroid cancer
+- prognosis
+- immunotherapy
+- tumor immune microenvironment
+
+---

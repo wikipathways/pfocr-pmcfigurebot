@@ -1,0 +1,45 @@
+---
+figid: PMC9694183__metabolites-12-01066-g004
+pmcid: PMC9694183
+image_filename: metabolites-12-01066-g004.jpg
+figure_link: /pmc/articles/PMC9694183/figure/metabolites-12-01066-f004/
+number: Figure 4
+figure_title: ''
+caption: 'Tracer compositions should be scrutinized to optimize information for pathways
+  of interest. The example displays a simple glycolytic pathway in which we assume
+  that reactions only flow in the forward direction. Uniformly labeled glucose results
+  in identical isotopomers from the PPP (purple box) and glycolysis. Using a combination
+  of 50% fully labeled glucose with 50% unlabeled glucose can better inform PPP fluxes,
+  as the complex atom rearrangement in the PPP leads to M+1, M+2, M+4, and M+5 isotopomers
+  (shown in red box). The percent composition of these isotopomers can be used to
+  determine flux activity at the PPP branchpoints. A more direct option is to use
+  [1,2-13C2] glucose, which generates an M+1 isotopomer after entering the PPP by
+  being metabolizing into R5P that is further metabolized into M+1 F6P and G3P. In
+  contrast, the glucose that is directly metabolized into F6P generates M+2 isotopomers.
+  Therefore, the ratio of M+1 and M+2 isotopomers in metabolites such as F6P and G3P,
+  as well as derivatives such as lactate and pyruvate, can be compared to determine
+  relative activity at the PPP branchpoint. Red = carbons that pass through the PPP;
+  black = carbons that pass through the main glycolytic pathway. The red, dashed boxed
+  encompasses isotopomers that can only be formed after passing through the PPP. Abbreviations:
+  glucose-6-phosphate (G6P), ribose-5-phosphate (R5P), fructose-6-phosphate (F6P),
+  glyceraldehyde-3-phosphate (G3P), pentose phosphate pathway (PPP).'
+article_title: 'Isotope-Assisted Metabolic Flux Analysis: A Powerful Technique to
+  Gain New Insights into the Human Metabolome in Health and Disease.'
+citation: Bilal Moiz, et al. Metabolites. 2022 Nov;12(11):1066.
+year: '2022'
+
+doi: 10.3390/metabo12111066
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: MDPI
+
+keywords:
+- metabolic flux analysis
+- fluxomics
+- isotopic non-stationary metabolic flux analysis
+- metabolic engineering
+- metabolomics
+- mass spectrometry
+- NMR
+
+---

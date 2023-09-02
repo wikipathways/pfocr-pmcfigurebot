@@ -1,0 +1,35 @@
+---
+figid: PMC9626520__fgene-13-940214-g005
+pmcid: PMC9626520
+image_filename: fgene-13-940214-g005.jpg
+figure_link: /pmc/articles/PMC9626520/figure/F5/
+number: FIGURE 5
+figure_title: ''
+caption: UpSet plot for differential genes’ intersection among 11 cancers and functional
+  enrichment analysis. (A) In the UpSet plot, the intersection of different cancers
+  is represented by solid dots and lines, and the number of intersections is represented
+  by the histogram above. Different numbers of significantly differential genes for
+  each cancer (marked blue) were identified. Finally, 67 early-stage pan-cancer biomarkers
+  were identified by taking the intersection of 11 cancers (marked red). (B) Gene
+  Ontology (GO) enrichment analysis. The top five significantly enriched GO biological
+  processes and relevant genes. (C) Kyoto Encyclopedia of Genes and Genomes (KEGG)
+  pathway enrichment analysis. The top five significantly enriched KEGG pathways and
+  relevant genes.
+article_title: DNA methylation loci identification for pan-cancer early-stage diagnosis
+  and prognosis using a new distributed parallel partial least squares method.
+citation: Qi-en He, et al. Front Genet. 2022;13:940214.
+year: '2022'
+
+doi: 10.3389/fgene.2022.940214
+journal_title: Frontiers in Genetics
+journal_nlm_ta: Front Genet
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- DNA methylation
+- partial least squares
+- MapReduce
+- pan-cancer analysis
+- early-stage tumor diagnosis and prognosis
+
+---

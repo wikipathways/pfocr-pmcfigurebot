@@ -1,0 +1,33 @@
+---
+figid: PMC9631663__advancesADV2021005648f5a
+pmcid: PMC9631663
+image_filename: advancesADV2021005648f5a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 5
+caption: Characterization of inflammatory gene profiles in platelets. (A-B) RNA-Seq
+  data from ET (N = 7) or healthy control (N = 3) platelets were filtered by using
+  Hallmark inflammatory response (A, n = 200) or IFN response (B, n = 224) genes,
+  followed by unsupervised hierarchical clustering by Euclidean distance (differentially
+  expressed genes are shown). Note clear segregation of phenotypes in both panels.
+  (C) In silico expression studies of aggregated IFN response genes (n = 224) by phenotype
+  (normal, n = 3; ET, n = 7); data are expressed as mean ± standard error of the mean
+  (SEM) of reads per kilobase per million (RPKM) normalized and scaled to mean 0.
+  (D) Platelet quantitative polymerase chain reaction of select IRGs or platelet-specific
+  genes (VWF and PF4) from a secondary cohort of healthy controls (n = 4) or ET (n
+  = 8), expressed as mean ± SEM normalized to actin; box plots (panels C-D) represent
+  the within-group interquartile range encompassing 50% of the values, whereas the
+  95% CIs and outliers are depicted. The horizontal bar within each box represents
+  the group median. P values (t test) are shown. NS, not significant.
+article_title: 'Cytokine pathway variants modulate platelet production: IFNA16 is
+  a thrombocytosis susceptibility locus in humans.'
+citation: Dmitri V. Gnatenko, et al. Blood Adv. 2022 Aug 23;6(16):4884-4900.
+year: '2022'
+
+doi: 10.1182/bloodadvances.2021005648
+journal_title: Blood Advances
+journal_nlm_ta: Blood Adv
+publisher_name: American Society of Hematology
+
+keywords:
+---

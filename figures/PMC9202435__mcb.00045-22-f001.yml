@@ -1,0 +1,61 @@
+---
+figid: PMC9202435__mcb.00045-22-f001
+pmcid: PMC9202435
+image_filename: mcb.00045-22-f001.jpg
+figure_link: /pmc/articles/PMC9202435/figure/F1/
+number: FIG 1
+figure_title: ''
+caption: Sensitivity of the newly screened sn134 and hus167 mutants to HU and DNA
+  damage. (A) Schematics of Rad3 kinase signaling in the DNA replication checkpoint
+  (DRC, left) and the DNA damage checkpoint (DDC, right) pathways in S. pombe. Superscripts
+  represent homologous proteins in humans. When DNA replication is perturbed, Rad3
+  phosphorylates Mrc1 and Cds1 to activate the DRC (). When DNA damage occurs outside
+  the S phase or forks collapse, Rad3 phosphorylates Crb2 and Chk1 to stimulate the
+  DDC pathway (, , ). Phosphorylation of Rad9 in the 9-1-1 (Rad9-Rad1-Hus1) complex
+  is required for activation of both the DRC and DDC pathways (, ). (B) Sensitivities
+  of sn134 (SK73) and hus167 (NF3) mutant to HU, MMS, UV, CPT, and bleomycin were
+  examined by spot assay. A series of 5-fold dilutions of the logarithmically growing
+  cells were spotted on YE6S plates or plates containing the indicated drugs. The
+  plates were incubated at 30°C for 3 days and then photographed. For UV treatment,
+  the cells were spotted on the plates, air-dried, and then exposed to UV at the indicated
+  dose. Wild-type (TK48), rad3 (NR1826), cds1 (GBY191), and chk1 (TK197) cells were
+  used as controls. (C) Sensitivity of sn134 and hus167 to acute HU treatment. The
+  wild-type and indicated mutant strains used in panel B were incubated in YE6S medium
+  containing 15 mM HU. At the indicated time points, cells were spread onto YE6S plates
+  to recover for 3 days. Colonies were counted and presented in percentages. Error
+  bars represent the means and SDs of triplicates. (D) Upregulation of the RNR small
+  subunit Suc22 rescued sn134 and hus167. Suc22 was expressed in S. pombe on a vector
+  under the control of its own promoter. HU sensitivity was assessed by spot assay
+  as in panel A. “V” indicates an empty vector. (E) HU sensitivities of the integrants
+  of wild-type (SK102) and mutant nse5 (SK103), and wild-type (NF339) and mutant smc6
+  (NF340) were determined by spot assay as in A. The sn134 and hus167 mutants were
+  included for comparison. (F) sn134 and hus167 mutant cells showed abnormal mitotic
+  or cut cells in HU. Cells were treated with 15 mM HU for 6 h as in panel C, stained
+  with Hoechst and Blankophor, and examined under the microscope. Arrows indicate
+  the cut cells. (G) We counted ≥150 cells for each sample, repeated it three times,
+  and the data are presented in percentages. Significant statistical differences between
+  wild-type and the mutant cells are indicated by asterisks (***, P < 0.05, t test).
+article_title: Smc5/6 Complex Promotes Rad3ATR Checkpoint Signaling at the Perturbed
+  Replication Fork through Sumoylation of the RecQ Helicase Rqh1.
+citation: Saman Khan, et al. Mol Cell Biol. 2022 Jun;42(6):e00045-22.
+year: '2022'
+
+doi: 10.1128/mcb.00045-22
+journal_title: Molecular and Cellular Biology
+journal_nlm_ta: Mol Cell Biol
+publisher_name: American Society for Microbiology
+
+keywords:
+- Smc5/6
+- Nse2
+- ATR
+- Rad3
+- Rqh1
+- Cds1
+- Chk1
+- sumoylation
+- DNA replication checkpoint
+- DNA damage checkpoint
+- genome integrity
+
+---

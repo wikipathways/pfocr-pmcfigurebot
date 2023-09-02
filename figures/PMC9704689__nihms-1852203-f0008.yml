@@ -1,0 +1,43 @@
+---
+figid: PMC9704689__nihms-1852203-f0008
+pmcid: PMC9704689
+image_filename: nihms-1852203-f0008.jpg
+figure_link: /pmc/articles/PMC9704689/figure/F7/
+number: Fig. 7
+figure_title: Negative regulation of SIRT1 by Ikaros is AMPK dependent
+caption: (A) BMMs from mSirt1-KO and FLOX mice were transfected with siControl or
+  siIkaros RNAs. Lysates were probed by western blots for Ikaros, SIRT1, p-AMPKα,
+  AMPKα and VCL as a loading control. (B) Relative intensity ratios with VCL normalization
+  (n = 3). (C) wild-type BMMs transfected with siControl or siIkaros RNAs were pre-treated
+  with Compound C (10 μM, 2 h). Lysates were probed by western blots for Ikaros, p-AMPKα,
+  AMPKα, SIRT1 and VCL expression. (D) Relative intensity ratios with VCL normalization
+  (n = 2). (E) Wild-type BMMs were transfected with siAMPKα/siControl RNAs for 48
+  h, followed by another 24 h transfection with siIkaros/siControl RNAs. Lysates were
+  probed by western blots. (F) Relative intensity ratios with VCL normalization (n
+  = 2). (G) Schematic illustration how myeloid-specific Ikaros–SIRT1 axis orchestrates
+  macrophage inflammation. Ikaros negatively regulates SIRT1 via AMPK, which inhibits
+  caspase-1/GSDMD processing. In the acute liver IRI-phase, Ikaros signaling favors
+  sterile inflammation in conjunction with negative regulation of SIRT1 via AMPK,
+  resulting in activation of the canonical inflammasome-pyroptosis pathway to release
+  IL1β and IL18. (A-F) Data shown are mean ± SEM. *p <0.05; **p <0.01, ***p <0.001
+  by Student’s t test. BMM, bone marrow-derived macrophages; IRI, ischemia-reperfusion
+  injury; KO, knockout; si(RNA), small-interfering RNA.
+article_title: Myeloid Ikaros–SIRT1 signaling axis regulates hepatic inflammation
+  and pyroptosis in ischemia-stressed mouse and human liver.
+citation: Kentaro Kadono, et al. J Hepatol. ;76(4):896-909.
+year: '2023'
+
+doi: 10.1016/j.jhep.2021.11.026
+journal_title: Journal of hepatology
+journal_nlm_ta: J Hepatol
+publisher_name: ''
+
+keywords:
+- Ikaros
+- SIRT1
+- pyroptosis
+- liver inflammation
+- liver transplantation
+- macrophages
+
+---

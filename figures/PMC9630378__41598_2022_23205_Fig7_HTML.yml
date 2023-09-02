@@ -1,0 +1,41 @@
+---
+figid: PMC9630378__41598_2022_23205_Fig7_HTML
+pmcid: PMC9630378
+image_filename: 41598_2022_23205_Fig7_HTML.jpg
+figure_link: /pmc/articles/PMC9630378/figure/Fig7/
+number: Figure 7
+figure_title: ''
+caption: Expression of miR-874, PMVK, and SREBF2 in The Cancer Genome Atlas (TCGA)
+  database analysis and meta-analysis. (a) Expression of miR-874 (left), PMVK (middle),
+  and SREBF-2 (right) in breast cancer tissues compared with normal tumour-adjacent
+  tissues in the TCGA breast cancer dataset (normal samples [n = 104] versus tumour
+  samples [n = 1093]). The data are presented as logarithmic values. The central line
+  represents the median gene expression. Outliers above the 95th percentile and below
+  the 5th percentile are displayed as dot plots. (b) Correlation analysis between
+  the expression of miR-874 and PMVK (Pearson’s r =  − 0.255, p < 0.0001). (c) Cohort
+  studies for PMVK gene expression in a breast cancer meta-analysis were combined
+  using random-effects models. The integrated hazard ratios (HRs) of relapse-free
+  survival and its 95% confidence interval are shown. All cohorts were divided by
+  the median gene expression ratio. Source data are provided in Supplementary Table
+  S3. (d) Overall survival for the high and low PMVK mRNA expression groups (upper
+  panel) and PMVK protein expression groups (lower panel) depicted using Kaplan–Meier
+  plotter (https://kmplot.com/analysis). (e) A schematic view of a proposed mechanism
+  through which miR-874 induces cancer cell death via suppression of the mevalonate
+  pathway. miR-874 suppresses the mevalonate pathway by directly targeting PMVK and
+  SREBF2, resulting in GGPP depletion, which activates the c-Myc and p53 signalling
+  pathways and causes apoptosis and cell cycle arrest.
+article_title: MicroRNA-874 targets phosphomevalonate kinase and inhibits cancer cell
+  growth via the mevalonate pathway.
+citation: Alimasi Aersilan, et al. Sci Rep. 2022;12:18443.
+year: '2022'
+
+doi: 10.1038/s41598-022-23205-w
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Breast cancer
+- Apoptosis
+
+---

@@ -1,0 +1,50 @@
+---
+figid: PMC9671809__41591_2022_2014_Fig4_HTML
+pmcid: PMC9671809
+image_filename: 41591_2022_2014_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9671809/figure/Fig4/
+number: Fig. 4
+figure_title: Genetic associations of plasma metabolites
+caption: a, Manhattan plot showing 48 independent mQTLs identified linking 44 metabolites
+  and 40 genetic variants with P < 4.2 × 10−11 (Spearman; two sided). Representative
+  genes for the SNPs with significant mQTLs are labeled. b, Association between a
+  tag SNP (rs1495741) of the NAT2 gene and plasma AFMU levels. c, Association between
+  a SNP (rs13100173) within the HYAL3 gene and plasma levels of N-acetylgalactosamine-4-sulfate.
+  d, Association between a tag SNP (rs17789626) of the SCLT1 gene and plasma mizoribine
+  levels. e, Differences in coffee intake between participants with different genotypes
+  at rs1495741. f, Correlations between coffee intake and AFMU in participants with
+  different genotypes at rs1495741. g, Differences in bacterial fatty acid β-oxidation
+  pathway abundance in participants with different genotypes at rs67981690. h, Correlations
+  between bacterial fatty acid β-oxidation pathway abundance and 5′-carboxy-γ-chromanol
+  in participants with different genotypes at rs67981690. In b–e and g, the x axis
+  indicates the genotype of the corresponding SNP and the y axis indicates normalized
+  residuals of the corresponding metabolic abundance (n = 927 biologically independent
+  samples). Each dot represents one sample. The box plots show the median and first
+  and third quartiles (25th and 75th percentiles) of the metabolite levels. The upper
+  and lower whiskers extend to the largest and smallest value no further than 1.5×
+  the IQR, respectively. Outliers are plotted individually. The association strength
+  is shown by the Spearman correlation coefficient and corresponding P value (two
+  sided). In f and h, the x axis indicates the normalized abundance of coffee intake
+  (f) or the bacterial fatty acid β-oxidation pathway (h) and the y axis indicates
+  the normalized residuals of the corresponding metabolic abundance. Each dot represents
+  one sample (n = 927 biologically independent samples). The lines indicate linear
+  regressions for each genotype group separately. Areas with light gray shading indicate
+  the 95% CI of the linear regression lines. The association strength per genotype
+  is shown by the Spearman correlation and the corresponding P value (two sided).
+article_title: Influence of the microbiome, diet and genetics on inter-individual
+  variation in the human plasma metabolome.
+citation: Lianmin Chen, et al. Nat Med. 2022;28(11):2333-2343.
+year: '2022'
+
+doi: 10.1038/s41591-022-02014-8
+journal_title: Nature Medicine
+journal_nlm_ta: Nat Med
+publisher_name: Nature Publishing Group US
+
+keywords:
+- Genetics
+- Microbial communities
+- Metagenomics
+- Epidemiology
+
+---

@@ -1,0 +1,35 @@
+---
+figid: PMC9644211__fphar-13-1002565-g009
+pmcid: PMC9644211
+image_filename: fphar-13-1002565-g009.jpg
+figure_link: /pmc/articles/PMC9644211/figure/F9/
+number: FIGURE 9
+figure_title: ''
+caption: METTL3 and IFIT2 are associated with prognostic immune infiltration (A).
+  Pancancer analysis of METTL3 and IFIT2 expression across cancers from TCGA. (B).
+  The expression profiles that correspond to the distributions of prognostic signature-based
+  risk scores. Low-risk patients are represented by green dots, while high-risk patients
+  are represented by red dots. (C). The ROC curve for evaluating the prediction efficiency
+  of the prognostic signature. (D). Correlation of IFIT2 gene expression and pathway
+  enrichment in TCGA esophageal cancer samples by GSEA enrichment analysis. (E). Correlation
+  of IFIT2 and METTL3 expression levels with immune infiltration of B cells, CD4 T
+  cells, CD8 T cells, neutrophils, macrophages, and dendritic cells in ESCC. (F).
+  A heatmap of the correlation between METTL3, IFIT2 and immune score.
+article_title: METTL3/m6A/IFIT2 regulates proliferation, invasion and immunity in
+  esophageal squamous cell carcinoma.
+citation: Fangfang Ge, et al. Front Pharmacol. 2022;13:1002565.
+year: '2022'
+
+doi: 10.3389/fphar.2022.1002565
+journal_title: Frontiers in Pharmacology
+journal_nlm_ta: Front Pharmacol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- squamous cell carcinoma
+- N6-methyladenosine modification
+- METTL3
+- IFIT2
+- immune infiltration
+
+---

@@ -1,0 +1,39 @@
+---
+figid: PMC9656691__ijms-23-13029-g001
+pmcid: PMC9656691
+image_filename: ijms-23-13029-g001.jpg
+figure_link: /pmc/articles/PMC9656691/figure/ijms-23-13029-f001/
+number: Figure 1
+figure_title: ''
+caption: 'Schematic overview of the workflow. (A) FFPE tissue from PCa BM patients.
+  (B) High quantity and quality of mRNA extracted from FFPE. (C) Fully-automated gene
+  expression assay utilizing nCounter™ digital analyzer followed by nSolver™ NanoString
+  technology v4.0. (D) Data output obtained from nSolver™ analyzer software. (E) Manual
+  annotation and data enrichment procedure of DEGs: (I) Metascape for molecular function
+  enrichment (metascape.org), (II) PANTHER for biological processes enrichment (pantherdb.org),
+  (III) protein family using Pfam database (pfam.xfam.org), (IV) pathway enrichment
+  retrieved from KEGG (genome.jp/keg), and (V) extracting publication for each gene
+  by using related keywords (pubmed.ncbi.nlm.nih.gov). (F) The MACNP stands for Manually
+  Annotated and Curated Nanostring-data Platform for 116 DEGs (PCa BM vs. primary
+  PCa). (G,H) Further enrichment and clustering DEGs based on the interaction between
+  MACNP platform and Metascape. (I,J) Protein–protein interaction (PPI) of DEGs analysis
+  produced by String (string-db.org) and Cytoscape (Cytoscape.org). (K) Venn diagram
+  representing overlapping genes obtained from the interaction between MACNP platform
+  and bioinformatics.psb.ugent.be/webtools. (L,M) Further research schedule.'
+article_title: The Gene Expression Landscape of Prostate Cancer BM Reveals Close Interaction
+  with the Bone Microenvironment.
+citation: Alireza Saraji, et al. Int J Mol Sci. 2022 Nov;23(21):13029.
+year: '2022'
+
+doi: 10.3390/ijms232113029
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- BM
+- prostate cancer
+- transcriptome
+- tumor microenvironment
+
+---

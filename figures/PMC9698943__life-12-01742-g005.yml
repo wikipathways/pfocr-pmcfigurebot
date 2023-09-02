@@ -1,0 +1,39 @@
+---
+figid: PMC9698943__life-12-01742-g005
+pmcid: PMC9698943
+image_filename: life-12-01742-g005.jpg
+figure_link: /pmc/articles/PMC9698943/figure/life-12-01742-f005/
+number: Figure 5
+figure_title: ''
+caption: Involvement of ATAD1 in mitochondrial structure and cell cycle progression
+  in PRAD. Enrichment analysis of TCGA-PRAD samples was conducted by using the LinkedOmics
+  functional modules. (A), Volcano plot showing the Pearson correlation coefficient
+  and p value of the ATAD1-coexpressed genes; (B,C) heatmap showing top 50 positively
+  (B) and negatively (C) correlated genes with ATAD1; (D,E) bar chart showing the
+  normalized enrichment score, involved gene count and false discovery rate (FDR)
+  of the gene ontology cellular component (GO_CC) terms (D) and Panther pathway terms
+  (E); (F,G) dot pots showing the correlation between ATAD1 and mitochondrial structure
+  genes such as NDUFS6 (F) and IMMT (G); (H,I) dot pots of the correlation between
+  ATAD1 and cell cycle progression genes such as MKI67 (H) and CDK4 (I).
+article_title: Multi-Omics Analysis Reveals Clinical Value and Possible Mechanisms
+  of ATAD1 Down-Regulation in Human Prostate Adenocarcinoma.
+citation: Chun-Chi Chen, et al. Life (Basel). 2022 Nov;12(11):1742.
+year: '2022'
+
+doi: 10.3390/life12111742
+journal_title: Life
+journal_nlm_ta: Life (Basel)
+publisher_name: MDPI
+
+keywords:
+- prostate adenocarcinoma
+- ATPase Family AAA Domain Containing 1
+- biomarker
+- deep deletion
+- ETS transcription factor ERG
+- transcription repression
+- mitochondria
+- cell cycle
+- tumor immune microenvironment
+
+---

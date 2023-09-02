@@ -1,0 +1,58 @@
+---
+figid: PMC9674448__cir-146-1591-g003
+pmcid: PMC9674448
+image_filename: cir-146-1591-g003.jpg
+figure_link: /pmc/articles/PMC9674448/figure/F3/
+number: Figure 3
+figure_title: ''
+caption: NR1D1 perturbs mitochondrial metabolism by the TCA cycle in AAA. A, Heatmap
+  of differentially expressed genes in ApoE−/−/Nr1d1flox/flox-AngII and ApoE−/−/Nr1d1ΔSMC-AngII
+  groups. Each column represents an individual replicate, and each row represents
+  an individual gene. Upregulated genes are shown in red, and downregulated genes
+  are displayed in blue. n=3 for both groups. Differentially expressed genes were
+  defined as genes with a Benjamini-Hochberg adjusted P value <0.05 and |log2(fold
+  change)|≥1. B, Volcano plot reveals the magnitude and significance of altered genes
+  in ApoE−/−/Nr1d1flox/flox-AngII and ApoE−/−/Nr1d1ΔSMC-AngII groups. Differentially
+  expressed genes were defined as genes with a Benjamini-Hochberg adjusted P value
+  <0.05 and |log2(fold change)|≥1. C, The top 10 Kyoto Encyclopedia Genes and Genomes
+  (KEGG) pathways of differentially expressed genes. D, Heatmap of differential plasma
+  metabolites in ApoE−/−/Nr1d1flox/flox-AngII and ApoE−/−/Nr1d1ΔSMC-AngII groups.
+  n=7 for ApoE−/−/Nr1d1flox/flox-AngII, n=6 for ApoE−/−/Nr1d1ΔSMC-AngII. Differential
+  metabolites in plasma were identified using variable important in projection (VIP)
+  values of >1.2 in an orthogonal partial least squares–discriminant analysis (OPLS-DA)
+  model. E, Multi-omics joint pathway analysis of transcriptomes and metabolomes.
+  The highest ranked pathway is the TCA cycle. F, A combined analysis of transcriptome
+  and metabolome profiles identified ACO2 in the TCA cycle as the potential target
+  of NR1D1. The schematic illustration of intracellular metabolites and enzymes in
+  the TCA metabolic pathway (modified from the combined analysis). CS, IDH, and OGDH
+  are rate-limiting enzymes in the TCA cycle. G, Heatmap of differential plasma metabolites
+  in patients with AAA and matched control subjects (n=20 per group). Differential
+  metabolites in plasma were identified using VIP values of >1.2 in an OPLS-DA model.
+  H, KEGG pathway enrichment analysis of human metabolomics. I through M, Relative
+  abundances of (iso)citric acid, cis-aconitic acid, and αKG, and αKG to (iso)citrate/cis-aconitate
+  ratios in patients with AAA and matched control subjects (n=20 per group). Data
+  were analyzed by Student t test (I, J, and L) or Mann-Whitney U test (K and M).
+  *P<0.05; **P<0.01; ***P<0.001. Data are expressed as mean ± SEM. AAA indicates abdominal
+  aortic aneurysm; ACO2, aconitase-2; αKG, α-ketoglutarate; AngII, angiotensin II;
+  CS, citrate synthase; FH, fumarate hydratase; IDH, isocitrate dehydrogenase; MDH,
+  malate dehydrogenase; NR1D1, nuclear receptor subfamily 1 group D member 1; OGDH,
+  oxoglutarate dehydrogenase; SDH, succinate dehydrogenase; and TCA, tricarboxylic
+  acid.
+article_title: Nuclear Receptor NR1D1 Regulates Abdominal Aortic Aneurysm Development
+  by Targeting the Mitochondrial Tricarboxylic Acid Cycle Enzyme Aconitase-2.
+citation: Ling-Yue Sun, et al. Circulation. 2022 Nov 22;146(21):1591-1609.
+year: '2022'
+
+doi: 10.1161/CIRCULATIONAHA.121.057623
+journal_title: Circulation
+journal_nlm_ta: Circulation
+publisher_name: Lippincott Williams & Wilkins
+
+keywords:
+- alpha-Ketoglutarate
+- abdominal aortic aneurysm
+- mitochondria
+- nuclear receptor
+- vascular smooth muscle
+
+---

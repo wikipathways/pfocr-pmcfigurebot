@@ -1,0 +1,31 @@
+---
+figid: PMC9667021__fpsyt-13-1037503-g006
+pmcid: PMC9667021
+image_filename: fpsyt-13-1037503-g006.jpg
+figure_link: /pmc/articles/PMC9667021/figure/F6/
+number: FIGURE 6
+figure_title: ''
+caption: The evaluation of each model after cross validation. The accuracy and Kappa
+  value are shown in panel (A). Bonferroni’s test results are shown in panel (B).
+  The median numbers are represented by dots, and lines indicate the confidence level.
+  ROC, receiver operating characteristic; AUC, area under the curve; KNN, k-nearest
+  neighbor; SVM, support vector machine; RF, random forest; ANN, artificial neural
+  network.
+article_title: Why not try to predict autism spectrum disorder with crucial biomarkers
+  in cuproptosis signaling pathway?.
+citation: Yu Zhou, et al. Front Psychiatry. 2022;13:1037503.
+year: '2022'
+
+doi: 10.3389/fpsyt.2022.1037503
+journal_title: Frontiers in Psychiatry
+journal_nlm_ta: Front Psychiatry
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- cuproptosis
+- autism spectrum disorder
+- biomarkers
+- machine learning
+- artificial neural network
+
+---

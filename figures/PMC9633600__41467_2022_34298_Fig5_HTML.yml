@@ -1,0 +1,49 @@
+---
+figid: PMC9633600__41467_2022_34298_Fig5_HTML
+pmcid: PMC9633600
+image_filename: 41467_2022_34298_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC9633600/figure/Fig5/
+number: Fig. 5
+figure_title: FGFR2b regulates mTOR signalling and autophagy from the recycling endosomes
+caption: a Subnetwork of proteins annotated to mTOR pathway or autophagy based on
+  KEGG analysis from Fig. . Node colouring indicates whether the phosphorylated protein
+  or the phosphorylated sites from the KEGG term ’autophagy’ were found in global,
+  proximal phosphoproteome or both. Sites from Fig.  have a green border. b Immunoblot
+  analysis (N = 3 independent biological replicates) with indicated antibodies of
+  candidate phosphorylated proteins from the subnetwork (Fig. 5a). T47D were transfected
+  with RAB11-APEX2 (T47D_RAB11-APEX2) stimulated with FGF10 for the indicated time
+  points. UT, treatment with vehicle as control. Non proximal and proximal samples
+  represent the supernatant and the pulldown following enrichment of biotinylated
+  samples with streptavidin beads, respectively, and run against total lysates (total).
+  c Autophagy measured using fluorescence-activated cell sorting (FACS) of T47D cells
+  in serum, treated with vehicle (UT), FGF7 or FGF10 for 2 h. Representative images
+  and gating are shown in Supplementary Fig. . The number of cells counted is indicated
+  below the graph. N = 3 independent biological replicates. p value <0.05 *, p value
+  <0.0005 *** (one-way ANOVA with Tukey test). d Autophagy (measured by staining of
+  autolysosomes with acridine orange) of HeLa_FGFR2bST, T47D and BT20 treated with
+  vehicle (UT), FGF7 or FGF10. N = 3 independent biological replicates where at least
+  six treated wells of cells were counted for each N. p value <0.001*** (one-way ANOVA
+  with Tukey test). e Immunoblot analysis (N ≥ 3 independent biological replicates)
+  with the indicated antibodies of the effect of serum starvation and FGF treatment
+  on autophagic markers in T47D. LC3B 2 is the lipidated form of LC3B. Cells were
+  treated with vehicle (UT), FGF7 or FGF10. f Immunoblot analysis (N ≥ 3 independent
+  biological replicates) with the indicated antibodies of HeLa_FGFR2bST, T47D and
+  BT20 treated or not with FGF7 or FGF10 for 2 h. Source data are provided as a Source
+  Data file.
+article_title: Spatially resolved phosphoproteomics reveals fibroblast growth factor
+  receptor recycling-driven regulation of autophagy and survival.
+citation: Joanne Watson, et al. Nat Commun. 2022;13:6589.
+year: '2022'
+
+doi: 10.1038/s41467-022-34298-2
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Proteomics
+- Autophagy
+- Phosphorylation
+- Endocytosis
+
+---

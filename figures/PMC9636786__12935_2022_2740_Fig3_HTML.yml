@@ -1,0 +1,41 @@
+---
+figid: PMC9636786__12935_2022_2740_Fig3_HTML
+pmcid: PMC9636786
+image_filename: 12935_2022_2740_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC9636786/figure/Fig3/
+number: Fig. 3
+figure_title: ''
+caption: Effects of menin pharmacological inhibition on OC cells proliferation and
+  transcriptome. (A) PEO1 (left) and PEO4 (right) relative cell viability assessed
+  in cells treated with increasing concentrations of MI-136. Data represent the mean
+  of six independent replicates ± SD (* p ≤ 0.05). (B) Venn diagrams showing the number
+  of down- (left) and up- (right) regulated transcripts in PEO1 and PEO4 cells, cultivated
+  in the presence of 0.8 µM MI-136 or vehicle (DMSO) for 9 days. First quartile (Q1)
+  fold-change threshold was applied to identify differentially expressed genes (|FC|
+  ≥ Q1, padj ≤ 0.05). RNA-seq was performed in biological triplicates. (C) Heatmap
+  and hierarchical clustering with dissimilarity measured using Manhattan distance
+  showing common concordantly deregulated transcripts in PEO1 and PEO4 cells upon
+  MEN1 silencing or pharmacological inhibition with 0.8 µM MI-136 (|FC| ≥ Q1, padj ≤ 0.05).
+  (D) Circos plot showing genes, over- (red) and under- (blue) rerepresented in MI-136-treated
+  respect to control (DMSO-treated) PEO4 cells, and the statistically significant
+  (p ≤ 0.05) aryl hydrocarbon receptor (AhR) pathway and integrin signaling pathway
+  that tend to be up-regulated
+article_title: Combinatorial targeting of menin and the histone methyltransferase
+  DOT1L as a novel therapeutic strategy for treatment of chemotherapy-resistant ovarian
+  cancer.
+citation: Elena Alexandrova, et al. Cancer Cell Int. 2022;22:336.
+year: '2022'
+
+doi: 10.1186/s12935-022-02740-6
+journal_title: Cancer Cell International
+journal_nlm_ta: Cancer Cell Int
+publisher_name: BioMed Central
+
+keywords:
+- Ovarian cancer
+- Menin
+- DOT1L
+- Drug combination
+- Chemotherapy resistance
+
+---

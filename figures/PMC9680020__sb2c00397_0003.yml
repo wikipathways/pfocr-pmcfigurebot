@@ -1,0 +1,44 @@
+---
+figid: PMC9680020__sb2c00397_0003
+pmcid: PMC9680020
+image_filename: sb2c00397_0003.jpg
+figure_link: /pmc/articles/PMC9680020/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: '(A) Pathway showing the synthesis of β-carotene from pyruvate and glyceraldehyde
+  3-phosphate and its conversion to retinal by β-carotene 15,15′-dioxygenase (product
+  key: IPP, isopentenyl diphosphate; DMAPP, dimethylallyl pyrophosphate; FPP, farnesyl
+  diphosphate; GGPP, geranylgeranyl diphosphate). The parts of the pathway common
+  to both Ralstonia eutropha and Erwinia sp. and unique to Erwinia sp. are indicated.
+  The enzyme key is as follows: Dxs, 1-deoxy-d-xylulose-5-phosphate synthase; Dxr,
+  1-deoxy-d-xylulose 5-phosphate reductoisomerase; IspH, 4-hydroxy-3-methylbut-2-enyl
+  diphosphate reductase; crtE, geranylgeranyl diphosphate synthase; crtB, phytoene
+  synthase; crtI, phytoene desaturase; crtY, lycopene cyclase. (B) GR expression in
+  R. eutropha H16 causes a distinct pink coloration. Absorbance scan of isolated membranes
+  from the induced H16 GR cells shows absorption at 540 nm (arrowed), a light wavelength
+  that is not absorbed by chlorophyll. (C) The gene-circuit design shows the arrangement
+  of the pLO11a-blhDxrCRT-GR construct. This contains the crt operon (crtEXYIB) plus
+  an 879 bp upstream region containing the crtE endogenous promoter (PcrtE) and the
+  dxr, blh, and GR genes (with upstream ribosome binding site shown as semi-circles)
+  under the control of the arabinose inducible PBAD promoter.'
+article_title: Engineering a Rhodopsin-Based Photo-Electrosynthetic System in Bacteria
+  for CO2 Fixation.
+citation: Paul A. Davison, et al. ACS Synth Biol. 2022 Nov 18;11(11):3805-3816.
+year: '2022'
+
+doi: 10.1021/acssynbio.2c00397
+journal_title: ACS Synthetic Biology
+journal_nlm_ta: ACS Synth Biol
+publisher_name: American Chemical Society
+
+keywords:
+- Ralstonia eutropha
+- β-carotene
+- proteorhodopsin
+- Gloeobacter rhodopsin
+- biosynthesis
+- synthetic biology
+- CO2 fixation
+- photoautotrophy
+
+---

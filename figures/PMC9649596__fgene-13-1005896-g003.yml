@@ -1,0 +1,31 @@
+---
+figid: PMC9649596__fgene-13-1005896-g003
+pmcid: PMC9649596
+image_filename: fgene-13-1005896-g003.jpg
+figure_link: /pmc/articles/PMC9649596/figure/F3/
+number: FIGURE 3
+figure_title: ''
+caption: 'DO, GO and KEGG analyses in differential genes. (A) 30 categories of diseases
+  associated with differential genes based on DO analysis. (B) GO analysis shows the
+  signaling pathways enriched in BP, MF and CC in NSCLC. (CC: cellular component,
+  MF: molecular function, BP: biological process, the color represents the significance
+  of the data, the redder the color means the more significant the differential genes
+  are enriched in this pathway). (C–D) Analysis of KEGG-based enriched signaling pathway.'
+article_title: Machine learning and bioinformatics-based insights into the potential
+  targets of saponins in Paris polyphylla smith against non-small cell lung cancer.
+citation: Yue Wang, et al. Front Genet. 2022;13:1005896.
+year: '2022'
+
+doi: 10.3389/fgene.2022.1005896
+journal_title: Frontiers in Genetics
+journal_nlm_ta: Front Genet
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- bioinformatics
+- key genes
+- Paris polyphylla smith
+- non-small cell lung cancer
+- machine learning
+
+---

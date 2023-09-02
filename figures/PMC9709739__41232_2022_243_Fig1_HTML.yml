@@ -1,0 +1,50 @@
+---
+figid: PMC9709739__41232_2022_243_Fig1_HTML
+pmcid: PMC9709739
+image_filename: 41232_2022_243_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC9709739/figure/Fig1/
+number: Fig. 1
+figure_title: ''
+caption: 'Comparisons of the proteomic profiles of serum EVs by COVID-19 severity
+  and identification of MACROH2A1. a Analytical procedures to identify COVID-19 refractory
+  biomarkers. b A volcano plot of all identified 2376 serum EV proteins with ≥ 2 total
+  unique peptide count by a non-targeted proteomic analysis comparing Group 2 and
+  3 cases of COVID-19. c Principal component analysis on 12 biomarker candidate proteins
+  distinguishing Group 3 from Group 2. A scatter plot indicates Group 2–Group 3 classes
+  based on the first 2 principal components of the 12 proteins. d Top 10 canonical
+  pathways after Ingenuity Pathway Analysis (IPA) for EV proteins significantly upregulated
+  with > 1.5-fold changes or downregulated with < 0.67-fold changes in comparison
+  of Group 2 and 3 cases of COVID-19. e Top 10 disease and function after IPA for
+  the EV proteins same as d. f A volcano plot of all identified 2376 serum EV proteins
+  with ≥ 2 total unique peptide count by a non-targeted proteomic analysis comparing
+  Groups 2 and 3 with Group 1 cases of COVID-19. g Principal component analysis performed
+  on 174 biomarker candidate proteins distinguishing Groups 2 and 3 from Group 1.
+  A scatter plot indicates Groups 2 and 3–Group 1 classes based on the first 2 principal
+  components of the 174 proteins. h Top 10 canonical pathways after IPA for the EV
+  proteins which were significantly upregulated with > twofold changes or downregulated
+  with < 0.5-fold changes in comparison of Group 2 and 3 cases and Group 1 cases.
+  i Top 10 disease and function after IPA for the EV proteins same as h. j Linear
+  regression analysis adjusted for age and sex to examine whether the proteins with
+  fold change > 2 or < 0.5 and p < 0.05 in both b and f significantly increased or
+  decreased in the order of healthy controls, Group 1, and Groups 2 and 3. β: regression
+  coefficient, FDR: false discovery rate'
+article_title: Next-generation proteomics of serum extracellular vesicles combined
+  with single-cell RNA sequencing identifies MACROH2A1 associated with refractory
+  COVID-19.
+citation: Takahiro Kawasaki, et al. Inflamm Regen. 2022;42:53.
+year: '2022'
+
+doi: 10.1186/s41232-022-00243-5
+journal_title: Inflammation and Regeneration
+journal_nlm_ta: Inflamm Regen
+publisher_name: BioMed Central
+
+keywords:
+- COVID-19
+- SARS-CoV-2
+- Exosome
+- MACROH2A1
+- Multi-omics
+- Liquid biopsy
+
+---

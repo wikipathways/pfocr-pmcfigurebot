@@ -1,0 +1,38 @@
+---
+figid: PMC9682028__fendo-13-1015800-g002
+pmcid: PMC9682028
+image_filename: fendo-13-1015800-g002.jpg
+figure_link: /pmc/articles/PMC9682028/figure/f2/
+number: Figure 2
+figure_title: ''
+caption: 'Functional analysis of mRNAs in competitive regulatory networks. (A) Gene
+  enrichment function in lncRNA-mRNA network of in control group (without 50 U/ml
+  IL-1β and 1000 U/ml IFN-γ stimulation). (B) Gene enrichment function in lncRNA-mRNA
+  network in cytokines group (with 50 U/ml IL-1β and 1000 U/ml IFN-γ stimulation).
+  (C) Functional comparison of mRNA enrichment in ceRNA network under exosomes of
+  different states. ctrl: Function enriched for mRNAs in network without cytokines
+  stimulation; cyto: Function enriched for mRNAs in network with cytokines stimulation.
+  (D) The pathway crosstalk network. In the crosstalk network, two pathways are connected
+  by an edge if they shared at least one gene. The thickness of the edge is proportional
+  to the number of shared genes between the two connected pathways. Edges colored
+  with red represent the number of shared genes> 20 between the connected two pathways.
+  Pathways with blue, purple and yellow color are specific for different treatment,
+  respectively.'
+article_title: Dissecting lncRNA-mRNA competitive regulatory network in human islet
+  tissue exosomes of a type 1 diabetes model reveals exosome miRNA markers.
+citation: Tian Fang, et al. Front Endocrinol (Lausanne). 2022;13:1015800.
+year: '2022'
+
+doi: 10.3389/fendo.2022.1015800
+journal_title: Frontiers in Endocrinology
+journal_nlm_ta: Front Endocrinol (Lausanne)
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- type 1 diabetes
+- exosomes miRNA
+- network
+- tissue exosomes
+- GEO database
+
+---

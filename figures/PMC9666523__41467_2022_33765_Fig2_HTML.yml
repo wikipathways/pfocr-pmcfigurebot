@@ -1,0 +1,50 @@
+---
+figid: PMC9666523__41467_2022_33765_Fig2_HTML
+pmcid: PMC9666523
+image_filename: 41467_2022_33765_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC9666523/figure/Fig2/
+number: Fig. 2
+figure_title: GCC2 is required for STING Golgi-exit
+caption: a A diagram of Golgin family members at the trans-Golgi network (TGN). b
+  qRT-PCR analysis of tonic (left) or ligand-activated (right) lfnb1 mRNA expression
+  after mock knockdown (siCtrl) or specific siRNA knockdown of Gcc1, Gcc2, Golga1,
+  or Golga4 in wild-type MEFs. n = 3. c A heatmap showing expression of indicated
+  ISGs (right) at the resting-state in Gcc2WT and Gcc2KO MEFs after control, Sting,
+  Mavs siRNA knockdown. d Western blot analysis of STING signaling kinetics. Gcc2WT
+  and Gcc2KO MEFs were stimulated with HTDNA (1 µg/mL) for indicated times (top).
+  Quantification of relative Sting protein abundance (normalized to Tubulin, then
+  set 0 h value to 1) are shown on the right. p-Sting, p-Tbk1, and p-Irf3 are key
+  phosphorylation events of the STING signaling pathway. e ELISA analysis of mIFN-β
+  in the supernatant in Gcc2WT and Gcc2KO MEFs 24 h after HSV-GFP infection (m.o.i. = 1).
+  n = 4. f HSV-1-GFP infection in Gcc2WT and Gcc2KO MEFs. Top, representative FACS
+  plot of GFP expression 24 h after HSV-1-GFP infection (m.o.i. = 1). Lower panels,
+  percentage of GFP+ cells (lower left), GFP MFI (Mean fluorescence intensity, lower
+  middle) and HSV-1 titers in the supernatant (lower right) in Gcc2WT and Gcc2KO MEFs.
+  g–i Confocal microscopy analysis of endogenous STING trafficking and signaling.
+  Gcc2WT or Gcc2KO MEFs were stimulated with HT-DNA (1 µg/mL) for indicated times
+  (top). Cells were then stained for endogenous STING (green) and Golgi marker GM130
+  (red) (g, top). Quantification of fluorescence intensity of endogenous STING in
+  the Golgi (GM130+ area) using Fiji (g, bottom). A similar set of cells were stained
+  for p-Tbk1 and p-Irf3 (images in Supplementary Fig. , ). Quantification of fluorescence
+  intensity of endogenous p-TBK1 (h) and p-IRF3 (i) in Gcc2WT and Gcc2KO MEFs are
+  shown. The colored area corresponds to Golgi-dwell time. n = 3. Data are representative
+  of at least three independent experiments. At least 14 cells in two different views
+  were analyzed (g–i). Data (b, e and g–i) are shown as mean ± s.e.m. P values were
+  determined by one-way ANOVA (b and e) or by two-way ANOVA (g–i).
+article_title: Interruption of post-Golgi STING trafficking activates tonic interferon
+  signaling.
+citation: Xintao Tu, et al. Nat Commun. 2022;13:6977.
+year: '2022'
+
+doi: 10.1038/s41467-022-33765-0
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Innate immunity
+- Protein transport
+- Golgi
+- Interferons
+
+---

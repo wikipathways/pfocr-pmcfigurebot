@@ -1,0 +1,38 @@
+---
+figid: PMC9623519__FEB4-12-2083-g001
+pmcid: PMC9623519
+image_filename: FEB4-12-2083-g001.jpg
+figure_link: /pmc/articles/PMC9623519/figure/feb413487-fig-0004/
+number: Fig. 4
+figure_title: ''
+caption: RNA sequencing and bioinformatic analyses demonstrated that MYPT1 is involved
+  in a MAPK‐related pathway in ccRCC. (A) The volcano plot shows genes differentially
+  expressed between Caki1 cells with MYPT1 overexpression group and the negative control
+  group (P < 0.05). (B) KEGG analysis of the differentially expressed genes (¦log2FC¦ > 1,
+  FDR‐adjusted P < 0.05) was performed in Caki1‐NC and Caki1‐MYPT1 cells. (C) GSEA
+  revealed that the MAPK signalling pathway gene set was less enriched in Caki1‐MYPT1
+  cells (FDR < 25% and P < 0.05). (D) KEGG analysis of the MYPT1‐correlated genes
+  (P < 0.05) in the TCGA‐KIRC dataset. (E) The 17 overlapping genes were enriched
+  in the MAPK pathway based on the differentially expressed genes from RNA sequencing
+  data or MYPT1‐correlated genes from TCGA‐KIRC dataset. ccRCC, renal clear cell carcinoma;
+  GSEA, Gene Set Enrichment Analysis; KEGG, Kyoto Encyclopedia of Genes and Genomes;
+  MAPK, mitogen‐activated protein kinase; MYPT1, myosin phosphatase target subunit
+  1.
+article_title: MYPT1 inhibits the metastasis of renal clear cell carcinoma via the
+  MAPK8/N‐cadherin pathway.
+citation: Qingling Xie, et al. FEBS Open Bio. 2022 Nov;12(11):2083-2095.
+year: '2022'
+
+doi: 10.1002/2211-5463.13487
+journal_title: FEBS Open Bio
+journal_nlm_ta: FEBS Open Bio
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- cadherin
+- MAPK
+- metastasis
+- MYPT1
+- renal clear cell carcinoma
+
+---

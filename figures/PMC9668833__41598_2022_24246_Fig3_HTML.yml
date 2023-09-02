@@ -1,0 +1,38 @@
+---
+figid: PMC9668833__41598_2022_24246_Fig3_HTML
+pmcid: PMC9668833
+image_filename: 41598_2022_24246_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC9668833/figure/Fig3/
+number: Figure 3
+figure_title: ''
+caption: 'Diseasome properties: (A) A distribution of the molecular pathways homogeneity
+  (PH) of individual diseases in cardiomyopathy-centric diseasome. Purple bars represent
+  the actual diseasome, and the green bars show the random control calculated for
+  each disease by randomly choosing the same number of genes. The PH is formulated
+  as the maximum possible fraction of genes associated with the same molecular pathway
+  in individual disease. (B) A lineplot of disease degree versus PH value distribution
+  in the diseasome. (C) The distribution of number of common genes between two disease
+  phenotype and their average PH value in the cardiomyopathy-centric diseasome. (D)
+  The GO homogeneity measure of cardiomyopathy-centric diseasome genes for all GO
+  categories—cellular component (CC)(Middle), biological process (BP) (Bottom), and
+  molecular function (MF) (Top). The GH for each disease term was calculated like
+  the PH analysis. Red bars represent the actual diseasome histogram, and the green
+  bars show the random control. (E) A lineplot of disease degree and GH value distribution
+  for each GO category in the diseasome.'
+article_title: Integrative network analysis interweaves the missing links in cardiomyopathy
+  diseasome.
+citation: Pankaj Kumar Chauhan, et al. Sci Rep. 2022;12:19670.
+year: '2022'
+
+doi: 10.1038/s41598-022-24246-x
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Biophysics
+- Chemical biology
+- Computational biology and bioinformatics
+- Systems biology
+
+---

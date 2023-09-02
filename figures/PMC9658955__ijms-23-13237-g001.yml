@@ -1,0 +1,36 @@
+---
+figid: PMC9658955__ijms-23-13237-g001
+pmcid: PMC9658955
+image_filename: ijms-23-13237-g001.jpg
+figure_link: /pmc/articles/PMC9658955/figure/ijms-23-13237-f001/
+number: Figure 1
+figure_title: ''
+caption: Profound changes in the global transcriptional landscape between parental
+  and erlotinib-resistant cells. (A) Heatmap of genes that were differentially expressed
+  (DEGs) between HCC827 and HCC827/ER cells. The color represents the level of transformed
+  gene expression of log10. (B) Volcano plot displaying genes detected by RNA-Seq.
+  Red points represent up-regulated DEGs (FoldChange ≥ 2, q value ≤ 0.001). Blue points
+  represent down-regulated DEGs (FoldChange ≤ −2, q value ≤ 0.001). Gray points represent
+  non-DEGs. (C) KEGG pathway enrichment analysis of genes up-regulated or down-regulated
+  in pairwise comparison of HCC827 and HCC827/ER cells. FDR ˂ 0.05 signified statistical
+  significance. (D) Biological process, (E) cellular components, and (F) molecular
+  function annotations of gene ontology were significantly enriched in genes that
+  were differentially expressed between HCC827 and HCC827/ER cells. Top 10 terms of
+  each class were performed. FDR ˂ 0.05 signified statistical significance.
+article_title: LMNA Reduced Acquired Resistance to Erlotinib in NSCLC by Reversing
+  the Epithelial–Mesenchymal Transition via the FGFR/MAPK/c-fos Signaling Pathway.
+citation: Chunsheng Hu, et al. Int J Mol Sci. 2022 Nov;23(21):13237.
+year: '2022'
+
+doi: 10.3390/ijms232113237
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- LMNA
+- epithelial–mesenchymal transition
+- EGFR-TKI resistance
+- non-small-cell lung cancer
+
+---

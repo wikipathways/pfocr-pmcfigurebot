@@ -1,0 +1,41 @@
+---
+figid: PMC9647956__12915_2022_1452_Fig5_HTML
+pmcid: PMC9647956
+image_filename: 12915_2022_1452_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC9647956/figure/Fig5/
+number: Fig. 5
+figure_title: ''
+caption: 'Transcriptional reprogramming of the A549 cell response to N. farcinica.
+  a Heatmap of the 48 DEGs of A549 cells at 6 and 3 hpi compared with 1 hpi. No: Unknown
+  KEGG pathway. b Venn diagram illustrating the number of DEGs of A549 cells at 6
+  and 3 hpi compared with 1 hpi (log2-fold change ≥ 1, adjusted P value ≤ 0.05). The
+  number of DEGs was 769 at 6 hpi compared with 1 hpi and 61 at 3 hpi compared with
+  1 hpi, and the number of common DEGs in both group was 48. c The protein–protein
+  interactions of 48 DEGs were analyzed using Cytoscape software. d The expression
+  of ANGPTL4 was upregulated during infection in vitro and in vivo. In vitro, A549
+  cells were infected with N. farcinica at a MOI of 10 for 6 h, and the protein was
+  analyzed by WB. In vivo, mice were infected intranasally with a dose of 5×106 CFU
+  in 50 μl PBS, and the protein in the lung was collected 24 h post-infection and
+  analyzed using WB, each protein sample came from a different mouse (n = 5, Student’s
+  two-tailed T test, ***p<0.001, error bars represent SD). e Immunofluorescence analysis
+  of ANGPTL4 expression in A549 cells at 6 h post-infection. A549 cells were infected
+  with N. farcinica at a MOI of 10 for 6 h, and then the expression of ANGPTL4 was
+  detected'
+article_title: Molecular, cellular and neurological consequences of infection by the
+  neglected human pathogen Nocardia.
+citation: Xingzhao Ji, et al. BMC Biol. 2022;20:251.
+year: '2022'
+
+doi: 10.1186/s12915-022-01452-7
+journal_title: BMC Biology
+journal_nlm_ta: BMC Biol
+publisher_name: BioMed Central
+
+keywords:
+- Nocardia farcinica
+- Dual RNA-seq
+- Virulence factor
+- Parkinson’s disease
+- Microglia
+
+---

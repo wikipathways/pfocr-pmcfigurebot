@@ -1,0 +1,30 @@
+---
+figid: PMC9631584__44149_2022_53_Fig7_HTML
+pmcid: PMC9631584
+image_filename: 44149_2022_53_Fig7_HTML.jpg
+figure_link: /pmc/articles/PMC9631584/figure/Fig7/
+number: Fig. 7
+figure_title: ''
+caption: KEGG Pathway analysis. KEGG-based GSEA pathways are plotted in the order
+  of gene ratios. The dots' size depicts the count number of the genes significantly
+  differentiated in the KEGG pathway list, and the color represents the p-adjusted
+  value (padj ≤ 0.05). GSEA, gene set enrichment analysis
+article_title: Altered gene expression in human brain microvascular endothelial cells
+  in response to the infection of influenza H1N1 virus.
+citation: Doaa Higazy, et al. Anim Dis. 2022;2(1):25.
+year: '2022'
+
+doi: 10.1186/s44149-022-00053-9
+journal_title: Animal Diseases
+journal_nlm_ta: Anim Dis
+publisher_name: Springer Nature Singapore
+
+keywords:
+- Blood–brain barrier
+- Influenza A virus (IAV)
+- hBMECs
+- CNS
+- Neurodegenerative diseases
+- RNAseq
+
+---

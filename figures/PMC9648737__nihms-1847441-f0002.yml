@@ -1,0 +1,42 @@
+---
+figid: PMC9648737__nihms-1847441-f0002
+pmcid: PMC9648737
+image_filename: nihms-1847441-f0002.jpg
+figure_link: /pmc/articles/PMC9648737/figure/F2/
+number: Fig. 2
+figure_title: RNA seq analysis reveals that muscle-expressed NUAK preferentially alters
+  gene expression of insulin pathway targets
+caption: (A) Venn diagram depicting the number of common genes detected in whole larvae
+  and/or muscle carcass in mef2>NUAK 548 vs. mef2>lacZ (top panel) or mef2>NUAK 550
+  vs. mef2>lacZ (bottom panel). (B) Bar graph illustrates the relative percentage
+  of up/down-regulated genes in whole larvae compared to muscle carcass upon NUAK
+  OE. (C) Enrichment of insulin pathway target genes compared to target genes associated
+  with TGFβ signaling in muscles expressing NUAK. (D) Heatmap depicting relative fold
+  change (log2) of the top up- or down-regulated genes detected in whole larvae (top
+  panel) or muscle carcass (bottom panel) in mef2>NUAK 548 or mef2>NUAK 550 compared
+  to mef2>lacZ controls. Gene names in bold are common between whole larvae and muscle
+  carcass data sets. ** indicates known insulin pathway target genes. (E) Bar graph
+  showing the relative fold change of shared gene targets (CryAB, GILT3, NUAK, mthl8)
+  and/or known insulin pathway targets (CryAB, CG32698, Thor) upon NUAK OE. (F) Western
+  blot confirming upregulation of CryAB protein after expression of either FOXO or
+  NUAK 548 in muscle tissue. Relative fold change is indicated below the ATP5α blot,
+  which was used as a loading control. (G) RT-PCR of mthl8 transcript is undetectable
+  in mef2>lacZ larvae, but is present in mef2>FOXO or mef2>NUAK 548 larvae. rp49 is
+  used as a control.
+article_title: Independent pathways control muscle tissue size and sarcomere remodeling.
+citation: David Brooks, et al. Dev Biol. ;490:1-12.
+year: '2023'
+
+doi: 10.1016/j.ydbio.2022.06.014
+journal_title: Developmental biology
+journal_nlm_ta: Dev Biol
+publisher_name: ''
+
+keywords:
+- NUAK
+- Drosophila
+- Muscle
+- Sarcomere
+- Insulin signaling
+
+---

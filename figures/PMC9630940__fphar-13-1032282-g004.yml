@@ -1,0 +1,32 @@
+---
+figid: PMC9630940__fphar-13-1032282-g004
+pmcid: PMC9630940
+image_filename: fphar-13-1032282-g004.jpg
+figure_link: /pmc/articles/PMC9630940/figure/F4/
+number: FIGURE 4
+figure_title: ''
+caption: Biological Function and Pathway Analysis. (A) GO enrichment analysis of target
+  genes. In the figure, terms enriched in the BP category are depicted in blue, terms
+  enriched in the CC category in green, and terms enriched in the MF category in yellow.
+  The p value’s cutoff value was set at 0.05. p value is used to rank terms within
+  a category. (B) KEGG enrichment analysis of target gene. (C) Distribution of Target
+  genes in the MAPK signaling pathway. The red box in the figure represents Target
+  genes.
+article_title: 'Deciphering the action mechanism of paeoniflorin in suppressing pancreatic
+  cancer: A network pharmacology study and experimental validation.'
+citation: Chunhao Cao, et al. Front Pharmacol. 2022;13:1032282.
+year: '2022'
+
+doi: 10.3389/fphar.2022.1032282
+journal_title: Frontiers in Pharmacology
+journal_nlm_ta: Front Pharmacol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- paeoniflorin
+- pancreatic cancer
+- network pharmacology
+- p38 MAPK signal pathway
+- WGCNA
+
+---

@@ -1,0 +1,37 @@
+---
+figid: PMC9619106__fpls-13-1030138-g004
+pmcid: PMC9619106
+image_filename: fpls-13-1030138-g004.jpg
+figure_link: /pmc/articles/PMC9619106/figure/f4/
+number: Figure 4
+figure_title: ''
+caption: Weighted gene co-expression network analysis (WGCNA) of salt stress-responsive
+  genes in the DM plantlets under salt stress. (A) Hierarchical cluster tree of the
+  common genes between different studies. The branches and color bands represent the
+  assigned modules; the tips of the branches represent genes. (B) The heat map shows
+  the Topological Overlap Matrix (TOM) value among the proteins of the network delimited
+  into modules by the dynamic method. Lower TOM is indicated by the yellow color and
+  higher TOM is indicated by the progressively red color. (C) The thermogram showed
+  the correlations between the modules and the contents of proline and malondialdehyde.
+  No significant correlations are displayed in white, positive correlations and negative
+  correlations are displayed in red and blue, respectively. PRO, proline; MDA, malondialdehyde
+  (the same below).
+article_title: Transcriptome analysis reveals the proline metabolic pathway and its
+  potential regulation TF-hub genes in salt-stressed potato.
+citation: Quankai Jing, et al. Front Plant Sci. 2022;13:1030138.
+year: '2022'
+
+doi: 10.3389/fpls.2022.1030138
+journal_title: Frontiers in Plant Science
+journal_nlm_ta: Front Plant Sci
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- potato
+- salt stress
+- proline
+- RNA-seq
+- WGCNA
+- transcription factor (TF)
+
+---

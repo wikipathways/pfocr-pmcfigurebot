@@ -1,0 +1,59 @@
+---
+figid: PMC9630141__41586_2022_5272_Fig1_HTML
+pmcid: PMC9630141
+image_filename: 41586_2022_5272_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC9630141/figure/Fig1/
+number: Fig. 1
+figure_title: TGFβR2 signalling in DPT+ universal fibroblasts drives LRRC15+ myofibroblast
+  differentiation
+caption: a, Schematic of the genetic (top) and experimental (bottom) approach for
+  the generation of DptIresCreERT2Tgfbr2fl/fl mice. s.c., subcutaneous. b–g, Data
+  are from subcutaneous KPR tumours 21 days after implantation in Dptwt/wtTgfbr2fl/fl
+  and Dptki/kiTgfbr2fl/fl mice. b, Representative flow cytometry plots showing the
+  frequency of PDPN+LRRC15+ cells. Cells were gated on PDPN+CD31– cells. c,d, Quantification
+  of the total number of PDPN+LRRC15+ cells (c) and PDPN+CD31– cells (d) normalized
+  by tumour weight (n = 12 mice). e, Uniform manifold approximation and projection
+  (UMAP) plot of 6,525 single fibroblasts coloured by cluster membership (left, n = 5
+  mice per group) and the relative average expression of indicated marker genes in
+  clusters (C0–C5) from the UMAP (right). f, UMAP as in e split by genotype. g, UMAP
+  as in e split by genotype and coloured by expression of Lrrc15. h–j, Data are from
+  orthotopic pancreatic KPR tumours 15 days after implantation in Dptwt/wtTgfbr2fl/fl
+  or Dptki/kiTgfbr2fl/fl mice h, Representative flow cytometry plots showing the frequency
+  of PDPN+LRRC15+ cells. Cells were gated on PDPN+CD31– cells. i,j, Quantification
+  of the total number of PDPN+LRRC15+ cells (i) and PDPN+CD31– cells (j) normalized
+  by tumour weight (n = 11 or 14 mice). k, Scheme of collection of the human samples.
+  NAT, normal adjacent tissue; BLAD, bladder urothelial carcinoma; GYN, gynaecologic
+  tumours; PDAC, pancreatic ductal adenocarcinoma; HNSC, head and neck squamous cell
+  carcinoma; SRC, sarcoma; KID, kidney cancer; HEP, liver hepatocellular carcinoma;
+  CRC, colorectal cancer; LUNG, lung cancer; MEL, melanoma; ADR, adrenal cancer; PNET,
+  pancreatic neuroendocrine tumour; GALL, gallbladder cancer. l, PCA of stromal cell
+  samples. Shapes indicate the sample origin; colours represent the cancer indication.
+  m, Gene loadings for PC1 from l. n, Distribution of samples from specified indications
+  across PC1 from l. o, Pearson’s correlation coefficient (PCC) between LRRC15 expression
+  and TGFβ pathway activity across samples (filled circles). Linear regression line
+  (dashed line). p, Forest plot depicting TGFβ CAF overall survival hazard ratios
+  (HRs) across specified TCGA indications. Data in c, d, i and j are the mean ± s.d.
+  Data in c, d, i and j are pooled from two or three independent experiments. For
+  n, whiskers represent the minimum and maximum, the box represents the interquartile
+  range, and the centre line represents the median. For p, the centre point shows
+  the HR, lines represent 95% confidence interval (CI). Statistics were calculated
+  using two-tailed, unpaired Student’s t-test (c,d,i,j) or Cox proportional hazards
+  regression model (p).
+article_title: LRRC15+ myofibroblasts dictate the stromal setpoint to suppress tumour
+  immunity.
+citation: Akshay T. Krishnamurty, et al. Nature. 2022;611(7934):148-154.
+year: '2022'
+
+doi: 10.1038/s41586-022-05272-1
+journal_title: Nature
+journal_nlm_ta: Nature
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Immunosurveillance
+- Translational immunology
+- Cancer immunotherapy
+- Cancer microenvironment
+- Tumour immunology
+
+---

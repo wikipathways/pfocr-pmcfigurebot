@@ -1,0 +1,40 @@
+---
+figid: PMC9695778__ijms-23-14001-g004
+pmcid: PMC9695778
+image_filename: ijms-23-14001-g004.jpg
+figure_link: /pmc/articles/PMC9695778/figure/ijms-23-14001-f004/
+number: Figure 4
+figure_title: ''
+caption: RNA seq analyses of gcAdarKO granulosa cells. (A) Volcano plot showing DEGs
+  with fold change ≥1.5, FDR ≤ 0.1, between WT versus gcAdarKO granulosa cells 46
+  h after eCG injection. Each dot represents a gene. Total there are only 55 upregulated
+  genes. (B) Volcano plot showing DEGs with fold change ≥1.5, FDRP ≤ 0.1, between
+  WT versus gcAdarKO granulosa cells 4h after hCG injection in eCG primed mice. Each
+  dot represents a gene. (C) Venn diagram comparing differentially expressed genes
+  (DEGs) between WT versus gcAdarKO GCs 46 h after eCG injection and 4 h after hCG
+  injection in eCG primed mice. (D) Venn diagram comparing DEGs 46 h after eCG versus
+  4 h after hCG injection in eCG primed mice in WT and gcAdarKO. (E–G) IPA analysis
+  revealed three major pathways related to ovarian physiology. (E) Inflammation pathway,
+  all genes were highly upregulated in gcAdarKO mice granulosa cells. * Denotes significant
+  upregulated genes (p < 0.05). (F) progesterone and (G) estradiol downstream signaling
+  pathways were identified and all of these genes were slightly downregulated.
+article_title: Granulosa Cell Specific Loss of Adar in Mice Delays Ovulation, Oocyte
+  Maturation and Leads to Infertility.
+citation: Rikki N. Nelson, et al. Int J Mol Sci. 2022 Nov;23(22):14001.
+year: '2022'
+
+doi: 10.3390/ijms232214001
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- granulosa cell
+- fertility
+- ovulation
+- ADAR RNA editing
+- post transcriptional regulation
+- periovulatory follicle
+- transcriptome
+
+---

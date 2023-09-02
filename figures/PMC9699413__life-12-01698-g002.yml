@@ -1,0 +1,39 @@
+---
+figid: PMC9699413__life-12-01698-g002
+pmcid: PMC9699413
+image_filename: life-12-01698-g002.jpg
+figure_link: /pmc/articles/PMC9699413/figure/life-12-01698-f002/
+number: Figure 2
+figure_title: ''
+caption: Blue light (BL) activates the NF-κB signaling pathway in ARPE-19 cells. (A)
+  In silico analysis of upstream transcription factors regulating the expression of
+  DEGs by A2E+BL in ARPE-19 cells. The length of the bars represents the combined
+  score from the Fisher exact test. The adjusted p-value represents the statistical
+  significance for specific terms. (B) The effect of A2E+BL on the expression of a
+  set of RELA target genes in ARPE-19 cells. (C) Validation of RNA-seq results by
+  RT-qPCR (reverse transcript-quantitative polymerase chain reaction) analysis showing
+  the mRNA levels of RELA target genes in ARPE-19 cells treated (+marked) with A2E,
+  BL, or A2E+BL vs. non-treated control. The mRNA levels were normalized to that of
+  18S rRNA. Each value represents mean ± SD (n = 3), *** p < 0.001. HMOX1, Heme Oxygenase
+  1; HSP90AA1, heat shock protein 90 alpha family class A member 1; DUSP5, dual specificity
+  phosphatase 5; INHBA, inhibin subunit beta A; CXCL8, C-X-C motif chemokine ligand
+  8; TRIB1, tribbles pseudokinase 1.
+article_title: Photooxidation of A2E by Blue Light Regulates Heme Oxygenase 1 Expression
+  via NF-κB and Lysine Methyltransferase 2A in ARPE-19 Cells.
+citation: Chae Young Shin, et al. Life (Basel). 2022 Nov;12(11):1698.
+year: '2022'
+
+doi: 10.3390/life12111698
+journal_title: Life
+journal_nlm_ta: Life (Basel)
+publisher_name: MDPI
+
+keywords:
+- retinal pigment epithelium
+- N-retinylidene-N-retinylethanolamine
+- blue light
+- NF-κB
+- heme oxygenase 1
+- lysine methyltransferase 2A
+
+---

@@ -1,0 +1,46 @@
+---
+figid: PMC9684461__41467_2022_34417_Fig3_HTML
+pmcid: PMC9684461
+image_filename: 41467_2022_34417_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC9684461/figure/Fig3/
+number: Fig. 3
+figure_title: Xrn1 Tail binds RNA
+caption: a Tail binds RNA. Cells expressing 6xHis-TEV cleavage site-Protein A (HTP)
+  tagged Tail, or control cells carrying no tag, were UV crosslinked. Tail-HTP-RNA
+  complex was affinity purified, the co-purified RNAs trimmed and labelled with 32P
+  and the protein-32P-RNA complexes were separated in denaturing PAGE. Upper panel,
+  autoradiogram (32P-RNA); bottom panel, Western blot using anti-His antibodies. b
+  Some mutations in Tail (indicated above each lane) affect its RNA binding capacity.
+  Affinity purification of the indicated Tail mutants, which had been crosslinked
+  to RNA, was performed as in A. The RNA and protein levels were quantified as described
+  in Methods. RNA levels were normalized to the protein level. WT is arbitrarily defined
+  as 1. Error bars represent standard deviation (S.D.) of 2 replicates. p-values were
+  determined by two-tailed unpaired t-test. c Tail provides a major RNA binding site
+  of Xrn1 which acts in conjunction with the R101 residue of the active site. FLAG-tagged
+  Xrn1, or it’s indicated mutant derivatives, were affinity purified (see Methods),
+  and subject to a gel-shift assay using 32P-5’-RNA (a mixture of 40, 32 and 28 b
+  long), in the presence of EDTA to inactivate the enzyme (see Methods). Increasing
+  amounts of purified proteins were used as indicated. Control lane represents experiment
+  in which the probe was reacted with elute from untagged cells. Quantification of
+  3 biologically independent experiments is shown at the bottom. Error bars represent
+  standard deviation (S.D.). The results of WT Xrn1 reacted with 400 µM was defined
+  arbitrarily as 1. Purified Xrn1 was run in parallel to verify equal amount of protein
+  loading. Shown is a Coomassie blue straining (middle panel). d RNA bound by Tail
+  is highly correlated to Xrn1 RNA interactome. Tail and Xrn1 were subject to a full
+  CRAC analysis. RPKM values of RNA binding to Tail and Xrn1 were scatter plotted.
+  Two independent biological replicates are shown. Pearson’s correlation (r) is indicated.
+article_title: RNA-controlled nucleocytoplasmic shuttling of mRNA decay factors regulates
+  mRNA synthesis and a novel mRNA decay pathway.
+citation: Shiladitya Chattopadhyay, et al. Nat Commun. 2022;13:7184.
+year: '2022'
+
+doi: 10.1038/s41467-022-34417-z
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Molecular biology
+- RNA decay
+
+---

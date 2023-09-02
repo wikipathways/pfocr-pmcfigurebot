@@ -1,0 +1,46 @@
+---
+figid: PMC9295755__pnas.2121406119fig03
+pmcid: PMC9295755
+image_filename: pnas.2121406119fig03.jpg
+figure_link: /pmc/articles/PMC9295755/figure/fig03/
+number: Fig. 3
+figure_title: ''
+caption: Loss of Orc6 leads to compromised ATR signaling pathway due to reduced ssDNA
+  generation. (A) Western blot analysis of the ATM/ATR pathway in control (Ctrl) and
+  Orc6 knockdown U2OS cells. Hyperphosphorylation of RPA32 is indicated by the asterisk.
+  (B) Western blot for Orc1, Orc2, and Orc6 knockdown cells. (C) Immunostaining of
+  chromatin-associated RPA and rH2AX in control and Orc6-depleted cells treated with
+  H2O2. Scale bar, 25 μm. Quantification of RPA signal is shown at bottom. Data are
+  reported as mean ± SD. ***P < 0.001 by Mann-Whitney test. (D) Schematic of the protocol
+  for specifically depleting Orc6 in S phase and collecting DNA damage samples (Upper).
+  Shield1 was removed 1 h before H2O2 treatment and cells were collected 1 h after
+  treatment. (Lower) Western blot for analyzing ATR activation. (E) Western blot of
+  G2 synchronized control and Orc6 knockout (KO) cells. Cyclin B1 as G2 marker. PI
+  flow profiles show the synchrony of the cells. (F) Native BrdU staining for visualizing
+  ssDNA (Right) and quantification results (Left). Scale bar, 25 μm. PI flow profiles
+  show the synchrony of the cells. A representative experiment (n = 3) is shown. Data
+  are reported as mean ± SD; n > 100 for each group. ***P < 0.001 by Mann-Whitney
+  test. (G) DNA fiber assay to determine nascent DNA resection or degradation after
+  fork stalling. A higher IdU to CldU ratio indicates less resection, hence less ssDNA
+  generation. A representative experiment (n = 2) is shown. Data are reported as mean
+  ± SD. ****P < 0.0001 by unpaired one-tailed Student t test. a.u., arbitrary unit;
+  R, removal of Shield1.
+article_title: Orc6 is a component of the replication fork and enables efficient mismatch
+  repair.
+citation: Yo-Chuen Lin, et al. Proc Natl Acad Sci U S A. 2022 May 31;119(22):e2121406119.
+year: '2022'
+
+doi: 10.1073/pnas.2121406119
+journal_title: Proceedings of the National Academy of Sciences of the United States
+  of America
+journal_nlm_ta: Proc Natl Acad Sci U S A
+publisher_name: National Academy of Sciences
+
+keywords:
+- ATR
+- DNA damage
+- mismatch repair
+- Orc6
+- replication
+
+---

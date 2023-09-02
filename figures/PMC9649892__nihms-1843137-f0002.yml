@@ -1,0 +1,42 @@
+---
+figid: PMC9649892__nihms-1843137-f0002
+pmcid: PMC9649892
+image_filename: nihms-1843137-f0002.jpg
+figure_link: /pmc/articles/PMC9649892/figure/F1/
+number: Figure 1
+figure_title: IL-4 priming followed by LPS activation induces a distinct cytokine
+  and chemokine expression profile in murine Macs
+caption: '(A) Dots plot visualization of RNA-seq fold changes of LPS-induced cytokines
+  and chemokines in IL-4-primed and non-polarized WT BMDMs (n = 3). Colors indicate
+  the sign of regulation in IL-4-primed BMDMs (edgeR; FDR < 10%).(B) Experimental
+  scheme for the gene expression experiments using various TLR ligands in IL-4-primed
+  and non-polarized WT BMDMs.(C) RT-qPCR measurements of the indicated cytokines and
+  chemokines from IL-4-primed and non-polarized WT BMDMs following various TLR ligand
+  activation (n = 4).(D) Western blot of NF-κB-p65 and IκB expression in IL-4-primed
+  and non-polarized WT and Stat6−/− BMDMs. One representative blot is shown from three
+  independent experiments. Total protein serves as a loading control.(E) Immunohistochemical
+  staining and analysis of the nuclear factor kappa B (NF-κB) pathway activation in
+  IL-4-primed and non-polarized WT and Stat6−/− BMDMs following LPS stimulation. The
+  nuclear localization of the NF-κB-p65 subunit was monitored by immunostaining. Green:
+  p65 staining; blue: cell nuclei. Scale bars: 20 μm.(F) The ratio of the fluorescence
+  intensity of the NF-κB immunostaining in cell nuclei and cytosol was analyzed (n
+  = 3 per genotype).(G) RT-qPCR measurements on the indicated cytokines and chemokines
+  from IL-4-primed and non-polarized WT BMDMs following LPS activation in the absence
+  and presence of BAY11–708 or Bot64 NF-κB pathway inhibitors (n = 4).WT bone marrow
+  cells were isolated from mice with C57BL/6 genetic background. BMDMs were pretreated
+  with IL-4 for 24 h (A and C–G) followed by LPS or other TLR ligand exposure for
+  1 h (D–F) or 3 h (A, C, and G).Bar graphs present the mean ± SD of the biological
+  replicates from two (C and G) or three (F) independent experiments. *p < 0.05, **p
+  < 0.01, and ***p < 0.001, ns, not significant change.See .'
+article_title: The epigenetic state of IL-4-polarized macrophages enables inflammatory
+  cistromic expansion and extended synergistic response to TLR ligands.
+citation: Zsolt Czimmerer, et al. Immunity. ;55(11):2006-2026.e6.
+year: '2023'
+
+doi: 10.1016/j.immuni.2022.10.004
+journal_title: Immunity
+journal_nlm_ta: Immunity
+publisher_name: ''
+
+keywords:
+---

@@ -1,0 +1,41 @@
+---
+figid: PMC9623419__fimmu-13-987394-g006
+pmcid: PMC9623419
+image_filename: fimmu-13-987394-g006.jpg
+figure_link: /pmc/articles/PMC9623419/figure/f6/
+number: Figure 6
+figure_title: ''
+caption: The analysis of EPSTI1 expression at the single cell level. (A, B) EPSTI1
+  expression levels in various cell types revealed by dimensional reduction plots
+  (left and middle panels) and dot plots (right panels). The results show that EPSTI1
+  is mainly expressed in immune cells, especially in macrophages and dendritic cells.
+  Epi, epithelial cells; Strom, stromal cells; B, B cells; Granulo, granulocytes;
+  Mast, mast cells; NK, natural killer cells; TCD4, CD4 positive T cells; TCD8, CD8
+  positive T cells; DC, dendritic cells; Macro, macrophages; Mono, monocytes; Plasma,
+  plasma cells. (C) The EPSTI1+ macrophage ratio and M1 macrophage ratio are significantly
+  correlated (R = 0.406, P = 0.021) (D, E) The module scores of gene signatures related
+  to M1/M2 polarization in EPSTI1+/- macrophages suggest that EPSTI1+ macrophages
+  have more M1 features. (F) Mean pathway activity scores of EPSTI1+/- macrophages.
+  The immune-related pathways appear to be more active in EPSTI1+ macrophages. (G)
+  Mean pathway activity scores of EPSTI1+/- DCs. Immune-related pathways are scored
+  higher in EPSTI1+ DCs. (H, I) Macrophages and DCs are significantly correlated (R
+  > 0.60, P < 0.001) in terms of EPSTI1 expression levels and the proportion of EPSTI1
+  positive cells.
+article_title: EPSTI1 as an immune biomarker predicts the prognosis of patients with
+  stage III colon cancer.
+citation: Xitao Wang, et al. Front Immunol. 2022;13:987394.
+year: '2022'
+
+doi: 10.3389/fimmu.2022.987394
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- colon cancer
+- immune infiltration
+- single-cell sequencing
+- EPSTI1
+- prognostic marker
+
+---

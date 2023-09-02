@@ -1,0 +1,45 @@
+---
+figid: PMC9654020__cancers-14-05340-g001
+pmcid: PMC9654020
+image_filename: cancers-14-05340-g001.jpg
+figure_link: /pmc/articles/PMC9654020/figure/cancers-14-05340-f001/
+number: Figure 1
+figure_title: ''
+caption: Classical signaling pathways of the unfolded protein response, and Ca2+ leakage
+  under ERS (endoplasmic reticulum stress). Various adverse factors cause ERS within
+  tumor cells, such as chemocytotoxicity, nutrition deprivation, production of ROS
+  (reactive oxygen species), etc. Increasing ERS leads to ERAD (ER-associated degradation)
+  and arousal of the ERSR. The UPR is the main part of the ERSR. When unfolded or
+  misfolded proteins aggregate in the ER lumen, Grp78/BiP dissociates from sensor
+  proteins ATF6, IRE1, and PERK on the ER membrane, triggering a downstream signaling
+  cascade. Activated ATF6 migrates to the Golgi apparatus, and is cleaved to transform
+  into a transcriptional factor, which regulates the transcription of UPR genes including
+  XBP1. Activated PERK is able to phosphorylate eIF2α and mobilize ATF4 to promote
+  cellular adaptation. Functional transcriptional factors that are mobilized in the
+  UPR will translocate to the nucleus, and exert multiple biological effects that
+  promote protein synthesis attenuation, ER chaperones expression, cell cycle arrest,
+  inflammation, autophagy, or apoptosis. Apart from activating XBP1 and the subsequent
+  expression of CHOP, IRE1 is also able to promote pro-inflammatory JNK activation
+  through activating TRAF2, which may impact cell fate by regulating BCL-2 family
+  proteins or caspase-12 (or caspase-4 in human cells). Under ERS, another important
+  alteration that impacts cell fate is Ca2+ leakage from the ER. Ca2+ leaked from
+  the ER may induce apoptosis by activating the mitochondria pathway or caspase-12
+  (or caspase-4) on the ER membrane, or promote autophagy by activating DAPK1 or by
+  inhibiting mTOR through the CAMKK2-AMPK pathway.
+article_title: 'Looking into Endoplasmic Reticulum Stress: The Key to Drug-Resistance
+  of Multiple Myeloma?.'
+citation: Guangqi Wang, et al. Cancers (Basel). 2022 Nov;14(21):5340.
+year: '2022'
+
+doi: 10.3390/cancers14215340
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- endoplasmic reticulum stress
+- unfolded protein response
+- drug resistance
+- multiple myeloma
+
+---

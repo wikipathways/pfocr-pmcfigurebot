@@ -1,0 +1,60 @@
+---
+figid: PMC8578144__nihms-1702208-f0001
+pmcid: PMC8578144
+image_filename: nihms-1702208-f0001.jpg
+figure_link: /pmc/articles/PMC8578144/figure/F1/
+number: Figure 1
+figure_title: ''
+caption: Primary pathways of phage replication (top) and transduction (bottom). (A)
+  The lytic and lysogenic pathways of phage replication are shown. The first step
+  in both pathways involves the attachment of phage receptor binding proteins to specific
+  receptor(s) on the host cell surface and subsequent ejection of phage DNA (cyan).
+  Obligately lytic/virulent phages are obliged to follow the lytic life cycle, in
+  which phage DNA and proteins are replicated and synthesized, respectively (rolling-circle
+  DNA replication is shown as an example). The DNA is packaged, phage particles are
+  assembled, and the host cell is finally lysed to allow for phage escape. Lysogenic/temperate
+  phages have the capacity to choose whether to enter into the lytic cycle or lysogenic
+  cycle following DNA ejection. During the lysogenic cycle, the phage genome is integrated
+  into the host chromosome (magenta), at which point the phage becomes a prophage,
+  and the cell becomes a lysogen. The prophage genome is then replicated passively
+  along with the host genome, until a stressor or other environmental signal triggers
+  phage entry into the lytic cycle, a process known as induction. Inset shows the
+  morphologies of the most commonly-encountered phages--myovirus (left), podovirus
+  (center), and siphovirus (right). (B) The three major pathways of transduction are
+  shown using a lysogenic staphylococcal phage as an example. Following prophage induction,
+  the phage packaging (pac) site (black triangle) serves as a primary recognition
+  sequence for the phage packaging machinery and enables the high-frequency production
+  of infective lytic particles containing phage genomes (cyan). During generalized
+  transduction (left), the occasional packaging of host-derived DNA bearing pac site
+  homologs (pseudo-pac sites, green triangles) results in the infrequent production
+  of transducing particles containing host-derived DNA (magenta). During specialized
+  transduction (middle pathway), imprecise excision of the prophage genome leads to
+  packaging of a DNA hybrid containing the phage genome along with host genes adjacent
+  to the phage integration site. Lateral transduction (right) occurs in specific staphylococcal
+  prophages in which DNA replication begins prior to excision—this process results
+  in the high frequency packaging of both phage DNA and host DNA encoded hundreds
+  of kilobases from the prophage integration site. (C) The pathway for SaPI (Staphylococcus
+  aureus Pathogenicity Island) transduction is shown. Upon induction of the helper
+  prophage (cyan), both prophage and SaPI (green) excise and replicate. A SaPI-specific
+  packaging site (orange triangle) directs the high frequency packaging of SaPI DNA
+  into transducing particles composed of phage structural proteins. Some SaPIs encode
+  proteins that alter the capsid architecture, resulting in the production of transducing
+  particles with unusually small capsids.
+article_title: 'The phages of staphylococci: Critical catalysts in health and disease.'
+citation: Asma Hatoum-Aslan. Trends Microbiol. ;29(12):1117-1129.
+year: '2023'
+
+doi: 10.1016/j.tim.2021.04.008
+journal_title: Trends in microbiology
+journal_nlm_ta: Trends Microbiol
+publisher_name: ''
+
+keywords:
+- Staphylococcus
+- phage
+- pathogenesis
+- transduction
+- SaPI
+- phage therapy
+
+---

@@ -1,0 +1,31 @@
+---
+figid: PMC9689937__genes-13-01974-g003
+pmcid: PMC9689937
+image_filename: genes-13-01974-g003.jpg
+figure_link: /pmc/articles/PMC9689937/figure/genes-13-01974-f003/
+number: Figure 3
+figure_title: ''
+caption: GO and KEGG functional enrichment analysis of source genes of DE-circRNAs.
+  (A) The y-axis is the GO term at the next level of the three GO categories, and
+  the x-axis is the number of source genes annotated for that term. (B) The y-axis
+  indicates the pathway name, the x-axis indicates the p-value, the size of the dots
+  indicates the number of source genes in the pathway, and the color of the dots corresponds
+  to the different −log10 (q-value) ranges.
+article_title: CircRNAs Related to Breast Muscle Development and Their Interaction
+  Regulatory Network in Gushi Chicken.
+citation: Pengtao Yuan, et al. Genes (Basel). 2022 Nov;13(11):1974.
+year: '2022'
+
+doi: 10.3390/genes13111974
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: MDPI
+
+keywords:
+- circular RNAs
+- Gushi chickens
+- skeletal muscle
+- regulatory network
+- ceRNA
+
+---

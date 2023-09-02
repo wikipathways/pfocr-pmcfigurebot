@@ -1,0 +1,51 @@
+---
+figid: PMC9708828__41467_2022_35161_Fig6_HTML
+pmcid: PMC9708828
+image_filename: 41467_2022_35161_Fig6_HTML.jpg
+figure_link: /pmc/articles/PMC9708828/figure/Fig6/
+number: Fig. 6
+figure_title: OCAR platform possesses an intrinsic off-switch control, and ABA-regulated
+  OCAR can be used to increase synNotch activity during cell-cell communication
+caption: 'a Left: SEAP levels in the supernatants of HEK-293 cells transfected pPW116C29S,C102S,
+  pPW86WT, and reporter plasmid pTS1017. Following the transfection, cells were treated
+  with different concentrations of γ-secretase inhibitor LY411575 along with ABA (100 µM)
+  or DMSO for 24 h. Right: alamarBlue cell viability assay of the previous samples.
+  Data are presented as mean ± SD of n = 4 biologically independent samples. b, c
+  The same experiment as shown in (a) for OCARs regulated by RAPA (b) and GA (c).
+  For analysis of the RAPA-regulated OCAR, the cells were transfected with pPW112C22S.
+  For analysis of the GA-regulated OCAR pPW124C155S, C157S, C362S was transfected.
+  Data are presented as mean ± SD of n = 4 biologically independent samples. d SEAP
+  levels in the supernatants of cells transfected with the indicated plasmids. Data
+  are presented as mean ± SD of n = 4 biologically independent samples. ***P < 0.0001
+  was calculated using two-tailed, unpaired Student’s t-test. e SEAP levels in the
+  supernatants of co-cultured cells. Receiver cells were transfected either with pMMH209,
+  pMMH212, and pPW116C29S,C102S, combination or with anti-CD19-synNotch-TetR-VP64.
+  The transfected receiver cells were co-cultured with sender cells that overexpress
+  CD19 or sender cells that were transfected with pcDNA3.1(+), in presence/absence
+  ABA. Data are presented as mean ± SD of n = 4 biologically independent samples.
+  ***P < 0.0001 was calculated using two-tailed, unpaired Student’s t-test. f Immunoblotting
+  against FLAG and β-actin of cells separately transfected with pMMH234 (PhPGK-SS-ABI-Notch1core-TetR-VP64-2xFLAG-pAbGH),
+  pMMH233 (PhPGK-SS-ABIC29S,C102S-Notch1core-TetR-VP64-2xFLAG-pAbGH), pMMH230 (PhPGK-SS-FKBP-Notch1core-TetR-VP64-2xFLAG-pAbGH),
+  pMMH231(PhPGK-SS-FKBPC22S-Notch1core-TetR-VP64-2xFLAG-pAbGH), pMMH232(PhPGK-SS-GID1-Notch1core-TetR-VP64-2xFLAG-pAbGH),
+  and pMMH235 (PhPGK-SS-GID1C155S,C157S,C362S-Notch1core-TetR-VP64-2xFLAG-pAbGH) followed
+  by cycloheximide chase (see Methods). g Immunoblotting against FLAG and β-actin
+  of cells separately transfected with the same plasmids as above. For each sample,
+  the cleared lysate was divided equally into two parts and sample buffer with or
+  without DTT was added. h Immunoblotting against FLAG following AMS shift assay of
+  cells transfected with the same plasmids as above (see Methods). Source data are
+  provided as a  file.'
+article_title: Engineering receptors in the secretory pathway for orthogonal signalling
+  control.
+citation: Mohamed Mahameed, et al. Nat Commun. 2022;13:7350.
+year: '2022'
+
+doi: 10.1038/s41467-022-35161-0
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Synthetic biology
+- Genetic engineering
+
+---

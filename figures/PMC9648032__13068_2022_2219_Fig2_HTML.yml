@@ -1,0 +1,41 @@
+---
+figid: PMC9648032__13068_2022_2219_Fig2_HTML
+pmcid: PMC9648032
+image_filename: 13068_2022_2219_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC9648032/figure/Fig2/
+number: Fig. 2
+figure_title: ''
+caption: 'Functional analysis of major mutations found in the evolved strains. a RNA-seq
+  transcriptome analysis illustrated the expression level of genes involved in glucose
+  uptake system, glycolytic pathway, TCA cycle and transcriptional regulons including
+  gntR and galR, crp regulons and sugar phosphate stress. Expression change (log2
+  fold change) of pfkA and gnd genes was unable to be calculated due to loss of expression
+  and it was marked with an asterisk (*). Unexpected expression level of the pfkB
+  gene of ALE-1 was affected by a remained coding sequence of pfkB (Additional file
+  : Figure S8). b Functional validation experiments identified effective target genes
+  among mutated genes from ALE-1: lacking the Gnd function, and loss of function for
+  GntR and de-repression of its target genes, edd and eda. Error bars indicate standard
+  deviations of growth measurements for three independent biological replicates. c
+  Combined fluorescence histograms of MG1655, ALE-1, MG1655 Δpgi ΔgntR strains carrying
+  pHexR-GFP. d The schematic diagram illustrates altered glucose metabolism in ALE-1
+  through the EDP, via enzymes encoded by edd and eda. Transcriptional repression
+  by GntR is indicated with red marks'
+article_title: Characterization of an Entner–Doudoroff pathway-activated Escherichia
+  coli.
+citation: Ye Eun Kim, et al. Biotechnol Biofuels Bioprod. 2022;15:120.
+year: '2022'
+
+doi: 10.1186/s13068-022-02219-6
+journal_title: Biotechnology for Biofuels and Bioproducts
+journal_nlm_ta: Biotechnol Biofuels Bioprod
+publisher_name: BioMed Central
+
+keywords:
+- Escherichia coli
+- Glucose metabolism
+- Entner–Doudoroff pathway
+- Adaptive laboratory evolution
+- Phosphofructokinase
+- 3-Hydroxypropionic acid
+
+---

@@ -1,0 +1,44 @@
+---
+figid: PMC9684461__41467_2022_34417_Fig2_HTML
+pmcid: PMC9684461
+image_filename: 41467_2022_34417_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC9684461/figure/Fig2/
+number: Fig. 2
+figure_title: Some mutant Tail-GFP molecules are localized constitutively in the nucleus
+caption: Tail (amino acid 351 until 521 of the XRN1 sequence) was fused to GFP and
+  was expressed under ADH1 promoter and terminator. Nup49-RFP (a nucleoporin) was
+  used as a nuclear marker. a During optimal proliferation, Tail is mainly cytoplasmic.
+  b Tail-GFP shuttles between cytoplasm and nucleus. Tail-GFP localization was examined
+  by the import assay, as in Fig. . Photos were taken after 2 h at 37 °C. c-e Mutant
+  Tail-GFP molecules that are constitutively localized to the nucleus. The Tail sequence
+  of Tail-GFP was randomly mutagenized by PCR mutagenesis protocol and introduced
+  into WT strain by transformation. Distinct colonies were allowed to proliferate
+  in 96 wells. The cellular localization of the mutants was automatically scanned
+  by fluorescence microscopy using a robot. Shown are some of the mutants that were
+  localized to the nucleus in optimally proliferating cells. See Fig. S for positions
+  of the mutations. f TailS454Pnuclear import is mediated by NLS1. NLS1 of TailS454P
+  was mutagenized (resulting in TailS454P, ΔNLS1), and the mutant was analysed as
+  in c. g Localization of mutant Tail-GFP in temperature-sensitive (ts) nuclear-import
+  mutant. A shuttling assay, using cells that express nup49-313 and co-expressed xrn1S454P
+  and RPB7-RFP (as a positive control), was performed as described previously. h Quantification
+  of the shuttling assay. The nuclear/whole-cell ratio of the mean fluorescence intensity
+  was determined by ImageJ, as described in Methods. Each box represents the 25th
+  to 75th percentile of values, with the median noted by the horizontal bar. Whiskers
+  terminate at maxima/minima or a distance of 1.5 times the IQR away from the upper/lower
+  quartile, whichever is closer. n = >100 cells examined over 3 independent experiments.
+  P-value was calculated by Wilcoxon rank sum test. ** - p < 0.01. ns – not significant.
+article_title: RNA-controlled nucleocytoplasmic shuttling of mRNA decay factors regulates
+  mRNA synthesis and a novel mRNA decay pathway.
+citation: Shiladitya Chattopadhyay, et al. Nat Commun. 2022;13:7184.
+year: '2022'
+
+doi: 10.1038/s41467-022-34417-z
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Molecular biology
+- RNA decay
+
+---

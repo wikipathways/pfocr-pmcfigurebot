@@ -1,0 +1,31 @@
+---
+figid: PMC9618823__fgene-13-1026487-g001
+pmcid: PMC9618823
+image_filename: fgene-13-1026487-g001.jpg
+figure_link: /pmc/articles/PMC9618823/figure/F1/
+number: FIGURE 1
+figure_title: ''
+caption: Workflow Overview. Our methodology starts with time course experimental data,
+  followed by network construction, differential network determination, community
+  detection, sequential ordering by activation pattern, pathway analyses of individual
+  communities, community hub gene interpretation, and final results including analyses
+  and temporal trend visualizations.
+article_title: Applying differential network analysis to longitudinal gene expression
+  in response to perturbations.
+citation: Shuyue Xue, et al. Front Genet. 2022;13:1026487.
+year: '2022'
+
+doi: 10.3389/fgene.2022.1026487
+journal_title: Frontiers in Genetics
+journal_nlm_ta: Front Genet
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- transcriptomics
+- RNA-seq
+- co-expression networks
+- gene expression
+- B cells
+- saliva
+
+---

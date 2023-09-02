@@ -1,0 +1,36 @@
+---
+figid: PMC9648056__12964_2022_991_Fig3_HTML
+pmcid: PMC9648056
+image_filename: 12964_2022_991_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC9648056/figure/Fig3/
+number: Fig. 3
+figure_title: ''
+caption: Cancer-associated fibroblasts (CAFs) share common outgoing communication
+  patterns for the PI3K-AKT signaling pathway and focal adhesion in malignant effusions
+  from ovarian cancer patients. Outgoing patterns for signaling A, cell B, and communication
+  C of multiple cell types in malignant abdominal fluids of ovarian cancer patients
+  obtained with CellChat [] from scRNA-seq data []. The asterisks in C indicate pathways
+  not associated with CAFs and epithelial cells communication (pattern 1, cluster
+  2). This communication pattern 1 (cluster 2) was used to identify pathways for gene
+  sets of CAFs ligands D and epithelial cell receptors E for these ligands. In both
+  D and E, the focal adhesion and PI3K-AKT-mTOR are among the top altered pathways.
+  The top 10 pathway terms (lowest adjusted P-value) were selected from WikiPathways
+  2021 and MSigDB Hallmark 2020 libraries available in EnrichR [, ]
+article_title: Single-cell and bulk RNA sequencing reveal ligands and receptors associated
+  with worse overall survival in serous ovarian cancer.
+citation: Robson Francisco Carvalho, et al. Cell Commun Signal. 2022;20:176.
+year: '2022'
+
+doi: 10.1186/s12964-022-00991-4
+journal_title: 'Cell Communication and Signaling : CCS'
+journal_nlm_ta: Cell Commun Signal
+publisher_name: BioMed Central
+
+keywords:
+- Cancer-associated fibroblasts
+- Organoids
+- Serous ovarian cancer
+- Single-cell RNA-sequencing
+- Cell–cell communication
+
+---

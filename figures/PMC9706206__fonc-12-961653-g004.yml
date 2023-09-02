@@ -1,0 +1,33 @@
+---
+figid: PMC9706206__fonc-12-961653-g004
+pmcid: PMC9706206
+image_filename: fonc-12-961653-g004.jpg
+figure_link: /pmc/articles/PMC9706206/figure/f4/
+number: Figure 4
+figure_title: ''
+caption: Gene ontology and KEGG pathway enrichment analysis of identified YYFZBJS-CRC
+  common targets. (A) Biological processes. (B) Cellular components. (C) Molecular
+  functions. (D) KEGG pathway enrichment analysis of key targets. The color scale
+  indicates the p value, and the dot size indicates the gene count in each term. (E)
+  Schematic of the PI3K/Akt signaling pathway. (F) Gene–pathway network of YYFZBJS
+  against CRC. Sky blue squares represent target genes. Red V shapes represent pathways.
+  Big size of the dot represents higher betweenness centrality.
+article_title: Integrated network pharmacology and experimental verification to investigate
+  the mechanisms of YYFZBJS against colorectal cancer via CDK1/PI3K/Akt signaling.
+citation: Jinxiao Li, et al. Front Oncol. 2022;12:961653.
+year: '2022'
+
+doi: 10.3389/fonc.2022.961653
+journal_title: Frontiers in Oncology
+journal_nlm_ta: Front Oncol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- YYFZBJS
+- colorectal cancer
+- network pharmacology
+- PI3K/Akt pathway
+- apoptosis
+- cell cycle
+
+---

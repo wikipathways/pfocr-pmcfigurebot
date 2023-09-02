@@ -1,0 +1,62 @@
+---
+figid: PMC9661723__gr2
+pmcid: PMC9661723
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC9661723/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: 'NMD can occur in an EJC-dependent or EJC-independent manner. mRNA is shown
+  in gray. The introduction of premature termination codon in coding sequence (thicker
+  line) results in an “extended 3'' UTR” that also includes the normal 3′ UTR (thinner
+  line). The ribosome is shown in blue, and other important proteins are labeled.
+  Recognition of NMD-inducing translation termination codon occurs through one of
+  two general pathways: the EJC-independent (A) or EJC-dependent (B) pathway. A, the
+  EJC-independent pathway begins when UPF1, the core NMD factor, is bound downstream
+  of the terminating ribosome at abnormally high levels. After interaction between
+  UPF1 and the termination complex, other NMD factors are recruited to assemble the
+  “SURF” complex, which includes UPF1 phosphorylation factors SMG1 (the kinase) and
+  its regulatory SMG8/9 heterodimer. This complex may include or subsequently recruit
+  DHX34, an RNA helicase that may aid in interaction of UPF1 with its activators UPF2
+  and UPF3B (or its paralog UPF3A). Formation of the SURF complex leads to UPF1 phosphorylation
+  (represented by yellow triangles labeled “P”) by SMG1. B, the EJC-dependent NMD
+  requires the presence of an EJC downstream of the terminating ribosome that enhances
+  NMD by recruiting UPF2 and UPF3B (or UPF3A) to mRNA. Following assembly of the SURF
+  complex at the terminating ribosome and UPF1 interaction with its activators UPF2
+  and UPF3B (or UPF3A), which can be aided by DHX34, UPF1 gets phosphorylated by SMG1.
+  C, after initial phosphorylation, UPF1 is phosphorylated more extensively. It is
+  unknown how long the ribosome and release factors remain associated with the phosphorylated
+  UPF1 (indicated by faded shapes). The extensive phosphorylation of UPF1 leads to
+  the recruitment of SMG6 and SMG5/7 heterodimer, which initiate mRNA degradation
+  via multiple mechanisms including SMG6-catalyzed mRNA endonucleolytic cleavage close
+  to termination codons. EJC, exon junction complex; NMD, nonsense-mediated mRNA decay.'
+article_title: Features and factors that dictate if terminating ribosomes cause or
+  counteract nonsense-mediated mRNA decay.
+citation: Caleb M. Embree, et al. J Biol Chem. 2022 Nov;298(11):102592.
+year: '2022'
+
+doi: 10.1016/j.jbc.2022.102592
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- translation
+- ribosome
+- translation termination
+- nonsense mutations
+- nonsense-meditated mRNA decay
+- AS, alternative pre-mRNA splicing
+- eIF, eukaryotic translation initiation factor
+- EJC, exon junction complex
+- IP6, inositol hexakisphosphate
+- HTLV-1, human-T-cell leukemia virus type-1
+- NMD, nonsense-mediated mRNA decay
+- NTC, normal termination codon
+- PABP, poly(A)-binding protein
+- poly(A), polyadenylate
+- PRF, programmed ribosome frameshifting
+- PTC, premature termination codon
+- SR, serine–arginine
+- uORF, upstream ORF
+
+---

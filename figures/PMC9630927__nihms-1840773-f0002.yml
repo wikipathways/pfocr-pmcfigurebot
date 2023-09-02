@@ -1,0 +1,42 @@
+---
+figid: PMC9630927__nihms-1840773-f0002
+pmcid: PMC9630927
+image_filename: nihms-1840773-f0002.jpg
+figure_link: /pmc/articles/PMC9630927/figure/F1/
+number: Figure 1
+figure_title: Caspase-8 suppresses spontaneous type I interferon signaling
+caption: '(A) Gene expression profiling from microarray analysis of untreated Casp8−/−Ripk3−/−
+  and Ripk3−/− bone marrow-derived macrophages (BMDMs). The top up- and downregulated
+  REACTOME pathways identified by gene set enrichment analysis (GSEA) are shown.(B)
+  Enrichment plot of the interferon alpha beta signaling pathway from analysis of
+  publicly available colon tissue RNA-seq data from Vil1-cre × Casp8fl/fl and Casp8fl/fl
+  mice (GEO: GSE137281).(C) Immunoblots of phosphorylated STAT1 (pSTAT1) and total
+  STAT1 (tSTAT1) from untreated BMDMs from indicated genotypes.(D) IFNβ concentration
+  in the overnight culture supernatant from untreated BMDMs.(E) Immunoblots of pSTAT1
+  and tSTAT1 from untreated or anti-IFNAR1 antibody-treated (10 μg/mL for 12 h) BMDMs.(F
+  and G) BMDMs were untreated or primed with IFNβ (100 ng/mL) for 1 h, then infected
+  with murine norovirus (MNV-1; multiplicity of infection [MOI] = 10) in vitro.(F)
+  Real-time cell death monitored by Sytox Green staining and quantification.(G) Representative
+  images of cell death from indicated genotypes at 20 h post-infection (hpi). Scale
+  bar: 50 μm. Red mask denotes dead Sytox Green-positive cells.(H) Immunoblots of
+  the MNV-1 antigen (MNV cp) in BMDMs of indicated genotypes at indicated hpi (MOI
+  = 10).(I and J) BMDMs were infected with MNV-1 (MOI = 10) in vitro.(I) Real-time
+  cell death monitored by Sytox Green staining and quantification.(J) Representative
+  images of cell death from indicated genotypes at 20 hpi. Scale bar: 50 μm.Mean +
+  SEM shown (D, F, and I). (D) ***p < 0.001 (one-way ANOVA); (F and I) ****p < 0.0001
+  (two-way ANOVA). β-Actin was used as a loading control. Data are representative
+  of at least three independent experiments (C–J). Molecular weight markers are indicated
+  on the right side of blots. NES, normalized enrichment score; FDR, false discovery
+  rate.'
+article_title: Molecular mechanism of RIPK1 and caspase-8 in homeostatic type I interferon
+  production and regulation.
+citation: Yaqiu Wang, et al. Cell Rep. ;41(1):111434-111434.
+year: '2023'
+
+doi: 10.1016/j.celrep.2022.111434
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: ''
+
+keywords:
+---

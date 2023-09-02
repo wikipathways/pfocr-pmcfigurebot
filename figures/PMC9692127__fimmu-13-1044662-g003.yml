@@ -1,0 +1,48 @@
+---
+figid: PMC9692127__fimmu-13-1044662-g003
+pmcid: PMC9692127
+image_filename: fimmu-13-1044662-g003.jpg
+figure_link: /pmc/articles/PMC9692127/figure/f3/
+number: Figure 3
+figure_title: ''
+caption: MPLA-induced transcription is blunted in TRIF-KO and MyD88-KO macrophages.
+  (A) Bone marrow-derived macrophages (BMDMs) were cultured from WT, MyD88-KO (MKO)
+  and TRIF-KO (TKO) mice. BMDMs were treated with MPLA (1 μg/mL) or left unstimulated
+  (US) as controls. After 24h incubation, media was changed and cells were rested
+  for 3 days before harvesting RNA for RNAseq analysis. (B) Differential gene expression
+  analysis of unstimulated control or MPLA-treated WT, MKO, and TKO BMDMs as shown
+  by heatmap of all samples represented by columns (n=3/group) and rows corresponding
+  to different genes. (C) Principal component analysis of MPLA-treated (_M) or unstimulated
+  (_US) WT, MKO, and TKO BMDMs was conducted. (D) The number of MPLA-induced differentially
+  expressed genes (DEGs) compared to genotype unstimulated controls (above dotted
+  line) or compared to MPLA-treated WT cells (below dotted line) were quantified.
+  (E, F) Down-regulated (green) and up-regulated (red) DEGs were visualized by volcano
+  plots for MPLA-treated MKO cells (E) or MPLA-treated TKO cells (F) compared to MPLA-treated
+  WT cells. (G-J) Gene ontology (GO) functional enrichment analysis was conducted
+  for the 10 most downregulated pathways in the cellular component and molecular function
+  classes in MPLA-treated MKO compared to MPLA-treated WT macrophages (G, H), or compared
+  to MPLA-treated TKO macrophages (I, J). The number of genes differentially regulated
+  in each respective pathway (i.e. “count”) are indicated by dot size and degree of
+  significance (padj) by intensity of color. n=3 biological replicates/group. Log2foldchange
+  >1 and adjusted p value < 0.05 were considered differentially expressed.
+article_title: MyD88-dependent signaling drives toll-like receptor-induced trained
+  immunity in macrophages.
+citation: Allison M. Owen, et al. Front Immunol. 2022;13:1044662.
+year: '2022'
+
+doi: 10.3389/fimmu.2022.1044662
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- toll-like receptor (TLR)
+- TLR4
+- innate immunity
+- trained immunity
+- macrophage
+- metabolic reprogramming
+- MyD88
+- innate immune memory
+
+---

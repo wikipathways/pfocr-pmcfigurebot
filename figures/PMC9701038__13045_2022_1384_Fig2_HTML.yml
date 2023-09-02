@@ -1,0 +1,64 @@
+---
+figid: PMC9701038__13045_2022_1384_Fig2_HTML
+pmcid: PMC9701038
+image_filename: 13045_2022_1384_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC9701038/figure/Fig2/
+number: Fig. 2
+figure_title: ''
+caption: The Impacts of Somatic Copy Number Alterations in PDAC Cohort. A Significant
+  arm-level focal peaks detected using GISTIC. B Focal-level SCNA events. Focal peaks
+  with significant copy-number gains (red) and losses (blue) (GISTIC2 FDR < 0.05)
+  are shown. The focal peaks are highlighted in approximate positions across the genome.
+  C Venn diagram depicting the process of screening for TFs with cis-effect between
+  CNA and protein. D The heatmap showing the cis-effect of IRF6 among CNA, RNA, protein,
+  and phosphosite (Spearman’s correlation). The P value of correlation is noted on
+  the left. E Kaplan–Meier curves for overall survival based on mRNA abundance of
+  IRF6 (left), and TF activity of IRF6 (right) in Fudan cohort (log-rank test). F
+  Kaplan–Meier curves for overall survival based on mRNA abundance of IRF6 in TCGA-PAAD
+  dataset (log-rank test). G Spearman-rank correlation of the abundance of IRF6 and
+  its target genes (Spearman’s correlation). The significant correlations are colored
+  in dark gray. Cell cycle and cell proliferation-associated proteins are labeled
+  in pink, and prognostic related proteins are labeled with purple circles. H The
+  scatter plot describing the Spearman’s correlation between IRF6 protein expression
+  and GSVA score of cell proliferation. I Kaplan–Meier curves for overall survival
+  based on GSVA scores of cell proliferation (log-rank test). J, K The scatter plot
+  describing the Spearman’s correlation between MCM4 protein expression and MGPS score
+  (J) or tumor size (K). L The systematic diagram summarizing the impact of the cis-effect
+  of GRB7 amplification on increasing tumor size. M The boxplot revealing the comparison
+  of GSVA score of cell proliferation between the younger patients (≤ 60) and the
+  older patients (> 60) (Student’s t test). N The forest plot indicating the hazard
+  ratio of KRAS, TP53, SMAD4, and CDKN2A, in younger patients (left) and older patients
+  (right). O The pathway heatmap indicating the enriched pathways in the four groups
+  (TP53 mut, younger patients; WT, younger patients; TP53 mut, older patients; WT,
+  older patients). Each column represents a type of sample. The color of each cell
+  shows -log10 transformed P value. P Venn diagram depicting the process of screening
+  for highly expressed kinase in younger patients with TP53 mutations. Q The boxplot
+  revealing the comparison of CDK4 protein expression between TP53 mutations and WT
+  both in the younger patients (≤ 60) and the older patients (> 60) (Wilcoxon test).
+  R Kaplan–Meier curves for overall survival based on CDK4 abundance in the younger
+  patients (left) or the older patients (right) (log-rank test). S The heatmap showing
+  cell cycle-associated phosphosites which are positively correlated with CDK4. T
+  The systematic diagram summarizing the impact of TP53 mutations on promoting cell
+  cycle. ****p < 1.0E−4, ***p < 1.0E−3, **p < 1.0E−2, *p < 0.05, ns > 0.05
+article_title: Proteogenomic insights into the biology and treatment of pancreatic
+  ductal adenocarcinoma.
+citation: Yexin Tong, et al. J Hematol Oncol. 2022;15:168.
+year: '2022'
+
+doi: 10.1186/s13045-022-01384-3
+journal_title: Journal of Hematology & Oncology
+journal_nlm_ta: J Hematol Oncol
+publisher_name: BioMed Central
+
+keywords:
+- Pancreatic ductal adenocarcinoma
+- Proteomics
+- Phosphoproteomics
+- Genome
+- RNA-seq
+- Proteomic subtype
+- Immune subgroup
+- Diabetes
+- Metastasis
+
+---

@@ -1,0 +1,36 @@
+---
+figid: PMC9649669__41419_2022_5392_Fig3_HTML
+pmcid: PMC9649669
+image_filename: 41419_2022_5392_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC9649669/figure/Fig3/
+number: Fig. 3
+figure_title: SR9009 inhibited PCS1 by downregulating FOXM1 expression
+caption: 'A Heatmap of genes in the FOXM1 pathway after SR9009 or DMSO administration.
+  B GSEA of the FOXM1 pathway after SR9009 or DMSO administration. C Expression of
+  FOXM1 between normal and tumor samples in TCGA-PRAD using the GEPIA database. D
+  Association of FOXM1 expression and disease-free survival using the GEPIA database.
+  E Relative expression of PC3 and 22rv1 compared with RWPE-1-cell lines. F, G qPCR
+  validation of the knockdown of FOXM1 in PC3 and 22RV1 cell lines; n = 3; means ± SDs;
+  ANOVA. H Western blot validation of the knockdown of FOXM1 in PC3 and 22RV1 cell
+  lines. I, J Flow cytometry of cell cycle analysis of siFOXM1 in PC3 and 22RV1 cells
+  after 48 h of transfection; n = 3; means ± SDs; ANOVA. K: CCK-8 assays of the effect
+  of siFOXM1 on cell viability in PC3 (n = 6) and 22RV1 (n = 5) cells; means ± SDs;
+  ANOVA. L Western blot of FOXM1 overexpression validation in PC3 cells. OE overexpression.
+  M SR9009 (20 μM)-induced cytotoxicity (48 h incubation) could be partially rescued
+  by FOXM1 overexpression; n = 4; means ± SDs; unpaired t test. ns not significant;
+  *p < 0.05; **p < 0.01; ***p < 0.001; ****p < 0.0001.'
+article_title: SR9009 inhibits lethal prostate cancer subtype 1 by regulating the
+  LXRα/FOXM1 pathway independently of REV-ERBs.
+citation: Hang Xu, et al. Cell Death Dis. 2022 Nov;13(11):949.
+year: '2022'
+
+doi: 10.1038/s41419-022-05392-6
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Prostate cancer
+- Drug development
+
+---

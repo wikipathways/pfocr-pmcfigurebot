@@ -1,0 +1,42 @@
+---
+figid: PMC9630378__41598_2022_23205_Fig4_HTML
+pmcid: PMC9630378
+image_filename: 41598_2022_23205_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9630378/figure/Fig4/
+number: Figure 4
+figure_title: ''
+caption: scRNA-seq revealed that miR-874 downregulates PMVK and upregulates p53 target
+  genes in MCF-7 cells. MCF-7 cells were transfected with control (cont) miRNA or
+  miR-874 for 36 h or control siRNA or siPMVK for 48 h. The viable population of MCF-7
+  cells was sorted, and each of the four groups was profiled by droplet-based scRNA-seq.
+  (a) scRNA-seq data (n = 46,130) across all four groups of treated MCF-7 cells are
+  shown as nonlinear representations of the top 50 principal components. Cells are
+  coloured according to UMAP-based clusters. (b,c) Proportions of each cluster from
+  miRNA (b) or siRNA transfections (c). Clusters increased by miR-874 (b) or siPMVK
+  transfection (c) are marked with red frames. (d) Cells are coloured according to
+  UMAP-based clusters of cell phase, according to treatment. (e,f) Proportions of
+  the cell phase within each group (e) or cluster (f). (g) Venn diagram showing 349
+  common differentially expressed genes (DEGs) among 9695 genes identified by bulk
+  RNA-seq and 437 identified by scRNA-seq between cells transfected with cont miRNA
+  and miR-874. (h) The table shows multiple pathways enriched in 349 common DEGs analysed
+  by Metascape. (i) The table shows the prediction of upstream transcription factors
+  among the DEGs by TRRUST analysis in Metascape. (j) Volcano plots showing DEGs between
+  cont miRNA and miR-874. (k) Dot plot showing p53 target genes. (l) The table shows
+  the prediction of upstream transcription factors from the DEGs between control siRNA
+  and siPMVK by TRRUST analysis in Metascape. (m,n) Violin plot of the miR-874 targets
+  PMVK (m) and PPP1CA (n) in each group (****p < 0.0001; Welch’s t test).
+article_title: MicroRNA-874 targets phosphomevalonate kinase and inhibits cancer cell
+  growth via the mevalonate pathway.
+citation: Alimasi Aersilan, et al. Sci Rep. 2022;12:18443.
+year: '2022'
+
+doi: 10.1038/s41598-022-23205-w
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Breast cancer
+- Apoptosis
+
+---

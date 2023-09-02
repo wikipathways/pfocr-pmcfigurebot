@@ -1,0 +1,41 @@
+---
+figid: PMC9696193__pharmaceutics-14-02329-g005
+pmcid: PMC9696193
+image_filename: pharmaceutics-14-02329-g005.jpg
+figure_link: /pmc/articles/PMC9696193/figure/pharmaceutics-14-02329-f005/
+number: Figure 5
+figure_title: ''
+caption: PI3K/AKT signaling was activated by ATRA and ATPR. (A) KEGG enrichment analysis
+  of TE-sensitive genes (including TE down-regulated genes and TE up-regulated genes)
+  during ATRA stress. (B) Heatmap of TE value for TE-sensitive genes enriched in the
+  PI3K/AKT pathway. (C) PI3K/AKT activity was evaluated by detecting the protein expression
+  of AKT and the phosphorylation level of AKT at ser473 using western blot. (D,E)
+  Molm13 cells were simultaneously treated with ATRA (10 μM, (D)) or ATPR (10 μM,
+  (E)) and LY294002 (10 μM), a PI3K/AKT inhibitor, for the indicated times. Cell differentiation
+  was analyzed by quantifying the proportion of CD11b-positive cells by flow cytometry.
+  (F,G) Apoptosis of cells treated with ATRA (F) or ATPR (G) and LY294002 was assessed
+  by flow cytometry using an Annexin V-FITC/PI staining kit. In the “LY294002-pretreatment
+  30 min” panel, cells were pre-treated with PI3K/AKT inhibitor (LY294002) for 30
+  min, and then ATRA or ATPR were directly added to the medium containing LY294002.
+  (H) Fragments per kilobase of exon per million fragments (FPKM) values of apoptotic
+  genes translationally regulated by ATRA. ns, not significant; * p < 0.05, ** p <
+  0.01.
+article_title: The Translational Landscape Revealed the Sequential Treatment Containing
+  ATRA plus PI3K/AKT Inhibitors as an Efficient Strategy for AML Therapy.
+citation: Ke Wang, et al. Pharmaceutics. 2022 Nov;14(11):2329.
+year: '2022'
+
+doi: 10.3390/pharmaceutics14112329
+journal_title: Pharmaceutics
+journal_nlm_ta: Pharmaceutics
+publisher_name: MDPI
+
+keywords:
+- ATRA
+- AML
+- translatome
+- Ribo-seq
+- PI3K/AKT
+- eIF4E
+
+---

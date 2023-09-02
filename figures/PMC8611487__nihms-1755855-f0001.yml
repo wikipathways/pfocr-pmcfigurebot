@@ -1,0 +1,33 @@
+---
+figid: PMC8611487__nihms-1755855-f0001
+pmcid: PMC8611487
+image_filename: nihms-1755855-f0001.jpg
+figure_link: /pmc/articles/PMC8611487/figure/F1/
+number: Figure 1
+figure_title: ''
+caption: NRF2- and OXPHOS-signaling pathways are enriched in recurrent HPV-related
+  HNSCC. A, RNA expression assays performed on 10 paired pHNSCC and rHNSCC. B, PANTHER
+  pathway analysis of differentially-expressed genes comparing rHNSCC with pHNSCC.
+  Pathways with over-representation test FDR q value < 0.05 are displayed. C, GSEA
+  of rHNSCC versus pHNSCC. Normalized enrichment scores (NES) plotted. FDR q values
+  labeled within the bars. Top, GSEA using panel of metabolic gene sets. Bottom, GSEA
+  using panel of oncogenic gene sets. D, Left, Hierarchical clustering of hallmark
+  OXPHOS gene set among pHNSCC and rHNSCC. Rows represent genes. Columns represent
+  tumors. Row and column dendrograms demonstrate clustering results. Normalized expression
+  counts in cells. Color bars in the upper plot illustrate ssGSEA enrichment score.
+  DDR, Reactome p53-dependent DNA damage repair; FA, hallmark fatty-acid metabolism;
+  MYC, hallmark MYC v1; NRF2 Core, NRF2 core signature (). Right, NRF2 ssGSEA enrichment
+  scores between groups.
+article_title: Recurrent Human Papillomavirus–Related Head and Neck Cancer Undergoes
+  Metabolic Reprogramming and Is Driven by Oxidative Phosphorylation.
+citation: Avani Vyas, et al. Clin Cancer Res. ;27(22):6250-6264.
+year: '2023'
+
+doi: 10.1158/1078-0432.CCR-20-4789
+journal_title: 'Clinical cancer research : an official journal of the American Association
+  for Cancer Research'
+journal_nlm_ta: Clin Cancer Res
+publisher_name: ''
+
+keywords:
+---

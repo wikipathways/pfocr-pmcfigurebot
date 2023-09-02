@@ -1,0 +1,49 @@
+---
+figid: PMC9708828__41467_2022_35161_Fig5_HTML
+pmcid: PMC9708828
+image_filename: 41467_2022_35161_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC9708828/figure/Fig5/
+number: Fig. 5
+figure_title: Rational engineering of RAPA- and GA-regulated OCARs by C to S site-directed
+  mutagenesis in CID domains
+caption: 'a Left: structural architectures of the initial, non-mutagenized constructs
+  pPW108 (PPGK-SS-FKBP-(GGGS)x2-Notch1core-TetR-VP64-pA), pPW109 (PPGK-SS-FRB-(GGGS)x2-Notch1core-TetR-VP64-pA),
+  pPW112, and pPW113. “L” symbolizes a flexible linker. Right: SEAP levels in supernatants
+  of HEK-293 cells transfected with pPW108, pPW109, pPW112, and pPW113 using either
+  WT and/or different C to S mutants (40 ng each). Data are presented as mean ± SD
+  of n = 4 biologically independent samples. ***P < 0.0001 was calculated using two-tailed,
+  unpaired Student’s t-test. b SEAP levels in the supernatants of co-cultured cells.
+  Receiver cells were transfected with different amounts of pPW113 and pPW112C22S
+  either separately or in combination (see methods). Sender cells were separately
+  transfected either with pPW112C22S or pPW113. RAPA and DMSO were immediately added
+  to the mixed cells, and SEAP measurements were performed 24 h following the co-culturing.
+  Data are presented as mean ± SD of n = 4 biologically independent samples. ***P < 0.0001
+  was calculated using two-tailed, unpaired Student’s t-test. c Systematic C to S
+  mutagenesis of pPW124 (PPGK-SS-GID1-Notch1core-TetR-VP64-pA). Cells were transfected
+  with pMMH130 (PPGK-SS-GAIWT-Notch1core-pA) and different C to S mutants of pPW124
+  (40 ng each). SEAP levels were measured at 24 h after GA (100 µM) treatment. Data
+  are presented as mean ± SD of n = 4 biologically independent samples. ***P < 0.0001
+  was calculated using two-tailed, unpaired Student’s t-test. d Combinatory C to S
+  mutagenesis analysis of pPW124 and SEAP was measured as described in (c). Data are
+  presented as mean ± SD of n = 6 biologically independent samples. ***P < 0.0001
+  was calculated using two-tailed, unpaired Student’s t-test. e SEAP levels in the
+  supernatants of co-cultured cells. Sender cells were transfected with pMMH130 and
+  receiver cells were transfected with different amounts of pPW124C155S, C157S, C362S.
+  GA was used as the inducer. Data are presented as mean ± SD of n = 4 biologically
+  independent samples. ***P < 0.0001 was calculated using two-tailed, unpaired Student’s
+  t-test. Source data are provided as a  file.'
+article_title: Engineering receptors in the secretory pathway for orthogonal signalling
+  control.
+citation: Mohamed Mahameed, et al. Nat Commun. 2022;13:7350.
+year: '2022'
+
+doi: 10.1038/s41467-022-35161-0
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Synthetic biology
+- Genetic engineering
+
+---

@@ -1,0 +1,49 @@
+---
+figid: PMC9663883__gr5
+pmcid: PMC9663883
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC9663883/figure/fig5/
+number: Figure 5
+figure_title: ''
+caption: Metabolomics analysis in cells stimulated by glucose indicates that EPDR1
+  tightens the glycolysis-mitochondrial metabolism coupling. Metabolomics analysis
+  after 1 h of glucose (HG) stimulation in NC and Epdr1-KD INS1 832/13 cells (n = 7).
+  (A) PCA for metabolites levels at HG/LG, (B) OPLS-DA loading scatter plot; it describes
+  the relationship between a metabolite and the specific component, the absolute value
+  of the loading indicates how much the metabolite influences the specific component
+  whereas the sign of the loading indicates whether the influence is positive or negative
+  on this component. Horizontal axis shows X-loadings p and the Y-loadings q of the
+  predictive component (pq1). The vertical axis showing the X-loading p(o) and the
+  Y-loadings s(o) for the Y-orthogonal component (poso1). Inserted in the Figure is
+  the Supervised orthogonal partial least-squares discriminant analysis (OPLS-DA)
+  score plot, showing the predictive (t1) and 1st orthogonal component (to1). (C)
+  Metabolic Pathway Analysis using the predictive component (VIP) of the OPLS-DA model,
+  showing the metabolic pathways that explain the variance between Epdr1-KD vs. NC
+  control cells. (D) Mass spectrometry measured cellular metabolites abundance in
+  response to glucose (fold change HG/LG) of pyruvate and lactate. (E) Ratio of cellular
+  abundance of Lactate/Pyruvate. (F) Secreted extracellular lactate concentration
+  during GSIS (1 h) in NC and Epdr1-KD INS1 832/13 cells (n = 4). (G) TCA cycle scheme.
+  (H) Mass spectrometry measured cellular metabolites abundance in response to glucose
+  (fold change HG/LG) showing differences of TCA cycle and malate/aspartate shuttle
+  metabolites such as; reduced citrate and alpha-ketoglutarate (AKGA) and increased
+  aspartate in Epdr1-KD vs NC control cells. Data are mean ± SEM of n = 7 independent
+  experiments. ∗p < 0.05; ∗∗p < 0.01; ∗∗∗p < 0.001; ∗∗∗∗p < 0.0001 with Combat batch
+  correction method followed by ANOVA on genotype.
+article_title: The human batokine EPDR1 regulates β-cell metabolism and function.
+citation: Luis Rodrigo Cataldo, et al. Mol Metab. 2022 Dec;66:101629.
+year: '2022'
+
+doi: 10.1016/j.molmet.2022.101629
+journal_title: Molecular Metabolism
+journal_nlm_ta: Mol Metab
+publisher_name: Elsevier
+
+keywords:
+- Mitochondrial metabolism
+- Lactate
+- TCA cycle
+- Beta cells
+- Insulin secretion
+- Type 2 diabetes
+
+---

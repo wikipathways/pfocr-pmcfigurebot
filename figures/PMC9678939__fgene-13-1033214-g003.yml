@@ -1,0 +1,36 @@
+---
+figid: PMC9678939__fgene-13-1033214-g003
+pmcid: PMC9678939
+image_filename: fgene-13-1033214-g003.jpg
+figure_link: /pmc/articles/PMC9678939/figure/F3/
+number: FIGURE 3
+figure_title: ''
+caption: GSEA results of three subtypes. (A) Ten up-regulated and ten down-regulated
+  biological pathways were selected from the shared enriched pathways in three subtypes
+  tumor samples. (B) Top 15 biological pathways that specific up- and down-regulated
+  in Subtype 1 tumor samples. Wnt signaling pathway was significantly up-regulated
+  in Subtype 1. (C) Top 15 biological pathways that specific up- and down-regulated
+  in Subtype 2 tumor samples. Glycogen metabolism biological pathway was significantly
+  down-regulated in Subtype 2. (D) Top 15 biological pathways that specific up- and
+  down-regulated in Subtype 3 tumor samples. Neutrophil-mediated immunological pathways
+  were down-regulated in Subtype 3. (FDR <0.05).
+article_title: 'Molecular subtyping of esophageal squamous cell carcinoma by large-scale
+  transcriptional profiling: Characterization, therapeutic targets, and prognostic
+  value.'
+citation: Danke Wang, et al. Front Genet. 2022;13:1033214.
+year: '2022'
+
+doi: 10.3389/fgene.2022.1033214
+journal_title: Frontiers in Genetics
+journal_nlm_ta: Front Genet
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- ESCC
+- gene expression profile
+- subtype
+- integrate
+- GSEA
+- WGCNA
+
+---

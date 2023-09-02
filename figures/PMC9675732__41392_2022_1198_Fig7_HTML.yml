@@ -1,0 +1,50 @@
+---
+figid: PMC9675732__41392_2022_1198_Fig7_HTML
+pmcid: PMC9675732
+image_filename: 41392_2022_1198_Fig7_HTML.jpg
+figure_link: /pmc/articles/PMC9675732/figure/Fig7/
+number: Fig. 7
+figure_title: ''
+caption: 'The roles of PD-L1 scFv and 4-1BB intracellular domain on the functional
+  improvements of PD-L1.BB.CSR-modified CAR-T cells. a Heatmap of selected DEGs in
+  HER2.28ζ/PD-L1.BB, HER2.28ζ/PD-L1, HER2.28ζ, PD-L1.BB CAR-T and UTD cells at 24 h
+  post-stimulation with irradiated SKOV3PD-L1 cells. b Heatmap of selected DEGs between
+  PD-L1.BB CSR-T and UTD cells at 12 h and 24 h post-stimulation. c GSEA of IFN-γ,
+  TNF-α, and mTORC1 signaling pathway, as well as mitosis genes in PD-L1.BB CSR-T
+  and UTD cells at 24 h post-stimulation. d Heatmap of DEGs between HER2.28ζ/PD-L1
+  and HER2.28ζ CAR-T cells at 24 h post-stimulation. e GSEA of IFN-γ, IL-2, TNF-α,
+  IL-6 signaling pathways in HER2.28ζ/PD-L1 and HER2.28ζ CAR-T cells at 24 h post-stimulation.
+  f Heatmap of selected DEGs between HER2.28ζ/PD-L1.BB and HER2.28ζ/PD-L1 CAR-T cells
+  at 24 h post-stimulation. g GSEA of IFN-γ signaling pathway, T cell activation genes,
+  E2F target genes and stem cell memory pathway in HER2.28ζ/PD-L1.BB and HER2.28ζ/PD-L1
+  CAR-T cells at 24 h post-stimulation. h The schematic diagram of repeated-stimulation
+  experiment. At days 0 and 2, CAR-T cells were stimulated with irradiated SKOV3PD-L1
+  cells at E: T ratio of 2:1, and at day 6, CAR-T cells were sorted by human CD3 magnetic
+  beads for functional test i, j, m, n. The cytotoxicity of post-stimulated CAR-T
+  cells was analyzed by CCK-8, after 24 h of co-culture with SKOV3PD-L1 cells at indicated
+  E: T ratios i, and effector cytokine (IFN-γ, IL-2 and TNF-α) secretion in culture
+  supernatant was detected by ELISA j. k At days 1, 2, 4 and 6 of repeated-stimulation
+  experiment, the proliferation folds of CAR-T cells were quantified by flow cytometry
+  using absolute counting bead. l Statistical analysis of 4-1BB expression on CD4+
+  and CD8+ CAR-T cells on day 1 of repeated-stimulation experiment. m, n Statistical
+  analysis of CD45RO+CCR7+ TCM cells m, PD-1+ and PD-L1+ expressions on CD4+ and CD8+
+  CAR-T cells n at day 6 of repeated-stimulation experiment. Representative RNA-seq
+  pictures shown in 2 replicates. P-values were determined by unpaired two-tailed
+  t-test i–n. *P <0.05, **P <0.01, ns, not significant. Data are expressed as the
+  mean ± SD from three independent experiments'
+article_title: A PD-L1-targeting chimeric switch receptor enhances efficacy of CAR-T
+  cell for pleural and peritoneal metastasis.
+citation: Qizhi Ma, et al. Signal Transduct Target Ther. 2022;7:380.
+year: '2022'
+
+doi: 10.1038/s41392-022-01198-2
+journal_title: Signal Transduction and Targeted Therapy
+journal_nlm_ta: Signal Transduct Target Ther
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Drug development
+- Tumour immunology
+- Metastasis
+
+---

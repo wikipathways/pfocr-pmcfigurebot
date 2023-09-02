@@ -1,0 +1,48 @@
+---
+figid: PMC9642964__fonc-12-1018767-g002
+pmcid: PMC9642964
+image_filename: fonc-12-1018767-g002.jpg
+figure_link: /pmc/articles/PMC9642964/figure/f2/
+number: Figure 2
+figure_title: ''
+caption: Differential expression of global immune response genes under reovirus infection
+  in CRC cell lines categorized on MMR status. (A) Hierarchical-clustering profile
+  across differentially expressed genes (DEGs) participating in immune pathways upon
+  treatment with reovirus in MSI and MSS groups. RMA normalized expression values
+  for the 86 genes were used to generate a heat-map in the TAC software. The colors
+  indicate the expression value relative to the median expression value per gene in
+  the dataset. Red indicates upregulation relative to median value and green indicates
+  downregulation relative to the median value. (B) GO term enrichment and KEGG pathway
+  analyses of DEGs using DAVID. Differentially expressed probes between MSI and MSS
+  cell lines treated with reovirus were selected based on meeting the criteria of
+  p ≤ 0.05 and divided into positive and negative fold changes lists and used to determine
+  enrichment. (C) Protein interaction analysis using STRING. The different colored
+  nodes represent different genes. Different edges (lines) show the interplay between
+  genes. Edge strength is shown by thickness of the line, the thicker the line, the
+  stronger the interaction. Hub networks made using MCODE demonstrate the genes within
+  the PPI that were screened to display the most highly upregulated. The genes not
+  included in the hub networks did not have substantial interaction amongst the other
+  genes in the list, therefore they were not included. (D) Venn diagram created using
+  the TAC software. It illustrates the clear point that between the MMR subgroups,
+  CREB1 gene is the only commonality out of 25 genes, 16 in the MSI and 9 genes in
+  the MSS groups.
+article_title: Potentiating effect of reovirus on immune checkpoint inhibition in
+  microsatellite stable colorectal cancer.
+citation: Titto Augustine, et al. Front Oncol. 2022;12:1018767.
+year: '2022'
+
+doi: 10.3389/fonc.2022.1018767
+journal_title: Frontiers in Oncology
+journal_nlm_ta: Front Oncol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- colorectal cancer
+- translational
+- combinatorial therapy
+- reovirus
+- anti-PD-1
+- immune checkpoint
+- microsatellite instability
+
+---

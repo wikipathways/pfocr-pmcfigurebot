@@ -1,0 +1,33 @@
+---
+figid: PMC9682348__gr3
+pmcid: PMC9682348
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9682348/figure/fig3/
+number: Fig. 3
+figure_title: ''
+caption: 'Integrated analysis of cytokine and metabolomics profiling. (A) The corrplot
+  for the identified 83 metabolites and their relations to the 6 identified cytokines
+  (R package: ggcor); (B) Co-expression network in between the identified metabolites
+  and the cytokines; (C) The corrplot for the identified 6 cytokines and their relations
+  to the major metabolic categories (R package: ggcor); (D) Elevated plasma CHI3L1
+  was associated with decreased serum total cholesterol level; (E) and (F) Pathway
+  enrichment and co-expression network for the metabolites linearly related to plasma
+  CHI3L1.'
+article_title: Multi-omics profiling reveals Chitinase-3-like protein 1 as a key mediator
+  in the crosstalk between sarcopenia and liver cancer.
+citation: Di Lu, et al. Redox Biol. 2022 Dec;58:102538.
+year: '2022'
+
+doi: 10.1016/j.redox.2022.102538
+journal_title: Redox Biology
+journal_nlm_ta: Redox Biol
+publisher_name: Elsevier
+
+keywords:
+- Sarcopenia
+- Hepatocellular carcinoma
+- CHI3L1
+- Metabolomic
+- Lipid peroxide
+
+---

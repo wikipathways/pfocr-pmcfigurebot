@@ -1,0 +1,39 @@
+---
+figid: PMC9659000__cancers-14-05180-g011a
+pmcid: PMC9659000
+image_filename: cancers-14-05180-g011a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 11
+caption: 'BIRC5 pathway enrichment, target gene expression, and target gene ontology.
+  (a) Volcano plots of the genes with BIRC5 expression that are negatively and positively
+  correlated. Genes that were negatively associated with BIRC5 expression are represented
+  by the green section of the volcano curve, whereas positively correlated genes are
+  shown by the red section of the curve (accessed on LinkedOmics:: Volcano Plot).
+  GSEA GO (b) genes that co-express BIRC5 in a biological process. Blue bars show
+  pathways that are highly enriched in positively linked genes, with dark blue bars
+  denoting pathways with FDR < 0.05 and light blue bars representing pathways with
+  FDR > 0.05. Orange bars show routes that are more likely to contain genes that are
+  inversely correlated, with light orange bars showing pathways with FDR > 0.05. Inversely
+  associated genes were overrepresented in the topmost significant pathways, as demonstrated
+  by the enrichment plots in (c–k). (g) GSEA KEGG for BIRC5 and co-expressed genes
+  KEGG database enrichment plots. (l–r) show the topmost significant pathways that
+  are over-represented among negatively correlated genes, www.linkedomics.org/lo_batchfile/qindex_gsea.php?fn=120514
+  (accessed on 5 August 2022).'
+article_title: The Prognostic and Therapeutic Implications of the Chemoresistance
+  Gene BIRC5 in Triple-Negative Breast Cancer.
+citation: Getinet M. Adinew, et al. Cancers (Basel). 2022 Nov;14(21):5180.
+year: '2022'
+
+doi: 10.3390/cancers14215180
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- breast cancer
+- triple-negative breast cancer
+- surviving
+- BIRC5
+
+---

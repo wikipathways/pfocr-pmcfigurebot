@@ -1,0 +1,41 @@
+---
+figid: PMC9638847__fgene-13-1024805-g002
+pmcid: PMC9638847
+image_filename: fgene-13-1024805-g002.jpg
+figure_link: /pmc/articles/PMC9638847/figure/F2/
+number: FIGURE 2
+figure_title: ''
+caption: 'Characterization of enriched Sertoli cells by RNA sequencing. (A) Heatmap
+  of testicular cell markers in enriched Sertoli cells, ordered by cell type-specificity
+  including Sertoli cells, spermatogenic cells (spermatogonia, spermatocyte, round
+  and elongated spermatid), immune cells (lymphoid and macrophage), endothelial cells,
+  smooth muscle cells (peritubular myoid) and endocrine cells (Leydig). Color scale
+  indicates normalized log2 gene counts per million (CPM). Enriched (B) KEGG and (C)
+  GO pathways for 100 most highly expressed genes in collected Sertoli cells including
+  immunological (e.g. KEGG: Antigen processing and presentation; GO MF: MHC class
+  II protein binding), metabolic (e.g. KEGG: Oxidative phosphorylation, GO CC: respiratory
+  chain complex), cell-cell junction (KEGG: Cardiac muscle contraction, GO, CC: anchoring
+  junction), phagocytosis (GO, CC: endocytic vesicle lumen, lysosomal lumen), and
+  secretion (KEGG: protein processing in ER, GO, CC: secretory granule) pathways.
+  Ratio of genes per pathway is given on the x-axis and log of p-value (log(p)) is
+  indicated on a color scale. BP: biological process, CC: cellular component, MF:
+  molecular function.'
+article_title: Long-term effects of early postnatal stress on Sertoli cells.
+citation: Kristina M. Thumfart, et al. Front Genet. 2022;13:1024805.
+year: '2022'
+
+doi: 10.3389/fgene.2022.1024805
+journal_title: Frontiers in Genetics
+journal_nlm_ta: Front Genet
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- Sertoli cell
+- adult testis
+- electron transport chain
+- mitochondria
+- early postnatal stress
+- mice
+- fluorescence-activated cell sorting (FACS)
+
+---

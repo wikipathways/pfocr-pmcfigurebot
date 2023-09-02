@@ -1,0 +1,53 @@
+---
+figid: PMC8437148__nihms-1730154-f0003
+pmcid: PMC8437148
+image_filename: nihms-1730154-f0003.jpg
+figure_link: /pmc/articles/PMC8437148/figure/F3/
+number: Figure 3
+figure_title: Potential future directions for engineered receptors in human cells
+  and tissues
+caption: (a) Current engineered receptor designs are largely restricted to a specific
+  set of cell and tissue types. For example, RASSLs are most often used in neural
+  cells, CARs in T cells, and SynNotch receptors in both T cells and a variety of
+  epithelial cells. (b) Existing engineered receptors could be employed in new cell
+  and tissue types. For example, RASSLs could be used to activate G protein-coupled
+  receptor pathways in cells of the hematopoietic lineage, such as blood cells. Neural
+  cells could be engineered to sense extracellular ligands recognized by existing
+  MESAs but not existing RASSLs, then provide a specified transcriptional output.
+  (c) Various engineered receptors can be combined to provide novel functions, a concept
+  that has already been used to combine CARs with SynNotch receptors []. For example,
+  a T cell could be engineered with a SynNotch receptor that binds a highly expressed
+  cell surface marker on cancer cells, triggering proteolytic cleavage of a transcription
+  factor (TF). This TF could then localize to the nucleus and activate transcription
+  of the arrestin-TEV protease involved in the Tango assay. Then, only in the simultaneous
+  presence of an extracellular ligand as well as expression of the arrestin-TEV protease,
+  a second TF could be released. This would effectively create and AND-gate requiring
+  both the proximal recognition of a cancer cell marker as well as the presence of
+  an extracellular ligand. (d) Novel fusion receptors could be developed to perform
+  unique functions. For example, one could imagine a chimeric RASSL-GPCR, where the
+  extracellular domain of the RASSL allows it to be activated by its pharmacologically
+  inert agonist while the intracellular domain of the GPCR allows activation of a
+  GPCR pathway not typically coupled to the RASSL. This could be used to potentially
+  control stem cell differentiation, or even allow one neurotransmitter to activate
+  a neuronal pathway that it does not natively activate. Another possible chimeric
+  receptor could involve the fusion of a MESA extracellular recognition domain to
+  the intracellular signaling or costimulatory domains of CARs in T cells. Thus, rather
+  than recognizing a tumor cell surface antigen, the receptor could instead recognize
+  an extracellular ligand that in turn leads to T cell activation.
+article_title: Design and development of engineered receptors for cell and tissue
+  engineering.
+citation: Shwan B. Javdan, et al. Curr Opin Syst Biol. ;28:100363.
+year: '2023'
+
+doi: 10.1016/j.coisb.2021.100363
+journal_title: Current opinion in systems biology
+journal_nlm_ta: Curr Opin Syst Biol
+publisher_name: ''
+
+keywords:
+- Synthetic biology
+- receptor engineering
+- synthetic receptors
+- cell and tissue engineering
+
+---

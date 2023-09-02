@@ -1,0 +1,42 @@
+---
+figid: PMC9679011__fcimb-12-1007950-g003
+pmcid: PMC9679011
+image_filename: fcimb-12-1007950-g003.jpg
+figure_link: /pmc/articles/PMC9679011/figure/f3/
+number: Figure 3
+figure_title: ''
+caption: Identification and validation of the biomarkers for head and neck squamous
+  cell carcinoma (HNSCC). (A) Venn diagram of the top 30 HNSCC-associated candidates
+  selected by Cytoscape analysis, depending on the MCC (Maximal Clique Centrality),
+  MNC (Maximum Neighborhood Component), EPC (Edge Percolated Component), and Degree
+  algorithms. (B) Significant enriched Gene Ontology (GO) pathway signaling for the
+  19 potential biomarkers. (C) Significant enriched GO biological process terms for
+  the 19 potential biomarkers. (D) Expression levels of ITGA5, PLAU, PLAUR, SERPINE1,
+  TGFB1, and VEGFC in tumor versus normal tissues. (E) Volcano plots showing the fold
+  change (FC) and p-value of the biomarker candidates for the comparisons of tumor
+  and normal tissues from the GSE138206 dataset. Upregulated (log2FC ≥ 2, p < 0.05)
+  and downregulated (log2FC ≤ −2, p < 0.05) genes are depicted in red and green, respectively.
+  (F) Expression patterns of PLAUR, PLAU, VEGFC, SERPINE1, ITGA5, and TGFB1 in oral
+  squamous cell carcinoma (OSCC) tumor (n = 6) and normal (n = 6) tissues visualized
+  as heatmaps from the microarray. Data were z-score normalized. (G) Representative
+  immunohistochemistry staining images of the ITGA5 and PLAU protein expression levels
+  in tumor and normal tissues. Data were from the Human Protein Atlas database.
+article_title: Bioinformatic analysis identifies HPV-related tumor microenvironment
+  remodeling prognostic biomarkers in head and neck squamous cell carcinoma.
+citation: Qimin Zhou, et al. Front Cell Infect Microbiol. 2022;12:1007950.
+year: '2022'
+
+doi: 10.3389/fcimb.2022.1007950
+journal_title: Frontiers in Cellular and Infection Microbiology
+journal_nlm_ta: Front Cell Infect Microbiol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- head and neck squamous cell carcinoma
+- HPV
+- biomarkers
+- tumor microenvironment
+- immune evasion
+- immunotherapy
+
+---

@@ -1,0 +1,47 @@
+---
+figid: PMC9674771__18_2022_4598_Fig3_HTML
+pmcid: PMC9674771
+image_filename: 18_2022_4598_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC9674771/figure/Fig3/
+number: Fig. 3
+figure_title: ''
+caption: Caspase-8 interactome. 291 differentially expressed proteins with a Log2
+  FC ≥  + 0.5 (up-regulated), representing the pool of potentially Caspase-8 interacting
+  proteins, were identified through the comparative analysis of HeLa WT non-synchronized
+  (NS) and S/G2-phase synchronized (synch.) data sets. They were analyzed for their
+  cellular functions using A the Ingenuity Pathway Analysis (IPA) bioinformatics tool.
+  The top 20 most significantly regulated pathways are shown here, predicted by IPA.
+  The black bars represent cancer cell-migration associated functions; and B the DAVID
+  bioinformatics tool (www.david.ncifcrf.gov, v.6.8). Shown here are the top 15 most
+  significant processes, predicted using the Gene Ontology Term (GOTERM) “Biological
+  Process (BP)” function of DAVID. The black bars represent cancer cell-migration-associated
+  processes. C The 291 proteins predicted by IPA to be associated with cell-migration
+  were further analyzed by IPA to determine whether these proteins, including Caspase-8,
+  were directly involved with cell-migration or indirectly, via other proteins, which
+  may or may not be present in our data-set of 291 proteins. The black arrow highlights
+  Caspase-8. D The “Diseases and Functions” feature of the IPA tool also predicted
+  that the cell-migration-associated proteins were also involved in several other
+  biological processes. Shown here are the top 10 processes regulated by these proteins
+  and their associations with Caspase-8. E The proteins involved in both cell-migration
+  and transcription were further analyzed using IPA to determine whether Caspase-8
+  could directly or indirectly interact with them. The black and red arrows highlight
+  Caspase-8 and CDK9, respectively. The interactome analysis was performed in triplicate
+article_title: The non-apoptotic function of Caspase-8 in negatively regulating the
+  CDK9-mediated Ser2 phosphorylation of RNA polymerase II in cervical cancer.
+citation: Ranadip Mandal, et al. Cell Mol Life Sci. 2022;79(12):597.
+year: '2022'
+
+doi: 10.1007/s00018-022-04598-3
+journal_title: Cellular and Molecular Life Sciences
+journal_nlm_ta: Cell Mol Life Sci
+publisher_name: Springer International Publishing
+
+keywords:
+- Caspase-8
+- Non-apoptotic function
+- Transcription
+- CDK9
+- P-TEFb
+- RNAPII
+
+---

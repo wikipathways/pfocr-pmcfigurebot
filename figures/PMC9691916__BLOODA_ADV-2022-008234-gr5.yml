@@ -1,0 +1,43 @@
+---
+figid: PMC9691916__BLOODA_ADV-2022-008234-gr5
+pmcid: PMC9691916
+image_filename: BLOODA_ADV-2022-008234-gr5.jpg
+figure_link: /pmc/articles/PMC9691916/figure/fig5/
+number: Figure 5
+figure_title: ''
+caption: MDCs from ΔdblGATA mice have reduced APC phenotype in vivo but not in vitro.
+  (A-C) BM from WT and ΔdblGATA mice was treated with GM-CSF and IL-4 for 5 days.
+  To induce BMDC maturation, the cultures were treated with LPS for an additional
+  3 days. Data represent the average of 2 independent experiments. (A) GATA1 expression
+  by BMDCs determined by real-time PCR. (B) Flow cytometry plots showing MHC-II and
+  CD11b expression among CD11b+CD11c+ BMDCs. (C) Frequency of MHC-IIhi cells among
+  CD11b+CD11c+ BMDCs. (D) Flow cytometry plots showing MHC-II and CD11b expression
+  among CD11b+CD11c+ MDCs were generated in vitro from CD45+CD11b+Ly6Glo/−Ly6Chi monocytes
+  purified from the BM of WT and ΔdblGATA mice. Histograms overlays (right) of CD80
+  and CD86 expression from MHC-IIhi and MHC-IIlo cells (left) are depicted. (E) Proliferation
+  of cocultures of LPS-matured MDCs from panel D with DO11.10 CD4+ T cells that were
+  stimulated with OVA323–339 for 72 hours. Proliferation was measured by [3H]adenine
+  incorporation assay. Error bars are SEM and significance was calculated by unpaired
+  Student t test. (F) WT and ΔdblGATA mice were immunized for EAE induction and sacrificed
+  on day 16 after immunization (n = 14-15 per group). CNS mononuclear cells were isolated
+  by Percoll density gradient centrifugation, and cells from 4 to 5 mice were pooled.
+  Monocytes were then highly enriched with CD11b magnetic beads followed by fluorescence-activated
+  cell sorting for CD11b+Ly6ChiLy6Glo/− cells. RNA was isolated, and the transcriptomes
+  of WT and ΔdblGATA monocytes were sequenced (bulk RNA sequencing; n = 3 per group).
+  Differentially expressed genes with adjusted P < .05 were used for pathway analysis
+  using DAVID bioinformatics database. The top 5 significantly enriched pathways using
+  gene ontology and KEGG databases are shown. (G) Heatmap showing differentially expressed
+  genes from the top gene ontology term from panel F. GAPDH, glyceraldehyde-3-phosphate
+  dehydrogenase; Norm., normal.
+article_title: GATA1 controls numbers of hematopoietic progenitors and their response
+  to autoimmune neuroinflammation.
+citation: Daniel Hwang, et al. Blood Adv. 2022 Dec 13;6(23):5980-5994.
+year: '2022'
+
+doi: 10.1182/bloodadvances.2022008234
+journal_title: Blood Advances
+journal_nlm_ta: Blood Adv
+publisher_name: The American Society of Hematology
+
+keywords:
+---

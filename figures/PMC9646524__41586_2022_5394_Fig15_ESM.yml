@@ -1,0 +1,39 @@
+---
+figid: PMC9646524__41586_2022_5394_Fig15_ESM
+pmcid: PMC9646524
+image_filename: 41586_2022_5394_Fig15_ESM.jpg
+figure_link: /pmc/articles/PMC9646524/figure/Fig15/
+number: Extended Data Fig. 11
+figure_title: TRPV4 mediates mechanical response to fluid viscosity via transcriptional
+  control of the Hippo pathway
+caption: 'a, PCA plot of SC cells exposed to 0.77 cP (SC-0.77cP) or 8 cP (SC-8cP)
+  and shTRPV4 cells subjected to 8 cP (shTRPV4-8cP) from 3 independent biological
+  replicates. b, Volcano plots displaying DEGs with P≤0.05 in SC cells at 0.77 versus
+  8 cP, and between SC and shTRPV4 cells at 8 cP. Downregulated genes are in blue
+  and upregulated in red. c, Ingenuity pathway analyses of paired samples shown in
+  (b). Top 5 commonly upregulated and downregulated pathways are shown. d, Heatmap
+  showing the relative expression levels of Hippo pathway genes identified in (c).
+  e, (Left) Confocal images of cells on collagen-I-coated glass bottom dishes after
+  4 h of exposure to medium of prescribed viscosities and immunostained for YAP1 and
+  Hoechst. Scale bars: 20 µm. (Right) Quantification of nuclear-to-cytosolic YAP1
+  ratio. Data are mean ± s.d. for n≥46 cells from 2 experiments. f, Confined migration
+  speeds of cells, pre-conditioned at 0.77 or 8 cP in the presence of verteporfin
+  or vehicle control for 6 days, and resuspended in the indicated “migration” viscosity
+  without verteporfin in which their motility was tracked. Data are mean ± s.d. for
+  n≥107 cells from 2 experiments. Tests performed: Mann Whitney (e) and Kruskal-Wallis
+  followed by Dunn’s multiple comparisons (f). Images are representative of 2 independent
+  biological replicas (e). Cell model: MDA-MB-231.'
+article_title: Extracellular fluid viscosity enhances cell migration and cancer dissemination.
+citation: Kaustav Bera, et al. Nature. 2022;611(7935):365-373.
+year: '2022'
+
+doi: 10.1038/s41586-022-05394-6
+journal_title: Nature
+journal_nlm_ta: Nature
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cell migration
+- Cancer microenvironment
+
+---

@@ -1,0 +1,38 @@
+---
+figid: PMC9660059__jgo-13-05-2458-f4
+pmcid: PMC9660059
+image_filename: jgo-13-05-2458-f4.jpg
+figure_link: /pmc/articles/PMC9660059/figure/f4/
+number: Figure 4
+figure_title: ''
+caption: A bioinformatics analysis predicted the relationship between STING and miRNA,
+  and between STING and infiltrating immune cells. (A,B) Using the Cytoscape tool,
+  we constructed a ceRNA network of STING; mRNA is represented by the orange oval,
+  miRNA is represented by the green diamond, and lncRNA is represented by the blue
+  rectangle. (C,D) Based on the ENCORI database, the expression of hsa-mir-193b-3p
+  and the relationship between the expression of hsa-mir-149-3p and overall survival
+  rates were detected. (E) The correlation between STING expression and the infiltration
+  of immune cells in COAD in the TIMER database. (F-H) The Pan-Cancer analysis showed
+  that STING may be a common oncogene in a variety of cancers. *P<0.05, **P<0.01,
+  and ***P<0.001. STING, stimulator of interferon genes; ceRNA, competing endogenous
+  RNA; ENCORI, Encyclopedia of RNA Interactomes; COAD, colon adenocarcinoma; TIMER,
+  Tumor Immune Estimation Resource; TCGA, The Cancer Genome Atlas; RPM, reads per
+  million.
+article_title: STING promotes proliferation and induces drug resistance in colorectal
+  cancer by regulating the AMPK-mTOR pathway.
+citation: Huihui Yao, et al. J Gastrointest Oncol. 2022 Oct;13(5):2458-2471.
+year: '2022'
+
+doi: 10.21037/jgo-22-957
+journal_title: Journal of Gastrointestinal Oncology
+journal_nlm_ta: J Gastrointest Oncol
+publisher_name: AME Publishing Company
+
+keywords:
+- Colorectal cancer (CRC)
+- stimulator of interferon genes (STING)
+- clinicopathological features
+- proliferation
+- drug resistance
+
+---

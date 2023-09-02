@@ -1,0 +1,38 @@
+---
+figid: PMC9630456__41420_2022_1227_Fig4_HTML
+pmcid: PMC9630456
+image_filename: 41420_2022_1227_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9630456/figure/Fig4/
+number: Fig. 4
+figure_title: Loss of LXN upregulates PD-L2 expression in macrophage and increases
+  polarization towards M2 phenotype
+caption: A BMDMs from WT and LXN KO mice were subjected to RNA-seq. Volcano plot of
+  gene expression changes in LXN KO and WT macrophages. B Heatmap of RNA-seq data
+  showing the up- and downregulation genes in LXN-deficient macrophages (n = 3 mice).
+  C GO analysis of upregulated and downregulated genes suggested the enrichment in
+  the regulation of immune system. D Representative KEGG analysis of macrophage adhesion
+  molecules in T cell receptor signaling pathway. E Relative expression levels of
+  cytokine and chemokine mRNA in WT and LXN KO macrophage were measured by qRT-PCR.
+  n = 3, *P < 0.05, **P < 0.01, ***P < 0.001. F Western blot showed LXN deficiency
+  upregulates the expression PD-L2, PD-L1 and CD163 in macrophages. **P < 0.01, n.s.
+  no significance. G Representative FACS plots and frequencies of PD-L2+ populations
+  in F4/80+CD11b+ cells from WT or LXN-deficient mice. n = 4, *P < 0.05. H Representative
+  qRT-PCR analysis of M1 (IL-1β, iNOS) and M2 (Arg1) macrophage markers in RAW264.7
+  cells transfected with CTL or LXN siRNA after induction of IL-4 (20 ng/ml) or IFN-ɤ+LPS
+  (30 ng/ml+100 ng/ml) for 72 h. n = 3, *P < 0.05, **P < 0.01. n = 3, **P < 0.01.
+  Data are representative of three independent experiments.
+article_title: Loss of LXN promotes macrophage M2 polarization and PD-L2 expression
+  contributing cancer immune-escape in mice.
+citation: Yaping Li, et al. Cell Death Discov. 2022;8:440.
+year: '2022'
+
+doi: 10.1038/s41420-022-01227-7
+journal_title: Cell Death Discovery
+journal_nlm_ta: Cell Death Discov
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Immunosuppression
+- Immunoediting
+
+---

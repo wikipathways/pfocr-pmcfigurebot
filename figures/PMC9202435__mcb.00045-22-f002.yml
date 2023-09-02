@@ -1,0 +1,65 @@
+---
+figid: PMC9202435__mcb.00045-22-f002
+pmcid: PMC9202435
+image_filename: mcb.00045-22-f002.jpg
+figure_link: /pmc/articles/PMC9202435/figure/F2/
+number: FIG 2
+figure_title: ''
+caption: Reduced Rad3 kinase signaling of the DRC pathway in sn134 and hus167. (A)
+  Phosphorylation of Mrc1 by Rad3 was reduced to 25 to 39% of wild-type level in sn134
+  and hus167 in the presence of HU (left) or MMS (right). Wild-type and mutant cells
+  used in  were treated with (+) or without (−) 15 mM HU for 3 h or 0.01% MMS for
+  90 min. Phosphorylation of Mrc1 (top panels) was detected in whole-cell lysates
+  using phospho-specific antibodies. The same blot was stripped and reprobed with
+  anti-Mrc1 antibodies (middle panels). A section of the Ponceau S-stained membrane
+  is shown for loading (bottom panels). The Mrc1 phosphorylation bands were quantified,
+  and the intensities relative to the drug-treated wild-type cells are shown at the
+  bottom. (B) The Western blotting experiment shown in panel A was repeated three
+  times, and the quantitation results are shown as percentages. Error bars represent
+  the means and SDs (***, P < 0.05, in comparison with the drug-treated wild-type
+  cells). (C). Phosphorylation of Cds1 by Rad3 was reduced to 23 to 35% of wild-type
+  level in sn134 and hus167 in the presence of HU (left panels) or MMS (right panels).
+  Wild-type, rad3, sn134, and hus167 cells were treated with 15 mM HU for 3 h (left
+  panels) or 0.01% MMS for 90 min (right panels). Cds1 was immunoprecipitated and
+  then analyzed by Western blotting using an anti-HA antibody (bottom panels). The
+  same membrane was stripped and blotted with a phosphor-specific antibody for Cds1
+  phosphorylation (top panels). The phosphorylation bands were quantified, and relative
+  intensities are shown at the bottom. (D) The experiments shown in panel C were repeated
+  three times, and the quantitation results are shown. ***, P < 0.05. (E) Phosphorylation
+  of Rad9 by Rad3 was minimally affected in sn134 and hus167. Wild-type and mutant
+  cells were treated with HU (left panels) or MMS (right panels). Rad9 was immunoprecipitated
+  for Western blotting. The blot was first probed with an anti-HA antibody (bottom
+  panels), stripped, and then probed with the phospho-specific antibody (top panels).
+  The relative phosphorylation signals are shown at the bottom. (F) The experiment
+  in panel E was repeated three times, and the quantitation results are shown. ***,
+  P < 0.005; ns, no significant difference. (G) Phosphorylation of Chk1 by Rad3 was
+  minimally affected in sn134 and hus167. The cells were treated with or without 0.01%
+  MMS for 90 min. Chk1 was immunoprecipitated and separated by SDS-PAGE for Western
+  blotting. The band intensities were quantitated, and the ratios of phosphorylated
+  Chk1 versus total Chk1 in each sample are shown on the bottom. (H) The experiment
+  in panel G was repeated three times, and the quantitation results are shown as ratios
+  of phosphorylated Chk1 versus total Chk1. ***, P < 0.005; ns, no significant difference.
+article_title: Smc5/6 Complex Promotes Rad3ATR Checkpoint Signaling at the Perturbed
+  Replication Fork through Sumoylation of the RecQ Helicase Rqh1.
+citation: Saman Khan, et al. Mol Cell Biol. 2022 Jun;42(6):e00045-22.
+year: '2022'
+
+doi: 10.1128/mcb.00045-22
+journal_title: Molecular and Cellular Biology
+journal_nlm_ta: Mol Cell Biol
+publisher_name: American Society for Microbiology
+
+keywords:
+- Smc5/6
+- Nse2
+- ATR
+- Rad3
+- Rqh1
+- Cds1
+- Chk1
+- sumoylation
+- DNA replication checkpoint
+- DNA damage checkpoint
+- genome integrity
+
+---

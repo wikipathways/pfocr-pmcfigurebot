@@ -1,0 +1,35 @@
+---
+figid: PMC9710264__AMS-18-6-109798-g001
+pmcid: PMC9710264
+image_filename: AMS-18-6-109798-g001.jpg
+figure_link: /pmc/articles/PMC9710264/figure/f0001/
+number: Figure 1
+figure_title: ''
+caption: High-throughput sequencing was used to determine differentially expressed
+  circRNAs in GC tissues and corresponding non-cancerous tissues. The cluster heatmap
+  represented the 43 differentially expressed circRNAs in 3 pairs of GC tumor and
+  non-cancerous tissues, which were selected out according to the screening criteria
+  p < 0.001, false discovery rate ≤ 0.001 and |Log2fold change| ≥ 1, and red color
+  and green color indicated high and low expression level, respectively (A). The expression
+  levels of the top 5 up-regulated circRNAs – hsa_circ_0103546, hsa_circ_0101031,
+  hsa_circ_0017728, hsa_circ_0103948 and hsa_circ_0103942 – were selected according
+  to the fold change, and RT-qPCR assay was performed to verify their expression in
+  55 pairs of tumor and non-cancerous tissues from GC patients (B)*P < 0.05.
+article_title: Hsa_circ_0017728 as an oncogene in gastric cancer by sponging miR-149
+  and modulating the IL-6/STAT3 pathway.
+citation: Chun Yang, et al. Arch Med Sci. 2022;18(6):1558-1571.
+year: '2022'
+
+doi: 10.5114/aoms.2019.87274
+journal_title: 'Archives of Medical Science : AMS'
+journal_nlm_ta: Arch Med Sci
+publisher_name: Termedia Publishing House
+
+keywords:
+- circRNA
+- miR-149
+- IL-6
+- STAT3
+- gastric cancer
+
+---

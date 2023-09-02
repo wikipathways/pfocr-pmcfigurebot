@@ -1,0 +1,39 @@
+---
+figid: PMC9666759__fimmu-13-1004885-g002
+pmcid: PMC9666759
+image_filename: fimmu-13-1004885-g002.jpg
+figure_link: /pmc/articles/PMC9666759/figure/f2/
+number: Figure 2
+figure_title: ''
+caption: 'Reduced number and cytotoxicity in blood NK cells from patients with AD.
+  (A) tSNE plots of total PBMCs from controls and patients with AD. NK cells were
+  labeled with ellipse tag, which were reduced in the AD group. (B) The distribution
+  of cell clusters in AD and control groups. (C) NK cell percentage in individual
+  level. Data are presented as means ± SEM. *p < 0.05, **p < 0.01. (D) Assessment
+  of differentially expressed genes (DEGs) using log-fold change expression versus
+  the difference in the percentage of cells expressing the gene in blood NK cells
+  from patients with AD versus controls (▲Percentage Difference). Genes labeled were
+  chosen based on log-fold change > 1.5 (Up) and log-fold change < −0.5 (Down), adjusted p-value
+  from Wilcoxon rank sum test < 0.05. (E) Violin plots show the expression levels
+  of cytotoxicity and activation markers in blood NK cells from patients with AD versus
+  controls. (F) KEGG pathway analysis of DEGs in blood NK cells from patients with
+  AD versus controls. Blue: downregulated pathways, pink: upregulated pathways. (G)
+  GO enrichment analysis of DEGs in NK cells.'
+article_title: Alzheimer’s disease alters the transcriptomic profile of natural killer
+  cells at single-cell resolution.
+citation: Caiyun Qi, et al. Front Immunol. 2022;13:1004885.
+year: '2022'
+
+doi: 10.3389/fimmu.2022.1004885
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- Alzheimer’s disease
+- natural killer cell
+- single cell sequencing
+- cytotoxicity
+- innate immunity
+
+---

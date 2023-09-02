@@ -1,0 +1,35 @@
+---
+figid: PMC9703637__gr6
+pmcid: PMC9703637
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC9703637/figure/fig6/
+number: Figure 6
+figure_title: ''
+caption: (A) Kinetic evolution of simulated drug uptake and binding (dark blue), and
+  cellular response (green), (B) Raman spectrum of the drug, doxorubicin (dark blue),
+  simulated spectral signature of drug binding (cyan) and of the subsequent cellular
+  response (green), (C) predicted kinetic evolution of the MCR-ALS components, (D)
+  MCR-ALS components, extracted after 50 iterations, (E) evolution of the kinetic
+  constraint constants over 200 iterations of the MCR-ALS algorithm, (F) initial and
+  final (after 200 iterations) constants employed in the MCR-ALS model. (Reproduced
+  with permission from []).
+article_title: 'Monitoring and modelling the dynamics of the cellular glycolysis pathway:
+  A review and future perspectives.'
+citation: Nitin Patil, et al. Mol Metab. 2022 Dec;66:101635.
+year: '2022'
+
+doi: 10.1016/j.molmet.2022.101635
+journal_title: Molecular Metabolism
+journal_nlm_ta: Mol Metab
+publisher_name: Elsevier
+
+keywords:
+- Glycolysis
+- Cellular metabolism
+- Systems biology
+- Dynamics
+- Modelling
+- Vibrational spectroscopy
+- Chemometrics
+
+---

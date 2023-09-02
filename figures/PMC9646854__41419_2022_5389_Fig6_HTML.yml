@@ -1,0 +1,40 @@
+---
+figid: PMC9646854__41419_2022_5389_Fig6_HTML
+pmcid: PMC9646854
+image_filename: 41419_2022_5389_Fig6_HTML.jpg
+figure_link: /pmc/articles/PMC9646854/figure/Fig6/
+number: Fig. 6
+figure_title: PRMT3 deficiency decreases GBM progression by inhibiting aerobic glycolysis
+caption: A Heatmap of the genes differentially expressed in control and PRMT3-KD U251cells
+  after 72 hr. B Volcano plot of transcriptome profiles of wild-type and PRMT3-KD
+  U251cells. Red and blue dots represent genes significantly upregulated or downregulated,
+  respectively in PRMT3-KD cells compared to wild-type cells (fold change >1.5, p < 0.05).
+  C KEGG analysis of the upregulated and downregulated genes in PRMT3-KD compared
+  with wild-type U251cells. D GSEA enrichment plots of the glycolysis pathway, apoptosis
+  and cell cycle pathway showing the comparison of gene expression profiles in wild-type
+  U251cells and PRMT3-KD cells. NES, normalized enrichment score; p value, represents
+  the statistical significance of the enrichment score. E Heatmap of the metabolites
+  changed in PRMT3-KD GSC20 cells. F Relative levels of the metabolites in glycolysis/PPP,
+  amino acid and nucleotide metabolism in Ctrl (red) and PRMT3-KD (blue) GSC20 cells.
+  Data are presented as means ± SEM; n = 3 independent experiments; *p < 0.05; **p < 0.01;
+  ***p < 0.001; two-tailed unpaired Student t-test. G ECAR was measured with a Seahorse
+  XF96 Flux analyzer (left) and quantification (right) in Ctrl and PRMT3-KD GSC20
+  cells. *p < 0.05, **p < 0.01, ***p < 0.001. one-way ANOVA with multiple comparison
+  test. H. OCR was measured with a Seahorse XF96 Flux analyzer (left) and quantification
+  (right) in Ctrl and PRMT3-KD GSC20 cells. *p < 0.05, **p < 0.01, ***p < 0.001. two-tailed
+  unpaired Student t-test. N.S., not significant.
+article_title: PRMT3 drives glioblastoma progression by enhancing HIF1A and glycolytic
+  metabolism.
+citation: Yunfei Liao, et al. Cell Death Dis. 2022 Nov;13(11):943.
+year: '2022'
+
+doi: 10.1038/s41419-022-05389-1
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- CNS cancer
+- Cancer stem cells
+
+---

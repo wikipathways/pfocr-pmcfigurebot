@@ -1,0 +1,29 @@
+---
+figid: PMC9618017__IJB-20-e3245-g002
+pmcid: PMC9618017
+image_filename: IJB-20-e3245-g002.jpg
+figure_link: /pmc/articles/PMC9618017/figure/IJB-20-e3245-g002.tif/
+number: Figure 2
+figure_title: ''
+caption: The top ten enriched GO terms, and KEGG and Reactome pathways in the meta-analysis
+  of A) normal cell lines and B) cancer cell lines obtained by Enrichr. The Gene count
+  represents the number of DEGs included in a term or a pathway, Gene ratio = Gene
+  count / the number of DEGs introduced to Enrichr.
+article_title: Meta-Analysis of EGF-Stimulated Normal and Cancer Cell Lines to Discover
+  EGF-Associated Oncogenic Signaling Pathways and Prognostic Biomarkers.
+citation: Shahrokh Garousi, et al. Iran J Biotechnol. 2022 Jul;20(3):e3245-e3245.
+year: '2022'
+
+doi: 10.30498/ijb.2022.323464.3245
+journal_title: Iranian Journal of Biotechnology
+journal_nlm_ta: Iran J Biotechnol
+publisher_name: National Institute of Genetic Engineering and Biotechnology
+
+keywords:
+- Biomarker
+- Cancer
+- EGF
+- Meta-analysis
+- RNA-Seq
+
+---

@@ -1,0 +1,34 @@
+---
+figid: PMC9674345__elife-82006-fig5-figsupp1
+pmcid: PMC9674345
+image_filename: elife-82006-fig5-figsupp1.jpg
+figure_link: /pmc/articles/PMC9674345/figure/fig5s1/
+number: Figure 5—figure supplement 1
+figure_title: Gene enrichment and pathway analysis of CD44s- and CD44v6-overexpressing
+  (OE) colon cancer cells
+caption: (A) Volcano plots showing differentially expressed genes (absLFC >2, pval
+  <0.01, red) by comparing parental cell lines to the CD44s- and CD44v6-OE samples
+  in both cell lines. (B) Gene set enrichment analysis of parental, CD44s- and CD44v6-OE
+  cells compared with each other in HCT116 and SW480 cells shown in heatmap, respectively.
+  Only significantly altered pathways (normalized enrichment score [NES] >1, and pval
+  <0.05) are shown.
+article_title: Alternative splicing downstream of EMT enhances phenotypic plasticity
+  and malignant behavior in colon cancer.
+citation: Tong Xu, et al. eLife. 2022;11:e82006.
+year: '2022'
+
+doi: 10.7554/eLife.82006
+journal_title: eLife
+journal_nlm_ta: eLife
+publisher_name: eLife Sciences Publications, Ltd
+
+keywords:
+- EMT
+- RNA-binding protein
+- ESRP1
+- CD44
+- NUMB
+- CMS4
+- Human
+
+---

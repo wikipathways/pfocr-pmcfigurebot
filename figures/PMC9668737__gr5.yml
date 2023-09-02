@@ -1,0 +1,84 @@
+---
+figid: PMC9668737__gr5
+pmcid: PMC9668737
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC9668737/figure/fig5/
+number: Figure 5
+figure_title: ''
+caption: 'Mutating the CERT-binding interface of pUL21 inhibits CERT dephosphorylation
+  and reduces the rate of sphingomyelin synthesis in infected cells.A, HaCaT cells
+  were infected at MOI = 5 with WT HSV-1, HSV-1 lacking pUL21 expression (ΔpUL21),
+  or a pUL21 point mutant virus (pUL21V382E). Lysates were harvested at 16 hpi in
+  the presence of phosphatase inhibitors and subjected to SDS-PAGE plus immunoblotting
+  using the antibodies listed. Where indicated, the gel was supplemented with PhosTag
+  reagent to enhance separation of CERT phosphoforms. The antibody recognizing phosphorylated
+  Akt substrates (Akt sub) illustrates activity of the HSV-1 kinase pUS3, several
+  substrates of which are dephosphorylated in a pUL21-dependent manner (arrowheads)
+  (). VP5, infection control. B, quantitation of the CERT dephosphorylation level
+  (ratio of CERTO to total CERT) in cells infected with WT or mutant HSV-1, as determined
+  by densitometry. Results are presented as mean ± SD from three independent experiments.
+  One-way ANOVA with Tukey’s multiple comparisons test was used for the statistical
+  analysis (ns, nonsignificant; ∗∗p < 0.01; ∗∗∗p < 0.001). C, Vero cells were infected
+  at MOI = 1, fixed at 14 hpi, and stained with DAPI (blue) plus an antibody recognizing
+  pUL21 (green). D, pulse-chase experiment to measure the rate of Sph conversion to
+  Cer, SM, and PC. HaCaT cells were infected with WT or pUL21V382E HSV-1 at MOI =
+  5 or mock infected. Cells were incubated with 5 μM alkyne-Sph (pulse) at 14 hpi
+  for 5 min and harvested for lipid extraction either immediately (0 min) or at the
+  indicated times (chase). Extracted lipids were bioconjugated to 3-azido-7-hydroxycoumarin
+  using click chemistry, separated by HPTLC, visualized using UV light, and relative
+  lipid abundances were quantitated by densitometry. Data are from one representative
+  experiment of two independent repeats. E, rate of SM synthesis expressed as its
+  fraction in the cumulative signal for SM and Cer. F, the proportion of alkyne-Sph
+  incorporated into either Cer or SM, representing the temporal influx of Sph into
+  the SM biosynthesis pathway. E and F, the data represent two independent experiments
+  (mean ± SD). Data points are labeled if significantly different to WT HSV-1: ∗∗p <
+  0.01; ∗∗∗∗p < 0.0001 (two-way ANOVA with Dunnett’s multiple comparisons test). G,
+  the resolubilized proteins precipitated during lipid extraction were analyzed by
+  SDS-PAGE and immunoblotting using the antibodies listed. Cer, ceramide; DAPI, 4′,6-diamidino-2-phenylindole;
+  hpi, hours postinfection; HPTLC, high-performance TLC; HSV-1, herpes simplex virus
+  1; MOI, multiplicity of infection; PC, phosphatidylcholine; SM, sphingomyelin; Sph,
+  sphingosine.'
+article_title: Herpes simplex virus 1 protein pUL21 alters ceramide metabolism by
+  activating the interorganelle transport protein CERT.
+citation: Tomasz H. Benedyk, et al. J Biol Chem. 2022 Nov;298(11):102589.
+year: '2022'
+
+doi: 10.1016/j.jbc.2022.102589
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- virus–host interactions
+- ceramide transport
+- herpesvirus
+- lipid metabolism
+- protein phosphatases
+- BAC, bacterial artificial chromosome
+- Cer, ceramide
+- DMEM, dulbecco’s modified eagle's medium
+- DMSO, dimethyl sulfoxide
+- ER, endoplasmic reticulum
+- GST, glutathione-S-transferase
+- HEK293T, human embryonic kidney 293T cell line
+- hpi, hours postinfection
+- HPTLC, high-performance TLC
+- HSV, herpes simplex virus
+- ITC, isothermal titration calorimetry
+- MOI, multiplicity of infection
+- MR, middle region
+- NEC, nuclear egress complex
+- PC, phosphatidylcholine
+- PDB, protein data bank
+- PH, pleckstrin homology
+- PP1, protein phosphatase 1
+- RT, room temperature
+- SAXS, small-angle X-ray scattering
+- SEC–MALS, size-exclusion chromatography with inline multiangle light scattering
+- SM, sphingomyelin
+- Sph, sphingosine
+- START, steroidogenic acute regulatory–related lipid transfer
+- TCEP, Tris(2-carboxyethyl)phosphine
+- TGN, trans-golgi network
+
+---

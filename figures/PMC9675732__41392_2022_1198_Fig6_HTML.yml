@@ -1,0 +1,37 @@
+---
+figid: PMC9675732__41392_2022_1198_Fig6_HTML
+pmcid: PMC9675732
+image_filename: 41392_2022_1198_Fig6_HTML.jpg
+figure_link: /pmc/articles/PMC9675732/figure/Fig6/
+number: Fig. 6
+figure_title: ''
+caption: PD-L1.BB CSR engagement upregulates T-cell activation, cytotoxicity, and
+  proliferation related gene expressions in HER2.28ζ/PD-L1.BB CAR-T cells. a RNA-seq
+  analysis of HER2.28ζ/PD-L1.BB and HER2.28ζ CAR-T cells at 12 h, 24 h and 48 h after
+  stimulation with irradiated SKOV3PD-L1 cells, and the differentially expressed genes
+  (DEGs) were shown in volcano plot (FC ≥ 2, Q ≤ 0.05). FDR, false discovery rate;
+  FC, fold change. b Significant enriched KEGG pathway terms of DEGs between HER2.28ζ/PD-L1.BB
+  and HER2.28ζ CAR-T cells at 24 h post-stimulation (FC ≥ 2, Q ≤ 0.001). c Heatmap
+  of selected DEGs with different expression related to cytokine-cytokine receptor
+  interaction, chemokine and T cell receptor (TCR) signaling pathways. d Analysis
+  of protein-protein interaction (PPI) networks of DEGs between HER2.28ζ/PD-L1.BB
+  and HER2.28ζ CAR-T cells 24 h after stimulation. e–j Gene-set enrichment analysis
+  (GSEA) of IFN-γ e, IL-2 f, TNF-α g signaling pathways, as well as mitosis genes
+  h, G2M checkpoint genes i and stem cell memory pathway j was performed on all gene
+  sets at 24 h post-stimulation. Data shown are representative of 2 replicates
+article_title: A PD-L1-targeting chimeric switch receptor enhances efficacy of CAR-T
+  cell for pleural and peritoneal metastasis.
+citation: Qizhi Ma, et al. Signal Transduct Target Ther. 2022;7:380.
+year: '2022'
+
+doi: 10.1038/s41392-022-01198-2
+journal_title: Signal Transduction and Targeted Therapy
+journal_nlm_ta: Signal Transduct Target Ther
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Drug development
+- Tumour immunology
+- Metastasis
+
+---

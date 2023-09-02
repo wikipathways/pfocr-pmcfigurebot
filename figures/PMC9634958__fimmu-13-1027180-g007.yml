@@ -1,0 +1,37 @@
+---
+figid: PMC9634958__fimmu-13-1027180-g007
+pmcid: PMC9634958
+image_filename: fimmu-13-1027180-g007.jpg
+figure_link: /pmc/articles/PMC9634958/figure/f7/
+number: Figure 7
+figure_title: ''
+caption: 'WGCNA of the PBMCs transcriptome. (A, B) Analysis of network topology for
+  various soft-thresholding powers. The left panel shows the scale-free fit index
+  (y-axis) as a function of the soft-thresholding power (x-axis). The right panel
+  displays the mean connectivity (degree, y-axis) as a function of the soft-thresholding
+  power (x-axis). (C, D) 3D cluster map of genes, based on differences in topological
+  overlap, and assigned module colors. (E) Heatmap depicts the Topological Overlap
+  Matrix (TOM) of genes selected for weighted co-expression network analysis. Light
+  color represents lower overlap and red represents higher overlap. (F) Module-trait
+  associations: Each row corresponds to a module eigengene and each column to a trait.
+  Each cell contains the corresponding correlation and p-value. (G) Scatter diagram
+  for MM vs GS in the greenyellow (eigengene value = 0.48). (H) KEGG signaling pathway
+  enriched by greenyellow gene module.'
+article_title: Humoral immunity and transcriptome differences of COVID-19 inactivated
+  vacciane and protein subunit vaccine as third booster dose in human.
+citation: Yuwei Zhang, et al. Front Immunol. 2022;13:1027180.
+year: '2022'
+
+doi: 10.3389/fimmu.2022.1027180
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- COVID-19
+- third booster vaccine
+- variants of concern
+- humoral immunity
+- transcriptome analysis
+
+---

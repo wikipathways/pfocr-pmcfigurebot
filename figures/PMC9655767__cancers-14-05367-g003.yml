@@ -1,0 +1,50 @@
+---
+figid: PMC9655767__cancers-14-05367-g003
+pmcid: PMC9655767
+image_filename: cancers-14-05367-g003.jpg
+figure_link: /pmc/articles/PMC9655767/figure/cancers-14-05367-f003/
+number: Figure 3
+figure_title: ''
+caption: 'SETD8 regulates several genes from the p53 signal pathway. (A) Multidimensional
+  scaling plot between individual RNA-seq. Distances between individuals correspond
+  to the leading BCV. HEC1B and HEC50B cells treated with negative control siRNA (n
+  = 3) are shown in gray and black, respectively. HEC1B and HEC50B cells treated with
+  four SETD8-targeting siRNAs are shown in red and blue, respectively. (B) MA plots
+  showing differentially expressed genes (DEGs: false discovery rate (FDR) < 0.05,
+  red dots) between HEC50B cells treated with negative control (n = 3) and SETD8-targeting
+  siRNA (n = 4). The differentially expressed SETD8 is indicated by the arrow (green
+  dot). Black lines indicate the log2 fold change (logFC) at 1 and −1. Average logCPM:
+  the average log2 count per million. Circle plot shows the number of DEGs. (C) Relationships
+  between enriched pathways. Pathway enrichment analysis for DEGs (FDR < 0.05, logFC
+  > 1, n = 1552) in SETD8 knockdown HEC50B cells. For pathway enrichment analysis,
+  Gene Ontology networks were generated using ClueGO and Cytoscape as described in
+  the method section. (D) Protein-protein interactions (PPIs) of DEGs in SETD8-knockdown
+  HEC50B cells. PPIs were visualized using Cytoscape with string database. First neighbors
+  of TP53 are shown (FDR < 0.05, logFC > 1, n = 175). Top score of first neighbors
+  of TP53 are shown. (E) KEGG pathway enrichment analysis for genes with upregulated
+  expression (n = 1552) in SETD8-knockdown HEC50B cells. Dot plot showing GeneRatio
+  (ratio of input genes that were annotated in a term) in the x-axis and terms sorted
+  by GeneRatio in the y-axis. The adjusted p-value (p.adjust) is displayed as a gradient
+  from red to blue. The number of counts is indicated by the size of the black circle.
+  The common pathways identified in (C,E) are highlighted with red squares. (F) Gene
+  Ontology analysis of molecular function for upregulated genes (n = 1552) in SETD8-knockdown
+  HEC50B cells.'
+article_title: The Histone Methyltransferase SETD8 Regulates the Expression of Tumor
+  Suppressor Genes via H4K20 Methylation and the p53 Signaling Pathway in Endometrial
+  Cancer Cells.
+citation: Asako Kukita, et al. Cancers (Basel). 2022 Nov;14(21):5367.
+year: '2022'
+
+doi: 10.3390/cancers14215367
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- chromatin immunoprecipitation sequencing
+- endometrial cancer
+- histone methyltransferases
+- machine learning
+- SETD8 TP73
+
+---

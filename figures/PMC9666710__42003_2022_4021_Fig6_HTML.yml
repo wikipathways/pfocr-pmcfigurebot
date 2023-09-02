@@ -1,0 +1,40 @@
+---
+figid: PMC9666710__42003_2022_4021_Fig6_HTML
+pmcid: PMC9666710
+image_filename: 42003_2022_4021_Fig6_HTML.jpg
+figure_link: /pmc/articles/PMC9666710/figure/Fig6/
+number: Fig. 6
+figure_title: KSEA & MoBaS analysis
+caption: a KSEA on whole hearts pTyr enrichment and TMT pTyr Myofilament enrichment
+  data. Heat maps report KSEA results according to normalized scores (i.e., TgErbB2/Ntg,
+  R403Q-αMyHC/Ntg, etc.). Only kinases shared between data sets are included, therefore
+  present in Tg and Ntg. Asterisks indicate the statistical significance of p < 0.05.
+  Red represents a positive score, and blue is a negative score. Red rectangle highlights
+  groups of activated kinases clustered together and are predominant in R403Q-αMyHC,
+  whereas the blue rectangle highlights suppressed kinases that clustered and are
+  predominant on TgErbB2 whole hearts. b MoBaS identified a tightly interconnected
+  subnetwork involved in growth factors signaling (ERBB, PDGFRA, and EGFR1). Represented
+  by the top-scoring PPI subnetwork called Module 1 was identified on TgErbB2 whole
+  heart pTyr enrichment and compared to R403Q-αMyHC. c KSEA on Module 1 group of substrates,
+  MsigDB and PTMsigDB. d Second top-scoring PPI subnetwork called Module 2 was identified
+  on R403Q-αMyHC whole heart pTyr enrichment and compared to TgErbB2. e KSEA on Module
+  2 group of substrates show activated kinases in R403Q-αMyHC. Results from PTMsigDB
+  and MSigDB analysis identified EGFR1, Actin cytoskeleton, ERBB and Focal Adhesion
+  signaling. Each node is a phosphoprotein represented by its most significant peptide
+  on PPI modules. Node color is based on Log2 fold-change relative to NTG. The scale
+  is noted by FC and a bar colored from blue to red.
+article_title: Alteration in tyrosine phosphorylation of cardiac proteome and EGFR
+  pathway contribute to hypertrophic cardiomyopathy.
+citation: Mingguo Xu, et al. Commun Biol. 2022;5:1251.
+year: '2022'
+
+doi: 10.1038/s42003-022-04021-4
+journal_title: Communications Biology
+journal_nlm_ta: Commun Biol
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Proteomics
+- Cardiac hypertrophy
+
+---

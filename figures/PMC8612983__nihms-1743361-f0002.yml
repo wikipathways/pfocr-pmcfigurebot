@@ -1,0 +1,40 @@
+---
+figid: PMC8612983__nihms-1743361-f0002
+pmcid: PMC8612983
+image_filename: nihms-1743361-f0002.jpg
+figure_link: /pmc/articles/PMC8612983/figure/F2/
+number: Fig. 2
+figure_title: Type III IFN receptor expression in DN B cells
+caption: A) Gene set enrichment analysis for genes upregulated in SLE DN B cells from
+  bulk transcriptomic analysis. Pathways ranked by significance. Color of bar indicates
+  number of genes identified in the pathway. B) Log2 Counts-per-million for interferon
+  receptor gene transcripts in SLE and healthy controls from bulk transcriptomic analysis.
+  Negative binomial regressions with subject-level random effect and fixed effects
+  for disease, B cell subset and their interaction were fit for each gene. Genes with
+  Bayes’ factors favoring the aforementioned model and individual comparisons with
+  Bayesian p-values < 0.05 are reported. C) Representative dot plots of DN B cells
+  from healthy donor, SLE with low, and SLE with high CD11c+ CD21- cells as measured
+  by flow cytometry in samples used for bulk RNA-seq transcriptomic analysis (top).
+  CD11c+ CD21- Frequency amongst Naïve and DN B cells from healthy and SLE samples
+  (bottom). Statistics calculated by Mann-Whitney U Test. ** P<0.01. D) Linear regression
+  of expression of type III IFN receptor transcript vs frequency of CD11c+ CD21- (%
+  cells) in naive and DN B cells subsets from healthy and SLE donors. Goodness of
+  fit (r2) and p-value (F test) shown. E) Heat map of genes correlated with IFNLR1
+  transcript (pink) in SLE DN bulk transcriptomic analysis. Percentage of CD11c+ CD21-
+  cells in each sample shown in gold. Increasing IFNLR1 transcript was associated
+  with an increase in frequency of CD11c+ CD21- cells in the sample as measured by
+  flow cytometry and increase in DN2-associated mRNA transcripts FCRL5 and ZEB2 and
+  decrease transcript for negative markers for DN2 cells (such as CD27 and CXCR5)
+  as measured by bulk RNA-seq
+article_title: B cell activation and plasma cell differentiation are promoted by IFN
+  lambda in systemic lupus erythematosus.
+citation: Jennifer L. Barnas, et al. J Immunol. ;207(11):2660-2672.
+year: '2023'
+
+doi: 10.4049/jimmunol.2100339
+journal_title: 'Journal of immunology (Baltimore, Md. : 1950)'
+journal_nlm_ta: J Immunol
+publisher_name: ''
+
+keywords:
+---

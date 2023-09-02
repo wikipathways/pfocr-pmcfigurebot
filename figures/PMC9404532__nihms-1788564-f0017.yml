@@ -1,0 +1,47 @@
+---
+figid: PMC9404532__nihms-1788564-f0017
+pmcid: PMC9404532
+image_filename: nihms-1788564-f0017.jpg
+figure_link: /pmc/articles/PMC9404532/figure/F17/
+number: Extended Data Fig. 10
+figure_title: Combination therapy with VTP-50469 and LEN results in additive anti-leukemic
+  activity in vivo
+caption: a, Immunohistochemistry for human CD45 antigen on bone marrow sections (sternum)
+  on PDX/CBAM-68552 following 3 weeks treatment with vehicle, LEN 50 mg/kg daily,
+  VTP-50469 0.1% rodent diet and the drug combination. b, Analysis of differentiation
+  in circulating leukaemia cells using CD11b and CD14 expression assessed by flow
+  cytometry in CBAM-68552 after 3 weeks drug treatment. Percentage of double-positive
+  cells is indicated. Representative examples from individual mice are shown. c, Assessment
+  of apoptosis in human CD45-positive cells from bone marrow of drug-treated mice
+  using the CBSK-17D model following 2 weeks drug treatment. The percentage of total
+  viable, human cells are indicated. Representative examples from individual mice
+  are shown. d, Quantitation of apoptotic cells from bone marrow of mice transplanted
+  with the CBSK-17D PDX model following 2 weeks drug treatment. Data represent mean+/−SEM
+  with p-value by unpaired two-tail t-test. e, RNA-seq heatmap from PDX/CBAM-68552
+  following 3 weeks treatment with vehicle, LEN 50 mg/kg daily, VTP-50469 0.1% rodent
+  diet and the drug combination. Heatmap displaying RNA-Seq DESeq2 statistical z-score
+  for the co-regulated gene network between VTP-50469 and LEN f, RNA-seq heatmap displaying
+  DESeq2 statistical z-score for genes detected in the “granulocyte” pathway as additively
+  deregulated using QIAGEN Ingenuity Pathway Analysis (IPA) analysis. g, Bar code
+  plots using the gene set for HOXA9 regulated genes under each drug treatment from
+  RNA-seq in vivo using the PDX/CBAM-68552 model. Normalized enrichment score and
+  family-wise error rate p-value determined by the GSEA computational method. h, Gene
+  set testing for reported MLL-fusion gene targets for LEN and VTP-50469. Family-wise
+  p-value and normalized enrichment score (NES) determined by the GSEA computational
+  method. i, IPA upstream regulator analysis. Graph displays selected activation z-scores
+  for detected pathways with p-value <0.05. j, Measurement of peripheral blood circulating
+  human CD45 positive cells from PDX mice transplanted with the DFAM-16835 PDX model
+  (NPM1c) after two weeks of drug treatment in vivo. Data represent mean+/−SEM with
+  p-value determined using unpaired, two-tail t-test.
+article_title: IKAROS and MENIN Coordinate Therapeutically Actionable Leukaemogenic
+  Gene Expression in MLL-r Acute Myeloid Leukaemia.
+citation: Brandon J. Aubrey, et al. Nat Cancer. ;3(5):595-613.
+year: '2023'
+
+doi: 10.1038/s43018-022-00366-1
+journal_title: Nature cancer
+journal_nlm_ta: Nat Cancer
+publisher_name: ''
+
+keywords:
+---

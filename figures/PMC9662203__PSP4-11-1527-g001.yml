@@ -1,0 +1,34 @@
+---
+figid: PMC9662203__PSP4-11-1527-g001
+pmcid: PMC9662203
+image_filename: PSP4-11-1527-g001.jpg
+figure_link: /pmc/articles/PMC9662203/figure/psp412861-fig-0002/
+number: FIGURE 2
+figure_title: ''
+caption: Project workflow used pathway modeling and electronic health record (EHR)
+  analysis to assess drug–drug interactions (DDIs) predicted by network class. (a)
+  Starting with drug‐adverse drug reaction (ADR) relationships from drug labels, we
+  used protein–protein interaction (PPI) modeling and network classification to predict
+  DDIs (workflow demonstrated for ADR‐associated network proteins [ARPs]). We filtered
+  predicted DDIs using TWOSIDES for further validation. (b) The starting drug‐ADR
+  dataset comprised 1970 drugs associated with 34 different ADRs. For the 970 drugs
+  with targets connected to our interactome, we constructed networks and looked for
+  downstream associations to ADRs. We used downstream ARPs to define network classes
+  and predicted DDIs where non‐ADR drugs targeted downstream proteins. The figure
+  depicts a hypothetical “GENE A” class based on the downstream protein, “A.” (c)
+  We validated predicted DDIs by measuring hazard ratios between “network” and “non‐network”
+  classes with (top row) and without (bottom row) the predicted combination drug and
+  took the hazard ratios (HRs) to estimate the DDI effect. Hypothetical example shown
+  to depict experimental set‐up.
+article_title: A network paradigm predicts drug synergistic effects using downstream
+  protein–protein interactions.
+citation: Jennifer L. Wilson, et al. CPT Pharmacometrics Syst Pharmacol. 2022 Nov;11(11):1527-1538.
+year: '2022'
+
+doi: 10.1002/psp4.12861
+journal_title: 'CPT: Pharmacometrics & Systems Pharmacology'
+journal_nlm_ta: CPT Pharmacometrics Syst Pharmacol
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+---

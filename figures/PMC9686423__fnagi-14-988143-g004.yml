@@ -1,0 +1,33 @@
+---
+figid: PMC9686423__fnagi-14-988143-g004
+pmcid: PMC9686423
+image_filename: fnagi-14-988143-g004.jpg
+figure_link: /pmc/articles/PMC9686423/figure/fig4/
+number: Figure 4
+figure_title: ''
+caption: GO and KEGG pathway enrichment of AD-related DEGs. (A) The circle graph shows
+  the AD-related DEGs enriched in the top5 GO categories of BPs. (B) The circle graph
+  shows the AD-related DEGs enriched in the top5 GO categories of CCs. (C) The circle
+  graph shows the AD-related DEGs enriched in the top5 GO categories of MFs. The yellow
+  dots represent the GO categories, the color of the line delivered by a dot indicates
+  the category of the dot in the legend, the size of a dot indicates the number of
+  the genes included. (D) The dot plot shows the AD-related DEGs enriched in the top5
+  KEGG pathways.
+article_title: Integrated bioinformatics-based identification of diagnostic markers
+  in Alzheimer disease.
+citation: Danmei Chen, et al. Front Aging Neurosci. 2022;14:988143.
+year: '2022'
+
+doi: 10.3389/fnagi.2022.988143
+journal_title: Frontiers in Aging Neuroscience
+journal_nlm_ta: Front Aging Neurosci
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- Alzheimer’s disease
+- diagnosis biomarkers
+- immune infiltration
+- machine learning
+- bioinformatics analysis
+
+---

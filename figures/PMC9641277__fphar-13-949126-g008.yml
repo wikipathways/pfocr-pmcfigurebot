@@ -1,0 +1,36 @@
+---
+figid: PMC9641277__fphar-13-949126-g008
+pmcid: PMC9641277
+image_filename: fphar-13-949126-g008.jpg
+figure_link: /pmc/articles/PMC9641277/figure/F8/
+number: FIGURE 8
+figure_title: ''
+caption: Functional enrichment and pathway analyses. (A) Volcano plot of 560 DEGs.
+  Upregulated immune-related DEGs with p < 0.05 and |log2FC| > 1 in the low-risk group
+  are presented (left). (B) Venn diagram of DEGs and IRGs. (C) The top 10 GO terms
+  in molecular function (MF), cellular component (CC), and biological process (BP).
+  (D) The top 30 enriched KEGG pathways. (E) Most significant GSEA sets, from GO-related
+  MSigDB, associated with the low-risk group. (F) Most significant GSEA sets, from
+  KEGG-related MSigDB, associated with the low-risk group. DEG, differentially expressed
+  gene; FC, fold change; IRG, immune-related gene; GO, Gene Ontology; KEGG, Kyoto
+  Encyclopedia of Genes and Genomes; GSEA, gene set enrichment analysis; MSigDB, The
+  Molecular Signatures Database.
+article_title: Identification of a novel ferroptosis-related gene signature associated
+  with prognosis, the immune landscape, and biomarkers for immunotherapy in ovarian
+  cancer.
+citation: Yilong Liu, et al. Front Pharmacol. 2022;13:949126.
+year: '2022'
+
+doi: 10.3389/fphar.2022.949126
+journal_title: Frontiers in Pharmacology
+journal_nlm_ta: Front Pharmacol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- ovarian cancer
+- ferroptosis
+- biomarker
+- prognosis
+- immunotherapy
+
+---

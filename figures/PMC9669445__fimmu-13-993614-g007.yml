@@ -1,0 +1,39 @@
+---
+figid: PMC9669445__fimmu-13-993614-g007
+pmcid: PMC9669445
+image_filename: fimmu-13-993614-g007.jpg
+figure_link: /pmc/articles/PMC9669445/figure/f7/
+number: Figure 7
+figure_title: ''
+caption: DHA suppresses expression of genes associated with cholesterol metabolism
+  and inflammatory signaling pathways at 1 h post-LPS treatment. (A) Differentially
+  expressed genes (DEGs) were identified by using the Seurat FindMarkers function,
+  with thresholds set to select genes with >1.5-fold change in gene expression and
+  genes expressed in at least 25% of groups being compared. DEGs in the “Down with
+  DHA” circle of the Venn diagram are downregulated in DHA.LPS.1 relative to Veh.LPS.1
+  and DEGs in the “Up with LPS” circle of the Venn diagram are upregulated in Veh.LPS.1
+  relative to Veh. The intersection represents LPS-induced genes suppressed by DHA
+  at 1h. (B) 7 of the 11 LPS-induced genes suppressed by DHA involve the cholesterol
+  synthesis pathway. (C) Other LPS-induced genes suppressed by DHA at 1 h are also
+  suppressed by DHA at 4 h.
+article_title: Single cell analysis of docosahexaenoic acid suppression of sequential
+  LPS-induced proinflammatory and interferon-regulated gene expression in the macrophage.
+citation: Kathryn A. Wierenga, et al. Front Immunol. 2022;13:993614.
+year: '2022'
+
+doi: 10.3389/fimmu.2022.993614
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- inflammatory gene expression
+- omega-3 polyunsaturated fatty acids
+- cholesterol metabolism
+- TLR4 signaling
+- NF-κB
+- IFN signaling
+- macrophage
+- scRNAseq
+
+---

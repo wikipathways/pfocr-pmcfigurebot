@@ -1,0 +1,35 @@
+---
+figid: PMC9641044__tlcr-11-10-2064-f4
+pmcid: PMC9641044
+image_filename: tlcr-11-10-2064-f4.jpg
+figure_link: /pmc/articles/PMC9641044/figure/f4/
+number: Figure 4
+figure_title: ''
+caption: 'Overall NEA of pathways associated with progression to osimertinib in NSCLC
+  EGFR T790M patients. (A) Graph representation of pathway enrichment, ranked on numbers
+  of individual links between AGS and FGS genes found in the global network. (B) Example
+  of detailed network view of EGFR pathway enrichment versus AGS of most significant
+  DEGs. Yellow: AGS genes; magenta: FGS genes. Genes without links to the opposite
+  set (AGS to FGS and vice versa) are not shown. NEA, network enrichment analysis;
+  NSCLC, non-small cell lung cancer; EGFR, epidermal growth factor receptor; AGS,
+  altered gene sets; FGS, functional gene sets; DEGs, differentially expressed genes;
+  FDR, false discovery rate.'
+article_title: Plasma RNA profiling unveils transcriptional signatures associated
+  with resistance to osimertinib in EGFR T790M positive non-small cell lung cancer
+  patients.
+citation: Andrey Alexeyenko, et al. Transl Lung Cancer Res. 2022 Oct;11(10):2064-2078.
+year: '2022'
+
+doi: 10.21037/tlcr-22-236
+journal_title: Translational Lung Cancer Research
+journal_nlm_ta: Transl Lung Cancer Res
+publisher_name: AME Publishing Company
+
+keywords:
+- Non-small cell lung cancer (NSCLC)
+- exosomal RNA
+- osimertinib
+- transcriptome
+- epidermal growth factor receptor (EGFR)
+
+---

@@ -1,0 +1,40 @@
+---
+figid: PMC9648810__aging-14-204347-g003
+pmcid: PMC9648810
+image_filename: aging-14-204347-g003.jpg
+figure_link: /pmc/articles/PMC9648810/figure/f3/
+number: Figure 3
+figure_title: ''
+caption: Gene expression changes in the Drosophila gut in Sen, OKSM and combination
+  treatment. (A) Heatmap of gene expression in ubiquitous expression experiments with
+  armGal4; tubGal80ts > UAS-TdTomato (WT), armGal4; tubGal80ts > UAS-OKSM (OKSM),
+  armGal4; tubGal80ts > UAS-Sen (Sen) and armGal4; tubGal80ts > UAS-Sen; UAS-OKSM
+  (OKSM-Sen) dissected midguts showing seven clusters with differing expression patterns
+  across the four conditions. (B) Gene Ontology and KEGG Pathway Enrichment analysis
+  of ubiquitous expression highlighting key signaling and metabolic pathways associated
+  with the individual clusters (FDR < 10%). (C) Heatmap of gene expression changes
+  in stem cell only expression experiments with esgGal4; tubGal80ts > UAS-TdTomato
+  (WT), esgGal4; tubGal80ts > UAS-OKSM (OKSM), esgGal4; tubGal80ts > UAS-Sen (Sen)
+  and esgGal4; tubGal80ts > UAS-Sen; UAS-OKSM (OKSM-Sen) dissected midguts again showing
+  seven clusters with differing expression patterns across the four conditions. (D)
+  Gene Ontology and KEGG Pathway Enrichment analysis of ISC only highlighting key
+  signaling and metabolic pathways associated with the individual clusters (FDR <
+  10%). (E) Venn diagram showing overlap in genes from ubiquitous and ISC-restricted
+  expression. (F) Gene Ontology and KEGG Pathway Enrichment analysis of the major
+  pathways affected in both models.
+article_title: Combining stem cell rejuvenation and senescence targeting to synergistically
+  extend lifespan.
+citation: Prameet Kaur, et al. Aging (Albany NY). 2022 Oct 31;14(20):8270-8291.
+year: '2022'
+
+doi: 10.18632/aging.204347
+journal_title: Aging (Albany NY)
+journal_nlm_ta: Aging (Albany NY)
+publisher_name: Impact Journals
+
+keywords:
+- aging
+- stem cells
+- senescence
+
+---

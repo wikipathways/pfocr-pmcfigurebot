@@ -1,0 +1,44 @@
+---
+figid: PMC9633330__gr3
+pmcid: PMC9633330
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC9633330/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: 'Assessment of Treg-cell functional gene expression and frequency in cisgender
+  and transgender individualsViolin plots displaying circulating Treg-cell (CD4+CD25+CD127–)
+  frequencies between seven pre-pubertal cisgender boys and seven cisgender girls,
+  assessed by t test (A), and 17 post-pubertal cisgender men, 22 cisgender women,
+  five transgender men, and five transgender women, assessed by one-way ANOVA (B);
+  measured by flow cytometry; data are mean (SE). FACS-sorted Treg cells (CD4+CD25+CD127–)
+  from five young, post-pubertal cisgender men and five cisgender women and five transgender
+  men and five transgender women were analysed by RNA-sequencing and whole genome
+  expression was compared by gender. Volcano plots displaying log2 fold changes and
+  log10 p values of DEGs between transgender men and cisgender women (C) and transgender
+  women and cisgender men (D): the red and blue points represent statistically significantly
+  DEGs below p value threshold (p<0·01). Cluster significance –log10 p values of enriched
+  DEG pathway ontology terms of Treg cells between transgender men and cisgender women
+  (E). Hierarchical clustering heatmap (Clustvis, Pearson''s) of normalised gene counts
+  of DEGs found in the functional genetic pathway ontology terms in for transgender
+  men versus cisgender women (F, G). Cluster significance –log10 p values of enriched
+  DEG pathway ontology terms of Treg cells between transgender women versus cisgender
+  men (H). Hierarchical clustering heatmap (Clustvis, Pearson''s) of normalised gene
+  counts of DEGs found in the functional genetic pathway ontology terms in for transgender
+  women versus cisgender men (I, J). Box and whisker plots of Treg-cell gene expression
+  by normalised counts of genes associated with the (K) cytokine signalling, and (L)
+  cell growth and activation pathways; data are mean (SE). ANOVA=analysis of variance.
+  DEGs=differentially expressed genes. FACS=fluorescence-activated cell sorting. Treg=regulatory
+  T. Tresp=responder T.'
+article_title: 'Investigating sex differences in T regulatory cells from cisgender
+  and transgender healthy individuals and patients with autoimmune inflammatory disease:
+  a cross-sectional study.'
+citation: George A Robinson, et al. Lancet Rheumatol. 2022 Oct;4(10):e710-e724.
+year: '2022'
+
+doi: 10.1016/S2665-9913(22)00198-9
+journal_title: The Lancet. Rheumatology
+journal_nlm_ta: Lancet Rheumatol
+publisher_name: Elsevier Ltd
+
+keywords:
+---

@@ -1,0 +1,51 @@
+---
+figid: PMC8966470__cwab116f1
+pmcid: PMC8966470
+image_filename: cwab116f1.jpg
+figure_link: /pmc/articles/PMC8966470/figure/f1/
+number: Fig. 1
+figure_title: ''
+caption: (A) illustrates in cartoon form the endoplasmic reticulum (red) and cis-,
+  medial- and trans-Golgi compartments (blue, yellow and green, respectively). Monosaccharide
+  symbols follow the Symbol Nomenclature for Glycans system (). Shown in the figure
+  are the steps required for synthesis of Gal2GlcNAc2Man3GlcNAc2 after the initial
+  transfer of the sugar precursor to the protein. (B) details the graphical location
+  of glycan intermediates along this biosynthetic pathway for a specific Gal2GlcNAc2Man3GlcNAc2.
+  The color scheme is the same as the ER/Golgi subdomains in (A). (C) is a zoomed-in
+  image of (B), highlighting further processing that may occur within a given HexNAcHex
+  composition. Core fucosylation is indicated by a rightward shift of 0.2 units. Each
+  sequential addition of sialic acid is indicated by an upward shift of 0.2 units.
+  The exact order of fucose and sialic acid addition is not necessarily fixed, leading
+  to multiple pathways to go from Gal2GlcNAc2Man3GlcNAc2 to Gal2GlcNAc2Man3GlcNAc2Fuc1SA2.
+  (D) shows the likely biosynthetic pathway for the synthesis of a specific HexNAc5Hex4.
+  HexNAc5Hex4 is synthesized from HexNAc4Hex3 by the addition of a HexNAc and a galactose,
+  and as addition of galactose is thought to inhibit N-acetyl-glucosamine transferases
+  (GnTs), the addition of HexNAc occurs before the final galactosyltransferase step.
+  (E) illustrates the potential biosynthetic pathways for a specific tetra-antennary
+  HexNAc6Hex7SA2. Following the same logic as (B), addition of the GlcNAc arms proceeds
+  prior to addition of any galactose. The two terminal sialic acids may have been
+  added directly to HexNAc6Hex7SA2 or to any intermediates in which galactose was
+  already present. The regions of the graph corresponding to high-mannose; hybrid;
+  complex and paucimannose regions are indicated with arrows. An important caveat
+  to the use of this representation is that in many instances, the researcher will
+  not know the exact branching pattern for a given glycan, and therefore, multiple
+  distinct glycans may occur at single positions in this map. Distinct isomers will
+  have alternative routes within this map. This will limit the ability to precisely
+  calculate biosynthetic fluxes.
+article_title: A graphical representation of glycan heterogeneity.
+citation: Xuyao Zeng, et al. Glycobiology. 2022 Mar;32(3):201-207.
+year: '2022'
+
+doi: 10.1093/glycob/cwab116
+journal_title: Glycobiology
+journal_nlm_ta: Glycobiology
+publisher_name: Oxford University Press
+
+keywords:
+- glycomics
+- glycoproteomics
+- mass spectrometry
+- N-glycosylation
+- quantification
+
+---

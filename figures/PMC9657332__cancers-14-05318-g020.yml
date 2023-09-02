@@ -1,0 +1,41 @@
+---
+figid: PMC9657332__cancers-14-05318-g020
+pmcid: PMC9657332
+image_filename: cancers-14-05318-g020.jpg
+figure_link: /pmc/articles/PMC9657332/figure/cancers-14-05318-f020/
+number: Figure 20
+figure_title: ''
+caption: Analysis of macrophages in diffuse large B-cell lymphoma. The overall survival
+  of diffuse large B-cell lymphoma was assessed based on the expression of CD163,
+  which is an M2-like macrophage marker. High expression was associated with a poor
+  prognosis of the patients. Then, a protein–protein functional network association
+  analysis was performed using the macrophage markers of CD68 (pan-macrophages), CD16
+  (M1-like macrophages), CD163 (M2-like), PTX3 (M2c-like), and MITF (M2-like), and
+  the regulatory T lymphocytes (Tregs) marker of FOXP3. The network created a macrophage
+  pathway that was subsequently applied to a gene set enrichment analysis (GSEA).
+  The GSEA confirmed the association of the macrophage pathway with the high-risk
+  group, which was characterized by poor overall survival and high CD163-positive
+  macrophages.
+article_title: Artificial Intelligence Predicted Overall Survival and Classified Mature
+  B-Cell Neoplasms Based on Immuno-Oncology and Immune Checkpoint Panels.
+citation: Joaquim Carreras, et al. Cancers (Basel). 2022 Nov;14(21):5318.
+year: '2022'
+
+doi: 10.3390/cancers14215318
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- non-Hodgkin lymphoma
+- mature B-cell neoplasms
+- immune checkpoint
+- immuno-oncology
+- immune microenvironment
+- 3D macrophages
+- artificial intelligence
+- machine learning
+- artificial neural networks
+- deep learning
+
+---

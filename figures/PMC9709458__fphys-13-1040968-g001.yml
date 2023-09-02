@@ -1,0 +1,46 @@
+---
+figid: PMC9709458__fphys-13-1040968-g001
+pmcid: PMC9709458
+image_filename: fphys-13-1040968-g001.jpg
+figure_link: /pmc/articles/PMC9709458/figure/F1/
+number: FIGURE 1
+figure_title: ''
+caption: S-acylation in the proximal TCR signaling pathway. An antigen peptide, bound
+  to an MHC of an antigen presenting cell (APC), engages and stimulates the TCR while
+  its co-receptor (CD4/CD8) binds to the MHC, resulting in the activation of several
+  signaling cascades, subsequently leading to T cell activation. Upon TCR stimulation,
+  PAG/Cbp is de-phosphorylated, and disassociates from Csk, allowing for the recruitment
+  of Lck to the TCR. Lck is then activated, and phosphorylates the ITAMs of the TCR-associated
+  CD3 and ζ-chains. These phosphorylated ITAMs then act as a docking site for ZAP-70,
+  which is then phosphorylated by Lck. ZAP-70 then phosphorylates and activates the
+  scaffolding protein LAT, which is a docking site for several proteins, including
+  SLP-76, PLC-γ1, and GRB2. These are then able to be phosphorylated and activated,
+  many by ZAP-70. The activation of PLC-γ1 leads to the formation of IP3 and DAG from
+  PIP2. IP3 then binds to the IP3R on the ER membrane, leading to the depletion of
+  the ER Ca2+ stores. This activates STIM1, which then binds to Orai1 at ER-PM junctions,
+  forming an activated CRAC channel, and allowing for Ca2+entry into the cell (shown
+  as red dots). This then leads to the activation of the NFAT pathway. DAG activates
+  both the NFκB pathway and the Ras pathway. These pathways result in the activation
+  of transcription factors, ultimately leading to gene expression and T cell activation.
+  Proteins in red are reported to be S-acylated. APC- antigen presenting cell; TCR-
+  T cell receptor; MHC- major histocompatibility complex; ITAMs-immunoreceptor tyrosine-based
+  activation motifs. Created with BioRender.com.
+article_title: Regulation of T cell function by protein S-acylation.
+citation: Savannah J. West, et al. Front Physiol. 2022;13:1040968.
+year: '2022'
+
+doi: 10.3389/fphys.2022.1040968
+journal_title: Frontiers in Physiology
+journal_nlm_ta: Front Physiol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- S-acylation
+- palmitoylation
+- protein acyltransferases
+- palmitoyl acyltransferases
+- T cell receptor
+- T cell signaling
+- DHHC enzymes
+
+---

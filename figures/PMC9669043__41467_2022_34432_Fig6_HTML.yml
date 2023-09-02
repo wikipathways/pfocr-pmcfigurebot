@@ -1,0 +1,41 @@
+---
+figid: PMC9669043__41467_2022_34432_Fig6_HTML
+pmcid: PMC9669043
+image_filename: 41467_2022_34432_Fig6_HTML.jpg
+figure_link: /pmc/articles/PMC9669043/figure/Fig6/
+number: Fig. 6
+figure_title: YAP promotes inflammatory response during Staphylococcus aureus infection
+caption: 'HEK293 cells were cultured and infected, as described in Fig. . A nCounter
+  NanoString host response inflammatory gene expression in the four groups; depicted
+  genes were selected if at least one comparison between two groups gave a corrected
+  p value <0.01, and they must be related to chemokine, cytokine, prostaglandin, or
+  inflammasome signaling as indicated (n = 3/group). B Volcano plot representation
+  of differential gene expression in YAP−/− infected group versus the baseline of
+  WT infected group; depicted genes are chemokine and cytokine (red circle), leukotriene
+  and prostaglandin (green square), and inflammasome (blue triangle) pathway genes
+  differentially expressed. C RT-qPCR quantification of IL6, CXCL8, PTGS2, and IL1B
+  expression normalized to HPRT expression (n = 9/group). D IL-8 level in cell supernatant
+  (pg/mL) assessed by ELISA (n = 9/group). Results are expressed as fold change vs.
+  control group (only in A, C) and presented as histograms (A) or individual values
+  (C, D) with mean ± SD, representing three independent experiments (C, D). WT wild-type,
+  SA S. aureus. One-way analysis of variance (ANOVA) test with false discovery rate
+  (FDR) correction for multiple comparisons post hoc tests: *p < 0.05; **p < 0.01;
+  ***p < 0.001.'
+article_title: YAP promotes cell-autonomous immune responses to tackle intracellular
+  Staphylococcus aureus in vitro.
+citation: Robin Caire, et al. Nat Commun. 2022;13:6995.
+year: '2022'
+
+doi: 10.1038/s41467-022-34432-0
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Autophagy
+- Cell signalling
+- Infection
+- Inflammation
+- Bacteria
+
+---

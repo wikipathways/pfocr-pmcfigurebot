@@ -1,0 +1,30 @@
+---
+figid: PMC9631685__advancesADV2021006306f5a
+pmcid: PMC9631685
+image_filename: advancesADV2021006306f5a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 5
+caption: Loss of METTL3 induces IFN signaling upon PRMT5 inhibition. (A) Enriched
+  pathways within upregulated genes in KO cells (analyzed using “Enrichr”; https://maayanlab.cloud/Enrichr/).
+  (B) Volcano plot depicting up and downregulated genes upon METTL3 KO. (C) Heatmap
+  showing the expression pattern of IFN pathway signaling genes. Z-scores were calculated
+  for each gene using DESeq2 normalized counts. Gene expression clustering was performed
+  using the Euclidean distance and complete linkage method. mRNA expression of (D)
+  IFIT genes and (E) IRFs in WT, METTL3 KO - DMSO and GSK595-treated cells (normalized
+  to WT DMSO). (F) Validation of METTL3 overexpression in CAL-1 cells. (G) Expression
+  of IFIT1 in WT and METTL3 OE cells after GSK595 treatment. Data are shown as mean
+  ± standard error of the mean of 3 independent experiments. *P < .05; **P < .01;
+  P < .001.
+article_title: Loss of METTL3 attenuates blastic plasmacytoid dendritic cell neoplasm
+  response to PRMT5 inhibition via IFN signaling.
+citation: Malini Rethnam, et al. Blood Adv. 2022 Sep 27;6(18):5330-5344.
+year: '2022'
+
+doi: 10.1182/bloodadvances.2021006306
+journal_title: Blood Advances
+journal_nlm_ta: Blood Adv
+publisher_name: American Society of Hematology
+
+keywords:
+---

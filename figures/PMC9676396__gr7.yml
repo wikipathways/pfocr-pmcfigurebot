@@ -1,0 +1,68 @@
+---
+figid: PMC9676396__gr7
+pmcid: PMC9676396
+image_filename: gr7.jpg
+figure_link: /pmc/articles/PMC9676396/figure/fig7/
+number: Figure 7
+figure_title: ''
+caption: UBXN7 inhibits HBV replication in an autophagy-dependent manner. (A) UAS
+  domain is required for UBXN7 to inhibit NF-κB signal pathway. HepG2.2.15 cells were
+  transfected with FLAG-UBXN7 or FLAG-UBXN7-ΔUAS mutant plasmid. Levels of indicated
+  proteins were detected. Note that deletion of UAS domain abolished the ability to
+  UBXN7 to reduce NF-κB signaling as reflected by reduction in p-IκBα. (B) UAS domain
+  is required for UBXN7 to reduce autophagy. Cells were transfected with GFP-LC3,
+  a marker for autophagy, and control or UBXN7 expression plasmid and analyzed by
+  confocal microscopy (left). The GFP-LC3 puncta were quantified (right). Note that
+  overexpressing UBXN7 decreased autophagy, and deletion of UAS domain abolished this
+  ability. (C and D) UAS domain of UBXN7 is required for its ability to inhibit HBV
+  RNA and protein levels in HepG2.2.15. Cells were transfected as in (A). The secreted
+  HBsAg and HBeAg (C) and HBV RNA (D) were determined. (E) IKK-β–mediated NF-κB signaling
+  is critical for the function of HBx to regulate viral transcription by inhibiting
+  UBXN7. Huh7 cells were transfected with pHBV1.2, pHBV1.2-Δx, and FLAG-IKK-β plasmids.
+  Levels of HBV RNA were detected by Northern blot. (F–H) UAS domain of UBXN7 is required
+  for its ability to inhibit HBV RNA and protein levels and to induce autophagy in
+  primary human hepatocytes (PHHs). PHH cells were infected with HBV viruses, followed
+  by transfection with FLAG-UBXN7 or FLAG-UBXN7-ΔUAS mutant plasmid. Levels of the
+  secreted HBsAg (F), HBV pgRNA (G), and autophagy marker LC3 (H) were then determined.
+  Note increased level of LC3-II in presence of UBXN7 but not the UAS deletion mutant.
+  (I and J) UAS domain of UBXN7 is required for its ability to inhibit expression
+  of HBsAg and to induce autophagy in HepG2-NTCP cells. HepG2-NTCP cells were infected
+  with HBV viruses, followed by transfection with FLAG-UBXN7 or FLAG-UBXN7-ΔUAS mutant
+  plasmid. Levels of secreted HBsAg (I) and autophagy marker LC3 (J) were then determined.
+  Note increased level of LC3-II in presence of UBXN7 but not the UAS deletion mutant.
+  (Three independent experiments were performed, and representative data are shown.
+  ns P ≥ .05, ∗P < .05, ∗∗P < .01, ∗∗∗P < .001 in B–D, F, G, and I).
+article_title: HBV X Protein Induces Degradation of UBXN7, a Novel Negative Regulator
+  of NF-κB Signaling, to Promote HBV Replication.
+citation: Sen Yuan, et al. Cell Mol Gastroenterol Hepatol. 2023;15(1):179-195.
+year: '2023'
+
+doi: 10.1016/j.jcmgh.2022.09.003
+journal_title: Cellular and Molecular Gastroenterology and Hepatology
+journal_nlm_ta: Cell Mol Gastroenterol Hepatol
+publisher_name: Elsevier
+
+keywords:
+- UBXN7
+- IKK-β
+- HBx
+- HBV Replication
+- Ubiquitination
+- ELISA, enzyme-linked immunosorbent assay
+- HA, hemagglutinin
+- HBV, hepatitis B virus
+- HBx, HBV X protein
+- IKK-β, IκB kinase β
+- NF-κB, nuclear factor kappa B
+- PCR, polymerase chain reaction
+- PHHs, primary human hepatocytes
+- SILAC, stable isotope labeling by amino acids in cell culture
+- UAS, ubiquitin-associating
+- Ub, ubiquitin
+- UBA, ubiquitin-associated
+- UBX, ubiquitin regulatory X
+- UIM, ubiquitin-interaction motif
+- ULD, ubiquitin-like domain
+- WT, wild-type
+
+---

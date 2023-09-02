@@ -1,0 +1,70 @@
+---
+figid: PMC9684461__41467_2022_34417_Fig5_HTML
+pmcid: PMC9684461
+image_filename: 41467_2022_34417_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC9684461/figure/Fig5/
+number: Fig. 5
+figure_title: During optimal proliferation conditions, blocking Xrn1 import leads
+  to inefficient mRNA synthesis and decay, without affecting mRNA levels
+caption: 'GRO analysis was performed, in three replicates, as described in Method.
+  Box and whisker plot of the median levels (in arbitrary units) of a transcription
+  rate (TR); b half-lives (HLs). Each box represents the 25th to 75th percentile of
+  values, with the median noted by the horizontal bar. Whiskers terminate at maxima/minima
+  or a distance of 1.5 times the IQR away from the upper/lower quartile, whichever
+  is closer. p-values were obtained by Wilcoxon rank sum test, ***: p < 0.001. c Defect
+  in TR of xrn1ΔNLS1is correlated with that of xrn1ΔNLS1/2. Each spot represents an
+  average of 3 replicates. Pearson correlation coefficient (r) are indicated. d Defects
+  of mRNA decay (expressed as in C) of xrn1ΔNLS1is correlated with that of xrn1ΔNLS1/2.
+  Each spot represents an average of 3 replicates. Pearson correlation coefficient
+  (r) are indicated. e-h The effect of mutating NLSs on decay rates of specific mRNAs,
+  determined by Northern blot hybridization. Decay assay described in Methods. Shown
+  are mRNA levels, quantified using the PhosphorImager technology and normalized to
+  SCR1 mRNA, as a function of time post-transcription arrest. n = 2 biologically independent
+  experiments. Error bars represent standard deviation (S.D.). i For mRNAs with low
+  Kis-values (bins 1-3), the effect of xrn1ΔNLS1/2mutations on HLs is comparable to
+  ∆xrn1. mRNAs were arranged in a ascending order based on their kis-values and divided
+  into 6 bins with equal number of genes. The ratios between HL in the mutant and
+  that in WT is shown. Box and whisker plot of the log2 HLs ratios are shown. N = 3
+  biological replicates. Each box represents the 25th to 75th percentile of values,
+  with the median noted by the horizontal bar. Whiskers terminate at maxima/minima
+  or a distance of 1.5 times the IQR away from the upper/lower quartile, whichever
+  is closer. Note that mRNAs in most bins were affected by XRN1 deletion. j Xrn1 and
+  Xrn1ΔNLS1/2equally bind mRNA in vitro, as opposed to differential binding in vivo.
+  In vivo or in vitro mRNA interactome profiles of WT and ΔNLS1/2 mutant forms of
+  Xrn1-FLAG were determined, each condition in a duplicate, as follows. Condition
+  I: in vivo. Live cells were UV cross linked followed by a standard RIP-seq. Condition
+  II: in vitro. Purified Xrn1 samples were reacted in vitro with affinity purified
+  poly(A) + mRNA followed by RIP-seq. For each condition, the log2 fold change (FC)
+  of mutant to WT RIP-seq reads was computed, and the median taken within each of
+  these predefined bins (see i). Centering was performed computationally. k Normal
+  proliferation of cells carrying mutations in Xrn1 NLSs is dependent on SKI2. Synthetic
+  sickness assay of NLSs mutants with ski2Δ. ski2Δ, xrn1-AID strains carrying the indicated
+  plasmid were streaked on plates lacking (right panel) or carrying Auxin (that induced
+  Xrn1-AID degradation). Photos were taken after 2 days at 30 oC. l During optimal
+  conditions, mRNA abundance is unaffected by mutations in Xrn1 NLSs. mRNA abundance
+  was determined (Methods). Each box represents the 25th to 75th percentile of values,
+  with the median noted by the horizontal bar. Whiskers terminate at maxima/minima
+  or a distance of 1.5 times the IQR away from the upper/lower quartile, whichever
+  is closer. p-values were obtained by Wilcoxon rank sum test and were found to be
+  not significant (n.s.). Median values in arbitrary unit (A.U.) are indicated inside
+  the plots. m mRNA Abundance (RA) in xrn1∆NLS1/2are correlated with those in WT.
+  Each spot represents an average of 3 biological replicates. Pearson correlation
+  coefficient (r) is indicated. n-o The effects of NLS1 (n) or NLS1/2 (o) disruption
+  on transcription rates (TR) are correlated with their effects on HLs. Scatter-plot
+  of log2 mutant/WT ratio. Each spot represents an average of 3 replicates. Pearson
+  correlation coefficient (r) is indicated.'
+article_title: RNA-controlled nucleocytoplasmic shuttling of mRNA decay factors regulates
+  mRNA synthesis and a novel mRNA decay pathway.
+citation: Shiladitya Chattopadhyay, et al. Nat Commun. 2022;13:7184.
+year: '2022'
+
+doi: 10.1038/s41467-022-34417-z
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Molecular biology
+- RNA decay
+
+---

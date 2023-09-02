@@ -1,0 +1,37 @@
+---
+figid: PMC9698461__ijms-23-14037-g003
+pmcid: PMC9698461
+image_filename: ijms-23-14037-g003.jpg
+figure_link: /pmc/articles/PMC9698461/figure/ijms-23-14037-f003/
+number: Figure 3
+figure_title: ''
+caption: Analysis of the differentially expressed genes (DEGs) in the 4 and 14 dpi
+  groups compared with the control group. (a) Principal component analysis (PCA) plot
+  shows clustering of three groups, with axes corresponding to the two different principal
+  components. The blue, green and red dots represent the control, 4 dpi and 14 dpi
+  samples, respectively, with 3 parallel samples in each group. (b) Venn diagrams
+  of RNA-Seq showing the overlap of genes upregulated or downregulated in the skin
+  at 4 or 14 dpi versus control fish. (c,d) GO enrichment analysis of DEGs related
+  to defense responses and immune responses. The size of the bubbles represents number
+  of genes in a pathway, while the color represents −Log10(p-adj). Rich factor of
+  the X-axis refers to (the number of DEGs annotated to the GO term)/(the total number
+  of genes annotated to the GO term).
+article_title: Alterations of the Mucosal Immune Response and Microbial Community
+  of the Skin upon Viral Infection in Rainbow Trout (Oncorhynchus mykiss).
+citation: Mengting Zhan, et al. Int J Mol Sci. 2022 Nov;23(22):14037.
+year: '2022'
+
+doi: 10.3390/ijms232214037
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- rainbow trout
+- infectious hematopoietic necrosis virus (IHNV)
+- mucosal immunity
+- skin microbiota
+- RNA-Seq
+- 16S rRNA sequencing
+
+---
