@@ -1,0 +1,44 @@
+---
+figid: PMC10462041__nihpp-2023.08.16.553532v1-f0003
+pmcid: PMC10462041
+image_filename: nihpp-2023.08.16.553532v1-f0003.jpg
+figure_link: /pmc/articles/PMC10462041/figure/F3/
+number: Fig. 3
+figure_title: S. Typhimurium invasion of macrophages suppresses tryptophan kynurenine
+  pathway metabolism and 3-HK supplementation upregulates the expression of genes
+  associated to gated ion channels activity including that of ionotropic glutamate
+  receptors
+caption: '(A) Ilustration of bulk RNA-seq analysis from sorted populations of macrophages
+  isolated from uninfected and S. Typhimurium infected animals with and without 3-HK
+  treatment at 4 hpi. Briefly, 72 hpf embryos were infected or uninfected, 3-HK treated
+  or vehicle treated, and at 4 hpi a single cell suspension of groups of 5 embryos
+  per condition was prepared for fluorescence activated cell sorting according to
+  fluorescence emission (i.e., mCherry+ or mCherry+/GFP+). A range of 8-13 biological
+  replicates/condition were collected from 2 independent infection experiments (837.5
+  +/− 117.5 CFU and 770 +/− 45 CFU). (B-C) Heatmaps showing selected genes differential
+  expression from significant biological processes identified by Gene Set Enrichment
+  Analysis in S. Typhimurium invaded versus naïve macrophages. (B) Gene sets belonging
+  to pro-inflammatory responses, Salmonella infection, autophagy and (C) tryptophan
+  metabolism genes are shown and clustered according to category (FDR < 0.05 for all
+  4 pathways). S. Typhimurium invasion of macrophages upregulates genes related to
+  pro-inflammatory responses and Salmonella infection, and supresses the antimicrobial
+  autophagy response. (D) Gene Set Enrichment Analysis plot of gene sets related to
+  gated channel activity in S. Typhimurium invaded macrophages from 3-HK treated animals
+  versus untreated animals. 3-HK treatment upregulates the expression of gated ion
+  channels in S. Typhimurium invaded macrophages. (E) Cnet plot of leading edge genes
+  associated with gated channel activity from the Gene Set Enrichment Analysis in
+  (D) highlighing in red genes encoding ionotropic glutamate receptors of the AMPA
+  (gria1b, gria3) and Kainate (grik1b) receptors subclasses (padj < 0.05 for all genes
+  displayed). NES: normalized enrichment score; FDR: false discovery rate.'
+article_title: A tryptophan metabolite modulates the host response to bacterial infection
+  via kainate receptors.
+citation: Margarita Parada-Kusz, et al. bioRxiv. 2023 Aug 18:2023.08.16.553532.
+year: '2023'
+
+doi: 10.1101/2023.08.16.553532
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+---

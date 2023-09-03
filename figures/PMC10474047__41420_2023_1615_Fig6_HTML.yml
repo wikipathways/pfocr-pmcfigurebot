@@ -1,0 +1,59 @@
+---
+figid: PMC10474047__41420_2023_1615_Fig6_HTML
+pmcid: PMC10474047
+image_filename: 41420_2023_1615_Fig6_HTML.jpg
+figure_link: /pmc/articles/PMC10474047/figure/Fig6/
+number: Fig. 6
+figure_title: ΔΔ cells motility defect is rescued by an NTRK3-c-Src signaling pathway
+caption: 'A Cell motility rescue assay by c-SRC. WT and ΔΔ cells were transfected
+  with H2B-mCherry to label and track the nuclei. WT cells were co-transfected with
+  GFP expression plasmid (vehicle) and ΔΔ cells were co-transfected with either GFP
+  (vehicle), c-Src DN, c-Src WT, or c-Src CA expression plasmid. Each graph corresponds
+  to 30 representative tracks of transfected WT or ΔΔ cells with the initial position
+  of the cells centered at the origin. B Schematic representation (created with BioRender)
+  of c-Src inhibition and activation mechanisms. c-Src inhibition involves both Y527
+  phosphorylation by the CSK kinase and Y416dephosphorylation by the PTPN13 phosphatase.
+  Upon extracellular signaling by integrins, c-Src disengages from CSK, with concomitant
+  Y527dephosphorylation that may involve several putative phosphatases, and finally
+  c-Src autophosphorylates on Y416. Signal transducing adaptor proteins such as DAB1
+  (Disabled-1) are known to increase c-Src activation. Finally, membrane receptors
+  such as the neurotrophin 3 tyrosine kinase receptor NTRK3 have also been shown to
+  trigger c-Src activation. C Gene expression of the actors of c-Src inhibition and
+  activation pathways in WT and ΔΔ cells. Gene expression levels were normalized to
+  Ppia. Data are the normalized mean ± SEM of three independent experiments. Gene
+  expression were compared between ΔΔ and WT cells using a Student’s t test. ns: not
+  significant, ***p < 0.001. D Cell motility rescue assay by NTRK3. (Left) Schematic
+  representation of the Ntrk3 isoforms expressed in αT3-1 cells. Ligand domain is
+  depicted with red boxes, the transmembrane domain with a green box and the tyrosine
+  kinase domain with yellow boxes. The modified exon in Ntrk3-205 isoform is represented
+  by a blue box. (Right) Cell motility assay. ΔΔ cells were co-transfected with H2B-mCherry
+  and either with Ntrk3-201, Ntrk3-202, or Ntrk3-205 isoform expression plasmids.
+  Each graph corresponds to 30 representative tracks of transfected ΔΔ cells with
+  the initial position of the cells centered at the origin. E c-SRC-NTRK3 co-immunoprecipitation
+  assay. WT cells were co-transfected with c-Src-eGFP and either with 3XFLAG control
+  plasmid (lane 1, vehicle) or 3XFLAG-tagged isoform expression plasmids (Lane 2,
+  Ntrk3-201, lane 3 Ntrk3-202 and lane 4 Ntrk3-205). NTRK3 was immunoprecipitated
+  using anti-FLAG M2 antibody-coated magnetic beads. Immuno-precipitates were analyzed
+  by Western blot for NTRK3 precipitation (using anti-FLAG antibody) and for both
+  total and pY416 c-Src co-precipitations (Top panels). Expression of FLAG-tagged
+  NTRK3, total c-SRC and pY416c-SRC-eGFP were verified by western blot analysis on
+  whole cell lysates (Bottom panels). GAPDH was used as an internal reference for
+  sample loading. The different bands observed for NTRK3 isoforms are consistent with
+  glycosylated forms of the receptor. F Cell velocity analysis. ΔΔ cells were co-transfected
+  with H2B-mCherry and either with GFP (vehicle), Ntrk3-201, or a mix of Ntrk3-201
+  and DN c-Src expression plasmids. Cell instantaneous speed (µm/minute) was calculated
+  from the analysis of over 100 transfected ΔΔ cells over 16 h videomicroscopy, using
+  ImageJ TrackMate. ΔΔ cell mean velocity was compared between the three conditions
+  by ANOVA followed by Tukey multiple comparison test. ns: not significant, ***p < 0.001.'
+article_title: The Neurod1/4-Ntrk3-Src pathway regulates gonadotrope cell adhesion
+  and motility.
+citation: Charles Le Ciclé, et al. Cell Death Discov. 2023;9:327.
+year: '2023'
+
+doi: ''
+journal_title: ''
+journal_nlm_ta: ''
+publisher_name: ''
+
+keywords:
+---
