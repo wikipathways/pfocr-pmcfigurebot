@@ -1,0 +1,53 @@
+---
+figid: PMC9489683__nihms-1826127-f0005
+pmcid: PMC9489683
+image_filename: nihms-1826127-f0005.jpg
+figure_link: /pmc/articles/PMC9489683/figure/F5/
+number: 'Figure 5:'
+figure_title: 'Maintaining the regulatory T cell program during inflammation: a delicate
+  balance'
+caption: 'Maintaining the suppressive phenotype of effector regulatory T cells (eTregs)
+  is an active process which involves epigenetic, transcriptomic, and post-translational
+  regulation of FoxP3. Demethylation of the enhancer CNS2 within the FoxP3 locus is
+  an absolute prerequisite to initiate a stable eTreg program. External signaling
+  catalyzes methylcytosine demethylation of CNS2, presumably via activation of the
+  methylcytosine dioxygenase Tet2, Tet3, and Mecp2, to enable recruitment of phosphorylated
+  STAT5 and associated-transcription factors which initiate FoxP3 transcription upon
+  binding to the FoxP3 promoter. The required chromatin accessibility of the FoxP3
+  promoter is modulated by histone acetylation and trimethylation via Mecp2 and Ezh2,
+  respectively. Conversely, inflammatory mediators promote activation of the methyltransferase
+  Dnmt3a and Dnmt1 to inhibit CNS2 accessibility to transcription factors. STAT3 and
+  STAT6 can directly compete with STAT5 for binding to the CNS2 locus and thus impede
+  FoxP3 transcription. DNAM-1 competes with TIGIT for CD155 binding, resulting in
+  the activation of the PI3K/AKT/mTORC pathway, which represses FoxP3 transcription.
+  Similarly, IL-1β- mediated expression of Id2 blocks the transcription of FoxP3.
+  At the protein level, pro-inflammatory cytokines can promote FoxP3 ubiquitylation
+  and subsequent proteasomal degradation and activate a DBC1/caspase-8-mediated downregulation
+  of the FoxP3 protein.Blimp-1: B lymphocyte-induced maturation protein-1; CNS2: conserved
+  non-coding sequence 2; DBC1: deleted in bladder cancer protein 1; DNAM1: DNAX accessory
+  molecule-1 (CD226); Dnmt: DNA cytosine-5-methyltransferase; Ezh2: enhancer of zeste
+  homolog 2; ICOS: inducible T-cell costimulatory; Id2: inhibitor of DNA binding 2;
+  Mecp2: methyl CpG binding protein 2; NFIL3: nuclear factor interleukin 3 regulated;
+  PI3K/AKT/mTORC1: phosphoinositide 3 kinase/ protein kinase B/ mammalian target of
+  rapamycin complex 1; Stub1: STIP1 homology and U-Box containing protein 1; Tet:
+  Tet methylcytosine dioxygenase; TIGIT: T cell immunoreceptor with Ig and ITIM domain;
+  TNF-α: tumor necrosis factor alpha; TNFR2: tumor necrosis factor receptor 2; USP:
+  ubiquitin carboxyl-terminal hydrolase.'
+article_title: 'Neuroinflammation: extinguishing a blaze of T cells.'
+citation: Nail Benallegue, et al. Immunol Rev. ;311(1):151-176.
+year: '2023'
+
+doi: 10.1111/imr.13122
+journal_title: Immunological reviews
+journal_nlm_ta: Immunol Rev
+publisher_name: ''
+
+keywords:
+- T cells
+- Th cells
+- Tregs
+- central nervous system
+- inflammation
+- autoimmunity
+
+---

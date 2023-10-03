@@ -1,0 +1,40 @@
+---
+figid: PMC10540449__fcell-11-1272201-g001
+pmcid: PMC10540449
+image_filename: fcell-11-1272201-g001.jpg
+figure_link: /pmc/articles/PMC10540449/figure/F1/
+number: FIGURE 1
+figure_title: ''
+caption: The schematic of the bone morphogenetic protein (BMP) signaling pathway.
+  Created with BioRender.com. Initially, BMP ligands bind to type II receptors (BMPR2/ACVR2A/ACVR2B),
+  which in turn recruit and phosphorylate type I receptors (BMPR1A/BMPR1B/ACVR1/ACVRL1).
+  This phosphorylation event leads to the activation of SMAD1/5/9 proteins, which
+  then form a complex with the common SMAD (SMAD4) and transduce signals to the nucleus,
+  modulating the expression of downstream target genes, including Id1 and Id2. Extracellular
+  antagonist Noggin suppresses BMP signaling by inhibiting the binding of BMP ligands
+  with their corresponding receptors. Additionally, inhibitory SMAD6 and SMAD7 prevent
+  the phosphorylation and nuclear translocation of SMAD1/5/9 proteins. Furthermore,
+  noncanonical BMP signaling transduces through phosphorylated TAK1 (pTAK1). BMPRI
+  interacts with the TAK1-TAB1 complex via X-linked inhibitor of apoptosis (XIAP),
+  leading to the phosphorylation and activation of downstream mitogen-activated protein
+  kinases (MAPKs), including p38, ERK1/2, and JNK. Consequently, these activated kinases
+  translocate to the nucleus, where they phosphorylate and activate ATF2, c-JUN, and
+  c-FOS, thus regulating the transcription of downstream target genes.
+article_title: 'BMP signaling in the development and regeneration of tooth roots:
+  from mechanisms to applications.'
+citation: Cangwei Liu, et al. Front Cell Dev Biol. 2023;11:1272201.
+year: '2023'
+
+doi: 10.3389/fcell.2023.1272201
+journal_title: Frontiers in Cell and Developmental Biology
+journal_nlm_ta: Front Cell Dev Biol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- tooth root
+- BMP signaling
+- stem cells
+- bio-root
+- regeneration
+
+---

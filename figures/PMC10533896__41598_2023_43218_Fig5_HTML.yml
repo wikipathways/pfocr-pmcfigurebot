@@ -1,0 +1,43 @@
+---
+figid: PMC10533896__41598_2023_43218_Fig5_HTML
+pmcid: PMC10533896
+image_filename: 41598_2023_43218_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC10533896/figure/Fig5/
+number: Figure 5
+figure_title: ''
+caption: CSE1L and AURKA pathway gene high p53 WT NSCLC cell lines are more sensitive
+  to mocetinostat and CSE1L depletion. (A) The gene expression of CSE1L and the AURKA
+  pathway in 9 p53 WT NSCLC cell lines was extracted from the CCLE RNAseq database.
+  The median expression level of each gene was utilized as a cutoff (1 or 0) to determine
+  high or low expression. The cell lines were then ranked based on the sum of the
+  genes' high expression levels, referred to as the gene set score (GS#). (B) The
+  indicated cell lines were treated with vehicle or the indicated doses of mocetinostat
+  (1 µM) for 72 h and then analyzed with MTT assay. Average (8 replicates) relative
+  MTT absorbance is presented with SD indicated. (C) The indicated cell lines were
+  transfected with control siRNA or CSE1L siRNA for 48 h and then plated for colony
+  formation assay. Average (triplicate) % colony formation is presented with SD indicated.
+  Representative images are presented. There are significant differences (p < 0.05)
+  between A549/H460 and the other four cell lines in CSE1L treated conditions. (D)
+  A549 p53+/+ and p53−/− cells were treated with vehicle or the indicated doses of
+  mocetinostat (0.5 µM or 1 µM) and/or PTX (0.5 nM or 1 nM) for 72 h and then grown
+  in drug free media for colony formation assay. Average (triplicate) % colony formation
+  is presented with SD indicated. Representative images are presented. There is a
+  synergistic effect of mocetinostat and PTX in p53+/+ cells (CI < 1) but not in p53−/− cells
+  (CI > 1) (see CompuSyn analysis in Fig. ).
+article_title: CSE1L is a negative regulator of the RB-DREAM pathway in p53 wild-type
+  NSCLC and can be targeted using an HDAC1/2 inhibitor.
+citation: Lei Duan, et al. Sci Rep. 2023;13:16271.
+year: '2023'
+
+doi: 10.1038/s41598-023-43218-3
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cancer
+- Cell biology
+- Computational biology and bioinformatics
+- Drug discovery
+
+---

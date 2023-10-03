@@ -1,0 +1,28 @@
+---
+figid: PMC10323211__nihms-1905816-f0005
+pmcid: PMC10323211
+image_filename: nihms-1905816-f0005.jpg
+figure_link: /pmc/articles/PMC10323211/figure/F5/
+number: 'Figure 5:'
+figure_title: JAK/STAT and Wnt signalling pathways
+caption: a, c, Pathway diagrams for (a) JAK/STAT and (c) Wnt signalling. Nodes coloured
+  based on hazard ratio (HR) of the genetic score for (a) coronary artery disease
+  (CAD) and (c) hypothyroidism. Nodes are white if there is not a corresponding genetic
+  score. The most significant HR across omic platforms is used at each node. Nodes
+  are bold if the genetic score had FDR-adjusted p-value < 0.05 (two-sided Wald test
+  and correcting for 11,576 tested traits). b, d, Forest plots of FDR-significant
+  HRs for (b) CAD (n = 28,854 cases and 390,159 controls) and (d) hypothyroidism (n
+  = 21,871 cases and 404,440 controls) for genetic scores in (b) JAK/STAT or (d) Wnt
+  signalling. e, Forest plot of HRs and 95% confidence intervals for the genetic score
+  of USP25 (SomaScan) across multiple diseases.
+article_title: An atlas of genetic scores to predict multi-omic traits.
+citation: Yu Xu, et al. Nature. ;616(7955):123-131.
+year: '2023'
+
+doi: 10.1038/s41586-023-05844-9
+journal_title: Nature
+journal_nlm_ta: Nature
+publisher_name: ''
+
+keywords:
+---

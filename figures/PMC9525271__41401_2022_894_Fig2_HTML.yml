@@ -1,0 +1,33 @@
+---
+figid: PMC9525271__41401_2022_894_Fig2_HTML
+pmcid: PMC9525271
+image_filename: 41401_2022_894_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC9525271/figure/Fig2/
+number: Fig. 2
+figure_title: Validation of candidate genes by bioinformatics methods
+caption: The mRNA expression level of the candidate genes in a TCGA and GTEx databases
+  and b Oncomine database. c The protein expression level of the candidate genes in
+  Protein Atlas database (GUCA2B is not provided in the database). There is lower
+  protein expression of the candidate genes in colorectal tumors than that in normal
+  colon and rectal tissues. d Among the five candidate genes, the expression levels
+  of ADH1C, CLCA4, and MS4A12 are associated with the overall survival of CRC according
+  to TCGA and GTEx databases
+article_title: ADH1C inhibits progression of colorectal cancer through the ADH1C/PHGDH
+  /PSAT1/serine metabolic pathway.
+citation: Sha Li, et al. Acta Pharmacol Sin. 2022 Oct;43(10):2709-2722.
+year: '2022'
+
+doi: 10.1038/s41401-022-00894-7
+journal_title: Acta Pharmacologica Sinica
+journal_nlm_ta: Acta Pharmacol Sin
+publisher_name: Springer Nature Singapore
+
+keywords:
+- colorectal cancer
+- ADH1C
+- metabolism
+- PHGDH
+- PSAT1
+- serine
+
+---

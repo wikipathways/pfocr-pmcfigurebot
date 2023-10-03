@@ -1,0 +1,30 @@
+---
+figid: PMC10538467__nihms-1927789-f0009
+pmcid: PMC10538467
+image_filename: nihms-1927789-f0009.jpg
+figure_link: /pmc/articles/PMC10538467/figure/F9/
+number: Extended Data Figure 3
+figure_title: ''
+caption: 'Top predicted Alzheimer’s disease-relevant genes in multiple brain regions,
+  with whole blood as reference tissue(a) Pearson correlation coefficient of top 20
+  predicted genes from the Alzheimer’s disease pathway (KEGG), ranked by average correlation.
+  (b, c, d) Average per-gene expression (x-axis) versus prediction performance (Pearson
+  correlation between predicted and ground truth expression) in (b) cerebellum, (c)
+  cortex, and (d) hippocampus. HYFA exhibits strong prediction performance for several
+  Alzheimer’s disease-relevant genes including APOE (cortex ρ=0.536, cerebellum: ρ=0.502),
+  APP (cortex ρ=0.524), PSEN1 (cerebellum: ρ=0.459), and PSEN2 (cortex: ρ=0.590, cerebellum:
+  ρ=0.559, hippocampus: ρ=0.403). In cerebellum, PSEN1 (ρ=0.459), PSEN2 (ρ=0.559),
+  and APOE (ρ=0.502) attained above expected performances (average ρ=0.448). APP (ρ=0.524),
+  PSEN2 (ρ=0.590), and APOE (ρ=0.536) surpassed the expected correlation in cortex
+  (average ρ=0.443).'
+article_title: Hypergraph factorization for multi-tissue gene expression imputation.
+citation: Ramon Viñas, et al. Nat Mach Intell. ;5(7):739-753.
+year: '2023'
+
+doi: 10.1038/s42256-023-00684-8
+journal_title: Nature machine intelligence
+journal_nlm_ta: Nat Mach Intell
+publisher_name: ''
+
+keywords:
+---

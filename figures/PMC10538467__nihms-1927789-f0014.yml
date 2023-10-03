@@ -1,0 +1,26 @@
+---
+figid: PMC10538467__nihms-1927789-f0014
+pmcid: PMC10538467
+image_filename: nihms-1927789-f0014.jpg
+figure_link: /pmc/articles/PMC10538467/figure/F14/
+number: Extended Data Figure 8
+figure_title: ''
+caption: GO Biological Process FDRs for signaling pathwaysGO Biological Process enrichment
+  analysis of metagene-factors. For every pathway and factor, we selected the metagene
+  with lowest FDR and depicted statistically significant values (FDR < 0.05). Point
+  sizes are inversely proportional to the FDR values. Type I interferons (IFNs), a
+  family of cytokines that activate a variety of signaling cascades, were the most
+  enriched. We also detected the simultaneous enrichment of interferon IRF1 and STAT1
+  (a member of the STAT protein family that drives the expression of many target genes)
+  in 10 factors (FDR < 0.05; ), consistent with these results.
+article_title: Hypergraph factorization for multi-tissue gene expression imputation.
+citation: Ramon Viñas, et al. Nat Mach Intell. ;5(7):739-753.
+year: '2023'
+
+doi: 10.1038/s42256-023-00684-8
+journal_title: Nature machine intelligence
+journal_nlm_ta: Nat Mach Intell
+publisher_name: ''
+
+keywords:
+---

@@ -1,0 +1,49 @@
+---
+figid: PMC10535706__ijbsv19p4393g002
+pmcid: PMC10535706
+image_filename: ijbsv19p4393g002.jpg
+figure_link: /pmc/articles/PMC10535706/figure/F2/
+number: Figure 2
+figure_title: ''
+caption: 'A. muciniphila inhibits CRC development via AhR. (A) Top 30 metabolite analysis
+  of the gut microbiome of mice in the combination A. muciniphila group vs. the Vehicle
+  group by the Wilcoxon rank-sum test. Data are expressed as mean ± SD. * 0.01 < P
+  ≤ 0.05, ** 0.001 < P ≤ 0.01, *** P ≤ 0.001, Two-sided Hypotheses. (B) GO terms and
+  KEGG pathways. PLS-DA plots of metabolite based on the Bray-Curtis distance. (C)
+  RNA sequencing analysis of DEGs in the tumor tissues derived from the mice model
+  described in Figure D (n = 3). Volcano plot: p-values are plotted against the log2
+  of the change in corresponding RNA expression level of AhR in A. muciniphila-infected
+  pseudo-GF/AOM/DSS group versus that in pseudo-GF/AOM/DSS group. Dashed vertical
+  lines indicate cut-offs for differential expression. Dashed horizontal lines indicate
+  the cut-off for adjusted p-value <0.05 determined with DESeq2. (D) Unsupervised
+  cluster analysis. (E) Two CRISPR nuclease sgRNA designed for AhR. A schematic illustrates
+  the first three and the last intron-exon organization of the AhR gene. AhR KO cells
+  were produced by CRISPR/Cas9-induced mutations resulting in a frameshift and premature
+  stop codon. The locations of sgRNA target sequences and the alignment of amino acid
+  sequences, showing changes introducing a premature stop codon, are noted. (F) Western
+  blot analysis of AhR expression. In DLD-1 and NCM460 cells, proteins were collected
+  from AhR knockout cells (AhR -/-), AhR sh-RNA cells and Control cells (CN). (G)
+  DLD-1/AhR -/- cells and NCM460/AhR -/- cells were cultured in vitro through sphere-formation
+  assay. Left panels are representative phase contrast photos (scale bar, 50mm). Data
+  in right panels represent the average of sphere numbers from three independent experiments.
+  (H) The number and size of one-generation spheres were quantified at 3 days after
+  plating by counting viable spheres per well. Data from triplicate experiments are
+  presented as mean ± SD. *P < 0.05, **P < 0.01, t test.'
+article_title: Akkermansia muciniphila inhibits tryptophan metabolism via the AhR/β-catenin
+  signaling pathway to counter the progression of colorectal cancer.
+citation: Lu Zhang, et al. Int J Biol Sci. 2023;19(14):4393-4410.
+year: '2023'
+
+doi: 10.7150/ijbs.85712
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- Akkermansia muciniphila
+- Tryptophan metabolism
+- AhR
+- Wnt/β-catenin signaling
+- Tumorigenesis
+
+---

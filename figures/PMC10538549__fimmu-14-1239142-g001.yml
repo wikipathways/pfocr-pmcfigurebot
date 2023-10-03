@@ -1,0 +1,50 @@
+---
+figid: PMC10538549__fimmu-14-1239142-g001
+pmcid: PMC10538549
+image_filename: fimmu-14-1239142-g001.jpg
+figure_link: /pmc/articles/PMC10538549/figure/f1/
+number: Figure 1
+figure_title: ''
+caption: Overview of the cGAS-STING pathway. Cyclic GMP-AMP synthase (cGAS)-stimulator
+  of interferon genes (STING) pathway is involved in multiple biological processes.
+  Cytoplasmic cGAS can recognize exogenous and endogenous double-strand DNA (dsDNA)
+  from various sources, including DNA viruses, reverse-transcription of RNA viruses,
+  bacteria, parasites, cell debris, extracellular vesicles (EVs), as well as the damaged
+  mitochondria- and self-DNA from the nucleus. Interferon-gamma inducible protein
+  16 (IFI16) directly interacts with cytosolic dsDNA, cGAS and STING, facilitating
+  the activation of cGAS and STING. Activated cGAS then catalyzes the synthesis of
+  the second messenger cyclic GMP-AMP (cGAMP) from ATP and GTP. Cyclic dinucleotides
+  (CDNs) of bacteria, cGAMP or dsDNA binds to endoplasmic reticulum (ER)-located STING
+  that is retained by stromal interaction molecule 1 (STIM1) and initiates STING translocation
+  to the Golgi apparatus via coat protein complex II (COPII) and ER-Golgi intermediate
+  compartment (ERGIC). Then STING recruits and phosphorylates TBK1 and IRF3 and simultaneously
+  activates IΚB kinase (IKK) and signal transducer and activator of transcription
+  6 (STAT6), triggering the transcription of pro-inflammatory cytokines, antiviral
+  chemokines, IFN-stimulated genes and Type I IFN. In parallel, some cGAMP can be
+  delivered to the outside of cells through the GAP junction, binding with the plasmatic
+  membrane (pmSTING) and driving the same activation response or enter other cells
+  through solute carrier family 19 member 1 (SLC19A1) and SLC46A2. The rest of cGAMP
+  can be degraded by membrane hydrolase ectonucleotide pyrophosphatase phosphodiesterase
+  1 (ENPP1). Post-Golgi STING vesicles are either fused or encapsulated by lysosomes
+  and gradually eliminated. After type I IFN and cytokines (e.g. IL-6) are secreted
+  outside, they can bind to IFN receptor and cytokine receptor (e.g. IL-6R/GP130)
+  on the membrane respectively and then activate Janus kinases (JAK)-STAT signaling
+  pathway. Created with BioRender.com.
+article_title: cGAS-STING signaling pathway in intestinal homeostasis and diseases.
+citation: Yuchen Yang, et al. Front Immunol. 2023;14:1239142.
+year: '2023'
+
+doi: 10.3389/fimmu.2023.1239142
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- cGAS
+- STING
+- inflammatory bowel diseases
+- colorectal cancer
+- intestinal infections
+- intestinal ischemia/reperfusion
+
+---

@@ -1,0 +1,31 @@
+---
+figid: PMC9509417__nihms-1795360-f0005
+pmcid: PMC9509417
+image_filename: nihms-1795360-f0005.jpg
+figure_link: /pmc/articles/PMC9509417/figure/F5/
+number: 'Figure 5:'
+figure_title: Gene family and pathway enrichment in HS vs. SCC
+caption: Volcano plots show differentially abundant pathways (a) and gene families
+  (b) identified in matched HS and SCC samples through paired Wilcoxon test with FDR-corrected
+  p-values (q-value). For legibility, only a subset of gene families is labelled in
+  the plot. For b, the comprehensive list of all differentially abundant gene families
+  is listed in . For pathways and gene families, a q-value <0.05 with a log2-fold
+  change (Log2FC) of 2 were deemed significant (green). Data points to the far right
+  or far left indicate zero abundance in HS or SCC, respectively.
+article_title: SKIN MICROBIOME VARIATION WITH CANCER PROGRESSION IN HUMAN CUTANEOUS
+  SQUAMOUS CELL CARCINOMA.
+citation: Anita Y. Voigt, et al. J Invest Dermatol. ;142(10):2773-2782.e16.
+year: '2023'
+
+doi: 10.1016/j.jid.2022.03.017
+journal_title: The Journal of investigative dermatology
+journal_nlm_ta: J Invest Dermatol
+publisher_name: ''
+
+keywords:
+- Cutaneous Squamous Cell Carcinoma
+- Actinic Keratosis
+- Skin Microbiome
+- Non-Melanoma Skin Cancer
+
+---

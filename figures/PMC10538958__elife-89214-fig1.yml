@@ -1,0 +1,39 @@
+---
+figid: PMC10538958__elife-89214-fig1
+pmcid: PMC10538958
+image_filename: elife-89214-fig1.jpg
+figure_link: /pmc/articles/PMC10538958/figure/fig1/
+number: Figure 1
+figure_title: Impact of intermittent fasting on the heart proteome
+caption: (a) Hierarchical clustering of proteins significantly differentially expressed
+  in each IF group and AL group (one-way ANOVA with Dunnett’s test). The color scale
+  denotes z-score normalized protein abundances. Red denotes higher protein abundance,
+  and blue lower protein abundance. Gene ontology-based biological processes and pathways
+  significantly enriched in representative protein clusters across the different groups.
+  Selected enzymes specifically modulated within each cluster are highlighted. (b)
+  IF-modulated kinases involved in metabolic pathways and signaling pathways. (c)
+  Enrichment analysis of modulated processes and pathways in the different IF groups
+  in comparison to the AL group (1-D annotation enrichment using Wilcoxon-Mann-Whitney
+  test). Each dot represents a functional process or pathway. A positive enrichment
+  score denotes higher protein abundance, and a negative enrichment score denotes
+  lower protein abundance. n=4–5 mice in each experimental group.
+article_title: Multiomics analyses reveal dynamic bioenergetic pathways and functional
+  remodeling of the heart during intermittent fasting.
+citation: Thiruma V Arumugam, et al. eLife. 2023;12:RP89214.
+year: '2023'
+
+doi: 10.7554/eLife.89214
+journal_title: eLife
+journal_nlm_ta: eLife
+publisher_name: eLife Sciences Publications, Ltd
+
+keywords:
+- intermittent fasting
+- heart
+- RNA sequencing
+- proteomics
+- phosphoproteomics
+- metabolism
+- Mouse
+
+---

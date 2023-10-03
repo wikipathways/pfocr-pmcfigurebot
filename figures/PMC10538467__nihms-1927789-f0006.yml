@@ -1,0 +1,33 @@
+---
+figid: PMC10538467__nihms-1927789-f0006
+pmcid: PMC10538467
+image_filename: nihms-1927789-f0006.jpg
+figure_link: /pmc/articles/PMC10538467/figure/F6/
+number: 'Figure 6:'
+figure_title: ''
+caption: 'Pathway enrichment analysis of metagene factors. (a) Manhattan plot of the
+  GSEA results on the metagenes (n=50) and factors (n=98) learned by HYFA. The x-axis
+  represents metagenes (colored bins) and every offset within the bin corresponds
+  to a different factor. The y-axis is the −log q-value (FDR) from the GSEA permutation
+  test, corrected for multiple testing via the Benjamini-Hochberg procedure. We identified
+  18683 statistically significant enrichments (FDR < 0.05) of KEGG biological processes
+  across all metagenes and factors. (b) Total number of enriched terms for each type
+  of pathway. (c) FDR for pathways of neurodegeneration. For every pathway and metagene,
+  we selected the factor with lowest FDR and depicted statistically significant values
+  (FDR < 0.05). Point sizes are proportional to −log FDR values. Metagene 11 (factor
+  95) had the lowest FDR for both Amyotropic Lateral Sclerosis (ALS) and Alzheimer’s
+  Disease. (d) UMAP of latent values of metagene 11 for all spinal cord (ALS: orange)
+  and brain cortex (Alzheimer’s disease or Dementia: orange) GTEx samples. (e) Leading
+  edge subsets of top-15 enriched gene sets for factor 95 of metagene 11. (f, g) Enrichment
+  plots for Amyotropic Lateral Sclerosis (f) and Alzheimer’s disease gene sets (g).'
+article_title: Hypergraph factorization for multi-tissue gene expression imputation.
+citation: Ramon Viñas, et al. Nat Mach Intell. ;5(7):739-753.
+year: '2023'
+
+doi: 10.1038/s42256-023-00684-8
+journal_title: Nature machine intelligence
+journal_nlm_ta: Nat Mach Intell
+publisher_name: ''
+
+keywords:
+---

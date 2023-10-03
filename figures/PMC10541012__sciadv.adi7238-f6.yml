@@ -1,0 +1,41 @@
+---
+figid: PMC10541012__sciadv.adi7238-f6
+pmcid: PMC10541012
+image_filename: sciadv.adi7238-f6.jpg
+figure_link: /pmc/articles/PMC10541012/figure/F6/
+number: Fig. 6
+figure_title: Cla4 and Cdh1 regulate gene transcription and chronological life span
+  by affecting Set1 stability
+caption: (A) ChIP-seq tracks of Set1, Cla4, and Paf1 occupancy at eight core histone
+  genes. (B) RT-qPCR analysis of core histone gene transcription in WT, Set1-S228A,
+  and Set1-S228E mutants. HHT2 encodes histone H3; HHF2 encodes histone H4; HTA2 encodes
+  histone H2A; HTB2 encodes histone H2B. (C) Immunoblot analysis of core histones
+  in WT, Set1-S228A, and Set1-S228E mutants. (D) Volcano plots for genes differentially
+  expressed in WT and Set1-S228A mutant. Differential expression levels of aligned
+  sequences were calculated using significant thresholds set at log2(FC) ≤ −0.75,
+  log2(FC) ≥ 0.75, P < 0.05. Red color designates significantly down-regulated genes,
+  and blue color designates significantly up-regulated genes. (E) Heatmap showing
+  the transcription of eight core histone genes in WT and Set1-S228A mutant. (F) GSEA
+  analysis of genes involved in cell cycle, DNA replication, and mismatch repair in
+  WT and Set1-S228A mutant. (G) Box plots showing the normalized read intensity of
+  H3K4me3 at subtelomeric regions on 16 chromosomes in WT, Set1-S228A, and Set1-S228E
+  mutants. The subtelomeric regions refer to 0 to 50 kb from the nearest left or right
+  telomeres. (H) RT-qPCR analysis of the transcription of telomere-proximal genes
+  in WT, Set1-S228A, and Set1-S228E mutants. (I) Heatmap showing the transcription
+  of the longevity pathway genes in WT and Set1-S228A mutant. (J) Chronological life-span
+  analysis of WT, Set1-S228A, and Set1-S228E mutants. (K) Chronological life-span
+  analysis of WT, cla4Δ, Set1-S228E, and Set1-S228E cla4Δ mutants. For (B), (C), (H),
+  (J), and (K), data represent the mean ± SE of three biological independent experiments.
+  *P < 0.05, **P < 0.01, ***P < 0.001.
+article_title: Cla4 phosphorylates histone methyltransferase Set1 to prevent its degradation
+  by the APC/CCdh1 complex.
+citation: Xuanyunjing Gong, et al. Sci Adv. 2023 Sep 29;9(39):eadi7238.
+year: '2023'
+
+doi: 10.1126/sciadv.adi7238
+journal_title: Science Advances
+journal_nlm_ta: Sci Adv
+publisher_name: American Association for the Advancement of Science
+
+keywords:
+---

@@ -1,0 +1,36 @@
+---
+figid: PMC10523722__12935_2023_3073_Fig1_HTML
+pmcid: PMC10523722
+image_filename: 12935_2023_3073_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC10523722/figure/Fig1/
+number: Fig. 1
+figure_title: ''
+caption: The expression of FAP is shown to be significantly increased in ccRCC, and
+  its high expression predicts a poor prognosis. A FAP expression in multiple cancers
+  based on the TIMER database. B In the TCGA-KIRC dataset, FAP expression was shown
+  to be significantly higher in ccRCC tumor tissues than in normal tissues. C It has
+  been shown that FAP expression is elevated in cancerous tissue relative to surrounding
+  healthy tissues. D ROC analysis illustrated that AUC of 0.780 (95% confidence interval = 0.714–0.846)
+  from the TCGA-KIRC dataset for FAP expression, which precisely distinguishes ccRCC
+  cancer tissues from normal tissues. E–G To ensure that the results from the TCGA-KIRC
+  dataset were statistically significant, OS, DSS, as well as PFI survival curves
+  for ccRCC patients with high (red) and low (blue) FAP expression were all plotted.
+  *p < 0.05; **p < 0.01; ***p < 0.001
+article_title: FAP promotes clear cell renal cell carcinoma progression via activating
+  the PI3K/AKT/mTOR signaling pathway.
+citation: Kun Jiang, et al. Cancer Cell Int. 2023;23:217.
+year: '2023'
+
+doi: 10.1186/s12935-023-03073-8
+journal_title: Cancer Cell International
+journal_nlm_ta: Cancer Cell Int
+publisher_name: BioMed Central
+
+keywords:
+- Clear cell renal cell carcinoma
+- FAP
+- Prognostic biomarker
+- Oncogene
+- PI3K/AKT/mTOR signaling
+
+---

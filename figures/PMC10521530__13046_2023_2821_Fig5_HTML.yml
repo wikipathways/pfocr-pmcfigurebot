@@ -1,0 +1,38 @@
+---
+figid: PMC10521530__13046_2023_2821_Fig5_HTML
+pmcid: PMC10521530
+image_filename: 13046_2023_2821_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC10521530/figure/Fig5/
+number: Fig. 5
+figure_title: ''
+caption: TMTC3 induced the production of GTP and activity of Rho GTPase through STAT3
+  pathway. A and B. The GTP and GDP levels in TMTC3 knockdown cells or IMPDH2 overexpression
+  cells were detected by mass spectrometry in KYSE180 (A) and KYSE450 (B) cells, respectively.
+  C. Blot analyses for GTP-bound RhoA, Rac1, and Cdc42 levels in TMTC3 knockdown cells,
+  with or without overexpression of IMPDH2, following Rho GTPase pull-down experiments.
+  Total protein levels were detected from whole cell lysate. D. Schematic representation
+  of the GTPase cycle between their GDP-bound and GTP-bound conformations (left).
+  The enrichment terms of differential expressed genes in IMPDH2 knockdown cells (right).
+  E. Gene set enrichment analysis (GSEA) of RNA-seq data on IMPDH2 knockdown cells.
+  NES, normalized enrichment score. F. Cross correlation analysis of IMPDH2 expression
+  and genes in HIF-1α pathway from TCGA database. G. Blot analyses for the downstream
+  proteins of TMTC3 in TMTC3 knockdown cells, with or without overexpression of IMPDH2.
+  All data are expressed as the mean ± SD. **, p < 0.01; ***, p < 0.001. n = 3
+article_title: Hypoxia-induced TMTC3 expression in esophageal squamous cell carcinoma
+  potentiates tumor angiogenesis through Rho GTPase/STAT3/VEGFA pathway.
+citation: Hongyu Yuan, et al. J Exp Clin Cancer Res. 2023;42:249.
+year: '2023'
+
+doi: 10.1186/s13046-023-02821-y
+journal_title: 'Journal of Experimental & Clinical Cancer Research : CR'
+journal_nlm_ta: J Exp Clin Cancer Res
+publisher_name: BioMed Central
+
+keywords:
+- Hypoxia
+- Tumor angiogenesis
+- TMTC3
+- IMPDH2
+- Rho GTPase/STAT3
+
+---

@@ -1,0 +1,43 @@
+---
+figid: PMC10531039__ijms-24-13785-g004
+pmcid: PMC10531039
+image_filename: ijms-24-13785-g004.jpg
+figure_link: /pmc/articles/PMC10531039/figure/ijms-24-13785-f004/
+number: Figure 4
+figure_title: ''
+caption: 'Inhibiting Rho/MRTF pathway diminished actin stress fibers and reversed
+  the Vem–insensitivity of resistant YUMM lines. (a,b): YUMM cells were treated with
+  3 or 10 µM CCG-257081 or DMSO control for 24 h, then fixed and stained with Rhodamine
+  Phalloidin and DAPI. (c,d): Actin stress fibers were quantified as described in
+  . Statistical analysis was performed using unpaired t-tests. * p < 0.05; ** p <
+  0.01; ns, not significant. Representative images are from three independent biological
+  replicates; the scale bar is 100 μm. (e,f): The Vem sensitivity of Parental and
+  Vem–resistant cells was tested with and without CCG-257081. Cells were treated with
+  Vem and CCG-257081 at the indicated concentrations for 72 h, then viability was
+  measured with CellTiter-Glo. Viability data were normalized to untreated cells (in
+  the presence of DMSO). Data were fit to 3-parameter inhibition curves (i.e., Hill
+  slope = 1) in GraphPad Prism v.10 software with the bottom parameter constrained
+  to be greater than zero and fitted parameters are shown in . (g): IC50 values were
+  difficult to determine accurately, so an AUC analysis was done examine Vem–sensitivity.
+  With DMSO vehicle, the two resistant lines (arrows) showed an AUC value for the
+  Vem concentration response curve at least 0.5 units greater than that of the parental,
+  Vem–sensitive, cells. CCG-257081 at 7.5 and 15 mM eliminated the AUC difference
+  between P and R cell lines. Data are averages from three independent experiments.'
+article_title: Role of Rho/MRTF in Aggressive Vemurafenib-Resistant Murine Melanomas
+  and Immune Checkpoint Upregulation.
+citation: Bardees M. Foda, et al. Int J Mol Sci. 2023 Sep;24(18):13785.
+year: '2023'
+
+doi: 10.3390/ijms241813785
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- melanoma
+- resistance
+- immune checkpoint
+- BRAF
+- RhoGTPase
+
+---

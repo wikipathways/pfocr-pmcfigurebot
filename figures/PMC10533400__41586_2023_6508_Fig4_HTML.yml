@@ -1,0 +1,36 @@
+---
+figid: PMC10533400__41586_2023_6508_Fig4_HTML
+pmcid: PMC10533400
+image_filename: 41586_2023_6508_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC10533400/figure/Fig4/
+number: Fig. 4
+figure_title: AHR facilitates vasculoprotective pathways in human endothelial cells
+caption: a, Heat map showing unsupervised hierarchical clustering of DEGs following
+  bulk RNA-seq of FICZ-treated HUVECs compared with HUVECs treated with vehicle (n = 5
+  per group). b, Enrichment plots showing GSEA using HUVEC-specific proliferation
+  and quiescence gene sets. Tested gene sets were from ref. . c, Flow cytometric cell
+  cycle analysis of HUVECs treated with 100 nM FICZ (n = 4 replicates) compared with
+  DMSO vehicle control (n = 5 replicates). d, Schematic of cell cycle regulators (created
+  with BioRender.com). e, Single-cell imaging of cell cycle regulators in HUVECs treated
+  with 100 nM FICZ (+) or vehicle (−). Symbols represent mean expression from individual
+  wells (n = 6–24). f, HUVECs were treated with 100 nM FICZ (for 2 h), followed by
+  LPS stimulation (for 4 h) and profiled for expression of AHR pathway genes and endothelial
+  inflammatory markers by quantitative PCR (qPCR). Data are representative of 3 independent
+  experiments. Bar height shows mean throughout. P values calculated by two-way ANOVA
+  with Šidák’s multiple comparisons tests (c), unpaired t-tests (e) and one-way ANOVA
+  with Tukey’s multiple comparison tests (f).
+article_title: Endothelial sensing of AHR ligands regulates intestinal homeostasis.
+citation: Benjamin G. Wiggins, et al. Nature. 2023;621(7980):821-829.
+year: '2023'
+
+doi: 10.1038/s41586-023-06508-4
+journal_title: Nature
+journal_nlm_ta: Nature
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Mucosal immunology
+- Cell biology
+- Transcriptomics
+
+---

@@ -1,0 +1,42 @@
+---
+figid: PMC10521498__12935_2023_3076_Fig5_HTML
+pmcid: PMC10521498
+image_filename: 12935_2023_3076_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC10521498/figure/Fig5/
+number: Fig. 5
+figure_title: ''
+caption: Testing and validating DIO3OS as a biomarker for the diagnosis of osteosarcoma.
+  A DIO3OS expression in osteosarcoma and various subtypes of sarcoma (FN, LN, MN,
+  NST, NOS, and SN) in test cohort. B–G The area under the ROC curve (AUC) in the
+  TARGET and TCGA sets assesses the differential diagnostic performance of DIO3OS
+  between osteosarcoma and other subtypes of sarcoma. H DIO3OS expression in osteosarcoma
+  and various subtypes of sarcoma (LN, MN, NST, and SN) in validate cohort. I–L The
+  area under the ROC curve (AUC) in the validate cohort assesses the differential
+  diagnostic performance of DIO3OS between osteosarcoma and other subtypes of sarcoma.
+  M In validate cohort, the expression level of DIO3OS between metastasis and non-metastasis
+  groups. N The effect of metastasis on the prognosis of osteosarcoma overall survival
+  (OS) is statistically significant in validate cohort. O The effect of high DIO3OS
+  expression on the prognosis of osteosarcoma overall survival (OS) is statistically
+  significant in validate cohort. P Time-dependent ROC curves, 1-Year (AUC = 0.747),
+  3-Year (AUC = 0.872), 5-Year (AUC = 0.960) in validate cohort. P-value of less than
+  0.05 is considered statistically significant (ns, p > 0.05; *, p < 0.05; **, p < 0.01;
+  ***, p < 0.001; ****, p < 0.0001)
+article_title: 'Long intergenic non-coding RNA DIO3OS promotes osteosarcoma metastasis
+  via activation of the TGF-β signaling pathway: a potential diagnostic and immunotherapeutic
+  target for osteosarcoma.'
+citation: Jinghong Yuan, et al. Cancer Cell Int. 2023;23:215.
+year: '2023'
+
+doi: 10.1186/s12935-023-03076-5
+journal_title: Cancer Cell International
+journal_nlm_ta: Cancer Cell Int
+publisher_name: BioMed Central
+
+keywords:
+- Osteosarcoma
+- DIO3OS
+- TGF-β signaling pathway
+- Immunotherapy
+- Diagnosis
+
+---

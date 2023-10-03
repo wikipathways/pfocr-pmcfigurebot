@@ -1,0 +1,51 @@
+---
+figid: PMC10530524__nihms-1915878-f0012
+pmcid: PMC10530524
+image_filename: nihms-1915878-f0012.jpg
+figure_link: /pmc/articles/PMC10530524/figure/F12/
+number: Figure 12
+figure_title: Summary model for regulation of MurZ and MurA enzymatic activities by
+  StkP-mediated phosphorylation in S. pneumoniae D39
+caption: GpsB(Spn) and possibly other ligands, such as Lipid II, stimulate the phosphorylation
+  of a negative regulator of MurZ(Spn) and MurA(Spn) enzymatic activity, but not their
+  cellular amounts, in the first committed step of Lipid II synthesis for PG synthesis.
+  By genetic criteria presented here, the negative regulator is unphosphorylated IreB(Spn).
+  Phosphorylated IreB(Spn)~P does not bind to MurZ(Spn) or MurA(Spn), resulting in
+  full enzymatic activity in pneumococcal cells growing exponentially in rich media.
+  The absence of GpsB(Spn) significantly reduces phosphorylation of IreB(Spn) leading
+  to inhibition of MurZ(Spn) and MurA(Spn) enzymatic activities and no growth. This
+  inhibition can be relieved by inactivation of the cognate PhpP protein phosphatase,
+  which allows residual phosphorylation to IreB(Spn)~P. The absence of the StkP protein
+  kinase and the need for protein phosphorylation in pneumococcal cells growing exponentially
+  in rich media can be suppressed by inactivation or absence of the IreB(Spn) negative
+  regulator, by amino-acid changes in a regulatory domain of MurZ(Spn), which is enzymatically
+  predominant over MurA(Spn), or by overexpression of murZ(Spn) or murA(Spn) in spontaneous
+  chromosomal duplications. Moderate MurZ(Spn) overproduction sufficient to suppress
+  the absence of StkP also occurs in the absence of the KhpAB RNA-binding protein,
+  which also negatively regulates FtsA amount. This pathway provides a positive feedback
+  loop, such that cells growing rapidly in rich media produce Lipid II, which may
+  activate StkP(Spn) to fully phosphorylate IreB(Spn) and maximize MurZ(Spn) and MurA(Spn)
+  enzymatic activities for the production of even more Lipid II for PG synthesis.
+  Evidence for the direct interaction between unphosphorylated IreB(Spn) and MurZ(Spn)
+  will be presented elsewhere (Merrin Joseph, unpublished result). Structures predicted
+  by AlphaFold v2.0 also suggest that MurZ(Spn) and MurA(Spn) enzymatic activity is
+  subject to negative pathway feedback inhibition by binding of UDP-MurNAc (UDP-N-acetylmuramic
+  acid) near the catalytic sites of the enzymes (, ). See text for additional details.
+article_title: Negative regulation of MurZ and MurA underlies the essentiality of
+  GpsB- and StkP-mediated protein phosphorylation in Streptococcus pneumoniae D39.
+citation: Ho-Ching Tiffany Tsui, et al. Mol Microbiol. ;120(3):351-383.
+year: '2023'
+
+doi: 10.1111/mmi.15122
+journal_title: Molecular microbiology
+journal_nlm_ta: Mol Microbiol
+publisher_name: ''
+
+keywords:
+- peptidoglycan precursor synthesis
+- gene duplication and amplification
+- GpsB peptidoglycan regulator
+- StkP protein kinase
+- KhpA/B RNA binding protein
+
+---

@@ -1,0 +1,38 @@
+---
+figid: PMC10530022__pgen.1010953.g004
+pmcid: PMC10530022
+image_filename: pgen.1010953.g004.jpg
+figure_link: /pmc/articles/PMC10530022/figure/pgen.1010953.g004/
+number: Fig 4
+figure_title: Theoretically redundant or dispensable regulation for establishing specific
+  expression patterns in RFs of the 13 genes that initiate expression at the 32-cell
+  stage
+caption: 'In RFs for the 13 genes, magenta indicates 55 cases of regulators that give
+  theoretically redundant temporal or spatial information to target genes. For example,
+  the RF for Lhx3/4 is Foxd⋀Fgf9/16/20⋀β-catenin, while Foxd⋀β-catenin and Fgf9/16/20⋀β-catenin
+  can establish the same expression pattern. Note that we did not perform tests in
+  which two or more factors were simultaneously removed; therefore, the above presentation
+  did not necessarily mean that Lhx3 expression pattern could be reproduced by β-catenin
+  alone. Meanwhile, because Efna.d antagonizes signaling by Fgf9/16/20 [,,,], the
+  term “¬Efna.d” implies that Fgf9/16/20 acts. Similarly, because β-catenin antagonizes
+  Gata.a activity [], the term “¬β-catenin” implies that Gata.a acts. Therefore, although
+  removal of Gata.a or Fgf9/16/20, shown in cyan from the digital twin, could not
+  change expression patterns theoretically, these predictions would not be reproduced
+  in real embryos. Note that three upstream regulatory factors, Ets1/2, Tcf7, and
+  Pem-1, are not included, but they are implicitly considered in the RFs: (1) Ets1/2
+  acts as an effector of the MAPK pathway, which is regulated by Fgf9/16/20, constitutively
+  active (CA) Raf and Efna.d [,,]; (2) Tcf7 acts as a positive regulator with nuclear
+  β-catenin; (3) Pem-1 represses transcription by regulating the function of RNA polymerase
+  II in the germ-line cells [,], which are not considered in the present study.'
+article_title: A digital twin reproducing gene regulatory network dynamics of early
+  Ciona embryos indicates robust buffers in the network.
+citation: Miki Tokuoka, et al. PLoS Genet. 2023 Sep;19(9):e1010953.
+year: '2023'
+
+doi: 10.1371/journal.pgen.1010953
+journal_title: PLOS Genetics
+journal_nlm_ta: PLoS Genet
+publisher_name: Public Library of Science
+
+keywords:
+---

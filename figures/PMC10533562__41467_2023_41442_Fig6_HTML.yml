@@ -1,0 +1,52 @@
+---
+figid: PMC10533562__41467_2023_41442_Fig6_HTML
+pmcid: PMC10533562
+image_filename: 41467_2023_41442_Fig6_HTML.jpg
+figure_link: /pmc/articles/PMC10533562/figure/Fig6/
+number: Fig. 6
+figure_title: Host-directed compounds targeting IAV and SARS-CoV-2 host factors identify
+  inhibitors of pH1N1, H3N2 and H5N1 IAV infection
+caption: 'A Compounds targeting eight IAV PPI factors and 12 IAV-modulated kinases
+  were manually curated by literature search and selected based on target specificity
+  and drug availability. 8 kinase-targeting compounds with antiviral activity against
+  SARS-CoV-2 were included. In total, 37 unique compounds were screened against pH1N1,
+  H3N2 and H5N1 IAV infection. Compounds with selectivity index (SI) [CC50/IC50] >
+  2 were classified as having antiviral activity (Supplementary Data , see also Source
+  Data). B–K A549 cells were pre-treated with compound at the indicated doses (2 hr)
+  and infected with pH1N1 (MOI 0.5), H3N2 (MOI 0.5) or H5N1 (MOI 0.05) IAV for 24 hr.
+  Percent IAV-infected cells were quantified by immunostaining for IAV NP followed
+  by high throughput imaging (blue line=pH1N1; green line=H3N2; purple line=H5N1).
+  Percent alive cells were quantified by MTT assay in uninfected A549 cells (black
+  line). Data points represent the mean across n = 3 biologically independent samples.
+  Schematics mark the target with corresponding PPI or PH dataset and IAV strain,
+  and the corresponding compound (at left). Compounds are annotated with IC50 values
+  for IAV strains in which SI > 2. Error bars represent standard error of mean (SEM).
+  B–D Dose-response curves for M2 PPI-targeting compounds, including: ATP6V1A-targeting
+  compound bafilomycin A1; ABCC1-targeting compound daunorubicin; and PRKDC-targeting
+  compound NU7441. PRKDC is also a kinase identified in the IAV PH data. E Dose-response
+  curve for HA PPI P4HB-targeting compound PACMA31. F–G Dose-response curves for PH
+  kinase-targeting compounds, including: CDK2-targeting compound dinaciclib; and ULK1-targeting
+  compound MRT68921. H Dose-response curves for members of the MAPK pathway (pathway
+  schematic at left), including MAP2K3, MAP2K6, MAPK13 and MAPKAPK2, each annotated
+  with corresponding compounds. PF-3644022 was not tested against pH1N1. I–K Dose-response
+  curves for SARS-CoV-2-mined antiviral compounds targeting three kinase pathways:
+  FLT3 and AXL targeted by gilteritinib; PI3KCA and PI3KCD targeted by pictilisib;
+  and AKT1, AKT2 and AKT3 (pan-AKT) targeted by MK-2206. SARS-CoV-2 IC50 values are
+  included as previously reported, where SARS-CoV-2 infection was quantified by RT-qPCR
+  of SARS-CoV-2 N protein in compound-treated A549-ACE2 cells.'
+article_title: Proteomic and genetic analyses of influenza A viruses identify pan-viral
+  host targets.
+citation: Kelsey M. Haas, et al. Nat Commun. 2023;14:6030.
+year: '2023'
+
+doi: 10.1038/s41467-023-41442-z
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Systems biology
+- Virus-host interactions
+- Influenza virus
+
+---

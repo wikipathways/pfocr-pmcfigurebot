@@ -1,0 +1,35 @@
+---
+figid: PMC10537301__nutrients-15-03949-g006
+pmcid: PMC10537301
+image_filename: nutrients-15-03949-g006.jpg
+figure_link: /pmc/articles/PMC10537301/figure/nutrients-15-03949-f006/
+number: Figure 6
+figure_title: ''
+caption: KEGG pathway and GO enrichment analyses of identified hub-target proteins
+  (p-value ≤ 0.05). (A) The biological processes (top 10), (B) the cellular components
+  (top 10), (C) the molecular functions (top 10), (D) the KEGG pathways (top 20).
+  The p-values for each term are shown by the colours, with darker colours indicating
+  lower p-values. The number of genes associated with each term are indicated by the
+  dot sizes, with larger dots representing more genes.
+article_title: Integrated Network Pharmacology, Molecular Docking, Molecular Simulation,
+  and In Vitro Validation Revealed the Bioactive Components in Soy-Fermented Food
+  Products and the Underlying Mechanistic Pathways in Lung Cancer.
+citation: Abd Elmoneim O. Elkhalifa, et al. Nutrients. 2023 Sep;15(18):3949.
+year: '2023'
+
+doi: 10.3390/nu15183949
+journal_title: Nutrients
+journal_nlm_ta: Nutrients
+publisher_name: MDPI
+
+keywords:
+- soybean
+- isoflavones
+- daidzein
+- cancer
+- molecular dynamic simulation
+- MTT assay
+- MMP9
+- IGF-1R
+
+---

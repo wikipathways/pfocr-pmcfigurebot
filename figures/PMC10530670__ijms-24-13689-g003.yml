@@ -1,0 +1,35 @@
+---
+figid: PMC10530670__ijms-24-13689-g003
+pmcid: PMC10530670
+image_filename: ijms-24-13689-g003.jpg
+figure_link: /pmc/articles/PMC10530670/figure/ijms-24-13689-f003/
+number: Figure 3
+figure_title: ''
+caption: 'IPA® Canonical pathway analysis. (a). Statistically significant enriched
+  canonical pathways (Y axis) listed according to their B-H p-values (X axis; −log(B-H
+  p-value) = 1.3, orange line). Orange bars: positive z-score; gray bars: no activity
+  pattern available. On the right of each bar: number of overlapping DE genes in T
+  cells cocultured with sEVs participating in each depicted canonical pathway. (b).
+  Qiagen IPA® regulation of actin-based motility by Rho pathway. Experimental upregulated
+  (pink) and downregulated (green) DE genes in T cells cocultured with MSC-derived
+  sEVs. Predicted upregulated and downregulated by the molecular activity predictor
+  are depicted in orange and blue, respectively.'
+article_title: Mesenchymal Stromal Cell-Derived Small Extracellular Vesicles Modulate
+  Apoptosis, TNF Alpha and Interferon Gamma Response Gene mRNA Expression in T Lymphocytes.
+citation: Andrea Fracchia, et al. Int J Mol Sci. 2023 Sep;24(18):13689.
+year: '2023'
+
+doi: 10.3390/ijms241813689
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- mesenchymal stem cells
+- small extracellular vesicles
+- T lymphocytes
+- next-generation sequencing
+- Ingenuity Pathway Analysis
+- gene set enrichment analysis
+
+---

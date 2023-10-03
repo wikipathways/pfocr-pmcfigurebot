@@ -1,0 +1,26 @@
+---
+figid: PMC10538467__nihms-1927789-f0013
+pmcid: PMC10538467
+image_filename: nihms-1927789-f0013.jpg
+figure_link: /pmc/articles/PMC10538467/figure/F13/
+number: Extended Data Figure 7
+figure_title: ''
+caption: 'GO Biological Process enrichment analysis of metagene-factorsFor every metagene
+  (n=50) and factor (n=98), we performed Gene Set Enrichment Analysis using the corresponding
+  gene loadings of HYFA’s encoder () and Gene Ontology gene sets (GO Biological Process,
+  version of 2021) (Enrichr library: GO_Biological_Process_2021). (a) Top enriched
+  signaling GO terms, ranked by the total number of metagene- factors in which the
+  terms were enriched (FDR < 0.05). (b, c) FDR distribution of the Type-I Interferon
+  signaling pathway in factor 18 (FDR < 0.05 in 12/50 metagenes) and an arbitrary
+  factor (enriched in 0/50 metagenes).'
+article_title: Hypergraph factorization for multi-tissue gene expression imputation.
+citation: Ramon Viñas, et al. Nat Mach Intell. ;5(7):739-753.
+year: '2023'
+
+doi: 10.1038/s42256-023-00684-8
+journal_title: Nature machine intelligence
+journal_nlm_ta: Nat Mach Intell
+publisher_name: ''
+
+keywords:
+---

@@ -1,0 +1,37 @@
+---
+figid: PMC10520875__gr5
+pmcid: PMC10520875
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC10520875/figure/fig5/
+number: Figure 5
+figure_title: ''
+caption: Cluster10 was associated with immunosuppressive TME in bulk level analysis(A)
+  The GSEA plot showed Cluster10 was more enriched in senescent cancer cells than
+  normal ones.(B) The distribution of Cluster10 in 32 cancer types. The cutoff was
+  the median Cluster10 of all samples.(C) The top 20 pathways that had strong correlation
+  with Cluster10 in 32 cancer types. The x axis represented the sum of cancer types
+  where the correlation between each pathway and Cluster10 > 0.3.(D) The heatmap showed
+  the correlation between the immune signatures and Cluster10 in 32 cancer types.(E)
+  The heatmap showed the correlation between the 25 SASP factors and Cluster10 in
+  32 cancer types.(F) The heatmap showed the correlation between the immune checkpoints
+  and Cluster10 in 32 cancer types. TME, tumor microenvironment; GSEA, gene set enrichment
+  analysis; SASP, senescence-associated secretory phenotype.
+article_title: An immunosuppressive subtype of senescent tumor cells predicted worse
+  immunotherapy response in lung adenocarcinoma.
+citation: Guangyu Fan, et al. iScience. 2023 Oct 20;26(10):107894.
+year: '2023'
+
+doi: 10.1016/j.isci.2023.107894
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Immunology
+- Components of the immune system
+- Bioinformatics
+- Cancer
+- Proteomics
+- Transcriptomics
+
+---

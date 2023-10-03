@@ -1,0 +1,35 @@
+---
+figid: PMC10023133__nihms-1875568-f0006
+pmcid: PMC10023133
+image_filename: nihms-1875568-f0006.jpg
+figure_link: /pmc/articles/PMC10023133/figure/F6/
+number: Fig. 6
+figure_title: Alternative splicing events regulate various pathways impacting ferroptosis
+  stress response
+caption: (a, b) Circos plots showing the overlap between different AS events at the
+  gene level (purple lines) or at the pathway enrichment level (blue lines) in Erastin
+  (a) and RSL3 (b). The tables under the plots show the number of genes in each AS
+  type and the number of unique genes belong to each AS event type. (c) Gene ontology
+  (GO) analysis for the alternatively spliced genes in the Erastin group showing a
+  dominance of RI events in regulating multiple pathways and the presence of a node
+  related to regulation of translation (red dotted box). (d) GO analysis for the AS
+  genes in RSL3.
+article_title: Codon Usage and mRNA Stability are Translational Determinants of Cellular
+  Response to Canonical Ferroptosis Inducers.
+citation: Sherif Rashad, et al. Neuroscience. ;501:103-130.
+year: '2023'
+
+doi: 10.1016/j.neuroscience.2022.08.009
+journal_title: Neuroscience
+journal_nlm_ta: Neuroscience
+publisher_name: ''
+
+keywords:
+- mRNA stability
+- tRNA modifications
+- Alkbh1
+- Ferroptosis
+- Codon usage
+- mRNA translation
+
+---

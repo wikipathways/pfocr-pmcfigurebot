@@ -1,0 +1,34 @@
+---
+figid: PMC10531085__ijms-24-13943-g003
+pmcid: PMC10531085
+image_filename: ijms-24-13943-g003.jpg
+figure_link: /pmc/articles/PMC10531085/figure/ijms-24-13943-f003/
+number: Figure 3
+figure_title: ''
+caption: 'Transcriptome sequencing of Arc9.136 under 1 mM H2O2. (A) Cluster analysis
+  of the H2O2-treated group (group B: H-1, H-2, H-3) and nontreated group (group A:
+  1-1, 1-2, 1-3). The length of the branch represents the distance between samples.
+  (B) Volcano plot showing the DEGs between the H2O2-treated group (group B: H-1,
+  H-2, H-3) and nontreated group (group A: 1-1, 1-2, 1-3). The X-axis indicates the
+  fold change in gene expression (threshold, |log2 (treatment/control)| ≥ 0.5), while
+  the Y-axis indicates the statistically significant level (threshold, p value ≤ 0.05).
+  (C) Function enrichment scatter plot of DEGs by COG annotation. The rich factor
+  represents the ratio of the number of target genes to the total number of annotated
+  genes in this pathway. (D) Histogram analysis of DEGs by COG annotation.'
+article_title: Taxonomic Identification of the Arctic Strain Nocardioides Arcticus
+  Sp. Nov. and Global Transcriptomic Analysis in Response to Hydrogen Peroxide Stress.
+citation: Bailin Cong, et al. Int J Mol Sci. 2023 Sep;24(18):13943.
+year: '2023'
+
+doi: 10.3390/ijms241813943
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- Arctic
+- Nocardioides sp.
+- antioxidation
+- trancriptome
+
+---

@@ -1,0 +1,42 @@
+---
+figid: PMC10520453__gr1
+pmcid: PMC10520453
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC10520453/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: 'Schematic diagram of the mating signal pathway of the yeast cell pheromone
+  pathwayThe red horizontal line represents the inhibition of negative feedback; the
+  green arrow represents the activation of positive feedback; the dashed arrow represents
+  a shift in localization; I1 and I2 represent different negative feedback adjustment
+  pathways; and P1 and P2 represent the two polar growth signaling pathways that are
+  connected by light green arrows. The outline of the pathway is as follows: The binding
+  of α-factor to its transmembrane receptor Ste2 leads to activation of the heterotrimeric
+  G protein complex consisting of Gpa1 (Gα), Ste4 (Gβ), and Ste18 (Gγ). This causes
+  dissociation of the Gβγ dimer (Ste4/Ste18) from Gα (Gpa1). The released Gβγ then
+  recruits the PAK kinase Ste20 to the membrane and activates it. Ste20 initiates
+  the MAPK cascade by phosphorylating the MAPKKK Ste11. Activated Ste11 phosphorylates
+  the MAPKK Ste7, which then phosphorylates the MAPK Fus3. The activated Fus3 has
+  two downstream effects: First, Fus3 directly phosphorylates and activates the formin
+  Bni1, which nucleates actin cables for polarization. Second, Fus3 enters the nucleus
+  and phosphorylates Ste12, a transcription factor that induces mating-specific genes.
+  Fus3 also phosphorylates Far1, which inhibits the G1–S transition by binding to
+  Cdc28-Cln2 complex. The Fus3-Far1 complex exits the nucleus and binds to Cdc24,
+  promoting the activation of the Rho-GTPase Cdc42. Activated Cdc42 in turn stimulates
+  Bni1.'
+article_title: Global quantitative understanding of non-equilibrium cell fate decision-making
+  in response to pheromone.
+citation: Sheng Li, et al. iScience. 2023 Oct 20;26(10):107885.
+year: '2023'
+
+doi: 10.1016/j.isci.2023.107885
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Biological sciences
+- Cellular physiology
+- Cell biology
+
+---

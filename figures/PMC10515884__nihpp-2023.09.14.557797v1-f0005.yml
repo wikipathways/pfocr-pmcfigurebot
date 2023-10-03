@@ -1,0 +1,77 @@
+---
+figid: PMC10515884__nihpp-2023.09.14.557797v1-f0005
+pmcid: PMC10515884
+image_filename: nihpp-2023.09.14.557797v1-f0005.jpg
+figure_link: /pmc/articles/PMC10515884/figure/F4/
+number: Figure 4
+figure_title: CRC-Chip with physiological forces produces a GABAergic TME
+caption: (A.) Schematic representing the initial events of the metastatic cascade
+  that can be measured using the CRC-OOC. Tumor cells in the top channel (1) can be
+  visualized and analyzed separately from tumor cells that have invaded and adhered
+  in the endothelial compartment (2). Additionally, tumor cells that are found in
+  the endothelial effluent (3; circulating tumor cells (“CTC-like” cells)) can also
+  be collected and analyzed. (B.) Circulating tumor cells were collected from the
+  endothelial effluent of stretched and not stretched HCT116 CRC-Chips and RNAseq
+  was performed. GO Pathway analysis was performed on a subset of genes with either
+  a 2-fold difference between stretched and not stretched CTCs or an FDR-adjusted
+  p-value <0.1. N=2 biological replicates with 3 pooled chips in each replicate. (C.)
+  Gene expression of neurotransmitter-related genes were measured by a neurotransmitter-specific
+  PCR array. HCT116 tumor cells of stretched and not stretched chips were harvested
+  on day 6 from the top epithelial channel and isolated via FACs. Data is displayed
+  as the gene expression fold change of stretch versus not stretch conditions Expression
+  was normalized to the average of 5 housekeeping genes. Genes that had a 1.5-fold
+  increase or decrease in the stretched condition are displayed. N=3 biological replicates
+  with 3 chips pooled per biological replicate. (D.) Schematic of the production of
+  GABA from glutamate by the enzyme GAD1. In this figure, experiments related to GABA
+  are indicated in purple and experiments related to GAD1 are indicated in light blue.
+  (E.) Representative confocal immunofluorescent images of the epithelial (top; 1)
+  or endothelial (bottom; 2) channel of the CRC-Chips stained for GABA (purple) on
+  day 6. Invaded HCT116 H2B-GFP stain positive for GABA, while HCT116 H2B-GFP tumor
+  cells that are in the top channel stain weakly for GABA. DAPI stains the nuclei
+  of Caco2 C2BBe1 cells in the top channel and endothelial cells in the bottom channel.
+  Scale bars represent 200 μm in the top channel image and 100 μm in the bottom channel
+  images. Top channel images are maximum projections that span a 35 μm Z-height with
+  a 5 μm step size. Bottom channel images are maximum projections that span a 10 μm
+  Z-height with a 5 μm step size. (F.) RNAseq analysis was performed on CRC organoids
+  and normalized GAD1 expression is shown. N=5 independent donors with 2–3 replicates
+  each. Individual data points are shown and mean ± SEM is displayed. Analysis between
+  US and UP data was performed using an unpaired t-test; ***p<0.001 (G.) CRC organoids
+  were isolated from stretched chips and qPCR analysis of GAD1 gene expression was
+  performed. N=5 independent doners with 3 replicates each. Individual data points
+  are shown and mean ± SEM is displayed. Analysis between US and UP data was performed
+  using an unpaired t-test p<0.05. (H.) GAD1 mRNA expression from TCGA in KRAS, NRAS,
+  or BRAF mutant primary colon cancer tumors. N=196 patients with KRAS, NRAS, or BRAF
+  mutant tumors; N=201 patients with KRAS, NRAS, or BRAF wildtype tumors. Individual
+  data points are shown and median with interquartile range is represented. Data was
+  analyzed with an unpaired t-test; ****p<0.0001. (I.) Kaplan-Meier curve with univariate
+  analysis of the survival of patients with KRAS, NRAS, or BRAF mutated CRC tumors
+  based on high versus low expression of GAD1 (defined as above or below the median
+  GAD1 mRNA expression z-score of 0.3). Data was extracted from the TCGA. N=254 patients.
+  Data was analyzed using a log-rank (Mantel-Cox test). (J.) Effluent from the epithelial
+  channel of the patient-derived organoids was collected on day 0 (D0) and day 6 (D6).
+  GABA intensity was analyzed from extracted metabolites N=6 chips per timepoint per
+  patient; n=4 on D0 and 2 on D6 for UK. Data was analyzed using a two-way ANOVA;
+  ***p<0.001; ****p<0.0001. (K.) US-H2B-GFP (top) and UP-H2B-GFP (bottom) stretched
+  tumor-chips were stained for GABA (purple). Scale bars represent 200 μm. L. Representative
+  10x immunofluorescence images of the 5 tumors stained for EpCAM (green), CK20 (red),
+  and GABA (purple). Scale bars represent 500 μm and 200 μm for UK. All schematics
+  were made in or are from BioRender.
+article_title: 'Integration of Patient-Derived Organoids and Organ-on-Chip Systems:
+  Investigating Colorectal Cancer Invasion within the Mechanical and GABAergic Tumor
+  Microenvironment.'
+citation: Carly Strelez, et al. bioRxiv. 2023 Sep 17:2023.09.14.557797.
+year: '2023'
+
+doi: 10.1101/2023.09.14.557797
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+- organs-on-chips
+- organoids
+- neurotransmitters
+- peristalsis
+- invasion
+
+---

@@ -1,0 +1,36 @@
+---
+figid: PMC10526672__thnov13p4745g004
+pmcid: PMC10526672
+image_filename: thnov13p4745g004.jpg
+figure_link: /pmc/articles/PMC10526672/figure/F4/
+number: Figure 4
+figure_title: ''
+caption: Alterations to DNA-damage repair pathways and role of DNA-PK inhibition in
+  sensitivity to LuTate. A) Heat map of p-value change for DNA-damage repair pathway
+  genes between control and LuTate treated cells in the sensitivity arm of the CRISPR
+  screen. Genes are grouped by pathway and ranked within each group from least significant
+  (yellow, p-value >0.05) to most significant (blue, p-value <0.005) by the p-value
+  of the control group. B and C) Cell growth response at Day 14, shown as % relative
+  growth as compared to control of H1299-7 cells treated with 0, 5 or 10 MBq/mL LuTate
+  alone, or in combination with 0.5 μM or 1 μM of DNA-PK inhibitor nedisertib (B)
+  or AZD-7648 (C). D) Cell growth response at Day 14, shown as % relative growth as
+  compared to control of AR42J cells treated with 0, 5 or 10 MBq/mL LuTate alone,
+  or in combination with 0.5 μM or 1 μM of DNA-PK inhibitor nedisertib.
+article_title: A genome-wide CRISPR/Cas9 screen identifies DNA-PK as a sensitiser
+  to 177Lutetium-DOTA-octreotate radionuclide therapy.
+citation: Kelly Waldeck, et al. Theranostics. 2023;13(14):4745-4761.
+year: '2023'
+
+doi: 10.7150/thno.84628
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- PRRT
+- DNA-PK
+- CRISPR
+- somatostatin receptor
+- radionuclide therapy
+
+---

@@ -1,0 +1,40 @@
+---
+figid: PMC10536747__metabolites-13-01023-g002
+pmcid: PMC10536747
+image_filename: metabolites-13-01023-g002.jpg
+figure_link: /pmc/articles/PMC10536747/figure/metabolites-13-01023-f002/
+number: Figure 2
+figure_title: ''
+caption: A working hypothesis of differential pathways in skeletal muscle of more
+  feed efficient (HE; n = 8) compared with less feed efficient (LE; n = 8) cows based
+  on highly expressed differential genes from RNA sequencing. Highly expressed differential
+  genes (rose box; mean read count ≥ 200; p-value ≤ 0.05; fold change ≥1.5) that were
+  downregulated (red arrow) or upregulated (blue arrow) are depicted. The MAP2K3 gene
+  activates the p38 MAPK pathway, which can inhibit glucose transporter 4 (GLUT4)
+  expression, and the HK2 gene, which encodes hexokinase (HK) is required for the
+  sequestration of glucose. FABP3 encodes fatty acid binding protein 3 (FABP3), which
+  is required for fatty acid transport. SCD encodes stearoyl-CoA desaturase (SCD)
+  and LPIN1 encodes LIPIN1, which are involved in fatty acid and triglyceride synthesis,
+  respectively. PRKAG2 encodes a subunit of AMP-activated protein kinase (AMPK) and
+  PPARD encodes peroxisome proliferator-activated receptor delta (PPARD), which are
+  responsible for energy sensing and controlling fatty acid oxidation (FAO), respectively.
+  The coordinated downregulation of these genes may be suggestive of reduced oxidation
+  within skeletal muscle of HE cows.
+article_title: Liver and Muscle Transcriptomes Differ in Mid-Lactation Cows Divergent
+  in Feed Efficiency in the Presence or Absence of Supplemental Rumen-Protected Choline.
+citation: Malia J. Caputo, et al. Metabolites. 2023 Sep;13(9):1023.
+year: '2023'
+
+doi: 10.3390/metabo13091023
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: MDPI
+
+keywords:
+- residual feed intake
+- RNAseq
+- oxidative stress
+- fatty acids
+- metabolism
+
+---

@@ -1,0 +1,37 @@
+---
+figid: PMC10537923__13046_2023_2828_Fig7_HTML
+pmcid: PMC10537923
+image_filename: 13046_2023_2828_Fig7_HTML.jpg
+figure_link: /pmc/articles/PMC10537923/figure/Fig7/
+number: Fig. 7
+figure_title: ''
+caption: 'KIAA1429-related m6A network might be induced by NKX2-2. A Venn diagram
+  showing the 9 overlapping highly expressed and KIAA1429-correlated transcripts in
+  ES. B Ranks of 9 ES-specific transcripts based on the FC in expression. C Transcriptional
+  NKX2-2 profile of ES cells among all cancer cell lines in the DepMap database. D
+  Gene track showing high binding signals for NKX2-2 at the KIAA1429 promoter region
+  (upper panel) and the METTL3 promoter region (lower panel) using public ES ChIP-seq
+  datasets. H3K27ac and H3K4me3 as the markers of promoter. E RNA-seq showing decrease
+  in a set of m6A writers after NKX2-2 knockdown. F Matrix showing the gene–gene correlation
+  value among KIAA1429, METTL3, WTAP and YTHDF3 expression in different ES tumor datasets.
+  H Summary diagram describing the KIAA1429 pathway and potential critical phenotypes
+  in ES cells. ChIP: chromatin immunoprecipitation; ChIP-seq: ChIP sequencing; ES:
+  Ewing sarcoma; FC: fold change; *P < 0.05, **P < 0.01, and *** P < 0.001'
+article_title: CRISPR-Cas9 knockout screening identifies KIAA1429 as an essential
+  gene in Ewing sarcoma.
+citation: Kezhe Tan, et al. J Exp Clin Cancer Res. 2023;42:250.
+year: '2023'
+
+doi: 10.1186/s13046-023-02828-5
+journal_title: 'Journal of Experimental & Clinical Cancer Research : CR'
+journal_nlm_ta: J Exp Clin Cancer Res
+publisher_name: BioMed Central
+
+keywords:
+- Ewing sarcoma
+- CRISPR-Cas9 screening
+- KIAA1429
+- STAT3
+- NKX2-2
+
+---

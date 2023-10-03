@@ -1,0 +1,60 @@
+---
+figid: PMC10539310__41419_2023_6157_Fig5_HTML
+pmcid: PMC10539310
+image_filename: 41419_2023_6157_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC10539310/figure/Fig5/
+number: Fig. 5
+figure_title: RNF40 attenuates the Hippo pathway to sustain the YAP1-driven gene expression
+  program in BLBC cells
+caption: 'A, B Aggregate profile (upper panel) and heatmap (lower panel) of the genome-wide
+  H2Bub1 and H3K79me3 occupancy levels at the gene body regions of siControl- and
+  siRNF40-treated HCC1806 cells at 48 h post-transfection. C Differential binding
+  analysis (DiffBind) of the genome-wide H3K79me3 occupancy changes occurring in RNF40-silenced
+  compared to the siControl-treated HCC1806 cells (in blue: basal peak concentration≥3,
+  log2FC ≥ I1I, p-val < 0.05). D, E Aggregate profile of the basal occupancy levels
+  of H2Bub1 (upper profile) and H3K79me3 (lower profile) at the gene body regions)
+  as well as the basal gene expression levels of downregulated (down), upregulated
+  (up) and unregulated (unreg) genes upon RNF40 silencing. F Aggregate profile of
+  the basal occupancy levels of H3K27ac at the TSSs of downregulated (down), upregulated
+  (up) and unregulated (unreg) genes upon RNF40 silencing. G Aggregate profile (upper
+  panel) and heatmap (lower panel) of the genome-wide H3K27ac occupancy levels at
+  the TSSs of siControl- and siRNF40-treated HCC1806 cells at 48 h post-transfection.
+  H Venn diagram of 97 downregulated genes (down: log2FC ≤ −0.7, p-val < 0.05, basemean≥15)
+  with a concomitant loss of TSS-associated H3K27ac occupancy (regions with H3K27ac
+  loss: FC ≤ 0.87, basal H3K27ac peak concentration≥2) upon RNF40 silencing (left
+  panel) and which strongly enrich for several TEAD4 binding hits (right panel), based
+  on the ENCODE TF ChIP-seq 2015 database (retrieved from Enrichr: https://maayanlab.cloud/Enrichr/).
+  I Screenshots of the TSS-associated H3K27ac occupancy at YAP1-target genes (TK1,
+  AXL, ANKRD1, PDLIM2) in siControl- and siRNF40-treated HCC1806 cells (left panel)
+  and chromatin immunoprecipitation and RT-qPCR (ChIP-RTqPCR, right panel) at selected
+  TSS-proximal H3K27ac-occupied genomic regions, represented as dashed lines in the
+  left panel. J Violin plot of the TSS-proximal H3K27ac occupancy at YAP1-target genes,
+  enriched by the ENCODE TF ChIP-seq 2015 (see Fig. 5H), in siControl- and siRNF40-treated
+  HCC1806 cells. K Western blot analysis of phospho-YAP1 (S127), total YAP1 and actin
+  in siControl- and siRNF40-treated HCC1806 cells. L TEAD-driven luciferase reporter
+  assay of siControl- and siRNF40-treated HCC1806 cells, without and with LATSi. M
+  Graphical summary of the RNF40-dependent activation of the YAP1-driven transcriptomic
+  program in HCC1806 cells (Created with BioRender.com). CSC: Cancer Stem Cell. Statistical
+  test: One-way Anova (E, L), Mann–Whitney test (J), Student t-test (I). *p-val < 0.05,
+  ***p-val < 0.005. Error bars: Standard error of the mean (SEM). D, E, F, H: downregulated
+  genes with log2FC ≤ −0.7, p-val<0.05, basemean≥15, upregulated genes with log2FC ≥ 0.7,
+  p-val < 0.05, basemean≥15, unregulated genes with log2FC ≤ I0.25I, p-val > 0.9,
+  basemean≥15. ChIP-sequencing of H3K79me3 was performed in biological duplicates
+  (n = 2) and of H2Bub1 and H3K27ac in one replicate (n = 1) per condition. For the
+  rest of the experiments, they were performed in biological triplicates (n = 3) per
+  condition. RPGC: reads per genome coverage.'
+article_title: RNF40 epigenetically modulates glycolysis to support the aggressiveness
+  of basal-like breast cancer.
+citation: Evangelos Prokakis, et al. Cell Death Dis. 2023 Sep;14(9):641.
+year: '2023'
+
+doi: 10.1038/s41419-023-06157-5
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Breast cancer
+- Cancer stem cells
+
+---

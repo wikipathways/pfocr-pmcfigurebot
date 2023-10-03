@@ -1,0 +1,41 @@
+---
+figid: PMC10055032__nihpp-2023.03.14.532663v1-f0005
+pmcid: PMC10055032
+image_filename: nihpp-2023.03.14.532663v1-f0005.jpg
+figure_link: /pmc/articles/PMC10055032/figure/F5/
+number: 'Fig. 5:'
+figure_title: Multi-omics profiling and phenotypic characterization of PDK1 mutant
+  CAR-T cells
+caption: A, Heatmaps of significant differentially expressed (DE) transcripts in PDK1-gRNA13
+  and PDK1-OE CAR-T cell mutants.B, Volcano plot of DE analyses in PDK1-OE CAR-T cells.
+  Expression fold-changes and significance are represented by the beta-value and q
+  value, respectively.C, Waterfall plots of significantly enriched Biological Process
+  ontologies in PDK1-OE CAR-T cells. Results are shown for DAVID analyses of DE genes,
+  and significance is provided as the Benjamini-adjusted p value (adj. p). Enrichment
+  was assessed separately for up- and downregulated genes, but results are shown together.D,
+  Heatmaps of differential metabolite (DM) levels in PDK1-gRNA13 and PDK1-OE CAR-T
+  cells.E, Volcano plot of DM levels in PDK1-gRNA13 and PDK1-OE CAR-T cells.F, Waterfall
+  plots of integrated transcriptomic-metabolomic MetPA in PDK1-gRNA13 and PDK1-OE
+  CAR-T cells. Bar color, size and opacity represent pathway significance and impact
+  scores, which summarizing metabolite fold-changes of each pathway.G, Partial pathway
+  maps of the TCA cycle in PDK1-gRNA13 and PDK1-OE CAR-T cell mutants. Log2 fold-changes
+  of metabolite and gene levels are depicted by ovals and rectangles, respectively
+  (heatmap color-scale). Multi-gene enzyme levels were calculated as the log2-fold-changes
+  of the sum of normalized gene counts. Metabolomics and transcriptomics data were
+  analyzed with n = 5 and n = 3 samples, respectively, for each condition and control.
+  DE genes had a beta-change > 1 and q < 0.05, while DM had adjusted-p < 0.10 and
+  a log2 fold-change > 0.50. Volcano plot labels are given to genes/metabolites with
+  the highest significance and fold-changes, for which significant increases and decreases
+  are shown in red and blue, respectively.
+article_title: Immunogenetic metabolomics revealed key enzymes that modulate CAR-T
+  metabolism and function.
+citation: Paul Renauer, et al. bioRxiv. 2023 Mar 15:2023.03.14.532663.
+year: '2023'
+
+doi: 10.1101/2023.03.14.532663
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+---

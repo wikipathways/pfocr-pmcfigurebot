@@ -1,0 +1,48 @@
+---
+figid: PMC10527749__cells-12-02277-g004
+pmcid: PMC10527749
+image_filename: cells-12-02277-g004.jpg
+figure_link: /pmc/articles/PMC10527749/figure/cells-12-02277-f004/
+number: Figure 4
+figure_title: ''
+caption: BF treatment differentially regulated DNA damage and repair-related pathways.
+  (a) (i) qRT-PCR analysis shows DNA damage and repair-related gene (P53, BCl2, MDM2,
+  ATM, ATR, CHEK1, CHEK2) expression after BF treatment. Depicted values are mean
+  of three independent (n = 3) experiments. Error bars depict ± 95% confidence interval.
+  Asterisk depicts significance, which is determined by p value ≤ 0.05. Significance
+  was calculated by using Student’s unpaired two-sample t-test based on the difference
+  between each sample mean compared to the corresponding control mean. Values were
+  normalized to RPLP0 (housekeeping gene) and subsequently to DMSO-treated control
+  organoids. (ii, iii) WB analysis shows increased P53 protein expression at 24 h
+  in the healthy line and at 72 h in the patient line, thus implying DNA damage and/or
+  apoptotic cell death. Bar graphs show protein expression in fold change. Depicted
+  values are mean of three independent (n = 3) experiments. Error bars depict mean
+  ± standard deviation (SD). Values were normalized to β-Actin (housekeeping protein)
+  and subsequently to DMSO-treated control organoids. (b) Dot plots from KEGG pathways
+  revealed DNA damage and repair-related pathways such as P53 signaling pathway, homologous
+  recombination, Fanconi Anemia pathways to be upregulated in the healthy line at
+  24 h (iii) and downregulated in the patient line (ii). Additionally, at 24 h, the
+  patient line showed activation of NFκB, PI3K, and chemokine signaling pathways,
+  thus implying the onset of inflammation (i). Cytokine–cytokine receptor interaction,
+  neuroactive ligand–reactor interaction, cAMP signaling pathway were downregulated
+  in the healthy line at 24 h (iv).
+article_title: Free Bilirubin Induces Neuro-Inflammation in an Induced Pluripotent
+  Stem Cell-Derived Cortical Organoid Model of Crigler-Najjar Syndrome.
+citation: Abida Islam Pranty, et al. Cells. 2023 Sep;12(18):2277.
+year: '2023'
+
+doi: 10.3390/cells12182277
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- BIND
+- kernicterus
+- Crigler–Najjar syndrome
+- UGT1A1
+- 3D brain organoid
+- free bilirubin
+- neuro-inflammation
+
+---

@@ -1,0 +1,46 @@
+---
+figid: PMC10520887__gr3
+pmcid: PMC10520887
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC10520887/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: pIKKε directly interacts with pSTING.A–D, HEK293T cells were cotransfected
+  with pIKKε-GFP and mCherry-pSTING (A and B), with pIKKε-Myc and pSTING-HA (C and
+  D) for 48 h. The cells were harvested and subjected for co-IP and subsequent Western
+  blot analysis. E, 3D4/21 cells were stimulated with or without 2′3′-cGAMP (2 μg/ml),
+  and then endogenous interaction between pIKKε and pSTING was identified by co-IP
+  using anti-STING antibody. F, the purified GST-pSTING and His-pIKKε were incubated
+  and subjected to GST pulldown with Glutathione Sepharose 4B resin, followed by Western
+  blot analysis. G and H, HEK293T cells were transfected with mCherry-pTBK1 and GFP-pSTING
+  for 48 h, followed by co-IP and Western blot analysis. I, 3D4/21 cells were stimulated
+  with or without 2′3′-cGAMP (2 μg/ml), and then endogenous interaction between pSTING
+  and pTBK1 was examined by co-IP using the TBK1 antibody. J, 3D4/21 cells in 24-well
+  plates were cotransfected with mCherry-pIKKε/pTBK1 and GFP-pSTING for 24 h. Cells
+  were fixed, stained, and examined for colocalization by confocal microscopy. K and
+  L, 293T cells were cotransfected with 0.5 μg GFP-STING, 0.5 μg TBK1-HA, and increasing
+  amounts of pIKKε (0.5, 1, and 1.5 μg) for 48 h (K), with 0.5 μg GFP-STING, 0.5 μg
+  mCherry-IKKε and increasing amounts of pTBK1 (0.5, 1, and 1.5 μg) for 48 h (L).
+  The cells were harvested and immunoprecipitated with anti-HA antibody and anti-mCherry
+  antibody, respectively, followed by Western blot analysis. co-IP, coimmunoprecipitation;
+  GST, glutathione-S-transferase; HEK293T, human embryonic kidney 93T cell line; pIKKε,
+  porcine IKKε; STING, stimulator of interferon genes; TBK1, TANK-binding kinase 1.
+article_title: Porcine IKKε is involved in the STING-induced type I IFN antiviral
+  response of the cytosolic DNA signaling pathway.
+citation: Jia Luo, et al. J Biol Chem. 2023 Oct;299(10):105213.
+year: '2023'
+
+doi: 10.1016/j.jbc.2023.105213
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- porcine
+- cGAS–STING
+- IKKε
+- TBK1
+- IFN
+- antiviral
+
+---

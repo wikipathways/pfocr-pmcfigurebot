@@ -1,0 +1,45 @@
+---
+figid: PMC10529746__AD-14-5-1757-g5
+pmcid: PMC10529746
+image_filename: AD-14-5-1757-g5.jpg
+figure_link: /pmc/articles/PMC10529746/figure/F5-AD-14-5-1757/
+number: Figure 5
+figure_title: ''
+caption: RACGAP1 protein interacts with the EZH2 protein and increases the protein
+  stability of EZH2. (A) Analysis of protein-protein interaction (PPI) information
+  shows that RACGAP1 may directly interact with EZH2. (B) GSEA shows that high RACGAP1
+  expression was enriched in the EZH2-TARGET pathway. (C) RNA levels of RACGAP1 and
+  EZH2 in NE-like cells treated with RACGAP1 or empty vector (CON), as determined
+  by qRT-PCR. (D) Western blot was performed to show protein expression of RACGAP1
+  and E2F1 in NE-like cells following control, RACGAP1, RACGAP1 shRNA1 (sh1), or RACGAP1
+  shRNA1 (sh2) transfection. (E) Total cell lysates of NE-like cells were immunoprecipitated
+  with anti-EZH2 or anti-RACGAP1 antibodies and blotted with corresponding antibodies.
+  (F) Representative immunofluorescence images of RACGAP1 and EZH2 protein localization
+  in PC3 cells. (G) C4-2B-N cells and PC3 cells were transiently transfected with
+  CON or RACGAP1 and supplied with 10 mmol/L cycloheximide (CHX), and then, total
+  cell lysates were collected at 0, 8, 16, and 24 h after treatment. Western blot
+  analysis was used to measure protein levels. (H) Protein expression analysis was
+  used to calculate the half-life of EZH2 protein for C4-2B-N and PC3 cells. (I) Cells
+  transiently transfected with RACGAP1 knockdown were treated with vehicle (DMSO),
+  chloroquine (50 μm), or MG132 (20 μm) for 12 h. Western blotting was used to detect
+  the protein level of RACGAP1. Bar graphs show the statistical analysis of three
+  independent experiments. ***, p < 0.001; **, p < 0.01; *, p < 0.05, p = ns (no significance);
+  t test for two groups or ANOVA for more than two groups.
+article_title: Overexpression of RACGAP1 by E2F1 Promotes Neuroendocrine Differentiation
+  of Prostate Cancer by Stabilizing EZH2 Expression.
+citation: Zhengshuai Song, et al. Aging Dis. 2023 Oct 1;14(5):1757-1774.
+year: '2023'
+
+doi: 10.14336/AD.2023.0202
+journal_title: Aging and Disease
+journal_nlm_ta: Aging Dis
+publisher_name: JKL International LLC
+
+keywords:
+- RACGAP1
+- EZH2
+- E2F1
+- ubiquitin
+- neuroendocrine prostate cancer (NEPC)
+
+---

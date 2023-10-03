@@ -1,0 +1,37 @@
+---
+figid: PMC10525382__biomedicines-11-02406-g007
+pmcid: PMC10525382
+image_filename: biomedicines-11-02406-g007.jpg
+figure_link: /pmc/articles/PMC10525382/figure/biomedicines-11-02406-f007/
+number: Figure 7
+figure_title: ''
+caption: Kinase activity of CDK1, CDK7, and CSNK2A1 is elevated in cabozantinib-resistant
+  MDA-MB-231 TNBC cells. (A) Kinases with only KSEA scores (at least 2 substrates)
+  were plotted. (B) Heatmap of kinases with KSEA and KSEAM scores and average logarithmic
+  (base 2) fold-change for kinase expression in resistant/sensitive. Statistics for
+  z-scores and kinase fold-changes were calculated by a one-tailed Student’s t-test
+  controlled by the Benjamini–Hochberg FDR (False-Discover Rate) procedure. * = corrected
+  p-value < 0.05 at FDR = 0.1.
+article_title: Involvement of the AKT Pathway in Resistance to Erlotinib and Cabozantinib
+  in Triple-Negative Breast Cancer Cell Lines.
+citation: Cory Lefebvre, et al. Biomedicines. 2023 Sep;11(9):2406.
+year: '2023'
+
+doi: 10.3390/biomedicines11092406
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: MDPI
+
+keywords:
+- triple-negative breast cancer (TNBC)
+- epidermal growth factor receptor (EGFR)
+- hepatocyte growth factor receptor (c-Met/HGFR)
+- AKT1
+- erlotinib
+- cabozantinib
+- therapeutic resistance
+- quantitative mass spectrometry proteomics
+- kinomics
+- phosphoproteomics
+
+---

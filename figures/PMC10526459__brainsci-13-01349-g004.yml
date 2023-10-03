@@ -1,0 +1,35 @@
+---
+figid: PMC10526459__brainsci-13-01349-g004
+pmcid: PMC10526459
+image_filename: brainsci-13-01349-g004.jpg
+figure_link: /pmc/articles/PMC10526459/figure/brainsci-13-01349-f004/
+number: Figure 4
+figure_title: ''
+caption: The establishment of IFN-γ response pathway signature and the relationship
+  between EGFR pathway-related and IFN-γ response pathway prognostic gene signature.
+  (A,B). LASSO coefficient profiles of IFN-γ response genes; (C). Multivariate Cox
+  regression analysis of the selected genes in the TCGA set; (D,E). The combination
+  of EGFR pathway-related and IFN-γ response pathway signatures can divide glioma
+  samples into 4 groups with distinct prognosis in the TCGA set (D) and the CGGA set
+  (E); (F,G). The relationship between the above two signatures in the TCGA set (F)
+  and the CGGA set (G); (H). The majority of patients exhibit either high or low scores
+  in both signatures, with only a small proportion of patients displaying a combination
+  of one high and one low score in the TCGA and CGGA sets.
+article_title: The Crosstalk between the EGFR and IFN-γ Pathways and Synergistic Roles
+  in Survival Prediction and Immune Escape in Gliomas.
+citation: Xingang Zhou, et al. Brain Sci. 2023 Sep;13(9):1349.
+year: '2023'
+
+doi: 10.3390/brainsci13091349
+journal_title: Brain Sciences
+journal_nlm_ta: Brain Sci
+publisher_name: MDPI
+
+keywords:
+- glioma
+- EGFR
+- IFN-γ
+- tumor microenvironment
+- classification
+
+---

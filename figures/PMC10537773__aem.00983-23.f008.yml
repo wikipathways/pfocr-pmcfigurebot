@@ -1,0 +1,39 @@
+---
+figid: PMC10537773__aem.00983-23.f008
+pmcid: PMC10537773
+image_filename: aem.00983-23.f008.jpg
+figure_link: /pmc/articles/PMC10537773/figure/F8/
+number: Fig 8
+figure_title: ''
+caption: Comparison of DEGs in WT and mutants (ΔAomedA and ΔAowetA). (A) UpSet plot
+  analysis of DEGs between ΔAomedA/ΔAowetA mutant versus WT strain. The bar chart
+  on the bottom left represents the number of the up/downregulated DEGs. The dotted
+  line at the bottom right shows the number of DEGs in the different groups. (B) Visual
+  representation of gene expression correlation of sporulation-related genes. In the
+  figure, each node represents a gene/transcript and the connection between nodes
+  represents the correlation between gene/transcript expression. The size of nodes
+  indicates the transcript levels of genes/transcripts, and indicates the transcript
+  correlation between different genes/transcripts. Node size is positively correlated
+  with transcription level of gene/transcript. (C) Gene Ontology (GO) enrichment analysis
+  of DEGs of ΔAomedA and ΔAowetA mutants versus WT strain. (D) Kyoto encyclopedia
+  of genes and genomes (KEGG) pathway analysis of ΔAomedA and ΔAowetA mutants versus
+  WT strain.
+article_title: AoMedA has a complex regulatory relationship with AoBrlA, AoAbaA, and
+  AoWetA in conidiation, trap formation, and secondary metabolism in the nematode-trapping
+  fungus Arthrobotrys oligospora.
+citation: Na Bai, et al. Appl Environ Microbiol. 2023 Sep;89(9):e00983-23.
+year: '2023'
+
+doi: 10.1128/aem.00983-23
+journal_title: Applied and Environmental Microbiology
+journal_nlm_ta: Appl Environ Microbiol
+publisher_name: American Society for Microbiology
+
+keywords:
+- Arthrobotrys oligospora
+- developmental regulator
+- conidiation
+- trap formation
+- secondary metabolism
+
+---

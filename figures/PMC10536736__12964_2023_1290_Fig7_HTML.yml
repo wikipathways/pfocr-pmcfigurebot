@@ -1,0 +1,33 @@
+---
+figid: PMC10536736__12964_2023_1290_Fig7_HTML
+pmcid: PMC10536736
+image_filename: 12964_2023_1290_Fig7_HTML.jpg
+figure_link: /pmc/articles/PMC10536736/figure/Fig7/
+number: Fig. 7
+figure_title: ''
+caption: Differential expression and gene set enrichment analysis in TTKhigh COAD.
+  a Heat map clustering of 512 COAD transcripts stratified according to median TTK
+  expression. b GO enrichment tree in the same cohort of COAD according to median
+  TTK expression. Enrichment p value is indicated for each functional category. c
+  Bubble chart illustrating activated (orange) and suppressed (blue) canonical pathways
+  in TTKhigh vs TTKlow COAD employing IPA analysis. Size of the bubble corresponds
+  to the number of genes that overlap the pathway. X-axis represents the -log p-value
+article_title: Therapeutic targeting of the TPX2/TTK network in colorectal cancer.
+citation: Hibah Shaath, et al. Cell Commun Signal. 2023;21:265.
+year: '2023'
+
+doi: 10.1186/s12964-023-01290-2
+journal_title: 'Cell Communication and Signaling : CCS'
+journal_nlm_ta: Cell Commun Signal
+publisher_name: BioMed Central
+
+keywords:
+- Colorectal cancer
+- Precision medicine
+- TPX2
+- TTK
+- DDX39A
+- LRP8
+- Gene-drug-interaction
+
+---

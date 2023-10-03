@@ -1,0 +1,44 @@
+---
+figid: PMC10521995__pone.0291029.g005
+pmcid: PMC10521995
+image_filename: pone.0291029.g005.jpg
+figure_link: /pmc/articles/PMC10521995/figure/pone.0291029.g005/
+number: Fig 5
+figure_title: AD-relevant pathways and neuron circuit firing are differentially regulated
+  in rs148726219-edited mature iNeurons
+caption: 'A. IPA gene ontology comparison analysis showing top 20 dysregulated pathways
+  between WT-2A1 and homozygous clones (left column) and WT-2A1 and heterozygous clones
+  (right column) on day 23. Z-scores denote level of pathway upregulation (orange)
+  or downregulation (navy) based on log2FC values of DEGs contained within them. B.
+  Differentially expressed genes involved in synaptogenesis, calcium signaling, and
+  glutamate signaling (left), and cell cycle and unfolded protein response (right)
+  based on FDR <0.05, log2FC <-1.0 and >1.0. Color denotes log2FC values; orange =
+  upregulated, navy = downregulated. C. Differentially expressed genes in day 23 iN
+  cells identified by RNA-seq involved in synaptogenesis, calcium signaling, glutamate
+  signaling, cell cycle, and unfolded protein response based on FDR <0.05 and log2FC
+  between -1.0 and 1.0. Expression values are expressed as fragments per kilobase
+  per million mapped reads (FPKM) for WT (green bars), HET (orange bars) and HOM lines
+  (purple bars). Four technical replicates for each clone are shown with each represented
+  by a black dot. D. Calcium imaging from 1 representative experiment shows rs148726219-edited
+  heterozygous hiPSC lines to have significantly enhanced functional circuit maturation
+  compared to wildtype and homozygous lines. Top: Level of functional circuit activity
+  and cofiring ratio was calculated (number of neurons fired at a time point over
+  total excitable neurons). Greater peak amplitude of cofiring ratio of HET-2D2 line
+  implicates formation of bigger circuits. Bottom: Chart of mean peak amplitude in
+  5 individual replicates (each represented by a dot) of the HET-2D2 line shows statistically
+  significant increase of functional circuit size compared to WT-2A1 and HOM-2H6 lines.
+  Also, significantly less frequent circuit firing was observed with larger circuit
+  formation in HET-2D2 line. * p < 0.5, **** p < 0.0001 by one-way ANOVA with multiple
+  comparisons.'
+article_title: Functional characterization of a single nucleotide polymorphism associated
+  with Alzheimer’s disease in a hiPSC-based neuron model.
+citation: Lindsay R. Stolzenburg, et al. PLoS One. 2023;18(9):e0291029.
+year: '2023'
+
+doi: 10.1371/journal.pone.0291029
+journal_title: PLOS ONE
+journal_nlm_ta: PLoS One
+publisher_name: Public Library of Science
+
+keywords:
+---

@@ -1,0 +1,35 @@
+---
+figid: PMC10541177__elife-88207-fig5-figsupp1
+pmcid: PMC10541177
+image_filename: elife-88207-fig5-figsupp1.jpg
+figure_link: /pmc/articles/PMC10541177/figure/fig5s1/
+number: Figure 5—figure supplement 1
+figure_title: GO analysis of the msil2/4 DEGs reveals molecular functions associated
+  to plant defense and response to biotic and abiotic stresses
+caption: (A) Boxplots showing the read counts corresponding to the up- and down-regulated
+  genes as well as the genes involved in the xylan/cellulose and lignin biosynthesis
+  pathways in Col-0 and msil2/4. ns, not significant; ***p<0.001; t test. (B) The
+  gene ontology analysis of DEGs was performed using ShinyGO v0.76 software. Lollipop
+  diagrams provide information about GO fold enrichment, significance (FDR in log10),
+  and number of genes in each pathway. (C) The DEG products are preferentially targeted
+  to the extracellular region and the cell wall.
+article_title: Cell-type-specific control of secondary cell wall formation by Musashi-type
+  translational regulators in Arabidopsis.
+citation: Alicia Kairouani, et al. eLife. 2023;12:RP88207.
+year: '2023'
+
+doi: 10.7554/eLife.88207
+journal_title: eLife
+journal_nlm_ta: eLife
+publisher_name: eLife Sciences Publications, Ltd
+
+keywords:
+- arabidopsis
+- musashi
+- stem
+- SCW
+- glucuronoxylan
+- RNA binding protein
+- A. thaliana
+
+---

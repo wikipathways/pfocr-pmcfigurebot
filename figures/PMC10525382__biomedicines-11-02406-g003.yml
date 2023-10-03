@@ -1,0 +1,43 @@
+---
+figid: PMC10525382__biomedicines-11-02406-g003
+pmcid: PMC10525382
+image_filename: biomedicines-11-02406-g003.jpg
+figure_link: /pmc/articles/PMC10525382/figure/biomedicines-11-02406-f003/
+number: Figure 3
+figure_title: ''
+caption: Acquisition of resistance to erlotinib alters the proteome and kinome of
+  MDA-MB-468 TNBC cells with minimal change to the phosphoproteome. SILAC-labeled
+  TNBC cells, including erlotinib-resistant (468LR) versus erlotinib-sensitive (468S)
+  cells, were treated with erlotinib (5 µM) or DMSO vehicle control for 24 h before
+  being subjected to LC-MS/MS, as described in Materials and Methods. (A) Euler diagrams
+  of the overlap of proteins quantified from proteomic (n = 2159), kinomic (n = 879),
+  and phosphoproteomic (number of proteins with quantified phosphosite = 555) with
+  significant overlap among the three datasets. (B–D) Volcano plots for quantified
+  proteins from the (B) kinome, (C) proteome, and (D) phosphoproteome showing significantly
+  altered proteins or phosphosites in the 468LR versus 468S cell models. (E) The plot
+  of phosphorylation sites versus protein abundance to assess whether protein abundance
+  biases respective phosphorylation changes. (F) Quantification and distribution of
+  phosphorylation sites identified.
+article_title: Involvement of the AKT Pathway in Resistance to Erlotinib and Cabozantinib
+  in Triple-Negative Breast Cancer Cell Lines.
+citation: Cory Lefebvre, et al. Biomedicines. 2023 Sep;11(9):2406.
+year: '2023'
+
+doi: 10.3390/biomedicines11092406
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: MDPI
+
+keywords:
+- triple-negative breast cancer (TNBC)
+- epidermal growth factor receptor (EGFR)
+- hepatocyte growth factor receptor (c-Met/HGFR)
+- AKT1
+- erlotinib
+- cabozantinib
+- therapeutic resistance
+- quantitative mass spectrometry proteomics
+- kinomics
+- phosphoproteomics
+
+---

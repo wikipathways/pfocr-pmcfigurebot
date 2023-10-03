@@ -1,0 +1,54 @@
+---
+figid: PMC10520453__gr5
+pmcid: PMC10520453
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC10520453/figure/fig5/
+number: Figure 5
+figure_title: ''
+caption: Quantification of the deformation of yeast cells during polar growth(A) A
+  simple diagram of cell shapes with circle filling patterns. The image on the left
+  depicts a yeast cell cultured for 1,020 min in a medium containing 0.7 μM pheromone;
+  the red line indicates the contour of the cell; the image on the right is the filling
+  model for the image on the left;  are the radii of the circle.(B) Real-time trajectory
+  of the cell morphology (Hn) at 0.7 μM under non-equilibrium steady state. F1–F4
+  indicate the four distinct cell morphological fates. The horizontal dashed lines
+  mark the approximate centers of the fates. Arrows highlight spontaneous state switching
+  events between fates F3 to F2 (green) and F2 to F4 (red). The inset shows a magnified
+  view of the trajectory over time points t1–t5. Cell morphologies during the initial
+  non-equilibrium non-steady-state period before 600 min are omitted.(C) The distribution
+  statistics of the cell growth rate at 0.7 μM. The red dashed line serves as the
+  dividing line between positive and negative data. WF and LS represent the lateral-fast
+  and lateral-slow rates, respectively; LF and WS represent the longitudinal-fast
+  and longitudinal-slow rates, respectively.(D) Schematic illustration of the molecular
+  mechanism underlying the formation of the four growth rates. Model W indicates that
+  the polar growth pathway P1 is not yet connected, so only the P2pathway operates;
+  Model L depicts the cooperative operation of polar growth pathways P1 and P2. Models
+  F and S describe the polar growth patterns of the two growth forces, which correspond
+  to the high and low states of Fus3, respectively.(E) Dual fluorescent protein system
+  in yeast. The three images on the left, from top to bottom, depict bright field
+  cells, cells excited at 488 nm, and cells excited at 561 nm. The white circle within
+  the cell represents the nucleus boundary; S65T and yomCherry are the fluorescent
+  proteins that were linked to CDC24 and FUS3, respectively.(F) Cross-correlation
+  of two levels of gene expression at distinct positions. Gene_in and gene_out represent
+  the gene expression levels inside and outside the nucleus, respectively. The red
+  curve represents the cross-correlation between Fus3_in and Cdc24_in/out, while the
+  blue curve corresponds to the cross-correlation between Fus3_out and Cdc24_in/out.(G)
+  Statistical graph of the distribution statistics of the absolute value of the cell
+  growth rate at 0.7 μM.(H) The proportion of high-state and low-state data present
+  in high and low states at various pheromone concentrations.
+article_title: Global quantitative understanding of non-equilibrium cell fate decision-making
+  in response to pheromone.
+citation: Sheng Li, et al. iScience. 2023 Oct 20;26(10):107885.
+year: '2023'
+
+doi: 10.1016/j.isci.2023.107885
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Biological sciences
+- Cellular physiology
+- Cell biology
+
+---

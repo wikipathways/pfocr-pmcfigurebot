@@ -1,0 +1,30 @@
+---
+figid: PMC10055032__nihpp-2023.03.14.532663v1-f0002
+pmcid: PMC10055032
+image_filename: nihpp-2023.03.14.532663v1-f0002.jpg
+figure_link: /pmc/articles/PMC10055032/figure/F2/
+number: 'Fig. 2:'
+figure_title: Metabolic reprogramming in ADA and PDK1 mutant human primary T cells
+caption: A-B, Heatmaps of differential metabolite levels in (A) ADA and (B) PDK1 T
+  cell mutants. Significant metabolite changes had an adjusted-p < 0.10 and log2 fold-changes
+  > 0.50. Heatmap values depict the z-score of log2 fold-changes.C-D, Waterfall plots
+  of metabolic pathway analyses (MetPA) in (C) ADA and (D) PDK1 T cell mutants. Bar
+  color, size and opacity represent pathway significance and impact scores, which
+  summarizing metabolite fold-changes of each pathway. MetPA results are given for
+  metabolites-only in the overexpression mutants and for integrated metabolite-gene
+  expression in the knockout mutants.E-F, Flow cytometric analyses of functional markers
+  in ADA and PDK1 T cell mutants. Histograms and are provided for (E) cytotoxicity
+  and (F) exhaustion markers. Metabolomics and flow cytometry data were analyzed with
+  n >= 3 for each condition and control.
+article_title: Immunogenetic metabolomics revealed key enzymes that modulate CAR-T
+  metabolism and function.
+citation: Paul Renauer, et al. bioRxiv. 2023 Mar 15:2023.03.14.532663.
+year: '2023'
+
+doi: 10.1101/2023.03.14.532663
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+---

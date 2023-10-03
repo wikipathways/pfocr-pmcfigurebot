@@ -1,0 +1,35 @@
+---
+figid: PMC9710528__epi-14-1139-g4
+pmcid: PMC9710528
+image_filename: epi-14-1139-g4.jpg
+figure_link: /pmc/articles/PMC9710528/figure/F4/
+number: Figure 4.
+figure_title: Epitranscriptomic profile of RNA with altered N6-methyladenosine quantity
+  in response to mono(2-ethylhexyl) phthalate exposure
+caption: (A) Venn diagram showing the overlap between the microarray and RNA sequencing
+  data of significantly dysregulated genes with p ≤ 0.05 and Log2FC ≥ ± 1. (B) The
+  correlation matrix of transcripts with a significant difference in gene expression
+  detected by RNA sequencing and N6-methyladenosine abundance was determined by comparing
+  with Log2FC. (C) The resulting 170 transcripts that experienced epitranscriptomic
+  cis-regulatory outcomes were then isolated from the combined datasets and used for
+  downstream pathway analysis using the WikiPathway database and (D) the Gene Ontology
+  database.
+article_title: Alteration of the N6-methyladenosine epitranscriptomic profile in synthetic
+  phthalate-treated human induced pluripotent stem cell-derived endothelial cells.
+citation: Jordan Jousma, et al. Epigenomics. 2022 Oct;14(19):1139-1155.
+year: '2022'
+
+doi: 10.2217/epi-2022-0110
+journal_title: Epigenomics
+journal_nlm_ta: Epigenomics
+publisher_name: Future Medicine Ltd
+
+keywords:
+- epitranscriptomic
+- iPSCs
+- mono(2-ethylhexyl) phthalate
+- N6-methyladenosine
+- synthetic phthalate
+- toxicology screening
+
+---

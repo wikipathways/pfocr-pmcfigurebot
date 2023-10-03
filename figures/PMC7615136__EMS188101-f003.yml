@@ -1,0 +1,43 @@
+---
+figid: PMC7615136__EMS188101-f003
+pmcid: PMC7615136
+image_filename: EMS188101-f003.jpg
+figure_link: /pmc/articles/PMC7615136/figure/F3/
+number: Fig. 3
+figure_title: Endothelial-AHR mediates lung protection via apelin signalling and prevents
+  a dysplastic apoptotic response in airway epithelia
+caption: a, c, Heatmaps showing differentially expressed genes in lung endothelia
+  (a) or epithelia (c) comparing influenza infected WT and ECΔAhr mice. b, d, Selected
+  canonical pathways differentially regulated between infected WT and ECΔAhr lung
+  endothelial cells (b) and epithelial cells (d) using ingenuity pathway analysis
+  (IPA) (padj < 0.05, fold change > 1.5). (e) Dot plot of hallmark pathways in ECΔAhr
+  mice (relative to WT) using GSEA (four pairwise comparisons total). Dot size relates
+  to statistical significance. (f) Frequency of apoptotic (Annexin-V+) and necrotic
+  (TO-PRO-3+) lung endothelia (CD31+), progenitor airway epithelial cells (EpCamhighCD24lowMHC-II–),
+  mature airway epithelia (EpCamhighCD24highMHC-II–), and type II alveolar epithelial
+  cells (EpCamlowMHC-II+) was assessed by flow cytometry in influenza infected WT
+  and ECΔAhr mice (n = 4). g, h, Apln and Aplnr expression was determined in total
+  lung and lung endothelial cells isolated from influenza infected WT, ECΔAhr (g)
+  and Cyp1–/– (h) (n = 3). i, j, Lung vascular leakage was determined in PBS (n =
+  9) or apelin (n = 10) treated WT mice (i) and PBS or MM54-treated WT (PBS n = 16;
+  MM54 n = 15) and Cyp1–/– (PBS n = 11; MM54 n = 10) mice (j) by quantification of
+  total cell and RBCs. All Data are representative of two to three independent experiments
+  with similar results or pooled from three experiments (j). Statistical analysis
+  was performed using a one-sided Wald test with Benjamini–Hochberg correction (a-d),
+  normalised enrichment scores (NES) were generated with GSEA using a two-sided Kolmogorov
+  Smirnov statistic with Hallmark genesets on genelists ranked by the Wald t statistic
+  from DESeq2 (e) unpaired two-tailed Student’s t test (f, i), or two-way ANOVA with
+  Sidak’s post-test (g, h, j) and significant P values are indicated on the graphs.
+  Data are shown as mean±SEM. ns, not significant.
+article_title: Endothelial AHR activity prevents lung barrier disruption in viral
+  infection.
+citation: Jack Major, et al. Nature. ;621(7980):813-820.
+year: '2023'
+
+doi: 10.1038/s41586-023-06287-y
+journal_title: Nature
+journal_nlm_ta: Nature
+publisher_name: ''
+
+keywords:
+---

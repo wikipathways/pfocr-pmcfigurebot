@@ -1,0 +1,28 @@
+---
+figid: PMC10535712__ijbsv19p4442g003
+pmcid: PMC10535712
+image_filename: ijbsv19p4442g003.jpg
+figure_link: /pmc/articles/PMC10535712/figure/F3/
+number: Figure 3
+figure_title: ''
+caption: Differential metabolic pathway analysis and core pathway construction in
+  thymoma. A Twenty-five differential metabolic pathways were identified via GSVA
+  analysis. B, C, D, E Different models to construct key metabolic pathways (B decision
+  tree, C random forest, D, E SHAP model)
+article_title: Role of glycosphingolipid biosynthesis coregulators in malignant progression
+  of thymoma.
+citation: Xin Zhang, et al. Int J Biol Sci. 2023;19(14):4442-4456.
+year: '2023'
+
+doi: 10.7150/ijbs.83468
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- Mass spectrometry analysis
+- Thymoma
+- Metabolic reprogramming
+- Glycosphingolipid
+
+---

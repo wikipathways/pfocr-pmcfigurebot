@@ -1,0 +1,24 @@
+---
+figid: PMC10516010__nihpp-2023.09.17.557749v1-f0017
+pmcid: PMC10516010
+image_filename: nihpp-2023.09.17.557749v1-f0017.jpg
+figure_link: /pmc/articles/PMC10516010/figure/F17/
+number: Extended Data Figure 10 |
+figure_title: Network plot demonstrates the effect of the cluster 2A upstream regulators
+  on cell-cycle genes
+caption: The network using edges estimated from the BG model are plotted. Colors indicate
+  the effect size and arrows indicate the direction of effect. The genes on the left-hand
+  side are among the 84 KO’d genes, and the genes on the right are genes that are
+  listed among the KEGG cell cycle pathway genes.
+article_title: Gene regulatory network inference from CRISPR perturbations in primary
+  CD4+ T cells elucidates the genomic basis of immune disease.
+citation: Joshua S. Weinstock, et al. bioRxiv. 2023 Sep 17:2023.09.17.557749.
+year: '2023'
+
+doi: 10.1101/2023.09.17.557749
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+---

@@ -1,0 +1,39 @@
+---
+figid: PMC10519828__gr1
+pmcid: PMC10519828
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC10519828/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: Global metabolic profiling of Par-C5 cells depleted of PKCδ (shδ110) or untargeted
+  control shRNA (shNT). Untargeted metabolomics was performed on triplicate biological
+  samples of Par-C5 cells depleted of PKCδ (shδ110) or untargeted control shRNA (shNT).
+  A, heat map with hierarchical clustering of the top 50 significant metabolites in
+  Par-C5 shNT and shδ110 cells is shown following student’s t test analysis (α = 0.05).
+  B, immunoblot showing the depletion of PKCδ with three different shRNA constructs.
+  Densitometry quantifying the percent of PKCδ expression, as compared to shNT and
+  normalized to actin, is shown below the blots. C, partial least squares discriminant
+  analysis (PLS-DA) scores plot of metabolomics data. Shaded ovals represent 95% confidence
+  intervals. D, enrichment analysis of shδ110 cells as compared to shNT cells. The
+  top 26 metabolite groups from quantitative enrichment analysis are shown in the
+  bar chart (p < 0.05). Enrichment ratio represents the number of observed metabolite
+  hits divided by the number of expected metabolite hits within each pathway. PKCδ,
+  protein kinase Cδ.
+article_title: Metabolic reprogramming contributes to radioprotection by protein kinase
+  Cδ.
+citation: Angela M. Ohm, et al. J Biol Chem. 2023 Oct;299(10):105186.
+year: '2023'
+
+doi: 10.1016/j.jbc.2023.105186
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- protein kinase Cδ
+- metabolism
+- radioprotection
+- salivary gland
+- apoptosis
+
+---

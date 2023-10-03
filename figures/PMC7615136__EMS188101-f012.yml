@@ -1,0 +1,37 @@
+---
+figid: PMC7615136__EMS188101-f012
+pmcid: PMC7615136
+image_filename: EMS188101-f012.jpg
+figure_link: /pmc/articles/PMC7615136/figure/F12/
+number: Extended Data Fig. 8
+figure_title: AHR-dependent regulation of the apelin signalling pathway in lung endothelia
+caption: a, Heatmap of indicated genes from RNA sequencing data comparing CD31+ lung
+  endothelial cells on day 6 post infection (fold change > 1.5, padj < 0.05). b, Expression
+  of indicated genes in isolated CD45+ immune cell, EpCam+ epithelial cell, and CD31+
+  endothelial cell was determined by qPCR in naïve WT mice (n = 4). c, d, Expression
+  of indicated genes in UMAP plots of mouse (c) and human (d) lung scRNA-seq datasets
+  obtained from lungendothelialcellatlas.com. e, Lung vascular leakage was assessed
+  in PBS (n = 5) and apelin (n = 6) treated ECΔAhr mice by quantification of total
+  cells Ter119+ RBCs in the BALF on day 6 post infection. f, Dot plot of hallmark
+  pathways enriched or downregulated in MM54-treated WT mice (relative to PBS-treated
+  controls) by GSEA. Comparisons are between MM54-treated and untreated from influenza
+  infected mice, for endothelia and epithelia (two pairwise comparisons total). Dot
+  size relates to statistical significance. All Data are representative of at least
+  two independent experiments. Statistical analysis was performed using one-sided
+  Wald test with Benjamini–Hochberg correction (a) or followed by Tukey’s post-test
+  (b), or unpaired two-tailed Student’s t test (e). NES were generated with GSEA using
+  a two-sided Kolmogorov Smirnov statistic with Hallmark genesets on genelists ranked
+  by the Wald t statistic from DESeq2 (f) and significant P values are indicated on
+  the graphs. Data are shown as mean±SEM. ns, not significant.
+article_title: Endothelial AHR activity prevents lung barrier disruption in viral
+  infection.
+citation: Jack Major, et al. Nature. ;621(7980):813-820.
+year: '2023'
+
+doi: 10.1038/s41586-023-06287-y
+journal_title: Nature
+journal_nlm_ta: Nature
+publisher_name: ''
+
+keywords:
+---

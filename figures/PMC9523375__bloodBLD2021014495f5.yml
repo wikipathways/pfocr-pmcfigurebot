@@ -1,0 +1,40 @@
+---
+figid: PMC9523375__bloodBLD2021014495f5
+pmcid: PMC9523375
+image_filename: bloodBLD2021014495f5.jpg
+figure_link: /pmc/articles/PMC9523375/figure/F5/
+number: Figure 5
+figure_title: ''
+caption: 'Single-cell RNA sequencing profiling of T-cell subpopulations in mice cured
+  of or relapsed with BCR-ABL1 B-ALL after dasatinib therapy. (A,B) Uniform manifold
+  approximation and projection (UMAP) visualization of 14 836 individual peripheral
+  blood leukocytes collected from cured (7578 single cells) (A) and relapsed mice
+  (7258 single cells) (B). (C) Each cell was classified into 1 of 5 immune cell types
+  based on the expression of marker genes. (D) The difference in immune cell composition
+  is shown as the percentage of peripheral blood leukocytes in cured mice relative
+  to relapsed mice. (E,F) Flow cytometry of peripheral blood cells showed a higher
+  proportion of CD3 (E) and CD4 (F) T cells in cured mice compared with relapsed animals.
+  (G) Single-cell expression of marker genes of the T-cell population. Memory T-cell
+  markers: Tcf7, Sell, Ccf7, and Il7r. Effector T-cell markers: Ifng, Gzma, Gzmb,
+  and Pdcd1. NK T-cell markers: Klra1 and Xcl1. (H-J) UMAP visualization of T cells
+  collected from cured and relapsed mice. Each cell was classified into 1 of 4 subpopulations
+  based on the expression of marker genes; 4 subpopulations (H); distribution of cells
+  from cured mice (green) and relapsed mice (brown) (I); T-cell distribution of 4
+  subpopulation in cured (left) or relapsed (right) groups, respectively (J). (K,L)
+  To identify genes related to ALL cure, we compared gene expression profiles of T
+  cells from cured mice vs relapsed mice and specifically focused on CD8 T1 cells
+  (memory like) (K) and CD8 T2 cells (effector like) (L). Differentially expressed
+  genes were analyzed for pathway enrichment using GSEA. The bar plot shows the normalized
+  enrichment scores of gene sets.'
+article_title: Impact of T-cell immunity on chemotherapy response in childhood acute
+  lymphoblastic leukemia.
+citation: Yizhen Li, et al. Blood. 2022 Sep 29;140(13):1507-1521.
+year: '2022'
+
+doi: 10.1182/blood.2021014495
+journal_title: Blood
+journal_nlm_ta: Blood
+publisher_name: American Society of Hematology
+
+keywords:
+---

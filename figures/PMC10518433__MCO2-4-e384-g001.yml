@@ -1,0 +1,41 @@
+---
+figid: PMC10518433__MCO2-4-e384-g001
+pmcid: PMC10518433
+image_filename: MCO2-4-e384-g001.jpg
+figure_link: /pmc/articles/PMC10518433/figure/mco2384-fig-0005/
+number: FIGURE 5
+figure_title: ''
+caption: Microvesicle containing protein‐coding RNA profile effectively reflected
+  the pathological response of parental cells. (A–C) KEGG pathway analysis of significantly
+  changed protein‐coding RNAs in CVB3‐infected cells (Cells‐CVB3) as well as cell‐derived
+  exosomes (Exo‐CVB3) or MVs (MV‐CVB3) using DAVID Bioinformatics Resources. HCT‐116
+  cells were infected with CVB3 for 24 h, then the cells, secreted exosomes, and MVs
+  were collected for RNA‐seq sequencing. Three replicate samples in each group were
+  performed. The KEGG pathway of Cells‐CVB3 vs. Exo‐CVB3 and Cells‐CVB3 vs. MV‐CVB3
+  were also shown by the Venn diagram (B and C). (D–F) KEGG pathway analysis of significantly
+  changed protein‐coding RNAs in CVB3‐infected cells (Cells‐CVB3), cell‐derived exosomes
+  (Exo‐CVB3), and MVs (MV‐CVB3) using DAVID Bioinformatics Resources. The red font
+  represents the overlapping pathway of Cells‐CVB3 and Exo‐CVB3, while the blue font
+  represents the overlapping pathway of Cells‐CVB3 and MV‐CVB3. (G and H) The significantly
+  changed protein‐coding RNAs of infected cells, derived exosomes, and MVs were analyzed
+  by the GAD_DISEASE tool in the DAVID Bioinformatics Resource. Venn diagrams of known
+  disease of infected cells, exosomes, and MVs were presented. The overlap disease
+  items were listed.
+article_title: Differential traits between microvesicles and exosomes in enterovirus
+  infection.
+citation: Yuxuan Fu, et al. MedComm (2020). 2023 Oct;4(5):e384.
+year: '2023'
+
+doi: 10.1002/mco2.384
+journal_title: MedComm
+journal_nlm_ta: MedComm (2020)
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- biodistribution
+- clinical diagnostics
+- enterovirus
+- exosomes
+- microvesiclesss
+
+---

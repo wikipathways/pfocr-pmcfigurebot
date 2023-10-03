@@ -1,0 +1,52 @@
+---
+figid: PMC10528430__nihms-1912695-f0007
+pmcid: PMC10528430
+image_filename: nihms-1912695-f0007.jpg
+figure_link: /pmc/articles/PMC10528430/figure/F1/
+number: Figure 1
+figure_title: Microglial responses in Alzheimer’s Disease
+caption: Several genetic risk loci for AD (TREM2, CD33, CSF1R, CR1, APOE) encode proteins
+  involved in signaling cascades that support broad phenotypic shifts in motility,
+  metabolism, phagocytosis, proliferation, cytokine production, exosome production
+  and release, and apoptosis. Microglia use complement signaling to identify both
+  healthy and dead neurons for degradation. Microglia can use signaling cascades to
+  detect and recruit to pathological proteins including TAU and Aβ. For example, fractalkine
+  signaling (via fractalkine receptor CX3CR1) allows microglia to detect and phagocytose
+  Tau [,,]. Microglial interactions with Aβ plaques are distinct, where microglia
+  actively surround Aβ plaques and interact with them via mechanisms involving APOE,
+  TREM2 and its receptor. This receptor is responsible for the TREM2-dependent signaling
+  pathway which results in activation of SYK and ERK [,]. ERK then crosses the nucleus
+  to allow for transcription of key inflammatory signaling molecules such as STAT1.
+  Whereas activation of the mTOR pathway leads to further phagocytosis and cell proliferation.
+  TAU and Aβ can also directly interact with each other, where tau tangles can act
+  as a seed for Aβ plaque accumulation and Aβ can promote the phosphorylation of tau
+  necessary for tau fibrillization. Cross-talk between microglia and astrocytes is
+  largely responsible for activation of the TLR4 and IL1R on both cell types which
+  can shift astrocytes and microglia toward more proinflammatory cytokine release
+  []. Proteomic studies evidence an increase in CASP1 as well as IL-1β indicating
+  formation and activation of the NLRP3 inflammasome which cleaves proIL-1β and proIL-18
+  prior to release from microglia. These signaling events also result in increased
+  production and release of exosomes that contain key signaling proteins like TNF,
+  and other cargo. This corresponds with metabolic reprograming in microglia, where
+  there is an increased movement of glucose to glycolysis but a reduction in mitochondrial
+  activity, which is in turn sustains ATP production and calcium-dependent mechanisms
+  necessary for DAM function. Aβ and other neuropathologies also transform microglia
+  from homeostatic and disease-associated microglia (DAM) states, and key markers
+  of these states also shown below. [,]
+article_title: Advances in proteomic phenotyping of microglia in neurodegeneration.
+citation: Sydney Sunna, et al. Proteomics. ;23(13-14):e2200183-e2200183.
+year: '2023'
+
+doi: 10.1002/pmic.202200183
+journal_title: Proteomics
+journal_nlm_ta: Proteomics
+publisher_name: ''
+
+keywords:
+- inflammation
+- microglia
+- neurodegeneration
+- proteomics
+- signaling
+
+---

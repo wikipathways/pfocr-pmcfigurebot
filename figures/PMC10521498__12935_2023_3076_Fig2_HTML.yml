@@ -1,0 +1,37 @@
+---
+figid: PMC10521498__12935_2023_3076_Fig2_HTML
+pmcid: PMC10521498
+image_filename: 12935_2023_3076_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC10521498/figure/Fig2/
+number: Fig. 2
+figure_title: ''
+caption: 'Functional enrichment analysis in TARGET cohort. A A circle graph showing
+  the results of GO and KEGG enrichment analysis. Red nodes: Up-regulated in high
+  expression of DIO3OS groups; Blue nodes: Down-regulated in high expression of DIO3OS
+  groups. The blue or red color of the Z-score represents the activated or suppressed
+  pathways in functional enrichment analysis. Red: Activated pathway; Blue: Suppressed
+  pathway. B A chord plot showing the results of GO and KEGG enrichment analysis.
+  The blue or red color of the LogFC represents gene expression between samples. Red:
+  Up-regulated; Blue: Down-regulated. C A function enrichment network. Red nodes:
+  genes; Blue Nodes: functional terms. D A bubble plot of GSEA enrichment analysis
+  in TARGET cohort. p < 0.05. E TGF-β signaling pathway was significant enrichment
+  using GSEA enrichment analysis in TARGET cohort'
+article_title: 'Long intergenic non-coding RNA DIO3OS promotes osteosarcoma metastasis
+  via activation of the TGF-β signaling pathway: a potential diagnostic and immunotherapeutic
+  target for osteosarcoma.'
+citation: Jinghong Yuan, et al. Cancer Cell Int. 2023;23:215.
+year: '2023'
+
+doi: 10.1186/s12935-023-03076-5
+journal_title: Cancer Cell International
+journal_nlm_ta: Cancer Cell Int
+publisher_name: BioMed Central
+
+keywords:
+- Osteosarcoma
+- DIO3OS
+- TGF-β signaling pathway
+- Immunotherapy
+- Diagnosis
+
+---

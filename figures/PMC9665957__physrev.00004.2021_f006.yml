@@ -1,0 +1,95 @@
+---
+figid: PMC9665957__physrev.00004.2021_f006
+pmcid: PMC9665957
+image_filename: physrev.00004.2021_f006.jpg
+figure_link: /pmc/articles/PMC9665957/figure/F0006/
+number: FIGURE 6
+figure_title: ''
+caption: 'Airway surface liquid volume regulation. A: diagram of purinergic signaling
+  pathways that coordinately control directions/rates of transepithelial ion and fluid
+  transport and ciliary beat frequency (CBF) by the two major lumen-facing epithelial
+  cell types, i.e., ciliated and secretory cells. The pannexin 1 (PANX1) ATP-releasing
+  apical membrane hemichannel, cell surface/shed extracellular enzymes that metabolize
+  ATP, ADP, AMP, and adenosine (ADO) (ENTPDases, 5′-NT), apical purinoceptors (nucleotide,
+  P2Y2R; nucleoside, A2B), and regulated CFTR, ENaC, and Ca2+-activated (CaCC) ion
+  channels shown. Purinoceptors and ecto-enzyme nucleotide/nucleoside metabolic enzymes
+  are depicted as commonly expressed in both ciliated and secretory cells. Pannexin-1
+  (PANX-1)-mediated ATP release from ciliated cells consequent to cilia-mucus sensing
+  (see ) regulates cilial beat frequency in an autocrine fashion and regulates ion
+  transport in secretory cells in a paracrine fashion. The extracellular metabolite
+  of ATP, i.e., adenosine, also regulates CBF and ion transport in autocrine and paracrine
+  fashions, respectively. In secretory cells, ATP is imported into mucus granules
+  (MG) via the vesicular nucleotide transporter (VNUT) and metabolized to ADP and
+  AMP. These nucleotides are co-released with mucins and, via metabolism to adenosine,
+  trigger autocrine ion/fluid secretion to hydrate the newly secreted mucins. Note,
+  although not depicted for simplicity, P2Y2R is expressed on secretory cells and
+  when activated triggers mucin secretion. The absence of co-release of ATP with secreted
+  mucins protects from excessive, autocrine-mediated ATP mucin secretion. Also not
+  depicted for simplicity, ADP/AMP release from secretory cells likely also provides
+  adenosine for regulation of ciliary beat frequency in adjacent ciliated cells. Thus
+  nucleotide release exhibits critical autocrine and paracrine signaling properties
+  for coordination of efficient mucus transport. B: control of airway surface liquid
+  volume/surface area (height) by purinergic signaling as imaged by X-Z confocal microscopy.
+  Bi: addition of fluorescent dextran-containing solution to cultured human airway
+  surface without (top) or with (bottom) subsequent aspiration at time (t) 0 is followed
+  by autoregulation over 4–6 h to a common height that is governed by rates of ATP
+  release and conversion to ADO (courtesy of Dr. Robert Tarran, University of North
+  Carolina-Chapel Hill). N = 8. Bii: basal ATP release and conversion to ADO governs
+  Na+ vs. Cl− transport rates to generate basal ASL heights of ∼7 µm. Addition of
+  enzymes to metabolize extracellular ATP (apyrase, APY) and adenosine (adenosine
+  deaminase, ADA) abolishes the ability of the human bronchial epithelial (HBE) culture
+  to maintain a 7-µm ASL height (blue dashed line). The default Na+ absorptive pathway
+  removes all available ASL (). Biii: dependence of ASL on concentration of added
+  nonmetabolizable adenosine analog 5′-N-ethylcarboxamidoadenosine (NECA). Higher
+  NECA concentrations stimulate higher fluid secretion rates and higher steady-state
+  ASL height (). Biv: CF vs. normal ASL homeostasis under static conditions. In contrast
+  to normal cultures, CF cultures cannot maintain adequate airway surface volumes
+  (height) under static conditions. Levels of ASL adenosine and A2B expression are
+  similar in CF and normal HBE cultures (). The failure of the mutant CFTR to secrete
+  Cl−/fluid and moderate ENaC-mediated Na+ absorption drives ASL depletion in CF.
+  C: control of airway surface hydration during tidal breathing. Ci: under static
+  conditions, ATP release rates are fixed at ∼400 fmol/cm2/min and generate an ∼7-µm-deep
+  ASL layer height. The mechanical shear and transmural stretch imparted onto airway
+  epithelia during normal breathing increase ATP release rates via PANX-1 hemichannels.
+  As a result, ASL ATP levels increase, which inhibits Na+ absorption, increases (via
+  metabolism-generated ADO) Cl−/fluid secretion, and increases ASL volume/height.
+  Fluid secretion dilutes mucus concentrations (depicted as % organic solids). Cii:
+  relationship between the magnitude of changes in luminal ATP concentrations and
+  ASL height. Human airway cultures were subjected to varying degrees of oscillatory
+  stress during measurements of luminal [ATP] and steady-state ASL heights. These
+  data revealed a direct relationship between [ATP] and changes in ASL height (correlation
+  coefficient = 0.95 and slope = 0.3 mm height per steady-state change in ATP concentration)
+  (). D: airway epithelial autoregulation of proper surface hydration states, i.e.,
+  97.5% water, 1.5% organic solids, 1% salt mucus, is mediated by mechanotransduction
+  sensing by motile cilia. Motile cilia interact with mucus layer and transfer momentum
+  to the layer. The yield stress of the mucus layer in response to ciliary beat is
+  a function of mucus concentration. If mucus becomes hyperconcentrated/dehydrated,
+  mucus layer yield stress increases (right). The decreased deformability (higher
+  yield stress) of the mucus layer increases the strain on the ciliary shaft during
+  ciliary beating, which promotes PANX-1-mediated increases in ATP release (bottom).
+  Increased ATP release increases local ATP concentrations, increases fluid secretion
+  (left), and rehydrates mucus to favorable homeostatic states in an autoregulatory
+  feedback loop (top) (). E: requirement for motile cilia in autoregulation of mucus
+  hydration. Cilia from normal subjects respond to hyperconcentrated (6%) mucus with
+  an increase in ATP release and a higher steady-state concentration of ATP within
+  ASL. Primary ciliary dyskinesia (PCD) cultures, with absent cilial motility, fail
+  to sense mucus hyperconcentration and accelerate ATP release/increase ATP concentrations
+  within ASL. See glossary for other abbreviations. Content from Ref.  used with permission
+  from Science Signaling.'
+article_title: Physiology and pathophysiology of human airway mucus.
+citation: David B. Hill, et al. Physiol Rev. 2022 Oct 1;102(4):1757-1836.
+year: '2022'
+
+doi: 10.1152/physrev.00004.2021
+journal_title: Physiological Reviews
+journal_nlm_ta: Physiol Rev
+publisher_name: American Physiological Society
+
+keywords:
+- airway ion transport
+- gel-on-brush model
+- mucins
+- muco-obstructive diseases
+- mucus
+
+---

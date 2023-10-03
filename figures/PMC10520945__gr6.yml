@@ -1,0 +1,41 @@
+---
+figid: PMC10520945__gr6
+pmcid: PMC10520945
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC10520945/figure/fig6/
+number: Figure 6
+figure_title: ''
+caption: CRISPRe works by promoting transcriptional elongation(A) CRISPRe facilitates
+  RNAP elongation. Unlike ordinary operons where the complex regulation is focused
+  on transcriptional initiation to activate promoters, the pqq operon in K. vulgare
+  regulates gene expression by providing an uneven travel for RNAP. Particularly,
+  the GC-rich intergenic region, located immediately downstream AT-rich pqqA gene,
+  acts as the roadblocks that prevent the elongation of RNAP and reduces the expression
+  of downstream genes in operon. CRISPRe, however, can significantly promote RNAP
+  elongation and PQQ synthesis by directional targeting. Hence, CRISPRe plays a role
+  by facilitating RNAP elongation. Besides, the pqq operon has evolved a ribosomal
+  coupling pathway. Multiple SD-like sequences are placed on intergenic region to
+  slow down the translational re-initiation by their high affinity with ribosomes
+  and further decrease the translation of downstream genes, thus limiting the synthesis
+  of end products.(B) The proposed model for CRISPRe. Presence of iPAM motifs prevents
+  Cas3 from cleaving at the desired positions and the targets successfully escape
+  interference from CRISPR-Cas immunity. However, Cas3, relying on its helicase domain,
+  can still translocate away from Cascade complex along targets to unwind double-stranded
+  DNA, thereby facilitating RNAP elongation. Hence, more transcripts are generated
+  with the roles of CRISPRe.
+article_title: 'CRISPRe: An innate transcriptional enhancer for endogenous genes in
+  CRISPR-Cas immunity.'
+citation: Dan Li, et al. iScience. 2023 Oct 20;26(10):107814.
+year: '2023'
+
+doi: 10.1016/j.isci.2023.107814
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Immunology
+- Molecular biology
+- Molecular mechanism of gene regulation
+
+---

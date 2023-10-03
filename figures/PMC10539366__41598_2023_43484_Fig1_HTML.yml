@@ -1,0 +1,41 @@
+---
+figid: PMC10539366__41598_2023_43484_Fig1_HTML
+pmcid: PMC10539366
+image_filename: 41598_2023_43484_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC10539366/figure/Fig1/
+number: Figure 1
+figure_title: ''
+caption: (A) Treemap chart illustrating significant GO-BP terms associated with DEIRGs.
+  Each rectangular shape represents individual terms and their sizes vary according
+  to the number of genes present in them. All the rectangles have a unique color signifying
+  the distinct  BP terms. The term “cell chemotaxis” has the highest number of genes
+  present in it, i.e., . While the terms “neutrophil chemotaxis” and “positive regulation
+  of endothelial cell proliferation” has the lowest number of genes present in it,
+  i.e., . (B) Lollipop plot showing the distribution of significant GO-MF terms associated
+  with DEIRGs. The  and  axes represents the MF terms and gene count. The term “signaling
+  receptor activator activity” has highest number of genes present in it, i.e., .
+  The term “protein tyrosine kinase activator activity” has lowest number of genes
+  present in it, i.e., . (C) Circos plot representing significant GO-CC terms associated
+  with DEIRGs. Outer boundary of the circle consists of  CC terms (on the left) linked
+  with the DEIRGs present in them (on the right). Each gene and pathway are denoted
+  by unique color strips with an undirected edge showing the corresponding associations.
+  (D) Circular barplot showing the distribution of  significant pathways associated
+  with DEIRGs. The color and sizes of bars depend on the  and gene count, respectively.
+article_title: 'Exploring the role of miR-200 family in regulating CX3CR1 and CXCR1
+  in lung adenocarcinoma tumor microenvironment: implications for therapeutic intervention.'
+citation: Archana Sharma, et al. Sci Rep. 2023;13:16333.
+year: '2023'
+
+doi: 10.1038/s41598-023-43484-1
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cancer
+- Computational biology and bioinformatics
+- Genetics
+- Systems biology
+- Biomarkers
+
+---

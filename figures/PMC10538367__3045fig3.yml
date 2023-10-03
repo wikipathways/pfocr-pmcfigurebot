@@ -1,0 +1,39 @@
+---
+figid: PMC10538367__3045fig3
+pmcid: PMC10538367
+image_filename: 3045fig3.jpg
+figure_link: /pmc/articles/PMC10538367/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: Biological processes including type I IFN signaling and T cell–mediated immune
+  responses are associated with NR1D1. A, Heat map of differentially expressed genes
+  (|FC| ≥ 2 and P < 0.05) in the mammary gland tumors between 14-week-old Nr1d1 WT;PyMT
+  and Nr1d1 KO;PyMT mice using RNA-seq data. B, Volcano plot of differentially expressed
+  genes. Red and blue dots show upregulated and downregulated genes in Nr1d1 KO;PyMT
+  mice, respectively. C, GSEA showing the top 10 enriched biological processes in
+  Nr1d1 WT;PyMT mammary tumors compared with Nr1d1 KO;PyMT mammary tumors based on
+  normalized enrichment score. The number of annotated genes in each ontology is shown
+  at the right side of the bar. D, GSEA enrichment plots of representative gene sets
+  positively correlated with Nr1d1 WT;PyMT mammary tumors (vs. Nr1d1 KO;PyMT mammary
+  tumors). E, MDA-MB-231 control or NR1D1 KO cells were treated with 200 μmol/L H2O2
+  for 72 hours. RNA was extracted and subjected to microarray analysis. Heat map of
+  differentially expressed genes (|FC| ≥ 1.5 and P < 0.05) is shown. F, DAVID Gene
+  Ontology analysis of differentially expressed genes showing top 7 downregulated
+  biological process in NR1D1 KO cells compared with control cells based on P value.
+  The number of annotated genes in each ontology is shown at the right side of the
+  bar. G, An interaction network of differentially expressed genes obtained by the
+  STRING database. Genes included in GOBP of “type I IFN signaling pathway” and “regulation
+  of T-cell activation,” and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway
+  of “cytosolic DNA-sensing pathway” are colored.
+article_title: NR1D1 Stimulates Antitumor Immune Responses in Breast Cancer by Activating
+  cGAS-STING Signaling.
+citation: Na-Lee Ka, et al. Cancer Res. 2023 Sep 15;83(18):3045-3058.
+year: '2023'
+
+doi: 10.1158/0008-5472.CAN-23-0329
+journal_title: Cancer Research
+journal_nlm_ta: Cancer Res
+publisher_name: American Association for Cancer Research
+
+keywords:
+---

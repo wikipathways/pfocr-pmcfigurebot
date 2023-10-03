@@ -1,0 +1,35 @@
+---
+figid: PMC10534369__microorganisms-11-02168-g004
+pmcid: PMC10534369
+image_filename: microorganisms-11-02168-g004.jpg
+figure_link: /pmc/articles/PMC10534369/figure/microorganisms-11-02168-f004/
+number: Figure 4
+figure_title: ''
+caption: Top 22 differential gene pathway enrichment results. The X-axis represents
+  the enrichment factor value, and the Y-axis represents the pathway name. Color represents
+  the p-value, with smaller values representing more significant enrichment results.
+  The size of the dots represents the number of DEGs. Rich Factor refers to the enrichment
+  factor value, and a larger value indicates a more pronounced enrichment result.
+  Rich Factor was calculated as the number of differentially expressed genes under
+  the pathway term divided by the total number of annotated genes under that pathway
+  term.
+article_title: 'Comprehensive Response of Rhodosporidium kratochvilovae to Glucose
+  Starvation: A Transcriptomics-Based Analysis.'
+citation: Meixia He, et al. Microorganisms. 2023 Sep;11(9):2168.
+year: '2023'
+
+doi: 10.3390/microorganisms11092168
+journal_title: Microorganisms
+journal_nlm_ta: Microorganisms
+publisher_name: MDPI
+
+keywords:
+- Rhodosporidium kratochvilovae
+- glucose starvation
+- acetyl-CoA
+- carotenoids
+- reactive oxygen species
+- fatty acid β-oxidation
+- fatty acyl-CoA oxidase gene
+
+---

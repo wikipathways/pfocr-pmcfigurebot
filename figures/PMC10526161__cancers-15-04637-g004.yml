@@ -1,0 +1,35 @@
+---
+figid: PMC10526161__cancers-15-04637-g004
+pmcid: PMC10526161
+image_filename: cancers-15-04637-g004.jpg
+figure_link: /pmc/articles/PMC10526161/figure/cancers-15-04637-f004/
+number: Figure 4
+figure_title: ''
+caption: 'Metabolic heterogeneity of breast cancer patients in different age groups.
+  (A) Heatmap displaying the normalized enrichment score (NES) of 65 metabolic pathways
+  in each age group. (B) Forest plot illustrating the hazard ratio (HR) and 95% confidence
+  interval (CI) of each metabolic pathway in the METABRIC population. (C) Venn diagram
+  of the intersection between metabolic pathways upregulated in the young group (logit
+  (NES) > 0.1) and pathways associated with worse disease-free survival (HR > 1).
+  (D) Box plots presenting NES values of intersected metabolic pathways in each age
+  group; p-values: Kruskal–Wallis test for multiple comparisons. ** p < 0.01, ***
+  p < 0.001, **** p < 0.0001, and ns p > 0.05.'
+article_title: Integrated Multi-Omics Profiling of Young Breast Cancer Patients Reveals
+  a Correlation between Galactose Metabolism Pathway and Poor Disease-Free Survival.
+citation: Xiangchen Han, et al. Cancers (Basel). 2023 Sep;15(18):4637.
+year: '2023'
+
+doi: 10.3390/cancers15184637
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- breast cancer
+- young patients
+- genomic
+- disease-free survival
+- galactose metabolism
+- stemness
+
+---

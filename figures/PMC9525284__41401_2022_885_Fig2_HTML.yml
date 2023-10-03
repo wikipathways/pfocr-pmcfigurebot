@@ -1,0 +1,36 @@
+---
+figid: PMC9525284__41401_2022_885_Fig2_HTML
+pmcid: PMC9525284
+image_filename: 41401_2022_885_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC9525284/figure/Fig2/
+number: Fig. 2
+figure_title: MAPK signaling contributes to the direct cardiomyocyte protection of
+  Dapa
+caption: H9c2 cells were pretreated with Dapa, and were then stimulated with PA for
+  24 h. Samples were isolated using TRIzol, and transcriptome sequencing was conducted.
+  a PCA analysis of the sequencing results. b Venn diagram of differential genes in
+  Ctrl VS PA, and PA VS PA + Dapa. c Panther pathway enrichment analysis of 70 intersecting
+  genes. d PPI hub-proteins analysis of 70 intersecting genes. e TRRUST transcription
+  analysis of 70 intersecting genes. Dotted lines represented P = 0.05. Black column
+  showed significant changed items.
+article_title: Direct cardio-protection of Dapagliflozin against obesity-related cardiomyopathy
+  via NHE1/MAPK signaling.
+citation: Ke Lin, et al. Acta Pharmacol Sin. 2022 Oct;43(10):2624-2635.
+year: '2022'
+
+doi: 10.1038/s41401-022-00885-8
+journal_title: Acta Pharmacologica Sinica
+journal_nlm_ta: Acta Pharmacol Sin
+publisher_name: Springer Nature Singapore
+
+keywords:
+- obesity
+- cardiomyopathy
+- Dapagliflozin
+- palmitic acid
+- MAPK pathway
+- NHE1
+- inflammation
+- rat cardiomyocyte H9c2 cell line
+
+---

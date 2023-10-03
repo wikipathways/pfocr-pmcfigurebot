@@ -1,0 +1,39 @@
+---
+figid: PMC10526748__biomolecules-13-01361-g002
+pmcid: PMC10526748
+image_filename: biomolecules-13-01361-g002.jpg
+figure_link: /pmc/articles/PMC10526748/figure/biomolecules-13-01361-f002/
+number: Figure 2
+figure_title: ''
+caption: TAAR expression in different intrinsic subtypes of breast cancer (GSE119937).
+  (a) Voom-normalized TAAR expression levels in basal-like (basal, n = 39), HER2-positive
+  (Her2, n = 32), luminal A (LumA, n = 20), luminal B (LumB, n = 19), and normal-like
+  (Norm, n = 8) breast tumors (GSE119937, tumors were classified via PAM50 signature
+  and genefu R package); *—p < 0.05, **—p < 0.01, ***—p < 0.001; mean expression values
+  are marked by triangle; (b) KEGG pathway enrichment analysis of top 1000 genes,
+  co-expressed with TAARs in different intrinsic subtypes of breast cancer.
+article_title: The Expression of Trace Amine-Associated Receptors (TAARs) in Breast
+  Cancer Is Coincident with the Expression of Neuroactive Ligand–Receptor Systems
+  and Depends on Tumor Intrinsic Subtype.
+citation: Anastasia N. Vaganova, et al. Biomolecules. 2023 Sep;13(9):1361.
+year: '2023'
+
+doi: 10.3390/biom13091361
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: MDPI
+
+keywords:
+- trace amines
+- trace amine-associated receptors
+- breast cancer
+- dopamine
+- norepinephrine
+- epinephrine
+- histamine
+- serotonin
+- Gene Expression Omnibus
+- transcriptomic data
+- GPCR
+
+---

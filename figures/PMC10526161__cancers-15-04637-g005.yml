@@ -1,0 +1,36 @@
+---
+figid: PMC10526161__cancers-15-04637-g005
+pmcid: PMC10526161
+image_filename: cancers-15-04637-g005.jpg
+figure_link: /pmc/articles/PMC10526161/figure/cancers-15-04637-f005/
+number: Figure 5
+figure_title: ''
+caption: Correlation of the galactose metabolic pathway with less-differentiated cancer
+  cells. (A) tSNE plot of 84,854 cells (GSE176078) color-coded to indicate cell type.
+  (B) Sub-clustering cancer cells into 16 clusters, as indicated by the color-coded
+  legend. (C,D) tSNE and violin (D) plots showing the NES of the galactose metabolism
+  pathway for each cluster. (E) Violin plot showing the expression of UGP2, HK1, and
+  FPKL for each cluster. (F,G) tSNE (F) and violin (G) plot showing the CytoTRACE
+  score for each cluster. (H) Dot plot showing the NES of galactose metabolism pathway
+  positively correlated with the CytoTRACE score. (I) Lollipop plot showing the expression
+  of critical genes in the galactose metabolism pathway positively correlated with
+  the CytoTRACE score.
+article_title: Integrated Multi-Omics Profiling of Young Breast Cancer Patients Reveals
+  a Correlation between Galactose Metabolism Pathway and Poor Disease-Free Survival.
+citation: Xiangchen Han, et al. Cancers (Basel). 2023 Sep;15(18):4637.
+year: '2023'
+
+doi: 10.3390/cancers15184637
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- breast cancer
+- young patients
+- genomic
+- disease-free survival
+- galactose metabolism
+- stemness
+
+---

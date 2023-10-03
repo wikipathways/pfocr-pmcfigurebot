@@ -1,0 +1,46 @@
+---
+figid: PMC10520945__gr3
+pmcid: PMC10520945
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC10520945/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: 'CRISPRe promotes the synthesis of PQQ by enhancing the expression of downstream
+  genes in operon(A) Schematic of the roles of PQQ in K. vulgare. The uncharacterized
+  gene (locus: KVU_2026) adjacent to pqqE was named as pqqF. The long intergenic region
+  divides the operon to up (pqqA) and downstream (pqqB/pqqC/pqqD/pqqE/pqqF) genes.
+  The number of amino acids encoded by each gene is shown. PQQ provides an essential
+  redox cofactor for dehydrogenases and is ultimately converted into energy through
+  the oxidative pathway in K. vulgare,.(B) The targets and partial sequences in pqq
+  operon. Tn represents the iPAM-flanking targets in operon. The sequences of pqqA
+  and long intergenic region in operon are indicated. The targeted fragments located
+  within pqqA gene body and intergenic sequence are underlined. The iPAM motifs are
+  in red box. Termination and initiation codons are marked in black bold. Numbers
+  show the distance between the stop and the restart site (in nucleotides). Orange
+  marked amino acid residues are the backbone sources of PQQ products., See also .(C–F)
+  Gene expression and product synthesis at different time in strains. The transcriptional
+  differences between upstream and downstream genes in operon are analyzed and shown
+  (C). PQQ synthesis in strains is shown in (D), (E), (F). T1/T2/T3/T4/T1+T3: WT with
+  the corresponding crRNAs. WT was the control. Values are means ± s.d, (n = 3 biological
+  replicates); ∗∗P＜0.01, ∗∗∗P＜0.001, ∗∗∗∗P＜0.0001. Student’s t test. ns = non-significant.
+  See also A–S5C.(G–I) Gene expression and product synthesis in strains carrying crRNA
+  (T5/T5+T6). The data analysis was consistent with (C–F).(J) Affinity of seed sequences.(K)
+  Correlation between gene expression and product synthesis. The correlation between
+  gene expression (relative expression of pqqA in downstream genes) and PQQ synthesis
+  in different strains was analyzed under the influence of CRISPRe.'
+article_title: 'CRISPRe: An innate transcriptional enhancer for endogenous genes in
+  CRISPR-Cas immunity.'
+citation: Dan Li, et al. iScience. 2023 Oct 20;26(10):107814.
+year: '2023'
+
+doi: 10.1016/j.isci.2023.107814
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Immunology
+- Molecular biology
+- Molecular mechanism of gene regulation
+
+---

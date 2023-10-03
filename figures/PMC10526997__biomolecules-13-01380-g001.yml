@@ -1,0 +1,49 @@
+---
+figid: PMC10526997__biomolecules-13-01380-g001
+pmcid: PMC10526997
+image_filename: biomolecules-13-01380-g001.jpg
+figure_link: /pmc/articles/PMC10526997/figure/biomolecules-13-01380-f001/
+number: Figure 1
+figure_title: ''
+caption: 'PID genes and their functional partners from the STRING database. (A) STRING
+  Gene Ontology and (B) KEGG pathway enrichment analysis for sets of genes: (I) PID
+  genes, (II and III) PID genes and their functional partners (FPs) with a combined
+  interaction score ≥ 0.9 and 0.4 to 0.89, respectively. The legend panel for gene
+  sets includes a built-in Venn diagram showing the overlap between these sets and
+  the total number of genes in the sets (indicated in parentheses near each element
+  of the Venn diagram). The analysis was performed for genes (and their partners)
+  representing similar phenotypes, i.e., belonging to the same subtables from the
+  IUIS tables. A list of subtables is provided in . For sets II and III, only the
+  terms encountered for the PID genes are indicated. Dotted lines separate enriched
+  terms for genes (and their partners) from each of the IUIS categories, which are
+  signed using Arabic numerals above the line graphs. See  for more information. (C,D)
+  Wordclouds displaying sets of terms, related to enriched biological processes (C)
+  and metabolic pathways (D); the higher the frequency, the larger the word in the
+  wordcloud. (E,F) A comparison of the proportion of biologically important and tissue-specific
+  genes in gene sets under consideration. Because the gene sets overlapped, we excluded
+  PID genes from set II and PID and set II genes from set 3. (E) Odds ratios and horizontal
+  bars denoting 95% confidence intervals are shown. The experiment-wise p-value threshold
+  corresponds to 0.0021 to account for multiple testing (0.05/24 comparisons). (F)
+  The number of genes from the considered sets is indicated using a 100% stacked bar
+  chart.'
+article_title: Rare Variants in Primary Immunodeficiency Genes and Their Functional
+  Partners in Severe COVID-19.
+citation: Maryam B. Khadzhieva, et al. Biomolecules. 2023 Sep;13(9):1380.
+year: '2023'
+
+doi: 10.3390/biom13091380
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: MDPI
+
+keywords:
+- severe COVID-19
+- primary immunodeficiency (PID) genes
+- protein-protein interaction (PPI)
+- functional partners (FPs) of PID genes
+- omnigenic model
+- core and peripheral genes
+- whole-exome sequencing
+- rare high-impact (HI) variants
+
+---

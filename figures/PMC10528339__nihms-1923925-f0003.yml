@@ -1,0 +1,47 @@
+---
+figid: PMC10528339__nihms-1923925-f0003
+pmcid: PMC10528339
+image_filename: nihms-1923925-f0003.jpg
+figure_link: /pmc/articles/PMC10528339/figure/F3/
+number: Fig. 3
+figure_title: ''
+caption: A visual schematic and the timing diagrams for the 13C- direct -detect experiments
+  used to detect acetyllysine. (A) A schematic of the magnetization transfer pathway
+  is shown on acetyllysine. The carbon-start [13Cʹ,15N]–CON-Kac is shown in black
+  arrows. The initial INEPT transfer step between amide proton and carbon in the amide
+  proton-start [13Cʹ,15N]–CON-Kac is displayed as a red arrow. (B) Pulse sequence
+  for the carbon-start [13Cʹ,15N]–CON-Kac experiment. The delay times are Δ = 9.8
+  ms, Δ1 = 25 ms, and ε = t1(0) + pC180. The phase cycle is φ1 = x,−x;φ2 = x,x,−x,−x;
+  φ3 = 4(x),4(−x); φREC = x,− x, x, −x, −x, x, −x, x. 15N chemical shift evolution
+  is measured during t1, with quadrature achieved by States-TPPI incrementation of
+  φ3. (C) Pulse sequence for the amide proton-start [13Cʹ,15N]–CON-Kac experiment.
+  The delay times are δ = 4.6 ms, δ1 = 5.1 ms, Δ = 24.8 ms, Δ1 = 9.0 ms. The phase
+  cycle is φ1 = x,−x; φ2 = x,x,−x,−x; φ3 = −y; φ4 = 4(x),4(−x); φREC = x,− x, −x,
+  x, −x, x, x, −x. Quadrature detection in the indirect dimension is obtained by States-TPPI
+  incrementation of φ2. For both pulse sequences, narrow and wide rectangular pulses
+  correspond to 90° and 180° hard pulses, respectively. All 13C pulses are represented
+  with narrow (90°, Q5_sebop) shapes and wide (180°, Q3_surbop) shapes. The gray pulse
+  on 13C indicates a band-selective 13Cʹ and 13Cali inversion pulse. The ‘TR’ label
+  indicates a time-reversed 90° pulse. All pulses are applied with x-phase unless
+  otherwise indicated. Pulsed field gradients (Gz) are also represented by shapes.
+  Nitrogen decoupling is achieved with garp4 (240 μs, 2.81 W), and proton decoupling
+  is achieved using waltz65 (80 μs, 0.209 W). In the 1D variants, t1 is held constant
+  at the time of the first increment (3 μs) and is not collected as a variable delay.
+article_title: Advances in direct detection of lysine methylation and acetylation
+  by nuclear magnetic resonance using 13C-enriched cofactors.
+citation: Olivia A. Fraser, et al. Methods. ;218:72-83.
+year: '2023'
+
+doi: 10.1016/j.ymeth.2023.07.010
+journal_title: Methods (San Diego, Calif.)
+journal_nlm_ta: Methods
+publisher_name: ''
+
+keywords:
+- Acetylation
+- Methylation
+- Nuclear magnetic resonance
+- Histone
+- Post-translational modification
+
+---

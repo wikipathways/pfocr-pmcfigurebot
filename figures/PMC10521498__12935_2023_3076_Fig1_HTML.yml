@@ -1,0 +1,43 @@
+---
+figid: PMC10521498__12935_2023_3076_Fig1_HTML
+pmcid: PMC10521498
+image_filename: 12935_2023_3076_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC10521498/figure/Fig1/
+number: Fig. 1
+figure_title: ''
+caption: High expression of DIO3OS was a risk factor of overall survival and the validation
+  and expression of DIO3OS in osteosarcoma cell lines. A 465 overlap overall survival
+  risk genes between TARGET datasets and GSE39055. B 374 overlap overall survival
+  protective genes between TARGET datasets and GSE39055. C 1 overlap overall survival
+  risk lincRNAs between TARGET datasets and GSE39055. D 0 overlap overall survival
+  protective lincRNAs between TARGET datasets and GSE39055. E The effect of high DIO3OS
+  expression on the prognosis of osteosarcoma overall survival (OS) is statistically
+  significant in TARGET cohort. F The effect of high DIO3OS expression on the prognosis
+  of osteosarcoma overall survival (OS) is statistically significant in GSE39055.
+  G Time-dependent ROC curves, 1-Year (AUC = 0.572), 3-Year (AUC = 0.606), 5-Year
+  (AUC = 0.634). H Time-dependent ROC curves, 1-Year (AUC = 0.750), 3-Year (AUC = 0.650),
+  5-Year (AUC = 0.639). I Compared with normal osteoblast, DIO3OS is significantly
+  higher expressed in osteosarcoma. J In the TARGET cohort, DIO3OS high and low expression
+  groups showed significant differential genes between the two groups in the form
+  of a volcano map. K The TARGET data set showed the significant differential genes
+  between the two groups in the form of a heat map. (ns, p > 0.05; *, p < 0.05; **,
+  p < 0.01; ***, p < 0.001; ****, p < 0.0001)
+article_title: 'Long intergenic non-coding RNA DIO3OS promotes osteosarcoma metastasis
+  via activation of the TGF-β signaling pathway: a potential diagnostic and immunotherapeutic
+  target for osteosarcoma.'
+citation: Jinghong Yuan, et al. Cancer Cell Int. 2023;23:215.
+year: '2023'
+
+doi: 10.1186/s12935-023-03076-5
+journal_title: Cancer Cell International
+journal_nlm_ta: Cancer Cell Int
+publisher_name: BioMed Central
+
+keywords:
+- Osteosarcoma
+- DIO3OS
+- TGF-β signaling pathway
+- Immunotherapy
+- Diagnosis
+
+---

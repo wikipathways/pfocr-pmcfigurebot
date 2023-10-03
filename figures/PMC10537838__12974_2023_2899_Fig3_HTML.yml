@@ -1,0 +1,41 @@
+---
+figid: PMC10537838__12974_2023_2899_Fig3_HTML
+pmcid: PMC10537838
+image_filename: 12974_2023_2899_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC10537838/figure/Fig3/
+number: Fig. 3
+figure_title: ''
+caption: WNV infection reprograms host bioenergetics towards increased glycolysis
+  in mouse neural tissues. A Experimental design and sample collection. Mice were
+  intraperitoneally infected with 104 PFU of WNV and humanly euthanized at 7 days
+  after infection (n = 6). Brain and cerebellum were harvested for transcriptomic
+  analyses. Figure was created with BioRender. B WNV alters the transcriptomic profile
+  in the CNS. Virus load was quantified in the brain and cerebellum hemisphere by
+  RT-qPCR at 3, 7 and 10 days after infection. The changes in the number of differentially
+  expressed genes (DEGs) with |FC|> = 2 and FDR corrected P < 0.05 are indicated.
+  Upregulated denotes FC > 2 and downregulated FC < 2 over uninfected animals. C Assessment
+  of immune cell activation and infiltration in the brain and the cerebellum of WNV-infected
+  mice by using bulk RNA-seq expression data to estimate the abundance of cell types
+  during the progress of WNV neuroinvasion with CellKb. D DEGs related to energy metabolism
+  in the glycolysis and oxidative phosphorylation in the brain and cerebellum of infected
+  animals. The list of DEGs in WNV-infected tissues was filtered for genes available.
+  Reactome pathways of glycolysis, pyruvate metabolism and TCA cycle, pentose phosphate
+  pathway and respiratory electron transport to identify energy-related DEGs. Heat
+  maps indicate the fold change of identified DEGs at each time post-infection
+article_title: Glycolytic shift during West Nile virus infection provides new therapeutic
+  opportunities.
+citation: Patricia Mingo-Casas, et al. J Neuroinflammation. 2023;20:217.
+year: '2023'
+
+doi: 10.1186/s12974-023-02899-3
+journal_title: Journal of Neuroinflammation
+journal_nlm_ta: J Neuroinflammation
+publisher_name: BioMed Central
+
+keywords:
+- West Nile virus
+- Glycolysis
+- Immunometabolism
+- Neuroinflammation
+
+---

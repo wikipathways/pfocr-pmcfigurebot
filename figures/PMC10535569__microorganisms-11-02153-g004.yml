@@ -1,0 +1,42 @@
+---
+figid: PMC10535569__microorganisms-11-02153-g004
+pmcid: PMC10535569
+image_filename: microorganisms-11-02153-g004.jpg
+figure_link: /pmc/articles/PMC10535569/figure/microorganisms-11-02153-f004/
+number: Figure 4
+figure_title: ''
+caption: Comparison of KEGG pathways predicted by PICRUSt. Metabolic pathways by PICRUSt2
+  using 16S rRNA gene sequences were predicted from the Kyoto Encyclopedia of Genes
+  and Genomes (KEGG) Ortholog (KO) database. (A). Heatmap of the 40 s-level classification
+  KEGG pathways identified in the intestinal contents. (B). LDA scores calculated
+  for the differentially abundant features in the small intestinal bacteria. Selection
+  of discriminative microbial pathways between groups was based on an LDA score cutoff
+  of 3.0 and differences in the relative abundances of the pathway (converted to log
+  base 10) were statistically determined based on a Kruskal–Wallis and pairwise Wilcoxon
+  tests. A p-value of <0.05 and a score ≥3.0 were considered significant in Kruskal–Wallis
+  and pairwise Wilcoxon tests, respectively, at a significance level of 0.05; n =
+  12. The length of the histogram represents the LDA score, i.e., the degree of influence
+  of species with significant difference between different groups. (C). Correlation
+  analysis of body fat and insulin resistance with major microbial pathways identified.
+  The R2 with p < 0.05 value is shown in each cell.
+article_title: Resistance to Diet Induced Visceral Fat Accumulation in C57BL/6NTac
+  Mice Is Associated with an Enriched Lactococcus in the Gut Microbiota and the Phenotype
+  of Immune B Cells in Intestine and Adipose Tissue.
+citation: Samnhita Raychaudhuri, et al. Microorganisms. 2023 Sep;11(9):2153.
+year: '2023'
+
+doi: 10.3390/microorganisms11092153
+journal_title: Microorganisms
+journal_nlm_ta: Microorganisms
+publisher_name: MDPI
+
+keywords:
+- obese prone
+- obese resistant
+- gut bacteria
+- Lactococcus
+- Lactobacilli
+- B1b IgM+ cells
+- IgA+ cells
+
+---
