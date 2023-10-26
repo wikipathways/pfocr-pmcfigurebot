@@ -3,7 +3,7 @@ name: Reset figure fetch
 on:
   workflow_dispatch:
   schedule:
-  - cron: "0 0 1 * *" #Runs at 0:00 on the first of each month. 
+  - cron: "0 0 1 1,4,7,10 *" #Runs at 0:00 on the first of each quarter. 
   
 jobs:
   reset-figure-fetch:
@@ -15,8 +15,8 @@ jobs:
 
     - name: Reset last_run in query_config.yml
       run: |
-        DATE_12_MONTHS_AGO=$(date -d "12 months ago" +%Y/%m/%d)
-        sed -i "s|last_run:.*|last_run: $DATE_12_MONTHS_AGO|" query_config.yml
+        DATE_15_MONTHS_AGO=$(date -d "15 months ago" +%Y/%m/%d)
+        sed -i "s|last_run:.*|last_run: $DATE_15_MONTHS_AGO|" query_config.yml
 
   
     - name: Commit updated config file
