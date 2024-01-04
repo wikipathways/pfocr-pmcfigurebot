@@ -1,0 +1,43 @@
+---
+figid: PMC10461977__nihpp-2023.08.11.553030v3-f0002
+pmcid: PMC10461977
+image_filename: nihpp-2023.08.11.553030v3-f0002.jpg
+figure_link: /pmc/articles/PMC10461977/figure/F2/
+number: Fig. 2
+figure_title: Targeted mass spectrometric and microbial RNA-Seq analyses of consortia
+  of cultured age-discriminatory and WLZ-associated bacteria strains that colonized
+  gnotobiotic mice
+caption: 'Cecal contents collected at the end of the experiment described in  were
+  analyzed. (a,b) UHPLC-QqQ-MS-based quantitation of levels of total arabinose (panel
+  a) and arabinose-containing glycosidic linkages (panel b) in cecal glycans collected
+  at P53. Abbreviations: Araf, arabinofuranose; Arap, arabinopyranose; Xylp, xylopyranose.
+  Each dot represents an individual animal (n=5-8 mice/treatment arm). Mean values
+  ± SD are shown. P-values were calculated by the Kruskal-Wallis test followed by
+  post-hoc Dunn’s test with Bonferroni correction for panels a and b. (c) PCA of profiles
+  of normalized meta-transcriptomic counts (see ). Centroids are denoted by a colored
+  “X” for each group. P-values were calculated by PERMANOVA. (d) MTXmodel abundance-normalized
+  differential expression analysis of genes involved in specific carbohydrate utilization
+  and amino acid biosynthetic pathways in the four arabinose-utilizing bacteria. Violin
+  plots show the distribution of log2 fold-differences for all expressed genes with
+  metabolic pathway annotations in the indicated organism. Dots in panel d represent
+  differential expression test results for individual genes involved in the corresponding
+  pathway and are colored if their Benjamini-Hochberg adjusted P-value is less than
+  0.1. Abbreviations: BCAA, branched-chain amino acid; Glu, glutamate; Gln, glutamine.'
+article_title: Prevotella copri-related effects of a therapeutic food for malnutrition.
+citation: Hao-Wei Chang, et al. bioRxiv. 2023 Aug 17:2023.08.11.553030.
+year: '2023'
+
+doi: 10.1101/2023.08.11.553030
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+- childhood malnutrition
+- gut microbiome development/repair
+- therapeutic foods
+- polysaccharide structure/metabolism
+- intestinal gene expression and metabolism
+- single nucleus RNA-Seq
+
+---

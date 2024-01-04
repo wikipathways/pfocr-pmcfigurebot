@@ -1,0 +1,44 @@
+---
+figid: PMC10757945__fnmol-16-1299314-g0001
+pmcid: PMC10757945
+image_filename: fnmol-16-1299314-g0001.jpg
+figure_link: /pmc/articles/PMC10757945/figure/F1/
+number: Figure 1
+figure_title: ''
+caption: Transcriptomic analysis of the LPS response of WT and mutant (Abcd1−/−Abcd2−/−
+  and Acox1−/−) BV-2 cells (n = 3 for each genotype). (A) Pie chart displaying the
+  number of up- or downregulated DEGs after a 24-h LPS treatment (DataSet GSE237635).
+  The significant genes (number and percentage) were selected using a cutoff adjusted
+  p-value (DESeq2 Wald test with Benjamini and Hochberg p-value adjustment) lower
+  than 0.05 and an absolute log2 FC higher than 1. Additional comparison to test if
+  the effect of the LPS treatment is different between the mutant and the WT genotypes,
+  which permitted to highlight the proportion of significantly (AdjP Value < 0.05)
+  more repressed (dark blue) (Log2FC < 1) or induced (dark red) (Log2FC > 1) DEGs,
+  indicated by the left and right bars, respectively. (B) Gene set enrichment analysis
+  in each genotype presenting a selection of the three main gene ontology biological
+  process (up) and KEGG pathway (down) terms selected by FDR (in brackets) and sorted
+  by Fold Enrichment (abscissa axis). (C) Comparative analysis of the sets of DEGs
+  using the Venn diagram illustrating the larger increase of upregulated (up) and
+  downregulated (down) DEGs in LPS-treated mutant cells as compared to WT. The number
+  in brackets represents the number of DEGs belonging to the intersection significantly
+  more deregulated (p < 0.05) in the mutant than in the WT genotype (Wald test).
+article_title: Immune response of BV-2 microglial cells is impacted by peroxisomal
+  beta-oxidation.
+citation: Ali Tawbeh, et al. Front Mol Neurosci. 2023;16:1299314.
+year: '2023'
+
+doi: 10.3389/fnmol.2023.1299314
+journal_title: Frontiers in Molecular Neuroscience
+journal_nlm_ta: Front Mol Neurosci
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- adrenoleukodystrophy
+- antigen presentation
+- immune response
+- inflammation
+- microglia
+- peroxisome
+- phagocytosis
+
+---

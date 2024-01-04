@@ -1,0 +1,44 @@
+---
+figid: PMC10758606__fimmu-14-1185597-g001
+pmcid: PMC10758606
+image_filename: fimmu-14-1185597-g001.jpg
+figure_link: /pmc/articles/PMC10758606/figure/f1/
+number: Figure 1
+figure_title: ''
+caption: Schematic of canonical and non-canonical NFκB activation in B cell. TLR and
+  IgM-mediated BCR signaling activate the canonical NFκB pathway (, ). IgD-mediated
+  BCR signaling may activate both the canonical and non-canonical NFκB pathway (,
+  ). CD40 and BAFF activate the canonical and non-canonical NFκB pathways (). The
+  canonical signaling activates NEMO and IKK1/2 containing complex. The activated
+  IKK1/2 phosphorylates members of the IκBs (IκBα, IκBβ, and IκBε here referred as
+  IκBα/β/ε) bound with NFκB, leading to the degradation of IκBα/β/ε. The degradation
+  of IκBα/β/ε releases IκB-bound NFκB, which translocates to the nucleus. The activated
+  IKK1/2 phosphorylates IκB-like molecule p105, and ubiquitin-mediated degradation
+  of p105 generates p50 with the formation of RelA:p50, cRel:p50 and p50:p50 (, ,
+  ). RelA:p50 and cRel:p50 dimers are transcriptional activators. p50:p50 dimer may
+  function as a transcriptional inhibitor and are present in naïve mature B cell ().
+  B cell activation by canonical pathway replaces p50:p50 with RelA:p50 and cRel:p50
+  (, ). The non-canonical signaling stabilizes NIK and subsequent activation of IKK1.
+  The activated IKK1 phosphorylates IκB-like molecule p100 and generates p52. The
+  degradation of RelB-bound p100 generates RelB:p52 dimer, and its nuclear translocation
+  (). The multimeric association of p100 generates IκBδ. IκBδ remains predominantly
+  bound with cRel:p50 and RelA:p50 dimers. The activated IKK1 degrades IκBδ and releases
+  cRel:p50 and RelA:p50 dimers to the nucleus (, ).
+article_title: 'The NFκB signaling system in the generation of B-cell subsets: from
+  germinal center B cells to memory B cells and plasma cells.'
+citation: Koushik Roy, et al. Front Immunol. 2023;14:1185597.
+year: '2023'
+
+doi: 10.3389/fimmu.2023.1185597
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- B cell
+- memory B cell
+- plasma cell
+- NFκB
+- and cell signaling
+
+---

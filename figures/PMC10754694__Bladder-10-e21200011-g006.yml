@@ -1,0 +1,36 @@
+---
+figid: PMC10754694__Bladder-10-e21200011-g006
+pmcid: PMC10754694
+image_filename: Bladder-10-e21200011-g006.jpg
+figure_link: /pmc/articles/PMC10754694/figure/fig006/
+number: Figure 6
+figure_title: ''
+caption: CellChat algorithm revealing macrophage communication characteristics in
+  bladder cancer. (A–B) Interaction number and strength among all types of cells.
+  (C–D) Interaction number among macrophages and the other cells. (E) Summary of ligand-receptor
+  interactions between different cell clusters via ECM-related signaling pathways.
+  (F) Chord plot demonstrating the interaction between different cell types via FN1
+  signaling network. (G) Connection plot illustrating the interaction between cells
+  in TME. (H) Bar plot exhibiting the relative contribution ligand-receptor in FN1
+  regarding pathways. (I) Violin plots presenting FN1-related protein levels on different
+  cell types. (J) Line chart displaying the measure score in a different number of
+  communication patterns. (K) Heatmap demonstrating the different cell communication
+  patterns in different cells and the pathway composition of each pattern.
+article_title: Single-cell analyses EMP1 as a marker of the ratio of M1/M2 macrophages
+  is associated with EMT, immune infiltration, and prognosis in bladder cancer.
+citation: Jinqiao Li, et al. Bladder (San Franc). 2023;10:e21200011.
+year: '2023'
+
+doi: 10.14440/bladder.2023.852
+journal_title: Bladder
+journal_nlm_ta: Bladder (San Franc)
+publisher_name: Bladder
+
+keywords:
+- bladder cancer
+- EMP1
+- EMT
+- FN1-SDC1
+- macrophage
+
+---

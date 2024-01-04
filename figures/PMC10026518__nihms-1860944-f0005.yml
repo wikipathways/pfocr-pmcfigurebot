@@ -1,0 +1,39 @@
+---
+figid: PMC10026518__nihms-1860944-f0005
+pmcid: PMC10026518
+image_filename: nihms-1860944-f0005.jpg
+figure_link: /pmc/articles/PMC10026518/figure/F4/
+number: Figure 4
+figure_title: TRF increases rhythmicity of molecular pathways across tissues
+caption: (A) Tissue by tissue overlap of rhythmic genes in each tissue in ALF (left)
+  and TRF (right). (B) Distribution of the rhythmic genes ranked according to the
+  number of tissues in which they are rhythmic in ALF (top) or TRF (bottom). (C) Heatmap
+  of common Metascape annotated pathways for rhythmic genes in ALF or TRF that are
+  enriched in ≥ 5 tissues. Pathways significantly enriched by overrepresentation analysis
+  (ORA) (P<0.05) are shown. Pathways that are not enriched are represented in black.
+  (D) Network analysis of Metascape annotated pathways for genes rhythmic in ALF (red)
+  or TRF (blue) in ≥ 5 tissues. Each circle represents a distinct pathway annotation.
+  The ratio of red or blue color in a circle indicates the number of enriched genes
+  in that pathway annotation. Purple connections indicate common genes between various
+  pathway annotations. The thickness of the purple connection represents the number
+  of common genes. Pathways significantly enriched by overrepresentation analysis
+  (ORA) (P<0.05) are shown. See also ,  and .
+article_title: Diurnal transcriptome landscape of a multi-tissue response to time-restricted
+  feeding in mammals.
+citation: Shaunak Deota, et al. Cell Metab. ;35(1):150-165.e4.
+year: '2023'
+
+doi: 10.1016/j.cmet.2022.12.006
+journal_title: Cell metabolism
+journal_nlm_ta: Cell Metab
+publisher_name: ''
+
+keywords:
+- Time-restricted feeding
+- circadian clock
+- feeding-fasting rhythms
+- metabolic syndrome
+- multi-tissue transcriptomics
+- hepatic metabolomics
+
+---

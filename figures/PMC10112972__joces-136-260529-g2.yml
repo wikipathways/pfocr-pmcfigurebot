@@ -1,0 +1,38 @@
+---
+figid: PMC10112972__joces-136-260529-g2
+pmcid: PMC10112972
+image_filename: joces-136-260529-g2.jpg
+figure_link: /pmc/articles/PMC10112972/figure/JCS260529F2/
+number: Fig. 2
+figure_title: ''
+caption: Expression of Cited1 is STAT1-dependent. (A) Diagram of the IFNγ-STAT1 signaling
+  pathway. The relationship under investigation is demarcated by a question mark.
+  (B) Putative STAT1 and IRF1 transcription factor binding sites were detected in
+  the murine Cited1 promoter using EPD and a P-value cutoff of ≤0.001. (C) Western
+  blot analysis for STAT1 proteins in two independent clonal RAW264.7 cell lines stably
+  transduced with lentiviral constructs to express Cas9 and either non-targeting (scramble)
+  or Stat1-targeting gRNA. (D–G) RAW264.7 STAT1 knockout (KO) cells and scramble controls
+  were stimulated with IFNγ for 48 h. Expression of (D) Isg20 and (E) Ifit1 was measured
+  by qRT-PCR. (F) STAT1, IRF1 and CITED1 proteins were detected by western blotting,
+  and (G) Cited1 expression was measured by qRT-PCR. Error is represented as s.e.m.
+  (n=3). A representative experiment out of three repeats is shown for C and F. *P<0.05;
+  **P<0.01; ****P<0.0001 (one-way ANOVA followed by a Tukey's multiple comparison
+  test).
+article_title: Regulation of macrophage IFNγ-stimulated gene expression by the transcriptional
+  coregulator CITED1.
+citation: Aarthi Subramani, et al. J Cell Sci. 2023 Jan 1;136(1):jcs260529.
+year: '2023'
+
+doi: 10.1242/jcs.260529
+journal_title: Journal of Cell Science
+journal_nlm_ta: J Cell Sci
+publisher_name: The Company of Biologists Ltd
+
+keywords:
+- Macrophage
+- Macrophage polarization
+- Interferon-γ
+- CITED1
+- STAT1
+
+---

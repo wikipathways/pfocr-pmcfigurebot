@@ -1,0 +1,29 @@
+---
+figid: PMC10755271__gr6
+pmcid: PMC10755271
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC10755271/figure/fig6/
+number: Fig. 6
+figure_title: ''
+caption: Compound-Target-Disease network for PF leaf extract on asthma treatment.
+  The size of a node is proportional to its degree value. Bright yellow represents
+  key targets, the size of a circle is related to its – Log(p) of targets. Having
+  a more multilateral target indicates that there are more compounds and targets connected
+  with it, thus suggesting the target has a more central role within the network.
+article_title: 'Network pharmacology and experimental evidence: MAPK signaling pathway
+  is involved in the anti-asthma roles of Perilla frutescens leaf.'
+citation: Mingzhuo Cao, et al. Heliyon. 2024 Jan 15;10(1):e22971.
+year: '2024'
+
+doi: 10.1016/j.heliyon.2023.e22971
+journal_title: Heliyon
+journal_nlm_ta: Heliyon
+publisher_name: Elsevier
+
+keywords:
+- Network pharmacology
+- Perilla leaves
+- OVA-Allergic asthma murine model
+- MAPK pathway
+
+---

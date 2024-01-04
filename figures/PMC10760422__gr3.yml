@@ -1,0 +1,35 @@
+---
+figid: PMC10760422__gr3
+pmcid: PMC10760422
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC10760422/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: OSM elicits multiple signaling pathways and biologic process. (A) HepG2.2.15
+  cells were mock-treated or treated with OSM for 24 hours. Total RNA of the cells
+  was extracted for RNA-seq analysis. The volcano plots show differentially expressed
+  genes in the HepG2.2.15 cells treated with OSM. (qValue ≤ .05, Foldchange >1.8)
+  (B) Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment of the differentially
+  expressed genes was used to predicate OSM-activated signaling pathway. (C) Gene
+  Set Enrichment Analysis of the transcription profile was used to predicate OSM-activated
+  signaling pathway. (D) Gene Ontology (GO) enrichment of the differentially expressed
+  genes was used to predicate OSM-activated biologic processes. (E) The heat map shows
+  different expressed genes with known functions in innate and adaptive immunity.
+article_title: Oncostatin M Induces IFITM1 Expression to Inhibit Hepatitis B Virus
+  Replication Via JAK-STAT Signaling.
+citation: Yuchen Ye, et al. Cell Mol Gastroenterol Hepatol. 2024;17(2):219-235.
+year: '2024'
+
+doi: 10.1016/j.jcmgh.2023.10.003
+journal_title: Cellular and Molecular Gastroenterology and Hepatology
+journal_nlm_ta: Cell Mol Gastroenterol Hepatol
+publisher_name: Elsevier
+
+keywords:
+- Interleukin-6 Family Cytokines
+- Oncostatin M
+- Hepatitis B Virus
+- JAK-STAT Signaling
+- Interferon-Induced Transmembrane Protein 1
+
+---

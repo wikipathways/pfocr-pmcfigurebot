@@ -1,0 +1,46 @@
+---
+figid: PMC10755405__fcell-11-1276098-g005
+pmcid: PMC10755405
+image_filename: fcell-11-1276098-g005.jpg
+figure_link: /pmc/articles/PMC10755405/figure/F5/
+number: FIGURE 5
+figure_title: ''
+caption: T and B cells actively participate in regulating bone homeostasis. (A) All
+  T cells initially grouped were combined to reconstruct the UMAP profile, with coloration
+  labeled by the cell type. From left to right are the KD and OVCF samples, the KD
+  sample, and the OVCF sample. (B) Bubble plots of marker genes for the T-cell subcluster,
+  with larger dots representing stronger expression and dots colored to distinguish
+  KD and OVCF samples. (C) Bar chart of the T-cell subcluster in respective sample
+  proportions. (D) Enriched signaling pathways were analyzed using QuSAGE analysis
+  for two T-cell subclusters in two samples, with horizontal axis labels representing
+  cell types in different samples, vertical axis labels representing signaling pathway
+  gene sets, square colors representing statistical probability levels, and darker
+  colors indicating greater significance. The orange bubble size indicates relative
+  activation, and blue indicates relative inactivity. (E) All B cells initially grouped
+  were combined to reconstruct the UMAP profile, with coloration labeled by the cell
+  type. From left to right are KD and OVCF samples, the KD sample, and the OVCF sample.
+  (F) Bubble plots of marker genes for B-cell subclusters, with larger dots representing
+  stronger expression and dots colored to distinguish KD and OVCF samples. (G) Bar
+  chart of B-cell subclusters in respective sample proportions. (H) Corresponding
+  volcano plots were drawn for the top five differentially highly expressed genes
+  up- and downregulated in the KD samples compared with the OVCF samples, with red
+  representing differentially upregulated genes and blue representing differentially
+  downregulated genes.
+article_title: Single-cell RNA landscape of osteoimmune microenvironment in osteoporotic
+  vertebral compression fracture and Kümmell's disease.
+citation: Yude Xu, et al. Front Cell Dev Biol. 2023;11:1276098.
+year: '2023'
+
+doi: 10.3389/fcell.2023.1276098
+journal_title: Frontiers in Cell and Developmental Biology
+journal_nlm_ta: Front Cell Dev Biol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- osteoimmunology
+- osteoporosis
+- osteoporotic vertebral compression fracture
+- Kümmell’s disease
+- single-cell RNA sequencing
+
+---

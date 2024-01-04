@@ -1,0 +1,43 @@
+---
+figid: PMC10755021__fphar-14-1274065-g003
+pmcid: PMC10755021
+image_filename: fphar-14-1274065-g003.jpg
+figure_link: /pmc/articles/PMC10755021/figure/F3/
+number: FIGURE 3
+figure_title: ''
+caption: 'Fit of DAMGO and morphine induced μ-opioid receptor (MOPr) responses along
+  two different pathways involving G-protein activation and β-arrestin2 recruitment,
+  respectively as obtained in three different works by three different groups: (A)
+  McPherson et al. at the University of Bristol (), (B) Hothersall et al. at Pfizer
+  (), and (C) Pedersen et al. at the University of Copenhagen (). Data and fit for
+  DAMGO (C1) and morphine (C2) shown in blue and purple, respectively with G-protein
+  activation (R1) in darker and β-arrestin recruitment responses (R2) in lighter shades.
+  Top row: fit with classic sigmoid concentration-response curves and corresponding
+  binding affinity (K d) and pharmacodynamic (EC50, E max) parameters as obtained
+  in these works (with calculated occupancy curves shown as dashed lines). Middle
+  row: fit of the same data with SABRE using only four parameters for each dataset–two
+  pathway amplifications (γ) and two ligand efficacies (ε). Bottom row: corresponding
+  response versus occupancy graphs; the stronger the curvature here compared to the
+  straight unity line of linear response, the more the left- or right-shift in the
+  concentration-response curve as compared to the occupancy one.'
+article_title: 'Quantitative receptor model for responses that are left- or right-shifted
+  versus occupancy (are more or less concentration sensitive): the SABRE approach.'
+citation: Peter Buchwald. Front Pharmacol. 2023;14:1274065.
+year: '2023'
+
+doi: 10.3389/fphar.2023.1274065
+journal_title: Frontiers in Pharmacology
+journal_nlm_ta: Front Pharmacol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- affinity
+- biased agonism
+- efficacy
+- G-protein coupled receptors
+- ligand binding
+- opioid receptor
+- oliceridine
+- partial agonism
+
+---

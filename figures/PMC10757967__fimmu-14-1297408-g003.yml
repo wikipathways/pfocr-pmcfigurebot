@@ -1,0 +1,53 @@
+---
+figid: PMC10757967__fimmu-14-1297408-g003
+pmcid: PMC10757967
+image_filename: fimmu-14-1297408-g003.jpg
+figure_link: /pmc/articles/PMC10757967/figure/f3/
+number: Figure 3
+figure_title: ''
+caption: mTOR regulates necroptosis via various mechanisms. mTOR inhibits autophagy,
+  which suppresses necroptosis by disturbing the interaction between RIPK1 and RIPK3.
+  Autophagy specifically recognizes and degrades ubiquitinated RIPK3 and negatively
+  affects necroptosis. Furthermore, damaged mitochondria are the primary source of
+  ROS, which can activate RIPK1 directly and promote the interaction between RIPK1
+  and RIPK3, facilitating the assembly of necrosomes. Mitophagy restrains ROS production
+  by eliminating injured mitochondria. Furthermore, RIPK1 can be activated by mTOR
+  directly through phosphorylation. mTOR can elevate the level of TNRα mRNA and promote
+  the autocrine effect of TNFα by activating the JNK pathway, both of which can boost
+  necroptosis. Tipping the balance of the redox reaction is another approach for mTOR
+  to regulate necroptosis. p62 assists with the release and stabilization of Nrf2
+  by counteracting Keap1, and the released Nrf2 translocates to the nucleus and governs
+  the expression of genes associated with antioxidant defense to antagonize necroptosis.
+  mTOR displays bidirectional effects on this process. On the one hand, mTOR inhibits
+  p62 to promote necroptosis, thereby suppressing the antioxidant reaction. In contrast,
+  mTOR promotes nuclear translocation to inhibit necroptosis. TNF-α, tumor necrosis
+  factor-α; TNFR1, tumor necrosis factor receptor; TRADD, TNF receptor type 1 associated
+  death domain; TRAF2, TNF receptor associated factor 2; RIPK, receptor-interacting
+  serine-threonine kinase; LUBAC, linear ubiquitin chain assembly complex; cIAP1/2,
+  cellular inhibitors of apoptosis 1/2; TAK1, transforming growth factor-β-activated
+  kinase1; TAB2, TAK1-binding protein2; IKKα/β, IKK complex constituted of IκB kinase
+  α/β; NEMO, NF-κB essential modulator; MAPK, mitogen-activated protein kinase; CYLD,
+  Cylindromatosis; OTULIN, OTU deubiquitinase with linear linkage specificity; cFLIP,
+  cellular FLICE-like inhibitory protein; CASP, caspase; FADD, Fas associated death
+  domain; DISC, death-inducing signaling complex; MLKL, mixed lineage kinase domain-like
+  protein; TLR, toll-like receptor; TRIF, Toll/IL-1 receptor domain-containing adaptor
+  protein inducing interferon-β; dsRNA, double-stranded RNA; LPS, lipopolysaccharide;
+  ROS, reactive oxygen species; Nrf2, nuclear factor-erythroid 2-related factor 2;
+  Keap1, Kelch-like ECH-associated protein 1.
+article_title: Advances in the regulatory mechanisms of mTOR in necroptosis.
+citation: Yawen Xie, et al. Front Immunol. 2023;14:1297408.
+year: '2023'
+
+doi: 10.3389/fimmu.2023.1297408
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- mTOR
+- necroptosis
+- autophagy
+- RIPK
+- ROS
+
+---

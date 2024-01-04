@@ -1,0 +1,41 @@
+---
+figid: PMC10758489__fphar-14-1327717-g001
+pmcid: PMC10758489
+image_filename: fphar-14-1327717-g001.jpg
+figure_link: /pmc/articles/PMC10758489/figure/F1/
+number: FIGURE 1
+figure_title: ''
+caption: Tumor microenvironment-induced T cell stemness. (A) High K+ levels in the
+  tumor microenvironment promote T cell stemness. High K+ leads to an increase in
+  AcCoA within mitochondria while decreasing it in the nucleus, inducing autophagy
+  and histone hypoacetylation. These alterations in gene expression reduce T cell
+  differentiation into effector T cells by inhibiting the TCR signaling pathway. The
+  inhibition of TCR by high K+ primarily occurs through reduced phosphorylation of
+  Akt-targeted serine/threonine residues upon TCR activation. (B) Elevated lactate
+  in the tumor microenvironment induces T cell stemness by increasing acetylation
+  levels at the H3K27 locus within the TCF-1 gene during CD8+ T cell differentiation.
+  This elevated acetylation preserves cellular stemness. (C) T cell stemness induced
+  by high H+ levels in the tumor microenvironment. Elevated FAO results in increased
+  AcCoA levels, leading to TCR inhibition, reduced T cell activation, and inhibition
+  of methionine synthase MTR, thereby decreasing methionine synthesis. This reduction
+  further lowers the synthesis of SAM and S-adenosylhomocysteine (SAH). SAM is a critical
+  methyl donor for DNA and histone methylation reactions. The decreased methylation
+  levels, particularly the histone marker H3K27me3, enhance TCF-1 expression.
+article_title: 'Metabolic reprogramming in the tumor microenvironment: unleashing
+  T cell stemness for enhanced cancer immunotherapy.'
+citation: Youhan Liu, et al. Front Pharmacol. 2023;14:1327717.
+year: '2023'
+
+doi: 10.3389/fphar.2023.1327717
+journal_title: Frontiers in Pharmacology
+journal_nlm_ta: Front Pharmacol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- tumor microenvironment
+- H+
+- lactate
+- K+
+- cancer
+
+---

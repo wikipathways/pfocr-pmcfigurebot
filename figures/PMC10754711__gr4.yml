@@ -1,0 +1,55 @@
+---
+figid: PMC10754711__gr4
+pmcid: PMC10754711
+image_filename: gr4.jpg
+figure_link: /pmc/articles/PMC10754711/figure/fig4/
+number: Fig. 4
+figure_title: ''
+caption: Construction and exploration of the SLC score in the meta-GEO cohort. (A)
+  The up (yellow)- and downregulated (blue) genes in all five SLC gene subtypes (middle).
+  A gene ontology analysis depicted the enriched pathways of the genes downregulated
+  (left) and upregulated (right) in patients in the SLC-S2 subtype. Circle size represents
+  the number of genes enriched in this pathway. Circle color depth indicates p value.
+  (B) Heatmap shows the expression of 133 genes consisting of SLC score in five SLC
+  gene subtypes after dimension reduction using the Boruta algorithm. SLC gene subtypes
+  are used as sample annotations of the heatmaps. (C) Circus plots showing the expression
+  level and survival impact of 113 selected genes used for calculating SLC score (red,
+  risk factor for relapse-free survival; green, protect factor for relapse-free survival).
+  (D) Principal component analysis of 113 selected genes to distinguish SLC-S2 from
+  other SLC gene subtypes. (E–F) Violin plot (left) of SLC score value in five SLC
+  gene subtypes and receiver operating curve of SLC score (right) in the GSE39582
+  (E) and non GSE39582 samples (F) of the meta-GEO cohort. (G) The correlations of
+  the SLC score with tumor microenvironment (lower) and biological pathway activation
+  status (upper) in the meta-GEO cohort. (H) Sankey diagram of SLC score groups in
+  groups with different molecular subtypes in the GSE39582 cohort. (I–J) Kaplan-Meier
+  curves of relapse-free survival (I) and overall survival (J) in the meta-GEO cohort
+  according to the SLC score. (K) Forest plot (upper) of associations between the
+  SLC score and overall survival in subgroups stratified by adjuvant chemotherapy
+  conduction in the GSE39582 cohort. Forest plot (down) of benefits of adjuvant chemotherapy
+  in different SLC score groups in the GSE39582 cohort. (L) Violin plot of SLC score
+  values among patients with different fluorouracil responses in the meta-GEO cohort.
+  SLC, solute carrier; ADJC, adjuvant chemotherapy; RFS, relapse-free survival; OS,
+  overall survival; CI, confidence interval; HMC, histone modification cluster; CMS,
+  consensus molecular subtypes; TMEC, tumor microenvironment cluster; R, response;
+  NR, nonresponse; and ADJC, adjuvant chemotherapy. (For interpretation of the references
+  to color in this figure legend, the reader is referred to the Web version of this
+  article.)
+article_title: Integrative analysis of co-expression pattern of solute carrier transporters
+  reveals molecular subtypes associated with tumor microenvironment hallmarks and
+  clinical outcomes in colon cancer.
+citation: Rui Zhou, et al. Heliyon. 2024 Jan 15;10(1):e22775.
+year: '2024'
+
+doi: 10.1016/j.heliyon.2023.e22775
+journal_title: Heliyon
+journal_nlm_ta: Heliyon
+publisher_name: Elsevier
+
+keywords:
+- Solute carrier transporters
+- Molecular subtype
+- Colon cancer
+- Prognosis
+- Therapeutic outcome
+
+---

@@ -1,0 +1,50 @@
+---
+figid: PMC10754711__gr5
+pmcid: PMC10754711
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC10754711/figure/fig5/
+number: Fig. 5
+figure_title: ''
+caption: Validation of the SLC score in the TCGA-COAD and SYSUCC cohort. (A) Heatmaps
+  displaying the comparison of the transcriptome similarity between the SLC-S2 subtype
+  in meta-GEO cohort and high SLC score group in TCGA-COAD (upper) and SYSUCC (down)
+  cohorts. (B) The correlations of the SLC score with tumor microenvironment (lower)
+  and biological pathway activation status (upper) in the SYSUCC cohort. (C) The correlation
+  chord chart shows the mutual correlation between mesenchymal cell abundance, OLFM4
+  high cell abundance, secretory cell enrichment level, and SLC score in the SYSUCC
+  cohort. (D) Sankey diagram of SLC score in different CMS subtypes in the SYSUCC
+  cohort. (E) The correlations of the SLC score with tumor microenvironment (lower)
+  and biological pathway activation status (upper) in the TCGA-COAD cohort. (F) The
+  correlation chord chart shows the mutual correlation between mesenchymal cell abundance,
+  OLFM4 high cell abundance, secretory cell enrichment level, and SLC score in the
+  TCGA-COAD cohort. (G) Sankey diagram of SLC score in groups with different molecular
+  subtypes in the TCGA-COAD cohort. (H) Kaplan–Meier curves of overall survival according
+  to SLC score in the TCGA-COAD cohort. (I) Forest plot (upper) of associations between
+  the SLC score and overall survival in subgroups stratified by adjuvant chemotherapy
+  conduction of TCGA-COAD cohort. Forest plot (down) of benefits of adjuvant chemotherapy
+  in different SLC score groups in the TCGA-COAD cohort. (J–K) Violin plot of SLC
+  score values among patients with different fluorouracil responses in the TCGA-COAD
+  (J) and SYSUCC (K) cohort. *p < 0.05, **p < 0.01, ***p < 0.001. SLC, solute carrier;
+  ADJC, adjuvant chemotherapy; RFS, relapse-free survival; OS, overall survival; CI,
+  confidence interval; HMC, histone modification cluster; CMS, consensus molecular
+  subtypes; TMEC, tumor microenvironment cluster; R, response; NR, nonresponse; and
+  ADJC, adjuvant chemotherapy.
+article_title: Integrative analysis of co-expression pattern of solute carrier transporters
+  reveals molecular subtypes associated with tumor microenvironment hallmarks and
+  clinical outcomes in colon cancer.
+citation: Rui Zhou, et al. Heliyon. 2024 Jan 15;10(1):e22775.
+year: '2024'
+
+doi: 10.1016/j.heliyon.2023.e22775
+journal_title: Heliyon
+journal_nlm_ta: Heliyon
+publisher_name: Elsevier
+
+keywords:
+- Solute carrier transporters
+- Molecular subtype
+- Colon cancer
+- Prognosis
+- Therapeutic outcome
+
+---

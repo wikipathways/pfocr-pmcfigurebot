@@ -1,0 +1,30 @@
+---
+figid: PMC10757784__JIR-16-6385-g0001
+pmcid: PMC10757784
+image_filename: JIR-16-6385-g0001.jpg
+figure_link: /pmc/articles/PMC10757784/figure/f0001/
+number: Figure 1
+figure_title: ''
+caption: Weighted co-expression network analysis (WGCNA) of GSE193677 dataset. (A)
+  Soft threshold power value of 6 was utilized to cluster a total of 993 samples.
+  (B) By aggregating genes with strong correlations in the same module, different
+  modules were obtained and are displayed in different colors. (C) Correlation analysis
+  between modules and the endoscopic and clinical scores.
+article_title: APOL1 Induces Pyroptosis of Fibroblasts Through NLRP3/Caspase-1/GSDMD
+  Signaling Pathway in Ulcerative Colitis.
+citation: Fangqing Zhu, et al. J Inflamm Res. 2023;16:6385-6396.
+year: '2023'
+
+doi: 10.2147/JIR.S437875
+journal_title: Journal of Inflammation Research
+journal_nlm_ta: J Inflamm Res
+publisher_name: Dove
+
+keywords:
+- apolipoprotein L1
+- pyroptosis
+- fibroblasts
+- gasdermin-D
+- Ulcerative colitis
+
+---

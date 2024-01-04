@@ -1,0 +1,32 @@
+---
+figid: PMC10760065__nihms-1947444-f0002
+pmcid: PMC10760065
+image_filename: nihms-1947444-f0002.jpg
+figure_link: /pmc/articles/PMC10760065/figure/F2/
+number: 'Figure 2:'
+figure_title: ''
+caption: 'Specific invasive phenotype RNA sequencing reveals distinct molecular pathways.
+  (A) Schematic of invasive phenotype-based organoids isolation. (B) Principal component
+  analysis (PCA) of 3 biological replicates based on all ~22,000 expressed genes.
+  Samples are colored based on the invasive phenotype (red: non-invasive, blue: collective
+  or green: disseminative). (C,E) Hallmark gene set enrichment analysis on z-scores
+  between non-invasive and collective invasion (C), non-invasive and disseminative
+  invasion (E). Only the Hallmarks with a p-value < 0.05 are represented. (D,F) Heat
+  map of z-scores of significantly differentially expressed (SDE) genes with a genome
+  wide significance cut-off (p-value < 1×10−6) comparing non-invasive to collective
+  invasive organoids (295 genes) (D), non-invasive to disseminative organoids (228
+  genes) (F). (D’,F’) KEGG pathway analysis from SDE genes comparing non-invasive
+  to collective invasive organoids (D’), non-invasive to disseminative organoids (F’).
+  Only pathways with a p-value < 0.05 are represented.'
+article_title: Triple negative breast tumors contain heterogeneous cancer cells expressing
+  distinct KRAS-dependent collective and disseminative invasion programs.
+citation: Elodie Henriet, et al. Oncogene. ;42(10):737-747.
+year: '2023'
+
+doi: 10.1038/s41388-022-02586-2
+journal_title: Oncogene
+journal_nlm_ta: Oncogene
+publisher_name: ''
+
+keywords:
+---
