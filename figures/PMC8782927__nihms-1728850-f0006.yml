@@ -1,0 +1,43 @@
+---
+figid: PMC8782927__nihms-1728850-f0006
+pmcid: PMC8782927
+image_filename: nihms-1728850-f0006.jpg
+figure_link: /pmc/articles/PMC8782927/figure/F5/
+number: Figure 5
+figure_title: Global phosphoproteomics analysis of network-wide signaling effects
+  of talazoparib and adavosertib alone and combination
+caption: '(A) Volcano plots indicating alteration of phosphorylation signals in H69
+  cells upon treatment with talazoparib (50 nM; blue), adavosertib (1 μM; orange)
+  alone or in combination (purple) at 3 hrs (top) and 24 hrs (bottom).(B) Combined
+  KeGG (K) and Biocarta (B) pathway analysis of phosphoproteomics data from talazoparib,
+  adavosertib and drug combination treatments at 3 hrs (open circles) and 24 hrs (solid
+  circles). NER: nucleotide excision repair; HR: homologous recombination.(C) Effects
+  of talazoparib, adavosertib and their combination on a subnetwork of cell cycle
+  and DNA damage response signaling. Individual proteins (rounded rectangles) and
+  significantly modulated phosphosites (red circles) are depicted. Drug-induced changes
+  for select phosphosites are color-coded according to drug treatment. Solid lines
+  indicate direct, dashed lines indirect interactions. Direct drug targets are highlighted
+  in blue (talazoparib) and orange (adavosertib).'
+article_title: The non-canonical target PARP16 contributes to polypharmacology of
+  the PARP inhibitor talazoparib and its synergy with WEE1 inhibitors.
+citation: Vinayak Palve, et al. Cell Chem Biol. ;29(2):202-214.e7.
+year: '2023'
+
+doi: 10.1016/j.chembiol.2021.07.008
+journal_title: Cell chemical biology
+journal_nlm_ta: Cell Chem Biol
+publisher_name: ''
+
+keywords:
+- PARP inhibitor
+- PARP16
+- Talazoparib
+- Adavosertib
+- PARP1
+- Proteomics
+- Polypharmacology
+- Off-target
+- Lung cancer
+- Ewing’s sarcoma
+
+---

@@ -1,0 +1,32 @@
+---
+figid: PMC9929076__41467_2023_36406_Fig5_HTML
+pmcid: PMC9929076
+image_filename: 41467_2023_36406_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC9929076/figure/Fig5/
+number: Fig. 5
+figure_title: NOTCH/THY1 is activated in mural cells in the postnatal development
+  and aging of TMJ discs
+caption: a Heatmap of active outgoing signaling pathways in different clusters. b
+  Heatmap of active incoming signaling pathways in different clusters. The heatmap
+  color bar in (a) and (b) represents the relative signaling strength of a signaling
+  pathway across cell groups, determined by computing the network centrality scores
+  by Cellchat to find dominant senders (sources) and receivers (targets). c Circle
+  plot of the THY1 signaling pathway from CellChat. Receptor-ligand edges were annotated
+  by communication probability. d Circle plot of the NOTCH signaling pathway from
+  CellChat. Receptor-ligand edges were annotated by communication probability.
+article_title: A single-cell transcriptional atlas reveals resident progenitor cell
+  niche functions in TMJ disc development and injury.
+citation: Ruiye Bi, et al. Nat Commun. 2023;14:830.
+year: '2023'
+
+doi: 10.1038/s41467-023-36406-2
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cell division
+- Stem-cell niche
+- Musculoskeletal development
+
+---

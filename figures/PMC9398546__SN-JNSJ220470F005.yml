@@ -1,0 +1,46 @@
+---
+figid: PMC9398546__SN-JNSJ220470F005
+pmcid: PMC9398546
+image_filename: SN-JNSJ220470F005.jpg
+figure_link: /pmc/articles/PMC9398546/figure/F5/
+number: Figure 5
+figure_title: ''
+caption: Simulation of the receptive field adaptation competition model. A, Schematic
+  diagram of RF center-surround components (top) and overall RF structures (bottom)
+  before (dotted line) and after (solid line) adaptation. B, Schematic diagram of
+  decay functions of RF center and surround components during biased adaptation. Blue
+  line indicates the response change ratio of RF center, and red line indicates that
+  of RF surround. C, Two typical fitting results of bidirectional plastic Area 17
+  neurons using the RF adaptation-competition model. Black circles indicate experimental
+  data, whereas red curves indicate fitting result. D, Histogram of fitting quality
+  (R2) for bidirectional plastic Area 17 neurons. E, Same as C of an adaptation-only
+  Area 17 neuron. F, Same as D of adaptation-only Area 17 neurons. G, Fitting results
+  of population peak response change ratio curve of Area 17 neurons using the RF adaptation
+  competition model. Black circles indicate experimental data, whereas red curve indicates
+  fitting result. H, The parameter spaces showing the neural peak response change
+  ratios under different magnitude factors (decay factors fixed). Left, Parameter
+  space at BAP 0.18. Right, Parameter space at BAP 0.79. Black solid frames indicate
+  proper parameter ranges of each subgraph, whereas black dashed frames indicate proper
+  parameter ranges of the other subgraph, so that there is a 0% ∼ 40% increase at
+  BAP 0.18 and a −40% ∼ 0% change at BAP 0.79. White frames in two subgraphs indicate
+  the intersection of proper parameter ranges. I, Same as H of decay factors (magnitude
+  factors fixed).
+article_title: V1-Origin Bidirectional Plasticity in Visual Thalamo–Ventral Pathway
+  and Its Contribution to Saliency Detection of Dynamic Visual Inputs.
+citation: Shang Feng, et al. J Neurosci. 2022 Aug 17;42(33):6359-6379.
+year: '2022'
+
+doi: 10.1523/JNEUROSCI.0539-22.2022
+journal_title: The Journal of Neuroscience
+journal_nlm_ta: J Neurosci
+publisher_name: Society for Neuroscience
+
+keywords:
+- Area 21a
+- LGN
+- plasticity
+- primary visual cortex
+- saliency detection
+- visual adaptation
+
+---

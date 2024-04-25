@@ -1,0 +1,40 @@
+---
+figid: PMC9935668__12033_2022_526_Fig5_HTML
+pmcid: PMC9935668
+image_filename: 12033_2022_526_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC9935668/figure/Fig5/
+number: Fig. 5
+figure_title: ''
+caption: 'Construction of ICI score. A Alluvial plots of ICI gene cluster distribution
+  in groups of different ICI clusters, ICI scores, and survival outcomes. B–C Enrichment
+  analysis of two signature genes related to ICI: ICI signature genes A and B, including
+  Gene Ontology (GO) analysis (B) and KEGG analysis (C). The genes were enriched in
+  microvillus organization, the cluster of actin-based cell projections, cortical
+  actin cytoskeleton, actin binding, actin filament binding, steroid hormone receptor
+  activity, and collagen-containing extracellular matrix. D–E GSVA analysis of immune
+  sub-component type in the TCGA-ESCA data set (MsigDb) (D) and immune-related gene
+  set (E). The genes were enriched in the negative regulation of mast cell activation
+  related to the immune response, NK cells, breast cancer, cellular extravasation,
+  and immune-related aspects. F Enrichment of subgroups with high ICI scores. G Enrichment
+  of subgroups with low ICI scores. GSEA suggested that the high ICI score subgroup
+  was enriched in E2F targets, G2M checkpoint and MYC targets, while the low ICI score
+  subgroup was enriched in IL6/JAK/STAT3 and KRAS signaling pathway, inflammatory
+  response, and other immune-related collections'
+article_title: Characterization of the Immune Infiltration Landscape and Identification
+  of Prognostic Biomarkers for Esophageal Cancer.
+citation: Yuanmei Chen, et al. Mol Biotechnol. 2023;65(3):361-383.
+year: '2023'
+
+doi: 10.1007/s12033-022-00526-9
+journal_title: Molecular Biotechnology
+journal_nlm_ta: Mol Biotechnol
+publisher_name: Springer US
+
+keywords:
+- Esophageal cancer (ESCA)
+- Immune cell infiltration (ICI)
+- Prognosis
+- Immunotherapeutic responses
+- Biomarker
+
+---

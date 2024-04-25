@@ -1,0 +1,46 @@
+---
+figid: PMC9918391__gr2
+pmcid: PMC9918391
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC9918391/figure/fig2/
+number: Figure 2
+figure_title: ''
+caption: HMGB-1 RAGE signaling induced by oHSV therapy activates endothelial cells(A)
+  Total RNA sequencing of U87ΔEGFR cells analyzed for top genes involved in inflammatory
+  pathways. KEGG pathway analysis showing the top 10 upregulated pathways involved
+  in inflammatory regulation enriched in oHSV-infected U87ΔEGFR cells cultured with
+  microglial cells.(B) EC leakiness was evaluated by measuring the ability of Evan’s
+  Blue albumin (EBA) to permeate a confluent EC monolayer as shown on the top. Data
+  shown are mean EBA ± SD.(C) PBMC adhesion to EC monolayers was assessed as shown
+  on the top. Data shown are mean PBMC ±SD bound to ECs stimulated with CM ± oHSV ±
+  αHMGB1.(D) Quantification of EC migration after ECs were stimulated by glioma cells ±
+  oHSV ± anti-RAGE (2 μg/mL) or esRAGE (200 ng/mL). Data shown are the mean numbers
+  of ECs that migrated through the Transwell membrane ± SD. ∗p < 0.05.(E) Kaplan-Meier
+  survival curve are plotted using patients with IDH wild-type recurrent glioma with
+  overall survival information from the Chinese Glioma Genome Atlas (CGGA). Tumors
+  are stratified into two groups with the cutoff set as the median of AGER gene expression.
+  Log rank and Wilcoxon p values are labeled on top of each survival curve. ∗p < 0.05.
+  Data shown are RFUs ± SD, normalized to media control.
+article_title: esRAGE-expressing oHSV enhances anti-tumor efficacy by inhibition of
+  endothelial cell activation.
+citation: Jessica Swanner, et al. Mol Ther Oncolytics. 2023 Mar 16;28:171-181.
+year: '2023'
+
+doi: 10.1016/j.omto.2023.01.003
+journal_title: Molecular Therapy Oncolytics
+journal_nlm_ta: Mol Ther Oncolytics
+publisher_name: American Society of Gene & Cell Therapy
+
+keywords:
+- high-mobility group box 1
+- HMGB1
+- receptor for advanced glycation end products
+- RAGE
+- endogenous secretory form of RAGE
+- esRAGE
+- glioblastoma
+- GBM
+- oncolytic herpes simplex virus 1
+- oHSV
+
+---

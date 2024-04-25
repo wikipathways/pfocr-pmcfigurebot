@@ -1,0 +1,49 @@
+---
+figid: PMC9929250__41467_2023_35797_Fig3_HTML
+pmcid: PMC9929250
+image_filename: 41467_2023_35797_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC9929250/figure/Fig3/
+number: Fig. 3
+figure_title: Integrated multilevel proteomic analyses showed different pathogenic
+  mechanism of DGC and IGC
+caption: a The association of Lauren classification with clinical information. Two-sided
+  Fisher’s exact test is used for categorical variables. b The association of Lauren
+  classification with clinical outcomes. n (DGC) = 83 and n (IGC) = 102 biologically
+  independent samples. P-values are from Log-rank test. c Representative differentially
+  expressed proteins in the featured pathways of DGC and IGC. d Microenvironment scores
+  and immune scores of DGC and IGC. n (DGC) = 83 and n (IGC) = 100 biologically independent
+  samples. Violin plots show median and interquartile range. The p-values are from
+  two-sided Wilcoxon rank-sum test. e Comparison of immune cell infiltration between
+  DGC and IGC. Two-sided Wilcoxon rank-sum test is used. The Benjamini–Hochberg (BH)
+  adjusted p-values are 0.019 (NK cells), 0.0016 (NKT), 1.71E-9 (CD4 + T-cells), 1.89E-12
+  (CD4 + memory T-cells), 0.0017 (CD8 + T-cells), 0.00056 (CD8 + Tem), and 4.25E-7
+  (Macrophages). f Integrated analysis of cell cycle regulation pathway at protein,
+  kinase, TF activity and phospho-site levels in DGC and IGC. g Integrated analysis
+  of DNA mismatch repair pathway at protein, kinase and phospho-site levels in DGC
+  and IGC. h The expression of CDK4 and ATR in DGC and IGC. n (DGC) = 10 and n (IGC) = 16
+  biologically independent samples. Boxplots show median (central line), upper and
+  lower quartiles (box limits), min to max range. The p-values are calculated by two-sided
+  Wilcoxon rank-sum test. i The prognostic analyses of CDK4 and ATR in TCGA cohort.
+  In comparison of CDK4, n (high expression) = 9 and n (low expression) = 13 biologically
+  independent samples. In comparison of ATR, n (high expression) = 32 and n (low expression) = 42
+  biologically independent samples. The p-value is calculated using Log-rank test.
+  j Summary of signature proteins and pathways involved in DGC and IGC. ****p < 1.0e-4,
+  ***p < 1.0e-3, **p < 0.01, *p < 0.05. Source data are provided as a Source Data
+  file.
+article_title: Multilevel proteomic analyses reveal molecular diversity between diffuse-type
+  and intestinal-type gastric cancer.
+citation: Wenhao Shi, et al. Nat Commun. 2023;14:835.
+year: '2023'
+
+doi: 10.1038/s41467-023-35797-6
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Gastric cancer
+- Tumour heterogeneity
+- Cell signalling
+- Proteomics
+
+---

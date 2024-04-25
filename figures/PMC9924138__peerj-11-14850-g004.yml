@@ -1,0 +1,35 @@
+---
+figid: PMC9924138__peerj-11-14850-g004
+pmcid: PMC9924138
+image_filename: peerj-11-14850-g004.jpg
+figure_link: /pmc/articles/PMC9924138/figure/fig-4/
+number: Figure 4
+figure_title: Overlapping genes between DE-mRNAs and target genes predicted by DE-miRNAs
+  and miRNA-mRNA regulatory network
+caption: (A) Venn diagram of overlapping genes between up-regulated DE-mRNAs and predicted
+  target genes of down-regulated DE-miRNAs. (B) Venn diagram of overlapping genes
+  between down-regulated mRNAs and down-regulated mRNAs and predicted target genes
+  of up-regulated DE-miRNAs. (C) miRNA-mRNA regulatory network. Red triangles represent
+  upregulated miRNAs, purple triangles represent downregulated miRNAs, red ovals represent
+  upregulated mRNAs, purple ovals represent downregulated mRNAs and lines represent
+  interactions between DE-miRNAs and DE-mRNAs. The yellow rectangles indicate SLIT3
+  and miRNAs that may target SLIT3. (D) Enriched GO terms. Purple and orange represent
+  downregulated and upregulated expression, respectively. Among them, SLIT3 was enriched
+  in Roundabout signal pathway. TAL1 was also enriched in term of angiogenesis.
+article_title: Abnormal expression of SLIT3 induces intravillous vascularization dysplasia
+  in ectopic pregnancy.
+citation: Qian Zhu, et al. PeerJ. 2023;11:e14850.
+year: '2023'
+
+doi: 10.7717/peerj.14850
+journal_title: PeerJ
+journal_nlm_ta: PeerJ
+publisher_name: PeerJ Inc.
+
+keywords:
+- Ectopic pregnancy
+- Villus capillary
+- miRNA–mRNA network
+- Bioinformatics analysis
+
+---

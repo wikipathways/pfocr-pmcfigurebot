@@ -1,0 +1,35 @@
+---
+figid: PMC9398546__SN-JNSJ220470F007
+pmcid: PMC9398546
+image_filename: SN-JNSJ220470F007.jpg
+figure_link: /pmc/articles/PMC9398546/figure/F7/
+number: Figure 7
+figure_title: ''
+caption: Saliency detection model of LGN and Area 21a. A, Fitting result of population
+  trained response change ratio curve of LGN neurons, using the smoothing spline method.
+  Black circles indicate experimental data, and red curve indicates fitting result.
+  B, Same as A of Area 21a neurons. C, Saliency maps of LGN during the detection phase
+  of dynamic visual inputs; each sample consists of two parts, the left part is visual
+  input, and the right part is the corresponding saliency map. Duration of each stimulus
+  is 0.5 s with a 0.5 s blank interval. D, Same as C of Area 21a. Full video can be
+  found in  and . It is notable that in C and D, the detection phase followed a 100
+  s initial phase, so the detection phase started from 100 s.
+article_title: V1-Origin Bidirectional Plasticity in Visual Thalamo–Ventral Pathway
+  and Its Contribution to Saliency Detection of Dynamic Visual Inputs.
+citation: Shang Feng, et al. J Neurosci. 2022 Aug 17;42(33):6359-6379.
+year: '2022'
+
+doi: 10.1523/JNEUROSCI.0539-22.2022
+journal_title: The Journal of Neuroscience
+journal_nlm_ta: J Neurosci
+publisher_name: Society for Neuroscience
+
+keywords:
+- Area 21a
+- LGN
+- plasticity
+- primary visual cortex
+- saliency detection
+- visual adaptation
+
+---

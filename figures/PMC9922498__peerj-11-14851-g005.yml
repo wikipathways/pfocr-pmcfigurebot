@@ -1,0 +1,33 @@
+---
+figid: PMC9922498__peerj-11-14851-g005
+pmcid: PMC9922498
+image_filename: peerj-11-14851-g005.jpg
+figure_link: /pmc/articles/PMC9922498/figure/fig-5/
+number: Figure 5
+figure_title: Bioinformatics analysis of miR-199a-5p
+caption: '(A) The intersection diagram of target genes of miR-199a-5p. (B) GO analysis
+  of target genes of miR-199a-5p. The vertical axis represents GO function items,
+  and the horizontal axis represents the three parts of GO: biological process, cellular
+  component, and molecular function. (C) KEGG signaling pathway analysis of target
+  genes of miR-199a-5p. The vertical axis represents the KEGG signaling pathway, and
+  the horizontal axis represents the Gene Ratio, that is, the ratio of the number
+  of genes in a KEGG pathway to the number of all the annotated genes in the KEGG
+  pathway. The larger the proportion of genes, the higher the degree of enrichment.'
+article_title: Bioinformatics prediction and experimental verification of a novel
+  microRNA for myocardial fibrosis after myocardial infarction in rats.
+citation: Qianqian Guo, et al. PeerJ. 2023;11:e14851.
+year: '2023'
+
+doi: 10.7717/peerj.14851
+journal_title: PeerJ
+journal_nlm_ta: PeerJ
+publisher_name: PeerJ Inc.
+
+keywords:
+- MicroRNA
+- Myocardial infarction
+- Myocardial fibrosis
+- Bioinformatics analysis
+- miR-199a-5p
+
+---

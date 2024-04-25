@@ -1,0 +1,43 @@
+---
+figid: PMC9929076__41467_2023_36406_Fig7_HTML
+pmcid: PMC9929076
+image_filename: 41467_2023_36406_Fig7_HTML.jpg
+figure_link: /pmc/articles/PMC9929076/figure/Fig7/
+number: Fig. 7
+figure_title: NOTCH pathway is the target signaling for MCs expressional and functional
+  changes after disc injury
+caption: a Schematic of the TMJ disc injury mouse model and integrated single-cell
+  transcriptomic analyses using both normal and injured disc cells. b Dimension reduction
+  presentation (via UMAP) of integrated single-cell transcriptome data for all disc
+  samples. Each dot represents a single cell and is labeled by different color depths
+  according to stage and injury condition. c Dimension reduction presentation (via
+  UMAP) of integrated single-cell transcriptome data for normal disc cells (in grey)
+  and injured disc cells (in red). Each dot represents a single cell, the retained
+  cell number is 46827. d Proportion of inferred signaling interaction numbers in
+  normal and injured TMJ disc cells. e Proportion of signaling interaction strength
+  in normal and injured TMJ disc cells. f UMAP plot of MC subpopulations according
+  to the Methods. Each dot represents a single cell and is labeled by different color
+  depths according to stage and injury condition. g Stacked bar graph of outgoing
+  and incoming information flow for each signaling pathway associated with mural cells
+  of 3d and injury TMJ disc datasets. h Stacked bar graph of outgoing and incoming
+  information flow for each signaling pathway associated with mural cells of 3w and
+  injury TMJ disc datasets. i Stacked bar graph of outgoing and incoming information
+  flow for each signaling pathway associated with mural cells of 16w and injury TMJ
+  disc datasets. j Stacked bar graph of outgoing and incoming information flow for
+  each signaling pathway associated with mural cells of 78w and injury TMJ disc datasets.
+article_title: A single-cell transcriptional atlas reveals resident progenitor cell
+  niche functions in TMJ disc development and injury.
+citation: Ruiye Bi, et al. Nat Commun. 2023;14:830.
+year: '2023'
+
+doi: 10.1038/s41467-023-36406-2
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cell division
+- Stem-cell niche
+- Musculoskeletal development
+
+---

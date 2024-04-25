@@ -1,0 +1,49 @@
+---
+figid: PMC9929130__ADVS-10-2203699-g004
+pmcid: PMC9929130
+image_filename: ADVS-10-2203699-g004.jpg
+figure_link: /pmc/articles/PMC9929130/figure/advs4910-fig-0004/
+number: Figure 4
+figure_title: ''
+caption: Landscape of lymphocytes and innate lymphoid cells in breast cancer liver
+  and brain metastases. a) t‐SNE plot of the T cell and NK cell landscape colored
+  by subcluster. b) Feature plots showing the normalized expression of canonical marker
+  genes in each T cell and NK cell subcluster. c) t‐SNE plot of the B cell landscape
+  colored by subcluster. d) Feature plots showing the normalized expression of canonical
+  marker genes in each B cell subcluster. e) Dot plot showing the expression level
+  of canonical marker genes across all lymphocyte and innate lymphoid cell subtypes.
+  f) Heatmap showing the gene set score of each T cell and NK cell according to GSVA.
+  Gene sets included MHC molecules, T cell cytotoxicity, T cell exhaustion, inflammatory
+  pathway, regulatory cytokines, and immune checkpoint pathway sets. g) Heatmap showing
+  the expression of core genes in each gene set. h) The cytotoxicity and dysfunction
+  of each T cell and NK cell cluster were analyzed and quantified based on gene signature
+  scores. i) Exhaustion scores of CD8_T_cells_c1_GZMK and CD8_T_cells_c2_ZNF683 in
+  liver and brain metastases of breast cancer. j,k) The potential biological functions
+  and relevant signaling pathways of T, B, and NK cell subclusters were evaluated
+  by GO and KEGG analyses. l) Monocle pseudotime trajectory analysis of CD8+ T cells
+  (CD8_T_cells_c1_GZMK, CD8_T_cells_c2_ZNF683, CD8_T_cells_c3_KLRB1, and CD8_T_cells_c4_IFIT3)
+  with highly variable gene expression. l) Monocle pseudotime trajectory analysis
+  of B cells (Pre‐B_cells_VPREB3, Naive_B_cells_TCL1A, Mature_B_cells_MS4A1, and Plasma_cells_MZB1)
+  with highly variable gene expression. o) Violin plot showing the expression level
+  of immune checkpoint genes in four CD8+ T cell subclusters. o) Dot plot showing
+  the expression level of immune checkpoint genes in each lymphocyte and innate lymphoid
+  cell subcluster. p) Feature plots showing the normalized expression of immune checkpoint
+  genes in lymphocytes and innate lymphoid cells.
+article_title: The Single‐Cell Landscape of Intratumoral Heterogeneity and The Immunosuppressive
+  Microenvironment in Liver and Brain Metastases of Breast Cancer.
+citation: Yutian Zou, et al. Adv Sci (Weinh). 2023 Feb;10(5):2203699.
+year: '2023'
+
+doi: 10.1002/advs.202203699
+journal_title: Advanced Science
+journal_nlm_ta: Adv Sci (Weinh)
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- breast cancer
+- immune checkpoint
+- metastatic niche
+- single‐cell RNA sequencing
+- tumor microenvironment
+
+---

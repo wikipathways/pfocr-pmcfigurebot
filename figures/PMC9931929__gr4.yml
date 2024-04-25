@@ -1,0 +1,47 @@
+---
+figid: PMC9931929__gr4
+pmcid: PMC9931929
+image_filename: gr4.jpg
+figure_link: /pmc/articles/PMC9931929/figure/fig4/
+number: Fig. 4
+figure_title: ''
+caption: 'Identification of VPS35 binding to EGFR. (a) Gene Ontology pathway enrichment
+  analysis of significantly differentially expressed genes (DEGs) between MKN28/Ctrl
+  and MKN28/shVPS35 cells revealed by RNA-Seq. (three biological replicates, transcriptomic
+  data were submitted to the GEO database (GSE210320). (b) KEGG pathway enrichment
+  analysis of significantly DEGs (Fisher''s exact tests). (c) A pairwise correlation
+  of RNA expression of VPS35 with MAPK-associated genes of receptor components (i.e.,
+  EGFR, VEGFR2, MET, and FGFR3) from TCGA gastric cancer cohort. Left triangle: a
+  colour plot for the expression of two molecules showing different correlation by
+  colours; diagonal: the name for each molecule; and right triangle: correlation coefficient.
+  (d) Correlation of RNA expression of VPS35 with several related genes from the GEPIA
+  gastric cancer cohort (Spearman''s correlation). (e) Flow cytometry analysis for
+  AGS/Ctrl, AGS/shVPS35, MKN28/Ctrl, MKN28/shVPS35, HGC27/Ctrl, HGC27/VPS35, HS-746T/Ctrl,
+  and HS-746T/VPS35 cells. Compared with cells in the control groups, AGS/shVPS35
+  and MKN28/shVPS35 cells had a significantly decreased EGFR fluorescence density
+  (left two panels), while HGC27/VPS35 and HS-746T/VPS35 cells had a significantly
+  increased EGFR fluorescence density (right two panels). Experiments were conducted
+  three times independently. (f) Correlation of EGFR and VPS35 expression levels by
+  linking IHC scores of EGFR to VPS35 in paired patient samples (Pearson''s correlation).
+  (g) Different binding proteins derived from immunoprecipitation and mass spectrometry
+  (IP-MS) of MKN28 cells. (h) Interaction of VPS35 with EGFR determined by co-Immunoprecipitation
+  (Co-IP) assays in MKN28 cells. (The student''s t tests, ∗, p < 0.05; ∗∗, p < 0.01;
+  ∗∗∗, p < 0.001 and ∗∗∗∗, p < 0.0001.).'
+article_title: VPS35 promotes cell proliferation via EGFR recycling and enhances EGFR
+  inhibitors response in gastric cancer.
+citation: Junxian Yu, et al. eBioMedicine. 2023 Mar;89:104451.
+year: '2023'
+
+doi: 10.1016/j.ebiom.2023.104451
+journal_title: eBioMedicine
+journal_nlm_ta: eBioMedicine
+publisher_name: Elsevier
+
+keywords:
+- VPS35
+- Retromer
+- EGFR
+- Erlotinib
+- Gastric cancer
+
+---

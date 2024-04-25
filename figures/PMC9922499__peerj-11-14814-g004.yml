@@ -1,0 +1,31 @@
+---
+figid: PMC9922499__peerj-11-14814-g004
+pmcid: PMC9922499
+image_filename: peerj-11-14814-g004.jpg
+figure_link: /pmc/articles/PMC9922499/figure/fig-4/
+number: Figure 4
+figure_title: Gene and pathway analysis of osteoclastogenesis RNA-Seq data
+caption: (A) Volcano plots depicting genes meeting fold change and p-value thresholds
+  in female and male cells. Differentials with −log10 transformed adjusted p-values
+  of six and greater are plotted at the same level. Full volcano plots are included
+  in . (B) Female-specific, male-specific, and common pathways altered during osteoclastogenesis.
+  Pathways are listed in .
+article_title: RANK signaling in osteoclast precursors results in a more permissive
+  epigenetic landscape and sexually divergent patterns of gene expression.
+citation: Abigail L. Keever, et al. PeerJ. 2023;11:e14814.
+year: '2023'
+
+doi: 10.7717/peerj.14814
+journal_title: PeerJ
+journal_nlm_ta: PeerJ
+publisher_name: PeerJ Inc.
+
+keywords:
+- Osteoclasts
+- RANK signaling
+- RNA-seq
+- ATAC-seq
+- Sexual dimorphism
+- Macrophages
+
+---

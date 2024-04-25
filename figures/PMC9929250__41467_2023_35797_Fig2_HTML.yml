@@ -1,0 +1,46 @@
+---
+figid: PMC9929250__41467_2023_35797_Fig2_HTML
+pmcid: PMC9929250
+image_filename: 41467_2023_35797_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC9929250/figure/Fig2/
+number: Fig. 2
+figure_title: A summary of proteogenomic analysis of DGC
+caption: a Genes with non-silent variants in at least six patients (9%) are depicted
+  on the OncoPrint. Bars on the right of the graph show the numbers of non-synonymous
+  mutations. b Prognosis outcomes of corresponding gene mutations. n (with ARID1A
+  mutant) = 7 and n (without ARID1A mutant) = 58 biologically independent samples.
+  The points and error bars show the median of hazard ratio (HR) and 95% confidence
+  interval (CI). c Cis- and trans-effects of significantly mutated genes (y-axis)
+  on protein level (x-axis). The p-values are calculated by Fisher’s exact test. The
+  related biological functions and pathways are shown at the bottom. d Altered expression
+  of ARID1A associated with ARID1A mutations. In proteome, n (mutant) = 7 and n (WT) = 58
+  biologically independent samples. In TF activity profile, n (mutant) = 2 and n (WT) = 38
+  biologically independent samples. Boxplots show median (central line), upper and
+  lower quartiles (box limits), min to max range. The p-values are calculated using
+  two-sided student’s t-test. e Pathways enriched by GSEA in ARID1A mutated patients.
+  Nominal p-value, calculated as phenotype based permutation test. f TLR signaling
+  pathway was significantly enriched in ARID1A mutated patients. g Altered expression
+  of proteins enriched in TLR signaling pathway. The p-values are calculated by two-sided
+  Wilcoxon rank-sum test. h Altered expression of CD14 associated with ARID1A mutation.
+  n (mutant) = 7 and n (WT) = 58 biologically independent samples. Boxplots show median
+  (central line), upper and lower quartiles (box limits), min to max range. The p-value
+  is calculated using two-sided student’s t-test. i The prognostic outcome of CD14
+  in DGC. n (low) = 42 and n (high) = 23 biologically independent samples. The p-value
+  is calculated using Log-rank test. Source data are provided as a Source Data file.
+article_title: Multilevel proteomic analyses reveal molecular diversity between diffuse-type
+  and intestinal-type gastric cancer.
+citation: Wenhao Shi, et al. Nat Commun. 2023;14:835.
+year: '2023'
+
+doi: 10.1038/s41467-023-35797-6
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Gastric cancer
+- Tumour heterogeneity
+- Cell signalling
+- Proteomics
+
+---
