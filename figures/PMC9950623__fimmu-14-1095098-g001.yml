@@ -1,0 +1,35 @@
+---
+figid: PMC9950623__fimmu-14-1095098-g001
+pmcid: PMC9950623
+image_filename: fimmu-14-1095098-g001.jpg
+figure_link: /pmc/articles/PMC9950623/figure/f1/
+number: Figure 1
+figure_title: ''
+caption: Identification of DEGs between UC and control samples. (A) The expression
+  of 65 DEGs was visualized by heatmap. Red for upper regulation, blue for lower regulation
+  (B) Volcano map of DEGs in UC compared to healthy controls. The significantly upregulated
+  DEGs (log2FC>2, adj.P<0.05) were labeled in red, and the significantly downregulated
+  DEGs (log2FC<2, adj.P<0.05) were labeled in blue. (C, D) GO and KEGG enrichment
+  analyses of DEGs. The outermost circle was the GO number, the second circle represented
+  the number of genes on the GO, and the third circle represents the number of genes
+  enriched on the GO. The color represented the p-value of significant enrichment,
+  the redder the color, the more significant the enrichment. (E, F) Results of GSEA
+  pathway analysis in UC and healthy control samples.
+article_title: Identifying neutrophil-associated subtypes in ulcerative colitis and
+  confirming neutrophils promote colitis-associated colorectal cancer.
+citation: Chen Zhang, et al. Front Immunol. 2023;14:1095098.
+year: '2023'
+
+doi: 10.3389/fimmu.2023.1095098
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- ulcerative colitis
+- colitis-associated colorectal cancer
+- immune cell infiltration
+- biomarker
+- neutrophil
+
+---

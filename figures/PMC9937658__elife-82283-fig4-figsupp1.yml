@@ -1,0 +1,45 @@
+---
+figid: PMC9937658__elife-82283-fig4-figsupp1
+pmcid: PMC9937658
+image_filename: elife-82283-fig4-figsupp1.jpg
+figure_link: /pmc/articles/PMC9937658/figure/fig4s1/
+number: Figure 4—figure supplement 1
+figure_title: Mfn2R707W causes adipose tissue-specific induction of the integrated
+  stress response with perturbation of mitochondrial gene expression
+caption: 'qPCR of genes involved in the ISR for six tissues from animals fed a chow
+  diet for 6 months: Gdf15 (A) and Fgf21 (B). Each data point represents data from
+  a separate animal. Target gene CT values were normalised against three housekeeping
+  genes (36b4, B2m, and Hprt) and expressed relative to WT liver for each gene. p-Values
+  are FDR-adjusted for multiple tests. Serum FGF-21 (C) and GDF-15 (D) after 6 months
+  of chow diet or HFD. Western blots from inguinal WAT (E), skeletal muscle (F), and
+  heart (G) illustrating Ser51-phosphorylation of eIF2α and expression of Mthfd2 with
+  calnexin (Canx) as loading control. Western blots are representative of at least
+  three biological replicates. Mthfd2 in heart (G) is the upper band within the box,
+  as indicated by a horizontal line. (H) Heatmap of all genes from the citrate acid
+  (tricarboxylic acid (TCA)) cycle KEGG pathway. Colour illustrates the Log2 fold
+  change normalised per gene. Those annotated with orange in the leftmost column had
+  significant differential gene expression (DGE) with p-FDR <0.001. (I) Heatmaps comparing
+  mRNA expression of mitochondrial- and nuclear-encoded mitochondrial genes from inguinal
+  WAT from HFD-fed animals. Asterisks indicate p-values from pairwise comparisons
+  (T-tests) between WT and Mfn2R707W KI that are FDR-adjusted for multiple tests (***
+  p-FDR <0.001). Figure 4—figure supplement 1—source data 1.Raw and annotated immunoblots
+  from .'
+article_title: A mouse model of human mitofusin-2-related lipodystrophy exhibits adipose-specific
+  mitochondrial stress and reduced leptin secretion.
+citation: Jake P Mann, et al. eLife. 2023;12:e82283.
+year: '2023'
+
+doi: 10.7554/eLife.82283
+journal_title: eLife
+journal_nlm_ta: eLife
+publisher_name: eLife Sciences Publications, Ltd
+
+keywords:
+- mitochondria
+- mitofusin
+- adipose tissue
+- integrated stress response
+- leptin
+- Mouse
+
+---

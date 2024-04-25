@@ -1,0 +1,47 @@
+---
+figid: PMC7614190__EMS157168-f001
+pmcid: PMC7614190
+image_filename: EMS157168-f001.jpg
+figure_link: /pmc/articles/PMC7614190/figure/F1/
+number: Figure 1
+figure_title: Genome-scale CRISPR/Cas9 screens identify specific polycomb and KMT2complex
+  components regulating bivalent gene activation
+caption: (a) Schematic view of CRISPR screens to identify regulators that either enhance
+  or restrict cytokine induced MHC-I expression. K-562 cells were mutagenised by infection
+  with a genome-scale pooled lentiviral library comprising 220,000 sgRNA. Cells were
+  pulsed with 1ng/mL or 25ng/mL IFN-γ for 24h prior to enrichment of MHC-I high or
+  low cells by two-rounds of fluorescence-activated cell sorting (FACS). (b & c) Bubble
+  plots show top 100 enriched genes identified in MHC-I high CRISPR screens. PRC2
+  complex highlighted in pink, PRC1 in purple and the KMT2A/KMT2B complex in green.
+  p-values calculated using the RSA algorithm. (d) Schematic depicting complexes identified
+  in CRISPR screens. KMT2A/B complex (MEN1, PSIP1/LEDGF), PRC2.1 (EED, EZH2, SUZ12,
+  MTF2) and PRC1.1 (PCGF1). (e) EED and EZH2 co-dependent genes derived from CERES
+  gene effect scores in combined CRISPR survival screens in 990 cancer cell lines
+  in Cancer Dependency Map (https://depmap.org/portal/),. Plot displays correlation
+  between CRISPR gene effect scores for indicated genes with CRISPR gene effect scores
+  for EZH2 and EED (Pearson correlation coefficient). Genes highlighted correspond
+  with hits identified in our CRISPR screen. (f) Bubble plot shows top 100 enriched
+  genes identified in MHC-I low CRISPR screen. Genes highlighted in orange are known
+  components of the interferon response pathway and MHC-I antigen processing pathway,
+  in purple are transcription factors and enhanceosome components driving MHC-I expression,
+  and pink, AEBP2, a PRC2.2 component. p-values calculated using the RSA algorithm.
+  (g & h) K-562 Cas9 cells transduced with indicated sgRNA and treated with 10ng/mL
+  IFN-γ for (g) 24h or (h) 36h. Cell surface MHC-I from a representative experiment
+  (left). Bars (right) show mean fold change in median fluorescence intensity (MFI)
+  from 3 experiments, indicated by points. Unpaired two-tailed t-test, p-values are
+  (g) p=0.0041 and (h) p<0.0001. (i & j) H3K4me3 and H3K27me3 CUT&Tag in K-562 cells
+  transduced with control, MTF2 or AEBP2 sgRNA. (i) Genomic snapshot of bivalent MHC-I
+  gene, HLA-B. (j) Heatmaps show bivalent genes -3kb TSS/ +3kb TES. Genomic regions
+  ordered by H3K4me3 or H3K27me3 read density in control samples.
+article_title: Targeting Menin disrupts the KMT2A/B and polycomb balance to paradoxically
+  activate bivalent genes.
+citation: Christina E. Sparbier, et al. Nat Cell Biol. ;25(2):258-272.
+year: '2023'
+
+doi: 10.1038/s41556-022-01056-x
+journal_title: Nature cell biology
+journal_nlm_ta: Nat Cell Biol
+publisher_name: ''
+
+keywords:
+---

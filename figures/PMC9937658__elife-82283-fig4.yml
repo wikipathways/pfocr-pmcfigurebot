@@ -1,0 +1,44 @@
+---
+figid: PMC9937658__elife-82283-fig4
+pmcid: PMC9937658
+image_filename: elife-82283-fig4.jpg
+figure_link: /pmc/articles/PMC9937658/figure/fig4/
+number: Figure 4
+figure_title: Mfn2R707W causes an adipose-tissue-specific induction of the integrated
+  stress response
+caption: 'qPCR of genes involved in the integrated stress response (ISR) for six tissues
+  from animals fed chow diet for 6 months: Atf4 (A), Ddit3 (Chop, B), and Atf5 (C).
+  Each data point represents one animal. Target gene CT values were normalised to
+  three housekeeping genes (36b4, B2m, and Hprt) and expressed relative to WT liver
+  for each gene. WT in blue, homozygous Mfn2R707W in green. p-values are FDR-adjusted
+  for multiple tests. Western blots from BAT (D), epididymal WAT (E), and liver (F)
+  illustrating Ser51-phosphorylation of eIF2α and expression of Mthfd2 with calnexin
+  (Canx) as loading control. Western blots are representative of at least three biological
+  and technical replicates. (G) Volcano plot from bulk RNA sequencing (n=8 per genotype)
+  of inguinal WAT from mice on HFD. Significantly differentially expressed genes (Log2
+  fold change >1.5 and p-FDR <0.001) are highlighted in orange. Pathway analysis using
+  significantly differentially expressed genes for upregulated (H) and downregulated
+  (I) Hallmark gene sets. The X-axis depicts a relative gene set enrichment score.
+  All illustrated gene sets are enriched with p-FDR <0.05. Asterisks indicate p-values
+  from pairwise comparisons (T-tests) between WT and Mfn2R707W KI that are FDR-adjusted
+  for multiple tests (* p-FDR <0.05, ** p-FDR <0.01, *** p-FDR <0.001, **** p-FDR
+  <0.0001). Figure 4—source data 1.Raw and annotated immunoblots from .'
+article_title: A mouse model of human mitofusin-2-related lipodystrophy exhibits adipose-specific
+  mitochondrial stress and reduced leptin secretion.
+citation: Jake P Mann, et al. eLife. 2023;12:e82283.
+year: '2023'
+
+doi: 10.7554/eLife.82283
+journal_title: eLife
+journal_nlm_ta: eLife
+publisher_name: eLife Sciences Publications, Ltd
+
+keywords:
+- mitochondria
+- mitofusin
+- adipose tissue
+- integrated stress response
+- leptin
+- Mouse
+
+---

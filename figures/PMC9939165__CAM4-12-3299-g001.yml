@@ -1,0 +1,41 @@
+---
+figid: PMC9939165__CAM4-12-3299-g001
+pmcid: PMC9939165
+image_filename: CAM4-12-3299-g001.jpg
+figure_link: /pmc/articles/PMC9939165/figure/cam45079-fig-0003/
+number: FIGURE 3
+figure_title: ''
+caption: MARCKSL1 regulated cell mobility and migration as shown by RNA‐seq analysis.
+  (A) A volcano plot of the distribution of all differentially expressed genes (DEGs)
+  was constructed, mapping the 351 upregulated genes in red dots and the 449 downregulated
+  genes in green dots after MARCKSL1 knockdown. (B) The heatmap of 800 DEGs is shown.
+  Red denotes upregulation, and blue represents downregulation. (C) KEGG pathway analysis
+  among the 800 DEGs was performed via DAVID. The top 15 enriched pathways are shown.
+  (D and E) The mRNA (D) and protein (E) expression levels of representative genes
+  associated with the MAPK signaling pathway were confirmed by qPCR and western blot
+  analysis in KYSE140 cells. The representative data are presented as the mean ± SEM
+  from independent triplicate experiments. Ns, not significant; *p < 0.05; **p < 0.01;
+  ***p < 0.001. (F) Western blotting showed marked decreases in the phosphorylation
+  of MEK, ERK and JNK in KYSE140 cells after MARCKSL1 knockdown . (G) Gene Ontology
+  (GO) analysis based on 800 DEGs was performed by DAVID. The top 10 enriched pathways
+  are shown, including cell differentiation, cell migration, proliferation and motility.
+  (H) Gene Set Enrichment Analysis (GSEA) enrichment profiles from RNA‐sequencing
+  reveal that MARCKSL1 is significantly associated with epithelial‐mesenchymal transition
+  and apical junction.
+article_title: MARCKSL1 interacted with F‐actin to promote esophageal squamous cell
+  carcinoma mobility by modulating the formation of invadopodia.
+citation: Yue Zhao, et al. Cancer Med. 2023 Feb;12(3):3299-3312.
+year: '2023'
+
+doi: 10.1002/cam4.5079
+journal_title: Cancer Medicine
+journal_nlm_ta: Cancer Med
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- esophageal cancer
+- invadopodia formation
+- MARCKSL1
+- metastasis
+
+---

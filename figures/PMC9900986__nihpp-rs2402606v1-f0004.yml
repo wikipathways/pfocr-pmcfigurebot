@@ -1,0 +1,50 @@
+---
+figid: PMC9900986__nihpp-rs2402606v1-f0004
+pmcid: PMC9900986
+image_filename: nihpp-rs2402606v1-f0004.jpg
+figure_link: /pmc/articles/PMC9900986/figure/F4/
+number: Figure 4
+figure_title: CCR2 macrophages co-localize with and signal to fibroblasts via IL-1b
+  in MI and HF
+caption: (A) NicheNet derived predictions of enriched signaling from other cell types
+  to fibroblasts in HF (acute MI, ICM, NICM) relative to donor. (B) IL-1b RNA expression
+  in global CITE-seq UMAP embedding. (C) IL-1b RNA expression in myeloid subsets (left)
+  with corresponding CCR2 protein expression (middle), and IL-1b expression density
+  and imputed CCR2 protein expression in an acute MI IZ spatial transcriptomic sample.
+  (D) Immunofluorescence of IL-1b (red) in CCR2 GFP (green) mice at day 7 post Ang
+  II/PE mini-pump implantation. (E) Rank sorted TF motifs enriched in HF fibroblasts
+  relative to donor fibroblasts from Multiome data show enriched inflammatory signaling.
+  (F) Average expression of IL-1B in macrophages per HF patient versus RUNX1 (left)
+  and POSTN (right) in fibroblasts from the same patient. R2 indicates the regression
+  coefficient and the p-value tests whether the slope is significantly non-zero. (G)
+  SPOTlight derived cell-cell proportion correlation in acute MI patient. (H) z-score
+  for marker genes in F9 (POSTN, COMP, FAP, COL1A1, THBS4, COL3A1) and F2 (ACTA2,
+  TAGN) (top) and CD68/CD4 and CD68/FAP joint density embedding plot (bottom). (I)
+  RUNX1/POSTN co-localization density plot (left) and PROGENy imputed NF-kB pathway
+  score (right). (J) UMAP embedding plot of spatial clusters with three distinct niches
+  and corresponding spatial location of clusters. (K) Dot plot of marker genes and
+  gene set scores for spatial niches. (L) CD68/CD4, CD68/FAP (top) and F2 and F9 fibroblast
+  gene signature (bottom) joint density embedding plot in UMAP embedding. (M) Heatmap
+  of top differentially expressed genes across spatial niches. (N) PROGENy pathway
+  analysis for spatial clusters in (J). (O) Study design for IL-1 receptor deletion
+  in fibroblasts in mice with Ang II/PE minipump implantation, (P) representative
+  images of trichrome staining, and (Q) quantification of fibrosis at day 28.
+article_title: Targeting Immune-Fibroblast Crosstalk in Myocardial Infarction and
+  Cardiac Fibrosis.
+citation: Junedh M. Amrute, et al. Res Sq. 2023 Jan 26:rs.3.rs-2402606.
+year: '2023'
+
+doi: 10.21203/rs.3.rs-2402606/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+
+keywords:
+- heart failure
+- fibroblast activator protein
+- macrophages
+- C-C chemokine receptor 2
+- interleukin 1 beta
+- fibrosis
+
+---
