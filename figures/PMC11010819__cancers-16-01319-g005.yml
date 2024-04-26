@@ -1,0 +1,42 @@
+---
+figid: PMC11010819__cancers-16-01319-g005
+pmcid: PMC11010819
+image_filename: cancers-16-01319-g005.jpg
+figure_link: /pmc/articles/PMC11010819/figure/cancers-16-01319-f005/
+number: Figure 5
+figure_title: ''
+caption: 'Inhibitory effects of pomalidomide combined with targeted loss of BRD9 on
+  signaling pathways in MM. (A,B,D,E) Pathway analyses showing signaling pathways
+  downregulated by doxycycline-induced BRD9 KD+pomalidomide treatment of H929 cells
+  (clones #2 and #5) for 24 h. The full list of genes downregulated in response to
+  doxycycline+pomalidomide was used for these analyses. Gene numbers are shown in
+  parentheses. For (A,B), GeneCodis was utilized for pathway analysis, using GO Biological
+  Process, and for (D,E), GeneCodis was utilized for pathway analysis, using Transcription
+  Factors. (C) Validation (via qPCR) performed for EGR1, INHBE, and EGR2, downregulated
+  in response to pomalidomide+doxycycline-induced BRD9 KD in H929 cells. Graphs shown
+  are representative of replicates for which similar results were observed (KD#1 (EGR1,
+  n = 2; INHBE, n = 1); KD#2 (EGR1, n = 2; EGR2, n = 2); KD#5 (EGR1, n = 2; INHBE,
+  n = 1). Treatments were as follows: DMSO vehicle, doxycycline (1 μg/mL), pomalidomide
+  (50 nM), and combination of doxycycline (1 μg/mL)+pomalidomide (50 nM). For doxycycline-treated
+  H929 doxycycline-inducible BRD9 KD#1 cells, BRD9 KD#2 cells, and BRD9 KD#5 cells,
+  BRD9 was downregulated Log2-fold −1.14, Log2-fold −0.53, and Log2-fold −1.02, respectively.
+  MYC target genes include E2F transcription factors.'
+article_title: Synergy between BRD9- and IKZF3-Targeting as a Therapeutic Strategy
+  for Multiple Myeloma.
+citation: Basudev Chowdhury, et al. Cancers (Basel). 2024 Apr;16(7):1319.
+year: '2024'
+
+doi: 10.3390/cancers16071319
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- IMiD
+- BRD9
+- degrader
+- multiple myeloma
+- synergy
+- Ikaros
+
+---

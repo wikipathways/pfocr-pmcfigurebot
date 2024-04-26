@@ -1,0 +1,39 @@
+---
+figid: PMC11017668__12967_2024_5138_Fig10_HTML
+pmcid: PMC11017668
+image_filename: 12967_2024_5138_Fig10_HTML.jpg
+figure_link: /pmc/articles/PMC11017668/figure/Fig10/
+number: Fig. 10
+figure_title: ''
+caption: 'Dissecting the malignant cells with high 3 S-MMR score. (A) The development
+  trajectory of malignant cells inferred by Monocle2. Malignant cells with high 3 S-MMR
+  scores most located in the roots of differentiation, and the malignant cells with
+  low 3 S-MMR scores mainly located in the middle and end-point state. (B) Heatmap
+  of the 3 S-MMR score-related genes in malignant cells along the pseudo-time. (C)
+  Heatmap showing the different TFs activation between high and low 3 S-MMR score
+  malignant cells. (D, E) Top activities of TFs between high (D) and low 3 S-MMR (E)
+  score of malignant cells. RSS indicates Regulon Specificity Score. (F, G) Cellchat
+  analysis of all cell types. Both interaction numbers and interaction strengths were
+  showed. (H, I) Hierarchical plot showing the inferred intercellular communication
+  network for SPP1 signaling pathway. (J) HE staining showing histologically distinct
+  regions of stRNA samples. yellow: cancer region. (K) The spatial plot of 3 S-MMR
+  score intensity. (L) The distribution of different cell types in the spatial map
+  was identified by the algorithm of RCTD.'
+article_title: 'Architecting the metabolic reprogramming survival risk framework in
+  LUAD through single-cell landscape analysis: three-stage ensemble learning with
+  genetic algorithm optimization.'
+citation: Xinti Sun, et al. J Transl Med. 2024;22:353.
+year: '2024'
+
+doi: 10.1186/s12967-024-05138-2
+journal_title: Journal of Translational Medicine
+journal_nlm_ta: J Transl Med
+publisher_name: BioMed Central
+
+keywords:
+- Ensemble learning
+- Genetic algorithm
+- Metabolic reprogramming
+- Web tool
+
+---

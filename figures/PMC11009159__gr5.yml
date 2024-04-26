@@ -1,0 +1,45 @@
+---
+figid: PMC11009159__gr5
+pmcid: PMC11009159
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC11009159/figure/fig5/
+number: Figure 5
+figure_title: ''
+caption: SOG1-p directly binds to early responsive genes of the phenylpropanoid pathway
+  after γ-irradiation treatment or Xoo infection.(A) Biosynthetic pathways of phenylamide (phytoalexin)
+  production in rice. PEP, phosphoenolpyruvate; E4P, erythrose 4-phosphate; PRA, phosphorubosyl
+  anthranilate; CDRP, l-(O-carboxyphenylamino)-l-deoxyribulose-5-phosphate; I3GP,
+  indole-3-glycerol phosphate.(B) Heatmap representation of gene expression levels
+  in the phytoalexin biosynthetic network in the WT (DJ) and ku70 mutant (n = 3).
+  Rice leaves were collected at 6 h after exposure to 40 Gy irradiation. The heatmaps
+  are based on FPKM values from all samples. Green, low expression; red, high expression.(C)
+  RT–qPCR analysis of phenylpropanoid pathway genes (Os01g0897600, Os07g0677600, Os04g0688300,
+  and Os03g0235000) in rice leaves in response to γ-irradiation or Xoo (ZJ173) inoculation.
+  Total RNA samples were extracted from leaves of 4-week-old seedlings at 6 h after
+  γ-irradiation treatment or 48 h of ZJ173 infection. Rice UBQ was used for normalization.
+  Experiments were performed three times. Data are means ± standard error (n = 6).(D)
+  SOG1 binds to the four genes in (C) under γ-irradiation treatment or Xoo (ZJ173)
+  infection. ChIP assays were performed with anti-FLAG antibody on the overexpressing
+  line SOG1-FLAG-OE1 under normal growth, γ-irradiation treatment, or ZJ173 infection.
+  Anti-histone H3 antibody was used as a non-specific control. Experiments were performed
+  independently three times, and the qPCR assay was performed in triplicate with primers
+  designed to target the putative motif regions in the promoters.
+article_title: The MRE11–ATM–SOG1 DNA damage signaling pathway confers rice immunity
+  to Xanthomonas oryzae.
+citation: Zhan Xu, et al. Plant Commun. 2024 Apr 8;5(4):100789.
+year: '2024'
+
+doi: 10.1016/j.xplc.2023.100789
+journal_title: Plant Communications
+journal_nlm_ta: Plant Commun
+publisher_name: Elsevier
+
+keywords:
+- Oryza sativa
+- Xanthomonas oryzae pv. oryzae
+- DSBs
+- phytoalexins
+- MRE11–ATM–SOG1
+- TOP6 complex
+
+---

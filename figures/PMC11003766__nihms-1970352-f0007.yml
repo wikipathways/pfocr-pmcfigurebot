@@ -1,0 +1,44 @@
+---
+figid: PMC11003766__nihms-1970352-f0007
+pmcid: PMC11003766
+image_filename: nihms-1970352-f0007.jpg
+figure_link: /pmc/articles/PMC11003766/figure/F7/
+number: Extended Data Figure 2
+figure_title: Gene, gene set, and signature TCGA analysis
+caption: (a) Heatmap of the hazard ratios (natural log-transformed) associated with
+  the co-culture screen gene signature in TCGA patients for 33 cancer types (a positive
+  log-ratio indicates a worse prognosis and a negative one indicates a protective
+  effect of the gene signature). The co-culture screen gene signature was scaled to
+  mean=0, SD=1. Values shown only for cancer types with significant survival and signature
+  association in patient tumours, as determined by a Wald test with Benjamini-Hochberg
+  multiple comparisons correction (two-sided padj < 0.05). (b, d) Correlation of tumour
+  gene expression and survival in the low-grade glioma (LGG) patient cohort, (b) with
+  the entire cohort and (d) with the cohort split according to TRGV9/TRDV2 tumour
+  transcript abundance. Patients with high and low expression of every given gene
+  were compared across the 1040 genes in the co-culture screen signature. Positive
+  Wald test Z score indicates a positive correlation with survival, and negative Z
+  score indicates a negative correlation with survival. (c, e) Correlation of KEGG
+  pathway-derived and type I interferon response pathway-derived signature scores
+  and survival in the low-grade glioma (LGG) patient cohort, (c) with the entire cohort
+  and (e) with the cohort split according to TRGV9/TRDV2 tumour transcript abundance.
+  Patients with high and low pathway signature scores were compared. (f, g) Survival
+  of (f) all LGG patients and (g) TRGV9/TRDV2-high or TRGV9/TRDV2-low LGG patients
+  split by high and low expression of the TCA cycle pathway signature. (h, i) Survival
+  of TRAC/TRBC-high/low (h) LGG and (i) BLCA patients split by high and low expression
+  of the co-culture screen gene signature. (b-e) Significance was determined by a
+  Wald test (Cox regression) with Bonferroni multiple comparisons correction (two-sided
+  padj<0.05). (f-i) Log-rank test (Kaplan-Meier survival analysis), adjusted (padj)
+  with Benjamini-Hochberg multiple comparisons correction. (c, e-g) Pathway signature
+  levels were estimated by limiting the comparison to genes that overlapped between
+  the co-culture screen hits signature and the pathway.
+article_title: CRISPR screens decode cancer cell pathways that trigger γδ T cell detection.
+citation: Murad R. Mamedov, et al. Nature. ;621(7977):188-195.
+year: '2024'
+
+doi: 10.1038/s41586-023-06482-x
+journal_title: Nature
+journal_nlm_ta: Nature
+publisher_name: ''
+
+keywords:
+---

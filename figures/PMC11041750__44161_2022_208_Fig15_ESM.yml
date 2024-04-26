@@ -1,0 +1,33 @@
+---
+figid: PMC11041750__44161_2022_208_Fig15_ESM
+pmcid: PMC11041750
+image_filename: 44161_2022_208_Fig15_ESM.jpg
+figure_link: /pmc/articles/PMC11041750/figure/Fig15/
+number: Extended Data Fig. 8
+figure_title: CellChat interaction pathways between CD8+ T cells and myeloid cells
+caption: a. Dotplot displaying average expression of genes describing the different
+  dendritic cell and macrophage clusters. DC-M indicates myeloid-derived dendritic
+  cell (DC); DC-P indicates plasmacytoid DC; M-PROL indicates proliferating macrophages;
+  M-Inf indicates inflammatory macrophage; M-TREM2 indicates TREM2hi macrophages.
+  b. Heatmaps displaying outgoing (Ligand) and incoming (Receptor) signalling patterns
+  of pathways describing potential ligand-receptor interactions. Scale above heatmap
+  indicates the relative signalling strength of a cell cluster based on all signalling
+  pathways displayed in the heatmap. Grey bars right of the heatmap show the total
+  signalling strength of a pathway in all cell clusters. The relative signalling strength
+  indicated by ranging color from white (low) to green (high). All cells included
+  in these graphs originate from the plaque.
+article_title: Single-cell T cell receptor sequencing of paired human atherosclerotic
+  plaques and blood reveals autoimmune-like features of expanded effector T cells.
+citation: Marie A. C. Depuydt, et al. Nat Cardiovasc Res. 2023;2(2):112-125.
+year: '2023'
+
+doi: 10.1038/s44161-022-00208-4
+journal_title: Nature Cardiovascular Research
+journal_nlm_ta: Nat Cardiovasc Res
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Autoimmunity
+- Atherosclerosis
+
+---

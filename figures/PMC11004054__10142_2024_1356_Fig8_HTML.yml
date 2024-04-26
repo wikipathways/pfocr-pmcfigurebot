@@ -1,0 +1,33 @@
+---
+figid: PMC11004054__10142_2024_1356_Fig8_HTML
+pmcid: PMC11004054
+image_filename: 10142_2024_1356_Fig8_HTML.jpg
+figure_link: /pmc/articles/PMC11004054/figure/Fig8/
+number: Fig. 8
+figure_title: ''
+caption: Biological characteristics of different risk score groups in the TCGA cohort.
+  (A) MsigDB-based GSVA analysis describing the biological properties of the two nucleotide
+  metabolism-related score groups. (B) Metascape-based enrichment analysis of differentially
+  expressed genes between the two risk-scoring groups. (C) t-SNE plots of both GO
+  and Reactome terms describing the differences in nucleotide metabolic pathway activities
+  in the two risk-scoring groups. (D) . GSEA of GO and KEGG terms for the risk signature.
+  ns, Not significant; * p< 0.05; ** p< 0.01; *** p< 0.001; **** P< 0.0001
+article_title: Targeting nucleotide metabolic pathways in colorectal cancer by integrating
+  scRNA-seq, spatial transcriptome, and bulk RNA-seq data.
+citation: Songyun Zhao, et al. Funct Integr Genomics. 2024;24(2):72.
+year: '2024'
+
+doi: 10.1007/s10142-024-01356-5
+journal_title: Functional & Integrative Genomics
+journal_nlm_ta: Funct Integr Genomics
+publisher_name: Springer Berlin Heidelberg
+
+keywords:
+- Nucleotide metabolism
+- Colorectal cancer
+- scRNA-seq
+- stRNA-seq
+- Prognostic model
+- Immunotherapy
+
+---

@@ -1,0 +1,33 @@
+---
+figid: PMC11009811__tcr-13-03-1290-f1
+pmcid: PMC11009811
+image_filename: tcr-13-03-1290-f1.jpg
+figure_link: /pmc/articles/PMC11009811/figure/f1/
+number: Figure 1
+figure_title: ''
+caption: The gene function enrichment of CRs in COAD. (A) CRs enrichment ratio in
+  biological process, cellular components, and cellular components by R package “clusterProfiler”.
+  (B) The KEGG signaling pathway analysis of CRs by R package “clusterProfiler”. CRs,
+  chromatin regulators; COAD, colon adenocarcinoma; GO, Gene Ontology; KEGG, Kyoto
+  Encyclopedia of Genes and Genomes; HIV, human immunodeficiency virus; MAPK, mitogen-activated
+  protein kinase; AMPK, adenosine 5’-monophosphate (AMP)-activated protein kinase;
+  RNA, ribonucleic acid.
+article_title: Identification and validation of the clinical prediction model and
+  biomarkers based on chromatin regulators in colon cancer by integrated analysis
+  of bulk- and single-cell RNA sequencing data.
+citation: Yichao Ma, et al. Transl Cancer Res. 2024 Mar 31;13(3):1290-1313.
+year: '2024'
+
+doi: 10.21037/tcr-23-1886
+journal_title: Translational Cancer Research
+journal_nlm_ta: Transl Cancer Res
+publisher_name: AME Publishing Company
+
+keywords:
+- Chromatin regulators (CRs)
+- colon cancer
+- tumor microenvironment
+- immunity
+- treatment
+
+---

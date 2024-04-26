@@ -1,0 +1,35 @@
+---
+figid: PMC11006479__aging-16-205658-g005
+pmcid: PMC11006479
+image_filename: aging-16-205658-g005.jpg
+figure_link: /pmc/articles/PMC11006479/figure/f5/
+number: Figure 5
+figure_title: ''
+caption: Parthanatos-based clustering analysis. (A) Define a consensus matrix heat
+  map of k = 2 clusters and their associated regions. (B) Cumulative distribution
+  function (CDF) curve under different cluster number. (C) The relative change in
+  area under the CDF curve for different values of k. (D) The violin plot shows enrichment
+  scores for two clusters (C1 and C2), p<0.001. (E) Survival curves of C1 and C2 clusters,
+  purple for C1, green for C2. (F) Expression difference of parthanatos-related genes
+  between CI and C2 subtypes. (G) Differences in the activity of metabolic pathways
+  between CI and C2 subtypes. (H) Differences in immune pathway activity between CI
+  and C2 subtypes.
+article_title: Integrated single-cell sequencing, spatial transcriptome sequencing
+  and bulk RNA sequencing highlights the molecular characteristics of parthanatos
+  in gastric cancer.
+citation: Xiuli Qiao, et al. Aging (Albany NY). 2024 Mar 31;16(6):5471-5500.
+year: '2024'
+
+doi: 10.18632/aging.205658
+journal_title: Aging (Albany NY)
+journal_nlm_ta: Aging (Albany NY)
+publisher_name: Impact Journals
+
+keywords:
+- gastric cancer
+- parthanatos
+- tumor immune microenvironment
+- single-cell sequencing
+- spatial transcriptome sequencing
+
+---

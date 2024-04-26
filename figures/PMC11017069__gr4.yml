@@ -1,0 +1,31 @@
+---
+figid: PMC11017069__gr4
+pmcid: PMC11017069
+image_filename: gr4.jpg
+figure_link: /pmc/articles/PMC11017069/figure/fig0004/
+number: Figure 4
+figure_title: ''
+caption: Bubble plot analysis of metabolic pathways in ALV-J-infected CEF cells. Each
+  bubble in the bubble chart represents a metabolic pathway (the 20 most significant
+  ones were displayed according to the P-value). The larger the bubble, the more metabolites
+  it contains. The x-axis represents the path influence value in topology analysis,
+  and its size is positively correlated with the influence factor. The y-axis represents
+  the P-value of metabolic pathways in enrichment analysis; The darker the color and
+  the smaller the P-value indicate a more significant degree of enrichment.
+article_title: Metabolomics analysis of CEF cells infected with avian leukosis virus
+  subgroup J based on UHPLC-QE-MS.
+citation: Menglu Xu, et al. Poult Sci. 2024 Jun;103(6):103693.
+year: '2024'
+
+doi: 10.1016/j.psj.2024.103693
+journal_title: Poultry Science
+journal_nlm_ta: Poult Sci
+publisher_name: Elsevier
+
+keywords:
+- avian leukosis virus subgroup J
+- metabolite
+- lipid
+- CEF cell
+
+---

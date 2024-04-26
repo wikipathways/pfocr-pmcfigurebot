@@ -1,0 +1,29 @@
+---
+figid: PMC11016705__gr3
+pmcid: PMC11016705
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC11016705/figure/fig3/
+number: Fig. 3
+figure_title: ''
+caption: KEGG pathway enrichment analysis of mutant genes in patients with CRC. (A)
+  Enriched signaling pathway of mutant genes. FDR was calculated by KEGG algorithm.
+  (B) Genes distribution of mutant genes in enriched signaling pathways. KEGG, Kyoto
+  Encyclopedia of Genes and Genomes; FDR, false discovery rate.
+article_title: Correlation between NGS panel-based mutation results and clinical information
+  in colorectal cancer patients.
+citation: Bo Cheng, et al. Heliyon. 2024 Apr 15;10(7):e29299.
+year: '2024'
+
+doi: 10.1016/j.heliyon.2024.e29299
+journal_title: Heliyon
+journal_nlm_ta: Heliyon
+publisher_name: Elsevier
+
+keywords:
+- Colorectal cancer
+- Next-generation sequencing
+- gene mutation
+- microsatellite instability
+- Molecular targeted therapy
+
+---

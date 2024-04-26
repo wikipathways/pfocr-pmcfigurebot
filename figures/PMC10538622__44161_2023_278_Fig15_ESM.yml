@@ -1,0 +1,42 @@
+---
+figid: PMC10538622__44161_2023_278_Fig15_ESM
+pmcid: PMC10538622
+image_filename: 44161_2023_278_Fig15_ESM.jpg
+figure_link: /pmc/articles/PMC10538622/figure/Fig15/
+number: Extended Data Fig. 7
+figure_title: Small molecules screening identified saracatinib as negative regulator
+  of inflammatory signatures in PBMCs and atherosclerotic tissue
+caption: A. Top 50 candidate small molecules predicted using 4,823 DEGs input gene
+  set in LINCS-L1000CDS2 in healthy PBMCs, in response to atherosclerotic plasma.
+  B. Top 50 candidate small molecules predicted using 277 inflammatory (GO:0006954)
+  DEGs as gene set input in LINCS-L1000CDS. C. Heatmap of phosphosite responses to
+  selected candidate drugs across all immune cell types summarizing the signaling
+  responses to atherosclerotic plasma alone (vehicle) or in combination with candidate
+  small-molecules (1-8), n = 4 biologically independent samples/condition; males=2.
+  D. t-statistics of cell-type-specific phosphorylation of all immune cells with positive
+  values indicating up-regulation and negative values down-regulation. Plasma response
+  is compared to no plasma treatment. Each small-molecule combined with plasma treatment
+  is compared to plasma treatment alone. Points outside the grey box indicate significance
+  (p < 0.05, df=6), n = 4/condition. E. Signaling pathway analysis of the DEGs downregulated
+  by saracatinib in atherosclerotic tissue treated with atherosclerotic plasma alone
+  (vehicle) or in combination with saracatinib. The combined score (c) was calculated
+  from the p value (p) obtained using Fisher’s exact test. P < 0.05 was considered
+  significant.
+article_title: Systems immunology-based drug repurposing framework to target inflammation
+  in atherosclerosis.
+citation: Letizia Amadori, et al. Nat Cardiovasc Res. 2023;2(6):550-571.
+year: '2023'
+
+doi: 10.1038/s44161-023-00278-y
+journal_title: Nature Cardiovascular Research
+journal_nlm_ta: Nat Cardiovasc Res
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Systems analysis
+- Cardiology
+- Immunotherapy
+- Drug discovery
+- Dyslipidaemias
+
+---

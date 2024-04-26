@@ -1,0 +1,53 @@
+---
+figid: PMC11016760__gr5
+pmcid: PMC11016760
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC11016760/figure/fig5/
+number: Fig. 5
+figure_title: ''
+caption: AtmosO2 exposure disrupts embryonic metabolic shift that couples histone
+  lactylation deposition.(A) Gene set variation analysis (GSVA) plot showing the dynamic
+  activity of glycolysis in 5% O2- and 20% O2-exposed IVF preimplantation embryos.
+  Error bars, means ± SD; *P < 0.05, by two-tailed Student's t-test; †††P < 0.001,
+  by Welch's t-test.(B) GSEA plot showing enrichment of glycolysis pathway between
+  5% O2- and 20% O2-exposed early (red) and late (blue) blastocysts.(C) Heatmap showing
+  the fold change of glycolysis pathway-related DEGs between 5% O2- and 20% O2- exposed
+  early and late blastocysts.(D) RT-qPCR analysis of selected glycolysis-related DEGs
+  in 5% O2- and 20% O2-exposed blastocysts. Error bars, means ± SD; **P < 0.01, ***P < 0.001,
+  by two-tailed Student's t-test.(E) Quantification of glycolysis-dependent ATP production
+  detected by 2-Deoxy-d-glucose (2-DG) treatment in 5% O2-and 20% O2- exposed blastocysts.
+  Error bars, means ± SD; *P < 0.05, by two-tailed Student's t-test.(F–G) Representative
+  immunostaining images of Pan Kla (F, left panel) and H4K12la (G, left panel) in
+  5% O2- and 20% O2-exposed IVF blastocysts. Quantification of fluorescent intensity
+  was shown in right panels respectively. Error bars, means ± SD; ***P < 0.001, by
+  Welch's t-test in (F) and two-tailed Student's t-test in (G).(H) Immunoblotting
+  of Pan Kla and H4K12la in 5% O2- and 20% O2- exposed IVF blastocysts.(I) Venn diagram
+  showing the overlap of H4K12la-enriched genes with 20% O2 exposure-upregulated/downregulated
+  genes in early blastocysts(J) Comparison of H4K12la enrichment at promoters of H4K12la
+  targeted genes among IVO, 5% O2- and 20% O2- exposed blastocysts. Error bars, means ± SD;
+  the significance was determined by two-tailed Student's t-test.(K) Schematic diagram
+  of reconstructed interaction network of glycolysis pathway and HIF-1α signaling
+  in early blastocysts, and their functionally associated DEGs.(L) Spearman correlation
+  between glycolysis pathway and HIF-1α signaling pathway.Scale bars, 50 μm. Data
+  are shown as means ± SD of at least three independent experiments. (For interpretation
+  of the references to colour in this figure legend, the reader is referred to the
+  Web version of this article.)
+article_title: Single-embryo transcriptomic atlas of oxygen response reveals the critical
+  role of HIF-1α in prompting embryonic zygotic genome activation.
+citation: Fusheng Yao, et al. Redox Biol. 2024 Jun;72:103147.
+year: '2024'
+
+doi: 10.1016/j.redox.2024.103147
+journal_title: Redox Biology
+journal_nlm_ta: Redox Biol
+publisher_name: Elsevier
+
+keywords:
+- Oxygen concentration
+- Preimplantation mouse embryo
+- Major ZGA
+- HIF-1α
+- Histone modification
+- Sex dimorphism
+
+---

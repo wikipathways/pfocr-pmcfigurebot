@@ -1,0 +1,41 @@
+---
+figid: PMC11039819__fimmu-15-1356369-g002
+pmcid: PMC11039819
+image_filename: fimmu-15-1356369-g002.jpg
+figure_link: /pmc/articles/PMC11039819/figure/f2/
+number: Figure 2
+figure_title: ''
+caption: The cGAS-STING pathway is directly connected to autophagy. cGAS-STING signaling
+  is an innate immune pathway, responsible for the production of type I IFNs. Extracellular
+  stressors such as genotoxic stress or viral infection as well as genomic instability
+  can lead to the appearance of dsDNA in the cytosol. cGAS is activated upon binding
+  dsDNA, which leads to the production of the secondary messenger cGAMP. cGAMP then
+  activates STING, located at the ER, inducing its oligomerization and translocation
+  to the Golgi via the ERGIC. Alternatively, cGAMP can also trigger the activation
+  of STING in neighbouring cells via intercellular transport mediated by gap junctions.
+  At the Golgi, STING induces the phosphorylation of TBK1 and ultimately IRF3 leading
+  to its translocation to the nucleus where phosphorylated IRF3 drives the transcription
+  of type I IFNs. Each distinct step of the cGAS-STING pathway is interconnected with
+  autophagy. For example, STING, upon activation, leads to the formation of autophagosomes
+  at the ERGIC in a WIPI2-dependent manner. This acts as a negative feedback loop
+  by degrading dsDNA and other members of the pathway, such as cGAS or IRF3. Additionally,
+  microautophagy is responsible for the final termination of STING signaling in an
+  ESCRT-dependent manner.
+article_title: The interplay between autophagy and cGAS-STING signaling and its implications
+  for cancer.
+citation: Maximilian Schmid, et al. Front Immunol. 2024;15:1356369.
+year: '2024'
+
+doi: 10.3389/fimmu.2024.1356369
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- autophagy
+- cGAS/STING signaling
+- innate immunity
+- cancer
+- radiotherapy
+
+---

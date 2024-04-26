@@ -1,0 +1,41 @@
+---
+figid: PMC11016760__gr6
+pmcid: PMC11016760
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC11016760/figure/fig6/
+number: Fig. 6
+figure_title: ''
+caption: Preimplantation embryos showed sex-dimorphic response to O2 concentrations.(A)
+  The number of DEGs in 5% O2- and 20% O2- exposed male or female IVF embryos.(B)
+  Venn diagram showing the overlap of DEGs between 5% O2- and 20% O2-exposed male
+  or female embryos.(C) Dot plot showing the KEGG pathways enriched with DEGs in 5%
+  O2- and 20% O2-exposed male or female early blastocysts.(D and E) Heatmap showing
+  expression profiles of female early blastocysts specifically enriched GSH metabolism-
+  (D) and p53 signaling pathway- (E) related DEGs.(F) Schematic diagram of male early
+  blastocysts specifically enriched glycolysis pathway- and pentose phosphate pathway-related
+  DEGs.(G) Bar plot showing the activity of glycolysis pathway by GSVA analysis. Error
+  bars, means ± SD, **P < 0.01, by two-tailed Student's t-test.(H) Venn diagram showing
+  the overlap of male and female early blastocysts commonly enriched OXPHOS-related
+  DEGs. The selected DEGs were also shown.(I) Representative images of JC-1 staining
+  in 5% O2- and 20% O2- exposed male or female IVF embryos (left panel). Scatter plot
+  showing JC-1 aggregate to monomer ratio (right panel). Scale bars, 50 μm; Error
+  bars, means ± SD; ***P < 0.001, by Mann-Whitney test.
+article_title: Single-embryo transcriptomic atlas of oxygen response reveals the critical
+  role of HIF-1α in prompting embryonic zygotic genome activation.
+citation: Fusheng Yao, et al. Redox Biol. 2024 Jun;72:103147.
+year: '2024'
+
+doi: 10.1016/j.redox.2024.103147
+journal_title: Redox Biology
+journal_nlm_ta: Redox Biol
+publisher_name: Elsevier
+
+keywords:
+- Oxygen concentration
+- Preimplantation mouse embryo
+- Major ZGA
+- HIF-1α
+- Histone modification
+- Sex dimorphism
+
+---

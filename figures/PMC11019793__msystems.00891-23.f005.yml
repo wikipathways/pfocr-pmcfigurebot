@@ -1,0 +1,43 @@
+---
+figid: PMC11019793__msystems.00891-23.f005
+pmcid: PMC11019793
+image_filename: msystems.00891-23.f005.jpg
+figure_link: /pmc/articles/PMC11019793/figure/F5/
+number: Fig 5
+figure_title: ''
+caption: The metabolomic analysis of MbovP0725 activity in M. bovis. (A and B) PCA
+  score chart for all samples in pos (A) and neg (B) modes. The abscissa is PC1, and
+  the PCA score graph shows 95% confidence intervals. Each dot represents a sample,
+  and different groups are labeled with different colors. Six replicates were included
+  for both HB0801 and T8.66. (C and D) Bubble plots for metabolic pathway enrichment
+  analysis in positive (C) and negative (D) modes. The x-axis enrichment factor (RichFactor)
+  is the number of differential metabolites annotated to the pathway divided by all
+  identified metabolites annotated to the pathway. The larger the value, the greater
+  the proportion of differential metabolites annotated to the pathway. The dot size
+  represents the number of DAMs annotated to this pathway. (E) Volcano map of DAMs
+  in both positive and negative modes. The log2 of fold change plotted against the
+  −log10 of the P-value. The two vertical dotted lines in the figure are the two fold
+  change threshold, and the horizontal dotted line is the P-value at a 0.05 threshold.
+  Red and green dots represent up- and downregulated DAMs, respectively, and gray
+  dots represent non-significant metabolites. A variable with a VIP score close to
+  or greater than 1 was considered important in the model. VIP, variable importance
+  in projection. (F) Bubble chart of KEGG pathways involving significantly enriched
+  DAMs in both pos and neg modes.
+article_title: MbovP0725, a secreted serine/threonine phosphatase, inhibits the host
+  inflammatory response and affects metabolism in Mycoplasma bovis.
+citation: Hui Zhang, et al. mSystems. 2024 Apr;9(4):e00891-23.
+year: '2024'
+
+doi: 10.1128/msystems.00891-23
+journal_title: mSystems
+journal_nlm_ta: mSystems
+publisher_name: American Society for Microbiology
+
+keywords:
+- Mycoplasma bovis
+- MbovP0725
+- HAD phosphatase
+- transcriptomics and metabolomics
+- anti-inflammatory response
+
+---

@@ -1,0 +1,62 @@
+---
+figid: PMC11014980__41392_2024_1796_Fig7_HTML
+pmcid: PMC11014980
+image_filename: 41392_2024_1796_Fig7_HTML.jpg
+figure_link: /pmc/articles/PMC11014980/figure/Fig7/
+number: Fig. 7
+figure_title: ''
+caption: SARS-CoV-2 infection triggers distinct characteristics of proteomics and
+  metabolomics among adult, elder, and vaccinated COVID-19 NHP models. a Bar and dot
+  plots of the KEGG pathway combined functional analysis of the enriched pathways
+  associated with differentially expressed proteins and metabolites between the control
+  and adult prototypic SARS-CoV-2 strain-infected model groups. b, c Heatmap revealing
+  that genes corresponding to differential proteins and metabolites are mainly enriched
+  in the insulin resistance pathway and lipid and atherosclerosis pathway. d Bar plots
+  of the KEGG pathway combined functional analysis of the enriched pathways associated
+  with differentially expressed proteins and metabolites from 3 days post-infection
+  (DPI) to 7 DPI from the elder prototypic SARS-CoV-2 strain-infected COVID-19 model
+  compared with those of the control group. In a and d, the blue characters represent
+  the signaling pathway directly related to glycometabolism involved in the islets,
+  the red characters represent the metabolic pathway directly related to COVID-19,
+  and the green characters represent the metabolic pathway related to blood circulation.
+  e Correlation networks of significant protein interaction. Each node in the interaction
+  network represents a protein, and the change in node color from red to blue represents
+  the change in protein expression level from being upregulated to being downregulated.
+  The thickness of the lines represents the change from high to low confidence in
+  interaction relationships. f Volcano plot showing the relative content differences
+  of proteins between the control and the prototypic SARS-CoV-2 strain-infected model
+  vaccinated with inactivated vaccines and the significance of statistical differences.
+  Each dot in the volcano plot represents a protein, with green dots representing
+  downregulated differential proteins, red dots representing upregulated differential
+  proteins, and gray dots representing proteins detected but not significantly different.
+  g, h Volcano plot showing the relative content differences of lipids and metabolites
+  between the control and vaccinated COVID-19 model groups and the significance of
+  statistical differences, respectively. Each dot in the volcano plot represents a
+  lipid or a metabolite, with green dots representing downregulated differential lipids
+  or metabolites, red dots representing upregulated differential lipids or metabolites,
+  and gray dots representing lipids or metabolites detected but not significantly
+  different. i Dynamic distribution of metabolites. The abscissa represents the cumulative
+  number of substances in the order of difference multiple from small to large, and
+  the ordinate represents the pair value with the difference multiple as base 2. Each
+  dot represents a substance, the green dot represents the substance that is in the
+  top 10 ranking down, and the red dot represents the substance that is in the top
+  10 ranking up. The KEGG pathway name with blue characters represents significantly
+  enriched pathways related to diabetes mellitus and glucose metabolism impairment.
+  The KEGG pathway name with red characters represents a SARS-CoV-2-associated pathway.
+  The KEGG pathway name with green characters represents significantly enriched pathways
+  related to thrombogenesis
+article_title: Infection with SARS-CoV-2 can cause pancreatic impairment.
+citation: Wei Deng, et al. Signal Transduct Target Ther. 2024;9:98.
+year: '2024'
+
+doi: 10.1038/s41392-024-01796-2
+journal_title: Signal Transduction and Targeted Therapy
+journal_nlm_ta: Signal Transduct Target Ther
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Infectious diseases
+- Endocrine system and metabolic diseases
+- Health care
+
+---

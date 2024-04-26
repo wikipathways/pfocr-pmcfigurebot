@@ -1,0 +1,37 @@
+---
+figid: PMC11037065__WJGO-16-1344-g004
+pmcid: PMC11037065
+image_filename: WJGO-16-1344-g004.jpg
+figure_link: /pmc/articles/PMC11037065/figure/F4/
+number: Figure 4
+figure_title: ''
+caption: 'Detoxification function of MUC5B-high tumor cells of cholangiocarcinoma.
+  A: Top 50 enriched signaling pathways of the differentially expressed genes in MUC5B-high
+  cells; B: Heatmap showing the relative activities of oxidation-related metabolic
+  signaling pathways in MUC5B-high vs MUC5B-low cells; C: Violin plots showing relative
+  expression levels of GSTA1, GSTA2, ALDH1A1, ALDH2, UCP2, and MUC5B in cholangiocarcinoma
+  (CCA) tumor sub-clusters; D: Gene set enrichment analysis plot showing the enrichment
+  of genes from MUC5B-high (left) and MUC5B-low (right) cells in the drug resistance
+  signaling pathway. The P value and normalized enrichment score are indicated on
+  the plot; E: Distribution of MUC5B and GSTA1 in the spatial transcriptomics (ST)
+  slide. Zoomed in portions of the ST chip (middle) showing multiple areas of co-localization;
+  F: Correlation analysis between the expression of MUC5B and ALDH1A1 (left), MUC5B
+  and UCP2 (right) in CCA tumor samples from cohort 10.'
+article_title: Establishment of a cholangiocarcinoma risk evaluation model based on
+  mucin expression levels.
+citation: Chun-Yuan Yang, et al. World J Gastrointest Oncol. 2024 Apr 15;16(4):1344-1360.
+year: '2024'
+
+doi: 10.4251/wjgo.v16.i4.1344
+journal_title: World Journal of Gastrointestinal Oncology
+journal_nlm_ta: World J Gastrointest Oncol
+publisher_name: Baishideng Publishing Group Inc
+
+keywords:
+- Mucin
+- Cholangiocarcinoma
+- Single-cell RNA sequencing
+- Spatial transcriptomics
+- Prognosis
+
+---

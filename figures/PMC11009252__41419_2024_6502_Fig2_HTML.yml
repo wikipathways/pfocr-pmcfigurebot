@@ -1,0 +1,44 @@
+---
+figid: PMC11009252__41419_2024_6502_Fig2_HTML
+pmcid: PMC11009252
+image_filename: 41419_2024_6502_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC11009252/figure/Fig2/
+number: Fig. 2
+figure_title: PDZK1 decreases EGFR levels and EGFR-mediated signalling in TNBC via
+  interaction with EGFR
+caption: 'A PDZK1 expression was negatively associated with EGFR signalling activation
+  in TNBC. Gene set enrichment analysis (GSEA) profile of the “KOBAYASHI_EGFR_SIGNALING_24HR_DN”
+  gene signature (source: https://www.gsea-msigdb.org/gsea/msigdb/) for PDZK1 level.
+  According to the median value of the TCGA dataset, the samples were divided into
+  PDZK1 high/low expression group. NES: Normalised Enrichment Score, FDR: False Discovery
+  Rate. B, C PDZK1 expression was negatively correlated with EGFR expression and pERK
+  level in TNBC. The expression levels were derived from IHC results of TMA. Data
+  were analysed by Pearson correlation. D, E PDZK1 overexpression decreased EGFR expression
+  and EGFR-mediated signalling in TNBC cells with/out EGF stimulation. F PDZK1 decreased
+  EGFR expression in a dose-dependent manner. G, H PDZK1 knockdown enhanced EGFR expression
+  and EGFR-mediated signalling in TNBC cells with/out EGF induction. I, J PDZK1 knockdown
+  enhanced EGFR expression and EGFR-mediated signalling in vivo. Data were presented
+  as mean ± SD with n = 8 mice per group and analysed by Student’s two-tailed t-test.
+  **P < 0.01 and ***P < 0.001. K, L PDZK1-WT overexpression decreased the expression
+  and EGFR signalling activation of EGFR-WT. However, PDZK1-WT or PDZK1-MT_S2,3 overexpression
+  could not decrease the expression and EGFR signalling activation of EGFR binding
+  motif mutant. Data are the representative of three independent experiments (D–H,
+  K–L).'
+article_title: PDZK1 suppresses TNBC development and sensitizes TNBC cells to erlotinib
+  via the EGFR pathway.
+citation: Yuanzhen Ma, et al. Cell Death Dis. 2024 Mar;15(3):199.
+year: '2024'
+
+doi: 10.1038/s41419-024-06502-2
+journal_title: Cell Death & Disease
+journal_nlm_ta: Cell Death Dis
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Breast cancer
+- Growth factor signalling
+- Oncogenesis
+- Tumour-suppressor proteins
+- Targeted therapies
+
+---

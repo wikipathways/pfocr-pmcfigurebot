@@ -1,0 +1,38 @@
+---
+figid: PMC11006615__41586_2024_7182_Fig13_ESM
+pmcid: PMC11006615
+image_filename: 41586_2024_7182_Fig13_ESM.jpg
+figure_link: /pmc/articles/PMC11006615/figure/Fig13/
+number: Extended Data Fig. 8
+figure_title: Altered metabolites in Fna treated mice
+caption: a, Plots show the log2-transformed fold change in metabolite level between
+  treatment arms by the -log10(p-value). Points indicate individual metabolites colored
+  by their metabolic categorization. Dotted lines indicate the threshold of significant
+  gene expression, defined as log2-transformed fold change ≥ 0.58 and ≤ −0.58 (vertical
+  lines) and a -log10(p-value) ≥ 1.30 (horizontal line). Statistical analysis performed
+  on natural log-transformed values using one-sided T-test. b, Clustered heatmap of
+  top fifty metabolites across study arms. Dendrogram groups individual samples by
+  similarity of metabolite profile. Bar color for each sample indicates treatment
+  arm, vehicle control (grey), Fna C1-treated (green), or Fna C2-treated (lavender).
+  c, Schematic of glutathione metabolic pathway. d, Plot demonstrates the ratio between
+  oxidized (GSSG) and reduced (GSH) glutathione levels for each treatment arm, vehicle
+  control (grey), Fna C1-treated (green), or Fna C2-treated (lavender); n = 4 mice
+  per arm. Data is plotted as mean ± s.e.m. Statistical analysis performed using one-way
+  ANOVA. e, Schematic of eicosanoid metabolic pathway.
+article_title: A distinct Fusobacterium nucleatum clade dominates the colorectal cancer
+  niche.
+citation: Martha Zepeda-Rivera, et al. Nature. 2024;628(8007):424-432.
+year: '2024'
+
+doi: 10.1038/s41586-024-07182-w
+journal_title: Nature
+journal_nlm_ta: Nature
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Bacterial genomics
+- Colorectal cancer
+- Phylogeny
+- Pathogens
+
+---
