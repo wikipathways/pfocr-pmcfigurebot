@@ -1,0 +1,38 @@
+---
+figid: PMC11018288__ppat.1012136.g008
+pmcid: PMC11018288
+image_filename: ppat.1012136.g008.jpg
+figure_link: /pmc/articles/PMC11018288/figure/ppat.1012136.g008/
+number: Fig 8
+figure_title: ASFV pB318L interacts with IFNAR1/2 to inhibit IFN signaling pathway
+caption: (A) HEK293T cells were co-transfected with plasmids expressing pB318L and
+  STAT1, STAT2, IRF9, together with ISG56-luciferase and Renilla-TK, at 24 hpt the
+  cells were collected to analyze the luciferase activity. (B) HEK293T cells were
+  transfected with a plasmid expressing Flag-pB318L, along with a plasmid expressing
+  HA-tagged IFNAR1, IFNAR2, JAK1, TYK2, STAT1, STAT2, and IRF9, respectively. At 24
+  hpt, Co-IP was performed to detect the interaction between pB318L and molecules
+  in the IFNAR-JAK-STAT signaling pathway. (C-D) Co-IP analysis of the interaction
+  between pB318L and endogenous IFNAR1/IFNAR2 in PAMs that were mock infected or infected
+  with ASFV or ASFV-intB318L. (E) CRL-2843 cells were transfected with plasmids expressing
+  Flag-IFNAR1 or Flag-IFNAR2 and GFP-pB318L. At 24 hpt, the localizations of pB318L,
+  IFNAR1, and IFNAR2 were detected by immunofluorescence microscopy. Scale bars, 20
+  μm. (F) Pearson correlation coefficient between pB318L and IFNAR1/2. (G) HEK293T
+  cells were co-transfected with different plasmids expressing HA-pB318L, HA-TYK2,
+  and Flag-IFNAR1 as indicated. Co-IP was performed to detect the interactions among
+  IFNAR1, TYK2 and pB318L. (H) HEK293T cells were co-transfected with plasmids expressing
+  HA-pB318L, HA-JAK1, and Flag-IFNAR2 as indicated. Co-IP was performed to detect
+  the interactions among IFNAR2, JAK1, and pB318L. Data are representative of three
+  independent experiments with three biological replicates (mean ± s.d.). *** p <
+  0.001, (one-way ANOVA).
+article_title: African swine fever virus pB318L, a trans-geranylgeranyl-diphosphate
+  synthase, negatively regulates cGAS-STING and IFNAR-JAK-STAT signaling pathways.
+citation: Xiaohong Liu, et al. PLoS Pathog. 2024 Apr;20(4):e1012136.
+year: '2024'
+
+doi: 10.1371/journal.ppat.1012136
+journal_title: PLOS Pathogens
+journal_nlm_ta: PLoS Pathog
+publisher_name: Public Library of Science
+
+keywords:
+---

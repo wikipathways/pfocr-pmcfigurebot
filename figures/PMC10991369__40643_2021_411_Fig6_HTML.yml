@@ -1,0 +1,31 @@
+---
+figid: PMC10991369__40643_2021_411_Fig6_HTML
+pmcid: PMC10991369
+image_filename: 40643_2021_411_Fig6_HTML.jpg
+figure_link: /pmc/articles/PMC10991369/figure/Fig6/
+number: Fig. 6
+figure_title: ''
+caption: Differential transcription of genes involved in protein processing in the
+  endoplasmic reticulum (ER). With the KEGG annotation result for ER, we also performed
+  pathway functional enrichment using phyper, a function of R. Then, we calculated
+  the false discovery rate (FDR) for each p-value; in general, the terms for which
+  FDR was not larger than 0.05 were defined as significantly enriched
+article_title: Comparative transcriptome analysis of Trichoderma reesei reveals different
+  gene regulatory networks induced by synthetic mixtures of glucose and β-disaccharide.
+citation: Yonghao Li, et al. Bioresour Bioprocess. 2021 Dec;8(1):57.
+year: '2021'
+
+doi: 10.1186/s40643-021-00411-4
+journal_title: Bioresources and Bioprocessing
+journal_nlm_ta: Bioresour Bioprocess
+publisher_name: Springer Singapore
+
+keywords:
+- Trichoderma reesei
+- Cellulase
+- Transcriptome
+- Inducer
+- Transcription factor
+- Transporter
+
+---

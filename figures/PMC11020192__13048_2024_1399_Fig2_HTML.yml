@@ -1,0 +1,31 @@
+---
+figid: PMC11020192__13048_2024_1399_Fig2_HTML
+pmcid: PMC11020192
+image_filename: 13048_2024_1399_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC11020192/figure/Fig2/
+number: Fig. 2
+figure_title: ''
+caption: The characteristics of tumor-related pathways in CAF clusters. (A) Heatmap
+  of 10 tumor-related pathway scores enriched in CAF cells; (B) Comparison of CAF
+  clusters in malignant and non-malignant cells; Comparison of GSVA score of each
+  pathway between malignant and non-malignant cells in CAF_0 (C), CAF_1 (D), CAF_2
+  (E), CAF_3 cluster (F), and CAF_4. (*P < 0.05; **P < 0.01; ***P < 0.001; and ****P < 0.0001).
+  ns, not significant
+article_title: Integration of single-cell RNA-seq and bulk RNA-seq data to construct
+  and validate a cancer-associated fibroblast-related prognostic signature for patients
+  with ovarian cancer.
+citation: Liang Shen, et al. J Ovarian Res. 2024;17:82.
+year: '2024'
+
+doi: 10.1186/s13048-024-01399-z
+journal_title: Journal of Ovarian Research
+journal_nlm_ta: J Ovarian Res
+publisher_name: BioMed Central
+
+keywords:
+- Cancer-associated fibroblasts
+- Ovarian cancer
+- Tumor microenvironment
+- Immune therapy
+
+---

@@ -1,0 +1,43 @@
+---
+figid: PMC11041766__41586_2024_7260_Fig14_ESM
+pmcid: PMC11041766
+image_filename: 41586_2024_7260_Fig14_ESM.jpg
+figure_link: /pmc/articles/PMC11041766/figure/Fig14/
+number: Extended Data Fig. 9
+figure_title: MIRAS patient cerebral cortex proteome and transcriptome
+caption: '(a) Proteome profiling of MIRAS patient cerebral cortex. Volcano plot: significance
+  (p-value) and fold change. 57 of the proteins with p-value < 0.05 (two-sample Student’s
+  T-test) are associated with immune/antiviral pathways (highlighted in blue). N = 3
+  patients and 6 controls, all females. (b) Canonical pathway enrichment analysis
+  of cerebral cortex proteome in MIRAS (as in a). Ingenuity pathways analyses on proteins
+  significantly affected (p-value < 0.05) in MIRAS; pathway p-value (Fisher’s exact
+  test) and ratio (number of molecules from the dataset that map to the pathway divided
+  by the total number of molecules that map to the canonical pathway). Blue: pathways
+  related to immune and/or viral process; orange: pathways related to mitochondrial
+  functions. (c) Comparative pathway profiling of cerebral cortex transcriptome of
+  patient/control (as in Fig. ) versus TBEV-infected/uninfected wildtype mice (as
+  in Fig. ). Biological pathways (analysed using gProfiler server; Fisher’s one-tailed
+  test with multiple testing correction using the server default algorithm g:SCS)
+  enriched with downregulated genes (p-value < 0.05, fold change > −1.5) in patient/control
+  or with upregulated genes (adj-p-value < 0.05, fold change>1.5) in TBEV 4 dpi/uninfected
+  wildtype control mice. Left: Top common overlapping pathways of the two datasets
+  (pathway adj-p-value < 0.05) are tabulated with the pathway-associated gene count.
+  Right: the pathway-associated gene count and adj-p-value. 58 overlapping pathways
+  between the two datasets are highlighted in green shade. Selected top pathways related
+  to virus and immune response are annotated in blue text to depict the opposed regulation.'
+article_title: Ancestral allele of DNA polymerase gamma modifies antiviral tolerance.
+citation: Yilin Kang, et al. Nature. 2024;628(8009):844-853.
+year: '2024'
+
+doi: 10.1038/s41586-024-07260-z
+journal_title: Nature
+journal_nlm_ta: Nature
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- RIG-I-like receptors
+- Neurodegeneration
+- Risk factors
+- Metabolic disorders
+
+---

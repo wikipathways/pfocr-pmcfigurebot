@@ -1,0 +1,32 @@
+---
+figid: PMC11009811__tcr-13-03-1290-f5
+pmcid: PMC11009811
+image_filename: tcr-13-03-1290-f5.jpg
+figure_link: /pmc/articles/PMC11009811/figure/f5/
+number: Figure 5
+figure_title: ''
+caption: Single cell data analysis. (A) TSNE map of single cell data by R package
+  “Seurat”. (B,C) Expression of CRs scores in the tumor microenvironment by R package
+  “Seurat”. (D,E) The number of cell-to-cell interactions and the total interaction
+  strength by R package “CellChat”. (F) Pathway analysis between cells by R package
+  “CellChat”. (G) Expression of model genes in different cells by R package “Seurat”.
+  CRs, chromatin regulators; TSNE, T-distributed stochastic neighbor embedding.
+article_title: Identification and validation of the clinical prediction model and
+  biomarkers based on chromatin regulators in colon cancer by integrated analysis
+  of bulk- and single-cell RNA sequencing data.
+citation: Yichao Ma, et al. Transl Cancer Res. 2024 Mar 31;13(3):1290-1313.
+year: '2024'
+
+doi: 10.21037/tcr-23-1886
+journal_title: Translational Cancer Research
+journal_nlm_ta: Transl Cancer Res
+publisher_name: AME Publishing Company
+
+keywords:
+- Chromatin regulators (CRs)
+- colon cancer
+- tumor microenvironment
+- immunity
+- treatment
+
+---

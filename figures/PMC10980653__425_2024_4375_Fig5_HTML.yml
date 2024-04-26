@@ -1,0 +1,45 @@
+---
+figid: PMC10980653__425_2024_4375_Fig5_HTML
+pmcid: PMC10980653
+image_filename: 425_2024_4375_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC10980653/figure/Fig5/
+number: Fig. 5
+figure_title: ''
+caption: DEGs enriched in the photosynthesis pathway under 7 DAH. a The heatmap of
+  photosynthesis pathway-related DEGs in R. moulmainense leaves after heat- and mock
+  treatment for 4 h and 7 days. b Analyses of Fv/Fm, ΦPSII, qP, and ETR in the mock-
+  and heat-treated R. moulmainense leaves at 4 HAH and 7 DAH. c Effects of the heat
+  stress on reactive oxygen species (ROS) accumulation and antioxidant enzyme activity
+  in R. moulmainense. Mean values ± SE, n = 3. Different letters above the bars in
+  b and c indicate statistically significant differences between the treatments, determined
+  using one-way ANOVA followed by Tukey’s multiple test (P < 0.05). d, e WGCNA analyses.
+  In section d, a dendrogram of gene clusters based on topological overlap is shown,
+  with modules represented by assigned colors. Each branch on the tree represents
+  a module, and each leaf on the branch corresponds to a single gene. In section e,
+  the associations between modules and phenotypic traits are displayed. Each row indicates
+  a module, and the number of genes in each module is indicated on the left. Each
+  column indicates a specific phenotypic trait, labeled below. The cells at the row–column
+  intersection contain the correlation coefficient (|r|, 0.5 not shown) and the P-value
+  (in brackets) for the correlation between that module and the respective trait.
+  Dark red indicates a highly positive correlation between a specific module and a
+  trait, while blue indicates a negative correlation. The gray module is reserved
+  for genes that do not fall into any specific module
+article_title: Integrated analysis of transcriptome and small RNAome reveals regulatory
+  network of rapid and long-term response to heat stress in Rhododendron moulmainense.
+citation: Si-Jia Liu, et al. Planta. 2024;259(5):104.
+year: '2024'
+
+doi: 10.1007/s00425-024-04375-5
+journal_title: Planta
+journal_nlm_ta: Planta
+publisher_name: Springer Berlin Heidelberg
+
+keywords:
+- Heat stress
+- Long-term adaptability
+- Multiomics analysis
+- Rapid response
+- Regulatory network
+- Rhododendron moulmainense
+
+---

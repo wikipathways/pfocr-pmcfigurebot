@@ -1,0 +1,42 @@
+---
+figid: PMC11005373__mbio.03510-23.f001
+pmcid: PMC11005373
+image_filename: mbio.03510-23.f001.jpg
+figure_link: /pmc/articles/PMC11005373/figure/F1/
+number: Fig 1
+figure_title: ''
+caption: α-Spectrin is mainly degraded in the RBCs after P. falciparum invasion. (A)
+  Western blots of α-spectrin and β-spectrin in P. falciparum-iRBCs at different erythrocytic
+  stages. R, T, and S indicate P. falciparum at the ring, trophozoite, and schizont
+  stages, respectively. (B and C) Relative quantification of α-spectrin and β-spectrin
+  protein levels obtained in panel A. (D and E) α-Spectrin and β-spectrin in iRBCs
+  were detected via immunofluorescence staining. (F) The bubble chart represents the
+  enrichment of Plasmodium proteins in KEGG pathways over 8-, 16-, 24-, 32-, 40-,
+  and 48-h post-parasite invasion. The size of the circles indicates the number of
+  proteins enriched in the signaling pathway, and the color of each circle indicates
+  the enrichment score. The enrichment score was calculated by comparing the proteins’
+  enrichment in iRBCs to that in the RBCs, with blue representing the lowest score
+  and orange the highest score. (G) The heatmap represents the abundance of α-spectrin
+  ubiquitinated sites in iRBCs over 8-, 16-, 24-, 32-, 40-, and 48-h post-parasite
+  invasion. Only the lysine 2321 in α-spectrin was ubiquitinated in uninfected RBC,
+  nine more lysine residues were ubiquitinated after parasite invasion. (H) The distribution
+  of ubiquitinated lysine residues in α-spectrin of P. falciparum-iRBCs is graphically
+  represented.
+article_title: Plasmodium falciparum selectively degrades α-spectrin of infected erythrocytes
+  after invasion.
+citation: Kexin Zheng, et al. mBio. 2024 Apr;15(4):e03510-23.
+year: '2024'
+
+doi: 10.1128/mbio.03510-23
+journal_title: mBio
+journal_nlm_ta: mBio
+publisher_name: American Society for Microbiology
+
+keywords:
+- Plasmodium falciparum
+- α-spectrin
+- PfPI3K
+- ubiquitination
+- erythrocyte
+
+---

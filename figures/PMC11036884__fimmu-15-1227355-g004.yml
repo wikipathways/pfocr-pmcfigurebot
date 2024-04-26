@@ -1,0 +1,39 @@
+---
+figid: PMC11036884__fimmu-15-1227355-g004
+pmcid: PMC11036884
+image_filename: fimmu-15-1227355-g004.jpg
+figure_link: /pmc/articles/PMC11036884/figure/f4/
+number: Figure 4
+figure_title: ''
+caption: KEGG pathway enrichment analysis. Functional pathway analysis of DEPs with
+  KEGG pathway enrichment analysis. Analyses were performed on proteomic data obtained
+  from non-preconditioned microglia, 2 days after tMCAO (A1) and LPS-preconditioned
+  microglia 2 days after tMCAO (A2). All DEPs (│log2 FC│≥ 0.58 and q-value ≤ 0.05)
+  were submitted to the DAVID platform for KEGG pathway enrichment analysis. The subsequent
+  list was filtered for pathways with a Fisher’s Exact p-value ≤ 0.05, which were
+  considered to be significantly enriched. (As indicated, circle size represents the
+  number of proteins associated with the respective enriched pathway, color scale
+  specifies the level of significance. The experimental groups A1/A2_up/down, denoting
+  the up-and downregulated groups from the single comparisons tMCAO vs. control and
+  tMCAO_PC vs. control, and thereafter the protein lists derived from the Venn diagrams,
+  are depicted on the x-axis).
+article_title: Impact of inflammatory preconditioning on murine microglial proteome
+  response induced by focal ischemic brain injury.
+citation: Dario Lucas Helbing, et al. Front Immunol. 2024;15:1227355.
+year: '2024'
+
+doi: 10.3389/fimmu.2024.1227355
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- mice
+- inflammatory preconditioning
+- neuroinflammation
+- ischemic stroke
+- microglia
+- type I interferons
+- phagocytosis
+
+---

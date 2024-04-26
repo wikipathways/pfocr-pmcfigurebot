@@ -1,0 +1,37 @@
+---
+figid: PMC11009265__41597_2024_3171_Fig5_HTML
+pmcid: PMC11009265
+image_filename: 41597_2024_3171_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC11009265/figure/Fig5/
+number: Fig. 5
+figure_title: ''
+caption: 'An Overview of the PKT Human Disease Mechanism Knowledge Graph. This figure
+  provides a high-level overview of the primary node and edge types in the PKT Human
+  Disease Mechanism knowledge graph. (a) illustrates the relationships between the
+  core set of Open Biological and Biomedical Ontology (OBO) Foundry ontologies when
+  including their imported ontologies (as of August 2022). (b) illustrates the edges
+  or triples that are added to the core set of merged ontologies in (a). Shared colors
+  between (a) and (b) represent a single resource. For example, chemicals, cofactors,
+  and catalysts share the same color (maroon) and are part of ChEBI. This is the same
+  for the RO, which is represented in (b) as the black lines between nodes. The green
+  and yellow rectangles indicate data sources that are not from an OBO Foundry ontology
+  and the specific ontology used to integrate them with the core set of ontologies
+  in (a). For example, variant, transcript, and gene data are connected to the core
+  ontology set via the SO. Acronyms: CL (Cell ontology); CLO (Cell Line Ontology);
+  ChEBI (Chemical Entities of Biological Interest); GO (Gene Ontology); HPO (Human
+  Phenotype Ontology); Mondo (Mondo Disease Ontology); PRO (Protein Ontology); PW
+  (Pathway Ontology); SO (Sequence Ontology); VO (Vaccine Ontology); Uberon (Uber-Anatomy
+  Ontology).'
+article_title: An open source knowledge graph ecosystem for the life sciences.
+citation: Tiffany J. Callahan, et al. Sci Data. 2024;11:363.
+year: '2024'
+
+doi: 10.1038/s41597-024-03171-w
+journal_title: Scientific Data
+journal_nlm_ta: Sci Data
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Software
+
+---

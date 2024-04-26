@@ -1,0 +1,30 @@
+---
+figid: PMC11033397__fphar-15-1359832-g001
+pmcid: PMC11033397
+image_filename: fphar-15-1359832-g001.jpg
+figure_link: /pmc/articles/PMC11033397/figure/F1/
+number: FIGURE 1
+figure_title: ''
+caption: Differentially expressed genes (DEGs), Gene Ontology (GO), Kyoto Encyclopedia
+  of Genes and Genomes (KEGG) pathway and Gene Set Variation Analysis (GSVA). (A)
+  DEGs between AML and normal samples. (B) GO annotations of upregulated and (C) downregulated
+  genes. (D) KEGG pathways of upregulated and (E) downregulated genes. (F) GSVA analysis
+  of Hallmark pathways between AML and normal samples.
+article_title: Identification of hub genes and potential molecular mechanisms related
+  to drug sensitivity in acute myeloid leukemia based on machine learning.
+citation: Boyu Zhang, et al. Front Pharmacol. 2024;15:1359832.
+year: '2024'
+
+doi: 10.3389/fphar.2024.1359832
+journal_title: Frontiers in Pharmacology
+journal_nlm_ta: Front Pharmacol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- LAML
+- machine learning
+- prognostic models
+- predicting drugs
+- molecular docking
+
+---

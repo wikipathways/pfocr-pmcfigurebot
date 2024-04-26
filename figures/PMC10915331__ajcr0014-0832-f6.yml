@@ -1,0 +1,40 @@
+---
+figid: PMC10915331__ajcr0014-0832-f6
+pmcid: PMC10915331
+image_filename: ajcr0014-0832-f6.jpg
+figure_link: /pmc/articles/PMC10915331/figure/fig06/
+number: Figure 6
+figure_title: ''
+caption: The CXCL12/CXCR4 axis was a potential cell-to-cell communication manner between
+  CXCL12+ TAMs and PD-L1+ Bregs. A. A circle plot of the number of cellular communications
+  in six identified types of cell populations in liver tissue. The width represents
+  the number of cell interactions. B. A circle plot of the weights/strength of the
+  cellular communications in six identified types of cell populations in liver tissue.
+  The width represents the weights/strength of the interaction. C. Depiction of all
+  the significant ligand-receptor pairs that contribute to the signaling sending from
+  three macrophage types to four B cell types. The dot color and size represents the
+  calculated communication probability and p-values. The p-values were computed using
+  a one-sided permutation test. D. Circle plots of the CXCL12-CXCR4 signaling pathway
+  network between six identified types of cell populations. The width represents the
+  weights/strength of the interaction. E. A heatmap showing the relative importance
+  of each cell group based on the computed four network centrality measures of the
+  CXCL12 signaling pathway network.
+article_title: Tumor-associated macrophages promoting PD-L1 expression in infiltrating
+  B cells through the CXCL12/CXCR4 axis in human hepatocellular carcinoma.
+citation: Sen-Lin Lian, et al. Am J Cancer Res. 2024;14(2):832-853.
+year: '2024'
+
+doi: 10.62347/ZIAX8828
+journal_title: American Journal of Cancer Research
+journal_nlm_ta: Am J Cancer Res
+publisher_name: e-Century Publishing Corporation
+
+keywords:
+- Regulatory B cells
+- CXCL12
+- CXCR4
+- hepatocellular carcinoma
+- tumor-associated macrophages
+- cancer-associated fibroblasts
+
+---

@@ -1,0 +1,41 @@
+---
+figid: PMC11004224__gr1
+pmcid: PMC11004224
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC11004224/figure/fig1/
+number: Fig. 1
+figure_title: ''
+caption: Methodological strategyA. Initial cluster of genes associated with obesity
+  and particulate matter in the Comparative Toxicogenomics Database (CTD). B. The
+  genes underwent Overrepresentation Enrichment Analysis (ORA) on the WEB-based GEne
+  SeT AnaLysis Toolkit (WebGestalt) platform using the 'KEGG pathway,' 'Wikipathway,'
+  'Panther,' and 'Reactome' repositories. C. Selection of transcriptome database in
+  the GEO Gene Expression Omnibus database for in silico analysis through cases and
+  controls. D. Analysis of differential gene expression on the Morpheus Broad Institute
+  platform. E. Estimation of Spearman correlation between transcription due to PM2.5
+  exposure and high-fat diet (HFD) intake. F. Biological association through protein-protein
+  interaction networks on the STRING platform. G. Causal inference with the mechanistic
+  interaction of PM2.5 with HFD. H. Causal typology with the Rothman model. I. Analysis
+  of biological pathway enrichment on the WebGestalt. J. Identification of gene expression
+  type in the National Center for Biotechnology Information (NCBI). K. Promoter analysis
+  using the Eukaryotic Promoter Database (EPD) platforms. L. Analysis of transcriptional
+  regulatory elements on the Multiple Expectation Maximization for Motif Elicitation
+  (MEME suite), TomTom, JASPAR2022, EMBOSS CpGplot program, and UCSC Genome Browser
+  platforms.
+article_title: 'PM2.5, component cause of severe metabolically abnormal obesity: An
+  in silico, observational and analytical study.'
+citation: Sagrario Lobato, et al. Heliyon. 2024 Apr 15;10(7):e28936.
+year: '2024'
+
+doi: 10.1016/j.heliyon.2024.e28936
+journal_title: Heliyon
+journal_nlm_ta: Heliyon
+publisher_name: Elsevier
+
+keywords:
+- Metabolically abnormal obesity
+- Airborne particulate matter
+- Causality
+- Transcriptional signatures
+
+---

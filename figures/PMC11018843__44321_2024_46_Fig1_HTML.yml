@@ -1,0 +1,42 @@
+---
+figid: PMC11018843__44321_2024_46_Fig1_HTML
+pmcid: PMC11018843
+image_filename: 44321_2024_46_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC11018843/figure/Fig1/
+number: Figure 1
+figure_title: The main cytosolic DNA sensors and their downstream pathways
+caption: Functional dimeric cGAS catalyzes the conversion of ATP and GTP into 2,3-cGAMP
+  when bound to dsDNA. DDX41 only binds one strand of DNA, and its helicase domain
+  reserves the ability to unwind or anneal DNA strands. The HIN200 family members,
+  IFI16 and AIM2, tend to oligomerize in order to detect dsDNA. In addition to detecting
+  dsDNA, ZBP1 is capable of transforming Z-DNA to B-DNA. cGAS, DDX41, and IFI16 all
+  activate STING to initiate their downstream effects, with cGAS relying on 2,3-cGAMP,
+  while IFI16 and DDX41 require direct self-binding. STING mainly triggers the release
+  of inflammatory cytokines such as IFN-I through the TBK1/IKKε-IRF3/STAT6 pathway
+  and also contributes to autophagy and metabolic alterations. ZBP1 can activate the
+  TBK1-IRF3 pathway independently of STING and induce necroptosis or apoptosis depending
+  on the balance between RIPK1 and RIPK3. Unlike other cytosolic DNA sensors, AIM2
+  does not exert its biological effect through STING or IFN-I; instead, AIM2 takes
+  part in the formation of an inflammasome. IFI16 also recruits inflammasomes, but
+  the mechanism that determines whether IFI16 prefers to bind inflammasomes or STING
+  remains unknown.
+article_title: 'Cytosolic DNA sensors in neurodegenerative diseases: from physiological
+  defenders to pathological culprits.'
+citation: Jiatian Xie, et al. EMBO Mol Med. 2024 Apr;16(4):678-699.
+year: '2024'
+
+doi: 10.1038/s44321-024-00046-w
+journal_title: EMBO Molecular Medicine
+journal_nlm_ta: EMBO Mol Med
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cytosolic DNA
+- Neurodegeneration
+- STING
+- Innate Immune
+- Type 1 Interferon
+- Immunology
+- Neuroscience
+
+---

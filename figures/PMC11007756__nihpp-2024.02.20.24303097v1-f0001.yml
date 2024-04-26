@@ -1,0 +1,32 @@
+---
+figid: PMC11007756__nihpp-2024.02.20.24303097v1-f0001
+pmcid: PMC11007756
+image_filename: nihpp-2024.02.20.24303097v1-f0001.jpg
+figure_link: /pmc/articles/PMC11007756/figure/F1/
+number: Fig. 1
+figure_title: ACOD1 is induced after TLR7 activation in BMDM
+caption: a) Western blot showing ACOD1 protein expression in WT and Acod1−/− BMDM
+  treated with imiquimod (1 μg/mL) at 0, 3, 12 and 24 hours. b) Western blot showing
+  ACOD1 protein expression evaluated in WT, Acod1−/−, and Ifnar1−/− BMDM treated in
+  vitro with imiquimod (1 ug/mL) for 0, 12 and 24 hours. RNA seq was performed in
+  BMDM treated with IMQ for 12h. c) Heatmap representation of the genes induced in
+  BMDM after 12h of IMQ stimulation. d) Gene ontology analysis of genes differentially
+  expressed between control BMDM and IMQ treated BMDM. e) Heatmap representation of
+  the genes associated to metabolic pathways in BMDM after 12h of IMQ stimulation.
+  RNA-seq data was analyzed with DESeq2. The log-transformed DESeq2-normalized read
+  counts were further scaled for each gene individually using the mean expression
+  levels and their corresponding standard deviations to facilitate visualization in
+  a heatmap. Three blots were processed in parallel for a and b, n = 3. Six independent
+  mice were chosen from each genotype for c, d, and e. n = 6.
+article_title: The aconitate decarboxylase 1/itaconate pathway modulates immune dysregulation
+  and associates with cardiovascular disease markers in SLE.
+citation: Eduardo Patiño-Martinez, et al. medRxiv. 2024 Feb 22:2024.02.20.24303097.
+year: '2024'
+
+doi: 10.1101/2024.02.20.24303097
+journal_title: medRxiv
+journal_nlm_ta: medRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+---

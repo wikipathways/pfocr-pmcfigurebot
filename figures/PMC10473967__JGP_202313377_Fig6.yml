@@ -1,0 +1,34 @@
+---
+figid: PMC10473967__JGP_202313377_Fig6
+pmcid: PMC10473967
+image_filename: JGP_202313377_Fig6.jpg
+figure_link: /pmc/articles/PMC10473967/figure/fig6/
+number: Figure 6
+figure_title: ''
+caption: Gene enrichment analysis based on RNA-seq data of replated (35 + 2 d) vs.
+  non-replated control (37 d) hESC-CMs. hESC-CMs grown for 35 d on laminin-coated
+  glass coverslips were detached, replated on laminin-coated glass coverslips, and
+  grown for an additional 2 d. Gene expression was compared with 37-d-old controls
+  (fold change cutoff 1.5; n = 3). (A and B) Enriched biological process categories
+  related to (A) ECM and cell adhesion, and (B) muscle development and function as
+  demonstrated by GO analysis of upregulated genes using the functional enrichment
+  analysis web tool WebGestalt. Sorted by −log P value ranking (Fisher’s exact test)
+  with P < 0.05 set as the threshold. (C) IPA (Qiagen) revealed canonical pathways
+  involved in mechanosensation/-transduction. Integrin-, G-protein- and calcium-associated
+  pathways are indicated with a threshold of P < 0.05. Significance values (P value
+  of overlap) for canonical pathways are calculated by the right-tailed Fisher’s exact
+  test; n = 3 culture dishes from three differentiations. Combinations of black-,
+  white-, or gray-striped bars refer to the involvement of signaling in two of the
+  pathway categories as indicated by the legend.
+article_title: Myosin expression and contractile function are altered by replating
+  stem cell–derived cardiomyocytes.
+citation: Felix Osten, et al. J Gen Physiol. 2023 Nov 6;155(11):e202313377.
+year: '2023'
+
+doi: 10.1085/jgp.202313377
+journal_title: The Journal of General Physiology
+journal_nlm_ta: J Gen Physiol
+publisher_name: Rockefeller University Press
+
+keywords:
+---

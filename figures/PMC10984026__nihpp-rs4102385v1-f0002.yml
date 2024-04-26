@@ -1,0 +1,36 @@
+---
+figid: PMC10984026__nihpp-rs4102385v1-f0002
+pmcid: PMC10984026
+image_filename: nihpp-rs4102385v1-f0002.jpg
+figure_link: /pmc/articles/PMC10984026/figure/F2/
+number: 'Figure 2:'
+figure_title: Transcriptomic analysis of H460 parental and CD109 deficient cells
+caption: A) Heatmap showing the top 20 up- and down-regulated genes in the CD109 deficient
+  cells based on the average log2 fold change of H2E vs. H460 and H1J vs. H460. The
+  heatmap color code represents row z-scores based on transformed expression counts.
+  B) Enrichment analysis of genes differentially expressed in both CD109 deficient
+  clones as compared to H460 parental cells was performed with Gene Ontology (GO)
+  cellular component terms. All significantly enriched GO terms are shown. C) Enrichment
+  analysis performed with Hallmark pathway gene sets from MSigDb. All significantly
+  enriched pathways are shown. The p-value of the enrichment is indicated by color.
+  The number of differentially expressed genes matching the GO terms and pathways
+  is indicated by dot size.
+article_title: CD109 drives pro-tumorigenic cell properties in human non-small cell
+  lung cancer through interaction with desmoglein-2.
+citation: Wiebke Lückstädt, et al. Res Sq. 2024 Mar 22:rs.3.rs-4102385.
+year: '2024'
+
+doi: 10.21203/rs.3.rs-4102385/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+
+keywords:
+- CD109
+- desmoglein-2
+- non-small cell lung cancer
+- lung adenocarcinoma
+- cell adhesion
+- epithelial cell growth
+
+---

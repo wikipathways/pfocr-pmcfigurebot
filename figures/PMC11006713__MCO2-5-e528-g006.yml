@@ -1,0 +1,41 @@
+---
+figid: PMC11006713__MCO2-5-e528-g006
+pmcid: PMC11006713
+image_filename: MCO2-5-e528-g006.jpg
+figure_link: /pmc/articles/PMC11006713/figure/mco2528-fig-0001/
+number: FIGURE 1
+figure_title: ''
+caption: Aberrant expression of lanosterol synthase (LSS) in human cancer tissues.
+  (A and B) The RNA sequencing results of adjacent tissues (Pc) and cancer tissues
+  (Ca) of colorectal cancer (CRC) patients in TCGA database were analyzed. Gene Ontology
+  (GO) pathway enrichment (A) and significantly differentially expressed genes in
+  cholesterol metabolism (B) were performed as indicated. (C and D) The expression
+  of LSS gene in cancer tissues of CRC or breast cancer (BRCA) patients. The sample
+  size is shown in the figure. The relevant data were obtained from GEPIA database.
+  (E and F) The expression of LSS gene in different stages of CRC or BRCA. The relevant
+  data were obtained from GEPIA database. (G and H) The correlation between LSS gene
+  expression and survival in CRC or BRCA patients. The sample size is shown in the
+  figure. The relevant data were obtained from GEPIA database. The survival rates
+  were analyzed by Kaplan–Meier survival analysis. (I) The expression of LSS protein
+  in cancer tissues of CRC or BRCA patients. The relevant data were obtained from
+  UALCAN database. (J) Protein levels of LSS in cancer and paracancerous tissues of
+  CRC patients. All data represent the mean ± S.E.M. Except (D), which was analyzed
+  with Gehan–Breslow–Wilcoxon test, the rest were analyzed with Student's t‐test (*p < 0.05,
+  **p < 0.01 and S.E.M., Standard Error of Mean; TCGA, The Cancer Genome Atlas Program).
+article_title: Lanosterol synthase deficiency promotes tumor progression by orchestrating
+  PDL1‐dependent tumor immunosuppressive microenvironment.
+citation: Yuan Gao, et al. MedComm (2020). 2024 Apr;5(4):e528.
+year: '2024'
+
+doi: 10.1002/mco2.528
+journal_title: MedComm
+journal_nlm_ta: MedComm (2020)
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- lanosterol synthase
+- programmed cell death ligand 1
+- tumor immunity
+- tumor microenvironment
+
+---

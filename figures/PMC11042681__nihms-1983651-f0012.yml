@@ -1,0 +1,40 @@
+---
+figid: PMC11042681__nihms-1983651-f0012
+pmcid: PMC11042681
+image_filename: nihms-1983651-f0012.jpg
+figure_link: /pmc/articles/PMC11042681/figure/F12/
+number: Extended Data Fig. 4 |
+figure_title: Human islets and EndoC-βH1 cells present an extensive overlap in the
+  innate immune response to IL-1β and IFN-α (related to  and )
+caption: 'a, Diagram representation of the upregulated (red), downregulated (blue),
+  and unchanged genes (black) in EndoC-βH1 cells treated with IL-1β and IFN-α compared
+  to PBS. Statistical analyses were performed using the Benjamini-Hochberg procedure
+  and genes were filtered for FDR<0.05. b, Pathway enrichment analyses of upregulated
+  and downregulated genes in EndoC-βH1 cells treated with IL-1β and IFN-α compared
+  to PBS. c, Venn diagram representation of the commonly upregulated (red), downregulated
+  (blue), and unchanged genes (black) of the intersected genes in EndoC-βH1 and human
+  islets cells treated with IL-1β and IFN-α compared to PBS. Statistical analyses
+  were performed using the Benjamini-Hochberg procedure and genes were filtered for
+  FDR<0.05. d, Pathway enrichment analyses of commonly upregulated and downregulated
+  genes in human islets and EndoC-βH1 cells treated with IL-1β and IFN-α compared
+  to PBS. e-f, Volcano-plot representation of differentially expressed genes in human
+  islets (e) and EndoC-βH1 cells (f) treated with IL-1β and IFN-α compared to PBS.
+  Innate immune genes are depicted in red and show a near absolute overlap between
+  human islets and EndoC-βH1 cells. Human islets: n = 15 biologically independent
+  samples. EndoC-βH1 cells: n = 6 independent experiments/group. Statistical analyses
+  were performed using the Benjamini-Hochberg procedure. P values of pathway enrichment
+  analysis were calculated according to the hypergeometric test based on the number
+  of physical entities present in both the predefined set and user-specified list
+  of physical entities. Source numerical data are available in source data.'
+article_title: Redox regulation of m6A methyltransferase METTL3 in β-cells controls
+  the innate immune response in type 1 diabetes.
+citation: Dario F. De Jesus, et al. Nat Cell Biol. ;26(3):421-437.
+year: '2024'
+
+doi: 10.1038/s41556-024-01368-0
+journal_title: Nature cell biology
+journal_nlm_ta: Nat Cell Biol
+publisher_name: ''
+
+keywords:
+---

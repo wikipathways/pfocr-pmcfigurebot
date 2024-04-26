@@ -1,0 +1,30 @@
+---
+figid: PMC11020672__12880_2024_1255_Fig4_HTML
+pmcid: PMC11020672
+image_filename: 12880_2024_1255_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC11020672/figure/Fig4/
+number: Fig. 4
+figure_title: ''
+caption: Association of deep learning radiomics signatures. (A) Training cohort. (B)
+  Validation cohort. Distribution difference of signatures in LN status of each cohort
+  (Mann-Whitney U test, * P<0.05, ** P<0.01, ***P<0.001). Model signatures were correlated
+  in the training cohort, especially in the radiomics and GoogLeNetnet signatures
+  (PCC, r = 0.59, P < 0.01), and also in the validation cohort (PCC, r = 0.32, P = 0.01)
+article_title: Lymph node metastasis prediction and biological pathway associations
+  underlying DCE-MRI deep learning radiomics in invasive breast cancer.
+citation: Wenci Liu, et al. BMC Med Imaging. 2024;24:91.
+year: '2024'
+
+doi: 10.1186/s12880-024-01255-y
+journal_title: BMC Medical Imaging
+journal_nlm_ta: BMC Med Imaging
+publisher_name: BioMed Central
+
+keywords:
+- Invasive breast cancer
+- Lymph node metastasis
+- Radiomics
+- Deep learning
+- Biologic pathway
+
+---

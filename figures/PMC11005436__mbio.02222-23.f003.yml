@@ -1,0 +1,41 @@
+---
+figid: PMC11005436__mbio.02222-23.f003
+pmcid: PMC11005436
+image_filename: mbio.02222-23.f003.jpg
+figure_link: /pmc/articles/PMC11005436/figure/F3/
+number: Fig 3
+figure_title: ''
+caption: Network propagation analysis connects TRAF2, non-canonical NF-κB signaling,
+  and HIV infection. (A) Data integration pipeline overview. The top E3 hits from
+  this study and human proteins with prior association with HIV were integrated using
+  network propagation. The significant subnetwork from the propagation was further
+  clustered into 30 subnetwork pieces (or “clusters”), and known functional and physical
+  connections between each cluster and the top E3s from this study were added. This
+  analysis serves to highlight the pathways and complexes that are associated with
+  both HIV pathogenesis and the E3s from this study. (B) Cluster 8 (C8) extracted
+  from the network propagation results possesses significant enrichment in NF-κB-related
+  pathway terms. E3s from this study are annotated in blue diamonds. Gray circles
+  denote human proteins within the base network. The size of the circle denotes the
+  −log10(P value) of the propagation result. (C) Western blot analysis probing for
+  non-canonical NF-κB activation (marked by the processing of p100 to p52) and non-canonical
+  NF-κB activation (marked by IкBα degradation), with a GAPDH loading control in gene
+  knockouts in primary activated CD4+ T cells from healthy human donor AR, which is
+  one representative donor of three (Fig. S3).
+article_title: CRISPR-Cas9 screen of E3 ubiquitin ligases identifies TRAF2 and UHRF1
+  as regulators of HIV latency in primary human T cells.
+citation: Ujjwal Rathore, et al. mBio. 2024 Apr;15(4):e02222-23.
+year: '2024'
+
+doi: 10.1128/mbio.02222-23
+journal_title: mBio
+journal_nlm_ta: mBio
+publisher_name: American Society for Microbiology
+
+keywords:
+- human immunodeficiency virus
+- ubiquitin E3 ligases
+- HIV latency
+- CRISPR screen
+- resting primary T cells
+
+---

@@ -1,0 +1,42 @@
+---
+figid: PMC11039321__gr4
+pmcid: PMC11039321
+image_filename: gr4.jpg
+figure_link: /pmc/articles/PMC11039321/figure/fig4/
+number: Figure 4
+figure_title: ''
+caption: 'Transcriptome profiles of GIL-6, GIO-6, and IC7 differ from natural cytokines.A,
+  venn diagram shows an overlap of genes that are overexpressed following natural
+  or synthetic cytokine stimulation of Ba/F3 cells expressing gp130, LIFR, and IL-6R.
+  Filter: adjusted p < 0.05 including false discovery rate correction; |FC| >=1.5.
+  B, heat map shows genes that are significantly increased by IC7, GIL-6, GIO-6, IL-6,
+  or LIF versus untreated Ba/F3 cells expressing gp130, LIFR, and IL-6R. Scale bar
+  shows log fold change. Filter: adjusted p < 0.05 including false discovery rate
+  correction; |FC| >=1.5. C, gene ontology analysis of common gene pathways that are
+  activated following stimulation of Ba/F3 cells expressing gp130, LIFR, and IL-6R
+  following stimulation with natural cytokines IL-6, LIF, and synthetic cytokines.
+  Filter: adjusted p < 0.05 including false discovery rate correction; |FC| >=1.5.
+  X-axis: number of genes involved in common gene pathway.'
+article_title: Engineered interleukin-6-derived cytokines recruit artificial receptor
+  complexes and disclose CNTF signaling via the OSMR.
+citation: Puyan Rafii, et al. J Biol Chem. 2024 May;300(5):107251.
+year: '2024'
+
+doi: 10.1016/j.jbc.2024.107251
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- gp130
+- LIFR
+- OSMR
+- IL-6
+- LIF
+- CNTF
+- cytokine
+- interleukin
+- signaling
+- receptor
+
+---

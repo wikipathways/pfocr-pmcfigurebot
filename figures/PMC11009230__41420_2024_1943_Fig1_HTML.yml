@@ -1,0 +1,37 @@
+---
+figid: PMC11009230__41420_2024_1943_Fig1_HTML
+pmcid: PMC11009230
+image_filename: 41420_2024_1943_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC11009230/figure/Fig1/
+number: Fig. 1
+figure_title: USP12 is highly expressed and linked to a poor prognosis, correlating
+  with the Hippo/YAP signaling pathway in gastric cancer
+caption: A Flow chart of deubiquitinating enzyme library screening in AGS cell lines.
+  Transfect AGS cells with 20uM siRNA to knockdown each of the 96 human DUB genes.
+  After 48 h, quantitative analysis of gene expression is performed by qRT-PCR. B
+  The classical target gene CTGF was used to indicate YAP. The siRNA screening data
+  demonstrated that USP12 was required for CTGF gene expression in AGS cells. C The
+  expression of USP12 is significantly increased in gastric cancer tissues compared
+  to normal tissues in the TCGA database (FC = 1.18, P < 0.001). *P < 0.05; **P < 0.01;
+  ***P < 0.001. D Kaplan−Meier analysis comparing the overall shows that high USP12
+  expression is associated with poor prognosis in gastric cancer patients from public
+  meta-analysis data (https://kmplot.com/analysis/). E The TCGA database provided
+  transcriptome samples from gastric cancer patients, which were divided into two
+  cohorts based on USP12 expression levels (high vs. low, 50% each). Gene Set Enrichment
+  Analysis (GSEA) was conducted to assess the impact of USP12 expression levels on
+  the enrichment of YAP signature genes. F Heatmap of correlation analysis between
+  USP12 expression and YAP target genes in TCGA data of gastric cancer.
+article_title: USP12 facilitates gastric cancer progression via stabilizing YAP.
+citation: Peng Zhang, et al. Cell Death Discov. 2024;10:174.
+year: '2024'
+
+doi: 10.1038/s41420-024-01943-2
+journal_title: Cell Death Discovery
+journal_nlm_ta: Cell Death Discov
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Gastric cancer
+- Oncogenes
+
+---

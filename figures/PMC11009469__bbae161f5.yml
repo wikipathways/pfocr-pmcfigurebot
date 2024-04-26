@@ -1,0 +1,37 @@
+---
+figid: PMC11009469__bbae161f5
+pmcid: PMC11009469
+image_filename: bbae161f5.jpg
+figure_link: /pmc/articles/PMC11009469/figure/f5/
+number: Figure 5
+figure_title: ''
+caption: Case study. (A) Pathway enrichment analysis of the benchmark and candidate
+  genes associated with diabetes mellitus. The bubble chart on the right illustrates
+  significantly enriched pathways related to hypoglycemic pathways. The list on the
+  left details the enriched genes, including those from the training set and new candidates
+  predicted by KDGene. (B) Visualization of links of known and predicted genes for
+  diabetes mellitus on the PPI network. (C) For diabetes mellitus, the observed number
+  of network links is significantly larger than the random control (P = 2.05E-88,
+  binomial test). (D) Visualization of links of known and predicted genes for Atrophic
+  Gastritis on the PPI network. (E) The observed number of network links is significantly
+  larger than the random control (P = 3.16E-30, binomial test). The statistical significance
+  of the P-values for the predicted genes in both representative diseases suggests
+  that the interactions observed on the PPI network are not due to random chance and
+  may indicate biologically meaningful relationships relevant to the pathophysiology
+  of the conditions.
+article_title: 'KDGene: knowledge graph completion for disease gene prediction using
+  interactional tensor decomposition.'
+citation: Xinyan Wang, et al. Brief Bioinform. 2024 May;25(3):bbae161.
+year: '2024'
+
+doi: 10.1093/bib/bbae161
+journal_title: Briefings in Bioinformatics
+journal_nlm_ta: Brief Bioinform
+publisher_name: Oxford University Press
+
+keywords:
+- disease gene prediction
+- knowledge graph completion
+- tensor decomposition
+
+---

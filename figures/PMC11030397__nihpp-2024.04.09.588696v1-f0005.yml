@@ -1,0 +1,39 @@
+---
+figid: PMC11030397__nihpp-2024.04.09.588696v1-f0005
+pmcid: PMC11030397
+image_filename: nihpp-2024.04.09.588696v1-f0005.jpg
+figure_link: /pmc/articles/PMC11030397/figure/F5/
+number: 'Figure 5:'
+figure_title: Knockout strains reveal antibiotic-specific effects of purine and pyrimidine
+  synthesis on ΔMIC for streptomycin and carbenicillin
+caption: 'A) Simulation: Genes identified by FBA and OptKnock that are involved in
+  nucleotide synthesis and that increase ATPsyn/biomass above wildtype (wt). Dark
+  blue bars indicate pyrC and purK. FBA parameters in . Positions of PyrC and PurK
+  in nucleotide synthesis pathway shown in .B) Simulations: FBA predicted effects
+  on ATP synthesis (ATPsyn) for wt, ΔpyrC, and ΔpurK.C) Simulation: FBA predicted
+  effects on biomass for wt, ΔpyrC, and ΔpurK.D) Removal of pyrC increases [ATP],
+  while removal of purK decreases [ATP], relative to wildtype. Error bars = SEM. Average
+  from 3 biological replicates. * indicates different than wildtype (P < 0.01, two-tailed
+  t-test). For D and E, raw data in  and all P values in .E) Removal of pyrC and purK
+  decreases growth rate relative to wildtype. Error bars = SEM. Average from ≥ 5 biological
+  replicates. * indicates different than control (P < 0.001, two-tailed t-test). Residuals
+  for curve fitting in .F) Removal of pyrC and purK increases log[ATP]/growth rate
+  relative to wildtype. Data from panels D and E.G) ΔMIC of streptomycin (strp). Error
+  bars = SEM. Average plotted from ≥ 5 biological replicates. * = different than wildtype
+  (two-tailed t-test, P = 0.038), ** not different than zero (one-tailed t-test, P
+  = 0.211). For G and H, raw data in .H) ΔMIC of carbenicillin (carb). Error bars
+  = SEM. Average plotted from ≥ 4 biological replicates. * = different than wildtype
+  (P < 0.025, two-tailed t-test). ** not different than zero (one-tailed t-test, P
+  = 0.211).'
+article_title: Purine and pyrimidine synthesis differently affect the strength of
+  the inoculum effect for aminoglycoside and β-lactam antibiotics.
+citation: Daniella M. Hernandez, et al. bioRxiv. 2024 Apr 9:2024.04.09.588696.
+year: '2024'
+
+doi: 10.1101/2024.04.09.588696
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+---

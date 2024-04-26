@@ -1,0 +1,46 @@
+---
+figid: PMC11011348__foods-13-01080-g005
+pmcid: PMC11011348
+image_filename: foods-13-01080-g005.jpg
+figure_link: /pmc/articles/PMC11011348/figure/foods-13-01080-f005/
+number: Figure 5
+figure_title: ''
+caption: 'Identifying the core metabolites: (A) The KEGG enrichment pathway bubble
+  map between X and J samples. (B) The flavone and flavonol biosynthesis pathways.
+  (C) Heatmap analysis of critical metabolites in the flavone and flavonol biosynthesis
+  pathways. (D) Associations between taste characteristics and metabolite data. Note:
+  (A) Each bubble in the figure represents a metabolic pathway (the top 20 with the
+  highest significance were selected according to p-value). The horizontal coordinate
+  where the bubble is located and the bubble size represent the influence factor size
+  of the path in the topology analysis, and the larger the size, the larger the influence
+  factor. The vertical coordinate where the bubble is located and the bubble color
+  represent the p-value of enrichment analysis (take the negative common logarithm,
+  i.e., −log10 p-value); the darker the color, the smaller the p-value, and the more
+  significant the enrichment degree; the enrichment factor represents the proportion
+  of the number of differential metabolites in this pathway in the total number of
+  annotated metabolites in this pathway. (B) The small circular nodes in the metabolic
+  pathway diagram represent metabolites; the metabolites labeled in red are the significantly
+  upregulated differential metabolites detected in the experiment (VIP > 1, p < 0.05,
+  fold change > 1), while the metabolites labeled in blue are the significantly downregulated
+  differential metabolites detected experimentally (VIP > 1, p < 0.05, fold change
+  > 1). The depth of the color indicates the degree of downward adjustment.'
+article_title: Distinct Changes in Metabolic Profile and Sensory Quality with Different
+  Varieties of Chrysanthemum (Juhua) Tea Measured by LC-MS-Based Untargeted Metabolomics
+  and Electronic Tongue.
+citation: Xing Tian, et al. Foods. 2024 Apr;13(7):1080.
+year: '2024'
+
+doi: 10.3390/foods13071080
+journal_title: Foods
+journal_nlm_ta: Foods
+publisher_name: MDPI
+
+keywords:
+- chrysanthemum (Juhua)
+- tea
+- metabolomics
+- sensory quality
+- LC-MS
+- electronic tongue
+
+---

@@ -1,0 +1,38 @@
+---
+figid: PMC11003870__nihms-1979791-f0007
+pmcid: PMC11003870
+image_filename: nihms-1979791-f0007.jpg
+figure_link: /pmc/articles/PMC11003870/figure/F7/
+number: Figure 7
+figure_title: Human autoimmune alopecia demonstrates a heightened IL-2 signaling gene
+  signature around hair follicles
+caption: A, E. Medium-power photomicrographs of hematoxylin and eosin (H&E) stained
+  tissue sections representative of regions of pathology in human scarring alopecia
+  (SA), alopecia areata (AA) and corresponding regions in healthy scalp skin (HS)
+  as denoted by the dashed boxes in  and . In (A), arrowheads indicate lymphocytic
+  inflammation around hair follicles, and asterisks indicate perifollicular fibrosis.
+  In (E), arrowheads indicate lymphocytic inflammation around hair follicles, and
+  asterisks indicate involutional hair follicles. Bar = 50 μm. B, F. Medium-power
+  images of spatial transcriptomic (ST) feature plots of the IL2-STAT5 pathway, and
+  CD8 and Treg gene signatures superimposed on the corresponding H&E images in (A)
+  and (E). C, H. Unsupervised clustering of ST data from two samples of SA and two
+  samples of HS, and two samples of AA and two samples of HS as demonstrated in  and
+  . D, I. Feature plots of SA, AA, and HS spatial transcriptomic data displaying the
+  IL2-STAT5 pathway, and CD8 T cell and Treg gene signatures. E, J. Violin plots of
+  the IL2-STAT5 pathway in ST clusters representative of microanatomic stromal niches
+  in diseased and healthy skin. Bar represents mean. Horizontal triangle in greyscale
+  denotes decreasing expression score moving left to right. Data are representative
+  of one independent 10X Visium capture area each for the scarring alopecia TMA sample
+  and the alopecia areata TMA sample.
+article_title: Regulatory T cells in skin mediate immune privilege of the hair follicle
+  stem cell niche.
+citation: Jarish N. Cohen, et al. Sci Immunol. ;9(91):eadh0152-eadh0152.
+year: '2024'
+
+doi: 10.1126/sciimmunol.adh0152
+journal_title: Science immunology
+journal_nlm_ta: Sci Immunol
+publisher_name: ''
+
+keywords:
+---

@@ -1,0 +1,43 @@
+---
+figid: PMC11014553__nihpp-2024.04.04.588144v1-f0002
+pmcid: PMC11014553
+image_filename: nihpp-2024.04.04.588144v1-f0002.jpg
+figure_link: /pmc/articles/PMC11014553/figure/F2/
+number: Fig. 2
+figure_title: Applications of Originator to pancreatic ductal adenocarcinoma (PDAC)
+  and placenta scRNA-seq data
+caption: a, UMAP plot of cells in PDAC tissues (top-left) separated into blood and
+  tissue-resident immune cells (bottom-left). UMAP plot of cells in PDAC tissues after
+  blood immune cell removal is shown on the top-right. b, The cell type proportion
+  barplot shows the immune cell types in blood and PDAC tumor tissue, as well as all
+  cell types in the tumor tissue before and after blood immune cell removal. c, Venn
+  diagram of the significant DE genes identified when comparing immune cells in blood
+  and tumor tissue. d, GSEA results comparing blood and tissue-resident immune cell
+  types. e, Overall CCC in the tumor tissues before and after blood immune cell removal.
+  f, CCC of MIF signaling pathway in tumor tissues before and after blood immune cell
+  removal. g, UMAP plot of cells in placenta tissues deciphered into fetal vs. maternal
+  origins and blood vs. placenta-resident cells. h, Cell type proportions in the different
+  compartments related to the placenta. i, Upset plot of significant DE genes identified
+  in common cell types between fetal and maternal placenta tissues. T-cell is excluded
+  due to the near 0 counts in the fetal tissue. j, GSEA results comparing fetal and
+  maternal tissues among common cell types. k-l, CCC of common cell types in fetal
+  (k) and maternal (l) tissues.
+article_title: 'Originator: Computational Framework Separating Single-Cell RNA-Seq
+  by Genetic and Contextual Information.'
+citation: Thatchayut Unjitwattana, et al. bioRxiv. 2024 Apr 6:2024.04.04.588144.
+year: '2024'
+
+doi: 10.1101/2024.04.04.588144
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+- scRNA-Seq
+- blood cell
+- genetic origin
+- tissue heterogeneity
+- placenta
+- cancer
+
+---

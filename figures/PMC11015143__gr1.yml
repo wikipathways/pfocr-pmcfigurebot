@@ -1,0 +1,33 @@
+---
+figid: PMC11015143__gr1
+pmcid: PMC11015143
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC11015143/figure/fig1/
+number: Fig. 1
+figure_title: ''
+caption: Identification of DEGs associated with G2M checkpoint. (A) Cell types annotation
+  of sc-RNA dataset GSE159115. (B) Distribution of G2M checkpoint pathway in sc-RNA
+  dataset GSE159115. (C) G2M checkpoint pathway enrichment analyzed by GSEA. (D, E)
+  Volcano and heatmap plots of G2M checkpoint-related genes, respectively. A deeper
+  shade of red signifies a more pronounced positive correlation, while a deeper shade
+  of blue signifies a more pronounced negative correlation. (For interpretation of
+  the references to color in this figure legend, the reader is referred to the Web
+  version of this article.)
+article_title: Characterization of a G2M checkpoint-related gene model and subtypes
+  associated with immunotherapy response for clear cell renal cell carcinoma.
+citation: Zhenwei Wang, et al. Heliyon. 2024 Apr 15;10(7):e29289.
+year: '2024'
+
+doi: 10.1016/j.heliyon.2024.e29289
+journal_title: Heliyon
+journal_nlm_ta: Heliyon
+publisher_name: Elsevier
+
+keywords:
+- Clear cell renal carcinoma
+- G2M checkpoint
+- Cell cycle
+- Immune infiltration
+- Drug sensitivity
+
+---

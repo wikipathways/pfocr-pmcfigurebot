@@ -1,0 +1,39 @@
+---
+figid: PMC11017668__12967_2024_5138_Fig2_HTML
+pmcid: PMC11017668
+image_filename: 12967_2024_5138_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC11017668/figure/Fig2/
+number: Fig. 2
+figure_title: ''
+caption: Heterogeneity among LUAD driven malignant metastasis mediated by cell metabolism
+  reprogramming. (A) Differences in hallmark gene set pathway activities scored by
+  per cell by GSVA between normal and malignant cells. (B) Metabolic pathway activities
+  in malignant cells from tissue of each origin. Statistically non-significant values
+  (random permutation rest P > 0.05) are shown as blank. (C) Percentage difference
+  (Delta means percent of cells) and log-fold change based on the Wilcoxon rank-sum
+  test results for differential expressed genes between malignant and normal cells.
+  (D) UpSet plot showing the intersection analysis of the 1290 MMR genes. (E) DO enrichment
+  analysis of 1290 MMR genes. (F, G) Violin plot (F), and Bubble plot (G) showing
+  enrichment scores of MMR gene sets for each cell type using AUCell, UCell, singscore,
+  ssGSEA, AddModulescore, and Scoring (the sum of scores from other algorithms) score.
+  (H) Violin plot showing the dynamic change of enrichment scores of MMR gene sets
+  for tissues of each origin using AUCell, UCell, singscore, ssGSEA, AddModulescore,
+  and Scoring score
+article_title: 'Architecting the metabolic reprogramming survival risk framework in
+  LUAD through single-cell landscape analysis: three-stage ensemble learning with
+  genetic algorithm optimization.'
+citation: Xinti Sun, et al. J Transl Med. 2024;22:353.
+year: '2024'
+
+doi: 10.1186/s12967-024-05138-2
+journal_title: Journal of Translational Medicine
+journal_nlm_ta: J Transl Med
+publisher_name: BioMed Central
+
+keywords:
+- Ensemble learning
+- Genetic algorithm
+- Metabolic reprogramming
+- Web tool
+
+---

@@ -1,0 +1,36 @@
+---
+figid: PMC11004232__fpls-15-1367862-g005
+pmcid: PMC11004232
+image_filename: fpls-15-1367862-g005.jpg
+figure_link: /pmc/articles/PMC11004232/figure/f5/
+number: Figure 5
+figure_title: ''
+caption: Analysis of metabolic pathways for DEMs. (A) Enrichment analysis of KEGG
+  pathways of metabolites with significant differences in abundance among treatments.
+  The X-axis displays the ratio of DEMs within the pathway to the total number of
+  identified metabolites. Higher ratios indicate greater enrichment of DEMs in the
+  pathway. Point color indicates the P-value from the hypergeometric test, with smaller
+  values indicating higher reliability and statistical significance. Dot size corresponds
+  to the number of DEMs within each pathway; larger dots represent more DEMs. (B)
+  Evaluation of co-expressed DEMs across diverse treatment conditions. (C) Enrichment
+  of co-expressed DEMs in metabolic pathways based on the average expression ratio
+  between sample groups (Log2 FC). Positive values signify upregulation, while negative
+  values indicate downregulation.
+article_title: Multiple omics revealed the growth-promoting mechanism of Bacillus
+  velezensis strains on ramie.
+citation: Xin Wang, et al. Front Plant Sci. 2024;15:1367862.
+year: '2024'
+
+doi: 10.3389/fpls.2024.1367862
+journal_title: Frontiers in Plant Science
+journal_nlm_ta: Front Plant Sci
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- plant growth-promoting rhizobacteria
+- microbial diversity
+- bacterial community
+- metabolomics correlation
+- ramie
+
+---

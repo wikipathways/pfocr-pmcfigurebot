@@ -1,0 +1,38 @@
+---
+figid: PMC11014479__nihpp-2024.03.31.587467v1-f0004
+pmcid: PMC11014479
+image_filename: nihpp-2024.03.31.587467v1-f0004.jpg
+figure_link: /pmc/articles/PMC11014479/figure/F4/
+number: Figure 4
+figure_title: CAR activation induces pro-inflammatory gene programs in Tregs
+caption: (A) Heatmap clustered by column (sample) and by row (gene) with top 100 most
+  differentially expressed genes between No Act Tregs, TCR Tregs, CAR Tregs, No Act
+  Teff, TCR Teff, and CAR Teff. (B) Venn diagram with genes upregulated in TCR Tregs,
+  CAR Tregs, TCR Teff, and CAR Teff in relation to their respective No Act cell types.
+  Number of genes and respective percentage of the total number of genes are indicated
+  in each intersection. (C) Top 20 protein-coding genes most differentially expressed
+  in CAR Tregs compared with TCR Tregs. FC, fold change; padj, adjusted p value. (D)
+  KEGG pathway gene set enrichment analysis (GSEA) of CAR Tregs vs. TCR Tregs. FDR,
+  false discovery rate.
+article_title: High affinity chimeric antigen receptor signaling induces an inflammatory
+  program in human regulatory T cells.
+citation: Russell W. Cochrane, et al. bioRxiv. 2024 Apr 1:2024.03.31.587467.
+year: '2024'
+
+doi: 10.1101/2024.03.31.587467
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+- Regulatory T cell
+- Chimeric Antigen Receptor
+- Receptor affinity
+- Synthetic immunology
+- Immune cell therapy
+- Immune tolerance
+- T cell signaling
+- Inflammatory cytokines
+- Human immunology
+
+---

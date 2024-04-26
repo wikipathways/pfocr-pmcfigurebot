@@ -1,0 +1,36 @@
+---
+figid: PMC11011405__ijms-25-03596-g006
+pmcid: PMC11011405
+image_filename: ijms-25-03596-g006.jpg
+figure_link: /pmc/articles/PMC11011405/figure/ijms-25-03596-f006/
+number: Figure 6
+figure_title: ''
+caption: Combined analysis of DEGs and DEPs. (A) A nine-quadrant diagram of protein
+  and mRNA associations. Each point represents one gene. Quadrants 1 and 9 indicate
+  the genes negatively correlated with proteins. Quadrants 3 and 7 show the genes
+  positively correlated with proteins. (B) Venn diagram illustrating the shared KEGG
+  pathway in the treatment and control groups. (C) p-value heatmap. (D) KEGG enrichment
+  analysis of DEGs with same expression trend as DEPs. Horizontal coordinate indicates
+  the functional enrichment factor (rich factor), vertical coordinate indicates the
+  negative logarithmic transformation of the p-value of the enrichment significance.
+  Each circle in the figure indicates a pathway, which is denoted by different colors,
+  and the size of the circle indicates the count.
+article_title: Integrated Transcriptome and Proteome Analysis Reveals the Regulatory
+  Mechanism of Root Growth by Protein Disulfide Isomerase in Arabidopsis.
+citation: Yanan Liu, et al. Int J Mol Sci. 2024 Apr;25(7):3596.
+year: '2024'
+
+doi: 10.3390/ijms25073596
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- protein disulfide isomerase
+- transcriptome
+- proteome
+- root
+- Arabidopsis
+- 16F16
+
+---

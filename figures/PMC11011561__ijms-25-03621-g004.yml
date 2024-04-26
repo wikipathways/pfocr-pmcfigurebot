@@ -1,0 +1,41 @@
+---
+figid: PMC11011561__ijms-25-03621-g004
+pmcid: PMC11011561
+image_filename: ijms-25-03621-g004.jpg
+figure_link: /pmc/articles/PMC11011561/figure/ijms-25-03621-f004/
+number: Figure 4
+figure_title: ''
+caption: 'Effect of the signal inhibition of IAI, VEGFR1, VEGFR2, and VEGFR2-(DME)
+  on DME pathophysiological processes (oxidative stress, inflammation, blood–retinal
+  barrier (BRB) alteration, and angiogenesis). Intensity of response (Full Signal)
+  for each scenario, according to the simulated models in diabetic macular edema (DME)
+  pathophysiological context. IAI: inhibition of intravitreal aflibercept injection
+  (IAI) targets (vascular endothelial growth factor A (VEGF-A), VEGF-B, placental
+  growth factor (PlGF), and Galectin 1 (Gal-1)) and receptors VEGFR1 and VEGFR2; VEGFR1-:
+  VEGFR1, PlGF, and VEGF-B inhibition; VEGFR2-: VEGFR2, VEGF-A, and Gal-1 inhibition;
+  VEGFR2-(DME): VEGFR2 pathway inhibition (including VEGF-A and Gal-1 ligands) while
+  maintaining VEGFR1 pathway activation (including VEGF-B and PlGF ligands). False
+  discovery rate (FDR) was obtained with the Mann–Whitney U test. * FDR < 0.005 and
+  <0.1 signal difference vs. IAI; ** FDR < 0.005 and ≥0.1 signal difference vs. IAI.'
+article_title: 'Aflibercept Off-Target Effects in Diabetic Macular Edema: An In Silico
+  Modeling Approach.'
+citation: Morgane Blanot, et al. Int J Mol Sci. 2024 Apr;25(7):3621.
+year: '2024'
+
+doi: 10.3390/ijms25073621
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- intravitreal aflibercept injection
+- systems biology
+- vascular endothelial growth factor
+- inflammation
+- oxidative stress
+- angiogenesis
+- blood–retinal barrier permeability
+- TPMS
+- machine learning
+
+---

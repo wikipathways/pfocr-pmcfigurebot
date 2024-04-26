@@ -1,0 +1,38 @@
+---
+figid: PMC11035860__LSA-2023-02547_FigS3
+pmcid: PMC11035860
+image_filename: LSA-2023-02547_FigS3.jpg
+figure_link: /pmc/articles/PMC11035860/figure/figS3/
+number: Figure S3
+figure_title: CRISPR/Cas9 gene targeting and inferred gene essentiality in cancer
+  cells exemplify porphyrin overdrive
+caption: A total of over 300 cancer cell lines from 27 major cancer types are analyzed.
+  The dataset represents 18 human tissue types that give rise to diverse groups of
+  cancer. Whole-genome loss-of-function growth phenotypes show most cancer cells only
+  require a partial heme biosynthetic pathway to survive. Gene essentiality is estimated
+  from gene X dependency inferred from CRISPR/Cas9 gRNA gene X KO. Low cell viability
+  and high cell viability with deletion of gene X indicate that the cancer cells have
+  a high and low dependence on gene X for survival, respectively. Thus, the lowest
+  and highest gene essentiality values are associated with the least and most profound
+  dependence of the cells on the loss of gene X, respectively. The UROD gene for the
+  fifth enzyme of the pathway has the highest essentiality in all types of cancers,
+  whereas genes encoding other enzymes are dispensable in many cancer cell lines.
+  Each of the rows in the 18 human tissue panels represents a distinct cancer cell
+  line for the pertinent tissue (ABCG2, ATP-binding cassette [ABC] transporter subfamily
+  G, member 2; ALAD, ALA dehydratase [aka porphobilinogen synthase]; ALAS1, 5-aminolevulinate
+  synthase 1; CPOX, coproporphyrinogen oxidase; FECH, ferrochelatase; FLVCR, feline
+  leukemia virus subgroup C receptor family; HMBS, hydroxymethylbilane synthase; PPOX,
+  protoporphyrinogen oxidase; SLC48A1, solute carrier family 48, member 1, a.k.a.
+  heme transporter HRG1; UROD, uroporphyrinogen III decarboxylase; UROS, uroporphyrinogen
+  III synthase).
+article_title: Porphyrin overdrive rewires cancer cell metabolism.
+citation: Swamy R Adapa, et al. Life Sci Alliance. 2024 Jul;7(7):e202302547.
+year: '2024'
+
+doi: 10.26508/lsa.202302547
+journal_title: Life Science Alliance
+journal_nlm_ta: Life Sci Alliance
+publisher_name: Life Science Alliance LLC
+
+keywords:
+---

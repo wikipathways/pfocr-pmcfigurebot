@@ -1,0 +1,41 @@
+---
+figid: PMC10996498__nihpp-2024.03.20.586022v1-f0007
+pmcid: PMC10996498
+image_filename: nihpp-2024.03.20.586022v1-f0007.jpg
+figure_link: /pmc/articles/PMC10996498/figure/F7/
+number: Figure 7
+figure_title: Model for ins-6 upregulation during dauer exit
+caption: In each ASJ neuron, GPCRs specific to food signals trigger a G-protein signaling
+  pathway that activates the transmembrane guanylyl cyclase DAF-11 to increase cGMP
+  production. GPCRs specific to pheromone (including the ascarosides ascr#8 and ascr#2)
+  inhibit this activation. cGMP activates cGMP-dependent transcription pathways such
+  as through the cGMP-dependent kinase EGL-4/PKG while also increasing calcium influx
+  through CNG-gated channels such as TAX-2/TAX-4. The resulting calcium increase can
+  both activate calcium-dependent transcription (such as through CMK-1/CaM-Kinase)
+  and promote secretion of neuropeptides, which may include INS-6, in a process dependent
+  on UNC-31/CAPS. Once secreted, these neuropeptides bind to receptors on the same
+  ASJ and/or the other ASJ neuron and, upon reaching a certain threshold, triggers
+  an autoregulatory positive feedback loop that further increases production and secretion
+  of INS-6 from the ASJs. This positive feedback promotes commitment to exit the dauer
+  state by causing an irreversible buildup of INS-6 production and secretion. INS-6
+  then signals to downstream tissues that execute the relevant dauer exit gene programs.
+article_title: Sensory integration of food availability and population density during
+  the diapause exit decision involves insulin-like signaling in Caenorhabditis elegans.
+citation: Mark G Zhang, et al. bioRxiv. 2024 Mar 25:2024.03.20.586022.
+year: '2024'
+
+doi: 10.1101/2024.03.20.586022
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+- dauer
+- diapause
+- decision
+- sensory
+- integration
+- insulin
+- neuropeptide
+
+---

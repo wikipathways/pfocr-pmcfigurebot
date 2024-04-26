@@ -1,0 +1,33 @@
+---
+figid: PMC11015226__lupus-2023-001065f01
+pmcid: PMC11015226
+image_filename: lupus-2023-001065f01.jpg
+figure_link: /pmc/articles/PMC11015226/figure/F1/
+number: Figure 1
+figure_title: ''
+caption: Overall schematics for screening of candidate lncRNAs. (1) WGCNA was applied
+  to high-throughput SLE B-cell transcriptome data (GSE164457) to construction networks
+  with co-expressed genes in the same module. Gene modules were linked to disease
+  phenotypes and the most clinically relevant module was selected to do an enrichment
+  analysis. (2) B cell RNA-seq data (E-GEAD-397) were analysed. LncRNA RP11-273G15.2
+  was in the critical module and differentially expressed between HCs and SLE. (3)
+  Distribution of RP11-273G15.2 was investigated at a single-cell level (GSE163121).
+  (4) Real-time PCR was used to validate the potential of RP11-273G15.2 as a biomarker
+  in an independent cohort. HCs, healthy control; SLE, systemic lupus erythematosus;
+  WGCNA, weighted gene coexpression network analysis.
+article_title: Novel potential lncRNA biomarker in B cells indicates essential pathogenic
+  pathway activation in patients with SLE.
+citation: Xinyi Zhu, et al. Lupus Sci Med. 2024;11(1):e001065.
+year: '2024'
+
+doi: 10.1136/lupus-2023-001065
+journal_title: Lupus Science & Medicine
+journal_nlm_ta: Lupus Sci Med
+publisher_name: BMJ Publishing Group
+
+keywords:
+- Lupus Erythematosus, Systemic
+- Interferon Type I
+- B-Lymphocytes
+
+---

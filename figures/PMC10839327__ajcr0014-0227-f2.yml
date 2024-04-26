@@ -1,0 +1,38 @@
+---
+figid: PMC10839327__ajcr0014-0227-f2
+pmcid: PMC10839327
+image_filename: ajcr0014-0227-f2.jpg
+figure_link: /pmc/articles/PMC10839327/figure/fig02/
+number: Figure 2
+figure_title: ''
+caption: 'EIF4EBP1 gene expression by breast cancer characteristics. A. Histogram
+  distribution of EIF4EBP1 expression in breast tumors in TCGA (1090 specimens), METABRIC
+  (1094 specimens), and SCAN-B (3069 specimens). B. Breast cancer subtype. ER+HER2-
+  (estrogen receptor positive, human epidermal growth factor receptor negative tumors),
+  HER2+, TNBC (triple negative breast cancer). C. Staging according to the American
+  Joint Committee on Cancer (AJCC). Stage is not available for the SCAN-B cohort.
+  D. Grading indicated according to AJCC. Counts for boxplots are indicated in the
+  x-axis. Units of EIF4EBP1 expression: TCGA - log2 transformed RSEM, METABRIC - log
+  intensity levels, and SCAN-B - log2 transformed CPM. The bolded center bar within
+  the box plots represents the median, the lower and upper box bounds represent the
+  25th and 75th percentiles, respectively, and the lower and upper tails represent
+  the minimum and maximum values, respectively.'
+article_title: High EIF4EBP1 expression reflects mTOR pathway activity and cancer
+  cell proliferation and is a biomarker for poor breast cancer prognosis.
+citation: Erek D Nelson, et al. Am J Cancer Res. 2024;14(1):227-242.
+year: '2024'
+
+doi: 10.62347/MTSD6746
+journal_title: American Journal of Cancer Research
+journal_nlm_ta: Am J Cancer Res
+publisher_name: e-Century Publishing Corporation
+
+keywords:
+- Bioinformatics
+- cap-dependent translation
+- mutational burden
+- prognostic biomarker
+- tumor progression
+- tumor microenvironment
+
+---

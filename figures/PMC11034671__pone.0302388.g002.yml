@@ -1,0 +1,29 @@
+---
+figid: PMC11034671__pone.0302388.g002
+pmcid: PMC11034671
+image_filename: pone.0302388.g002.jpg
+figure_link: /pmc/articles/PMC11034671/figure/pone.0302388.g002/
+number: Fig 2
+figure_title: Global gene expression changes across salmon life-stage
+caption: A) Relative liver expression of genes differentially expressed between any
+  time point in the fish cohort that experienced short photoperiod fish followed by
+  seawater transfer (FDR <0.05). Scaled expression is denoted as gene-scaled transcripts
+  per million. Genes were partitioned into seven co-expression clusters by hierarchical
+  clustering. Colored bars indicate cluster membership when correlation to the mean
+  cluster pattern was >0.5. Genes with correlation = <0.5 were excluded. B) Gene expression
+  trends over time by cluster. Colored line indicates mean relative expression while
+  grey lines are individual genes within the cluster. C) KEGG pathway enrichment by
+  cluster. Colored diamonds indicate for pathways which clusters they are significantly
+  enriched in (adjusted p <0.05). Colored bars indicate the proportion of genes within
+  the pathways that are in clusters.
+article_title: The genome regulatory landscape of Atlantic salmon liver through smoltification.
+citation: Thomas N. Harvey, et al. PLoS One. 2024;19(4):e0302388.
+year: '2024'
+
+doi: 10.1371/journal.pone.0302388
+journal_title: PLOS ONE
+journal_nlm_ta: PLoS One
+publisher_name: Public Library of Science
+
+keywords:
+---

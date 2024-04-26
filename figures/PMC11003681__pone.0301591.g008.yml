@@ -1,0 +1,28 @@
+---
+figid: PMC11003681__pone.0301591.g008
+pmcid: PMC11003681
+image_filename: pone.0301591.g008.jpg
+figure_link: /pmc/articles/PMC11003681/figure/pone.0301591.g008/
+number: Fig 8
+figure_title: ''
+caption: Heatplots of the Reactome enriched pathways for the (A) COAD, (B) STAD, (C)
+  BLCA, (D)BRCA and (E)CESC projects. The plots were generated using the sub-network
+  nodes resulting from the COMBO querying step. The enriched pathways are listed on
+  the vertical axis. The gene symbols contributing to the pathway are reported in
+  the horizontal axis. The gene logFC computed between GAIN-Chr20 and Solid Normal
+  Tissue is represented using blue and red for the lowest and highest gene expression,
+  respectively. A logFC range between 2 and -2 was setted to reduce the color scale.
+  Gray indicates genes with logFC = 0. (F) Venn Diagram with common enriched pathways
+  for the analyzed TCGA projects.
+article_title: Measuring cancer driving force of chromosomal aberrations through multi-layer
+  Boolean implication networks.
+citation: Ilaria Cosentini, et al. PLoS One. 2024;19(4):e0301591.
+year: '2024'
+
+doi: 10.1371/journal.pone.0301591
+journal_title: PLOS ONE
+journal_nlm_ta: PLoS One
+publisher_name: Public Library of Science
+
+keywords:
+---

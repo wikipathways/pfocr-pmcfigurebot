@@ -1,0 +1,39 @@
+---
+figid: PMC11011405__ijms-25-03596-g005
+pmcid: PMC11011405
+image_filename: ijms-25-03596-g005.jpg
+figure_link: /pmc/articles/PMC11011405/figure/ijms-25-03596-f005/
+number: Figure 5
+figure_title: ''
+caption: Gene ontology and Kyoto encyclopedia of genes and genomes pathway analysis
+  of differentially expressed genes and differentially expressed proteins. (A) GO
+  terms among DEGs. Horizontal coordinates are Go level2 ranked term, vertical coordinates
+  are −log10 (p-value) enriched for each term. (B) KEGG enrichment analysis of DEGs.
+  The horizontal coordinate is the pathway name and the vertical coordinate is the
+  −log10 (p-value) enriched for each pathway. (C) GO classification and enrichment
+  of DEPs. The horizontal coordinate is the negative logarithmic transformation of
+  the enrichment significance p-value and the vertical coordinate is the GO term.
+  Each circle denotes a term, and the circle size indicates the differential protein
+  count. The 3 main branches are indicated by different colors. (D) KEGG enrichment
+  for DEPs. Horizontal coordinates indicate enrichment factors and vertical coordinates
+  indicate negative logarithmic transformations of p-values. Circle size indicates
+  counts, and different colors indicate different paths.
+article_title: Integrated Transcriptome and Proteome Analysis Reveals the Regulatory
+  Mechanism of Root Growth by Protein Disulfide Isomerase in Arabidopsis.
+citation: Yanan Liu, et al. Int J Mol Sci. 2024 Apr;25(7):3596.
+year: '2024'
+
+doi: 10.3390/ijms25073596
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- protein disulfide isomerase
+- transcriptome
+- proteome
+- root
+- Arabidopsis
+- 16F16
+
+---

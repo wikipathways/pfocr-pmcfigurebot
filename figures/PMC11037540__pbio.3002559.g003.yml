@@ -1,0 +1,47 @@
+---
+figid: PMC11037540__pbio.3002559.g003
+pmcid: PMC11037540
+image_filename: pbio.3002559.g003.jpg
+figure_link: /pmc/articles/PMC11037540/figure/pbio.3002559.g003/
+number: Fig 3
+figure_title: Senescence is the immediate terminal fate of cell cycle gene reexpressing
+  neurons
+caption: (A) Dot plot showing the expression levels of cerebral cortex layer-specific
+  markers among all excitatory neuron clusters. (B) Violin plots illustrating the
+  expression levels of selected cerebral cortex layer-specific marker genes (highlighted
+  in red in Fig 3A) in different subclusters. (C) t-SNE plot of excitatory neurons
+  colored according to their cortical layer identity. NS = nonspecific. (D) Single-cell
+  trajectory analysis with the Monocle 2.0 algorithm was used to determine the evolutionary
+  relationship between the 2 subclusters of cell cycle gene-expressing neurons. The
+  locations of subclusters 3 and 5 on this trajectory are labeled, with subcluster
+  5 located at the terminal. Similar findings were observed when each dataset was
+  separately analyzed, as presented in . (E) Heatmap showing the relative expression
+  levels of 357 cell cycle-related genes among all the excitatory neuron clusters.
+  Hierarchical clustering of these genes based on their expression levels resulted
+  in 5 colored groups. Red- and yellow-colored gene clusters represent up-regulated
+  cell cycle gene groups in clusters 5 and 3, respectively. (F) Functional pathway
+  enrichment analyses of cell cycle gene clusters (red and yellow) with reference
+  to the Molecular Signatures Database (MSigDB) on the Enrich R platform [,]. (G)
+  Gene set enrichment analysis of multiple gene sets related to senescence signatures
+  and phenotypes in subcluster 5. (H) Metascape enrichment analysis of all the DEGs
+  identified in subcluster 5 compared to the other excitatory neuronal populations.
+  The functional pathways enriched in the up- and down-regulated DEGs are illustrated
+  in blue and red, respectively. (I) TFs that regulate DEGs that do not match the
+  inferred CNV regions in subcluster 5 were predicted based on the SCENIC analysis,
+  as presented in  (). Manhattan plots illustrating the enriched signaling networks
+  of coinhibited (top panel) or coactivated (bottom panel) TFs. Significantly (p <
+  0.05) enriched networks are labeled. The metadata underlying this figure can be
+  found at https://zenodo.org/doi/10.5281/zenodo.10604562. TF, transcription factor;
+  t-SNE, t-distributed stochastic neighbor embedding.
+article_title: Neuronal cell cycle reentry events in the aging brain are more prevalent
+  in neurodegeneration and lead to cellular senescence.
+citation: Deng Wu, et al. PLoS Biol. 2024 Apr;22(4):e3002559.
+year: '2024'
+
+doi: 10.1371/journal.pbio.3002559
+journal_title: PLOS Biology
+journal_nlm_ta: PLoS Biol
+publisher_name: Public Library of Science
+
+keywords:
+---

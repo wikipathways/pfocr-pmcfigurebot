@@ -1,0 +1,39 @@
+---
+figid: PMC11011897__ijms-25-03704-g003
+pmcid: PMC11011897
+image_filename: ijms-25-03704-g003.jpg
+figure_link: /pmc/articles/PMC11011897/figure/ijms-25-03704-f003/
+number: Figure 3
+figure_title: ''
+caption: 'Construction of PPI networks and identification of candidate hub proteins.
+  (A,C). PPI network analysis in both the COVID-19(+) and HCC groups. In COVID-19(+),
+  the PPI network consisted of 102 nodes and 281 edges, while in HCCs the PPI network
+  consisted of 195 nodes and 610 edges, all of them were visualized in Cytoscape.
+  A comprehensive view of the PPI network is illustrated in  for both the COVID-19(+)
+  and the HCC groups, respectively. (B,D) Top ten ranked proteins in network analysis
+  with the MCC method in cytoHubba in COVID-19(+) and HCC, respectively. The top ten
+  nodes are shown with a color scheme from red (highly important) to yellow (very
+  important). (E) STRING PPI of hub proteins in the COVID-19(+) group: each color
+  represents an enriched term. (F) KEGG pathway terms—the interactome network generated
+  (p < 0.005, FDR Q < 0.05) of hub proteins from the COVID-19(+) group: each node
+  represents an enriched pathway term. The nodes are connected by a line whose thickness
+  reflects the percentage of overlapping proteins, and the size of the node corresponds
+  to the number of proteins. Abbreviations: PPI, protein–protein interaction; MCC,
+  maximal clique centrality.'
+article_title: Proteomic Analysis of Salivary Extracellular Vesicles from COVID-19
+  Patients Reveals a Specific Anti-COVID-19 Response Protein Signature.
+citation: Laura Weber, et al. Int J Mol Sci. 2024 Apr;25(7):3704.
+year: '2024'
+
+doi: 10.3390/ijms25073704
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- extracellular vesicles
+- saliva
+- COVID-19
+- proteomics
+
+---

@@ -1,0 +1,54 @@
+---
+figid: PMC11018773__44321_2024_43_Fig6_HTML
+pmcid: PMC11018773
+image_filename: 44321_2024_43_Fig6_HTML.jpg
+figure_link: /pmc/articles/PMC11018773/figure/Fig6/
+number: Figure 6
+figure_title: Distinct signatures of CAR-T cells from patients with MG
+caption: '(A) UMAP plots showing the integrating endogenous T cells and CAR-T cells
+  colored by subclusters. Single-cell transcriptomics in three recently published
+  external datasets (GSE197851, GSE151310, GSE197268), including (1) CAR-BCMA T cells
+  in IPs from three healthy donors, (2) CAR-BCMA T cells in IPs from 1 patient with
+  plasma cell leukemia, (3) T cells in 12 individual blood samples at baseline and
+  CAR-CD19 T cells in 18 IPs from lymphoma patients treated with Axi-cel, and T cells
+  in 8 blood samples and CAR-CD19 T cells in 13 IPs from lymphoma patients treated
+  with Tisa-cel, along with our dataset including T cells at baseline and CAR- T cells
+  in IPs (CT103A) from the two patients with MG, were used for signature validation.
+  (B) Comparison of differentially expressed genes between CAR+ CD8+ cycling Te cells
+  in the IPs from patients with MG and other IPs. CT103A, N = 4044 cells; CAR-BCMA_donor,
+  N = 4739 cells; CAR-BCMA_PCL, N = 2111 cells; Axi-cel, N = 11,392 cells; Tisa-cel,
+  N = 16,348 cells. Group comparisons were computed with a Wilcoxon rank-sum test
+  with a Bonferroni correction. Ingenuity Pathway Analysis (IPA) was performed showing
+  corresponding signaling pathways regulated by these DEGs. z score reflects the predicted
+  activation level (z ≥ 2 or z ≤−2 can be considered significant). The yellow curve
+  denotes the ratio between the number of the DEGs and the total number of genes in
+  each of these pathways. Cell Cycle Regulation*, Cell Cycle: G1/S Checkpoint Regulation;
+  Cell Cycle Regulation**, Cell Cycle: G2/M DNA Damage Checkpoint Regulation; Cell
+  Cycle Regulation***, Cyclins and Cell Cycle Regulation. (C) Volcano plot showing
+  comparison of differentially expressed genes between endogenous Te cells from the
+  MG patients at baseline and Te cells from other groups. Myasthenia Gravis, N = 2898
+  cells; Lymphoma_Axi-cel, N = 7123 cells; Lymphoma_Tisa-cel, N = 4857 cells. Group
+  comparisons were computed with a Wilcoxon rank-sum test with a Bonferroni correction.
+  Ingenuity Pathway Analysis (IPA) was performed showing corresponding signaling pathways
+  regulated by these DEGs. z score reflects the predicted activation level (z ≥ 2
+  or z ≤−2 can be considered significant). The yellow curve denotes the ratio between
+  the number of the DEGs and the total number of genes in each of these pathways. .'
+article_title: B cell lineage reconstitution underlies CAR-T cell therapeutic efficacy
+  in patients with refractory myasthenia gravis.
+citation: Dai-Shi Tian, et al. EMBO Mol Med. 2024 Apr;16(4):966-987.
+year: '2024'
+
+doi: 10.1038/s44321-024-00043-z
+journal_title: EMBO Molecular Medicine
+journal_nlm_ta: EMBO Mol Med
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Chimeric Antigen Receptor (CAR) T-cell Immunotherapy
+- Refractory Myasthenia Gravis
+- B Cell Maturation Antigen
+- Single-Cell RNA Sequencing
+- Immunology
+- Musculoskeletal System
+
+---

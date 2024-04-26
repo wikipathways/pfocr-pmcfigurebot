@@ -1,0 +1,39 @@
+---
+figid: PMC11014662__jci-134-168536-g146
+pmcid: PMC11014662
+image_filename: jci-134-168536-g146.jpg
+figure_link: /pmc/articles/PMC11014662/figure/F5/
+number: Figure 5
+figure_title: Human T-ALL cell lines with high STAT5 activation display upregulated
+  expression of TCR pathway genes
+caption: (A) Basal levels of phosphorylated (pY) and total (t) STAT5, STAT3, and TCR
+  pathway proteins in 9 T-ALL and 2 AML control cell lines, evaluated by Western blot
+  analysis. Actin served as loading control. (B) Sanger sequencing of the SH2 and
+  TAD domains of STAT5B. cDNA was obtained from isolated RNA of KOPT-K1 and DND-41
+  cells. The codon for amino acid position 642 is highlighted in blue. (C) Z scores
+  of raw counts of TCR pathway genes from RNA-Seq data from 9 T-ALL cell lines. Three
+  biological triplicates were acquired from each cell line and cell lines were arranged
+  according to their pY-STAT5 level as determined by Western blot. (D) ChIP-Seq peak
+  signals indicating STAT5B binding at the promoter region of 6 TCR pathway genes
+  as indicated in 6 T-ALL cell lines. Normalized ChIP-Seq signal (CPM) is indicated
+  on the y axis. (E) Peak analysis for STAT5B binding sites in TCR pathway genes from
+  6 T-ALL cell lines and indication of peak localization within respective genes or
+  enhancers.
+article_title: Hyperactive STAT5 hijacks T cell receptor signaling and drives immature
+  T cell acute lymphoblastic leukemia.
+citation: Tobias Suske, et al. J Clin Invest. 2024 Apr 15;134(8):e168536.
+year: '2024'
+
+doi: 10.1172/JCI168536
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+
+keywords:
+- Genetics
+- Hematology
+- Leukemias
+- T cell development
+- T cell receptor
+
+---

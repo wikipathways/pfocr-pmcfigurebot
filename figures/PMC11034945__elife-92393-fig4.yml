@@ -1,0 +1,36 @@
+---
+figid: PMC11034945__elife-92393-fig4
+pmcid: PMC11034945
+image_filename: elife-92393-fig4.jpg
+figure_link: /pmc/articles/PMC11034945/figure/fig4/
+number: Figure 4
+figure_title: Transcriptional regulatory processes in the frontal cortex of schizophrenia
+  subjects and controls
+caption: (A) Heatmap of z-score Personalized PageRank (PPR) for top 10 significantly
+  differentially expressed transcription factors (TFs) (FDR <0.05) ranked by absolute
+  change in PPR for NeuN-positive (NeuN+) (upper panel) and NeuN-negative (NeuN-)
+  (lower panel) schizophrenia vs control nuclei samples. (B) Overrepresented pathway
+  analysis (FDR <0.05) for 203 downstream regulatees common to the top four schizophrenia
+  vs control NeuN+-specific transcription factors (TFs) (ZNF333, SOX2, ZEB1, and RBPJ).
+  (C) Overrepresented pathway analysis (FDR <0.05) for 225 downstream regulatees common
+  to the top four schizophrenia vs control NeuN--specific TFs (FOS, BCL6, IRF1, and
+  KLF15).
+article_title: Antipsychotic-induced epigenomic reorganization in frontal cortex of
+  individuals with schizophrenia.
+citation: Bohan Zhu, et al. eLife. 2024;12:RP92393.
+year: '2024'
+
+doi: 10.7554/eLife.92393
+journal_title: eLife
+journal_nlm_ta: eLife
+publisher_name: eLife Sciences Publications, Ltd
+
+keywords:
+- Schizophrenia
+- epigenetics
+- antipsychotics
+- aging
+- postmortem human brain
+- Human
+
+---

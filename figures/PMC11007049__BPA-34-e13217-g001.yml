@@ -1,0 +1,47 @@
+---
+figid: PMC11007049__BPA-34-e13217-g001
+pmcid: PMC11007049
+image_filename: BPA-34-e13217-g001.jpg
+figure_link: /pmc/articles/PMC11007049/figure/bpa13217-fig-0007/
+number: FIGURE 7
+figure_title: ''
+caption: 'Inhibition of FKBP12 partially suppresses SPI1‐induced TGF‐β1 non‐canonical
+  signaling in GSCs. (A): GSEA enrichment plots of the PI3K/Akt pathway signatures
+  in TCGA and CGGA gliomas high‐SPI1‐expression versus low‐SPI1‐expression levels.
+  The plot presents normalized enrichment scores and false discovery rates. p = 0.007
+  (TCGA), p = 0.010 (CGGA). (B): The levels of PI3K, p‐PI3K, Smad2/3, p‐Smad2/3 Akt,
+  p‐Akt, Erk, and p‐Erk detected by WB analysis in M1 GSCs transduced with SPI1‐silencing
+  shRNA and TGF‐β1res. (C): The levels of PI3K, p‐PI3K, Smad2/3, p‐Smad2/3 Akt, p‐Akt,
+  Erk, and p‐Erk examined by WB analysis in GSCs transduced with empty vector or SPI1‐overexpressing
+  plasmid, and subsequently treated with vehicle alone or LY2109761. (D): Blocking
+  of PI3K/Akt signaling inhibits SPI1‐induced sphere‐formation in P1 GSCs. Representative
+  images. Scale bar, 100 μm. (E): GSEA enrichment plots of PI3K/Akt pathway signatures
+  in TCGA and CGGA gliomas comparing high and low FKBP12‐expression levels. The plot
+  displays normalized enrichment scores and false discovery rates. p < 0.001 (TCGA),
+  p < 0.001 (CGGA). (F): The levels of Smad2/3, PI3K, Akt, p‐Erk, p‐Smad2/3, p‐PI3K,
+  p‐Akt, and p‐Erk detected by WB analysis in N1 GSCs transduced with FKBP12‐OE. (G):
+  The levels of P‐Smad2/3, p‐PI3K, p‐Akt, and p‐Erk detected by Co‐IP analysis in
+  SPI1‐overexpressed N1 GSCs transduced with either control shRNA or sh‐FKBP12. Results
+  are presented as the mean ± SEM values of triplicate samples from three independent
+  experiments. **p < 0.01. GSCs, glioma stem cells; GSEA, gene set enrichment analysis;
+  SPI1, Salmonella pathogenicity island 1; TGF‐β1, Transforming growth factor‐β1;
+  WB, western blotting.'
+article_title: SPI1 activates TGF‐β1/PI3K/Akt signaling through transcriptional upregulation
+  of FKBP12 to support the mesenchymal phenotype of glioma stem cells.
+citation: Yifu Song, et al. Brain Pathol. 2024 May;34(3):e13217.
+year: '2024'
+
+doi: 10.1111/bpa.13217
+journal_title: Brain Pathology
+journal_nlm_ta: Brain Pathol
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- Akt
+- FKBP12
+- glioma stem cell
+- PI3K
+- SPI1
+- TGF‐β1
+
+---

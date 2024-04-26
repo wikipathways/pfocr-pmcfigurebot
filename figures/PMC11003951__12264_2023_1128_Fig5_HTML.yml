@@ -1,0 +1,48 @@
+---
+figid: PMC11003951__12264_2023_1128_Fig5_HTML
+pmcid: PMC11003951
+image_filename: 12264_2023_1128_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC11003951/figure/Fig5/
+number: Fig. 5
+figure_title: ''
+caption: 'IL1α screened from other inflammatory factors downregulates Grin2c and Ca2+signaling
+  in astrocytes. A Quantitative real-time polymerase chain reaction (qRT-PCR) analysis
+  reveals the relative grin2c mRNA level in astrocytes after 24 h stimulation with
+  IL1α, C1q, and TNFα. Compared with the 20 ng/mL C1q group, the 20 ng/mL IL1α group
+  shows more evident downregulation compared to the negative control group. And 20
+  ng/mL TNFα up-regulates Grin2c mRNA levels in astrocytes. ****P <0.0001, **P <0.01,
+  ANOVA with Dunnett’s post hoc test (n = 3 biological replicates). B Western blots
+  of Grin2c and CaMK2b after IL1α 20 ng/mL, C1q 20 ng/ml, and TNFα 20 ng/mL stimulation
+  for 24 h; the trend of protein changes is consistent with that of mRNA. C, D Quantification
+  of Grin2c and CaMK2b. ***P <0.001, **P <0.01, ANOVA with Dunnett’s post hoc test
+  (n = 3 biological replicates). E Transcriptome sequencing of astrocytes in the IL1α
+  group (20 ng/mL IL1α, 24 h) compared with those of astrocytes in the NC group (inclusion
+  criteria: abs (log2FC >1, P-value <0.05). There are 1998 differentially-expressed
+  genes of astrocytes, among which 1001 are increased and 997 are decreased after
+  IL1α stimulation. F Grin2c is significantly reduced in the IL1α group in counts
+  data from high-throughput sequencing. ****P <0.0001, ANOVA with Dunnett’s post hoc
+  test (n = 3 biological replicates). G Bar graph showing the top 10 GO functional
+  enrichment analysis results of biological process (BP), cellular component (CC),
+  and molecular function (MF) (inclusion criteria: P-value cut-off ≤0.05, q-value
+  cut-off ≤0.05), in which ligand-gated ion channel activity and neurotransmitter
+  receptor activity significantly change. H Bar graph showing the KEGG pathway enrichment
+  analysis results of the differentially-expressed genes of astrocytes after IL1α
+  stimulation (inclusion criteria: P-value cut-off ≤0.05, q-value cut-off ≤0.05),
+  in which the Ca2+signaling pathway significantly changes.'
+article_title: Inflammatory Factor IL1α Induces Aberrant Astrocyte Proliferation in
+  Spinal Cord Injury Through the Grin2c/Ca2+/CaMK2b Pathway.
+citation: Yu Xia, et al. Neurosci Bull. 2024 Apr;40(4):421-438.
+year: '2024'
+
+doi: 10.1007/s12264-023-01128-4
+journal_title: Neuroscience Bulletin
+journal_nlm_ta: Neurosci Bull
+publisher_name: Springer Nature Singapore
+
+keywords:
+- IL1α
+- Grin2c
+- Astrocyte
+- Spinal cord injury
+
+---

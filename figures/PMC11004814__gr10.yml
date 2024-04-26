@@ -1,0 +1,42 @@
+---
+figid: PMC11004814__gr10
+pmcid: PMC11004814
+image_filename: gr10.jpg
+figure_link: /pmc/articles/PMC11004814/figure/fig10/
+number: Fig. 10
+figure_title: ''
+caption: 'GSVA analysis between High and Low-Risk group. A: Heatmap of the results
+  of the GSVA enrichment analysis of genes between High and Low-Risk group in the
+  Combined dataset. The vertical axis of the heatmap listed different pathway or gene
+  set names. Horizontally, there are two groups representing experimental subgroups,
+  namely, High and Low-risk group of NAFLD samples. The depth of color represents
+  the enrichment level of gene sets in the corresponding subgroup. Colors range from
+  orange to yellow-white, where orange indicates positive enrichment scores, suggesting
+  upregulation or enhanced activity of the associated pathway in that subgroup; while
+  yellow-white represents scores close to zero or negative, indicating downregulation
+  or no significant change in the pathway. B: Boxplot of the GSVA enrichment pathways
+  between High and Low-Risk group in the Combined dataset. The box in the boxplot
+  represents the interquartile range of the data (the middle 50% of the data), with
+  the median represented by the middle line. Whiskers indicate the range of data variation.
+  Orange and gray boxes represent the High and Low-Risk group, respectively. GSVA,
+  Gene Set Variation Analysis. ns, P ≥ 0.05; *P < 0.05; **P < 0.01; ***P < 0.001.
+  (For interpretation of the references to color in this figure legend, the reader
+  is referred to the Web version of this article.)'
+article_title: 'Unveiling the mitophagy puzzle in non-alcoholic fatty liver disease
+  (NAFLD): Six hub genes for early diagnosis and immune modulatory roles.'
+citation: Zhenguo Luo, et al. Heliyon. 2024 Apr 15;10(7):e28935.
+year: '2024'
+
+doi: 10.1016/j.heliyon.2024.e28935
+journal_title: Heliyon
+journal_nlm_ta: Heliyon
+publisher_name: Elsevier
+
+keywords:
+- Non-alcoholic fatty liver disease
+- Mitophagy
+- Diagnostic model
+- Immune infiltration
+- Bioinformatics analysis
+
+---

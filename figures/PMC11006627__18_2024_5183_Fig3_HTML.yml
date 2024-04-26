@@ -1,0 +1,51 @@
+---
+figid: PMC11006627__18_2024_5183_Fig3_HTML
+pmcid: PMC11006627
+image_filename: 18_2024_5183_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC11006627/figure/Fig3/
+number: Fig. 3
+figure_title: ''
+caption: 'The gene expression profiles of PALB2-mutated spheroids have widely changed,
+  and they associate with multiple cancer-related functions. a Principal component
+  analysis of transcriptome data processed with DeSeq2 differential gene expression
+  analysis showing deviation of the PALB2-mutated cell lines from the control ones.
+  b Heat map plot of genes with a significant q-value (< 0.05) for the gene expression
+  difference between PALB2-mutated and control cell lines. c Venn diagram of differentially
+  expressed genes (DEGs) (q < 0.05) in #BiAll-93 and #MonoAll-2.13 spheroids compared
+  to their isogenic control cell lines. d and e Clustering of the filtered DEGs (|L2fc
+  |> 0.8) in #BiAll-93 cells (d), and with down- and up-regulated DEGs separately,
+  as well as #MonoAll-2.13 cells (e) by STRING analysis package. Protein products
+  have been colored with symbols according to the biological processes they are related
+  to: cell cycle processes (red), chromosome organization (blue), response to stress
+  (green), cell adhesion (yellow), regulation of cell population proliferation (magenta),
+  and developmental processes (turqoise). Clustered genes that do not belong to any
+  of the above-mentioned biological processes have a white symbol. Disconnected nodes
+  have been hidden in the network. Down- and up-regulated DEGs have been scaled down
+  in comparison to the combined analysis. f Four out of six important biological processes
+  that have changed in #BiAll-93 are also altered in #MonoAll-2.13. The three most
+  significant and independent processes according to STRING analysis have been listed
+  separately for #BiAll-93 and #MonoAll-2.13 cell lines. N/A, non applicable. g and
+  h Selected top diseases and functions related to DEGs in #BiAll-93 (g) and #MonoAll-2.13
+  (h) spheroids, according to Ingenuity Pathway Analysis (IPA). The complete lists
+  are shown in Supplementary Table 5. f–h False discovery rate p-values have been
+  corrected using the Benjamini–Hochberg procedure. Dashed line in g and h indicates
+  the threshold for a significant B–H p-value < 0.05 [− log(B–H p-value) > 1.3]'
+article_title: PALB2-mutated human mammary cells display a broad spectrum of morphological
+  and functional abnormalities induced by increased TGFβ signaling.
+citation: Hanna Tuppurainen, et al. Cell Mol Life Sci. 2024;81(1):173.
+year: '2024'
+
+doi: 10.1007/s00018-024-05183-6
+journal_title: Cellular and Molecular Life Sciences
+journal_nlm_ta: Cell Mol Life Sci
+publisher_name: Springer International Publishing
+
+keywords:
+- Hereditary breast cancer susceptibility modeling
+- PALB2-edited cell lines
+- Three-dimensional cell growth and migration
+- Transcriptome profiling
+- TGFβ response
+- KRT14-positive cells
+
+---

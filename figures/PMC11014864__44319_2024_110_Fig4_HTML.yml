@@ -1,0 +1,43 @@
+---
+figid: PMC11014864__44319_2024_110_Fig4_HTML
+pmcid: PMC11014864
+image_filename: 44319_2024_110_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC11014864/figure/Fig4/
+number: Figure 4
+figure_title: PRODH knockdown enhances mtOXPHOS in naive hESCs
+caption: '(A) KEGG pathway enrichment analysis for significantly altered metabolites
+  between H9N-shPRODH and H9N-PLKO.1 hESCs (upper), as well as H9P-shPRODH and H9P-PLKO.1
+  hESCs (lower). The numbers in the figure indicate the count of metabolites enriched
+  in the pathway. (B) Heatmap showing differences in TCA cycle metabolites levels
+  between PLKO.1 and shPRODH H9 hESCs in both primed and Rset naive states. (C–E)
+  Oxygen consumption rates (OCRs) were determined by Seahorse XFe96 extracellular
+  flux analyzer in hESCs cultured in three different media conditions: mTeSR1 (C),
+  Rset (D), or PXGL (E). The cells were treated sequentially with oligomycin (Oligo),
+  carbonyl cyanide 4-(trifluoromethoxy) phenylhydrazone (FCCP), and rotenone (Rot)
+  plus antimycin (AA). Ten technical replicates were analyzed. See also Fig. . (F–H)
+  OCRs were detected and analyzed in hESCs cultured in mTeSR1 (F), Rset (G), and PXGL
+  (H). Basal respiration was calculated as the difference between basal OCR and non-mitochondrial
+  OCR. Maximal OCR was determined as the OCR after FCCP minus non-mitochondrial OCR.
+  Data information: The statistical significance was analyzed using unpaired two-tailed
+  Student’s t-test in panels. NS, not significant (P > 0.05). ***P < 0.001. Data were
+  presented as mean ± SD. In (F–H), each data point represents a technical replicate. .'
+article_title: PRODH safeguards human naive pluripotency by limiting mitochondrial
+  oxidative phosphorylation and reactive oxygen species production.
+citation: Cheng Chen, et al. EMBO Rep. 2024 Apr;25(4):2015-2044.
+year: '2024'
+
+doi: 10.1038/s44319-024-00110-z
+journal_title: EMBO Reports
+journal_nlm_ta: EMBO Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Electron Transport Chain Complex
+- Human Naive Pluripotency
+- mtOXPHOS
+- PRODH
+- Reactive Oxygen Species
+- Metabolism
+- Stem Cells & Regenerative Medicine
+
+---

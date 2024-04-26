@@ -1,0 +1,47 @@
+---
+figid: PMC11009104__41592_2024_2204_Fig5_HTML
+pmcid: PMC11009104
+image_filename: 41592_2024_2204_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC11009104/figure/Fig5/
+number: Fig. 5
+figure_title: Reconstitution of IL-1R signaling pathway in knockout cells with optogenetically
+  released effector protein
+caption: 'a, Schematic of IL-1R signaling. b, Schematic of TMEM-PhoCl-IRAK4-mScarlet
+  construct in IRAK4 knockout EL4 cells. In the absence of functional IRAK4 in the
+  cells, IL-1R signaling is hampered and MyD88 forms large clusters. Following release
+  of IRAK4 with UV light, IL-1R signaling resumes and MyD88 cluster size is controlled.
+  IL-1R signaling results in phosphorylation of IKKα/β. c, TIRF images of IRAK4 knockout
+  cells expressing MyD88-GFP and TMEM-PhoCl-IRAK4-mScarlet at 0 and 30 min following
+  UV illumination. Scale bars, 10 µm. N = 3. d, Left: representative images of the
+  same MyD88-GFP cluster at 0 and 30 min following UV illumination. Scale bar, 2 µm.
+  Right: quantification of relative change in MyD88-GFP cluster size 30 min following
+  UV illumination in MyD88 clusters without IRAK4 recruitment (0.78 ± 0.05, n = 5)
+  and in MyD88 clusters with IRAK4 recruitment (0.61 ± 0.10, n = 10). Data presented
+  as mean ± s.d. Significance was tested using the two-tailed unpaired t-test (**P = 0.003).
+  N = 3. Center line in the box plot represents the median, the box represents 25–75%
+  of the data, whiskers represent 1.5 × interquartile range and the square box among
+  data points represents the mean. e, TIRF images showing IRAK4-mScarlet, MyD88-GFP
+  and phosphorylated IKK-AF647 (pIKKα/β) cluster in IRAK4 knockout cells expressing
+  the TMEM-PhoCl-IRAK4-mScarlet construct following optogenetic release of IRAK4 in
+  the cytosol. Scale bar, 2 µm. f, Quantification of pIKKα/β-AF647 intensity in IRAK4
+  knockout cells following UV-based IRAK4 release (0.6 ± 0.05, m = 2,709) and without
+  IRAK4 release (0.07 ± 0.006, m = 112184). Violin plot shows the distribution of
+  individual MyD88 puncta measurements; dots superimposed on the violin plot represent
+  means of replicates (N = 4). Bars represent mean ± s.e.m. Significance was tested
+  using the two-tailed unpaired t-test (***P = 10−5), employing the means of replicates
+  as data points. m, number of MyD88 puncta analyzed.'
+article_title: An optogenetic method for the controlled release of single molecules.
+citation: Purba Kashyap, et al. Nat Methods. 2024;21(4):666-672.
+year: '2024'
+
+doi: 10.1038/s41592-024-02204-x
+journal_title: Nature Methods
+journal_nlm_ta: Nat Methods
+publisher_name: Nature Publishing Group US
+
+keywords:
+- Single-molecule biophysics
+- Super-resolution microscopy
+- Optogenetics
+
+---

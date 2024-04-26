@@ -1,0 +1,34 @@
+---
+figid: PMC11014510__nihpp-2024.04.04.588129v1-f0005
+pmcid: PMC11014510
+image_filename: nihpp-2024.04.04.588129v1-f0005.jpg
+figure_link: /pmc/articles/PMC11014510/figure/F5/
+number: Figure 5
+figure_title: Pervasive loss of regulated cell death genes in Afrotheria, particularly
+  Paenungulates
+caption: A. Lost genes are statistically enriched in subcellular compartments () and
+  Reactome pathways () related to regulated cell death modes; bubbleplot shows the
+  enrichment ratio and −log10 hypergeometric P-value of enriched terms (FDR≤0.10).B.
+  Lost genes are enriched in protein-protein interaction network clusters in STRING
+  related to pyroptosis, TRAIL-activated apoptotic signaling, and the execution phase
+  of necroptosis (FDR≤0.10). STRING interaction networks show protein-protein interactions
+  with a line, and lost genes are shown with filled circles.C. Gene losses in Afritheria.
+  Phylogenetic relationships between species are shown on the right. Genes are grouped
+  into those that function in necroptosis (blue), the tumor necrosis factor receptor
+  (TNFR) complex (grey), and pyroptosis (yellow). Proteins that promote cell death
+  are indicated with arrowheads, and those that inhibit cell death are shown with
+  blunt arrows (┴). Bubbleplot is colored by TOGA annotation and manual verification.
+  – source data 1. Subcellular compartment enrichment results. – source data 1. Reactome
+  pathway enrichment results.
+article_title: Pervasive loss of regulated necrotic cell death genes in elephants,
+  hyraxes, and sea cows (Paenungualta).
+citation: Meaghan Birkemeier, et al. bioRxiv. 2024 Apr 5:2024.04.04.588129.
+year: '2024'
+
+doi: 10.1101/2024.04.04.588129
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+---

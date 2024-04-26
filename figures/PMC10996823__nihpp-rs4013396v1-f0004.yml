@@ -1,0 +1,51 @@
+---
+figid: PMC10996823__nihpp-rs4013396v1-f0004
+pmcid: PMC10996823
+image_filename: nihpp-rs4013396v1-f0004.jpg
+figure_link: /pmc/articles/PMC10996823/figure/F4/
+number: Figure 4 –
+figure_title: DT-061-mediated ATF4-CHOP activation is regulated independently of PERK
+  activity and eIF2α phosphorylation
+caption: 'A) Western blotting analysis evaluating the effect of DT-061 treatment on
+  eIF2α phosphorylation as well as ATF4 and CHOP expression in multiple HGSC and FT
+  lines to identify dependency profiles. OV81, PEO-1, PEO-C4.2, and CAOV3 represent
+  HGSC models (shades of orange) while FT246 and FT237 represent non-malignant fallopian
+  tube tissues (shades of green). B) Schematic representing the two well-established
+  canonical pathways that phosphorylate eIF2α resulting in ATF4 and CHOP increased
+  expression: PERK (via the UPR) and PKR, GCN2, and HR (as part of the Integrated
+  Stress Response (ISR)). Chemical inhibitors utilized to test PERK and eIF2α contribution
+  to DT-061-mediated ATF4 and CHOP activation are also represented. C) Western blot
+  analysis assessing the role of PERK activation and subsequent UPR regulation in
+  OV81 and FT246 cells in the presence of DT-061. Cells were pre-incubated with either
+  DMSO or 1μM of PERK inhibitor (PERKi) for 3 hours. Subsequently, DT-061 (DMSO pre-incubated),
+  fresh PERKi, or the combination of the two drugs (PERKi pre-incubated) were added
+  and cells were harvested after 3, 6, and 24 hours of the second round of drug exposure.
+  PERK pathway activity was measured by assessing its hyperphosphorylation state (band
+  shift) and downstream targets’ expression. D) Western blot analysis assessing the
+  role of p-eIF2α downstream signaling and its impact in the activation of ATF4 and
+  CHOP proteins in OV81 cells after treatment with DT-061. Cells were pre-incubated
+  with either DMSO or 1μM of ISR Inhibitor (ISRIB) for 3 hours. Cells were then treated
+  with either Tg or DT-061 after both DMSO and ISRIB pre-incubation and harvested
+  at 6 hours post-second treatment round (total of 9 hours). Expression of ATF4 and
+  its downstream targets were evaluated under each of these treatment conditions and
+  quantified (in Suppl. Fig. 2K). E) A pool of siRNAs was used to knockdown PP2A-Aα
+  protein expression for 24 hours. Western blotting analysis was used to assess cytoplasmic
+  versus nuclear localization as well as expression of the ATF4 and its downstream
+  target genes after DT-061 treatment in both siControl (negative control) and siPP2A-Aα.
+  F) Whole cell lysate of the conditions previously described in E) was also collected
+  to evaluate the expression of cell death markers and ER-associated autophagy. Western
+  blotting analysis was performed (left) and represented as z-score values in a heatmap
+  obtained through western blot quantification (right). Calculated z-scores were obtained
+  from protein quantification of three independent biological replicates.'
+article_title: Integrated stress response plasticity governs normal cell adaptation
+  to chronic stress via the PP2A-TFE3-ATF4 pathway.
+citation: Rita A. Avelar, et al. Res Sq. 2024 Mar 28:rs.3.rs-4013396.
+year: '2024'
+
+doi: 10.21203/rs.3.rs-4013396/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+
+keywords:
+---

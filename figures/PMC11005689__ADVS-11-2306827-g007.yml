@@ -1,0 +1,46 @@
+---
+figid: PMC11005689__ADVS-11-2306827-g007
+pmcid: PMC11005689
+image_filename: ADVS-11-2306827-g007.jpg
+figure_link: /pmc/articles/PMC11005689/figure/advs7482-fig-0002/
+number: Figure 2
+figure_title: ''
+caption: CSN6 promotes YAP1 transcriptional activity. A) 33%–39% of genes activated
+  by YAP/TAZ are also regulated by CSN6. Huh7 cell line was infected with DOX‐inducible
+  shCSN6 RNA. RNA‐seq was performed. B) Gene set enrichment analysis (GSEA) of GSE14520.
+  GSEA plot of YAP signaling pathway signature correlated with CSN6 high related genes.
+  NES, normalized enrichment score. C) CSN6 KD led to decreased gene expression of
+  YAP targets. qPCR was performed for indicated genes in CSN6 KD Huh‐7 cell line.
+  n = 3; ***, p < 0.001. D) Relative gene expression of YAP1 targets in liver tissues
+  of Csn6 fl/fl and Csn6 LKOmice. *, p < 0.05; **, p < 0.01; ns, not significant.
+  E) Silencing CSN6 decreased YAP transcriptional activity with luciferase reporter
+  gene assay (8XGTII‐lux). Luciferase activity assay of YAP in DOX‐induced KD of CSN6
+  in indicated cancer cell lines. Cells were transfected with vector or 8XGTII‐lux.
+  RLU, Relative Luciferase Units. *, p < 0.05; **, p < 0.01; n = 3. F) Nuclear fraction
+  assay of YAP1 shows silencing CSN6 increased YAP1 translocation from the nucleus
+  to the cytoplasm. G) CSN6 overexpression led to increased gene expression of YAP
+  targets in MHCC‐97H cell line. **, p < 0.01; ***, p < 0.001; n = 3. H) CSN6 overexpression
+  enhanced YAP transcriptional activity with luciferase reporter gene assay (8XGTII‐lux).
+  **, p < 0.01; n = 3. I) Nuclear fraction assay of YAP1 shows that CSN6 overexpression
+  increased YAP1 translocation from the cytoplasm to the nucleus. J) Immunofluorescence
+  staining of YAP1 in liver tissues from DEN/CCl4‐treated Csn6 fl/fl and Csn6 LKO
+  mice. Percentage of YAP1 nuclear localization was quantitated. K–M) CSN6 KD attenuated
+  colony formation, YAP1 target expression, and YAP1 transcriptional activities. YAP‐5SA
+  overexpression reversed these effects caused by CSN6 KD.
+article_title: CSN6‐SPOP‐HMGCS1 Axis Promotes Hepatocellular Carcinoma Progression
+  via YAP1 Activation.
+citation: Kai Li, et al. Adv Sci (Weinh). 2024 Apr;11(14):2306827.
+year: '2024'
+
+doi: 10.1002/advs.202306827
+journal_title: Advanced Science
+journal_nlm_ta: Adv Sci (Weinh)
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- cholesterol metabolism
+- hepatocellular carcinoma(HCC)
+- HFD
+- YAP1
+
+---

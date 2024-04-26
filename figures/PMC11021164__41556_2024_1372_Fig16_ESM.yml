@@ -1,0 +1,50 @@
+---
+figid: PMC11021164__41556_2024_1372_Fig16_ESM
+pmcid: PMC11021164
+image_filename: 41556_2024_1372_Fig16_ESM.jpg
+figure_link: /pmc/articles/PMC11021164/figure/Fig16/
+number: Extended Data Fig. 9
+figure_title: SP1 mediates acetate-induced regulation of SAT1 in an ACSS2-dependent
+  manner
+caption: 'a, Transcription factor motif search for H3K27ac-bound peaks. b, Fold enrichment
+  of SP1 binding on the promoter regions of SAT1 gene in HPAF-II cells upon acetate
+  treatment. The fold change values are normalized to IgG control (n = 4 in each group
+  from independent biological replicates). c, Relative mRNA levels of SP1 and SAT1
+  genes in scrambled control (siScr) and SP1 knockdown (siSP1) CFPAC-1 cells upon
+  acetate treatment for 24 hrs (n = 4 in each group from independent biological replicates).
+  d, Relative mRNA levels of SP1 and SAT1 genes in siScr and siSP1 T3M4 cells upon
+  acetate treatment (n = 4 in each group from independent biological replicates).
+  e, Immunoblots showing the levels of SP1 and SAT1 proteins in siScr and siSP1 CFPAC-1
+  and T3M4 cells, upon treatment with 5 mM acetate. Representative images of two independent
+  experiments. f, g Relative mRNA (f) and protein (g) levels of SAT1 and SP1 in HPAF-II
+  cells overexpressing SP1 in the absence and presence of 5 mM acetate for 24 hrs
+  under acidosis (f: n = 4 in each group from independent biological replicates; g:
+  Representative images of two independent experiments). h, Immunoblots showing the
+  levels of ACSS2 and SP1 proteins in siScr and siACSS2 PDAC cell lines upon treatment
+  with 5 mM acetate for 24 hrs in acidosis. Representative image of two independent
+  experiments. i, GSEA enrichment plot of SP1 signaling pathway in S2-013 cells between
+  control cells (siScr) in presence and absence of acetate, siScr vs siACSS2 cells,
+  and siScr vs siACSS2 both in the presence of acetate (statistics calculated using
+  Permutation analysis through GSEA). j, Relative levels of lysine-acetylated proteins
+  in CFPAC-1 and T3M4 cells upon treatment with 5 mM acetate for 6 hrs under acidosis.
+  Representative images of two independent experiments. k, Pathway enrichment analysis
+  of differentially regulated lysine-acetylated proteins in vehicle control- and acetate-treated
+  S2-013 cells (statistics calculated using the Binomial test). l,m, Plot of RMSD
+  for wild type SP1 (l) and SP1 acetylated at K19 position (m) for 250 nsec of simulations.
+  One-way ANOVA with Bonferroni’s post-hoc test; mean ± s.e.m. (b,c,d,f).'
+article_title: Cancer-associated fibroblast-derived acetate promotes pancreatic cancer
+  development by altering polyamine metabolism via the ACSS2–SP1–SAT1 axis.
+citation: Divya Murthy, et al. Nat Cell Biol. ;26(4):613-627.
+year: '2024'
+
+doi: 10.1038/s41556-024-01372-4
+journal_title: Nature Cell Biology
+journal_nlm_ta: Nat Cell Biol
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Pancreatic cancer
+- Cancer microenvironment
+- Cancer metabolism
+
+---

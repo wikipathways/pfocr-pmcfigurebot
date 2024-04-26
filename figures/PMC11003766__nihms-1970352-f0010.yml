@@ -1,0 +1,25 @@
+---
+figid: PMC11003766__nihms-1970352-f0010
+pmcid: PMC11003766
+image_filename: nihms-1970352-f0010.jpg
+figure_link: /pmc/articles/PMC11003766/figure/F10/
+number: Extended Data Figure 5
+figure_title: Pathway Enrichment Visualization
+caption: '(a-d) Schematics of the depletion and enrichment of KOs within the (a) oxidative
+  phosphorylation, (b) iron-sulphur (Fe-S) cluster biogenesis, (c) N-glycan biosynthesis,
+  (d) and sialylation pathways across both screens. Shading indicating log2FC shown
+  only for significant hits (FDR<0.05). All pathways were adapted from WikiPathways.
+  (a) OXPHOS subunits are shown with abridged names without accompanying prefixes
+  (C I: NDUF; C II: SDH; C III: UQCR, C IV: COX; C V: ATP5) (e.g., B4 in CI is NDUFB4).
+  Subunits encoded by mitochondrial genes are not included in the visualization.'
+article_title: CRISPR screens decode cancer cell pathways that trigger γδ T cell detection.
+citation: Murad R. Mamedov, et al. Nature. ;621(7977):188-195.
+year: '2024'
+
+doi: 10.1038/s41586-023-06482-x
+journal_title: Nature
+journal_nlm_ta: Nature
+publisher_name: ''
+
+keywords:
+---

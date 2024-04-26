@@ -1,0 +1,51 @@
+---
+figid: PMC11033207__gr6
+pmcid: PMC11033207
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC11033207/figure/fig6/
+number: Figure 6
+figure_title: ''
+caption: Modulation of ROS through Nrf2 and NF-κB during aerobic exerciseROS are generated
+  through oxidases such as NOX2, NOX4, XO, or ETC. In homeostasis, Nrf2 is anchored
+  by Kelch-like ECH-associated protein 1 (Keap1), a substrate adaptor for the cullin
+  3-RING-box protein 1 ubiquitin ligase (Cul3) that induces Nrf2 to degradation by
+  ubiquitination. The keap1 is a cysteine-rich protein, which can be oxidized by ROS,
+  that changes its conformation and detaches Nrf2.,, The released Nrf2 heterodimerizes
+  with musculoaponeurotic fibrosarcoma proteins (Maf proteins). They subsequently
+  bind to the antioxidant response element (ARE) and finally activate the transcription
+  of many antioxidants and detoxifying enzymes., NF-κB is activated primarily by two
+  pathways. The canonical NF-κB pathway is triggered by stimulating pro-inflammatory
+  receptors, such as the TNF receptor family, toll-like receptor family, and cytokine
+  receptors for interleukins. Activating TNF receptors (TNFR) leads to the binding
+  of TNFR1-associated death domain protein (TRADD), which will further recruit the
+  Fas-associated death domain (FADD) and TNF receptor-associated factor 2 (TRAF2).
+  TRAF2 forms a complex with receptor-interacting proteins (RIP1), leading to the
+  activation of the NF-κB inhibitor (IκB) kinase (IKK) complex, which comprises two
+  catalytic kinases, IKKα and IKKβ, and a regulatory subunit, IKKγ. p50 is initially
+  inactive as a heterodimer with RelA by interacting with an inhibitory IκB protein.
+  Phosphorylation of IκB on serines 32 and 36 by the activated IKK (primary IKKβ)
+  targets it for ubiquitination. The ubiquitinated IκB is further degraded by proteosomes
+  and disassociates the p50/RelA heterodimer, further translocating into the nucleus
+  and binding to κB sites for specific gene transcription., In the noncanonical pathway,
+  the TNF family cytokines, such as lymphotoxin-β (LTβ), activates the LTβ receptor
+  (LTβR), which subsequently recruits TRAF2 and TRAF3, resulting in NF-κB-inducing
+  kinase (NIK) activation. NIK subsequently activates IKKα, which leads to the phosphorylation
+  of p100, resulting in its heterodimerization with RelB. The phosphorylated P100
+  facilitates its ubiquitination and is processed into a P52-RelB heterodimer, translocating
+  to the nucleus for gene transcription.
+article_title: Redox signaling and skeletal muscle adaptation during aerobic exercise.
+citation: Yingsong Zhou, et al. iScience. 2024 May 17;27(5):109643.
+year: '2024'
+
+doi: 10.1016/j.isci.2024.109643
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Biological sciences
+- Cellular physiology
+- Molecular physiology
+- Cell biology
+
+---

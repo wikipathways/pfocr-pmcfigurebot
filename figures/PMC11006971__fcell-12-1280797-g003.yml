@@ -1,0 +1,39 @@
+---
+figid: PMC11006971__fcell-12-1280797-g003
+pmcid: PMC11006971
+image_filename: fcell-12-1280797-g003.jpg
+figure_link: /pmc/articles/PMC11006971/figure/F3/
+number: FIGURE 3
+figure_title: ''
+caption: Transcriptome profile of PN arrest zygote by single-cell RNA-sequencing.
+  (A) 3-D principal-component analysis (PCA) of the transcriptome of human oocytes,
+  preimplantation embryos and PN-arrest zygotes. Cells of different preimplantation
+  stages form distinct clusters, and PN-arrest zygotes had a specific transcriptome
+  character. (B) Scatter plots comparing expression of genes with fold change >2,
+  false discovery rate (FDR) < 0.05. (C) REVIGO scatter plot showing the cluster representatives
+  in a 2-D space derived by applying multidimensional scaling to a matrix of semantic
+  similarities for the Gene Ontology (GO) terms (biological processes). (D) Metascape
+  enrichment network showing intra- and inter-cluster similarities of enriched GO
+  terms. Cluster annotations are shown in color code. (E) Comparative analysis of
+  genes in the Ca2+ oscillation–CSF–APC signaling pathway by average RNA-sequencing
+  of normalized read counts for human PN and PN-arrest zygotes. FDR value, Data are
+  mean ± SD. **, p < 0.001; ***, p < 0.0001. (F) Significantly enriched KEGG pathways
+  in PN-arrest zygotes; length of column indicates the–log10 p-value.
+article_title: A case report of a family with developmental arrest of human prokaryotic
+  stage zygote.
+citation: Tianzhong Ma, et al. Front Cell Dev Biol. 2024;12:1280797.
+year: '2024'
+
+doi: 10.3389/fcell.2024.1280797
+journal_title: Frontiers in Cell and Developmental Biology
+journal_nlm_ta: Front Cell Dev Biol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- pronuclear arrest
+- zygote
+- RGS12
+- Ca2+ oscillation
+- case report
+
+---

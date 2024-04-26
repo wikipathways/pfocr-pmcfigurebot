@@ -1,0 +1,34 @@
+---
+figid: PMC11042724__pcbi.1012022.g005
+pmcid: PMC11042724
+image_filename: pcbi.1012022.g005.jpg
+figure_link: /pmc/articles/PMC11042724/figure/pcbi.1012022.g005/
+number: Fig 5
+figure_title: Inference
+caption: (A) Scatter plot of the pathways represented by predictive UM-CLL signature
+  PSNs that StellarPath found during training. The X-axis indicates the rank of separability
+  between the two classes. The Y-axis indicates the name of the pathways. The size
+  of the dot depends on the smallest similarity (low percentile of the Separability
+  Power system) between UM-CLL patients which is higher than the highest similarity
+  (high percentile) between M-CLL patients. The color indicates how the UM-CLL subtype
+  is deregulating the pathway. (B) Violin plot of the classification performances
+  assessed comparing the predicted classes of the unknown patients to their true subtype.
+  (C) UM-CLL signature PSN of the activated B Cell Receptor Signaling Pathway of Power
+  2, where UM-CLL patients are represented by green nodes, M-CLL patients by blue
+  nodes, green lines represent edges between UM-CLL nodes, grey lines represent inter-similarities
+  and blue lines are between M-CLL nodes. A line thickness represents the similarity
+  value associated with it. The size of the node is determined by the patient’s centrality.
+  The PSN is sparse because the edges with low similarity have been hidden. Thanks
+  to StellarPath’s plot function, the PSN represents 123 patients in 20 nodes.
+article_title: 'StellarPath: Hierarchical-vertical multi-omics classifier synergizes
+  stable markers and interpretable similarity networks for patient profiling.'
+citation: Luca Giudice, et al. PLoS Comput Biol. 2024 Apr;20(4):e1012022.
+year: '2024'
+
+doi: 10.1371/journal.pcbi.1012022
+journal_title: PLOS Computational Biology
+journal_nlm_ta: PLoS Comput Biol
+publisher_name: Public Library of Science
+
+keywords:
+---

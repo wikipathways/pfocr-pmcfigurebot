@@ -1,0 +1,34 @@
+---
+figid: PMC11019236__gr6
+pmcid: PMC11019236
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC11019236/figure/fig6/
+number: Fig. 6
+figure_title: ''
+caption: 'Identification of gene co-expression modules among myeloid cell 2. A: Weighed
+  gene co-expression network analysis was constructed among myeloid cell 2. B: Dot
+  plot of the KEGG functional enrich analysis of the module. C: The first 8 eigengenes
+  of each module, ranked by eigengene-based connectivity (kME). D: Bubble diagram
+  demonstrating the relevance of the m5c gene to the pathway in myeloid cells 2. E:
+  Scatterplot demonstrating the correlation between YBX1 and the pathway in myeloid
+  cells 2. F: Lollipop chart of correlations between YBX1 and genes in epithelial
+  mesenchymal transition pathway in myeloid cells 2. G: Lollipop chart of correlations
+  between YBX1 and genes in TNF-alpha signaling via NF-κB in myeloid cells 2.'
+article_title: Integrated single-cell and spatial transcriptomic analysis reveals
+  YBX1 drives immune regulation in GBM progression.
+citation: Yanshan Ge, et al. Heliyon. 2024 Apr 30;10(8):e29451.
+year: '2024'
+
+doi: 10.1016/j.heliyon.2024.e29451
+journal_title: Heliyon
+journal_nlm_ta: Heliyon
+publisher_name: Elsevier
+
+keywords:
+- 5-Methylcytosine
+- YBX1
+- GBM
+- Immune infiltrates
+- Tumor microenvironment
+
+---

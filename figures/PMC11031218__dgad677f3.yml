@@ -1,0 +1,40 @@
+---
+figid: PMC11031218__dgad677f3
+pmcid: PMC11031218
+image_filename: dgad677f3.jpg
+figure_link: /pmc/articles/PMC11031218/figure/dgad677-F3/
+number: Figure 3
+figure_title: ''
+caption: Identification of predictive markers for exercise intervention success. A,
+  The circle plot shows the significantly enriched pathways among genes differentially
+  expressed between low responders (LRE) and high responders (RES) at w0, including
+  genes allocated to each pathway. Shown are logarithmic fold changes (logFC) (downregulated
+  and upregulated in RES indicated in blue and pink, respectively) and z scores (from
+  blue to red, summarizing decrease and increase in gene expression, respectively).
+  B, Venn diagram depicts the proportion of differentially expressed genes (DEG) at
+  baseline that are significantly altered in response to exercise training in LRE
+  and RES. Top 20 genes predictive of Matsuda index FC as identified by LASSO regression
+  are shown. C, The y-axis indicates the gene symbols and the x-axis the percentage
+  of successful models which identified the gene as a predictive marker. Box plots
+  display the expression levels of predictive markers identified with LASSO in LRE
+  and RES. D, P values were determined using limma t test (*P < .05, **P < .01, ****P
+  < .0001).
+article_title: Skeletal Muscle Gene Expression Signatures of Obese High and Low Responders
+  to Endurance Exercise Training.
+citation: Leona Kovac, et al. J Clin Endocrinol Metab. 2024 May;109(5):1318-1327.
+year: '2024'
+
+doi: 10.1210/clinem/dgad677
+journal_title: The Journal of Clinical Endocrinology and Metabolism
+journal_nlm_ta: J Clin Endocrinol Metab
+publisher_name: Oxford University Press
+
+keywords:
+- obesity
+- exercise
+- responders
+- LASSO
+- gene expression
+- DNA methylation
+
+---

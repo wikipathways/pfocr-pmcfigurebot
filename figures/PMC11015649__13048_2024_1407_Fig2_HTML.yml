@@ -1,0 +1,33 @@
+---
+figid: PMC11015649__13048_2024_1407_Fig2_HTML
+pmcid: PMC11015649
+image_filename: 13048_2024_1407_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC11015649/figure/Fig2/
+number: Fig. 2
+figure_title: ''
+caption: Integrated Analysis of Gene Expression with IR states in PCOS. (A & B) Display
+  DEG heatmaps for datasets GSE80432 and GSE155489, highlighting differential expression
+  between PCOS and controls, identifying potential biomarkers. (C) Features a Venn
+  diagram merging “darkred” module genes from WGCNA with DEGs, isolating key genes
+  linked to IR in PCOS. (D & E) Present expression heatmaps for lncRNAs and miRNAs
+  in GSE138518 and GSE138572, revealing regulatory non-coding RNA changes in PCOS.
+  (F) Box plots of 13 genes showcase distinct expression levels in PCOS versus controls,
+  pinpointing IR-related genes. (G) Offers GO and KEGG pathway analyses, elucidating
+  the biological impact of these genes in PCOS.
+article_title: CAPN2 correlates with insulin resistance states in PCOS as evidenced
+  by multi-dataset analysis.
+citation: Xi Luo, et al. J Ovarian Res. 2024;17:79.
+year: '2024'
+
+doi: 10.1186/s13048-024-01407-2
+journal_title: Journal of Ovarian Research
+journal_nlm_ta: J Ovarian Res
+publisher_name: BioMed Central
+
+keywords:
+- Polycystic ovary syndrome
+- Insulin resistance
+- Competing endogenous RNA network
+- Differentially expressed genes therapeutic drug prediction
+
+---

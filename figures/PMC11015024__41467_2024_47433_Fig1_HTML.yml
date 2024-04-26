@@ -1,0 +1,51 @@
+---
+figid: PMC11015024__41467_2024_47433_Fig1_HTML
+pmcid: PMC11015024
+image_filename: 41467_2024_47433_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC11015024/figure/Fig1/
+number: Fig. 1
+figure_title: Robust treatment-induced expression changes associated with anti-PD-1
+  response in melanoma patients
+caption: 'a Receiver operating characteristic (ROC) curve showing the performance
+  of using treatment-naïve (gray) or treatment-induced (red) expression to classify
+  anti-PD-1 responders and non-responders. The kernel density estimation plot shows
+  the distribution of patient response groups on the first principal component of
+  treatment-naïve expression (upper) or treatment-induced expression (lower) (n = 42).
+  Source Data are provided as Supplementary Data . b Expression correlation between
+  419 Resistance signature genes and 366 Sensitivity signature genes in melanoma patients
+  (n = 42). Colormap represents the correlation coefficient given by Pearson’s correlation.
+  Source Data are provided as Supplementary Data . c Integrating R and S signature
+  to classify anti-PD-1 responders and non-responders in training cohort (GSE91061).
+  Patients are ranked in descending order based on signature score, which is given
+  by the difference of enrichment score between S signature and R signature. Colors
+  of the bar indicate the anti-PD-1 response group. Source Data are provided as Supplementary
+  Data . d Validation of R and S signature in two independent validation cohorts.
+  Patients are ranked in descending order based on signature score, which is given
+  by the difference of enrichment score between S signature and R signature. Colors
+  of the bar indicate the anti-PD-1 response group. Source Data are provided as Supplementary
+  Data . e Receiver operating characteristic (ROC) curve summarizing the performance
+  of using R and S signatures to classify anti-PD-1 responders and non-responders.
+  Training set, n = 31; Leave-out validation set, n = 11; MGH cohort, n = 14; PRJEB23709
+  cohort, n = 17. Source Data are provided as Supplementary Data . f GO Biological
+  Process: Pathway enrichment of genes involved in S signature. X-axis represents
+  adjusted P value derived from gene set enrichment analysis. The enrichment P value
+  is given by the “enrichr” function in GSEA. g GO Biological Process: Pathway enrichment
+  of genes involved in R signature. X-axis represents adjusted P value derived from
+  gene set enrichment analysis. The enrichment P value is given by the “enrichr” function
+  in GSEA.'
+article_title: Systematic investigation of chemo-immunotherapy synergism to shift
+  anti-PD-1 resistance in cancer.
+citation: Yue Wang, et al. Nat Commun. 2024;15:3178.
+year: '2024'
+
+doi: 10.1038/s41467-024-47433-y
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Computational biology and bioinformatics
+- Tumour immunology
+- Immunotherapy
+
+---

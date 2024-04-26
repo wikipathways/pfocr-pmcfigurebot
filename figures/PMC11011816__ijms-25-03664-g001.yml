@@ -1,0 +1,32 @@
+---
+figid: PMC11011816__ijms-25-03664-g001
+pmcid: PMC11011816
+image_filename: ijms-25-03664-g001.jpg
+figure_link: /pmc/articles/PMC11011816/figure/ijms-25-03664-f001/
+number: Figure 1
+figure_title: ''
+caption: Functional annotation of DEGs in the differentiation process of skeletal
+  muscle satellite cells by using GSEA. (A) Gene ontology analysis. (B) KEGG pathway
+  analysis. (C) The top suppressed gene set in D36h was ranked by NES. Heatmap plots
+  (D) and volcano plots (the dotted line in (E) indicates |log2FoldChange| = 2) (E)
+  of 26 core enrichment genes in the cell cycle pathway. (F) Validation via RT-qPCR
+  of several DE mRNAs from RNA-seq. (* p < 0.05). ns is considered to be not significant.
+article_title: 'Molecular Regulation of Porcine Skeletal Muscle Development: Insights
+  from Research on CDC23 Expression and Function.'
+citation: Su Xie, et al. Int J Mol Sci. 2024 Apr;25(7):3664.
+year: '2024'
+
+doi: 10.3390/ijms25073664
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- CDC23
+- porcine satellite cells (PSCs)
+- myoblast differentiation
+- GSEA
+- myoblast proliferation
+- cell cycle pathway
+
+---

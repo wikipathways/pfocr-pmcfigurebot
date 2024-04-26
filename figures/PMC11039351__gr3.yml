@@ -1,0 +1,43 @@
+---
+figid: PMC11039351__gr3
+pmcid: PMC11039351
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC11039351/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: 'The lipidome of L-adipomes is distinct from that of S-adipomes(A and G)
+  Principal component analysis (PCA) score plot of the lipid profiles from CLA and
+  ILA (A), and ILA and ISA (G) showing clusters of two groups.(B and H) Heatmap representation
+  of the clustering analysis of top 25 differentially abundant lipid molecular species
+  (with lowest FDR-adjusted p-values) based on z-scores for the normalized, transformed,
+  and scaled data between CLA and ILA (B), and ILA and ISA (H). For class names, red
+  represents CLA or ILA and green represents ILA or ISA. For the abundance of each
+  lipid, red represents high, and blue represents low.(C and I) Volcano plots represent
+  significantly altered lipid metabolites in ILA compared to CLA (C), and ISA compared
+  to ILA (I). Red dots indicate upregulated lipids and blue dots indicate downregulated
+  lipids.(D) KEGG pathway analysis revealed seven dysregulated metabolic pathways
+  enriched in ILA compared to CLA. All matched pathways were plotted according to
+  p-value and pathway impact score from pathway enrichment analysis and pathway topology
+  analysis, respectively. Color gradient: yellow, higher p-value; and red, lower p-value.
+  Circle size: large, higher impact score; and small, lower impact score.(E and F)
+  Pathway representation of Sphingolipid metabolism (E) and Glycerophospholipid metabolism
+  (F) with lipid metabolites (highlighted in red) enriched in ILA. Data represents
+  the mean (n = 3 per group). Abbreviations: CLA, control large-adipomes; ILA, infected
+  large-adipomes; and ISA, infected small-adipomes.'
+article_title: 'Adipocyte-released adipomes in Chagas cardiomyopathy: Impact on cardiac
+  metabolic and immune regulation.'
+citation: Hariprasad Thangavel, et al. iScience. 2024 May 17;27(5):109672.
+year: '2024'
+
+doi: 10.1016/j.isci.2024.109672
+journal_title: iScience
+journal_nlm_ta: iScience
+publisher_name: Elsevier
+
+keywords:
+- Disease
+- Microbiology parasite
+- Cell biology
+- Biology experimental methods
+
+---

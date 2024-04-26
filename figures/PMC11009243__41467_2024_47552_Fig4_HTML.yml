@@ -1,0 +1,37 @@
+---
+figid: PMC11009243__41467_2024_47552_Fig4_HTML
+pmcid: PMC11009243
+image_filename: 41467_2024_47552_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC11009243/figure/Fig4/
+number: Fig. 4
+figure_title: Computational interrogation of the mesocircuit architecture and dynamics
+  underlying emergence of the ERNA waveform
+caption: 'A Schematic of the mesocircuit architecture which was able to emulate ERNA
+  based on B DBS-induced depression of cortico-STN inputs (10% fidelity), persistent
+  activation of GPe-STN inputs and recruited GPe-GPe axon collaterals (65% fidelity),
+  and STN-GPe efferents (80% fidelity); OU = Ornstein–Uhlenbeck; U = utilization constant;
+  τfacil = facilitation constant; τrec = recovery constant. C Modeling results showing
+  the emergence of ERNA when (i) the aforementioned mesocirccuit properties are considered,
+  but lack of ability to reproduce the ERNA waveform (ii) during low frequency stimulation
+  (LFS; i.e., when short-term synaptic dynamics are not considered), (iii) with depressing
+  STN efferent fidelity, and (iv) in the absence of intrinsic GPe-GPe connectivity;
+  highlighting the importance of each of these considerations. Upper panels: STN conductances
+  in response to HFS. Lower panels: In silico dynamics of first (dark blue) and second
+  (light blue) ERNA peaks; shade represents standard deviation of the mean; all plots
+  depict the average of (n = 10) iterations of the model output.'
+article_title: Neural signatures of indirect pathway activity during subthalamic stimulation
+  in Parkinson’s disease.
+citation: Leon A. Steiner, et al. Nat Commun. 2024;15:3130.
+year: '2024'
+
+doi: 10.1038/s41467-024-47552-6
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cellular neuroscience
+- Parkinson's disease
+- Synaptic plasticity
+
+---

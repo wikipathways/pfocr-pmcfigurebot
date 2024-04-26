@@ -1,0 +1,49 @@
+---
+figid: PMC11006774__10238_2024_1332_Fig4_HTML
+pmcid: PMC11006774
+image_filename: 10238_2024_1332_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC11006774/figure/Fig4/
+number: Fig. 4
+figure_title: ''
+caption: MiR-181c/d Modulate the Response to Chemotherapy by Targeting Key Signaling
+  Networks in BTC. A-B Heatmap demonstrating log relative expression level of differentially
+  expressed genes between the groups of patients in which miRNAs were UP-regulated
+  and orange the DOWN-regulated. Cell colors (blue-white-orange-red gradient) correspond
+  the binary logarithm of the ratio of the expression level in a current sample to
+  the average level across all the samples (per each gene). Cluster analysis grouped
+  samples and differentially expressed genes (DEGs) according to similarity in expression.
+  DEGs are in rows and samples in columns. The DEGs clustering tree is indicated on
+  the left. To create the heatmap we converted the read counts into log2-counts-per-million
+  (logCPM) values. C Representative GSEA plots of Hypoxia, MYC targets, Nuclear Receptor
+  Transcription, Metabolism of Aminoacids and Derivatives, and PPAR signaling pathway
+  gene signatures. Only the gene sets that showed the normalized enrichment score
+  (NES > 2.0) and false discovery rate (FDR) q value < 5% were reported. Representative
+  Heatmaps of differentially expressed genes constituting the leading-edge subsets
+  within the gene sets shown. Each row represents a gene, and each column represents
+  the Median Fold Change (Log) of miRNA-181c/d UP-regulated patients vs DOWN-regulated.
+  D Gene set enrichment analysis (GSEA) with compiled modules from Hallmarks in MSigDB.
+  Dot plots of GSEA results illustrated Hallmarks gene network associated with miRNA-181c/d
+  expression in BTC patients. The figures show the significant top 15 positively and
+  the top 15 negatively enriched GO terms, based on co-expressed genes. Dot color
+  indicates the Enrichment Score (ES). Dot size indicates the p value (− Log10 pvalue).
+  E A Venn diagrams showing the candidate the DEGs and miRNA181c/d targets identified
+  using the prediction algorithms TargetScan, and miRDB
+article_title: A MiR181/Sirtuin1 regulatory circuit modulates drug response in biliary
+  cancers.
+citation: Anna Barbato, et al. Clin Exp Med. 2024;24(1):74.
+year: '2024'
+
+doi: 10.1007/s10238-024-01332-0
+journal_title: Clinical and Experimental Medicine
+journal_nlm_ta: Clin Exp Med
+publisher_name: Springer International Publishing
+
+keywords:
+- Biliary tract cancer
+- miR-181
+- MicroRNA
+- Biomarkers
+- Cancer resistance
+- Cancer genomics
+
+---

@@ -1,0 +1,27 @@
+---
+figid: PMC10996520__nihpp-2024.03.20.585130v1-f0008
+pmcid: PMC10996520
+image_filename: nihpp-2024.03.20.585130v1-f0008.jpg
+figure_link: /pmc/articles/PMC10996520/figure/F8/
+number: Extended Data 3,
+figure_title: ''
+caption: related to . a, Overview of Visium-based spatial transcriptomics on day 21
+  mouse SI tissue - (left) H&E staining and (right) spots Leiden-clustered according
+  to RNA expression and positioned on the tissue. b, Visium spots colored by imputed
+  crypt-villus axis values using continuous label transfer after jointly embedding
+  with the mouse Xenium day 30 SI. c, Convolved gene expression of cytokines along
+  the imputed crypt-villus axis in the Visium sample. Red labels indicate genes that
+  were included in the Xenium gene panel. d, Full version of . Strength of outgoing
+  (left), and incoming (right) signals in each signaling pathway across all cell subtypes.
+  P14 CD8 T cells are separated into distinct regional types based on IMAP gating.
+article_title: Functional Diversity of Memory CD8 T Cells is Spatiotemporally Imprinted.
+citation: Miguel Reina-Campos, et al. bioRxiv. 2024 Mar 25:2024.03.20.585130.
+year: '2024'
+
+doi: 10.1101/2024.03.20.585130
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+---
