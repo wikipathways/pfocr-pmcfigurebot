@@ -1,0 +1,35 @@
+---
+figid: PMC9719474__41598_2022_24999_Fig4_HTML
+pmcid: PMC9719474
+image_filename: 41598_2022_24999_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9719474/figure/Fig4/
+number: Figure 4
+figure_title: ''
+caption: Differential pathway activation/inhibition in HG compared to NG conditions.
+  (A) Key pathways highlighted from pathway enrichment analysis of the DEGs (± 1.2
+  fold change, adjusted p-value < 0.05 for significance) determined at each of the
+  pairwise comparisons of each time point, 0 h vs 0.5 h NG/HG, 0 h vs 1 h NG/HG, 0 h
+  vs 4 h NG/HG, 0 h vs 8 h NG/HG, and 0 h vs 24 h NG/HG using IPA. Dots show non-significant
+  enrichment. (B) The 0 vs 4 h pairwise comparison, where most significant pathways
+  are activated/inhibited. A right-tailed Fisher’s Exact test was used to measure
+  significance of the pathway enrichment in the gene set. The horizontal bars show
+  the level of significance (−log10 p-value). The colour coding of bars indicates
+  activation/inhibition determined by the z-score (generated using fold change and
+  curated pathway relationships from the Ingenuity Knowledge Base), > or < 2 respectively.
+  Hashed bars show significant z-scores. Signalling pathways of interest are highlighted
+  by colour coded boxes.
+article_title: Hyperglycemic conditions induce rapid cell dysfunction-promoting transcriptional
+  alterations in human aortic endothelial cells.
+citation: Odmaa Bayaraa, et al. Sci Rep. 2022;12:20912.
+year: '2022'
+
+doi: 10.1038/s41598-022-24999-5
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Transcriptomics
+- Diabetes complications
+
+---

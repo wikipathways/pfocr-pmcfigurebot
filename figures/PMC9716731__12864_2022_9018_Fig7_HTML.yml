@@ -1,0 +1,48 @@
+---
+figid: PMC9716731__12864_2022_9018_Fig7_HTML
+pmcid: PMC9716731
+image_filename: 12864_2022_9018_Fig7_HTML.jpg
+figure_link: /pmc/articles/PMC9716731/figure/Fig7/
+number: Fig.7
+figure_title: ''
+caption: HMOX1 and PRSS8 are post-transcriptionally regulated by miR-24-3p. A Volcano
+  plot showing differentially expressed genes in HCT116 treated with a 100 nM miR-24
+  inhibitor relative to scramble control. Genes filtered for expression > 500 normalized
+  counts in either condition. Horizontal dashed line represents p-adj cutoff of 0.05
+  (DESeq2). B Scatterplot of predicted miR-24-3p target genes that are upregulated
+  (DESeq2 p-adj < 0.05, > 500 normalized counts in either condition) following miR-24-3p
+  inhibition (n = 70). Vertical red line represents 1.5 × fold change. Genes in red
+  exhibit > 1.5 × fold change (n = 6). Genes significantly downregulated in TCGA tumor
+  tissue compared to non-tumor are represented by triangles (n = 9). Remaining genes
+  represented by circles. (C) KEGG pathway enrichment analysis of 70 genes in (B).
+  Pathways with p-value < 0.05 represented in figure. Color represents the -log10
+  p-value. D Normalized expression from RNA-seq counts for HMOX1 and PRSS8 in TCGA
+  colon tumor relative to non-tumor tissue. Significance determined by two-sided Wilcoxon
+  test. E RT-qPCR for HMOX1 and PRSS8 following 100 nM miR-24 inhibitor or scramble
+  treatment in HCT116 cells. Significance determined by two-tailed Welch t-test. Color
+  of data points represents experimental replicate. F RT-qPCR for HMOX1 and PRSS8
+  following HCT116 treatment with 50, 100 or 150 nM miR-24 mimic or scramble. Significance
+  determined by two-tailed Student’s t-test. A non-parametric test was applied (two-sided
+  Wilcoxon test), but significance couldn't be achieved due to low sample size. G
+  DESeq2 normalized RNA-seq and ChRO-seq counts for HMOX1 and PRSS8 expression following
+  HCT116 treatment with scramble or miR-24 inhibitor. Significance determined by two-tailed
+  Welch t-test. *p < 0.05, **p < 0.01, ***p < 0.001
+article_title: Comprehensive microRNA analysis across genome-edited colorectal cancer
+  organoid models reveals miR-24 as a candidate regulator of cell survival.
+citation: Jonathan W. Villanueva, et al. BMC Genomics. 2022;23:792.
+year: '2022'
+
+doi: 10.1186/s12864-022-09018-1
+journal_title: BMC Genomics
+journal_nlm_ta: BMC Genomics
+publisher_name: BioMed Central
+
+keywords:
+- Colorectal cancer
+- MicroRNA
+- Organoid
+- CRISPR/Cas9
+- Tumor heterogeneity
+- Precision medicine
+
+---
