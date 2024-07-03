@@ -1,0 +1,59 @@
+---
+figid: PMC10208645__elife-84330-fig5
+pmcid: PMC10208645
+image_filename: elife-84330-fig5.jpg
+figure_link: /pmc/articles/PMC10208645/figure/fig5/
+number: Figure 5
+figure_title: ANT1A114P and ANT1A114P,A123D clog mitochondrial protein import in human
+  cells
+caption: '(A) Combining pathogenic mutations in ADP/ATP translocase 1 (ANT1) strongly
+  reduces protein levels, as indicated by immunoblot analysis of ANT1-hemagglutinin
+  (HA) levels 24 hr after transfecting HeLa cells. ANT1 variant levels were normalized
+  by TFAM, then plotted as relative to wild-type level. * indicates p<0.05, ****p<0.0001
+  from one-way ANOVA with Dunnett’s multiple comparisons test. (B) Immunoprecipitation
+  (IP) of ANT1-HA and ANT1A114P-HA from transiently transfected HeLa cells followed
+  by immunoblot analysis, showing that ANT1A114P has increased interaction with the
+  protein import machinery like its yeast ortholog Aac2pA128P. (C) Quantitation from
+  four independent IP, one of which is depicted in (B). p-Values were calculated with
+  a Student’s t test. (D) Immunoblot analysis following protease protection assay
+  showing that ANT1A114P and ANT1A114P,A123D are sensitive to proteinase K (PK) in
+  isolated mitochondria. Swelling in hypotonic buffer was used to burst the outer
+  membrane, and Triton X-100 was used to disrupt all membranes. OM, outer membrane;
+  IMS, intermembrane space; IM, inner membrane. (E) Quantitation of the wild-type
+  and mutant ANT1 pools that are protected from PK degradation in intact mitochondria.
+  All HA levels were normalized by TFAM, then plotted as relative to its untreated
+  sample. Replicates from three independent transfections. p-Values were calculated
+  with a one-way ANOVA and Holm-Sidak’s multiple comparisons test. (F) ANT1A114P and
+  ANT1A114P,A123D obstruct general mitochondrial protein import. Proteomics of the
+  cytosolic fraction of transfected HeLa cells reveals increase in mitochondrial proteins
+  caused by ANT1A114P-HA and ANT1A114P,A123D-HA expression relative to ANT1-HA. p-Values
+  were calculated with a Student’s t test of the average abundance levels of each
+  mitochondrial protein. (G) Volcano plot comparing the cytosolic proteome of SLC25A4
+  p.A114P,A123D vs SLC25A4-transfected HeLa cells. Data represented as mean ± SEM.
+  (H) Enrichment analysis of proteins significantly increased in the cytosol of SLC25A4
+  p.A114P,A123D-transfected HeLa cells. Depicted are the most significant enriched
+  protein groups generated from three different databases: GO: Biological Process
+  (top), KEGG pathway (middle), and GO: Molecular Function (bottom). Figure 5—source
+  data 1.Proteomic comparison of the cytosolic fraction of SLC25A4 p.A114P,A123D-
+  versus SLC25A4-transfected HeLa cells.  Figure 5—source data 2.Uncropped Western
+  blots from .'
+article_title: Mitochondrial protein import clogging as a mechanism of disease.
+citation: Liam P Coyne, et al. eLife. 2023;12:e84330.
+year: '2023'
+
+doi: 10.7554/eLife.84330
+journal_title: eLife
+journal_nlm_ta: eLife
+publisher_name: eLife Sciences Publications, Ltd
+
+keywords:
+- mitochondria
+- protein import
+- clogging
+- Ant1
+- disease
+- mPOS
+- Mouse
+- S. cerevisiae
+
+---

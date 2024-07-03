@@ -1,0 +1,44 @@
+---
+figid: PMC10185341__elife-84006-fig3
+pmcid: PMC10185341
+image_filename: elife-84006-fig3.jpg
+figure_link: /pmc/articles/PMC10185341/figure/fig3/
+number: Figure 3
+figure_title: Coordination sphere changes across the Mn2+ transport cycle of DraNramp
+caption: (A) Structures of the orthosteric metal-binding site in six conformations
+  reveal the differences in coordination geometry and illustrate that the bound Mn2+
+  is more hydrated in the outward-open and inward-open states than the occluded state.
+  In the occluded structure of metal-free WT DraNramp a density we have assigned as
+  water replaces Mn2+. Y54 in TM1a progressively moves to open the inner vestibule
+  in the transition from outward to inward open, shown by black curved arrows. (B)
+  TM1 and TM6 from a superposition of the three Mn2+-bound structures in panel a illustrate
+  the swing of the Y54 sidechain as sticks. The view is rotated 180° along the vertical
+  axis from . (C) Initial Mn2+ uptake rates for DraNramp variants Y54A and Y54F at
+  membrane potentials ranging from ΔΨ=0 to −120 mV (n=2–3; each data point is on the
+  scatter plot and black bars are the mean values). The Mn2+ concentration was 750
+  μM, and the pH was 7 on both sides of the membrane. Y54A nearly abolishes transport
+  whereas Y54F has near-wildtype initial transport rates. Corresponding time traces
+  are plotted in . (D) ITC measurements of G223W (left; one-site binding model with
+  fixed n=1) and M230A (right; two-site sequential binding model) binding to Mn2+.
+  One isotherm is shown of two measured, and the listed Kd values are the average
+  ± SEM (see Appendix 1 for ITC analysis).
+article_title: High-resolution structures with bound Mn2+ and Cd2+ map the metal import
+  pathway in an Nramp transporter.
+citation: Shamayeeta Ray, et al. eLife. 2023;12:e84006.
+year: '2023'
+
+doi: 10.7554/eLife.84006
+journal_title: eLife
+journal_nlm_ta: eLife
+publisher_name: eLife Sciences Publications, Ltd
+
+keywords:
+- Deinococcus radiodurans
+- transition metal ion transport
+- Nramp transporters
+- x-ray crystallography
+- isothermal titration calorimetry
+- E. coli
+- Other
+
+---

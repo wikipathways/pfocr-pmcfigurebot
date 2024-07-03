@@ -1,0 +1,51 @@
+---
+figid: PMC10276293__gr4
+pmcid: PMC10276293
+image_filename: gr4.jpg
+figure_link: /pmc/articles/PMC10276293/figure/fig4/
+number: Figure 4
+figure_title: ''
+caption: Inhibition of EGFR expression and downstream signaling by 35d through hsp70-mediated
+  lysosomal degradation in EGFR-mutant LUAD tumors with TKI resistance. A and B, EGFR
+  and HSP70 expression in GR6, GR8, and GR10 cells treated with 35d for 24 h were
+  determined by Western blot analysis (A). B, quantitation of EGFR and HSP70 expression
+  in GR6, GR8, and GR10 cells from (A). Results are expressed relative to total protein.
+  Comparisons between each treatment group with its untreated control group were analyzed
+  using Student’s t test followed by the Bonferroni correction for three comparisons.
+  ∗p < 0.05, ∗∗p < 0.01. C, EGFR expression in H1650, H1975, and HEK293 cells treated
+  with 35d for 24 h were determined by Western blot analysis. D, GSEA of RNA-seq data
+  as described in A using KOBAYASHI EGFR signaling DN and UP pathway gene sets. E,
+  Western blot showing EGFR expression in GR6 and GR10 cells treated with 35d (2 μM)
+  and hsp70 inhibitor ver-155008 (ver) and pifithrin (pif) at the indicated concentrations
+  (μM) for 24 h. F, fold changes in EGFR, BAG3, HSPBP1, SQSTM1, and STUB1 mRNA levels
+  in GR6 cells treated with 35d in RNA-seq data as described in A. G, Western blot
+  showing EGFR expression in GR6 and GR10 cells treated with 35d (2 μM) and lysosome
+  inhibitors hydroxychloroquine (HCQ), bafilomycinA (bafA) and proteasome inhibitors
+  MG132, ixazomib (ixa) at the indicated concentrations for 24 h. H, protein expression
+  of EGFR, hsp70, bag3, and p62 analyzed at the indicated time points in GR6 and GR10 cells
+  treated with 35d (2 μM). Relative protein levels are indicated below the blot. Total
+  protein was used as the loading control. Molecular weight markers are noted next
+  to all immunoblots. Quantitation data are from three independent experiments and
+  presented as mean ± SD (B). I, model depicting EGFR protein degradation in response
+  to 35d treatment. EGFR, epidermal growth factor receptor; GR, gef-resistant; GSEA,
+  gene set enrichment analysis; HSP, heat shock protein; LUAD, lung adenocarcinoma;
+  TKI, tyrosine kinase inhibitor.
+article_title: Diarylheptanoid 35d overcomes EGFR TKI resistance by inducing hsp70-mediated
+  lysosomal degradation of EGFR in EGFR-mutant lung adenocarcinoma.
+citation: Xuan Hong, et al. J Biol Chem. 2023 Jun;299(6):104814.
+year: '2023'
+
+doi: 10.1016/j.jbc.2023.104814
+journal_title: The Journal of Biological Chemistry
+journal_nlm_ta: J Biol Chem
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- EGFR
+- TKI-insensitive EGFR signaling
+- TKI resistance
+- lung adenocarcinoma
+- EGFR mutation
+- lung cancer
+
+---

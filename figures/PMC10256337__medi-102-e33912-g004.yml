@@ -1,0 +1,34 @@
+---
+figid: PMC10256337__medi-102-e33912-g004
+pmcid: PMC10256337
+image_filename: medi-102-e33912-g004.jpg
+figure_link: /pmc/articles/PMC10256337/figure/F4/
+number: Figure 4
+figure_title: ''
+caption: GO and KEGG analysis of COVID-19 and NAFLD related to the common genes. (A)
+  GO enrichment analysis of DEGs based on their biological processes. (B) GO enrichment
+  analysis of DEGs based on their molecular functions. (C) GO enrichment analysis
+  of DEGs based on their cell composition. (D) KEGG pathway enrichment analysis of
+  DEGs. The horizontal axis represents pathway names and the vertical axis represents
+  gene proportions; bubble size represents the number of genes; color gradient from
+  red to blue indicates enrichment significance from high to low. COVID-19 = coronavirus
+  disease, DEGs = differentially expressed genes, GO = gene ontology, KEGG = Kyoto
+  Encyclopedia of Genes and Genomes, NAFLD = nonalcoholic fatty liver disease.
+article_title: Using bioinformatics and systems biology methods to identify the mechanism
+  of interaction between COVID-19 and nonalcoholic fatty liver disease.
+citation: Wenbo Dong, et al. Medicine (Baltimore). 2023 Jun 9;102(23):e33912.
+year: '2023'
+
+doi: 10.1097/MD.0000000000033912
+journal_title: Medicine
+journal_nlm_ta: Medicine (Baltimore)
+publisher_name: Lippincott Williams & Wilkins
+
+keywords:
+- bioinformatics
+- COVID-19
+- drug repositioning
+- Ferroptosis
+- NAFLD
+
+---

@@ -1,0 +1,51 @@
+---
+figid: PMC10279719__41467_2023_38869_Fig8_HTML
+pmcid: PMC10279719
+image_filename: 41467_2023_38869_Fig8_HTML.jpg
+figure_link: /pmc/articles/PMC10279719/figure/Fig8/
+number: Fig. 8
+figure_title: Unified SPR analysis of PEAK protein interactions and proposed model
+  for PEAK3/Grb2 and PEAK3/CrkII regulation via the tandem site 14-3-3 motif
+caption: a SPR binding contributions were measured for PEAK interactors (14-3-3ɣ,
+  GrbFL and CrkIIFL and sub-domains) toward immobilized PEAK proteins with or without
+  phosphorylation by Src. Tabulated mean SPR affinity values (KD) are colored as a
+  heat map to illustrate trends in affinity. Gray cells represent KD > 50 µM or no
+  detectable binding. b Representative SPR sensorgrams for key interactions of PEAK3FL.
+  c A unifying model of PEAK3 interactions. Avidity stabilizes PEAK3/CrkII interaction
+  with clustered CrkII (interacting via the CrkIINSH3 and tandem motif PRM of the
+  PEAK3 dimer). CrkII is likely to be clustered by interaction with other adapters/scaffolds,
+  such as SH2 domain-mediated binding to partner proteins containing multiple adjacent
+  pYxxP motifs (e.g., present in known Src substrates p130cas/NEDD9, paxillin), but
+  possibly also via dimerization (e.g., SH2-mediated as we identify for recombinant
+  protein). Phosphorylation of PEAK3 at S69 creates a high-affinity binding site for
+  14-3-3, leading to the formation of a highly stable PEAK:14-3-3 dimer:dimer. Phosphorylation/binding
+  of 14-3-3 to PEAK3 destabilizes CrkII binding in the adjacent tandem site (negative
+  cooperativity), disfavoring PEAK3/CrkII complexes. Possible outcomes are termination
+  of PEAK3/CrkII signaling and/or alter PEAK3 sub-cellular localization. CrkII may
+  facilitate colocalization of PEAK3 to regions with active Src kinase (e.g., p130cas
+  at focal adhesions). Phosphorylation of PEAK3 at Y24 (e.g., by Src kinase) recruits
+  Grb2 via its SH2 domain leading to downstream signaling that alters cell motility
+  (e.g., via association with ASAP1 and PYK2 and potential PYK2/ASAP1-mediated activation
+  of the PI3K/AKT pathway). Thus, PEAK3 S69A mutation abrogates 14-3-3 binding and
+  promotes CrkII association and PEAK Y24 phosphorylation/Grb2 signaling, culminating
+  in enhanced in cell motility. d Illustrative representation of a potential dimeric
+  human PEAK3FL:14-3-3ε complex to show relative scale and key sites of interaction.
+  Depicted is the 14-3-3ε:PEAK3tandem-pS69 crystal structure (PDB 8DGP) and a structural
+  model of the PEAK3SHED-PsK dimer prepared from AlphaFold2 multimer modeling of a
+  human PEAK3FL dimer,. Unmodelled IDR linker regions are depicted as dotted lines.
+article_title: Structural mapping of PEAK pseudokinase interactions identifies 14-3-3
+  as a molecular switch for PEAK3 signaling.
+citation: Michael J. Roy, et al. Nat Commun. 2023;14:3542.
+year: '2023'
+
+doi: 10.1038/s41467-023-38869-9
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- X-ray crystallography
+- Kinases
+- Phosphorylation
+
+---

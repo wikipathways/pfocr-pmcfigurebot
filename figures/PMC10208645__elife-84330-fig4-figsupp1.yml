@@ -1,0 +1,49 @@
+---
+figid: PMC10208645__elife-84330-fig4-figsupp1
+pmcid: PMC10208645
+image_filename: elife-84330-fig4-figsupp1.jpg
+figure_link: /pmc/articles/PMC10208645/figure/fig4s1/
+number: Figure 4—figure supplement 1
+figure_title: Affinity purification in low-salt conditions suggested that Aac2pA128P
+  accumulates along the carrier protein import pathway
+caption: (A) Immunoblot analysis validating the HIS6-tagged Aac2p proteins. (B) Flow
+  chart of label-free quantitative mass spectrometry data processing strategy. See
+  Materials and methods for further details. (C) Label-free quantitative mass spectrometry
+  demonstrated that Aac2pA128P-HIS6 was about half as abundant as Aac2p-HIS6 after
+  total peptide normalization. This is consistent with immunoblot in (A) and underscores
+  the need to normalize prey protein levels by bait (i.e. Aac2) protein levels. These
+  data are from the low-salt experiment. (D) Three most significant Gene Ontology
+  (GO) Molecular Function terms overrepresented among proteins that are significantly
+  enriched in Aac2pA128P-HIS6 eluate in the low-salt experiment. (E) Seven most significant
+  GO Biological Process terms overrepresented among proteins that are significantly
+  enriched in Aac2pA128P-HIS6 eluate in the low-salt experiment. (F) Three most significant
+  protein families overrepresented among proteins that are significantly enriched
+  in Aac2pA128P-HIS6 eluate in the low-salt experiment, as determined from the Pfam
+  database. (G) Immunoblot analysis validating preferential co-purification of Tim22p
+  with Aac2pA128P-HIS6 compared with Aac2p-HIS6. (H) Quantitation from four independent
+  affinity purifications followed by immunoblotting, as shown in (D). p-Value was
+  calculated with Student’s t test. (I) The association of Aac2pA128P with Tim23p
+  was not increased compared with wild-type in the low-salt experiment. These data
+  are from label-free quantitative mass spectrometry of pull-down products. Data depicted
+  as mean ± SEM. Figure 4—figure supplement 1—source data 1.Uncropped Western blots
+  from .
+article_title: Mitochondrial protein import clogging as a mechanism of disease.
+citation: Liam P Coyne, et al. eLife. 2023;12:e84330.
+year: '2023'
+
+doi: 10.7554/eLife.84330
+journal_title: eLife
+journal_nlm_ta: eLife
+publisher_name: eLife Sciences Publications, Ltd
+
+keywords:
+- mitochondria
+- protein import
+- clogging
+- Ant1
+- disease
+- mPOS
+- Mouse
+- S. cerevisiae
+
+---

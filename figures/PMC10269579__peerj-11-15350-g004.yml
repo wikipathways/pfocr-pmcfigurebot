@@ -1,0 +1,37 @@
+---
+figid: PMC10269579__peerj-11-15350-g004
+pmcid: PMC10269579
+image_filename: peerj-11-15350-g004.jpg
+figure_link: /pmc/articles/PMC10269579/figure/fig-4/
+number: Figure 4
+figure_title: Analysis of gene expression profiles associated with DNA double-strand
+  break repair processes in SiSPTNBC Groups 1–4
+caption: '(A) Heatmap demonstrates DSB repair-related gene expression from the SiSPTNBC
+  samples. The genes on the y-axis were grouped according to their associated pathways.
+  The SISPTNBC samples on the x-axis were grouped with annotated PAM50 subtypes. (B)
+  Box plots compared the expressions of genes in a homologous recombination repair
+  (HRR) pathway between the four SiSPTNBC groups. (C) Box plots compared the expressions
+  of genes in Fanconi anemia pathway between the four SiSPTNBC groups. (D) Box plots
+  compared the expression of a gene in a non-homologous end joining (NHEJ) pathway
+  between the four SiSPTNBC groups. (E) Box plots compared the expressions of genes
+  in cell cycle regulation between the four SiSPTNBC groups. The p-values of global
+  and independent analyses were calculated by the Kruskal–Wallis test and the one-sided
+  Wilcoxon Rank Sum test, respectively (not significant (ns): p > 0.05, ∗, p ≤ 0.05,
+  ∗∗, p ≤ 0.01, and ∗∗∗, p ≤ 0.001).'
+article_title: Retrospective study of transcriptomic profiling identifies Thai triple-negative
+  breast cancer patients who may benefit from immune checkpoint and PARP inhibitors.
+citation: Monthira Suntiparpluacha, et al. PeerJ. 2023;11:e15350.
+year: '2023'
+
+doi: 10.7717/peerj.15350
+journal_title: PeerJ
+journal_nlm_ta: PeerJ
+publisher_name: PeerJ Inc.
+
+keywords:
+- Gene expression
+- Triple-negative breast cancer
+- Subtype
+- NanoString nCounter
+
+---

@@ -1,0 +1,69 @@
+---
+figid: PMC10245642__nihpp-2023.05.17.540386v1-f0005
+pmcid: PMC10245642
+image_filename: nihpp-2023.05.17.540386v1-f0005.jpg
+figure_link: /pmc/articles/PMC10245642/figure/F5/
+number: Fig 5
+figure_title: CYCLOPS clock magnitude varies in Luminal A samples, correlates with
+  EMT, and predicts prognosis
+caption: (A) Cartoon depicting CYCLOPS sample magnitude. CYLOPS projects the n-dimensional
+  eigengene expression of each sample to a plane where the circular data structure
+  is apparent. The angular position of any sample in the reconstructed circle reflects
+  its circadian phase. The distance from the circle’s center to a given sample is
+  the sample’s CYCLOPS magnitude (dotted line). This distance is a weighted sum of
+  the amplitudes of individually cycling seed genes.(B) Histogram of Luminal A CYCLOPS
+  sample magnitudes colored by tertiles (N = 70). The distribution shows a long tail.(C)
+  A histogram of transcript amplitude ratios comparing samples from the top-third
+  and bottom-third magnitude groups. Nested cosinor regression models assessed the
+  significance of including CYCLOPS sample magnitude in fitting transcript rhythms.
+  Transcripts that showed differential cycling by CYCLOPS magnitude group were identified
+  (BHq <0.05). For differentially cycling transcripts the amplitude of cycling in
+  the highest tertile was compared to the amplitude of cycling in the lowest tertile.(D)
+  Batch normalized expression data are shown for representative core clock transcripts
+  that exhibit differential cycling between magnitude groups (BHq <0.05). Luminal
+  A samples in the top tertile of CYCLOPS magnitude are shown in red and the bottom
+  two tertiles in blue. The best-fit sinusoid is superimposed for each group. Significance
+  was assessed by nested cosinor regression.(E) The CYCLOPS estimated phase of Luminal
+  A tumor samples is plotted against the matched non-cancerous samples for the small
+  number of matched samples in TCGA. Samples are colored by CYCLOPS magnitude group,
+  distinguishing the top tertile from the bottom two tertiles.(F) Five-year patient
+  mortality grouped by tumor CYCLOPS magnitude group. Patient outcome data were obtained
+  from the TCGA database. For each tertile/magnitude group, the percentage of patients
+  who died within 5 years of diagnosis is shown. The increased risk in the high-magnitude
+  tumor group remained statistically significant when evaluated in a logistic regression
+  model that included patient age and the presence of known metastasis at diagnosis
+  (chisq p<0.05).(G) MSigDB Hallmark gene sets overrepresented among transcripts that
+  showed differential cycling among Luminal A magnitude groups are shown. Transcripts
+  showing differential cycling in Luminal A magnitude groups (BHq < 0.05) were input
+  to EnrichR, and overrepresented gene sets were identified. Similarly, all transcripts
+  cycling in Luminal A tumors were ranked by the ratio of transcript amplitude in
+  the highest tertile compared to the lowest. GSEA was used to identify MSigDB Hallmark
+  gene sets enriched in the ranked list. The -log(BHq) from the EnrichR analysis is
+  plotted against the normalized enrichment score (NES) from GSEA. Both methods identify
+  the “Epithelial-mesenchymal transition” gene set as most impacted by differential
+  cycling in the high magnitude group.(H) Batch normalized expression data for selected
+  transcripts in the Epithelial-mesenchymal transition pathway exhibit differential
+  cycling (BHq <0.05). Luminal A samples in the top tertile of CYCLOPS magnitude are
+  shown in red and the bottom two tertiles in blue. The best-fit sinusoid is superimposed
+  for each condition.
+article_title: Subtype-specific circadian clock dysregulation modulates breast cancer
+  biology, invasiveness, and prognosis.
+citation: Jan A Hammarlund, et al. bioRxiv. 2023 May 19:2023.05.17.540386.
+year: '2023'
+
+doi: 10.1101/2023.05.17.540386
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+- Breast Cancer
+- Informatics
+- Circadian Data Ordering
+- Metastasis
+- Estrogen Receptor
+- Rhythm Strength
+- Prognosis
+- Circadian Medicine
+
+---

@@ -1,0 +1,29 @@
+---
+figid: PMC10275754__41388_2023_2704_Fig2_HTML
+pmcid: PMC10275754
+image_filename: 41388_2023_2704_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC10275754/figure/Fig2/
+number: Fig. 2
+figure_title: Transcriptome-wide m6A landscape under hypoxic conditions
+caption: A The top enriched motifs within m6A peaks in PANC-1 cells under either normoxic
+  (20% O2) or hypoxic (1% O2) conditions. B Pie charts showing the m6A peak distribution
+  in different RNA regions (CDS, 5′UTR, 3′UTR and stop codon) in PANC-1 cells under
+  normoxia or hypoxia. C MAplot showing the numbers of m6A peaks under hypoxic (1%
+  O2) or normoxic (20% O2) conditions. D GO enrichment map of differentially expressed
+  m6A-containing genes between hypoxic and normoxic PANC-1 cells. E KEGG pathway analysis
+  of m6A-hypo or m6A-hyper genes in response to hypoxia (1% O2).
+article_title: m6A methylation regulates hypoxia-induced pancreatic cancer glycolytic
+  metabolism through ALKBH5-HDAC4-HIF1α positive feedback loop.
+citation: Xiaoyan Liu, et al. Oncogene. 2023;42(25):2047-2060.
+year: '2023'
+
+doi: 10.1038/s41388-023-02704-8
+journal_title: Oncogene
+journal_nlm_ta: Oncogene
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cancer metabolism
+- Oncogenes
+
+---

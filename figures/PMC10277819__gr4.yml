@@ -1,0 +1,40 @@
+---
+figid: PMC10277819__gr4
+pmcid: PMC10277819
+image_filename: gr4.jpg
+figure_link: /pmc/articles/PMC10277819/figure/fig4/
+number: Figure 4
+figure_title: ''
+caption: DHT decreases Wnt signaling activities in prostate basal cell organoids(A)
+  Representative IF images showing TCF/Lef-H2B.GFP reporter signals in basal-derived
+  organoids cultured under different conditions. Scale bar, 200 μm.(B) Violin plot
+  showing GFP area percentages for different treatment conditions. Over 300 organoids
+  cultured at 3 distinct batches were quantified for each condition. ∗∗∗∗p < 0.0001,
+  Mann-Whitney U test.(C) Scatterplot of the two main components from a principal-component
+  analysis of the BM (purple), R (blue), and RD-7 (orange) samples. n = 3 organoid
+  samples in each group.(D) Unsupervised hierarchical clustering analysis showing
+  distinct transcriptomes of RD-7 from BM and R.(E) GO analysis showing the enriched
+  pathways in the comparison of R vs. RD-7, with the number of genes in each pathway.(F
+  and G) GSEA comparison of RD-7 vs. R showing androgen-responsive genes enriched
+  in the up-regulated genes in the RD-7 group (F), and Wnt pathway genes and organ
+  morphogenesis genes enriched in the down-regulated genes of the RD-7 group (G).
+article_title: Modulation of the canonical Wnt activity by androgen signaling in prostate
+  epithelial basal stem cells.
+citation: Corrigan Horton, et al. Stem Cell Reports. 2023 Jun 13;18(6):1355-1370.
+year: '2023'
+
+doi: 10.1016/j.stemcr.2023.04.003
+journal_title: Stem Cell Reports
+journal_nlm_ta: Stem Cell Reports
+publisher_name: Elsevier
+
+keywords:
+- prostate
+- stem cell
+- basal
+- luminal
+- Wnt
+- AR
+- mouse model
+
+---
