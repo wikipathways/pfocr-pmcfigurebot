@@ -1,0 +1,54 @@
+---
+figid: PMC10166480__ppat.1011320.g002
+pmcid: PMC10166480
+image_filename: ppat.1011320.g002.jpg
+figure_link: /pmc/articles/PMC10166480/figure/ppat.1011320.g002/
+number: Fig 2
+figure_title: IL6-STAT3 signaling pathway mediates temperature-dependent GCRV infection
+caption: (A-B) KEGG pathway enrichment analysis of DEGs from transcriptomic data related
+  to CIK cells by temperature-switch treatment from 18°C to 28°C (NCBI SRA database
+  accession number PRJNA862271) (A) and grass carp head kidney by GCRV infection (NCBI
+  SRA database accession number PRJNA759556) (B). The top 20 significantly enriched
+  pathways (ranked by p-value) are shown in the bar graph. (C) KEGG pathway enrichment
+  analysis of transcriptomic data from grass carp head kidney by GCRV infection at
+  28°C was presented in the form of scatterplots based on enrichment factor and p-value.
+  The enrichment factor is the ratio between the DEG number and the number of all
+  genes in a certain gene enrichment term. The sizes of the dots denote the number
+  of DEGs, while colors correspond to the p-value. (D) Heat map analysis of DEGs that
+  were up-regulated in the GCRV-infected spleen tissue was summarized (NCBI SRA database
+  accession number PRJNA759556). (E) Transcriptomic data of all genes differentially
+  regulated from GCRV-infected spleen samples of grass carp (NCBI SRA database accession
+  number PRJNA600033) were analyzed by volcano plot analysis. (F) Transcriptomic data
+  from (E) profiling some upregulated pro-inflammatory genes were analyzed by heat
+  map analysis. (G) CIK cells under temperature-switch treatment from 18°C to 28°C
+  were harvested to analyze the expression of pro-inflammatory genes by RT-PCR. (H)
+  CIK cells infected with GCRV (MOI = 5) under different temperatures (18°C, 28°C)
+  were harvested to quantify the expression of IL6 by RT-PCR. (I-L) The relative proliferation
+  of the GCRV genome (with the VP4 primer pair) and expression of IL6 in the spleen
+  (I-J) and gills (K-L) of grass carp from different time points were quantified by
+  RT-PCR. (M-N) CIK cells under temperature-switch treatment from 18°C to 28°C for
+  1 h were harvested to analyze the signal of STAT3 and the IL6-STAT3 axis transcription
+  by Western blotting analysis (M) and RT-PCR (N), respectively. STAT3 phophorylation
+  specific antibody (Y705) was probed to dictate the activation of STAT3. The density
+  of the Western blot bands was quantified using ImageJ software. (O) CIK cells pre-treated
+  with STAT3 inhibitor Stattic (1μM) were infected with GCRV (MOI = 5) at 28°C and
+  harvested to analyze the relative viral genome level by RT-PCR with the VP7 primer
+  pair. (P-Q) CIK cells pre-treated with different doses of STAT3 inhibitor Stattic
+  (0.5 μM, 1 μM, 2 μM) were infected with GCRV (MOI = 5) at 28°C and harvested to
+  analyze the expression of IL6 (P) and relative viral genome level (O) by RT-PCR
+  with the VP7 primer pair. Data were presented as mean ± SD from three independent
+  experiments. Statistical analysis was performed using one-way ANOVA between different
+  groups and the asterisk (*) indicates significant differences between groups. *
+  p<0.05, **p<0.01, ***p<0.001.
+article_title: An aquatic virus exploits the IL6-STAT3-HSP90 signaling axis to promote
+  viral entry.
+citation: Guoli Hou, et al. PLoS Pathog. 2023 Apr;19(4):e1011320.
+year: '2023'
+
+doi: 10.1371/journal.ppat.1011320
+journal_title: PLOS Pathogens
+journal_nlm_ta: PLoS Pathog
+publisher_name: Public Library of Science
+
+keywords:
+---
