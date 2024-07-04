@@ -1,0 +1,34 @@
+---
+figid: PMC11212096__jcav15p4360g006
+pmcid: PMC11212096
+image_filename: jcav15p4360g006.jpg
+figure_link: /pmc/articles/PMC11212096/figure/F6/
+number: Figure 6
+figure_title: ''
+caption: Functional inference of MYBL2 in PAAD. (A) Volcano plot analysis identifies
+  DEGs. Red dots represent 139 upregulated genes; blue dots represent 87; grey dots
+  indicate not significant. DEGs with the criteria set of |log2FC| > 1, adjusted p
+  < 0.05. (B) Differential gene expression heat map with different colors representing
+  trends in gene expression in pancreatic cancer tissues. (C) GO term enrichment results
+  for differentially up-regulated genes. (D) Differential up-regulation of genes KEGG
+  pathway enrichment results. Colors represent the significance of differential enrichment,
+  the size of the circles represents the number of genes, the larger the circle, the
+  greater the number of genes.
+article_title: MYBL2 is a Novel Independent Prognostic Biomarker and Correlated with
+  TMB in pancreatic cancer.
+citation: Yanping Li, et al. J Cancer. 2024;15(13):4360-4373.
+year: '2024'
+
+doi: 10.7150/jca.96320
+journal_title: Journal of Cancer
+journal_nlm_ta: J Cancer
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- MYBL2
+- pancreatic cancer
+- prognosis
+- survival analysis
+- TMB
+
+---

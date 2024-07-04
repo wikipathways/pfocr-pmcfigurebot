@@ -1,0 +1,37 @@
+---
+figid: PMC10841372__nihms-1939064-f0003
+pmcid: PMC10841372
+image_filename: nihms-1939064-f0003.jpg
+figure_link: /pmc/articles/PMC10841372/figure/F3/
+number: Fig. 3
+figure_title: Transcriptional analysis of RNF185 KD MPC3 cells and comparison analysis
+  with clinical transcriptomics reveals EMT pathway activation and collagen upregulation
+caption: '(A) Principal Component Analysis (PCA) plot of MPC3-pLKO and MPC3-shRNF185
+  #1 and #3 biological replicates. (B) Heatmap comparing significantly altered diseases
+  and functions in MPC3-shRNF185 #1 and #3 compared to MPC3-pLKO. (C) GSEA enrichment
+  plots showing enrichment of the EMT hallmark gene set in MPC3-shRNF185 #1 and #3
+  relative to MPC3-pLKO, and in TCGA’s PRAD patients with low RNF185 mRNA expression
+  (bottom 25%) relative to those with high expression (top 25%). (D) Venn Diagrams
+  of enriched genes from HALLMARK_EMT in MPC3-shRNF185 #1 and #3 cells and in low
+  RNF185 expressing patients from TCGA dataset. (E) qRT-PCR analysis of COL5A2 and
+  COL3A1 in MPC3-pLKO and MPC3-shRNF185 cells, and in the human prostate cancer line
+  PC3 transfected with RNF185 siRNA. Box plots show median and whiskers.'
+article_title: RNF185 control of COL3A1 expression limits prostate cancer migration
+  and metastatic potential.
+citation: Benjamin Van Espen, et al. Mol Cancer Res. ;22(1):41-54.
+year: '2024'
+
+doi: 10.1158/1541-7786.MCR-23-0512
+journal_title: 'Molecular cancer research : MCR'
+journal_nlm_ta: Mol Cancer Res
+publisher_name: ''
+
+keywords:
+- ubiquitin ligase
+- RNF185
+- prostate adenocarcinoma
+- metastasis
+- epithelial-mesenchymal transition (EMT)
+- collagen
+
+---

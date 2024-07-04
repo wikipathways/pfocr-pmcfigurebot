@@ -1,0 +1,35 @@
+---
+figid: PMC11195080__nihpp-2024.06.10.598332v1-f0002
+pmcid: PMC11195080
+image_filename: nihpp-2024.06.10.598332v1-f0002.jpg
+figure_link: /pmc/articles/PMC11195080/figure/F2/
+number: 'Figure 2:'
+figure_title: The effect of Crp/cAMP on Persister Cell Metabolism during Stationary
+  Phase
+caption: '(a) MS analysis of E. coli K-12 MG1655 WT, Δcrp, and ΔcyaA at early (t=5h)
+  and late (t=24h) stationary phases. Unsupervised hierarchical clustering was applied
+  to standardized metabolic data. Each column represents a biological replicate. n=4.
+  (b) Pathway enrichment analysis was conducted using MetaboAnalyst. Upregulated and
+  downregulated pathways of the Δcrp strain compared to WT in the late-stationary
+  growth phase were provided in this figure (refer to Supplementary Fig. 5, 6, and
+  7 for the other pairwise comparisons). (c, d) Pathway enrichment maps comparing
+  metabolites of the TCA cycle, pentose phosphate metabolism, glycolysis, gluconeogenesis,
+  and pyruvate metabolism in Δcrp versus WT for ESP and LSP conditions, respectively.
+  Circle size corresponds to the ratio of normalized metabolite intensities between
+  mutant and control cells. Blue (P ≤ 0.05 for dark blue; 0.05 < P < 0.10 for light
+  blue) and red (P ≤ 0.05 for dark red; 0.05 < P < 0.10 for light red) indicate significantly
+  downregulated or upregulated metabolites in the mutant compared to the control.
+  White signifies no significant difference. n=4 for all panels. ESP: Early stationary
+  phase, LSP: Late stationary phase.'
+article_title: UNRAVELING CRP/cAMP-MEDIATED METABOLIC REGULATION IN ESCHERICHIA COLI
+  PERSISTER CELLS.
+citation: Han G. Ngo, et al. bioRxiv. 2024 Jun 10:2024.06.10.598332.
+year: '2024'
+
+doi: 10.1101/2024.06.10.598332
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+---

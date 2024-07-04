@@ -1,0 +1,46 @@
+---
+figid: PMC10827085__nihpp-2024.01.10.574621v2-f0004
+pmcid: PMC10827085
+image_filename: nihpp-2024.01.10.574621v2-f0004.jpg
+figure_link: /pmc/articles/PMC10827085/figure/F4/
+number: Figure 4 –
+figure_title: Proteomics confirms GLUT1 absence in CD34+ GLUT1-KO derived reticulocytes
+  and Metabolite analyses reveals downregulated metabolic processes
+caption: A Simplified schematic of multi-omics cell preparation, where CD34+ from
+  3 donors were nucleofected with either GLUT1- or non-targeting gRNAs, expanded and
+  differentiated into reticulocytes. 10 million filtered reticulocytes were needed
+  for comprehensive analyses of the proteome, metabolome, and lipidome. Made using
+  BioRender. B Box plot comparing GLUT1 protein level between NT and GLUT1 KO reticulocytes
+  as Log2(Fold change). Box plot analysis (mean±min to max with standard deviation)
+  was performed by RStudio, and significance was calculated upon false discovery rate
+  correction (***p < 0.001).C,D Hierarchical clustering of the Top 50 t-test significant
+  proteins (C) and metabolites (D) between NT and GLUT1 KO CD34+-derived reticulocytes.
+  E Schematic representation of Glycolysis, the Polyol pathway, and the Glutathione
+  redox cycle where proteins and metabolites are colour-coded by Log2 (Fold Change)
+  of GLUT1-KO reticulocytes in relation to NT control. The 10 steps of glycolysis
+  are represented, with glucose and lactate both reduced in the KO while the remaining
+  intermediate products increased. All involved enzymes are decreased (HK, Hexokinase;
+  GPI, Glucose-6-phosphate isomerase; PFK1, Phosphofructokinase-1; TPI1, Triosephosphate
+  isomerase; GAPDH, Glyceraldehyde-3-phosphate dehydrogenase; BPGM, Biphosphoglycerate
+  mutase; PGK, Phosphoglycerate kinase; PGAM, Phosphoglycerate mutase; PK, Pyruvate
+  kinase; LDHA, Lactate dehydrogenase A). There is an imbalance in the Glutathione
+  cycle, as a consequence of increased ROS, characterised by the depletion of the
+  reduced form (GSH) and increase of oxidised glutathione (GSSG) and glutathione peroxidase
+  1 (GPX1). The Hexose monophosphate (HMP) shunt is upregulated as source of NADPH,
+  needed to maintain glutathione in its reduced form. (G6PD, Glucose-6-phosphate dehydrogenase;
+  PGLS, 6-phosphogluconolactonase; GSR, Glutathione-disulfide reductase). An increase
+  in polyols (such as sorbitol and mannitol) was also detected, which can be converted
+  into Fructose-1,6-phosphate by sorbitol dehydrogenase (SORD) and ketohexokinase
+  (KHK). Created with Biorender.
+article_title: Complete absence of GLUT1 does not impair human terminal erythroid
+  differentiation.
+citation: CM Freire, et al. bioRxiv. 2024 Jan 15:2024.01.10.574621.
+year: '2024'
+
+doi: 10.1101/2024.01.10.574621
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+---

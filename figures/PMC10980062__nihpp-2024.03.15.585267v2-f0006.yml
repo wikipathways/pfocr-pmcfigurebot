@@ -1,0 +1,44 @@
+---
+figid: PMC10980062__nihpp-2024.03.15.585267v2-f0006
+pmcid: PMC10980062
+image_filename: nihpp-2024.03.15.585267v2-f0006.jpg
+figure_link: /pmc/articles/PMC10980062/figure/F6/
+number: Figure 6
+figure_title: Disease-associated gene modules in inhibitory neurons using co-expression
+  networks derived from AD-dysregulated gene programs
+caption: (a—c). UMAP plot of the TOM illustrating neuronal co-expression networks
+  constructed from genes programs comprising dysregulated pathways in inhibitory neurons
+  in the (a) MTG, (b) SFG, and (c) ETC. Nodes represent genes, color-coded by module
+  membership, linked by edges depicting co-expression strength, with node size reflecting
+  gene eigengene-based connectivity (see ). Top hub genes are annotated within each
+  module, with bold labels and directional arrows indicating hDEGs as up- or down-regulated.
+  Network visualization is simplified by edge downsampling for clarity. (d—i). Gene
+  overlap analysis showing overlap of DEGs (d, f, h) and AD-associated genes () (e,
+  g, i) with genes within co-expression modules, using Fisher’s exact test. An “X”
+  indicates nonsignificant overlap (FDR > 0.05). (j—l). Lollipop plots representing
+  the fold-change of DMEs, with the dot size corresponding to the number of genes
+  in the respective module. An “X” overlays modules without statistically significant
+  expression changes (FDR > 0.05). (m—o). GO term enrichment within differentially
+  expressed co-expression modules. Bar plots illustrate the log-scaled enrichment
+  scores; blue arrows indicate downregulated, and red arrows indicate upregulated
+  processes.
+article_title: Systematic Analysis of Biological Processes Reveals Gene Co-expression
+  Modules Driving Pathway Dysregulation in Alzheimer’s Disease.
+citation: Temitope Adeoye, et al. bioRxiv. 2024 Mar 19:2024.03.15.585267.
+year: '2024'
+
+doi: 10.1101/2024.03.15.585267
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+- Alzheimer’s disease
+- single-nucleus RNA-sequencing
+- biological processes
+- gene co-expression modules
+- pathway dysregulation
+- systems analysis
+- hub genes
+
+---

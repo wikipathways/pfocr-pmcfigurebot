@@ -1,0 +1,35 @@
+---
+figid: PMC10980062__nihpp-2024.03.15.585267v2-f0002
+pmcid: PMC10980062
+image_filename: nihpp-2024.03.15.585267v2-f0002.jpg
+figure_link: /pmc/articles/PMC10980062/figure/F2/
+number: Figure 2
+figure_title: Cell-type-specific pathway perturbations in AD
+caption: (a—c). Heatmaps representing select Gene Ontology biological processes dysregulated
+  in individual cell types (nominal P < 0.05). Each column represents data for a particular
+  brain region. Unique alterations denote evidence of pathway alteration in a single
+  cell type, with red indicating upregulation and blue signifying downregulation.
+  Pathways discussed in the Article are highlighted in bold text. (d—f), Distribution
+  of up- and down-regulated pathways across each cell type. Black indicates upregulation
+  and grey indicates downregulation. (g—i), Upset plots displaying the distribution
+  of uniquely perturbed pathways.
+article_title: Systematic Analysis of Biological Processes Reveals Gene Co-expression
+  Modules Driving Pathway Dysregulation in Alzheimer’s Disease.
+citation: Temitope Adeoye, et al. bioRxiv. 2024 Mar 19:2024.03.15.585267.
+year: '2024'
+
+doi: 10.1101/2024.03.15.585267
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+- Alzheimer’s disease
+- single-nucleus RNA-sequencing
+- biological processes
+- gene co-expression modules
+- pathway dysregulation
+- systems analysis
+- hub genes
+
+---

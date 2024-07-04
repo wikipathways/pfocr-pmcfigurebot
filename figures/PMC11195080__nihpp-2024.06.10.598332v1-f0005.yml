@@ -1,0 +1,50 @@
+---
+figid: PMC11195080__nihpp-2024.06.10.598332v1-f0005
+pmcid: PMC11195080
+image_filename: nihpp-2024.06.10.598332v1-f0005.jpg
+figure_link: /pmc/articles/PMC11195080/figure/F5/
+number: 'Figure 5:'
+figure_title: Crp/cAMP-Mediated Metabolic State of Persister Cells
+caption: (a) GFP reporter plasmid introduced into E. coli K-12 MG1655 WT, Δcrp, and
+  ΔcyaA cells to monitor SQR gene activity. Flow cytometry was used to detect activity
+  at early (t=5h) and late (t=24h) stationary phases. The panel on the left represents
+  a biological replicate, and the results are consistent across all 3 replicates,
+  as demonstrated in the panel on the right. Statistical significance observed between
+  control and mutant groups (*P < 0.05, **P < 0.01, ***P < 0.001, 2-tailed t-test).
+  (b) Redox activities of E. coli K-12 MG1655 WT, Δcrp, and ΔcyaA cells were measured
+  at early (t=5h) and late (t=24h) stationary phases by flow cytometry using a RSG
+  dye. This dye fluoresces green after reduction by bacterial reductases. A representative
+  biological replicate is shown (left), with consistent results across all 5 replicates
+  (right). Statistical significance observed between control and mutant groups (*P
+  < 0.05, **P < 0.01, 2-tailed t-test). (c) E. coli cells with integrated mCherry
+  expression system used to validate cellular respiration. Cells were diluted into
+  fresh media and treated with ampicillin (200 μg/mL) for 20 hours. Flow cytometry
+  measured the red fluorescence of intact surviving cells. A representative biological
+  replicate is shown, with consistent results across all 3 replicates. (d) RSG levels
+  of cells (carrying the mCherry expression system) at exponential phase (t=3h); cells
+  before ampicillin treatment; non-lysed (intact) cells after 20 hours of ampicillin
+  treatment; and untreated cells after 20 hours of culturing. A representative biological
+  replicate is shown (left), with consistent results across all 4 replicates (right).
+  Statistical significance observed between intact antibiotic-treated cells and others
+  (*P < 0.05, **P < 0.01, 2-tailed t-test). (e) High throughput screening of mutants
+  from Keio collection. The mutant strains selected are associated with central metabolism.
+  Stationary phase cells were diluted 100-fold in fresh medium and treated with ampicillin
+  (200 μg/mL) or ofloxacin (5 μg/mL) for 20 hours. Treated cultures were washed, serially
+  diluted, and plated on agar plates to quantify CFUs. (f) Genes related to the TCA
+  cycle, ETC, ATP synthase, glycolysis, and pentose phosphate pathway (PPP) were knocked
+  out and then treated with ampicillin (200 μg/mL) or ofloxacin (5 μg/mL) to enumerate
+  CFUs. n=4. Biphasic kill curves were generated using a non-linear model. Statistical
+  significance tests were conducted using F-statistics (*P < 0.05, and **P < 0.01).
+  Each data point represents the mean value ± standard deviation.
+article_title: UNRAVELING CRP/cAMP-MEDIATED METABOLIC REGULATION IN ESCHERICHIA COLI
+  PERSISTER CELLS.
+citation: Han G. Ngo, et al. bioRxiv. 2024 Jun 10:2024.06.10.598332.
+year: '2024'
+
+doi: 10.1101/2024.06.10.598332
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+---

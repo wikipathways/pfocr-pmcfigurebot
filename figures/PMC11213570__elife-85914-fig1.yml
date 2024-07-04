@@ -1,0 +1,42 @@
+---
+figid: PMC11213570__elife-85914-fig1
+pmcid: PMC11213570
+image_filename: elife-85914-fig1.jpg
+figure_link: /pmc/articles/PMC11213570/figure/fig1/
+number: Figure 1
+figure_title: Analysis of a new cohort shows an IFN-rich environment in non-lesional
+  DLE skin
+caption: (A–H) Microarray analysis of gene expression from non-lesional skin of DLE
+  (n=7, this manuscript), lesional DLE (n=7), psoriasis patients (n=17), and healthy
+  controls (n=13) (). In (A, D–F), analyses include lesional DLE or both lesional
+  and psoriasis samples. (A) Principal component analysis (PCA) of patient samples
+  using top 500 genes. (B) Differentially expressed pathways in control and non-lesional
+  DLE skin were determined using QuSAGE pathway analysis against Molecular Signatures
+  Database (MSigDB). (C) Volcano plot of differentially expressed genes. Genes from
+  IFN-α/β (red), IFN-γ (blue) pathways, and IRF transcription factors (green) are
+  marked. (D) Heatmap of z-score transformed gene expression in the IFN-α/β signaling
+  pathway. (E–H) Gene Set Variation Analysis (GSVA) of gene sets relevant to lupus
+  (), with (G–H) comparing only control and non-lesional skin. (F, H) GSVA using gene
+  sets comprising specific IFN subtypes. (E–H) *p<0.05, **p<0.01, ***p<0.001, ****p<0.0001
+  by unpaired t-test.
+article_title: The interferon-rich skin environment regulates Langerhans cell ADAM17
+  to promote photosensitivity in lupus.
+citation: Thomas Morgan Li, et al. eLife. 2024;13:e85914.
+year: '2024'
+
+doi: 10.7554/eLife.85914
+journal_title: eLife
+journal_nlm_ta: eLife
+publisher_name: eLife Sciences Publications, Ltd
+
+keywords:
+- lupus
+- langerhans cells
+- interferons
+- photosensitivity
+- inflammation
+- ADAM17
+- Human
+- Mouse
+
+---

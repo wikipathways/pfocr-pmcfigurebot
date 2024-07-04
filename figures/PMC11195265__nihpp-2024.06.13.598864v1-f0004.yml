@@ -1,0 +1,34 @@
+---
+figid: PMC11195265__nihpp-2024.06.13.598864v1-f0004
+pmcid: PMC11195265
+image_filename: nihpp-2024.06.13.598864v1-f0004.jpg
+figure_link: /pmc/articles/PMC11195265/figure/F4/
+number: Figure 4
+figure_title: Collagen pathway gene expression is elevated in Lair1 KO S. aureus-infected
+  skin and macrophages
+caption: '(A, C) Bone marrow-derived macrophages from WT and Lair1 KO mice were treated
+  with PBS or PAM3CSK4 for 6 hours, then subjected to RNA-sequencing. (B, D) Skin
+  punch biopsies from WT and Lair1 KO mouse S. aureus skin infection were taken at
+  2 dpi, then subjected to RNA-sequencing. GSEA was used to define the top 20 mouse
+  Reactome pathways in genes upregulated in Lair1 KO in BMDM treated with PAM3CSK4
+  (A) and skin infection (B); collagen-related pathways common to both analyses are
+  bolded in teal. Genes from the four pathways, many of which overlapped, were classified
+  into three general categories: collagen genes, collagen synthesis genes, and extracellular
+  matrix (ECM) remodeling genes. Heat maps show z-scored expression for these genes
+  for BMDM (C) and S. aureus skin infection (D). Example images from trichrome stained
+  S. aureus-infected skin lesions at 1 dpi from WT (E) and Lair1 KO (F) are shown,
+  with abscess marked with an asterisk (dermonecrosis not yet developed at 1 dpi),
+  as well as average capsule thickness at 3 points per lesion, measured in 4 WT and
+  5 KO skin lesions across multiple sections (G) (unpaired t-test, ns = non-significant).'
+article_title: LAIR1 prevents excess inflammatory tissue damage in S. aureus skin
+  infection and Cutaneous T-cell Lymphoma.
+citation: Hannah K. Dorando, et al. bioRxiv. 2024 Jun 16:2024.06.13.598864.
+year: '2024'
+
+doi: 10.1101/2024.06.13.598864
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+---

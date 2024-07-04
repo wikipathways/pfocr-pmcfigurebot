@@ -1,0 +1,46 @@
+---
+figid: PMC11212088__jcav15p4219g003
+pmcid: PMC11212088
+image_filename: jcav15p4219g003.jpg
+figure_link: /pmc/articles/PMC11212088/figure/F3/
+number: Figure 3
+figure_title: ''
+caption: Dynamic changes of T cell subsets in HCC and immune pathway studies. (A)
+  UMAP plot showing the difference in the distribution of T cell subpopulations in
+  HCC and PC, which were categorized into Naive T cells, Cytotoxic T cells, Treg,
+  Unknown, and Exhausted T cells. (B) Bar graph demonstrating the percentage of T
+  cell subpopulations in the tissues of HCC and PC. (C) UMAP plot presenting the developmental
+  trajectory tree of T cell subpopulations. T cells are differentiated into various
+  subpopulations starting with Naive T cells. (D) Bar graph presenting the percentage
+  of T cell subpopulations in the combined HCC and PC samples. The percentage of Cytotoxic
+  T cells in HCC was significantly decreased, while Naive T cells, Treg, and Exhausted
+  T cells were significantly increased. (E) Proposed temporal changes of the top 10
+  genes ranked by the Moran Index with cell development. (F) Network heatmap showing
+  the signaling pathways of T cell subpopulations. (G) Input versus output signal
+  intensity. Output signals are dominated by Exhausted T cells, whereas output signals
+  are dominated by Treg emitted (H) Bubble diagram showing differences in signaling
+  intensity of specific pathways (I) Differences in changes of TNFRSF14 (HVEM) in
+  PC and HCC during the course of following cell development. (J) Differences in CD4
+  changes in PC and HCC during development with cells. (K) Single-cell GSEA. natural
+  killer cell mediated cytotoxicity, Toll-like receptor signaling pathway downregulation;
+  Glycolysis -Gluconeogenesis and Oxidative phosphorylation were upregulated in T
+  cell subsets.
+article_title: 'Causal relationship between immune cells and hepatocellular carcinoma:
+  a Mendelian randomisation study.'
+citation: Jingyi Tang, et al. J Cancer. 2024;15(13):4219-4231.
+year: '2024'
+
+doi: 10.7150/jca.96744
+journal_title: Journal of Cancer
+journal_nlm_ta: J Cancer
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- HCC
+- 731 immune traits
+- Mendelian Randomization
+- Single-cell RNA sequence
+- Pseudo-time analysis
+- Tumor microenvironment
+
+---

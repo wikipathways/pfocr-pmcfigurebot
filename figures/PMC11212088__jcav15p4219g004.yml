@@ -1,0 +1,43 @@
+---
+figid: PMC11212088__jcav15p4219g004
+pmcid: PMC11212088
+image_filename: jcav15p4219g004.jpg
+figure_link: /pmc/articles/PMC11212088/figure/F4/
+number: Figure 4
+figure_title: ''
+caption: 'Monocyte signaling pathway activity and metabolic activity. (A) UMAP plot
+  showing the difference in the distribution of monocyte subpopulations in HCC versus
+  PC, except for Unknown and Macrophages, where monocytes were further categorized
+  into Classical Monocytes, Non-Classical Monocytes, and Intermediate Monocytes. (B)
+  Bar graph demonstrating the percentage of monocyte subpopulations in the combined
+  HCC and PC samples. (C) Bar graph demonstrating the percentage of monocyte subpopulations
+  of HCC and PC sample tissues. (D-E) UMAP plots presenting the developmental trajectory
+  tree of monocyte subpopulations. (F) Differences in CD14, CD83, CDDKN1A, COD2 with
+  cell development in HCC and PC. (G) The proposed temporal changes of the top 10
+  genes ranked by the Moran index with cell development. (H) Heatmap format visualizing
+  the ITGB2 signaling network with Classical Monocytes and Non-Classical Monocytes
+  as the main emitters (I) Bubble diagram showing the signaling pathway between monocyte
+  subpopulations, Non-Classical Monocytes were found to be active in the MIF pathway
+  (J) Violin graph demonstrates the receptor expression of the ITGB2 signaling pathway,
+  and only Intermediate Monocytes specifically express ICAM1.(K) Monocyte GSEA: Oxidative
+  phosphorylation, Ribosome expression is upregulated; while Bile secretion, Autoimmune
+  thyroid disease were downregulated.'
+article_title: 'Causal relationship between immune cells and hepatocellular carcinoma:
+  a Mendelian randomisation study.'
+citation: Jingyi Tang, et al. J Cancer. 2024;15(13):4219-4231.
+year: '2024'
+
+doi: 10.7150/jca.96744
+journal_title: Journal of Cancer
+journal_nlm_ta: J Cancer
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- HCC
+- 731 immune traits
+- Mendelian Randomization
+- Single-cell RNA sequence
+- Pseudo-time analysis
+- Tumor microenvironment
+
+---

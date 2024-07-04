@@ -1,0 +1,38 @@
+---
+figid: PMC11209726__thnov14p3603g002
+pmcid: PMC11209726
+image_filename: thnov14p3603g002.jpg
+figure_link: /pmc/articles/PMC11209726/figure/F2/
+number: Figure 2
+figure_title: ''
+caption: 'Impact of Metformin treatment on LF-IPF: a scRNA-seq analysis. (A-B) UMAP
+  integrating vehicle and Metformin treated LF-IPF for the 2 independent samples considered.
+  Please note that the expression of COL1A1 and PLIN2 is drastically decreased and
+  increased by Metformin treatment, respectively. (C) Correlation of the Metformin
+  response in the LF-IPF. The log2 Fold change (Metformin/Vehicle) for each gene is
+  plotted. Brown dots correspond to genes significantly modulated in both LF-IPF#5
+  and LF-IPF#6. Green and red dots correspond to genes significantly modulated in
+  either LF-IPF#5 and LF-IPF#6, respectively. Venn diagram shows the genes modulated
+  by Metformin in the 2 LF-IPF. (D) Heatmap integrating the 4 samples showing the
+  main gene markers for each condition. (E-F) Functions and pathway enrichment analysis
+  on differentially regulated genes between Metformin and Control. GOBP: Gene Ontology
+  Biological Processes; KEGG: Kyoto Encyclopedia of Genes and Genome pathways.'
+article_title: 'Highlighting fibroblast plasticity in lung fibrosis: the WI-38 cell
+  line as a model for investigating the myofibroblast and lipofibroblast switch.'
+citation: Esmeralda Vásquez-Pacheco, et al. Theranostics. 2024;14(9):3603-3622.
+year: '2024'
+
+doi: 10.7150/thno.93519
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- WI-38
+- Lipofibroblast
+- Myofibroblast
+- reversible switch
+- fibrosis
+- lung.
+
+---

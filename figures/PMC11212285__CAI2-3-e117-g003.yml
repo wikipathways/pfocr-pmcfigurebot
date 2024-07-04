@@ -1,0 +1,43 @@
+---
+figid: PMC11212285__CAI2-3-e117-g003
+pmcid: PMC11212285
+image_filename: CAI2-3-e117-g003.jpg
+figure_link: /pmc/articles/PMC11212285/figure/cai2117-fig-0003/
+number: Figure 3
+figure_title: ''
+caption: Mitogen‐activated protein kinase 4 (MAPK4) silencing inhibits the proliferation
+  of endothelial cells (ECs) by regulating the Raf/MEK/ERK1/2 signaling pathway. Human
+  umbilical vein ECs (HUVECs) were transiently transfected with MAPK4 small interfering
+  RNA (siRNA) (50 nM) in 24‐well plates via Lipofectamine 3000 reagent in vitro. (a)
+  Volcano plot showing genes with differential expression in MAPK4‐silenced HUVECs
+  (MAPK4 HUVECs) compared with NC HUVECs, as determined by RNA sequencing (RNA‐seq).
+  n =  3 per group. (b, c) Gene set enrichment analysis plots (left) and heat maps
+  (right) of the RNA‐seq data for NC HUVECs and MAPK4 HUVECs. (d) Western blot analysis
+  was used to evaluate the levels of protein kinase B (AKT), phosphorylated AKT (p‐AKT),
+  c‐Jun n‐terminal kinase (JNK), phosphorylated JNK (p‐JNK), nuclear factor κB (NF‐κB),
+  phosphorylated NF‐κB (p‐NF‐κB), (e) ERK1/2, phosphorylated ERK1/2 (p‐ERK1/2), (f)
+  rat sarcoma (Ras), Raf, p‐Raf, MEK, and phosphorylated MEK (p‐MEK) in HUVECs. (g)
+  24 h after transfection, transfected cells were treated with the p‐ERK1/2 inhibitor
+  and cultured for another 24 h. (h) Immunofluorescence was used to evaluate and quantitatively
+  analyze the p‐ERK1/2 level in HUVECs. Representative data from three independent
+  experiments are shown. **p < 0.01. ERK1/2, extracellular regulated protein kinases
+  1/2; MEK, mitogen‐activated extracellular signal‐regulated kinase; Raf, rapidly
+  accelerated fibrosarcoma.
+article_title: MAPK4 facilitates angiogenesis by inhibiting the ERK pathway in non‐small
+  cell lung cancer.
+citation: Jing Chen, et al. Cancer Innov. 2024 Jun;3(3):e117.
+year: '2024'
+
+doi: 10.1002/cai2.117
+journal_title: Cancer Innovation
+journal_nlm_ta: Cancer Innov
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- angiogenesis
+- endothelial cell
+- MAPK4
+- NSCLC
+- p‐ERK1/2
+
+---

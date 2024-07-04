@@ -1,0 +1,39 @@
+---
+figid: PMC11211573__fgene-15-1412767-g002
+pmcid: PMC11211573
+image_filename: fgene-15-1412767-g002.jpg
+figure_link: /pmc/articles/PMC11211573/figure/F2/
+number: FIGURE 2
+figure_title: ''
+caption: Ehmt2 is crucial for maintaining faithful transcriptional homeostasis in
+  response to injury during acute pancreatitis. (A) PCA based on DEGs from RNA-seq
+  conducted on pancreas tissue from Ehmt2 +/+  and Ehmt2 fl/fl  adult mice both with
+  and without induction of acute pancreatitis is shown. Venn diagram illustrates the
+  overlap in significant DEGs between mice treated with caerulein and untreated mice,
+  comparing Ehmt2 +/+  and Ehmt2 fl/fl  animals for both (B) upregulated and (C) downregulated
+  genes. (D) Heatmap displays the average expression of DEGs that were significant
+  in at least one condition for Ehmt2 +/+  and Ehmt2 fl/fl  animals in absence or
+  presence of caerulein treatment. (E) MSigDB Hallmarks pathway enrichment analysis
+  of significant DEGs between mice treated with caerulein and untreated mice in both
+  Ehmt2 +/+  and Ehmt2 fl/fl  animals is shown for upregulated and downregulated genes.
+article_title: Ehmt2 inactivation in pancreatic epithelial cells shapes the transcriptional
+  landscape and inflammation response of the whole pancreas.
+citation: Gareth Pollin, et al. Front Genet. 2024;15:1412767.
+year: '2024'
+
+doi: 10.3389/fgene.2024.1412767
+journal_title: Frontiers in Genetics
+journal_nlm_ta: Front Genet
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- EHMT2 (G9a)
+- acute pancreatitis
+- inflammation
+- epigenetics
+- gene expression
+- RNA-seq
+- spatial transcriptomics
+- conditional knock out mice
+
+---

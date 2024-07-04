@@ -1,0 +1,32 @@
+---
+figid: PMC11216742__nihms-2002572-f0005
+pmcid: PMC11216742
+image_filename: nihms-2002572-f0005.jpg
+figure_link: /pmc/articles/PMC11216742/figure/F5/
+number: Fig. 5
+figure_title: Comparison of enriched KEGG pathways among EDC study clusters
+caption: (A-C) Upset plot of significant KEGG pathways (FDR<0.05) enriched for total
+  DEGs (A), up-regulated DEGs (B) and down-regulated DEGs (C). Horizontal bars (set
+  size) indicate total number of pathways for each cluster in each plot. In the upset
+  plots, dots point to the specific EDC clusters for which the vertical bars for pathway
+  counts are shown, and vertical lines between dots represent the intersections between
+  two or more clusters. Terms labeled in red indicate metabolic pathways of interest.
+article_title: Systematic Transcriptome-wide Meta-Analysis across Endocrine Disrupting
+  Chemicals Reveals Shared and Unique Liver Pathways, Gene Networks, and Disease Associations.
+citation: Zacary Zamora, et al. Environ Int. ;183:108339-108339.
+year: '2024'
+
+doi: 10.1016/j.envint.2023.108339
+journal_title: Environment international
+journal_nlm_ta: Environ Int
+publisher_name: ''
+
+keywords:
+- Cardiometabolic disease
+- Liver
+- Transcriptome
+- Endocrine disrupting chemicals
+- Meta-analysis
+- Network analysis
+
+---

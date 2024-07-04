@@ -1,0 +1,41 @@
+---
+figid: PMC11211979__fendo-15-1354214-g005
+pmcid: PMC11211979
+image_filename: fendo-15-1354214-g005.jpg
+figure_link: /pmc/articles/PMC11211979/figure/f5/
+number: Figure 5
+figure_title: ''
+caption: Z-scores and Kyoto Encyclopedia of Genes and Genomes (KEGG) analysis of differences
+  in metabolites among different groups. (A–C) Z-score analysis of relative quantification
+  values of metabolites on the same horizontal plane between different groups, Z-score
+  values on the horizontal axis, and differential metabolites on the vertical axis.
+  Only the top 30 metabolites (in descending order of P-values) are shown in the figure.
+  (D–F) KEGG analysis of pathways enriched in differential metabolites between different
+  groups. Pathway enrichment can determine the main biochemical metabolic and signal
+  transduction pathways involved in differential metabolites. The horizontal axis
+  in the figure is x/y (the number of differential metabolites in the corresponding
+  metabolic pathway/the total number of metabolites identified in the pathway), and
+  the larger the value, the higher the enrichment level of differential metabolites
+  in the pathway. The colour of the dot represents the P-value value of the hypergeometric
+  test, and the smaller the value, the greater the reliability and statistical significance
+  of the test. The size of the point represents the number of differential metabolites
+  in the corresponding pathway, and the larger the point, the more differential metabolites
+  in the pathway.
+article_title: Changes in the serum metabolomics of polycystic ovary syndrome before
+  and after compound oral contraceptive treatment.
+citation: Ting Zhao, et al. Front Endocrinol (Lausanne). 2024;15:1354214.
+year: '2024'
+
+doi: 10.3389/fendo.2024.1354214
+journal_title: Frontiers in Endocrinology
+journal_nlm_ta: Front Endocrinol (Lausanne)
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- metabolomics analysis
+- ultra-performance liquid chromatography-high-resolution mass spectrometry
+- polycystic ovary syndrome
+- serum metabolites
+- COC
+
+---

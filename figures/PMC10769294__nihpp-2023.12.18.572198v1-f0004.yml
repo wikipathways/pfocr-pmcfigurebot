@@ -1,0 +1,41 @@
+---
+figid: PMC10769294__nihpp-2023.12.18.572198v1-f0004
+pmcid: PMC10769294
+image_filename: nihpp-2023.12.18.572198v1-f0004.jpg
+figure_link: /pmc/articles/PMC10769294/figure/F4/
+number: Fig. 4
+figure_title: Pairwise K-mean clustering plots for different stress conditions
+caption: A) Scatter plot of 24 hour of tryptophan starved (TRP24) and untreated (UTD24)
+  CT; B) Scatter plot of 24 hour of iron starved (BPD24) and untreated (UTD24) CT;
+  C) Scatter plot of 24 hour of tryptophan starved (TRP24) and 24 hour of iron starved
+  (BPD24); D) Correlation of different scatterplots. These scatterplots and correlation
+  between different stress conditions reveal CTL may behave similarly under different
+  stress conditions; E) Scatter plot of 24 hour of iron starved (BPD24) and 16 hour
+  of iron starved (BPD16) CTL; F) Scatter plot of 24 hour of tryptophan starved (TRP24)
+  and 16 hour of tryptophan starved (TRP16) CT; G) Scatter plot of 16 hour of tryptophan
+  starved (TRP16) and 16 hour of iron starved (BPD16); H) Correlation of different
+  scatterplots. These scatterplots and correlation between different stress conditions
+  reveals, CTL may have a global transcriptomics response; I) Pearson correlation
+  matrix among different conditions. The correlation was calculated using two-tail
+  test with 95% confidence interval; J) Heat map for number of reactions in each cluster
+  for different conditions; K) Gene ontology enrichment chart for common genes in
+  green cluster across all conditions; L) Hypothetical ppGpp pathway in CTL; M) Increased
+  biomass growths for stress condition after introducing ppGpp pathway in CTL.
+article_title: Machine Learning and Metabolic Model Guided CRISPRi Reveals a Central
+  Role for Phosphoglycerate Mutase in Chlamydia trachomatis Persistence.
+citation: Niaz Bahar Chowdhury, et al. bioRxiv. 2023 Dec 18:2023.12.18.572198.
+year: '2023'
+
+doi: 10.1101/2023.12.18.572198
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+
+keywords:
+- C. trachomatis
+- persistence
+- nutrient starvation
+- global stress response
+- metabolic bottleneck
+
+---

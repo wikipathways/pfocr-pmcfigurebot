@@ -1,0 +1,42 @@
+---
+figid: PMC11197235__12974_2024_3157_Fig3_HTML
+pmcid: PMC11197235
+image_filename: 12974_2024_3157_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC11197235/figure/Fig3/
+number: Fig. 3
+figure_title: ''
+caption: 'Impact of maternal SARS-CoV-2 on HBC gene programs associated with phagocytosis
+  and neurologic disease. (A-B) Ingenuity Pathway Analysis (IPA) phagocytosis diseases
+  and functions pathways (A), and neurologic diseases or functions (B), enriched for
+  ≥ 3 DEGs, with absolute Z-score ≥ 1 and adjusted P-value < 0.05. Activation Z-score
+  represented by color and number of DEGs by circle size, with red color indicating
+  pathway activation and blue color indicating suppression. (C-D). Heatmap of gene
+  expression in “Cellular Infiltration by Phagocytes” IPA Pathway (C) and “Inflammation
+  of Central Nervous System” (D) by cluster. Color represents gene expression level
+  (log2 fold change), *adjusted P-value < 0.05. (E). Module score by subcluster in
+  comparison to cluster-specific gene expression of single-cell datasets from human
+  brain: Microglia and Border Associated Macrophages (Askenase et al., Sci Immunol,
+  2021) and Yolk Sac Macrophages and Monocytes (Bian et al., Nature, 2020). Color
+  indicates module score'
+article_title: Maternal SARS-CoV-2 impacts fetal placental macrophage programs and
+  placenta-derived microglial models of neurodevelopment.
+citation: Lydia L. Shook, et al. J Neuroinflammation. 2024;21:163.
+year: '2024'
+
+doi: 10.1186/s12974-024-03157-w
+journal_title: Journal of Neuroinflammation
+journal_nlm_ta: J Neuroinflammation
+publisher_name: BioMed Central
+
+keywords:
+- Hofbauer cells
+- Microglia
+- Single-cell RNA sequencing
+- Fetal brain
+- Placenta
+- Neurodevelopment
+- Neuroimmune
+- SARS-CoV-2
+- COVID-19
+
+---

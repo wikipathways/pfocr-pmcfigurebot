@@ -1,0 +1,38 @@
+---
+figid: PMC11201718__cancers-16-02202-g004
+pmcid: PMC11201718
+image_filename: cancers-16-02202-g004.jpg
+figure_link: /pmc/articles/PMC11201718/figure/cancers-16-02202-f004/
+number: Figure 4
+figure_title: ''
+caption: 'Involvement of insulin signaling pathway in changes to 3D chromatin in pancreatic
+  cancer cells. (A) Overview of insulin signaling pathway (ISP). Left: major key molecules
+  in ISP. Right: list of ISP genes—genes with missing looping events after ICG-001
+  treatment in PANC1/PATC53 are highlighted with red background. (B) Comparison of
+  compartment changes in ISP and Non-ISP in PANC1 and PATC53. Left column: C-score
+  difference. Right column: number of compartment changes. * and **: Wilcoxon rank-sum
+  test. ISP: genes of insulin signaling pathway. Non-ISP: genes not in insulin signaling
+  pathway. (C) Number of differential TADs, in various shifted lengths of TAD boundaries
+  upstream to TSS. *: paired samples t-test. ISP: genes of insulin signaling pathway.
+  Non-ISP: genes not in insulin signaling pathway. (D) Number of genes of insulin
+  signaling pathway with changed loops in PANC1 and PATC53. None to None: no looping
+  events with or without ICG-001 treatment. Loop to Loop: having looping events with
+  or without ICG-001 treatment. None to Loop: looping events gained after ICG-001
+  treatment. Loop to None: looping events lost after ICG-001 treatment.'
+article_title: 3D Chromatin Alteration by Disrupting β-Catenin/CBP Interaction Is
+  Enriched with Insulin Signaling in Pancreatic Cancer.
+citation: Yufan Zhou, et al. Cancers (Basel). 2024 Jun;16(12):2202.
+year: '2024'
+
+doi: 10.3390/cancers16122202
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- 3D chromatin architecture
+- β-catenin/CBP interaction
+- insulin signaling pathway
+- pancreatic cancer
+
+---

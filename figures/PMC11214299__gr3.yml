@@ -1,0 +1,44 @@
+---
+figid: PMC11214299__gr3
+pmcid: PMC11214299
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC11214299/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: The role of E3 ligase and deubiquitinases (DUBs) in TKI resistance. For the
+  E3 ligase, CHIP, LRSAM1, and Casitas B-lineage lymphoma (CBL) can directly target
+  the ubiquitination of BCR-ABL and CBL can then affect TKI resistance via PI3K/AKT
+  and JAK/STAT signaling pathway. Down-regulated FBXW7 can overcome TKI resistance
+  by increasing the MYC protein expression and activating p53. On the contrary, low
+  expression of SIAH2 inhibits the MYC expression by up-regulating DYRK2 to overcome
+  TKI resistance. SKP2 can be regulated by EMIL, MYC, and PI3K/AKT/CREB axis and affect
+  TKI resistance by negative control of p27. Besides, the GCA/TRAF6/ULK1 and LZTR1/RAS/MAPK
+  axis can also help to confront TKI resistance. For the DUBs, USP9X, USP7, and USP25
+  can directly deubiquitinate BCR-ABL and USP10 can indirectly deubiquitinate BCR-ABL
+  via SKP2. BCR-ABL can affect USP47 through RAS/ERK and STAT5 signaling pathways
+  and further positively regulate Y-box binding protein 1 (YB-1). Also, BCR-ABL/STAT5/miR-202-5P
+  axis can regulate USP16 and the latter can influence TKI resistance via caspase-6.
+  Moreover, the miR-146a-5p/USP6/GLS1 axis can help to overcome TKI resistance without
+  BCR-ABL involvement. TKI, tyrosine kinase inhibitor; ULK1, unc-51-like autophagy-activating
+  kinase 1; GCA, grancalcin; LZTR1, leucine zipper-like transcription regulator 1;
+  MAPK, mitogen-activated protein kinase; ERK, extracellular signal-regulated kinase;
+  GLS1, glutaminase 1.
+article_title: Exploiting the potential of the ubiquitin-proteasome system in overcoming
+  tyrosine kinase inhibitor resistance in chronic myeloid leukemia.
+citation: Xudong Li, et al. Genes Dis. 2024 Sep;11(5):101150.
+year: '2024'
+
+doi: 10.1016/j.gendis.2023.101150
+journal_title: Genes & Diseases
+journal_nlm_ta: Genes Dis
+publisher_name: Chongqing Medical University
+
+keywords:
+- Chronic myeloid leukemia
+- Deubiquitinases
+- E3 ligase
+- PROTAC
+- TKI resistance
+- Ubiquitin-proteasome system
+
+---

@@ -1,0 +1,41 @@
+---
+figid: PMC11212654__WJH-16-932-g003
+pmcid: PMC11212654
+image_filename: WJH-16-932-g003.jpg
+figure_link: /pmc/articles/PMC11212654/figure/F3/
+number: Figure 3
+figure_title: ''
+caption: 'RNA-sequencing and bioinformatic analysis in Huh7 with LINC01767 over expression.
+  A: Over expression of LINC01767 in Huh7 cells; B: The differential expression heatmap
+  is presented in using the log fold change (FC) > 1.5, and P < 0.05; C: The differential
+  expression volcano plot is presented in using the logFC > 1.5, and P < 0.05; D:
+  The top 10 most significantly enriched Gene Ontology terms; E and F: Gene Set Enrichment
+  Analysis (GSEA) analysis showed that go term of LINC01767 involved in positive regulation
+  of lymphocyte apoptosis, nucleotide kinase activity and so on; G: The top 10 most
+  significantly enriched Kyoto Encyclopedia of Genes and Genomes (KEGG) terms; H and
+  I: GSEA analysis showed KEGG pathway showed LINC01767 was involved in P53 signaling,
+  RAP1 signaling and other important pathways; J: The top-ranked regulatory network
+  in this regulatory effect analysis shows that the regulation net involved in regulators
+  1810019D21Rik, E2f, TNFSF12 through C1QTNF12, COL6A1, COL6A2, COL9A3, CXCL2, CXCL8,
+  JAG2, KCNH2, MTHFD1, NOTCH3, PPARGC1A, RRM2, S100A9, SLC2A4, SLC7A11, TP53; K: The
+  updream regulatory network analysis shows the DSCAM and ATF5 and so on involved
+  in the regulatory net; L: Molecular network showed it can interact with HSP90, LYZ,
+  FUS, and so on.'
+article_title: Diagnostic and prognostic role of LINC01767 in hepatocellular carcinoma.
+citation: Li Zhang, et al. World J Hepatol. 2024 Jun 27;16(6):932-950.
+year: '2024'
+
+doi: 10.4254/wjh.v16.i6.932
+journal_title: World Journal of Hepatology
+journal_nlm_ta: World J Hepatol
+publisher_name: Baishideng Publishing Group Inc
+
+keywords:
+- Hepatocellular carcinoma
+- LINC01767
+- Multi-omics analysis
+- GSE243371
+- Cell proliferation
+- Clone formation
+
+---
