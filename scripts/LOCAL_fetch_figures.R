@@ -1,9 +1,13 @@
 ## fetch figures and metadata from PMC
 
-## USAGE: Set the date range or last_run date in query_config.yml, then update the
-# for loop count at the start of the script per your goals. Then source this script
-# to launch. New .yml and .jpg files will be added to the figures folder, as well
-# as an updated fetch.log
+## USAGE: Set the date range or last_run date in query_config.yml, then update 
+# the for loop count (k) at the start of the script per your goals. 
+# Launch Docker.app and run this line in Terminal: 
+# docker run -d -p 4445:4444 selenium/standalone-firefox:4.8.1-20230306
+# Then source this script to launch. New .yml and .jpg files will be added to 
+# the figures folder, as well as an updated fetch.log
+
+# E.g., date_range: ["2024/02/01", "2024/03/01"]
 
 #-------------------------------------------------------------------------------
 ## DEV NOTES: query qualifier for figure captions [CAPT] is clearly broken and only hits on a fraction of caption titles.
@@ -42,7 +46,7 @@ library(magrittr)
 library(stringr)
 
 # Multiple queries over consecutive months
-for (k in 1:2){
+for (k in 1:6){
   
   # Multiple attempts of a given query or until successful
   for (j in 1:5) {
@@ -96,7 +100,8 @@ for (k in 1:2){
     ## SCRAPE PMC 
     ##############
     # launch Docker.app
-    # run this line in Terminal: docker run -d -p 4445:4444 selenium/standalone-firefox:4.8.1-20230306
+    # run this line in Terminal: 
+    # docker run -d -p 4445:4444 selenium/standalone-firefox:4.8.1-20230306
     
     remDr <- remoteDriver(
       remoteServerAddr = "localhost",
