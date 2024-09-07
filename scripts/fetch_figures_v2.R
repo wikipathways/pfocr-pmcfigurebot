@@ -267,7 +267,7 @@ extract_figures <- function(xml_content, exfigids) {
         # Clean figure title
         if (!is.na(figure_title) && nchar(trimws(figure_title)) > 6) {
           # Remove label from the start of figure_title if present
-          figure_title <- str_remove(figure_title, paste0("^", label))
+          figure_title <- str_remove(fixed(figure_title), paste0("^", label))
           
           # Remove leading/trailing periods or spaces, and replace double periods
           figure_title <- figure_title %>%
@@ -280,10 +280,10 @@ extract_figures <- function(xml_content, exfigids) {
         # Clean caption
         if (!is.na(caption) && nchar(trimws(caption)) > 6) {
           # Remove label from the start of caption if present
-          caption <- str_remove(caption, paste0("^", label))
+          caption <- str_remove(fixed(caption), paste0("^", label))
           
           # Remove figure title from the start of caption if present
-          caption <- str_remove(caption, paste0("^", og_figure_title))
+          caption <- str_remove(fixed(caption), paste0("^", og_figure_title))
           
           # Remove leading periods or spaces, and replace double periods
           caption <- caption %>%
