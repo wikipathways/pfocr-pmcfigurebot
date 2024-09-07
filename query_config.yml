@@ -1,3 +1,8 @@
-terms: (((((((((((signaling+pathway)+OR+signalling+pathway)+OR+regulatory+pathway)+OR+disease+pathway)+OR+drug+pathway)+OR+metabolic+pathway)+OR+biosynthetic+pathway)+OR+synthesis+pathway)+OR+cancer+pathway)+OR+response+pathway)+OR+cycle+pathway)
-last_run: 3000/01/01
+terms: (((((((((((signaling pathway[Figure/Table Caption]) OR signalling pathway[Figure/Table
+  Caption]) OR regulatory pathway[Figure/Table Caption]) OR disease pathway[Figure/Table
+  Caption]) OR drug pathway[Figure/Table Caption]) OR metabolic pathway[Figure/Table
+  Caption]) OR biosynthetic pathway[Figure/Table Caption]) OR synthesis pathway[Figure/Table
+  Caption]) OR cancer pathway[Figure/Table Caption]) OR response pathway[Figure/Table
+  Caption]) OR cycle pathway[Figure/Table Caption]))
+last_run: 2023/11/01
 exclude_figids: prior_figid_results.tsv

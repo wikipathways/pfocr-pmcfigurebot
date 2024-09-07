@@ -3,7 +3,8 @@ name: Fetch pathway figures and metadata
 on:
   workflow_dispatch:
   schedule:
-  - cron: "30 */6 * 1,4,7,10 *" #Runs every 6 hours at 30 past the hour, everyday of Jan, Apr, Jul, Oct. 
+  - cron: "0 1 1-15 1,4,7,10 *" # For 9 PM ET (which is 1 AM UTC of the next day), everyday of Jan, Apr, Jul, Oct.
+  - cron: "0 7 1-15 1,4,7,10 *" # For 3 AM ET (which is 7 AM UTC), everyday of Jan, Apr, Jul, Oct.
  
 concurrency:
   group: ${{ github.workflow }}-${{ github.head_ref || github.ref }}
@@ -16,7 +17,7 @@ jobs:
       status: ${{ steps.early.outputs.status }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - id: early
         name: Date check
         run: |
@@ -33,16 +34,10 @@ jobs:
     needs: check
     if: ${{needs.check.outputs.status == 'proceed' }}
     runs-on: ubuntu-latest
-    services:
-      selenium:
-        image: selenium/standalone-firefox:4.8.3-20230328 
-        ports: 
-          - 4445:4444
-        options: --shm-size="2g"
 
     steps:
     - name: Checkout
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Setup R
       uses: r-lib/actions/setup-r@v2
@@ -51,10 +46,10 @@ jobs:
       run: |
         sudo apt-get update
         sudo apt-get install libcurl4-openssl-dev
-          Rscript -e 'install.packages(c("RSelenium","utils","httr","xml2","dplyr","magrittr","stringr","purrr","yaml","rvest","lubridate","jpeg"))'
+          Rscript -e 'install.packages(c("rentrez", "xml2", "httr", "yaml", "stringr", "dplyr","lubridate"))'
         
     - name: Run R Script to Fetch Figures
-      run: Rscript scripts/fetch_figures.R || true #commit files even if R crashes
+      run: Rscript scripts/fetch_figures_v2.R || true #commit files even if R crashes
       
     - name: Commit, pull with rebase (any remote changes during this run), and then push
       run: |
