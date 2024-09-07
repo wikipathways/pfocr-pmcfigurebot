@@ -193,6 +193,7 @@ extract_figures <- function(xml_content, exfigids) {
   # Process each article
   cat(paste("Processing",length(processed_articles),"articles\n"))
   for (article in processed_articles) {
+    journal_title <- xml_text(xml_find_first(article, ".//journal-title"))
     journal_nlm_ta <- xml_text(xml_find_first(article, ".//journal-id[@journal-id-type='nlm-ta']"))
     publisher_name <- xml_text(xml_find_first(article, ".//publisher-name"))
     article_title <- xml_text(xml_find_first(article, ".//article-title"))
