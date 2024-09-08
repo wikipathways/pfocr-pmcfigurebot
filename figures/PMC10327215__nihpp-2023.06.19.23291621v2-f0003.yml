@@ -1,0 +1,40 @@
+---
+figid: PMC10327215__nihpp-2023.06.19.23291621v2-f0003
+pmcid: PMC10327215
+image_filename: PMC10327215__nihpp-2023.06.19.23291621v2-f0003.jpg
+figure_link: /pmc/articles/PMC10327215/figure/FFig. 3./
+number: Fig. 3.
+figure_title: Enrichment of AD GRPa-MAGMA results on GO curation
+caption: GRPa was identified by GRPa-MAGMA under Model 1, the model using full genotype
+  to detect all pathways associated with strata comparison, and Model 2, the model
+  using excluding APOE region genotype to detect pathways associated with six strata
+  comparisons and independent from APOE effect. (A) GO GRPa identified in discovery
+  (disc) dataset Model 1, (B) GO GRPa identified in replication (rep) dataset Model
+  1, (C) GO GRPa identified in disc dataset Model 2 (no-APOE model), and (D) GO GRPa
+  identified in disc dataset Model 2 (no-APOE model), no significant result (FDR <
+  0.05) in this condition. * indicates the significant GRPas FDR < 0.05. Heatmap intensity
+  indicates −log10(FDR). The x-axis shows the heatmap list of the subgroup comparison
+  based on different GWAS summary statistics. S represents Schwartzentruber et al;
+  K represents Kunkle et al; W represents Wightman et al. (E) & (F) show the semantic
+  similarity for significant terms from GRPa-MAGMA in BP and MF, respectively. The
+  UpSet plot for overlapping signals between the strata among the disc cohort and
+  the rep cohort under Model 1 was shown in (G)
+article_title: 'GRPa-PRS: A risk stratification method to identify genetically-regulated
+  pathways in polygenic diseases'
+citation: Xiaoyang Li, et al. medRxiv. 2024 Jul 05;NA(NA).
+year: '2024'
+pub_date: 2024-7-05
+epub_date: 2024-7-05
+doi: 10.1101/2023.06.19.23291621
+journal_title: medRxiv
+journa_nlm_ta: medRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- genetically-regulated pathway
+- polygenic risk score
+- genetically-regulated expression
+- Alzheimer’s disease
+- Schizophrenia
+- resilience
+- orthogonal effect
+---

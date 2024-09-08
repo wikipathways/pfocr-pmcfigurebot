@@ -1,0 +1,41 @@
+---
+figid: PMC11242097__ijms-25-07298-g003
+pmcid: PMC11242097
+image_filename: PMC11242097__ijms-25-07298-g003.jpg
+figure_link: /pmc/articles/PMC11242097/figure/F3/
+number: Figure 3
+figure_title: Co-expression network spectral clustering.
+caption: Co-expression network spectral clustering. Gene co-expression networks at
+  different MCL stages were constructed using the MRNETB algorithm [25]. Modules of
+  co-expressed genes were identified and aligned between networks using a spectral
+  clustering approximation approach [23,24]. The union of the aligned modules between
+  (A) normal and in situ, (B) in situ and intermediate, (C) intermediate and aggressive
+  are depicted. Up- and down-regulated genes are depicted as regular or flipped triangles,
+  respectively. The log2 fold change of the co-expression between MCL stages is used
+  as a weight of the edges. Loss of co-expression is depicted with green (negative
+  log2 fold change), whereas gain of co-expression with red (positive log2 fold change).
+  As a result, “green communities” are genes where co-expression relationships are
+  weakened as the MCL progresses to the next stage. The node border line color depicts
+  the Wiki pathway in which a gene participates. A gene can participate in more than
+  one pathway, but here we show only selected pathways (orange = apoptosis, cyan =
+  cytoplasmic ribosomal proteins, magenta = MAPK signaling pathway, blue = PI3K–Akt
+  signaling pathway, yellow = VEGFA–VEGFR2 signaling pathway, brown = cell cycle,
+  purple = TGF-beta signaling pathway)
+article_title: Insight into Mantle Cell Lymphoma Pathobiology, Diagnosis, and Treatment
+  Using Network-Based and Drug-Repurposing Approaches
+citation: Georgia Orfanoudaki, et al. Int J Mol Sci. 2024 Jul;25(13).
+year: '2024'
+pub_date: 2024-7-
+epub_date: 2024-7-02
+doi: 10.3390/ijms25137298
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- mantle cell lymphoma
+- non-Hodgkin lymphoma
+- differentially expressed
+- stages
+- biomarkers
+- drug repurposing
+---

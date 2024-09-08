@@ -1,0 +1,36 @@
+---
+figid: PMC11242334__jcav15p4759g006
+pmcid: PMC11242334
+image_filename: PMC11242334__jcav15p4759g006.jpg
+figure_link: /pmc/articles/PMC11242334/figure/F6/
+number: Figure 6
+figure_title: Correlation of TLE4 expression with immune cell infiltration in PTC.
+caption: Correlation of TLE4 expression with immune cell infiltration in PTC. A. Analysis
+  of the TIMER2.0 database illustrating a strong positive correlation between TLE4
+  expression levels and the infiltration of various immune cells, including eosinophils,
+  T helper cells, and Th1 cells, while showing a negative correlation with plasmacytoid
+  dendritic cells in the PTC tumor microenvironment. B. Stratification of 512 PTC
+  samples from the TCGA-THCA dataset into high and low TLE4 expression groups, demonstrating
+  significant differences in immune cell infiltration patterns, as analyzed using
+  the R package xCell. C. Single-gene differential expression analysis between high
+  and low TLE4 expression groups in PTC, employing strict selection criteria (|log2FC|
+  > 1) to identify significantly altered genes. D. GO functional enrichment analysis
+  revealing TLE4's significant association with the JAK-STAT signaling pathway, receptor
+  signaling via STAT, and cytokine interactions
+article_title: TLE4 downregulation identified by WGCNA and machine learning algorithm
+  promotes papillary thyroid carcinoma progression via activating JAK/STAT pathway
+citation: Junyu Lin, et al. J Cancer. 2024;15(14).
+year: '2024'
+pub_date: 2024--
+epub_date: 2024-7-9
+doi: 10.7150/jca.95501
+journal_title: Journal of Cancer
+journa_nlm_ta: J Cancer
+publisher_name: Ivyspring International Publisher
+keywords:
+- Papillary Thyroid Carcinoma (PTC)
+- TLE4
+- JAK/STAT signaling pathway
+- Weighted Gene Co-expression Network Analysis (WGCNA)
+- Machine learning algorithms
+---

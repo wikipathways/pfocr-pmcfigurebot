@@ -1,0 +1,50 @@
+---
+figid: PMC11274115__antioxidants-13-00852-g003
+pmcid: PMC11274115
+image_filename: PMC11274115__antioxidants-13-00852-g003.jpg
+figure_link: /pmc/articles/PMC11274115/figure/F3/
+number: Figure 3
+figure_title: Expression levels of phenylpropanoid and flavonoid biosynthesis DEGs
+  in BR-S compared to BR-NS plants.
+caption: 'Expression levels of phenylpropanoid and flavonoid biosynthesis DEGs in
+  BR-S compared to BR-NS plants. (a) Schematic representation of the biosynthetic
+  pathway with proteins encoded by DESeq2 selected genes. Proteins are reported in
+  boxes along the arrow connecting the substrate to the enzyme product. Light blue
+  boxes indicate proteins encoded by downregulated genes; yellow boxes indicate proteins
+  encoded by upregulated genes. (b) RNAseq data validation by quantitative real-time
+  PCR (qPCR) of selected DEGs in S vs. NS BR plants. Columns represent log2 of the
+  fold-change of gene expression from RNAseq data (log2FC) and values obtained from
+  qPCR analysis (log2RQ) calculated as the mean of three biological replicates. The
+  NS condition was used as a non-treated reference plant for gene expression normalization.
+  Elongation factor 1 alpha (EF-1a) was used as the housekeeping gene for target gene
+  normalization. Bars on the columns indicate the SE for each gene. No statistically
+  significant differences (p ≤ 0.05) were observed between the log2FC and log2RQ values
+  for each gene when performing a Tukey post hoc ANOVA test. (**) double asterisks
+  and (*) single asterisks indicate highly significant and significant differences
+  between genes, respectively, for p ≤ 0.05, in a Tukey post hoc ANOVA test. Protein
+  abbreviations: 4CL, 4-coumaric acid: CoA ligase; C3′H, p-coumaroyl-shikimic acid/quinic
+  acid 3-hydroxylase; C4H, cinnamic acid 4-hydroxylase; CCoAOMT, caffeoyl-CoA O-methyltransferase;
+  CCR1, cinnamoyl-CoA reductase 1; CHI, chalcone isomerase; CHS, chalcone synthase;
+  CSE, caffeoyl shikimic acid esterase; F5H, ferulic acid 5-hydroxylase; HST/HQT,
+  hydroxycinnamoyl-CoA: shikimic/quinic acid hydroxycinnamoyltransferase; PAL, phenylalanine
+  ammonia-lyase'
+article_title: Spotlight on Secondary Metabolites Produced by an Early-Flowering Apulian
+  Artichoke Ecotype Sanitized from Virus Infection by Meristem-Tip-Culture and Thermotherapy
+citation: Roberta Spanò, et al. Antioxidants (Basel). 2024 Jul;13(7).
+year: '2024'
+pub_date: 2024-7-
+epub_date: 2024-7-16
+doi: 10.3390/antiox13070852
+journal_title: Antioxidants
+journa_nlm_ta: Antioxidants (Basel)
+publisher_name: MDPI
+keywords:
+- artichoke
+- antioxidant and antimicrobial effects
+- anti-inflammatory effects
+- polyphenol extracts
+- supercritical fluid extraction
+- RNAseq analysis
+- virus infection
+- virus sanitation protocol
+---

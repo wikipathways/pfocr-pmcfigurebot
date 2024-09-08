@@ -1,0 +1,30 @@
+---
+figid: PMC11245041__nihpp-2024.07.02.601809v1-f0004
+pmcid: PMC11245041
+image_filename: PMC11245041__nihpp-2024.07.02.601809v1-f0004.jpg
+figure_link: /pmc/articles/PMC11245041/figure/FFigure 4./
+number: Figure 4.
+figure_title: Visualization and validation of top 3 predicted paralogs from XGBoost
+  classifier
+caption: (A) Paralog pairs with the top 3 prediction scores are displayed in a scatter
+  plot.(B) Mutation profile of top 3 paralog pairs RAPGEF1/RAPGEF2, SYK/ITK and CCT8/CCT3
+  in the Cancer Genome Atlas (TCGA) cohorts.(C, D) SHAP profile for RAPGEF1/RAPGEF2
+  (C) and SYK/ITK (D).(E, F) Bar chart of mean viability of Rapgef1/ Rapgef2 (E) and
+  Itk/Syk (F) knock-out treated B16F10 melanoma cells following culture with or without
+  OT-1 T cells. The p values come from two-sided heteroscedastic t tests.(G, H) Gene
+  sets enrichment analysis (GSEA) revealed that patients with low expression of RAPGEF1/RAPGEF2
+  (G) and SYK/ITK (H) were associated with downregulation of PD-L1/PD-1 signaling
+  pathway. The GSEA was performed using the differential expression output between
+  patients with low (<25%) expression of both paralog genes versus all remaining patients
+article_title: Sensitive detection of synthetic response to cancer immunotherapy driven
+  by gene paralog pairs
+citation: Chuanpeng Dong, et al. bioRxiv. 2024 Jul 04;NA(NA).
+year: '2024'
+pub_date: 2024-7-04
+epub_date: 2024-7-04
+doi: 10.1101/2024.07.02.601809
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

@@ -1,0 +1,38 @@
+---
+figid: PMC11244317__plants-13-01873-g003
+pmcid: PMC11244317
+image_filename: PMC11244317__plants-13-01873-g003.jpg
+figure_link: /pmc/articles/PMC11244317/figure/F3/
+number: Figure 3
+figure_title: Effect of phosphite treatments on the transcription of different hormones.
+caption: 'Effect of phosphite treatments on the transcription of different hormones.
+  (a) Heatmap of genes of the ABA biosynthesis pathway. (b) Heatmap of the GO term
+  “positive regulation of abscisic acid-activated signaling pathway”. (c) Heatmap
+  of DEGS related to salicylic acid biosynthesis. (d) Heatmap of the GO term “systemic
+  acquired resistance”. (e) Heatmap of DEGs related to jasmonic acid biosynthesis.
+  (f) Heatmap of the GO Term “Jasmonic acid-mediated signaling pathway”. Genes of
+  the biosynthetic pathways were taken from the Plant Metabolic Network database.
+  For all plots: Blue triangles represent downregulated genes, red triangles represent
+  upregulated genes, and n.s. stands for non-significant. Likelihood ratio tests according
+  to the edgeR pipeline were performed on each pair of genes to determine if there
+  are significant differences between treatments'
+article_title: Beneficial Effects of Phosphite in Arabidopsis thaliana Mediated by
+  Activation of ABA, SA, and JA Biosynthesis and Signaling Pathways
+citation: Francisco Gabriel Pérez-Zavala, et al. Plants (Basel). 2024 Jul;13(13).
+year: '2024'
+pub_date: 2024-7-
+epub_date: 2024-7-06
+doi: 10.3390/plants13131873
+journal_title: Plants
+journa_nlm_ta: Plants (Basel)
+publisher_name: MDPI
+keywords:
+- Arabidopsis thaliana
+- phosphite
+- abscisic acid
+- jasmonic acid
+- salicylic acid
+- phosphorus sensing
+- defense responses
+- stress conditions
+---

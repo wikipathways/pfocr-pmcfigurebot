@@ -1,0 +1,51 @@
+---
+figid: PMC11312684__ijms-25-08423-g002
+pmcid: PMC11312684
+image_filename: PMC11312684__ijms-25-08423-g002.jpg
+figure_link: /pmc/articles/PMC11312684/figure/F2/
+number: Figure 2
+figure_title: 'Role of GPx4 in the ferroptosis regulatory pathway: (a) GPx4 catalytic
+  cycle representation.'
+caption: 'Role of GPx4 in the ferroptosis regulatory pathway: (a) GPx4 catalytic cycle
+  representation. Under the reduction of lipid hydroperoxides (PLOOH) into their respective
+  alcohols (PLOH), catalyzed by GPx4, GPx4 selenol (GPx4-SeH) is oxidized into selenic
+  acid (GPx4-SeOH). Selenic acid is reduced to its active form, selenol, by a two-step
+  reaction with GSH: The first GSH reacts with selenic acid to form a selenium–glutathione
+  intermediate (GPx4-Se-SG), which is reduced by the second GSH to selenol. (b) Regulation
+  of ferroptosis by GPx4. The conversion of polyunsaturated fatty acids (PUFAs) of
+  phospholipids to peroxide PUFAs represents the initiation step to drive ferroptotic
+  cell death. The phospholipid hydroperoxides (PE-OOH) are formed via non-enzymatic
+  and enzymatic lipid peroxidation. The increased cytosolic labile iron pool (LIP)
+  activates Fenton reactions and generates •OH radicals, which initiate non-enzymatic
+  lipid peroxidation with the formation of PE-OOH, and their levels can be raised
+  by 15-lipoxygenase (LOX) activity. GPx4 catalyzes the reduction of toxic PE-OOH
+  into nontoxic alcohol, ultimately inhibiting ferroptosis. The amino acid antiporter
+  system xc- (composed of SLC3A2 and SLC7A11 subunits) mediates the exchange of intracellular
+  glutamate and extracellular cystine, which is converted into cysteine, contributing
+  to GSH synthesis. Inhibition of the key enzyme of GSH synthesis—γGCL (buthionine
+  sulfoximine, BSO)—and SLC7A11 (erastin, sulfasalazine, sorafenib) leads to the activation
+  of ferroptosis through GSH depletion. A selenocysteine residue is added to the catalytic
+  center of GPx4 with the use of isopentenyl pyrophosphate (IPP), leading to GPx4
+  activation and ferroptosis inhibition. IPP is generated via the mevalonate pathway:
+  acetyl-CoA is converted to 3-hydroxy-3-methylglutaryl-CoA (HMG-CoA). HMG-CoA is
+  reduced by 3-hydroxy-3-methylglutaryl-CoA reductase (HMGCR) to mevalonate, which,
+  in turn, is converted to IPP. IPP also generates coenzymeQ10 (ubiquinone, CoQ10),
+  which is reduced to ubiquinol by ferroptosis-suppressor-protein 1 (FSP1), blocking
+  lipid peroxidation. The ferroptotic inducer FIN56 works through a dual mechanism
+  of depleting GPX4 protein and CoQ10 levels'
+article_title: Glutathione-Dependent Pathways in Cancer Cells
+citation: Elena Kalinina, et al. Int J Mol Sci. 2024 Aug;25(15).
+year: '2024'
+pub_date: 2024-8-
+epub_date: 2024-8-01
+doi: 10.3390/ijms25158423
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- GSH
+- glutathione transferase
+- glutathione peroxidase
+- S-glutathionylation
+- cancer cells
+---

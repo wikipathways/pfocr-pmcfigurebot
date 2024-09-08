@@ -1,0 +1,35 @@
+---
+figid: PMC11242334__jcav15p4759g003
+pmcid: PMC11242334
+image_filename: PMC11242334__jcav15p4759g003.jpg
+figure_link: /pmc/articles/PMC11242334/figure/F3/
+number: Figure 3
+figure_title: Integration of WGCNA modules with differential expression analysis and
+  subsequent pathway enrichment.
+caption: Integration of WGCNA modules with differential expression analysis and subsequent
+  pathway enrichment. A. Intersection of module genes from WGCNA with previously identified
+  differentially expressed genes (DEGs), focusing on genes central to the network
+  and differentially expressed. B. Disease Ontology (DO) enrichment analysis demonstrating
+  the strong association of these genes with thyroid malignancies, especially papillary
+  thyroid carcinoma and thyroid carcinoma in general. C. Gene Ontology (GO) enrichment
+  analysis highlighting the genes' predominant roles in wound healing and the positive
+  regulation of kinase activity. D. KEGG pathway analysis identifying multiple signaling
+  pathways associated with these genes, underscoring their relevance to the oncogenic
+  processes in thyroid cancer
+article_title: TLE4 downregulation identified by WGCNA and machine learning algorithm
+  promotes papillary thyroid carcinoma progression via activating JAK/STAT pathway
+citation: Junyu Lin, et al. J Cancer. 2024;15(14).
+year: '2024'
+pub_date: 2024--
+epub_date: 2024-7-9
+doi: 10.7150/jca.95501
+journal_title: Journal of Cancer
+journa_nlm_ta: J Cancer
+publisher_name: Ivyspring International Publisher
+keywords:
+- Papillary Thyroid Carcinoma (PTC)
+- TLE4
+- JAK/STAT signaling pathway
+- Weighted Gene Co-expression Network Analysis (WGCNA)
+- Machine learning algorithms
+---

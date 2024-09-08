@@ -1,0 +1,34 @@
+---
+figid: PMC10705426__nihpp-2023.11.28.569098v2-f0005
+pmcid: PMC10705426
+image_filename: PMC10705426__nihpp-2023.11.28.569098v2-f0005.jpg
+figure_link: /pmc/articles/PMC10705426/figure/FFigure 5./
+number: Figure 5.
+figure_title: Multivariate modeling uncovers pan-cancer gene vulnerabilities associated
+  with Oxphos state
+caption: (A) The top enriched biochemical pathways (from Reactome Pathway Database)
+  associated with gene vulnerability features selected by elastic net regularization
+  (FDR ≤ 0.05). Genes with positive and negative elastic net coefficients were used
+  to infer vulnerabilities in OxphosHigh and OxphosLow cell lines, respectively. (B)
+  Performance of the partial least squares (PLSR) model evaluated by variance in Oxphos
+  state scores explained (R2) or predicted based on leave-one-out cross-validation
+  (Q2) with increasing number of PLS components. (C) Comparison between Oxphos state
+  scores and predicted scores by PLSR for the training set of 296 cell lines (left)
+  and independent test set of 32 cell lines (right). Two-sided Pearson’s correlation
+  analysis was performed between Oxphos state scores and PLSR predicted scores. (D)
+  PLSR scores colored according to their Oxphos state score. (E) The list of pan-cancer
+  gene vulnerabilities strongly associated with the OxphosHigh or OxphosLow state.
+  For each gene, the median difference between dependency (Δ gene dependency) for
+  OxphosHigh and OxphosLow subgroups of cell lines are shown
+article_title: Multivariate analysis of metabolic state vulnerabilities across diverse
+  cancer contexts reveals synthetically lethal associations
+citation: Cara Abecunas, et al. bioRxiv. 2024 Jul 10;NA(NA).
+year: '2024'
+pub_date: 2024-7-10
+epub_date: 2024-7-10
+doi: 10.1101/2023.11.28.569098
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

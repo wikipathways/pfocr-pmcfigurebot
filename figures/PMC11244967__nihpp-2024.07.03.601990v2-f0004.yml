@@ -1,0 +1,23 @@
+---
+figid: PMC11244967__nihpp-2024.07.03.601990v2-f0004
+pmcid: PMC11244967
+image_filename: PMC11244967__nihpp-2024.07.03.601990v2-f0004.jpg
+figure_link: /pmc/articles/PMC11244967/figure/FFig 4./
+number: Fig 4.
+figure_title: scRNA-seq analyses of hMAN chimeric brain
+caption: |-
+  (A) UMAP plot of scRNA-seq data (n = 23,994 human cells) from 3-month-old Rag2−/− IL2rγ−/−
+  hCSF1KI hMAN chimeric brains.(B) Dot plot showing expression of key marker genes of each annotated human cell type (NPC, neural progenitor cell; GPC, glia progenitor cell; Astro, astrocyte; VLMC, vascular leptomeningeal cell).(C) Dot plot showing expression of marker genes of macroglia human cell types (OPC, oligodendrocyte precursor cell; Oligo., oligodendrocyte).(D) Heatmap showing the significant overlap of marker genes between human cortical macroglia (Veleshev et al.) and this study. Jaccard score represents the percentage of pairwise overlapping genes. Fisher’s exact test is used to evaluate the significance of overlapping (The significant levels are represented by stars (N.S., not significant).(E) Representative images of hN+ and ETV4+ cells from 2-month-old Rag2−/− IL2rγ−/−
+  hCSF1KI hMAN chimeric brains. Scale bar, 20 μm.(F) UMAP plot of astrocyte subclusters (n = 11,100 cells).(G) UMAP plot of astrocyte subclusters, each cell is colored by its pseudotime trajectory assignment.(H) Dot plot showing expression of marker genes of each astrocyte subcluster.(I) Heatmap showing the significant overlap of marker genes between astrocyte subtypes of human hippocampus astrocytes (Su et al.) and this study. Jaccard score represents the percentage of pairwise overlapping genes. Fisher’s exact test is used to evaluate the significance of overlapping (The significant levels are represented by stars (N.S., not significant; *, p value < 0.05; **, p value < 0.01; ***, p value < 0.001; ****, p value < 0.0001).(J) Chord diagram showing inferred cell-cell interaction weights/strength between cell types. The thickness of the line represents the weight of ligand-receptor pairs scaled by cell type population.(K) Bubble plot showing the ligand-receptor interactions between neurons and glia.(L) Heatmap showing the interaction weight between cell types of the APP signaling pathway.(M) Chord diagram showing the interaction weight between cell types of the NRXN signaling pathway.(N) Bubble plot showing the ligand-receptor interactions between glial cell types.(O) Heatmap showing the centrality scores/importance of cell groups as senders, receivers, mediators and influencers in the PTN signaling pathway and MK signaling pathway.(P) Chord diagram showing the significant interaction pairs involved in the NOTCH signaling pathways
+article_title: Co-Transplantation-Based Human-Mouse Chimeric Brain Models to Study
+  Human Glial-Glial and Glial-Neuronal Interactions
+citation: Mengmeng Jin, et al. bioRxiv. 2024 Jul 06;NA(NA).
+year: '2024'
+pub_date: 2024-7-06
+epub_date: 2024-7-06
+doi: 10.1101/2024.07.03.601990
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

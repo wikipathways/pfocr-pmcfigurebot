@@ -1,0 +1,41 @@
+---
+figid: PMC11242097__ijms-25-07298-g002
+pmcid: PMC11242097
+image_filename: PMC11242097__ijms-25-07298-g002.jpg
+figure_link: /pmc/articles/PMC11242097/figure/F2/
+number: Figure 2
+figure_title: Differentially expressed genes and enriched biological pathways at different
+  MCL stages.
+caption: 'Differentially expressed genes and enriched biological pathways at different
+  MCL stages. (A) Bar chart summarizing the number of identified DEGs at each stepwise
+  MCL stage comparison, including normal (N) to any other MCL stage transitions. Results
+  of the comparative analysis between healthy and typical MCL patients (HtoMCLx),
+  normal B cells and newly diagnosed MCL patients (BtoMCL(e)), normal B cells and
+  progressed-MCL-stage patients (BtoMCL), and newly diagnosed and progressed-MCL-stage
+  patients (MCL(e)toMCL) are also depicted. Differentially expressed transcripts are
+  also colored based on their type (blue: protein coding, gray: pseudogenes, green:
+  asRNAs, red: lncRNAs, yellow: ncRNAs and orange: snoRNA). The overlap between the
+  different sets of DEGs is represented in the form of Venn diagrams at the top of
+  the bar chart. (B) Heatmap of 168 enriched KEGG pathways based on the FE calculated
+  by the PathfindR [18] bioinformatic tool for the different sample group comparisons
+  (Table 2). Enriched pathways (rows) and sample comparisons (columns) were hierarchically
+  clustered. For limited space reasons, disease-specific pathways are not depicted
+  (e.g., “bladder cancer” or “thyroid cancer”)'
+article_title: Insight into Mantle Cell Lymphoma Pathobiology, Diagnosis, and Treatment
+  Using Network-Based and Drug-Repurposing Approaches
+citation: Georgia Orfanoudaki, et al. Int J Mol Sci. 2024 Jul;25(13).
+year: '2024'
+pub_date: 2024-7-
+epub_date: 2024-7-02
+doi: 10.3390/ijms25137298
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- mantle cell lymphoma
+- non-Hodgkin lymphoma
+- differentially expressed
+- stages
+- biomarkers
+- drug repurposing
+---

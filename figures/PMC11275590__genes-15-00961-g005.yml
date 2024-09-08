@@ -1,0 +1,48 @@
+---
+figid: PMC11275590__genes-15-00961-g005
+pmcid: PMC11275590
+image_filename: PMC11275590__genes-15-00961-g005.jpg
+figure_link: /pmc/articles/PMC11275590/figure/F5/
+number: Figure 5
+figure_title: Lung cancer imbalanced heme biosynthesis is supported by both bulk and
+  single-cell RNAseq and is linked to the overall survival (OS) of patients.
+caption: Lung cancer imbalanced heme biosynthesis is supported by both bulk and single-cell
+  RNAseq and is linked to the overall survival (OS) of patients. (A,B) Patient tumor
+  tissue RNAseq and single-cell lung cancer RNAseq support porphyrin overdrive. Genome
+  analysis (shown in (A)) was based on lung cancer data publicly available at The
+  Cancer Genome Atlas (TGCA) and Genotype-Tissue Expression (GTEx) program. The single-cell
+  expression data from Zilionis et al. [65] were used to study the expression differences
+  in more aggressive vs. more differentiated lung cancer cell populations within the
+  same tumor. * denotes statistically significant differences (p < 0.05). (C) The
+  skewness of the heme biosynthesis pathway, representing the degree of porphyrin
+  overdrive, is quantified by the ratio of ALAD to HMBS expression levels. (D) The
+  disparity in expression levels between the heme/porphyrin export gene FLVCR1 and
+  the importer FLVCR2 is determined by the ratio of these two genes. (E,F) Imbalanced
+  heme biosynthesis in lung cancer is related to patient OS. The Kaplan–Meier estimator,
+  a non-parametric statistic, was used to estimate the survival function from the
+  lifetime data. Shown are the Kaplan–Meier curves for data of visualization of ALAD
+  (panel (C)) and HMBS expression (panel (D)) in lung adeno carcinoma cancer patients.
+  The expression data were from TCGA and were analyzed in relation to the OS of the
+  respective patients. Expression of ALAD and HMBS (the genes for the second and third
+  enzymes of the heme biosynthetic pathway, respectively) show contrasting prognostic
+  results in patients’ OS, suggesting that the greater the extent of porphyrin production
+  (i.e., the larger the difference between ALAD and HMBS expression), the more aggressive
+  the lung cancer. The statistical difference between the groups is estimated by the
+  log-rank test. [FC, fold-change]. Tumor or more aggressive tumor results are colored
+  red
+article_title: Uncovering Porphyrin Accumulation in the Tumor Microenvironment
+citation: Swamy R. Adapa, et al. Genes (Basel). 2024 Jul;15(7).
+year: '2024'
+pub_date: 2024-7-
+epub_date: 2024-7-22
+doi: 10.3390/genes15070961
+journal_title: Genes
+journa_nlm_ta: Genes (Basel)
+publisher_name: MDPI
+keywords:
+- heme
+- porphyrin
+- protoporphyrin IX
+- tumor microenvironment
+- cancer-associated fibroblasts
+---

@@ -1,0 +1,39 @@
+---
+figid: PMC11276148__genes-15-00880-g007
+pmcid: PMC11276148
+image_filename: PMC11276148__genes-15-00880-g007.jpg
+figure_link: /pmc/articles/PMC11276148/figure/F7/
+number: Figure 7
+figure_title: External evaluation of the UbRG signature.
+caption: External evaluation of the UbRG signature. (a) A heatmap depicting 20 differentially
+  expressed genes within the prognostic UbRG signature is shown. (b) Boxplot visualizations
+  of these 20 differentially expressed genes within the prognostic UbRG signature
+  are provided. Asterisks ** and *** denote the significance levels of 0.01 and 0.001,
+  respectively. (c) Enrichment plots highlight gene enrichment in the low-risk group
+  for hematopoietic cell lineage (orange), neuroactive ligand receptor interaction
+  (green), tyrosine metabolism (pink), B cell receptor signaling pathway (red), and
+  primary immunodeficiency (blue). No gene enrichment was detected in the high-risk
+  group. (d) A Sankey diagram depicts the relationship between nine risk genes in
+  the prognostic UbRGs (on the left) and 24 transcription factors (TFs) (on the right).
+  The height of the boxes represents the proportion of risk genes and TF types, with
+  lines indicating their associations. (e) Another Sankey diagram illustrates the
+  connections between 12 risk genes in the prognostic UbRGs (left) and 25 enhancer
+  RNAs (eRNAs) (right). UbRGs stands for ubiquitination-related genes; TF refers to
+  transcription factor; eRNA signifies enhancer RNA
+article_title: Ubiquitination-Related Gene Signature, Nomogram and Immune Features
+  for Prognostic Prediction in Patients with Head and Neck Squamous Cell Carcinoma
+citation: Huiwen Yang, et al. Genes (Basel). 2024 Jul;15(7).
+year: '2024'
+pub_date: 2024-7-
+epub_date: 2024-7-04
+doi: 10.3390/genes15070880
+journal_title: Genes
+journa_nlm_ta: Genes (Basel)
+publisher_name: MDPI
+keywords:
+- ubiquitination-related gene
+- head and neck squamous cell carcinoma
+- TCGA
+- bioinformatics analysis
+- prognosis
+---

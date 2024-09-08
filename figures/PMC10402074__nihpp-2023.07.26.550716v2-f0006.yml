@@ -1,0 +1,57 @@
+---
+figid: PMC10402074__nihpp-2023.07.26.550716v2-f0006
+pmcid: PMC10402074
+image_filename: PMC10402074__nihpp-2023.07.26.550716v2-f0006.jpg
+figure_link: /pmc/articles/PMC10402074/figure/F6/
+number: FIG 6
+figure_title: ATF3 regulates the antiviral immune response.
+caption: 'ATF3 regulates the antiviral immune response. A549 cells WT and ATF3 KO
+  cells were mock-infected or infected with ZIKVPR (moi=10 PFU/cell) and polyA-selected
+  RNA expression was examined by RNA-seq analysis 24-hours post-infection. (A) PCA
+  plot summarizing variance in gene expression in two A549 genotypes (WT and ATF3
+  KO) and infection conditions (mock and ZIKV). (B-C) Enhanced volcano plots showing
+  differentially expressed genes in ZIKV-infected cells compared to (B) the mock-infected
+  A549 WT or (C) ATF KO cells. The dotted lines represent the adjusted p-value threshold
+  of 0.05 and fold-change (FC) threshold of 2. (D) The venn diagram shows the number
+  of significantly (p-value < 0.05) upregulated (fold-change > 2; 2FC) genes in ZIKV-infected
+  cells that are shared or unique between the two A549 cell genotypes (WT or ATF KO).
+  (E) Metascape pathway enrichment analysis (Reactome) of shared and unique gene groups
+  described in panel. The dotplot represents top ten enriched Reactome terms for each
+  gene set. (F) Heatmaps showing relative expression values (row-normalized z-score)
+  of genes associated with interferon signaling pathway that were significantly upregulated
+  in ZIKV infection condition in at least one A549 genotype (WT or ATF3 KO). Genotype-specific
+  shared or unique genes and select immune gene categories are highlighted in different
+  colors as indicated in the legend. (G-I) mRNA expression of select innate immune
+  response genes, (G) IFNB1, (H) STAT1, and (I) IFIT1 were validated by RT-qPCR analyses
+  following ZIKV infection (moi=1 and 10 PFU/cell). Target RNAs were normalized to
+  ACTB mRNA, and the mRNA expression was determined by the 2−ΔΔCt method. These RT-qPCR
+  validation experiments were undertaken in three technical replicates from three
+  separate experiments that were also independent from the RNA-seq samples. The data
+  represent mean ± SD. Statistical significance was determined by Student T-test.
+  *p<0.01, **p<0.001, ***p<0.0005, ****p<0.0001. (J) IFN-β protein secretion 24 hours
+  post-infection was measured by ELISA in WT and ATF3 KO cells. The data show the
+  mean ± SD. N=3. *p<0.05. (K, L) Protein expression of (K) STAT1 and phospho-STAT1
+  (p-STAT1), and (L) IFIT1 and MX1 were analyzed by western blotting. GAPDH levels
+  were used as the loading control. # denotes the same western blot membrane that
+  was probed for STAT1, IFIT1 and GAPDH. The images are separated into two panels,
+  K) shows changes in STAT1 and phosphorylated STAT1, and L) shows the levels of IFIT1
+  and MX1 interferon induced proteins. Phosphorylated-STAT1 and GAPDH (and MX1 and
+  GAPDH) proteins where blotted and probed on separate membranes. The blots shown
+  are representatives from two separate experiments'
+article_title: Activation of ATF3 via the Integrated Stress Response Pathway Regulates
+  Innate Immune Response to Restrict Zika Virus
+citation: Pheonah Badu, et al. bioRxiv. 2024 Jul 03;NA(NA).
+year: '2024'
+pub_date: 2024-7-03
+epub_date: 2024-7-03
+doi: 10.1101/2023.07.26.550716
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- Zika virus
+- Flavivirus
+- Transcription Factor
+- Integrated Stress Response
+- Innate immune response
+---

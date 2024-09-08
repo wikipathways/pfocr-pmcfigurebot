@@ -1,0 +1,39 @@
+---
+figid: PMC11275590__genes-15-00961-g003
+pmcid: PMC11275590
+image_filename: PMC11275590__genes-15-00961-g003.jpg
+figure_link: /pmc/articles/PMC11275590/figure/F3/
+number: Figure 3
+figure_title: Single-cell RNA sequencing of cells from human lung cancer patients
+  supports non-homeostatic porphyrin production in cancer-associated fibroblasts.
+caption: Single-cell RNA sequencing of cells from human lung cancer patients supports
+  non-homeostatic porphyrin production in cancer-associated fibroblasts. The data
+  on single-cell lung cancer transcriptomes were retrieved from Zilionis et al. [65].
+  The expression of the genes for the heme biosynthetic pathway enzymes and heme trafficking
+  proteins was analyzed in diverse cell populations present in the tumor. The expression
+  results associated with cancer cells from three different patients (Cancer_A n =
+  203 cells, Cancer_B n = 766 cells, and Cancer_C n = 538 cells) are plotted—HMBS
+  and FLVCR1 show the most upregulated gene expression patterns. In the major groups
+  of stromal and immune cell populations, most cell types have no evidence of porphyrin
+  accumulation, while cancer-associated fibroblasts (n = 585) show evidence of porphyrin
+  production with upregulation of HMBS (p < 0.05). Both HMBS and FLVCR1 are significantly
+  different between tumor and stromal cell populations (p < 0.05). Color shading indicates
+  normalized gene expression levels per gene, in a given cell population, and circle
+  sizes indicate the percentage of cells in that population with detectable single-cell
+  transcriptomes
+article_title: Uncovering Porphyrin Accumulation in the Tumor Microenvironment
+citation: Swamy R. Adapa, et al. Genes (Basel). 2024 Jul;15(7).
+year: '2024'
+pub_date: 2024-7-
+epub_date: 2024-7-22
+doi: 10.3390/genes15070961
+journal_title: Genes
+journa_nlm_ta: Genes (Basel)
+publisher_name: MDPI
+keywords:
+- heme
+- porphyrin
+- protoporphyrin IX
+- tumor microenvironment
+- cancer-associated fibroblasts
+---

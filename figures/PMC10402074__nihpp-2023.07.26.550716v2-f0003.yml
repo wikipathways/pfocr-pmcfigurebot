@@ -1,0 +1,48 @@
+---
+figid: PMC10402074__nihpp-2023.07.26.550716v2-f0003
+pmcid: PMC10402074
+image_filename: PMC10402074__nihpp-2023.07.26.550716v2-f0003.jpg
+figure_link: /pmc/articles/PMC10402074/figure/F3/
+number: FIG 3
+figure_title: ZIKV activates ATF3 through the Integrated Stress Response (ISR) pathway.
+caption: ZIKV activates ATF3 through the Integrated Stress Response (ISR) pathway.
+  (A) Schematic of the ISR pathway. Stress conditions like virus infections, ER stress,
+  amino acid deprivation and oxidative stress induce stalling of cap-dependent translation
+  by phosphorylating eIF2α and inducing the translation of ATF4. ATF4 in turn activates
+  downstream targets including ATF3 to restore cellular homeostasis. A549 WT cells
+  were mock-infected or infected with the ZIKVPR (moi=10 PFU/cell) in the presence
+  or absence of ISRIB, an ISR inhibitor. Cells were harvested 24-hours post-infection,
+  and (B) cellular and viral proteins analyzed by western blot. The fold change (2−ΔΔCt)
+  in (C) ATF4, (D) ASNS, (E) ATF3 and (F) ZIKV mRNA levels relative to ACTB mRNA were
+  determined by RT-qPCR from three technical replicates and three biological replicates.
+  (G) Viral titers in cell culture media were measured by plaque assay. Average viral
+  titers were calculated from three independent experiments with the paque assay being
+  performed in duplicate. (H) A549 WT cells received no treatment or were incubated
+  with DMSO (control) or ISRIB. Arbitrary luciferase unit were measured as a proxy
+  for cell viability. (I) A549 cells were either mock-infected or infected with ZIKVPR
+  (moi=10 PFU/cell) in the presence or absence of ISRIB. Cellular and nuclear fractions
+  were prepared from cells harvested 24-hours post-infection. The resultant subcellular
+  fractions were analyzed by Western blotting and probed with anti-NS1, ATF4, ATF3,
+  fibrillarin and α-tubulin antibodies. Fibrillarin and α-tubulin were used as nuclear
+  and cytoplasmic markers respectively. The western bots shown are representative
+  of three independent experiments. The quantitative data are shown as the means ±
+  SD. The experiment was repeated three times. Statistical significance was determined
+  by Student T-test. **p<0.05, ***p<0.0005, ****p<0.0001, ns-not significant. (18,
+  69)
+article_title: Activation of ATF3 via the Integrated Stress Response Pathway Regulates
+  Innate Immune Response to Restrict Zika Virus
+citation: Pheonah Badu, et al. bioRxiv. 2024 Jul 03;NA(NA).
+year: '2024'
+pub_date: 2024-7-03
+epub_date: 2024-7-03
+doi: 10.1101/2023.07.26.550716
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- Zika virus
+- Flavivirus
+- Transcription Factor
+- Integrated Stress Response
+- Innate immune response
+---

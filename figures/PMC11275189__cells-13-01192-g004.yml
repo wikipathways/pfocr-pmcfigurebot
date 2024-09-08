@@ -1,0 +1,30 @@
+---
+figid: PMC11275189__cells-13-01192-g004
+pmcid: PMC11275189
+image_filename: PMC11275189__cells-13-01192-g004.jpg
+figure_link: /pmc/articles/PMC11275189/figure/F4/
+number: Figure 4
+figure_title: Flow chart for using BDSC or FlyBase to find stocks.
+caption: Flow chart for using BDSC or FlyBase to find stocks. Use BDSC for stock numbers
+  since it has the most current information about genotype and stock availability.
+  Use FlyBase for reference, gene ontology, and pathway searches. Symbols (gene, component)
+  on the BDSC webpage are linked to FlyBase, which provides vast genetic and molecular
+  data, linkouts, and references for further reading
+article_title: An Introductory Guide to Using Bloomington Drosophila Stock Center
+  and FlyBase for Aging Research
+citation: Xiangzhong Zheng, et al. Cells. 2024 Jul;13(14).
+year: '2024'
+pub_date: 2024-7-
+epub_date: 2024-7-14
+doi: 10.3390/cells13141192
+journal_title: Cells
+journa_nlm_ta: Cells
+publisher_name: MDPI
+keywords:
+- Bloomington Drosophila Stock Center
+- aging
+- lifespan
+- conserved mechanism
+- age-related diseases
+- FlyBase
+---

@@ -1,0 +1,33 @@
+---
+figid: PMC11280950__plants-13-01977-g002
+pmcid: PMC11280950
+image_filename: PMC11280950__plants-13-01977-g002.jpg
+figure_link: /pmc/articles/PMC11280950/figure/F2/
+number: Figure 2
+figure_title: The canonical RNA-directed DNA methylation pathway in Arabidopsis.
+caption: The canonical RNA-directed DNA methylation pathway in Arabidopsis. RNA Polymerase
+  IV (POL IV) interacts with the CLASSY protein (CLSY1) and SAWADEE homeodomain homolog
+  1 (SHH1), which is bound to dimethylated histone H3 lysine 9 (H3K9me2). POL IV generates
+  single-stranded RNA precursors, and RNA-DEPENDENT RNA POLYMERASE 2 (RDR2) produces
+  double-stranded RNA (dsRNA). DICER-LIKE PROTEIN 3 (DCL3) cleaves the dsRNA into
+  24-nucleotide small interfering RNAs (siRNAs). The siRNAs bind to ARGONAUTE proteins
+  (AGO4 and AGO6). The AGO-sRNA duplex binds to complementary sequences along an RNA
+  scaffold produced by RNA Polymerase V (Pol V). This reaction is assisted by RDM3,
+  the DDR complex, and SUVH2/9. RDM3 is a putative transcription elongation factor
+  of Pol V. The DDR complex consists of DRD1, DMS3, and RDM1. SUVH2/9 interacts with
+  pre-existing methylated DNA. Domains Rearranged Methyltransferase 2 (DRM2), recruited
+  by AGO-sRNA duplex, catalyzes de novo methylation in nearby DNA
+article_title: DNA Methylation Dynamics in Response to Drought Stress in Crops
+citation: Xiaolan Rao, et al. Plants (Basel). 2024 Jul;13(14).
+year: '2024'
+pub_date: 2024-7-
+epub_date: 2024-7-19
+doi: 10.3390/plants13141977
+journal_title: Plants
+journa_nlm_ta: Plants (Basel)
+publisher_name: MDPI
+keywords:
+- epigenetics
+- DNA methylation
+- drought stress response
+---
