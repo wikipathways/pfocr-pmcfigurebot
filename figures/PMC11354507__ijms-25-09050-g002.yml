@@ -1,0 +1,73 @@
+---
+figid: PMC11354507__ijms-25-09050-g002
+pmcid: PMC11354507
+image_filename: PMC11354507__ijms-25-09050-g002.jpg
+figure_link: /pmc/articles/PMC11354507/figure/F2/
+number: Figure 2
+figure_title: Inflammation triggered by macrophage after SARS-CoV-2 infection.
+caption: 'Inflammation triggered by macrophage after SARS-CoV-2 infection. Activation
+  of Toll-like receptors (TLRs) occurs when they recognise pathogen-associated molecular
+  patterns (PAMPs). These patterns are typically found in foreign organisms, such
+  as bacteria and viruses. TLR localisation can occur on either the cell surface (TLR-1,
+  -2, -4, -5, -6, -10) or in intracellular compartments such as endosomes (TLR-3,
+  -7, -8, -9). The ability to recognise viral single-stranded RNA (ssRNA) implies
+  its potential for SARS-CoV-2 clearance of SARS-CoV-2. These receptors detect signals
+  and initiate NF-κB and IRF activation. Activation can occur through the MyD88-dependent
+  and MyD88-independent pathways, ultimately leading to the expression of cytokines
+  and interferon (IFN-I). The binding of viral RNA to RIG-I or MDA5 prompts the creation
+  of MAVS polymers in mitochondria, followed by the subsequent attachment of TRAFs.
+  TRAFs activate the NF-κB, and interferon regulatory factors (IRFs), mainly IRF-3
+  and IRF-7. This process leads to the expression of antiviral interferon-stimulated
+  genes (ISGs) and pro-inflammatory cytokines. Cytosolic DNA sensors, primarily cGAS
+  detect viral DNA, including dsDNA from DNA viruses or reverse-transcribed DNA from
+  retroviruses. Upon binding to dsDNA, cGAS becomes activated and catalyses the production
+  of a second messenger cyclic GMP-AMP (cGAMP). cGAMP binds and activates STING, which
+  recruits and activates TBK1. Activated TBK1 phosphorylates the transcription factor
+  IRF3 leading to the expression of ISGs. Activation of the JAK-STAT pathway by IFN
+  and cytokines initiates the innate immune response against viral infections. The
+  role of this pathway is critical in various physiological and pathological processes
+  like cancer development, inflammation, tissue damage, and viral infections. The
+  binding of Type I IFN to IFNα receptors (IFNAR) activates JAKs, which in turn phosphorylates
+  and moves STATs to the nucleus. This process leads to the expression of antiviral
+  ISGs. Once the STAT1-STAT2 heterodimer is formed, it binds to IRF9 to create the
+  transcriptionally active ISGF3. The early immune response to viral infections heavily
+  relies on the activation of the Jak2/STAT3 signalling pathway by Il-6, which facilitates
+  virus clearance through neutrophils. The IL-6 protein binds to the IL-6R receptor,
+  which is composed of the IL-6α receptor molecule and the gp130 signal transducer,
+  allowing cell signalling. JAK2 activation induced by IL-6 through gp130 results
+  in the activation of STATs, particularly STAT3. Abbreviations: ISGs—interferon-stimulated
+  genes; cGAMP—cyclic GMP-AMP; cGAS—(cyclic GMP-AMP synthase); GAS—interferon-activated
+  site; IFNs—interferons; IKKα—IκB kinase α; IRF9—interferon regulatory factor 9;
+  ISGF3—INF-stimulated gene factor 3; ISGs—interferon-stimulated genes; ISRE—interferon-stimulated
+  response element; JAK—Janus kinase; MDA5—melanoma differentiation-associated protein
+  5; MODS—multiple organ dysfunction syndrome; MyD88—myeloid differentiation primary
+  response 88; NEMO—NF-κB essential modulator; PAMPs—pathogen-associated molecular
+  patterns; RIG-I—retinoic acid-inducible gene I; STAT—signal transducer and activator
+  of transcription; STING—stimulator of interferon genes; TBK1—TANK-binding kinase;
+  TRAF—tumour necrosis factor receptor-related factor; TRAF6—tumour necrosis factor
+  receptor-related factor 6; TRAM—trif-related adaptor molecule; TRIF—domain-containing
+  adaptor protein inducing interferon β; Tyk2—tyrosine kinase 2. Different colours
+  in the figure represent various components of the signaling pathways–blueindicates
+  MyD88-dependent and cGAS-STING pathways, green represents IRF, and pink represents
+  the JAK/STAT pathway. c. (Created with BioRender.com)'
+article_title: Post-Acute Sequelae and Mitochondrial Aberration in SARS-CoV-2 Infection
+citation: Charles Ward, et al. Int J Mol Sci. 2024 Aug;25(16).
+year: '2024'
+pub_date: 2024-8-
+epub_date: 2024-8-21
+doi: 10.3390/ijms25169050
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- SARS-CoV-2
+- PASC
+- long COVID
+- mitochondria
+- mtDNA
+- autophagy
+- mitophagy
+- innate immunity
+- cell metabolism
+- reactive oxygen species
+---

@@ -1,0 +1,31 @@
+---
+figid: PMC11326265__nihpp-2024.08.09.607377v1-f0002
+pmcid: PMC11326265
+image_filename: PMC11326265__nihpp-2024.08.09.607377v1-f0002.jpg
+figure_link: /pmc/articles/PMC11326265/figure/FFigure 2./
+number: Figure 2.
+figure_title: Transcriptomic profiling of miR-1 KO skeletal muscle
+caption: |-
+  (A-B) Pathway enrichment analysis (Elsevier Pathway Collection) of significantly up-regulated genes (A) (FDR < 0.05, Log2FC > 0) and significantly down-regulated genes (B) (FDR < 0.05, Log2FC < 0) in miR-1 KO/WT from gastrocnemius bulk RNA-seq (n=4 female WT, n=4 female miR-1 KO, post-vehicle or tamoxifen treatment and an 8-week washout). Top 9 pathways (by adj. p-value) shown. (C) Volcano plot of differentially expressed genes, dashed lines indicate p-value, FDR, and FC cutoffs. Yellow represents significantly up-regulated genes, and blue represents significantly down-regulated genes. P-value cutoff set at 1e-25 for visibility. Genes in pathways from (A-B) labeled on the volcano plot. (D) Cumulative density function (CDF) of eCLIP-seq-defined miR-1 targets (blue) and miR-133 (green) Log2FC from RNA-seq compared to non-miR-1 targets (yellow). (E)
+  Ptbp1 mRNA expression in WT and miR-1 KO gastrocnemius. (F) Representative Western blot of PKM1 and PKM2 and corresponding total protein levels in WT and miR-1 KO gastrocnemius muscle lysates. (G-I) Quantification of (G) PKM1 protein levels, (H) PKM2 protein levels, and (I) the ratio of PKM2 to PKM1. For Western blotting and qPCR experiments, n=8–10 WT and n=8–10 miR-1 KO females (post-tamoxifen treatment and an 8-week washout) were used, and differences between WT and miR-1 KO were tested using an independent t-test. ****p < 0.0001, ns: not significant
+article_title: microRNA-1 Regulates Metabolic Flexibility in Skeletal Muscle via Pyruvate
+  Metabolism
+citation: Ahmed Ismaeel, et al. bioRxiv. 2024 Aug 10;NA(NA).
+year: '2024'
+pub_date: 2024-8-10
+epub_date: 2024-8-10
+doi: 10.1101/2024.08.09.607377
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- microRNA
+- eCLIP-seq
+- metabolomics
+- proteomics
+- aerobic glycolysis
+- Warburg effect
+- C. elegans
+- resistance exercise
+- hypertrophy
+---

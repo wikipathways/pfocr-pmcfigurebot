@@ -1,0 +1,49 @@
+---
+figid: PMC11326256__nihpp-2024.08.10.607464v1-f0005
+pmcid: PMC11326256
+image_filename: PMC11326256__nihpp-2024.08.10.607464v1-f0005.jpg
+figure_link: /pmc/articles/PMC11326256/figure/FFigure 5./
+number: Figure 5.
+figure_title: Differential gene expression in mutant organoids defined by bulk RNAseq
+  and scRNAseq
+caption: (A) Integrated UMAP plot of 3-month cultured RTT-R306C cerebral organoid
+  and isogenic control, identifying the cell types of organoids. (B) Differential
+  gene expression in brain organoids carrying MeCP2[R306C] mutation, identifying HDAC2
+  overexpression in the mutant organoids. RNA was extracted and pooled from 8 different
+  3-month organoids in each condition for bulk RNAseq. The volcano plot shows 343
+  upregulated and 107 downregulated genes from bulk RNAseq. (C) HDAC2 expression after
+  classifying cell types with scRNAseq. Altered HDAC2 gene expression was observed
+  in all neural cells including excitatory and inhibitory neurons, radial glia, and
+  astrocytes. (D) Neuron-neuron connectivity inferred by NeuronChatDB in R306C mutant
+  and control organoids. (E) Quantification of differential inferred neuron-neuron
+  interaction. (F) Significant downregulated/upregulated signaling pathway among cell
+  types. Downregulated neurexin-neuroglin and Glu-GluR interactions were observed
+  in the R306C mutant organoids. (G) Integrated UMAP plot of 3-month cultured RTT-V247X
+  cerebral organoid and isogenic control. (H) Differential gene expression in brain
+  organoids carrying MeCP2[V247X] mutation, identifying downregulation of GABAergic
+  receptors in mutant organoids. RNA was extracted and pooled from 6 different organoids
+  in each condition for bulk RNAseq. The volcano plot shows 896 upregulated and 494
+  downregulated genes. (I) GABRA4 and GABRA2 expression in different cell types; downregulation
+  was observed in excitatory but not in inhibitory neurons. (J) Inferred neuron-neuron
+  connectivity determined by NeuronChatDB in RTT-V247X mutant and control organoids.
+  (K) Quantification of differential inferred neuron-neuron interaction. Downregulated
+  neurexin-neuroglin and GABA-GABRA4 interactions were observed in the RTT-V247X mutant
+  organoids. (L) Inferred connectivity analysis showing loss of GABA->GABAR4 directional
+  interaction between excitatory neurons and inhibitory neurons, due to the downregulation
+  of GABARA4 in excitatory neurons. (M, N, O) Drug treatment (CAY10683 (HDAC2 inhibitor)
+  and Baclofen) for 72 hrs for cerebral organoids, showing (N) spike frequency and
+  O) small world propensity in the presence of drugs. n = 3 organoids per condition.
+  *p<0.05, **p<0.01; students’s t-test for two-compasiton and one-way ANOVA for multiple
+  comparison. Error bars indicate ±SD
+article_title: Early differential impact of MeCP2 mutations on functional networks
+  in Rett syndrome patient-derived human cerebral organoids
+citation: Tatsuya Osaki, et al. bioRxiv. 2024 Aug 10;NA(NA).
+year: '2024'
+pub_date: 2024-8-10
+epub_date: 2024-8-10
+doi: 10.1101/2024.08.10.607464
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

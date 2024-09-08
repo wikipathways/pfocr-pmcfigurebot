@@ -1,0 +1,49 @@
+---
+figid: PMC11326265__nihpp-2024.08.09.607377v1-f0006
+pmcid: PMC11326265
+image_filename: PMC11326265__nihpp-2024.08.09.607377v1-f0006.jpg
+figure_link: /pmc/articles/PMC11326265/figure/FFigure 6./
+number: Figure 6.
+figure_title: miR-1 down-regulation during MOV-induced muscle hypertrophy
+caption: '(A) Venn diagram comparing significantly up-regulated genes in miR-1 KO
+  compared to WT (“miR-1 KO up”), significantly up-regulated genes following 3 days
+  of synergist ablation-induced MOV compared to sham (“MOV up”), and eCLIP-seq-defined
+  miR-1 targets (CLIP target). Consensus genes listed. Venn diagram generated using
+  https://bioinformatics.psb.ugent.be/webtools/Venn/. (B) Pathway enrichment analysis
+  of consensus genes between “miR-1 KO up” and “MOV up,” top 10 pathways by adj. p-value
+  shown. (C) Outline of human resistance exercise training program and times of biopsy
+  collection (T0: baseline, T1: after the 1st training session, T13: after the 13th
+  training session, T14: after the 14th training session). (D) miR-1 expression in
+  human skeletal muscle biopsies (from n=14 males) at the different time points of
+  the resistance exercise training program. Differences in miR-1 expression at the
+  different time points tested using a repeated-measures ANOVA with Tukey’s multiple
+  comparisons. (E-F) Association between the change (Δ) in miR-1 expression and the
+  Δ PKM1 protein levels at (E) T13 and (F) T14. (G-H) Association between miR-1 expression
+  and PTBP1 mRNA expression at (G) T0 and (H) T13. Associations tested using simple
+  linear regressions, p-values shown. (I) Type II fiber hypertrophy, demonstrated
+  as percent change in Type II fiber CSA from T0 to T14. Participants divided into
+  Low (n=7) and High (n=7) groups based on magnitude of CSA increases. (J) Percent
+  change in miR-1 expression from T0 to T14 in participants in the Low and High fiber
+  hypertrophy groups. Data in (I-J) analyzed using independent t-tests Ns: not significant,
+  *p < 0.05, **p < 0.01, ***p < 0.0001'
+article_title: microRNA-1 Regulates Metabolic Flexibility in Skeletal Muscle via Pyruvate
+  Metabolism
+citation: Ahmed Ismaeel, et al. bioRxiv. 2024 Aug 10;NA(NA).
+year: '2024'
+pub_date: 2024-8-10
+epub_date: 2024-8-10
+doi: 10.1101/2024.08.09.607377
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- microRNA
+- eCLIP-seq
+- metabolomics
+- proteomics
+- aerobic glycolysis
+- Warburg effect
+- C. elegans
+- resistance exercise
+- hypertrophy
+---

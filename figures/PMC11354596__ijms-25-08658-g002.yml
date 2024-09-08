@@ -1,0 +1,47 @@
+---
+figid: PMC11354596__ijms-25-08658-g002
+pmcid: PMC11354596
+image_filename: PMC11354596__ijms-25-08658-g002.jpg
+figure_link: /pmc/articles/PMC11354596/figure/F2/
+number: Figure 2
+figure_title: Enrichment analysis of KEGG pathways associated with DEGs in vitrified–warmed
+  blastocysts.
+caption: Enrichment analysis of KEGG pathways associated with DEGs in vitrified–warmed
+  blastocysts. The scatterplot depicts the enriched KEGG pathways corresponding to
+  upregulated (red) and downregulated (blue) DEGs. With a false discovery rate (FDR)
+  < 0.2 and fold-change ≥ 1.5, the upregulated DEGs were enriched for 6 pathways,
+  while the downregulated DEGs were enriched for 7 pathways. Enriched pathways of
+  upregulated DEGs such as “Thermogenesis”, “Chemical carcinogenesis-reactive oxygen
+  species”, and “Oxidative phosphorylation”. These pathways promote ATP generation,
+  affecting cell survival, proliferation, migration, and differentiation via the “MAPK
+  signaling pathway”. Enriched pathways of downregulated DEGs mostly involved in immune
+  responses, such as “Herpes simplex virus 1 infection”, “NF-kappa B signaling pathway”,
+  “Autophagy-animal”, “Fc epsilon RI signaling pathway”, and “Glycosylphosphatidylinositol
+  (GPI)-anchor biosynthesis”. The x-axis represents the fold enrichment, calculated
+  as the ratio of the observed gene frequency in the pathway to the expected frequency,
+  based on a random distribution. The y-axis represents the −log10 transformed false
+  discovery rate (FDR), where larger dot points indicate lower FDR values and higher
+  statistical significance. Pathways positioned towards the left exhibit more significant
+  fold enrichments, indicating a higher representation of DEGs in those pathways compared
+  to random expectation
+article_title: 'Transcriptomic Analysis of Vitrified–Warmed vs. Fresh Mouse Blastocysts:
+  Cryo-Induced Physiological Mechanisms and Implantation Impact'
+citation: Chi-Ying Lee, et al. Int J Mol Sci. 2024 Aug;25(16).
+year: '2024'
+pub_date: 2024-8-
+epub_date: 2024-8-08
+doi: 10.3390/ijms25168658
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- blastocyst
+- vitrification
+- transcriptome
+- gene expression
+- implantation
+- microRNAs
+- next-generation sequencing
+- frozen embryo transfer
+- assisted reproduction
+---

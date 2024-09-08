@@ -1,0 +1,34 @@
+---
+figid: PMC11356322__metabolites-14-00430-g001
+pmcid: PMC11356322
+image_filename: PMC11356322__metabolites-14-00430-g001.jpg
+figure_link: /pmc/articles/PMC11356322/figure/F1/
+number: Figure 1
+figure_title: Computational workflow to determine the target protein from metabolites
+  obtained from metabolomics.
+caption: Computational workflow to determine the target protein from metabolites obtained
+  from metabolomics. The metabolites undergo an intricate computational workflow pipeline
+  aimed at identifying protein targets and elucidating their functional pathways.
+  The identified target proteins and associated metabolites are then subjected to
+  in silico methods such as molecular dynamic simulations and require further experimental
+  validation
+article_title: 'Unraveling Protein-Metabolite Interactions in Precision Nutrition:
+  A Case Study of Blueberry-Derived Metabolites Using Advanced Computational Methods'
+citation: Dipendra Bhandari, et al. Metabolites. 2024 Aug;14(8).
+year: '2024'
+pub_date: 2024-8-
+epub_date: 2024-8-03
+doi: 10.3390/metabo14080430
+journal_title: Metabolites
+journa_nlm_ta: Metabolites
+publisher_name: MDPI
+keywords:
+- metabolomics
+- in silico
+- target prediction
+- gene
+- protein
+- metabolites
+- computation
+- molecular dynamics
+---

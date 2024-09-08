@@ -1,0 +1,35 @@
+---
+figid: PMC11314269__plants-13-02167-g004
+pmcid: PMC11314269
+image_filename: PMC11314269__plants-13-02167-g004.jpg
+figure_link: /pmc/articles/PMC11314269/figure/F4/
+number: Figure 4
+figure_title: Gene expression heatmaps of genes involved in the plant–pathogen interaction
+  pathway of B.
+caption: 'Gene expression heatmaps of genes involved in the plant–pathogen interaction
+  pathway of B. rapa in KEGG (Kyoto Encyclopedia of Genes and Genomes). The pathways
+  are organized into three categories: (a) the perception of pathogens by pattern-recognition
+  receptors (PRRs), (b) pattern-triggered immunity (PTI), and (c) effector-triggered
+  immunity (ETI). Heatmap colors represent row-scaled Z-score of TMM-normalized TPM
+  values. The functional descriptions corresponding to the gene are derived from the
+  NCBI Eukaryotic Genome Annotation Pipeline (Annotation release ID: 103.20201202).
+  The gene labels in red indicate DEGs with a fold-change of 4 or more induced by
+  SS and HS2 strains'
+article_title: Comparison of Root Transcriptomes against Clubroot Disease Pathogens
+  in a Resistant Chinese Cabbage Cultivar (Brassica rapa cv. ‘Akimeki’)
+citation: Eun-Seok Oh, et al. Plants (Basel). 2024 Aug;13(15).
+year: '2024'
+pub_date: 2024-8-
+epub_date: 2024-8-05
+doi: 10.3390/plants13152167
+journal_title: Plants
+journa_nlm_ta: Plants (Basel)
+publisher_name: MDPI
+keywords:
+- clubroot disease
+- Plasmodiophora brassicae
+- Akimeki
+- transcriptomics
+- disease resistance
+- Brassica rapa
+---
