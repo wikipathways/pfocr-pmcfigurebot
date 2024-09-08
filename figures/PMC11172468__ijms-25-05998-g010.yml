@@ -1,0 +1,35 @@
+---
+figid: PMC11172468__ijms-25-05998-g010
+pmcid: PMC11172468
+image_filename: PMC11172468__ijms-25-05998-g010.jpg
+figure_link: /pmc/articles/PMC11172468/figure/F10/
+number: Figure 10
+figure_title: Differential genes analyzed in the Wnt signaling pathway.
+caption: Differential genes analyzed in the Wnt signaling pathway. (A) Wnt signaling
+  pathway annotation map of DEGs. The box represents the protein, red represents up-regulation,
+  green represents down-regulation, and the rounded box represents another metabolic
+  pathway. (B) GSEA analysis of all differentially expressed genes in the Wnt signaling
+  pathway. The black vertical line in the abscissa represents the genes in the Wnt
+  pathway; the ordinate in the above figure represents the dynamic enrichment score;
+  the green curve represents the enrichment score of the gene set at each position;
+  the peak of the green curve is the ES value of Wnt pathway. If the ES value is positive,
+  the current function shows an upward trend; if the ES value is negative, the current
+  function shows a downward trend
+article_title: Pygo-F773W Mutation Reveals Novel Functions beyond Wnt Signaling in
+  Drosophila
+citation: Youfeng Li, et al. Int J Mol Sci. 2024 Jun;25(11).
+year: '2024'
+pub_date: 2024-6-
+epub_date: 2024-5-30
+doi: 10.3390/ijms25115998
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- Pygo
+- Wingless (Wg)/Wnt signaling pathway
+- CRISPR/Cas9
+- RNA-seq
+- point mutation
+- posttranslational modification
+---

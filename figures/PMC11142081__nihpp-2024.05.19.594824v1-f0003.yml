@@ -1,0 +1,37 @@
+---
+figid: PMC11142081__nihpp-2024.05.19.594824v1-f0003
+pmcid: PMC11142081
+image_filename: PMC11142081__nihpp-2024.05.19.594824v1-f0003.jpg
+figure_link: /pmc/articles/PMC11142081/figure/FFigure 3 |/
+number: Figure 3 |
+figure_title: JWJ-01–306 combination treatment overcomes acquired resistance to K-Ras
+  inhibitors in PDAC via metabolic pathway reprogramming
+caption: A. JWJ-01–306 synergizes with sotorasib to inhibit proliferation of sotorasib-resistant
+  MIA PaCa-2 cells. Cells were treated with the indicated compounds and cell numbers
+  were measured using trypan blue exclusion. Data is depicted as the average +/− S.D.
+  of n = 3 biological replicates. B. JWJ-01–306 effectively inhibits proliferation
+  of SUIT2 cells. Cells were treated with the indicated compounds and cell confluence
+  was measured using a Cellcyte X live cell analyzer. Data is depicted as the average
+  +/− S.D. of n = 3 biological replicates with n = 4 technical replicates each. C.
+  Sotorasib-resistant MIA PaCa-2 cells were treated with DMSO, 1 μM sotorasib, 10
+  μM JWJ-01–306, or 1 μM sotorasib + 10 μM JWJ-01–306 (combo) for 72 hrs followed
+  by global proteomics analysis, n = 3 biological replicates per condition. Protein
+  abundance changes were analyzed by one-way ANOVA test (FDR < 0.05) and clustered
+  using K-nearest neighbors clustering. Each line within the clusters is color-coded
+  according to its distance from the cluster center, ranging from purple (close) to
+  light blue (far). Proteins in each cluster were then evaluated for pathway enrichment
+  using GO and KEGG pathway analysis. Representative pathways are shown and pathways
+  associated with ZBTB11 function are highlighted in blue text. Full datasets in Dataset
+  4
+article_title: ZBTB11 Depletion Targets Metabolic Vulnerabilities in K-Ras Inhibitor
+  Resistant PDAC
+citation: Nathan L. Tran, et al. bioRxiv. 2024 May 21;NA(NA).
+year: '2024'
+pub_date: 2024-5-21
+epub_date: 2024-5-21
+doi: 10.1101/2024.05.19.594824
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

@@ -1,0 +1,44 @@
+---
+figid: PMC11173002__ijms-25-06060-g001
+pmcid: PMC11173002
+image_filename: PMC11173002__ijms-25-06060-g001.jpg
+figure_link: /pmc/articles/PMC11173002/figure/F1/
+number: Figure 1
+figure_title: Development of the CB1R biosensor.
+caption: 'Development of the CB1R biosensor. (a) The yeast pheromone response pathway
+  was genetically modified for human receptors. Grayed out boxes represent knocked
+  out genes. The yeast pheromone GPCR Ste2 was replaced with a human GPCR (illustrated
+  as a red 7-transmembrane protein). The Fig1 pheromone response gene was replaced
+  with a ZsGreen reporter via knock-in. The GpaI G-alpha protein is illustrated in
+  two colors to represent its chimeric nature, where the yeast portion (purple) interacts
+  with the factors of the MAP kinase cascade and the humanized C-terminus (red) interacts
+  with the human GPCR directly. (b) ACEA dose response with CB1R. CB1, EC50 = 1.30
+  µM, 95% CI 0.80 to 2.12 µM. Δ89-CB1R, EC50 5.05 µM, 95% CI 2.64 to 9.29 µM. Syn-pre-pro
+  CB1R EC50 = 0.04 µM, 95% CI 0.03 to 0.05 µM. Syn-pre-pro Δ89-CB1R, EC50 = 0.15 µM,
+  95% CI 0.10 to 0.21 µM. (c) Dose response of the endocannabinoids 2-arachidonoyl
+  glycerol (2-AG) and N-arachidonoylethanolamine (anandamide, AEA) with CB1R. AEA,
+  EC50: 4 nM, 95% CI 2.62 × 10−9 to 6.92 × 10−9 M 2-AG,EC50: 100 nM, 95% CI 6.60 ×
+  10−8 to 1.48 × 10−7 M. For all experiments, n = 3. Nonlinear regression was fit
+  as a 4-parameter logistic equation. (d) Cytometry of yeast treated with 1 uM AEA
+  or DMSO vehicle (1% v/v). The yeast was treated with ligands or vehicles for 8 h,
+  and ZsGreen fluorescence was measured on gated singlets. Syn-pre-pro-Δ89CB1R (n
+  = 4), WT CB1R (n = 4), 5HT1AR (n = 3), and the base GPCR strain with no receptor
+  (n = 4) were tested. (e) Mean fluorescence values from (d) for the AEA and vehicle
+  group were plotted. Unpaired t-tests were performed between the negative control
+  and test groups. p-values are reported where ns corresponds to p > 0.05, * is p
+  ≤ 0.05, and *** is p ≤ 0.001'
+article_title: A Humanized CB1R Yeast Biosensor Enables Facile Screening of Cannabinoid
+  Compounds
+citation: Colleen J. Mulvihill, et al. Int J Mol Sci. 2024 Jun;25(11).
+year: '2024'
+pub_date: 2024-6-
+epub_date: 2024-5-31
+doi: 10.3390/ijms25116060
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- cannabinoid receptors
+- humanized yeast
+- G-protein-coupled receptors
+---

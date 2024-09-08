@@ -1,0 +1,43 @@
+---
+figid: PMC11118471__nihpp-2024.05.13.593788v1-f0005
+pmcid: PMC11118471
+image_filename: PMC11118471__nihpp-2024.05.13.593788v1-f0005.jpg
+figure_link: /pmc/articles/PMC11118471/figure/FFigure 5:/
+number: 'Figure 5:'
+figure_title: Activation of senescence pathways is blocked by the pub4 mutation
+caption: Senescence is induced in fc2 mutants under cycling light conditions and blocked
+  by the pub4 mutation. (a) Expression data from the DESeq2 analysis of the included
+  RNA-seq data set was used to create a heatmap of genes associated with senescence.
+  Increased and decreased expression relative to wt is indicated by yellow and green,
+  respectively. (b) Representative images of detached 3rd and 4th rosette leaves from
+  plants grown in constant (24h) light conditions. The leaves were incubated in the
+  dark with water (control conditions) or with 100 μM methyl jasmonate (MeJA) for
+  3 days. (c) Measurement of the maximum quantum efficiency of photosystem II (Fv/Fm)
+  of leaves in panel b. (d) Total chlorophyll content of leaves in panel b. Statistical
+  analyses were performed using one-way ANOVA tests, and the different letters above
+  the bars indicate significant differences within data sets determined by Tukey-Kramer
+  post-tests (P ≤ 0.05). Separate analyses were performed for the different treatments,
+  and the significance of the MeJA treatment is denoted by letters with a prime symbol
+  (ʹ). Statistical analyses of genotypes between conditions were performed by student’s
+  t-tests (*, P ≤ 0.05; **, P ≤ 0.01; ns, P ≥ 0.05). n = 3 whole leaves from separate
+  plants. Error bars = +/− SEM. Closed circles indicate individual data points
+article_title: Plant U-Box 4 regulates chloroplast stress signaling and programmed
+  cell death via Salicylic acid modulation
+citation: Snigdha Rai, et al. bioRxiv. 2024 May 15;NA(NA).
+year: '2024'
+pub_date: 2024-5-15
+epub_date: 2024-5-15
+doi: 10.1101/2024.05.13.593788
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- Abiotic stress
+- Arabidopsis thaliana
+- chloroplast
+- programmed cell death
+- reactive oxygen species
+- singlet oxygen
+- Jasmonic acid
+- Salicylic acid
+---

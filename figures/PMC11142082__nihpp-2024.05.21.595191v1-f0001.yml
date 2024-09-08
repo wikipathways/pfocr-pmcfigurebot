@@ -1,0 +1,27 @@
+---
+figid: PMC11142082__nihpp-2024.05.21.595191v1-f0001
+pmcid: PMC11142082
+image_filename: PMC11142082__nihpp-2024.05.21.595191v1-f0001.jpg
+figure_link: /pmc/articles/PMC11142082/figure/FFigure 1:/
+number: 'Figure 1:'
+figure_title: Principal component analysis of normalized enzyme gene copy numbers
+  across all MAGs recovered from the three diet treatments
+caption: The total numbers of enzymes of each degradation pathway (proteins, cellulose,
+  hemicellulose, starch, and chitin) normalized to the MAG’s genome completeness were
+  used to generate components. Fatty acids were included as a binary where 1 designated
+  that the MAG could complete all four steps of beta oxidation, while 0 designated
+  that it could not. Ellipses represent t distributions around the centroids. Ellipses
+  are labeled for clarity. Individual points represent individual MAGs. The larger
+  shapes in the ellipses are group centroids
+article_title: Comparative metagenomics of tropical reef fishes show conserved core
+  gut functions across hosts and diets with diet-related functional gene enrichments
+citation: Derek G. Wu, et al. bioRxiv. 2024 May 21;NA(NA).
+year: '2024'
+pub_date: 2024-5-21
+epub_date: 2024-5-21
+doi: 10.1101/2024.05.21.595191
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

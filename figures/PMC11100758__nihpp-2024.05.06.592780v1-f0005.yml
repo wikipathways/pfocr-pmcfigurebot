@@ -1,0 +1,43 @@
+---
+figid: PMC11100758__nihpp-2024.05.06.592780v1-f0005
+pmcid: PMC11100758
+image_filename: PMC11100758__nihpp-2024.05.06.592780v1-f0005.jpg
+figure_link: /pmc/articles/PMC11100758/figure/FFigure 5./
+number: Figure 5.
+figure_title: Inhibiting PUFA metabolism suppresses ferroptosis in lipid-starved cancer
+  cells
+caption: 'A, Schematic illustrating the PUFA metabolism pathway and inhibitors of
+  FADS1 and FADS2. FADS2, fatty acid desaturase 2; ELOVL2/5, elongase of very-long
+  fatty acid 2/5; FADS1, fatty acid desaturase 1. B, Fold change in gene expression
+  of FADS1, FADS2, and ELOVL2 in the indicated cells cultured in lipid-depleted versus
+  lipid-replete media for 24 h. C, Fold change in the relative ratios of highly unsaturated
+  PUFAs to their precursor PUFAs in the indicated cells cultured in lipid-depleted
+  versus lipid-replete media for 24 h. D-H, Cell death of A549 (D), HeLa (E), Panc1
+  (F), H1299 (G), and MIA PaCa-2 (H) cells treated with 1 μM RSL3 for 24 h after initial
+  pre-treatment of cells in lipid-depleted versus lipid-replete media, with or without
+  5 μM SC26196 or 10 μM CP24879, for 24 h. I, J, Cells were pulse labeled with [U-13C]-18:2(n-6),
+  followed by a chase period prior to lipid extraction and analysis, as shown in Fig.
+  3A. Relative levels of [M+18] labeled PUFAs in the non-polar (I) or polar (J) lipid
+  fractions from A549 cells post-pulse and after the chase period into lipid-replete
+  media or lipid-depleted media, with or without 10 μM CP24879. K, Sequencing confirmation
+  of FADS2 gene editing by CRISPR-Cas9 in A549 cells. Indel sequences and allele frequencies
+  taken from analysis using CRISPResso240. L, Cell death of A549 sgNTC cells versus
+  sgFADS2 #1.1 cells treated with the indicated concentrations of RSL3 for 24 h after
+  initial pre-treatment of cells in lipid-depleted media for 24 h. M, Cell death of
+  A549 sgNTC versus sgFADS2 #1.1 cells treated with the indicated concentrations of
+  RSL3 for 24 h after initial pre-treatment of cells in lipid-depleted media containing
+  bovine serum albumin (BSA) control or 25 μM BSA-conjugated 20:4(n-6) for 24 h. Data
+  are presented as mean ± s.e.m; n = 3 biologically independent replicates. Comparisons
+  were made using two-way ANOVA (D-J, L-N). *P<0.05, **P<0.01, ***P<0.001'
+article_title: Lipid availability influences ferroptosis sensitivity in cancer cells
+  by regulating polyunsaturated fatty acid trafficking
+citation: Kelly H. Sokol, et al. bioRxiv. 2024 May 09;NA(NA).
+year: '2024'
+pub_date: 2024-5-09
+epub_date: 2024-5-09
+doi: 10.1101/2024.05.06.592780
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

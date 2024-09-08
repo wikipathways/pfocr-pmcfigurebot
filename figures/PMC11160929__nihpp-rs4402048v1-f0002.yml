@@ -1,0 +1,44 @@
+---
+figid: PMC11160929__nihpp-rs4402048v1-f0002
+pmcid: PMC11160929
+image_filename: PMC11160929__nihpp-rs4402048v1-f0002.jpg
+figure_link: /pmc/articles/PMC11160929/figure/F2/
+number: Figure 2
+figure_title: Acne triggers signaling pathway changes within the skin across all cell
+  clusters
+caption: A) UMAP plot for nonlesional and lesional cells colored by lesional types,
+  nonlesional cells are shown in light blue, and lesional cells are shown in red.
+  B) UMAP plot showing the nonlesional and lesional samples split by lesional types.
+  C) All detected signaling pathways were ranked based on the differences of overall
+  information flow within the inferred networks between nonlesional and lesional samples.
+  The signaling pathways in green show higher enrichment in nonlesional samples, those
+  in black have similar enrichment in both conditions, and those in red are more prevalent
+  in lesional samples. Bar graphs are displayed in both non-stacked (left) and stacked
+  (right) formats. D-E) Heatmap show the comparison of outgoing (D) or incoming (E)
+  signaling associated with each cell type between nonlesional and lesional samples.
+  F-G) Dot plot showing the representative ligands (F) or receptors (G) genes from
+  ten signaling pathway which were turned on in lesional compared with nonlesional
+  samples. The color scale represents the scaled expression average of each gene,
+  and the dot size represents the percentage of cells expressing each gene
+article_title: Analysis of Intracellular Communication Reveals Consistent Gene Changes
+  Associated with Early-Stage Acne Skin
+citation: Min Deng, et al. Res Sq. 2024 May 29;NA(NA).
+year: '2024'
+pub_date: 2024-5-29
+epub_date: 2024-5-29
+doi: 10.21203/rs.3.rs-4402048/v1
+journal_title: Research Square
+journa_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords:
+- Cell-cell communication
+- acne vulgaris
+- signal distribution
+- Cutibacterium acnes
+- single cell and spatial transcriptomic sequencing
+- inflammation
+- TREM2 macrophages
+- GRN
+- hyperkeratinization
+- IL-13RA1
+---

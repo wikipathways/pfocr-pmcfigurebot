@@ -1,0 +1,44 @@
+---
+figid: PMC11125855__viruses-16-00749-g001
+pmcid: PMC11125855
+image_filename: PMC11125855__viruses-16-00749-g001.jpg
+figure_link: /pmc/articles/PMC11125855/figure/F1/
+number: Figure 1
+figure_title: Intracellular DNA sensors involved in the activation of IFN signaling
+  and the NF-κB pathway.
+caption: Intracellular DNA sensors involved in the activation of IFN signaling and
+  the NF-κB pathway. The cGAS/STING pathway is a major cytosolic dsDNA-sensing pathway.
+  Upon viral infection, cGAS dimerizes and binds to two dsDNA strands, which induces
+  a conformational change allowing the synthesis of cGAMP from GTP and ATP. cGAMP
+  binds to STING and recruits TBK1 to activate IRF3 for type I IFN production. In
+  addition to cGAS, several DNA sensors, including the receptors IFI16, DNA-PK, DDX41,
+  DAI, and hnRNPA2B1, also induce type I IFN production through the STING–TBK1–IRF3
+  axis. However, RNA Pol-III regulates type I IFN induction through the RIG-1/MAVS
+  signaling pathway. Once bound to AT-rich dsDNA, RNA Pol-III will convert this DNA
+  to 5′-triphosphate dsRNA (5′-ppp-dsRNA), which is recognized by RIG-I and interacts
+  with MAVS to mediate type I IFN production. Aside from their role in activating
+  IRF3, a few sensors are also involved in activating IRF7. DHX36 binds to CpG-DNA
+  via its DEAH domain and leads to the activation of IRF7 and the release of IFN-α.
+  In addition to IFN signaling, the cytosolic sensors cGAS and DHX9 and the endosomal
+  receptor TLR9 can activate NF-κB signaling. After viral invasion and DNA recognition,
+  TLR9 recruits MyD88, which induces the formation of the IRAK4/IRAK1/TRAF3/IKKα complex.
+  This complex then triggers the activation of the NF-κB pathway and IRF7, which in
+  turn promotes the release of proinflammatory cytokines and IFN-α. DHX9 binds to
+  CpG-DNA and activates the IRF7 pathway, promoting the release of IFN-α
+article_title: The Interplay between KSHV Infection and DNA-Sensing Pathways
+citation: Chunyan Han, et al. Viruses. 2024 May;16(5).
+year: '2024'
+pub_date: 2024-5-
+epub_date: 2024-5-08
+doi: 10.3390/v16050749
+journal_title: Viruses
+journa_nlm_ta: Viruses
+publisher_name: MDPI
+keywords:
+- KSHV
+- DNA-sensing pathways
+- antagonism
+- type I IFNs
+- proinflammatory cytokines
+- chemokines
+---

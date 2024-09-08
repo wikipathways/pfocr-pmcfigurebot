@@ -1,0 +1,44 @@
+---
+figid: PMC11160685__nihpp-2024.05.28.596297v1-f0003
+pmcid: PMC11160685
+image_filename: PMC11160685__nihpp-2024.05.28.596297v1-f0003.jpg
+figure_link: /pmc/articles/PMC11160685/figure/FFig. 3:/
+number: 'Fig. 3:'
+figure_title: Astrocyte circadian translatomes and reprogramming in WT and APP/PS1
+  mice
+caption: A. Heatmaps showing transcripts that were rhythmic in WT astrocytes (upper)
+  and rhythmic in astrocytes from APP/PS1 mice (lower). In both rows of heatmaps,
+  the genes plotted are in the same order to compare differences in rhythmic expression
+  between mice. B-D. KEGG pathway analysis of astrocyte transcripts identified as
+  rhythmic (by RAIN analysis) in (B) both WT and APP/PS1 mice, (C) WT mice, or (D)
+  APP/PS1 mice. E. Heatmap showing temporally-coordinated expression of KEGG insulin
+  signaling pathway genes in astrocytes from WT mice. F. Radar plot showing acrophase
+  distributions of rhythmic astrocyte transcripts from WT (green) or APP/PS1 (purple)
+  mice. G. Pie chart depicting the number of transcripts that gained or lost rhythms
+  in different datasets, based on compareRhythms analysis of rhythmic transcripts
+  in microglia. Total of 2323 were identified as rhythmic by RAIN analysis across
+  all datasets. H-K. Graphs showing circadian expression patterns of transcripts from
+  microglia from WT (green) or APP/PS1 (purple) mice. H. Core clock genes Per2 and
+  Arntl (Bmal1) remained rhythmic. I. Cholesterol response gene Srebf1 lost rhythmicity
+  in APP/PS1. J & K. AD-related transcripts Clu, Picalm, and Chi3l1, as well as chemokine
+  Ccl3 (K), gained rhythmicity in APP/PS1. Adjusted P values from RAIN are shown.
+  Each datapoint is the average of two mice, each from separate experiments
+article_title: A glial circadian gene expression atlas reveals cell type and disease-specific
+  reprogramming in response to amyloid pathology or aging
+citation: Patrick W. Sheehan, et al. bioRxiv. 2024 Jun 01;NA(NA).
+year: '2024'
+pub_date: 2024-6-01
+epub_date: 2024-6-01
+doi: 10.1101/2024.05.28.596297
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- circadian
+- transcriptome
+- glia
+- astrocyte
+- microglia
+- Alzheimer’s Disease
+- aging
+---

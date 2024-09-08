@@ -1,0 +1,52 @@
+---
+figid: PMC11160929__nihpp-rs4402048v1-f0003
+pmcid: PMC11160929
+image_filename: PMC11160929__nihpp-rs4402048v1-f0003.jpg
+figure_link: /pmc/articles/PMC11160929/figure/F3/
+number: Figure 3
+figure_title: GRN and IL-13RA1-related signals are activated among individuals
+caption: A) Histogram showing the percentage and number of altered signaling pathways
+  in lesional compared with nonlesional samples (left). Pie chart showing the seven
+  distribution possibilities and percentage of 232 genes in six donors, with numbers
+  0 to 6 and corresponding percentiles indicating certain percentage of genes that
+  are significantly changed in 0 to 6 donors. Violin plots illustrate the expression
+  changes of representative genes (EGF, ACVR1B, ADM, BMP2, ITGAV, VEGFB), which are
+  significantly altered in 0 to 5 donors in lesional compared to nonlesional samples.
+  Wilcoxon test was used to perform the statistical analysis (right), ns (not significant),
+  *P < 0.05, **P < 0.01, ***P < 0.001, ****P < 0.001. B) Dot plot shows 26 genes significantly
+  altered across six donors; 10 genes highlighted in red indicate consistent expression
+  trends across all matched pairs in all patients. Among these, 5 are bolded to indicate
+  their specific expression in keratinocytes, lymphocytes, and myeloid cells. The
+  color scale indicates the average scaled expression of each gene, and the dot size
+  reflects the percentage of cells expressing each gene. C) Violin plots reveal five
+  genes (IL-4R, IL-13RA1, FAS, GRN, SDC1) consistently and significantly changed among
+  the six donors, analyzed using the Wilcoxon test, *P < 0.05, **P < 0.01, ***P <
+  0.001, ****P < 0.001. D-E) Violin plot showing the GRN (D) and IL-13RA1(E) expression
+  in subsets of myeloid cells. Wilcoxon test was used to perform the statistical method,
+  ns (not significant), *P < 0.05, **P < 0.01, ***P < 0.001. F-G) Violin plot showing
+  the IL-13RA1(F) and SDC1 (G) expression in subsets of keratinocytes. Wilcoxon test
+  was used to perform the statistical method, ns (not significant), **P < 0.01, ***P
+  < 0.001. H) Violin plots showing the IL-4R and FAS expression in subsets of lymphocytes.
+  Wilcoxon test was used to perform the statistical method, ns (not significant)
+article_title: Analysis of Intracellular Communication Reveals Consistent Gene Changes
+  Associated with Early-Stage Acne Skin
+citation: Min Deng, et al. Res Sq. 2024 May 29;NA(NA).
+year: '2024'
+pub_date: 2024-5-29
+epub_date: 2024-5-29
+doi: 10.21203/rs.3.rs-4402048/v1
+journal_title: Research Square
+journa_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords:
+- Cell-cell communication
+- acne vulgaris
+- signal distribution
+- Cutibacterium acnes
+- single cell and spatial transcriptomic sequencing
+- inflammation
+- TREM2 macrophages
+- GRN
+- hyperkeratinization
+- IL-13RA1
+---

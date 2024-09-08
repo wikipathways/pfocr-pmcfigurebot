@@ -1,0 +1,45 @@
+---
+figid: PMC11160929__nihpp-rs4402048v1-f0004
+pmcid: PMC11160929
+image_filename: PMC11160929__nihpp-rs4402048v1-f0004.jpg
+figure_link: /pmc/articles/PMC11160929/figure/F4/
+number: Figure 4
+figure_title: Spatial transcriptome sequencing reveals the localization of GRN and
+  IL-13RA1 in skin biopsy
+caption: A) H&E staining image of the acne biopsy used for Seq-Scope sequencing (left)
+  alongside a spatial plot that identifies eight cell clusters in acne lesion (right).
+  B) Spatial feature plot showing overlay of GRN in red, APOE in green, and KRT5 in
+  blue with 2-μm intervals between grids; boxed region showing the magnified spatial
+  plot. C) UMAP plot showing the co-expression of GRN in red and APOE in green in
+  scRNA-seq dataset. D) Analysis of the relative contribution of the GRN-SORT1 ligand-receptor
+  (L-R) pair within the GRN signaling communication network. E)Violin plot showing
+  the SORT1 expression in subsets of myeloid cells. F) Spatial feature plot showing
+  the overlay of GRN in red, SORT1 in green, and APOEin blue with 2-μm intervals between
+  grids; boxed region shows the magnified spatial plot. G) Spatial feature plot showing
+  the overlay of IL-13RA1 in green, KRT14 in red, and KRT5 in blue with 2-μm intervals
+  between grids; boxed region showing the magnified spatial plot. H) UMAP plot showing
+  the co-expression of IL-13RA1 in red and KRT14 in green in the scRNA-seq dataset.
+  I) Relative contribution of each L-R pair to the overall communication network of
+  IL-4 signaling pathway
+article_title: Analysis of Intracellular Communication Reveals Consistent Gene Changes
+  Associated with Early-Stage Acne Skin
+citation: Min Deng, et al. Res Sq. 2024 May 29;NA(NA).
+year: '2024'
+pub_date: 2024-5-29
+epub_date: 2024-5-29
+doi: 10.21203/rs.3.rs-4402048/v1
+journal_title: Research Square
+journa_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords:
+- Cell-cell communication
+- acne vulgaris
+- signal distribution
+- Cutibacterium acnes
+- single cell and spatial transcriptomic sequencing
+- inflammation
+- TREM2 macrophages
+- GRN
+- hyperkeratinization
+- IL-13RA1
+---

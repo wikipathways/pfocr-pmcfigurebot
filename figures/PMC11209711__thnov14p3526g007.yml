@@ -1,0 +1,46 @@
+---
+figid: PMC11209711__thnov14p3526g007
+pmcid: PMC11209711
+image_filename: PMC11209711__thnov14p3526g007.jpg
+figure_link: /pmc/articles/PMC11209711/figure/F7/
+number: Figure 7
+figure_title: Transcriptional changes of CD8+T cells after anti-PD-1 treatment.
+caption: Transcriptional changes of CD8+T cells after anti-PD-1 treatment. (A) Grouping
+  of CD8+ T cells based on TSTR scores, shown with box and violin plots for exhaustion
+  scores (Wilcoxon test. *P < 0.05, **P < 0.01, ***P < 0.001, ****P < 0.0001). (B)
+  Trends in cytotoxic, exhaustion, and senescence scores about TSTR scores. (C) Trends
+  in glucose metabolism, oxidative phosphorylation, and fatty acid metabolism about
+  TSTR scores. (D) UMAP plot showing the distribution of CD8+ T cell subgroup in responsive,
+  non-responsive, and untreated patients. (E) Bar graph showing the proportion of
+  CD8+ T cell subgroup in responsive, non-responsive, and untreated patients. (F)
+  Kaplan-Meier survival analysis of the signature of C3_Tn_THEMIS in the TCGA-LIHC
+  cohort. (G) Bubble plot showing Top30 marker genes of C3_Tn_THEMIS. (H) GO enrichment
+  results for marker genes of C3_Tn_THEMIS. (I) Correlation of CD8A and THEMIS in
+  the TCGA-LIHC cohort. (J) UMAP plot illustrating the developmental trajectory of
+  non-responsive CD8+ T cells simulated with monocle3. (K) UMAP plot showing the developmental
+  trajectory of responsive CD8+ T cells simulated with monocle3. (L) Radar plot showing
+  cell type inclination scores for C1_Tn and C3_Tn_THEMIS subgroups. (M) Multicolor
+  immunofluorescence staining confirms the presence of THEMIS+ CD8+ T cells in human
+  HCC tissues. (N) tumor characteristics of HCC-mouse models after treatment with
+  anti-PD-1 and anti-PD-1 combined with AAV-Themis (T-test. *P < 0.05, **P < 0.01,
+  ***P < 0.001, ****P < 0.0001). (O) Bubble plot showing cell communication between
+  cDC1, LAMP3+ cDC3, and various types of CD8+ T cells in the tumor tissue of responsive
+  patients. (P) Communication of TIGIT, PDL1, PDL2, and CD40 signaling pathways between
+  cDC1 and CD8+ T cells
+article_title: Single cell analyses reveal the PD-1 blockade response-related immune
+  features in hepatocellular carcinoma
+citation: Yao Li, et al. Theranostics. 2024;14(9).
+year: '2024'
+pub_date: 2024--
+epub_date: 2024-6-1
+doi: 10.7150/thno.95971
+journal_title: Theranostics
+journa_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+keywords:
+- hepatocellular carcinoma
+- single cell
+- immune microenvironment
+- immunotherapy
+- PD-1
+---

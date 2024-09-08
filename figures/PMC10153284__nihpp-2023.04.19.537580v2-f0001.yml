@@ -1,0 +1,69 @@
+---
+figid: PMC10153284__nihpp-2023.04.19.537580v2-f0001
+pmcid: PMC10153284
+image_filename: PMC10153284__nihpp-2023.04.19.537580v2-f0001.jpg
+figure_link: /pmc/articles/PMC10153284/figure/FFigure 1./
+number: Figure 1.
+figure_title: CD8+ T cell-specific Panx1 is required for T cell activation and effector
+  differentiation
+caption: (a) Panx1 mRNA expression from RNA-seq samples in the indicated subsets of
+  LCMV-gp33 transgenic P14 CD8+ T cells. (b) Single-cell RNA-seq (scRNAseq) analysis
+  of effector P14 cells showing UMAP cluster distribution (left) and expression of
+  Panx1 mRNA in each cluster (right). (c) Western Blot analysis of Panx1 expression
+  in WT (CD4-Cre) or Panx1-KO (CD4-Cre Panx1fl/fl) CD8+ T cells at 0h or 72h after
+  activation with anti-CD3/CD28 + IL-2. (d) WT (CD4-Cre) or CD4-Cre Panx1fl/fl mice
+  were infected with LCMV-Arm. Numbers of total (left) and TE, MP (right) spleen gp33+
+  CD8+ T cells at day 7 post-infection are shown. (e-g) A 1:1 mix of bone marrow cells
+  from CD4-Cre (WT; CD45.1+) and CD4-Cre Panx1fl/fl (Panx1-KO; CD45.2+) mice was transferred
+  into lethally irradiated C57BL/6 mice (CD45.1/2+). After two months, BM chimeric
+  mice were infected with LCMV-Arm. The red dotted lines show the Panx1-KO:WT ratios
+  after two months of reconstitution. (e) Graphical scheme. (f) Representative flow
+  cytometry plots showing WT and Panx1-KO total, TE and MP spleen gp33+ CD8+ T cells
+  at day 7 post-infection. (g) Panx1-KO/WT ratios of total (left) and of naïve, TE
+  and MP spleen gp33+ CD8+ T cells (right) at day 7 post-infection. (h) Heatmaps showing
+  the expression of TCR signaling pathway genes from RNA-seq data of activated WT
+  and Panx1-KO CD8+ T cells. (i) CD4-Cre or CD4-Cre Panx1fl/fl mice were infected
+  with LCMV-Arm and evaluated at 3 days after infection. Representative histograms
+  (left) and average percentages (right) of Ki-67+ gp33+ CD8+ T cells are shown. (j-k)
+  CD4-Cre (WT; CD45.1/2+) and CD4-Cre Panx1fl/fl (Panx1-KO; CD45.2+) P14 cells were
+  labeled with Cell Trace Violet and co-transferred into LCMV-infected recipient C57BL/6
+  (CD45.1+) mice. (j) Histograms showing Cell Trace Violet dilution (left) and graphs
+  showing average gMFI values (right) are shown. (k) Representative flow cytometry
+  plots showing expression of CD44 and CD69 are shown in the left. In the right, average
+  percentages of CD44+CD69+ cells (above) and of CD62L+ cells (below) are shown. (l-q)
+  WT (CD4-Cre) or Panx1-KO (CD4-Cre Panx1fl/fl) CD8+ T cells were activated in vitro
+  (anti-CD3/CD28 + IL-2, and in some cases PMA/Ionomycin) for up to 72h. In some experiments
+  (o), WT Nur77-GFP CD8+ T cells were activated in the presence of vehicle (PBS; Control)
+  or Trovafloxacin (Panx1 inhibitor; Panx1i). (l) Representative flow cytometry plots
+  showing expression of CD69 and dilution of Cell Trace Violet at 24h, 48h and 72h
+  after activation. (m) Percentages of Cell Trace Violet (CTV) divided cells (top
+  left), average gMFI values for CD44 (top right), and percentages of CD69+ (bottom
+  left) and CD25+ (bottom right) cells at 24h, 48h and 72h after activation. (n) Representative
+  histograms showing expression of IFNγ (top) and average percentages of IFNγ+ CD8+
+  T cells (bottom) at 72h after activation. (o) Representative histograms showing
+  Nur77-GFP expression in control of Panx1i-treated cells (above), and average percentages
+  of Nur77-GFP+ CD8+ T cells (below) at 3h after activation are shown. (p) Average
+  percentages of CD44+ (left) and CD69+ (right) cells at 3h after activation with
+  either anti-CD3/CD28 or PMA/Ionomycin are shown. (q) CD4-Cre and CD4-Cre Panx1fl/fl
+  mice were infected with LCMV-Arm; at day 7 after infection, the percentages of FMK/FLICA+
+  and PI+ cells were assessed in gp33+ CD8+ T cells. In the left, representative flow
+  cytometry plots are shown; in the right, average percentages of FMK/FLICA+ cells
+  are depicted. (c) Data representative of 2 independent experiments, n=4–5 per group.
+  (d-j, q) Data from 2–3 independent experiments, n=5–12 per experimental group. (k)
+  Each replicate is a pool of activated CD8+ T cells from three mice; n=3 replicates
+  per experimental group. (l-p) Data from four independent experiments, n=7–11 per
+  experimental group per time point. ns – not significant (p>0.05), *p<0.05, **p<0.01,
+  ***p<0.001, ****p<0.0001, Unpaired t-test (d, j-k, n-o), One-way ANOVA with Tukey’s
+  post-test (d, g, i, k, p-q), Two-way ANOVA with Bonferroni’s post-test (g, m)
+article_title: The ATP-exporting channel Pannexin-1 promotes CD8+ T cell effector
+  and memory responses
+citation: Trupti Vardam-Kaur, et al. bioRxiv. 2024 May 02;NA(NA).
+year: '2024'
+pub_date: 2024-5-02
+epub_date: 2024-5-02
+doi: 10.1101/2023.04.19.537580
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

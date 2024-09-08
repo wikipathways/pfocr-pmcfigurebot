@@ -1,0 +1,59 @@
+---
+figid: PMC11190773__jcav15p4020g001
+pmcid: PMC11190773
+image_filename: PMC11190773__jcav15p4020g001.jpg
+figure_link: /pmc/articles/PMC11190773/figure/F1/
+number: Figure 1
+figure_title: MMPs genetic variation and expression landscape in EC.
+caption: MMPs genetic variation and expression landscape in EC. (A) The CNV variation
+  frequency of MMPs from TCGA-UCEC and UCEC-US cohort. The height of the column represents
+  the alteration frequency. The deletion frequency, green dot; The amplification frequency,
+  red dot. (B) The location of CNV alteration of MMPs on 23 chromosomes using TCGA-UCEC.
+  The deletion frequency, blue dot; The amplification frequency, red dot. (C) Expression
+  heat map of the 11 MMPs in normal and EC samples in TCGA-UCEC cohort. Tumour, red;
+  Normal, blue. (D) The interaction of expression on 11 MMPs in EC. (E) The Pearson
+  correlation among 11 MMPs. The positive correlation is marked with red, and negative
+  correlation is marked with blue. The size of circle represents the absolute value
+  of correlation coefficients. (F) Consensus matrices of the significant MMPs for
+  k = 2. (G) Principal component analysis for the transcriptome profiles of MMP expression
+  patterns, showing a remarkable difference in the transcriptome between different
+  expression patterns. (H) Survival difference among two MMP expression patterns (P
+  = 0.020, Kruskal-Wallis test). MMP cluster-A, yellow; MMP cluster-B, blue. (I) Unsupervised
+  clustering of 11 MMP regulators in the TCGA-UCEC cohort identified a significant
+  difference in the expression of regulators among the two expression patterns. The
+  MMP clusters, TCGA project, age, sex, clinical stage, and survival status were used
+  as patient annotations. Red, high expression of regulators; blue, low expression
+  of regulators. (J) Differences of 11 MMPs gene expression between MMP cluster A
+  and MMP cluster B. MMP cluster-A, blue; MMP cluster-B, yellow, the upper and lower
+  ends of the boxes represent the interquartile range of values. The lines in the
+  boxes represent the median value, and black dots showed outliers. The asterisks
+  represented the statistical P value (*P < 0.05; **P < 0.01; ***P < 0.001). (K) The
+  biological behaviour between these different MMPs expression patterns were analysed
+  by KEEG enrichment using TCGA-UCEC and UCEC-US cohort; red represents activated
+  pathways and blue represents inhibited pathways. (L) GO analysis showing the Cellular
+  Component, Molecular Function and distinct biological processes in in distinct MMP
+  cluster expression patterns using TCGA-UCEC and UCEC-US cohort. The heatmap was
+  used to visualize these biological processes, and red represents activated pathways
+  and blue represents inhibited pathways. MMP, matrix metalloproteinases; EC, endometrial
+  cancer; CNV, copy number variation; TCGA-UCEC, The Cancer Genome Atlas-Uterine Corpus
+  Endometrial Carcinoma; UCEC-US, Uterine Corpus Endometrial Carcinoma-TCGA, US; KEGG,
+  Kyoto Encyclopedia of Genes and Genomes; GO, gene ontology
+article_title: Development and validation of matrix metalloproteinase for predicting
+  prognosis and tumour microenvironment immune profiles in uterine corpus endometrial
+  carcinoma
+citation: Huancheng Su, et al. J Cancer. 2024;15(12).
+year: '2024'
+pub_date: 2024--
+epub_date: 2024-5-30
+doi: 10.7150/jca.91277
+journal_title: Journal of Cancer
+journa_nlm_ta: J Cancer
+publisher_name: Ivyspring International Publisher
+keywords:
+- Matrix metalloproteinases (MMPs)
+- Endometrial cancer (EC)
+- Tumour microenvironment (TME)
+- Tumour mutation burden (TMB)
+- Immune infiltration
+- Immune checkpoint
+---

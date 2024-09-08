@@ -1,0 +1,66 @@
+---
+figid: PMC11171322__cancers-16-02071-g008a
+pmcid: PMC11171322
+image_filename: PMC11171322__cancers-16-02071-g008a.jpg
+figure_link: /pmc/articles/PMC11171322/figure/F8/
+number: Figure 8
+figure_title: Graphical overview of representative exclusively differentially expressed
+  genes from our RNA sequencing data in the myeloid and lymphoid group that are clearly
+  assigned to the BMP/TGFB signaling pathway.
+caption: Graphical overview of representative exclusively differentially expressed
+  genes from our RNA sequencing data in the myeloid and lymphoid group that are clearly
+  assigned to the BMP/TGFB signaling pathway. (A) Illustration of representative and
+  exclusively differentially expressed genes only in the “all myeloid group” (MPN,
+  MDS, AML) and the exclusively overlapping differentially expressed genes only in
+  the “all lymphoid group” (B-ALL, B-NHL) (from Figure 5D, black highlighted genes).
+  Translation of differentially expressed genes from our mRNA sequencing data (FDR
+  q-value < 0.05) from overlapping genes in all myeloid and separately in all lymphoid
+  groups to a correlation and potential protein network of these genes as generated
+  with STRING database (Version 12.0). STRING visualization was adapted starting from
+  TGFB1 as is highlighted with a circle. In the “all myeloid group”, 52 out of 192
+  exclusively differentially expressed genes in this group clearly show a direct correlation
+  to the TGFB-signaling cascade based on current data in STRING (Version 12.0) (B,
+  left side). In the “all lymphoid group”, 26 out of 123 exclusively differentially
+  expressed genes in this group clearly show a direct correlation to the TGFB-signaling
+  cascade based on current data in STRING (Version 12.0) (B, right side). Overrepresented
+  genes are red-circled, and underrepresented genes are blue-circled. (B) Graphical
+  overview of further exclusively differentially expressed genes in the respective
+  group, myeloid or lymphoid group (contrasted to healthy) that are regulators or
+  related to the WNT and BMP/TGFB signaling pathways as well as downstream targets
+  of these signaling pathways exclusively in the respective group. (TGFB1*, was significant
+  in p-value 0.005, FDR q-value 0.1, B-ALL sample 2 exhibited a lower Transcript per
+  million (TPM) expression of TGFB1 than all other samples). (C) Illustration of representative
+  and exclusively overlapping differentially expressed genes in the “all myeloid group”
+  and the “all lymphoid group” and the relationship to the canonical and non-canonical
+  BMP/TGFB signaling pathway. Illustration of DESeq2 Data (p-adjusted < 0.05) reveals
+  a clear shift to SMAD-dependent BMP/TGFB signaling in MDS and AML MSCs, while B-ALL,
+  B-NHL, and the MPN group exhibit an increase and notable number of differentially
+  expressed genes related to SMAD independent MAPK-signaling. (D) Representative pictures
+  of MSCs from healthy, myeloid, and lymphoid groups after 14 days of osteogenic differentiation
+  together with SD208. DMSO serves as an internal control. MSCs were induced for osteogenic
+  differentiation and SD208 was added to each medium change within the osteogenic
+  differentiation period. After 14 days of induction, MSCs were stained with Alizarin
+  Red. Scale bars indicating 100 µm are shown
+article_title: Overlapping Stromal Alterations in Myeloid and Lymphoid Neoplasms
+citation: Lucienne Bogun, et al. Cancers (Basel). 2024 Jun;16(11).
+year: '2024'
+pub_date: 2024-6-
+epub_date: 2024-5-30
+doi: 10.3390/cancers16112071
+journal_title: Cancers
+journa_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+keywords:
+- myeloid neoplasms
+- lymphoid neoplasms
+- MPN
+- MDS
+- AML
+- ALL
+- NHL
+- MSC
+- bone marrow microenvironment
+- osteogenesis
+- hematopoietic insufficiency
+- RNA sequencing
+---

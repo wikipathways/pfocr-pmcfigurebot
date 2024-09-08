@@ -1,0 +1,32 @@
+---
+figid: PMC11123779__microorganisms-12-00973-g005
+pmcid: PMC11123779
+image_filename: PMC11123779__microorganisms-12-00973-g005.jpg
+figure_link: /pmc/articles/PMC11123779/figure/F5/
+number: Figure 5
+figure_title: Protein–protein gene network in RA-infected ducks.
+caption: Protein–protein gene network in RA-infected ducks. An interaction analysis
+  of all DEGs was performed using STRING version 12 (http://string-db.org/ accessed
+  on 5 March 2024). Each line and node correspond to interactions and significantly
+  enriched related pathways. The interaction of IL-26 and IL-17 is highlighted in
+  dotted line. The network was inferred using a high confidence (0.700) interaction
+  score using the full STRING network. Disconnected nodes were not included
+article_title: Identification of Critical Immune Regulators and Potential Interactions
+  of IL-26 in Riemerella anatipestifer-Infected Ducks by Transcriptome Analysis and
+  Profiling
+citation: Paula Leona T. Cammayo-Fletcher, et al. Microorganisms. 2024 May;12(5).
+year: '2024'
+pub_date: 2024-5-
+epub_date: 2024-5-12
+doi: 10.3390/microorganisms12050973
+journal_title: Microorganisms
+journa_nlm_ta: Microorganisms
+publisher_name: MDPI
+keywords:
+- ducks
+- Riemerella anatipestifer infection
+- spleen
+- RNA-seq
+- IL-17A
+- IL-26
+---

@@ -1,0 +1,68 @@
+---
+figid: PMC11172187__cells-13-00903-g002
+pmcid: PMC11172187
+image_filename: PMC11172187__cells-13-00903-g002.jpg
+figure_link: /pmc/articles/PMC11172187/figure/F2/
+number: Figure 2
+figure_title: Transcription regulators of key genes in astrogenesis.
+caption: Transcription regulators of key genes in astrogenesis. (A) Cytokine receptor
+  and its effectors. Binding of ligands from the IL-6 family of cytokines (e.g., LIF,
+  ONC-M, CT-1) brings the receptor associated janus kinases into contact, leading
+  to their phosphorylation and binding to STATs. Activated STATs translocate to the
+  cell nucleus as homodimers or heterodimers and regulate the transcription of target
+  genes. (B) Schematic example of BMP receptor and its effectors in the canonical
+  BMP signaling pathway. This signal transduction cascade is initiated by binding
+  to cell surface receptors and forming a heterotetrameric complex comprised of two
+  dimers of type I and type II serine/threonine kinase receptors. The constitutively
+  active type II receptor transphosphorylates the type I receptor when a heterotetrameric
+  complex is formed. By doing so, the type I receptor is activated, which allows receptor-regulated
+  Smads, or R-Smads, to be phosphorylated. Smad1, Smad5, and Smad8 are the R-Smads
+  that participate in BMP signaling (Smad1/5/8). Following their association, R-Smads
+  bind to co-mediator Smad (co-Smad) Smad4, and this complex moves to the nucleus
+  where it acts as a transcription factor to control the expression of genes in conjunction
+  with coactivators and corepressors. Smad6 and Smad7 (Smad6/7), also known as inhibitory
+  Smads (I-Smads), are involved in the signaling pathway feedback inhibition. (C)
+  The transmembrane proteins Delta and Serrate (called Jagged in mammals) are NOTCH
+  receptor ligands. Two proteolytic cleavage events in the NOTCH signaling cascade
+  are facilitated by ligand–receptor interaction. ADAM-family metalloproteases catalyze
+  the first cleavage, while γ-secretase, an enzyme complex, mediates the second. The
+  NOTCH intracellular domain (Nicd), which is released by the second cleavage, moves
+  into the nucleus and works to induce transcription with the DNA-binding protein
+  CSL and its co-activator Mastermind. (D) EGF receptor traditional function involves
+  activating several downstream signaling cascades to convey extracellular mitogenic
+  signals, such as transforming growth factor-α (TGF-α) and EGF. Among them are signaling
+  modules involving phosphatidylinositol-3 kinase, Ras, and phospholipase C-γ. Pathways
+  primarily involved in FGF signal transduction control various cell processes. Cell
+  proliferation and differentiation are regulated by the RAS/MAP kinase pathway, which
+  is triggered by the creation of an FRS2 complex. The creation of an FRS2 complex
+  also initiates the PI3/AKT pathway, which controls cell survival and destiny determination.
+  Ultimately, DAG and IP3 are created upon PLCγ binding to the active FGFR, activating
+  PKC. The PLCγ pathway affects the adhesion, migration, and shape of cells. Due to
+  overlapping signaling effectors, these two pathways exhibit significant crosstalk.
+  While factors driving astrogenesis significantly differ from those involved in neurogenesis,
+  the developmental heterogeneity of astrocytes is largely dependent on the same patterning
+  mechanisms that drive the spatial distribution and identity of neurons across the
+  CNS [64]. Recently, single-cell spatial transcriptomics analyses of rodent cortex
+  suggested an intricate layering of astrocytes instructed by cortical neuronal layering
+  during early postnatal development [65]. Therefore, the demonstration of developmental
+  heterogeneity among astrocytes prompts inquiries into their functional diversity
+  that may depend on the specific brain region or the neural circuitry to which they
+  belong [66]. Acquiring a deeper understanding of the specialized astrocyte populations
+  could lead to new therapeutic modalities for the treatment of neurological disorders.
+  Abbreviations used in this figure are defined in the list of abbreviations
+article_title: hPSC-Derived Astrocytes at the Forefront of Translational Applications
+  in Neurological Disorders
+citation: Vukasin M. Jovanovic, et al. Cells. 2024 Jun;13(11).
+year: '2024'
+pub_date: 2024-6-
+epub_date: 2024-5-24
+doi: 10.3390/cells13110903
+journal_title: Cells
+journa_nlm_ta: Cells
+publisher_name: MDPI
+keywords:
+- hPSC
+- astrocyte
+- disease modeling
+- drug discovery
+---

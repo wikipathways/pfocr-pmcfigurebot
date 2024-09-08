@@ -1,0 +1,37 @@
+---
+figid: PMC11202538__cimb-46-00323-g002
+pmcid: PMC11202538
+image_filename: PMC11202538__cimb-46-00323-g002.jpg
+figure_link: /pmc/articles/PMC11202538/figure/F2/
+number: Figure 2
+figure_title: Crosstalk with the Shh signalling pathway.
+caption: Crosstalk with the Shh signalling pathway. Cross talk is a phenomenon that
+  occurs when multiple signalling pathways can affect the same protein and lead to
+  similar effects. Alongside the normal Shh signalling pathway, expression of GLI1/2
+  can be regulated by MAPK/MEK signalling as well as PI3K/AKT/mTOR signalling. MEK
+  is known to induce GLI1/2 signalling, while PI3K maintains a positive feedback loop
+  through GLI1/2. PI3K signalling induces GLI1/2 expression which in turn leads to
+  inhibition of PTEN, an inhibitor of AKT protein, which is essential for PI3K signalling.
+  PI3K signalling is also known to increase SOX2 expression directly. The exact mechanism
+  in which WNT signalling has crosstalk with Shh signalling is unknown (Indicated
+  by the dotted arrow); however, Shh-related genes (SOX2/NANOG/PTCH1 and C-MYC) have
+  been found to be upregulated in the presence of WNT signalling. This crosstalk with
+  multiple pathways poses problems, as inhibition of the Shh signalling pathway can
+  be bypassed by alternative signalling pathways. This is seen particularly when targeting
+  SMO, an upstream regulator of Shh signalling, as GLI1/2 appears to be the common
+  link between canonical and non-canonical (crosstalk) Shh signalling
+article_title: 'Unravelling the Mysteries of the Sonic Hedgehog Pathway in Cancer
+  Stem Cells: Activity, Crosstalk and Regulation'
+citation: Carlo Berrino, et al. Curr Issues Mol Biol. 2024 Jun;46(6).
+year: '2024'
+pub_date: 2024-6-
+epub_date: 2024-5-29
+doi: 10.3390/cimb46060323
+journal_title: Current Issues in Molecular Biology
+journa_nlm_ta: Curr Issues Mol Biol
+publisher_name: MDPI
+keywords:
+- Sonic Hedgehog
+- cancer stem cells
+- signalling pathways
+---

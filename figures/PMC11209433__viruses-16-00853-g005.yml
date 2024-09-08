@@ -1,0 +1,36 @@
+---
+figid: PMC11209433__viruses-16-00853-g005
+pmcid: PMC11209433
+image_filename: PMC11209433__viruses-16-00853-g005.jpg
+figure_link: /pmc/articles/PMC11209433/figure/F5/
+number: Figure 5
+figure_title: Potential interactions among genes involved in the type 1 interferon
+  signaling pathway using STRING (Search Tool for the Retrieval of Interacting Genes/Proteins).
+caption: 'Potential interactions among genes involved in the type 1 interferon signaling
+  pathway using STRING (Search Tool for the Retrieval of Interacting Genes/Proteins).
+  The colored edges reflect different types of protein-protein interactions: red edges
+  indicate interactions curated from known databases, green edges depict interactions
+  predicted through gene fusions, and blue edges represent gene co-occurrence. The
+  proteins jointly contribute to a shared function and do not necessarily physically
+  bind to each other. The nodes are color-coded to represent query proteins and their
+  interaction shells: dark red for the first shell of interaction and light red for
+  the second shell. Similarly, nodes are colored dark and light blue to denote the
+  interaction shells'
+article_title: Gene Regulatory Network Analysis of Post-Mortem Lungs Unveils Novel
+  Insights into COVID-19 Pathogenesis
+citation: Ryan Bloomquist, et al. Viruses. 2024 Jun;16(6).
+year: '2024'
+pub_date: 2024-6-
+epub_date: 2024-5-27
+doi: 10.3390/v16060853
+journal_title: Viruses
+journa_nlm_ta: Viruses
+publisher_name: MDPI
+keywords:
+- COVID-19
+- host cellular responses
+- interleukin-17 signaling
+- inflammatory response
+- innate immunity
+- miRNA microarray
+---

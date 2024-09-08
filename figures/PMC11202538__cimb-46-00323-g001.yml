@@ -1,0 +1,36 @@
+---
+figid: PMC11202538__cimb-46-00323-g001
+pmcid: PMC11202538
+image_filename: PMC11202538__cimb-46-00323-g001.jpg
+figure_link: /pmc/articles/PMC11202538/figure/F1/
+number: Figure 1
+figure_title: The canonical Shh signalling pathway.
+caption: The canonical Shh signalling pathway. (A) When no Shh ligand is present,
+  the signalling pathway is inactive. PTCH1 binds to SMO, inhibiting it and preventing
+  it from binding to SUFU. SUFU binds GLIFL and KIF7. A protein complex consisting
+  of PKA, PK1 and GSK3 binds to and phosphorylates GLIFL. SUFU then cleaves GLIFL
+  to GliRepressor consisting of GLI2/3 proteins. GliRepressor moves into the nucleus
+  and inhibits transcription of Shh/Gli1 signalling genes. (B) When Shh ligand is
+  present, it binds to PTCH1, inhibiting its ability to inactivate SMO. SMO then binds
+  to SUFU which is bound to KIF7 and GLIFL. SMO inhibits SUFU to prevent phosphorylation
+  of GLIFL, allowing KIF7 to detach from the complex and migrate to the cilia. GLIFL
+  cleaved into GLI1/2. The GLI1/2 protein then migrates into the nucleus and initiates
+  transcription and translation of PTCH1, NANOG, SOX2, c-MYC and other Shh related
+  genes. These proteins then maintain the stem cell properties of the cell, enabling
+  replicative immortality. The red X indicates the inhibition of SMO and the Phosphorylation
+  of GLIFL is being inhibited
+article_title: 'Unravelling the Mysteries of the Sonic Hedgehog Pathway in Cancer
+  Stem Cells: Activity, Crosstalk and Regulation'
+citation: Carlo Berrino, et al. Curr Issues Mol Biol. 2024 Jun;46(6).
+year: '2024'
+pub_date: 2024-6-
+epub_date: 2024-5-29
+doi: 10.3390/cimb46060323
+journal_title: Current Issues in Molecular Biology
+journa_nlm_ta: Curr Issues Mol Biol
+publisher_name: MDPI
+keywords:
+- Sonic Hedgehog
+- cancer stem cells
+- signalling pathways
+---

@@ -1,0 +1,40 @@
+---
+figid: PMC11190773__jcav15p4020g006
+pmcid: PMC11190773
+image_filename: PMC11190773__jcav15p4020g006.jpg
+figure_link: /pmc/articles/PMC11190773/figure/F6/
+number: Figure 6
+figure_title: (A) The t-SNE plot demonstrating main cell types in normal and EC samples.
+caption: (A) The t-SNE plot demonstrating main cell types in normal and EC samples.
+  (B) Expression patterns of canonical specific markers in each cell type. Each dot
+  represents a gene, of which the colour saturation indicates the average expression
+  level, and the size indicates the percentage of cells expressing the gene. (C-E)
+  The t-SNE plot shows the expression levels of MMP-14, MMP-7, MMP-2 in normal and
+  EC samples, respectively. (F) Percentage of MMPs gene in each cell type. (G) The
+  distribution of up- and down-regulated genes of DEG in each cell type. (H) Correlations
+  between MMP score and the classical biological gene signatures in EC using Spearman
+  analysis. The negative correlation was marked with blue and positive correlation
+  with red. (I) Correlation between the MMP-14 and epithelial cells proliferation
+  (r=0.29, P < 0.001, Spearman correlation analysis). (J) Correlation between the
+  MMP-2 and WNT signalling pathway (r = 0.29, P < 0.001, Spearman correlation analysis).
+  (K) Correlation between the MMP-7 and P53 mediated pathway (r = 0.42, P < 0.001,
+  Spearman correlation analysis). t-SNE, t-distributed stochastic neighbour embedding
+article_title: Development and validation of matrix metalloproteinase for predicting
+  prognosis and tumour microenvironment immune profiles in uterine corpus endometrial
+  carcinoma
+citation: Huancheng Su, et al. J Cancer. 2024;15(12).
+year: '2024'
+pub_date: 2024--
+epub_date: 2024-5-30
+doi: 10.7150/jca.91277
+journal_title: Journal of Cancer
+journa_nlm_ta: J Cancer
+publisher_name: Ivyspring International Publisher
+keywords:
+- Matrix metalloproteinases (MMPs)
+- Endometrial cancer (EC)
+- Tumour microenvironment (TME)
+- Tumour mutation burden (TMB)
+- Immune infiltration
+- Immune checkpoint
+---

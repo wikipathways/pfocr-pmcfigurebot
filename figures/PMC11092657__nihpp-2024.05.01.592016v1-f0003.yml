@@ -1,0 +1,35 @@
+---
+figid: PMC11092657__nihpp-2024.05.01.592016v1-f0003
+pmcid: PMC11092657
+image_filename: PMC11092657__nihpp-2024.05.01.592016v1-f0003.jpg
+figure_link: /pmc/articles/PMC11092657/figure/FFigure 3./
+number: Figure 3.
+figure_title: Characterization of VGLL2-NCOA2- and YAP- controlled transcriptional
+  and chromatin landscapes
+caption: A. Intersection of ATAC-seq, RNA-seq, and CUT&RUN datasets in HEK293T cells
+  expressing VGLL2-NCOA2 or YAP5SA.B. Venn diagrams showing the overlaps of ATAC-seq
+  peaks, CUT&RUN peaks, and differentially regulated genes from RNA-seq in HEK293T
+  cells expressing VGLL2-NCOA2 or YAP5SA.C. KEGG pathway enrichment analysis of ATAC-seq
+  peaks identified in HEK293T cells expressing VGLL2-NCOA2 or YAP5SA. The “Hippo signaling
+  pathway” highlighted in red.D. Distribution of CUT&RUN binding sites for VGLL2-NCOA2
+  and YAP5SA.E. Motif enrichment analysis of VGLL2-NCOA2 and YAP5SA CUT&RUN Peaks.F.
+  Genomic tracks showing VGLL2-NCOA2 and YAP5SA occupancy at the CTGF, ANKRD1, and
+  CYR61 loci
+article_title: VGLL2 and TEAD1 fusion proteins drive YAP/TAZ-independent transcription
+  and tumorigenesis by engaging p300
+citation: Susu Guo, et al. bioRxiv. 2024 May 03;NA(NA).
+year: '2024'
+pub_date: 2024-5-03
+epub_date: 2024-5-03
+doi: 10.1101/2024.05.01.592016
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- VGLL2
+- TEAD1
+- NCOA2
+- fusion
+- Hippo signaling pathway
+- p300
+---
