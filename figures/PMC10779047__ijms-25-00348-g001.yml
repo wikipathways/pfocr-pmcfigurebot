@@ -1,0 +1,38 @@
+---
+figid: PMC10779047__ijms-25-00348-g001
+pmcid: PMC10779047
+image_filename: PMC10779047__ijms-25-00348-g001.jpg
+figure_link: /pmc/articles/PMC10779047/figure/F1/
+number: Figure 1
+figure_title: Flowchart of the study.
+caption: Flowchart of the study. The datasets GSE193677 and GSE206285 were used as
+  training sets to obtain differentially expressed genes (DEGs) between healthy individuals
+  and patients with ulcerative colitis (UC). RRA analysis combined with GSEA was used
+  to identify enriched pathways of DEGs. The intersection of DEGs and PANoptosis genes
+  resulted in the identification of differential PANoptosis-associated genes (DPEGs).
+  CytoHubba and MCODE gene network analysis tools were used to identify hub genes
+  of PANoptosis in a UC colon. Immunoinfiltration analysis and correlation analysis
+  were conducted to determine the relationship between hub genes and immune cells.
+  To validate the importance of hub genes in UC, the expression trends and responsiveness
+  to biological agents of hub genes were verified in five external validation sets
+  (GSE87466, GSE66407, GSE128682, GSE73661, and GSE92415). Subsequently, key transcription
+  factors regulating PANoptosis were predicted, and a CeRNA regulation network of
+  PANoptosis was constructed. Finally, the expression of key hub genes and transcription
+  factors was validated in a classic UC animal model to support our analysis results
+article_title: Comprehensive Analysis of PANoptosis-Related Gene Signature of Ulcerative
+  Colitis
+citation: Jun-Meng Wang, et al. Int J Mol Sci. 2024 Jan;25(1).
+year: '2024'
+pub_date: 2024-1-
+epub_date: '2023-12-26'
+doi: 10.3390/ijms25010348
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- PANoptosis
+- colitis
+- integrated analysis
+- gene signatures
+- ceRNA network
+---

@@ -1,0 +1,35 @@
+---
+figid: PMC10760304__nihpp-rs3722255v1-f0004
+pmcid: PMC10760304
+image_filename: PMC10760304__nihpp-rs3722255v1-f0004.jpg
+figure_link: /pmc/articles/PMC10760304/figure/F4/
+number: Figure 4
+figure_title: Validating the hToC as a Peritendinous Fibrosis Model
+caption: Volcano plots summarizing differential expression comparisons using DESeq2
+  of a, TGF-β1 treated versus untreated hToC, b, TGF-β1 treated hToC versus healthy
+  human flexor tendon, and c, human tenolysis tissue versus healthy human flexor tendon.
+  d, Dotplot graph identifies overlapping Reactome pathways, which are significantly
+  enriched in the three comparisons, e, Dissimilarity matrix of Reactome pathways
+  enriched in TGF-β1 treated hToC and Human tenolysis tissue relative to healthy human
+  tendon. f, GSEA enrichment plots for Reactome MTOR Signaling Pathway in tenolysis
+  tissue and TGF-b1 treated hToC. All DEG were based on Padj < 0.05 and abs(Log2(FC))
+  > 1. N = 3 hToC devices per condition representing three biological replicates
+article_title: Human tendon-on-a-chip for modeling vascular inflammatory fibrosis
+citation: Hani Awad, et al. Res Sq. 2023 Dec 13;NA(NA).
+year: '2023'
+pub_date: '2023-12-13'
+epub_date: '2023-12-13'
+doi: 10.21203/rs.3.rs-3722255/v1
+journal_title: Research Square
+journa_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords:
+- Vascular inflammation
+- myofibroblasts
+- fibrosis
+- Tendon-on-a-Chip
+- adhesions
+- peritendinous injury
+- fibrotic conditions
+- human microphysiological model
+---

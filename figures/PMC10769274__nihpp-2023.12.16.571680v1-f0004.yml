@@ -1,0 +1,42 @@
+---
+figid: PMC10769274__nihpp-2023.12.16.571680v1-f0004
+pmcid: PMC10769274
+image_filename: PMC10769274__nihpp-2023.12.16.571680v1-f0004.jpg
+figure_link: /pmc/articles/PMC10769274/figure/FFigure 4./
+number: Figure 4.
+figure_title: Sex differences in the response of microglia and placental macrophages
+  to maternal diet-induced obesity
+caption: Differentially-expressed genes (DEG) between microglia and placental macrophages
+  in fetuses of obese and control dams are shown, calculated separately for male and
+  female offspring.A. The number of DEG between obesity-exposed versus control macrophages/monocytes
+  is shown as a bar, colored by cell type, and shaded according to sex. * indicates
+  p<0.05 difference between male and female as given by a 2x2 contingency table Fishers-exact
+  test.B (left). The table considers the total number of DEG in yolk-sac imprint microglia
+  (MgYSI) and HBC cell types, that are DEG in male and/or female cells. Genes are
+  categorized as either having a fold change in the same direction (sex-consistent)
+  or different direction (sex-dimorphic) in males and females.B (right). GO Biological
+  process enrichment results for the set of sex-dimorphic and sex-consistent DEG.C.
+  Comparison of the top 12 IPA Canonical Pathways that are enriched in both Mg and
+  HBC. The sum of the Z-score from the female analysis and male analysis is shown,
+  with positive Z-score indicating activation and negative Z-score indicating inhibition.
+  (Full results shown in Supplemental Table 5)D. Fold changes in fetal macrophages
+  in offspring of obese versus control dams for the IPA Canonical Pathway NeuroInflammatory
+  Response Pathway for Males and Females.* DEG with adjusted p-value < 0.05
+article_title: Hofbauer cells and fetal brain microglia share transcriptional profiles
+  and responses to maternal diet-induced obesity
+citation: Rebecca Batorsky, et al. bioRxiv. 2023 Dec 19;NA(NA).
+year: '2023'
+pub_date: '2023-12-19'
+epub_date: '2023-12-19'
+doi: 10.1101/2023.12.16.571680
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- Single-cell RNA sequencing
+- Hofbauer cells
+- microglia
+- sex differences
+- obesity
+- neuroimmune
+---

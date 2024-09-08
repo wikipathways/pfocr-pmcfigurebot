@@ -1,0 +1,50 @@
+---
+figid: PMC10760056__nihpp-2023.12.12.570420v1-f0004
+pmcid: PMC10760056
+image_filename: PMC10760056__nihpp-2023.12.12.570420v1-f0004.jpg
+figure_link: /pmc/articles/PMC10760056/figure/FFigure 4./
+number: Figure 4.
+figure_title: miR153 and miR376c transcriptional repression are controlled by a common
+  CaN-NFAT signaling pathway during iLTP
+caption: (A) qRT-PCR of primary miR153 transcript (pri-miR153) and pri-miR410 (pri-Ctrl)
+  expression in neurons harvested at increasing time-points following iLTP stimulation.
+  pri-miRNA levels were normalized to U6 and quantified as fold change from Ctrl condition.
+  n = 4.(B) qRT-PCR of mature miR153 and miR410 (Ctrl miRNA) expression in neurons
+  harvested at increasing time-points following treatment with actinomycin-D (ActD).
+  miRNA levels normalized to U6 and quantified as fold change from Ctrl condition.
+  n = 4.(C) qRT-PCR of pri-miR153 expression in hippocampal neurons following control
+  treatment (Ctrl) or 90 min post-iLTP stimulation in the presence or absence of CaN
+  inhibitors cyclosporin A (CsA) and FK506. Quantified as fold change in pri-miR153
+  levels from Ctrl condition. n=4(D) qRT-PCR of mature miR153 expression in Ctrl and
+  iLTP-90 neurons in the presence or absence of CsA and FK506. Quantified as miR153
+  fold change from Ctrl condition. n=5(E) Schematic of the miR153-Luc luciferase reporters.
+  Predicted NFAT binding site is mutated in miR153NFAT-Mut-Luc.(F) Quantification
+  of miR153-Luc activities in neurons under control conditions (Ctrl) or 90 min post-iLTP
+  stimulation. Firefly was normalized to Renilla, and the data quantified as relative
+  change in normalized Luc activity with error-corrected control values. n = 4.(G)
+  Quantification of miR153-Luc activities in Ctrl and iLTP-90 neurons in the presence
+  or absence of CsA and FK506. n = 4.(H) Quantification of miR376c-Luc and miR153-Luc
+  activities in Ctrl, NFATc3 knockdown (KD) and NFATc3 KD + rescue (Rescue) neurons.
+  n = 7.(I) qPCR readout of acetyl-histone H3 chromatin immunoprecipitation (ChIP)
+  from neurons to show acetylation status of the miR153 promoter in Ctrl and iLTP-90
+  conditions in the presence or absence BAPTA-AM, CsA, and FK506. n = 4.(J) Quantification
+  of miR153-Luc activities in Ctrl and iLTP-90 neurons in the presence or absence
+  of CsA and FK506. Quantified as fold change in miR153-Luc activity from Ctrl condition.
+  n = 4.(K) Quantification of Luc-Gabra1, Luc-Gabrg2, and Luc-Gphn activities in Ctrl
+  and iLTP-90 neurons in the presence or absence of HDAC inhibitor trichostatin-A
+  (TSA). n = 4.All values represent mean ± SEM. *p<0.05 and **p<0.01, ***p<0.005,
+  ****p<0.0001; one-sample t-test (A-D,I), two-way ANOVA with Tukey’s multiple comparisons
+  post-hoc test (F,J), and Kruskal-Wallis with Dunn’s multiple comparisons post-hoc
+  test (G,H)
+article_title: miRNA-mediated control of gephyrin synthesis drives sustained inhibitory
+  synaptic plasticity
+citation: Theresa M. Welle, et al. bioRxiv. 2023 Dec 12;NA(NA).
+year: '2023'
+pub_date: '2023-12-12'
+epub_date: '2023-12-12'
+doi: 10.1101/2023.12.12.570420
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

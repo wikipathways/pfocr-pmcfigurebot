@@ -1,0 +1,27 @@
+---
+figid: PMC10760156__nihpp-2023.12.13.571178v1-f0007
+pmcid: PMC10760156
+image_filename: PMC10760156__nihpp-2023.12.13.571178v1-f0007.jpg
+figure_link: /pmc/articles/PMC10760156/figure/FFigure 7./
+number: Figure 7.
+figure_title: Transcriptional alterations associated with experimental loss of TDP43
+caption: (A-D) Source data and replicate numbers for differential expression analysis.
+  (E) Heatmap showing the normalized enrichment score (NES) for specific KEGG and
+  Hallmark pathways and custom gene sets for endothelial cell pathways by GSEA analysis,
+  only pathways achieving an FDR<0.01 in two or more comparisons are shown. (F) Example
+  GSEA enrichment plots, showing pathway enrichment in disease versus healthy capillary
+  clusters in cortex (Cluster 1 vs Cluster 3). (G) Clustering of GSEA pathways enriched
+  by overlap in genes between pathways. (E) GSEA derived *FDR<0.05, ** FDR<0.01, ***FDR<0.001
+article_title: Targeted inCITE-Seq Analysis Identifies the Loss of Nuclear TDP-43
+  in Endothelium as a Mediator of Blood Brain Barrier Signaling Pathway Dysfunction
+  in Neurodegeneration
+citation: Omar M.F. Omar, et al. bioRxiv. 2023 Dec 14;NA(NA).
+year: '2023'
+pub_date: '2023-12-14'
+epub_date: '2023-12-14'
+doi: 10.1101/2023.12.13.571178
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

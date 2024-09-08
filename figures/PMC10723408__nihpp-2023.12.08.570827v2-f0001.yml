@@ -1,0 +1,30 @@
+---
+figid: PMC10723408__nihpp-2023.12.08.570827v2-f0001
+pmcid: PMC10723408
+image_filename: PMC10723408__nihpp-2023.12.08.570827v2-f0001.jpg
+figure_link: /pmc/articles/PMC10723408/figure/FFig. 1./
+number: Fig. 1.
+figure_title: Overview of the workflow and methodology used in this work
+caption: (A) Experiment design and labeling workflow depicting cell culture, growth,
+  isotope labeling, quantification, and initial metabolomics analysis. (B) Schematic
+  illustration of the step-by-step procedure employed to obtain transient metabolic
+  fluxes and analyze the inherent dynamic modulations of the Arabidopsis sphingolipid
+  biosynthesis pathway. (C) In silico knockout (KO)/essentiality hypothesis testing
+  using the customized MATLAB implementation of r-DMFA modeling framework. Within
+  the metabolic network, hypothetical enzyme perturbations were introduced and assessed
+  using the r-DMFA modeling framework in MATLAB, highlighting transient flux alterations.
+  By comparing the model-generated fluxes with those observed in a wild-type reference
+  model, this method efficiently guides and streamlines subsequent experimental validations,
+  reducing the need for repeated iterations
+article_title: Quantitative Dynamic Analysis of de novo Sphingolipid Biosynthesis
+  in Arabidopsis thaliana
+citation: Abraham Osinuga, et al. bioRxiv. 2023 Dec 12;NA(NA).
+year: '2023'
+pub_date: '2023-12-12'
+epub_date: '2023-12-12'
+doi: 10.1101/2023.12.08.570827
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

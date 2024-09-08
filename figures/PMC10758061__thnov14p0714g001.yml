@@ -1,0 +1,54 @@
+---
+figid: PMC10758061__thnov14p0714g001
+pmcid: PMC10758061
+image_filename: PMC10758061__thnov14p0714g001.jpg
+figure_link: /pmc/articles/PMC10758061/figure/F1/
+number: Figure 1
+figure_title: ALDH1A1 and ALDH1A3 regulate the CSC phenotype and PCa radiosensitivity.
+caption: ALDH1A1 and ALDH1A3 regulate the CSC phenotype and PCa radiosensitivity.
+  (A) The RNA sequencing analysis of LNCaP cells transfected with ALDH1A1 siRNA, ALDH1A3
+  siRNA, or scrambled siRNA revealed that ALDH1A3 downregulation is associated with
+  a decrease in CSC-related gene expression at a larger extent than ALDH1A1 (n = 41,
+  RT2 Cancer Stem Cells geneset). Blue arrows indicate genes whose expression levels
+  were confirmed by western blotting in panel H. (B) Gene Set Enrichment Analysis
+  (GSEA) for genes significantly up- or down regulated upon ALDH1A1 or ALDH1A3 knockdown
+  revealed that deregulated genes are associated with stemness and differentiation.
+  (C) Flow cytometry analysis of ALDH+ population upon ALDH1A1 and ALDH1A3 knockdown
+  shows decreased Aldefluor enzymatic activity. N≥3; Error bars = SD; *p < 0.05. (D)
+  Percentage of the spherogenic cells after ALDH1A1 or ALDH1A3 depletion. The bar
+  graph represents the % of spherogenic cells upon ALDH1A1 and ALDH1A3 knockdown.
+  N ≥ 3; Error bars = SD; *p < 0.05. (E) Quantitative real-time PCR (RT-qPCR) analysis
+  of ALDH1A1 expression in LNCaP and DU145 parental and radioresistant cell lines.
+  N = 3; Error bars = SD; *p < 0.05. (F) Relative cell radiosensitivity was analyzed
+  by 2D radiobiological colony forming assay after siRNA-mediated knockdown of ALDH1A1
+  or ALDH1A3 in LNCaP, C4-2B, or PC3 cells. Cells transfected with scrambled (Scr)
+  siRNA were used as control. N ≥ 3; Error bars = SD; *p < 0.05; **p < 0.01; ***p
+  < 0.001. (G) The RNA sequencing analysis of LNCaP cells transfected with ALDH1A1
+  siRNA, ALDH1A3 siRNA or scrambled siRNA revealed that ALDH1A1 downregulation is
+  associated with a decrease in DNA damage response (DDR) and repair genes (n = 71,
+  RT2 DNA Damage Signaling Pathway geneset); *p < 0.05. Blue arrows indicate genes
+  whose expression levels were confirmed by western blotting in panel H. (H) Western
+  blot analysis of selected genes from the datasets in Figure 1A and Figure 1G. Representative
+  images of one of four independent repeats are shown; Error bars = SD; *p < 0.05;
+  **p < 0.01. (I) GSEA analysis for genes significantly up- or down regulated upon
+  ALDH1A1 knockdown revealed their association with Chk2 signaling and DNA double
+  strand break repair
+article_title: ALDH1A1 drives prostate cancer metastases and radioresistance by interplay
+  with AR- and RAR-dependent transcription
+citation: Ielizaveta Gorodetska, et al. Theranostics. 2024;14(2).
+year: '2024'
+pub_date: 2024--
+epub_date: 2024-1-1
+doi: 10.7150/thno.88057
+journal_title: Theranostics
+journa_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+keywords:
+- prostate cancer
+- bone metastases
+- cancer stem cells
+- aldehyde dehydrogenase
+- RARA
+- androgen receptor
+- retinoic acid
+---

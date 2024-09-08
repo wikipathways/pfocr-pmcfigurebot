@@ -1,0 +1,34 @@
+---
+figid: PMC10760156__nihpp-2023.12.13.571178v1-f0004
+pmcid: PMC10760156
+image_filename: PMC10760156__nihpp-2023.12.13.571178v1-f0004.jpg
+figure_link: /pmc/articles/PMC10760156/figure/FFigure 4:/
+number: 'Figure 4:'
+figure_title: Distinct brain capillary endothelial states associate with healthy aging
+  versus neurodegenerative diseases
+caption: (A) Uniform manifold approximation and projection (UMAP) clustering representation
+  of brain endothelial cell subtypes, encompassing capillaries, veins, and arteries,
+  derived from ~39K cells in the inCITE dataset, with disease state regressed out.
+  (B) Heatmap showing identification markers for capillary endothelial cell subtypes.
+  (C) in silico isolation of capillary nuclei and UMAP clustering based on batch corrected
+  gene expression patterns and without regression of disease state. Data represents
+  ~26K cells and feature plots of gene expression for cluster marker genes enriched
+  in cluster 1 or cluster 3 relative to others. (D) Scatter plot showing correlation
+  (Spearmann) between donor age and contribution to each capillary cluster, and (E)
+  box plot showing the proportions of capillary endothelial cells for each donor falling
+  into each cluster. (F) Bubble plot showing pathway enrichment from MsigDB in disease
+  associated cluster 1 versus all other clusters. (E) ANOVA with post-hoc Tukey test,
+  ***P<0.001, *P<0.05
+article_title: Targeted inCITE-Seq Analysis Identifies the Loss of Nuclear TDP-43
+  in Endothelium as a Mediator of Blood Brain Barrier Signaling Pathway Dysfunction
+  in Neurodegeneration
+citation: Omar M.F. Omar, et al. bioRxiv. 2023 Dec 14;NA(NA).
+year: '2023'
+pub_date: '2023-12-14'
+epub_date: '2023-12-14'
+doi: 10.1101/2023.12.13.571178
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

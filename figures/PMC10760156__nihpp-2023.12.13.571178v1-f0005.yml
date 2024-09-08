@@ -1,0 +1,32 @@
+---
+figid: PMC10760156__nihpp-2023.12.13.571178v1-f0005
+pmcid: PMC10760156
+image_filename: PMC10760156__nihpp-2023.12.13.571178v1-f0005.jpg
+figure_link: /pmc/articles/PMC10760156/figure/FFigure 5./
+number: Figure 5.
+figure_title: inCITE analysis reveals a loss of Wnt/β-Catenin signaling in disease
+  associated nuclei
+caption: (A) Dot plots showing relative levels of protein across all cell clusters,
+  and within the endothelial and microglial clusters. (B) Violin plot showing histone
+  normalized protein levels for p65/NF-kB, TDP-43 and Beta-Catenin in Cluster 1 (disease
+  cluster) in comparison to Cluster 3 (healthy control). (C) Density plots illustrating
+  the top 10th percentile of protein levels for Beta-Catenin (relative to H3), and
+  predicted positive regulation of Wnt signaling pathway by gene expression. (D) GSEA
+  plot of Wnt/β-Catenin genes enriched in disease associated cluster 1 (versus all
+  other clusters). Gene sets are either genes positively associated with Wnt activation
+  in human endothelial cells, or negatively associated with Wnt activation. (E) Feature
+  plots showing example genes in the β-Catenin pathway, projected onto the capillary
+  UMAP. (F) Violin plots showing Wnt target gene expression across clusters
+article_title: Targeted inCITE-Seq Analysis Identifies the Loss of Nuclear TDP-43
+  in Endothelium as a Mediator of Blood Brain Barrier Signaling Pathway Dysfunction
+  in Neurodegeneration
+citation: Omar M.F. Omar, et al. bioRxiv. 2023 Dec 14;NA(NA).
+year: '2023'
+pub_date: '2023-12-14'
+epub_date: '2023-12-14'
+doi: 10.1101/2023.12.13.571178
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

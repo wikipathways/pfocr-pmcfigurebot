@@ -1,0 +1,39 @@
+---
+figid: PMC10811775__nihms-1960379-f0005
+pmcid: PMC10811775
+image_filename: PMC10811775__nihms-1960379-f0005.jpg
+figure_link: /pmc/articles/PMC10811775/figure/FFig. 5./
+number: Fig. 5.
+figure_title: Validation of ‘female bone candidates’ in human patient samples.
+caption: Validation of ‘female bone candidates’ in human patient samples. (A) Overlapping
+  of differential genes in human datasets with Esr1-correlated genes in BXD mice and
+  the corresponding pathways. The number of differential genes from each microarray
+  study were compared with the number of Esr1-correlated genes (p < 0.01). Similarly,
+  pathways obtained through the enrichment analysis of these genes were compared.
+  The similarity between the human and mice gene-sets for the overlap of genes and
+  pathways was statistically tested using Jaccard similarity coefficient. Expression
+  of 25 candidate genes and the TFs that regulate them in (B) human mesenchymal stem
+  cells isolated from elderly osteoporosis patients or non-osteoporotic donors (GSE35958)
+  and (C) primary osteoblasts obtained from women with osteoporotic fracture or severe
+  osteoarthritis (GSE156508). Genes with asterisk in the heatmap are significantly
+  different (p < 0.05) between patient and control samples. The PCA plots show the
+  clustering of patient and control samples based on the expression profile of the
+  genes represented in the heatmap
+article_title: Systems genetics and bioinformatics analyses using ESR1-correlated
+  genes identify potential candidates underlying female bone development
+citation: Akhilesh K. Bajpai, et al. Genomics. 2024 Jan 21;116(1).
+year: '2024'
+pub_date: 2024-1-21
+epub_date: '2023-12-21'
+doi: 10.1016/j.ygeno.2023.110769
+journal_title: Genomics
+journa_nlm_ta: Genomics
+publisher_name: .na.character
+keywords:
+- Bone
+- Femur
+- Osteoporosis
+- Systems genetics
+- Candidate gene
+- Postmenopausal bone loss
+---

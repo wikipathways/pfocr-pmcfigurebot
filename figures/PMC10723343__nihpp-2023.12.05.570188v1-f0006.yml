@@ -1,0 +1,41 @@
+---
+figid: PMC10723343__nihpp-2023.12.05.570188v1-f0006
+pmcid: PMC10723343
+image_filename: PMC10723343__nihpp-2023.12.05.570188v1-f0006.jpg
+figure_link: /pmc/articles/PMC10723343/figure/FFigure 6./
+number: Figure 6.
+figure_title: Verification of Logarithmic Signaling in the HOG Pathway through Gradual
+  Cell Stress
+caption: (A) Linear NaCl stress (with final concentrations of Cmax = 0.6M and 0.8M)
+  lead to (B) increasing cell volume reduction and (C) decaying dynamics of Hog1 nuclear
+  localization over time. (D) Exponential stress result in (E) increasing cell volume
+  reduction and (F) increasing Hog1nuc dynamics over time. Fitting cell volume reduction
+  to a polynomial function indicates that volume reduction changes with a smaller
+  polynomial order under linear stress compared to exponential stress (see Figures
+  S3D, S3F for Cmax = 0.6M and 0.8M). (G-I) Summation of cell volume reduction dynamics
+  and the transient responses of Hog1nuc to NaCl stress with polynomial orders (k=1,2,3,5,7)
+  generated (H) increasing cell volume reduction and (I) increasing Hog1nuc dynamics
+  over time, similar to the responses observed with exponential stress at each final
+  concentration. (J) A comparison between pulsatile and staircase NaCl stress, consisting
+  of three equal-height step elevations, shows differential dynamics in both (K) cell
+  volume reduction and (L) Hog1nuc responses over time. The lines represent means,
+  and the shaded areas indicate standard deviations (std) from 2–3 biological replicates
+  (BRs), each with approximately 100 single cells analyzed through time-lapse microscopy.
+  Further details can be found in Figures S5
+article_title: Phenotypic consequences of logarithmic signaling in MAPK stress response
+citation: Hossein Jashnsaz, et al. bioRxiv. 2023 Dec 07;NA(NA).
+year: '2023'
+pub_date: '2023-12-07'
+epub_date: '2023-12-07'
+doi: 10.1101/2023.12.05.570188
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- MAPK Hog1
+- Gradual Environments
+- Dynamic Cell Signaling
+- Cell Stress
+- Cell Volume
+- Cell Growth
+---

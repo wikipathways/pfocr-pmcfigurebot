@@ -1,0 +1,36 @@
+---
+figid: PMC10779306__ijms-25-00142-g010
+pmcid: PMC10779306
+image_filename: PMC10779306__ijms-25-00142-g010.jpg
+figure_link: /pmc/articles/PMC10779306/figure/F10/
+number: Figure 10
+figure_title: IRPM score heterogeneity and associated immune characteristics in tumor
+  microenvironments.
+caption: IRPM score heterogeneity and associated immune characteristics in tumor microenvironments.
+  (A,B) The UMAP visualization shows nine main cell types in a single-cell pancreatic
+  cancer data (GSE2129664), colored by cell type (A) and the IRPM scores (B). (C)
+  Violin plot for the IRPM scores in different cell subtypes. (D) Circle plots depicting
+  the interaction numbers and interaction strength between high-IRPM epithelial cells,
+  low-IRPM epithelial cells, and other cell subtypes, respectively. (E) Dot plot illustrating
+  substantial ligand-receptor interactions between high-IRPM/low-IRPM epithelial cells
+  and surrounding cells. The CellChat program used colors to represent the communication
+  possibility. The permutation p-value is shown by point size. (F,G) KEGG (F) and
+  immune-related (G) pathways enrichment analysis of DEGs in high- and low-IRPM score
+  groups. ** p < 0.01, and *** p < 0.001
+article_title: An Integrated Multi-Omics Analysis Identifying Immune Subtypes of Pancreatic
+  Cancer
+citation: Yongcheng Su, et al. Int J Mol Sci. 2024 Jan;25(1).
+year: '2024'
+pub_date: 2024-1-
+epub_date: '2023-12-21'
+doi: 10.3390/ijms25010142
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- tumor microenvironment
+- immunotherapy
+- pancreatic cancer
+- bioinformatic analysis
+- multi-omics analysis
+---

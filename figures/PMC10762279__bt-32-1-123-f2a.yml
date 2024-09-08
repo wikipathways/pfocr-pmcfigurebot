@@ -1,0 +1,57 @@
+---
+figid: PMC10762279__bt-32-1-123-f2a
+pmcid: PMC10762279
+image_filename: PMC10762279__bt-32-1-123-f2a.jpg
+figure_link: /pmc/articles/PMC10762279/figure/F2/
+number: Fig. 2
+figure_title: (A, B) The Kaplan-Meier survival curve represents the overall survival
+  (OS) (the patient’s number; low=43, high=134) and relapse-free survival (RFS) (the
+  patient’s number; low=21, high=48) of patient with pancreatic cancer according to
+  the ACTN4 expression level.
+caption: '(A, B) The Kaplan-Meier survival curve represents the overall survival (OS)
+  (the patient’s number; low=43, high=134) and relapse-free survival (RFS) (the patient’s
+  number; low=21, high=48) of patient with pancreatic cancer according to the ACTN4
+  expression level. (C) Effect of piceamycin on ACTN4 mRNA expression. RNA-seq assay
+  was performed in gemcitabine-resistant AsPC-1 cells treated with piceamycin (1.25
+  μM) compared with control (PBS with DMSO-treated). Heatmap shows ACTN4 mRNA expression
+  according to z-score. The color represents z-score (yellow; positive score; upregulation,
+  blue; negative score; downregulation). / Normalized value of ACTN4 mRNA expression.
+  Data are presented as mean ± SD (n=3). (D) Effect of piceamycin on ACTN4 protein
+  expression in gemcitabine-resistant AsPC-1 cells. Gemcitabine-resistant AsPC-1 cells
+  were treated with the indicated concentrations of piceamycin for 48 h, and the protein
+  expression level of ACTN4 was determined by western blotting. α-Tubulin was used
+  as an internal control. (E) Protein-Protein Interaction (PPI) for ACTN4 from the
+  search tool (STRING) database. Interacting proteins for ACTNB (Actin beta) Gene:
+  ACTB (Actin beta)–ACTG1 (Actin gamma1), Interacting proteins for ACTN4 (Actinin
+  alpha4) Gene: ACTN4–VCN (Vinculin) (F) Effect of piceamycin on mRNA expression of
+  actin polymerization related genes. The heatmap was visualized from the RNA-seq
+  data (according to z-score of actin polymerization related genes) and displayed
+  on the column (according to z-score; –2≤z≤2, AVE; average of z-score, STD; standard
+  deviation of z-score, n=3). / Normalized value (mRNA level) of ACTB and ACTG1 from
+  RNA-seq analysis treated with piceamycin (1.25 μM) versus control (PBS with DMSO-treated)
+  in gemcitabine-resistant AsPC-1 cells. Data are presented as mean ± SD (n=3) (G)
+  Modified KEGG pathway of the genes related to actin polymerization signaling pathway.
+  Modified KEGG pathway from Kyoto Encyclopedia of Genes and Genomes (KEGG) treated
+  with piceamycin (1.25 μM) for 48 h compared with control (PBS with DMSO-treated)
+  in gemcitabine-resistant AsPC-1 cells. The box colors of modified KEGG pathway represent
+  fold change. (H) Effect of piceamycin on the proteins related to actin polymerization
+  (VCN and ACTB). The protein expression related to actin polymerization biomarkers
+  were analyzed by western blotting. Piceamycin was treated on the gemcitabine-resistant
+  AsPC-1 cells with indicated concentrations. α-Tubulin was used as an internal control'
+article_title: Antiproliferative Activity of Piceamycin by Regulating Alpha-Actinin-4
+  in Gemcitabine-Resistant Pancreatic Cancer Cells
+citation: Jee-Hyung Lee, et al. Biomol Ther (Seoul). 2024 Jan 1;32(1).
+year: '2024'
+pub_date: 2024-1-1
+epub_date: 2024-1-1
+doi: 10.4062/biomolther.2023.109
+journal_title: Biomolecules & Therapeutics
+journa_nlm_ta: Biomol Ther (Seoul)
+publisher_name: The Korean Society of Applied Pharmacology
+keywords:
+- Alpha-actinin-4 (ACTN4)
+- Pancreatic cancer
+- Piceamycin
+- Patient-derived pancreatic cancer organoids (PDPCOs)
+- Apoptosis
+---

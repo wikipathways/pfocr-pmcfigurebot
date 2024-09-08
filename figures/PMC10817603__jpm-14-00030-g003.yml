@@ -1,0 +1,38 @@
+---
+figid: PMC10817603__jpm-14-00030-g003
+pmcid: PMC10817603
+image_filename: PMC10817603__jpm-14-00030-g003.jpg
+figure_link: /pmc/articles/PMC10817603/figure/F3/
+number: Figure 3
+figure_title: (A) In gene set enrichment analyses, CDKN1B expression is related to
+  genes upregulated in the normal subtype of breast cancer, genes upregulated by mTOR
+  kinase inhibitors, the T-cell receptor signaling pathway, and genes downregulated
+  in memory CD8 T cells.
+caption: '(A) In gene set enrichment analyses, CDKN1B expression is related to genes
+  upregulated in the normal subtype of breast cancer, genes upregulated by mTOR kinase
+  inhibitors, the T-cell receptor signaling pathway, and genes downregulated in memory
+  CD8 T cells. (B) Bar plots: low CDKN1B expression is associated with a low lymphocyte
+  infiltration signature score (p < 0.001), decreased B cells (p < 0.001), increased
+  CD4+ T cells (p = 0.938), decreased CD8+ T cells (p = 0.04), high cell proliferation
+  (p = 0.04), decreased leukocytes (p < 0.001), decreased M1 macrophages (p = 0.1),
+  and increased M2 macrophages (p < 0.001). (C) Low CDKN1B expression is related to
+  low interferon-g (IFNG) expression (p = 0.018), elevated Tumor Immune Dysfunction
+  and Exclusion (TIDE) signature score (p = 0.065), and decreased cancer-associated
+  fibroblasts (CAFs) (p = 0.002). The immunotherapy response was significantly different
+  between low CDKN1B expression and high CDKN1B expression (p = 0.015)'
+article_title: Low CDKN1B Expression Associated with Reduced CD8+ T Lymphocytes Predicts
+  Poor Outcome in Breast Cancer in a Machine Learning Analysis
+citation: Hyung-Suk Kim, et al. J Pers Med. 2024 Jan;14(1).
+year: '2024'
+pub_date: 2024-1-
+epub_date: '2023-12-25'
+doi: 10.3390/jpm14010030
+journal_title: Journal of Personalized Medicine
+journa_nlm_ta: J Pers Med
+publisher_name: MDPI
+keywords:
+- breast cancer
+- prognosis
+- tumor infiltrating lymphocyte
+- CDKN1B
+---

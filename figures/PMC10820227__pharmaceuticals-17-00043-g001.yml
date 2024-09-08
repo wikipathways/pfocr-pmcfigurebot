@@ -1,0 +1,32 @@
+---
+figid: PMC10820227__pharmaceuticals-17-00043-g001
+pmcid: PMC10820227
+image_filename: PMC10820227__pharmaceuticals-17-00043-g001.jpg
+figure_link: /pmc/articles/PMC10820227/figure/F1/
+number: Figure 1
+figure_title: Network Pharmacology Analysis of anti-CRC mechanism of ISL.
+caption: Network Pharmacology Analysis of anti-CRC mechanism of ISL. (A) Venn diagram
+  of the overlapping target genes of ISL and CRC. (B) The PPI network of common targets.
+  (C) ISL-target-CRC network. The green node represents CRC, the orange nodes represent
+  common targets, and the red node represents ISL. Larger node sizes and darker colours
+  indicate a higher degree of correlation. (D) GO functional annotation of potential
+  targets of ISL against CRC, including biological processes (BP), cellular components
+  (CC) and molecular functions (MF). (E) KEGG enrichment analysis for potential signalling
+  pathways. The top 20 pathways with lower p-values are visualised
+article_title: Isoliquiritigenin Inhibits the Growth of Colorectal Cancer Cells through
+  the ESR2/PI3K/AKT Signalling Pathway
+citation: Fenglin Luo, et al. Pharmaceuticals (Basel). 2024 Jan;17(1).
+year: '2024'
+pub_date: 2024-1-
+epub_date: '2023-12-27'
+doi: 10.3390/ph17010043
+journal_title: Pharmaceuticals
+journa_nlm_ta: Pharmaceuticals (Basel)
+publisher_name: MDPI
+keywords:
+- colorectal cancer
+- Isoliquiritigenin
+- network pharmacology
+- ESR2
+- PI3K/AKT pathway
+---

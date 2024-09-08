@@ -1,0 +1,31 @@
+---
+figid: PMC10760156__nihpp-2023.12.13.571178v1-f0006
+pmcid: PMC10760156
+image_filename: PMC10760156__nihpp-2023.12.13.571178v1-f0006.jpg
+figure_link: /pmc/articles/PMC10760156/figure/FFigure 6./
+number: Figure 6.
+figure_title: inCITE-seq analysis reveals a specific loss of nuclear TDP-43 and increased
+  NFkB transcriptional targets disease associated nuclei
+caption: (A) Density plots illustrating the top 10th percentiles of protein levels
+  for p65/NFkB, Beta-Catenin, and TDP-43. (B) Transcripts positively associated with
+  the highest (top 10th percentile) of nuclear p65/NFkB relative to the lowest (bottom
+  25th percentile) in each cluster. (C) GSEA Enrichr analysis of MSigDB pathways highest
+  in the genes upregulated with p65/NFkB in cluster 1 and cluster 3, respectively.
+  Enrichment of the pathways shown for each cluster are also shown in grey for the
+  other cluster. (D) A smoothed line plot comparing NFkB protein levels (x-axis) to
+  TDP-43 (y-axis). (E) Violin plot showing histone normalized protein levels for p65/NFkB
+  and TDP-43 in bottom 10th percentile and top 25th percentile of p65/NFkB. Significance
+  relative to healthy aged control is shown
+article_title: Targeted inCITE-Seq Analysis Identifies the Loss of Nuclear TDP-43
+  in Endothelium as a Mediator of Blood Brain Barrier Signaling Pathway Dysfunction
+  in Neurodegeneration
+citation: Omar M.F. Omar, et al. bioRxiv. 2023 Dec 14;NA(NA).
+year: '2023'
+pub_date: '2023-12-14'
+epub_date: '2023-12-14'
+doi: 10.1101/2023.12.13.571178
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

@@ -1,0 +1,32 @@
+---
+figid: PMC10779047__ijms-25-00348-g004
+pmcid: PMC10779047
+image_filename: PMC10779047__ijms-25-00348-g004.jpg
+figure_link: /pmc/articles/PMC10779047/figure/F4/
+number: Figure 4
+figure_title: Screening and functional enrichment analysis of differential PANoptosis
+  genes.
+caption: Screening and functional enrichment analysis of differential PANoptosis genes.
+  (A) The upset plot shows the overlap between PANoptosis gene list and the same trend
+  genes in the two training sets. (B) Heatmap representation of log2(Foldchange) of
+  DEPGs in the two training sets. (C) GO functional enrichment analysis, including
+  BP, CC, and MF, revealed the underlying functions of DEPGs. (D) KEGG pathway enrichment
+  revealed the top 25 pathways enriched in DEPGs. (E) Reactome pathway analysis of
+  the DEPGs
+article_title: Comprehensive Analysis of PANoptosis-Related Gene Signature of Ulcerative
+  Colitis
+citation: Jun-Meng Wang, et al. Int J Mol Sci. 2024 Jan;25(1).
+year: '2024'
+pub_date: 2024-1-
+epub_date: '2023-12-26'
+doi: 10.3390/ijms25010348
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- PANoptosis
+- colitis
+- integrated analysis
+- gene signatures
+- ceRNA network
+---

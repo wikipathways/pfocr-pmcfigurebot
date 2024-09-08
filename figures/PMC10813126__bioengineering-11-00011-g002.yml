@@ -1,0 +1,38 @@
+---
+figid: PMC10813126__bioengineering-11-00011-g002
+pmcid: PMC10813126
+image_filename: PMC10813126__bioengineering-11-00011-g002.jpg
+figure_link: /pmc/articles/PMC10813126/figure/F2/
+number: Figure 2
+figure_title: Random forest analysis (RFA).
+caption: 'Random forest analysis (RFA). The assessment of blank, ground control, and
+  SPC-flown NSCs was highly effective. The biochemical importance plot highlighted
+  biochemicals related to a number of super family pathways: amino acids associated
+  with glutaminolysis (Ala, Asn, Asp, Gln), amino acid metabolites from BCAA catabolism
+  (1-carboxyethylisoleucine, 1-carboxyethylvaline, 2,3-dihydroxyisovalerate, 3-methyl-2-oxovalerate,
+  alpha-ketoglutaramate), metabolites from nitrogen metabolism (urea, creatine, N-acetyl-putrescine),
+  lipids associated with metabolism of phospholipids (malonate, glycerol, choline,
+  glycerophosphorylcholine), and nucleotide metabolism (hypoxanthine, 2′-deoxycytidine).
+  Random forest classification using named metabolites in media of blank compared
+  to 1 G and 0 G NSCs gave a predictive accuracy of 100%. Random chance would be expected
+  to yield a predictive accuracy of 33%. We found two molecules with unclear identities:
+  X25035, which is most likely a peptide, and X25865. RFA was performed as previously
+  described [20]'
+article_title: Metabolomic Profiling of the Secretome from Human Neural Stem Cells
+  Flown into Space
+citation: Juan Carlos Biancotti, et al. Bioengineering (Basel). 2024 Jan;11(1).
+year: '2024'
+pub_date: 2024-1-
+epub_date: '2023-12-22'
+doi: 10.3390/bioengineering11010011
+journal_title: Bioengineering
+journa_nlm_ta: Bioengineering (Basel)
+publisher_name: MDPI
+keywords:
+- microgravity
+- neural stem cells
+- secretome
+- spaceflight
+- metabolomics
+- cell metabolism
+---
