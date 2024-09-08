@@ -391,9 +391,9 @@ extract_figures <- function(xml_content, exfigids) {
     }
   }
   
-  log_message(paste("Extracted", length(total_figures_screened), "figures from XML content."))
-  log_message(paste("Identified", length(total_pathway_figures), "pathway figures."))
-  log_message(paste("Skipped", length(figures_previously_processed), "figures previously processed."))
+  log_message(paste("Extracted", total_figures_screened, "figures from XML content."))
+  log_message(paste("Identified", total_pathway_figures, "pathway figures."))
+  log_message(paste("Skipped", figures_previously_processed, "figures previously processed."))
   log_message(paste("Processed", length(all_results), "pathway figures for download."))
   return(all_results)
 }
