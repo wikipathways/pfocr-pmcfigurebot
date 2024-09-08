@@ -1,0 +1,46 @@
+---
+figid: PMC10802588__nihpp-2024.01.13.575526v1-f0003
+pmcid: PMC10802588
+image_filename: PMC10802588__nihpp-2024.01.13.575526v1-f0003.jpg
+figure_link: /pmc/articles/PMC10802588/figure/FFigure 3./
+number: Figure 3.
+figure_title: Alpha-synuclein is important in global DNA damage response pathways
+caption: A) SK-Mel28 cells (control/KO/KI) were seeded on PLL-coated coverslips and
+  treated with DMSO or 100μg/ml bleomycin for 1 hour. Cells were fixed and stained
+  for Syn1, γH2AX, and DAPI. Mean intensity of γH2AX signal within DAPI masks were
+  analyzed using FIJI. ** p<0.01, **** p<0.0001 by ANOVA. Error bars denote SEM. Quantification
+  from 3 biological replicates. Same γH2AX quantification between graphs with control
+  cells. B) SK-Mel28 cells (control/KO/KI) were treated with DMSO or 100μg/ml bleomycin
+  for 1 hour and lysed and a nuclear fractionation was performed. Nuclear protein
+  was run out on SDS-PAGE and probed for γH2AX and total protein. Western blots were
+  imaged on Licor CLx imager. * p<0.05, **** p<0.0001. Error bars denote SEM. Quantification
+  from 4 biological replicates. C) SK-Mel28 cells were seeded in a black-welled PDL-coated
+  96 well plate and treated with DMSO or 100μg/ml bleomycin for 1 hour. Cells were
+  processed according to the In-Cell Western manufacturer instructions and stained
+  for γH2AX (800) and CellTag (700). Plates were imaged on the Licor CLx. ** p<0.01,
+  *** p<0.001, **** p<0.0001 by ANOVA. Error bars denote SEM. Quantification from
+  3 biological replicates. D) SK-Mel28 cells (control/KO/KI) were seeded on PLL-coated
+  coverslips and treated with DMSO or 100μg/ml bleomycin for 1 hour. Cells were fixed
+  and stained for Syn1, γH2AX, nucleostemin, and DAPI. Mean intensity of γH2AX signal
+  within nucleostemin and DAPI masks were analyzed using FIJI. * p<0.05, ** p<0.01,
+  ***p<0.001, **** p<0.0001 by ANOVA. Error bars denote SEM. N=nucleus, Nu=nucleolus.
+  Quantification from 3 biological replicates. E) SK-Mel28 cells were seeded on PDL-coated
+  coverslips, treated with DMSO or 100μg/ml bleomycin for 1 hour, and fixed in 4%
+  paraformaldehyde. DNA Damage In Situ Ligation Followed by Proximity Ligation Assay
+  (Duolink) was completed as previously described (Galbiati and Fagagna, 2019) using
+  a DNA linker and Syn1. Cells were imaged on the Zeiss 980 confocal microscope and
+  number of foci per nucleus was measured using CellProfiler within nuclear masking
+  with DAPI. Each figure shows representative images and quantification from 3 biological
+  replicates. ****p<0.0001 by ANOVA. Error bars denote SEM
+article_title: Alpha-synuclein regulates nucleolar DNA double-strand break repair
+  in melanoma
+citation: Moriah R. Arnold, et al. bioRxiv. 2024 Jan 14;NA(NA).
+year: '2024'
+pub_date: 2024-1-14
+epub_date: 2024-1-14
+doi: 10.1101/2024.01.13.575526
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

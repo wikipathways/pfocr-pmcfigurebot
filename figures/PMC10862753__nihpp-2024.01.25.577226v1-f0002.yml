@@ -1,0 +1,36 @@
+---
+figid: PMC10862753__nihpp-2024.01.25.577226v1-f0002
+pmcid: PMC10862753
+image_filename: PMC10862753__nihpp-2024.01.25.577226v1-f0002.jpg
+figure_link: /pmc/articles/PMC10862753/figure/FFigure 2:/
+number: 'Figure 2:'
+figure_title: HCM cardiomyocytes are enriched in insulin receptor and actin binding
+  pathway genes
+caption: 'A) UMAP embedding of reiterative clustering of cardiomyocytes. B) Bar plot
+  depicting proportion of major cell types of interest within control subjects (C1
+  and C2) and HCM subjects (H1, H2, and H3) and proportions in pooled cohorts (Control
+  vs HCM). C) Left: Embedding derived from Milo k-nearest neighborhood differential
+  abundance testing and layout derived from UMAP embedding. Nodes with false discovery
+  rate <10% depict neighborhoods and are colored by log fold changes for HCM (blue)
+  versus control (red) samples. Right: Beeswarm plot depicting significant log fold
+  changes for HCM (blue) and control (red) neighborhoods derived from differential
+  abundance testing stratified by cardiomyocyte clusters (y-axis). D) Heatmap of top
+  5 differently expressed genes derived from FindAllMarkers function in CM1, CM2,
+  CM3, CM4, CM5, and CM6. E) Volcano plot derived from pseudo-bulk RNA differential
+  gene expression. F) Enrichment map stratified by CM cluster depicting the proportional
+  GO pathway analysis. Node size is determined by the number of genes within each
+  GO pathway. G) Feature plots illustrating expression of normal, pre-stressed, and
+  stressed cardiomyocyte scores derived from Kuppe et al. in combined HCM and control
+  cells, overlaid on the original UMAP embedding'
+article_title: Activated fibroblasts drive cellular interactions in end-stage pediatric
+  hypertrophic cardiomyopathy
+citation: Hanna J. Tadros, et al. bioRxiv. 2024 Jan 29;NA(NA).
+year: '2024'
+pub_date: 2024-1-29
+epub_date: 2024-1-29
+doi: 10.1101/2024.01.25.577226
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

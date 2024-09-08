@@ -1,0 +1,42 @@
+---
+figid: PMC10827163__nihpp-2024.01.16.575958v2-f0001
+pmcid: PMC10827163
+image_filename: PMC10827163__nihpp-2024.01.16.575958v2-f0001.jpg
+figure_link: /pmc/articles/PMC10827163/figure/FFigure 1./
+number: Figure 1.
+figure_title: Genome wide CRISPR screen identifies Klf2 suppressors
+caption: '(a) Schematic of the Klf2 reporter stably expressed in Mouse Aortic Endothelial
+  Cells (MAEC). Destabilized EGFP (d2EGFP) is driven by the Klf2 promoter while mCherry
+  is driven by a constitutive PGK promoter as an internal control. (b) Schematic of
+  the genome wide CRISPR screen to identify modifiers (activators and suppressors)
+  of Klf2 induction under laminar shear stress (LSS; 15 dyn/cm2 LSS for 16 h). (c)
+  Functional categorization of the candidate Klf2 suppressors (cumulative z score
+  >4, 160 hits) using Ingenuity Pathway Analysis (IPA, Qiagen). (d) candidate suppressors
+  intersecting with ‘cell-surface exposed proteins on outer plasma membrane’ GO term
+  to identify candidates amenable to function neutralization by blocking antibodies
+  (red box: validated hits). (e) Klf2:GFP reporter MAECs were transduced with Cas9
+  plus Control sg, Pcdhga9 sg or with a human Pcdhga9 (Hs Pcdhga9) vector. Cells were
+  exposed to static (St), LSS, or disturbed oscillatory shear stress (OSS) for 16
+  h and immunoblotted for Klf2:GFP (N=3). Graph: quantitation of Klf2:GFP normalized
+  to Tubulin loading control. (f) Immunoblot for the inflammatory marker VCAM1 in
+  Control or Pcdhga9 depleted MAECs exposed to St, LSS or OSS (N=3). Graph: quantitation
+  of VCAM1 normalized to Tubulin loading control. (g) THP-1 monocyte binding to Control
+  si or Pcdhga9 si Human Umbilical Vein Endothelial Cells (HUVECs) exposed to St or
+  OSS for 16 h (N=4). Graph: quantitation of bound THP1 monocytes per field (THP1
+  binding index). Statistical analysis used one-way ANOVA. Scale bar: (g) 100 μm'
+article_title: Gamma protocadherins in vascular endothelial cells inhibit Klf2/4 to
+  promote atherosclerosis
+citation: Divyesh Joshi, et al. bioRxiv. 2024 Jan 21;NA(NA).
+year: '2024'
+pub_date: 2024-1-21
+epub_date: 2024-1-21
+doi: 10.1101/2024.01.16.575958
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- vascular inflammation
+- protocadherin gamma A9
+- fluid shear stress
+- mechanotransduction
+---

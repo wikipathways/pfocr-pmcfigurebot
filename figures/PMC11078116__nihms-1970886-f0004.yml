@@ -1,0 +1,42 @@
+---
+figid: PMC11078116__nihms-1970886-f0004
+pmcid: PMC11078116
+image_filename: PMC11078116__nihms-1970886-f0004.jpg
+figure_link: /pmc/articles/PMC11078116/figure/FFigure 4./
+number: Figure 4.
+figure_title: Frequency of proliferation-altering disruptions in enhancers, HARs,
+  and HGEs
+caption: '(A) The number of disrupted conserved regions leading to a proliferation
+  phenotype within each enhancer (left, shown in gray) or in each HAR or HGE (right,
+  shown in red).(B) The proportion of proliferation-altering disruptions compared
+  with all targeted sites in all enhancers (gray) and HARs or HGEs (red). The dashed
+  line indicates the mean density of proliferation phenotypes within all enhancers
+  in the screen.(C) The total number of conserved regions disrupted within each enhancer
+  (x axis) compared with the cumulative proliferation phenotype burden within each
+  enhancer (y axis). Mutation-sensitive enhancers identified by permutation analysis
+  (see D and main text for details) are labeled based on the most proximal gene. HARs
+  and HGEs are labeled in red. The results of the permutation analysis, including
+  the number of disrupted sites with a phenotype compared with the total number of
+  targeted sites and the enrichment p values, are provided in Table S11.(D) A mutation-sensitive
+  enhancer near SPRY2, a regulator of the FGF signaling pathway. Top: genomic coordinates
+  indicate position on the reference genome (GRCh37/hg19). Three enhancers (i, ii,
+  and iii), shown by the extent of H3K27ac marking (light blue bars) in hNSCs, were
+  disrupted in this locus. Enhancer iii includes a significant excess of proliferation-altering
+  enhancer disruptions. Bottom: H3K27ac signal profile (light blue), mammalian PhastCons
+  elements (orange bars), and corresponding conserved regions that have either neutral
+  effects (gray bars) or proliferation-decreasing phenotypes (dark blue bars) when
+  disrupted in the screen are shown for enhancer iii. The signal track at the bottom
+  displays normalized beta scores (gray) at 12 cell divisions averaged across a sliding
+  window'
+article_title: Massively parallel disruption of enhancers active in human neural stem
+  cells
+citation: Evan Geller, et al. Cell Rep. 2024 May 2;43(2).
+year: '2024'
+pub_date: 2024-5-2
+epub_date: 2024-1-23
+doi: 10.1016/j.celrep.2024.113693
+journal_title: Cell reports
+journa_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

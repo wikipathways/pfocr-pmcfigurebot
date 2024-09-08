@@ -1,0 +1,33 @@
+---
+figid: PMC10849648__nihpp-2024.01.25.577277v1-f0005
+pmcid: PMC10849648
+image_filename: PMC10849648__nihpp-2024.01.25.577277v1-f0005.jpg
+figure_link: /pmc/articles/PMC10849648/figure/FFigure 5:/
+number: 'Figure 5:'
+figure_title: Cellchat reveals the CDX2-dose-dependent regulation of ncWNT signaling
+  pathway
+caption: (A) Information flow (arbitrary units; A. U.) of various pathways across
+  all clusters within WT, CDX2-Het, or CDX2-KO populations. (B) Circle plots (left)
+  and bar plots (right) visualizing ligand-receptor communication across all clusters.
+  The number correlates with cluster identity, and “1” indicates ExeM-Late. Line thickness
+  corresponds with the strength of the predicted communication. (C) Violin plot of
+  gene expression for each ligand or receptor comprising the ncWNT signaling pathway.
+  (D) Heatmap showing the communication dynamics for the ncWNT signaling pathway in
+  each cluster
+article_title: CDX2 dose-dependently influences the gene regulatory network underlying
+  human extraembryonic mesoderm development
+citation: Emily A. Bulger, et al. bioRxiv. 2024 Jan 26;NA(NA).
+year: '2024'
+pub_date: 2024-1-26
+epub_date: 2024-1-26
+doi: 10.1101/2024.01.25.577277
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- extraembryonic mesoderm
+- gastrulation
+- CDX2
+- allantois
+- gastruloid
+---

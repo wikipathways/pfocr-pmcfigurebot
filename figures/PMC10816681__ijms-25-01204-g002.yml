@@ -1,0 +1,49 @@
+---
+figid: PMC10816681__ijms-25-01204-g002
+pmcid: PMC10816681
+image_filename: PMC10816681__ijms-25-01204-g002.jpg
+figure_link: /pmc/articles/PMC10816681/figure/F2/
+number: Figure 2
+figure_title: Communication network construction for the LD of the newborn Suhuai
+  pig by CellChat.
+caption: Communication network construction for the LD of the newborn Suhuai pig by
+  CellChat. (A) The number of interaction plot of LD cells. The left graph is the
+  number of interactions and the right graph is the interaction strength between different
+  cell types. The top and right colored bar plots represent the sum of values displayed
+  in the heatmap. (B) Projecting signaling pathways onto a two-dimensional manifold
+  based on their functional similarity. Each dot represents the communication network
+  of one signaling pathway. Dot size is proportional to the overall communication
+  probability. Different colors represent different groups of signaling pathways.
+  (C) Heatmap showing the outgoing communication patterns of secreting cells in LD.
+  The relation between 5 inferred potential patterns with different cell populations
+  (left) or signaling pathways (right) were shown. (D) Heatmap showing the incoming
+  communication patterns of target cells in LD. The relation between 6 inferred potential
+  patterns with different cell populations (left) or signaling pathways (right) were
+  shown. (E–H) Communication network of 4 secretion (sender)/targeting (receiver)
+  pathways in FAPs and pericytes, respectively. Each node (circle) represents a distinct
+  cell type, while the connecting lines (edges) depict the known or hypothesized interactions.
+  The thickness of the lines indicates the strength or frequency of interactions,
+  and the different colors represent different types or subtypes of interactions.
+  (I) The expression distribution of four signaling pathway related genes in different
+  cell type in LD, including PERIOSTIN pathway (POSTN, ITGAV, ITGB5), ANGPT pathway
+  (ANGPT2, TEK, ITGA5, ITGB1), AGT pathway (AGT, AGTR1), and VEGF pathway (VEGFB,
+  VEGFC, VEGFD, FLT1, KDR). (J) Relative contribution of each ligand–receptor pair
+  to the overall signaling network in LD
+article_title: Single-Cell RNA Sequencing Reveals the Cellular Landscape of Longissimus
+  Dorsi in a Newborn Suhuai Pig
+citation: Wei Xiao, et al. Int J Mol Sci. 2024 Jan;25(2).
+year: '2024'
+pub_date: 2024-1-
+epub_date: 2024-1-18
+doi: 10.3390/ijms25021204
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- pig
+- longissimus dorsi
+- muscle
+- single-cell RNA sequencing
+- cellular atlas
+- fibro-adipogenic progenitors
+---

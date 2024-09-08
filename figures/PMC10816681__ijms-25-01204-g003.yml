@@ -1,0 +1,36 @@
+---
+figid: PMC10816681__ijms-25-01204-g003
+pmcid: PMC10816681
+image_filename: PMC10816681__ijms-25-01204-g003.jpg
+figure_link: /pmc/articles/PMC10816681/figure/F3/
+number: Figure 3
+figure_title: Pseudotime patterns of myogenic cell differentiation.
+caption: Pseudotime patterns of myogenic cell differentiation. (A) The pseudotime
+  analysis result of satellite cells, myoblasts, myocytes and myotubes with monocle2.
+  The 1 and 2 in the circle represent branch point 1 and branch point 2, respectively.
+  Black arrows indicated two pseudo-direction of differentiation at branch point 1.
+  (B) Distribution of each type of cell across pseudotime trajectory. (C) Scatter
+  plot the expression levels of 9 marker genes across pseudotime. The x-axis represents
+  pseudotime, the y-axis indicates the normalized gene expression levels, the colors
+  refer to the four myogenic cell populations. (D) The differentially expressed genes
+  (rows) of myogenic cells were clustered hierarchically into four groups, across
+  the two pseudo-direction of differentiation at branch point 1. (E) The representative
+  gene functions and pathways of each cluster were shown (Supplementary Table S5)
+article_title: Single-Cell RNA Sequencing Reveals the Cellular Landscape of Longissimus
+  Dorsi in a Newborn Suhuai Pig
+citation: Wei Xiao, et al. Int J Mol Sci. 2024 Jan;25(2).
+year: '2024'
+pub_date: 2024-1-
+epub_date: 2024-1-18
+doi: 10.3390/ijms25021204
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- pig
+- longissimus dorsi
+- muscle
+- single-cell RNA sequencing
+- cellular atlas
+- fibro-adipogenic progenitors
+---

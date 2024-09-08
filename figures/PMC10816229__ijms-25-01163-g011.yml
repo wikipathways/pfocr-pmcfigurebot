@@ -1,0 +1,40 @@
+---
+figid: PMC10816229__ijms-25-01163-g011
+pmcid: PMC10816229
+image_filename: PMC10816229__ijms-25-01163-g011.jpg
+figure_link: /pmc/articles/PMC10816229/figure/F11/
+number: Figure 11
+figure_title: Volcano plot of differential metabolites and KEGG-enriched differential
+  abundance scores.
+caption: Volcano plot of differential metabolites and KEGG-enriched differential abundance
+  scores. (A) Volcano plot. Each point represents a metabolite, where green points
+  represent down-regulated differential metabolites, red points represent up-regulated
+  differential metabolites, and gray points represent metabolites that were detected
+  but did not significantly differ from the horizontal coordinate representative of
+  the logarithm of the multiplicity of the difference in the relative abundance of
+  a metabolite between the two groups of samples (log2FC). The larger the absolute
+  value of the horizontal coordinate is, the larger the difference in the relative
+  abundance of the substance between the two groups of samples is. (B) Differential
+  abundance score plot. The vertical coordinate indicates the name of the differential
+  pathway (sorted by p-value) and the horizontal coordinate indicates the differential
+  abundance score (DA Score). The DA Score reflects the overall changes of all metabolites
+  in the metabolic pathway and a score of 1 indicates that the expression of all identified
+  metabolites in the pathway tends to be up-regulated, while a score of −1 indicates
+  that the expression of all identified metabolites in the pathway tends to be down-regulated
+article_title: Genome-Wide Analysis of R2R3-MYB Genes and Functional Characterization
+  of SmMYB75 in Eggplant Fruit Implications for Crop Improvement and Nutritional Enhancement
+citation: Suli Shi, et al. Int J Mol Sci. 2024 Jan;25(2).
+year: '2024'
+pub_date: 2024-1-
+epub_date: 2024-1-18
+doi: 10.3390/ijms25021163
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- R2R3-MYB genes
+- genome-wide characterization
+- eggplant
+- SmMYB75
+- metabolite
+---

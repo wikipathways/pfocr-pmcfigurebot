@@ -1,0 +1,32 @@
+---
+figid: PMC10809359__etm-27-02-12375-g02
+pmcid: PMC10809359
+image_filename: PMC10809359__etm-27-02-12375-g02.jpg
+figure_link: /pmc/articles/PMC10809359/figure/F3/
+number: Figure 3
+figure_title: GO functional annotation of DEGs.
+caption: GO functional annotation of DEGs. GO enrichment analysis of the 37 most significantly
+  enriched terms of the shared DEGs in the GSE78000 dataset. The x-axis indicates
+  -lg10 (P-value), and the y-axis indicates the 37 most significantly enriched GO
+  pathways. The number in brackets represent number of genes and enrichment factor,
+  respectively. Blue bars represent ‘biological processes’, orange bars represent
+  ‘molecular functions’ and green bars represents ‘cellular components’. GO, Gene
+  Ontology; DEGs, differentially expressed genes
+article_title: HIF‑1 and macrophage activation signalling pathways are potential biomarkers
+  of invasive aspergillosis
+citation: Min Wang, et al. Exp Ther Med. 2024 Feb;27(2).
+year: '2024'
+pub_date: 2024-2-
+epub_date: 2024-1-08
+doi: 10.3892/etm.2024.12375
+journal_title: Experimental and Therapeutic Medicine
+journa_nlm_ta: Exp Ther Med
+publisher_name: D.A. Spandidos
+keywords:
+- correlation analysis
+- biomarkers
+- microarray
+- macrophage
+- IA
+- HIF-1
+---

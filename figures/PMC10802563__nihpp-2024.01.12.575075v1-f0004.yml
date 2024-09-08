@@ -1,0 +1,64 @@
+---
+figid: PMC10802563__nihpp-2024.01.12.575075v1-f0004
+pmcid: PMC10802563
+image_filename: PMC10802563__nihpp-2024.01.12.575075v1-f0004.jpg
+figure_link: /pmc/articles/PMC10802563/figure/FFigure 4./
+number: Figure 4.
+figure_title: Heads of phospholipids (PC/PE ratio), but not canonical metabolites
+  involved in DNA (de)methylation reactions, better correlate with DNA hypermethylation
+caption: A) Measurement of metabolites involved in DNA (de)methylation reactions.
+  Mean WT was set as 1 (n = 6). On the y-axis, fold changes (FC) of metabolites relative
+  to WT. On the x-axis, metabolites. B) Heatmap of differentially enriched metabolites
+  (FDR > 0.05) from steady-state untargeted metabolomics grouped by metabolic pathway.
+  Shades of red represent increased metabolite levels (log2FC > 0) and shades of blue
+  decreased metabolite levels (log2FC < 0). C) Oxidized/reduced glutathione (GSSG/GSH)
+  ratio. On the y-axis, GSSG/GSH ratio relative to WT, n = 6, *** p < 0.001. Statistical
+  difference by Student’s t-test. D) GSSG/GSH accessed by Grx1-roGFP probe ratio in
+  the cytosol (cyto, untargeted) and mitochondria (mito, MTS-containing). On the y-axis,
+  GSSG/GSH ratio relative to WT; n = 3, except IF1-KO, n = 4, ** p < 0.01. Statistical
+  difference by Student’s t-test. E) H2O2 release accessed by Amplex® Red. On the
+  y-axis, pmol of H2O2/min/106 cells; n = 3, * p < 0.05. Statistical difference by
+  Student’s t-test. F) Total NADP(H) content. On the y-axis, nmol NADPH or NADP+ per
+  μg protein, black and grey bars, NADPH and NADP+ in WT cells, respectively, red
+  and pink bars, NADPH and NADP+ in IF1-KO cells, respectively (n = 3, ** p < 0.01).
+  Statistical difference by Student’s t-test. G) Heatmap of differentially enriched
+  phospholipids (FDR > 0.05) grouped by head groups. Shades of red represent increased
+  metabolite levels (log2FC > 0) and shades of blue decreased metabolite levels (log2FC
+  < 0). H) PC/PE ratio of paired phospholipids. Four PC/PE pairs (16:0/18:2, 16:0/22:6,
+  18:0/22:6, and 18:2/18:2) found in metabolomics data were pooled and ratios determined
+  for each sample. Mean WT was set as 1. On the y-axis, fold changes (FC) of metabolites
+  relative to WT; n = 5, ** p < 0.01. Statistical difference by One-way ANOVA with
+  Tukey’s post-test. I) Schematic diagram for tracing methyl group using deuterated
+  C5-methionine. Carbon (C) is depicted in white circles, nitrogen (N) in blue, sulfur
+  (S) in yellow, and deuterated methyl group (CD3) in red. Condensation of deuterated
+  C5-methionine with ATP forms deuterated SAM at the methyl-donating position (CD3-SAM).
+  Up to three methyl groups of CD3-SAM are transferred to PE to form PC by PEMT giving
+  rise to +3, +6, or +9 isotopologues. One methyl group of CD3-SAM is transferred
+  to C to form 5meC giving rise to +3 isotopologue. J) Measurement of PC(16:0/16:0)
+  isotopologues. Mean WT was set as 1. On the y-axis, fold changes (FC) of PC(16:0/16:0)
+  relative to WT. On the x-axis, isotopologues (+0, +3, and +6). Black bars FC of
+  PC(16:0/16:0) in WT, red bar, in IF1-KO (n = 3, * p < 0.05, ** p < 0.01, and ***
+  p < 0.001). Statistical difference by Student’s t-test for each isotopologue. K)
+  Percentage (%) of 5meC isotopologues. Total 5meC was set as 100% for each sample
+  and isotopologues +0 and +3 were calculated as % from total. On the y-axis, relative
+  abundance of each isotopologue. On the x-axis, isotopologues (+0 and +3). Black
+  bars FC of 5meC in WT, red bar, in IF1-KO (n = 3, p = 0.0505). Statistical difference
+  by Student’s t-test for each isotopologue
+article_title: Mitochondrial membrane potential regulates nuclear DNA methylation
+  and gene expression through phospholipid remodeling
+citation: Mateus Prates Mori, et al. bioRxiv. 2024 Jan 13;NA(NA).
+year: '2024'
+pub_date: 2024-1-13
+epub_date: 2024-1-13
+doi: 10.1101/2024.01.12.575075
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- Mitochondria
+- mitochondrial membrane potential
+- phospholipid rewiring
+- DNA hypermethylation
+- gene expression
+- epigenome
+---

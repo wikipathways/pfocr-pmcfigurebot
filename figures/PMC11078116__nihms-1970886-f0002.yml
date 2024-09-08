@@ -1,0 +1,33 @@
+---
+figid: PMC11078116__nihms-1970886-f0002
+pmcid: PMC11078116
+image_filename: PMC11078116__nihms-1970886-f0002.jpg
+figure_link: /pmc/articles/PMC11078116/figure/FFigure 2./
+number: Figure 2.
+figure_title: Characterization of gene proliferation phenotypes
+caption: '(A) Left: principal-component analysis (PCA) of all gene disruptions, with
+  a 2D density overlay illustrating the distribution of proliferation-decreasing (blue),
+  neutral (gray), and proliferation-increasing (green) phenotypes and individual gene
+  disruptions (orange) with biological roles in the maintenance of NSCs or human neurodevelopment;
+  see text for details. Right: temporal dynamics captured by PCA shown at 4, 8, and
+  12 cell divisions.(B) Top: histogram of proliferation scores obtained from PCA for
+  gene disruptions (black) and genomic background controls (gray). Bottom: partitioning
+  of all gene disruptions that decrease proliferation into severe (top 25%) and strong
+  (top 50%) categories.(C) Fold enrichment of GO biological processes and risk gene
+  sets within the partitions shown in (B). n.s., not significant. Hypergeometric BH-corrected
+  p values are as follows: *p < 0.05, **p < 0.005, ***p < 0.0005.(D) FGF signaling
+  pathway (Reactome: R-HSA-1226099); see text for details. Genes disrupted within
+  this pathway are shown in black, and a significant subset (BH-corrected p = 2.8
+  × 10−2) results in proliferation phenotypes (red)'
+article_title: Massively parallel disruption of enhancers active in human neural stem
+  cells
+citation: Evan Geller, et al. Cell Rep. 2024 May 2;43(2).
+year: '2024'
+pub_date: 2024-5-2
+epub_date: 2024-1-23
+doi: 10.1016/j.celrep.2024.113693
+journal_title: Cell reports
+journa_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

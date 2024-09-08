@@ -1,0 +1,36 @@
+---
+figid: PMC10854544__animals-14-00406-g004
+pmcid: PMC10854544
+image_filename: PMC10854544__animals-14-00406-g004.jpg
+figure_link: /pmc/articles/PMC10854544/figure/F4/
+number: Figure 4
+figure_title: GSEA enrichment map of each comparison group’s proteome based on KEGG
+  pathway.
+caption: GSEA enrichment map of each comparison group’s proteome based on KEGG pathway.
+  (A) The proteasome hallmark gene set was downregulated in the HP vs. LP muscle comparison.
+  (B) The cAMP signaling pathway hallmark gene set was downregulated in the HP vs.
+  MP muscle comparison. (C,D) The PI3K-AKT signaling pathway and VEGF signaling pathway
+  hallmark gene sets were downregulated in the MP vs. LP muscle comparison. (E) The
+  Calcium signaling pathway hallmark gene set was upregulated in the MP vs. LP muscle
+  comparison. The green broken line indicates the enrichment score (ES) of the protein,
+  and the proteins are sorted from large to small according to FC from left to right.
+  When the ES < 0, the function is enriched at the back end of the protein ranking,
+  indicating low protein expression, and the function is inhibited, but activated
+  vice versa. NES = normalized enrichment score; NOM p-val = nominal p value
+article_title: Proteomic Analysis Reveals the Effects of Different Dietary Protein
+  Levels on Growth and Development of Jersey-Yak
+citation: Guowu Yang, et al. Animals (Basel). 2024 Feb;14(3).
+year: '2024'
+pub_date: 2024-2-
+epub_date: 2024-1-26
+doi: 10.3390/ani14030406
+journal_title: 'Animals : an Open Access Journal from MDPI'
+journa_nlm_ta: Animals (Basel)
+publisher_name: MDPI
+keywords:
+- dietary protein levels
+- Jersey-yak
+- proteomic
+- LL muscle
+- TMT
+---

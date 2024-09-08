@@ -1,0 +1,45 @@
+---
+figid: PMC10402127__nihpp-2023.07.26.550648v2-f0001
+pmcid: PMC10402127
+image_filename: PMC10402127__nihpp-2023.07.26.550648v2-f0001.jpg
+figure_link: /pmc/articles/PMC10402127/figure/FFigure 1./
+number: Figure 1.
+figure_title: Impact of WINi on the transcriptome of MLLr cancer cells
+caption: '(A) Chemical structures of C6 and C16. (B) Crystal structures of C6 or C16
+  bound to the WIN Site of WDR5 with electrostatic surfaces mapped [PDB IDs: 6E23
+  (Aho et al., 2019a); 6UCS (Tian et al., 2020)]. The image shows a close-up view
+  of the WIN site. (C) Superimposed WIN site-binding conformations of C6 (green) and
+  C16 (blue). (D) Transcript levels as determined by QuantiGene™ analysis of representative
+  WDR5-bound (color) or non-bound (grayscale) ribosomal protein genes in MV4;11 cells
+  treated with a serial dilution range of either C6 (left) or C16 (right) and relative
+  to DMSO-treated cells (n = 2–3; Mean ±SEM). Vertical dashed line indicates either
+  2 μM C6 (left) or 100 nM C16 (right). (E) Number of genes with significantly (FDR
+  < 0.05) altered transcript levels following treatment of MV4;11 cells with C6 (2
+  μM) or C16 (100 nM) for 48 hours, as determined by RNA-Seq (n = 3). See Figure 1—source
+  data 1 for complete output of RNA-Seq analysis. (F) Comparison of gene expression
+  changes elicited by C6 (x-axis) and C16 (y-axis), represented as Log2 fold change
+  (FC) compared to DMSO. WDR5-bound genes are colored red. Locations of RPL22L1 and
+  ZMAT3 are indicated. (G) Overlap of genes with decreased (left) or increased (right)
+  transcript levels in MV4;11 cells treated with C6 or C16. (H) Gene Set Enrichment
+  Analysis (GSEA) showing the distribution of genes suppressed in MV4;11 cells in
+  response to C6 (left) or C16 (right) against the list of all genes bound by WDR5
+  in those cells (Aho et al., 2019a). NES = normalized enrichment score. (I) Enrichment
+  analysis of genes suppressed (left) or induced (right) by C6 or C16 in MV4;11 cells.
+  KEGG and Hallmark.MSigDB pathways are shown. Fold enrichment of indicated pathways
+  is presented on the x-axis, the number of genes is shown in italics in each bar,
+  and colors represent −Log10 FDR. See Figure 1—source data 2 for additional GSEA
+  (Hallmark) and ORA (Hallmark) analyses of differentially expressed genes. (J) Transcript
+  level changes in WDR5-bound (left) and non-bound (right) RPGs elicited by C6 (top)
+  or C16 (bottom)'
+article_title: Ribosome subunit attrition and activation of the p53–MDM4 axis dominate
+  the response of MLL-rearranged cancer cells to WDR5 WIN site inhibition
+citation: Gregory C. Howard, et al. bioRxiv. 2024 Jan 10;NA(NA).
+year: '2024'
+pub_date: 2024-1-10
+epub_date: 2024-1-10
+doi: 10.1101/2023.07.26.550648
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

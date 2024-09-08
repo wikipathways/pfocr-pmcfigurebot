@@ -1,0 +1,43 @@
+---
+figid: PMC10849765__jci-134-173299-g126
+pmcid: PMC10849765
+image_filename: PMC10849765__jci-134-173299-g126.jpg
+figure_link: /pmc/articles/PMC10849765/figure/F5/
+number: Figure 5
+figure_title: AEP promotes oncogenic splicing of widespread pre-mRNAs via tDDX3X-C
+caption: '(A and B) GSEA of the expression profile of the NOD-like signaling pathway
+  and Toll-like receptor signaling pathway in U87-MG cells (AEP KD or AEP KD/tDDX3X-C
+  res). (C) Heatmap for gene sets of the Toll-like signaling pathway and the NOD-like
+  signaling pathway regulated by AEP/tDDX3X-C. (D) Summary of differential splicing
+  analysis performed using U87-MG cells in the following groups: NC, AEP KD, and AEP
+  KD/tDDX3X-C res. The numbers of identified AS events in each category upon AEP/tDDX3X-C
+  regulation are indicated. (E) Pie charts showing the percentages of changed AS events
+  identified in U87-MG cells (left); pie charts representing the distribution of AEP/tDDX3X-C-regulated
+  splicing events among different splicing profiles (right). (F) Representative heatmap
+  for changed AS events from skipped exons (SEs) positively regulated by AEP/tDDX3X.
+  (G) RNA-Seq results of alternative sites in the indicated genes using IGV software
+  analysis. (H) PCR and AGE analyses for PRDM2 exon 2 and ARRB1 exon 13 regulated
+  by AEP/tDDX3X-C in U87-MG and MDA-MB-231 cells. The middle panels show schematic
+  diagrams of the indicated AS exons. Right panels show the quantification of percent
+  spliced in (PSI). (I) PCR and AGE analyses for PRDM2 exon 2 and ARRB1 exon 13 in
+  U87-MG and MDA-MB-231 cells with or without hypoxia and nutrient deprivation stimulus
+  for 4 hours. (J) RNA-IP results of U87-MG and MDA-MB-231 cells (Flagged-tDDX3X-C
+  OE) with or without hypoxia and nutrient deprivation stimulus for 4 hours. Data
+  were plotted as the mean ± SEM. Statistical analysis was performed using 1-way ANOVA
+  followed by Tukey’s multiple comparisons test (H), paired t test (I), and unpaired
+  t test (J). *P < 0.05, **P < 0.01, *** P < 0.001, ****P < 0.0001. Data shown are
+  representative of 3 independent experiments'
+article_title: AEP-cleaved DDX3X induces alternative RNA splicing events to mediate
+  cancer cell adaptation in harsh microenvironments
+citation: Wenrui Zhang, et al. J Clin Invest. 2024 Feb 1;134(3).
+year: '2024'
+pub_date: 2024-2-1
+epub_date: 2024-2-1
+doi: 10.1172/JCI173299
+journal_title: The Journal of Clinical Investigation
+journa_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Oncology
+- Proteases
+---

@@ -1,0 +1,33 @@
+---
+figid: PMC11024688__cpn-22-2-295-f3
+pmcid: PMC11024688
+image_filename: PMC11024688__cpn-22-2-295-f3.jpg
+figure_link: /pmc/articles/PMC11024688/figure/F3/
+number: Fig. 3
+figure_title: Visualization of PathfindR analysis, gene-concept network, and Kyoto
+  Encyclopedia of Genes and Genomes (KEGG) pathways from differentially methylated
+  regions (DMRs) between the two groups in female.
+caption: Visualization of PathfindR analysis, gene-concept network, and Kyoto Encyclopedia
+  of Genes and Genomes (KEGG) pathways from differentially methylated regions (DMRs)
+  between the two groups in female. (A) Heatmap of the enriched PathfindR terms. A
+  total of 30 terms were retrieved, and the average cytosine phosphate guanine (CpG)
+  methylation levels of each term is listed by a color scale. (B) Upset plot indicating
+  the methylation patterns of 12 genes with 10 associated terms. (C) Network of the
+  enriched terms and genes. The five nodes are the enriched terms, and the linked
+  genes are connected as spokes. (D) The top 20 enriched KEGG pathways for DMRs
+article_title: 'Epigenome-wide Association Study for Tic Disorders in Children: A
+  Preliminary Study in Korean Population'
+citation: Young Kyung Ko, et al. Clin Psychopharmacol Neurosci. 2024 May 31;22(2).
+year: '2024'
+pub_date: 2024-5-31
+epub_date: 2024-1-10
+doi: 10.9758/cpn.23.1099
+journal_title: Clinical Psychopharmacology and Neuroscience
+journa_nlm_ta: Clin Psychopharmacol Neurosci
+publisher_name: Korean College of Neuropsychopharmacology
+keywords:
+- Tic disorder
+- DNA methylation
+- EWAS
+- YGTSS
+---

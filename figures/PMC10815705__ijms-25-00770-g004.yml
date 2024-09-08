@@ -1,0 +1,44 @@
+---
+figid: PMC10815705__ijms-25-00770-g004
+pmcid: PMC10815705
+image_filename: PMC10815705__ijms-25-00770-g004.jpg
+figure_link: /pmc/articles/PMC10815705/figure/F4/
+number: Figure 4
+figure_title: Characterization of REV-ERBα-regulated differentially expressed genes
+  (DEGs).
+caption: 'Characterization of REV-ERBα-regulated differentially expressed genes (DEGs).
+  (A) Venn diagrams showing the number of RNA species significantly upregulated or
+  downregulated in both NR1D1-mutant (N1KO) and NR1D1/2-double-mutant (NDKO) cells
+  but showing modest changes (<1.3-fold) in NR1D2-mutant (N2KO) cells. (B) A heat
+  map representation for the top 20 upregulated and 20 downregulated genes identified
+  as the REV-ERBα-regulated NDKO DEGs. (C,D) Pathway enrichment analyses for the REV-ERBα-dependently
+  upregulated (C) and downregulated NDKO DEGs (D). The top significantly enriched
+  terms were assessed using gene sets from the “KEGG Pathway” database. Overlapping
+  p values and % overlapping for the given pathway term are summarized as color-coded
+  bar charts. (E) Top 10 upstream transcriptional factors (TFs) enriched for the upregulated
+  REV-ERBα-regulated NDKO DEGs, as suggested by the “TRRUST TFs” gene list in the
+  ENRICHR. Overlapping p values and % overlapping for the given transcriptional regulator
+  are presented as a color-coded bar chart. (F) Relative expression profiles for the
+  representative DEGs constituting the NF-κΒ signaling pathway or suggested as transcriptional
+  target genes of the NF-κΒ complex. mRNA expression levels for a given RNA species
+  were calculated from the transcripts per million (TPM) values of individual cells
+  and expressed as the mean ± SEM of an arbitrary unit (A.U.), in which a mean expression
+  level of wild-type (WT) controls is set as 1 (n = 4 for each group; *: p < 0.05
+  and **: p < 0.01 vs. WT cells using Student’s t-test)'
+article_title: Functional Characterization of Circadian Nuclear Receptors REV-ERBα
+  and REV-ERBβ in Human Osteosarcoma Cell Cultures
+citation: Hana Cho, et al. Int J Mol Sci. 2024 Jan;25(2).
+year: '2024'
+pub_date: 2024-1-
+epub_date: 2024-1-07
+doi: 10.3390/ijms25020770
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- circadian clock
+- circadian rhythm
+- REV-ERBs
+- U2OS cell
+- transcriptome
+---

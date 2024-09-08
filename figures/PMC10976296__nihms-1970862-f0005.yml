@@ -1,0 +1,55 @@
+---
+figid: PMC10976296__nihms-1970862-f0005
+pmcid: PMC10976296
+image_filename: PMC10976296__nihms-1970862-f0005.jpg
+figure_link: /pmc/articles/PMC10976296/figure/FFigure 4./
+number: Figure 4.
+figure_title: Activation of synaptic NMDARs is insufficient to trigger the Notch EV
+  signaling pathway in Alix−/− neurons
+caption: '(A) Top, representative fluorescent detection of Mg2+-free glycine-induced
+  EVs from neurons with indicated genotypes. Scale bar, 10 μm. Bottom, quantification
+  of Mg2+-free glycine-induced neuronal EVs immunocaptured from indicated neuron genotypes.
+  n = 3 biological replicates (BR). Each chip contains three technical replicates.
+  One-tailed Student’s t test. ***p value (Alix+/+ vs. Alix+/−) = 7.821-E07, ***p
+  value (Alix+/+ vs. Alix−/−) = 3.143-E15, **p value (Alix+/− vs. Alix−/−) = 0.0060.(B)
+  Left, WB analysis showing Mg2+-free glycine stimulation failed to induce EV release
+  in Alix−/− hippocampal neurons. Right, silver-stained gel indicating the total amount
+  of protein recovered across the 10 size exclusion fractions.(C) WB analysis showing
+  Mg2+-free glycine stimulation failed to upregulate the level of activated Notch1,
+  activated Notch2, and Hes1in Alix−/− hippocampal neurons.(D) Quantification of (C).
+  n = 3 biological replicates. One-tailed Student’s t test. NS, not significant. Activated
+  Notch1: p value = 0.3598. Activated Notch2: p value = 0.2162. Hes1: p value = 0.2737.(E)
+  WB analysis showing Mg2+-free glycine stimulation elevated the levels of activated
+  Notch1, activated Notch2, and Hes1in Alix+/+ but not Alix−/− hippocampal neurons
+  from littermates.(F) Quantification of (E). n = 4 cultures each genotype. One-tailed
+  Student’s t test. Activated-Notch1: *p value = 0.0128. Activated Notch2: ***p value
+  = 0.0007. Hes1, ***p value = 0.0004.(G) Mg2+-free glycine stimulation leads to Alix
+  phosphorylation, which can be inhibited by PKA inhibitor H89. p-S/T, phosphorylated
+  serine or threonine. Stau, staurosporine.(H) Quantification of (G). n = 4 biological
+  replicates. One-tailed Student’s t test. NS, not significant. ***p value (Veh+DMSO
+  vs. Gly+DMSO) = 1.050E-07, p value (Veh+DMSO vs. Gly+H89) = 0.1624, ***p value (Gly+DMSO
+  vs. Gly+H89) = 2.443E-07, p value (Gly+DMSO vs. Gly+Stau) = 0.3850.(I) Representative
+  MS2 spectra indicating Alix phosphorylation at S717 from rat hippocampal neuron
+  whole-cell extracts treated with Mg2+-free glycine. Assigned fragment ions are indicated
+  in b (blue) and y (red), and those containing phosphorylated serine 717 are labeled.(J)
+  AlphaFold 2-predicted 3D protein structures of rat Alix, indicating the position
+  of S717.(K) Overexpression of mCherry-Alix or mCherry-Alix-S717D rescues Mg2+-free
+  glycine-induced EV release from Alix−/− neurons. Scale bar, 10 μm.(L) Quantification
+  of (K). n = 4–7 biological replicates. Each chip contains three technical replicates.
+  One-tailed Student’s t test. NS, not significant. ***p value (mCherry vs. mCherry-Alix)
+  = 4.249E-06, p value (mCherry vs. mCherry-Alix-S717A) = 0.2110, ***p value (mCherry
+  vs. mCherry-Alix-S717D) = 6.004E-13, ***p value (mCherry-Alix vs. mCherry-Alix-S717A)
+  = 5.468E-10, p value (mCherry-Alix vs. mCherry-Alix-S717D) = 0.1312. See also Figures
+  S4 and S5 and Table S3'
+article_title: Notch receptor-ligand binding facilitates extracellular vesicle-mediated
+  neuron-to-neuron communication
+citation: Yi-Zhi Wang, et al. Cell Rep. 2024 Mar 15;43(2).
+year: '2024'
+pub_date: 2024-3-15
+epub_date: 2024-1-18
+doi: 10.1016/j.celrep.2024.113680
+journal_title: Cell reports
+journa_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

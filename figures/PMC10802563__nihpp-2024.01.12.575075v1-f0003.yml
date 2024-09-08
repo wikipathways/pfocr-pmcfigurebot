@@ -1,0 +1,54 @@
+---
+figid: PMC10802563__nihpp-2024.01.12.575075v1-f0003
+pmcid: PMC10802563
+image_filename: PMC10802563__nihpp-2024.01.12.575075v1-f0003.jpg
+figure_link: /pmc/articles/PMC10802563/figure/FFigure 3./
+number: Figure 3.
+figure_title: Nuclear DNA is hypermethylated in IF1-KO cells regulating a mitochondrial
+  gene expression program
+caption: 'A) Heatmap of commonly differentially methylated and expressed genes (DMEGs).
+  The color scheme is presented as a log2 fold change (log2FC). Shades of red represent
+  upregulated and hypermethylated genes (log2FC > 0) and shades of blue represent
+  downregulated and hypomethylated genes (log2FC < 0). Left track (mRNA) is gene expression
+  from RNA-seq and right track (5meC) is IF1-KO UCP4 vs. IF1-KO. DMEGs were grouped
+  in 4 clusters based on promoter methylation and gene expression change, respectively:
+  1) hypermethylated and upregulated, 2) hypermethylated and downregulated, 3) hypomethylated
+  and upregulated, and 4) hypomethylated and downregulated. B and C) GO analysis of
+  DMEG of clusters 2 and 3, respectively. −Log10 FDR values on the y-axis, and combined
+  score on the x-axis. D-F) Bar graph of ΔΨM as measured by ΔΨM-dependent dye TMRE
+  normalized to the ΔΨM-independent dye MTG. Y axis depicts the TMRE/MTG ratio, black
+  bar ΔΨM in WT cells, and red bar, ΔΨM in IF1-KO cells. D) Red-bordered bar, ΔΨM
+  in IF1-KO cells treated for 3 days with DNP 25 μM. E) Blue bar, ΔΨM in IF1-RSC cells.
+  F) Light blue bar, ΔΨM in IF1-KO UCP4 expressing cells. Statistical difference by
+  One-way ANOVA with Tukey’s post-test. G) Violin plot showing DNA methylation status
+  across the entire genome in all 4 genotypes; the Y-axis depicts probe values; white
+  lines indicate the median and dotted lines the quartiles. Numerical values below
+  the violin plot are the median for each genotype. H) Heatmap of DMEGs in clusters
+  2 and 3 from A. The color scheme is presented as average delta beta (AVGΔbeta, see
+  methods). Shades of red represent hypermethylated genes (AVGΔbeta > 0) and shades
+  of blue represent hypomethylated genes (AVGΔbeta < 0). The left track (KO) is IF1-KO
+  vs. WT, the middle track (RSC) is IF1-RSC vs. IF1-KO, and the right track (UCP4)
+  is IF1-KO UCP4 vs. IF1-KO. I) Heatmap of representative pathways as in Fig. 2H.
+  KO is IF1-KO vs. WT, and UCP4 is IF1-KO UCP4 vs. IF1-KO. J) Heatmap of biological
+  processes (as per Gene Ontology analysis) of mitochondrial genes from DMEG of each
+  paired comparison. The color scheme is presented False Discovery Rate (FDR). Left
+  track (KO) is IF1-KO vs. WT, middle track (RSC) is IF1-RSC vs. IF1-KO, and right
+  track (UCP4) is IF1-KO UCP4 vs. IF1-KO'
+article_title: Mitochondrial membrane potential regulates nuclear DNA methylation
+  and gene expression through phospholipid remodeling
+citation: Mateus Prates Mori, et al. bioRxiv. 2024 Jan 13;NA(NA).
+year: '2024'
+pub_date: 2024-1-13
+epub_date: 2024-1-13
+doi: 10.1101/2024.01.12.575075
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- Mitochondria
+- mitochondrial membrane potential
+- phospholipid rewiring
+- DNA hypermethylation
+- gene expression
+- epigenome
+---

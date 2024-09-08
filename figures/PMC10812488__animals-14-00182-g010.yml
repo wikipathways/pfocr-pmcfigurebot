@@ -1,0 +1,38 @@
+---
+figid: PMC10812488__animals-14-00182-g010
+pmcid: PMC10812488
+image_filename: PMC10812488__animals-14-00182-g010.jpg
+figure_link: /pmc/articles/PMC10812488/figure/F10/
+number: Figure 10
+figure_title: GO and KEGG enrichment analyses of the differentially expressed genes.
+caption: 'GO and KEGG enrichment analyses of the differentially expressed genes. The
+  number on the top of the bar indicates the number of genes enriched in the GO term,
+  the horizontal coordinate indicates the GO term, the rectangle on the GO term indicates
+  CC, the circle indicates MF, and the absence of markers indicates BP. The vertical
+  coordinate indicates the enrichment factor: the ratio of the number of genes enriched
+  in the GO term to the number of annotated genes; the larger the enrichment factor,
+  the greater the degree of enrichment (a). The number on the top of the bar indicates
+  the number of genes enriched in the KEGG pathway, the abscissa represents the KEGG
+  pathway, and the ordinate represents the enrichment factor (b). The color gradient
+  indicates the significance of enrichment, where p-adjust < 0.01 is marked as **,
+  p-adjust < 0.05 is marked as *, and 0.05 < p-adjust < 0.1 is marked as the p-adjust
+  value'
+article_title: Effects of Sophora alopecuroides in a High-Concentrate Diet on the
+  Liver Immunity and Antioxidant Function of Lambs According to Transcriptome Analysis
+citation: Yawen An, et al. Animals (Basel). 2024 Jan;14(2).
+year: '2024'
+pub_date: 2024-1-
+epub_date: 2024-1-05
+doi: 10.3390/ani14020182
+journal_title: 'Animals : an Open Access Journal from MDPI'
+journa_nlm_ta: Animals (Basel)
+publisher_name: MDPI
+keywords:
+- lamb
+- liver
+- immunization
+- antioxidant
+- LPS
+- inflammation
+- transcriptome
+---

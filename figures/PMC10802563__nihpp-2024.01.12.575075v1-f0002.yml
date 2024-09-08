@@ -1,0 +1,47 @@
+---
+figid: PMC10802563__nihpp-2024.01.12.575075v1-f0002
+pmcid: PMC10802563
+image_filename: PMC10802563__nihpp-2024.01.12.575075v1-f0002.jpg
+figure_link: /pmc/articles/PMC10802563/figure/FFigure 2./
+number: Figure 2.
+figure_title: IF1-KO cells with increased ΔΨM engage in a transcriptional feedback
+  loop repressing mitochondrial genetic program
+caption: 'A) Heatmap of differentially expressed genes (DEGs) in IF1-KO vs. WT (False
+  Discovery Rate, FDR < 0.05). The color scheme is presented as a log2 fold change
+  (log2FC). Shades of red represent upregulated genes (log2FC > 0) and shades of blue
+  represent downregulated genes (log2FC < 0). B) Gene Ontology (GO) analysis of DEGs
+  in IF1-KO vs. WT cells. −Log10 FDR values on the y-axis, and combined score on the
+  x-axis. In bigger blue circles, significantly enriched pathways (FDR < 0.05) related
+  to mitochondria. In smaller translucid blue and grey circles, other significantly
+  enriched pathways (FDR < 0.05) and non-significant pathways (FDR > 0.05), respectively.
+  C) Structural depiction of individual complexes of the electron transport chain
+  and mitochondrial ribosomes. The number of DEGs associated with these broad complexes
+  and their transcriptional directionality are also depicted. D) Functional Annotation
+  Clustering of common DEGs reciprocally changed in the inverse direction between
+  IF1-KO vs. WT and IF1-RSC vs. IF1-KO. Keywords and terms found in each cluster are
+  shown on the y-axis and the Enrichment score is on the x-axis. E) Venn diagrams
+  shown the intersection between reciprocally regulated DEGs in IF1-KO vs. WT and
+  IF1-RSC vs IF1-KO. Upper circles: upregulated DEGs based on IF1-KO vs. WT comparison,
+  lower circles represent the downregulated counterparts. F and G) GO analysis of
+  reciprocally regulated DEGs in IF1-KO cells, as depicted and described in B. H)
+  Heatmap of representative pathways reversed in IF1-RSC vs. IF1-KO as identified
+  by GO analysis. Color scheme as described in A. KO is IF1-KO vs. WT, and RSC is
+  IF1-RSC vs. IF1-KO'
+article_title: Mitochondrial membrane potential regulates nuclear DNA methylation
+  and gene expression through phospholipid remodeling
+citation: Mateus Prates Mori, et al. bioRxiv. 2024 Jan 13;NA(NA).
+year: '2024'
+pub_date: 2024-1-13
+epub_date: 2024-1-13
+doi: 10.1101/2024.01.12.575075
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- Mitochondria
+- mitochondrial membrane potential
+- phospholipid rewiring
+- DNA hypermethylation
+- gene expression
+- epigenome
+---

@@ -1,0 +1,38 @@
+---
+figid: PMC10802571__nihpp-2024.01.12.575290v1-f0007
+pmcid: PMC10802571
+image_filename: PMC10802571__nihpp-2024.01.12.575290v1-f0007.jpg
+figure_link: /pmc/articles/PMC10802571/figure/FFIGURE 7./
+number: FIGURE 7.
+figure_title: Transcriptomic changes in mice placed on dietary folate restriction
+  late in life point to reduced protein synthesis in both sexes
+caption: (A) Steady-state levels of mRNAs from liver tissue collected at 120 weeks
+  of age were measured by RNAseq. Changes in the indicated pairwise comparisons were
+  identified from the magnitude of the difference (x-axis; Log2-fold change) and statistical
+  significance (y-axis; based on robust bootstrap ANOVA tests), as indicated by the
+  red lines (see Materials and Methods). The number of transcripts whose levels changed
+  within these thresholds is shown in each case. (B) Transcript enrichment analysis
+  based on the PANTHER platform (Ashburner et al., 2000; Gene Ontology Consortium
+  et al., 2023; Thomas et al., 2022) for male mice from the data in (A), for transcripts
+  present at significantly lower levels under folate-limitation (p<0.05 and >1.5-fold
+  change) that could be assigned to a specific gene ID (n=165). The corresponding
+  biological processes are on the y-axis, and the p values are on the x-axis. The
+  size of each bubble on the chart reflects the relative number of ‘hit’ transcripts
+  in each process. The color of each bubble reflects the enrichment ratio, which is
+  the number of hits within a process divided by the expected number of hits. Only
+  pathways with enrichment >2 and FDR values <0.05 are shown. (C) Transcript enrichment
+  analysis for female mice from the data in (A), for transcripts present at significantly
+  lower levels under folate-limitation (p<0.05 and >1.5-fold change) that could be
+  assigned to a specific gene ID (n=490). The plots were drawn as in (B)
+article_title: Late-life dietary folate restriction reduces biosynthetic processes
+  without compromising healthspan in mice
+citation: Heidi M. Blank, et al. bioRxiv. 2024 Jan 12;NA(NA).
+year: '2024'
+pub_date: 2024-1-12
+epub_date: 2024-1-12
+doi: 10.1101/2024.01.12.575290
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---
