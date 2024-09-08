@@ -67,7 +67,9 @@ log_message <- function(message, log_file = "figure_fetch.log") {
 }
 
 # Initialize counters
-total_figures_passed <- 0
+total_figures_screened <- 0
+total_pathway_figures <- 0
+figures_previously_processed <- 0
 new_figures_downloaded <- 0
 
 # Read config file
@@ -105,7 +107,7 @@ prepare_date_range <- function(config) {
 }
 
 # Function to split XML content at the end of article nodes and significantly
-# reduce bloat by removing <body> and <back> content
+# reduce bloat by removing <back> content
 safe_read_xml <- function(xml_content) {
   
   # Split the content into individual articles and remove scraps at the end
@@ -120,9 +122,9 @@ safe_read_xml <- function(xml_content) {
       article <- paste0(article, "</article>")
       article <- sub("<pmc-articleset>", "", article)
       
-      # Read each article and remove <body> and <back> sections
+      # Read each article and remove <back> sections
       doc <- read_xml(article)
-      xml_remove(xml_find_all(doc, "//body | //back"))
+      xml_remove(xml_find_all(doc, "//back"))
   
       return(doc)
     }, error = function(e) {
@@ -258,6 +260,10 @@ extract_figures <- function(xml_content, exfigids) {
     
     # Extract figures for this article
     figs <- xml_find_all(article, ".//fig")
+    fig_count <- length(figs)
+    
+    # Add to total count
+    total_figures_screened <- total_figures_screened + fig_count
     
     # Process each figure in this article
     for (fig in figs) {
@@ -265,6 +271,9 @@ extract_figures <- function(xml_content, exfigids) {
       # Confirm keyword in caption
       caption <- xml_text(xml_find_first(fig, ".//caption"))
       if (grepl("pathway", caption, ignore.case = TRUE)) {
+        
+        # Increment pathway figure count
+        total_pathway_figures <- total_pathway_figures + 1
         
         # Extract label and figure title
         label <- xml_text(xml_find_first(fig, ".//label"))
@@ -274,31 +283,44 @@ extract_figures <- function(xml_content, exfigids) {
         # Clean figure title
         if (!is.na(figure_title) && nchar(trimws(figure_title)) > 6) {
           # Remove label from the start of figure_title if present
-          figure_title <- str_remove(fixed(figure_title), paste0("^", label))
+          if (!is.na(label)){
+            if (startsWith(figure_title, label)) {
+              figure_title <- substr(figure_title, nchar(label) + 1, nchar(figure_title))
+            }
+          }
+          # Remove leading/trailing periods or spaces
+          figure_title <- trimws(figure_title, whitespace = "[\\s\\.]+")
           
-          # Remove leading/trailing periods or spaces, and replace double periods
-          figure_title <- figure_title %>%
-            str_trim() %>%
-            str_remove("^\\s*\\.+\\s*") %>%
-            str_remove("\\s*\\.+\\s*$") %>%
-            str_replace_all("\\.{2,}", ".")
+          # Replace double periods with single period
+          while (grepl("\\.\\.", figure_title)) {
+            figure_title <- gsub("\\.\\.", ".", figure_title)
+          }
         }
         
         # Clean caption
         if (!is.na(caption) && nchar(trimws(caption)) > 6) {
           # Remove label from the start of caption if present
-          caption <- str_remove(fixed(caption), paste0("^", label))
-          
+          if (!is.na(label)){
+            if (startsWith(caption, label)) {
+              caption <- substr(caption, nchar(label) + 1, nchar(caption))
+            }
+          }
           # Remove figure title from the start of caption if present
-          caption <- str_remove(fixed(caption), paste0("^", og_figure_title))
+          if (!is.na(og_figure_title)){
+            if (startsWith(caption, og_figure_title)) {
+              caption <- substr(caption, nchar(og_figure_title) + 1, nchar(caption))
+            }
+          }
           
-          # Remove leading periods or spaces, and replace double periods
-          caption <- caption %>%
-            str_trim() %>%
-            str_remove("^\\s*\\.+\\s*") %>%
-            str_replace_all("\\.{2,}", ".")
+          # Remove leading/trailing periods or spaces
+          caption <- trimws(caption, whitespace = "[\\s\\.]+")
+          
+          # Replace double periods with single period
+          while (grepl("\\.\\.", caption)) {
+            caption <- gsub("\\.\\.", ".", caption)
+          }
         }
-        
+          
         # Use first sentence of caption or article_title if 
         # figure_title is NA, empty, or too short
         if (is.na(figure_title) || nchar(trimws(figure_title)) < 7) {
@@ -333,7 +355,8 @@ extract_figures <- function(xml_content, exfigids) {
         
         # Check if this figure has already been processed
         if (figid %in% exfigids){
-          sprintf("Skipping %s\n", figid)
+          sprintf("Previoulsy processed figure. Skipping %s\n", figid)
+          figures_previously_processed <- figures_previously_processed + 1
           next
         }
         
@@ -368,8 +391,10 @@ extract_figures <- function(xml_content, exfigids) {
     }
   }
   
-  log_message(paste("Extracted", length(all_results), "figures from XML content"))
-  total_figures_passed <<- length(all_results)
+  log_message(paste("Extracted", length(total_figures_screened), "figures from XML content."))
+  log_message(paste("Identified", length(total_pathway_figures), "pathway figures."))
+  log_message(paste("Skipped", length(figures_previously_processed), "figures previously processed."))
+  log_message(paste("Processed", length(all_results), "pathway figures for download."))
   return(all_results)
 }
 
@@ -475,6 +500,7 @@ process_figures <- function(figures, exfigids, config, output_dir = "figures", m
     # Respect rate limits
     Sys.sleep(0.5)  # Wait a half second between requests
   }
+  log_message(paste("New pathway figures downloaded:", new_figures_downloaded))
 }
 
 # Main execution
@@ -493,10 +519,6 @@ if (!is.null(date_range)) {
   # Update config
   config$last_run <- date_range[[2]]
   yaml::write_yaml(config, "query_config.yml")
-
-  # Log summary
-  log_message(paste("Total pathway figures found:", total_figures_passed))
-  log_message(paste("New pathway figures downloaded:", new_figures_downloaded))
 } else {
   log_message("Unable to proceed due to invalid date range")
 }
