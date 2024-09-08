@@ -92,9 +92,11 @@ prepare_date_range <- function(config) {
     last_run_date <- ymd(config$last_run)
     current_date <- Sys.Date()
     
-    if (last_run_date > current_date) {
-      log_message("Neither date_range nor last_run indicate a valid date range.")
-      return(NULL)
+    if (last_run_date %m+% months(2) > current_date) {
+      log_message("Final stretch, then deactivating cycle.")
+      start_date <- format(last_run_date, "%Y/%m/%d")
+      end_date <- format("3000/01/01")
+      return(list(start_date, end_date))
     } else {
       start_date <- format(last_run_date, "%Y/%m/%d")
       end_date <- format(last_run_date %m+% months(1), "%Y/%m/%d")
