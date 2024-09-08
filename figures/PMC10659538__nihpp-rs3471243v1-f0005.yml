@@ -1,0 +1,42 @@
+---
+figid: PMC10659538__nihpp-rs3471243v1-f0005
+pmcid: PMC10659538
+image_filename: PMC10659538__nihpp-rs3471243v1-f0005.jpg
+figure_link: /pmc/articles/PMC10659538/figure/FFigure 5:/
+number: 'Figure 5:'
+figure_title: Knockdown of SMAD1 and SMAD5 perturbs decidualization in endometrial
+  stromal cells
+caption: A) Volcano plot showing the expression of differentially expressed genes
+  in siCTL + EPC vs. siSMAD1/5 + EPC treated endometrial stromal cells (using a cutoff
+  of Log 2 FC >0.30, < −0.30, FDR < 0.05). Blue indicates genes that are down-regulated
+  in siSMAD1/5 + EPC vs. siCTL + EPC, red indicates genes that are increased. (n=1
+  individual without endometriosis). B) Dot plot showing the enrichment of genes in
+  key signaling pathways after SMAD1/5 knockdown. C) Heatmap showing the expression
+  and functional classification of key genes following SMAD1/5 knockdown + EPC versus
+  siCTL + EPC treatment (n=3 individuals without endometriosis). D) Binding and expression
+  target analysis (BETA) was used to integrate SMAD4 binding peaks with the transcriptional
+  changes after SMAD1/5 knockdown in EPC-treated endometrial stromal cells. Dotplot
+  displays the gene ontology classification of genes that were activated by SMAD1/5
+  (i.e., were downregulated by SMAD1/5 and have a SMAD4 binding site). E) Motif analysis
+  was performed on the group genes identified to be SMAD1/5/4 direct targets and displayed
+  as “uptargets” (genes that were increased after SMAD1/5 knockdown and had a SMAD4
+  peak) or as “downtargets” (genes that were downregulated after SMAD1/5 knockdown
+  and had a SMAD4 peak)
+article_title: Impaired bone morphogenetic protein (BMP) signaling pathways disrupt
+  decidualization in endometriosis
+citation: Diana Monsivais, et al. Res Sq. 2023 Nov 09;NA(NA).
+year: '2023'
+pub_date: '2023-11-09'
+epub_date: '2023-11-09'
+doi: 10.21203/rs.3.rs-3471243/v1
+journal_title: Research Square
+journa_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords:
+- transforming growth factor β (TGFβ)
+- bone morphogenetic protein (BMP)
+- decidualization
+- endometriosis
+- endometrium
+- organoids
+---

@@ -1,0 +1,41 @@
+---
+figid: PMC10670634__cancers-15-05454-g005
+pmcid: PMC10670634
+image_filename: PMC10670634__cancers-15-05454-g005.jpg
+figure_link: /pmc/articles/PMC10670634/figure/F5/
+number: Figure 5
+figure_title: NCBP2 upregulates c-JUN to activate MEK/ERK signaling in a m7G-dependent
+  manner.
+caption: NCBP2 upregulates c-JUN to activate MEK/ERK signaling in a m7G-dependent
+  manner. (A) KEGG analysis of RNA-seq data in PDAC patients with high or low NCBP2
+  expression from TCGA cohort. (B) The GSEA enrichment plot of “MAPK signaling pathway”
+  in PDAC patients with high or low NCBP2 expression from TCGA cohort. (C) Immunoblotting
+  for protein levels of total JNK/phosphorylated JNK (Thr183/Tyr185), total p38/phosphorylated
+  p38 (Thr180/Tyr182), and total ERK/phosphorylated ERK (Thr202/Tyr204) in control
+  and NCBP2-knockdown PDAC cells. Tubulin was used as the internal control. (D) Immunoblotting
+  for protein levels of total/phosphorylated MEK and total/phosphorylated ERK (Thr202/Tyr204)
+  in control and c-JUN-knockdown Panc 05.04 and PANC-1 cells. Tubulin was used as
+  the internal control. (E) The mRNA expression levels of NCBP2 and c-JUN in control
+  and NCBP2-knockdown Panc 05.04 and PANC-1 cells. (F) Immunoblotting for protein
+  levels of NCBP2 and c-JUN in control and NCBP2-knockdown Panc 05.04 and PANC-1 cells.
+  Tubulin was used as the internal control. (G) Polysome profiling results of the
+  control and NCBP2-knockdown Panc 05.04 and PANC-1 cells. (H) Gene-specific m7G qPCR
+  results for the m7G methylation levels of c-JUN in PANC 05.04 and PANC-1 cells,
+  *** p < 0.001
+article_title: The m7G Reader NCBP2 Promotes Pancreatic Cancer Progression by Upregulating
+  MAPK/ERK Signaling
+citation: Jiancong Xie, et al. Cancers (Basel). 2023 Nov;15(22).
+year: '2023'
+pub_date: 2023-11-
+epub_date: '2023-11-17'
+doi: 10.3390/cancers15225454
+journal_title: Cancers
+journa_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+keywords:
+- m7G methylation
+- NCBP2
+- MEK/ERK
+- c-JUN
+- pancreatic adenocarcinoma
+---

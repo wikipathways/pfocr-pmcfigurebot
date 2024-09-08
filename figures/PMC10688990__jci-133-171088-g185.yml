@@ -1,0 +1,39 @@
+---
+figid: PMC10688990__jci-133-171088-g185
+pmcid: PMC10688990
+image_filename: PMC10688990__jci-133-171088-g185.jpg
+figure_link: /pmc/articles/PMC10688990/figure/F4/
+number: Figure 4
+figure_title: Metabolically active TREM2 macrophages express genes in association
+  with giant cells
+caption: '(A) UMAP plots for all skin scRNA-Seq data (5 healthy subjects and 3 patients)
+  showing macrophage subsets. (B) An abundance of each macrophage subset in all skin
+  scRNA-Seq data (5 healthy subjects and 3 patients). Šídák’s multiple-comparisons
+  test was conducted between the healthy and sarcoidosis samples for each subset.
+  *P < 0.05. (C) Dot plot of genes upregulated in M1and M2 macrophages in macrophage
+  fractions of scRNA-Seq data (5 healthy subjects and 3 patients). (D) Heatmap showing
+  marker genes for each subset in all skin scRNA-Seq data (5 healthy subjects and
+  3 patients). Representative genes are labeled. (E) Heatmap showing metabolic pathway
+  expression for each cell subset in all skin scRNA-Seq data (5 healthy subjects and
+  3 patients) via Reactome pathway database. (F and G) Representative H&E and immunofluorescence
+  (F) staining and bar graph (G) in sarcoidosis skin samples (n = 3) for expression
+  of CD68 (gray), FBP1 (red), CHI3L1 (green), and DAPI (blue). Dotted lines indicate
+  giant cells, and arrowheads point to FBP1+CHI3L1+ cells. Scale bars: 50 μm. Mann-Whitney
+  U tests were conducted between nongiant and giant cells. *P < 0.05'
+article_title: Activation of the pentose phosphate pathway in macrophages is crucial
+  for granuloma formation in sarcoidosis
+citation: Satoshi Nakamizo, et al. J Clin Invest. 2023 Dec 1;133(23).
+year: '2023'
+pub_date: 2023-12-1
+epub_date: 2023-12-1
+doi: 10.1172/JCI171088
+journal_title: The Journal of Clinical Investigation
+journa_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Dermatology
+- Immunology
+- Antigen-presenting cells
+- Macrophages
+- Skin
+---

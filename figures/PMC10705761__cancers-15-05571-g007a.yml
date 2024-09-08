@@ -1,0 +1,35 @@
+---
+figid: PMC10705761__cancers-15-05571-g007a
+pmcid: PMC10705761
+image_filename: PMC10705761__cancers-15-05571-g007a.jpg
+figure_link: /pmc/articles/PMC10705761/figure/F7/
+number: Figure 7
+figure_title: Clinical significance of TRIP13 expression in LUAD.
+caption: 'Clinical significance of TRIP13 expression in LUAD. (A) Immunohistochemical
+  staining of TRIP13. Immunostaining showed that the TRIP13 protein was strongly expressed
+  in cancer lesions and less in non-cancerous tissues. Scale bar: 200 µm (low magnification);
+  50 µm (high magnification). (B) Forest plot showing the results of multivariate
+  Cox proportional hazards regression analysis of the 5-year overall survival rate.
+  Patients with high TRIP13 expression had a significantly lower overall survival
+  rate. These data were obtained from TCGA-LUAD datasets. (C) Gene set enrichment
+  analysis (GSEA) was applied to explore molecular pathways mediated by TRIP13 in
+  LUAD cells. The top six pathways enriched in LUAD patients with high TRIP13 expression
+  were cell cycle, DNA replication, proteasome, P53 signaling pathway, homologous
+  recombination, and mismatch repair'
+article_title: 'Identification of Tumor-Suppressive miR-139-3p-Regulated Genes: TRIP13
+  as a Therapeutic Target in Lung Adenocarcinoma'
+citation: Yoko Hagihara, et al. Cancers (Basel). 2023 Dec;15(23).
+year: '2023'
+pub_date: 2023-12-
+epub_date: '2023-11-24'
+doi: 10.3390/cancers15235571
+journal_title: Cancers
+journa_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+keywords:
+- microRNA
+- lung adenocarcinoma
+- passenger strand
+- miR-139-3p
+- TRIP13
+---

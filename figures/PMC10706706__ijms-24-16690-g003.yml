@@ -1,0 +1,35 @@
+---
+figid: PMC10706706__ijms-24-16690-g003
+pmcid: PMC10706706
+image_filename: PMC10706706__ijms-24-16690-g003.jpg
+figure_link: /pmc/articles/PMC10706706/figure/F3/
+number: Figure 3
+figure_title: Classification of DEGs in mustard leaves chewed by beet armyworm larvae
+  according to GO database, minimum connected molecular networks and KEGG database.
+caption: Classification of DEGs in mustard leaves chewed by beet armyworm larvae according
+  to GO database, minimum connected molecular networks and KEGG database. (A) GO enrichment
+  analysis of DEGs. (B) Minimum connected molecular networks based on DEGs in each
+  time point and the PPI from STRING database. Red points, upregulated DEGs; green
+  points, downregulated DEGs; gray points, non-seed DEGs. (C) KEGG classification
+  of upregulated DEGs. The X-axis represents the enrichment, which is the ratio of
+  the number of DEGs to the total number of genes in a certain pathway. The color
+  and size of the dots represent the range of −log10 (p-value) and the number of DEGs
+  mapped to the indicated pathways, respectively
+article_title: Transcriptome Dynamics of Brassica juncea Leaves in Response to Omnivorous
+  Beet Armyworm (Spodoptera exigua, Hübner)
+citation: Rui Xia, et al. Int J Mol Sci. 2023 Dec;24(23).
+year: '2023'
+pub_date: 2023-12-
+epub_date: '2023-11-24'
+doi: 10.3390/ijms242316690
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- mustard
+- herbivory
+- glucosinolate
+- sinigrin
+- jasmonic acid
+- insect resistance
+---

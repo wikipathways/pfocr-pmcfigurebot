@@ -1,0 +1,38 @@
+---
+figid: PMC10705549__nihpp-2023.11.24.568603v1-f0001
+pmcid: PMC10705549
+image_filename: PMC10705549__nihpp-2023.11.24.568603v1-f0001.jpg
+figure_link: /pmc/articles/PMC10705549/figure/FFigure 1./
+number: Figure 1.
+figure_title: SARS-CoV-2 infection leads to aberrant global alternative splicing
+caption: '(A) Principal component analysis of exon inclusion level from 190 samples.
+  (B) Number of differential alternative splicing events (DASEs) of five alternative
+  splicing types. The DASEs were defined as following criteria: absolute PSI differences
+  value > 0.1 and corrected p-value < 0.05. (C) Results of the top 5 terms of GO biological
+  process and KEGG pathways enriched with the 1,928 genes from 3,381 DASEs (HC vs.
+  All patients). (D) Venn diagrams displaying the gene overlap between DASEs in the
+  SE and MXE categories, respectively, and the set of SARS-CoV-2 susceptible genes.
+  (E) Heatmap of differentially alternative spliced SARS-CoV-2 susceptible genes between
+  HC and COVID-19 patients. Z-score indicate relative exon inclusion levels. Hierarchical
+  clustering of DASEs was performed with Euclidean distance matrix of relative exon
+  inclusion levels. (F) Significant differential spliced events of TLR4 (chr9:117,704,403–117,724,735)
+  and JAK3 (chr19:17,824,782–17,847,982) showing two skipped exon (SE) events and
+  six mutually exclusive exon (MXE) events, respectively. Exon inclusion levels represent
+  the usage of spliced exons in the case of SE events, while in the context of MXE
+  events, they indicate the ratio of the second mutually exclusive exon within each
+  event. The expression level refers to the overall gene expression level. The error
+  bar indicates standard deviation of the mean. (G) Correlation analysis of expression
+  differences between the inclusion level differences of total genes revealed no significant
+  correlation'
+article_title: Variant- and Vaccination-Specific Alternative Splicing Profiles in
+  SARS-CoV-2 Infections
+citation: Sung-Gwon Lee, et al. bioRxiv. 2023 Nov 27;NA(NA).
+year: '2023'
+pub_date: '2023-11-27'
+epub_date: '2023-11-27'
+doi: 10.1101/2023.11.24.568603
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

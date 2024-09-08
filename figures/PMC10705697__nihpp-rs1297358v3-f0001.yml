@@ -1,0 +1,48 @@
+---
+figid: PMC10705697__nihpp-rs1297358v3-f0001
+pmcid: PMC10705697
+image_filename: PMC10705697__nihpp-rs1297358v3-f0001.jpg
+figure_link: /pmc/articles/PMC10705697/figure/F1/
+number: Figure 1
+figure_title: A pipeline to identify lncRNAs that are MAPK-pathway associated, expressed
+  in melanoma patient tissue and essential for melanoma cell-survival
+caption: 'a) A schematic illustration of the pipeline steps. RNASeq data of NRAS-mutant
+  primary human melanocytic cells (PHMQ61), NRAS-mutant melanoma cell lines (D04,
+  MM415), and wild-type primary human melanocytes (PHME, PHM) were compared to identify
+  lncRNAs whose expression is induced through a MAPK-pathway (NRAS) hyperactivating
+  mutation. b) Venn Diagram showing transcriptome intersections the three comparisons
+  PHMQ61/PHME, D04/PHM and MM415/PHM. 197 genes were differentially expressed (DE,
+  expression log2-fold change > 1) in all three comparisons. c) Expression of the
+  197 DE genes displayed in a heatmap. Genes were classified in the subgroups Protein-coding
+  genes, non-coding RNA (ncRNA) and Transcripts of unknown coding potential (TUCP).
+  81 of the 197 DE genes were upregulated lncRNAs d) 81 upregulated lncRNAs, ranked
+  from lowest, to highest average expression in patient derived NRAS mutant melanoma
+  from The Cancer Genome Atlas (TCGA, n = 86). 24 lncRNAs were expressed in > 90%
+  (gray bar) of patients. The lncRNA AC004540.4 was expressed in >97 % of patients
+  and is highlighted in red (Average FPKM = 11.28). e) AC004540.4 expression analysis
+  of non-malignant skin biopsies from the GTEx dataset (n = 1305, mean TPM: 0.49),
+  and BRAF- and NRAS-mutated melanoma tissue from the TCGA-SKCM dataset (n = 366,
+  mean TPM: 1.55) shows that AC004540.4 is significantly upregulated (*** = p < 0.001)
+  in MAPK-pathway hyperactivated melanoma. The center line represents median expression,
+  the box represents the lower and upper quartiles, the whiskers extend to the furthest
+  value that is less than 1.5 times the interquartile range from the lower and upper
+  quartiles and the mean expression is marked by an ‘X’'
+article_title: The therapeutically actionable long non-coding RNA ‘T-RECS’ is essential
+  to cancer cells’ survival in NRAS/MAPK-driven melanoma
+citation: Valentin Feichtenschlager, et al. Res Sq. 2023 Dec 01;NA(NA).
+year: '2023'
+pub_date: '2023-12-01'
+epub_date: '2023-12-01'
+doi: 10.21203/rs.3.rs-1297358/v3
+journal_title: Research Square
+journa_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords:
+- melanoma
+- MAPK-pathway
+- NRAS
+- Antisense Oligonucleotides
+- ASO
+- T-RECS
+- lncRNA
+---

@@ -1,0 +1,36 @@
+---
+figid: PMC10706030__ijms-24-16709-g004
+pmcid: PMC10706030
+image_filename: PMC10706030__ijms-24-16709-g004.jpg
+figure_link: /pmc/articles/PMC10706030/figure/F4/
+number: Figure 4
+figure_title: FARSB activates the mTORC1 signaling pathway by suppressing Raptor phosphorylation.
+caption: 'FARSB activates the mTORC1 signaling pathway by suppressing Raptor phosphorylation.
+  (A) Using the TCGA-LIHC dataset, GSEA performed Kegg enrichment analysis, and the
+  mTOR signaling pathway was significantly enriched in the FARSB overexpression group.
+  (B) Western blot detected the activation level of mTORC1 after FARSB knockdown.
+  (C) MHCC97H cells were treated with rapamycin at a gradient concentration for 24
+  h, and Western blot detected the expression level of FARSB and the activation level
+  of mTORC1. (D) MHCC97H cells overexpressing FARSB and the control group were treated
+  with 20 nM rapamycin for 48 h, and Western blot detected the activation level of
+  mTORC1. (E,F) Co-immunoprecipitation assay (E) and immunofluorescence co-localization
+  (F) confirmed the endogenous (MHCC97H) interaction between FARSB and Raptor. (G)
+  Western blot detected the changes in the phosphorylation level of Raptor after knockdown
+  or overexpression of FARSB. **: p < 0.01, ***: p < 0.001'
+article_title: FARSB Facilitates Hepatocellular Carcinoma Progression by Activating
+  the mTORC1 Signaling Pathway
+citation: Yaofeng Wang, et al. Int J Mol Sci. 2023 Dec;24(23).
+year: '2023'
+pub_date: 2023-12-
+epub_date: '2023-11-24'
+doi: 10.3390/ijms242316709
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- FARSB
+- hepatocellular carcinoma
+- mTORC1
+- Raptor
+- ferroptosis
+---

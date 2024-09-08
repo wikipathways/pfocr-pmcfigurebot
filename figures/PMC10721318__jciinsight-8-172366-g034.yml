@@ -1,0 +1,37 @@
+---
+figid: PMC10721318__jciinsight-8-172366-g034
+pmcid: PMC10721318
+image_filename: PMC10721318__jciinsight-8-172366-g034.jpg
+figure_link: /pmc/articles/PMC10721318/figure/F1/
+number: Figure 1
+figure_title: Transcriptomic profiling reveals HER2-low TNBC subgroups
+caption: (A) Consensus empirical cumulative distribution function (CDF) curves of
+  K = 2–10. (B) Delta area changes with K = 2–10. (C) Consensus values of different
+  K values. (D) Consensus clustering matrices of the 207 HER2-low TNBC samples with
+  mRNA expression at K = 4. (E) Gene set enrichment analysis (GSEA) of primary immunodeficiency,
+  T cell receptor signaling pathway, cytokine/cytokine receptor interaction, and NK
+  cell–mediated cytotoxicity between C4 and other clusters based on the KEGG data
+  set (permutation test). (F) Average stromal and intratumoral TIL scores in the 4
+  subgroups (Kruskal-Wallis test followed by Dunn’s multiple comparisons test). (G)
+  Relative abundance of 2 immune-activated cells in 4 subgroups based on CIBERSORT
+  (1-way ANOVA followed by Dunnett’s t test). (H) Heatmap showing the top 2,000 variable
+  mRNAs of 207 HER2-low TNBC samples; clinical and molecular features are annotated.
+  (I) ssGSEA of 207 HER2-low TNBC samples based on KEGG and GO data sets are shown
+  in the heatmap, and the FDRs are shown in the bubble plot. (J) Distribution of HER2-low
+  TNBC mRNA subgroups in the FUSCC (top) and TCGA (bottom) data sets (χ2 test). The
+  samples of A–I were from HER2-low TNBC based on the FUSCC data set. Statistical
+  significance was set at P < 0.05
+article_title: Multiomics of HER2-low triple-negative breast cancer identifies a receptor
+  tyrosine kinase–relevant subgroup with therapeutic prospects
+citation: Lie Chen, et al. JCI Insight. 2023 Nov 22;8(22).
+year: '2023'
+pub_date: '2023-11-22'
+epub_date: '2023-11-22'
+doi: 10.1172/jci.insight.172366
+journal_title: JCI Insight
+journa_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Oncology
+- Breast cancer
+---

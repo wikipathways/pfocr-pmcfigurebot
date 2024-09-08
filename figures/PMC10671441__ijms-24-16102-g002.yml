@@ -1,0 +1,37 @@
+---
+figid: PMC10671441__ijms-24-16102-g002
+pmcid: PMC10671441
+image_filename: PMC10671441__ijms-24-16102-g002.jpg
+figure_link: /pmc/articles/PMC10671441/figure/F2/
+number: Figure 2
+figure_title: Wnt Signaling pathway.
+caption: Wnt Signaling pathway. The diagram provides an overview of the major components
+  and interactions within the Wnt signaling pathway such as LEF1 and TCF/LEF1 complex.
+  The color assignments in IPA are based on statistical analyses, such as the z-score.
+  The z-score compares the observed gene expression changes in a given dataset to
+  a reference dataset, assessing the significance and direction of those changes.
+  Positive z-scores indicate upregulation = red, orange = activated, whereas negative
+  z-scores indicate downregulation = green, blue = inhibited, and z-scores close to
+  zero indicate no significant change = no color, and purple indicates interactions
+  of two or more factors. The color scheme employed in this figure is consistent with
+  the color scheme utilized in all presented figures
+article_title: Effects of S-Adenosylhomocysteine Hydrolase Downregulation on Wnt Signaling
+  Pathway in SW480 Cells
+citation: Ivana Pavičić, et al. Int J Mol Sci. 2023 Nov;24(22).
+year: '2023'
+pub_date: 2023-11-
+epub_date: '2023-11-08'
+doi: 10.3390/ijms242216102
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- AHCY deficiency
+- S-adenosylhomocysteine (SAH)
+- LEF1
+- metastasis
+- EMT
+- cancer cell phenotype
+- shRNA
+- next-generation sequencing
+---

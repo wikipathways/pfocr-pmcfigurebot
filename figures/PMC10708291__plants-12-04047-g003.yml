@@ -1,0 +1,38 @@
+---
+figid: PMC10708291__plants-12-04047-g003
+pmcid: PMC10708291
+image_filename: PMC10708291__plants-12-04047-g003.jpg
+figure_link: /pmc/articles/PMC10708291/figure/F3/
+number: Figure 3
+figure_title: Differentially expressed (DE) genes and functional annotation involved
+  in nitrogen deficiency.
+caption: Differentially expressed (DE) genes and functional annotation involved in
+  nitrogen deficiency. (A) Volcano plot of DE mRNAs and lncRNAs 4 h after nitrogen
+  starvation. (B) Volcano plot of DE mRNAs and lncRNAs 48 h after nitrogen starvation.
+  (C) Venn diagram of DE lncRNAs 4 h and 48 h after nitrogen starvation. (D) GO enrichment
+  analysis of cis-regulated target genes. (E) GO enrichment analysis of trans-regulated
+  target genes. Red represents high enrichment functional classification, and blue
+  represents terms with relatively low enrichment. The numbers in each term label
+  indicate the number of DE genes. (F) KEGG annotation of DE lncRNA-targeted genes
+  4 h after nitrogen starvation. (G) KEGG annotation of DE lncRNA-targeted genes 48
+  h after nitrogen starvation. The vertical axis represents the name of the KEGG metabolic
+  pathway, and the horizontal axis represents the number of lncRNA-targeted genes
+  annotated to this pathway and their proportion to the total number of lncRNA-targeted
+  genes annotated
+article_title: Genome-Wide Identification and Characterization of Long Non-Coding
+  RNAs in Roots of Rice Seedlings under Nitrogen Deficiency
+citation: Dongfeng Qiu, et al. Plants (Basel). 2023 Dec;12(23).
+year: '2023'
+pub_date: 2023-12-
+epub_date: '2023-11-30'
+doi: 10.3390/plants12234047
+journal_title: Plants
+journa_nlm_ta: Plants (Basel)
+publisher_name: MDPI
+keywords:
+- long non-coding RNA
+- nitrogen
+- rice
+- ssRNA-Seq
+- transcriptome
+---

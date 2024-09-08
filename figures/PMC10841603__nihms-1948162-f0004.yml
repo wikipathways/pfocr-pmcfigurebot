@@ -1,0 +1,45 @@
+---
+figid: PMC10841603__nihms-1948162-f0004
+pmcid: PMC10841603
+image_filename: PMC10841603__nihms-1948162-f0004.jpg
+figure_link: /pmc/articles/PMC10841603/figure/FFigure 3./
+number: Figure 3.
+figure_title: CD97 knockdown impairs glycolytic metabolism in GBM
+caption: '(A) Volcano plot derived from bulk RNA-seq data collected from PDGCs lentivirally
+  infected with the SCR or CD97 shRNA (n = 3 biological replicates for each). Genes
+  involved in canonical glycolysis and glucose transport are represented as large
+  yellow points. Genes involved in the TCA cycle and OXPHOS (cytochrome oxidase subunits)
+  are represented as large green points. CD97 is represented by an orange point.(B)
+  The top ten enriched and depleted pathways determined by the largest fold enrichment
+  among downregulated genes using GO PANTHER pathway enrichment analysis. Stars indicate
+  metabolic pathways.(C) Correlation matrix from bulk RNA-seq data collected from
+  PDGCs following knockdown or overexpression of CD97 shows high correlation between
+  CD97 and glycolysis-related genes and anti-correlation with TCA cycle-related genes.
+  HK2 (hexokinase 2) and SLC2A3 (glucose transporter 3 [GLUT3]) transcripts are both
+  included because they have been implicated in Warburg metabolism.(D) Bar graph showing
+  decreased lactate production after knockdown of CD97 (n = 6 per PDGC; two-way ANOVA
+  F1,15 = 27.24, p < 0.001) and increased lactate production after CD97 overexpression
+  in PDGCs (n = 3 per PDGC; two-way ANOVA F1,6 = 26.07, p < 0.01).(E) Steady-state
+  metabolomic data reveal depletion of glycolytic metabolites after knockdown of CD97
+  in PDGCs (PN [proneural], n = 2–3 [one replicate was removed for technical reasons];
+  CL [classical], n = 3).(F) Depleted (red) and enriched (green) heavy-labeled glycolytic
+  and TCA cycle metabolites after a heavy-labeled glucose tracing experiment.(G) Representative
+  Seahorse Cell Energy Phenotype graph showing OCR and ECAR changes before (baseline)
+  and after (maximal) addition of mitochondrial stressors.(H and I) Bar graphs quantifying
+  baseline and maximal ECAR (n = 6 per PDGC; baseline: two-way ANOVA F1,10 = 14.06;
+  **p < 0.01; maximal: two-way ANOVA F1,10 = 17.87, p < 0.01).(J and K) Bar graphs
+  quantifying baseline and maximal OCR (n = 6 per PDGC; baseline: two-way ANOVA F1,10
+  = 2.820, p > 0.05; maximal: two-way ANOVA F1,10 = 5.474; *p < 0.05).Error bars indicate
+  SEM'
+article_title: The expression profile and tumorigenic mechanisms of CD97 (ADGRE5)
+  in glioblastoma render it a targetable vulnerability
+citation: Niklas Ravn-Boess, et al. Cell Rep. 2023 Dec 10;42(11).
+year: '2023'
+pub_date: '2023-12-10'
+epub_date: '2023-11-08'
+doi: 10.1016/j.celrep.2023.113374
+journal_title: Cell reports
+journa_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

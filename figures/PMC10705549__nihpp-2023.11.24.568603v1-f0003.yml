@@ -1,0 +1,39 @@
+---
+figid: PMC10705549__nihpp-2023.11.24.568603v1-f0003
+pmcid: PMC10705549
+image_filename: PMC10705549__nihpp-2023.11.24.568603v1-f0003.jpg
+figure_link: /pmc/articles/PMC10705549/figure/FFigure 3./
+number: Figure 3.
+figure_title: Among Omicron-infected patients, different regulation of alternative
+  splicing in T and B cell receptor signaling related genes was observed between vaccinated
+  and unvaccinated groups
+caption: "(A) PCA of exon inclusion levels from 190 samples, as presented in Figure
+  1A. The samples are marked differentially based on the vaccination status of Omicron-infected
+  patients. Group 1 and 2 represent clusters established through k-means clustering,
+  as described in Figure SX. (B) Individual Omicron-infected patients’ vaccination
+  status ratio within group 1 and group 2. A chi-squared test was conducted to confirm
+  a significant difference in vaccination status proportions between the two groups.
+  (C) Volcano plot showing the DASEs between Omicron groups. The x- and y-axis indicate
+  inclusion level difference (\U0001D6ABPSI) and negative log10 transformed p-value.
+  The q-value indicated corrected p-value. (D) Results of the top 5 terms of GO biological
+  process and KEGG pathways enriched with the 1,789 genes from 2964 DASEs (Omi.group1
+  vs. Omi.group2). (E) A subset of shared pathways based on 16 common DASEs identified
+  in the T cell receptor signaling pathway (hsa04660) and the B cell receptor signaling
+  pathway (hsa04662). The coloration of each gene box signifies the expression difference
+  between the two groups, with solid lines indicating a direct effect and dashed lines
+  representing an indirect effect. (F) Significant differential spliced events of
+  KRAS (chr12:25,205,246–25,250,929) and NFATC2 (chr20:51,386,963–51,542,719) showing
+  two MXE events, respectively. Inclusion levels represent the usage of spliced exons.
+  The error bar indicates standard deviation of the mean"
+article_title: Variant- and Vaccination-Specific Alternative Splicing Profiles in
+  SARS-CoV-2 Infections
+citation: Sung-Gwon Lee, et al. bioRxiv. 2023 Nov 27;NA(NA).
+year: '2023'
+pub_date: '2023-11-27'
+epub_date: '2023-11-27'
+doi: 10.1101/2023.11.24.568603
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

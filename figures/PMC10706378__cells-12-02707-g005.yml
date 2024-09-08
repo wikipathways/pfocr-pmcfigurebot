@@ -1,0 +1,44 @@
+---
+figid: PMC10706378__cells-12-02707-g005
+pmcid: PMC10706378
+image_filename: PMC10706378__cells-12-02707-g005.jpg
+figure_link: /pmc/articles/PMC10706378/figure/F5/
+number: Figure 5
+figure_title: Pathway analysis of transcriptomic data reveals an enhanced antiviral
+  phenotype in C5aR2 KO THP-1 cell lines compared to WT.
+caption: Pathway analysis of transcriptomic data reveals an enhanced antiviral phenotype
+  in C5aR2 KO THP-1 cell lines compared to WT. (A) Unique, genotype-dependent, treatment-dependent
+  significantly regulated genes (p ≤ 0.05, log2FC < ±1) were identified. (B) An unbiased
+  cluster analysis and pathway analysis was performed using STRING, and the significantly
+  enriched pathways were highlighted in red (Cytokine-Cytokine Receptor Interaction)
+  or blue (JAK-STAT Signalling Pathway) (Supplementary Figures S6–S9). (C) An unbiased
+  pathway analysis was performed using PANTHER and GO Biological Process gene sets.
+  Red text highlights relevant anti-viral pathways (D) Significantly regulated KEGG
+  gene sets from the GSEA were manually triaged, selecting for unique pathways for
+  each condition, genotype-specific stimulation-independent pathways, or genotype-independent
+  stimulation-independent pathways, filtering out stimulation-specific genotype-independent
+  pathways, or pathways common to all conditions. Significantly regulated inflammatory
+  pathways from the C5aR2 KO vs. wild-type comparison (C5a or STING agonist-treated)
+  were manually curated. Selected genes from KEGG gene sets were marked in a volcano
+  plot for STING agonist-treated C5aR2 KO cells vs. STING agonist-treated wild-type
+  cells
+article_title: C5aR2 Regulates STING-Mediated Interferon Beta Production in Human
+  Macrophages
+citation: Oliver Wright, et al. Cells. 2023 Dec;12(23).
+year: '2023'
+pub_date: 2023-12-
+epub_date: '2023-11-25'
+doi: 10.3390/cells12232707
+journal_title: Cells
+journa_nlm_ta: Cells
+publisher_name: MDPI
+keywords:
+- complement
+- C5a
+- anaphylatoxin receptor
+- C5aR2
+- pattern recognition receptor
+- innate immune sensing
+- cGAS-STING
+- interferon beta
+---

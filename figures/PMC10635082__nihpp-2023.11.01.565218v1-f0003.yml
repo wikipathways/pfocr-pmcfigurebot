@@ -1,0 +1,38 @@
+---
+figid: PMC10635082__nihpp-2023.11.01.565218v1-f0003
+pmcid: PMC10635082
+image_filename: PMC10635082__nihpp-2023.11.01.565218v1-f0003.jpg
+figure_link: /pmc/articles/PMC10635082/figure/FFigure 3./
+number: Figure 3.
+figure_title: Characterization of pyrvinium pamoate as an effective perturbagen against
+  MCC
+caption: (A) Simplified diagram of commercially available WNT signaling perturbagens
+  in LINCS L1000 dataset and their reported MOA targeting the WNT signaling pathway.
+  (B) Circos plot showing pairwise comparison between MCC signature genes (MCC1000)
+  and top drug-perturbed genes (ranked by z-scored log2[fold change]) under different
+  drug treatments. Statistical significance was determined by Fisher’s exact test.
+  (C) Cell proliferation assay in WaGa and MKL1 cells, under the treatment of pyrvinium,
+  CHIR-99021 and DMSO control for 5 consecutive days. (D) Representative immunofluorescent
+  images of WaGa cells treated with 500 nM pyrvinium and DMSO, with Ki67 staining
+  as a proliferation marker, GAPDH as internal control, and DAPI for nucleus. (E)
+  Annexin V-APC and SYTOX blue staining level were measured by flow cytometry to illustrate
+  apoptotic population in WaGa cells treated with different doses and for different
+  times. The bar graph on the right shows the quantification of different populations
+  in WaGa cells. Statistical significance was determined by unpaired two sample T-test
+  (****, p < 0.0001; ***, p < 0.001; **, p < 0.01; *, p < 0.05)
+article_title: Integrative analysis reveals therapeutic potential of pyrvinium pamoate
+  in Merkel cell carcinoma
+citation: Jiawen Yang, et al. bioRxiv. 2023 Nov 04;NA(NA).
+year: '2023'
+pub_date: '2023-11-04'
+epub_date: '2023-11-04'
+doi: 10.1101/2023.11.01.565218
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- Merkel cell carcinoma
+- pyrvinium pamoate
+- transcriptomic analysis
+- WNT signaling pathway
+---

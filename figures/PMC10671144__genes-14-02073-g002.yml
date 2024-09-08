@@ -1,0 +1,35 @@
+---
+figid: PMC10671144__genes-14-02073-g002
+pmcid: PMC10671144
+image_filename: PMC10671144__genes-14-02073-g002.jpg
+figure_link: /pmc/articles/PMC10671144/figure/F2/
+number: Figure 2
+figure_title: Causal networks in cisplatin treatment and involvement of tumor microenvironment
+  pathway.
+caption: Causal networks in cisplatin treatment and involvement of tumor microenvironment
+  pathway. (a) Camptothecin was identified as a master regulator in cisplatin-treated
+  samples. The activity z-score of the top 50 master regulators is shown in the heat
+  map. (b) Tumor microenvironment pathway-related Fas cell surface death receptor
+  (FAS) was located in the plasma membrane in the network of camptothecin in cisplatin-treated
+  lung adenocarcinoma. Gene identifiers marked with an asterisk (*) indicate that
+  multiple identifiers in the dataset file map to a single gene in the Global Molecular
+  Network
+article_title: Molecular Networks of Platinum Drugs and Their Interaction with microRNAs
+  in Cancer
+citation: Shihori Tanabe, et al. Genes (Basel). 2023 Nov;14(11).
+year: '2023'
+pub_date: 2023-11-
+epub_date: '2023-11-13'
+doi: 10.3390/genes14112073
+journal_title: Genes
+journa_nlm_ta: Genes (Basel)
+publisher_name: MDPI
+keywords:
+- cisplatin
+- drug resistance
+- microRNA
+- molecular network
+- pathway analysis
+- platinum drug
+- tumor microenvironment
+---

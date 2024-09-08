@@ -1,0 +1,34 @@
+---
+figid: PMC10671144__genes-14-02073-g001a
+pmcid: PMC10671144
+image_filename: PMC10671144__genes-14-02073-g001a.jpg
+figure_link: /pmc/articles/PMC10671144/figure/F1/
+number: Figure 1
+figure_title: Carboplatin molecular network in cancer.
+caption: Carboplatin molecular network in cancer. (a) Causal network of carboplatin
+  in EED226-treated diffuse large B-cell lymphoma. Gene identifiers marked with an
+  asterisk (*) indicate that multiple identifiers in the dataset file map to a single
+  gene in the Global Molecular Network. (b) Carboplatin bioprofiler network in diffuse-type
+  stomach adenocarcinoma. (c) Carboplatin bioprofiler network in intestinal-type stomach
+  adenocarcinoma. (d) Regulation of the EMT by growth factors pathway colored with
+  expected activation states. The red color indicates activation, while the green
+  color indicates inactivation
+article_title: Molecular Networks of Platinum Drugs and Their Interaction with microRNAs
+  in Cancer
+citation: Shihori Tanabe, et al. Genes (Basel). 2023 Nov;14(11).
+year: '2023'
+pub_date: 2023-11-
+epub_date: '2023-11-13'
+doi: 10.3390/genes14112073
+journal_title: Genes
+journa_nlm_ta: Genes (Basel)
+publisher_name: MDPI
+keywords:
+- cisplatin
+- drug resistance
+- microRNA
+- molecular network
+- pathway analysis
+- platinum drug
+- tumor microenvironment
+---

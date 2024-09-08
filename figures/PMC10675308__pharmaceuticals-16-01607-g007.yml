@@ -1,0 +1,34 @@
+---
+figid: PMC10675308__pharmaceuticals-16-01607-g007
+pmcid: PMC10675308
+image_filename: PMC10675308__pharmaceuticals-16-01607-g007.jpg
+figure_link: /pmc/articles/PMC10675308/figure/F7/
+number: Figure 7
+figure_title: Network pharmacological analysis of XYS in the treatment of depression
+  inflammation.
+caption: Network pharmacological analysis of XYS in the treatment of depression inflammation.
+  (a) Venn diagram of overlapping targets. (b) Intersection target PPI viewable. The
+  higher the degree of the node, the darker the node will be. The thickness of the
+  edges is related to the combined score. (c) Top 10 key targets in terms of degree.
+  (d) The KEGG pathway enrichment analysis of the potential targets. (e) GO terms
+  enrichment analysis. (f) The disease-ingredients-target network map, with disease
+  names labeled in green, intersecting targets labeled in purple, drugs labeled in
+  light blue, and chemical components labeled in pink
+article_title: Integrating Metabolomics and Network Pharmacology to Explore the Mechanism
+  of Xiao-Yao-San in the Treatment of Inflammatory Response in CUMS Mice
+citation: Yi Zhang, et al. Pharmaceuticals (Basel). 2023 Nov;16(11).
+year: '2023'
+pub_date: 2023-11-
+epub_date: '2023-11-14'
+doi: 10.3390/ph16111607
+journal_title: Pharmaceuticals
+journa_nlm_ta: Pharmaceuticals (Basel)
+publisher_name: MDPI
+keywords:
+- Xiao-Yao-San
+- CUMS
+- depression
+- inflammation
+- network pharmacology
+- metabolomics
+---

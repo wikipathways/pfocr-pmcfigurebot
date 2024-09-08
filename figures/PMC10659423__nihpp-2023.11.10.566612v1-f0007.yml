@@ -1,0 +1,42 @@
+---
+figid: PMC10659423__nihpp-2023.11.10.566612v1-f0007
+pmcid: PMC10659423
+image_filename: PMC10659423__nihpp-2023.11.10.566612v1-f0007.jpg
+figure_link: /pmc/articles/PMC10659423/figure/FFigure 5:/
+number: 'Figure 5:'
+figure_title: Tick EVs impact keratinocyte proliferation
+caption: (A) Ingenuity pathway analysis derived from siV33 compared to the bite of
+  scV33 ticks on FVB-Jax or FVB-Tac mice. Canonical pathways predicted to be inhibited
+  (blue, negative z-score) or activated (orange, positive z-score) based on differential
+  expression profile. The solid line indicates the p-value significance threshold
+  of 0.05 (−log=1.3). (B) The signaling cascade of EIF2 (highlighted in yellow, A),
+  yielding (→) or inhibitory (┤) arrows. Orange indicates activation whereas blue
+  shows inhibition according to the IPA prediction. Gene expression based on the scRNAseq
+  experiment is indicated in red (increased) or green (decreased). Gray – no expression
+  or prediction. (C) ScV33 (circle) or siV33 (square) injected I. scapularis nymphs
+  were fed on FVB-Jax (white) or FVB-Tac (gray) mice for 3 days. Biopsies were taken
+  from the skin at the bite site and assessed for EpCAM+ Ki67+ keratinocytes by flow
+  cytometry. (D-I) ScV33 or siV33 ticks fed on C57BL/6 mice for 3 days. Biopsies were
+  taken from the skin at the bite site and processed for flow cytometry analysis.
+  (D) PI3K p85+, and (E) phospho-PI3K p85/p55+. (F) ELISA analysis of KGF normalized
+  to total protein per 5 mm skin punch biopsy. (G) EpCAM+ Ki67+ keratinocytes assessed
+  by flow cytometry. Graph displays proliferation changes within the scV33 or siV33
+  treatments compared to the naïve skin. Data are presented as a mean with standard
+  deviation. Statistical significance shown as *p<0.05, ns = not significant. (C-G)
+  Significance was measured by One-way ANOVA followed by Tukey’s post hoc test. (H-I)
+  Flow cytometry histogram plots of EpCAM+ Ki67+ keratinocytes. (H) scV33 or (I) siV33
+  treatments displayed according to the number of ticks bitten per biopsy. X-axis
+  shows fluorescence intensity, and the Y-axis indicates the count of events in the
+  fluorescence channel
+article_title: Tick extracellular vesicles impair epidermal homeostasis through immune-epithelial
+  networks during hematophagy
+citation: Liron Marnin, et al. bioRxiv. 2023 Nov 10;NA(NA).
+year: '2023'
+pub_date: '2023-11-10'
+epub_date: '2023-11-10'
+doi: 10.1101/2023.11.10.566612
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

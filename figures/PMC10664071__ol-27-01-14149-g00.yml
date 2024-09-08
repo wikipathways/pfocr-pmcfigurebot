@@ -1,0 +1,38 @@
+---
+figid: PMC10664071__ol-27-01-14149-g00
+pmcid: PMC10664071
+image_filename: PMC10664071__ol-27-01-14149-g00.jpg
+figure_link: /pmc/articles/PMC10664071/figure/FFigure 1./
+number: Figure 1.
+figure_title: Identification and bioinformatics analysis of DEGs.
+caption: Identification and bioinformatics analysis of DEGs. (A) Volcano plot of 235
+  upregulated DEGs and 1,040 downregulated DEGs, with the gray area in the middle
+  representing unchanged genes. (B) Cluster heatmap of DEGs in GSE165934. In the heatmap,
+  the color gradient from green to orange represents the expression levels of DEGs,
+  with green indicating lower expression levels and orange indicating higher expression
+  levels. Blue denotes the control group and red denotes the asthmatic group. (C)
+  Protein-protein interaction network of DEGs, where nodes represent genes (pink diamonds
+  represent upregulated DEGs, gray arrowheads represent downregulated DEGs) and edges
+  represent interconnectedness between genes. (D) Bar graph of GO analysis. BP enrichment
+  result (pink), CC enrichment result (blue), and MF enrichment result (green). (E)
+  WikiPathway analysis on 460 node genes. The larger the node, the more genes are
+  enriched on this pathway. DEGs, differentially expressed genes; GO, Gene Ontology;
+  BP, biological process; CC, cellular component; MF, molecular function
+article_title: TREM1 is involved in the mechanism between asthma and lung cancer by
+  regulating the Toll‑like receptor signaling pathway
+citation: Zhulin Yan, et al. Oncol Lett. 2024 Jan;27(1).
+year: '2024'
+pub_date: 2024-1-
+epub_date: '2023-11-13'
+doi: 10.3892/ol.2023.14149
+journal_title: Oncology Letters
+journa_nlm_ta: Oncol Lett
+publisher_name: D.A. Spandidos
+keywords:
+- lung cancer
+- asthma
+- mutation analysis
+- immunoassay
+- TREM1
+- Toll-like receptor signaling pathway
+---

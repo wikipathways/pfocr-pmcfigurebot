@@ -1,0 +1,36 @@
+---
+figid: PMC10659276__nihpp-2023.11.06.565933v2-f0004
+pmcid: PMC10659276
+image_filename: PMC10659276__nihpp-2023.11.06.565933v2-f0004.jpg
+figure_link: /pmc/articles/PMC10659276/figure/FFigure 4:/
+number: 'Figure 4:'
+figure_title: CellChat reveals TBXT-driven regulation of cell-cell adhesions and ncWNT
+  signaling across and within clusters
+caption: (A) Bar plot comparing information flow (A. U.) of key pathways between WT,
+  TBXT-Het, and TBXT-KO. (B) Circle plots visualizing communication between or within
+  clusters for the CADM, JAM, and ncWNT signaling pathways. Numbers correlate with
+  cluster identity, while line thickness corresponds to the strength of predicted
+  communication. “9” indicates the mesoderm cluster. Small circle plots under the
+  “ncWNT Signaling Pathway” header depict interactions between WNT5A and designated
+  FZD receptors. (C) Heatmap showing the communication dynamics for each genotype
+  for the CADM, JAM, and ncWNT signaling pathways. (D) Bubble plot comparing predicted
+  ligand-receptor interactions for CADM, JAM, WNT, and ncWNT pathways. Only ligand-receptor
+  interactions with variability in communication probability are shown
+article_title: TBXT dose sensitivity and the decoupling of nascent mesoderm specification
+  from EMT progression in 2D human gastruloids
+citation: Emily A. Bulger, et al. bioRxiv. 2023 Nov 09;NA(NA).
+year: '2023'
+pub_date: '2023-11-09'
+epub_date: '2023-11-09'
+doi: 10.1101/2023.11.06.565933
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- mesoderm
+- gastrulation
+- brachyury
+- axial elongation
+- gastruloid
+- EMT
+---

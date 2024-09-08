@@ -1,0 +1,44 @@
+---
+figid: PMC10671577__ijms-24-16393-g002
+pmcid: PMC10671577
+image_filename: PMC10671577__ijms-24-16393-g002.jpg
+figure_link: /pmc/articles/PMC10671577/figure/F2/
+number: Figure 2
+figure_title: Differentially expressed miRNAs in T.
+caption: Differentially expressed miRNAs in T. forsythia-infected mandibles (8 and
+  16 weeks). (A) The volcano plot depicts the upregulated (green) and downregulated
+  (red) miRNAs that showed a fold difference of ±1.1 with a p-value of <0.05 during
+  T. forsythia infection. Fold changes (log2 fold change) are displayed on the x axis,
+  the y axis shows the t-statistic derived as the negative decimal logarithm of the
+  p-value [−log10(p)]. Thresholds are highlighted with dotted lines representing the
+  promising miRNAs in the upper left and upper right. The black dots represent the
+  miRNAs that do not pass the filter parameters. Five significantly upregulated miRNAs
+  and nine downregulated miRNAs were identified in 16-week T. forsythia-infected mice
+  compared to the 8-week T. forsythia-infected mice (n = 10). (B) Venn diagram analysis
+  illustrates the distribution of DE miRNAs in the 8-week and 16-week infections with
+  T. forsythia. (C) Predicted functional pathway analysis of DE miRNAs from T. forsythia-infected
+  mandibles. Bubble plot of KEGG analysis on predicted target genes of DE-upregulated
+  miRNAs in T. forsythia-infected mice (16-week duration) comparing sham-infected
+  mice. The KEGG pathways are displayed on the y axis, and the x axis represents the
+  false discovery rate (FDR) which means the probability of false positives in all
+  tests. The size and color of dots represent the number of predicted genes and the
+  corresponding p-values, respectively. Thirteen DE miRs are shown to be involved
+  in the MAPK signaling pathway
+article_title: Unique miRomics Expression Profiles in Tannerella forsythia-Infected
+  Mandibles during Periodontitis Using Machine Learning
+citation: Chairmandurai Aravindraja, et al. Int J Mol Sci. 2023 Nov;24(22).
+year: '2023'
+pub_date: 2023-11-
+epub_date: '2023-11-16'
+doi: 10.3390/ijms242216393
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- periodontal disease
+- miRNAs
+- NanoString analysis
+- transient miRNA expression
+- machine learning
+- T. forsythia
+---

@@ -1,0 +1,44 @@
+---
+figid: PMC10670038__cancers-15-05347-g004
+pmcid: PMC10670038
+image_filename: PMC10670038__cancers-15-05347-g004.jpg
+figure_link: /pmc/articles/PMC10670038/figure/F4/
+number: Figure 4
+figure_title: Proteomic analysis of TE10 cells treated with CuET and GSK J4.
+caption: 'Proteomic analysis of TE10 cells treated with CuET and GSK J4. (A–D) Volcano
+  plot of differentially expressed proteins. (A): the negative control (DMSO) VS group
+  A (CuET); (B): the negative control VS group B (GSK J4); (C): the negative control
+  VS group A + B (CuET + GSK J4); (D): group A (CuET) VS group A + B (CuET + GSK J4).
+  Red dots in the graph indicate upregulated proteins, and blue dots indicate down-regulated
+  proteins. (E–G) GO enrichment bubble plot of upregulated proteins between different
+  groups. (E): group A (CuET) compared to the control group. (F): group B (GSK J4)
+  compared to the control group. (G): group A + B (CuET + GSK J4) compared to the
+  control group. (H) GO enrichment bubble plot of down-regulated proteins between
+  group A + B (CuET + GSK J4) compared to group A (CuET). A larger bubble area indicates
+  that more genes are involved in the signaling pathway, and a redder bubble color
+  indicates a smaller p-value and higher confidence. (I) Heat map of the distribution
+  of proteins associated with the UPR pathway. A: group A (CuET); B: group B (GSK
+  J4); Con: group C (DMSO); AB: group A + B (CuET + GSK J4). The color intensity of
+  the squares indicated the protein expression level, red and blue for high and low
+  expression, respectively. (J) Western blot assays detected the effect of different
+  treatments (DMSO, 1 μM CuET, 20 μM GSK J4, and 1 μM CuET + 20 μM GSK J4) for 12
+  h on the expression of ATF6, p-eIF2α, and p-IRE1 in TE10 cells (n = 3). Original
+  images can be found in Figure S3. (K–M) Statistical analysis of the Western blot
+  results in (J). (K): ATF6; (L): p-eIF2α; (M): p-IRE1. *, p < 0.05; **, p < 0.01'
+article_title: Targeting Esophageal Squamous Cell Carcinoma by Combining Copper Ionophore
+  Disulfiram and JMJD3/UTX Inhibitor GSK J4
+citation: Canlin Yang, et al. Cancers (Basel). 2023 Nov;15(22).
+year: '2023'
+pub_date: 2023-11-
+epub_date: '2023-11-09'
+doi: 10.3390/cancers15225347
+journal_title: Cancers
+journa_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+keywords:
+- disulfiram
+- JMJD3
+- UTX
+- UPR
+- ESCC
+---

@@ -1,0 +1,49 @@
+---
+figid: PMC10721263__jciinsight-8-165268-g006
+pmcid: PMC10721263
+image_filename: PMC10721263__jciinsight-8-165268-g006.jpg
+figure_link: /pmc/articles/PMC10721263/figure/F6/
+number: Figure 6
+figure_title: RB1 deficiency activates innate immune signaling via the cGAS/STING
+  pathway
+caption: '(A–E) The comparison of 5 cGAS/STING pathway genes’ expression in TCGA LUAD
+  samples with mutated RB1 and WT RB1. (F) Differential expression of 3 cGAS/STING
+  genes between RB1-mutant and RB1-WT samples in the Gillette et al. data set (19).
+  (G) Communications of the GAS signaling pathway among ME-RB1-H, ME-RB1-L, and other
+  cell subtypes. (H) Heatmap shows the communicational probability of GAS signaling
+  pathway among cells. The color indicates the strength of communication. (I) Representative
+  immunofluorescence images of colocalization of cGAS and cytoplasmic dsDNA fragments
+  induced by PARPis in A549-RB1-WT and A549-RB1-KO cells. (J) Western blot analysis
+  of RB1, cGAS, STING, p-TBK1/TBK1, and p-IRF3/IRF3 after treatment with DMSO, niraparib,
+  and rucaparib in A549-RB1-WT and A549-RB1-KO cells. Normalized to β-actin control.
+  (K) qRT-PCR analysis of CCL5 and CXCL10 mRNAs (n = 6). *P < 0.05 vs. A549-RB1-WT.
+  (L) Quantitative analysis by ELISA of CCL5 and CXCL10 secretion in A549-RB1-WT and
+  A549-RB1-KO cell supernatants upon exposure to PARPis (n = 6). *P < 0.05, **P <
+  0.01 vs. A549-RB1-WT. (M) Representative immunofluorescence images of cGAS and cytoplasmic
+  dsDNA fragment localization induced by PARPis in H2228 cells transfected with RB1.
+  (N) Western blot analysis of RB1, cGAS, STING, p-TBK1/TBK1, and p-IRF3/IRF3 after
+  treatment with DMSO, niraparib, and rucaparib in H2228 cells transfected with RB1.
+  Normalized to β-actin control. (O) qRT-PCR analysis of CCL5 and CXCL10 mRNAs (n
+  = 6). *P < 0.05 vs. H2228-NC. (P) Quantitative analysis by ELISA of CCL5 and CXCL10
+  secretion in H2228 cell supernatants upon exposure to PARPis (n = 6). *P < 0.05,
+  **P < 0.01 vs. H2228-NC. (I and M) Green, PicoGreen. Red, cGAS. Blue, DAPI. The
+  white arrow represents the colocation of cGAS and dsDNA fragments. Scale bars: 10
+  μm. P values were calculated by 1-sided Wilcoxon’s rank-sum test (A–F) and unpaired,
+  2-tailed Student’s t test (K, L, O, and P)'
+article_title: Mutant RB1 enhances therapeutic efficacy of PARPis in lung adenocarcinoma
+  by triggering the cGAS/STING pathway
+citation: Qi Dong, et al. JCI Insight. 2023 Nov 8;8(21).
+year: '2023'
+pub_date: 2023-11-8
+epub_date: 2023-11-8
+doi: 10.1172/jci.insight.165268
+journal_title: JCI Insight
+journa_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Genetics
+- Therapeutics
+- Cancer immunotherapy
+- Drug therapy
+- Genetic instability
+---

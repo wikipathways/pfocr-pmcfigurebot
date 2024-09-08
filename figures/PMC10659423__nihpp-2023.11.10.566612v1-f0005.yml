@@ -1,0 +1,38 @@
+---
+figid: PMC10659423__nihpp-2023.11.10.566612v1-f0005
+pmcid: PMC10659423
+image_filename: PMC10659423__nihpp-2023.11.10.566612v1-f0005.jpg
+figure_link: /pmc/articles/PMC10659423/figure/FFigure 4:/
+number: 'Figure 4:'
+figure_title: Impact of tick EVs on wound healing pathways through the DETC-keratinocyte
+  axis
+caption: '(A-F) Individual tSNE plots of keratinocyte clusters: (A) FVB-Jax, (B) FVB-Jax
+  scV33, (C) FVB-Jax siV33, (D) FVB-Tac (E) FVB-Tac scV33, and (F) FVB-Tac siV33.
+  (G) Enriched pathways in the unidentified cell cluster (as shown in C) based on
+  functional annotation in DAVID. Fold enrichment is indicated in a Log2 scale. *p
+  value and FDR<0.05 were set as threshold. KEGG, GO and InterPro were used as reference
+  annotation databases. (H) Ingenuity pathway analysis comparing keratinocytes of
+  skin biopsies from FVB-Jax siV33 to FVB-Jax scV33. Blue denotes pathways predicted
+  to be inhibited (negative z-score) whereas orange indicates pathways predicted to
+  be activated (positive z-score) based on default parameters. Differential expression
+  datasets were assessed for canonical pathway analysis. Results are shown in a −log
+  (p-value) scale. *p value and FDR< 0.05 were set as threshold. (I) Volcano plot
+  of genes representing the wound healing signaling pathway in keratinocytes of FVB-Jax
+  siV33 compared to FVB-Jax scV33 datasets (highlighted in yellow; H). Blue denotes
+  decrease whereas red indicates increase in the coefficient (coef) of expression.
+  (J) Dot plot of the top 5 marker genes present in the keratinocyte clusters (as
+  shown in A-F). Average gene expression is demarked by the intensity of color. Percent
+  of gene expression within individual clusters is represented by the dot diameter.
+  (K) Expression of Col1a1 on t-SNE plot of keratinocyte clusters'
+article_title: Tick extracellular vesicles impair epidermal homeostasis through immune-epithelial
+  networks during hematophagy
+citation: Liron Marnin, et al. bioRxiv. 2023 Nov 10;NA(NA).
+year: '2023'
+pub_date: '2023-11-10'
+epub_date: '2023-11-10'
+doi: 10.1101/2023.11.10.566612
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---
