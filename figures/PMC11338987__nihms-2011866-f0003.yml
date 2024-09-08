@@ -1,0 +1,35 @@
+---
+figid: PMC11338987__nihms-2011866-f0003
+pmcid: PMC11338987
+image_filename: PMC11338987__nihms-2011866-f0003.jpg
+figure_link: /pmc/articles/PMC11338987/figure/FFigure 2./
+number: Figure 2.
+figure_title: Genomic, transcriptomic, and metabolomic analyses of polymyxin-dependent
+  A. baumannii strains
+caption: (A) Clustering analysis of the whole genome of 15,049 A. baumannii strains
+  from GenBank and the wild-type strains of the four polymyxin-dependent strains in
+  the present study.(B) Heatmap showing the fold changes of common DEGs in all four
+  polymyxin-dependent strains compared to their parent strains.(C) Heatmap showing
+  commonly changed metabolites in polymyxin-dependent strains compared to their wild-type
+  strains following treatment with 16 mg/L colistin for 2 h in dependent strains plus
+  untreated control. S, polymyxin-susceptible parent strains (no colistin treatment);
+  D, polymyxin-dependent strains (no colistin treatment); DC, polymyxin-dependent
+  strains treated with 16 mg/L colistin.(D) Pathway enrichment analysis of the integrative
+  transcriptomics and metabolomics data in all four polymyxin-dependent strains compared
+  to their wild-type strains.(E) Network analysis of the significant metabolites (green
+  circle) and genes (red square) in all four polymyxin-dependent strains compared
+  to their wild-type strains. Only metabolites/genes with a network degree >5 are
+  labeled.The pathway analysis in (D) and (E) was based on the KEGG Database and performed
+  with MetaboAnalyst20 and OmicsNet,21 respectively
+article_title: Arginine catabolism is essential to polymyxin dependence in Acinetobacter
+  baumannii
+citation: Mei-Ling Han, et al. Cell Rep. 2024 Aug 1;43(7).
+year: '2024'
+pub_date: 2024-8-1
+epub_date: 2024-6-25
+doi: 10.1016/j.celrep.2024.114410
+journal_title: Cell reports
+journa_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

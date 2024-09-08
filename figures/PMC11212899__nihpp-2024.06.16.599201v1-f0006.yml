@@ -1,0 +1,31 @@
+---
+figid: PMC11212899__nihpp-2024.06.16.599201v1-f0006
+pmcid: PMC11212899
+image_filename: PMC11212899__nihpp-2024.06.16.599201v1-f0006.jpg
+figure_link: /pmc/articles/PMC11212899/figure/FFigure 6:/
+number: 'Figure 6:'
+figure_title: Probing the leading genes of the JAK/STAT signaling pathway for sex
+  differences.
+caption: 'Probing the leading genes of the JAK/STAT signaling pathway for sex differences.
+  Panel a shows the top 500 edges of the differential network Afemale-Amale centered
+  on the n2v2r leading genes of the JAK/STAT pathway as returned by GSEApy, shown
+  here with larger fonts. Red edges mean greater co-expression in females, and blue
+  edges greater in males. The size of the nodes is the absolute degree difference.
+  Nodes are colored according to the adjusted p-value from differential gene expression
+  analysis with DESeq2: white is not significant, yellow to red is significant between
+  0.1 and 0. Panel b shows significant sex-biased drug responses (lower more sensitive)
+  by inhibiting JAK/STAT genes in LUAD cell lines that are not differential in node
+  degree and gene expression. The EP300 is from the GDSC repository, the rest from
+  PRISM'
+article_title: 'node2vec2rank: Large Scale and Stable Graph Differential Analysis
+  via Multi-Layer Node Embeddings and Ranking'
+citation: Panagiotis Mandros, et al. bioRxiv. 2024 Jun 17;NA(NA).
+year: '2024'
+pub_date: 2024-6-17
+epub_date: 2024-6-17
+doi: 10.1101/2024.06.16.599201
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

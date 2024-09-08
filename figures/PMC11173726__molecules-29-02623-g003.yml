@@ -1,0 +1,45 @@
+---
+figid: PMC11173726__molecules-29-02623-g003
+pmcid: PMC11173726
+image_filename: PMC11173726__molecules-29-02623-g003.jpg
+figure_link: /pmc/articles/PMC11173726/figure/F3/
+number: Figure 3
+figure_title: MS-based quantitative proteomics identified differentially expressed
+  proteins.
+caption: MS-based quantitative proteomics identified differentially expressed proteins.
+  (a) Workflow of quantitative proteomics analysis. (b,c) Venn diagram (b) and volcanic
+  map (c) of proteins identified in A549 cells treated with 8 μM DDP in the presence
+  or absence of 1 μM TSA for 48 h. In the volcanic map (c), black points refer to
+  proteins with a p-value of > 0.05 (i.e., −lg p < 1.3), while red, blue, and green
+  points refer to proteins with a p-value ≤ 0.05 and a log2(FC) (DDP + TSA vs. DDP)
+  of ≥ 0.26 (red points), a log2(AR) of <0.26 and >−0.26 (blue points), or a log2(AR)
+  of ≤−0.26 (green points). (d) Top 10 upregulated (red) and downregulated (green)
+  proteins identified in the cells treated with DDP and TSA compared with those in
+  the cells treated with DDP alone. (e) IPA enriched canonical signaling pathways
+  with which all differentially expressed proteins (DEPs) with |FC| > 1.2 identified
+  in A549 cells treated with DDP and TSA, compared with the proteins expressed in
+  A549 cells treated with DDP only, are associated. (f) Diagrammatic representation
+  of interferon-gamma (INF-γ) signaling pathway. (g) Histogram of the abundance ratio
+  of selected DEPs expressed in A549 cells treated with DDP and TSA compared with
+  the abundance of the same proteins expressed in the cells treated with DDP only.
+  (h,i) Western blotting data showing the changes in the level of CD44 expressed in
+  A549 cells treated under different conditions. GAPDH was used as an internal reference
+  to calculate the relative abundance of CD44 (n = 3). The data in (g,i) are presented
+  as means ± SD; * p < 0.05, ** p < 0.01, and **** p < 0.0001 (Student’s t test)
+article_title: Trichostatin A Promotes Cytotoxicity of Cisplatin, as Evidenced by
+  Enhanced Apoptosis/Cell Death Markers
+citation: Yang Zhou, et al. Molecules. 2024 Jun;29(11).
+year: '2024'
+pub_date: 2024-6-
+epub_date: 2024-6-03
+doi: 10.3390/molecules29112623
+journal_title: Molecules
+journa_nlm_ta: Molecules
+publisher_name: MDPI
+keywords:
+- trichostatin A
+- cisplatin
+- histone acetylation
+- quantitative proteomics
+- cytotoxicity
+---

@@ -1,0 +1,39 @@
+---
+figid: PMC11206879__pharmaceuticals-17-00734-g006
+pmcid: PMC11206879
+image_filename: PMC11206879__pharmaceuticals-17-00734-g006.jpg
+figure_link: /pmc/articles/PMC11206879/figure/F6/
+number: Figure 6
+figure_title: (A) Spearman correlation values of mRNA levels between NF-κB and pathway-associated
+  genes depicted as a circular heatmap generated through the SRplot online platform
+  for data analysis and visualization (available at http://www.
+caption: (A) Spearman correlation values of mRNA levels between NF-κB and pathway-associated
+  genes depicted as a circular heatmap generated through the SRplot online platform
+  for data analysis and visualization (available at http://www.bioinformatics.com.cn/srplot
+  accessed on 18 April 2024). (B) TFLink gateway (available at https://tflink.net/
+  accessed on 18 April 2024) was used to investigate transcription factor–target gene
+  interactions. A total of 61 out of 68 genes are indeed NF-κB predicted targets,
+  of which, 5 are regulated by all NF-κB subunits and are among those with higher
+  correlations. (C) Differential gene expression analysis showed 12 downregulated
+  genes and 19 upregulated genes in OS samples and controls (Vulcano Plot generated
+  using the Mixed Osteosarcoma (Mesenchymal)-Kuijjer-127-vst-ilmnhwg6v2 dataset).
+  KEGG enrichment analysis through the STRING platform showed that downregulated genes
+  belong mainly to MAPK and WNT signaling pathways, while upregulated genes are from
+  the PI3K/AKT and JAK/STAT cascades
+article_title: 'Amicis Omnia Sunt Communia: NF-κB Inhibition as an Alternative to
+  Overcome Osteosarcoma Heterogeneity'
+citation: Mariana Medeiros, et al. Pharmaceuticals (Basel). 2024 Jun;17(6).
+year: '2024'
+pub_date: 2024-6-
+epub_date: 2024-6-05
+doi: 10.3390/ph17060734
+journal_title: Pharmaceuticals
+journa_nlm_ta: Pharmaceuticals (Basel)
+publisher_name: MDPI
+keywords:
+- osteossarcoma
+- heterogeneity
+- signaling pathways
+- NF-κB
+- common effector
+---

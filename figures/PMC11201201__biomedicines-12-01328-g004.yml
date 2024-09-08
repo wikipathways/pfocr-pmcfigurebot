@@ -1,0 +1,43 @@
+---
+figid: PMC11201201__biomedicines-12-01328-g004
+pmcid: PMC11201201
+image_filename: PMC11201201__biomedicines-12-01328-g004.jpg
+figure_link: /pmc/articles/PMC11201201/figure/F4/
+number: Figure 4
+figure_title: Serum proteomics and pathway analyses identify VEGF-A, sIL-2Rα, and
+  PI3K/Akt/mTOR signaling as candidate therapeutic targets for iMCD-1.
+caption: Serum proteomics and pathway analyses identify VEGF-A, sIL-2Rα, and PI3K/Akt/mTOR
+  signaling as candidate therapeutic targets for iMCD-1. (A) Heatmap of the analytes
+  whose levels increase (blue) or decrease (orange) by at least 2-fold in the same
+  direction between flare and remission for iMCD-1’s third and fifth flares, as measured
+  by Myriad RBM DiscoveryMAP (n = 1). Analytes are presented in ascending order from
+  left to right based on the log2 (flare/remission) fold-change at the fifth flare,
+  compared with remission. Key provides the color intensity for a given fold-change.
+  (B,C) Enrichment analysis, using Enrichr, of Myriad RBM DiscoveryMAP gene sets for
+  metabolic pathways for iMCD-1. Results of the top five enriched gene sets (FDR <
+  0.01, rank ordered by combined score) from the (B) third flare and (C) fifth flare
+  when proteins with log2 (flare/remission) greater than two were analyzed for KEGG
+  pathway gene sets. Colored cells represent gene members in specific pathways that
+  were found to be greater than 4-fold up (blue) or 4-fold down (orange) during flare
+  compared with remission. Reproduced with permission from Fajgenbaum D.C., Langan
+  R-A., Japp A.S. et al. Identifying and targeting pathogenic PI3K/AKT/mTOR signaling
+  in IL-6 blockade-refractory idiopathic multicentric Castleman disease. J Clin Invest,
+  2019, 129(10), 4451–4463 [34]
+article_title: Increase in Vascular Endothelial Growth Factor (VEGF) Expression and
+  the Pathogenesis of iMCD-TAFRO
+citation: Gordan Srkalovic, et al. Biomedicines. 2024 Jun;12(6).
+year: '2024'
+pub_date: 2024-6-
+epub_date: 2024-6-14
+doi: 10.3390/biomedicines12061328
+journal_title: Biomedicines
+journa_nlm_ta: Biomedicines
+publisher_name: MDPI
+keywords:
+- VEGF
+- TAFRO
+- i-MCD
+- IL-6
+- mTOR
+- signaling pathways
+---

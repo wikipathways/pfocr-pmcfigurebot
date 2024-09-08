@@ -1,0 +1,32 @@
+---
+figid: PMC11203715__ijms-25-06741-g001
+pmcid: PMC11203715
+image_filename: PMC11203715__ijms-25-06741-g001.jpg
+figure_link: /pmc/articles/PMC11203715/figure/F1/
+number: Figure 1
+figure_title: Using KEGG data, a Sankey Plot depicts the association between MS-related
+  genes and signaling pathways.
+caption: Using KEGG data, a Sankey Plot depicts the association between MS-related
+  genes and signaling pathways. On the right side of the figure, there are 25 genes
+  and 21 signaling pathways, with gray lines representing their relationships. The
+  dot plot on the left side of the image displays the false discovery rate (FDR) on
+  the X-axis. The color of the points is indicative of the p-value, normalized with
+  −log10, and the size of the circles corresponds to the number of genes present in
+  the signaling pathway (Count)
+article_title: 'Pregnant Women with Multiple Sclerosis: An Overview of Gene Expression
+  and Molecular Interaction Using Bioinformatics Analysis'
+citation: Jazmin Marquez-Pedroza, et al. Int J Mol Sci. 2024 Jun;25(12).
+year: '2024'
+pub_date: 2024-6-
+epub_date: 2024-6-19
+doi: 10.3390/ijms25126741
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- multiple sclerosis
+- pregnancy
+- gene expression
+- molecular interaction
+- bioinformatics
+---

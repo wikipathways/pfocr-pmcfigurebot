@@ -1,0 +1,30 @@
+---
+figid: PMC11203144__genes-15-00781-g005
+pmcid: PMC11203144
+image_filename: PMC11203144__genes-15-00781-g005.jpg
+figure_link: /pmc/articles/PMC11203144/figure/F5/
+number: Figure 5
+figure_title: Scatter plot of enrichment pathways of genes in the blue and red modules.
+caption: 'Scatter plot of enrichment pathways of genes in the blue and red modules.
+  Note: The horizontal coordinate is the ratio of the number of differential genes
+  annotated to the total number of differential genes in the KEGG enrichment pathway,
+  and the vertical coordinate is the KEGG enrichment pathway. The size of the dots
+  in the graph represents the number of genes annotated to the KEGG enrichment pathway,
+  and the colors from red to purple represent the significance size of the enrichment.
+  (a) Blue module; (b) red module'
+article_title: Analysis of Hyperosmotic Tolerance Mechanisms in Gracilariopsis lemaneiformis
+  Based on Weighted Co-Expression Network Analysis
+citation: Baoheng Xiao, et al. Genes (Basel). 2024 Jun;15(6).
+year: '2024'
+pub_date: 2024-6-
+epub_date: 2024-6-13
+doi: 10.3390/genes15060781
+journal_title: Genes
+journa_nlm_ta: Genes (Basel)
+publisher_name: MDPI
+keywords:
+- Gracilariopsis lemaneiformis
+- high salinity
+- modules
+- WGCNA
+---

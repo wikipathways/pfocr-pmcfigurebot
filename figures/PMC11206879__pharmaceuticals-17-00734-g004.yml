@@ -1,0 +1,41 @@
+---
+figid: PMC11206879__pharmaceuticals-17-00734-g004
+pmcid: PMC11206879
+image_filename: PMC11206879__pharmaceuticals-17-00734-g004.jpg
+figure_link: /pmc/articles/PMC11206879/figure/F4/
+number: Figure 4
+figure_title: Pathways crosstalk illustration through in silico protein–protein interactions
+  (PPI).
+caption: 'Pathways crosstalk illustration through in silico protein–protein interactions
+  (PPI). Lists of proteins belonging to each signaling pathway were obtained though
+  the GESEA—Gene Set Enrichment Analysis—available at https://www.gsea-msigdb.org
+  accessed on 13 April 2024. Then, PPI between each pathway and NF-κB subunits were
+  assessed through STRING v12 (available at https://string-db.org/ accessed on 14
+  April 2024). The parameters evaluated were co-occurrence, experiments, and databases,
+  and the minimum required interaction score was 0.700, considered high. Chord plots
+  to show individual interactions with RELA/p65, RELB, REL/c-REL, NFKB1/p52, and NFKB2/p50
+  were generated through the SRplot online platform for data analysis and visualization
+  (available at http://www.bioinformatics.com.cn/srplot accessed on 14 April 2024),
+  and the percentage of proteins involved in PPI are expressed in pie charts. As an
+  example, there are 233 proteins involved in the WNT pathway; from these, 82 (35.2%)
+  interact with NF-κB subunits distributed as follows: 30 proteins with RELA/p65,
+  8 with RELB, 10 with REL/c-REL, and 28 with NFKB2/p50. Similar patterns are seen
+  for other pathways which, as expected, show more interactions with RELA/p65 and
+  NFKB1/p52'
+article_title: 'Amicis Omnia Sunt Communia: NF-κB Inhibition as an Alternative to
+  Overcome Osteosarcoma Heterogeneity'
+citation: Mariana Medeiros, et al. Pharmaceuticals (Basel). 2024 Jun;17(6).
+year: '2024'
+pub_date: 2024-6-
+epub_date: 2024-6-05
+doi: 10.3390/ph17060734
+journal_title: Pharmaceuticals
+journa_nlm_ta: Pharmaceuticals (Basel)
+publisher_name: MDPI
+keywords:
+- osteossarcoma
+- heterogeneity
+- signaling pathways
+- NF-κB
+- common effector
+---

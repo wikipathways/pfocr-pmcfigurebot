@@ -1,0 +1,39 @@
+---
+figid: PMC11201436__cells-13-01031-g003
+pmcid: PMC11201436
+image_filename: PMC11201436__cells-13-01031-g003.jpg
+figure_link: /pmc/articles/PMC11201436/figure/F3/
+number: Figure 3
+figure_title: Functional analysis of differentially expressed genes across cell passages.
+caption: Functional analysis of differentially expressed genes across cell passages.
+  (A) Gene clustering based on expression levels across passages. The x-axis represents
+  the samples, while the y-axis represents centralized and normalized expression values.
+  The mean expression trends of the genes within each cluster are depicted by the
+  purple lines. (B,C) Gene Ontology (GO) enrichment analysis of the genes in cluster
+  2 (B) and cluster 4 (C). (D) Fold-change values for each gene in F7 compared to
+  F3 cells. Gray points were not statistically significantly different between samples;
+  red and blue points were significantly upregulated and downregulated, respectively,
+  in F7 compared to F3 cells. Differences were considered statistically significant
+  at |log2(fold change) ≥ 1| and false discovery rate-adjusted p < 0.05. (E,F) Functional
+  enrichment analyses of upregulated DEGs in F7 vs. F3 group with (E) Gene Ontology
+  (GO) annotations and (F) Kyoto Encyclopedia of Genes and Genomes (KEGG) biochemical
+  pathway annotations. (G) Functional enrichment analyses of downregulated DEGs in
+  F3 vs. F7 group with GO annotations and KEGG biochemical pathway annotations. (H)
+  Functional enrichment analyses of downregulated DEGs in F5 vs. F3 group with GO
+  annotations and KEGG biochemical pathway annotations
+article_title: Integrated ATAC-seq and RNA-seq Analysis of In Vitro Cultured Skeletal
+  Muscle Satellite Cells to Understand Changes in Cell Proliferation
+citation: Zeyu Ren, et al. Cells. 2024 Jun;13(12).
+year: '2024'
+pub_date: 2024-6-
+epub_date: 2024-6-13
+doi: 10.3390/cells13121031
+journal_title: Cells
+journa_nlm_ta: Cells
+publisher_name: MDPI
+keywords:
+- pig
+- satellite cells
+- cell proliferation
+- ATAC-seq
+---

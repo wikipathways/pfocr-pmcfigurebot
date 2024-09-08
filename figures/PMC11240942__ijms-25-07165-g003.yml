@@ -1,0 +1,38 @@
+---
+figid: PMC11240942__ijms-25-07165-g003
+pmcid: PMC11240942
+image_filename: PMC11240942__ijms-25-07165-g003.jpg
+figure_link: /pmc/articles/PMC11240942/figure/F3/
+number: Figure 3
+figure_title: KLF4 reduced ATP synthesis in HCC cells.
+caption: KLF4 reduced ATP synthesis in HCC cells. (A) KEGG pathway analysis revealed
+  the significantly affected signaling pathways in the TCGA database. (B) Gene set
+  enrichment analysis (GSEA) of transcriptome data in the TCGA database revealed a
+  negative correlation between levels of KLF4 and ATP synthesis. The normalized enrichment
+  score (NES) and false-discovery rate (FDR) were used for analysis. (C) KLF4 suppressed
+  the ATP concentration in HCC cells, as evaluated by the relative ATP concentration
+  in the indicated group. (D) Effects of KLF4 on glycolysis in HCC cells determined
+  by Seahorse ECAR analyzer. The extracellular acidification rate over time, glycolysis,
+  glycolytic capability, and glycolytic reserve were shown. (E) Effects of KLF4 on
+  oxidative phosphorylation in HCC cells determined by Seahorse XF analyzer. The oxygen
+  consumption rate over time, basal respiration rate, ATP-linked respiration rate,
+  and maximal respiration rate were shown. Statistical results are presented as mean
+  ± SD (from triplicates), and significance was determined by Student’s t-test (*
+  p < 0.05, ** p < 0.01 and *** p < 0.001, and **** p < 0.0001)
+article_title: KLF4 Suppresses the Progression of Hepatocellular Carcinoma by Reducing
+  Tumor ATP Synthesis through Targeting the Mir-206/RICTOR Axis
+citation: Yongjin Wang, et al. Int J Mol Sci. 2024 Jul;25(13).
+year: '2024'
+pub_date: 2024-7-
+epub_date: 2024-6-28
+doi: 10.3390/ijms25137165
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- KLF4
+- hepatocellular carcinoma
+- ATP
+- RICTOR
+- miR-206
+---

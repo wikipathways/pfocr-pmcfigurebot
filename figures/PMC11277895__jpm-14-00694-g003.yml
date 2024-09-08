@@ -1,0 +1,36 @@
+---
+figid: PMC11277895__jpm-14-00694-g003
+pmcid: PMC11277895
+image_filename: PMC11277895__jpm-14-00694-g003.jpg
+figure_link: /pmc/articles/PMC11277895/figure/F3/
+number: Figure 3
+figure_title: (A) Enriched signaling pathways and overlapping genes.
+caption: (A) Enriched signaling pathways and overlapping genes. The x-axis represents
+  the significance of gene expression in the signaling pathways, where higher values
+  indicate more significant expression of the important genes within the pathways.
+  The y-axis represents the signaling pathways derived from the analysis of these
+  important genes. The orange color represents the signaling pathways associated with
+  panobinostat. The size of the circles corresponds to the overlap of important genes
+  in the signaling pathways, with larger circles indicating a greater degree of overlap.
+  (B) Chromatin organization signaling pathway and drug action site. By using Reactome,
+  we found a pathway–gene network of chromatin organization signaling pathways and
+  drug action sites. The upper right corner depicts the chromatin organization signaling
+  pathway, while the left image illustrates the drug’s response location within this
+  pathway
+article_title: An Innovative Multi-Omics Model Integrating Latent Alignment and Attention
+  Mechanism for Drug Response Prediction
+citation: Hui-O Chen, et al. J Pers Med. 2024 Jul;14(7).
+year: '2024'
+pub_date: 2024-7-
+epub_date: 2024-6-27
+doi: 10.3390/jpm14070694
+journal_title: Journal of Personalized Medicine
+journa_nlm_ta: J Pers Med
+publisher_name: MDPI
+keywords:
+- multi-omics
+- drug response
+- latent alignment
+- deep learning
+- attention module
+---

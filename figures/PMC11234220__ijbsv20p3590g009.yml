@@ -1,0 +1,34 @@
+---
+figid: PMC11234220__ijbsv20p3590g009
+pmcid: PMC11234220
+image_filename: PMC11234220__ijbsv20p3590g009.jpg
+figure_link: /pmc/articles/PMC11234220/figure/F9/
+number: Figure 9
+figure_title: Function annotation of the TTCRRS signature based on the TCGA cohort.
+caption: Function annotation of the TTCRRS signature based on the TCGA cohort. (A)
+  The relationship between TTCRRS and 28 immune cell infiltrations. (B) Chorogram
+  plot depicts the Pearson r value between TTCRRS and immune cell infiltrations in
+  TCGA and Meta cohorts. (C) Violin plot shows the relationship between 28 immune
+  cell infiltrations and the TTCRRS subtype. (D) Difference in pathway activities
+  scored per patient by GSVA between high- and low-TTCRRS. Shown are t values from
+  a linear model. (E) Butterfly plot illustrates the correlation between the TTCRRS
+  and metabolic pathways, the enrichment pathways based on GSVA of GO and KEGG terms.
+  (F) Scatterplots between CD8A and PD0-1, PD-L1, and CTLA4 with the TTCRRS were shown
+  in the TCGA-KIRC
+article_title: Machine Learning-based Framework Develops a Tumor Thrombus Coagulation
+  Signature in Multicenter Cohorts for Renal Cancer
+citation: Tao Feng, et al. Int J Biol Sci. 2024;20(9).
+year: '2024'
+pub_date: 2024--
+epub_date: 2024-7-1
+doi: 10.7150/ijbs.94555
+journal_title: International Journal of Biological Sciences
+journa_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- Machine learning
+- Tumor thrombus
+- renal cell carcinoma
+- immunotherapy
+- CYP51A1
+---

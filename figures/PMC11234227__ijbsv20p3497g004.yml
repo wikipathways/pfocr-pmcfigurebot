@@ -1,0 +1,37 @@
+---
+figid: PMC11234227__ijbsv20p3497g004
+pmcid: PMC11234227
+image_filename: PMC11234227__ijbsv20p3497g004.jpg
+figure_link: /pmc/articles/PMC11234227/figure/F4/
+number: Figure 4
+figure_title: scRNA-seq analysis shows down-regulation of type I IFN response pathway
+  in tumor cells with high IRPI.
+caption: 'scRNA-seq analysis shows down-regulation of type I IFN response pathway
+  in tumor cells with high IRPI. (A) Log-normalized expression of canonical markers
+  for cells in 8 clusters in the GSE176078 cohort. (B) Bubble plot of the percent
+  expression of marker genes in different cell subtypes. (C) UMAP visualization of
+  all cell subtypes in HER2+ BC patients with high and low IRPI. (D) Bar plots of
+  the cell proportions of each HER2+ BC patients. (E) UMAP visualization of reclustered
+  epithelial cells in all HER2+ BC patients. (F) The heatmap showed that cells in
+  cluster 0, 5, 7 and 8 of epithelial cells had higher CNVs, which were defined as
+  tumor cells. (G) The ridge plot showed the HALLMARK enrichment of DEGs between tumor
+  cells in high IRPI group and low IRPI group. (H) GSEA indicated that Tumor cells,
+  but not other non-tumor cells, showed down-regulation of type I IFN response pathway
+  in HER2+ BC with high IRPI. scRNA-seq: single-cell RNA sequencing, UMAP: Uniform
+  manifold approximation and projection, CNVs: copy number variants, DEGs: differentially
+  expressed genes, GSEA: Gene set enrichment analysis'
+article_title: A High Immune-Related Index with the Suppression of cGAS-STING Pathway
+  is a Key Determinant to Herceptin Resistance in HER2+ Breast Cancer
+citation: Ruizhao Cai, et al. Int J Biol Sci. 2024;20(9).
+year: '2024'
+pub_date: 2024--
+epub_date: 2024-6-17
+doi: 10.7150/ijbs.94868
+journal_title: International Journal of Biological Sciences
+journa_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- Herceptin-resistance
+- HER2+ breast cancer
+- prognostic signature
+---

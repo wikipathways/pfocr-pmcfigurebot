@@ -1,0 +1,37 @@
+---
+figid: PMC11201670__cells-13-01073-g004
+pmcid: PMC11201670
+image_filename: PMC11201670__cells-13-01073-g004.jpg
+figure_link: /pmc/articles/PMC11201670/figure/F4/
+number: Figure 4
+figure_title: Predictive developmental trajectories of iNKT thymocytes in GATA3 FF
+  and FFcre mice.
+caption: Predictive developmental trajectories of iNKT thymocytes in GATA3 FF and
+  FFcre mice. (A) Partition-based Graph Abstraction (PAGA) analysis was applied to
+  the single-cell RNA sequencing data obtained from GATA-3 FF and FFcre iNKT thymocytes.
+  The PAGA graph (right panel) and PAGA-initialized single-cell embedding (left panel)
+  are presented. Weighted edges in the graph represent a statistical measure of connectivity
+  between clusters. (B) Pseudo-time analysis was conducted to delineate the developmental
+  trajectory of iNKT cells, with piNKT0 serving as the Root point. (C) The expression
+  patterns of a representative list of cell-subset-specific gene markers are depicted.
+  (D) Visualization of selected markers of PAGA-initialized single-cell embedding
+  alongside the trajectories defined in (A). (E) The percentage of cell subsets in
+  FF and FFcre mice is illustrated, with deduced developmental pathways indicated
+  by arrows
+article_title: ScRNA-Seq Analyses Define the Role of GATA3 in iNKT Cell Effector Lineage
+  Differentiation
+citation: Tzong-Shyuan Tai, et al. Cells. 2024 Jun;13(12).
+year: '2024'
+pub_date: 2024-6-
+epub_date: 2024-6-20
+doi: 10.3390/cells13121073
+journal_title: Cells
+journa_nlm_ta: Cells
+publisher_name: MDPI
+keywords:
+- iNKT cells
+- single-cell RNA sequencing
+- GATA-3
+- Icos
+- CD127
+---

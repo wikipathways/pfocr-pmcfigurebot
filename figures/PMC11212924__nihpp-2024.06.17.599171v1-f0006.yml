@@ -1,0 +1,59 @@
+---
+figid: PMC11212924__nihpp-2024.06.17.599171v1-f0006
+pmcid: PMC11212924
+image_filename: PMC11212924__nihpp-2024.06.17.599171v1-f0006.jpg
+figure_link: /pmc/articles/PMC11212924/figure/FFigure 6./
+number: Figure 6.
+figure_title: Auxin-induced PC interdigitation is decoupled from cell expansion-induced
+  mechanical stress
+caption: (A) PC interdigitation does not correlate with mechanical stress or cell
+  size in early-developing cotyledons. Shown are correlation plots between margin
+  roughness (MR) and the largest empty circle (LEC, upper graph), which is indicative
+  of the mechanical stress 747 and between MR and cell size/area (lower panel) at
+  0 HAP, 24 HAP and 48 HAP and at different positions (tip, base, middle) in the cotyledon.
+  Green line is the linear model. Gray shadows display the 95% confidence interval.
+  R2 = correlation coefficient. (B) Cell expansion without PC interdigitation. 24
+  HAP wild-type seedlings were either mock-treated or treated with 1 μM auxin NAA
+  or 1 μM brassinolide for 4 days. Then, cotyledons were stained and imaged by confocal
+  microscopy for posterior analysis with PaCeQuant. Growth for 1 day before treatment
+  is crucial to avoid auxin-induced inhibition of germination. (C) Violin plot of
+  cell size (left) and margin roughness (right) computed from images as shown in B.
+  n > 51–109 cells from 9 cotyledons. Box plot inside each violin plot depicts four
+  quartiles and the median. Red dot depicts the mean value. Wilcox test, *p<0.05,
+  ****p<0.0001. (D) Auxin-induced de novo lobe formation without increasing cell size
+  in single cell tracking experiments. Cotyledons (3 DAP) with formed lobes (blue
+  arrowheads) were mock-treated (diluted DMSO) or treated with 20 nM auxin NAA for
+  2.5 days and analyzed as described in Figure 3C. (E) Percentage variation (Δ) in
+  cell size (top) and margin roughness (bottom) calculated with pre/post treatment
+  pairwise images. n = 15 cells, from 5 cotyledons each from different seedlings.
+  Same results were obtained in 3 independent experiments. t-test, ** p<0.01, ns =
+  non-significance. (F) A model for a hierarchical global and local auxin signaling
+  systems underlying the PC interdigitation pattern. A basal level of auxin, which
+  self-amplifies via TIR1/AFB1-dependent auxin signaling to activate IBR-dependent
+  auxin synthesis genes (purple dots). This is counteracted by cytokinin signaling,
+  restricting auxin maxima (increased red color) to the tip of cotyledons. The auxin
+  maxima act as a global signal by emanating to the remaining regions of the cotyledon
+  epidermis (wavy black arrow) presumably via diffusion through the apoplastic space,
+  which locally increases the level of auxin for a specific cell. The resultant local
+  auxin (red dots) then triggers TMK/ROP-dependent cell polarization and cell-cell
+  coordination by activating the feedback loop and the complementary ROP2/ROP6 pathways
+  to coordinate lobe and indentation formation 10,16,20,21
+article_title: Hierarchical global and local auxin signals coordinate cellular interdigitation
+  in Arabidopsis
+citation: Patricio Pérez-Henríquez, et al. bioRxiv. 2024 Jun 19;NA(NA).
+year: '2024'
+pub_date: 2024-6-19
+epub_date: 2024-6-19
+doi: 10.1101/2024.06.17.599171
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- Cell polarity
+- auxin transport
+- pavement cell morphogenesis
+- global coordination
+- local coordination
+- TMK
+- TIR1/AFBs
+---

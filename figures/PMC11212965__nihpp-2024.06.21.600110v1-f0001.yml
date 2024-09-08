@@ -1,0 +1,31 @@
+---
+figid: PMC11212965__nihpp-2024.06.21.600110v1-f0001
+pmcid: PMC11212965
+image_filename: PMC11212965__nihpp-2024.06.21.600110v1-f0001.jpg
+figure_link: /pmc/articles/PMC11212965/figure/FFig. 1./
+number: Fig. 1.
+figure_title: Transcriptional confirmation of vitamin A deficiency In adult mouse
+  lungs after 8 weeks of dietary modulation
+caption: (A) General schematic of the mixed host-microbiome RNA extraction and data
+  analysis protocol. (B) Metabolic pathway of Vitamin A. (C) Gene expression of Lrat
+  and Aldh1a1, two Indicators of tissue vitamin A status. P-values = 0.009 and 0.036
+  respectively. (D) Heatmap of vitamin A targets from literature In Vitamin A-sufficient
+  VAS) and vitamin A-deficient (VAD) mouse lungs. (E) Manhattan plot of ChIP-X Enrichment
+  Analysis (ChEA) gene sets. Each point Indicates one term from the ChEA 2022 gene
+  set. The y-axis represents the −log(p-value) of the enrichment between the input
+  gene set and the ChEA term gene set. The Input gene set used Included all downregularted
+  genes in VAS lungs at 8 weeks with a p value < 0.05 (n=14). All mouse RNA sequencing
+  files were annotated and processed using SingleCell Toolkit version 1.9.1 on Rstudio
+  version 4,1,1. Figure B created using Blorender
+article_title: EPITHELIAL REMODELING AND MICROBIAL DYSBIOSIS IN THE LOWER RESPIRATORY
+  TRACT OF VITAMIN A-DEFICIENT MOUSE LUNGS
+citation: Kiloni. R. Quiles, et al. bioRxiv. 2024 Jun 22;NA(NA).
+year: '2024'
+pub_date: 2024-6-22
+epub_date: 2024-6-22
+doi: 10.1101/2024.06.21.600110
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

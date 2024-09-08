@@ -1,0 +1,32 @@
+---
+figid: PMC11241446__ijms-25-06849-g002
+pmcid: PMC11241446
+image_filename: PMC11241446__ijms-25-06849-g002.jpg
+figure_link: /pmc/articles/PMC11241446/figure/F2/
+number: Figure 2
+figure_title: Identification and biological characteristics of two molecular subtypes
+  of colon cancer.
+caption: Identification and biological characteristics of two molecular subtypes of
+  colon cancer. (A) Consensus matrix of TCGA-COAD for k = 2. (B) CDF curves in consensus
+  clustering analysis. CDF curves representing consensus scores for different subtype
+  numbers (k = 2–9). (C) Survival curves of TCGA-COAD patients among different subtypes.
+  Survival rate differences were evaluated using log-rank test, p < 0.05. (D) Heatmap
+  of seven TAS2Rs prognostic genes in the TCGA-COAD dataset. (E) GSEA enrichment analysis
+  showing the activation status of biological pathways in two molecular subtypes of
+  colon cancer, red boxs indicates an important signaling pathway
+article_title: Comprehensive Analysis of the Function and Prognostic Value of TAS2Rs
+  Family-Related Genes in Colon Cancer
+citation: Suzhen Bi, et al. Int J Mol Sci. 2024 Jul;25(13).
+year: '2024'
+pub_date: 2024-7-
+epub_date: 2024-6-21
+doi: 10.3390/ijms25136849
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- colon cancer
+- type 2 bitter taste receptor
+- immunotherapy
+- machine learning
+---
