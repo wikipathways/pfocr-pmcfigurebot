@@ -37,7 +37,8 @@
 # ============================================================================
 
 # Keep track of time to stay under 6 hour limit per GH Action job.
-# Exit at 5 hours and let subsequent runs complete a given query
+# Exit at 1 hour and let subsequent runs complete a given query; run 7 times
+# during off-peak NCBI hours.
 job_start_time <- Sys.time()
 exit_flag <- FALSE
 
@@ -385,7 +386,7 @@ extract_figures <- function(xml_content, exfigids) {
     }
     # Check time elapsed
     check_time <- difftime(Sys.time(), job_start_time, units = "hours")
-    if (check_time >= 5) {
+    if (check_time >= 1) {
       exit_flag <- TRUE
       break
     }
@@ -499,7 +500,7 @@ process_figures <- function(figures, exfigids, config, output_dir = "figures", m
     
     # Check time elapsed
     check_time <- difftime(Sys.time(), job_start_time, units = "hours")
-    if (check_time >= 5) {
+    if (check_time >= 1) {
       exit_flag <- TRUE
       break
     }

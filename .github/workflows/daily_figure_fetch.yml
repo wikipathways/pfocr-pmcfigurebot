@@ -3,8 +3,8 @@ name: Fetch pathway figures and metadata
 on:
   workflow_dispatch:
   schedule:
-  - cron: "0 1 1-15 1,4,7,10 *" # For 9 PM ET (which is 1 AM UTC of the next day), everyday of Jan, Apr, Jul, Oct.
-  - cron: "0 7 1-15 1,4,7,10 *" # For 3 AM ET (which is 7 AM UTC), everyday of Jan, Apr, Jul, Oct.
+  - cron: "0 1-7 1-3 1,4,7,10 *" # For 9PM-3AM ET (1-7 AM UTC), for the first 3 days of every Jan, Apr, Jul, Oct.
+
  
 concurrency:
   group: ${{ github.workflow }}-${{ github.head_ref || github.ref }}
