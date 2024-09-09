@@ -23,16 +23,3 @@ body:
       placeholder: e.g., 3
     validations:
       required: true
-  - type: markdown
-    attributes:
-      value: |
-        The following will be automatically filled based on your inputs above:
-  - type: textarea
-    id: auto_body
-    attributes:
-      label: Formatted Request
-      value: |
-        pmcid: 
-        figure_number: 
-    validations:
-      required: false
