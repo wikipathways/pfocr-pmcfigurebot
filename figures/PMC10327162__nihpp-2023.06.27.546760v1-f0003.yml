@@ -1,0 +1,40 @@
+---
+figid: PMC10327162__nihpp-2023.06.27.546760v1-f0003
+pmcid: PMC10327162
+image_filename: PMC10327162__nihpp-2023.06.27.546760v1-f0003.jpg
+figure_link: /pmc/articles/PMC10327162/figure/FFigure 3./
+number: Figure 3.
+figure_title: RsgI homologs undergo autoproteolysis at a conserved cleavage site
+caption: (A) Schematic model of the RsgI2-Sig2 signal transduction pathway in H. thermocellum.
+  Cellulose binding to the carbohydrate binding module on RsgI2 generates a pulling
+  force that dissociates the cleaved SEAL domain and enables RasP-mediated intramembrane
+  proteolysis. Release of SigI2 (I2) activates genes involved in cellulose degradation.
+  (B) Coomassie-stained gels of His-SUMO-RsgI(SEAL) fusions from H. thermocellum (Ht)
+  RsgI2 and RsgI4 and C. thermocaliphilum (Ct) RsgI. Load and elution (Elu) are shown.
+  All purifications were performed in biological triplicate and a representative gel
+  is shown. (C) Coomassie-stained gel of purified His-SUMO-RsgI(SEAL)(Ct) after incubation
+  at 37 °C for the indicated times. (D) Coomassie-stained gel and immunoblot of purified
+  His-SUMO-RsgI(SEAL) variants. Purified proteins were diluted 1:50 for the immunoblot.
+  (E) Sequence logo determined from the alignment of >5000 RsgI homologs. Adapted
+  from Brunet et al (4). The autocleavage site is highlighted (scissors). (F) AlphaFold2-predicted
+  structures of SEAL domains from RsgI homologs with their cleavage sites (scissor)
+  indicated. The crystal structure and cleavage site of MUC1’s SEA domain are included
+  for comparison
+article_title: Bacterial SEAL domains undergo autoproteolysis and function in regulated
+  intramembrane proteolysis
+citation: Anna P. Brogan, et al. bioRxiv. 2023 Jun 27;NA(NA).
+year: '2023'
+pub_date: 2023-6-27
+epub_date: 2023-6-27
+doi: 10.1101/2023.06.27.546760
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- Autoproteolysis
+- SEA domain
+- mechanotransduction
+- regulated intramembrane proteolysis (RIP)
+- adhesion GPCR
+- cellulosomes
+---

@@ -1,0 +1,34 @@
+---
+figid: PMC10384765__pathogens-12-00896-g003
+pmcid: PMC10384765
+image_filename: PMC10384765__pathogens-12-00896-g003.jpg
+figure_link: /pmc/articles/PMC10384765/figure/F3/
+number: Figure 3
+figure_title: Reactome pathway analysis.
+caption: Reactome pathway analysis. Reactome pathway analysis was conducted on a total
+  824 genes using the DAVID functional annotation tool. Selection of pathways was
+  carried out based on FDR (p ≤ 0.05) criteria. Pathways highlighted in grey represent
+  those with a statistically significant differential gene expression (p < 0.05) between
+  rNJ0612NME6 and rNJ0612NME6-M51R. Details about the levels of expression of specific
+  genes within the relevant pathways are presented in Figure 4
+article_title: 'Exploring the Molecular Basis of Vesicular Stomatitis Virus Pathogenesis
+  in Swine: Insights from Expression Profiling of Primary Macrophages Infected with
+  M51R Mutant Virus'
+citation: Lauro Velazquez-Salinas, et al. Pathogens. 2023 Jul;12(7).
+year: '2023'
+pub_date: 2023-7-
+epub_date: 2023-6-30
+doi: 10.3390/pathogens12070896
+journal_title: Pathogens
+journa_nlm_ta: Pathogens
+publisher_name: MDPI
+keywords:
+- microarray
+- vesicular stomatitis
+- porcine macrophages
+- interferon
+- M51R mutant
+- immune response
+- pathogenesis
+- RNA sensors
+---

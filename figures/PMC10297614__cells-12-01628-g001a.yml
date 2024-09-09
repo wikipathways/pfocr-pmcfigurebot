@@ -1,0 +1,44 @@
+---
+figid: PMC10297614__cells-12-01628-g001a
+pmcid: PMC10297614
+image_filename: PMC10297614__cells-12-01628-g001a.jpg
+figure_link: /pmc/articles/PMC10297614/figure/F1/
+number: Figure 1
+figure_title: High DDX3X expression is associated with poor outcomes in the liver
+  cancer cohort, and canonical pathway analysis of the DDX3X-dependent gene signature
+  reveals a correlation with cancer metastasis, PCP and PTEN signaling.
+caption: 'High DDX3X expression is associated with poor outcomes in the liver cancer
+  cohort, and canonical pathway analysis of the DDX3X-dependent gene signature reveals
+  a correlation with cancer metastasis, PCP and PTEN signaling. (A) A scatter plot
+  of the indicated expression patterns in 373 liver cancer patients is shown. A total
+  of 423 samples, including normal and tumor tissues, were retrieved from the TCGA
+  database, and 50 adjacent normal samples were excluded prior to the analysis. The
+  tumor samples were divided into the DDX3X-high and DDX3X-low groups based on the
+  cut-off value around the median DDX3X gene expression (FPKM) in cohort. RNA-Seq
+  data were retrieved from TCGA (Dataset ID: TCGA.LIHC.sampleMap/HiSeqV2_PANCAN, version:
+  2017-10-13). The RNA-Seq read count was normalized and log2 transformed. (B) Kaplan–Meier
+  analysis revealed the overall survival of liver cancer patients in the DDX3X-high
+  and DDX3X-low groups. (C) A total of 2890 differentially expressed gene targets
+  in the DDX3X-high group were selected and are shown after hierarchical clustering
+  (1.5-fold change, p value < 0.05). (D) Significant signaling pathways were ranked
+  according to the −log p value. Activation and inactivation of the indicated signaling
+  pathways were determined by the transformed Z score. (E) The percentage of genes
+  overlapping in the indicated signaling pathways is shown. The numbers of upregulated
+  and downregulated genes are displayed with red and green bars, respectively. The
+  p values are shown on the orange line'
+article_title: Perturbation Analysis of a Prognostic DDX3X-Mediated Gene Expression
+  Signature Identifies the Antimetastatic Potential of Chaetocin in Hepatocellular
+  Carcinoma
+citation: Tsung-Chieh Lin, et al. Cells. 2023 Jun;12(12).
+year: '2023'
+pub_date: 2023-6-
+epub_date: 2023-6-14
+doi: 10.3390/cells12121628
+journal_title: Cells
+journa_nlm_ta: Cells
+publisher_name: MDPI
+keywords:
+- DDX3X
+- chaetocin
+- hepatocellular carcinoma
+---

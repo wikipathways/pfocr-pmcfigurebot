@@ -1,0 +1,38 @@
+---
+figid: PMC10342154__ijms-24-10641-g003
+pmcid: PMC10342154
+image_filename: PMC10342154__ijms-24-10641-g003.jpg
+figure_link: /pmc/articles/PMC10342154/figure/F3/
+number: Figure 3
+figure_title: KEGG enrichment scatter plot of DEGs.
+caption: KEGG enrichment scatter plot of DEGs. The vertical axis represents the name
+  of the pathway, the horizontal axis represents the gene ratio, the size of the points
+  represents the number of DEGs in this pathway, and the color of the points corresponds
+  to different adjusted p-value ranges. Gene ratio refers to the ratio of the number
+  of differential genes enriched in the pathway (number of sample genes) to the number
+  of annotated genes (number of background genes). The larger the enrichment factor,
+  the greater the degree of enrichment. Adjusted p-value (padj) is the p-value after
+  multiple hypothesis testing correction. The value range of padj is [0, 1]. The closer
+  to zero, the more significant the enrichment. We selected the 20 most enriched pathways
+  to display in this figure, and if there are fewer than 20 enriched pathway entries,
+  all are displayed. (A–F) The scatter plot of up-regulated and down-regulated DEGs
+  in different comparison groups mentioned above. “↑” represents the up-regulated
+  DEGs, “↓” represents the down-regulated DEGs
+article_title: Transcriptomic Profiling Highlights the ABA Response Role of BnSIP1-1
+  in Brassica napus
+citation: Chi Zhang, et al. Int J Mol Sci. 2023 Jul;24(13).
+year: '2023'
+pub_date: 2023-7-
+epub_date: 2023-6-26
+doi: 10.3390/ijms241310641
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- Brassica napus
+- ABA
+- BnSIP1-1
+- ABA transporter
+- signal transduction
+- endomembrane trafficking
+---

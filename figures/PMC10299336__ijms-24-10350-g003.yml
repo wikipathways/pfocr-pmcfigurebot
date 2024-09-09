@@ -1,0 +1,46 @@
+---
+figid: PMC10299336__ijms-24-10350-g003
+pmcid: PMC10299336
+image_filename: PMC10299336__ijms-24-10350-g003.jpg
+figure_link: /pmc/articles/PMC10299336/figure/F3/
+number: Figure 3
+figure_title: Association between NFE2L2 expression and MAPK-ERK and PI3K-AKT-mTOR
+  oncogenic signalling in T-ALL.
+caption: Association between NFE2L2 expression and MAPK-ERK and PI3K-AKT-mTOR oncogenic
+  signalling in T-ALL. (A,B) Gene Set Enrichment Analysis (GSEA) was performed in
+  38 T-ALL patients with publicly available gene expression data [32] based on their
+  NFE2L2 expression levels as a continuous variable. (A) Two representative signatures
+  for MAPK-ERK signalling pathway were selected from the Molecular Signatures Dabatase
+  (MSigDB), and their systematic names are M27565 (REACTOME_MAPK_FAMILY_SIGNALING_CASCADES)
+  and M13863 (BIOCARTA_MAPK_PATHWAY). (B) Two representative signatures for PI3K-AKT-mTOR
+  signalling pathway were selected from the Molecular Signatures Dabatase (MSigDB),
+  and their systematic names are M5923 (HALLMARK_PI3K_AKT_MTOR_SIGNALING) and M16909
+  (PARENT_MTOR_SIGNALING_UP). The green curve corresponds to the enrichment score
+  (ES) curve, which is the running sum of the weighted score obtained with the GSEA
+  software v4.2.1. NES, normalized enrichment score; NOM-p, nominal p value. (C–F)
+  Violin or scatter plots representing NFE2L2 expression (DESeq2 normalized counts)
+  in 249 patients from the TARGET cohort without (No mut) or with (Mut) mutations
+  in KRAS, PTEN or TP53. Mann–Whitney test was used to determine the p-value. (G)
+  GSEA was performed in 249 T-ALL patients from the TARGET cohort with available data
+  from whole exome sequencing, comparing those with and without mutations in PTEN
+  (PTEN_Mut vs. PTEN_No mut) as discrete phenotypes. These signatures were selected
+  from the Molecular Signatures Dabatase (MSigDB), and their systematic names are
+  M45021 (REACTOME_KEAP1_NFE2L2_PATHWAY) and M45026 (REACTOME_NUCLEAR_EVENTS_MEDIATED_BY_NFE2L2).
+  The green curve corresponds to the enrichment score (ES) curve, which is the running
+  sum of the weighted score obtained with the GSEA software v4.2.1. NES, normalized
+  enrichment score; NOM-p, nominal p value
+article_title: Identification of NRF2 Activation as a Prognostic Biomarker in T-Cell
+  Acute Lymphoblastic Leukaemia
+citation: María Villa-Morales, et al. Int J Mol Sci. 2023 Jun;24(12).
+year: '2023'
+pub_date: 2023-6-
+epub_date: 2023-6-19
+doi: 10.3390/ijms241210350
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- T-cell acute lymphoblastic leukaemia (T-ALL)
+- NRF2 (nuclear factor erythroid 2-related factor 2)
+- prognostic biomarker
+---

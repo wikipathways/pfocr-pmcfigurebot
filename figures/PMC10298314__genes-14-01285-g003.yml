@@ -1,0 +1,53 @@
+---
+figid: PMC10298314__genes-14-01285-g003
+pmcid: PMC10298314
+image_filename: PMC10298314__genes-14-01285-g003.jpg
+figure_link: /pmc/articles/PMC10298314/figure/F3/
+number: Figure 3
+figure_title: The characterization of DEGs, pathways, MPP signatures, and immune microenvironments
+  between S1 and S2 groups.
+caption: The characterization of DEGs, pathways, MPP signatures, and immune microenvironments
+  between S1 and S2 groups. (a) The heatmap of NMF clustering based on AD patients.
+  (b) The volcano plot of DEGs between S1 and S2 groups. (c) The functional annotation
+  analysis of DEGs by hallmark pathways. ORA has been used to calculate the enrichment
+  level of HALLMARKS from DEGs. (d) MPP signature-based clustering of the metaGEO
+  dataset showed that DEGs significantly correlated with metabolism, nervous system,
+  and immunity among S1, S2, and non-AD groups. (e) The functional annotation analysis
+  of DEGs by the KEGG database. GSEA (Gene Set Enrichment Analysis) has been used
+  to evaluate the enrichment of gene sets in KEGG. The red circle represents upregulation
+  of the gene, while the blue circle represents downregulation of the gene. (f) The
+  functional annotation analysis of DEGs by the GO database. GSEA has been used to
+  evaluate the enrichment of gene sets in GO. The red circle represents upregulation
+  of the gene, while the blue circle represents downregulation of the gene. (g) The
+  core metabolic network of significantly differential MPP signatures. We selected
+  the top 10 metabolic pathways ranked by the MCC algorithm and their neighbors. Hub
+  nodes are also labeled by red, and the nodes with a deeper color have a higher rank.
+  Green nodes indicate adjacency nodes between hub nodes. (h) The heatmap of differential
+  MPP signatures, which we selected from all available ones between the S1 and S2
+  groups. (i) The immune infiltration analysis shows the profiles of infiltrating
+  immune cell types between the S1 and S2 groups. (j) The boxplot of metabolic pathways
+  between S1 and S2 groups. hsa00592, α-Linolenic acid metabolism; hsa00982, drug
+  metabolism by cytochrome P450; hsa01040, biosynthesis of unsaturated fatty acids;
+  hsa00534, glycosaminoglycan biosynthesis by heparan; hsa00780, biotin metabolism;
+  hsa00980, metabolism of xenobiotics by cytochrome; hsa00512, mucin type O-glycan
+  biosynthesis; hsa00051, fructose and mannose metabolism; hsa00760, nicotinate and
+  nicotinamide metabolism; hsa00062, fatty acid elongation. The labeled asterisk indicated
+  the statistical p values (* p < 0.05, ** p < 0.01, and *** p < 0.001)
+article_title: Metabolic Pathway Pairwise-Based Signature as a Potential Non-Invasive
+  Diagnostic Marker in Alzheimer’s Disease Patients
+citation: Yunwen Feng, et al. Genes (Basel). 2023 Jun;14(6).
+year: '2023'
+pub_date: 2023-6-
+epub_date: 2023-6-17
+doi: 10.3390/genes14061285
+journal_title: Genes
+journa_nlm_ta: Genes (Basel)
+publisher_name: MDPI
+keywords:
+- Alzheimer’s disease
+- noninvasive diagnosis
+- metabolic abnormalities
+- biomarker
+- peripheral blood
+- multi-machine learning
+---

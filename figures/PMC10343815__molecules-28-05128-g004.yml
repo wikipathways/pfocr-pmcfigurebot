@@ -1,0 +1,39 @@
+---
+figid: PMC10343815__molecules-28-05128-g004
+pmcid: PMC10343815
+image_filename: PMC10343815__molecules-28-05128-g004.jpg
+figure_link: /pmc/articles/PMC10343815/figure/F4/
+number: Figure 4
+figure_title: The gene expression profile of icariin-induced osteoblast differentiation
+  in the NF1 cell model was analyzed with RNA-seq technology.
+caption: The gene expression profile of icariin-induced osteoblast differentiation
+  in the NF1 cell model was analyzed with RNA-seq technology. (A) Heatmap of the differentially
+  expressed genes in the 2−7 group treated with icariin and the 2−7 control group.
+  Each row represents a gene, and each column represents a sample. The color indicates
+  the level of gene expression in the sample, red indicates higher expression, and
+  green indicates lower expression. (B) Scatter plot of differentially expressed genes
+  in the comparison groups. Each point in the figure represents a gene, and the point
+  closer to the origin has a lower expression. Red represents upregulated genes, green
+  represents downregulated genes, and black represents nondifferentially expressed
+  genes. Both up/down-regulation are the vertical axis samples relative to the horizontal
+  axis samples. (C) Dot-plot of significantly enriched KEGG pathways. The size of
+  the q-value is represented by the color of the dots. The smaller the q-value is,
+  the closer the color is to the red color, and the number of differentially expressed
+  genes contained in each pathway is represented by the size of the dots
+article_title: Icariin Promotes Osteogenic Differentiation in a Cell Model with NF1
+  Gene Knockout by Activating the cAMP/PKA/CREB Pathway
+citation: Meng Chen, et al. Molecules. 2023 Jul;28(13).
+year: '2023'
+pub_date: 2023-7-
+epub_date: 2023-6-30
+doi: 10.3390/molecules28135128
+journal_title: Molecules
+journa_nlm_ta: Molecules
+publisher_name: MDPI
+keywords:
+- Neurofibromatosis type 1
+- icariin
+- gene knockout
+- osteogenic differentiation
+- cAMP/PKA/CREB
+---

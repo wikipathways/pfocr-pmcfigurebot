@@ -1,0 +1,43 @@
+---
+figid: PMC10385841__viruses-15-01406-g007
+pmcid: PMC10385841
+image_filename: PMC10385841__viruses-15-01406-g007.jpg
+figure_link: /pmc/articles/PMC10385841/figure/F7/
+number: Figure 7
+figure_title: Canonical pathway analysis of PIE response following individual G9P[13]
+  infection vs.
+caption: 'Canonical pathway analysis of PIE response following individual G9P[13]
+  infection vs. control (non-infected PIE) and G5P[7] infection vs. control (non-infected
+  PIE) performed using Qiagen IPA. Canonical pathways listed for G5P[7] are as follows:
+  Focal adhesion kinase (FAK), sperm motility, ID1, growth hormone, eicosanoid, breast
+  cancer regulation by stathmin 1, S100 family, and phagosome formation. Canonical
+  pathways listed for G9P[13] are as follows: ABRA, Oxytocin, UVC-induced MAPK, actin
+  cytoskeleton, endocannabinoid cancer inhibition, regulation of cellular mechanics
+  by calpain protease, CDX gastrointestinal cancer, serotonin receptor, mismatch repair
+  in eukaryotes, CXCR4, ILK, S100 family, thrombin signaling, senescence, role of
+  tissue factor in cancer, cell cycle control of chromosomal replication, cardiac
+  hypertrophy, role of BRCA1 in DNA damage response, endothelin-1, and kinetochore
+  metaphase. Canonical pathway analysis was conducted using the IPA library and showed
+  the most significant contributions through the input data set. For canonical pathway
+  analysis, the −log (p-value) > 1.3 was taken as the threshold and the z-score >
+  2 was defined as the threshold for significant activation, while a z-score < −2
+  was defined as the threshold for significant inhibition. Bars indicate the activation
+  z-score; blue symbols represent p values in log10 format'
+article_title: Host Cell Response to Rotavirus Infection with Emphasis on Virus–Glycan
+  Interactions, Cholesterol Metabolism, and Innate Immunity
+citation: Molly Raque, et al. Viruses. 2023 Jul;15(7).
+year: '2023'
+pub_date: 2023-7-
+epub_date: 2023-6-21
+doi: 10.3390/v15071406
+journal_title: Viruses
+journa_nlm_ta: Viruses
+publisher_name: MDPI
+keywords:
+- rotavirus A
+- transcriptome analysis
+- glycosyltransferases
+- fucosyltransferases
+- sialyltransferases
+- cholesterol metabolism
+---

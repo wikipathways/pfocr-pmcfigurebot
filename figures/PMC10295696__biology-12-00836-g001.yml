@@ -1,0 +1,34 @@
+---
+figid: PMC10295696__biology-12-00836-g001
+pmcid: PMC10295696
+image_filename: PMC10295696__biology-12-00836-g001.jpg
+figure_link: /pmc/articles/PMC10295696/figure/F1/
+number: Figure 1
+figure_title: Overview of the bioinformatic workflow for reconstructing the carbohydrate
+  and glycan metabolic pathways of the A.
+caption: Overview of the bioinformatic workflow for reconstructing the carbohydrate
+  and glycan metabolic pathways of the A. fulica snail based on the GhostKOALA assignment
+  (grey arrows). The 367 proteins were confirmed by cross-checking with pathway and
+  protein member information (brown arrow). The pathway gaps are successfully filled
+  with additional enzymes by adjusting the KEGG pathway search parameters, manual
+  curation, and protein domain and structure prediction (blue arrows). The unrelated
+  proteins were removed from the candidate list (red arrows)
+article_title: Understanding Snail Mucus Biosynthesis and Shell Biomineralisation
+  through Genomic Data Mining of the Reconstructed Carbohydrate and Glycan Metabolic
+  Pathways of the Giant African Snail (Achatina fulica)
+citation: Pornpavee Nualnisachol, et al. Biology (Basel). 2023 Jun;12(6).
+year: '2023'
+pub_date: 2023-6-
+epub_date: 2023-6-09
+doi: 10.3390/biology12060836
+journal_title: Biology
+journa_nlm_ta: Biology (Basel)
+publisher_name: MDPI
+keywords:
+- Achatina fulica
+- land snail
+- biochemical pathways
+- glycan
+- mucus
+- shell biomineralisation
+---

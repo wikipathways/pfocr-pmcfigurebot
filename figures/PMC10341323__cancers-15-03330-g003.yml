@@ -1,0 +1,42 @@
+---
+figid: PMC10341323__cancers-15-03330-g003
+pmcid: PMC10341323
+image_filename: PMC10341323__cancers-15-03330-g003.jpg
+figure_link: /pmc/articles/PMC10341323/figure/F3/
+number: Figure 3
+figure_title: Functional characterization and profiling of TAM subsets in YUMM1.
+caption: Functional characterization and profiling of TAM subsets in YUMM1.7 melanoma
+  tumors. (a) Heatmap with hierarchical clustering of TAM subpopulations based on
+  z-score-transformed gene expression from bulk RNA-seq. F4/80high and F4/80low subsets
+  were isolated from 10 pooled tumors and RNA-seq data were collected in 3 independent
+  experiments. (b) Volcano plot showing the top 50 differentially expressed genes
+  (DEGs) between F4/80high and F4/80low subsets (p-adj < 0.05, abs(log2FoldChange(FC))
+  > 1). (c,d) GSEA Hallmark gene sets from the mouse MSigDB, with an FDR < 25% for
+  the F4/80high and F4/80low TAM DEGs (NES = normalized enrichment score, FDR = false
+  discovery rate). (e) Enrichment of F4/80high (right, red) and F4/80low (left, blue)
+  DEGs (protein-coding genes only) for KEGG metabolic pathway terms. Bar lengths represent
+  associated z-score. (f) PCA embedding of TAM samples from cytokine/chemokine functional
+  profiling, assessed by bead-based multiplex secretion assay (PC2 vs. PC1, top; PC3
+  vs. PC2, bottom). Samples clearly separated by TAM subset along PC2, which explained
+  26.7% of variability in the data. (g) Heatmap of natural log-transformed protein
+  secretion from (f). Hierarchical clustering identified 7 functional clusters across
+  TAM subsets
+article_title: Functionally and Metabolically Divergent Melanoma-Associated Macrophages
+  Originate from Common Bone-Marrow Precursors
+citation: Gabriela A. Pizzurro, et al. Cancers (Basel). 2023 Jul;15(13).
+year: '2023'
+pub_date: 2023-7-
+epub_date: 2023-6-24
+doi: 10.3390/cancers15133330
+journal_title: Cancers
+journa_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+keywords:
+- tumor-associated macrophages
+- melanoma
+- tumor microenvironment
+- macrophage ontogeny
+- immunosuppression
+- tissue-resident macrophages
+- metabolic pathways
+---

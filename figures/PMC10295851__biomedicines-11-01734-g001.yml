@@ -1,0 +1,29 @@
+---
+figid: PMC10295851__biomedicines-11-01734-g001
+pmcid: PMC10295851
+image_filename: PMC10295851__biomedicines-11-01734-g001.jpg
+figure_link: /pmc/articles/PMC10295851/figure/F1/
+number: Figure 1
+figure_title: The atherosclerosis-related lncRNA AC078850.
+caption: |-
+  The atherosclerosis-related lncRNA AC078850.1 was identified using bioinformatic analysis and validated in foam cells: (A) Venn diagram displaying the intersected lncRNAs in GSE120521 and GSE125126; (B) Heatmap of differentially expressed lncRNAs; the red frames: lncRNA AC078850.1; (C) Enrichment analysis of transcriptional factors interacting with lncRNA AC078850.1; the red frames: lipid and atherosclerosis, HIF-1 signaling pathway; (D) The network diagram of HIF-1α targeting genes; (E) The expression levels of lncRNA AC078850.1 in PBMCs of healthy control patients (as well as patients with carotid plaque) were detected using qRT-PCR (n = 9–18); (F) The expression levels of lncRNA AC078850.1 in PBMCs of healthy control patients (as well as patients with single/multiple carotid plaque) were detected using qRT-PCR (n = 6–9); (G) The expression levels of lncRNA AC078850.1 in PBMCs of patients with single carotid plaque, multiple and stable carotid plaque, and multiple and unstable carotid plaque were detected using qRT-PCR (n = 6); (H) Relative expressions of lncRNA AC078850.1, lncRNA AL359183.1 and linc01547 in ox-LDL induced THP-1-derived macrophages were detected using qRT-PCR (n = 6); (I) Subcellular localization of lncRNA AC078850.1 was detected using FISH assay in THP-1 macrophage-derived foam cells (n = 3, scale bar: 10 μm). The results were obtained from at least three independent experiments. Measurement data were presented as mean ± SD, and Student’s t-tests were used to analyze. * p < 0.05, ** p < 0.01, *** p < 0.001, **** p < 0.0001, and ns
+  p > 0.05
+article_title: Long Noncoding RNA AC078850.1 Induces NLRP3 Inflammasome-Mediated Pyroptosis
+  in Atherosclerosis by Upregulating ITGB2 Transcription via Transcription Factor
+  HIF-1α
+citation: Yu Tian, et al. Biomedicines. 2023 Jun;11(6).
+year: '2023'
+pub_date: 2023-6-
+epub_date: 2023-6-16
+doi: 10.3390/biomedicines11061734
+journal_title: Biomedicines
+journa_nlm_ta: Biomedicines
+publisher_name: MDPI
+keywords:
+- atherosclerosis
+- lncRNA AC078850.1
+- HIF-1α
+- macrophage
+- pyroptosis
+- reactive oxygen species
+---

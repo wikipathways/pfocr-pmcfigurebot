@@ -1,0 +1,49 @@
+---
+figid: PMC10298314__genes-14-01285-g002
+pmcid: PMC10298314
+image_filename: PMC10298314__genes-14-01285-g002.jpg
+figure_link: /pmc/articles/PMC10298314/figure/F2/
+number: Figure 2
+figure_title: The metabolic hallmarks between AD and non-AD samples were detected
+  by comparative transcriptomic analysis.
+caption: The metabolic hallmarks between AD and non-AD samples were detected by comparative
+  transcriptomic analysis. (a) The volcano plot of DEGs between AD and non-AD groups.
+  (b) The core metabolic network of significantly differential MPP signatures unveils
+  important metabolic pathways. We selected the top 10 metabolic pathways ranked by
+  the MCC algorithm and their neighbors for visualization. Hub nodes are also labeled
+  by color, and the nodes with a deeper color have a higher rank. Green nodes are
+  the neighbor nodes of hub nodes. (c) The functional annotation analysis of DEGs
+  by the KEGG database. Over-Representation Analysis (ORA) has been used to calculate
+  the enrichment level of KEGG from DEGs. (d) The functional annotation analysis of
+  DEGs by the GO database. ORA has been used to calculate the enrichment level of
+  GO from DEGs. (e) The boxplot of metabolic pathways between AD and non-AD samples
+  reveals significantly differential metabolic pathways. (f) The functional annotation
+  analysis of DEGs by hallmark pathways. ORA has been used to calculate the enrichment
+  level of HALLMARKS from DEGs. (g) The heatmap of DEGs between AD and non-AD groups.
+  We selected significant DEGs from all the available ones for visualization. (h)
+  The heatmap of differential MPP signatures. We selected significantly differential
+  MPP signatures from all available ones for visualization. hsa01040, Biosynthesis
+  of unsaturated fatty acids; hsa00052, Galactose metabolism; hsa00780, Biotin metabolism;
+  hsa00270, Cysteine and Methionine metabolism; hsa00760, Nicotinate and Nicotinamide
+  metabolism; hsa00592, α-Linolenic acid metabolism; hsa00533, Glycosaminoglycan biosynthesis—keratan
+  sulfate; hsa00590, Arachidonic acid metabolism; hsa00980, metabolism of xenobiotics
+  by cytochrome P450; hsa00512, Mucin type O-glycan biosynthesis. The labeled asterisk
+  indicated the statistical p values (*** p < 0.001)
+article_title: Metabolic Pathway Pairwise-Based Signature as a Potential Non-Invasive
+  Diagnostic Marker in Alzheimer’s Disease Patients
+citation: Yunwen Feng, et al. Genes (Basel). 2023 Jun;14(6).
+year: '2023'
+pub_date: 2023-6-
+epub_date: 2023-6-17
+doi: 10.3390/genes14061285
+journal_title: Genes
+journa_nlm_ta: Genes (Basel)
+publisher_name: MDPI
+keywords:
+- Alzheimer’s disease
+- noninvasive diagnosis
+- metabolic abnormalities
+- biomarker
+- peripheral blood
+- multi-machine learning
+---

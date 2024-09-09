@@ -1,0 +1,37 @@
+---
+figid: PMC10350187__nihpp-rs3045396v1-f0001
+pmcid: PMC10350187
+image_filename: PMC10350187__nihpp-rs3045396v1-f0001.jpg
+figure_link: /pmc/articles/PMC10350187/figure/F1/
+number: Figure 1
+figure_title: RepID negatively correlates with the DAB2 expression
+caption: (A) Profiling of transcription levels of genes involved in Wnt signaling
+  pathway in wild-type (WT) or RepID-depleted (KO) K562 cancer cell lines using PCR
+  array. (B, C) DAB2 transcription is negatively correlated with the RepID. Expression
+  of DAB2 transcripts was compared with RepID transcripts in all cancer dataset based
+  on Cancer Cell Line Encyclopedia (CCLE) database using CellMinerCDB (B). Heatmap
+  of transcription correlation between RepID and DAB2 from CCLE dataset (C). (D) DAB2
+  transcription is increased in a RepID-depleted cancer cell lines. Transcription
+  level of DAB2 was examined by qRT-PCR in K562 or DMS114 cell lines in RepID WT or
+  RepID-depleted condition. Average of transcription level relative to GAPDH was indicated,
+  and error bars represent the standard deviation (**P-value < 0.01, ***p < 0.001).
+  (E) DAB2 protein is highly expressed in RepID-deficient cancer cell lines. Immunoblot
+  analysis with antibodies against DAB2 was performed and Histone H3 was used as loading
+  control. Relative intensity of DAB2 protein was indicated as fold changes of RepID
+  KO to RepID WT cells
+article_title: RepID represses megakaryocytic differentiation by recruiting CRL4A-JARID1A
+  at DAB2 promoter
+citation: Jae-Hyun Jo, et al. Res Sq. 2023 Jun 26;NA(NA).
+year: '2023'
+pub_date: 2023-6-26
+epub_date: 2023-6-26
+doi: 10.21203/rs.3.rs-3045396/v1
+journal_title: Research Square
+journa_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords:
+- Megakaryocytic differentiation
+- RepID
+- CRL4A
+- JARID1A
+---

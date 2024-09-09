@@ -1,0 +1,57 @@
+---
+figid: PMC10321283__ijbsv19p3099g004
+pmcid: PMC10321283
+image_filename: PMC10321283__ijbsv19p3099g004.jpg
+figure_link: /pmc/articles/PMC10321283/figure/F4/
+number: Figure 4
+figure_title: miR-6836 regulates Yap1 subcellular localization by targeting DLG2.
+caption: 'miR-6836 regulates Yap1 subcellular localization by targeting DLG2. a Bubble
+  chart revealing the functional enrichment pattern of SKOV3 attached cells and spheroids.
+  b Bubble chart revealing the functional enrichment pattern of CAOV3 transfected
+  with mimic/mi-NC. c Venn diagram of putative miR-6836 candidate target genes predicted
+  by Targetscan, and genes involved in Notch signaling and Hippo signaling pathway.
+  d Spearman correlation analysis between DLG2 mRNA and miR-6836 expression levels
+  in EOC tissues (n=46). The expression level of DLG2 and miR-6836 was measured by
+  RT-qPCR. e RT-qPCR analysis of DLG2 expression level in A2780/CAOV3 treated with
+  mimic/mi-NC or inhibitor/in-NC. f Western blot analysis of DLG2 expression in A2780/CAOV3
+  treated with mimic/mi-NC or inhibitor/in-NC. g The schematic diagram on the left
+  shows the dual luciferase reporter plasmids construction containing wild type (WT)
+  or mutated (MUT) miR-6836 binding site in DLG2 3'' UTR. 293T cells were transfected
+  with WT/MUT recombined luciferase report vector and mimic/mi-NC. Luciferase reporter
+  activity was normalized to Renilla luciferase activity. h Western blot analysis
+  of p-Yap1, Yap1, Bax, Bcl2 and β-actin expression in OVCAR3/A2780 treated with mimic/mi-NC
+  or A2780/CAOV3 with inhibitor/in-NC. i Western blot analysis of Yap1 expression
+  in the nucleus and cytoplasm of CAOV3/SKOV3 Ctrl or Lv-miR-6836. j Immunofluorescence
+  assay for the subcellular localization of Yap1 caused by mimic/mi-NC or inhibitor/in-NC
+  treatment. Scale bar, 10 μm. k RT-qPCR analysis of miR-6836 expression in A2780/CAOV3
+  treated with si-TEAD1/si-NC. l Schematic diagram shows the possible TEAD1 binding
+  regions of miR-6836 promoter region. ChIP assay is performed using TEAD1 antibodies
+  and IgG as the negative control. m Luciferase reporter assay: 293T cells were transfected
+  with si-TEAD1/si-NC and recombined luciferase report vector containing miR-6836
+  promoter region. Luciferase reporter activity was normalized to Renilla luciferase
+  activity. n The schematic diagram of miR-6836-DLG2-Yap1-TEAD1 positive feedback
+  loops in regulating EOC cisplatin resistance. In resistant EOC cells, miR-6836 suppressed
+  apoptosis and activated stemness by directly targeting DLG2, and further promoted
+  Yap1 nuclear translocation and interaction with TEAD1. TEAD1 is both the transcriptional
+  regulator and downstream for miR-6836. Results are presented as mean ± SEM; *P<0.05,
+  **P<0.01, ***P<0.001'
+article_title: Extracellular vesicles carrying miR-6836 derived from resistant tumor
+  cells transfer cisplatin resistance of epithelial ovarian cancer via DLG2-YAP1 signaling
+  pathway
+citation: Yazhu Zou, et al. Int J Biol Sci. 2023;19(10).
+year: '2023'
+pub_date: 2023--
+epub_date: 2023-6-12
+doi: 10.7150/ijbs.83264
+journal_title: International Journal of Biological Sciences
+journa_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- Ovarian cancer
+- Cisplatin resistance
+- YAP1
+- DLG2
+- TEAD1
+- Extracellular vesicles
+- miR-6836
+---
