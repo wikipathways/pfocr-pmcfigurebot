@@ -55,14 +55,22 @@ jobs:
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v5
       with:
-        commit-message: Add figure ${{ steps.fetch_figure.outputs.figid }}
-        title: Add figure ${{ steps.fetch_figure.outputs.figid }}
+        commit-message: Add figure ${{ steps.extract.outputs.pmcid }}_${{ steps.extract.outputs.figure_number }}
+        title: Add figure ${{ steps.extract.outputs.pmcid }}_${{ steps.extract.outputs.figure_number }}
         body: |
           This PR adds a new figure:
           - PMCID: ${{ steps.extract.outputs.pmcid }}
           - Figure Number: ${{ steps.extract.outputs.figure_number }}
-          - Figure ID: ${{ steps.fetch_figure.outputs.figid }}
-        branch: add-figure-${{ steps.fetch_figure.outputs.figid }}
+        branch: add-figure-${{ steps.extract.outputs.pmcid }}-${{ steps.extract.outputs.figure_number }}
         delete-branch: true
         labels: |
           fetch
+          
+    - name: Close Issue
+      uses: peter-evans/close-issue@v3
+      with:
+        issue-number: ${{ github.event.issue.number }}
+        comment: |
+          A new figure (ID: ${{ steps.fetch_figure.outputs.figid }}) has been fetched and a pull request has been created to add it to the repository.
+        labels: |
+          resolved

@@ -36,8 +36,8 @@ fetch_article_xml <- function(pmcid) {
     xml_content <- entrez_fetch(db = "pmc", id = pmcid, rettype = "xml")
     return(read_xml(xml_content))
   }, error = function(e) {
-    log_message(paste("Error fetching article XML:", e$message))
-    return(NULL)
+    cat(paste("Error fetching article XML:", e$message))
+    quit(status = 1)
   })
 }
 
@@ -112,8 +112,8 @@ extract_figure_data <- function(xml, figure_number) {
   }
   
   if (is.null(target_fig)) {
-    log_message(paste("Figure", figure_number, "not found in", pmcid))
-    return(NULL)
+    cat(paste("Figure", figure_number, "not found in", pmcid))
+    quit(status = 1)
   }
   
   # Extract figure data
@@ -246,13 +246,27 @@ process_figure <- function(figure_data, output_dir = "figures") {
       write("---", yaml_filename, append = TRUE)
       log_message(paste("Successfully wrote YAML file to", yaml_filename))
       
-      # Export figid to be used in PR title and merge-triggered action
-      cat(paste0("::set-output name=figid::", figure_data$figid, "\n"))
+      # Store figid in "keep" file to override automl
+      file_path <- "keep_figids_for_ocr.txt"
+      if (!file.exists(file_path)) {
+        write(figid, file = file_path)
+        log_message(paste("Created", file_path, "and added", figid))
+      } else {
+        existing_figids <- readLines(file_path)
+        if (!(figid %in% existing_figids)) {
+          write(figid, file = file_path, append = TRUE)
+          log_message(paste("Added", figid, "to", file_path))
+        } else {
+          log_message(paste(figid, "already exists in", file_path))
+        }
+      }
     } else {
-      log_message(paste("Failed to download image. Status code:", status_code(response)))
+      cat(paste("Failed to download image. Status code:", status_code(response)))
+      quit(status = 1)
     }
   }, error = function(e) {
-    log_message(paste("Error occurred while downloading image:", e$message))
+    cat(paste("Error occurred while downloading image:", e$message))
+    quit(status = 1)
   })
 }
 
@@ -275,10 +289,12 @@ if (!is.null(xml)) {
   if (!is.null(figure_data)) {
     process_figure(figure_data)
   } else {
-    log_message(paste("Failed to extract figure data for", pmcid, "Figure", figure_number))
+    cat(paste("Failed to extract figure data for", pmcid, "Figure", figure_number))
+    quit(status = 1)
   }
 } else {
-  log_message(paste("Failed to fetch article XML for", pmcid))
+  cat(paste("Failed to fetch article XML for", pmcid))
+  quit(status = 1)
 }
 
 log_message("NCBI PMC Single Figure Fetcher completed")
