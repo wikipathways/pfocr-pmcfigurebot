@@ -46,7 +46,7 @@ jobs:
       run: |
         sudo apt-get update
         sudo apt-get install libcurl4-openssl-dev
-          Rscript -e 'install.packages(c("rentrez", "xml2", "httr", "yaml", "stringr", "dplyr","lubridate"))'
+          Rscript -e 'install.packages(c("rentrez", "xml2", "httr", "yaml", "stringr", "lubridate"))'
         
     - name: Run R Script to Fetch Figures
       run: Rscript scripts/fetch_figures_v2.R || true #commit files even if R crashes

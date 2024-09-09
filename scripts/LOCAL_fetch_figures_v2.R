@@ -19,7 +19,6 @@
 # - httr: for making HTTP requests
 # - yaml: for reading config and writing metadata
 # - stringr: for string manipulation
-# - dplyr: for data manipulation
 # - lubridate: for date manipulation
 #
 # Usage:
@@ -46,7 +45,6 @@ if (!requireNamespace("xml2", quietly = TRUE)) install.packages("xml2")
 if (!requireNamespace("httr", quietly = TRUE)) install.packages("httr")
 if (!requireNamespace("yaml", quietly = TRUE)) install.packages("yaml")
 if (!requireNamespace("stringr", quietly = TRUE)) install.packages("stringr")
-if (!requireNamespace("dplyr", quietly = TRUE)) install.packages("dplyr")
 if (!requireNamespace("lubridate", quietly = TRUE)) install.packages("lubridate")
 
 library(rentrez)
@@ -55,7 +53,6 @@ library(httr)
 library(yaml)
 library(tools)
 library(stringr)
-library(dplyr)
 library(lubridate)
 
 # Logging function

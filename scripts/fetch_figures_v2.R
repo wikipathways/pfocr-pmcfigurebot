@@ -19,7 +19,6 @@
 # - httr: for making HTTP requests
 # - yaml: for reading config and writing metadata
 # - stringr: for string manipulation
-# - dplyr: for data manipulation
 # - lubridate: for date manipulation
 #
 # Usage:
@@ -48,7 +47,6 @@ library(httr)
 library(yaml)
 library(tools)
 library(stringr)
-library(dplyr)
 library(lubridate)
 
 # Logging function
