@@ -25,22 +25,28 @@ jobs:
     - name: Extract PMCID and Figure Number
       id: extract
       run: |
-        echo "Issue body:"
+        # Print raw issue body for debugging
+        echo "Raw issue body:"
         echo "${{ github.event.issue.body }}"
         echo "---"
-        result=$(awk '
-          /^### PMCID/ {getline; pmcid=$0}
-          /^### Figure Number/ {getline; figure_number=$0}
-          END {
-            gsub(/^[[:space:]]+|[[:space:]]+$/, "", pmcid);
-            gsub(/^[[:space:]]+|[[:space:]]+$/, "", figure_number);
-            print "pmcid=" pmcid;
-            print "figure_number=" figure_number;
-          }
-        ' <<< "${{ github.event.issue.body }}")
-        echo "$result" >> $GITHUB_OUTPUT
-        echo "Extracted values:"
-        echo "$result"
+
+        # Clean and normalize the issue body
+        cleaned_body=$(echo "${{ github.event.issue.body }}" | tr -d '\r' | tr '\n' ' ' | sed 's/[[:space:]]\+/ /g')
+        echo "Cleaned issue body:"
+        echo "$cleaned_body"
+        echo "---"
+
+        # Extract PMCID
+        pmcid=$(echo "$cleaned_body" | sed -n 's/.*### PMCID *\([^ ]*\).*/\1/p')
+        echo "Extracted PMCID: '$pmcid'"
+        
+        # Extract Figure Number
+        figure_number=$(echo "$cleaned_body" | sed -n 's/.*### Figure Number *\([^ ]*\).*/\1/p')
+        echo "Extracted Figure Number: '$figure_number'"
+
+        # Set outputs
+        echo "pmcid=$pmcid" >> $GITHUB_OUTPUT
+        echo "figure_number=$figure_number" >> $GITHUB_OUTPUT
     
     - name: Fetch Figure
       run: |
