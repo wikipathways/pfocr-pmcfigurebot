@@ -1,0 +1,57 @@
+---
+figid: PMC10322691__jciinsight-8-167744-g104
+pmcid: PMC10322691
+image_filename: PMC10322691__jciinsight-8-167744-g104.jpg
+figure_link: /pmc/articles/PMC10322691/figure/F5/
+number: Figure 5
+figure_title: Truncated ASXL1 dysregulates the canonical and noncanonical Wnt signaling
+  pathways
+caption: '(A) The canonical Wnt signaling pathway (left) is activated when Wnt ligand
+  stimulates its receptors. This inactivates the β-catenin destruction complex, allowing
+  nuclear translocation of β-catenin and activation of target genes. Van Gogh–like
+  2 (VANGL2) intersects with the canonical pathway through activation of Dishevelled
+  (DVL) to activate noncanonical pathways (right) and cell migration. (B) Whole-cell
+  lysate (15 μg) of representative BOS- (n = 5) and control-derived (n = 5) fibroblasts
+  show downstream Wnt pathway activation at the protein level through staining for
+  VANGL2, β-catenin, axis-inhibition protein 1 (AXIN1), AXIN2, DVL2, and DVL3. (C)
+  ImageJ (NIH) quantification identified an increase of 1.5-fold for AXIN1, 2.8-fold
+  for AXIN2, 3.5-fold for DVL2, and 1.5-fold for DVL3 averaged across BOS patient
+  samples compared to controls. This was repeated 2 times. In BOS patient samples,
+  the Wnt pathway coreceptor LRP5 (green) transcriptional upregulation in (D) blood
+  (log2FC = 1.64, Padj = 3.58 × 10–9) and (E) fibroblast RNA-seq and (F) DNA hypomethylation
+  in blood (Δβ –3.5% to –8.0%, FDR < 0.05) at multiple CpG sites. Similarly, LRP6
+  (green) shows that transcriptional upregulation in (G) blood RNA-seq (log2FC = 1.63,
+  Padj = 1.17 × 10–12), (H) fibroblast RNA-seq, and (I) DNA hypomethylation in blood
+  (Δβ –2.7% to –4.0%, FDR < 0.05) BOS samples exhibit strong dysregulation of VANGL2
+  across tissue and assay types (pink). For BOS samples, VANGL2 is (J) hypomethylated
+  (Δβ –7.6%) at CpG site cg17024258, and shows (K) increased chromatin accessibility
+  at the 5′ UTR (log2FC = 1.20). VANGL2 has significant transcriptional upregulation
+  in (L) blood RNA-seq (log2FC = 3.80) and (M) fibroblast RNA-seq (log2FC = 2.55).
+  In representative BOS patient samples, the VANGL2 promoter shows (N) increased chromatin
+  accessibility and (O) increased H3K4me3 marks compared with control. The box-and-whisker
+  plots in D–I, L, and M show the mean (horizontal line), range (whiskers), and IQR
+  [upper and lower box boundaries]. LRP5 RNA-seq blood: control, 25.6 (18.3–39.1)
+  [20.7–30.4]; BOS, 84.2 (24.1–134.6) [72.8–106.8]. LRP5 RNA-seq fibroblast: control,
+  3829 (2996–5177) [3187–4351]; BOS, 4392 (2824–5390) [4268–4719]. LRP6 RNA-seq blood:
+  control, 75.0 (32.2–110.1) [67.8–86.6]; BOS, 234.5 (123.1–346.3) [199.9–266.9].
+  LRP6 RNA-seq fibroblast: control, 2804 (2286–3262) [2602–3094]; BOS, 2904 (2381–3596)
+  [2725–3006]. VANGL2 RNA-seq blood: control: 2.3 (0–5.7) [0–4.1]; BOS, 35.3 (10.1–51.8)
+  [27.2–45.2]. VANGL2 RNA-seq fibroblast: control, 134.8 (39.4–282.8) [90.8–163.4];
+  BOS, 1002.7 (464–1235.6) [894.7–1210.1]'
+article_title: Multiomics of Bohring-Opitz syndrome truncating ASXL1 mutations identify
+  canonical and noncanonical Wnt signaling dysregulation
+citation: Isabella Lin, et al. JCI Insight. 2023 May 22;8(10).
+year: '2023'
+pub_date: 2023-5-22
+epub_date: 2023-5-22
+doi: 10.1172/jci.insight.167744
+journal_title: JCI Insight
+journa_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Development
+- Genetics
+- Epigenetics
+- Genetic diseases
+- Leukemias
+---

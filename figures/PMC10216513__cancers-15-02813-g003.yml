@@ -1,0 +1,48 @@
+---
+figid: PMC10216513__cancers-15-02813-g003
+pmcid: PMC10216513
+image_filename: PMC10216513__cancers-15-02813-g003.jpg
+figure_link: /pmc/articles/PMC10216513/figure/F3/
+number: Figure 3
+figure_title: Transcriptome analysis of patient-derived MPM cell lines, commercial
+  MPM cell lines, and MPM tumor material.
+caption: Transcriptome analysis of patient-derived MPM cell lines, commercial MPM
+  cell lines, and MPM tumor material. (a) Hierarchical clustering of all samples using
+  the top 100 differentially expressed genes shows 3 distinct clusters representing
+  samples from different origins and the non-cancerous Met-5A cell line clustering
+  the furthest away from all other samples. (b) Three distinct clusters could be further
+  validated using PCA analysis across all genes and all samples (Q = 0.6841). PC1
+  represents 35% of variance and PC2 12%. (c) Differential gene expression analysis
+  with a significance threshold of 0.01 and a log2 ratio threshold of 0.5 between
+  cell lines and tumors shows a downregulation of processes involved in antigen processing
+  and presentation, protein transport, actin filament organization and vesicle-mediated
+  transport, translation, the ATP biosynthetic process, regulation of mRNA stability,
+  NIK/NF-κB signaling, Wnt signaling, the tumor necrosis factor-mediated signaling
+  pathway, and angiogenesis in tumors compared to cell lines. GO terms related to
+  regulation of transcription, chromatin organization, mRNA transcription, RNA splicing,
+  mRNA processing, cell–cell signaling, positive regulation of transcription, immune
+  response, cell differentiation, inflammatory response, positive regulation of apoptotic
+  cell clearance, and positive regulation of cell death were downregulated in cell
+  lines compared to tumors. (d) Gene set enrichment analysis (GSEA) for Hallmark gene
+  sets for tumors vs. patient-derived cell lines and tumors vs. commercial derived
+  cell lines (e). Blue bars indicate significant enrichment between groups with FDR
+  q values < 0.25. Red bars indicate non-significant FDR q values > 0.25. A positive
+  Normalized Enrichment Score (NES) indicates enrichment in patient-derived cell lines
+  or commercial cell lines, respectively; a negative NES indicates enrichment in
+article_title: Genomic and Transcriptomic Analyses of Malignant Pleural Mesothelioma
+  (MPM) Samples Reveal Crucial Insights for Preclinical Testing
+citation: Alexander Laure, et al. Cancers (Basel). 2023 May;15(10).
+year: '2023'
+pub_date: 2023-5-
+epub_date: 2023-5-18
+doi: 10.3390/cancers15102813
+journal_title: Cancers
+journa_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+keywords:
+- malignant pleural mesothelioma
+- patient-derived cell lines
+- preclinical models
+- transcriptomic analysis
+- genomic analysis
+---

@@ -1,0 +1,65 @@
+---
+figid: PMC10218176__ijms-24-08499-g001
+pmcid: PMC10218176
+image_filename: PMC10218176__ijms-24-08499-g001.jpg
+figure_link: /pmc/articles/PMC10218176/figure/F1/
+number: Figure 1
+figure_title: GPR19 expression is altered in an accelerated aging murine model.
+caption: 'GPR19 expression is altered in an accelerated aging murine model. Using
+  transcriptome profiling, we investigated the expression levels of GPR19 in GIT2KO
+  (GIT2−knockout) mice (n = 3): (A). GPR19 expression levels were elevated in both
+  central nervous system tissues (cortex (ctx), hippocampus (hippo), and hypothalamus
+  (hypo)), as well as peripheral tissues (pancreas (panc), and liver (liv)) compared
+  to wild-type (WT) littermates (n = 3). GAPDH expression was employed as an expression
+  control. (B) GPR19 expression alteration results were replicated using Western blotting;
+  beta-actin (ACTB) loading control was used. Hence, GPR19 expression was potentiated
+  in the GIT2KO mice (#1,2,3) compared to control wild-type (WT: #1,2,3) animals (n
+  = 3). The significant alterations of GPR19 expression in the advanced aging model
+  GIT2KO are represented in the associated histogram (C). Ectopic expression of an
+  HA-epitope tagged human WT GPR19 clone in HEK293 cells was demonstrated using a
+  cDNA transfection level series from 0.5, 1, 2,5, and 10 μg (D). Cells were lysed
+  at 24 h post-transfection and HA-tagged GPR19 expression was confirmed with selective
+  Western blot. The optimal time course of expression of the median expression level
+  (i.e., 2 μg) was assessed and found to be optimal at the standard 24 h time period
+  following cDNA transfection (E). Differential compartment protein extraction was
+  performed (cytoplasmic = solid line; plasma membrane = dotted line; nucleus/organelles
+  = dashed line) before untargeted proteomic expression analysis (red bar indicates
+  protein expression increase while blue bars indicate protein expression decrease—compared
+  to the calculated proteomic baseline) was made across the stated expression level
+  series (0.5, 1, 2, 5, and 10 μg cDNA). To simplify the data analysis of this complex
+  expression matrix, the mean protein expression values across the different extraction
+  conditions were calculated (F). The associated heatmap key indicates the range of
+  log2 transformed GPR19: mock expression ratios. These mean data were then subjected
+  to signaling pathway analysis using a Kolmogorov–Smirnoff (KS) test applied to the
+  MSigDB Curated Reactome Database. One of the most prominent pathways populated by
+  the total cellular perturbation response (from mean expression response data in
+  panel (F)) to GPR19 expression was the Reactome “Cellular Response to Stress” (G).
+  The yellow inset in panel G indicates the “leading edge” set of proteins that are
+  responding to the positive KS score for “Cellular Response to Stress.” Extracting
+  this protein set and then analyzing it for Gene Ontology Biological Process (GOBP)
+  enrichment analysis revealed a strong phenotype for DNA-based stress management
+  (H). Histogram-based data shown represent the means ± SEM (standard error of the
+  mean). The significance level is indicated in each figure as * p ≤ 0.05; ** p ≤
+  0.01'
+article_title: GPR19 Coordinates Multiple Molecular Aspects of Stress Responses Associated
+  with the Aging Process
+citation: Stuart Maudsley, et al. Int J Mol Sci. 2023 May;24(10).
+year: '2023'
+pub_date: 2023-5-
+epub_date: 2023-5-09
+doi: 10.3390/ijms24108499
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- GPR19
+- receptor
+- aging
+- stress
+- damage
+- DNA
+- metabolism
+- mitochondria
+- longevity
+- adiposity
+---

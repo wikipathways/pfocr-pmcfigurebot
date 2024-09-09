@@ -1,0 +1,40 @@
+---
+figid: PMC10298235__genes-14-01178-g003
+pmcid: PMC10298235
+image_filename: PMC10298235__genes-14-01178-g003.jpg
+figure_link: /pmc/articles/PMC10298235/figure/F3/
+number: Figure 3
+figure_title: Comparing the clinical and molecular features between high- and low-risk
+  patients in the training cohort.
+caption: 'Comparing the clinical and molecular features between high- and low-risk
+  patients in the training cohort. (A) The box plot showed that high-risk patients
+  have an older-age distribution than low-risk patients; (B) Analysis of the mutation
+  profiles of the fifty most commonly mutated genes in human cancers showing that
+  27 genes had a significantly different mutation frequency between low-risk and high-risk
+  patients; (C) The box plot showed that high-risk patients have a higher TMB than
+  low-risk patients; (D) The box plot showed that high-risk patients have a higher
+  neoantigen load than low-risk patients; (E) The box plot showed that high-risk patients
+  have a higher MSI than low-risk patients; (F) The box plot showed that high-risk
+  patients have a higher cytolytic score than low-risk patients; (G) The box plot
+  showed that high-risk patients have a higher hypoxia score than low-risk patients;
+  (H) The relative signaling pathway activity in high- and low- risk patients was
+  evaluated by the R package “progeny”; (I) The violin plot showed the ssGSEA score
+  of fifty pathways of cancer hallmarks in high- and low-risk patients. Abbreviations:
+  TMB, tumor mutation burden; MSI, microsatellite instability. *: p < 0.05, **: p
+  < 0.01, ***: p < 0.001'
+article_title: A Pan-Cancer Analysis of Prognostic and Immunological Roles for Cell
+  Death Genes
+citation: Ye Hong, et al. Genes (Basel). 2023 Jun;14(6).
+year: '2023'
+pub_date: 2023-6-
+epub_date: 2023-5-28
+doi: 10.3390/genes14061178
+journal_title: Genes
+journa_nlm_ta: Genes (Basel)
+publisher_name: MDPI
+keywords:
+- pan-cancer
+- cell death
+- prognosis
+- TME
+---

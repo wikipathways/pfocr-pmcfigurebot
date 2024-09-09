@@ -1,0 +1,31 @@
+---
+figid: PMC10245950__nihpp-2023.05.24.542198v2-f0006
+pmcid: PMC10245950
+image_filename: PMC10245950__nihpp-2023.05.24.542198v2-f0006.jpg
+figure_link: /pmc/articles/PMC10245950/figure/F6/
+number: Figure 6
+figure_title: Effect of oxaliplatin on the RNA transcription in the heart
+caption: 'A: Volcano plot representation of genes from the heart tissue: Y threshold
+  (FC) −1.25 to 1.25, X threshold FDR = 0.05. Total number of identified genes in
+  the heart =13,755, upregulated =1,636, downregulated =972 (19.3% genes affected).
+  B: Heatmap of all differentially expressed genes in the heart (total 2608): control
+  dextrose-treated mice – top 4 rows, oxaliplatin -treated (bottom 5 rows). C: Top
+  20 processes affected by oxaliplatin by GO pathway enrichment analysis of all DEGs
+  in the heart indicates metabolic pathway as one of the top affected pathways'
+article_title: Oxaliplatin-induced cardiotoxicity in mice is connected to the changes
+  in energy metabolism in the heart tissue
+citation: Junwei Du, et al. bioRxiv. 2023 May 25;NA(NA).
+year: '2023'
+pub_date: 2023-5-25
+epub_date: 2023-5-25
+doi: 10.1101/2023.05.24.542198
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- oxaliplatin
+- cardiotoxicity
+- energy metabolism
+- glycolysis switch
+- Nmrk2
+---

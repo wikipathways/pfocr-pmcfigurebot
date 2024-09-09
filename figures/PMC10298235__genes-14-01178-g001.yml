@@ -1,0 +1,37 @@
+---
+figid: PMC10298235__genes-14-01178-g001
+pmcid: PMC10298235
+image_filename: PMC10298235__genes-14-01178-g001.jpg
+figure_link: /pmc/articles/PMC10298235/figure/F1/
+number: Figure 1
+figure_title: Constructing and validating overall-survival-associated programmed-cell-death
+  signature—PAGscore.
+caption: 'Constructing and validating overall-survival-associated programmed-cell-death
+  signature—PAGscore. (A) Multivariate Cox regression analysis identified 75 programmed-cell-death-related
+  genes constructing the best-predicting model for overall survival in the training
+  cohort; (B) Enriched analysis of KEGG pathways of 75 programmed-cell-death-related
+  genes. (C) The ROC analysis showed that PAGscore could effectively predict the 12-,
+  24-, and 36-month overall survival rate for patients in the training cohort; (D)
+  The survival analysis showed that the overall survival of high-risk patients with
+  higher PAGscore was worse than that of low-risk patients with a lower PAGscore in
+  the training cohort; (E) The results of ROC and survival analyses showed that PAGscore
+  performed well in predicting the overall survival in several types of cancer patients.
+  Abbreviations: HR, hazard ratio; CI, confidential interval; BLCA, bladder urothelial
+  carcinoma; HNSC, head and neck squamous cell carcinoma; LUAD, lung adenocarcinoma;
+  SARC, sarcoma'
+article_title: A Pan-Cancer Analysis of Prognostic and Immunological Roles for Cell
+  Death Genes
+citation: Ye Hong, et al. Genes (Basel). 2023 Jun;14(6).
+year: '2023'
+pub_date: 2023-6-
+epub_date: 2023-5-28
+doi: 10.3390/genes14061178
+journal_title: Genes
+journa_nlm_ta: Genes (Basel)
+publisher_name: MDPI
+keywords:
+- pan-cancer
+- cell death
+- prognosis
+- TME
+---

@@ -1,0 +1,36 @@
+---
+figid: PMC10179524__ijms-24-08439-g005
+pmcid: PMC10179524
+image_filename: PMC10179524__ijms-24-08439-g005.jpg
+figure_link: /pmc/articles/PMC10179524/figure/F5/
+number: Figure 5
+figure_title: Gene expression profile of nitrogen metabolism-related genes under dehydration
+  and rehydration stress conditions.
+caption: 'Gene expression profile of nitrogen metabolism-related genes under dehydration
+  and rehydration stress conditions. (a) Heatmap showing the hierarchical clustering
+  of the DEGs involved in nitrogen metabolism. The expression levels of each gene
+  are normalized into z-score. Dots on the right side represent the role of each gene
+  in nitrogen metabolism pathways. C: control, D: dehydration, R: rehydration. (b–d)
+  Expression patterns of selected genes involved in nitrogen uptake (b), nitrogen
+  assimilation (c), and nitrogen signaling pathway (d). The normalized expression
+  levels of each gene under control (C), dehydration (D), and rehydration (R) conditions
+  are represented from RNA-seq data. Statistical significance was determined by EdgeR
+  program. The asterisks indicate significant difference (*** p < 0.001; ** p < 0.05;
+  * p < 0.01; and ns: p > 0.01)'
+article_title: Comprehensive Analysis of Rice Seedling Transcriptome during Dehydration
+  and Rehydration
+citation: So Young Park, et al. Int J Mol Sci. 2023 May;24(9).
+year: '2023'
+pub_date: 2023-5-
+epub_date: 2023-5-08
+doi: 10.3390/ijms24098439
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- rice
+- drought
+- rehydration
+- RNA-seq
+- differentially expressed gene
+---

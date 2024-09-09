@@ -1,0 +1,33 @@
+---
+figid: PMC10197622__nihpp-2023.05.11.540389v1-f0001
+pmcid: PMC10197622
+image_filename: PMC10197622__nihpp-2023.05.11.540389v1-f0001.jpg
+figure_link: /pmc/articles/PMC10197622/figure/FFig. 1./
+number: Fig. 1.
+figure_title: Guild-based microbiome classification of a 16-member SynCom based on
+  translational efficiency (TE)
+caption: a) Conceptual overview of TE as a readout of functional prioritization for
+  each microbe in a 16-member SynCom isolated from the switchgrass rhizosphere, where
+  each member has a limited amount of resources (ribosomes) to allocate for protein
+  translation. TE is computed as the metaRibo-Seq/metaRNA-Seq ratio, i.e. the ratio
+  between translated mRNA and total mRNA detected at one given instant in the sample;
+  b) PCA cluster plot and c) dendrogram of TE on 275 KEGG25 metabolic pathways (n=4
+  replicates) allowed classification of the 16 SynCom members into 6 different guilds,
+  in which microbes share similar metabolic pathway prioritizations, as detailed in
+  Suppl. Table S1 and in Suppl. Fig. S2; d) phylogenetic tree based on 16S rRNA sequences
+  shows substantial differences with the TE-based guild dendrogram c), indicating
+  that guilds are not based solely on phylogeny. Note, two bacteria (Mycobacterium
+  and Marmoricola) had low KEGG pathway coverage due to low abundance in the community
+  (0.04 and 0.13 % of total reads, respectively), and thus are absent from b) and
+  c)
+article_title: Guild and Niche Determination Enable Targeted Alteration of the Microbiome
+citation: Oriane Moyne, et al. bioRxiv. 2023 May 11;NA(NA).
+year: '2023'
+pub_date: 2023-5-11
+epub_date: 2023-5-11
+doi: 10.1101/2023.05.11.540389
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

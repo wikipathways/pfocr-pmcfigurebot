@@ -1,0 +1,32 @@
+---
+figid: PMC10153158__nihpp-2023.04.17.537251v2-f0005
+pmcid: PMC10153158
+image_filename: PMC10153158__nihpp-2023.04.17.537251v2-f0005.jpg
+figure_link: /pmc/articles/PMC10153158/figure/FFigure 5./
+number: Figure 5.
+figure_title: Proteomics demonstrates down-regulation of proteins involved in carbohydrate
+  metabolism in intestinal tissue
+caption: (A) Principal component analysis of quantitative proteomics data generated
+  from the intestinal tissue samples of mice treated with water versus metformin.
+  (B) Volcano plot and (C) K-means clustering of differentially abundant proteins
+  in the intestinal tissue samples from water versus metformin groups.(D) Pathway
+  analysis using proteins that are significantly down-regulated in the intestinal
+  tissue samples of metformin versus water group. (E) Significantly altered protein
+  levels in the gluconeogenesis pathway as well as key hexose transporters and fructolytic
+  enzymes. Analysis performed in R using data generated from Proteome Discoverer
+article_title: “Metformin Impairs Intestinal Fructose Metabolism”
+citation: Wenxin Tong, et al. bioRxiv. 2023 May 15;NA(NA).
+year: '2023'
+pub_date: 2023-5-15
+epub_date: 2023-5-15
+doi: 10.1101/2023.04.17.537251
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- Metformin
+- glucose production
+- fructose metabolism
+- isotope-tracing metabolomics
+- proteomics
+---

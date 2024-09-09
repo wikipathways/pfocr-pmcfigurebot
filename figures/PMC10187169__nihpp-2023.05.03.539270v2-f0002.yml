@@ -1,0 +1,35 @@
+---
+figid: PMC10187169__nihpp-2023.05.03.539270v2-f0002
+pmcid: PMC10187169
+image_filename: PMC10187169__nihpp-2023.05.03.539270v2-f0002.jpg
+figure_link: /pmc/articles/PMC10187169/figure/FFigure 2./
+number: Figure 2.
+figure_title: Pathways included in the model.
+caption: Pathways included in the model. (A) VEGF interacting with VEGFR1, VEGFR2,
+  and NRP1. Inhibition of VEGFR2 by Hes1 and upregulation of VEGFR1. (B) Pathway leading
+  to the downstream phosphorylation of Akt on ser473 and thr308 and activation of
+  mTORC1. (C) Notch signaling pathway influenced by hypoxia. Green and blue colors
+  represent different cells. (D) HIF signaling pathway leads to the production of
+  VEGFA. Solid green lines indicate normoxia-induced events. Red dashed lines indicate
+  hypoxia-induced events. (E) Calcium cycling module including current through the
+  CRAC channels and PM pump, endoplasmic reticulum calcium cycling through SERCA and
+  IP3R, and indirect stimulus of IP3 by VEGF. Na+-Ca2+ exchanger increases intracellular
+  calcium concentration under hypoxia. (F) MAPK-ERK signaling pathway interacting
+  with the calcium cycling module
+article_title: 'Endothelial cells signaling and patterning under hypoxia: a mechanistic
+  integrative computational model including the Notch-Dll4 pathway'
+citation: Rebeca Hannah M Oliveira, et al. bioRxiv. 2023 May 06;NA(NA).
+year: '2023'
+pub_date: 2023-5-06
+epub_date: 2023-5-06
+doi: 10.1101/2023.05.03.539270
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- angiogenesis
+- modeling
+- systems biology
+- hypoxia
+- endothelial cells
+---

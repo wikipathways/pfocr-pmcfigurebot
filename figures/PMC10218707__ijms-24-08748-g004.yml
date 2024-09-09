@@ -1,0 +1,45 @@
+---
+figid: PMC10218707__ijms-24-08748-g004
+pmcid: PMC10218707
+image_filename: PMC10218707__ijms-24-08748-g004.jpg
+figure_link: /pmc/articles/PMC10218707/figure/F4/
+number: Figure 4
+figure_title: Characterization of underlying genes and regulators related to cell
+  expansion and cell division.
+caption: Characterization of underlying genes and regulators related to cell expansion
+  and cell division. (a) The heat map shows the numbers of upregulated and downregulated
+  genes related to the plant hormone at different stages during fruit development
+  in ‘Sungold’ as compared with ‘F43’ based on log2 (Number + 1) values. (b) Schematic
+  diagram and heat map of differences in expressions of DEGs involved in auxin signaling
+  pathway during fruit development. Key enzymes expressed differently have colored
+  rectangles (on the left) and genes linked to these enzymes as well as their log2
+  FC values presented in the heat map (on the right). The redder color represents
+  a higher log2 FC, and the bluer color represents a lower log2 FC. The yellow color
+  represents the median value, and the gray color represents not available (NA). AUX1,
+  auxin influx carrier; TIR1, transport inhibitor response 1; AUX/IAA, auxin-responsive
+  protein IAA; ARF, auxin response factor; GH3, auxin-responsive GH3 gene family;
+  SAUR, SAUR family protein. (c) The number of differentially expressed TF genes between
+  the two cultivars. (d) Heat map and clustering dendrogram of differences in expressions
+  of DEGs related to cell expansion and cell division. A redder color represents higher
+  log2 FC, and a bluer color represents lower log2 FC. The yellow color represents
+  the median value, and the gray color represents NA. The red star indicates the branch
+  with the most significant differences in gene expressions
+article_title: Comparative Anatomical and Transcriptomics Reveal the Larger Cell Size
+  as a Major Contributor to Larger Fruit Size in Apricot
+citation: Mengzhen Huang, et al. Int J Mol Sci. 2023 May;24(10).
+year: '2023'
+pub_date: 2023-5-
+epub_date: 2023-5-14
+doi: 10.3390/ijms24108748
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- apricot
+- fruit size
+- cell size
+- RNA-seq
+- auxin signal transduction
+- expansin
+- PRE6
+---

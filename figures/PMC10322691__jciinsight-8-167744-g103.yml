@@ -1,0 +1,40 @@
+---
+figid: PMC10322691__jciinsight-8-167744-g103
+pmcid: PMC10322691
+image_filename: PMC10322691__jciinsight-8-167744-g103.jpg
+figure_link: /pmc/articles/PMC10322691/figure/F4/
+number: Figure 4
+figure_title: DNA methylation drives transcriptomic dysregulation in BOS samples and
+  identifies common dysregulated transcripts enriched in Wnt signaling genes
+caption: (A) Integration of patient blood samples across DNAm (BOS n = 13, control
+  n = 26) and RNA transcriptomic (BOS n = 8, control n = 11) dysregulation identified
+  672 differentially methylated CpG sites (Padj < 0.05) that correlated to 341 RNA-seq
+  DEGs (Padj < 0.05). These significant DEGs were further filtered for RNA-seq abs(log2FC)
+  ≥ 0.58, and DNAm abs(Δβ) ≥ 0.05, shown by the dotted red lines. After filtering,
+  we retained 50 of 672 CpG sites (7.44%) and 24 of 341 unique genes (7.04%). (B)
+  Analysis of enriched biological processes identified canonical Wnt signaling, anterior-posterior
+  body patterning, regulation of neuron projection development, and other biologically
+  relevant pathways. (C) In BOS patients, PSMA8, which encodes a key component of
+  the β-catenin destruction complex, is hypermethylated in blood DNAm across 8 CpG
+  sites (Δβ 6.1% to 18.9%) and (D) shows strong downregulation in blood RNA-seq (log2FC
+  = –2.92). Control sample–normalized counts ranged from 0 to 17.7 (whiskers), with
+  a mean (horizontal line) of 8.1, and quartile bounds (box limits) of 4.6 and 10.8.
+  BOS normalized sample counts ranged from 0 to 2.1, with a mean of 0.8, and quartile
+  bounds of 0 and 1.5
+article_title: Multiomics of Bohring-Opitz syndrome truncating ASXL1 mutations identify
+  canonical and noncanonical Wnt signaling dysregulation
+citation: Isabella Lin, et al. JCI Insight. 2023 May 22;8(10).
+year: '2023'
+pub_date: 2023-5-22
+epub_date: 2023-5-22
+doi: 10.1172/jci.insight.167744
+journal_title: JCI Insight
+journa_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Development
+- Genetics
+- Epigenetics
+- Genetic diseases
+- Leukemias
+---

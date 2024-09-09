@@ -1,0 +1,35 @@
+---
+figid: PMC10298235__genes-14-01178-g005
+pmcid: PMC10298235
+image_filename: PMC10298235__genes-14-01178-g005.jpg
+figure_link: /pmc/articles/PMC10298235/figure/F5/
+number: Figure 5
+figure_title: The ICGC liver cancer cohort validated the study findings.
+caption: 'The ICGC liver cancer cohort validated the study findings. (A) Survival
+  analysis showed that the overall survival of high-risk patients with a higher PAGscore
+  was worse than that of low-risk patients with a lower PAGscore in the ICGC cohort;
+  (B) The results of ROC and survival analyses showed that PAGscore performed well
+  in predicting the overall survival in liver cancer patients; (C) The relative signaling
+  pathway activity in high- and low- risk patients was evaluated by the R package
+  “progeny”; (D) The box plots showed that high-risk patients had a higher “ImmuneScore”
+  and “StromaScore” and lower “TumorPurity” than low-risk patients; (E) The violin
+  plot showed the ssGSEA score of 29 components of TME in high- and low-risk patients.
+  Abbreviations: TME, tumor microenvironment; CAF, cancer-associated fibroblasts;
+  TAM, tumor-associated macrophages; MC, myeloid cells. *: p < 0.05, **: p < 0.01,
+  ***: p < 0.001'
+article_title: A Pan-Cancer Analysis of Prognostic and Immunological Roles for Cell
+  Death Genes
+citation: Ye Hong, et al. Genes (Basel). 2023 Jun;14(6).
+year: '2023'
+pub_date: 2023-6-
+epub_date: 2023-5-28
+doi: 10.3390/genes14061178
+journal_title: Genes
+journa_nlm_ta: Genes (Basel)
+publisher_name: MDPI
+keywords:
+- pan-cancer
+- cell death
+- prognosis
+- TME
+---

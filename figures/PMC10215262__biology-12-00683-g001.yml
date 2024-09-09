@@ -1,0 +1,51 @@
+---
+figid: PMC10215262__biology-12-00683-g001
+pmcid: PMC10215262
+image_filename: PMC10215262__biology-12-00683-g001.jpg
+figure_link: /pmc/articles/PMC10215262/figure/F1/
+number: Figure 1
+figure_title: Canonical Wnt pathway.
+caption: Canonical Wnt pathway. (A) In the canonical Wnt/β-catenin pathway, binding
+  of the Wnt ligand to the FZD receptor and co-receptor LRP5/6 promotes phosphorylation
+  of LRP5/6 by CKIα and GSK3β kinases and polymerization of the DVL protein. Therefore,
+  the destroyer complex is inactivated (Axin, APC, CKIα and GSK3β) and the β-catenin
+  protein is accumulated in the cytosol. The β-catenin translocates to the nucleus
+  and interacts with the TCF/LEF complex, promoting the recruitment of transcriptional
+  co-activators (CBP/p300, BRG1, BCL9 and Pygo), inducing the expression of target
+  genes. (B) In the absence of the Wnt ligand, the destructor complex phosphorylates
+  and induces ubiquitination of β-catenin by βTrCP for its degradation in the proteosome.
+  The absence of nuclear β-catenin favors the recruitment of HDACs by the TCF/LEF
+  and Groucho/TLE repressor complexes, thus inhibiting the expression of target genes.
+  Non-canonical Wnt pathway. Non-canonical Wnt ligands can activate other non-canonical
+  β-catenin-independent signaling pathways, such as the Wnt/PCP and Wnt/Ca2+. In the
+  Wnt/Ca2+ pathway, the Wnt ligand binds to FZD and ROR1/2 and promotes PLC activation
+  via G proteins in a DVL-dependent way. PLC catalyzes the formation of IP3 and DAG,
+  which results in an increase of Ca2+ in the cytosol and activation of kinases such
+  as PKC, Calcineurin and CAMKII. These kinases can modify the cytoskeleton through
+  the small GTPase CDC42 and/or regulate transcription of target genes through NFAT,
+  NFκβ and CREB, among others. In the Wnt/PCP pathway, binding of the Wnt ligand to
+  the FZD receptor and co-receptors, such as ROR1/2, favors the activation of small
+  GTPases of the Rho family (RHOA, RAC) by DVL. RHOA and RAC activate JNK kinases
+  and ROCK kinases, which are involved in the reorganization of the cytoskeleton and/or
+  activation of gene expression via Jun/ATF2, among others. Dashed arrows indicate
+  an indirect activation
+article_title: 'Understanding the Wnt Signaling Pathway in Acute Myeloid Leukemia
+  Stem Cells: A Feasible Key against Relapses'
+citation: Daniel Láinez-González, et al. Biology (Basel). 2023 May;12(5).
+year: '2023'
+pub_date: 2023-5-
+epub_date: 2023-5-05
+doi: 10.3390/biology12050683
+journal_title: Biology
+journa_nlm_ta: Biology (Basel)
+publisher_name: MDPI
+keywords:
+- HSCs
+- LSCs
+- AML
+- quiescence
+- hematopoiesis
+- β-catenin
+- Hedgehog
+- Notch
+---

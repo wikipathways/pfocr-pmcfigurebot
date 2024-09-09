@@ -1,0 +1,33 @@
+---
+figid: PMC10236146__etm-26-01-12010-g02
+pmcid: PMC10236146
+image_filename: PMC10236146__etm-26-01-12010-g02.jpg
+figure_link: /pmc/articles/PMC10236146/figure/F3/
+number: Figure 3
+figure_title: GO and KEGG analysis.
+caption: GO and KEGG analysis. (A) GO functional classification map for target genes
+  of DE tRFs. (B) Top 30 GO terms for target gene enrichment analysis. (C) KEGG pathway
+  classification map for target genes of DE tRFs. (D) Top 30 terms from the KEGG pathway
+  enrichment analysis. A larger Rich Factor indicates a greater enrichment. The q-value
+  is the P-value after correction for multiple hypothesis testing and a smaller value
+  indicates more significant enrichment. A larger area of the graph indicates a greater
+  number of genes. (E) Signaling pathway regulation network for predicted target genes.
+  GO, Gene Ontology; KEGG, Kyoto Encyclopedia of Genes and Genomes; tRF, transfer
+  RNA-derived fragment; DE, differentially expressed
+article_title: Expression profiles and potential roles of serum tRNA‑derived fragments
+  in diabetic nephropathy
+citation: Chan Huang, et al. Exp Ther Med. 2023 Jul;26(1).
+year: '2023'
+pub_date: 2023-7-
+epub_date: 2023-5-11
+doi: 10.3892/etm.2023.12010
+journal_title: Experimental and Therapeutic Medicine
+journa_nlm_ta: Exp Ther Med
+publisher_name: D.A. Spandidos
+keywords:
+- tRNA-derived fragments
+- diabetic nephropathy
+- expression profiles
+- GO analysis
+- KEGG pathway enrichment analysis
+---

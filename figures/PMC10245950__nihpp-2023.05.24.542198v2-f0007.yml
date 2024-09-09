@@ -1,0 +1,33 @@
+---
+figid: PMC10245950__nihpp-2023.05.24.542198v2-f0007
+pmcid: PMC10245950
+image_filename: PMC10245950__nihpp-2023.05.24.542198v2-f0007.jpg
+figure_link: /pmc/articles/PMC10245950/figure/F7/
+number: Figure 7
+figure_title: Effect of oxaliplatin on the RNA transcription of 75 metabolic DEGs
+  the heart
+caption: 'A: Top 20 processes from the GO pathway enrichment analysis of 75 differentially
+  expressed energy-related genes in the heart. B: Protein-protein interaction network
+  and extracted 4 MCODE components/clusters. Network of enriched terms: (a) colored
+  by cluster ID, where nodes that share the same cluster ID are typically close to
+  each other; (b) colored by p-value, where terms containing more genes tend to have
+  a more significant p-value. Cluster 1: Acaa2, Acadm, Acads, Acadvl, Cpt2, Decr1,
+  Eci1, Ech1, Hadh, Hadhb, Hadha, Ivd; Cluster 2: Adpat 1, Agpat 2, Bcat1,Cth, Eno1,
+  Pgam1, Pfkp; Cluster 3: Ndufs2, Nd6, Nd4l, Nd4, Cox2; Cluster 4: Bcat2, Pfkm, Hk1'
+article_title: Oxaliplatin-induced cardiotoxicity in mice is connected to the changes
+  in energy metabolism in the heart tissue
+citation: Junwei Du, et al. bioRxiv. 2023 May 25;NA(NA).
+year: '2023'
+pub_date: 2023-5-25
+epub_date: 2023-5-25
+doi: 10.1101/2023.05.24.542198
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- oxaliplatin
+- cardiotoxicity
+- energy metabolism
+- glycolysis switch
+- Nmrk2
+---

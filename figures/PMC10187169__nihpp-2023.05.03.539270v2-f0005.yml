@@ -1,0 +1,38 @@
+---
+figid: PMC10187169__nihpp-2023.05.03.539270v2-f0005
+pmcid: PMC10187169
+image_filename: PMC10187169__nihpp-2023.05.03.539270v2-f0005.jpg
+figure_link: /pmc/articles/PMC10187169/figure/FFigure 5./
+number: Figure 5.
+figure_title: Sensitivity indices (p < 0.
+caption: 'Sensitivity indices (p < 0.05) of parameters controlling the ECPI under
+  hypoxic conditions for the stimulated and the unstimulated cell at different time
+  points. The colors indicate respective pathways related to the parameters, and cell
+  type is indicated by a dashed (stimulated cell) or non-dashed (unstimulated cell)
+  pattern. (A) PRCC values for the top 10 most relevant parameters which influence
+  pattern in at least one of the cells, compared to the same parameter on the other
+  cell at 1h and 2h under hypoxia. Twenty most influential reactions (top 10 + and
+  top 10 −) that influence ECPI of the stimulated cell (B) or the unstimulated cell
+  (C) at 1h or 2h under hypoxia. kdeg_Gs: degradation rate of γsecretase. Kf_10: Internalization
+  rate of VEGFR2. Kform_Gs: production rate of γsecretase. kf_5: Degradation rate
+  of internalized phosphorylated VEGFR2. kNRP1VEGFR2on/off: Binding/unbinding rate
+  of complex VEGF-NRP1 to VEGFR2. kr_4: Recycling rate of internalized VEGFR2. kf_9:
+  Degradation rate of internalized VEGFR2. kr2NRP1si: Internalization rate of complex
+  VEGF-NRP1-VEGFR2. n: Hill coefficient for Hes1 inhibition of VEGFR2'
+article_title: 'Endothelial cells signaling and patterning under hypoxia: a mechanistic
+  integrative computational model including the Notch-Dll4 pathway'
+citation: Rebeca Hannah M Oliveira, et al. bioRxiv. 2023 May 06;NA(NA).
+year: '2023'
+pub_date: 2023-5-06
+epub_date: 2023-5-06
+doi: 10.1101/2023.05.03.539270
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- angiogenesis
+- modeling
+- systems biology
+- hypoxia
+- endothelial cells
+---

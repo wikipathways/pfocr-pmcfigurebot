@@ -1,0 +1,35 @@
+---
+figid: PMC10223558__viruses-15-01110-g003
+pmcid: PMC10223558
+image_filename: PMC10223558__viruses-15-01110-g003.jpg
+figure_link: /pmc/articles/PMC10223558/figure/F3/
+number: Figure 3
+figure_title: Gene ontology (GO) analysis of the differentially expressed genes (DEGs).
+caption: Gene ontology (GO) analysis of the differentially expressed genes (DEGs).
+  (a) Classification of the DEGs based on their functional annotation, biological
+  processes, cellular locations, and molecular functions. The top 10 sub-categories
+  based on the number DEGs in each category are represented in each graph. (b) Biological
+  pathway classification of DEGs. The DEGs were grouped in different pathways on the
+  basis of the information gathered from different online pathways sources, including
+  KEGG, Wikipathways, and/or Reactome. Each bar shows the number of genes associated
+  with the subsequent pathway. (c) Overlapping genes in multiple pathways. The red
+  bars display up-regulated, while the green bars show down-regulated genes
+article_title: Global Down-regulation of Gene Expression Induced by Mouse Mammary
+  Tumor Virus (MMTV) in Normal Mammary Epithelial Cells
+citation: Waqar Ahmad, et al. Viruses. 2023 May;15(5).
+year: '2023'
+pub_date: 2023-5-
+epub_date: 2023-5-02
+doi: 10.3390/v15051110
+journal_title: Viruses
+journa_nlm_ta: Viruses
+publisher_name: MDPI
+keywords:
+- mouse mammary tumor virus (MMTV)
+- mammary epithelial cells
+- HC11 cells
+- mRNAseq
+- microRNAs
+- differential gene expression
+- breast cancer
+---

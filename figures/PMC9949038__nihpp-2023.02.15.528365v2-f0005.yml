@@ -1,0 +1,45 @@
+---
+figid: PMC9949038__nihpp-2023.02.15.528365v2-f0005
+pmcid: PMC9949038
+image_filename: PMC9949038__nihpp-2023.02.15.528365v2-f0005.jpg
+figure_link: /pmc/articles/PMC9949038/figure/FFigure 5./
+number: Figure 5.
+figure_title: MHC-I pathway downregulation by Cracd KO
+caption: A, Total cell-cell interactions (left) and interaction strength (right) from
+  RPR2 and CRPR2 tumors were analyzed using the CellChat package.B, Chord plots showing
+  up-regulated (left) and down-regulated (right) signaling pathways in the CRPR2 scRNA-seq
+  dataset compared to the RPR2 dataset, analyzed using CellChat. The inner bar colors
+  represent the cell clusters that receive signals. The inner bar size is proportional
+  to the signal strength received by the cell clusters. Chords indicate ligand-receptor
+  pairs that mediate the interaction between two cell clusters. The chord size is
+  proportional to the signal strength of the given ligand-receptor pair. Of note,
+  for a CellChat analysis, RPR2 and CRPR2 scRNA-seq datasets were reanalyzed and reannotated
+  with the R package Seurat. Tumor cells were subclustered into nine clusters for
+  CellChat.C, Overall information flow (upper) and relative information flow (lower)
+  of each signaling pathway in RPR2 and CRPR2 tumors, analyzed using CellChat.D, Circle
+  plots displaying the inferred network of the MHC-I signaling pathway in RPR2 (left)
+  and CRPR2 tumors (right); the thickness of each line connecting the cell clusters
+  indicates the interaction strength, analyzed using CellChat.E, GSEA of gene sets
+  associated with the MHC-I pathway in CRPR2 datasets compared to in RPR2 scRNA-seq
+  datasets; NES, normalized enrichment score.F, Dot plot displaying the expression
+  level of the MHC-I pathway–related genes in the RPR2 and CRPR2 datasets
+article_title: CRACD loss promotes small cell lung cancer tumorigenesis via EZH2-mediated
+  immune evasion
+citation: Shengzhe Zhang, et al. bioRxiv. 2023 May 17;NA(NA).
+year: '2023'
+pub_date: 2023-5-17
+epub_date: 2023-5-17
+doi: 10.1101/2023.02.15.528365
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- CRACD
+- CRAD
+- KIAA1211
+- small cell lung cancer
+- immune evasion
+- EZH2
+- PRC2
+- immunotherapy
+---

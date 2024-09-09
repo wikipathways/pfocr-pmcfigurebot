@@ -1,0 +1,54 @@
+---
+figid: PMC10312515__nihpp-2023.05.30.542711v1-f0004
+pmcid: PMC10312515
+image_filename: PMC10312515__nihpp-2023.05.30.542711v1-f0004.jpg
+figure_link: /pmc/articles/PMC10312515/figure/FFigure 4:/
+number: 'Figure 4:'
+figure_title: The in cellula glucosylation by UGGT1 of Trop-2-EYFP (WT and Q118E mutant)
+caption: '(A) The synthesis and modification of N-linked glycans starting from the
+  dolichol-PP-Man9GlcNAc2 stage within the ER lumen. ALG6 appends the first glucose
+  onto the immature glycan using dolichol-P-glucose as the source. The mono-glucosylated
+  glycan is then built into a tri-glucosylated carbohydrate by ALG8/10 prior to covalent
+  linking to the nascent peptide chains. The glycan is trimmed to a mono-glucosylated
+  state by glucosidases I and II, whereupon it can bind ER lectin chaperones. Removal
+  of the remaining glucose by glucosidase II dissociates the glycoprotein from the
+  lectin chaperones, whereby three options are possible: continuation of trafficking,
+  degradation, or reglucosylation by the UGGTs. Orange ovals represent dolichol anchors,
+  yellow circles phosphates, blue squares GlcNAc, green circles mannose, and blue
+  circles glucose. (B) Alteration of glycan synthesis pathway for glucosylation studies.
+  Deletion of ALG6 results in a Man9GlcNAc2 glycan being transferred to nascent chains
+  by the OST as the initial glucose can no longer be added. Interaction with ER lectin
+  chaperones is thereby facilitated solely through glucosylation by the UGGTs. Further
+  enrichment is achieved through treatment with DNJ, preventing the removal of the
+  inner glucose. (C) The designated cell lines were transfected with either the WT
+  Trop-2-EYFP or Q118E mutant and lysed. The lysate was split between a whole cell
+  lysate sample (20%) and a GST-CRT (35%) and GST-CRT-Y109A pulldown (35%) and resolved
+  by 9% SDSPAGE before transferring to a PVDF membrane. Imaged is an αEYFP immunoblot.
+  Data represent three independent biological replicates. (D) Mock transfection to
+  measure background binding of αEYFP antibody against whole cell lysate from each
+  cell line. The membrane was also probed against GAPDH as a loading control. (E)
+  Quantification of blots from (B). Percent glucosylation was calculated by subtracting
+  the amount of protein pulled down in the Y109A lane from the CRT for each cell line.
+  The resulting value was divided by the normalised quantified protein within the
+  whole cell lysate and multiplied by 100. Error bars represent the standard deviation.
+  **** represents P ≤ 0.0001 and *** represents P ≤ 0.001'
+article_title: Rescue of secretion of a rare-disease associated mis-folded mutant
+  glycoprotein in UGGT1 knock-out mammalian cells
+citation: Gábor Tax, et al. bioRxiv. 2023 May 31;NA(NA).
+year: '2023'
+pub_date: 2023-5-31
+epub_date: 2023-5-31
+doi: 10.1101/2023.05.30.542711
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- responsive mutant
+- glycoprotein secretion
+- UGGT
+- UGGT1
+- UGGT2
+- GDLD
+- Trop-2
+- TACSTD2
+---

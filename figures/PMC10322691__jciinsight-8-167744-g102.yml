@@ -1,0 +1,34 @@
+---
+figid: PMC10322691__jciinsight-8-167744-g102
+pmcid: PMC10322691
+image_filename: PMC10322691__jciinsight-8-167744-g102.jpg
+figure_link: /pmc/articles/PMC10322691/figure/F3/
+number: Figure 3
+figure_title: Epigenetic dysregulation in BOS patient–derived fibroblasts drives transcriptomic
+  dysregulation
+caption: (A) ATAC-seq heatmap of all significant DEGs with Padj < 0.05 and abs(log2FC)
+  ≥ 0.58 between BOS (blue, n = 7) and control (pink, n = 7) fibroblasts found 4336
+  DEGs in fibroblasts, with 3036 of 4336 (70.0%) being more upregulated. (B) Gene
+  set enrichment showed key dysregulated pathways, including nervous system development.
+  (C) Integration of chromatin accessibility (ATAC-seq, x axis) and gene expression
+  (RNA-seq, y axis) in BOS patient (n = 7) compared with control fibroblasts (n =
+  7) identified a positive correlation (R2 = 0.405) between chromatin accessibility
+  and gene expression. We identified a set of 37 common dysregulated transcripts (right).
+  DEGs were considered significant (red) for abs(log2FC) ≥ 0.58 and Padj > 0.05
+article_title: Multiomics of Bohring-Opitz syndrome truncating ASXL1 mutations identify
+  canonical and noncanonical Wnt signaling dysregulation
+citation: Isabella Lin, et al. JCI Insight. 2023 May 22;8(10).
+year: '2023'
+pub_date: 2023-5-22
+epub_date: 2023-5-22
+doi: 10.1172/jci.insight.167744
+journal_title: JCI Insight
+journa_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Development
+- Genetics
+- Epigenetics
+- Genetic diseases
+- Leukemias
+---

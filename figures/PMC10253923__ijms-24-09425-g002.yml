@@ -1,0 +1,43 @@
+---
+figid: PMC10253923__ijms-24-09425-g002
+pmcid: PMC10253923
+image_filename: PMC10253923__ijms-24-09425-g002.jpg
+figure_link: /pmc/articles/PMC10253923/figure/F2/
+number: Figure 2
+figure_title: Transcriptome analysis of HaCaT cells after sericin peptide library
+  treatment.
+caption: 'Transcriptome analysis of HaCaT cells after sericin peptide library treatment.
+  (A) The gene expression level FPKM was selected to evaluate the Pearson correlation
+  analysis between samples. (B) Analysis of gene expression of the normalized sample.
+  (C) The density distribution curve of gene expression. The differentiated areas
+  are marked in pink. (D) Volcano map of gene expression differences between Null
+  and Ser-P group. Dots with red, green, and black represent upregulated, downregulated,
+  and not significantly changed genes assessed by hard thresholds, which have two
+  standards: |log2FC| > 1 and −log10 p value > 1.3. (E) Hierarchical clustering heat
+  map of differential genes between Null and Ser-P group. The columns and rows represent
+  the different samples and different expressed genes, respectively. (F) Top 20 of
+  KEGG pathway enrichment analysis. TGF-β signaling pathway related to extracellular
+  matrix synthesis is marked with a red dotted box. UM proteolysis refers to ubiquitin-mediated
+  proteolysis. (G) Gene upregulating expression in classical TGF-β pathway in Ser-p
+  group. All experiments were conducted with three independent replicates and data
+  were expressed as log10 (FPKM)'
+article_title: A Novel Approach for Screening Sericin-Derived Therapeutic Peptides
+  Using Transcriptomics and Immunoprecipitation
+citation: Riyuan Wang, et al. Int J Mol Sci. 2023 Jun;24(11).
+year: '2023'
+pub_date: 2023-6-
+epub_date: 2023-5-29
+doi: 10.3390/ijms24119425
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- therapeutic peptide
+- screening method
+- sericin
+- extracellular matrix
+- collagen
+- elastin
+- immunoprecipitation
+- natural resources
+---
