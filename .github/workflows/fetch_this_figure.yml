@@ -26,8 +26,12 @@ jobs:
       id: extract
       run: |
         body="${{ github.event.issue.body }}"
-        pmcid=$(echo "$body" | awk '/^### PMCID/{getline; print}')
-        figure_number=$(echo "$body" | awk '/^### Figure Number/{getline; print}')
+        echo "Issue body:"
+        echo "$body"
+        pmcid=$(echo "$body" | sed -n 's/^### PMCID *//p' | tr -d '[:space:]')
+        figure_number=$(echo "$body" | sed -n 's/^### Figure Number *//p' | tr -d '[:space:]')
+        echo "Extracted PMCID: $pmcid"
+        echo "Extracted Figure Number: $figure_number"
         echo "pmcid=$pmcid" >> $GITHUB_OUTPUT
         echo "figure_number=$figure_number" >> $GITHUB_OUTPUT
     
