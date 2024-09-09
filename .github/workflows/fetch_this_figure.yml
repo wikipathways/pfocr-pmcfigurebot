@@ -28,8 +28,8 @@ jobs:
         body="${{ github.event.issue.body }}"
         echo "Issue body:"
         echo "$body"
-        pmcid=$(echo "$body" | sed -n 's/^### PMCID *//p' | tr -d '[:space:]')
-        figure_number=$(echo "$body" | sed -n 's/^### Figure Number *//p' | tr -d '[:space:]')
+        pmcid=$(echo "$body" | awk '/^### PMCID/{getline; if (NF) print; exit}')
+        figure_number=$(echo "$body" | awk '/^### Figure Number/{getline; if (NF) print; exit}')
         echo "Extracted PMCID: $pmcid"
         echo "Extracted Figure Number: $figure_number"
         echo "pmcid=$pmcid" >> $GITHUB_OUTPUT
