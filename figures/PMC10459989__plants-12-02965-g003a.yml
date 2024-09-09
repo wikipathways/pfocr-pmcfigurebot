@@ -1,0 +1,37 @@
+---
+figid: PMC10459989__plants-12-02965-g003a
+pmcid: PMC10459989
+image_filename: PMC10459989__plants-12-02965-g003a.jpg
+figure_link: /pmc/articles/PMC10459989/figure/F3/
+number: Figure 3
+figure_title: The top twenty enriched KEGG pathways based on the DEGs in two pairwise
+  groups.
+caption: The top twenty enriched KEGG pathways based on the DEGs in two pairwise groups.
+  (a) CKAC-vs-AC; (b) CKMT-vs-MT; (c) AC-vs-MT. Each circle in the figure represented
+  a KEGG pathway, where the y-axis denoted the pathway name and the x-axis represented
+  the enrichment factor, which was the ratio of the proportion of annotated genes
+  in DEGs to the proportion of annotated genes in all genes for that pathway. A larger
+  enrichment factor indicated a more significant enrichment level of DEGs in that
+  pathway. The color of the circle represented the p-value, which was the value after
+  multiple hypothesis testing correction. A smaller p-value indicated a more reliable
+  significance of the enrichment of DEGs in that pathway. The size of the circle represented
+  the number of enriched genes in the pathway, where a larger circle indicated more
+  genes in the pathway
+article_title: 'Unraveling the Molecular Mechanisms of Tomatoes’ Defense against Botrytis
+  cinerea: Insights from Transcriptome Analysis of Micro-Tom and Regular Tomato Varieties'
+citation: Shifu Tian, et al. Plants (Basel). 2023 Aug;12(16).
+year: '2023'
+pub_date: 2023-8-
+epub_date: 2023-8-16
+doi: 10.3390/plants12162965
+journal_title: Plants
+journa_nlm_ta: Plants (Basel)
+publisher_name: MDPI
+keywords:
+- tomato
+- Micro-Tom
+- B. cinerea
+- transcriptome sequencing
+- Ca2+
+- transcription factors
+---

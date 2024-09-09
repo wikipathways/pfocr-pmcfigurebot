@@ -1,0 +1,33 @@
+---
+figid: PMC10454136__ijms-24-12857-g006
+pmcid: PMC10454136
+image_filename: PMC10454136__ijms-24-12857-g006.jpg
+figure_link: /pmc/articles/PMC10454136/figure/F6/
+number: Figure 6
+figure_title: KEGG enrichment analysis.
+caption: KEGG enrichment analysis. (A) KEGG classification histogram of DEGs. The
+  ordinate represents the name of the KEGG pathway, and the abscissa represents the
+  number of genes annotated to the pathway. The color of the columns represents the
+  q-value of the hypergeometric test. (B) KEGG distribution map of DEGs. The abscissa
+  represents GeneRatio, which indicates the proportion of genes of this pathway relative
+  to all DEGs. The ordinate represents each pathway. The sizes of the dots represent
+  the number of DEGs annotated in the pathway, and the colors of the dots represent
+  the q-values of the hypergeometric test. Upward-pointing triangles represent up-regulated
+  genes, and downward-pointing triangles represent down-regulated genes
+article_title: Brassinosteroids Regulate the Water Deficit and Latex Yield of Rubber
+  Trees
+citation: Bingbing Guo, et al. Int J Mol Sci. 2023 Aug;24(16).
+year: '2023'
+pub_date: 2023-8-
+epub_date: 2023-8-16
+doi: 10.3390/ijms241612857
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- Brassinolide
+- water deficit
+- latex
+- natural rubber
+- rubber tree
+---

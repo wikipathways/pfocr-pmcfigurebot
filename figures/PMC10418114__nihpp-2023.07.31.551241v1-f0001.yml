@@ -1,0 +1,41 @@
+---
+figid: PMC10418114__nihpp-2023.07.31.551241v1-f0001
+pmcid: PMC10418114
+image_filename: PMC10418114__nihpp-2023.07.31.551241v1-f0001.jpg
+figure_link: /pmc/articles/PMC10418114/figure/FFigure 1./
+number: Figure 1.
+figure_title: Cancer cachexia is associated with a decrease in serum adiponectin and
+  a concomitant decline in AMPK/CaMKII signaling in skeletal muscle.
+caption: 'Cancer cachexia is associated with a decrease in serum adiponectin and a
+  concomitant decline in AMPK/CaMKII signaling in skeletal muscle.A. Principal component
+  analysis (PCA) of white adipose tissue (WAT) RNA-Seq samples showing distinct clustering
+  between CACS (n=10) and NCACS (n=9) in the KL model.B. Gene Set Enrichment Analysis
+  (GSEA) of samples in “A” showing the top 18 pathways differentially expressed in
+  CACS using the Hallmark dataset.C. Serum levels of Adiponectin in wild type (WT,
+  male=10, female=3) and tumor-bearing mice classified either as non-cachectic (NCACS,
+  male=16, female=5) or cachectic (CACS, male=9, female=5).D. GSEA comparing CAMKK
+  signaling pathway (GO:0061762) in the muscles of 3 different models of cancer cachexia.
+  In GSE165856 and GSE107470, the gastrocnemius of CACS (n=10) KL mice are compared
+  with those of NCACS (n=10). In, GSE123310 quadriceps of CACS (n=4) mice with Pancreatic
+  ductal adenocarcinoma are compared to controls (n=3), and in GSE138464 the gastrocnemius
+  of mice implanted with the C26 colon cancer (n=4) cell line are compared to controls
+  (n= 6).Data information: Error bars stand for SD. p < 0.05, NES = Normalized Enrichment
+  Score. The p-value in panel C was calculated using a two-way ANOVA followed by Sidak’s
+  multiple comparison test'
+article_title: Restoring adiponectin via rosiglitazone ameliorates tissue wasting
+  in mice with lung cancer
+citation: Henning Tim Langer, et al. bioRxiv. 2023 Aug 02;NA(NA).
+year: '2023'
+pub_date: 2023-8-02
+epub_date: 2023-8-02
+doi: 10.1101/2023.07.31.551241
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- cachexia
+- adiponectin
+- muscle wasting
+- lung cancer
+- AMPK
+---

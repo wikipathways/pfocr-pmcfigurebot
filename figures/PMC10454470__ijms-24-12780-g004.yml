@@ -1,0 +1,45 @@
+---
+figid: PMC10454470__ijms-24-12780-g004
+pmcid: PMC10454470
+image_filename: PMC10454470__ijms-24-12780-g004.jpg
+figure_link: /pmc/articles/PMC10454470/figure/F4/
+number: Figure 4
+figure_title: Galectin signaling pathways may be involved in the mitochondrial dysfunction
+  of CD8+ T cells in severe/critical COVID-19 patients.
+caption: 'Galectin signaling pathways may be involved in the mitochondrial dysfunction
+  of CD8+ T cells in severe/critical COVID-19 patients. (A) The UMAP presentation
+  of 14 heterogeneous clusters of epithelial cells. (B) Percentage of epithelial cells
+  across healthy controls (HC, blue), moderate (O, green), and severe/critical (S/C,
+  red) COVID-19 patients in individual clusters. (C) Hierarchical plot (left) and
+  chord diagram (right) show the inferred intercellular communication network (only
+  the effect of epithelial cells on CD8+ T cells is represented here) for galectin
+  signaling. E1, 3–7, 10–12: nine epithelial cell groups separated from severe/critical
+  COVID-19 patients; C3, 10: two CD8+ T cell groups from severe/critical COVID-19
+  patients. Different colors represent different cell clusters. (D) CellChat infers
+  the strength of different cell groups as senders or receivers of signals during
+  cellular communication. The color bar shows the strength of signals, the histograms
+  with different colors indicate the total strength of different cell groups, and
+  the x- and y-axes represent the signal receiver (CD8+ T cells) or sender (epithelial
+  cells). (E) Violin plots comparing the normalized expression level of LGALS1, LAGLS3,
+  and LGALS9 transcripts in various epithelial clusters of COVID-19 patients with
+  severe/critical disease. (F) Bubble plot showing the stronger effects of multiple
+  galectin ligand–receptor pairs on C10 involved in cellular communication. The color
+  bar shows the strength of signals. (G) Violin plots exhibit the expression levels
+  of relative receptor genes in C3 and C10'
+article_title: Epithelial Galectin-3 Induced the Mitochondrial Complex Inhibition
+  and Cell Cycle Arrest of CD8+ T Cells in Severe/Critical COVID-19
+citation: Yudie Wang, et al. Int J Mol Sci. 2023 Aug;24(16).
+year: '2023'
+pub_date: 2023-8-
+epub_date: 2023-8-14
+doi: 10.3390/ijms241612780
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- COVID-19
+- CD8+ T cell
+- cell cycle arrest
+- mitochondrial complex genes
+- galectin-3
+---

@@ -1,0 +1,27 @@
+---
+figid: PMC10439836__JIR2023-6300633.002
+pmcid: PMC10439836
+image_filename: PMC10439836__JIR2023-6300633.002.jpg
+figure_link: /pmc/articles/PMC10439836/figure/F2/
+number: Figure 2
+figure_title: The scRNA profiles for T cells in Ctrl and RA samples.
+caption: The scRNA profiles for T cells in Ctrl and RA samples. (a) UMAP clustering
+  distribution of T cells. Each dot represents one cell. From left to right, each
+  color represents cell type and sample type. (b) Violin plot showing the expression
+  of major marker genes. (c) Statistical and differential change analysis of T-cell
+  proportions in the Ctrl and RA samples (statistical analysis performed as above).
+  (d) Differential expression analysis of T-cell subpopulations. (e, f) GSEA shows
+  enrichment pathways in T cell subpopulations. ES, enrichment score; NES, normalized
+  enrichment score
+article_title: Analyzation of the Peripheral Blood Mononuclear Cells Atlas and Cell
+  Communication of Rheumatoid Arthritis Patients Based on Single-Cell RNA-Seq
+citation: Xinqiang Song, et al. J Immunol Res. 2023;2023(NA).
+year: '2023'
+pub_date: 2023--
+epub_date: 2023-8-12
+doi: 10.1155/2023/6300633
+journal_title: Journal of Immunology Research
+journa_nlm_ta: J Immunol Res
+publisher_name: Hindawi
+keywords: []
+---

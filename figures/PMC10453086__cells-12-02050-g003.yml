@@ -1,0 +1,49 @@
+---
+figid: PMC10453086__cells-12-02050-g003
+pmcid: PMC10453086
+image_filename: PMC10453086__cells-12-02050-g003.jpg
+figure_link: /pmc/articles/PMC10453086/figure/F3/
+number: Figure 3
+figure_title: Downregulation of cholesterol synthesis pathway significantly enhanced
+  3D spheroid formation of diverse cell types.
+caption: Downregulation of cholesterol synthesis pathway significantly enhanced 3D
+  spheroid formation of diverse cell types. (A) Venn diagram showing overlap between
+  DEGs (cutoff > 1.7-fold difference) in 3D vs. 2D conditions for each cell type.
+  (B) GO terms enriched among DEGs of 3D vs. 2D conditions for each cell type. (C)
+  Significant enrichment and downregulation of the cholesterol synthesis pathway genes
+  via GSEA in ESCs, MSCs, and cancer cells cultured in 3D vs. 2D conditions. (D) IPA-based
+  pathway analysis for the cholesterol synthesis pathway of 3D- vs. 2D-cultured MSCs.
+  Upregulated genes are indicated in red and downregulated genes in green. Solid and
+  dashed lines indicate direct and indirect interactions, respectively. Genes in gray
+  are generated based on IPA and not from transcriptome data. Results and individual
+  gene expression levels for 3D- vs. 2D-cultured ESCs and cancer cells are shown in
+  Figure S2. (E) qPCR analysis for expression levels of cholesterol synthesis enzymes
+  24-dehydrocholesterol reductase (Dhcr24), methylsterol monooxygenase 1 (Msmo1),
+  and squalene epoxidase (Sqle) in ESCs, MSCs, and cancer cells cultured in 2D and
+  3D conditions; Gapdh, internal control. Data are presented as mean ± SEM. ***, p
+  < 0.001, and ****, p < 0.0001, compared with 2D cultured conditions. (F) Phase contrast
+  microscopy of 3D-cultured ESCs, MSCs, and cancer cells treated with the cholesterol
+  synthesis inhibitor mevastatin (Mev; 1 μM), depletion of cholesterol by methyl-β-cyclodextrin
+  (MβCD; 1.5 mM), or addition of cholesterol (1.5 mM MβCD + 100 μg/mL cholesterol
+  condition). Scale bar, 100 μm. Bar figures represent quantification of area of 3D
+  spheroids. Data are presented as mean ± SEM. *, p < 0.05, **, p < 0.01, and ****,
+  p < 0.0001 compared to 3D control or between conditions as indicated by bar
+article_title: 'Targeting Conserved Pathways in 3D Spheroid Formation of Diverse Cell
+  Types for Translational Application: Enhanced Functional and Antioxidant Capacity'
+citation: Chia-Chi Chang, et al. Cells. 2023 Aug;12(16).
+year: '2023'
+pub_date: 2023-8-
+epub_date: 2023-8-11
+doi: 10.3390/cells12162050
+journal_title: Cells
+journa_nlm_ta: Cells
+publisher_name: MDPI
+keywords:
+- three-dimensional (3D) spheroid formation
+- pluripotent stem cells
+- mesenchymal stem cells
+- cancer cells
+- cholesterol synthesis
+- cytoskeleton modification
+- antioxidant capacity
+---

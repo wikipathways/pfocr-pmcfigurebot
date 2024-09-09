@@ -1,0 +1,31 @@
+---
+figid: PMC10439836__JIR2023-6300633.003
+pmcid: PMC10439836
+image_filename: PMC10439836__JIR2023-6300633.003.jpg
+figure_link: /pmc/articles/PMC10439836/figure/F3/
+number: Figure 3
+figure_title: The scRNA profiles for monocytes in Ctrl and RA samples.
+caption: The scRNA profiles for monocytes in Ctrl and RA samples. (a) UMAP clustering
+  distribution of monocytes. Each dot represents one cell, and each color from left
+  to right represents cell type and sample type. (b) Expression of CD14 and CD16 on
+  monocytes. (c) GSVA shows the difference in pathway activity scores per cell in
+  classic monocytes and nonclassic monocytes. Each rectangle represents one pathway,
+  with longer rectangles representing higher enrichment. The t values greater than
+  0 (red) indicate upregulated pathways, and the t values less than 0 (blue) indicate
+  downregulated pathways. (d) Potential monocytes transformation trajectories inferred
+  from Monocle2 analysis. (e) Volcano plot showing differential gene expression in
+  monocytes at State 3 between Ctrl and RA samples. (f) KEGG analysis of DEGs in State
+  3. (g) Protein–protein interaction network of DEGs in the rheumatoid arthritis signaling
+  pathway
+article_title: Analyzation of the Peripheral Blood Mononuclear Cells Atlas and Cell
+  Communication of Rheumatoid Arthritis Patients Based on Single-Cell RNA-Seq
+citation: Xinqiang Song, et al. J Immunol Res. 2023;2023(NA).
+year: '2023'
+pub_date: 2023--
+epub_date: 2023-8-12
+doi: 10.1155/2023/6300633
+journal_title: Journal of Immunology Research
+journa_nlm_ta: J Immunol Res
+publisher_name: Hindawi
+keywords: []
+---

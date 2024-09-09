@@ -1,0 +1,29 @@
+---
+figid: PMC10441312__nihpp-2023.08.06.552164v1-f0004
+pmcid: PMC10441312
+image_filename: PMC10441312__nihpp-2023.08.06.552164v1-f0004.jpg
+figure_link: /pmc/articles/PMC10441312/figure/FFigure 4./
+number: Figure 4.
+figure_title: Clustering by optical profiles captures physical interactions and signaling
+  pathway relationships
+caption: (a) Heatmaps representing Pearson’s correlation between gene profiles after
+  hierarchical clustering using Ward’s method. The ribosomal gene complex was enriched
+  in the DMEM HeLa dataset based on the preranked GSEA analysis. Different subset
+  of ribosomal genes enriched in certain clusters are highlighted in the heatmap.
+  Ribosome image created with Biorender. (b) Heatmaps representing Pearson’s correlation
+  between gene profiles after hierarchical clustering using Ward’s method. The genes
+  associated with the PI3K/AKT signaling pathway were enriched in the DMEM HeLa dataset
+  based on the preranked GSEA analysis. The table on the right highlights the genes
+  with activatory/inhibitory effects in accordance with the correlation/anti-correlation
+  between profiles from the heatmap
+article_title: A genome-wide atlas of human cell morphology
+citation: Meraj Ramezani, et al. bioRxiv. 2023 Aug 07;NA(NA).
+year: '2023'
+pub_date: 2023-8-07
+epub_date: 2023-8-07
+doi: 10.1101/2023.08.06.552164
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

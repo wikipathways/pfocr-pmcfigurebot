@@ -1,0 +1,32 @@
+---
+figid: PMC10439836__JIR2023-6300633.004
+pmcid: PMC10439836
+image_filename: PMC10439836__JIR2023-6300633.004.jpg
+figure_link: /pmc/articles/PMC10439836/figure/F4/
+number: Figure 4
+figure_title: Comparative analysis of cell communication networks in Ctrl and RA samples.
+caption: Comparative analysis of cell communication networks in Ctrl and RA samples.
+  (a) Comparison of the number and strength of interactions of cellular communication
+  networks of cells in Ctrl and RA PBMCs. (b) Heatmap showing the difference in intensity
+  and number of interactions of different cells in different signals in PBMCs of Ctrl
+  and RA samples. The top colored bar indicates the sum of the column values shown
+  in the afferent pathways heatmap. The colored bar on the right indicates the sum
+  of the outgoing signals. (c) The rank of all significant pathways is based on the
+  difference in total information flow in the inferred network between the Ctrl and
+  RA samples. The total information flow of the signaling network is calculated by
+  summing the probability of all communications in the network. The top pathway colored
+  in red is more common in the Ctrl samples, and the bottom pathway colored in green
+  is more common in the RA samples. (d) Heatmap comparison of changes in afferent
+  or efferent pathways associated with each cell population in the Ctrl and RA samples
+article_title: Analyzation of the Peripheral Blood Mononuclear Cells Atlas and Cell
+  Communication of Rheumatoid Arthritis Patients Based on Single-Cell RNA-Seq
+citation: Xinqiang Song, et al. J Immunol Res. 2023;2023(NA).
+year: '2023'
+pub_date: 2023--
+epub_date: 2023-8-12
+doi: 10.1155/2023/6300633
+journal_title: Journal of Immunology Research
+journa_nlm_ta: J Immunol Res
+publisher_name: Hindawi
+keywords: []
+---

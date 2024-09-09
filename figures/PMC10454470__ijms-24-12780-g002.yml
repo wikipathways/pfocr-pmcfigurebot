@@ -1,0 +1,48 @@
+---
+figid: PMC10454470__ijms-24-12780-g002
+pmcid: PMC10454470
+image_filename: PMC10454470__ijms-24-12780-g002.jpg
+figure_link: /pmc/articles/PMC10454470/figure/F2/
+number: Figure 2
+figure_title: Cell cycle arrest occurred in certain CD8+ T cell subpopulations of
+  severe/critical COVID-19 patients.
+caption: 'Cell cycle arrest occurred in certain CD8+ T cell subpopulations of severe/critical
+  COVID-19 patients. (A) UMAP embedding of all CD8+ T cells colored by unsupervised
+  clustering. (B) Percentage of CD8+ T cells across healthy controls, moderate, and
+  severe/critical COVID-19 patients in individual clusters. HC means healthy controls,
+  O means moderate COVID-19 patients, and S/C means severe or critical COVID-19 patients.
+  (C) A dot plot showing the expression of proliferation-associated genes and FASLG
+  by CD8+ T cell clusters. (D) Bar plots show the percentage of clonotypes in specified
+  CD8+ T cell clusters from patients with moderate and severe/critical COVID-19. The
+  clonotypes are categorized as Large (0.01 < X ≦ 0.1), Medium (0.001 < X ≦ 0.01),
+  and Small (0 < X ≦ 0.001) based on their relative abundance. (E) reCAT reconstructs
+  cell cycle time-series and predicts cell cycle stages along the time-series. The
+  presentation of different cell cycle phases of healthy controls (upper panel), moderate
+  patients (middle panel), and severe/critical patients (lower panel). The corresponding
+  pie charts show the proportion of CD8+ T cells at different cell cycle stages. (F)
+  Pseudo-time trajectory projected onto a UMAP of CD8+ T cells from severe/critical
+  COVID-19 patients. Pseudo-time values are color-coded. Numbers in circles indicate
+  inferred differentiation paths. The enlarged box is the timing diagram of C3 and
+  C10. C3, C10: two CD8+ T cell groups isolated from severe/critical COVID-19 patients.
+  (G) Enrichment plots for pathways identified by GSEA. C10 was positively correlated
+  with the negative regulation of the cell cycle relative signaling pathway in the
+  Molecular Signatures Database (MSigDB). (H) Heatmap showing average expression of
+  cell cycle phases’ gene signatures (rows) in C3 and C10 (columns). The color scale
+  shows the expression level of selected transcripts in each cell'
+article_title: Epithelial Galectin-3 Induced the Mitochondrial Complex Inhibition
+  and Cell Cycle Arrest of CD8+ T Cells in Severe/Critical COVID-19
+citation: Yudie Wang, et al. Int J Mol Sci. 2023 Aug;24(16).
+year: '2023'
+pub_date: 2023-8-
+epub_date: 2023-8-14
+doi: 10.3390/ijms241612780
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- COVID-19
+- CD8+ T cell
+- cell cycle arrest
+- mitochondrial complex genes
+- galectin-3
+---

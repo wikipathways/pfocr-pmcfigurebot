@@ -1,0 +1,47 @@
+---
+figid: PMC11147137__nihms-1997564-f0004
+pmcid: PMC11147137
+image_filename: PMC11147137__nihms-1997564-f0004.jpg
+figure_link: /pmc/articles/PMC11147137/figure/FFIG 3./
+number: FIG 3.
+figure_title: (A and B) Forest plots showing association between PC1 and PC2 scores
+  from a maternal postpartum week 1 PCA model based on 46 metabolites that had a VIP
+  score >2 in relation to calibrated vitamin D level and primary child clinical end
+  points.
+caption: (A and B) Forest plots showing association between PC1 and PC2 scores from
+  a maternal postpartum week 1 PCA model based on 46 metabolites that had a VIP score
+  >2 in relation to calibrated vitamin D level and primary child clinical end points.
+  Forest plot in (A) shows when not stratified by child 17q21 rs12936231 genotypes,
+  while plot in (B) shows when stratified by child 17q21 rs12936231 genotypes. Regression
+  models were used between PCA scores and clinical end points. The x-axis represents
+  relative risk for each component score, while the y-axis represents each clinical
+  end point. Each dot represents relative risk per unit of component score, while
+  the error bar represents 95% CI of relative risk. Different colors represent rs12936231
+  genotypes. Cox regression models were used to test the association between the metabolites
+  and persistent wheeze, asthma, and exacerbation end points. Linear regression models
+  were used between the metabolites and lung function end points. Logistic regression
+  models were used for allergic sensitization, while quasi-Poisson regression models
+  were used for TROLS. PC1 and PC2 explained 21.5% and 12.5% of the variance, respectively.
+  (C) Circos plot showing association between 12 sphingomyelins from maternal postpartum
+  week 1 and child clinical end points. Twelve sphingomyelins were selected because
+  the sphingomyelin pathway was the metabolic pathway most affected by vitamin D level,
+  ie, significant enrichment, and 12 of them had VIP scores >2. Orange line represents
+  negative association at nominal level (P < .05). corr., Corrected; Epi.No., number
+  of episodes; Neg., negative; Pos., positive; sRAW, specific airway resistance
+article_title: Maternal vitamin D–related metabolome and offspring risk of asthma
+  outcomes
+citation: Min Kim, et al. J Allergy Clin Immunol. 2024 May 28;152(6).
+year: '2024'
+pub_date: 2024-5-28
+epub_date: 2023-8-08
+doi: 10.1016/j.jaci.2023.06.030
+journal_title: The Journal of allergy and clinical immunology
+journa_nlm_ta: J Allergy Clin Immunol
+publisher_name: .na.character
+keywords:
+- Vitamin D
+- metabolomics
+- pregnancy
+- childhood asthma
+- sphingomyelin
+---

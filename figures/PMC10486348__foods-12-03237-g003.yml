@@ -1,0 +1,47 @@
+---
+figid: PMC10486348__foods-12-03237-g003
+pmcid: PMC10486348
+image_filename: PMC10486348__foods-12-03237-g003.jpg
+figure_link: /pmc/articles/PMC10486348/figure/F3/
+number: Figure 3
+figure_title: Metabolic analysis results of LD muscle in DDBJ and JXB pigs (a) Grouping
+  principal component analysis; PC1 represents the first principal component, PC2
+  represents the second principal component, and the percentage represents the interpretation
+  rate of the principal component to the dataset; each point in the figure represents
+  a sample, samples of the same group are indicated by the same color, and “Group”
+  is a group.
+caption: Metabolic analysis results of LD muscle in DDBJ and JXB pigs (a) Grouping
+  principal component analysis; PC1 represents the first principal component, PC2
+  represents the second principal component, and the percentage represents the interpretation
+  rate of the principal component to the dataset; each point in the figure represents
+  a sample, samples of the same group are indicated by the same color, and “Group”
+  is a group. (b) Differential metabolite scatter diagram, where each point represents
+  a metabolite, and different colors represent distinct classifications. The abscissa
+  denotes the logarithm (log2FC) of the relative content difference multiple of a
+  substance in two sample groups. The size of the dot signifies the VIP value. (c)
+  For the overall change analysis of the KEGG metabolic pathway, the ordinate represents
+  the name of different pathways (sorted by p-values), and the abscissa indicates
+  the DA score. The DA Score is the sum of all metabolite alterations throughout the
+  metabolic pathway. An expression score of 1 shows an upregulation trend in the expression
+  of all metabolites in this pathway, and a score of −1 signifies a downregulation
+  trend in the expression of all of the detected metabolites within this pathway (d)
+  Metabolite sets enrichment analysis; the ordinate highlights the name of the metabolic
+  set (sorted by p-values), corresponding to the p-value of the metabolic set; the
+  abscissa indicates fold enrichment
+article_title: Multi-Omics Reveals the Effect of Crossbreeding on Some Precursors
+  of Flavor and Nutritional Quality of Pork
+citation: Qiangqiang Chen, et al. Foods. 2023 Sep;12(17).
+year: '2023'
+pub_date: 2023-9-
+epub_date: 2023-8-28
+doi: 10.3390/foods12173237
+journal_title: Foods
+journa_nlm_ta: Foods
+publisher_name: MDPI
+keywords:
+- transcriptomics
+- metabolomics
+- pork
+- meat quality
+- longissimus dorsi muscle
+---

@@ -1,0 +1,32 @@
+---
+figid: PMC10578141__nihms-1933890-f0004
+pmcid: PMC10578141
+image_filename: PMC10578141__nihms-1933890-f0004.jpg
+figure_link: /pmc/articles/PMC10578141/figure/FFigure 3./
+number: Figure 3.
+figure_title: CyTOF analyses of CD4 TTS cell metabolic pathways
+caption: CD4 SMARTA T cells were transferred into WT mice followed by PyMG tumor injection
+  or acute LCMV-Armstrong infection. On day 8, SMARTA cells from tumor dLN or spleen
+  of LCMV-infected mice were isolated. SMARTA cells from uninfected mice were used
+  as naive control.(A) Heatmap depicts the normalized Z scores of the arcsinh-transformed
+  MSI of the indicated protein for each cluster.(B) Radar plot depicts the relative
+  arcsinh-transformed MSI of the indicated proteins by each group, scaling as the
+  percentage of the highest expression.(C) Heatmaps show the differential state comparisons
+  (calculated by diffcyt19) between tumor-specific CD4 SMARTA T cells and LCMV-specific
+  CD4 Th1 (top) or Tfh (bottom) SMARTA T cells. Coloration shows log2 fold change.
+  *adjusted p value < 0.05.(D) Violin plots show the single-cell scoring of each metabolic
+  pathway calculated as described in STAR Methods. Statistics were performed Wilcox
+  test only comparing CD4 TTS cells with Th1 and Tfh. *p < 0.05. Data are representative
+  of two experiments with at least three mice per group
+article_title: Molecular, metabolic, and functional CD4 T cell paralysis in the lymph
+  node impedes tumor control
+citation: Mengdi Guo, et al. Cell Rep. 2023 Oct 12;42(9).
+year: '2023'
+pub_date: '2023-10-12'
+epub_date: 2023-8-30
+doi: 10.1016/j.celrep.2023.113047
+journal_title: Cell reports
+journa_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

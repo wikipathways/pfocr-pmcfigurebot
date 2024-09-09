@@ -1,0 +1,32 @@
+---
+figid: PMC10462038__nihpp-2023.08.10.552878v1-f0001
+pmcid: PMC10462038
+image_filename: PMC10462038__nihpp-2023.08.10.552878v1-f0001.jpg
+figure_link: /pmc/articles/PMC10462038/figure/FFig. 1./
+number: Fig. 1.
+figure_title: Workflow diagram of the study
+caption: Host scRNA-seq data acquired through the public domain from one sample of
+  cervical cancer tissue were aligned to human and HPV reference genomes, respectively.
+  The sequencing expression matrix of the host and virus was generated and combined
+  into Seurat for cell clustering and annotation. Inter-cluster and intra-cluster
+  comparisons were analyzed on epithelial cell clusters based on whether the cells
+  were HPV+ or HPV-. The HPV+ epithelial cells were further divided into E6+/E7+ and
+  E6-/E7- cells. Downstream analyses such as differential expression analysis, pathway
+  enrichment analysis, and gene expression correlation analysis were conducted to
+  reveal the cellular heterogeneity of HPV-infected epithelial cells and the relationship
+  between host and viral gene expressions
+article_title: Identification of HPV oncogene and host cell differentiation associated
+  cellular heterogeneity in cervical cancer via single-cell transcriptomic analysis
+citation: Yingjie Li, et al. bioRxiv. 2023 Aug 14;NA(NA).
+year: '2023'
+pub_date: 2023-8-14
+epub_date: 2023-8-14
+doi: 10.1101/2023.08.10.552878
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- Cervical cancer
+- HPV infection
+- Single-cell RNA-seq
+---

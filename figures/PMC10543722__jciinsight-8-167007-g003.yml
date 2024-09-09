@@ -1,0 +1,49 @@
+---
+figid: PMC10543722__jciinsight-8-167007-g003
+pmcid: PMC10543722
+image_filename: PMC10543722__jciinsight-8-167007-g003.jpg
+figure_link: /pmc/articles/PMC10543722/figure/F3/
+number: Figure 3
+figure_title: Metabolic heterogeneity in ACC based on Simpson’s diversity index
+caption: (A) Bar chart shows ENSAT tumor stage was positively correlated with metabolic
+  heterogeneity determined by Simpson’s diversity index (i.e., higher Simpson’s diversity
+  index indicates higher metabolic heterogeneity) (patients n = 72; P values were
+  calculated by Pearson’s correlation for continuous values and Spearman’s correlation
+  for ranked variables). (B) Distribution and flow of patients according to metabolic
+  heterogeneity status and ENSAT stages, along with their survival status. The width
+  is proportional to the number of patients. (C) Kaplan-Meier analysis–based patient
+  stratification between low– and high–metabolic heterogeneity groups. Patients with
+  low metabolic heterogeneity exhibited better survival. (D) Discriminative m/z species–focused
+  heatmap clustering analysis reveals a distinct separation of patients with high
+  (red) and low (green) metabolic heterogeneity. Columns represent patients (n = 72);
+  rows represent m/z species (top 50). Color gradient represents the intensity from
+  maximum (red) to minimum (blue). (E) Enriched pathways in patients with high metabolic
+  heterogeneity. Each pathway is shown as a circle according to metabolic classifications
+  and enrichment scores (vertical axis), as well as topology analyses (i.e., pathway
+  impact; horizontal axis). Circle color represents the statistical significance of
+  overall metabolic changes within each pathway. (F) Volcano plot of the distribution
+  of differentially abundant m/z species, demonstrating 33 m/z species of increased
+  (blue) abundance in low-heterogeneity patients versus 103 m/z species of increased
+  (red) abundance in high-heterogeneity patients (fold-change cutoff = 1.5). The vertical
+  dotted line indicates fold-change = 1.5, and horizontal dotted line indicates P
+  = 0.05. (G) Heterogenous spatial distribution of 3 representative metabolites in
+  a patient with high metabolic heterogeneity (the vessel region was excluded from
+  analysis). ACC, adrenocortical carcinoma; ENSAT, European Network for the Study
+  of Adrenal Tumors; GDP, guanosine diphosphate; AMP, adenosine monophosphate; FC,
+  fold-change
+article_title: Metabolic heterogeneity in adrenocortical carcinoma impacts patient
+  outcomes
+citation: Qian Wang, et al. JCI Insight. 2023 Aug 22;8(16).
+year: '2023'
+pub_date: 2023-8-22
+epub_date: 2023-8-22
+doi: 10.1172/jci.insight.167007
+journal_title: JCI Insight
+journa_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Metabolism
+- Oncology
+- Bioinformatics
+- Cancer
+---

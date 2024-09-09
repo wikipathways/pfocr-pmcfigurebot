@@ -1,0 +1,35 @@
+---
+figid: PMC10475357__jcav14p2538g005
+pmcid: PMC10475357
+image_filename: PMC10475357__jcav14p2538g005.jpg
+figure_link: /pmc/articles/PMC10475357/figure/F5/
+number: Figure 5
+figure_title: Effect of CDK14 on cell proliferation.
+caption: Effect of CDK14 on cell proliferation. (A-C) Gene Set Enrichment Analysis
+  (GSEA) of CDK14 associated with several cell proliferation-related signaling pathways,
+  including DNA replication (p-value=0.008) in A, mismatch repair (p-value=0.033)
+  in B, and P53 signaling pathway in C (p-value=0.008), in ovarian cancer cell lines
+  from CCLE. (D) Detection of SK3R-PTX cell viability after si-CDK14 transfection
+  by the CCK-8 assay. (E) Cell cycle detection in SK3R-PTX cells after CDK14-siRNA
+  (si-CDK14) transfection by flow cytometry. The histogram shows the percentage of
+  cell population in each phase. (F) Detection of OV3R- PTX cell viability after si-CDK14
+  transfection by the CCK-8 assay. (G) Cell cycle detection in OV3R-PTX cells after
+  si-CDK14 transfection by flow cytometry. The histogram shows the percentage of cell
+  population in each phase. *, P < 0.05; **, P < 0.01
+article_title: Cyclin dependent kinase 14 as a paclitaxel-resistant marker regulated
+  by the TGF-β signaling pathway in human ovarian cancer
+citation: Wencai Guan, et al. J Cancer. 2023;14(13).
+year: '2023'
+pub_date: 2023--
+epub_date: 2023-8-15
+doi: 10.7150/jca.86842
+journal_title: Journal of Cancer
+journa_nlm_ta: J Cancer
+publisher_name: Ivyspring International Publisher
+keywords:
+- CDK14
+- chemoresistance
+- ovarian cancer
+- reversal
+- TGF-β signal
+---

@@ -1,0 +1,33 @@
+---
+figid: PMC10578141__nihms-1933890-f0005
+pmcid: PMC10578141
+image_filename: PMC10578141__nihms-1933890-f0005.jpg
+figure_link: /pmc/articles/PMC10578141/figure/FFigure 4./
+number: Figure 4.
+figure_title: Transcriptional programming of CD4 T cell paralysis in dLN by scRNA-seq
+caption: (A) Seurat clustering (resolution 0.5) of CD4 TTS cells. The bar graph depicts
+  the proportion of each cluster.(B) Top 20 differentially expressed genes (DEGs)
+  of each cluster.(C)Monocle trajectory analysis overlaid on UMAP colored by Seurat
+  clusters. </p/> (D) Single-cell heatmap depicts gene set variation analysis pathway
+  analysis within each Seurat cluster.(E) Radar plot shows normalized enrichment scores
+  of GSEA comparing CD4 SMARTA TTS cells from c4 (see Figure S4E) with defined Th
+  cell lineage signatures. Numbers in parentheses are the FDR. A value of 0.00 = FDR
+  < 10−3.(F) IPA pathway enrichment scoring of CD4 SMARTA TTS cells in c4 (see Figure
+  S4E). All included pathways are significant with p < 0.05. Pathways colored in red
+  were specifically mentioned in the text.(G) Venn diagrams show the overlap and difference
+  in DEGs of paralyzed tumor CD4 TTS cells, effector and exhausted virus-specific
+  CD4 (left) and CD8 T cells (right). Each group was individually compared with naive
+  T cells first prior to the comparisons shown. The numbers indicate the number of
+  genes
+article_title: Molecular, metabolic, and functional CD4 T cell paralysis in the lymph
+  node impedes tumor control
+citation: Mengdi Guo, et al. Cell Rep. 2023 Oct 12;42(9).
+year: '2023'
+pub_date: '2023-10-12'
+epub_date: 2023-8-30
+doi: 10.1016/j.celrep.2023.113047
+journal_title: Cell reports
+journa_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

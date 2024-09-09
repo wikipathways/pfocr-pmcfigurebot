@@ -1,0 +1,41 @@
+---
+figid: PMC10452836__cancers-15-04141-g003
+pmcid: PMC10452836
+image_filename: PMC10452836__cancers-15-04141-g003.jpg
+figure_link: /pmc/articles/PMC10452836/figure/F3/
+number: Figure 3
+figure_title: (A) The specific KRAS interactomes in HEK293 and HKe-3 cells identified
+  by AP-MS were input into the Panther analysis tool.
+caption: (A) The specific KRAS interactomes in HEK293 and HKe-3 cells identified by
+  AP-MS were input into the Panther analysis tool. Graphs show representation of GO
+  terms enriched for biological processes (left) and molecular functions (right).
+  (B) Pathway reconstruction and cluster analysis performed with StringDB show HEK293
+  specific protein interactors of KRAS that are exclusive to the HEK293 cell line
+  that are part of functional clusters. Red halo indicates the KRAS node. Edges represent
+  confidence, line thickness indicates the strength of data support. Proteins coloured
+  red are involved in RAS GTPase binding. Proteins coloured green are involved in
+  mTOR signalling pathway. Yellow proteins are involved in Cell cycle-mitotic. Blue
+  are proteins of the farnesyltransferase complex. (C) Specific protein interactors
+  of KRAS that are exclusive to the HKe-3 cell line were reconstructed using StringDB.
+  Red halo indicates the KRAS node. Edges represent confidence, line thickness indicates
+  the strength of data support. Proteins coloured red are involved in RNA binding;
+  proteins coloured blue are involved in RNA metabolic processing; green proteins
+  are involved with the spliceosome
+article_title: Proteomic Mapping of the Interactome of KRAS Mutants Identifies New
+  Features of RAS Signalling Networks and the Mechanism of Action of Sotorasib
+citation: Aoife Nolan, et al. Cancers (Basel). 2023 Aug;15(16).
+year: '2023'
+pub_date: 2023-8-
+epub_date: 2023-8-17
+doi: 10.3390/cancers15164141
+journal_title: Cancers
+journa_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+keywords:
+- KRAS
+- proteomics
+- JAK1
+- RADIL
+- Sotorasib
+- SOS1
+---
