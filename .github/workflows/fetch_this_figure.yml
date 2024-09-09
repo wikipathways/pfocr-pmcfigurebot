@@ -18,7 +18,7 @@ jobs:
     
     - name: Install dependencies
       run: |
-        R -e 'install.packages(c("rentrez", "xml2", "httr", "yaml", "stringr", "tools"))'
+        R -e 'install.packages(c("rentrez", "xml2", "httr", "yaml", "stringr"))'
     
     - name: Extract PMCID and Figure Number
       id: extract

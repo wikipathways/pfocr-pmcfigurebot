@@ -1,0 +1,10 @@
+name: Blank Issue
+description: Submit a new issue
+body:
+  - type: textarea
+    id: body
+    attributes:
+      label: Issue description
+      description: Describe your issue or request here.
+    validations:
+      required: true
