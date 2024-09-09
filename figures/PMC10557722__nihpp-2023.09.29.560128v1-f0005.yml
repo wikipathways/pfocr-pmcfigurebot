@@ -1,0 +1,30 @@
+---
+figid: PMC10557722__nihpp-2023.09.29.560128v1-f0005
+pmcid: PMC10557722
+image_filename: PMC10557722__nihpp-2023.09.29.560128v1-f0005.jpg
+figure_link: /pmc/articles/PMC10557722/figure/FFigure 5:/
+number: 'Figure 5:'
+figure_title: Transcriptional profiling reveals that JADE3 activates the TNF/NF-kB
+  signaling pathway
+caption: A. Principal component analysis scatter plot showing differential gene expression
+  signatures of control, JADE3 or JADE2 expressing cells. PC1 and PC2 corresponding
+  to the principal component 1 and principal component 2.B. Volcano plot of RNA-seq
+  of A549 JADE3 Flag cells vs vector control cells. An FDR-adjusted p-value < 0.01
+  (dotted line) was considered significant. Data is from three biological replicates.C.
+  Venn diagram of differentially expressed genes (DEGs) significantly upregulated
+  by JADE3 Flag vs vector control and JADE2 Flag vs vector control.D. Gene set enrichment
+  analysis of the 500 most significantly upregulated genes in A549 cells expressing
+  either JADE3 Flag or a vector control. The 10 most significantly enriched gene sets
+  are shown
+article_title: Genome-wide CRISPR activation screen identifies JADE3 as an antiviral
+  activator of NF-kB
+citation: Moiz Munir, et al. bioRxiv. 2023 Sep 29;NA(NA).
+year: '2023'
+pub_date: 2023-9-29
+epub_date: 2023-9-29
+doi: 10.1101/2023.09.29.560128
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---
