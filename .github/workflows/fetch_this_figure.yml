@@ -9,7 +9,7 @@ jobs:
     if: github.event.label.name == 'fetch'
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
     
     - name: Set up R
       uses: r-lib/actions/setup-r@v2
@@ -55,11 +55,14 @@ jobs:
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v5
       with:
-        commit-message: Add figure ${{ steps.extract.outputs.pmcid }}_${{ steps.extract.outputs.figure_number }}
-        title: Add figure ${{ steps.extract.outputs.pmcid }}_${{ steps.extract.outputs.figure_number }}
+        commit-message: Add figure ${{ steps.fetch_figure.outputs.figid }}
+        title: Add figure ${{ steps.fetch_figure.outputs.figid }}
         body: |
           This PR adds a new figure:
           - PMCID: ${{ steps.extract.outputs.pmcid }}
           - Figure Number: ${{ steps.extract.outputs.figure_number }}
-        branch: add-figure-${{ steps.extract.outputs.pmcid }}-${{ steps.extract.outputs.figure_number }}
+          - Figure ID: ${{ steps.fetch_figure.outputs.figid }}
+        branch: add-figure-${{ steps.fetch_figure.outputs.figid }}
         delete-branch: true
+        labels: |
+          fetch

@@ -246,6 +246,8 @@ process_figure <- function(figure_data, output_dir = "figures") {
       write("---", yaml_filename, append = TRUE)
       log_message(paste("Successfully wrote YAML file to", yaml_filename))
       
+      # Export figid to be used in PR title and merge-triggered action
+      cat(paste0("::set-output name=figid::", figure_data$figid, "\n"))
     } else {
       log_message(paste("Failed to download image. Status code:", status_code(response)))
     }
