@@ -18,7 +18,9 @@ jobs:
     
     - name: Install dependencies
       run: |
-        R -e 'install.packages(c("rentrez", "xml2", "httr", "yaml", "stringr"))'
+        sudo apt-get update
+        sudo apt-get install libcurl4-openssl-dev
+        Rscript -e 'install.packages(c("rentrez", "xml2", "httr", "yaml", "stringr"))'
     
     - name: Extract PMCID and Figure Number
       id: extract

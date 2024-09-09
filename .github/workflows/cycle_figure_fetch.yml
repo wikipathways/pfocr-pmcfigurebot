@@ -1,4 +1,4 @@
-name: Fetch pathway figures and metadata
+name: Fetch pathway figures and metadata from date range
 
 on:
   workflow_dispatch:
