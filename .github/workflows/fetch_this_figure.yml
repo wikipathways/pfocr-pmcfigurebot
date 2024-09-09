@@ -25,19 +25,19 @@ jobs:
     - name: Extract PMCID and Figure Number
       id: extract
       run: |
-        body="${{ github.event.issue.body }}"
         echo "Issue body:"
-        echo "$body"
-        pmcid=$(echo "$body" | awk '/^### PMCID/{getline; if (NF) print; exit}')
-        figure_number=$(echo "$body" | awk '/^### Figure Number/{getline; if (NF) print; exit}')
-        echo "Extracted PMCID: $pmcid"
-        echo "Extracted Figure Number: $figure_number"
+        echo "${{ github.event.issue.body }}"
+        echo "---"
+        pmcid=$(grep -A1 "### PMCID" <<< "${{ github.event.issue.body }}" | tail -n1 | sed 's/^[[:space:]]*//' | sed 's/[[:space:]]*$//')
+        figure_number=$(grep -A1 "### Figure Number" <<< "${{ github.event.issue.body }}" | tail -n1 | sed 's/^[[:space:]]*//' | sed 's/[[:space:]]*$//')
+        echo "Extracted PMCID: '$pmcid'"
+        echo "Extracted Figure Number: '$figure_number'"
         echo "pmcid=$pmcid" >> $GITHUB_OUTPUT
         echo "figure_number=$figure_number" >> $GITHUB_OUTPUT
     
     - name: Fetch Figure
       run: |
-        Rscript scripts/fetch_THIS_figure_v2.R ${{ steps.extract.outputs.pmcid }} ${{ steps.extract.outputs.figure_number }}
+        Rscript scripts/fetch_THIS_figure_v2.R "${{ steps.extract.outputs.pmcid }}" "${{ steps.extract.outputs.figure_number }}"
     
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v5
