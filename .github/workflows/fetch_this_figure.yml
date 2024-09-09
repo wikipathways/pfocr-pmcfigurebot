@@ -2,7 +2,7 @@ name: Fetch this figure
 
 on:
   issues:
-    types: [opened, labeled]
+    types: [labeled]
 
 jobs:
   fetch-figure:
@@ -31,7 +31,7 @@ jobs:
     
     - name: Fetch Figure
       run: |
-        Rscript fetch_THIS_figure_v2.R ${{ steps.extract.outputs.pmcid }} ${{ steps.extract.outputs.figure_number }}
+        Rscript scripts/fetch_THIS_figure_v2.R ${{ steps.extract.outputs.pmcid }} ${{ steps.extract.outputs.figure_number }}
     
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v5
