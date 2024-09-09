@@ -28,12 +28,19 @@ jobs:
         echo "Issue body:"
         echo "${{ github.event.issue.body }}"
         echo "---"
-        pmcid=$(grep -A1 "### PMCID" <<< "${{ github.event.issue.body }}" | tail -n1 | sed 's/^[[:space:]]*//' | sed 's/[[:space:]]*$//')
-        figure_number=$(grep -A1 "### Figure Number" <<< "${{ github.event.issue.body }}" | tail -n1 | sed 's/^[[:space:]]*//' | sed 's/[[:space:]]*$//')
-        echo "Extracted PMCID: '$pmcid'"
-        echo "Extracted Figure Number: '$figure_number'"
-        echo "pmcid=$pmcid" >> $GITHUB_OUTPUT
-        echo "figure_number=$figure_number" >> $GITHUB_OUTPUT
+        result=$(awk '
+          /^### PMCID/ {getline; pmcid=$0}
+          /^### Figure Number/ {getline; figure_number=$0}
+          END {
+            gsub(/^[[:space:]]+|[[:space:]]+$/, "", pmcid);
+            gsub(/^[[:space:]]+|[[:space:]]+$/, "", figure_number);
+            print "pmcid=" pmcid;
+            print "figure_number=" figure_number;
+          }
+        ' <<< "${{ github.event.issue.body }}")
+        echo "$result" >> $GITHUB_OUTPUT
+        echo "Extracted values:"
+        echo "$result"
     
     - name: Fetch Figure
       run: |
