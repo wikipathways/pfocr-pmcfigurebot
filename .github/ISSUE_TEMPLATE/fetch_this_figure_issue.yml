@@ -1,6 +1,6 @@
 name: Fetch This Figure
-description: Request to fetch a specific figure from PubMed Central
-title: "[Fetch] PMCID_FigureNumber"
+description: Request a specific figure to be included in PFOCR
+title: "[Fetch] Please include this pathway figure"
 labels: ["fetch"]
 body:
   - type: markdown
