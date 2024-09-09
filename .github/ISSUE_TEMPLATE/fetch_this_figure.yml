@@ -1,0 +1,38 @@
+name: Fetch This Figure
+description: Request to fetch a specific figure from PubMed Central
+title: "[Fetch] PMCID_FigureNumber"
+labels: ["fetch"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for using the Figure Fetcher! Please provide the following information:
+  - type: input
+    id: pmcid
+    attributes:
+      label: PMCID
+      description: The PubMed Central ID of the article containing the figure
+      placeholder: e.g., PMC9949038
+    validations:
+      required: true
+  - type: input
+    id: figure_number
+    attributes:
+      label: Figure Number
+      description: The number of the figure you want to fetch.
+      placeholder: e.g., 3
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        The following will be automatically filled based on your inputs above:
+  - type: textarea
+    id: auto_body
+    attributes:
+      label: Formatted Request
+      value: |
+        pmcid: 
+        figure_number: 
+    validations:
+      required: false
