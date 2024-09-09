@@ -1,0 +1,45 @@
+---
+figid: PMC10465213__thnov13p4356g006
+pmcid: PMC10465213
+image_filename: PMC10465213__thnov13p4356g006.jpg
+figure_link: /pmc/articles/PMC10465213/figure/F6/
+number: Figure 6
+figure_title: TRPM2 regulates cisplatin-induced autophagy in kidneys via suppressing
+  the AKT-mTOR signaling pathway.
+caption: TRPM2 regulates cisplatin-induced autophagy in kidneys via suppressing the
+  AKT-mTOR signaling pathway. (A) PCA analysis on the RNA-sequencing data from cisplatin
+  (CP)-treated Trpm2-/- and WT mice (n = 3). (B, C) Heatmap and volcano plot of differentially
+  expressed genes (|log2(FoldChange)| > 1, P value < 0.05). (D) Top 10 upregulated
+  and downregulated Kyoto Encyclopedia of Genes and Genomes pathway enrichments. ARVC,
+  Arrhythmogenic Right Ventricular Cardiomyopathy; TNF, tumor necrosis factor. (E)
+  Gene Set Enrichment Analysis of PI3K-AKT-mTOR pathway generated from Trpm2-/- and
+  WT mice subjected to cisplatin. (F) Immunoblotting analysis and quantification of
+  p-mTOR, mTOR, p-AKT, AKT in the kidneys of Trpm2-/- and WT mice. (G) Immunoblotting
+  analysis and quantification of LC3B II in the kidneys of CP-treated mice. The mice
+  were either injected i.p. with 1 mg/kg rapamycin (Rapa) or vehicle 1 hour prior
+  to and 1 day after CP treatment. (H) Immunoblotting analysis and quantification
+  of LC3B II in the kidneys of CP-treated mice. The mice were injected i.p. with either
+  50 mg/kg VIII or vehicle 1 h prior to cisplatin injection. (I) Formation of autolysosomes
+  evaluated by immunofluorescence double-labeled LC3B and LAMP1. Scale bars, 25 μm.
+  Formation of mitolysosomes evaluated by immunofluorescence double-labeled TOM20
+  and LAMP1. Scale bars, 20 μm. Quantification of (J) autolysosomes and (K) mitolysosomes
+  in the renal tubules (n = 6). Data are presented as mean±SEM. Statistical analysis
+  was performed using one-way ANOVA with Tukey post-hoc test. *p < 0.05, **p < 0.01,
+  ***p < 0.001
+article_title: TRPM2 protects against cisplatin-induced acute kidney injury and mitochondrial
+  dysfunction via modulating autophagy
+citation: Binfeng Yu, et al. Theranostics. 2023;13(13).
+year: '2023'
+pub_date: 2023--
+epub_date: 2023-7-31
+doi: 10.7150/thno.84655
+journal_title: Theranostics
+journa_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+keywords:
+- TRPM2
+- autophagy
+- mitochondria
+- cisplatin
+- acute kidney injury
+---

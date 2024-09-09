@@ -1,0 +1,41 @@
+---
+figid: PMC10342176__ijms-24-11024-g006
+pmcid: PMC10342176
+image_filename: PMC10342176__ijms-24-11024-g006.jpg
+figure_link: /pmc/articles/PMC10342176/figure/F6/
+number: Figure 6
+figure_title: Transcriptome analysis of the Gmssp mutant and the WT.
+caption: Transcriptome analysis of the Gmssp mutant and the WT. (A,B) Venn diagrams
+  showing the number of differentially expressed genes (DEGs) between Gmssp or t7
+  and their respective WTs that are shared among different tissues; the total number
+  of DEGs is indicated under the tissue name. (A) Stem, pulvinus, petiole, and leaf
+  at the V4 stage. (B) Apical meristem, leaf at the V4 stage, leaf at the V8 stage,
+  and leaf of t7 at the V4 stage. (C) Gene Ontology (GO) term and pathway enrichment
+  analysis among the DEGs between the WT and Gmssp in petiole tissue at the V4 stage
+  using ClueGO v2.5.9. The names on the left (y axis) represent the enriched GO terms
+  or pathways; the numbers at the top (x axis) represent the percentage of genes per
+  term; the number of enriched genes is indicated at the end of each bar. GO terms
+  or pathways of the same color next to each other belong to the same group according
+  to KappaScore grouping. *, ** Significant differences at p < 0.05 and p < 0.01,
+  respectively. (D) Heat map of genes involved in APC-related ubiquitin-mediated proteolysis
+  (APC) and plant hormone signal transduction pathways, i.e., gibberellin (GA), cytokinin
+  (CK), auxin, and brassinosteroid (BR), in petioles. Sample names are indicated at
+  the bottom; the related pathway abbreviation is listed before the gene name
+article_title: Dysfunction of an Anaphase-Promoting Complex Subunit 8 Homolog Leads
+  to Super-Short Petioles and Enlarged Petiole Angles in Soybean
+citation: Yi Gao, et al. Int J Mol Sci. 2023 Jul;24(13).
+year: '2023'
+pub_date: 2023-7-
+epub_date: 2023-7-03
+doi: 10.3390/ijms241311024
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- short petiole
+- petiole angle
+- pulvinus
+- soybean
+- gibberellin
+- BVF-IGV
+---

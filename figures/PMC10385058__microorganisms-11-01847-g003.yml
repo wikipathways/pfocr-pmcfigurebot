@@ -1,0 +1,43 @@
+---
+figid: PMC10385058__microorganisms-11-01847-g003
+pmcid: PMC10385058
+image_filename: PMC10385058__microorganisms-11-01847-g003.jpg
+figure_link: /pmc/articles/PMC10385058/figure/F3/
+number: Figure 3
+figure_title: Untargeted metabolomics of Sphingomonas sediminicola in R2A medium.
+caption: Untargeted metabolomics of Sphingomonas sediminicola in R2A medium. (a,b)
+  Heatmap of differential metabolites in positive (a) and negative (b) ion modes.
+  Each row corresponds to a differentially expressed metabolite, while each column
+  represents a specific sample. The color gradient, ranging from green to red, indicates
+  the abundance level of the differentially expressed metabolites, with green representing
+  low abundance and red representing high abundance. (c,d) Volcano plot of differential
+  metabolites in positive (a) and negative (b) ion modes. Each point represents a
+  metabolite, horizontal coordinates indicate different multiplicities of differential
+  metabolites (log2 values), vertical coordinates indicate p-values (−log10 values),
+  grey indicates metabolites with no significant differences, red indicates up-regulated
+  metabolites (Up), and green indicates down-regulated metabolites (Down). (e,f) bubble
+  plots of metabolic pathway enrichment in positive (e) and negative (f) ion modes.
+  The x-axis in the figure represents the ratio of differentiated metabolites in a
+  specific metabolic pathway to the total number of identified metabolites within
+  that pathway (RichFactor). A higher value indicates a greater enrichment of differential
+  metabolites in the pathway. The color of the dots corresponds to the p-value obtained
+  from the hypergeometric test. A smaller p-value indicates a more reliable test.
+  The size of the dots represents the number of differential metabolites present in
+  the respective metabolic pathway
+article_title: 'Optimizing Crop Production with Bacterial Inputs: Insights into Chemical
+  Dialogue between Sphingomonas sediminicola and Pisum sativum'
+citation: Candice Mazoyon, et al. Microorganisms. 2023 Jul;11(7).
+year: '2023'
+pub_date: 2023-7-
+epub_date: 2023-7-21
+doi: 10.3390/microorganisms11071847
+journal_title: Microorganisms
+journa_nlm_ta: Microorganisms
+publisher_name: MDPI
+keywords:
+- Sphingomonas sediminicola
+- pea
+- root exudates
+- plant–bacteria interaction
+- molecular dialogue plant–bacteria
+---

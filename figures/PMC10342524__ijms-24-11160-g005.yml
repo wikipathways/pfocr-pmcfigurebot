@@ -1,0 +1,35 @@
+---
+figid: PMC10342524__ijms-24-11160-g005
+pmcid: PMC10342524
+image_filename: PMC10342524__ijms-24-11160-g005.jpg
+figure_link: /pmc/articles/PMC10342524/figure/F5/
+number: Figure 5
+figure_title: Bioinformatics analysis of the transcriptome sequencing results of cells.
+caption: Bioinformatics analysis of the transcriptome sequencing results of cells.
+  (A) RNA-seq data from cell samples were subjected to principal component analysis
+  (PCA). (B) Cell sample correlation heatmap for the control and TGF-treated groups.
+  (C) DEGs counts in the control and TGF-treated groups. (D) Cellular DEGs were shown
+  by GO and KEGG analysis to be upregulated in pathways associated with epithelial
+  cell migration, ECM, and the inflammatory response in the TGF-β1-treated group (the
+  red underline indicates the focus of attention). (E) Potential enhancement of EMT,
+  the inflammatory response, and the NF-κB pathway in cells was examined using GSEA.
+  (F) The ratios of the NF-κB pathway protein P-P65/P65 and IKBα expression in cells
+  treated with TGF-β1 were examined by Western blotting. The data are presented as
+  the mean ± SD; ** p < 0.01; ns, not significant
+article_title: Inhibition of the NF-κB Signaling Pathway Alleviates Pyroptosis in
+  Bladder Epithelial Cells and Neurogenic Bladder Fibrosis
+citation: Jing Chen, et al. Int J Mol Sci. 2023 Jul;24(13).
+year: '2023'
+pub_date: 2023-7-
+epub_date: 2023-7-06
+doi: 10.3390/ijms241311160
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- neurogenic bladder
+- spinal cord injury
+- NF-κB signaling pathway
+- pyroptosis
+- fibrosis
+---

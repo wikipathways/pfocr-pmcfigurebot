@@ -1,0 +1,35 @@
+---
+figid: PMC10417364__animals-13-02482-g008
+pmcid: PMC10417364
+image_filename: PMC10417364__animals-13-02482-g008.jpg
+figure_link: /pmc/articles/PMC10417364/figure/F8/
+number: Figure 8
+figure_title: (A) Scatter plot of KEGG pathway enrichment of differentially expressed
+  genes, the vertical coordinate indicates the pathway name, the horizontal coordinate
+  is the Enrichment Factor, the color represents the q-value; q-value is the p-value
+  after correction for multiple hypothesis testing, and the size of the circle indicates
+  the number of enriched genes in the pathway.
+caption: (A) Scatter plot of KEGG pathway enrichment of differentially expressed genes,
+  the vertical coordinate indicates the pathway name, the horizontal coordinate is
+  the Enrichment Factor, the color represents the q-value; q-value is the p-value
+  after correction for multiple hypothesis testing, and the size of the circle indicates
+  the number of enriched genes in the pathway. (B) Differentially expressed genes
+  KEGG classification diagram, the vertical axis is the name of the KEGG metabolic
+  pathway, the left is the pathway name, and the right is the corresponding classification
+  category of each pathway. The same column color indicates the same category
+article_title: Comparative Transcriptome Analysis Reveals the Effect of Aurantiochytrium
+  sp. on Gonadal Development in Zebrafish
+citation: Yanlin Huang, et al. Animals (Basel). 2023 Aug;13(15).
+year: '2023'
+pub_date: 2023-8-
+epub_date: 2023-8-01
+doi: 10.3390/ani13152482
+journal_title: 'Animals : an Open Access Journal from MDPI'
+journa_nlm_ta: Animals (Basel)
+publisher_name: MDPI
+keywords:
+- Aurantiochytrium sp.
+- gonadal development
+- zebrafish
+- transcriptome
+---

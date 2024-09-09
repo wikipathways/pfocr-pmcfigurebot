@@ -1,0 +1,48 @@
+---
+figid: PMC10342488__ijms-24-11187-g001
+pmcid: PMC10342488
+image_filename: PMC10342488__ijms-24-11187-g001.jpg
+figure_link: /pmc/articles/PMC10342488/figure/F1/
+number: Figure 1
+figure_title: KLF3 regulates the expression of genes involved in the JAK/STAT signaling
+  pathway.
+caption: 'KLF3 regulates the expression of genes involved in the JAK/STAT signaling
+  pathway. (A). The HT22-TR/TO-Klf13-cell line was treated with vehicle or doxycycline
+  (dox; 1 μg/mL) to force the expression of Klf13 transgene. We harvested cells at
+  indicated times after dox treatment, isolated RNA, and conducted RT-qPCR. Forced
+  induction of KLF13 caused time-dependent gene repression of Jak1, Jak2, Jak3, and
+  Socs1, while Stat5b expression was induced 2 h after dox treatment, peaked at 4
+  h, and then returned to baseline after 8 h of Klf13 induction (Jak1: F(5,17) = 6.967,
+  p = 0.001; Jak2: F(5,17) = 13.50, p < 0.0001; Jak3: F(5,17) = 10.03, p = 0.0001;
+  Socs1: F(5,17) = 5.106, p = 0.0049; and Stat5b: F(5,18) = 4.588, p = 0.0071; one
+  way ANOVA. Asterisks indicate statistically significant differences with p < 0.05
+  in Dunnett’s post hoc test comparing the mean of treatments with the control). Points
+  represent the mean ± SEM (n = 4/time point). There was no statistically significant
+  difference in the expression of Stat3, Stat5a, and Socs3 upon treatment with dox.
+  (B). The mRNA levels of Jak1, Stat3, Socs1, Socs3, and Igf1 were increased, while
+  Stat5b decreased in HT22-Klf13-KO cells compared with the parent cell line (Jak1,
+  p = 0.0055; Stat3, p = 0.0052; Stat5a, p = 0.0167; Socs1, p = 0.0116; Socs3, p =
+  0.0006; and Igf1, p = 0.0002; Student’s t-test. Asterisks indicate statistically
+  significant differences with p < 0.05). Bars represent the mean ± SEM (n = 4/genotype).
+  The mRNAs of Ghr, Jak2, Jak3, and Stat5b were unaffected by the loss of Klf13. (C).
+  The STAT3 protein content was higher in HT22-Klf13-KO cells compared with the parental
+  line, while STAT5 protein levels remained unchanged (STAT3, p = 0.048; Student’s
+  t-test. Asterisks indicate statistically significant differences with p < 0.05).
+  Bars represent the mean ± SEM (n = 4/genotype)'
+article_title: KLF13 Regulates the Activity of the GH-Induced JAK/STAT Signaling by
+  Targeting Genes Involved in the Pathway
+citation: José Ávila-Mendoza, et al. Int J Mol Sci. 2023 Jul;24(13).
+year: '2023'
+pub_date: 2023-7-
+epub_date: 2023-7-07
+doi: 10.3390/ijms241311187
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- Krüppel-like factors
+- JAK/STAT
+- growth hormone
+- hippocampal neurons
+- signal transduction
+---

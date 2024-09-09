@@ -1,0 +1,42 @@
+---
+figid: PMC10418086__nihpp-2023.07.31.551097v1-f0008
+pmcid: PMC10418086
+image_filename: PMC10418086__nihpp-2023.07.31.551097v1-f0008.jpg
+figure_link: /pmc/articles/PMC10418086/figure/FFigure 7:/
+number: 'Figure 7:'
+figure_title: Scoring of senescence-associated gene sets at the level of brain region
+  and broad cell types
+caption: '(a) Fraction of senescence associated gene sets changed with age across
+  brain region and broad cell types(b) Genes comprising senescence-associated gene
+  sets used for scoring in (a). Genes in bold italics denote significant aDAGs(c)
+  Clustermap of significant aDAGs at the level of brain region with strength of association
+  enumerated as coefficient estimate (magenta, significant positive association with
+  age; blue, significant negative association with age). Brain regions ordered by
+  hierarchical clustering.(d) Clustermap of significant senescence-related aDAGs at
+  the level of broad type. Broad types ordered by hierarchical clustering.(e) Clustermap
+  of significant senescence-related aDAGs at the level of cell subtypes. Cell types
+  ordered by hierarchical clustering.Abbreviations: CSP, canonical senescence pathway;
+  CSS, custom senescence signature; DAM, disease-associated microglia; SIP, senescence
+  initiating pathway; SRP, senescence response pathway'
+article_title: Divergent patterns of healthy aging across human brain regions at single-cell
+  resolution reveal links to neurodegenerative disease
+citation: Megan F. Duffy, et al. bioRxiv. 2023 Aug 01;NA(NA).
+year: '2023'
+pub_date: 2023-8-01
+epub_date: 2023-8-01
+doi: 10.1101/2023.07.31.551097
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- Aging
+- putamen
+- entorhinal cortex
+- middle temporal gyrus
+- subventricular zone
+- snRNAseq
+- neurodegeneration
+- Alzheimer’s
+- Parkinson’s
+- dementia
+---

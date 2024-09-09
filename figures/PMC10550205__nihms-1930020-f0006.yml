@@ -1,0 +1,42 @@
+---
+figid: PMC10550205__nihms-1930020-f0006
+pmcid: PMC10550205
+image_filename: PMC10550205__nihms-1930020-f0006.jpg
+figure_link: /pmc/articles/PMC10550205/figure/FFig. 6./
+number: Fig. 6.
+figure_title: Reciprocal inhibition between GATA6 and SOX17 with BMP signaling pathway
+caption: '(A) Heatmap displaying log2 fold changes in normalized TPMs of GATA6-or
+  SOX17-depleted cXEN cells relative to the control for select genes involved in BMP
+  signaling and ERK pathways as annotated in gene ontology databases. (B) Heatmap
+  displaying log2 fold changes in normalized TPMs of BMP4 treated cXEN cells relative
+  to the control for differentially expressed (q < 0.05, 72 h vs. 0h DESeq2) TFs in
+  parietal endoderm transcription factor (TF) set (see Fig. 2C) or visceral endoderm
+  TF set (see Fig. 2D). (C) Ridgeplot displaying the distributions of expression changes
+  comparing 72h BMP4 treated cXEN cells versus the control for core genes of the enriched
+  pathways from the MSigDb collection. The significance of pathway enrichments was
+  color coded. (D) Summary of proposed model: GATA6 and SOX17 repress VE gene program
+  and activate Mycn but opposed by FOXA2. Reciprocal repression between GATA6 and
+  SOX17 with BMP signaling modulates the relative expression between PE and VE gene
+  programs'
+article_title: Transcriptional network governing extraembryonic endoderm cell fate
+  choice
+citation: Paula Duyen Pham, et al. Dev Biol. 2023 Sep 30;502(NA).
+year: '2023'
+pub_date: 2023-9-30
+epub_date: 2023-7-07
+doi: 10.1016/j.ydbio.2023.07.002
+journal_title: Developmental biology
+journa_nlm_ta: Dev Biol
+publisher_name: .na.character
+keywords:
+- Parietal endoderm
+- Visceral endoderm
+- Primitive endoderm
+- Transcription factors
+- Degron tags
+- BMP signaling
+- Gata6
+- Sox17
+- FoxA2
+- Mycn
+---

@@ -1,0 +1,45 @@
+---
+figid: PMC10550205__nihms-1930020-f0001
+pmcid: PMC10550205
+image_filename: PMC10550205__nihms-1930020-f0001.jpg
+figure_link: /pmc/articles/PMC10550205/figure/FFig. 1./
+number: Fig. 1.
+figure_title: Single-cell transcriptomes of the extraembryonic endoderm lineages in
+  E4.5 embryo
+caption: (A) A schematic highlighting embryonic stages from E3.5 and E5.5, depicting
+  the lineage relationships of cell states with a primary emphasis on PrE lineage
+  segregation events from E4.5 to E5.5. (B) Left panel displays a UMAP embedding of
+  the integrated scRNA-seq data of the E4.5 embryo from Nowotschin et al. (Nowotschin
+  et al., 2019) and Qiu et al. (Qiu et al., 2022) Epiblast, trophoblast, and extraembryonic
+  endoderm subpopulations were color coded. Lineage differentiation paths between
+  E3.5 and E4.5 were displayed in a tree plot. Right panel displays a force-directed
+  graph showing the trajectory of E4.5 and E5.5 single cells. (C) Violin plots displaying
+  the transcriptional signature (calculated by UCell) of cell states for E4.5 parietal
+  endoderm module and E4.5 visceral endoderm module identified by hdWGCNA (top 50
+  genes). n.s. denotes non-significant, **** denotes p<0.0001 (Wilcoxon Test). (D
+  and E) Networks connecting the E4.5 parietal endoderm module genes (D) and E4.5
+  visceral endoderm module genes (E) with enriched KEGG pathways. Individual genes
+  were color coded according to their membership score (kME) relative to the respective
+  gene modules
+article_title: Transcriptional network governing extraembryonic endoderm cell fate
+  choice
+citation: Paula Duyen Pham, et al. Dev Biol. 2023 Sep 30;502(NA).
+year: '2023'
+pub_date: 2023-9-30
+epub_date: 2023-7-07
+doi: 10.1016/j.ydbio.2023.07.002
+journal_title: Developmental biology
+journa_nlm_ta: Dev Biol
+publisher_name: .na.character
+keywords:
+- Parietal endoderm
+- Visceral endoderm
+- Primitive endoderm
+- Transcription factors
+- Degron tags
+- BMP signaling
+- Gata6
+- Sox17
+- FoxA2
+- Mycn
+---

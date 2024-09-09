@@ -1,0 +1,26 @@
+---
+figid: PMC10313365__jci-133-169993-g003
+pmcid: PMC10313365
+image_filename: PMC10313365__jci-133-169993-g003.jpg
+figure_link: /pmc/articles/PMC10313365/figure/F3/
+number: Figure 3
+figure_title: MLL3/4-KO mESCs display enhanced sensitivity to purine synthesis inhibition
+caption: |-
+  (A) WT and MLL3/4-KO cells were treated with 0–2.5 μM LTX with a 2-fold dilution in the presence or absence of 50 μM HPX for 48 hours. A CellTiter-Glo luminescent cell viability assay was performed to determine the percentage of cell growth inhibition under these conditions. WT, n = 3; MLL3/4 KO, n = 3. (B) WT and KO cells were treated with 0.3 μM LTX ± 50 μM HPX for 48 hours, and cells were harvested for RNA-Seq (n = 2 for each condition). Differential gene expression analyses were performed with the indicated comparisons. (C) PC analysis of RNA-Seq in B. The 500 most variable genes among all the conditions were included by default. (D) Hierarchical clustering heatmap showing differentially expressed genes in KO cells compared with WT cells. Differentially expressed genes with Benjamini-Hochburg Padj
+  < 0.01 were selected. (E) Venn diagram showing the overlap of genes downregulated upon LTX treatment in WT or KO cells. (F) Pathway enrichment analysis of the genes downregulated upon LTX treatment in both WT and KO cells. (G) Pathway enrichment analysis of the genes uniquely downregulated upon LTX treatment in WT cells. (H) Pathway enrichment analysis of the genes uniquely downregulated upon LTX treatment in MLL3/4-KO cells
+article_title: Therapeutic targeting of metabolic vulnerabilities in cancers with
+  MLL3/4-COMPASS epigenetic regulator mutations
+citation: Zibo Zhao, et al. J Clin Invest. 2023 Jul 3;133(13).
+year: '2023'
+pub_date: 2023-7-3
+epub_date: 2023-7-3
+doi: 10.1172/JCI169993
+journal_title: The Journal of Clinical Investigation
+journa_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Genetics
+- Metabolism
+- Colorectal cancer
+- Epigenetics
+---

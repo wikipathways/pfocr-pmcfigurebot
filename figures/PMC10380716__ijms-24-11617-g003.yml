@@ -1,0 +1,43 @@
+---
+figid: PMC10380716__ijms-24-11617-g003
+pmcid: PMC10380716
+image_filename: PMC10380716__ijms-24-11617-g003.jpg
+figure_link: /pmc/articles/PMC10380716/figure/F3/
+number: Figure 3
+figure_title: Trajectory analysis of PT cells after injury (failed repair PT, successful
+  repair PT, and injured PT), and oxidative stress characteristics of the failed repaired
+  PT cell subset.
+caption: Trajectory analysis of PT cells after injury (failed repair PT, successful
+  repair PT, and injured PT), and oxidative stress characteristics of the failed repaired
+  PT cell subset. (A) Monocle2 pseudotime trajectory of proximal tubular cells, which
+  were colored based on the pseudotime. (B) Monocle2 pseudotime trajectory of proximal
+  tubular cells, which were colored based on cluster identity. (C) Monocle2 pseudotime
+  trajectory of proximal tubular cells, which were colored based on the cell state.
+  (D–F) UMAP rendering of signaling pathways. (D) Note that TNF-α signaling via the
+  NF-κB pathway was enriched in both injured PT cells and failed repair PT cells.
+  (E) Note that the inflammatory response pathways were enriched in injured PT cells
+  and failed repair PT cells. (F) Note that the DNA repair pathway was enriched in
+  the failed repair PT cells. (G) Pseudotemporal gene-expression profiles of some
+  DEGs in PT cell subsets, excluding the ribosomal and mitochondrial genes. Right
+  bar diagrams display the enriched KEGG terms of the three gene modules. (H) The
+  heatmap shows that transcription factors (TFs) that are significantly associated
+  with the development of different PT cell subsets. The number in the brackets behind
+  the genes represents the target gene number regulated by the transcription factors
+article_title: Cell Profiling of Acute Kidney Injury to Chronic Kidney Disease Reveals
+  Novel Oxidative Stress Characteristics in the Failed Repair of Proximal Tubule Cells
+citation: Zhixiang Yu, et al. Int J Mol Sci. 2023 Jul;24(14).
+year: '2023'
+pub_date: 2023-7-
+epub_date: 2023-7-18
+doi: 10.3390/ijms241411617
+journal_title: International Journal of Molecular Sciences
+journa_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+keywords:
+- acute kidney injury
+- chronic kidney disease
+- failed repair of PT cells
+- oxidative stress
+- intercellular communication
+- single-nucleus RNA sequencing
+---

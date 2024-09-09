@@ -1,0 +1,40 @@
+---
+figid: PMC10386476__medicines-10-00043-g004
+pmcid: PMC10386476
+image_filename: PMC10386476__medicines-10-00043-g004.jpg
+figure_link: /pmc/articles/PMC10386476/figure/F4/
+number: Figure 4
+figure_title: Prediction of the estrogen-related receptor with PPARγ coactivator antagonist
+  activities (ERRPGC_ant) of Compounds A and B by Toxicity Predictor.
+caption: 'Prediction of the estrogen-related receptor with PPARγ coactivator antagonist
+  activities (ERRPGC_ant) of Compounds A and B by Toxicity Predictor. In silico study
+  suggests the inhibition of Compound A against the estrogen-related receptor-alpha
+  signaling pathway, which is identified as an adverse marker for breast cancer progression
+  and poor prognosis. Data on CC50 and TSM values were derived from a previous study
+  [14]. Tumor selectivity is defined by the balance between pCC50 values for normal
+  (N) and tumor (T) cells. The difference (T − N) was used as a tumor-selectivity
+  index only for this analysis. When pCC50 is defined as −log (CC50), T-S can be calculated
+  as: pCC50 (T) − pCC50 (N) = log CC50 (N) − log CC50 (T) = log (CC50 (N)) − log (CC50
+  (T)) = log CC50 (N/T). Box and whisker plots were depicted with red lines. The central
+  box represents the values from the lower to upper quartile. The middle line inside
+  the box represents the median. The whiskers show the range of the data'
+article_title: A Comparative Study of Tumor-Specificity and Neurotoxicity between
+  3-Styrylchromones and Anti-Cancer Drugs
+citation: Tomoyuki Abe, et al. Medicines (Basel). 2023 Jul;10(7).
+year: '2023'
+pub_date: 2023-7-
+epub_date: 2023-7-14
+doi: 10.3390/medicines10070043
+journal_title: Medicines
+journa_nlm_ta: Medicines (Basel)
+publisher_name: MDPI
+keywords:
+- chromone derivatives
+- oral squamous cell carcinoma
+- tumor-specificity
+- keratinocyte toxicity
+- neurotoxicity
+- signaling pathway
+- QSAR
+- estrogen-related receptor
+---

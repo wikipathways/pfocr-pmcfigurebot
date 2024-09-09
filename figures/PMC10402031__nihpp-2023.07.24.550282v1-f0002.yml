@@ -1,0 +1,40 @@
+---
+figid: PMC10402031__nihpp-2023.07.24.550282v1-f0002
+pmcid: PMC10402031
+image_filename: PMC10402031__nihpp-2023.07.24.550282v1-f0002.jpg
+figure_link: /pmc/articles/PMC10402031/figure/FFigure 2./
+number: Figure 2.
+figure_title: Shared and distinct gene expression signatures among subtypes of AD
+caption: a, Heatmap colored by effect size from the AD in DS versus control differential
+  gene expression analysis, with genes stratified by chromosome and by spatial region.
+  Statistically significant (FDR < 0.05) genes with an absolute average log2(fold-change)
+  >=0.25 in at least one region are shown. b, Stacked bar chart showing the number
+  of AD in DS versus control DEGs in each spatial region stratified by chromosome.
+  c, Comparison of differential expression effect sizes from early-stage AD versus
+  control and AD in DS versus control. Genes that were statistically significant (adjusted
+  p-value < 0.05) in either comparison were included in this analysis. Genes are colored
+  blue if the direction is consistent, yellow if inconsistent, and grey if the absolute
+  effect sizes were smaller than 0.05. Black line represents a linear regression with
+  a 95% confidence interval shown in grey. Pearson correlation coefficients are shown
+  in the upper left corner of each panel. d, Comparison of differential expression
+  effect sizes from late-stage AD versus control and AD in DS versus control, layout
+  as in panel (c). e, Heatmap showing the gene expression values in the snRNA-seq
+  dataset of spatial DEGs shared between AD in DS and late-stage AD. f, Spatial feature
+  plots of four selected DEGs (QKI, GFAP, APP, and ERBIN) in one representative sample
+  from each disease group. g-h, Selected pathway enrichment results from DEGs that
+  were upregulated (g) or downregulated (h) in both late-stage AD and AD in DS compared
+  to controls. i-j, Selected pathway enrichment results from DEGs that were upregulated
+  (i) or downregulated (j) in late-stage AD exclusively. k-l, Selected pathway enrichment
+  results from DEGs that were upregulated (k) or downregulated (l) in AD in DS exclusively
+article_title: Spatial and single-nucleus transcriptomic analysis of genetic and sporadic
+  forms of Alzheimer’s Disease
+citation: Emily Miyoshi, et al. bioRxiv. 2023 Jul 26;NA(NA).
+year: '2023'
+pub_date: 2023-7-26
+epub_date: 2023-7-26
+doi: 10.1101/2023.07.24.550282
+journal_title: bioRxiv
+journa_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

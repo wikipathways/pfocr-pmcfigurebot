@@ -1,0 +1,38 @@
+---
+figid: PMC10459088__viruses-15-01646-g004
+pmcid: PMC10459088
+image_filename: PMC10459088__viruses-15-01646-g004.jpg
+figure_link: /pmc/articles/PMC10459088/figure/F4/
+number: Figure 4
+figure_title: Oxford Nanopore Technologies sequencing screened demethylated genes.
+caption: Oxford Nanopore Technologies sequencing screened demethylated genes. (A)
+  Classification of differentially methylated genes. (B) Scatter plots showing the
+  orientation of the differentially methylated sites. The red plots indicate the hypermethylation
+  genes and the green plots indicate the hypomethylation genes. (C) GO and KEGG pathways
+  enrichment analysis of demethylated genes associated with viruses. GO, Gene Ontology;
+  KEGG, Kyoto Encyclopedia of Genes and Genomes. (D) A549 cells were treated with
+  5-aza-CdR at concentrations of 0 and 5 μM for 72 h to detect mRNA expression levels
+  of the screened genes. (E) A549 cells were infected with CA07 (MOI = 5) for 48 h
+  to detect mRNA expression levels of the screened genes. (F) A549 cells were treated
+  with poly (I:C) for 12 h to detect mRNA expression levels of the screened genes.
+  (G) Western blot results of OASL and DNMT1 in A549 cells after treatment with 5-aza-CdR
+  at 0, 2.5, 5 and 10 μM for 72 h. Data are presented as the mean ± SD. Significance
+  was calculated using one-way ANOVA with multiple comparison tests. ** p < 0.01;
+  *** p < 0.001
+article_title: Host DNA Demethylation Induced by DNMT1 Inhibition Up-Regulates Antiviral
+  OASL Protein during Influenza a Virus Infection
+citation: Zhiyan Zhao, et al. Viruses. 2023 Aug;15(8).
+year: '2023'
+pub_date: 2023-8-
+epub_date: 2023-7-28
+doi: 10.3390/v15081646
+journal_title: Viruses
+journa_nlm_ta: Viruses
+publisher_name: MDPI
+keywords:
+- influenza A virus
+- DNA methyltransferase 1
+- miR-142-5p
+- PI3K/AKT
+- 2′-5′-oligoadenylate synthetase-like protein
+---

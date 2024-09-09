@@ -1,0 +1,45 @@
+---
+figid: PMC10416716__ijmsv20p1174g008
+pmcid: PMC10416716
+image_filename: PMC10416716__ijmsv20p1174g008.jpg
+figure_link: /pmc/articles/PMC10416716/figure/F8/
+number: Figure 8
+figure_title: The functions of decidual stromal cells and their interactions with
+  trophoblast cells.
+caption: The functions of decidual stromal cells and their interactions with trophoblast
+  cells. (A) Heatmap of the top 40 DEGs in dS cells from NC and RM groups. (B-C) GO
+  and KEGG enrichment for the DEGs in dS cells from NC and RM groups, including the
+  top 20 KEGG pathways (B) and the top 10 GO terms (BP, CC, MF) (C). (D) Violin plot
+  showing the expression patterns of signaling genes involved in the TENASCIN signaling
+  network. Normalized expression levels are shown in the violin plot. Red represents
+  the NC group and blue represents the RM group. (E) Circle plot showing the TENASCIN
+  signaling pathway network in cells from maternal-fetal interface in NC and RM groups.
+  The thicker the line represented, the stronger the interaction weights/strength
+  between the two cell types. (F) Comparison of the contributions of ligand-receptor
+  pairs in the TENASCIN signaling pathway network between NC and RM groups. (G) Violin
+  plot showing the expression patterns of signaling genes involved in the CHEMERI
+  signaling pathway network. Normalized expression levels are shown in the violin
+  plot. Red represents the NC group and blue represents the RM group. (H) Circle plot
+  showing the CHEMERIN signaling pathway network in cells from maternal-fetal interface
+  in NC and RM groups. The thicker the line represented, the stronger the interaction
+  weights/strength between the two cell types. (I) Comparison of the contributions
+  of ligand-receptor pairs in the CHEMERI signaling pathway network between NC and
+  RM groups. (J) Dot plot exhibited incoming communication patterns of dS cells with
+  trophoblast cells
+article_title: Crosstalk between Placental Trophoblast and Decidual Immune Cells in
+  Recurrent Miscarriage
+citation: Zhenzhen Liu, et al. Int J Med Sci. 2023;20(9).
+year: '2023'
+pub_date: 2023--
+epub_date: 2023-7-31
+doi: 10.7150/ijms.86533
+journal_title: International Journal of Medical Sciences
+journa_nlm_ta: Int J Med Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- recurrent miscarriage
+- maternal-fetal interface
+- single-cell RNA sequencing
+- trophoblast cells
+- immune cells
+---
