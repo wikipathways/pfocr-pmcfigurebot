@@ -103,8 +103,8 @@ extract_figure_data <- function(xml, figure_number) {
   target_fig <- NULL
   for (fig in figs) {
     label <- xml_text(xml_find_first(fig, ".//label"))
-    label_number <- as.integer(str_extract(label, "\\d+(?!\\d)(?=[A-Za-z]?$)"))
-    figure_number <- as.integer(str_extract(figure_number, "\\d+(?!\\d)(?=[A-Za-z]?$)"))
+    label_number <- as.integer(str_extract(label, "\\d+(?!\\d)(?=[A-Za-z.]?$)"))
+    figure_number <- as.integer(str_extract(figure_number, "\\d+(?!\\d)(?=[A-Za-z.]?$)"))
     if (!is.na(label_number) && label_number == figure_number) {
       target_fig <- fig
       break
