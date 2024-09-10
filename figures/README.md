@@ -1,4 +1,6 @@
-This folder holds the resulting .jpg and .yml files from a PMC figure query. New files will be added by consecutive runs, but the log file is overwritten.
+This folder holds the resulting .jpg and .yml files from a PMC figure query. New files will be added by consecutive runs.
+
+You can add figures to PFOCR by submitting an issue using the `Fetch this figure` template.
 
 You can also manually deposit pairs of files, following these guidelines. They will be processed in the next batch.
 
