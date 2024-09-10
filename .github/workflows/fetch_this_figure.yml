@@ -76,5 +76,3 @@ jobs:
         issue-number: ${{ github.event.issue.number }}
         comment: |
           A new figure (ID: ${{ steps.fetch_figure.outputs.figid }}) has been fetched and a pull request has been created to add it to the repository.
-        labels: |
-          resolved
