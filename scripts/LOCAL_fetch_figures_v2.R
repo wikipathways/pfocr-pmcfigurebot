@@ -453,7 +453,7 @@ process_figures <- function(figures, exfigids, config, output_dir = "figures", m
             epub_date = figures[[i]]$epub_date,
             doi = figures[[i]]$doi,
             journal_title = figures[[i]]$journal_title,
-            journa_nlm_ta = figures[[i]]$journal_nlm_ta,
+            journal_nlm_ta = figures[[i]]$journal_nlm_ta,
             publisher_name = figures[[i]]$publisher_name,
             keywords = figures[[i]]$keywords
           )
