@@ -249,15 +249,15 @@ process_figure <- function(figure_data, output_dir = "figures") {
       # Store figid in "keep" file to override automl
       file_path <- "keep_figids_for_ocr.txt"
       if (!file.exists(file_path)) {
-        write(figid, file = file_path)
-        log_message(paste("Created", file_path, "and added", figid))
+        write(figure_data$figid, file = file_path)
+        log_message(paste("Created", file_path, "and added", figure_data$figid))
       } else {
         existing_figids <- readLines(file_path)
-        if (!(figid %in% existing_figids)) {
-          write(figid, file = file_path, append = TRUE)
-          log_message(paste("Added", figid, "to", file_path))
+        if (!(figure_data$figid %in% existing_figids)) {
+          write(figure_data$figid, file = file_path, append = TRUE)
+          log_message(paste("Added", figure_data$figid, "to", file_path))
         } else {
-          log_message(paste(figid, "already exists in", file_path))
+          log_message(paste(figure_data$figid, "already exists in", file_path))
         }
       }
     } else {

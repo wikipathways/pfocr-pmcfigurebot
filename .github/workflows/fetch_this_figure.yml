@@ -8,6 +8,10 @@ jobs:
   fetch-figure:
     if: github.event.label.name == 'fetch'
     runs-on: ubuntu-latest
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.event.issue.number }}
+      cancel-in-progress: false # to allow multiple runs to queue up rather than clobber
+      
     steps:
     - uses: actions/checkout@v4
     
