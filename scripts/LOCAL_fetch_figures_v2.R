@@ -360,7 +360,7 @@ extract_figures <- function(xml_content, exfigids) {
         }
         
         # Create figure link
-        figure_number <- gsub("^.*?([0-9]+)$", "\\1", label)
+        figure_number <- as.integer(str_extract(label, "\\d+(?!\\d)(?=[A-Za-z]?)(?=.?)"))
         figure_link <- paste0("/pmc/articles/", pmcid, "/figure/F", figure_number, "/")
         
         # Add figure data to results
