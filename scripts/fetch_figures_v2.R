@@ -443,7 +443,7 @@ process_figures <- function(figures, exfigids, config, output_dir = "figures", m
           yaml_data <- list(
             figid = figures[[i]]$figid,
             pmcid = figures[[i]]$pmcid,
-            image_filename = basename(filepath),
+            image_filename = basename(figures[[i]]$image_url),
             figure_link = figures[[i]]$figure_link,
             number = figures[[i]]$label,
             figure_title = figures[[i]]$figure_title,

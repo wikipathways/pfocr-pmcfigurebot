@@ -220,7 +220,7 @@ process_figure <- function(figure_data, output_dir = "figures") {
       yaml_data <- list(
         figid = figure_data$figid,
         pmcid = figure_data$pmcid,
-        image_filename = basename(filepath),
+        image_filename = basename(figures[[i]]$image_url),
         figure_link = figure_data$figure_link,
         number = figure_data$label,
         figure_title = figure_data$figure_title,
