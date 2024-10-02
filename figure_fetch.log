@@ -658,3 +658,29 @@
 
 2024-10-02 05:18:00 - ==========================================================
 
+2024-10-02 06:23:22 - Starting NCBI PMC Figure Fetcher
+
+2024-10-02 06:23:22 - Configuration loaded from query_config.yml
+
+2024-10-02 06:23:22 - PMC search query: (((((((((((signaling pathway[Figure/Table Caption]) OR signalling pathway[Figure/Table Caption]) OR regulatory pathway[Figure/Table Caption]) OR disease pathway[Figure/Table Caption]) OR drug pathway[Figure/Table Caption]) OR metabolic pathway[Figure/Table Caption]) OR biosynthetic pathway[Figure/Table Caption]) OR synthesis pathway[Figure/Table Caption]) OR cancer pathway[Figure/Table Caption]) OR response pathway[Figure/Table Caption]) OR cycle pathway[Figure/Table Caption])) AND (2024/05/01[PUBDATE] : 2024/06/01[PUBDATE])
+
+2024-10-02 06:23:51 - PMC search completed. Fetched 1142 results (max set to 3000).
+
+2024-10-02 06:24:01 - Extracted 1743 figures from XML content.
+
+2024-10-02 06:24:01 - Identified 495 pathway figures.
+
+2024-10-02 06:24:01 - Skipped 481 figures previously processed.
+
+2024-10-02 06:24:01 - Processed 14 pathway figures for download.
+
+2024-10-02 06:24:08 - Failed to download image for PMC11160905__NA after 3 attempts.
+
+2024-10-02 06:24:15 - Failed to download image for PMC11160905__NA after 3 attempts.
+
+2024-10-02 06:24:27 - New pathway figures downloaded: 12
+
+2024-10-02 06:24:27 - NCBI PMC Figure Fetcher completed
+
+2024-10-02 06:24:27 - ==========================================================
+

@@ -1,0 +1,32 @@
+---
+figid: PMC11383172__jciinsight-9-176162-g125
+pmcid: PMC11383172
+image_filename: jciinsight-9-176162-g125.jpg
+figure_link: /pmc/articles/PMC11383172/figure/F2/
+number: Figure 2
+figure_title: IBT induced downstream upregulation of the TNF-α pathway in human neutrophils
+caption: '(A) Volcano plot for DEGs in neutrophils treated with 0.3 μM IBT versus
+  DMSO (4.5h, unstimulated). DEGs based on log2 fold change and Padj < 0.05. FDRs
+  were calculated using the Benjamini-Yekutieli method with 3 biological replicates
+  per condition. Red and blue dots represent upregulated and downregulated genes,
+  respectively. (B) TNF-α KEGG pathway was created for all probed genes for IBT-treated
+  neutrophils versus DMSO. Genes in white boxes are genes not included in the nCounter
+  panel. Numbers in circles represent pathways: (1) MAPK signaling pathway; (2) ubiquitin-mediated
+  proteolysis; (3) NF-κB signaling pathway; and (4) PI3K/Akt signaling pathway'
+article_title: BTK inhibitor–induced defects in human neutrophil effector activity
+  against Aspergillus fumigatus are restored by TNF-α
+citation: Diego A. Vargas-Blanco, et al. JCI Insight. 2024 May 7;9(12).
+year: '2024'
+pub_date: 2024-5-7
+epub_date: 2024-5-7
+doi: 10.1172/jci.insight.176162
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Immunology
+- Infectious disease
+- Cancer
+- Fungal infections
+- Neutrophils
+---
