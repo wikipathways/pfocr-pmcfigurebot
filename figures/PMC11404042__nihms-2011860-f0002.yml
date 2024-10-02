@@ -1,0 +1,38 @@
+---
+figid: PMC11404042__nihms-2011860-f0002
+pmcid: PMC11404042
+image_filename: nihms-2011860-f0002.jpg
+figure_link: /pmc/articles/PMC11404042/figure/F2/
+number: Figure 2.
+figure_title: Pre-vaccination profiling of plasma metabolites reveals that metabolic
+  pathway activity is associated with inflammatory status
+caption: (A) Metabolite set enrichment analysis (MSEA) was performed on pre-ranked
+  metabolites from differential expression analysis, followed by EnrichmentMap analysis
+  with a Jaccard index >0.5 for modules displaying a nominal p < 0.05. Bar plot represents
+  individual modules, with the signed —log10(p value) as a metric for the association
+  with breadth, where red and blue respectively denote an association with high and
+  low breadth.(B) Heatmap representing the core metabolites from modules in (A), where
+  each row represents normalized metabolite expression and columns represent individual
+  participants. Row annotation tracks (left) represent the signed log p value of the
+  association of each outcome for each module, with blue and red denoting high negative
+  and positive significance, respectively. Column annotation tracks (top) represent
+  the outcome per subject. The dataset contains 8 and 23 biological replicates for
+  low and high breadth, respectively.(C) Integrated correlation network analysis of
+  transcriptomics and metabolomics, where nodes denote features and edges the correlation
+  coefficient between the two features they link. Spearman correlation (p < 0.05)
+  was used as an integration metric across OMICs and displayed on the edge color.
+  Node shape and color map to the respective feature type and association with neutralization
+  breadth.(D) Cartoon depicting the association of breadth correlates for low (left)
+  and high (right) breadth
+article_title: A pre-vaccination immune metabolic interplay determines the protective
+  antibody response to a dengue virus vaccine
+citation: Adam-Nicolas Pelletier, et al. Cell Rep. 2024 Aug 25;43(7).
+year: '2024'
+pub_date: 2024-8-25
+epub_date: 2024-6-18
+doi: 10.1016/j.celrep.2024.114370
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

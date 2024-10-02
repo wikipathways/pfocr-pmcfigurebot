@@ -1,0 +1,40 @@
+---
+figid: PMC11420565__CG-25-390_F6
+pmcid: PMC11420565
+image_filename: CG-25-390_F6.jpg
+figure_link: /pmc/articles/PMC11420565/figure/F6/
+number: Fig. (6)
+figure_title: Building CAFs-myeloid cells based regulatory network by Cellchat in
+  gastric cancer.
+caption: 'Building CAFs-myeloid cells based regulatory network by Cellchat in gastric
+  cancer. (A) The circle plots show the overview of cell- cell interaction numbers
+  and weights between CAFs and myeloid cells in all patients inferred by Cellchat
+  (Methods): The plot shows the numbers of cell-cell interaction between CAFs and
+  myeloid cells (left), The plot shows the weights of cell-cell interaction between
+  CAFs and myeloid cells (right). (B) The circle plots exhibit the weights of cell-cell
+  communications facet by cell types. (C) The circle plots of CSF and FN1 signaling
+  pathway network inferred by Cellchat, the arrows represent the direction of interactions.
+  (D) Immunohistochemical double-staining of PDGFRA/CD163 demonstrated the crosstalk
+  between iCAFs and TAMs, brown arrows represent the iCAFs and pink arrows represent
+  the TAMs (Scale bars: 50μm). (E) The Hierarchy plot of CXCL12 signaling pathway
+  network reveals the unidirectional regulation of iCAFs towards distinct myeloid
+  cells. (F) The sankey plot show the different incoming communication patterns of
+  target cells in GC'
+article_title: Crosstalk Between Cancer-associated Fibroblasts and Myeloid Cells Shapes
+  the Heterogeneous Microenvironment of Gastric Cancer
+citation: Zhiwei Peng, et al. Curr Genomics. 2024 Jun 11;25(5).
+year: '2024'
+pub_date: 2024-6-11
+epub_date: 2024-6-11
+doi: 10.2174/0113892029300608240531111743
+journal_title: Current Genomics
+journal_nlm_ta: Curr Genomics
+publisher_name: Bentham Science Publishers
+keywords:
+- Single-cell sequencing
+- gastric cancer
+- cancer-associated fibroblasts
+- myeloid cells
+- tumor microenvironment
+- ligand-receptor pairs
+---
