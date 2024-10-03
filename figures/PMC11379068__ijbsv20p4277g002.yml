@@ -1,0 +1,41 @@
+---
+figid: PMC11379068__ijbsv20p4277g002
+pmcid: PMC11379068
+image_filename: ijbsv20p4277g002.jpg
+figure_link: /pmc/articles/PMC11379068/figure/F2/
+number: Figure 2
+figure_title: Integration of RNA sequencing and metabolomics in primary neurons treated
+  with hemin for 24 h.
+caption: Integration of RNA sequencing and metabolomics in primary neurons treated
+  with hemin for 24 h. A) Volcano plot illustrating differences in gene expression
+  between control neurons and those treated with hemin for 24 h (p < 0.05 and log2FC≥1).
+  B-C) Gene set enrichment analysis of KEGG and GO gene sets based on the fold change
+  of gene expression in the hemin-treated group. Significantly enriched gene sets
+  (p < 0.05) were identified, and the selected gene sets are highlighted in red font.
+  D) Venn diagrams showing the number of differentially expressed genes that overlap
+  with MitoCarta3.0. E) KEGG analysis of the 29 differentially expressed genes that
+  overlap with MitoCarta3.0. F) Volcano plot depicting differentially expressed metabolites
+  between the control group and the hemin-treated group (p < 0.05, VIP value > 1).
+  G) Rectangular tree diagram for enrichment analysis of differential metabolite metabolic
+  pathways. The size of the square indicates the pathway's impact on the topology
+  analysis, and the color represents the p-value of the enrichment analysis. H) Joint
+  pathway analysis of significantly altered genes (RNA-sequencing, right) and metabolites
+  (metabolomics, left)
+article_title: Interaction Between the PERK/ATF4 Branch of the Endoplasmic Reticulum
+  Stress and Mitochondrial One-Carbon Metabolism Regulates Neuronal Survival After
+  Intracerebral Hemorrhage
+citation: Yikui Liu, et al. Int J Biol Sci. 2024;20(11).
+year: '2024'
+pub_date: 2024--
+epub_date: 2024-8-6
+doi: 10.7150/ijbs.93787
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- intracerebral hemorrhage
+- endoplasmic reticulum stress
+- mitochondria
+- one-carbon metabolism
+- GRP78/ATF4/MTHFD2
+---

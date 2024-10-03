@@ -1,0 +1,28 @@
+---
+figid: PMC11370353__nihpp-2024.08.15.608164v2-f0004
+pmcid: PMC11370353
+image_filename: nihpp-2024.08.15.608164v2-f0004.jpg
+figure_link: /pmc/articles/PMC11370353/figure/F4/
+number: Figure 4.
+figure_title: Gene expression in the core dauer pathway is robust
+caption: 'A. Density plot of the Coefficient of Variation (CV) of genes in the core
+  dauer pathway. Labels of the pathway on top. X-axis: CVs of all genes in the pathway
+  computed by dividing the standard deviation (SD) of its expression across all dauers
+  by its mean expression across all dauers. Dotted lines demarcating CVs: low, (CV
+  < 30), moderate (30 < CV < 50), high (CV > 50). Y-axis (left) density.B. Dumbbell
+  Plot showing Spearman’s correlation coefficient (rho) between pairs of dauers in
+  ‘core’ dauer pathways. TOP labels: the pair of dauers compared. Y-axis: pathway.
+  X-axis: rho value and confidence interval (CI): blue dot represents lower CI, yellow
+  dot represents rho value, and red dot represents high CI. p-values, Bonferroni corrected.
+  *p-value <0.05; ns, not-significant'
+article_title: Robustness and variability in Caenorhabditis elegans dauer gene expression
+citation: Johnny Cruz Corchado, et al. bioRxiv. 2024 Aug 26;NA(NA).
+year: '2024'
+pub_date: 2024-8-26
+epub_date: 2024-8-26
+doi: 10.1101/2024.08.15.608164
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

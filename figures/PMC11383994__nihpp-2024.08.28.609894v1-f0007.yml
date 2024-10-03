@@ -1,0 +1,48 @@
+---
+figid: PMC11383994__nihpp-2024.08.28.609894v1-f0007
+pmcid: PMC11383994
+image_filename: nihpp-2024.08.28.609894v1-f0007.jpg
+figure_link: /pmc/articles/PMC11383994/figure/F7/
+number: Figure 7.
+figure_title: Interrogation of pY functional role by coupling isotope labeled tracing
+  and CRISPRi-rescue validates regulatory role of IDH1 Y391 and UMPS Y37 on enzyme
+  activity
+caption: (A) U-13C5-Glutamine stable isotope tracing scheme to evaluate the role of
+  IDH1 Y391 which is positioned in the NADP binding domain (PDB:1t0l)92. (B) Fraction
+  labeling of citrate and aspartate via oxidative (blue) and reductive (red) TCA cycle
+  over 0, 60, or 120min in A549 sgIDH1 CRISPRi-rescue cell lines (N=4). Knockdown-rescue
+  was achieved by adding 500ng/mL of Dox, replenished daily, to culture media for
+  a total of 96 hours. Total ion counts were normalized to Norvaline internal standard
+  and total protein content, and fraction labeling was calculated by taking the ratio
+  of each labeled species divided by the total pool size. (C) Pool sizes of citrate
+  and aspartate at 120min (N=4). Pool sizes were calculated by summing all species
+  of each metabolite per condition. Data available in Table S8(A – C). (D) Model showing
+  pY391 activating IDH1 to induce reductive carboxylation of aKG to citrate. (E) U-13C5-Glutamine
+  stable isotope tracing scheme for 0, 12, or 24 hours to measure changes in de novo
+  pyrimidine synthesis pathway in A549 sgUMPS CRISPRi-rescue cell lines treated with
+  dox for 96 hours total. (F) Total ion counts of M+4 labeled and total de novo pyrimidine
+  synthesis intermediates carbamoyl aspartate, dihydroorotate, and orotate (N=4).
+  (G) Extracellular orotate and dihydroorotate were measured from media collected
+  at the 24 hours timepoint. Data available in Table S8(D – G). (H) model for pY37-mediated
+  inhibition of UMPS enzyme activity
+article_title: Structural and systems characterization of phosphorylation on metabolic
+  enzymes identifies sex-specific metabolic reprogramming in obesity
+citation: Tigist Y Tamir, et al. bioRxiv. 2024 Aug 29;NA(NA).
+year: '2024'
+pub_date: 2024-8-29
+epub_date: 2024-8-29
+doi: 10.1101/2024.08.28.609894
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- metabolism
+- oxidative stress response
+- phosphoproteomics
+- metabolomics
+- computational modeling
+- reductive metabolism
+- GSTP1
+- IDH1
+- UMPS
+---

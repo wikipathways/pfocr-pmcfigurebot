@@ -1,0 +1,44 @@
+---
+figid: PMC11383994__nihpp-2024.08.28.609894v1-f0004
+pmcid: PMC11383994
+image_filename: nihpp-2024.08.28.609894v1-f0004.jpg
+figure_link: /pmc/articles/PMC11383994/figure/F4/
+number: Figure 4.
+figure_title: Integrative omics analysis yields pY sites that predict HFD-induced
+  changes in metabolites
+caption: '(A) Selected integrative map depicting pY sites and metabolites in pathways
+  for purine degradation, oxidative phosphorylation (OXPHOS), redox homeostasis, fatty
+  acid (FA) metabolism, and anaplerosis/cataplerosis. (B) Scatter plot of metabolite
+  PLSR predictive score (Q2) vs fold change in Log2(HFD/NCD) where metabolites with
+  valid model are color-coded by pathway. Each metabolite (Y-matrix) was regressed
+  against the top 50% of pY sites with greatest change in magnitude (X-matrix) with
+  k-fold cross-validation (see Methods). A model prediction score (Q2) ≥ 0.4 was used
+  as an indicator of metabolites predicted by pY sites without overfitting. (C) Stacked
+  histogram plot illustrating the frequency of predictive pY sites and their respective
+  distances from functional domains and interface region. (D) Scatter plot of representative
+  PLSR model coefficients vs Log2(HFD/NCD) of pY sites for uridine monophosphate (UMP),
+  each datapoint is a pY site. PLSR coefficient indicates a positive (red) or negative
+  (blue) relationship between UMP and the pY site. Highlighted sites are on enzymes
+  in the de novo pyrimidine synthesis pathway: Umps Y37 and Cps1 Y590, Y1450, and
+  Y852'
+article_title: Structural and systems characterization of phosphorylation on metabolic
+  enzymes identifies sex-specific metabolic reprogramming in obesity
+citation: Tigist Y Tamir, et al. bioRxiv. 2024 Aug 29;NA(NA).
+year: '2024'
+pub_date: 2024-8-29
+epub_date: 2024-8-29
+doi: 10.1101/2024.08.28.609894
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- metabolism
+- oxidative stress response
+- phosphoproteomics
+- metabolomics
+- computational modeling
+- reductive metabolism
+- GSTP1
+- IDH1
+- UMPS
+---

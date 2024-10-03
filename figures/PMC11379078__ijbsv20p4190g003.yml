@@ -1,0 +1,41 @@
+---
+figid: PMC11379078__ijbsv20p4190g003
+pmcid: PMC11379078
+image_filename: ijbsv20p4190g003.jpg
+figure_link: /pmc/articles/PMC11379078/figure/F3/
+number: Figure 3
+figure_title: UA inhibited hepatocellular carcinoma progression by disturbing the
+  ING5-mediated PI3K/Akt signaling pathway.
+caption: UA inhibited hepatocellular carcinoma progression by disturbing the ING5-mediated
+  PI3K/Akt signaling pathway. (A) The correlations between ING5 mRNA and Akt or PIK3CA
+  mRNA were analyzed using the ggplot2 library in R software. (B) PI3K/Akt signaling
+  pathway related proteins in ING5-overexpressing or -silencing HepG2 cells were screened
+  by western blot. (C) Co-IP was performed to assess the interaction between ING5
+  and PI3K/Akt. HepG2 cells overexpressing ING5 were treated with 10 μM LY294002 for
+  24 h, and cell viability, apoptosis, migration, and invasion were measured by CCK-8
+  (D), Annexin V staining (E) (n=3), wound healing (F) (n=5), and Transwell assays
+  (G) (n=3), respectively. (H) Western blot assays were performed to determine the
+  expression of proteins related to the PI3K/Akt signaling pathway and phenotype-related
+  proteins after ING5-overexpressing HepG2 cells with 10μM LY294002 treatment for
+  24 h. (I) Western blot analyses were performed to confirm that treatment with 5
+  μM UA attenuated the ING5-induced changes in the phosphorylation of PI3K and Akt,
+  and the expressions of phenotype-related proteins in HepG2 cells. All data are presented
+  as mean ± SD, and Student's t test was used for significance tests, *P < 0.05, **P
+  < 0.01, ***P < 0.001. Scale bar = 50μm. UA, ursolic acid. IP, immunoprecipitation
+article_title: The Antitumor and Sorafenib-resistant Reversal Effects of Ursolic Acid
+  on Hepatocellular Carcinoma via Targeting ING5
+citation: Yin-Jie Fan, et al. Int J Biol Sci. 2024;20(11).
+year: '2024'
+pub_date: 2024--
+epub_date: 2024-8-5
+doi: 10.7150/ijbs.97720
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- Ursolic acid
+- Hepatocellular carcinoma
+- ING5
+- Sorafenib resistance
+- Spontaneous hepatocellular carcinoma model.
+---

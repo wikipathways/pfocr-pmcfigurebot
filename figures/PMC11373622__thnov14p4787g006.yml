@@ -1,0 +1,39 @@
+---
+figid: PMC11373622__thnov14p4787g006
+pmcid: PMC11373622
+image_filename: thnov14p4787g006.jpg
+figure_link: /pmc/articles/PMC11373622/figure/F6/
+number: Figure 6
+figure_title: IDO1 is upregulated in HNSC, and activation of the IFN-γ-JAK-STAT axis
+  is the potential cause for differentiation to IDO1+macrophages.
+caption: IDO1 is upregulated in HNSC, and activation of the IFN-γ-JAK-STAT axis is
+  the potential cause for differentiation to IDO1+macrophages. (A) Umap plot showing
+  the differentiation trajectory of macrophages and the distribution of each cell
+  subset on the trajectory. (B) Comparison of IDO1 expression between tumor (n = 519)
+  and normal (n = 44) in TCGA database. (C) The boxes showing the expression distribution
+  of IDO1 in PCA (G1), OLK (G2) and OSCC (G3) in GEO data. (D) Gene set enrichment
+  analysis (GSEA) results showing the enrichment of JAK-STAT gene sets in Macro_IDO1.
+  (E) Information flow of feature signaling pathway in different tissues. (F) The
+  CellPhoneDB communication analysis demonstrating that IFN-II signaling pathway mediates
+  communication between T cells and macrophages in preca-OLK and OSCC. (G) Scatter
+  plot showing the correlation between IFNG and IDO1 expression across 4 independent
+  datasets with OLK in GEO data. (H) Heatmap showing RAS activity of regulons in macrophage
+  subtype predicted by SCENIC
+article_title: Single-cell RNA sequencing highlights the immunosuppression of IDO1+
+  macrophages in the malignant transformation of oral leukoplakia
+citation: Yu Zhang, et al. Theranostics. 2024;14(12).
+year: '2024'
+pub_date: 2024--
+epub_date: 2024-8-12
+doi: 10.7150/thno.99112
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+keywords:
+- Oral squamous cell carcinoma
+- Oral leukoplakia
+- immunosuppressive microenvironment
+- macrophage
+- indoleamine 2
+- 3-dioxygenase 1.
+---

@@ -1,0 +1,35 @@
+---
+figid: PMC11394161__cancers-16-03031-g001
+pmcid: PMC11394161
+image_filename: cancers-16-03031-g001.jpg
+figure_link: /pmc/articles/PMC11394161/figure/F1/
+number: Figure 1
+figure_title: mTORC1 Signaling Among Top Gene Sets Enriched in DD LPS.
+caption: 'mTORC1 Signaling Among Top Gene Sets Enriched in DD LPS. Of the 288 metabolic
+  pathway-related gene sets analyzed by GSEA, the top four ranked gene sets by NES
+  are displayed. Gene sets were analyzed based on enrichment of DD LPS (n = 18) compared
+  to WD LPS (n = 29). p < 0.05 and FDR (q) < 0.25 were used as cutoffs for significance.
+  (A) Hallmark Myc Targets: NES 2.72, FDR < 0.001, p < 0.001, (B) Hallmark mTORC1
+  Signaling: NES 1.44, FDR 0.162, p = 0.011, (C) KEGG pyrimidine metabolism: NES 1.69,
+  FDR 0.041, p = 0.002, and (D) KEGG purine metabolism: NES 1.35, FDR 0.22, p = 0.025'
+article_title: Targeting Asparagine Metabolism in Well-Differentiated/Dedifferentiated
+  Liposarcoma
+citation: Kyle D. Klingbeil, et al. Cancers (Basel). 2024 Sep;16(17).
+year: '2024'
+pub_date: 2024-9-
+epub_date: 2024-8-30
+doi: 10.3390/cancers16173031
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+keywords:
+- well-differentiated/dedifferentiated liposarcoma
+- asparagine metabolism
+- mTORC1 signaling
+- ATF4
+- asparaginase
+- complex I inhibitor
+- electron transport chain
+- patient-derived organoids
+- patient-derived xenograft
+---

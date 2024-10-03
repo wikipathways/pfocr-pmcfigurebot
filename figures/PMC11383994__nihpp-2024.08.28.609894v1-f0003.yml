@@ -1,0 +1,54 @@
+---
+figid: PMC11383994__nihpp-2024.08.28.609894v1-f0003
+pmcid: PMC11383994
+image_filename: nihpp-2024.08.28.609894v1-f0003.jpg
+figure_link: /pmc/articles/PMC11383994/figure/F3/
+number: Figure 3.
+figure_title: HFD induced obesity results in sex-specific phenotypic, phosphoproteomic,
+  and metabolic changes
+caption: '(A) Schematic of in vivo experiment in C57BL6/J mice fed high fat diet (HFD,
+  60% kcal from fat, N=19) or normal chow diet (NCD, 30% kcal from fat, N=19) for
+  16 weeks, and dry pulverized livers were collected for multiomic analysis of steady
+  state polar metabolites and pY phosphoproteome. (B-E) Physiological measurements
+  of total body mass (g), fat mass (g), fasted blood glucose (FBG, mg/dL), and blood
+  insulin (pg/mL) levels. Data points represent individual animals. Two-way ANOVA
+  with multiple comparison (Kruskal-Wallis test) was performed comparing corresponding
+  NCD with HFD groups and statistical significance was assigned as follows: * p <
+  0.05, ** p < 0.01, **** p < 0.001, ns = not statistically significant. (F) 688 Heatmap
+  of spearman correlation analysis of polar metabolomics data with hierarchical clustering.
+  KDE plot for the distribution of metabolite fold changes represented as Log2(HFD/NCD)
+  demonstrating decreased metabolites in males evidenced by left-shift in the distribution.
+  (G) Scatter plot of PCA on polar metabolite measurements, data points represent
+  individual animals. (H) Scatter plot of metabolites that drive PCA clustering (loadings)
+  along PC2 and PC3 color-coded by pathway. Data points represent individual metabolites.
+  (I) Heatmap representation of metabolites differentially regulated by diet and sex
+  in PC2 and PC3. (J) heatmap representation of spearman correlation analysis and
+  hierarchical clustering of targeted pY phosphoproteomics analysis on metabolic enzymes
+  in response to HFD. KDE plot showing distribution of pY site Log2(HFD/NCD) demonstrating
+  an increase (right-shift) in males but not females. (K) Scatter plot representation
+  of PCA on pY sites along PC1, PC2 and PC3. Data points represent individual animals.
+  (L) Loadings scatter plot of pY sites that drive clustering across PC2 and PC3,
+  color coded according to metabolic pathway of each enzyme. Data points represent
+  pY sites. (M) Mean intensity of pY site drivers of PC2 and PC3 clustering represented
+  as heatmap across sex and diet'
+article_title: Structural and systems characterization of phosphorylation on metabolic
+  enzymes identifies sex-specific metabolic reprogramming in obesity
+citation: Tigist Y Tamir, et al. bioRxiv. 2024 Aug 29;NA(NA).
+year: '2024'
+pub_date: 2024-8-29
+epub_date: 2024-8-29
+doi: 10.1101/2024.08.28.609894
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- metabolism
+- oxidative stress response
+- phosphoproteomics
+- metabolomics
+- computational modeling
+- reductive metabolism
+- GSTP1
+- IDH1
+- UMPS
+---
