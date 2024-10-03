@@ -1,0 +1,52 @@
+---
+figid: PMC11398426__nihpp-2024.09.03.610968v1-f0005
+pmcid: PMC11398426
+image_filename: nihpp-2024.09.03.610968v1-f0005.jpg
+figure_link: /pmc/articles/PMC11398426/figure/F5/
+number: Fig. 5.
+figure_title: CBFB loss induces a STING-TBK1-IRF3 cell-intrinsic ISG response(a) Schematic
+  of the type I IFN signalling pathway.
+caption: CBFB loss induces a STING-TBK1-IRF3 cell-intrinsic ISG response(a) Schematic
+  of the type I IFN signalling pathway. Aberrant or foreign nucleic acids are detected
+  by pattern recognition receptors (PRRs), which signal through adaptor proteins to
+  stimulate TBK1-mediated phosphorylation of IRF3. IRF3 heterodimers translocate to
+  the nucleus to trigger transcription of IFNs and a subset of ISGs. Secreted IFNs
+  act through IFNAR receptors to promote STAT1- and STAT2-mediated ISG expression.(b)
+  qPCR analysis of IFIT1 expression in 786O Cas9 cells transduced with a vector encoding
+  sgRNAs targeting both STAT1 (sg1) and STAT2 (sg2), or an empty vector control. Cells
+  were additionally transduced with CBF-β sg2, or treated with 10 IU/ml IFN-β for
+  6 hours. n=3 biologically independent replicates. Mean ± SD. Two-way ANOVA.(c) ISG
+  expression is dependent on IRF3. qPCR analysis of cells transduced with sgRNAs targeting
+  CBF-β (sg2), IRF3 and IRF7, or an empty vector control. n=3 biologically independent
+  replicates. Mean ± SD. Two-way ANOVA.(d) Cells were transduced with CBF-β sg2 or
+  an empty vector control, and treated with 5 μM GSK8612 for 24 hours (to inhibit
+  TBK1), as indicated. Immunoblot representative of 3 biologically independent replicates.(e)
+  786O Cas9 cells were transduced with CBF-β sg2 or an empty vector control, treated
+  for 24 hours with the indicated doses of the TBK1 inhibitor GSK8612, the NF-κB inhibitor
+  BAY 11–7085, or the DMSO vehicle, and analysed by qPCR. n=3 biologically independent
+  replicates. Mean ± SD. One-way ANOVA.(f) CBF-β loss specifically activates STING.
+  qPCR analysis of cells transduced with CBF-β sg2 alone or in combination with sgRNAs
+  targeting the PRR adaptors TRIF, MAVS and STING, compared to an empty vector-transduced
+  control. n=3 biologically independent replicates. Mean ± SD. One-way ANOVA.(g) Immunoblot
+  of 786O Cas9 cells transduced with sgRNAs targeting CBF-β (sg2) and STING (sg1),
+  or an empty vector control. Representative of 3 biologically independent replicates.(h)
+  Dose-response relationship between IFN-β treatment and cell proliferation over 72
+  hours in 786O Cas9 cells and proximal tubule HK2 Cas9 cells. n=6 biologically independent
+  replicates. Mean ± SD
+article_title: VHL synthetic lethality screens uncover CBF-β as a negative regulator
+  of STING
+citation: James A C Bertlin, et al. bioRxiv. 2024 Sep 06;NA(NA).
+year: '2024'
+pub_date: 2024-9-06
+epub_date: 2024-9-06
+doi: 10.1101/2024.09.03.610968
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords:
+- VHL
+- clear cell renal cell carcinoma
+- STING
+- CBF-β
+- type I interferon
+---

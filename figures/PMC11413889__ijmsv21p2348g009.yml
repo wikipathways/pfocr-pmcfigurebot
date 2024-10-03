@@ -1,0 +1,34 @@
+---
+figid: PMC11413889__ijmsv21p2348g009
+pmcid: PMC11413889
+image_filename: ijmsv21p2348g009.jpg
+figure_link: /pmc/articles/PMC11413889/figure/F9/
+number: Figure 9
+figure_title: MetaCore pathway analysis of Schlafen 5 (SLFN5) co-expressed genes in
+  COAD patients from TCGA.
+caption: MetaCore pathway analysis of Schlafen 5 (SLFN5) co-expressed genes in COAD
+  patients from TCGA. (A) The MetaCore pathway enrichment analysis was conducted for
+  genes co-expressed with SLFN5 in COAD patients, revealing potential pathways involving
+  these genes ranked by their log p values. (B) The "Immune response_IFN-alpha/beta
+  signaling via JAK/STAT" is highlighted, with symbols representing proteins and arrows
+  indicating protein interactions (green for activation and red for inhibition). Thermometer-like
+  histograms visually represent microarray gene expressions, with blue indicating
+  downregulation and red indicating upregulation
+article_title: Comprehensive analysis of bulk and single-cell RNA sequencing data
+  reveals Schlafen-5 (SLFN5) as a novel prognosis and immunity
+citation: Yueh-Jung Wu, et al. Int J Med Sci. 2024;21(12).
+year: '2024'
+pub_date: 2024--
+epub_date: 2024-9-9
+doi: 10.7150/ijms.97975
+journal_title: International Journal of Medical Sciences
+journal_nlm_ta: Int J Med Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- colorectal adenocarcinoma (COAD)
+- Schlafen (SLFN) family genes
+- cell metabolism
+- immune infiltration
+- tumor microenvironment
+- single cell technology
+---

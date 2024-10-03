@@ -1,0 +1,43 @@
+---
+figid: PMC11414392__ijbsv20p4999g005
+pmcid: PMC11414392
+image_filename: ijbsv20p4999g005.jpg
+figure_link: /pmc/articles/PMC11414392/figure/F5/
+number: Figure 5
+figure_title: ChIP-Seq identification of RUNX1 impact and validation of MUC13 in CRC.
+caption: ChIP-Seq identification of RUNX1 impact and validation of MUC13 in CRC. (A)
+  Heatmap displaying Input and IP Read counts near the transcription start site (TSS)
+  in both OE-NC and OE-RUNX1 cell groups. (B) Visualization of the chromosomal locations
+  of identified chromatin peaks associated with RUNX1 binding. (C) Bar graph depicting
+  the percentage of peaks located in the promoter-TSS regions for OE-NC and OE-RUNX1
+  groups. (D) GO enrichment analysis results showing cellular functions predominantly
+  influenced by RUNX1-targeted genes. (E) KEGG pathway analysis highlighting key cellular
+  pathways influenced by RUNX1, such as cancer and stem cell pathways. (F) Venn diagram
+  highlighting MUC13 as a shared target in ChIP-Seq and upregulated in RNA-Seq. (G)
+  Differential distribution of MUC13-associated peaks in the RUNX1-overexpressing
+  group compared to control cells. (H) Western blot confirmation of MUC13 expression
+  in F0 and F3 cells, utilizing primary tumor cells from three different metastatic
+  tissues for F3. (I) qPCR and Western blot validate MUC13 upregulation in RUNX1-overexpressing
+  F0 cells. qPCR and Western blot confirm MUC13 downregulation following RUNX1 knockdown
+  in F3 cells. (J) Co-IP assay confirms RUNX1-MUC13 interaction in F3 cells. (K) Depiction
+  of wild-type and mutant MUC13 promoter constructs for luciferase assays. (L) Luciferase
+  assays show enhanced activity with RUNX1 and the wild-type MUC13 promoter, while
+  mutation reduces this effect, indicating the importance of RUNX1's binding site
+  for MUC13 activation. ns, not significant; *P < 0.05; **P < 0.01; ***P < 0.001
+article_title: RUNX1-MUC13 Interaction Activates Wnt/β-Catenin Signaling Implications
+  for Colorectal Cancer Metastasis
+citation: Xinyi Chen, et al. Int J Biol Sci. 2024;20(12).
+year: '2024'
+pub_date: 2024--
+epub_date: 2024-9-16
+doi: 10.7150/ijbs.98396
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- Colorectal Cancer
+- Liver Metastasis
+- MUC13
+- RUNX1
+- Transcriptional Regulation
+---

@@ -1,0 +1,40 @@
+---
+figid: PMC11397455__nutrients-16-02951-g003
+pmcid: PMC11397455
+image_filename: nutrients-16-02951-g003.jpg
+figure_link: /pmc/articles/PMC11397455/figure/F3/
+number: Figure 3
+figure_title: Pro-development effects of breast milk and different infant formulae
+  on intestine organoids.
+caption: 'Pro-development effects of breast milk and different infant formulae on
+  intestine organoids. (a) Radar plot of GO-enriched pathways’ z-score of breast milk
+  group and PMF group. Methods are from GeneTonic, an R package for RNA-seq data.
+  Z-score implies the intensity and direction of pathway enrichment. PMF means powder
+  milk (infant formulae), gathering PMF1, PMF2, and PMF3 as one group. (b) GSEA results
+  of GO: Canonical Wnt signaling pathway from shared DEG of BM, PMF1, PMF2, and PMF3.
+  NES means normalized enrichment score. (c) Heatmap of core enrichment genes of GSEA:
+  canonical Wnt signaling pathway. (d) Heatmap of GSVA score of selected pathways
+  associated with growth and development of intestine for each sample. (e) Cilium
+  assembly and epithelial tube formation’ highly correlated genes (GSVA score-gene,
+  spearman correlation > 0.8) and the metabolites highly correlated to them (gene-metabolite,
+  spearman correlation > 0.8). (f) mRNA expression level of ‘key genes’ measured by
+  RT-qPCR technique (2−ΔΔCt method). All data are presented as mean ± SEM. * p < 0.05;
+  ** p < 0.01; *** p < 0.001; **** p < 0.0001; ns, no significance, p ≥ 0.05'
+article_title: Multi-Omics Profiles of Small Intestine Organoids in Reaction to Breast
+  Milk and Different Infant Formula Preparations
+citation: Xianli Wang, et al. Nutrients. 2024 Sep;16(17).
+year: '2024'
+pub_date: 2024-9-
+epub_date: 2024-9-02
+doi: 10.3390/nu16172951
+journal_title: Nutrients
+journal_nlm_ta: Nutrients
+publisher_name: MDPI
+keywords:
+- organoids
+- transcriptome
+- metabolomics
+- infant formulas
+- small intestine
+- growth development
+---

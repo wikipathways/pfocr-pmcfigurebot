@@ -1,0 +1,43 @@
+---
+figid: PMC11398484__nihpp-2024.09.05.609098v1-f0004
+pmcid: PMC11398484
+image_filename: nihpp-2024.09.05.609098v1-f0004.jpg
+figure_link: /pmc/articles/PMC11398484/figure/F4/
+number: Figure 4.
+figure_title: Gastruloid stages and gene modules exhibit varying degrees of RNA-protein
+  discordance
+caption: (A) Histogram of correlations (rPearson) between protein and RNA expression
+  for all genes detected at the transcript and protein level in our samplings of human
+  and mouse gastruloid development. Dashed line indicates the mean rPearson across
+  all genes. Representative genes with varying extents of correlation are highlighted.
+  (B) GO term dotplot highlighting GO-defined biological processes exhibiting high
+  RNA-protein correlation (rPearson >= 0.75) or anticorrelation (rPearson <= −0.75).
+  (C) Boxplot depicting the distribution of protein-RNA correlation (x-axis) as a
+  function of subcellular location (y-axis). Rank plots of median RNA-protein rPearson
+  across (D) protein complexes or (E) biochemical pathways. Colors indicate databases
+  from which the module sets were curated. (F) Representative examples of RNA-protein
+  discordance profiles (for any given gene, mean across replicate is shown) for various
+  stages. (G) Boxplot depicting the distributions of RNA-protein discordances (for
+  any given gene, mean across replicates is shown) for various mouse stages. (H) Dotplot
+  highlighting the biological processes significantly enriched in genes exhibiting
+  protein-abundant (circles; discordance >=1) or RNA-abundant (triangles; discordance
+  <=−1) RNA-protein discordance. Color scale indicates the p-value adjusted using
+  the Benjamini-Hochberg procedure and sizes of dots indicate the number of genes
+  detected within each term. (I) Median RNA-protein discordances of members of protein
+  complexes at each stage of mouse gastruloid development. (J) Comparison of the RNA
+  and protein log2-scaled fold-changes between early vs. late mouse gastruloids in
+  the Mediator complex (left), intraflagellar transport complex B (middle), and mitochondrial
+  Complex I of the oxidative phosphorylation pathway. Significance testing on RNA
+  and protein distributions was performed using a standard t-test
+article_title: The proteomic landscape and temporal dynamics of mammalian gastruloid
+  development
+citation: Riddhiman K. Garge, et al. bioRxiv. 2024 Sep 07;NA(NA).
+year: '2024'
+pub_date: 2024-9-07
+epub_date: 2024-9-07
+doi: 10.1101/2024.09.05.609098
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---

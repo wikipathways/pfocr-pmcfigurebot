@@ -1,0 +1,39 @@
+---
+figid: PMC11397455__nutrients-16-02951-g001
+pmcid: PMC11397455
+image_filename: nutrients-16-02951-g001.jpg
+figure_link: /pmc/articles/PMC11397455/figure/F1/
+number: Figure 1
+figure_title: Transcriptome profiles of intestine organoids feeding by different infant
+  formulae and breast milk.
+caption: Transcriptome profiles of intestine organoids feeding by different infant
+  formulae and breast milk. (a) PCA of samples in groups BM, PMF1, PMF2, PMF3, and
+  control. PC1 and PC2 Scores of different samples are visualized, and the variance
+  contributed by its corresponding component is presented. (b) GSVA analysis of each
+  sample for GO terms associated with nutrition absorption in small intestine. (c)
+  Venn graph of different groups’ DEG. (d,e) Gene over-representation analysis of
+  GO of (d) unique DEG of infant formulae group and breast milk group presented in
+  functionally grouped network with terms as nodes linked based on their kappa score
+  level (≥0.3) using a Cytoscape plug-in clueGO, and (e) shared DEG of all infant
+  formulae and breast milk presented in dendrogram using methods adopted by GeneTonic.
+  (f) Pathway enrichment analysis of KEGG for shared DEG of all infant formulae and
+  breastmilk. Top 12 enriched significant pathways (p value < 0.05) ordered by count
+  were presented
+article_title: Multi-Omics Profiles of Small Intestine Organoids in Reaction to Breast
+  Milk and Different Infant Formula Preparations
+citation: Xianli Wang, et al. Nutrients. 2024 Sep;16(17).
+year: '2024'
+pub_date: 2024-9-
+epub_date: 2024-9-02
+doi: 10.3390/nu16172951
+journal_title: Nutrients
+journal_nlm_ta: Nutrients
+publisher_name: MDPI
+keywords:
+- organoids
+- transcriptome
+- metabolomics
+- infant formulas
+- small intestine
+- growth development
+---

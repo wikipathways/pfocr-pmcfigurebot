@@ -1,0 +1,33 @@
+---
+figid: PMC11398484__nihpp-2024.09.05.609098v1-f0002
+pmcid: PMC11398484
+image_filename: nihpp-2024.09.05.609098v1-f0002.jpg
+figure_link: /pmc/articles/PMC11398484/figure/F2/
+number: Fig. 2.
+figure_title: Time-resolved proteomics reveals biologically coherent shifts across
+  gastruloid development
+caption: (A) Heatmap depicting the temporal dynamics of protein expression across
+  human and mouse gastruloid differentiation samples and replicates. (B) Dotplot indicating
+  the top Gene Ontology (GO) terms enrichment across clusters. Clusters 5, 9, and
+  10 did not have significantly enriched GO terms. Color scale indicates the Benjamini
+  Hochberg (BH) adjusted p-values. Size of dots corresponds to the number of proteins
+  associated with a particular GO term. (C) Volcano plots of the protein expression
+  changes across consecutive stages of human gastruloid differentiation, where x-axis
+  represents the log2 fold change between two adjacent timepoints and y-axis represents
+  the negative log10 of the Benjamini-Hochberg-adjusted p-value. (D) The log2 protein
+  abundance ratio of early (yellow) or late (red) gastruloids compared to primed human
+  ESCs (RUES2-GLR) for proteins associated with pluripotency and central metabolism
+  including TCA cycle, pentose phosphate pathway and oxidative phosphorylation. Mean
+  abundance ratios are indicated with dots and error bars represent the standard deviation
+article_title: The proteomic landscape and temporal dynamics of mammalian gastruloid
+  development
+citation: Riddhiman K. Garge, et al. bioRxiv. 2024 Sep 07;NA(NA).
+year: '2024'
+pub_date: 2024-9-07
+epub_date: 2024-9-07
+doi: 10.1101/2024.09.05.609098
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory
+keywords: []
+---
