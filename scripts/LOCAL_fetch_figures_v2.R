@@ -254,8 +254,8 @@ extract_figures <- function(xml_content, exfigids) {
     
     # Extract PMCID and DOI for this article
     doi <- xml_text(xml_find_first(article, ".//article-id[@pub-id-type='doi']"))
-    pmcid <- xml_text(xml_find_first(article, ".//article-id[@pub-id-type='pmc']"))
-    pmcid <- paste0("PMC", pmcid)
+    pmcid <- xml_text(xml_find_first(article, ".//article-id[@pub-id-type='pmcid']"))
+    #pmcid <- paste0("PMC", pmcid)
     
     # Extract figures for this article
     figs <- xml_find_all(article, ".//fig")
@@ -343,9 +343,10 @@ extract_figures <- function(xml_content, exfigids) {
         # Extract xlink:href
         graphic_node <- xml_find_first(fig, ".//graphic")
         xlink_href <- xml_attr(graphic_node, "href")
+        xlink_href <- gsub("\\.jpg$", "", xlink_href)
         
         # Create derived values
-        image_url <- paste0("https://www.ncbi.nlm.nih.gov/pmc/articles/",
+        image_url <- paste0("https://europepmc.org/articles/",
                             pmcid,
                             "/bin/",
                             xlink_href,
@@ -428,6 +429,7 @@ process_figures <- function(figures, exfigids, config, output_dir = "figures", m
     
     while (!download_successful && attempt <= max_attempts) {
       tryCatch({
+        #print(figures[[i]]$image_url)
         response <- GET(figures[[i]]$image_url, 
                         user_agent("fetch_figures_v2/1.0 (alex.pico@gladstone.ucsf.edu)"),
                         write_disk(filepath, overwrite = TRUE),
@@ -512,6 +514,7 @@ date_range <- prepare_date_range(config)
 
 if (!is.null(date_range)) {
   xml_content <- search_pmc(terms, date_range)
+  #write(xml_content, "xml_content.xml")
   figures <- extract_figures(xml_content, exfigids)
   process_figures(figures, exfigids, config)
   

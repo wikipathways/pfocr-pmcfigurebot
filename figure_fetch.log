@@ -774,3 +774,365 @@
 
 2024-10-03 04:24:38 - ==========================================================
 
+2025-07-14 13:03:51 - Starting NCBI PMC Figure Fetcher
+
+2025-07-14 13:03:51 - Configuration loaded from query_config.yml
+
+2025-07-14 13:03:51 - PMC search query: (((((((((((signaling pathway[Figure/Table Caption]) OR signalling pathway[Figure/Table Caption]) OR regulatory pathway[Figure/Table Caption]) OR disease pathway[Figure/Table Caption]) OR drug pathway[Figure/Table Caption]) OR metabolic pathway[Figure/Table Caption]) OR biosynthetic pathway[Figure/Table Caption]) OR synthesis pathway[Figure/Table Caption]) OR cancer pathway[Figure/Table Caption]) OR response pathway[Figure/Table Caption]) OR cycle pathway[Figure/Table Caption])) AND (2024/10/03[PUBDATE] : 2024/11/03[PUBDATE])
+
+2025-07-14 13:04:29 - PMC search completed. Fetched 1134 results (max set to 3000).
+
+2025-07-14 13:04:41 - Extracted 7493 figures from XML content.
+
+2025-07-14 13:04:41 - Identified 2201 pathway figures.
+
+2025-07-14 13:04:41 - Skipped 0 figures previously processed.
+
+2025-07-14 13:04:41 - Processed 2201 pathway figures for download.
+
+2025-07-14 13:36:42 - Failed to download image for PMC10793491__nihpp-rs3793919v3-f0003 after 3 attempts.
+
+2025-07-14 13:40:42 - Failed to download image for PMC10980014__nihpp-2024.03.17.585262v2-f0009 after 3 attempts.
+
+2025-07-14 13:40:50 - Failed to download image for PMC10980014__nihpp-2024.03.17.585262v2-f0004 after 3 attempts.
+
+2025-07-14 13:40:57 - Failed to download image for PMC10980014__nihpp-2024.03.17.585262v2-f0005 after 3 attempts.
+
+2025-07-14 13:41:04 - Failed to download image for PMC10980014__nihpp-2024.03.17.585262v2-f0006 after 3 attempts.
+
+2025-07-14 13:50:07 - New pathway figures downloaded: 2196
+
+2025-07-14 13:50:07 - NCBI PMC Figure Fetcher completed
+
+2025-07-14 13:50:07 - ==========================================================
+
+2025-07-14 13:53:47 - Starting NCBI PMC Figure Fetcher
+
+2025-07-14 13:53:47 - Configuration loaded from query_config.yml
+
+2025-07-14 13:53:47 - PMC search query: (((((((((((signaling pathway[Figure/Table Caption]) OR signalling pathway[Figure/Table Caption]) OR regulatory pathway[Figure/Table Caption]) OR disease pathway[Figure/Table Caption]) OR drug pathway[Figure/Table Caption]) OR metabolic pathway[Figure/Table Caption]) OR biosynthetic pathway[Figure/Table Caption]) OR synthesis pathway[Figure/Table Caption]) OR cancer pathway[Figure/Table Caption]) OR response pathway[Figure/Table Caption]) OR cycle pathway[Figure/Table Caption])) AND (2024/11/03[PUBDATE] : 2024/12/03[PUBDATE])
+
+2025-07-14 13:54:20 - PMC search completed. Fetched 1201 results (max set to 3000).
+
+2025-07-14 13:54:32 - Extracted 7951 figures from XML content.
+
+2025-07-14 13:54:32 - Identified 2353 pathway figures.
+
+2025-07-14 13:54:32 - Skipped 14 figures previously processed.
+
+2025-07-14 13:54:32 - Processed 2339 pathway figures for download.
+
+2025-07-14 14:16:53 - Failed to download image for PMC11118471__nihpp-2024.05.13.593788v2-f0005 after 3 attempts.
+
+2025-07-14 14:17:00 - Failed to download image for PMC11118471__nihpp-2024.05.13.593788v2-f0006 after 3 attempts.
+
+2025-07-14 14:17:08 - Failed to download image for PMC11118471__nihpp-2024.05.13.593788v2-f0007 after 3 attempts.
+
+2025-07-14 14:30:27 - Failed to download image for PMC10862866__nihpp-2024.02.03.578714v2-f0004 after 3 attempts.
+
+2025-07-14 14:30:34 - Failed to download image for PMC10862866__nihpp-2024.02.03.578714v2-f0006 after 3 attempts.
+
+2025-07-14 14:41:05 - Failed to download image for PMC11142082__nihpp-2024.05.21.595191v2-f0002 after 3 attempts.
+
+2025-07-14 14:41:12 - Failed to download image for PMC11142082__nihpp-2024.05.21.595191v2-f0003 after 3 attempts.
+
+2025-07-14 14:41:20 - Failed to download image for PMC11142082__nihpp-2024.05.21.595191v2-f0005 after 3 attempts.
+
+2025-07-14 14:41:48 - Failed to download image for PMC9949038__nihpp-2023.02.15.528365v3-f0005 after 3 attempts.
+
+2025-07-14 14:41:55 - Failed to download image for PMC9949038__nihpp-2023.02.15.528365v3-f0006 after 3 attempts.
+
+2025-07-14 14:42:03 - Failed to download image for PMC9949038__nihpp-2023.02.15.528365v3-f0007 after 3 attempts.
+
+2025-07-14 14:54:13 - New pathway figures downloaded: 2328
+
+2025-07-14 14:54:13 - NCBI PMC Figure Fetcher completed
+
+2025-07-14 14:54:13 - ==========================================================
+
+2025-07-14 14:54:29 - Starting NCBI PMC Figure Fetcher
+
+2025-07-14 14:54:29 - Configuration loaded from query_config.yml
+
+2025-07-14 14:54:29 - PMC search query: (((((((((((signaling pathway[Figure/Table Caption]) OR signalling pathway[Figure/Table Caption]) OR regulatory pathway[Figure/Table Caption]) OR disease pathway[Figure/Table Caption]) OR drug pathway[Figure/Table Caption]) OR metabolic pathway[Figure/Table Caption]) OR biosynthetic pathway[Figure/Table Caption]) OR synthesis pathway[Figure/Table Caption]) OR cancer pathway[Figure/Table Caption]) OR response pathway[Figure/Table Caption]) OR cycle pathway[Figure/Table Caption])) AND (2024/12/03[PUBDATE] : 2025/01/03[PUBDATE])
+
+2025-07-14 14:54:52 - PMC search completed. Fetched 1285 results (max set to 3000).
+
+2025-07-14 14:55:06 - Extracted 8623 figures from XML content.
+
+2025-07-14 14:55:06 - Identified 2540 pathway figures.
+
+2025-07-14 14:55:06 - Skipped 73 figures previously processed.
+
+2025-07-14 14:55:06 - Processed 2467 pathway figures for download.
+
+2025-07-14 15:02:48 - Failed to download image for PMC11852242__TEMI_A_2447620_F0003_OC after 3 attempts.
+
+2025-07-14 15:02:55 - Failed to download image for PMC11852242__TEMI_A_2447620_F0006_OC after 3 attempts.
+
+2025-07-14 15:34:21 - Failed to download image for PMC10635082__nihpp-2023.11.01.565218v2-f0001 after 3 attempts.
+
+2025-07-14 15:34:29 - Failed to download image for PMC10635082__nihpp-2023.11.01.565218v2-f0003 after 3 attempts.
+
+2025-07-14 15:34:36 - Failed to download image for PMC10635082__nihpp-2023.11.01.565218v2-f0006 after 3 attempts.
+
+2025-07-14 15:57:19 - New pathway figures downloaded: 2462
+
+2025-07-14 15:57:19 - NCBI PMC Figure Fetcher completed
+
+2025-07-14 15:57:19 - ==========================================================
+
+2025-07-14 15:57:25 - Starting NCBI PMC Figure Fetcher
+
+2025-07-14 15:57:25 - Configuration loaded from query_config.yml
+
+2025-07-14 15:57:25 - PMC search query: (((((((((((signaling pathway[Figure/Table Caption]) OR signalling pathway[Figure/Table Caption]) OR regulatory pathway[Figure/Table Caption]) OR disease pathway[Figure/Table Caption]) OR drug pathway[Figure/Table Caption]) OR metabolic pathway[Figure/Table Caption]) OR biosynthetic pathway[Figure/Table Caption]) OR synthesis pathway[Figure/Table Caption]) OR cancer pathway[Figure/Table Caption]) OR response pathway[Figure/Table Caption]) OR cycle pathway[Figure/Table Caption])) AND (2025/01/03[PUBDATE] : 2025/02/03[PUBDATE])
+
+2025-07-14 15:57:48 - PMC search completed. Fetched 1266 results (max set to 3000).
+
+2025-07-14 15:58:01 - Extracted 8655 figures from XML content.
+
+2025-07-14 15:58:01 - Identified 2446 pathway figures.
+
+2025-07-14 15:58:01 - Skipped 88 figures previously processed.
+
+2025-07-14 15:58:01 - Processed 2358 pathway figures for download.
+
+2025-07-14 16:00:02 - Failed to download image for PMC11852594__biomolecules-15-00223-g002 after 3 attempts.
+
+2025-07-14 16:00:10 - Failed to download image for PMC11852594__biomolecules-15-00223-g003 after 3 attempts.
+
+2025-07-14 16:01:44 - Failed to download image for PMC11852430__biomedicines-13-00327-g001 after 3 attempts.
+
+2025-07-14 16:01:51 - Failed to download image for PMC11852430__biomedicines-13-00327-g002 after 3 attempts.
+
+2025-07-14 16:01:59 - Failed to download image for PMC11852430__biomedicines-13-00327-g003 after 3 attempts.
+
+2025-07-14 16:06:32 - Failed to download image for PMC11852151__antioxidants-14-00156-g004a after 3 attempts.
+
+2025-07-14 16:06:40 - Failed to download image for PMC11852151__antioxidants-14-00156-g005 after 3 attempts.
+
+2025-07-14 16:06:47 - Failed to download image for PMC11852151__antioxidants-14-00156-g010 after 3 attempts.
+
+2025-07-14 16:06:55 - Failed to download image for PMC11852151__antioxidants-14-00156-g011 after 3 attempts.
+
+2025-07-14 16:09:09 - Failed to download image for PMC11852166__bioengineering-12-00120-g004 after 3 attempts.
+
+2025-07-14 16:12:50 - Failed to download image for PMC11852603__biomolecules-15-00165-g004 after 3 attempts.
+
+2025-07-14 16:13:27 - Failed to download image for PMC11852436__biomedicines-13-00279-g002 after 3 attempts.
+
+2025-07-14 16:15:18 - Failed to download image for PMC11092615__nihpp-2024.04.29.591726v2-f0002 after 3 attempts.
+
+2025-07-14 16:17:14 - Failed to download image for PMC11851894__bioengineering-12-00096-g004a after 3 attempts.
+
+2025-07-14 16:17:22 - Failed to download image for PMC11851894__bioengineering-12-00096-g005 after 3 attempts.
+
+2025-07-14 16:17:30 - Failed to download image for PMC11851894__bioengineering-12-00096-g006 after 3 attempts.
+
+2025-07-14 16:18:17 - Failed to download image for PMC11852140__biomedicines-13-00251-g003 after 3 attempts.
+
+2025-07-14 16:18:25 - Failed to download image for PMC11852140__biomedicines-13-00251-g005 after 3 attempts.
+
+2025-07-14 16:18:32 - Failed to download image for PMC11852140__biomedicines-13-00251-g007 after 3 attempts.
+
+2025-07-14 16:18:41 - Failed to download image for PMC11852140__biomedicines-13-00251-g009 after 3 attempts.
+
+2025-07-14 16:25:18 - Failed to download image for PMC11118447__nihpp-2024.05.11.593693v3-f0001 after 3 attempts.
+
+2025-07-14 16:25:25 - Failed to download image for PMC11118447__nihpp-2024.05.11.593693v3-f0007 after 3 attempts.
+
+2025-07-14 16:30:39 - Failed to download image for PMC11014553__nihpp-2024.04.04.588144v3-f0002 after 3 attempts.
+
+2025-07-14 16:44:22 - New pathway figures downloaded: 2335
+
+2025-07-14 16:44:22 - NCBI PMC Figure Fetcher completed
+
+2025-07-14 16:44:22 - ==========================================================
+
+2025-07-14 16:44:26 - Starting NCBI PMC Figure Fetcher
+
+2025-07-14 16:44:26 - Configuration loaded from query_config.yml
+
+2025-07-14 16:44:26 - PMC search query: (((((((((((signaling pathway[Figure/Table Caption]) OR signalling pathway[Figure/Table Caption]) OR regulatory pathway[Figure/Table Caption]) OR disease pathway[Figure/Table Caption]) OR drug pathway[Figure/Table Caption]) OR metabolic pathway[Figure/Table Caption]) OR biosynthetic pathway[Figure/Table Caption]) OR synthesis pathway[Figure/Table Caption]) OR cancer pathway[Figure/Table Caption]) OR response pathway[Figure/Table Caption]) OR cycle pathway[Figure/Table Caption])) AND (2025/02/03[PUBDATE] : 2025/03/03[PUBDATE])
+
+2025-07-14 16:45:07 - PMC search completed. Fetched 1325 results (max set to 3000).
+
+2025-07-14 16:45:21 - Extracted 9022 figures from XML content.
+
+2025-07-14 16:45:21 - Identified 2675 pathway figures.
+
+2025-07-14 16:45:21 - Skipped 111 figures previously processed.
+
+2025-07-14 16:45:21 - Processed 2564 pathway figures for download.
+
+2025-07-14 17:07:59 - Failed to download image for PMC11092657__nihpp-2024.05.01.592016v2-f0003 after 3 attempts.
+
+2025-07-14 17:08:06 - Failed to download image for PMC11092657__nihpp-2024.05.01.592016v2-f0004 after 3 attempts.
+
+2025-07-14 17:08:58 - Failed to download image for PMC11851913__animals-15-00581-g004 after 3 attempts.
+
+2025-07-14 17:09:06 - Failed to download image for PMC11851913__animals-15-00581-g006 after 3 attempts.
+
+2025-07-14 17:10:10 - Failed to download image for PMC10312744__nihpp-2023.06.16.545321v2-f0001 after 3 attempts.
+
+2025-07-14 17:10:18 - Failed to download image for PMC10312744__nihpp-2023.06.16.545321v2-f0010 after 3 attempts.
+
+2025-07-14 17:10:25 - Failed to download image for PMC10312744__nihpp-2023.06.16.545321v2-f0011 after 3 attempts.
+
+2025-07-14 17:14:19 - Failed to download image for PMC11852681__biomedicines-13-00482-g007 after 3 attempts.
+
+2025-07-14 17:16:23 - Failed to download image for PMC11852077__antioxidants-14-00217-g004 after 3 attempts.
+
+2025-07-14 17:16:30 - Failed to download image for PMC11852077__antioxidants-14-00217-g005 after 3 attempts.
+
+2025-07-14 17:16:39 - Failed to download image for PMC11852077__antioxidants-14-00217-g006 after 3 attempts.
+
+2025-07-14 17:16:53 - Failed to download image for PMC11852077__antioxidants-14-00217-g007a after 3 attempts.
+
+2025-07-14 17:17:39 - Failed to download image for PMC11852254__animals-15-00559-g005 after 3 attempts.
+
+2025-07-14 17:18:20 - Failed to download image for PMC11852612__biomolecules-15-00285-g006 after 3 attempts.
+
+2025-07-14 17:19:59 - Failed to download image for PMC11851988__antioxidants-14-00213-g001 after 3 attempts.
+
+2025-07-14 17:21:43 - Failed to download image for PMC11852153__animals-15-00506-g010 after 3 attempts.
+
+2025-07-14 17:23:14 - Failed to download image for PMC11852493__biomolecules-15-00263-g002 after 3 attempts.
+
+2025-07-14 17:23:21 - Failed to download image for PMC11852493__biomolecules-15-00263-g003 after 3 attempts.
+
+2025-07-14 17:23:29 - Failed to download image for PMC11852493__biomolecules-15-00263-g004 after 3 attempts.
+
+2025-07-14 17:23:36 - Failed to download image for PMC11852493__biomolecules-15-00263-g005 after 3 attempts.
+
+2025-07-14 17:23:44 - Failed to download image for PMC11852493__biomolecules-15-00263-g006 after 3 attempts.
+
+2025-07-14 17:24:29 - Failed to download image for PMC11852052__biology-14-00184-g009 after 3 attempts.
+
+2025-07-14 17:28:19 - Failed to download image for PMC11852789__biomolecules-15-00248-g002 after 3 attempts.
+
+2025-07-14 17:28:26 - Failed to download image for PMC11852789__biomolecules-15-00248-g001 after 3 attempts.
+
+2025-07-14 17:28:34 - Failed to download image for PMC11852789__biomolecules-15-00248-g004 after 3 attempts.
+
+2025-07-14 17:38:20 - Failed to download image for PMC11852594__biomolecules-15-00223-g002 after 3 attempts.
+
+2025-07-14 17:38:28 - Failed to download image for PMC11852594__biomolecules-15-00223-g003 after 3 attempts.
+
+2025-07-14 17:38:41 - New pathway figures downloaded: 2537
+
+2025-07-14 17:38:41 - NCBI PMC Figure Fetcher completed
+
+2025-07-14 17:38:41 - ==========================================================
+
+2025-07-14 17:38:54 - Starting NCBI PMC Figure Fetcher
+
+2025-07-14 17:38:54 - Configuration loaded from query_config.yml
+
+2025-07-14 17:38:54 - PMC search query: (((((((((((signaling pathway[Figure/Table Caption]) OR signalling pathway[Figure/Table Caption]) OR regulatory pathway[Figure/Table Caption]) OR disease pathway[Figure/Table Caption]) OR drug pathway[Figure/Table Caption]) OR metabolic pathway[Figure/Table Caption]) OR biosynthetic pathway[Figure/Table Caption]) OR synthesis pathway[Figure/Table Caption]) OR cancer pathway[Figure/Table Caption]) OR response pathway[Figure/Table Caption]) OR cycle pathway[Figure/Table Caption])) AND (2025/03/03[PUBDATE] : 2025/04/03[PUBDATE])
+
+2025-07-14 17:39:21 - PMC search completed. Fetched 1461 results (max set to 3000).
+
+2025-07-14 17:39:38 - Extracted 9749 figures from XML content.
+
+2025-07-14 17:39:38 - Identified 2955 pathway figures.
+
+2025-07-14 17:39:38 - Skipped 116 figures previously processed.
+
+2025-07-14 17:39:38 - Processed 2839 pathway figures for download.
+
+2025-07-14 18:44:53 - Failed to download image for PMC11188117__nihpp-2024.06.12.598563v3-f0002 after 3 attempts.
+
+2025-07-14 18:45:01 - Failed to download image for PMC11188117__nihpp-2024.06.12.598563v3-f0004 after 3 attempts.
+
+2025-07-14 18:45:08 - Failed to download image for PMC11188117__nihpp-2024.06.12.598563v3-f0005 after 3 attempts.
+
+2025-07-14 18:45:15 - Failed to download image for PMC11188117__nihpp-2024.06.12.598563v3-f0006 after 3 attempts.
+
+2025-07-14 18:45:24 - Failed to download image for PMC11188117__nihpp-2024.06.12.598563v3-f0007 after 3 attempts.
+
+2025-07-14 18:48:59 - New pathway figures downloaded: 2834
+
+2025-07-14 18:48:59 - NCBI PMC Figure Fetcher completed
+
+2025-07-14 18:48:59 - ==========================================================
+
+2025-07-14 19:50:23 - Starting NCBI PMC Figure Fetcher
+
+2025-07-14 19:50:23 - Configuration loaded from query_config.yml
+
+2025-07-14 19:50:23 - PMC search query: (((((((((((signaling pathway[Figure/Table Caption]) OR signalling pathway[Figure/Table Caption]) OR regulatory pathway[Figure/Table Caption]) OR disease pathway[Figure/Table Caption]) OR drug pathway[Figure/Table Caption]) OR metabolic pathway[Figure/Table Caption]) OR biosynthetic pathway[Figure/Table Caption]) OR synthesis pathway[Figure/Table Caption]) OR cancer pathway[Figure/Table Caption]) OR response pathway[Figure/Table Caption]) OR cycle pathway[Figure/Table Caption])) AND (2025/04/03[PUBDATE] : 2025/05/03[PUBDATE])
+
+2025-07-14 19:50:48 - PMC search completed. Fetched 1344 results (max set to 3000).
+
+2025-07-14 19:51:03 - Extracted 9115 figures from XML content.
+
+2025-07-14 19:51:03 - Identified 2664 pathway figures.
+
+2025-07-14 19:51:03 - Skipped 72 figures previously processed.
+
+2025-07-14 19:51:03 - Processed 2592 pathway figures for download.
+
+2025-07-14 20:40:36 - New pathway figures downloaded: 2592
+
+2025-07-14 20:40:36 - NCBI PMC Figure Fetcher completed
+
+2025-07-14 20:40:36 - ==========================================================
+
+2025-07-14 21:04:32 - Starting NCBI PMC Figure Fetcher
+
+2025-07-14 21:04:32 - Configuration loaded from query_config.yml
+
+2025-07-14 21:04:32 - PMC search query: (((((((((((signaling pathway[Figure/Table Caption]) OR signalling pathway[Figure/Table Caption]) OR regulatory pathway[Figure/Table Caption]) OR disease pathway[Figure/Table Caption]) OR drug pathway[Figure/Table Caption]) OR metabolic pathway[Figure/Table Caption]) OR biosynthetic pathway[Figure/Table Caption]) OR synthesis pathway[Figure/Table Caption]) OR cancer pathway[Figure/Table Caption]) OR response pathway[Figure/Table Caption]) OR cycle pathway[Figure/Table Caption])) AND (2025/05/03[PUBDATE] : 2025/06/03[PUBDATE])
+
+2025-07-14 21:04:57 - PMC search completed. Fetched 1352 results (max set to 3000).
+
+2025-07-14 21:05:12 - Extracted 9110 figures from XML content.
+
+2025-07-14 21:05:12 - Identified 2691 pathway figures.
+
+2025-07-14 21:05:12 - Skipped 34 figures previously processed.
+
+2025-07-14 21:05:12 - Processed 2657 pathway figures for download.
+
+2025-07-14 21:22:34 - Failed to download image for PMC12139816__NA after 3 attempts.
+
+2025-07-14 21:22:41 - Failed to download image for PMC12139816__NA after 3 attempts.
+
+2025-07-14 21:22:48 - Failed to download image for PMC12139816__NA after 3 attempts.
+
+2025-07-14 22:05:30 - New pathway figures downloaded: 2654
+
+2025-07-14 22:05:30 - NCBI PMC Figure Fetcher completed
+
+2025-07-14 22:05:30 - ==========================================================
+
+2025-07-14 22:05:36 - Starting NCBI PMC Figure Fetcher
+
+2025-07-14 22:05:36 - Configuration loaded from query_config.yml
+
+2025-07-14 22:05:36 - Final stretch, then deactivating cycle.
+
+2025-07-14 22:05:36 - PMC search query: (((((((((((signaling pathway[Figure/Table Caption]) OR signalling pathway[Figure/Table Caption]) OR regulatory pathway[Figure/Table Caption]) OR disease pathway[Figure/Table Caption]) OR drug pathway[Figure/Table Caption]) OR metabolic pathway[Figure/Table Caption]) OR biosynthetic pathway[Figure/Table Caption]) OR synthesis pathway[Figure/Table Caption]) OR cancer pathway[Figure/Table Caption]) OR response pathway[Figure/Table Caption]) OR cycle pathway[Figure/Table Caption])) AND (2025/06/03[PUBDATE] : 3000/01/01[PUBDATE])
+
+2025-07-14 22:06:08 - PMC search completed. Fetched 1319 results (max set to 3000).
+
+2025-07-14 22:06:23 - Extracted 8981 figures from XML content.
+
+2025-07-14 22:06:23 - Identified 2677 pathway figures.
+
+2025-07-14 22:06:23 - Skipped 102 figures previously processed.
+
+2025-07-14 22:06:23 - Processed 2575 pathway figures for download.
+
+2025-07-14 22:55:36 - Failed to download image for PMC10055258__nihpp-2023.03.20.533581v3-f0005 after 3 attempts.
+
+2025-07-14 22:55:44 - Failed to download image for PMC10055258__nihpp-2023.03.20.533581v3-f0006 after 3 attempts.
+
+2025-07-14 22:55:57 - New pathway figures downloaded: 2573
+
+2025-07-14 22:55:57 - NCBI PMC Figure Fetcher completed
+
+2025-07-14 22:55:57 - ==========================================================
+

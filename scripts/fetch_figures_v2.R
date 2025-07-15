@@ -249,8 +249,8 @@ extract_figures <- function(xml_content, exfigids) {
     
     # Extract PMCID and DOI for this article
     doi <- xml_text(xml_find_first(article, ".//article-id[@pub-id-type='doi']"))
-    pmcid <- xml_text(xml_find_first(article, ".//article-id[@pub-id-type='pmc']"))
-    pmcid <- paste0("PMC", pmcid)
+    pmcid <- xml_text(xml_find_first(article, ".//article-id[@pub-id-type='pmcid']"))
+    #pmcid <- paste0("PMC", pmcid)
     
     # Extract figures for this article
     figs <- xml_find_all(article, ".//fig")    
@@ -339,9 +339,10 @@ extract_figures <- function(xml_content, exfigids) {
         # Extract xlink:href
         graphic_node <- xml_find_first(fig, ".//graphic")
         xlink_href <- xml_attr(graphic_node, "href")
+        xlink_href <- gsub("\\.jpg$", "", xlink_href)
         
         # Create derived values
-        image_url <- paste0("https://www.ncbi.nlm.nih.gov/pmc/articles/",
+        image_url <- paste0("https://europepmc.org/articles/",
                             pmcid,
                             "/bin/",
                             xlink_href,
