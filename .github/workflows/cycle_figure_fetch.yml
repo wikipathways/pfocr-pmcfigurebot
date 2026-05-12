@@ -5,6 +5,8 @@ on:
   schedule:
   - cron: "0 1-7 1-3 1,4,7,10 *" # For 9PM-3AM ET (1-7 AM UTC), for the first 3 days of every Jan, Apr, Jul, Oct.
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
  
 concurrency:
   group: ${{ github.workflow }}-${{ github.head_ref || github.ref }}
