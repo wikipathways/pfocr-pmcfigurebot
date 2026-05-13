@@ -168,8 +168,9 @@ extract_figure_data <- function(xml, figure_number) {
   # Extract image URL
   graphic_node <- xml_find_first(target_fig, ".//graphic")
   xlink_href <- xml_attr(graphic_node, "href")
-  image_url <- paste0("https://www.ncbi.nlm.nih.gov/pmc/articles/",
-                      pmcid, "/bin/", xlink_href, ".jpg")
+  image_url <- paste0("https://europepmc.org/api/fulltextRepo?pmcId=",
+                      pmcid, "&type=FILE&fileName=", xlink_href,
+                      ".jpg&mimeType=image/jpg")
   
   # Create figid and figure_link
   figid <- paste(pmcid, xlink_href, sep="__")
@@ -209,7 +210,7 @@ process_figure <- function(figure_data, output_dir = "figures") {
   # Download image
   tryCatch({
     response <- GET(figure_data$image_url, 
-                    user_agent("fetch_this_figure_v2/1.0 (alex.pico@gladstone.ucsf.edu)"),
+                    user_agent("fetch_this_figure_v2/1.0 (ayushi.agrawal@gladstone.ucsf.edu)"),
                     write_disk(filepath, overwrite = TRUE),
                     timeout(30))
     
