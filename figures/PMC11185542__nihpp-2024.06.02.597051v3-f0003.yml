@@ -1,0 +1,53 @@
+---
+figid: PMC11185542__nihpp-2024.06.02.597051v3-f0003
+pmcid: PMC11185542
+image_filename: jpg
+figure_link: /pmc/articles/PMC11185542/figure/F3/
+number: Figure 3.
+figure_title: Nsp2 maintains a genetic interaction with MLEC and protein-protein interactions
+  with MLEC-associated protein complexes during infection
+caption: A. Schematic of the role of MLEC in glycoprotein quality control.B. Comparison
+  of MHV-WT vs. MHV-del2 (nsp2 deleted) infectious titers in siMlec vs. Scramble-treated
+  DBT cells, expressed as Log10 fold change. MHV-WT (MOI 0.1, 10 hpi) or MHV-del2
+  (MOI 0.5, 10 hpi). n = 3–5, with Mann-Whitney T-test for significance, p <0.05 considered
+  significant. See Figure S8.C. Volcano plot of MHV GFP-nsp2 interactome during infection
+  (MOI 1, 9 hpi). Comparison to MHV-WT i fected cells was used as a background control
+  for the GFP-IP. Linear filters of Log2 fold change > 1 and adjusted p-value > 0.05
+  were applied. Viral proteins (purple), OST complex factors (green), and translocon
+  factors (blue) are annotated. MHV-GFP2 (n = 8 IPs), MHV-WT (n = 7 IPs) combined
+  in 1 MS run. One-way ANOVA with multiple testing corrections was used for significance.
+  See Figure S9, Table S3.D. Schematic of FT-MLEC construct design and IP-MS experimental
+  design. FT-MLEC construct is composed of an N-terminal signal sequence (SS), followed
+  by a FLAG-tag, and the MLEC luminal domain. There is a 10-residue-long transmembrane
+  helix with a short 2 amino acid long cytosolic C-terminal tail. Stably expressing
+  FT-MLEC or WT DBT cells were infected with MHV (MOI 2.5, 9 hpi) and subjected to
+  DSP (0.5 mM) crosslinking, before lysis and FLAG IP. Elutions were reduced, alkylated,
+  trypsin digested, and analyzed by LC-MS/MS. Parental DBT and MHV (n = 4 IPs), FT-MLEC
+  DBT and mock (n = 6 IPs), FT-MLEC DBT and MHV (n = 6 IPs/condition), pooled into
+  1 MS run. See Figure S10.E. Volcano plot of FT-MLEC interactors during MHV infection.
+  Samples were normalized to total peptide amounts. Linear filters of Log2 fold change
+  > 1 or < −1 and adjusted p-value > 0.05 were applied. Viral proteins and MLEC (purple),
+  downregulated (red), and OST complex factors (green) are annotated. T-test with
+  multiple testing corrections for significance. See Figure S11, Table S4.F. Waterfall
+  plot of FT-MLEC interactome comparing MHV versus mock infection. Samples were normalized
+  to FT-MLEC bait levels. Components of the OST complex (green), the glycoprotein
+  processing pathway (orange), and the five most downregulated interactors (red) are
+  annotated. See Figure S11
+article_title: The glycoprotein quality control factor Malectin promotes coronavirus
+  replication and viral protein biogenesis
+citation: Jonathan P. Davies, et al. bioRxiv. 2025 Aug 11;NA(NA).
+year: '2025'
+pub_date: 2025-8-11
+epub_date: 2025-8-11
+doi: 10.1101/2024.06.02.597051
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Coronavirus
+- malectin
+- affinity-purification mass spectrometry (AP-MS)
+- oligosaccharyltransferase (OST) complex
+- Biochemistry and Chemical Biology
+- Microbiology and Infectious Disease
+---

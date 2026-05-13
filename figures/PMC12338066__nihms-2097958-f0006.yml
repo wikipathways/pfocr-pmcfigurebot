@@ -1,0 +1,35 @@
+---
+figid: PMC12338066__nihms-2097958-f0006
+pmcid: PMC12338066
+image_filename: jpg
+figure_link: /pmc/articles/PMC12338066/figure/F5/
+number: Figure 5.
+figure_title: Myeloid populations in sRCC
+caption: (A) tSNE reduction of myeloid cells.(B) Relative abundance of clusters. Color
+  scheme parallels Figure 5A.(C) Heatmap of myeloid-associated genes classified by
+  function and/or phenotype.(D) Differential gene expression between sRCC- and ccRCC-derived
+  myeloid cells.(E) Intracellular signaling networks between lymphoid and myeloid
+  populations in sRCC. *Significantly enriched information flow in sRCC vs. ccRCC
+  (p<0.05). Wilcoxon Signed-Rank Test.(F) Ligand-receptor interactions between immune
+  populations in sRCC & ccRCC. p<0.01 for all interactions.(G) Select gene ontology
+  processes significantly enriched in sRCC by cellular communication overrepresentation
+  analysis via scDiffComm.(H) Differential expression of FCGR3A in sRCC relative to
+  epithelioid RCCs in bulk transcriptomic datasets. All presented q values <0.25.
+  *q<0.05; ***q<0.001.(I) Select FCGR pathways enriched in sRCC samples. All presented
+  q values <0.25. ***q<0.001.(J) Enrichment of phagocytosis gene set expression in
+  sarcomatoid (red) vs. clear cell (blue) regions profiled by Visium spatial transcriptomics.(K)
+  Schematic of phagocytosis assays performed.(L) CTV uptake by T cells and myeloid
+  cells following incubation with or without serum. Paired t-test.See also Figures
+  S5–6 and Tables S2 and S5
+article_title: Comprehensive Tumor-Immune Profiling Reveals Mediators of Paradoxical
+  Immune Sensitivity in Sarcomatoid Renal Cell Carcinoma
+citation: Nicholas J Salgia, et al. Cancer Cell. 2025 Nov 10;43(11).
+year: '2025'
+pub_date: '2025-11-10'
+epub_date: 2025-8-07
+doi: 10.1016/j.ccell.2025.07.010
+journal_title: Cancer cell
+journal_nlm_ta: Cancer Cell
+publisher_name: .na.character
+keywords: []
+---

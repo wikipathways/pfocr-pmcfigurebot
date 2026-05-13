@@ -1,0 +1,46 @@
+---
+figid: PMC12487850__jciinsight-10-194497-g052
+pmcid: PMC12487850
+image_filename: jpg
+figure_link: /pmc/articles/PMC12487850/figure/F5/
+number: Figure 5
+figure_title: GLP-2 analog treatment selectively expands Tregs and activates growth-associated
+  signaling pathways in the CD4+ compartment
+caption: '(A) Uniform manifold approximation and projection (UMAP) visualization of
+  CD4+ T cells identified using CD4. Data from 4 patients at 0 months (0M), 6M, and
+  12M include a total of 7,093 cells: case 1 (2,990 cells), case 2 (1,697 cells),
+  case 3 (1,703 cells), and case 5 (703 cells). Cells were clustered into 9 groups,
+  color-coded by metadata. (B) Expression patterns of key genes in CD4+ T cell clusters.
+  Each dot represents a gene, where color intensity indicates the scaled expression
+  level in each cluster, and dot size represents the percentage of cells expressing
+  the gene. (C) Cell distributions at 0M (1,772 cells), 6M (2,916 cells), and 12M
+  (2,405 cells). (D) Proportion of each cluster in CD4+ T cells at 0M, 6M, and 12M.
+  (E) The percentage of Th1-CXCR3 cells, Th1-TBX21 cells, T regulatory cells (Tregs),
+  Th17 cells, and Th2 cells at 0M, 6M, and 12M. (F) Comparison of differentially expressed
+  gene (DEG) sets related to Gene Ontology (GO) Biological Process (BP) across 0M,
+  6M, and 12M using compareCluster. Significantly enriched GO terms (y-axis) with
+  P < 0.01 and q < 0.05 are visualized as dot plots. (G) Comparison of DEG sets related
+  to biological pathways based on WikiPathways (WP) across 0M, 6M, and 12M using compareCluster.
+  Significantly enriched pathways (y-axis) with P < 0.05 and q < 0.2 are visualized
+  as dot plots. (F and G) Numbers below the column name represent the number of genes
+  related to GOBP (F) or WP (G) for each cluster. Dot size represents the gene ratio
+  (proportion of DEGs), and color indicates the adjusted P value. The 2-tailed paired
+  Student’s t test was used to compare cluster proportions (E). compareCluster analysis
+  was performed using Over-Representation Analysis (ORA) based on a hypergeometric
+  test. Multiple-testing correction was applied using the Benjamini-Hochberg (BH)
+  method to control the false discovery rate (FDR) (F and G)'
+article_title: Longitudinal single-cell analysis of glucagon-like peptide-2 treatment
+  in patients with short bowel syndrome
+citation: Yumi Kudo, et al. JCI Insight. 2025 Aug 7;10(18).
+year: '2025'
+pub_date: 2025-8-7
+epub_date: 2025-8-7
+doi: 10.1172/jci.insight.194497
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Clinical Research
+- Gastroenterology
+- Drug therapy
+---

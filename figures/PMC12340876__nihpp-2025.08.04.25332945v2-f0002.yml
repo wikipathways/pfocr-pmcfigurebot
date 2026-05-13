@@ -1,0 +1,75 @@
+---
+figid: PMC12340876__nihpp-2025.08.04.25332945v2-f0002
+pmcid: PMC12340876
+image_filename: jpg
+figure_link: /pmc/articles/PMC12340876/figure/F2/
+number: 'Fig. 2:'
+figure_title: APOE4-associated proteins in GNPC (plasma Somalogic)
+caption: 'a. Volcano plot for proteins associated with APOE4 without adjusting for
+  AD diagnosis, with red representing significant association after FDR correction.
+  At y-axis, -log10(FDR) above 300 was set to 300 for a better visualization. b. Volcano
+  plot shows proteins associated with AD diagnosis without adjusting for APOE4, with
+  red representing significant association after FDR correction. c. UpSet plot shows
+  the number of proteins associated with APOE4 or AD with or without adjusting for
+  each other, blue indicating AD-specific associated proteins, red indicates APOE4-specific
+  associated proteins, black indicates the number of proteins independently associated
+  with both. d. Heatmap shows the mediation effects and significance of APOE4-associated
+  proteins that are involved in the 2 mediation paths. Color indicates the strength
+  of the mediation effect, the darker the color, the bigger the mediation proportion
+  at each path. Proteins at x-axis are categorized and labeled according to their
+  significance in 2 paths (protein-mediated pathway: APOE4 => protein => AD diagnosis,
+  AD-mediated pathway: APOE4 => AD diagnosis => protein), with those exhibiting significance
+  in both paths further classified by the strength of the mediation effect. Proteins
+  were marked in red if their protein-mediated pathway was significant alone (after
+  FDR correction) or if the protein-mediated pathway exhibited a stronger mediating
+  effect (when indirect effects in both mediation paths are significant after FDR
+  correction). Proteins were marked in blue if their AD-mediated pathway was significant
+  alone (after FDR correction) or if the AD-mediated pathway exhibited a stronger
+  mediating effect (when indirect effects in both mediation paths are significant
+  after FDR correction). Additionally, bold font indicates a total mediation effect
+  and non-bold font indicates a partial mediation effect in the preferred (same color)
+  path. For heatmap annotations, *represents nominal significant, *+ represents significant
+  after FDR correction. e. Scatter plot shows APOE4’s effect size on protein without
+  adjusting AD diagnosis in whole cohort (x-axis) vs. in CU individuals (y-axis) for
+  each protein. The Spearman correlation coefficient (R = 0.622, p < 1e-16) indicates
+  a moderate positive correlation between the effect sizes. Red represents proteins
+  associated with APOE4 in both the whole cohort and in the CU group. f. The scatter
+  plot shows the effect of APOE4 on proteins in CU (x-axis) vs. the effect of AD on
+  proteins in ε3ε3 carriers (y-axis); Only proteins associated with APOE4 in CU individuals
+  and with AD diagnosis in ε3ε3 carriers were visualized. Red indicates the same effect
+  direction while blue indicates an opposite effect direction. g. BINN-enriched reactome
+  pathway analysis for proteins associated with APOE4 in both the whole cohort and
+  in CU. The darker the dot, the more important the protein and the pathway in the
+  deep learning model predicting AD dementia diagnosis. More features are hidden in
+  the sink for a better visualization. h. Venn plot shows the number of proteins in
+  each category. Note that 78 proteins were specifically associated proteins in panel
+  c, 7 proteins partially mediated the effect of APOE4 on AD diagnosis, and were therefore
+  subdivided into mediator-proteins group; 2 proteins were partially mediated by AD
+  pathology, and were therefore reassigned into AD-mediated proteins. i. The linear
+  discriminant score plot shows the projection score of all tested proteins in the
+  discriminant direction. Proteins were colored by assigned groups. j. The integrative
+  matrix summarizes differential regulation (red for upregulated and blue for downregulated
+  proteins in APOE4 carriers), cell-type enrichment based on scaled RNA expression,
+  and functional characterization of each protein. Cell types from the ROSMAP atlas
+  are labeled in black on the x-axis, while those from the Human Brain Vascular atlas
+  are labeled in red. Gray boxes indicate nominal significance (p<0.05), and black
+  boxes indicate FDR-corrected significance (pFDR<0.05) in cell-type enrichment analysis.
+  Gene Ontology (GO) biological process terms associated with each protein were grouped
+  into broader representative categories; small red boxes indicate the involvement
+  of a given protein in the corresponding process. Protein–protein interactions (PPIs)
+  are annotated using STRING database interactions with a confidence score≥0.7. The
+  number of interactions per protein is shown as a heatmap, and direct interactions
+  between proteins are represented by lines, color-coded according to their assigned
+  cluster'
+article_title: Proteomic signatures of the APOE ε4 and APOE ε2 genetic variants and
+  Alzheimer’s disease
+citation: Lina Lu, et al. medRxiv. 2025 Aug 25;NA(NA).
+year: '2025'
+pub_date: 2025-8-25
+epub_date: 2025-8-25
+doi: 10.1101/2025.08.04.25332945
+journal_title: medRxiv
+journal_nlm_ta: medRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

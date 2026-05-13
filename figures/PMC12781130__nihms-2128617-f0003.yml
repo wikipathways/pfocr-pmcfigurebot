@@ -1,0 +1,39 @@
+---
+figid: PMC12781130__nihms-2128617-f0003
+pmcid: PMC12781130
+image_filename: jpg
+figure_link: /pmc/articles/PMC12781130/figure/F3/
+number: Fig. 3 ∣
+figure_title: Cytoplasmic PXR interacts with RNH1 to stabilize mRNA
+caption: a, Schematic representation of the evaluation of RNA stability in WT and
+  PXR-KO LS174T cells. After starvation for 48 h with CDS-FBS, cells were treated
+  with 1 μM actinomycin D (ActD) for 2 h and 4 h, respectively, and total RNA was
+  isolated. b, Pearson correlation analysis of gene expression changes induced by
+  cytoplasmic PXR (PXR KO versus WT) and RNA stability changes (RNA degradation rate
+  under ActD treatment) in a. The 95% confidence interval for the regression estimate
+  is shown. c, Pie chat showing the overlap between PXR-bound RNAs, PXR-stabilized
+  RNAs and PXR’s transcriptional targets. d, Enrichr pathway analysis using significantly
+  downregulated genes in PXR-KO LS174T cells cultured with CDS-FBS (fold changeKO/WT
+  < −1.5 and Cuffdiff P < 0.05). NOD, nucleotide-binding oligomerization domain. e,
+  Genomic track of representative PXR-bound RNA peaks from eCLIP-seq results in WT
+  and PXR-KO LS174T cells. Luc, luciferase. f, RT–qPCR analysis of PXR post-transcriptionally
+  regulated RNAs in WT and PXR-KO LS174T cells. Error bars indicate the mean ± s.d.
+  (n = 3 technical replicates). g, RNA EMSA of recombinant PXR protein and DyLight-labeled
+  RNA oligos (40 nt) as indicated. h, RNA stability reporter assays of PXR-bound RNAs.
+  The reporter constructs carrying the 3′UTRs as indicated, HA–PXR plasmid and siRNH1
+  duplexes were cotransfected in 293T cells for 24 h and luciferase activities were
+  measured. An empty vector and siCtrl served as controls. Error bars indicate the
+  mean ± s.d. (n = 3 biological replicates). Statistical analysis was conducted using
+  a two-tailed unpaired t-test. Panel a created with BioRender.com
+article_title: Cytoplasmic PXR regulates glucose metabolism by binding mRNAs and modulating
+  their stability
+citation: Xiaofei Wang, et al. Nat Struct Mol Biol. 2025 Nov;32(11).
+year: '2025'
+pub_date: 2025-11-
+epub_date: 2025-8-12
+doi: 10.1038/s41594-025-01614-5
+journal_title: Nature structural & molecular biology
+journal_nlm_ta: Nat Struct Mol Biol
+publisher_name: .na.character
+keywords: []
+---

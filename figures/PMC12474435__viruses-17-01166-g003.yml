@@ -1,0 +1,35 @@
+---
+figid: PMC12474435__viruses-17-01166-g003
+pmcid: PMC12474435
+image_filename: jpg
+figure_link: /pmc/articles/PMC12474435/figure/F3/
+number: Figure 3
+figure_title: Functional enrichment analysis of genes associated with transcription
+  factors, based on KEGG 2021 Human pathways.
+caption: Functional enrichment analysis of genes associated with transcription factors,
+  based on KEGG 2021 Human pathways. (A) UMAP (Uniform Manifold Approximation and
+  Projection) visualization displays the clustering of genes based on pathway-level
+  functional enrichment. Each cluster represents a significantly enriched KEGG pathway
+  and is annotated with a distinct color-coded label. Prominent pathways include Wnt
+  signaling, cellular senescence, axon guidance, and transcriptional misregulation
+  in cancer, among others. This spatial distribution reflects the underlying transcriptional
+  programs and their associated biological functions. (B) Bar chart showing the top
+  significantly enriched KEGG pathways, ranked by statistical significance (−log10
+  (p-value)). Pathways such as cGMP-PKG signaling, oxytocin signaling, and Wnt signaling
+  appear among the most highly enriched, underscoring their potential relevance in
+  the transcriptional regulation associated with disease processes
+article_title: 'HPV as a Molecular Hacker: Computational Exploration of HPV-Driven
+  Changes in Host Regulatory Networks'
+citation: Massimiliano Chetta, et al. Viruses. 2025 Sep;17(9).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-8-27
+doi: 10.3390/v17091166
+journal_title: Viruses
+journal_nlm_ta: Viruses
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- HPV (Human Papillomavirus)
+- transcription factor binding sites (TFBSs)
+- transcription factors (TFs)
+---

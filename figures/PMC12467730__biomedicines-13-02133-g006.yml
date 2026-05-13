@@ -1,0 +1,32 @@
+---
+figid: PMC12467730__biomedicines-13-02133-g006
+pmcid: PMC12467730
+image_filename: jpg
+figure_link: /pmc/articles/PMC12467730/figure/F6/
+number: Figure 6
+figure_title: Gene set enrichment analysis (GSEA) of four shared immune-related pathways.
+caption: Gene set enrichment analysis (GSEA) of four shared immune-related pathways.
+  Normalized enrichment scores (NESs) are shown for COVID-19 and epilepsy. Cytokine
+  signaling was the only pathway significantly enriched in both conditions (FDR <
+  0.05), whereas NF-κB signaling, Toll-like receptor signaling, and leukocyte migration
+  did not reach statistical significance (FDR > 0.05). Exact NES and FDR values are
+  indicated. The small black dots at the ends of the bars represent FDR < 0.05, indicating
+  statistical significance
+article_title: 'CX3CR1–TLR4 Axis as a Shared Neuroimmune Target in COVID-19 and Epilepsy:
+  Integrative Transcriptomics and Gabapentin Repositioning'
+citation: Nannan Pan, et al. Biomedicines. 2025 Sep;13(9).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-8-31
+doi: 10.3390/biomedicines13092133
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- epilepsy
+- COVID-19
+- CX3CR1
+- TLR4
+- neuroinflammation
+- gabapentin
+---

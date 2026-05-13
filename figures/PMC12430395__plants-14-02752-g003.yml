@@ -1,0 +1,35 @@
+---
+figid: PMC12430395__plants-14-02752-g003
+pmcid: PMC12430395
+image_filename: jpg
+figure_link: /pmc/articles/PMC12430395/figure/F3/
+number: Figure 3
+figure_title: Functional enrichment analysis of DELs and their target DEGs in IR25
+  and LTH after rice blast infection.
+caption: Functional enrichment analysis of DELs and their target DEGs in IR25 and
+  LTH after rice blast infection. (A) Bar charts showing the number of DEGs and differentially
+  expressed lncRNAs (DELs), with upregulated genes in red and downregulated genes
+  in blue. (B) Venn diagrams of differentially expressed lncRNAs (DELs) between LTH
+  and IR25 before and after inoculation (fold change > 1.5, p-value < 0.05). (C–E)
+  Functional analysis of putative target genes predicted for uniquely expressed DELs
+  in IR25 and LTH, including GO enrichment analysis (D,F) and KEGG pathway enrichment
+  analysis. The top 20 significant GO terms were selected based on a p.adjust < 0.05
+  cutoff, and the top 10 KEGG pathways were selected with the same significance threshold
+article_title: Identification of Rice LncRNAs and Their Roles in the Rice Blast Resistance
+  Network Using Transcriptome and Translatome
+citation: Xiaoliang Shan, et al. Plants (Basel). 2025 Sep;14(17).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-9-03
+doi: 10.3390/plants14172752
+journal_title: Plants
+journal_nlm_ta: Plants (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- long non-coding RNAs
+- Magnaporthe oryzae
+- plant immunity
+- ceRNA
+- WGCNA
+- hormone signaling
+---

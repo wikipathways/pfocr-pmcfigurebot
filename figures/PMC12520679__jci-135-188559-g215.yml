@@ -1,0 +1,37 @@
+---
+figid: PMC12520679__jci-135-188559-g215
+pmcid: PMC12520679
+image_filename: jpg
+figure_link: /pmc/articles/PMC12520679/figure/F3/
+number: Figure 3
+figure_title: Carmn promotes angiogenic activity by activating the hedgehog signaling
+  pathway
+caption: (A) Scatter plot showing results of a principal component analysis (PCA)
+  of transformed count data from RNA-seq samples. In vitro represents WT or Carmn
+  KO SMCs. In vivo represents WT or Carmn-KO gastrocnemius muscles after 14 days of
+  FAL. (B) Heatmaps of top-30 upregulated (P < 0.01 & log2FC ≥ 0.58) and top-30 downregulated
+  (P < 0.01 & log2FC < –0.58) transcripts. The transcripts are prioritized based on
+  their fold-change values, and the upper and lower panels represent upregulated and
+  downregulated transcripts, respectively. (C) Venn diagrams representing common upregulated
+  and downregulated transcripts for in vitro and in vivo groups. Red and blue colors
+  represent up- and downregulated transcripts. (D) Plot of top-20 significantly enriched
+  pathways (P < 0.05). The triangles pointing up are activated (Z > 0), triangles
+  pointing down are inhibited (Z < 0); circles represent pathways with unknown activation
+  status (Z = 0)
+article_title: A smooth muscle cell lncRNA controls angiogenesis in chronic limb-threatening
+  ischemia through miR-143-3p/HHIP signaling
+citation: Ming Zhai, et al. J Clin Invest. 2025 Aug 28;135(20).
+year: '2025'
+pub_date: 2025-8-28
+epub_date: 2025-8-28
+doi: 10.1172/JCI188559
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Angiogenesis
+- Vascular biology
+- Cardiovascular disease
+- Endothelial cells
+- Noncoding RNAs
+---

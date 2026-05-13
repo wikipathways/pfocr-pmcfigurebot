@@ -1,0 +1,37 @@
+---
+figid: PMC12687369__nihms-2109134-f0003
+pmcid: PMC12687369
+image_filename: jpg
+figure_link: /pmc/articles/PMC12687369/figure/F3/
+number: Figure 3.
+figure_title: The early and late wave of activity-dependent transcription is divergent
+  in C9-NRE i3Neurons
+caption: (A) Schema of the experimental time points of depolarization of i3Neurons
+  prior to harvesting for RNA isolation. (B) RNA Sequencing was performed on KCl-stimulated
+  i3Neurons, and differentially expressed genes (DEGs) were identified using DESeq2.
+  Pairwise comparisons were performed between 0 hours KCl (TTX only) and 2 hours KCl
+  or 6 hours KCl for both Control and C9-NRE i3Neurons. The heatmap shows the gene
+  expression (scaled by z-score) of all DEGs between listed comparisons. (C) Differential
+  gene expression for the early wave of activity-dependent gene transcription, between
+  0 hours KCl vs 2 hours KCl for both control or C9-NRE i3Neurons was performed. The
+  number of genes uniquely up-regulated or down-regulated in control or C9-NRE i3Neurons
+  are shown in the Venn diagrams. (D) Pathway and gene ontology (GO) analysis were
+  performed on the uniquely up- and down- regulated genes from the comparisons in
+  (C). (E) Differential gene expression for the late wave of activity-dependent gene
+  transcription between 0 KCl vs 6 KCl for both control or C9-NRE i3Neurons was performed.
+  The number of genes uniquely up-regulated or down-regulated in control or C9-NRE
+  i3Neurons are shown in the Venn diagrams. (F) Pathway and gene ontology (GO) analysis
+  were performed on the uniquely up- and down- regulated genes from the comparisons
+  in (E)
+article_title: Neuronal Activity-Dependent Gene Dysregulation in C9orf72 i3Neuronal
+  Models of ALS/FTD Pathogenesis
+citation: Layla T. Ghaffari, et al. Am J Physiol Cell Physiol. 2025 Oct 01;329(4).
+year: '2025'
+pub_date: '2025-10-01'
+epub_date: 2025-8-28
+doi: 10.1152/ajpcell.00238.2025
+journal_title: American journal of physiology. Cell physiology
+journal_nlm_ta: Am J Physiol Cell Physiol
+publisher_name: .na.character
+keywords: []
+---

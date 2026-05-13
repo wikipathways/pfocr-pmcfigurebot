@@ -1,0 +1,39 @@
+---
+figid: PMC12427429__cancers-17-02842-g003
+pmcid: PMC12427429
+image_filename: jpg
+figure_link: /pmc/articles/PMC12427429/figure/F3/
+number: Figure 3
+figure_title: Dose- and time- dependency of the HUVEC transcriptomes on IR.
+caption: Dose- and time- dependency of the HUVEC transcriptomes on IR. HUVECs were
+  exposed to 2 or 5 Gy IR, and RNA was isolated and sequenced at 24 or 72 h after
+  IR. The global transcriptomic profiles of irradiated samples were compared with
+  their corresponding controls (no IR) and across experimental conditions (dose and
+  time after the exposure). (a) Heatmap presenting unsupervised hierarchical clustering
+  of all genes across control and irradiated samples. Gene expression values were
+  normalized and scaled to Z-scores to highlight relative expression changes. (b)
+  Bar plot presenting the number of significantly differentially expressed genes in
+  each comparison. Adjusted p-value of <0.05 and fold change (FC) of >1.5 (up-regulation)
+  or FC of <0.67 (down-regulation) were considered as significance thresholds. (c,d)
+  Venn diagrams presenting number of significantly enriched pathways identified by
+  KEGG analysis shared between samples analyzed at 24 and 72 h after 2 Gy (c) and
+  5 Gy (d) (See Supplementary Tables S1 and S2). Enrichment was considered statistically
+  significant at p-values of <0.05. n = 5 per group. KEGG—Functional Kyoto Encyclopedia
+  of Genes and Genomes
+article_title: 'Time- and Dose-Dependent Effects of Irradiation on Endothelial and
+  Tumor Endothelial Cells: Transcriptional, Molecular, and Functional Changes Driving
+  Activation In Vitro and In Vivo'
+citation: Iva Santek, et al. Cancers (Basel). 2025 Sep;17(17).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-8-29
+doi: 10.3390/cancers17172842
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- endothelial cell activation
+- irradiation
+- radiotherapy
+- tumor vasculature
+---

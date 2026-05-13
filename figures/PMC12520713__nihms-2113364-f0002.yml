@@ -1,0 +1,37 @@
+---
+figid: PMC12520713__nihms-2113364-f0002
+pmcid: PMC12520713
+image_filename: jpg
+figure_link: /pmc/articles/PMC12520713/figure/F1/
+number: Figure 1.
+figure_title: Single-cell sequencing reveals altered immune parameters in AD colons
+caption: (A) Thirty-one-point frailty index scores comparing 5XFAD (square) with WT
+  (circle) female mice at specified ages, n = 5 per group.(B) Body weight of 12-month-old
+  5XFAD and WT mice, n = 10 per group. Error bars represent means ± SEM; pairwise
+  comparisons were conducted using Student’s t test with a Welch’s correction; p values
+  under 0.25 have been specified and denoted as ns or *p < 0.05 and **p < 0.01.(C)
+  Schematic workflow of scRNA-seq experiments.(D) Volcano plot of differentially expressed
+  genes (DEGs) across all immune cell types between WT and 5XFAD. DEGs (including
+  log2 fold change [log2FC] and adj. p value [adj. p]) were calculated by the MAST
+  method. Plotted adj. p cutoff is 0.05, and log2FC cutoff is 0.5.(E) KEGG pathway
+  scores of significantly (adj. p cutoff is 0.05) downregulated (left) and upregulated
+  (right) DEGs evaluated using g:Profiler using an ordered query.(F) UMAP plot of
+  colon-derived CD45 immune cell single-cell transcriptomes (10× Genomics) pooled
+  together as described in (C) from WT and 5XFAD mice. Cells were resolved into 17
+  distinct clusters.(G) Quantification of relative abundance of each cluster of single
+  immune cells by log2FC between WT and 5XFAD mice.(H) UMAP of pseudotime trajectory
+  analysis of WT and 5XFAD colon B cells. White circles represent the root node designated
+  at naive B cells (cluster 0). Black lines depict branch pathways, where cells travel
+  to a variety of predicted outcomes from intersecting points
+article_title: Amyloid-β-driven Alzheimer’s disease reshapes the colonic immune system
+  in mice
+citation: Priya Makhijani, et al. Cell Rep. 2025 Sep 23;44(9).
+year: '2025'
+pub_date: 2025-9-23
+epub_date: 2025-8-30
+doi: 10.1016/j.celrep.2025.116109
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

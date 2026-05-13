@@ -1,0 +1,41 @@
+---
+figid: PMC12487863__jciinsight-10-190756-g062
+pmcid: PMC12487863
+image_filename: jpg
+figure_link: /pmc/articles/PMC12487863/figure/F1/
+number: Figure 1
+figure_title: MIF drives atrial macrophage recruitment in poAF
+caption: (A) scRNA-Seq comparing atrial nonmyocytes from Sh (n = 3) versus TAF (n
+  = 3) mice revealed MIF as a top communication pathway. (B) Reclustering of AFB and
+  macrophages with (C) quantification of Mif expression. Data shown as mean ± IQR.
+  (D and E) MIF inhibition with 4-IPP (50 mg/kg/d) prevented poAF in mice (χ2 test).
+  Number of mice per group is denoted in E. Atrial macrophage accumulation by (F)
+  F4/80 protein (N = 6 per group) and (G) flow cytometry (N = 4 per group) were attenuated
+  by 4-IPP without changes in CXCR2 (N = 6 per group). P values were derived from
+  1-way ANOVA followed by Tukey’s. (H) MIF was elevated in PF from poAF (N = 11) versus
+  SR (N = 6) patients 24 hours after cardiac surgery (2-sample 2-tailed t test). (I)
+  Treatment of THP-1 monocytes (N = 4 per group) with PF (1:10 dilution) for 6 hours
+  increased STAT3-Tyr705 phosphorylation, which was attenuated by 30 minutes of 100
+  μM 4-IPP pretreatment (1-way ANOVA followed by Tukey’s). AFB, atrial fibroblast;
+  EC, endothelial cell; FB, fibroblast; Mac, macrophage; MIF-i, macrophage migration
+  inhibitory factor inhibitor; norm exp, normalized expression; PF, pericardial fluid;
+  poAF, postoperative atrial fibrillation; scRNA-Seq, single-cell RNA sequencing;
+  Sh, sham; SR, sinus rhythm; TAF, thoracotomy atrial fibrillation; UMAP, uniform
+  manifold approximation and projection
+article_title: Atrial fibroblast–derived macrophage migration inhibitory factor promotes
+  atrial macrophage accumulation in postoperative atrial fibrillation
+citation: Joshua A. Keefe, et al. JCI Insight. 2025 Aug 14;10(18).
+year: '2025'
+pub_date: 2025-8-14
+epub_date: 2025-8-14
+doi: 10.1172/jci.insight.190756
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Cardiology
+- Immunology
+- Arrhythmias
+- Macrophages
+- Surgery
+---

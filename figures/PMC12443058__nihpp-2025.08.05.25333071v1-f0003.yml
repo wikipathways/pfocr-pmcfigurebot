@@ -1,0 +1,35 @@
+---
+figid: PMC12443058__nihpp-2025.08.05.25333071v1-f0003
+pmcid: PMC12443058
+image_filename: jpg
+figure_link: /pmc/articles/PMC12443058/figure/F3/
+number: 'Figure 3:'
+figure_title: TCR similarity and Bulk RNA seq co-expression network analysisA.
+caption: 'TCR similarity and Bulk RNA seq co-expression network analysisA. The CDR3
+  library was generated from cells of pwMS and split into a discovery and validation
+  cohort. Gene expression was compared with TCR clustering coefficient. In the validation
+  cohort, 70 genes showed positive or negative correlations with clustering coefficient.
+  WGCNA (weighted gene co-expression network analysis) was analyzed and control data
+  were used to separate out age and gender effects by regression analysis. The CSF
+  cell proportion in flow cytometry data were compared with WGCNA module score to
+  annotate CSF cell type to each module. B. Volcano plot showed 26 genes with positive
+  correlation with TCR clustering coefficient (red) and 44 genes with negative correlation
+  (blue) in the validation cohort. C. WGCNA generated 18 modules which were clustered
+  by using module eigengene score in MS. Pathway of each module were detected by using
+  Reactome and CSF cell annotation was done as follows: 1. Comparison with cell proportion
+  based on flow cytometric data (yellow) and 2. CellMarker for genes in module (pink).
+  3. Cell annotation was shown with red if it met both 1 and 2 strategies. D. CD8A,
+  NKG7, GZMH, GZMK, and F2R were shared between cytotoxicity module (module 14) in
+  WGCNA and genes showing positive correlation with TCR clustering coefficient'
+article_title: Intrathecally expanded GZMK+/GZMH+ CD8 T cells targeting EBV antigens
+  may reduce severity of Multiple Sclerosis
+citation: Shinji Ashida, et al. medRxiv. 2025 Aug 08;NA(NA).
+year: '2025'
+pub_date: 2025-8-08
+epub_date: 2025-8-08
+doi: 10.1101/2025.08.05.25333071
+journal_title: medRxiv
+journal_nlm_ta: medRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

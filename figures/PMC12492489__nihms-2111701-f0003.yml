@@ -1,0 +1,50 @@
+---
+figid: PMC12492489__nihms-2111701-f0003
+pmcid: PMC12492489
+image_filename: jpg
+figure_link: /pmc/articles/PMC12492489/figure/F3/
+number: 'Fig. 3:'
+figure_title: SATB1 deficiency disrupts the maintenance of the TPRO subset during
+  the chronic phase of viral infection
+caption: 'a, Representative flow plot displaying the frequencies of sgCtrl (control;
+  orange) and sgSatb1 ( SATB1-deficient; blue) splenic P14 cells on day 21 p.i. b-d,
+  Representative flow plots (b), summary of the subset distribution (c), and cell
+  number (d) of TPRO (Ly108+ CX3CR1−), TEFF (Ly108− CX3CR1+), and TEXH (Ly108− CX3CR1−)
+  in splenic P14 cells (n = 9). e, Representative flow plot and summary of TPRO1 (Ly108+
+  CD62L+) and TPRO2 (Ly108+ CD62L−) frequencies in splenic P14 cells. f, Ratio of
+  TPRO P14 cell frequency (Day x / Day 8) in sgCtrl and sgSatb1 splenic P14 cells
+  at indicated time point (n = 9 biological replicate for each timepoint; ratio of
+  Dx/D8 TPRO % was calculated from each biological replicate at different timepoint;
+  data point represent mean ± s.d.). g, Flow plot and summary of TCF-1 expression
+  in sgCtrl and sgSatb1 splenic P14 cells (n = 5). h, Heatmaps of differentially expressed
+  genes (DEGs) between sgCtrl and sgSatb1 P14 cells (adjusted p value < 0.05); selected
+  DEGs in each category are indicated. i, GSEA of pluripotency of stem cell from KEGG
+  (Kyoto Encyclopedia of Genes and Genomes, Pathway ID: mmu04550) between sgCtrl and
+  sgSatb1 P14 cells. j, Experimental design utilizing CRISPR-mediated Satb1 deletion
+  (sgSatb1; blue cell) or CD19 deletion as a control (sgCtrl; orange cell) in TPRO
+  P14 CD8+ T cells to assess their differentiation trajectory following adoptive transfer
+  into infection-matched recipient mice. k, Representative flow plot and summary of
+  splenic P14 percentage in sgCtrl vs. sgSatb1 (n = 7). l, Representative flow plots
+  and summary of subset distribution of TPRO (Ly108+ CX3CR1−), TEFF (Ly108− CX3CR1+),
+  and TEXH (Ly108− CX3CR1−) in splenic P14 cells on day 28 p.i. m-n, Summary of percentage
+  of subset distribution (m) and cell number of each subset (n) (n = 7). Data in a-g
+  and j-n are representative of 2-3 independent experiments. All data points (n) represent
+  individual mice as biological replicates; exact P-values are shown in each graph;
+  two-sided multiple paired t-test with Holm-Šídák correction was used in c-g, and
+  m. two-sided paired Student’s t-test was used in k'
+article_title: SATB1 is a key regulator of quiescence in stem-like CD8+ T cells
+citation: Siying Lin, et al. Nat Immunol. 2025 Oct;26(10).
+year: '2025'
+pub_date: 2025-10-
+epub_date: 2025-8-22
+doi: 10.1038/s41590-025-02257-w
+journal_title: Nature immunology
+journal_nlm_ta: Nat Immunol
+publisher_name: .na.character
+keywords:
+- stem-like CD8+ T cells
+- quiescence
+- chronic viral infection
+- epigenetic regulation
+- SATB1
+---

@@ -1,0 +1,30 @@
+---
+figid: PMC12520673__jci-135-188839-g107
+pmcid: PMC12520673
+image_filename: jpg
+figure_link: /pmc/articles/PMC12520673/figure/F3/
+number: Figure 3
+figure_title: Differential gene expression and pathway modulation in persister cells
+caption: (A) Schematics of the experimental workflow for isolating persister cells
+  based on geminin degron expression for RNA-Seq analysis. (B and C) Heatmaps showing
+  the expression levels of E2F (B) and Myc (C) target genes in persister cells treated
+  with palbociclib (1 μM), SY5609 (50 nM), or their combination. (D) Dot plot illustrating
+  significantly enriched or depleted hallmark gene sets in persister cells treated
+  with palbociclib (1 μM) + SY5609 (50 nM) combination compared with untreated controls.
+  Enrichment was determined by adjusted P < 0.05 and FDR < 0.25. Dot size indicates
+  gene count, and color indicates adjusted P values
+article_title: Dual targeting of CDK4/6 and CDK7 augments tumor response and antitumor
+  immunity in breast cancer models
+citation: Sungsoo Kim, et al. J Clin Invest. 2025 Aug 12;135(20).
+year: '2025'
+pub_date: 2025-8-12
+epub_date: 2025-8-12
+doi: 10.1172/JCI188839
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Cell biology
+- Oncology
+- Breast cancer
+---

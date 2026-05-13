@@ -1,0 +1,29 @@
+---
+figid: PMC12435534__nihms-2107944-f0004
+pmcid: PMC12435534
+image_filename: jpg
+figure_link: /pmc/articles/PMC12435534/figure/F3/
+number: Figure 3.
+figure_title: Transcriptomic analysis of bulk RNA-Seq in geCHO cells expressing sE1E2
+caption: (A) Bulk RNA-Seq was performed on geCHO cell clones expressing sE1E2, with
+  respective parental cell lines serving as negative controls. Using the DESeq2 package
+  in RStudio, we compared producer cell lines to their parental cell lines. The transcriptomic
+  analysis revealed approximately >2,500 differentially expressed genes in CTRL and
+  CL1 individually (red dots) compared to their respective parental cell lines (blue
+  dots) (p-adjusted < 0.05 and Log2(fold-change) > 0) as visualized in the volcano
+  plots. (B) Gene Ontology enrichment analysis focused on biological processes across
+  statistically significant genes in all producer cell lines. The analysis uncovered
+  enriched pathways predominantly associated with cellular processes involving mitotic
+  cell cycle process, mRNA/DNA processes, and intracellular transport mechanisms
+article_title: Enhanced Production of HCV E1E2 Subunit Vaccine Candidates via Protein-Protein
+  Interaction Identification in Glycoengineered CHO cells
+citation: Mina Ying Min Wu, et al. Biotechnol J. 2025 Sep;20(9).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-9-
+doi: 10.1002/biot.70112
+journal_title: Biotechnology journal
+journal_nlm_ta: Biotechnol J
+publisher_name: .na.character
+keywords: []
+---

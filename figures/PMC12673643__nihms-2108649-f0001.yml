@@ -1,0 +1,45 @@
+---
+figid: PMC12673643__nihms-2108649-f0001
+pmcid: PMC12673643
+image_filename: jpg
+figure_link: /pmc/articles/PMC12673643/figure/F1/
+number: 'Figure 1:'
+figure_title: A) Experimental design focused on assessing proteomic and phosphoproteomic
+  changes following nigericin triggering in 18 h KDO-Lipid A (KLA) primed, PMA differentiated
+  U937 macrophages.
+caption: A) Experimental design focused on assessing proteomic and phosphoproteomic
+  changes following nigericin triggering in 18 h KDO-Lipid A (KLA) primed, PMA differentiated
+  U937 macrophages. Samples were designed in drift replicates to assess batch effects
+  and parallel drift due to account for concurrent signaling. Cell pellets were washed
+  and lysed in 8M urea, protein was quantitated, and samples were processed via standardized
+  peptide generation via trypsin. Peptides were quantitated following graphite enrichment
+  and were split between global proteomic analysis and phospho-peptide enrichment
+  on sequential TiO2 and Fe-NTA.B) Capillary gel electrophoresis of IL-1β induction
+  by KLA and cleavage in response to nigericin as validation of prime and trigger
+  stimuli.C) ASC speck immunofluorescent imaging quantitation for indicated treatment
+  conditions and times to gauge correlative alterations with inflammasome formation.D)
+  Cell lysis assessment by Draq7 uptake to gauge correlative pathway kinetics to the
+  onset of pyroptotic cell lysis.E) PCA of proteins detected across samples run sequentially
+  on an Orbitrap Fusion Eclipse spectrometer. Colored ovals show untreated and KLA
+  treated samples (blue) and those treated with nigericin (pink).F) Corresponding
+  PCA axes from 1E following protein normalization and exclusion of 1 outlier sample
+  reduced variability by ~1 log.G) Protein distribution plot comparing raw (black
+  line) and normalized (red line) sample values for untreated (0 min).H) Missing-ness
+  calculation for proteins s over sample replicated following a 2/4 representation
+  cutoff prior to performing regressive imputation
+article_title: Nigericin-Triggered Phosphodynamics in Inflammasome Formation and Pyroptosis
+citation: Vanya Bhushan, et al. Proteomics. 2025 Sep 02;NA(NA).
+year: '2025'
+pub_date: 2025-9-02
+epub_date: 2025-9-02
+doi: 10.1002/pmic.70030
+journal_title: Proteomics
+journal_nlm_ta: Proteomics
+publisher_name: .na.character
+keywords:
+- Inflammation
+- Pyroptosis
+- MAPK
+- Phosphoproteomics
+- Inflammasome
+---

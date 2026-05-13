@@ -1,0 +1,49 @@
+---
+figid: PMC12818073__nihms-2130027-f0002
+pmcid: PMC12818073
+image_filename: jpg
+figure_link: /pmc/articles/PMC12818073/figure/F2/
+number: Fig. 2 |
+figure_title: Monocytes, monocyte-derived cells and their connectivity across the
+  MASLD/MASH spectrum
+caption: 'a,b, UMAPs of monocytes, macrophages and cDCs color coded by cell type (a)
+  and FNAs versus PBMCs (b) in cells as in Fig. 1b (clustering settings: 15 PCs; Louvain
+  resolution, 0.6). c, Heatmap showing the top differentially expressed genes of each
+  monocyte subcluster as in a. d, Pathway enrichment analysis for each monocyte subcluster
+  as in a. The one-sided hypergeometric test with Bonferroni’s correction was used.
+  DDX58, retinoic acid-inducible gene I (RIG-I); IFIH1, melanoma differentiation-associated
+  protein 5 (MDA5). e, Box plot showing M-MDSC scores in each cell per monocyte subcluster
+  for liver FNA cells as in a. Data are presented as median values (horizontal line),
+  25th or 75th quartile values (bounds of boxes) and nonoutlier minimum or maximum
+  (whiskers): CD16+ mono (n = 3,617), CD14+CD16+ mono (n = 3,608), immature mono (n
+  = 5,862), S100hi mono (n = 3,299), ISGhi mono (n = 2,575), inflammatory mono (n
+  = 299) and differentiating mono (n = 4,116). Two-sided Wilcoxon’s rank-sum test
+  relative to the reference group (S100hi mono) was used: ****P < 0.0001. f, Enrichment
+  of monocyte subsets as in a in liver FNA cells versus PBMCs. Data are presented
+  as observed log2(fold-changes) ± 95% bootstrap confidence intervals (CIs), n values
+  as in f, two-sided permutation test, significance determined as FDR < 0.05 and log2(FD)
+  > 0.58. g, Box plot showing the proportion of CD14+ monocyte subsets (immature mono,
+  S100hi mono, ISGhi mono and differentiation mono) in NS–SS (n = 6), early MASH (n
+  = 10) and advanced MASH (n = 9), shown as a percentage of liver FNA (nonparenchymal
+  cells) or PBMC sample per patient. Data are presented as median values (horizontal
+  line), 25th or 75th quartile values (bounds of boxes) and nonoutlier minimum or
+  maximum (whiskers); permutation test: *Significance determined by FDR < 0.05 and
+  log2(FD) > 0.58. h, Cluster connectivity by PAGA with immature monocytes as the
+  root node in a Reingold–Tilford tree plot layout for monocyte clusters as in a,
+  with CD14+ monocyte subsets highlighted in gray. i, Slingshot analysis showing pseudotime
+  progression of the monocyte or monocyte-derived cell lineage, shown by UMAP (left)
+  and strip plot (right). NS, not significant; ZAP-70, ζ-chain-associated protein
+  kinase 70'
+article_title: Single-cell atlas of human liver and blood immune cells across fatty
+  liver disease stages reveals distinct signatures linked to liver dysfunction and
+  fibrogenesis
+citation: Owen P. Martin, et al. Nat Immunol. 2025 Sep;26(9).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-8-29
+doi: 10.1038/s41590-025-02255-y
+journal_title: Nature immunology
+journal_nlm_ta: Nat Immunol
+publisher_name: .na.character
+keywords: []
+---

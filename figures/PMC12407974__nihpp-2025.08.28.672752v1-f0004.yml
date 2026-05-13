@@ -1,0 +1,51 @@
+---
+figid: PMC12407974__nihpp-2025.08.28.672752v1-f0004
+pmcid: PMC12407974
+image_filename: jpg
+figure_link: /pmc/articles/PMC12407974/figure/F4/
+number: Figure 4.
+figure_title: Identify the macrophage host factors that differentially interact with
+  delta variant N and omicron variant N through AP-MS
+caption: '(A). The schematic of AP-MS to identify specific host factors interacting
+  with delta variant N and omicron variant N in macrophages. The corresponding dox-inducible
+  THP-1 derived macrophages cell lines were either untreated or stimulated with dox
+  (2 μg/ml) for 48 hours to express delta or omicron variant N. The delta or omicron
+  N protein was immunoprecipitated with anti-myc antibodies conjugated on agarose
+  beads through N-terminally fused myc tags. The host factors that were co-immunoprecipitated
+  with the N proteins were later identified by LC-MS/MS.(B). Host factors that have
+  confidential interactions with the N proteins of SARS-CoV2 variants. The 39 identified
+  host proteins that pass the filtrations of SAINT BDFR ⩽0.05 and average spectral
+  count ⩾11 is calculated for their induction fold changes in delta N-expressing macrophages
+  vs control macrophages (dox-untreated cells) or omicron N-expressing macrophages
+  vs control macrophages (dox-untreated cells). The colors in the protein-protein
+  interaction (PPI) network reflect the comparison of delta Log2 FC vs omicron Log2
+  FC, showing the interaction strength of the host proteins to different variants
+  (Red: More interaction with delta variant N; Blue: More interaction with omicron
+  variant N). The dashed line in PPI network shows that the host protein interacts
+  at least one SARS-CoV2 variant N, while the solid line shows that the host protein
+  interacts with both delta and omicron N.(C). The functional annotation clusters
+  of confidential host interactors of N protein. The 39 host proteins in Fig. 4B were
+  evaluated for their relationship to annotation terms in gene ontology and pathway
+  analysis in DAVID database and grouped into annotation groups based on the Enrichment
+  scores. The functional annotation terms are listed on the y-axis and the FDR of
+  enrichment significance are ranged on the x-axis. The bars exceeding -log10(FDR)
+  cutoff (red line, FDR=0.05) shows significant enrichments.(D). Co-immunoprecipitation
+  validation of delta and omicron variant N protein interactors. HEK293T cells were
+  transfected with plasmids expressing myc tagged delta or omicron variant N protein
+  together with different host factors, including 3xFlag-cGAS (3F-cGAS), 3xFlag-PABP1
+  (3F-PABP1) and V5-IGF2BP2. Co-transfections of myc tagged delta/omicron variant
+  N protein with empty vector are served as controls. Twenty-four hours post transfection,
+  the cells were lysed and immunoprecipitated by anti-c-myc agarose beads. Immunoblot
+  was probed to check for delta or omicron variant N binding to these host factors'
+article_title: SARS-CoV-2 nucleocapsid induces hyperinflammation and vascular leakage
+  through the Toll-like receptor signaling axis in macrophages
+citation: Zhenlan Yao, et al. bioRxiv. 2025 Aug 28;NA(NA).
+year: '2025'
+pub_date: 2025-8-28
+epub_date: 2025-8-28
+doi: 10.1101/2025.08.28.672752
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

@@ -1,0 +1,40 @@
+---
+figid: PMC12407665__nihpp-2025.08.25.25333715v1-f0002
+pmcid: PMC12407665
+image_filename: jpg
+figure_link: /pmc/articles/PMC12407665/figure/F2/
+number: Figure 2.
+figure_title: Spatial proteomics reveals progressive molecular changes during fallopian
+  tube transformation
+caption: '(A) Principal component analysis of epithelial cell proteomes of normal
+  FT epithelium, FT precursors, HGSC, and corresponding metastasis (met). FOXJ1pos,
+  FOXJ1-positive. FOXJ1neg, FOXJ1-negative. P53, p53 signature.(B) K-means clustering
+  analysis of epithelial proteins in seven clusters, excluding FOXJ1pos and metastasis
+  (Table S2C). Heatmap of normalized protein abundance (z-score) across different
+  cell states. Scale indicates relative protein expression levels.(C) Gene set enrichment
+  analysis (GSEA) of pathway alterations during disease progression (Table S2E). Circle
+  size indicates enrichment significance (logarithm of the FDR values); color intensity
+  represents normalized enrichment score (fold-change).(D) Single protein abundance
+  plots for core SUMO machinery and E3 ligases along the disease trajectory. Data
+  shown as mean ± SEM.(E) Heatmap. Protein levels of the specific REACTOME pathway
+  “SUMOlyation of DNA damage response and repair proteins” across the indicated sample
+  types. Columns represent individual samples; rows represent proteins. The scale
+  indicates normalized protein abundance. Protein names are displayed alternating
+  between the left and right sides of the heatmap.(F-G) Protein abundance of TRIP13
+  and CBY1 by proteomics (F) and immunohistochemistry (G). In G: black dashed line:
+  STIC. Red dashed line: invasive HGSC. Arrow, apical expression of CBY1 in normal
+  FT epithelium. Arrowhead, lack of expression of CBY1 in STIC.(H) Volcano plot comparing
+  protein expression of epithelial cells in STIC lesions from women without (STIC_only)
+  and with (HG_STIC) concurrent HGSC (Table S2B). FDR < 0.05, fold change > 1.5'
+article_title: Integration of cell-type resolved spatial proteomics and transcriptomics
+  reveals novel mechanisms in early ovarian cancer
+citation: Andreas Metousis, et al. medRxiv. 2025 Aug 28;NA(NA).
+year: '2025'
+pub_date: 2025-8-28
+epub_date: 2025-8-28
+doi: 10.1101/2025.08.25.25333715
+journal_title: medRxiv
+journal_nlm_ta: medRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

@@ -1,0 +1,32 @@
+---
+figid: PMC12456228__nihms-2112171-f0006
+pmcid: PMC12456228
+image_filename: jpg
+figure_link: /pmc/articles/PMC12456228/figure/F6/
+number: Fig. 6.
+figure_title: 'Scattering crosstalk measured by a CMOS image sensor placed in the
+  detection pathway for highly anisotropic brain tissue at depths (a), (d), (g), and
+  (j) 0 μm; (b), (e), (h), and (k) 30 μm; and (c), (f), (i), and (l) 100 μm when illuminated
+  with a single beam corresponding to the SiPM #3 detection path.'
+caption: 'Scattering crosstalk measured by a CMOS image sensor placed in the detection
+  pathway for highly anisotropic brain tissue at depths (a), (d), (g), and (j) 0 μm;
+  (b), (e), (h), and (k) 30 μm; and (c), (f), (i), and (l) 100 μm when illuminated
+  with a single beam corresponding to the SiPM #3 detection path. (a)–(c) Two-photon
+  fluorescence images of brain tissue captured with only one excitation path for the
+  respective depths. (d)–(f) CMOS images show crosstalk onto adjacent channels and
+  (g)–(i) show the corresponding contrast enhanced images. (j)–(l) Light collected
+  across the 4 SiPM active areas is plotted, showing increased crosstalk as depth
+  increases due to the strong forward scattering in brain tissue resulting in a long
+  transport mean-free path length'
+article_title: High area and volumetric throughput parallel two-photon fluorescence
+  microscopy using silicon photomultiplier arrays
+citation: Vincent D. Ching-Roa, et al. Photonics Res. 2025 Sep 01;13(9).
+year: '2025'
+pub_date: 2025-9-01
+epub_date: 2025-8-29
+doi: 10.1364/prj.546289
+journal_title: Photonics research
+journal_nlm_ta: Photonics Res
+publisher_name: .na.character
+keywords: []
+---

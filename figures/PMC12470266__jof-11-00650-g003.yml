@@ -1,0 +1,35 @@
+---
+figid: PMC12470266__jof-11-00650-g003
+pmcid: PMC12470266
+image_filename: jpg
+figure_link: /pmc/articles/PMC12470266/figure/F3/
+number: Figure 3
+figure_title: Graph of differentially expressed genes analyzed in group B\A.
+caption: Graph of differentially expressed genes analyzed in group B\A. (a) the Venn
+  diagram of gene co-expression. The graphs showed the number of genes uniquely expressed
+  in each group, and the overlapping areas showed the number of genes co-expressed
+  in two groups. (b) the volcano map of differential genes. The X-axis was the log2Fold
+  Change value, and the Y-axis was the −log10 padj or −log10 p-value. The blue dashed
+  line indicated the threshold line for the differential gene screening criteria.
+  (c) the scatter plot of GO pathway enrichment. (d) the scatter plot of KEGG pathway
+  enrichment. In (c,d), the X-axis was the Gene Ratio, and the Y-axis was the name
+  of the pathway. The size of the padj was indicated by the color of the dots. The
+  smaller the padj was, the closer the color was to red. The number of differential
+  genes contained under each pathway was indicated by the size of the dots
+article_title: Harnessing Epigenetic Modifiers Reveals MAPK-Mediated Regulation Mechanisms
+  in Hadal Fungi of Alternaria alternata Under High Hydrostatic Pressure
+citation: Qingqing Peng, et al. J Fungi (Basel). 2025 Sep;11(9).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-9-02
+doi: 10.3390/jof11090650
+journal_title: Journal of Fungi
+journal_nlm_ta: J Fungi (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- epigenetic modification
+- Alternaria alternata
+- high hydrostatic pressure
+- transcriptomic analysis
+- regulation mechanism
+---

@@ -1,0 +1,35 @@
+---
+figid: PMC12407716__nihpp-2025.08.24.671964v1-f0010
+pmcid: PMC12407716
+image_filename: jpg
+figure_link: /pmc/articles/PMC12407716/figure/F10/
+number: Figure 10.
+figure_title: Differentially Abundant Metabolites Between F.
+caption: Differentially Abundant Metabolites Between F. violacea Extracts and Juices.
+  Dendrogram and intensity heatmap of differentially abundant metabolites (log2-fold
+  change > 1 and FDR < 0.05) between sample processing methods with intensities greater
+  than 1 million. The dendrogram was constructed using Tanimoto dissimilarity based
+  on PubChem fingerprints. Leaf labels indicate the PubChem CID of each metabolite
+  (if available), with natural product biosynthetic pathway classification shown in
+  parentheses. Black heatmap tiles indicate metabolites that were not detected in
+  the respective sample (intensity < 10,000). A bar graph of log2-fold change is displayed
+  to the right of the heatmap, with colors representing the group in which each compound
+  is enriched. M = million
+article_title: Untargeted Metabolomics Reveals Organ-Specific and Extraction-Dependent
+  Metabolite Profiles in Endemic Tajik Species Ferula violacea Korovin
+citation: Sylhiya Mavlonazarova, et al. bioRxiv. 2025 Aug 27;10(3).
+year: '2025'
+pub_date: 2025-8-27
+epub_date: 2025-8-27
+doi: 10.1101/2025.08.24.671964
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- phytochemical diversity
+- sesquiterpenoids
+- daucane sesquiterpenoids
+- alkaloids
+- Ferula violacea
+- roots, seeds
+---

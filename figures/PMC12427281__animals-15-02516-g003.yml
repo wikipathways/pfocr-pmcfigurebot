@@ -1,0 +1,46 @@
+---
+figid: PMC12427281__animals-15-02516-g003
+pmcid: PMC12427281
+image_filename: jpg
+figure_link: /pmc/articles/PMC12427281/figure/F3/
+number: Figure 3
+figure_title: Overview of Candidate Gene GO and KEGG Enrichment Analysis.
+caption: 'Overview of Candidate Gene GO and KEGG Enrichment Analysis. (A) GO Enrichment
+  Analysis Bubble Plot: The three categories of GO terms (Biological Process, Cellular
+  Component, and Molecular Function) are shown. The x-axis represents the-log10 (p-value),
+  and the y-axis lists the significant GO terms. The color of the bubbles ranges from
+  red to blue, indicating p-values from large to small (dark blue represents more
+  significant terms). The size of each bubble reflects the number of candidate genes
+  enriched in that GO term. (B) KEGG Pathway Enrichment Bubble Plot: The x-axis is
+  also-log10 (p-value), and the y-axis represents significant pathways. The size of
+  the bubbles indicates the number of candidate genes involved, and the color represents
+  the significance of the enrichment. (C) GO Pathway–Gene Network Diagram: Yellow
+  solid circular nodes represent the GO pathways, and gray solid circular nodes represent
+  the genes. The connecting lines show the participation of genes in the corresponding
+  GO terms. The term “response to unfolded protein” is highlighted in red to emphasize
+  its key role in the candidate gene set. (D) KEGG Pathway–Gene Network Diagram: Yellow
+  solid circular nodes represent KEGG pathways, and gray solid circular nodes represent
+  genes. Connecting lines indicate participation relationships. The “Butanoate metabolism”
+  pathway is highlighted in red, with the ACSM family gene region prominently displayed,
+  underscoring its potential functional role in milk fat metabolism'
+article_title: Population Genetic Structure, Historical Effective Population Size,
+  and Dairy Trait Selection Signatures in Chinese Red Steppe and Holstein Cattle
+citation: Peng Niu, et al. Animals (Basel). 2025 Sep;15(17).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-8-27
+doi: 10.3390/ani15172516
+journal_title: 'Animals : an Open Access Journal from MDPI'
+journal_nlm_ta: Animals (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- Chinese red steppe cattle
+- Holstein cattle
+- population structure
+- effective population size
+- SMC++
+- FST
+- XP-CLR
+- butanoate metabolism
+- ACSM genes
+---

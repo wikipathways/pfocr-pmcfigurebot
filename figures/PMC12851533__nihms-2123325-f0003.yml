@@ -1,0 +1,49 @@
+---
+figid: PMC12851533__nihms-2123325-f0003
+pmcid: PMC12851533
+image_filename: jpg
+figure_link: /pmc/articles/PMC12851533/figure/F3/
+number: Fig. 3.
+figure_title: Neutrophil transcriptomics connects AATD signaling with NEV transcriptional
+  programming
+caption: 'A. Neutrophils were isolated from the plasma of AATD individuals and healthy
+  controls (n = 4 individuals per group), followed by RNA profiling to identify altered
+  EV signaling programs and subsequently affected lung pathways by projecting into
+  GIANT’s functional tissue network. B. K-means clustering on the top 500 most varied
+  transcripts after aligning to extracellular vesicle associated transcripts, projected
+  into the associated Principal Component Analysis (PCA) space. C. Unifold Maximum
+  Associated Projection (UMAP) analysis of the AATD cohort cluster to indicate structural
+  gene expression through their gene clusters (GC). D. Similar UMAP analysis of the
+  healthy cohort. E. Heatmap visualization of transcripts differentiating abundance
+  between AATD and healthy cohorts through edgeR. SERPINA1 and associated metabolic
+  markers are highlighted in purple. F. Functional enrichment analysis performed by
+  gProfiler to indicate the connection between neutrophil dysregulation and extracellular
+  vesicles. FDR <0.05 was used to filter for the enriched pathways. G. Network plot
+  displaying differentially expressed genes from AATD neutrophil transcriptomics mapped
+  onto the GIANT lung tissue signaling network. Nodes represent genes color-coded
+  by their upstream molecular context: Light blue: EV metabolite-associated genes
+  in neutrophils. Pink: Metabolic genes connected to the EV metabolite genes that
+  were identified in lung tissue signaling. Orange: Primary gene connections to metabolic
+  genes identified in lung tissue signaling. Edges denote functional or co-expression
+  relationships inferred by GIANT. H. Pathway analysis of AATD neutrophil RNA-seq
+  data associated with lung tissue. Enriched pathways identified in neutrophils include
+  toll like receptor (TLR), interleukin, and Nuclear Factor-κB (NF-κB) signaling pathways,
+  and neutrophil degranulation associated with phosphoinositide-3 kinase-regulated
+  pathway-AKT (PIP3-AKT) signaling'
+article_title: Neutrophil-derived extracellular vesicles in the plasma of alpha-1
+  antitrypsin deficient individuals reveal pro-inflammatory metabolic and transcriptomic
+  signatures
+citation: Zachary F. Greenberg, et al. Extracell Vesicle. 2025 Dec;6(NA).
+year: '2025'
+pub_date: 2025-12-
+epub_date: 2025-8-26
+doi: 10.1016/j.vesic.2025.100093
+journal_title: Extracellular vesicle
+journal_nlm_ta: Extracell Vesicle
+publisher_name: .na.character
+keywords:
+- Multi-OMICs
+- AATD
+- Extracellular vesicles
+- Functional tissue networks
+---

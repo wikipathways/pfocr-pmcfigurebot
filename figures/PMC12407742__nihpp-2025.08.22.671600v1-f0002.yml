@@ -1,0 +1,33 @@
+---
+figid: PMC12407742__nihpp-2025.08.22.671600v1-f0002
+pmcid: PMC12407742
+image_filename: jpg
+figure_link: /pmc/articles/PMC12407742/figure/F2/
+number: 'Figure 2:'
+figure_title: B12 increases innate inflammatory gene expression and expansion of Tet2-deficient
+  pro-inflammatory myeloid cells
+caption: (A) UMAP plots of scRNAseq classified using Immgen cell references with clustifyr
+  from CD45.2+CD11b+ sort-purified splenic cells of Tet2+/− BM reconstituted mice
+  supplemented with low (left) and high (right) B12.(B) Relative frequency of cells
+  in each cluster per B12 supplemented group.(C) Global pseudotime analysis of cells
+  across both treatment groups.(D) Average gene expression of the top 20 cluster-defining
+  markers in B12 high and B12 low supplemented conditions.(E) UMAP plots of relative
+  expression of S100a8, Lyz2, Il1b, and Cxcl2 split by treatment arm and scaled to
+  the maximum value.(F) Violin plots of normalized expression of S100a8 across all
+  clusters.(G) Volcano plot of differentially expressed genes (DEGs) from Monocyte
+  (Cluster 3&5) and Neutrophil (Clusters 0 and 6) cells with a significance cutoff
+  of padj < 0.05 in blue (down in B12 high) or red (up in B12 high).(H) Enriched gene
+  sets of DEGs in the Neutrophil and Monocyte clusters from Reactome Pathway Database.
+  Significance cutoff of padj < 0.05
+article_title: B12 promotes gut dysbiosis and an inflammatory microenvironment that
+  potentiates Tet2-deficient hematopoiesis
+citation: PD Lyon, et al. bioRxiv. 2025 Aug 27;NA(NA).
+year: '2025'
+pub_date: 2025-8-27
+epub_date: 2025-8-27
+doi: 10.1101/2025.08.22.671600
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

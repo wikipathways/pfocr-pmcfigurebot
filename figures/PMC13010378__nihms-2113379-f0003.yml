@@ -1,0 +1,53 @@
+---
+figid: PMC13010378__nihms-2113379-f0003
+pmcid: PMC13010378
+image_filename: jpg
+figure_link: /pmc/articles/PMC13010378/figure/F2/
+number: Figure 2.
+figure_title: |-
+  TCF25 localizes to lysosomes and enhances lysosomal acidification in response
+  to glucose starvation
+caption: |-
+  (A) MDFs stably expressing mCherry-TCF25 were starved without glucose at
+  the indicated time points and then stained with LysoTracker Green. Left,
+  representative confocal images of the cells are shown. Right, statistical
+  analysis of the co-localized mCherry-TCF25 with LysoTracker Green is shown.
+  Scale bar, 20 μm.(B) MDFs were starved without glucose at the indicated time points and
+  then fractionated into cytosolic (Cyto) and nuclear (Nuc) fractions. The
+  fractions were analyzed by immunoblotting with the indicated antibodies.(C) HeLa cells were starved without glucose at the indicated time points
+  and then fractionated into lysosomal fraction by gradient centrifugation. The
+  whole-cell lysates (WCLs) and lysosomal fraction lysates (LYSs) were analyzed by
+  immunoblotting with anti-TCF25, lysosome marker anti-LAMP1, mitochondrial marker
+  anti-COX IV, and cytoplasmic marker anti-tubulin antibodies, respectively.(D) GO analysis of the sgRNA-targeting genes enriched by glucose
+  starvation in MDF cells.(E) List of the enriched sgRNA hits in lysosome pathway.(F) WT and TCF25−/− MDFs were starved without
+  glucose at the indicated time points and then stained with LysoTracker Green.
+  Left, representative confocal images of the cells are shown. Right, statistical
+  analysis of the LysoTracker Green fluorescence intensity is shown. Scale bar, 20
+  μm.(G) Statistical analysis of the relative lysosome size in (F) is
+  shown.(H) WT and TCF25−/− MDFs were starved without
+  glucose at the indicated time points and then stained with LysoSensor. Left,
+  representative confocal images of the cells are shown. Right, statistical
+  analysis of the LysoSensor fluorescence intensity is shown. Scale bar, 20
+  μm.(I) WT and TCF25−/− MDFs were starved without
+  glucose at the indicated time points. Lysosomal pH was measured using
+  fluorescein isothiocyanate (FITC) dextran and tetramethylrhodamine (TMR) dextran
+  as described in the STAR Methods.All western data are representative of three independent experiments.
+  Bar graphs represent the mean ± SD from three independent experiments.
+  Statistical analysis was performed using a two-sided student’s t test.
+  The levels of significance are indicated by *p < 0.05;
+  **p < 0.01; ***p < 0.001;
+  n.s., not significant (two-way ANOVA)
+article_title: |-
+  TCF25 serves as a nutrient sensor to orchestrate metabolic adaptation
+  and cell death by enhancing lysosomal acidification under glucose
+  starvation
+citation: Wenqing Ren, et al. Cell Rep. 2025 Sep 23;44(9).
+year: '2025'
+pub_date: 2025-9-23
+epub_date: 2025-8-21
+doi: 10.1016/j.celrep.2025.116186
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

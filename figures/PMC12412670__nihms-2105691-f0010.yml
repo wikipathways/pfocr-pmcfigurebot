@@ -1,0 +1,39 @@
+---
+figid: PMC12412670__nihms-2105691-f0010
+pmcid: PMC12412670
+image_filename: jpg
+figure_link: /pmc/articles/PMC12412670/figure/F10/
+number: Figure 10.
+figure_title: Metabolomics analysis of week 2 human hepatocyte spheroid samples (lot
+  HUM191501) treated with 50 μM CBD and 1 mM VPA individually or in combination
+caption: A) PCA plot using all peaks in the metabolomics dataset for week 2 samples
+  treated with DMSO (vehicle control), 50 μM CBD alone, 1 mM VPA alone, or 50 μM CBD
+  and 1 mM VPA in combination. Analysis was performed using SIMCA. B) Pathway analysis
+  plot of DMSO-treated samples versus samples treated with 50 μM CBD plus 1 mM VPA
+  in combination. Pathway analysis was conducted using the “Functional Analysis” module
+  in MetaboAnalyst software 6.0 using all peaks with their respective p-values calculated
+  using Students’ t-test. A p-value cutoff using the default top 10% of peaks by p-value
+  was used, and the Homo sapiens (human) [KEGG] pathway library was selected. C) Heatmap
+  of in-house matched metabolites with a significant ANOVA p-value across all groups.
+  Heatmaps were generated using Euclidean distance measures and the Ward clustering
+  method. Heatmaps are auto-scaled (mean-centered and divided by standard deviation)
+  for each metabolite. MetaboAnalyst software 6.0 was used for data analysis and visualization
+article_title: Evaluating cannabidiol-induced liver injury with and without valproate
+  using a three-dimensional human hepatocyte spheroid model
+citation: Jessica L. Beers, et al. Toxicol In Vitro. 2025 Dec;109(NA).
+year: '2025'
+pub_date: 2025-12-
+epub_date: 2025-8-05
+doi: 10.1016/j.tiv.2025.106126
+journal_title: 'Toxicology in vitro : an international journal published in association
+  with BIBRA'
+journal_nlm_ta: Toxicol In Vitro
+publisher_name: .na.character
+keywords:
+- cannabidiol
+- cannabis
+- valproate
+- hepatocytes
+- spheroids
+- drug-induced liver injury
+---

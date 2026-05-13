@@ -1,0 +1,49 @@
+---
+figid: PMC12340876__nihpp-2025.08.04.25332945v2-f0006
+pmcid: PMC12340876
+image_filename: jpg
+figure_link: /pmc/articles/PMC12340876/figure/F6/
+number: 'Fig. 6:'
+figure_title: Validation in CSF proteomics, GWAS and transcriptome
+caption: a. The dot plot with error bars shows the mediation proportions and confidence
+  intervals for proteins mediating the effects of APOE4 on Aβ in ADNI. Proteins whose
+  indirect effects in protein mediation path are significant after FDR alone or mediation
+  proportions of protein-mediation pathways are greater than those of Aβ (or AD) -mediated
+  pathways (when indirect effects of both mediation paths are significant after FDR)
+  are defined as mediators and are shown. The x-axis represents the percentage of
+  mediation proportions. The dots represent the estimated mediation proportions of
+  each protein while red indicates a significant estimation. The horizontal lines
+  represent the 95% confidence intervals of these estimates. b. Venn plot shows mediators
+  identified in 3 SomaLogic proteomics dataset. c. Volcano plot shows APOE4 associated
+  proteins with or without Aβ adjustment in the BioFINDER-2 CSF OLINK cohort, x-axis
+  is the effect size of APOE4 on proteins without adjusting Aβ, red represent proteins
+  associated with APOE4 regardless of adjusting Aβ status while blue indicate proteins
+  associated with APOE4 only without adjusting Aβ. d. Stratified linear fit plot shows
+  SNAP25 protein level change with age in APOE4 carriers and non-carriers in Aβ− individuals
+  in the BioFINDER-2 CSF OLINK cohort. SNAP25 levels are plotted against age, with
+  separate regression lines for individuals carrying the ε4 allele (ε4+, red) and
+  those without it (ε4−, blue). Shaded areas represent 95% confidence intervals. e.
+  Scatter plot shows proteins associated with APOE2 with or without adjusting Aβ status
+  in the BioFINDER-2 CSF OLINK cohort. The red dot indicates a significant association
+  regardless of adjusting Aβ. f. The table shows the number of SNPs in the coding
+  gene of key mediators (identified as mediators in at least 2 dataset) that are associated
+  with AD clinical diagnosis or CSF Aβ42 level in external GWAS studies. g. The plot
+  shows brain-wide gene expression patterns, with statistics reflecting spatial correlations
+  between APOE and APOE4 or APOE2 associated proteins. Only key proteins with significant
+  spatial coexpression with APOE were shown. Red indicates mediators of the APOE4
+  => protein => AD diagnosis or Aβ pathology pathway; blue denotes mediators of the
+  APOE2 => protein => AD diagnosis pathway. Purple marks proteins implicated in both,
+  we note that ST8SIA1 were identified as mediators in the 2 mediation pathways by
+  two distinct aptamers (seq.21508.7 for APOE4, seq.21663.149 for APOE2)
+article_title: Proteomic signatures of the APOE ε4 and APOE ε2 genetic variants and
+  Alzheimer’s disease
+citation: Lina Lu, et al. medRxiv. 2025 Aug 25;NA(NA).
+year: '2025'
+pub_date: 2025-8-25
+epub_date: 2025-8-25
+doi: 10.1101/2025.08.04.25332945
+journal_title: medRxiv
+journal_nlm_ta: medRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

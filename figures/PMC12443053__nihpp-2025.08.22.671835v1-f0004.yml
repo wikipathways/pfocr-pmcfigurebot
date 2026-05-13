@@ -1,0 +1,36 @@
+---
+figid: PMC12443053__nihpp-2025.08.22.671835v1-f0004
+pmcid: PMC12443053
+image_filename: jpg
+figure_link: /pmc/articles/PMC12443053/figure/F4/
+number: Figure 4.
+figure_title: Immune-induced itch in response to tick bite is not mediated through
+  a Trpv1 neural pathway
+caption: '(A) UMAP of scRNA-seq of guinea pig (GP) dorsal root ganglia (DRG) neurons
+  (GEO: GSE201654) highlighting Nppa expression. (B-D) Quantification of neurons co-expressing
+  Nppa and (B) Osmr, (C) IL31Ra, or (D) Trpv1 (N=3 GPs/staining). (B-D) Mann-Whitney
+  U test: (B) p=0.1, (C) p=0.4, (D) p=0.2. Median ± IQR shown. (E-G) A representative
+  multiplex ISH image showing co-expression of (E) Osmr, (F) IL31Ra, or (G) Trpv1
+  on GP DRG Nppa+ neurons. Scale bar: 50 μm. (H) Expression of Npr1 on Tubb3+ GP spinal
+  cord dorsal horn neurons. Scale bar: 50 μm. (I,J) A representative multiplex ISH
+  image showing co-expression of Trpv1, Nppa and Osmr on GP DRG neurons in (I) PBS-treated
+  (N=6) and (J) RTX-treated (N=5) GPs. Partial ablation of Trpv1 is observed in RTX-treated
+  GPs. Scale bar: 100 μm. (K) Quantification of partial Trpv1 ablation in DRG neurons
+  by RTX-treatment. Two-way ANOVA: PBS- versus RTX-treatment: p=0.235. Median ± IQR
+  shown. (L) Number of licks to the capsaicin injection site in PBS- and RTX-treated
+  GPs over the course of 30 min. Mann-Whitney U test: p=0.0022. Median ± IQR shown.
+  (M) Tick removal on PBS- and RTX-treated GPs. Analysis by Peto & Peto modification
+  of the Gehan-Wilcoxon test: p=0.5381. 95% CI is shown. For detailed statistics see
+  supplementary report'
+article_title: Discovery of an Adaptive Neuroimmune Response Driving Itch and Fast
+  Tick Removal with Implications for Preventing Pathogen Transmission
+citation: Johannes S. P. Doehl, et al. bioRxiv. 2025 Aug 28;NA(NA).
+year: '2025'
+pub_date: 2025-8-28
+epub_date: 2025-8-28
+doi: 10.1101/2025.08.22.671835
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

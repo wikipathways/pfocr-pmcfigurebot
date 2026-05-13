@@ -1,0 +1,53 @@
+---
+figid: PMC12407811__nihpp-2025.08.25.671815v1-f0007
+pmcid: PMC12407811
+image_filename: jpg
+figure_link: /pmc/articles/PMC12407811/figure/F7/
+number: Figure 7 ∣
+figure_title: Pharyngeal pumping assay reveals that Sustain modulates the ingestion
+  volume to prolong feeding bursts
+caption: 'a, snapshots of a movie in which a fly was recorded feeding from a capillary
+  filled with artificially colored food (10% yeast with erioglaucine). DeepLabCut
+  was used to track the capillary tip and different points (labels) on the fly to
+  quantify ingestion automatically. The labels are color-coded and annotated on the
+  right side of the panel. Before feeding starts (t= −1.3 s), the proboscis rests
+  in a retracted position. Upon proboscis extension, the proboscis contacts the food
+  droplet, and the labial palps spread to initiate ingestion (t =0 s, feeding initiation).
+  The fly fills its cibarium (pharyngeal cavity of the fly) with a small amount of
+  food (t = 0.116 s). Finally flies empties the cibarium and ingests the food droplet
+  by pumping it through its esophagus (t = 0.223 s). b, the labial opening angle is
+  used to identify the initiation of a pumping burst. At rest, the labial angle is
+  small (angle a, t = −1.3 s). Upon contacting the food droplet (t= 0 s), the labial
+  palps spread leading to an increased labial angle (angle b). c, four points enclosing
+  the cibarium are tracked to calculate the cibarial area. Inter-bristle distances
+  for each fly are used to normalize for the size variation between flies. d, changes
+  in the labial opening angle are used to detect pumping bursts (top panel). A representative
+  time series of normalized cibarial areas (in pixels) during a pumping burst is shown
+  (bottom panel). Red dots represent the peak cibarial area for each swallowing cycle.
+  e and f, sustain silencing leads to a decrease in the ingestion volume as quantified
+  by normalized peak cibarial area. e, kernel density estimations of normalized peak
+  cibarial areas for Sustain-silenced and control flies. f, mean normalized peak cibarial
+  area for individual Sustain-silenced and control flies. Boxes indicate the interquartile
+  ranges. Horizontal lines indicate the median value. Notches indicate 95% confidence
+  intervals. g, power-spectral density of ingestion frequencies for Sustain-silenced
+  and control flies. Dotted vertical lines represent the peak frequencies. UAS control:
+  Empty Split-Gal4 x UAS-Kir2.1. ns: not statistically significant. *: p<0.05. h and
+  i, the working model. h, the modulation of the dtpGRNs pathway by the protein state
+  increases the efficiency of ingestion by anticipatorily activating MN11D before
+  the food arrives in the pharynx, thereby delaying the inhibition of sip generation.
+  i, the feeding microstructure revisited. Ingestion is incorporated into the model.
+  Vertical bars indicated the sipping (green) and ingestion (light pink) actions.
+  The length of the ingestion bars is scaled by efficiency. Ingestion is more efficient,
+  therefore, feeding bursts are longer in amino acid-deprived flies'
+article_title: Connectomics Reveals a Feed-Forward Swallowing Circuit Driving Protein
+  Appetite
+citation: I. Tastekin, et al. bioRxiv. 2025 Aug 25;NA(NA).
+year: '2025'
+pub_date: 2025-8-25
+epub_date: 2025-8-25
+doi: 10.1101/2025.08.25.671815
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

@@ -1,0 +1,37 @@
+---
+figid: PMC12407760__nihpp-2025.08.25.672167v1-f0005
+pmcid: PMC12407760
+image_filename: jpg
+figure_link: /pmc/articles/PMC12407760/figure/F5/
+number: Figure 5.
+figure_title: IFN type preference of intestinal pDC is associated with differential
+  chromatin accessibility at SMAD2 binding sites
+caption: A). Diagram of experiments on sorted mouse pDC from gut and splenic sources.
+  B). Scatter plot showing differentially accessible regions for gut and spleen with
+  padj < 0.05. C). De-novo motifs identified within gut-enriched and spleen-enriched
+  peaks by HOMER and enrichment of a known SMAD2 motif. D). Plot showing the distribution
+  and frequency of known SMAD2 binding motif within differentially accessible gut
+  and spleen peaks. E). TGF-β HALLMARK pathway genes (Itgae is also included due to
+  known TGF-β regulation) near peaks with increased accessibility in gut pDC. Genes
+  with increased expression in scRNAseq data are in bold. F). Plots showing differential
+  accessibility of gut (black line) and spleen (shaded salmon histogram) chromatin.
+  Overlaid consensus ATAC-seq tracks for the indicated genomic loci from gut and spleen
+  with open reading frames noted below and identified peaks indicated by shaded gray
+  boxes. Fold-change of gut peaks relative to spleen peaks is listed under each peak
+  region (FC). N=4 replicates for each tissue; genomic scale bars above tracks. G).
+  Diagram of experimental design for stimulation of pDC ex vivo. H-I). Expression
+  of Ifnl2/3 (H) and Ifnb1 (I) from pDC isolated from gut or spleen of n = 6 mice
+  from two experimental replicates and treated with the indicated cytokines and stimuli.
+  Statistical significance by one-way ANOVA with Šídák's multiple comparisons test
+article_title: Plasmacytoid dendritic cells in the intestine preferentially produce
+  interferon lambda at homeostasis contributing to tonic localized innate immune responses
+citation: David A. Constant, et al. bioRxiv. 2025 Aug 28;NA(NA).
+year: '2025'
+pub_date: 2025-8-28
+epub_date: 2025-8-28
+doi: 10.1101/2025.08.25.672167
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

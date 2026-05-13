@@ -1,0 +1,34 @@
+---
+figid: PMC12428033__ijms-26-08181-g004
+pmcid: PMC12428033
+image_filename: jpg
+figure_link: /pmc/articles/PMC12428033/figure/F4/
+number: Figure 4
+figure_title: Identification of hub genes and construction of lncRNA/circRNA-mRNA
+  networks.
+caption: Identification of hub genes and construction of lncRNA/circRNA-mRNA networks.
+  (A) Volcano plot of differentially expressed mRNAs. (B) KEGG enrichment based on
+  DEGs. (C) LncRNA–DEGs regulatory network based on the trans, cis, and antisense
+  methods. Diamond squares indicate candidate lncRNAs and larger circles indicate
+  target genes of candidate lncRNAs. (D) Relationship of candidate lncRNAs and their
+  target genes to the KEGG pathway. (E) CircRNA-DEGs regulatory network based on Pearson’s
+  correlation analysis. Diamond squares indicate candidate circRNAs and larger circles
+  indicate target genes of candidate circRNAs. (F) Relationship of candidate circRNAs
+  and their target genes to the KEGG pathway
+article_title: Novel Insights into the Molecular Mechanisms of Chicken Breast Muscle
+  Development by Integrating Non-Coding RNA and mRNA Profiles
+citation: Yuting Jin, et al. Int J Mol Sci. 2025 Sep;26(17).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-8-23
+doi: 10.3390/ijms26178181
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- chicken
+- lncRNA
+- circRNA
+- muscle development
+- weighted gene co-expression network analysis
+---

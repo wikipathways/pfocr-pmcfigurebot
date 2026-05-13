@@ -1,0 +1,40 @@
+---
+figid: PMC12429100__ijms-26-08466-g001
+pmcid: PMC12429100
+image_filename: jpg
+figure_link: /pmc/articles/PMC12429100/figure/F1/
+number: Figure 1
+figure_title: Decision flow chart for which method to use to study cancer metabolism
+  based on experimental parameters and stage of the project.
+caption: Decision flow chart for which method to use to study cancer metabolism based
+  on experimental parameters and stage of the project. Starting at the top of the
+  chart, one must identify if their project is hypothesis-generating or hypothesis-testing.
+  Untargeted metabolomics/lipidomics allows for the generation of many hypotheses
+  by providing a top–down view of the metabolome. Once a hypothesis is generated,
+  it can be tested based on which readouts the phenotype can be detected with, such
+  as extracellular or intracellular measurements. Extracellular measurements can be
+  made with the Seahorse metabolic flux assay, while intracellular measurements can
+  be performed with isotope tracing and metabolic flux analysis to test specific pathways,
+  or with fluorescent dyes and genetically encoded fluorescent biosensors if spatiotemporal
+  dynamics are desired. The icons next to each method indicate if they are applicable
+  in vitro (cell culture dish), ex vivo (tissue), in vivo (mice), or in vivo (human).
+  Created in BioRender [11]
+article_title: 'Methods and Guidelines for Metabolism Studies: Applications to Cancer
+  Research'
+citation: Melvin Li, et al. Int J Mol Sci. 2025 Sep;26(17).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-8-30
+doi: 10.3390/ijms26178466
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- cancer metabolism
+- untargeted metabolomics
+- Seahorse metabolic flux analysis
+- isotope tracing
+- 13C-metabolic flux analysis
+- fluorescent probes
+- genetically encoded fluorescent biosensors
+---

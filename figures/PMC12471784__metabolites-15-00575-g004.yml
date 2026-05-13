@@ -1,0 +1,30 @@
+---
+figid: PMC12471784__metabolites-15-00575-g004
+pmcid: PMC12471784
+image_filename: jpg
+figure_link: /pmc/articles/PMC12471784/figure/F4/
+number: Figure 4
+figure_title: Upstream regulator network predicted by Ingenuity Pathway Analysis (IPA).
+caption: Upstream regulator network predicted by Ingenuity Pathway Analysis (IPA).
+  The top three regulators are represented as nodes CEBPB (a), HNF1A (b), and CEBPA
+  (c), with their activation state indicated by node color (blue = predicted inhibition,
+  white = no prediction). Target molecules are shown as downstream nodes, and edges
+  represent activation (orange lines) or inhibition (blue lines) relationships
+article_title: Multi-Omics Feature Selection to Identify Biomarkers for Hepatocellular
+  Carcinoma
+citation: Rency S. Varghese, et al. Metabolites. 2025 Sep;15(9).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-8-28
+doi: 10.3390/metabo15090575
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- multi-omics approaches
+- liver cancer
+- LC-MS/MS
+- machine learning
+- deep learning
+- feature selection
+---

@@ -1,0 +1,27 @@
+---
+figid: PMC12439347__thnov15p9114g005
+pmcid: PMC12439347
+image_filename: jpg
+figure_link: /pmc/articles/PMC12439347/figure/F5/
+number: Figure 5
+figure_title: KIF13B maintains macrophage homeostasis by suppressing senescence.
+caption: |-
+  KIF13B maintains macrophage homeostasis by suppressing senescence. (A) Volcano plot displaying differentially expressed genes (DEGs) in bone marrow-derived macrophages (BMDMs) from WT and Kif13b-/- mice (n = 3/group). Genes meeting significance thresholds (P < 0.05, |Fold change| > 1.2) are highlighted (1,925 upregulated in red; 1,816 downregulated in blue). (B) Bar plot showing significantly enriched KEGG and Gene Ontology (GO) pathways among DEGs. (C) Heatmap of senescence-related DEGs (pro- and anti-senescence genes) between genotypes. (D) Gene Set Enrichment Analysis (GSEA) of hallmark and Reactome pathways (significant enrichment: NES > 1.5, P < 0.05). (E-J) LPS-stimulated (10 ng/ml, 24h) BMDMs from 8-week-old male WT and Kif13b-/- mice. (E) SA-β-gal staining (representative images and quantification, n = 4). (F) ROS detection (fluorescence images and quantification, 3 independent experiments). (G) γ-H2A.X immunofluorescence (images and nuclear density quantification, n = 3). (H) qPCR analysis of SASP-related genes (n = 3). (I) Western blot of senescence markers (P21, P16, γ-H2A.X; n = 4). (J) qPCR analysis of cell cycle regulators (n = 3). (K-L)
+  In vivo analysis of PPE-induced AAA. (K) SA-β-gal staining in aortic tissues (n = 6). (L) Immunofluorescence of CD68+ macrophages with γ-H2A.X (DNA damage marker). Data presented as mean ± SEM. E-G, H were analyzed by two-way ANOVA with Bonferroni post-hoc tests. I-J P19ARF and P21 were analyzed by unpaired Student's t-test. I-J P16INK4a was analyzed by Welch's t-test
+article_title: Macrophage-derived KIF13B interacts with USP9X to attenuate abdominal
+  aortic aneurysm development by potentiating TFEB stability
+citation: Jingxuan Chen, et al. Theranostics. 2025;15(17).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025-8-16
+doi: 10.7150/thno.118958
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+keywords:
+- abdominal aortic aneurysm
+- KIF13B
+- macrophage
+- senescence
+- lysosome
+---

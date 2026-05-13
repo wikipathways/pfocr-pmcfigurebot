@@ -1,0 +1,46 @@
+---
+figid: PMC12415535__nihms-2101901-f0002
+pmcid: PMC12415535
+image_filename: jpg
+figure_link: /pmc/articles/PMC12415535/figure/F2/
+number: 'Figure 2:'
+figure_title: 'CellSpectra: Exploration of single-cell atlases by estimating gene
+  expression coordination of cellular functions across samples, conditions, and species'
+caption: (a) Simplified schematic. Gene expression coordination within a cell type
+  is assessed using Pearson correlation. Example gene set 1 shows weak correlation
+  (uncoordinated), while gene set 2 shows strong correlation (coordinated).(b) Coordination
+  within gene sets across samples is quantified using CellSpectra. Singular value
+  decomposition (SVD) is applied to the sample expression matrix, and the first eigenvector
+  (V1) captures maximal variance. High pairwise sample correlations indicate that
+  V1 effectively represents the dataset’s coordination.(c) Cross-species comparison.
+  V1 derived from human data for a specific gene set and cell type is used as a reference.
+  Query rodent samples are regressed onto the human V1, and R2 values quantify gene
+  expression similarity. Density plot illustrates uncoordinated versus coordinated
+  gene expression patterns. The y-axis represents a smoothed density estimate, reflecting
+  the relative number of samples for each R2 value (x-axis). Matrix plots show the
+  sample-wise scaled gene expression for two different cell types.(d) Density (y-axis)
+  for R2 values (x-axis) for the gene set “Regulation of glomerular filtration” comparing
+  rodent samples to a healthy human reference. For this pathway rodent podocytes (grey)
+  exhibit significantly higher R2 values (high similarity/coordination) compared to
+  other cell types. R2 distributions are plotted for distal tubule cells (DCT_CNT_CD),
+  podocytes (Podo), parietal epithelial cells (PEC), proximal tubule (PT), thick ascending
+  limb with macula densa (TAL_MD), descending and ascending thin limb (DTL_ATL), immune
+  cells, endothelial cells (EC), stromal cells.(e) Heatmap of average R2 values between
+  healthy humans (reference) and rodent samples (mouse and rat) for selected biological
+  functions. Each row is one significant pathway (Wilcoxon rank-sum test, cell type
+  specificity), each column is a cell type. Red indicates higher average R2 values,
+  blue lower values.(f) Density (y-axis) for R2 values (x-axis, coordination) for
+  the gene set “Regulation of glomerular filtration” of rodent podocytes (grey) compared
+  to other cell types (blue)
+article_title: Analysis of individual patient pathway coordination in a cross-species
+  single-cell kidney atlas
+citation: Konstantin A. Klötzer, et al. Nat Genet. 2025 Aug;57(8).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-8-07
+doi: 10.1038/s41588-025-02285-0
+journal_title: Nature genetics
+journal_nlm_ta: Nat Genet
+publisher_name: .na.character
+keywords: []
+---

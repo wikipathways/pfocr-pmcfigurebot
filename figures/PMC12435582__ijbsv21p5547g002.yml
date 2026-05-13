@@ -1,0 +1,40 @@
+---
+figid: PMC12435582__ijbsv21p5547g002
+pmcid: PMC12435582
+image_filename: jpg
+figure_link: /pmc/articles/PMC12435582/figure/F2/
+number: Figure 2
+figure_title: CTT upregulated the functions of genes encoding antigen processing and
+  presentation and activation markers of B cells.
+caption: CTT upregulated the functions of genes encoding antigen processing and presentation
+  and activation markers of B cells. (A-B) Volcano plot (A) and heatmap (B) showing
+  DEGs between B cells from the control and CTT groups. In the volcano plot, genes
+  with adjusted P values < 0.05 and log2FC > 1 values were defined as significantly
+  upregulated signatures, and those with adjusted P values < 0.05 and log2FC < -1
+  values were defined as significantly downregulated signatures. (C) Relationships
+  of the core network with the top 10 Wiki pathways identified via enrichment analysis.
+  (D) Scatter plot of the top 20 enriched KEGG pathways and 10 enriched GO pathways
+  according to GSEA. (E-G) The expression levels of MHC-I (E), MHC-II (F), CD86 (G)
+  and CD40 (H) on B cells. (I) The expression of cytokines, TLRs, and activation markers
+  on B cells on day 14 after CTT was measured via qRT‒PCR. All the data are presented
+  as the means ± SD. n=4 for each group. *P<0.05, **P<0.01, ***P<0.001. The data in
+  the graphs were analyzed via two-tailed Student's t tests
+article_title: Activated B cells modulate the maturation of MDSCs via CD36-dependent
+  MHC-II transfer to orchestrate CD4+ Th1-dominant antitumor immunity after cryo-thermal
+  therapy
+citation: Zelu Zhang, et al. Int J Biol Sci. 2025;21(12).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025-8-30
+doi: 10.7150/ijbs.115232
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- Cryo-thermal therapy
+- B cells
+- MDSCs
+- CD36
+- antitumor immunity
+- MHC-II
+---

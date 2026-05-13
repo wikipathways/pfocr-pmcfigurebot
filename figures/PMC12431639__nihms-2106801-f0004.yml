@@ -1,0 +1,43 @@
+---
+figid: PMC12431639__nihms-2106801-f0004
+pmcid: PMC12431639
+image_filename: jpg
+figure_link: /pmc/articles/PMC12431639/figure/F4/
+number: Figure 4.
+figure_title: Chromatin accessibility evaluation of macrophages associated with spherical
+  or discoidal particles in vitro
+caption: (A) Principal component analysis of global accessibility profile of Mφ, Mφ-S,
+  and Mφ-D. Each point represents one independent replicate. Axes represent the percent
+  of variance explained by the respective principal components (PC1, PC2); (n = 4).
+  (B) Volcano plots of differentially accessible chromatin regions with pairwise sample
+  group comparisons. Genes of interest are labeled. Threshold for adjusted p value
+  was 0.05. For each volcano plot, data from the former group was normalized by the
+  reference condition in the latter; for example, Mφ-S vs. Mφ indicates the differential
+  gene expression of Mφ-S is normalized to that of Mφ. Therefore, a positive binary
+  logarithm represents gene upregulation in the Mφ-S condition compared to Mφ, but
+  conversely, a negative value represents downregulation. (C) Pathway overrepresentation
+  enrichment analysis results for upregulated differentially accessible peaks between
+  sample conditions. Generated using Enrichr, focusing on the MSigDB Hallmark 2020
+  database. The color scale represents the transition from high (pink) to low (blue)
+  values of significance. (D) Correlation plots of significantly shared genes in RNA-Seq
+  and ATAC-Seq analyses. Colored points indicate regions overlapping known promoter
+  regions. (A-D) Differential peak analysis was performed using the csaw R package.
+  Significant associations were identified at a Benjamini-Hochberg adjusted FDR of
+  ≤ 5%
+article_title: Particle Shape Modulates the Function of Adoptive Macrophage Transfers
+citation: Matthew M. C. Kwan, et al. Adv Healthc Mater. 2025 Dec;14(31).
+year: '2025'
+pub_date: 2025-12-
+epub_date: 2025-8-07
+doi: 10.1002/adhm.202501348
+journal_title: Advanced healthcare materials
+journal_nlm_ta: Adv Healthc Mater
+publisher_name: .na.character
+keywords:
+- Adoptive Cell Transfer
+- Macrophage
+- Drug Delivery
+- Nanoparticle
+- Microparticle
+- Cancer
+---

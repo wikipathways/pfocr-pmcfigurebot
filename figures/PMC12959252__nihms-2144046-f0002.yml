@@ -1,0 +1,40 @@
+---
+figid: PMC12959252__nihms-2144046-f0002
+pmcid: PMC12959252
+image_filename: jpg
+figure_link: /pmc/articles/PMC12959252/figure/F2/
+number: Figure 2.
+figure_title: KT-1 enhances CD8+ T cell effector function and mediates antitumor immunity
+  through a CD8+ T cell–dependent mechanism
+caption: '(A) UMAP analysis of tumor-infiltrating immune cells showing increased cytotoxic
+  T cell representation in KT-1–treated tumors. (B–G) scRNA-seq analysis of CD8+ T
+  cells reveals differential expression of effector-related genes following KT-1 treatment.
+  (H) KEGG pathway enrichment analysis highlights immune activation signatures in
+  CD8+ T cells. For panels A–H: scRNA-seq was performed on CD45+ cells pooled from
+  n = 10 mice per group; asterisks indicate cell-level Wilcoxon rank-sum test results
+  for visualization purposes only and do not represent biological replicates. (I)
+  Schematic of CD8+ and CD20+ cell depletion in KT-1–treated mice; n=5 per treatment
+  group (J) Tumor growth curves with or without immune cell depletion. (K–L) Flow
+  cytometry quantification of total immune infiltration (CD45+) and T cell populations
+  (CD3+). (M–N) Representative plots and CD8+/CD4+ T cell ratio within tumors. Data
+  are presented as mean ± SD. *p < 0.05, **p < 0.01, ***p < 0.001, ****p < 0.0001,
+  ns = not significant'
+article_title: 'Polymer-Based Chemo-Immunotherapy: Combining Immunogenic Cell Death
+  Induction and PD-L1 Blockade Enhances Antitumor Immunity in Melanoma'
+citation: Jiahui Li, et al. J Control Release. 2025 Nov 10;387(NA).
+year: '2025'
+pub_date: '2025-11-10'
+epub_date: 2025-9-02
+doi: 10.1016/j.jconrel.2025.114193
+journal_title: 'Journal of controlled release : official journal of the Controlled
+  Release Society'
+journal_nlm_ta: J Control Release
+publisher_name: .na.character
+keywords:
+- Chemo-immunotherapy
+- Backbone degradable HPMA copolymer conjugates
+- melanoma treatment
+- B16F10
+- single-cell RNA sequencing
+- immune checkpoint inhibitor
+---

@@ -1,0 +1,27 @@
+---
+figid: PMC12486017__thnov15p9375g004
+pmcid: PMC12486017
+image_filename: jpg
+figure_link: /pmc/articles/PMC12486017/figure/F4/
+number: Figure 4
+figure_title: Paucimannosidic glycoproteome associated with aggressiveness.
+caption: |-
+  Paucimannosidic glycoproteome associated with aggressiveness. A. Roadmap for identifying putative carriers of paucimannosidic N-glycans. Proteins were extracted from FFPE GC intestinal-type tumor sections (6 early-stage vs. 6 late-stage tumors) to identify glycoproteome signatures linked to cancer aggressiveness. Glycoproteins potentially carrying paucimannose structures were enriched using GNL-affinity chromatography and identified through conventional bottom-up proteomics using nanoLC-HCD-MS/MS. The presence of N-glycans in the identified glycoproteins was confirmed via manual spectral verification and annotation. Relevant paucimannosidic N-glycans associated with cancer aggressiveness were validated through various immunoassays. Cartoon elements were created using Biorender.com. B. GNL-enrichment identified 386 glycoproteins in GC, 18 elevated in advanced stages (red) and 6 proteins in early stages (blue). Notable proteins in advanced stages include MYH9, RPL8, DSC3, RPS11, RPL31, and RBM14, while ACTC1 and LGALS1 are overexpressed in early stages. C. GC exhibited unique stage-related GNL-glycoproteomes. Venn diagram analysis highlights 12 proteins exclusive to advanced stages (e.g., MMP9, RPL12, ACTA1) and 10 proteins unique to early stages (e.g., KRT31, CS, POTEI). D. CEACAM6, a typical plasma membrane protein, is a carrier of paucimannosidic N-glycans. MS/MS spectrum for the N-glycopeptide (207RNDAGSYECEIQNPASANR225 + H3N2) highlights the presence of glycan oxonium ions and neutral glycan losses. E. GNL-enriched glycoproteins were predominantly localized intracellularly. Glycoproteome data integration based on Gene Ontology (GO) terms for cellular localization, analyzed using the PANTHER bioinformatics tool, reveals an overrepresentation of cytoplasmic proteins (56%). This is followed by lower representations of nuclear (23%), ribosomal (12%), and plasma membrane (9%) proteins. F. Ribosomal protein RPS11 is a carrier of paucimannosidic N-glycans. MS/MS spectrum support the existence of H3N2F1
+  N-glycan on the peptide 108NMSVHLSPCFR118. The spectrum presents the glycan oxonium ions at m/z 244.086, 366.139 and 528.190, and a loss of fucose moiety, supporting the existence of this paucimannosidic N-glycopeptide. H, N and F stands for D-Mannose, N-Acetyl-D-Glucosamine and L-Fucose, respectively. G. Glycoproteins potentially carrying paucimannose structures were predominantly associated with cytoplasmic translation processes in advanced stage tumours. Cytoscape analysis of unique and overexpressed glycosignatures in advanced-stage tumors revealed significantly enriched pathways linked to cytoplasmic translation and rRNA binding (p < 0.05). In contrast, no significant pathways were identified for early-stage tumors
+article_title: Trimmed N-glycans define aggressive gastric cancer and predict clinical
+  outcomes
+citation: Dylan Ferreira, et al. Theranostics. 2025;15(18).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025-8-22
+doi: 10.7150/thno.111670
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+keywords:
+- cancer glycobiology
+- precision oncology
+- gastric cancer
+- glycoproteome
+- glycome
+---

@@ -1,0 +1,31 @@
+---
+figid: PMC12456228__nihms-2112171-f0005
+pmcid: PMC12456228
+image_filename: jpg
+figure_link: /pmc/articles/PMC12456228/figure/F5/
+number: Fig. 5.
+figure_title: (a) Relationship between scattering in the object plane and crosstalk
+  at the lens array.
+caption: '(a) Relationship between scattering in the object plane and crosstalk at
+  the lens array. For non-scattering (1) or modestly scattering samples (2), all light
+  ends up in the correct channel. For more diffusive samples where the transport mean-free
+  path length approaches the beam spacing (3), scattering crosstalk occurs. Scattering
+  crosstalk was measured by a CMOS image sensor in the detection pathway for a non-scattering
+  sample [(b), (d), and (f)] and a scattering tendon specimen [(c), (e), and (g)]
+  when illuminated with a single beam corresponding to the SiPM #3 detection path.
+  Both samples are imaged close to the superficial surface of the specimen (~0 μm).
+  (b), (c) CMOS images show crosstalk onto adjacent channels and (d), (e) show the
+  corresponding contrast enhanced images. (f), (g) Light collected across the 4 SiPM
+  active areas is plotted, showing increased crosstalk as scattering increases'
+article_title: High area and volumetric throughput parallel two-photon fluorescence
+  microscopy using silicon photomultiplier arrays
+citation: Vincent D. Ching-Roa, et al. Photonics Res. 2025 Sep 01;13(9).
+year: '2025'
+pub_date: 2025-9-01
+epub_date: 2025-8-29
+doi: 10.1364/prj.546289
+journal_title: Photonics research
+journal_nlm_ta: Photonics Res
+publisher_name: .na.character
+keywords: []
+---

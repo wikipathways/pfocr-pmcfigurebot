@@ -1,0 +1,41 @@
+---
+figid: PMC12710748__nihms-2123664-f0003
+pmcid: PMC12710748
+image_filename: jpg
+figure_link: /pmc/articles/PMC12710748/figure/F2/
+number: 'Figure 2:'
+figure_title: Enhancement of the lag time in growth of the Keio strains caused by
+  CHIR-090
+caption: (a) Schematic for high-throughput PAE assay. The Keio collection of E. coli
+  non-essential gene deletion strains is grown to endpoint in 384 colony density on
+  PDMS filter paper. Mature colonies on filters are then transferred to an LB agar
+  plate containing 16x the minimum inhibitory concentration of CHIR-090 or a no-drug
+  control using sterile tweezers; colonies are exposed to the compound for 6 h. Subsequently,
+  colonies are pinned onto fresh LB-agar without compound and plates are imaged using
+  transmissive scans every 20 min for 20 h. Images were then used to generate growth
+  curves for each of the 384 mutants in the array, and growth curves are analyzed
+  for enhancers of lag time. (b) Index plot depicting the change in lag time for each
+  mutant after exposure to CHIR-090 relative to a no-drug control. Mutants whose lag
+  time increased by 0.5 h (1 s.d. from the mean) specifically following CHIR-090 exposure
+  are highlighted in blue. (c) Gene deletion mutants that had an increased lag time
+  after CHIR-090 exposure were classified based on gene ontology (GO), and statistical
+  enrichment was calculated using EcoCyc pathway-tools.28-30 The 7 most statistically
+  enriched, non-redundant GO classifications are shown. Fisher’s exact test was used
+  to calculate the P-value. (d) Growth curves of the mean growth of all colonies (WT)
+  or ΔrfaE mutants after exposure to 16x MIC of CHIR-090 or the no-drug control
+article_title: Identifying Modulators of the Post-Antibiotic Effect
+citation: Alexa L. Gilberti, et al. ACS Infect Dis. 2025 Sep 12;11(9).
+year: '2025'
+pub_date: 2025-9-12
+epub_date: 2025-8-06
+doi: 10.1021/acsinfecdis.5c00424
+journal_title: ACS infectious diseases
+journal_nlm_ta: ACS Infect Dis
+publisher_name: .na.character
+keywords:
+- post-antibiotic effect
+- LpxC
+- Escherichia coli
+- residence time
+- Keio collection
+---

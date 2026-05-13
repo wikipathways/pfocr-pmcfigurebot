@@ -1,0 +1,40 @@
+---
+figid: PMC7618026__EMS207767-f008
+pmcid: PMC7618026
+image_filename: jpg
+figure_link: /pmc/articles/PMC7618026/figure/F8/
+number: Figure 8
+figure_title: Energetic and mechanistic models illustrating the differential functions
+  of gating charge – countercharge interactions in VSD state transitions
+caption: 'A: Summary of the effects on voltage-dependence and kinetics of activation
+  of alanine-substitutions of gating charges and countercharges in CaV1.1 VSD I. E87A
+  and E90A data are from (Fernández-Quintero et al., 2021). B: Reaction energy profiles
+  of the VSD charge transition pathway lined by basic counter charges in the extracellular
+  cluster (ENC), and the charge transfer center (CTC) on both sides of the hydrophobic
+  constriction site (HCS). Red traces demonstrate how charge-neutralizing mutations
+  in the different domains alter energy barriers and energy wells to change the kinetics
+  and voltage-dependence of activation, respectively. The three states and the energy
+  barriers in between have been derived from our MD simulation (Fig. 1E, G). C: Mechanistic
+  model of sequentially changing gating charge – countercharge interactions upon VSD
+  state transitions. As S4 moves from the resting (down-) state through the intermediate
+  state into the activated (up-) state, R2, R3 and R4 sequentially engage in the CTC
+  and K0 to R3 in the ENC. Only R2 and R3 fully move across the HCS. The propensity
+  of R4 to establish strong interactions with the CTC in the activated state may push
+  R2 and R3 out of the CTC and across the energy barrier of the HCS, thus accelerating
+  activation. On the other hand, the sequential occupancy of the ENC countercharges
+  by the outer gating charges increases stabilization of the activated state, while
+  decreasing the speed of activation. As the number and nature of counter charges
+  in the ENC differs considerably between VSDs, this difference will confer distinct
+  gating properties upon different channels'
+article_title: Voltage sensor gating charge interactions bimodally regulate voltage-dependence
+  and kinetics of calcium channel activation
+citation: Martin C. Heiss, et al. J Gen Physiol. 2025 Sep 01;157(5).
+year: '2025'
+pub_date: 2025-9-01
+epub_date: 2025-8-04
+doi: 10.1085/jgp.202513769
+journal_title: The Journal of general physiology
+journal_nlm_ta: J Gen Physiol
+publisher_name: .na.character
+keywords: []
+---

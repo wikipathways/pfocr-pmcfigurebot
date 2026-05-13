@@ -1,0 +1,33 @@
+---
+figid: PMC12407665__nihpp-2025.08.25.25333715v1-f0005
+pmcid: PMC12407665
+image_filename: jpg
+figure_link: /pmc/articles/PMC12407665/figure/F5/
+number: Figure 5.
+figure_title: MOFA+ integration of spatial proteomics and transcriptomics reveals
+  molecular drivers of fallopian tube lesion progression
+caption: (A-D). MOFA+ analysis24 excluding FOXJ1-positive (FOXJ1pos) and metastasis.
+  The first two MOFA factors for epithelial (A) and stromal (C) samples with points
+  representing samples; colored by cell type/lesion state. Black and red vectors show
+  the percentage of variability of the deep visual proteomics (DVP) and Nanostring
+  GeoMx transcriptomics (Nanostring) datasets captured by each MOFA factor. Box plots
+  of MOFA factor 1 values across epithelial (B) and stromal (D) cell states. FT, fallopian
+  tube. FOXJ1neg, FOXJ1-negative. P53, p53 signature.(E-F) GSEA using MOFA Factor
+  1 feature weights as a ranked list for proteins and transcripts in the epithelium
+  (E) and stroma (F), excluding FOXJ1-positive (FOXJ1pos) and metastasis (Table S5I,
+  J). Circle size is proportional to −log10 (FDR). Red, DVP. Blue, Nanostring. NES,
+  normalized enrichment score. A positive NES indicates proteins/gene-driven pathways
+  which are increased, and a negative NES indicates proteins/gene-driven pathways
+  which are decreased
+article_title: Integration of cell-type resolved spatial proteomics and transcriptomics
+  reveals novel mechanisms in early ovarian cancer
+citation: Andreas Metousis, et al. medRxiv. 2025 Aug 28;NA(NA).
+year: '2025'
+pub_date: 2025-8-28
+epub_date: 2025-8-28
+doi: 10.1101/2025.08.25.25333715
+journal_title: medRxiv
+journal_nlm_ta: medRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

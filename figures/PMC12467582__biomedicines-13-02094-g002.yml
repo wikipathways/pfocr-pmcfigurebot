@@ -1,0 +1,72 @@
+---
+figid: PMC12467582__biomedicines-13-02094-g002
+pmcid: PMC12467582
+image_filename: jpg
+figure_link: /pmc/articles/PMC12467582/figure/F2/
+number: Figure 2
+figure_title: DSS-induced colitis results in decreased mitochondrial function within
+  T cells.
+caption: 'DSS-induced colitis results in decreased mitochondrial function within T
+  cells. (A). Experimental setup for the induction of acute and chronic DSS-induced
+  colitis in C57/BL6 mice. Acute model: Mice receive drinking water infused by 2%
+  DSS for 6 consecutive days following a recovery period of 19 days with normal drinking
+  water. Mice are sacrificed at day 6 (acute) and day 25 (remission of acute). Chronic
+  model: To induce chronic colitis, WT mice received three cycles of 1.7% DSS, respectively,
+  including a 14-day recovery period with drinking water after the first and second
+  treatment cycles (day 46). Mice reach the stage of chronic remission by receiving
+  normal drinking water for further 21 days after the third DSS treatment (day 67).
+  (B). GO Biological pathway analysis of human rectal biopsies of UC patients using
+  5296 significantly altered genes (|fold change| ≥ 1.5, FDR < 0.001) from the comparison
+  of ulcerative colitis (UC) (206 patients) and non-IBD controls (20 patients) stated
+  in supplementary data 1 of [23]. Terms with padj < 0.05 were considered significantly
+  over-represented. Color-coding represents fold enrichment of statistical over-representation
+  of indicated pathway terms. X-axis shows −log10 (adjusted p value). Terms colored
+  in green, blue, and red represent the top three over-represented terms. (C). Venn
+  diagram of the gene symbol annotations using the top three over-represented terms
+  from (B). (D,E) Lamina propria leukocytes from mouse colons from indicated experimental
+  groups were isolated using enzymatic tissue digestion followed by density-gradient
+  centrifugation. Mice in the six different experimental groups of the DSS model were
+  treated and sacrificed as denoted in (A). (D). Mitochondrial ROS production was
+  determined by Mitosox staining, followed by surface staining with lineage antibodies
+  and subsequent flow cytometric analysis. CD4+ and CD8+ T cells were analyzed for
+  their Mitosox mean fluorescence intensity (MFI). (E). Mitochondrial volume of CD4+
+  and CD8+ T cells was determined by Mitotracker staining and FACS analyses evaluating
+  the Mitotracker MFI at indicated stages of DSS-induced colitis. (F). Mixed leukocytes
+  from spleen and lymph nodes (cervical, submandibular, brachial, axillary, inguinal,
+  mesenteric) were isolated from untreated wild-type mice, and CD4+ T cells were isolated
+  using magnetic negative selection. Cells were stimulated by agonistic CD3/CD28 (1
+  µg/mL each) antibodies in the absence and presence of 3 µM Oligomycin for three
+  days. Mitochondrial volume was determined by Mitotracker staining and FACS, analyzing
+  Mitotracker MFI. Left: Representative histogram overlay. Numbers indicate MFI of
+  histogram data. Right: Barplot showing mean ± SEM. Data in (D,E) of young control
+  animals (n = 4); the stages of acute colitis (n = 5) and remission of acute colitis
+  (n = 5) are from one experiment (N = 1). Data from old control animals (n = 12);
+  the stages of chronic colitis (n = 11) and remission of chronic colitis (n = 11)
+  are from two experiments (N = 2). Dots represent individual mice used to prepare
+  cell solutions of the indicated cell subset. Bars and whiskers represent mean ±
+  SEM. Statistical analysis in (D,E) was performed using the Kruskal–Wallis test (H-Test),
+  using values normalized to the mean of control animals. ** p  <  0.01, *** p  <
+   0.001, **** p < 0.0001. Data in (F) is from one experiment (N = 1) using three
+  individual mice (n = 3) to isolate and stimulate naïve CD4+ T cells. Statistical
+  analysis in (F) was conducted using the unpaired Student’s t-test. * p  <  0.05'
+article_title: Atypical Mitochondrial Phenotype of Colonic CD4+ and CD8+ T Cells During
+  Experimental Chronic Colitis
+citation: Jonas Negele, et al. Biomedicines. 2025 Sep;13(9).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-8-28
+doi: 10.3390/biomedicines13092094
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- ulcerative colitis
+- inflammatory bowel disease
+- t cells
+- b cells
+- neutrophils
+- intestinal epithelial cells
+- DSS colitis
+- autoimmune colitis
+- metabolism
+---

@@ -1,0 +1,49 @@
+---
+figid: PMC12697246__nihms-2103922-f0003
+pmcid: PMC12697246
+image_filename: jpg
+figure_link: /pmc/articles/PMC12697246/figure/F3/
+number: Figure 3.
+figure_title: The GRP plays a general and central role in defense against interbacterial
+  antagonism
+caption: A) Mean relative fitness (±SD) of the wild-type strain for each species during
+  T6SS-mediated antagonism by the indicated competitors, relative to the fitness of
+  the corresponding GRP-inactivated mutants. Asterisks indicate strain pairings in
+  which we observe a significant antagonism-dependent fitness difference between the
+  wild-type and ΔgacS strains. (Welch’s T-test, p<0.05 with BH correction for multiple
+  comparisons, n=3). B-E) Transposon library sequencing-based comparison of the fitness
+  contribution of individual P. protegens (B-D) or V. parahemolyticus (E) genes during
+  growth competition with wild-type versus antagonism deficient B. thai (B), E. cloacae
+  (C, E) or L. enzymogenes (D). E. cloacae and B. thai ΔT6SS strains contain deletions
+  of tssM21,80; L. enyzomogenes ΔT4SS contains a deletion of virD4. GRP signaling
+  components (GacA, GacS) indicated in B-E, and GRP-targets that contribute to defense
+  against one or more antagonist are highlighted in B-D. Reads, normalized counts
+  of transposon sequencing reads mapping to an given gene following growth competition
+  assays with the indicated strains. F) Contribution of the indicated pathways to
+  defense against different competitors. Average normalized transposon insertion count
+  ratios (antagonism deficient competitor/WT competitor, ±SD ) were obtained using
+  all genes within a given pathway, and replicate Tn-seq datasets when available.
+  For Arc3 and PFL_5124, a single ratio measurement is provided for defense against
+  L. enzymogenes, as a single Tn-seq screen was performed with that antagonist. Asterisks
+  indicate ratios significantly different from 1 (1-sample t-test, p<0.05). (G) Representative
+  LPS profiles of the indicated P. protegens strain, normalized by OD600, run on an
+  8–16% gradient polyacrylamide gel, and visualized by silver stain. Due to the sensitivity
+  of silver staining, OBC4 and Lipid A core regions shown are taken from separate
+  biological replicates. (H) Densitometry analysis of OBC4 O-polysaccharide from silver-stained
+  gels, normalized to wild-type levels (Welch’s t-test, n=3, p<0.05). (I) Relative
+  survival of P. protegens ΔOBC4 in a mixed-recipient competition with the wild-type
+  strain and the indicated strains of E. cloacae, B. thai, or L. enzymogenes, as determined
+  by qPCR. Asterisks indicate significant changes in surviving mutant abundance (Welch’s
+  t-test with BH correction, n=6–9, p<0.05). Also see Table S3 and Figure S3
+article_title: Pseudomonads coordinate innate defense against viruses and bacteria
+  with a single regulatory system
+citation: David M. Brinkley, et al. Cell Host Microbe. 2025 Aug 13;33(8).
+year: '2025'
+pub_date: 2025-8-13
+epub_date: 2025-8-13
+doi: 10.1016/j.chom.2025.07.016
+journal_title: Cell host & microbe
+journal_nlm_ta: Cell Host Microbe
+publisher_name: .na.character
+keywords: []
+---

@@ -1,0 +1,32 @@
+---
+figid: PMC12411032__MI2025-1619237.007
+pmcid: PMC12411032
+image_filename: jpg
+figure_link: /pmc/articles/PMC12411032/figure/F7/
+number: Figure 7
+figure_title: GSEA analysis of intersecting genes.
+caption: GSEA analysis of intersecting genes. The horizontal axis represents sorted
+  genes, and the vertical axis represents enrichment scores. Different colors denote
+  distinct functions or pathways, with the curve's peak indicating pathway enrichment
+  in high- or low-expression groups. (A) Pathway enrichment in the CSF3R high-expression
+  group. (B) Pathway enrichment in the CSF3R low-expression group. (C) Pathway enrichment
+  in the GPR160 high-expression group. (D) Pathway enrichment in the GPR160 low-expression
+  group. (E) Pathway enrichment in the RETSAT high-expression group. (F) Pathway enrichment
+  in the RETSAT low-expression group
+article_title: Multiomics Integration and Machine Learning Reveal Colony Stimulating
+  Factor 3 Receptor as a Key Gene and Therapeutic Target in Crohn's Disease
+citation: Peihong Li, et al. Mediators Inflamm. 2025;2025(NA).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025-8-28
+doi: 10.1155/mi/1619237
+journal_title: Mediators of Inflammation
+journal_nlm_ta: Mediators Inflamm
+publisher_name: Wiley
+keywords:
+- Crohn's disease
+- CSF3R
+- machine learning
+- Mendelian randomization
+- molecular structure
+---

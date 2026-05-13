@@ -1,0 +1,39 @@
+---
+figid: PMC12591268__nihms-2120258-f0006
+pmcid: PMC12591268
+image_filename: jpg
+figure_link: /pmc/articles/PMC12591268/figure/F6/
+number: Figure 6.
+figure_title: Cell—cell communication and pathway activity changes in LE skin
+caption: (a) Circle plot (by count) revealing the number of putative ligand—receptor
+  interactions between cell groups for NL and LE; line thickness represents strength
+  of communication. (b) Heatmap (by weight) summarizing differential strength of communication
+  in LE compared with that in NL. Red (positive values) and blue (negative values)
+  in the color bar indicate a higher number of predicted interactions in LE and NL
+  skin, respectively. (c) Significant signaling pathways were ranked on the basis
+  of their differences of overall information flow, calculated by summarizing all
+  communication probabilities in each inferred network. Those colored red and green
+  are more enriched in NL and LE skin, respectively. (d) Chord diagrams of select
+  inferred signaling networks. (e) PROGENy analysis of signaling pathway activation
+  in fibroblasts, immune cells, and keratinocytes using scRNA-seq data for all patient
+  samples. (f) p-STAT1 immunostaining of HC, NL, and LE skin samples. DAPI stains
+  the nuclei. Dotted line indicates basement membrane. Bar = 50 μm. HC, healthy control;
+  LE, lesional; NL, nonlesional; p-STAT1, phosphorylated signal transducer and activator
+  of transcription 1; scRNA-seq, single-cell RNA sequencing
+article_title: Spatial and Single-Cell Transcriptomics Reveal Keratinocytes as Key
+  Players in Vulvar Lichen Sclerosus Pathogenesis
+citation: Peng Sun, et al. J Invest Dermatol. 2026 Mar;146(3).
+year: '2026'
+pub_date: 2026-3-
+epub_date: 2025-8-29
+doi: 10.1016/j.jid.2025.08.022
+journal_title: The Journal of investigative dermatology
+journal_nlm_ta: J Invest Dermatol
+publisher_name: .na.character
+keywords:
+- Epidermal keratinocytes
+- IFN-g/JAK/STAT
+- Single-cell RNA-sequencing
+- T cell cytotoxicity
+- Vulvar lichen sclerosus
+---

@@ -1,0 +1,58 @@
+---
+figid: PMC12486161__thnov15p9415g004
+pmcid: PMC12486161
+image_filename: jpg
+figure_link: /pmc/articles/PMC12486161/figure/F4/
+number: Figure 4
+figure_title: Atherosclerosis has the potential to impact cognitive function via the
+  autophagy and AMPK signaling pathways, with Alisol A capable of binding to NAMPT
+  and modulating its activity.
+caption: 'Atherosclerosis has the potential to impact cognitive function via the autophagy
+  and AMPK signaling pathways, with Alisol A capable of binding to NAMPT and modulating
+  its activity. (A-D) Using Mendelian randomization to explore the causal link between
+  coronary atherosclerosis and vascular dementia. (A) A leave-one-out sensitivity
+  analysis was performed to assess if any single SNP disproportionately influences
+  the association. In the forest plot, each black point shows the Mendelian Randomization
+  analysis results excluding that specific SNP. (B) The causal effect of exposure
+  on the outcome is evaluated for each SNP using the Wald ratio and shown in a forest
+  plot. The overall Mendelian Randomization (MR) estimate, using all SNPs and various
+  MR methods, is also provided. (C) The effects of SNPs on the outcome are plotted
+  against their effects on the exposure, with each line''s slope indicating causal
+  association. Each method produces a unique line, except for the Egger estimate,
+  which is the only line not passing through the origin. (D) A funnel plot was used
+  to assess heterogeneity, with less precise estimates forming a funnel shape as precision
+  increases. A wider spread indicates more heterogeneity, possibly due to horizontal
+  pleiotropy. Asymmetry implies directional pleiotropy that biases many MR methods,
+  but MR Egger regression can reduce this bias. (E-I) Serum Lipidomics, n = 5; (E)
+  Scatter plot of Principal Component Analysis (PCA) scores; (F) Heatmap illustrating
+  differential metabolites in the comparison group; (G) Bar chart depicting differential
+  statistics of metabolic ions; (H) Diagram illustrating the differential metabolites
+  in volcanic activity; (I) Bubble Chart of differential metabolite enrichment pathways
+  in the KEGG database; (J) Analysis of gene expression profiles in the GEO dataset
+  (ID: GSE100927, G1 = 35: Standard control participants, G2 = 69: Patients with atherosclerosis).
+  The binding mode of NAMPT with Alisol A after molecular dynamics, (K) the 3D structure
+  of complex; (L) the Electrostatic surface of protein; (M) The detail binding mode
+  between Alisol A and NAMPT; The backbone of protein was rendered in a tube and colored
+  in cyan; Compound is rendering by red, Yellow dash represents hydrogen bond distance;
+  The RMSD of Alisol A with NAMPT (N); (O) The RMSD of Alisol A with NAMPT; (P) The
+  SASA of Alisol A with NAMPT; (Q) The R go f Alisol A with NAMPT; (R) The hydrogen
+  bond number of Alisol A with NAMPT; (S) (T) The energy decomposition for the interaction
+  of Alisol A with NAMPT; molecular mechanics (MM), polar solvation energy (Polar),
+  and nonpolar solvation energy (Apolar); (U) The binding energy by MMG-NAMPT (kJ/mol);
+  (V) SPR, Sensorgrams for the interaction of NAMPT and Alisol A'
+article_title: Alisol A ameliorates vascular cognitive impairment via AMPK/NAMPT/SIRT1-mediated
+  regulation of cholesterol and autophagy
+citation: Ping Xu, et al. Theranostics. 2025;15(18).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025-8-22
+doi: 10.7150/thno.112661
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+keywords:
+- Alisol A
+- atherosclerosis-related vascular cognitive impairment
+- brain cholesterol homeostasis
+- autophagy
+---

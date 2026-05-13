@@ -1,0 +1,31 @@
+---
+figid: PMC12467461__bioengineering-12-00950-g002
+pmcid: PMC12467461
+image_filename: jpg
+figure_link: /pmc/articles/PMC12467461/figure/F2/
+number: Figure 2
+figure_title: 'Multi-pathway style encoder architecture with three distinct pathways:
+  global pathway for overall color distribution, local pathway for spatial variations,
+  and texture pathway using Gram matrices for fine-grained patterns.'
+caption: 'Multi-pathway style encoder architecture with three distinct pathways: global
+  pathway for overall color distribution, local pathway for spatial variations, and
+  texture pathway using Gram matrices for fine-grained patterns. Features are concatenated
+  and processed through a fully connected layer to generate the final style code zs'
+article_title: Structure-Preserving Histopathological Stain Normalization via Attention-Guided
+  Residual Learning
+citation: Nuwan Madusanka, et al. Bioengineering (Basel). 2025 Sep;12(9).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-9-01
+doi: 10.3390/bioengineering12090950
+journal_title: Bioengineering
+journal_nlm_ta: Bioengineering (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- stain normalization
+- attention mechanism
+- residual learning
+- structure preservation
+- deep learning
+- digital pathology
+---

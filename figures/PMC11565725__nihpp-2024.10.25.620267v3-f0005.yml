@@ -1,0 +1,36 @@
+---
+figid: PMC11565725__nihpp-2024.10.25.620267v3-f0005
+pmcid: PMC11565725
+image_filename: jpg
+figure_link: /pmc/articles/PMC11565725/figure/F5/
+number: 'Figure 5:'
+figure_title: PHILHARMONIC recovers functional clusters in D. melanogaster
+caption: 'We show that PHILHARMONIC achieves similar results on the well-studied D.
+  melanogaster proteome. This predicted network likewise is scale-free (a) with a
+  balanced distribution of cluster sizes (b). (c) We observe similar functional “neighborhoods”
+  in the D. melanogaster network. We identify a central “bridge” cluster, shown in
+  detail in (d), that has one of the highest betweenness centralities in the cluster
+  graph (Rank 16 out of 285 clusters; Betweeness centrality score: 0.0291). This cluster
+  contains several G protein alpha subunits, as well as AstA-R1, DJ-1α, and DJ-1β,
+  and is connected to a diverse set of functional clusters. We hypothesize that the
+  proteins in this cluster play a crucial role in routing of environmental signals
+  in D. melanogaster. (e, f) We compute functional coherence of clusters using gold-standard
+  GO functions from FlyBase [50], as a higher-confidence annotation of protein function
+  than Pfam domains as used in coral. PHILHARMONIC clusters contain proteins that
+  are significantly more functionally related than the baseline (p =5.20×10−16, one-tailed
+  independent t-test). (g, h) Using time-series gene expression data from Schlamp
+  et al [52], we find that genes in PHILHARMONIC clusters are significantly likely
+  to have correlated patterns of expression (p =4.79×10−21, one-tailed related t-test).
+  (i) Members of the “bridge” cluster have correlated time-series expression after
+  stimulation of the immune pathway [52]'
+article_title: Decoding the Functional Interactome of Non-Model Organisms with PHILHARMONIC
+citation: Samuel Sledzieski, et al. bioRxiv. 2025 Aug 25;NA(NA).
+year: '2025'
+pub_date: 2025-8-25
+epub_date: 2025-8-25
+doi: 10.1101/2024.10.25.620267
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

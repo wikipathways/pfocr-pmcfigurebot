@@ -1,0 +1,52 @@
+---
+figid: PMC12449769__nihms-2107282-f0005
+pmcid: PMC12449769
+image_filename: jpg
+figure_link: /pmc/articles/PMC12449769/figure/F4/
+number: Figure 4.
+figure_title: Cell-cell interaction analysis within neighborhoods identifies basophil-fibroblast
+  IL-4 and OSM signaling
+caption: (A) Global signaling of all pathways between cell types in normal and inflammation-associated
+  neighborhoods by scRNA-seq CellChat. For (A–C), arrows indicate the direction of
+  sending cell type to receiving cell type. Thickness of arrows is proportional to
+  aggregate predicted activity among all ligand-receptor pathways.(B) Immune signaling
+  to fibroblast populations in MC903 IAN2 by scRNA-seq CellChat.(C) Fibroblast signaling
+  to immune populations in MC903 IAN3 by scRNA-seq CellChat.(D) Top basophil signaling
+  pathways to pro-inflammatory fibroblasts in MC903 by scRNA-seq CellChat. For (D–E),
+  the thickness of arrows is proportional to the relative contribution of each ligand-receptor
+  pathway to predicted signaling.(E) Top CXCL and CCL chemokine R-L signaling from
+  pro-inflammatory fibroblasts to immune populations by scRNA-seq CellChat.(F) Communication
+  probability of receptor-ligands from top predicted immune populations to PIFB (left)
+  and PIFB to immune populations (right) by scRNA-seq CellChat.(G) Pro-inflammatory
+  fibroblast (red) and basophil (yellow) co-localization (left) along with detected
+  transcripts (right) in d12 MC903 skin by MERFISH. Scale bars, 10 μm. In (G–I), the
+  dotted white line marks the epidermis and hair follicle boundary from the dermis.(H)
+  Representative immunofluorescence of d6 MC903 skin depicting basophil (MCPT8) and
+  pro-inflammatory fibroblast (PDGFRA/TNC) co-localization. Scale bars, 50 μm.(I)
+  Immunofluorescence of pSTAT3 (red), PDGFRA (green), and nuclei (DAPI;, blue) across
+  time, quantified at right. Low-magnification scale bars, 50 μm; high-magnification
+  scale bars, 10 μm.(J) Experimental design for in vitro mouse primary fibroblast
+  (FB) stimulation by recombinant cytokines IL-4 (100 ng/mL) and OSM (20 ng/mL) for
+  12 h(K) Western blot of cell lysates from mouse in vitro stimulation with relative
+  intensity quantification. Data are mean ± S.E.M. *p < 0.05, **p < 0.01, ***p < 0.001,
+  one-way ANOVA with Dunn’s multiple comparisons test.(L) qPCR of mouse primary fibroblast
+  cytokine stimulation. Data are mean ± S.E.M. *p < 0.05, **p < 0.01, ***p < 0.001,
+  ****p < 0.0001, one-way ANOVA with Dunn’s multiple comparisons test.(M) Experimental
+  design for in vitro human primary FB stimulation by recombinant cytokines IL-13
+  (100 ng/mL) and OSM (20 ng/mL) for 12 h(N) Western blot of cell lysates from human
+  in vitro stimulation with relative intensity quantification. Data are mean ± S.E.M.
+  *p < 0.05, **p < 0.01, ***p < 0.001, one-way ANOVA with Dunn’s multiple comparisons
+  test.(O) qPCR of human primary FB cytokine stimulation. Data are mean ± S.E.M. *p
+  < 0.05, **p < 0.01, ***p < 0.001, ****p < 0.0001, one-way ANOVA with Dunn’s multiple
+  comparisons test.See also Figure S4 and Table S3
+article_title: A basophil-fibroblast pro-inflammatory axis fuels type 2 skin inflammation
+citation: Ichiro Imanishi, et al. Cell Rep. 2025 Aug 26;44(8).
+year: '2025'
+pub_date: 2025-8-26
+epub_date: 2025-8-07
+doi: 10.1016/j.celrep.2025.116114
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

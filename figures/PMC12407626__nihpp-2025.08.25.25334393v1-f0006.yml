@@ -1,0 +1,43 @@
+---
+figid: PMC12407626__nihpp-2025.08.25.25334393v1-f0006
+pmcid: PMC12407626
+image_filename: jpg
+figure_link: /pmc/articles/PMC12407626/figure/F6/
+number: Figure 6.
+figure_title: Multiomic Prediction of Pathologic Complete Response from Gene Expression
+  and Pathology Data
+caption: 'A, Overview of analysis workflow. Separate RNA-based neural network models
+  were trained in HER2− and HER2+ I-SPY2 cohorts, with 5-fold cross validation used
+  to estimate training performance, and predictions combined with the pre-trained
+  pathology IIE signature prediction via logistic regression to generate multimodal
+  predictors. All three models (RNA, pathology, RNA+pathology) were then validated
+  in CALGB 40603 (HER2−) and CALGB 40601 (HER2+) cohorts. B. Distribution of absolute
+  gene attribution magnitudes, calculated via integrated gradients, for all genes
+  for the HER2− model, illustrating that predictions are not dominated by a small
+  subset of genes. C & D, Model performance and confidence intervals in I-SPY2 (training)
+  and CALGB (validation) datasets, with significance of model comparisons assessed
+  by DeLong’s test. E & F. SHAP plots of top 20 genes by mean integrated gradient
+  attribution in the HER2− and HER2+ cohorts, with each point representing a single
+  patient, with the color indicating standardized expression of the referenced gene,
+  and x-axis indicating contribution direction and magnitude of that gene to predicted
+  pCR probability. G & H. SHAP plots of top 20 Hallmark pathways ranked by mean integrated
+  gradient attribution across genes included in the pathway in the HER2− and HER2+
+  cohorts, colored by average expression score for the pathway.* indicates p < 0.05**
+  indicates p < 0.01Abbreviations: AUROC, area under the receiver operating characteristic
+  curve; I-SPY2, Investigation of Serial Studies to Predict Your Therapeutic Response
+  with Imaging and Molecular Analysis 2; CALGB, Cancer and Leukemia Group B; CV, cross
+  validation; SNN; self-normalizing neural network; LR, logistic regression; HER2,
+  human epidermal growth factor receptor 2; pCR, pathological complete response; RD,
+  residual disease; GSEA, gene-set enrichment analysis; SHAP, SHapley Additive exPlanations'
+article_title: Integration of Gene Expression and Digital Histology to Predict Treatment-Specific
+  Responses in Breast Cancer
+citation: Frederick M. Howard, et al. medRxiv. 2025 Aug 27;NA(NA).
+year: '2025'
+pub_date: 2025-8-27
+epub_date: 2025-8-27
+doi: 10.1101/2025.08.25.25334393
+journal_title: medRxiv
+journal_nlm_ta: medRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

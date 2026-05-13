@@ -1,0 +1,38 @@
+---
+figid: PMC12407899__nihpp-2025.08.27.672635v2-f0006
+pmcid: PMC12407899
+image_filename: jpg
+figure_link: /pmc/articles/PMC12407899/figure/F6/
+number: 'Figure 6:'
+figure_title: a) Heatmap of k-means–clustered gene modules across the validation dataset.
+caption: a) Heatmap of k-means–clustered gene modules across the validation dataset.
+  Rows represent gene modules and columns represent perturbations, with the barplot
+  above showing median predicted pRPS6 values per perturbation. b) Boxplots of representative
+  differentially expressed genes for selected mTORC1 pathway perturbations, grouped
+  by complex. c) Schematic models illustrating inferred feedback relationships among
+  different mTORC1 pathway complexes. d) Scatter plot comparing median scores of the
+  anabolism gene module with the fraction of cells in G2/M phase for each perturbation.
+  e) Proportional bar plot of cell cycle phase distribution across perturbations.
+  f) Boxplots of measured pRPS6 levels stratified by cell cycle phase for selected
+  perturbations (MED12, MED19, TSC1, RPTOR) compared to non-targeting controls. g)
+  Boxplots of ATF4-related transcripts across perturbations predicted to activate
+  the ISR. h) Boxplots of measured pRPS6 levels across EIF2α-related perturbations.
+  i) Western blot analysis of ATF4, total RPS6, and pRPS6 following individual perturbations
+  in K562 cells. Representative data from two independent experiments are shown. All
+  statistical tests are two-sided t-tests adjusted using Benjamini-Hochberg correction
+  for multiple comparisons. Significant differences between compared to non-targeting
+  controls indicated by *** p <0.001,**p<0.01,*p<0.05. For all boxplots, the upper
+  and lower bounds represent 75th and 25th percentiles respectively and the center
+  line represents the median
+article_title: Iterative, multimodal, and scalable single-cell profiling for discovery
+  and characterization of signaling regulators
+citation: John D. Blair, et al. bioRxiv. 2025 Aug 30;NA(NA).
+year: '2025'
+pub_date: 2025-8-30
+epub_date: 2025-8-30
+doi: 10.1101/2025.08.27.672635
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

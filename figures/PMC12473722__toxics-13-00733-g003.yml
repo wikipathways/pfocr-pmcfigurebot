@@ -1,0 +1,39 @@
+---
+figid: PMC12473722__toxics-13-00733-g003
+pmcid: PMC12473722
+image_filename: jpg
+figure_link: /pmc/articles/PMC12473722/figure/F3/
+number: Figure 3
+figure_title: Integrated analysis of Notch-circadian rhythm crosstalk.
+caption: 'Integrated analysis of Notch-circadian rhythm crosstalk. (A) PPI network
+  of enriched genes from Notch signaling (ko04330) and circadian rhythm (ko04710)
+  pathways. Nodes sized/colored by degree centrality (STRING confidence > 0.9). (B)
+  Correlation heatmap between core Notch (Notch1/2/3/4, Rbpj, Rbpjl) and circadian
+  (Cry1/2, Per1/2/3, Bmal1) components. Upper triangle: Pearson r (red = positive,
+  blue = negative); lower triangle: −log10(p -value). (C) RT-qPCR of Bmal1, Bhlhe40,
+  Per2, Per3 (upper) and Notch1/2/3/4 (lower), normalized to FA controls (mean ± SD,
+  * indicates p < 0.05 compared with FA, n = 6). (D) Representative IHC staining of
+  BMAL1, PER2, PER3, BHLHE40 in FA/Ozone lung tissues (left; scale bars: 50 μm). Area
+  fraction of positive staining (right) (mean ± SD, * indicates p < 0.05 compared
+  with FA, n = 3). (E) Representative IHC staining of NOTCH1/2/3/4 in FA/Ozone lung
+  tissues (left; scale bars: 50 μm). Area fraction of positive staining (right) (mean
+  ± SD, * indicates p< 0.05 compared with FA, n = 3)'
+article_title: Notch Signaling Pathway Regulates Ozone-Induced Lung Circadian Rhythm
+  Disruption
+citation: Xinyu Zhang, et al. Toxics. 2025 Sep;13(9).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-8-30
+doi: 10.3390/toxics13090733
+journal_title: Toxics
+journal_nlm_ta: Toxics
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- Notch3
+- Notch4
+- circadian rhythm
+- ozone
+- Bmal1
+- Per
+- air pollution
+---

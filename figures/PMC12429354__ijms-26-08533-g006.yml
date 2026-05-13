@@ -1,0 +1,32 @@
+---
+figid: PMC12429354__ijms-26-08533-g006
+pmcid: PMC12429354
+image_filename: jpg
+figure_link: /pmc/articles/PMC12429354/figure/F6/
+number: Figure 6
+figure_title: Validation of the optimal feature genes at the single-cell level and
+  analyzing cell-cell interactions.
+caption: 'Validation of the optimal feature genes at the single-cell level and analyzing
+  cell-cell interactions. (A): The results of UMAP indicated that CTSB was predominantly
+  expressed in macrophages. (B): The results of violin plot for CTSB. (C): Intercellular
+  communication quantity and intensity in control and influenza-infected cohorts.
+  (D,E): The results of metabolic pathway analysis in monocytes. (F): The analysis
+  of cellular communication revealed the magnitude and frequency of intercellular
+  interactions among distinct cell types'
+article_title: Machine Learning Integration of Bulk and Single-Cell RNA-Seq Data Reveals
+  Cathepsin B as a Central PANoptosis Regulator in Influenza
+citation: Bin Liu, et al. Int J Mol Sci. 2025 Sep;26(17).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-9-02
+doi: 10.3390/ijms26178533
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- PANoptosis
+- influenza A virus
+- cathepsin B (CTSB)
+- single-cell RNA sequencing
+- machine learning
+---

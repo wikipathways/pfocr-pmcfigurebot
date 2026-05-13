@@ -1,0 +1,57 @@
+---
+figid: PMC12407969__nihpp-2025.08.26.672221v1-f0007
+pmcid: PMC12407969
+image_filename: jpg
+figure_link: /pmc/articles/PMC12407969/figure/F7/
+number: 'Fig. 7:'
+figure_title: BN-HN in A1 L4 has the highest functional connectivity
+caption: 'A: Example realistic neural responses of BNs at different pure-tone sounds
+  and corresponding harmonic sounds. Case of harmonic response (4 kHz plus 8 kHz)
+  and pure-tone responses (4 kHz and 8 kHz) are shown.B: Linear reconstruction of
+  the example BN response to harmonic sound by using both the response to the pure
+  tones as variables (left), as well as by the response to each pure tone separately
+  (right). Higher R2 indicates higher similarity between reconstructed harmonic response
+  by component response and the original response to harmonic.C: Nonlinear reconstruction
+  of BN responses to HN response by Support Vector Regression (SVR).D: Schematic showing
+  the proposed micronetwork that can encode how HN responses to sounds with different
+  components. Along the auditory pathway, PTN activates inhibitory neurons when pure-tone
+  sound is played, further inhibits the HN (left). BN directly activates BN without
+  any inhibition from PTN, which triggers the high responses of HN when harmonic is
+  played. We next investigated the functional connectivity between BN and HN by applying
+  Granger Causality (GC) analysis.E: Example field-of-view images showing the spatial
+  location of PTNs, HNs and BNs in A1 L2/3. Left: PTNs are located heterogeneously
+  across imaged A1 L2/3. Color indicates best frequency of the plotted neuron. Right:
+  BN and HN are plotted on the same field-of-view. Larger dots indicate an example
+  coactivated pair of HN and BN to one stimulus, in which the BN achieves the highest
+  R2 reconstructing the response of HN to the stimulus. The black line indicates the
+  distance between the HN and BN.F: ΔStrengths of significant GC links between all
+  BNs within the same FOV (left Y-axis, blue) as an example HN plotted with the distances
+  between each BN and the example HN (right Y-axis, red). The distances are normalized
+  by the maximum distance among all BN-HN pairs for all HNs for each animal.G: Quantification
+  of top 5% GC links between any BN-HN pair plotted against binned normalized distances
+  in three subareas. A1 L2/3, n = 11 mice. A1 L4, n = 7 mice. A2 L2/3, n = 7 mice.
+  Two separate Kruskal-Wallis tests revealed the significant main effect of subareas
+  (χ2(2) = 35.3033, p = 2.16E-8) and non-significant effect of distances (χ2(8) =
+  13.2486, p = 0.1036) on the Δstrength of top 5% GC links. Post-hoc Dunn’s test with
+  Dunn-Sidak correction showed that A1 L4 has the highest functionally connected BN-HN
+  pairs compared to A1 L2/3 (p = 1.03E-8) and A2 L2/3 (p = 5.71E-4). Spearman correlation
+  performed on the GC links as the distances increase reveals significant trend of
+  decrease of GC links in A1 L2/3 (ρ = −0.2170, p = 0.0388) and nonsignificance in
+  A1 L4 (ρ = −0.1202, p = 0.3731) and A2 L2/3 (ρ = −0.2132, p = 0.1254)'
+article_title: Robust representation and non-linear spectral integration of simple
+  and complex harmonic sounds in layers 4 and 2/3 of primary auditory cortex
+citation: Yunru Chen, et al. bioRxiv. 2025 Aug 26;NA(NA).
+year: '2025'
+pub_date: 2025-8-26
+epub_date: 2025-8-26
+doi: 10.1101/2025.08.26.672221
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Auditory processing
+- harmonic stacks
+- functional connectivity
+- in vivo imaging
+- spectral integration
+---

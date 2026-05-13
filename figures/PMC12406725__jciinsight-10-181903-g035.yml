@@ -1,0 +1,44 @@
+---
+figid: PMC12406725__jciinsight-10-181903-g035
+pmcid: PMC12406725
+image_filename: jpg
+figure_link: /pmc/articles/PMC12406725/figure/F2/
+number: Figure 2
+figure_title: GSC transcriptional changes induced by M2 CM–mediated invasion
+caption: '(A) Schematic of HA-based invasion device and microdissection borders (dashed
+  lines). (B and C) GSC-20 invasion assays with M2 CM (n = 9 devices) showing (B)
+  representative phase images and (C) quantification. Scale bar: 400 μm. (D–F) Cellular
+  pathway (MSigDB) enrichment analysis of differentially expressed genes. Pathways,
+  odds ratio, and statistical significance (*Padj < 0.05) calculated from Enrichr
+  between (D) GSC-20 invasive fraction of M2 CM devices and entire channel of GSC-20
+  control devices, (E) GSC-20 core fraction of M2 CM devices and entire channel of
+  GSC-20 control devices, and (F) GSC-20 invasive fraction of M2 CM devices and GSC-20
+  core fraction of M2 CM devices. (G) Heatmap showing GSC-20 relative gene expression
+  levels of mesenchymal (MES+) and non-mesenchymal (MES–) markers obtained by bulk
+  RNA-seq of cells isolated from invasion devices. Expression levels normalized to
+  GSC-20 devices in control media (entire channel). (H and I) Heatmaps showing relative
+  gene expression levels of MES+ and MES– markers obtained by qPCR of GSC-11 (H) and
+  GSC-268 (I) cells isolated from spheroid invasion assays. Expression levels are
+  normalized to GSCs in control media. (J) Relative gene expression levels of PDGFRA,
+  SNAI2, and CD44 across GSC lines and culture conditions (n = 4 biological replicates).
+  Expression levels for each gene are normalized to GSC-11 in control media. Statistical
+  significance was analyzed using 1-way ANOVA followed by Šídák’s multiple-comparisons
+  test (C) or Tukey’s multiple-comparison test (J). *P < 0.05; **P < 0.01; ***P <
+  0.001; ****P < 0.0001'
+article_title: An engineered glioblastoma model yields macrophage-secreted drivers
+  of invasion
+citation: Erin A. Akins, et al. JCI Insight. 2025 Aug 22;10(16).
+year: '2025'
+pub_date: 2025-8-22
+epub_date: 2025-8-22
+doi: 10.1172/jci.insight.181903
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Immunology
+- Oncology
+- Brain cancer
+- Extracellular matrix
+- Macrophages
+---

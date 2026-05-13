@@ -1,0 +1,43 @@
+---
+figid: PMC12467293__biology-14-01188-g004
+pmcid: PMC12467293
+image_filename: jpg
+figure_link: /pmc/articles/PMC12467293/figure/F4/
+number: Figure 4
+figure_title: KEGG and Reactome pathway enrichment analysis for IL-6 and irisin.
+caption: KEGG and Reactome pathway enrichment analysis for IL-6 and irisin. Bar graph
+  illustrating the top five significantly enriched signaling pathways associated with
+  IL-6 and irisin targets based on KEGG and Reactome databases. Pathways such as NF-κB
+  signaling, cytokine–cytokine receptor interaction, and IL-17 signaling are prominently
+  linked to IL-6 -related inflammatory responses, while AMPK signaling and oxidative
+  phosphorylation are associated with irisin’s metabolic and anti-inflammatory roles.
+  The x-axis shows the adjusted p-values indicating statistical significance of enrichment.
+  This analysis supports the observed salivary expression profiles and implicates
+  both biomarkers in periodontitis-related pathophysiological pathways. Statistical
+  analyses were performed using IBM SPSS Statistics for Windows, Version 25.0. The
+  Shapiro–Wilk test was used to assess normality. Group comparisons were made using
+  the independent samples t-test or Mann–Whitney U test, while correlations were evaluated
+  with Spearman’s rank correlation. ROC analysis was used to assess diagnostic performance.
+  A p-value < 0.05 was considered statistically significant
+article_title: Evaluation of Irisin and Interleukin-6 Levels in Saliva Samples of
+  Periodontally Healthy and Stage 3 Grade C Periodontitis Individuals
+citation: Ebru Saribas, et al. Biology (Basel). 2025 Sep;14(9).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-9-03
+doi: 10.3390/biology14091188
+journal_title: Biology
+journal_nlm_ta: Biology (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- periodontitis
+- saliva
+- interleukin-6
+- irisin
+- adipomyokines
+- biomarkers
+- inflammation
+- molecular docking
+- in silico techniques
+- KEGG pathway
+---

@@ -1,0 +1,56 @@
+---
+figid: PMC12431381__nihms-2106514-f0007
+pmcid: PMC12431381
+image_filename: jpg
+figure_link: /pmc/articles/PMC12431381/figure/F7/
+number: Figure 7.
+figure_title: Connectomics highlights specific circuit motifs and candidate sites
+  for 5-HT neuromodulation
+caption: (A) Wiring diagram of LC15 and LC12 illustrating the connections between
+  the major presynaptic and postsynaptic partners and the synaptic connections to
+  5-HTPLP (37). Cells are colored by neurotransmitter type and are stratified by neuropil.
+  The colored dots detail the 5-HTR expression where available. Bordered cell names
+  refer to neurons that both send and receive synapses from LC15 or LC12. The 5HTPLP01
+  is labelled by trh-GAL4 (cyan) but uses glutamate as its neurotransmitter so the
+  connections to downstream partners are shown as inhibitory. 5-HTPLP01 makes reciprocal
+  connections to another glutamatergic neuron, PVLP106. 5-HTPLP01 makes the largest
+  number of synapses onto cL21 (703, 6%) but otherwise does not make connections to
+  the members of the LC15 pathway. cL21 is a pair of centrifugal GABAergic cells that
+  have input synapses in the PVLP and outputs in the lobula. Both PVLP106 and cL21
+  receive most of their input synapses from LC17 (3,743, 54% and 4,560, 25%). 5-HTPLP01
+  does synapse onto a downstream target of LC12, a GABAergic cell class called PVLP037.
+  PVLP037 has 4 cells per hemisphere and makes 684 inhibitory synapses onto PVLP097,
+  a recursive partner of LC12. 5-HTPLP01 sends and receives most of its connections
+  from AVLP interneurons.(B) The neurons of the right hemisphere that have output
+  synapses in the PVLP and use 5-HT as a neurotransmitter (cyan). Direct connections
+  to the LC15 VPN network are also shown. The only serotonergic cell that synapses
+  onto members of the LC15 pathway is DNp27. DNp27 is a large bilateral descending
+  neuron that innervates the right SMP, PLP, PVLP and AVLP. Output synapses are observed
+  in the central brain and in the lobula but presumably most outputs are located in
+  the VNC (tectulum, lower tectulum, and abdominal segment, see (51)). In the lobula,
+  DNp27 makes synapses onto a population of 17 lobula-medulla amacrine cells, LmA2.
+  The LmA2 cells make up a patchwork tiling the visual field and the LmA2 cells make
+  583 synapses onto LC15 in the lobula.(C) Morphology of the mALB4-PVLP101b-PVLP103-LC15
+  circuit element. LC15 (purple) and the GABAergic partners (green) that interact
+  at the LC15 glomerulus. mALB4 is a GABAergic neuron that has input synapses in the
+  PVLP and the SEZ. The output synapses are solely located in the PVLP, where it connects
+  to PVLP101b and PVLP103. PVLP101b contains two GABAergic cells that have reciprocal
+  (input and output) synapses with LC15. PVLP103 similarly contains two GABAergic
+  cells that receive 341 synapses from LC15 and makes 593 synapses back onto LC15
+article_title: Serotonin selectively modulates visual responses of object motion detectors
+  in Drosophila
+citation: David J. Bertsch, et al. J Neurophysiol. 2025 Sep 01;134(3).
+year: '2025'
+pub_date: 2025-9-01
+epub_date: 2025-8-19
+doi: 10.1152/jn.00154.2025
+journal_title: Journal of neurophysiology
+journal_nlm_ta: J Neurophysiol
+publisher_name: .na.character
+keywords:
+- Drosophila
+- neuromodulation
+- sensory processing
+- serotonin
+- visual system
+---

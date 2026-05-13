@@ -1,0 +1,62 @@
+---
+figid: PMC12340876__nihpp-2025.08.04.25332945v2-f0005
+pmcid: PMC12340876
+image_filename: jpg
+figure_link: /pmc/articles/PMC12340876/figure/F5/
+number: 'Fig. 5:'
+figure_title: Mediators of clinical AD vs. Aβ pathology (BioFINDER-2 plasma Somalogic)
+caption: 'a. The dot plot with error bars shows the mediation proportions and confidence
+  intervals for proteins mediating the effects of APOE4 on Aβ. b. The same but for
+  proteins mediating the effects of APOE4 on AD diagnosis. For similar plots a, b,
+  proteins whose indirect effects in protein mediation path are significant after
+  FDR correction alone or mediation proportions of protein-mediation pathways are
+  greater than those of Aβ (or AD) -mediated pathways (when indirect effects of both
+  mediation paths are significant after FDR correction) are defined as mediators and
+  are shown. The x-axis represents the percentage of mediation proportions. The dots
+  represent the estimated mediation proportions of each protein while red indicates
+  a significant estimation. The horizontal lines represent the 95% confidence intervals
+  of these estimates. Bold indicates that the direct effect of APOE4 is not significant,
+  resulting in a total mediation effect of this protein. c. Boxplots show protein
+  level change groups by APOE genotypes for key APOE4 => Aβ mediators in Aβ− individuals.
+  d. The same but for key APOE2 => Aβ mediators in Aβ− individuals. On the box plots
+  c and d, the y-axis represents residual protein levels after adjusting for age,
+  sex and mean protein level. The center line of each box indicates the median (50th
+  percentile); the lower and upper edges of the box represent the 25th and 75th percentiles,
+  respectively. Whiskers extend to the most extreme values within 1.5 times the interquartile
+  range (IQR); data points beyond this range are considered outliers and have been
+  excluded from the plot display. The x-axis represents APOE genotype, ε2ε2 and ε2ε3
+  carriers were merged into the “22/23” group due to a small sample size of ε2ε2 carriers.
+  Welch’s t-test was used to compare residual protein levels between groups. Two-sided
+  p-values are tested, and p-values were adjusted for multiple comparisons using Holm-Bonferroni
+  method. Each pair of groups was compared, only pairs with significant differences
+  after FDR correction were shown. Asterisks indicate significance levels: **** for
+  pFDR < 0.0001, *** for pFDR < 0.001, ** for pFDR < 0.01, * for pFDR < 0.05. e. The
+  interaction plot shows the interaction between APOE4 carrier status (0 = non-carriers
+  [ε3ε3], 1 = carriers) and S100A13 protein expression in predicting Aβ status in
+  CU and MCI groups. Lines represent estimated Aβ status across APOE4 groups at three
+  levels of S100A13 expression: one standard deviation below the mean (−1 SD, dashed
+  gray), the mean (solid red), and one standard deviation above the mean (+1 SD, dashed
+  brown). Among APOE4 carriers, higher S100A13 levels are associated with a greater
+  likelihood of elevated Aβ status. f. The heatmap displays standardized regression
+  coefficients (β) from models examining the associations between APOE-associated
+  proteins (x-axis) and AD-related markers (tau-PET: tau-PET uptake in the temporal
+  meta-ROI, Aβ-PET, Atrophy: cortical thickness in the temporal lobe, MMSE and mPACC:
+  the modified preclinical Alzheimer’s cognitive composite) (y-axis) in Aβ− individuals.
+  Full statistical details are available in Supplement Table 7. g. The same but in
+  Aβ+ individuals. On heatmaps, red shades indicate positive associations; blue shades
+  indicate negative associations. The darker the color, the stronger the associations
+  between APOE-associated proteins and 5 AD biomarkers or cognitive performance. For
+  heatmap annotation, * indicates a nominally significant association, *+ indicates
+  a significant association after FDR correction'
+article_title: Proteomic signatures of the APOE ε4 and APOE ε2 genetic variants and
+  Alzheimer’s disease
+citation: Lina Lu, et al. medRxiv. 2025 Aug 25;NA(NA).
+year: '2025'
+pub_date: 2025-8-25
+epub_date: 2025-8-25
+doi: 10.1101/2025.08.04.25332945
+journal_title: medRxiv
+journal_nlm_ta: medRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

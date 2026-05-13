@@ -1,0 +1,39 @@
+---
+figid: PMC11343097__nihpp-2024.08.13.607731v3-f0004
+pmcid: PMC11343097
+image_filename: jpg
+figure_link: /pmc/articles/PMC11343097/figure/F4/
+number: Figure 4.
+figure_title: Vesiculation phase diagram when accounting for both the polymerization
+  energy μ and the reorganization energy ν.
+caption: Vesiculation phase diagram when accounting for both the polymerization energy
+  μ and the reorganization energy ν. (a,b) Free energy landscape for Model(1,2) (i.e.
+  with reorganization energy Ec=-va01c02) in (a) and Model(1,1) (i.e. with reorganization
+  energy Ec=-va01c01) in (b). Thick black lines are the analytical solutions for the
+  vesiculation boundary. Thin rainbow-colored lines visually represent the energy
+  landscape (values of the color bar are for the dimensionless free energy scale).
+  Thick colored-lines represent pathways that stream along the negative gradient of
+  the free energy landscape in the phase space starting from the origin (i.e. no clathrin
+  assembled and no curvatuve). Our model shows that only a subset of suitable (μ,ν)
+  values create pathways that lead to vesiculation, i.e. that reach the thick black
+  line (thick green lines in the third and fourth panels). The orange and red curves
+  are pathways that fail to reach vesiculation. The red curve does not produce any
+  curvature, while the orange curve generates a small curvature but never leads to
+  vesiculation. (c,d) Phase diagrams for Model(1,2) in (c) and Model(1,1) in (d) show
+  the relationship between pathway types and the (μ,ν) values. The colors of the dots
+  correspond to the same types of pathways as represented by thick colored lines in
+  (a,b). Our results show that larger μ or ν values lead to an easier vesiculation.
+  Parameters with a bar over them are normalized to be dimensionless, and the dimensional
+  parameters are calculated using one of the typical fitting values L0=40nm (Figure
+  5)
+article_title: Vesiculation pathways in clathrin-mediated endocytosis
+citation: Xinran Wang, et al. bioRxiv. 2025 Sep 03;NA(NA).
+year: '2025'
+pub_date: 2025-9-03
+epub_date: 2025-9-03
+doi: 10.1101/2024.08.13.607731
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

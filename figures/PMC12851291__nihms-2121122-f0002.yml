@@ -1,0 +1,40 @@
+---
+figid: PMC12851291__nihms-2121122-f0002
+pmcid: PMC12851291
+image_filename: jpg
+figure_link: /pmc/articles/PMC12851291/figure/F2/
+number: Figure 2.
+figure_title: Monitoring the PDE-catalyzed hydrolysis of cAMP by real-time NMR reveals
+  that the ACRO1 R366X mutant accelerates and reverses the PKA deactivation pathway
+caption: (a) 1D 1H H1′ signal of cAMP and 5′-AMP used to monitor the hydrolysis of
+  100 μM free excess cAMP (green) after 15 min (blue) in the presence of 20 nM PDE
+  and 40 μM WT (119–379). (b) As (a) using 40 μM R366X (119–365) instead. (c–e) Selected
+  regions of 2D 1H–15N HSQC spectra of 15N-labeled PKA RIα acquired during the PDE-catalyzed
+  cAMP hydrolyses using sample starting conditions as in (a). Representative cross-peaks
+  for CNB-A and -B are shown for cAMP-bound WT (green, c) and apo WT (red, c) as reference
+  spectra. Representative CNB-A and -B cross-peaks for spectra of cAMP-bound WT (light
+  blue, d) and R366X (yellow, e) in the presence of 20 nM PDE after 1.5 h. Gaussian
+  fitted 1D cross-sections highlight the decay of the cAMP-bound peak. (f) Loss of
+  CNB-A and B-bound cAMP in the presence of 60 nM PDE and 40 μM WT RIα, monitored
+  via residues T217 & T207 (CNB-A, solid line), and G314, G317, and A339 (CNB-B, dotted
+  line). (g) as (f) but for the cAMP hydrolysis in the presence of 20 nM PDE and 40
+  μM WT or R366X RIα. Error bars are derived by propagating errors assessed as standard
+  deviation between residues. The gray box at the bottom represents the average noise
+  level in the HSQC spectra
+article_title: Recurrent Acrodysostosis-Related PKA RIα Mutant Reveals a Novel Mechanism
+  of Aberrant PKA Deactivation☆
+citation: Leonardo Della Libera, et al. J Mol Biol. 2025 Dec 01;437(23).
+year: '2025'
+pub_date: '2025-12-01'
+epub_date: 2025-8-09
+doi: 10.1016/j.jmb.2025.169381
+journal_title: Journal of molecular biology
+journal_nlm_ta: J Mol Biol
+publisher_name: .na.character
+keywords:
+- NMR
+- cAMP
+- PKA
+- allostery
+- dynamics
+---

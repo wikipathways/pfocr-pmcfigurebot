@@ -1,0 +1,37 @@
+---
+figid: PMC12582374__nihms-2105307-f0002
+pmcid: PMC12582374
+image_filename: jpg
+figure_link: /pmc/articles/PMC12582374/figure/F2/
+number: Figure 2.
+figure_title: ESR1 E2-dependent and E2-independent transcriptomic regulation in engineered
+  THESC
+caption: (A) Schematic of comparisons to investigate E2-dependent and independent
+  actions in THESC by bulk RNA-seq. (B) Volcano plot representation and (C) IPA pathway
+  analysis of differentially expressed genes in response to unliganded ESR1 by comparing
+  vehicle-treated THESCESR1 and THESCNT. (D) Volcano plot representation and (E) select
+  pathways from IPA pathway analysis of differentially expressed genes in response
+  to liganded ESR1 by comparing THESCESR1 treated with 10 nM E2 or vehicle. (F) Bar
+  graph showing the number and percentage of E2-independent and dependent DEGs that
+  are active (FPKM > 1) in human endometrial biopsies at the proliferative stage from
+  published RNA-seq data (GSE132713). THESC = immortalized human endometrial stromal
+  cells; THESCESR1 = ESR1 activated cells; THESCNT = control non-targeting cells;
+  E2 = 10 nM estradiol; vehicle = 0.1% ethanol; IPA = ingenuity pathway analysis
+article_title: Deciphering ESR1-driven transcription in human endometrial stromal
+  cells via transcriptome, cistrome, and integration with chromatin landscape
+citation: Skylar G. Montague Redecke, et al. F S Sci. 2026 Jan;7(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: 2025-8-11
+doi: 10.1016/j.xfss.2025.08.002
+journal_title: F&S science
+journal_nlm_ta: F S Sci
+publisher_name: .na.character
+keywords:
+- estrogen
+- ESR1
+- decidualization
+- transcriptome
+- cistrome
+- chromatin
+---

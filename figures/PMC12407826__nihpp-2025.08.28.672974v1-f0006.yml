@@ -1,0 +1,36 @@
+---
+figid: PMC12407826__nihpp-2025.08.28.672974v1-f0006
+pmcid: PMC12407826
+image_filename: jpg
+figure_link: /pmc/articles/PMC12407826/figure/F6/
+number: Figure 6.
+figure_title: One-pot reactions for the assembly of metabolic engineering pathway
+caption: 'A: The schematic of the violacein biosynthesis pathway, with small molecule
+  products, intermediates and substrates, and enzymes catalyzing specific steps. The
+  output of the pathway can be controlled by the identity of the enzymes in the reaction
+  mix.B: The schematic of one-pot cloning reaction to program the Vio pathway. All
+  Vio enzymes have been modified to introduce a STOP codon at position 50, resulting
+  in truncated and inactive products. One-pot cloning reactions are used to fix (by
+  removing STOP codons) some of the enzymes, creating a pool with a combination of
+  active enzymes programming the pathway.C: An example of HPLC analysis of Vio reaction
+  products, separating all the products and intermediates.D – I: Different Vio biosynthesis
+  pathways built by one-pot mutagenesis of different plasmids, with all the mutagenesis
+  done on a pool of plasmids mixed together. Each mutagenesis removed the STOP codon
+  from the selected plasmids, enabling expression of a full length functional enzyme.
+  After cloning and expression of the enzyme in TxTl for 12h, the reactions were analyzed
+  on HPLC. D: mutagenesis of all plasmids, creating a complete Vio pathway with all
+  enzymes. E: mutagenesis of all plasmids except VioD. F: mutagenesis of only VioA
+  and VioB. G: mutagenesis of all plasmids except VioC. H: mutagenesis of all plasmids
+  except VioD and VioC. I: negative control, no mutagenesis plasmids were used, so
+  all Vio genes remained inactivated by the premature STOP codon'
+article_title: One-pot cloning and protein expression platform for genetic engineering
+citation: Wakana Sato, et al. bioRxiv. 2025 Aug 29;NA(NA).
+year: '2025'
+pub_date: 2025-8-29
+epub_date: 2025-8-29
+doi: 10.1101/2025.08.28.672974
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

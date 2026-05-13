@@ -1,0 +1,42 @@
+---
+figid: PMC12513497__jciinsight-10-192361-g059
+pmcid: PMC12513497
+image_filename: jpg
+figure_link: /pmc/articles/PMC12513497/figure/F2/
+number: Figure 2
+figure_title: Transcription factor Tfap2a shows increased regulatory activity in collecting
+  duct principal cells and is associated with pathways related to kidney development
+caption: (A) Motif enrichment analysis on the differentially accessible regions (DARs)
+  in collecting duct principal cells (CD-PCs). The top 20 motifs with the highest
+  observed frequency are shown (Padj < 0.05). The Tfap2a motif MA0810.1 [TFAP2A(var.2)]
+  is highlighted (red box). Dot size indicates the fold enrichment in comparison to
+  the background dataset. (B) Tfap2a chromVAR motif activity plotted against Tfap2a
+  gene expression. Significant differential chromVAR activity and transcription factor
+  expression (determined by the Seurat FindMarkers function) were observed in the
+  proximal tubule (PT), thick ascending limb (TAL), distal convoluted tubule (DCT),
+  connecting tubule (CNT), collecting duct principal cells (CD-PCs), and interstitial
+  cells (IntCs). (C) Tfap2b chromVAR motif activity plotted against Tfap2b gene expression.
+  Significant differential chromVAR activity and transcription factor expression (determined
+  by the Seurat FindMarkers function) were observed in the PT, TAL, DCT, CNT, CD-PCs,
+  collecting duct intercalated cells (CD-ICs), endothelial cells (ECs), and IntCs.
+  Cell types without significant activity or expression were not included in the plots
+  (B and C). (D) Highly enriched biological processes identified for gene set of 546
+  genes associated with Tfap2a motif–containing peaks. Colors represent the q value
+  for the depicted process; dot size the number of putative target genes associated
+  with the process. The gene ratio (x axis) represents the number of putative target
+  genes divided by the total number of genes associated with the respective pathway
+article_title: TFAP2A orchestrates gene regulatory networks and tubular architecture
+  in kidney outer medullary collecting ducts
+citation: Janna Leiz, et al. JCI Insight. 2025 Aug 28;10(19).
+year: '2025'
+pub_date: 2025-8-28
+epub_date: 2025-8-28
+doi: 10.1172/jci.insight.192361
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Cell biology
+- Nephrology
+- Transcription
+---

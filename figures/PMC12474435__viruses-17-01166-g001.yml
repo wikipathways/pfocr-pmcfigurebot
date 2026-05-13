@@ -1,0 +1,45 @@
+---
+figid: PMC12474435__viruses-17-01166-g001
+pmcid: PMC12474435
+image_filename: jpg
+figure_link: /pmc/articles/PMC12474435/figure/F1/
+number: Figure 1
+figure_title: Bioinformatics pipeline used to detect human TFs associated with high-risk
+  HPV strains.
+caption: 'Bioinformatics pipeline used to detect human TFs associated with high-risk
+  HPV strains. The workflow is divided into three main steps. Step 1: Genomic sequences
+  from 15 high-risk HPV types (HPV16, HPV18, HPV31, HPV33, HPV35, HPV39, HPV45, HPV51,
+  HPV52, HPV56, HPV58, HPV59, HPV66, and HPV68) were collected and analyzed using
+  the MEME-ChIP tool from the MEME Suite. This tool performs de novo motif discovery
+  to identify overrepresented DNA motifs across the viral sequences. The human genome
+  was used as a reference background to filter out nonspecific motifs. HPV genome
+  sequences are analyzed by MEME to generate motifs, which are carried forward as
+  shown by the dashed blue arrows. Step 2: The top three most statistically significant
+  motifs (based on E-values ranging from 5.7 × 10−128 to 6.7 × 10−127) were selected
+  and visualized as sequence logos. These motifs were then compared to known transcription
+  factor binding site (TFBS) databases using Tomtom, a motif comparison tool. Each
+  motif is color-coded (light blue, red, or green) and connected via dashed lines
+  to its corresponding TFs, allowing direct visual mapping between motif discovery
+  and TF annotation. Step 3: The transcription factors predicted to bind each motif
+  were grouped and color-coded accordingly (light blue, red, and green boxes) to match
+  the motifs in Step 2. These TFs were further analyzed using Enrichr for functional
+  enrichment (e.g., biological processes, molecular functions, pathways) and STRING
+  for protein-protein interaction network analysis, as indicated by the arrows. This
+  integrative approach helps to reveal potential host regulatory factors hijacked
+  by HPV and their involvement in cellular pathways relevant to viral infection and
+  carcinogenesis'
+article_title: 'HPV as a Molecular Hacker: Computational Exploration of HPV-Driven
+  Changes in Host Regulatory Networks'
+citation: Massimiliano Chetta, et al. Viruses. 2025 Sep;17(9).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-8-27
+doi: 10.3390/v17091166
+journal_title: Viruses
+journal_nlm_ta: Viruses
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- HPV (Human Papillomavirus)
+- transcription factor binding sites (TFBSs)
+- transcription factors (TFs)
+---

@@ -1,0 +1,52 @@
+---
+figid: PMC12478413__nihpp-2025.08.28.672891v1-f0005
+pmcid: PMC12478413
+image_filename: jpg
+figure_link: /pmc/articles/PMC12478413/figure/F5/
+number: Figure 5.
+figure_title: Proteomic analysis of purified lysosomes reveals GBA1-p.E326K specific
+  cellular dysfunctions
+caption: 'A Venn diagram showing overlap in the identity of proteins with significantly
+  altered abundance in lysosomes isolated from GBA1-p.E326K KI, GBA1-p.L444P KI HEK293T,
+  and GBA1 KO cells, relative to lysosomes isolated from WT cells. B Volcano plots
+  showing differential abundance of proteins identified in Lyso-IP samples from indicated
+  GBA1 variant or KO cells compared to WT cells. Proteins with significantly changed
+  abundance (p < 0.05; absolute log2FC ≥ 0.5) are highlighted in red or blue for increased
+  or decreased abundance, respectively. Proteins identified as mitochondrial in origin
+  in the MitoCarta 3.0 database64 are highlighted in purple. C The number of proteins
+  identified in each GBA1 variant or KO genotype belonging to the top ten most significant
+  GO: Cell Component terms associated with the subset of significantly depleted proteins
+  in E326K (vs WT) lysosomes. D Oxygen consumption rate (OCR) of HEK293T cells of
+  indicated genotype, measured using Seahorse XF Cell Mito Stress Test assay. n =
+  3 independent experiments. E HEK293T cells of indicated genotype were stained with
+  TMRM and MitoTracker Green, and the ratio of the sum (per nuclei) TMRM fluorescence
+  to MitoTracker Green fluorescence, normalized to the mean of all WT cells, is plotted.
+  n = 3 independent experiments. F Heatmap of the relative abundance of all identified
+  glycosphingolipid hydrolases (related to the pathway shown in 2c) is shown as log2
+  fold change (from WT mean) for both whole-cell and Lyso-IP samples from HEK293T
+  cells of indicated genotype. Analytes that were not detected in a sample are shaded
+  gray. G Representative immunoblot of Lyso-IP samples from HEK293T cells (of indicated
+  genotype) expressing TMEM192-HAx3 tag. Immunoblots were probed with antibodies against
+  GLA, GM2A, SGSH, and HA as a loading and lysosomal isolation control. H Quantification
+  of lysosomal GLA levels (normalized per sample to HA band intensity), measured via
+  immunoblotting of Lyso-IP fraction & normalized to mean of all WT samples. n = 3
+  independent experiments. Bar graphs in E and H show mean ± SEM with individual points
+  representative of data from separate experimental replicates. All proteomics data
+  (A-C, F) is from n = 3 independent experiments. Unless otherwise noted, all statistical
+  tests were performed on genotype-level comparisons using robust linear model as
+  described in methods and significance threshold was set at FDR adjusted P value
+  < 0.05. Statistics in E and H were performed on genotype-level comparisons using
+  one-way ANOVA with Dunnett’s multiple comparison test, where * = p < 0.0332, **
+  = p < 0.0021, **** = p < 0.0001'
+article_title: A Common PD-Risk GBA1 Variant Disrupts LIMP2 Interaction, Impairs Glucocerebrosidase
+  Function, and Drives Lysosomal and Mitochondrial Dysfunction
+citation: Oliver B. Davis, et al. bioRxiv. 2025 Sep 02;NA(NA).
+year: '2025'
+pub_date: 2025-9-02
+epub_date: 2025-9-02
+doi: 10.1101/2025.08.28.672891
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

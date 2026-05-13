@@ -1,0 +1,37 @@
+---
+figid: PMC12424800__nihpp-2025.04.16.649227v2-f0005
+pmcid: PMC12424800
+image_filename: jpg
+figure_link: /pmc/articles/PMC12424800/figure/F5/
+number: Figure 5.
+figure_title: Monoallelic expression patterns in early neurogenesis
+caption: (A) Scenarios where allelic variance deviates from expected levels and the
+  corresponding beta-binomial distribution shape parameters α and β. (B) The heatmap
+  displays the mean allelic ratios across cells for genes with monoallelic expression.
+  Genes were classified as monoallelic if their estimated beta-binomial α or β values
+  were less than one. Results are from brain organoid data derived from female Bl6
+  × Cast hybrids using three cell types from the early neurodevelopmental pathway.
+  Genes with allelic imbalance detected across all three cell types, with a mean expression
+  above 1 in at least one, were selected for plotting (n = 18). Rows were hierarchically
+  clustered using complete linkages. Genes without sufficient coverage in one of the
+  cell types are indicated in grey. (C) Evaluating the expected versus observed dispersion
+  distributions of genes with random monoallelic expression (RME) (total n = 39).
+  The expected allelic ratio is calculated as the ratio of the simulated reference
+  allele count to the total count. The expected gene set comprises genes without evidence
+  of monoallelic expression, matched by expression to RME genes. The departure of
+  the RME genes (in purple) from the common dispersion trend is visualized in the
+  mean-variance plot. (D) Allelic ratio distribution plots for a selection of autosomal
+  RME genes. (E) RME detection rates were low in the data simulated with a limited
+  number of cells (n ≤ 20). RME simulation was performed with varying cell numbers
+  (n = 10, 20, 50, 100, 250, 500, 1000)
+article_title: 'ASPEN: Robust detection of allelic dynamics in single cell RNA-seq'
+citation: Veronika Petrova, et al. bioRxiv. 2025 Sep 03;21(12).
+year: '2025'
+pub_date: 2025-9-03
+epub_date: 2025-9-03
+doi: 10.1101/2025.04.16.649227
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

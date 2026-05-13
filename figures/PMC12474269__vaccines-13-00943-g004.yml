@@ -1,0 +1,57 @@
+---
+figid: PMC12474269__vaccines-13-00943-g004
+pmcid: PMC12474269
+image_filename: jpg
+figure_link: /pmc/articles/PMC12474269/figure/F4/
+number: Figure 4
+figure_title: CXCR5 expression by msLN cDC2 cells promotes transcriptional proliferation
+  programming and supports increased msLN DC recovery following Hp infection.
+caption: CXCR5 expression by msLN cDC2 cells promotes transcriptional proliferation
+  programming and supports increased msLN DC recovery following Hp infection. (A–F)
+  Paired RNAseq analysis of B6 and Cxcr5−/− msLN migratory CD11b−CD103+ cDC1 cells
+  and CD11b+CD103− cDC2 cells isolated from Hp-infected 1:1 B6:Cxcr5−/− mice. 1:1
+  B6:Cxcr5−/− chimeric mice were generated (as in Figure 1A) and infected with Hp.
+  B6 (CD45.1+) and Cxcr5−/− (CD45.2+) cDC1 (CD103+CD11b−) and cDC2 (CD103+CD11b+)
+  cells were sort-purified from individual animals as in Figure S2A,B and bulk RNA-sequencing
+  was performed. (A,B) DEGs (FDR p < 0.05 and log2FC of >1 or <−1) for paired analysis
+  of WT over Cxcr5−/− cDC1 (A) and cDC2 (B) cells shown as volcano plots. See Table
+  S1 for complete gene expression profiles. (C,D) Gene set enrichment (GSEA) using
+  mSigDB Hallmark gene sets to query ranked gene list of B6 cDC2 cells over Cxcr5−/−
+  cDC2 cells. FDRq and normalized enrichment score indicated for E2F target (C) and
+  G2M checkpoint (D) gene sets, which are significantly enriched in B6 cDC2 cells.
+  See Table S2 for complete Hallmark gene set data. (E,F) Ingenuity pathway (Figure
+  4E and Table S3) and upstream regulator (Figure 4F and Table S4) analyses using
+  the 85 genes (Table S1) meeting an FDR p < 0.05 cutoff when comparing gene expression
+  between B6 and Cxcr5−/− cDC2 cells. The −log10 BH corrected p values and activation
+  z-scores (activated in orange, inhibited in blue, indeterminate in gray) for predicted
+  pathways and regulators are shown. (G–J) Maintenance and/or proliferation of CD11b+CD103−
+  cDC2 cells and CD11b−CD103− DN cells requires DC intrinsic expression of CXCR5.
+  Enumeration of msLN migratory DC subsets from d8 Hp-infected 1:1 B6:Cxcr5−/− chimeric
+  mice (generated as Figure 1A). Representative gating strategy to identify B6 and
+  Cxcr5−/− msLN migratory cDC subpopulations in the same animal provided in Figure
+  S3F–M. The number of wildtype B6 CD45.1+ (open circles) and Cxcr5−/− CD45.2+ (gray
+  circles) msLN migratory CD103+CD11b− cDC1 (G), CD103+CD11b+ DP (H), CD103−CD11b−
+  DN (I) and CD103−CD11b+ cDC2 (J) cells in the same animal are shown with pairs indicated
+  by connecting line. The percentage of wildtype B6 CD45.1+ and Cxcr5−/− CD45.2+ msLN
+  migratory cDC1 (Figure S3F,G), DP (Figure S3H,I), DN (Figure S3J,K), and cDC2 (Figure
+  S3L,M) cells in the same animal are reported with pairs indicted by the connecting
+  line. Statistical analysis for RNAseq datasets (A–F) summarized in Methods. Statistical
+  analysis in (G–J) performed with paired 2-tailed Student’s t-test. * p ≤ 0.05, n.s.
+  indicates p > 0.05. Data representative of at least 3 independent experiments
+article_title: CXCR5 Signals Fine-Tune Dendritic Cell Transcription and Regulate TH2
+  Development
+citation: Miranda L. Curtiss, et al. Vaccines (Basel). 2025 Sep;13(9).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-9-03
+doi: 10.3390/vaccines13090943
+journal_title: Vaccines
+journal_nlm_ta: Vaccines (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- dendritic cells
+- TH2 responses
+- CXCR5
+- Chi3l1
+- helminth infection
+---

@@ -1,0 +1,53 @@
+---
+figid: PMC12521746__EXCLI-24-1100-g-007
+pmcid: PMC12521746
+image_filename: jpg
+figure_link: /pmc/articles/PMC12521746/figure/F7/
+number: Figure 7
+figure_title: Functional enrichment analysis of genes associated with immune checkpoint
+  regulation. This figure presents dot plot visualizations of gene ontology (GO) enrichment
+  analyses for biological processes (left panel) and molecular functions (right panel),
+  derived from genes linked to immune checkpoint modulation. In both panels, the y-axis
+  represents the enriched GO terms, while the x-axis denotes the gene ratio. The size
+  of each dot corresponds to the number of genes involved in the respective pathway,
+  and the color gradient indicates the false discovery rate (FDR), with darker blue
+  hues representing higher statistical significance. In the left panel (Biological
+  Process), enriched pathways include immune system regulation, antigen processing
+  and presentation, and T cell activation, with gene sets showing FDR values as low
+  as 1.5e-05. In the right panel (Molecular Function), significant enrichment was
+  observed in receptor binding, cytokine activity, and transcription factor interaction
+  terms, with FDR values reaching below 5.0e-11. These results indicate a strong functional
+  association between the identified gene sets and immune modulatory processes relevant
+  to checkpoint signaling
+caption: Functional enrichment analysis of genes associated with immune checkpoint
+  regulation. This figure presents dot plot visualizations of gene ontology (GO) enrichment
+  analyses for biological processes (left panel) and molecular functions (right panel),
+  derived from genes linked to immune checkpoint modulation. In both panels, the y-axis
+  represents the enriched GO terms, while the x-axis denotes the gene ratio. The size
+  of each dot corresponds to the number of genes involved in the respective pathway,
+  and the color gradient indicates the false discovery rate (FDR), with darker blue
+  hues representing higher statistical significance. In the left panel (Biological
+  Process), enriched pathways include immune system regulation, antigen processing
+  and presentation, and T cell activation, with gene sets showing FDR values as low
+  as 1.5e-05. In the right panel (Molecular Function), significant enrichment was
+  observed in receptor binding, cytokine activity, and transcription factor interaction
+  terms, with FDR values reaching below 5.0e-11. These results indicate a strong functional
+  association between the identified gene sets and immune modulatory processes relevant
+  to checkpoint signaling
+article_title: Dual targeting of TIGIT and VISTA in non-small-cell lung cancer immunotherapy
+citation: Alaa A. A. Aljabali, et al. EXCLI J. 2025;24(NA).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025-8-28
+doi: 10.17179/excli2025-8735
+journal_title: EXCLI Journal
+journal_nlm_ta: EXCLI J
+publisher_name: Leibniz Research Centre for Working Environment and Human Factors
+keywords:
+- non-small cell lung cancer
+- TIGIT
+- VISTA
+- dual immune checkpoint blockade
+- tumor microenvironment
+- T-cell exhaustion
+---

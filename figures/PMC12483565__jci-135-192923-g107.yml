@@ -1,0 +1,34 @@
+---
+figid: PMC12483565__jci-135-192923-g107
+pmcid: PMC12483565
+image_filename: jpg
+figure_link: /pmc/articles/PMC12483565/figure/F6/
+number: Figure 6
+figure_title: Expression of Runx1-R188Q alters Cbfb-MYH11–induced gene expression
+  changes in the AMP population
+caption: (A–D) RNA-Seq was performed on AMP cells isolated from Mx1-CreCbfb+/56M and
+  Runx1+/R188QMx1-CreCbfb+/56M mice 8 weeks after pIpC treatment. N = 3 for each genotype.
+  (A) Principal component analysis plot showing clear separation between these 2 genotype
+  groups. (B) Heatmap representation of identified DEGs between these 2 groups. Numbers
+  and percentages of DEGs in each of the 2 expression clusters (down- and upregulated
+  in Runx1+/R188QMx1-CreCbfb+/56M mice) are listed on the left. (C) GSEA (pre-ranked)
+  identified curated genes sets significantly enriched in the DEGs shown in B. (D)
+  Upstream regulators associated with DEGs shown in B, identified by Ingenuity Pathway
+  Analysis
+article_title: CBFβ-SMMHC–driven leukemogenesis requires enhanced RUNX1-DNA binding
+  affinity in mice
+citation: Tao Zhen, et al. J Clin Invest. 2025 Aug 5;135(19).
+year: '2025'
+pub_date: 2025-8-5
+epub_date: 2025-8-5
+doi: 10.1172/JCI192923
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Genetics
+- Hematology
+- Leukemias
+- Mouse models
+- Transcriptomics
+---

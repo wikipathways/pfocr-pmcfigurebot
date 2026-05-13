@@ -1,0 +1,45 @@
+---
+figid: PMC12487850__jciinsight-10-194497-g055
+pmcid: PMC12487850
+image_filename: jpg
+figure_link: /pmc/articles/PMC12487850/figure/F8/
+number: Figure 8
+figure_title: Longitudinal gene expression profiling uncovers coordinated enhancement
+  of absorptive function and barrier integrity in response to GLP-2
+caption: (A) Volcano plot showing differentially expressed genes (DEGs) in epithelial
+  cells at 0 months (0M) versus 6M. The x-axis represents Log2 fold change (LFC),
+  and the y-axis represents –Log10 (P value). Vertical dashed lines indicate a threshold
+  of |LFC| > 0.58, and the horizontal dashed line indicates a P value cutoff of 5
+  × 10–10. (B) Gene Ontology (GO) pathway enrichment analysis of DEGs between 0M and
+  6M. Genes with LFC > 0.58 that were upregulated at 6M were analyzed. Dot plots display
+  significantly enriched biological processes (BPs) (P < 0.01, q < 0.05), with dot
+  size indicating gene count and color representing the adjusted P value. (C) GOBP
+  enrichment analysis of DEGs across 0M, 6M, and 12M using compareCluster. (D) Differential
+  gene expression analysis of biological pathways based on WikiPathways (WP) across
+  0M, 6M, and 12M using compareCluster. (C and D) Numbers below the column name represent
+  the number of genes related to GOBP (C) or WP (D) for each cluster. Dot plots show
+  significantly enriched GO terms (P < 0.01, q < 0.05) (C) or pathways (P < 0.05,
+  q < 0.2) (D), with dot size representing the gene ratio (proportion of DEGs) and
+  color indicating the adjusted P value. (E) Heatmap of Z-score normalized gene expression
+  for key intestinal mucosal pathways across time points. Columns represent clusters
+  (indicated by color and label), and rows represent genes categorized by pathway.
+  GO analysis and compareCluster analysis were performed using Over-Representation
+  Analysis (ORA) based on a hypergeometric test (B–D). Multiple-testing correction
+  was performed using the Benjamini-Hochberg (BH) method to control the false discovery
+  rate (FDR) (C and D). To compare gene expression between clusters, the Wilcoxon
+  rank-sum test was used (E)
+article_title: Longitudinal single-cell analysis of glucagon-like peptide-2 treatment
+  in patients with short bowel syndrome
+citation: Yumi Kudo, et al. JCI Insight. 2025 Aug 7;10(18).
+year: '2025'
+pub_date: 2025-8-7
+epub_date: 2025-8-7
+doi: 10.1172/jci.insight.194497
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Clinical Research
+- Gastroenterology
+- Drug therapy
+---

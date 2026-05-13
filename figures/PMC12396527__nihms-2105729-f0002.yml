@@ -1,0 +1,61 @@
+---
+figid: PMC12396527__nihms-2105729-f0002
+pmcid: PMC12396527
+image_filename: jpg
+figure_link: /pmc/articles/PMC12396527/figure/F1/
+number: Figure 1.
+figure_title: Pooled CRISPR screening in primary human NK cells enables massively
+  parallel interrogation of genomic perturbations
+caption: (A) Conceptual of the sgRNA transfer plasmid used for retroviral library
+  delivery (See also Figure S1).(B) Schematic representing the gene editing pipeline
+  for pooled CRISPR screening in primary human NK cells employed for the four targeted
+  CRISPR knockout (KO) screens using a transcription factor (TF) sgRNA library.(C
+  and D) TF library CRISPR screens (targeting 1,632 genes with 11,364 unique sgRNAs)
+  in primary human NK cells (n=2 human CB donors) revealed shared and context-specific
+  genes governing transcriptional regulation associated with NK cell function including
+  under feeder cell-enabled high-fold in vitro expansion (C) and repeated pancreatic
+  tumor challenge (D). Depicted are z-transformed log2 fold changes (LFC ZS) comparing
+  relative sgRNA abundance at T12 vs. T0 across indicated screening conditions for
+  both donors. Significantly enriched (FDR<0.05, LFC ZS>|1.5|) and depleted (FDR<0.05,
+  LFC ZS>|3|) non-essential genes are labeled; color-coding indicates shared and screen-exclusive
+  hits (See also Figure S1).(E) Enrichment of individual sgRNAs targeting PRDM1 and
+  RUNX3 depicted as log2 fold changes (FC) (T12/T0) across four CRISPR screen conditions
+  (n=2 human NK cell donors).(F) Shown are the top 10 enriched Reactome pathways among
+  significantly depleted non-essential genes (FDR<0.05, LFC |ZS|>3) delineating functional
+  programs indispensable for NK cell survival and fitness. Essential genes specific
+  for NK cells were determined by adjusting screen dropouts for inferred common essential
+  genes (DepMap, Broad 24Q2 Public Dataset43).(G) Overlap analysis (Upset plot) of
+  top 50 most highly enriched TFs across investigated selective pressures. Bar height
+  represents the number of overlaps; the bottom panel indicates the overlapping screening
+  conditions. Identified targets with 3 and 4 overlaps are labeled; top hits (LFC
+  ZS >1.5) are indicated in bold. Significant screen hits without intersections are
+  omitted (See also Figure S1).(H) Enriched Reactome pathways among significantly
+  enriched TF screen hits (FDR<0.05; |ZS|>1.5).(I) Interrogation of single cell transcriptomes
+  of tumor-infiltrating and circulating peripheral blood (PB)-NK cells from patients
+  with pancreatic cancer (n=16) compared to healthy donor controls (n=5) investigating
+  a gene signature comprising the top two overlapping screen hits (PRDM1, RUNX3).
+  Data represented as box-and-whiskers plots; box limits represent quartiles (IQR),
+  whiskers indicate minimum and maximum values, the horizontal solid line represents
+  the median; *p< 0.05; Mann Whitney U Test).Also see Figure S1 and Table S1
+article_title: Genome-wide CRISPR screens identify critical targets to enhance CAR-NK
+  cell antitumor potency
+citation: Alexander Biederstädt, et al. Cancer Cell. 2025 Nov 10;43(11).
+year: '2025'
+pub_date: '2025-11-10'
+epub_date: 2025-8-21
+doi: 10.1016/j.ccell.2025.07.021
+journal_title: Cancer cell
+journal_nlm_ta: Cancer Cell
+publisher_name: .na.character
+keywords:
+- CAR-NK cell therapy
+- genome-wide CRISPR screens
+- tumor microenvironment
+- adoptive cell therapy
+- natural killer cells
+- solid tumors
+- multiplexed cellular engineering
+- metabolic reprogramming
+- precision gene editing
+- functional perturbomics
+---

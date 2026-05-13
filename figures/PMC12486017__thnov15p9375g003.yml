@@ -1,0 +1,28 @@
+---
+figid: PMC12486017__thnov15p9375g003
+pmcid: PMC12486017
+image_filename: jpg
+figure_link: /pmc/articles/PMC12486017/figure/F3/
+number: Figure 3
+figure_title: Aggressive forms of GC significantly upregulate key glycosidases linked
+  to paucimannose expression.
+caption: |-
+  Aggressive forms of GC significantly upregulate key glycosidases linked to paucimannose expression. A. N-glycan biosynthesis pathway highlighting glycosidases and glycosyltransferases regulating glycosidic chain trimming. α-mannosidases (MAN2A1, MAN2A2), β-mannosidases (MAN2B1) and hexosaminidases (HEXA and HEXB) are the main responsible for trimming N-glycans and originating paucimannose. On the other hand, MGAT1 and MGAT2 are amongst the main responsible for the elongation of N-glycans. B. Paucimannose-related glycosidases are significantly overexpressed in GC tissues compared to adjacent healthy mucosa and mucosa from non-GC patients. In contrast, MGAT1 is predominantly expressed in healthy tissues, and MGAT2 is minimally expressed. This indicates a microenvironment favoring trimmed N-glycan formation in GC tissues. C. Glycogenes associated with N-glycan trimming display varying positive correlations (0.150 < R < 0.670, p < 0.05) in TCGA GC data (n = 412). Pearson's correlation was applied to show the level of correlation between the expression of the different glycogenes. D. Mannosidases (MAN2A1, MAN2A2) show significant upregulation in advanced-stage (III/IV) compared to early-stage (I/II) GC. E-F. Advanced T-stage tumors (T4) exhibit upregulation of MAN2A1, MAN2A2 (E) and HEXB (F) compared to earlier T stages.
+  MAN2A1 is significantly upregulated in T4 compared to T2 (p = 0.0133) and T3 (p < 0.0001), while MAN2A2 is elevated in T4 relative to T3 (p = 0.0157). HEXB is also significantly upregulated in T4 tumors (p = 0.0059). G. Patients with MAN2A1 upregulation face worse prognosis (p = 0.020), as shown by overall survival analysis (Log-rank test). H. MGAT2 expression is significantly reduced in T3 (p = 0.0434) and shows a downward trend in T4 compared to T2 tumors. I. MGAT1 is significantly upregulated in aggressive tumors, with higher expression in aggressive tumours (T2: p = 0.0141; T4: p = 0.0317) compared to T1. J. Gastric tumours from IPO-Porto's patient set revealed a significant correlation between glycosidases and paucimannose relative expression according to glycomics. A positive correlation was observed between the mRNA levels of HEXA and MAN2A1 and the relative abundance of paucimannosidic N-glycans in GC tumors (HEXA: R = 0.750, p = 0.020; MAN2A1: R = 0.667, p = 0.050). Additionally, the expression levels of HEXA and MAN2A1 were strongly correlated (R = 0.917, p < 0.001) as observed for TCGA data (A). Correlations were assessed using Spearman's correlation test. Otherwise stated, data were assessed for normality (Shapiro-Wilk test), and outliers were removed using the ROUT method. Tests used include Mann-Whitney for analysis in panel D and Kruskal-Wallis for panels E-I. For all analyses, statistical significance was set at p < 0.05
+article_title: Trimmed N-glycans define aggressive gastric cancer and predict clinical
+  outcomes
+citation: Dylan Ferreira, et al. Theranostics. 2025;15(18).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025-8-22
+doi: 10.7150/thno.111670
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+keywords:
+- cancer glycobiology
+- precision oncology
+- gastric cancer
+- glycoproteome
+- glycome
+---

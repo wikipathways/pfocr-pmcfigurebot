@@ -1,0 +1,34 @@
+---
+figid: PMC12954510__nihpp-2025.08.26.671836v1-f0001
+pmcid: PMC12954510
+image_filename: jpg
+figure_link: /pmc/articles/PMC12954510/figure/F1/
+number: Figure 1.
+figure_title: scRNAseq analysis of Tregs from RRMS patients revealed decreased expression
+  of type I IFN and Treg suppressive genes.
+caption: 'scRNAseq analysis of Tregs from RRMS patients revealed decreased expression
+  of type I IFN and Treg suppressive genes. (A) Schematic representation of the experiment.
+  Magnetic bead-separated CD4+ cells from three untreated RRMS patients and three
+  matched HCs were sorted for CD4+CD25+CD127low Treg cells and submitted for scRNAseq
+  experiment. (B) Dot plot showing cluster-defining gene expression in activated and
+  resting FOXP3+ Tregs. UMAP clustering of activated and resting FOXP3+ Tregs was
+  derived from the initial 8 clusters (SI Appendix, Fig. 1 B). (C) Gene Ontology and
+  pathway enrichment analysis of DEGs in activated FOXP3+ RRMS Tregs versus HC subjects.
+  (D) Volcano plot showing biologically relevant DEGs in RRMS Tregs compared to HCs.
+  Color codes: type I IFN (red), and Treg suppressive genes (purple). DEGs with adjusted
+  Log10p<0.05 and Log2FC>0.1. (E) RT-PCR validation of selected DEGs identified by
+  scRNAseq experiment was completed in sorted Treg from 10 untreated RRMS patients
+  and matched HCs. Data are presented as relative gene expression; statistical analysis
+  was performed using Wilcoxon test'
+article_title: Targeting Impaired Type I Interferon–IL-27 Signaling Rescues T Regulatory
+  Cell Suppressive Function in Relapsing-Remitting Multiple Sclerosis
+citation: Manal Elzoheiry, et al. bioRxiv. 2025 Aug 28;NA(NA).
+year: '2025'
+pub_date: 2025-8-28
+epub_date: 2025-8-28
+doi: 10.1101/2025.08.26.671836
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

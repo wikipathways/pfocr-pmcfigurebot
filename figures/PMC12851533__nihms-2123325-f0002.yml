@@ -1,0 +1,39 @@
+---
+figid: PMC12851533__nihms-2123325-f0002
+pmcid: PMC12851533
+image_filename: jpg
+figure_link: /pmc/articles/PMC12851533/figure/F2/
+number: Fig. 2.
+figure_title: Metabolomic analysis reveals unique biochemical signature in AATD-associated
+  NEVsNE+
+caption: A. Metabolomic workflow outlining the approach used to assess the impact
+  of NEVsNE + metabolic cargo on neutrophil function and immune regulation (n = 6
+  individuals per group). B. PCA of the top 65 most significant metabolomic predictors
+  within NEVsNE + across study cohorts. C. Clustering heatmap of the 65 key metabolites,
+  ranked by their logFC abundance for the disease cohort and analyzed using Ward’s
+  D2 clustering algorithm to reveal metabolomic distinctions among AATD, COPD, and
+  healthy individuals. D. NAMPT’s functional tissue network analysis using GIANT’s
+  neutrophil interaction network to identify biologically relevant metabolic pathways
+  E. Bar plot displaying pathway enrichment analysis for NAMPT’s primary gene connections,
+  highlighting key metabolic pathways differentially represented in AATD F. NDUFS7
+  functional tissue network analysis to determine biologically relevant metabolic
+  pathways. H. Bar plot displaying pathway enrichment analysis for NDUFS7’s primary
+  gene connections, highlighting key metabolic pathways differentially represented
+  in healthy cohorts
+article_title: Neutrophil-derived extracellular vesicles in the plasma of alpha-1
+  antitrypsin deficient individuals reveal pro-inflammatory metabolic and transcriptomic
+  signatures
+citation: Zachary F. Greenberg, et al. Extracell Vesicle. 2025 Dec;6(NA).
+year: '2025'
+pub_date: 2025-12-
+epub_date: 2025-8-26
+doi: 10.1016/j.vesic.2025.100093
+journal_title: Extracellular vesicle
+journal_nlm_ta: Extracell Vesicle
+publisher_name: .na.character
+keywords:
+- Multi-OMICs
+- AATD
+- Extracellular vesicles
+- Functional tissue networks
+---

@@ -1,0 +1,37 @@
+---
+figid: PMC12424854__nihpp-2025.08.27.672714v1-f0006
+pmcid: PMC12424854
+image_filename: jpg
+figure_link: /pmc/articles/PMC12424854/figure/F6/
+number: Figure 6.
+figure_title: High salt diet-induced hypertension drives organ-specific regulatory
+  programs
+caption: 'A. Concentric donut plot displaying the number of significantly differentially
+  expressed transcription factors (TFs) per tissue (inner ring) and their distribution
+  across four time points (days 7, 14, 21, and 35). B. Venn diagram depicting the
+  overlap and exclusivity of TFs across cortex, medulla, liver, and heart, identifying
+  shared versus tissue-specific TFs. C. Unique TFs per tissue and shared TFs visualized
+  as a binary heatmap. D. TF-target genes network and functional relevance analysis.
+  Top heatmap: heatmap showing the expression dynamics of two core and unique TFs
+  across 16 tissue–time point combinations. Asterisks denote significantly altered
+  TFs (|log2 fold change| ≥ 0.585, equivalent to a fold change ≥ 1.5 and adjusted
+  P < 0.05); Middle heatmap: showing mean log2FC of TF-regulated target genes; Lower
+  pathway panel: showing top 5 GO Biological Processes (left) and Hallmark pathways
+  (right) for CX, MD, and LV emerged by TF regulated target genes. Bar heights represent
+  –log10 adjusted P values. Target gene (TG) counts indicate the number of organs-specific
+  genes regulated by corresponding TFs and used in the pathway analysis. No pathways
+  met significance thresholds in HR. Enriched pathways with adjusted P < 0.05 were
+  considered significant. CX, cortex; MD, medulla; LV, liver; HR, heart; D7, day 7;
+  D14, day 14; D21, day 21; and D35, day 35 time points. adj. p indicated adjusted
+  P value. n = 6 male rats per group'
+article_title: Longitudinal Multi-Organ Transcriptomic Atlas of Salt-Induced Hypertension
+citation: Ratnakar Tiwari, et al. bioRxiv. 2025 Sep 01;NA(NA).
+year: '2025'
+pub_date: 2025-9-01
+epub_date: 2025-9-01
+doi: 10.1101/2025.08.27.672714
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

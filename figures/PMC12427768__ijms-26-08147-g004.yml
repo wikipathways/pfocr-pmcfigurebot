@@ -1,0 +1,41 @@
+---
+figid: PMC12427768__ijms-26-08147-g004
+pmcid: PMC12427768
+image_filename: jpg
+figure_link: /pmc/articles/PMC12427768/figure/F4/
+number: Figure 4
+figure_title: IPA canonical pathway analysis after Gm39822 knockdown in ECs reveals
+  downregulation of cytokine production.
+caption: IPA canonical pathway analysis after Gm39822 knockdown in ECs reveals downregulation
+  of cytokine production. (A) Principal component analysis (PCA) of variance-stabilized
+  counts, with PC1/PC2 percentages of explained variance and 95% confidence ellipses.
+  (n = 4). (B) Volcano plots of differential expression (p < 0.01 and |log2FC| ≥ 0.58)
+  in GapmeR versus negative-control-treated bEND.3 cells. Up- and downregulated transcripts
+  are colored red/blue; the top 10 transcripts in each class are labeled with a gene
+  symbol. (n = 4). (C) IPA canonical pathway analysis and dot plot of all canonical
+  pathways with significant activation (z-score > 0) or inhibition (z-score < 0) (p
+  < 0.05) after Gm39822 knockdown compared with the control. Dot size = gene ratio;
+  color gradient = z-score; pathways are sorted by the absolute z-score within each
+  class (n = 4). (D) GO chord plots showing the significantly regulated genes (z-score
+  < 0, p < 0.05) involved in the top 5 activated (top) or inhibited (bottom) pathways
+  when comparing Gm39822 knockdown with controls (n = 4). (E) Box plots of normalized
+  expression for selected marker genes in the “cytokine production” pathway, namely,
+  Vcam-1, E-Selectin (SelE), Il-6, Il-18, Stat-1, and ccl2, in GapmeR versus negative
+  control samples (n = 4). The inset in each panel shows the log2FC (FC) from the
+  DESeq2 Wald test
+article_title: Endothelial-Enriched lncRNA Gm39822 Modulates Inflammation and Dysfunction
+  in Non-Diabetic Endothelial Cells
+citation: Amit Chandra, et al. Int J Mol Sci. 2025 Sep;26(17).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-8-22
+doi: 10.3390/ijms26178147
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- endothelial dysfunction
+- lncRNA
+- diabetes
+- inflammation
+---

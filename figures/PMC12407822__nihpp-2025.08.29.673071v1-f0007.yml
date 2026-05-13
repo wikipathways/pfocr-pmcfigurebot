@@ -1,0 +1,41 @@
+---
+figid: PMC12407822__nihpp-2025.08.29.673071v1-f0007
+pmcid: PMC12407822
+image_filename: jpg
+figure_link: /pmc/articles/PMC12407822/figure/F7/
+number: Figure 7.
+figure_title: Knockdown of METTL13 promoted pathways that induce apoptosis and suppress
+  DNA synthesis in T-ALL cells
+caption: A) PCA plot of T-ALL cell lines as biological replicates following METTL13
+  knockdown (shMETTL13, n= 3) compared to the control (shCTRL, n=3). Significance
+  was calculated using unpaired two-tailed t-test, p<0.05.B) Heat map of the top 400
+  differentially expressed genes looking at T-ALL cell lines as biological replicates
+  in shMETTL13 (n=3) compared to the shCTRL (n=3). Significance was calculated using
+  unpaired two-tailed t-test, p<0.05.C) Pie chart of the percentage of significantly
+  expressed genes (p<0.05) in T-ALL cell lines as biological replicates (n=3) in shMETTL13
+  (n=3) compared to shCTRL (n=3). Significance was calculated using unpaired two-tailed
+  t-test, p<0.05.D) Pie chart of the distribution of upregulated versus downregulated
+  significantly expressed genes in T-ALL cell lines as biological replicates in shMETTL13
+  (n=3) compared to the shCTRL (n=3). Significance was calculated using unpaired two-tailed
+  t-test, p<0.05.E) Volcano plot of significantly expressed genes (p<0.05) in T-ALL
+  cell lines as biological replicates in shMETTL13 (n=3) compared to the shCTRL (n=3).
+  Only protein-coding genes were included in this plot. Significance was calculated
+  using unpaired two-tailed t-test, results are displayed as L2FC and negative log10
+  p-value (p <0.05).F) Dysregulated genes (MDM2, NRAS, ERBB3 and BTG1) in shMETTL13
+  (n=3) compared to shCTRL (n=3 Significance was calculated using unpaired two-tailed
+  t-test, p<0.05, results are displayed as TPM, mean ± SEM.G) GSEA of some of the
+  top significantly enriched KEGG pathways (Created in GSEA and MSigDB, nominal p-value
+  <0.05) in shMETTL13 (n=3) compared to shCTRL (n=3) in T-ALL cells, using only protein-coding
+  genes, displayed as activated (positive NES) or suppressed (negative NES)
+article_title: METTL13 Promotes Pre-Leukemic Transformation and the Development of
+  Pediatric Leukemia
+citation: Sabina Enlund, et al. bioRxiv. 2025 Aug 30;NA(NA).
+year: '2025'
+pub_date: 2025-8-30
+epub_date: 2025-8-30
+doi: 10.1101/2025.08.29.673071
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

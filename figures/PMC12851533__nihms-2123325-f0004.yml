@@ -1,0 +1,41 @@
+---
+figid: PMC12851533__nihms-2123325-f0004
+pmcid: PMC12851533
+image_filename: jpg
+figure_link: /pmc/articles/PMC12851533/figure/F4/
+number: Fig. 4.
+figure_title: NEVsNE + metabolic cargo modulates lung inflammatory signaling
+caption: A. Schematic workflow for integrating multi-omics signatures into the GIANT
+  functional tissue network for neutrophils (ExCON). First, each signature (transcriptomic,
+  n = 4 individuals per group and metabolomic, n = 6 individuals per group) was processed
+  through its respective biomarker selection model, and the resulting distinguishing
+  features were mapped onto GIANT’s neutrophil-specific network. Individual neutrophil
+  signatures were then combined to generate an integrated neutrophil profile, which
+  was subsequently projected onto the lung tissue functional network to examine neutrophil-lung
+  signaling interactions. Edges represent co-expression correlations between genes,
+  while colored nodes indicate their OMIC source. B. ExCON’s network after integrating
+  neutrophil transcriptomics and NEVsNE + metabolomics, followed by projection into
+  the lung tissue network. In this network, edges are now colored to indicate which
+  cohort provided the gene signature regulating lung pathways. C. Pathway enrichment
+  with gProfiler2 and visualization with EnrichmentMap was performed to compare neutrophil-driven
+  functional networks between AATD (blue) and healthy (green) individuals in the lung
+  tissue. The major enriched pathways were grouped into clusters using Glay biological
+  network community clustering (76) with the clusterMaker2 package (77). (Schematic
+  created by Biorender.com)
+article_title: Neutrophil-derived extracellular vesicles in the plasma of alpha-1
+  antitrypsin deficient individuals reveal pro-inflammatory metabolic and transcriptomic
+  signatures
+citation: Zachary F. Greenberg, et al. Extracell Vesicle. 2025 Dec;6(NA).
+year: '2025'
+pub_date: 2025-12-
+epub_date: 2025-8-26
+doi: 10.1016/j.vesic.2025.100093
+journal_title: Extracellular vesicle
+journal_nlm_ta: Extracell Vesicle
+publisher_name: .na.character
+keywords:
+- Multi-OMICs
+- AATD
+- Extracellular vesicles
+- Functional tissue networks
+---

@@ -1,0 +1,49 @@
+---
+figid: PMC12407677__nihpp-2025.08.25.672093v1-f0005
+pmcid: PMC12407677
+image_filename: jpg
+figure_link: /pmc/articles/PMC12407677/figure/F5/
+number: Fig. 5
+figure_title: 'Alignment of molecular patterns related to cognitive decline and to
+  neuropathological burden:'
+caption: (a) Schematic view of the clinical diagnosis for no cognitive impairment
+  (NCI), mild cognitive impairment (MCI), and Alzheimer’s disease (AD) and the derived
+  comparisons for computing DEGs. (b) Bar plot displaying the number of DEGs by clinical
+  diagnoses comparison, colored by fine cell type. (c) Volcano plots presenting the
+  log fold change and negative decade logarithm of the genes in the three comparisons.
+  Selected genes are highlighted. (d) The plot presents genes that are up- or down-regulated
+  in both the clinical and neuropathological definition. Genes that are differentially
+  regulated in only one of the considerations are not shown (white horizontal / vertical
+  area). Each gene can be present multiple times because it is included in several
+  cell types. In addition to the single points, a density representation is shown
+  in the background. The percentages of genes irrespective of the cell type are presented
+  in the four sectors and represented by four different symbols. (e) DicePlot presenting
+  for selected genes from (d) in the high-resolution view. For each gene the dysregulation
+  in the 15 cell types is presented. For each combination of a gene and cell type,
+  each box contains up to seven dots representing three clinical comparisons (AD/NCI,
+  MCI/NCI, AD/MCI) and four neuropathological burdens (high versus low β-amyloid,
+  NP, tangles and NFT). If no dot is presented, the gene is not dysregulated for the
+  respective comparison in the respective cell type. Symbol(s) below the gene describe
+  from which area of the scatter plot in panel (d) the gene was derived. Note that
+  a gene can be included in several plot areas because it might be concordant in one
+  but discordant in another cell type. (f) Percentage of concordant versus discordant
+  genes for each of the 15 cell types. Four cell types with high, medium and low concordance
+  are presented as scatter plot in panel (g). (g) Like panel (d), the genes are now
+  presented for four different cell types. Coloring matches the cell type defined
+  color consistently used in the manuscript. Percentages in the corners denote the
+  fraction of genes per area. (h) Venn diagrams presenting the overlap of significant
+  pathways between the clinical and neuropathological definitions for the cell types
+  from (f) and (g). In microglia, pathways are dominantly significant in the clinical
+  definition for the other cell types relying on the neuropathology
+article_title: Angiopoietin signalling is a central axis of amyloid-driven vascular
+  dysfunction in Alzheimer’s disease
+citation: Matthias Flotho, et al. bioRxiv. 2025 Aug 29;NA(NA).
+year: '2025'
+pub_date: 2025-8-29
+epub_date: 2025-8-29
+doi: 10.1101/2025.08.25.672093
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

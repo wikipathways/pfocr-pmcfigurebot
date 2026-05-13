@@ -1,0 +1,37 @@
+---
+figid: PMC11482938__nihpp-2024.10.10.617725v3-f0006
+pmcid: PMC11482938
+image_filename: jpg
+figure_link: /pmc/articles/PMC11482938/figure/F6/
+number: 'Fig. 6:'
+figure_title: Pleiotropy among genes under selection in M. lucifugus between DNA-damage
+  responsive genes and DNA-only VIPs
+caption: A-B) Volcano plots of genes that are differentially expressed in M. lucifugus
+  after 6 hours (A) and 18 hours (B) of treatment with 100uM neocarzinostatin (NCS).
+  C-D) Pathway-level Gene Set Enrichment Analysis (GSEA) of genes differentially expressed
+  at 6 and 18 hours post-treatment. E) Upset plot between genes that are differentially
+  expressed after NCS treatment and DNA-only VIPs; the hypergeometric P-value of the
+  intersection is shown. F) Pathway-level overrepresentation analysis of genes that
+  are DNA-only VIPs and are also differentially expressed in response to NCS treatment.
+  G) Pathway-level overrepresentation analysis of genes identified as under selection
+  in M. lucifugus via ABSREL that are DNA-only VIPs and are also differentially expressed
+  in response to NCS treatment
+article_title: Extensive longevity and DNA virus-driven adaptation in nearctic Myotis
+  bats
+citation: Juan M Vazquez, et al. bioRxiv. 2025 Aug 27;NA(NA).
+year: '2025'
+pub_date: 2025-8-27
+epub_date: 2025-8-27
+doi: 10.1101/2024.10.10.617725
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Aging
+- Bats
+- Cancer
+- Evolutionary Biology
+- Functional Genomics
+- Immunity
+- Infectious Disease
+---

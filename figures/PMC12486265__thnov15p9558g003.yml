@@ -1,0 +1,43 @@
+---
+figid: PMC12486265__thnov15p9558g003
+pmcid: PMC12486265
+image_filename: jpg
+figure_link: /pmc/articles/PMC12486265/figure/F3/
+number: Figure 3
+figure_title: Fibro_CXCL14 and Fibro_SFRP4 are associated with poor prognosis in HRLPC
+  patients.
+caption: Fibro_CXCL14 and Fibro_SFRP4 are associated with poor prognosis in HRLPC
+  patients. (A) UMAP plot showing the subtypes of fibroblasts from 9 HRLPC patients,
+  colored by subtypes. (B) The expression level of selected genes. Cells with the
+  highest expression level are colored red. (C) Violin plots showing the expression
+  levels of selected markers across fibroblasts subtypes. (D) Heatmap (left) displaying
+  the top 10 differentially expressed genes for each defined subtype, and the bar
+  chart (right) showing the GO biological process pathways enriched in each subtype.
+  Significance was determined using a two-sided Wilcoxon rank-sum test. (E-G) Pseudotime
+  trajectory of fibroblast subtypes by Monocle2. Trajectory is colored by pseudotime
+  (E), cell states (F) and subtypes (G). (H) Boxplot showing the pseudotime of fibroblast
+  subtypes by Monocle2. (I) Heatmap showing the differentially expressed genes across
+  pseudotime trajectory 1. The bar charts above represent scaled depictions of subtypes,
+  cell states, and cell clusters along the pseudotime differentiation trajectory.
+  (J-M) KM analysis showing the disease-free survival rate of TCGA-PRAD (Prostate
+  adenocarcinoma), LIHC (Liver hepatocellular carcinoma), PAAD (Pancreatic adenocarcinoma)
+  and BLCA (Bladder Urothelial Carcinoma) patients with high and low levels of trajectory
+  1 fibroblasts 23 genes signature using the two-sided log-rank test
+article_title: Luminal Stem-like Cells in High-Risk/Locally Advanced Prostate Cancer
+  Promote Resistance to Hormonal Therapy
+citation: Guyu Tang, et al. Theranostics. 2025;15(18).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025-8-30
+doi: 10.7150/thno.112496
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+keywords:
+- high-risk/locally advanced prostate cancer
+- hormonal therapy
+- patient-derived organoids
+- single-cell RNA sequencing
+- stem-like cells
+- tumor microenvironment
+---

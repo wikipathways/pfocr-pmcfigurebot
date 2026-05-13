@@ -1,0 +1,56 @@
+---
+figid: PMC12327062__nihms-2090374-f0001
+pmcid: PMC12327062
+image_filename: jpg
+figure_link: /pmc/articles/PMC12327062/figure/F1/
+number: Figure 1.
+figure_title: Genome-wide CRISPR screening supports that the antitumoral activity
+  mTORi requires the activation of autophagy and iron metabolism
+caption: 'A. Schema for CRISPR screening. Cal27-Cas9 cells were infected with human
+  whole-genome CRISPR knockout library and treated with vehicle or INK128 (10 nM)
+  in three biological replicates. sgRNAs depleted or enriched from cells after the
+  screening are depicted as “dropout sgRNAs” and “enriched sgRNAs”, respectively.
+  (Created in BioRender. Team S, 2025, https://BioRender.com/u91n48x) B. KEGG pathway
+  analysis of resistance-driving hits, the top 10 pathways are represented; the color
+  intensity represents the enrichment score. C. Schema for autophagy. Autophagy is
+  initiated by inhibition of mTORC1. SBI inhibits ULK1 activation, HCQ inhibits the
+  fusion of autophagosome and lysosome. (Created in BioRender. Team S, 2025, https://BioRender.com/wkylzcl)
+  D. Cell viability of Cal27 treated with INK128 alone or after 4 hours of SBI (5
+  μM) or HCQ (10 μM) treatment. Percent of cell viability was normalized to vehicle
+  treatment (mean ± SD, n = 4). E. AUC was compared relative to INK128-alone treated
+  group and reported as mean ± SD, n=3. F. Cytotoxicity and survival rate in response
+  to INK128 in Cal27 for 24 hours was measured (mean ± SD, n = 4). G, H. Cell viability
+  of Cal27 treated with INK128 (50 nM) for 72 hours was measured. From left to right,
+  Z-VAD, Necrostatin-1, Ac-FEID-CMK and Ferrostain-1 were used in combination with
+  INK128. Positive controls were Etoposide (1.5 μM), Polyphyllin VI (5 μM) and RSL3
+  (1 μM). Cell viability was compared between monotherapy and combination therapy
+  (mean ± SD, n = 6). I. Extended analysis of the sgRNAs enriched in our CRISPR/Cas9
+  screening. Summary of pathways related to iron metabolism and oxidation extracted
+  from KEGG, Reactome, Wikipathway and GO Biological process. The color intensity
+  represents the enrichment score. ****P < 0.0001, ns = non-significant. n indicates
+  biologically independent repeats in 1E. Technical independent repeats and each experiment
+  was confirmed by at least two biological repetitions in 1D, 1F-1H. p-value was determined
+  by one-way ANOVA with Tukey’s post hoc test in 1E, 1G and 1H. sgRNA: single-guide
+  RNA, NGS: next-generation sequencing, KEGG: Kyoto Encyclopedia of Genes and Genomes,
+  SBI: SBI-0206965, HCQ: hydroxychloroquine sulfate, AUC: area under the curve, Nec-1:
+  necrostatin-1, PPVI: polyphyllin VI, AcFC: Ac-FEID-CMK'
+article_title: Genome-Wide CRISPR Screening Reveals that mTOR Inhibition Initiates
+  Ferritinophagy and Ferroptosis in Head and Neck Cancer
+citation: Keiichi Koshizuka, et al. Cancer Res. 2025 Aug 15;85(16).
+year: '2025'
+pub_date: 2025-8-15
+epub_date: 2025-8-15
+doi: 10.1158/0008-5472.CAN-24-3785
+journal_title: Cancer research
+journal_nlm_ta: Cancer Res
+publisher_name: .na.character
+keywords:
+- CRISPR screening
+- regulated cell death
+- mTOR
+- ferroptosis
+- ferritinophagy
+- auranofin
+- precision therapy
+- HNSCC
+---

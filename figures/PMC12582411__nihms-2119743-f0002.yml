@@ -1,0 +1,41 @@
+---
+figid: PMC12582411__nihms-2119743-f0002
+pmcid: PMC12582411
+image_filename: jpg
+figure_link: /pmc/articles/PMC12582411/figure/F2/
+number: Fig. 2.
+figure_title: Depletion of TRAP1 rewires cancer cell metabolic bioenergetics
+caption: (A, B) The pH value of the culture medium was measured in WT and KO CT26
+  cells. (C, D) Enrichment analysis of proteomic data was performed using the GSEA
+  MSigDB GO BP gene set. GSEA plots and heat maps for pH regulation genes in the TRAP1
+  metabolic gene signature. (E) GSEA of mass spectrometry was performed with MSigDB
+  GO CC gene set and is summarized as the normalized enrichment score (NES) in WT
+  and KO cells. (F) GSEA plots for NADH dehydrogenase complex and cytosolic ribosome
+  are presented within the TRAP1 metabolic gene signature. (G, H) The oxygen consumption
+  rate (OCR) and extracellular acidification rate (ECAR) of WT and KO cells were measured
+  using the Seahorse assay. The data were analyzed using Wave software. (I) The energy
+  map generated from the Seahorse assay in WT and KO cells is shown. The empty and
+  dotted squares represent duplicate experiments within each group. Blue indicates
+  the WT group, red represents the KO6 group, and green represents the KO7 group.
+  (J, K) Glucose consumption and lactate production were measured in WT and KO cells
+  using Glucose-GLO and Lactate-GLO kits, respectively. (L) Illustration of TRAP1
+  depletion favors the glycolysis pathway than oxidative phosphorylation in colon
+  cancer. P < 0.05 (*), P < 0.01 (**)
+article_title: Restricting metabolic plasticity enhances stress adaptation through
+  the modulation of PDH and HIF1A in TRAP1-depleted colon cancer
+citation: Hong-Yuan Tsai, et al. Cancer Lett. 2025 Nov 01;632(NA).
+year: '2025'
+pub_date: '2025-11-01'
+epub_date: 2025-8-09
+doi: 10.1016/j.canlet.2025.217977
+journal_title: Cancer letters
+journal_nlm_ta: Cancer Lett
+publisher_name: .na.character
+keywords:
+- TRAP1
+- Metabolism
+- Mitochondria
+- ROS
+- HIF1A
+- PDH
+---

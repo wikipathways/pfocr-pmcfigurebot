@@ -1,0 +1,44 @@
+---
+figid: PMC12487850__jciinsight-10-194497-g056
+pmcid: PMC12487850
+image_filename: jpg
+figure_link: /pmc/articles/PMC12487850/figure/F9/
+number: Figure 9
+figure_title: Longitudinal gene expression analysis of enterocyte-Top2 cluster reveals
+  functional reprogramming in response to GLP-2
+caption: (A) Volcano plot showing differentially expressed genes (DEGs) in enterocyte-Top2
+  cluster at 0 months (0M) versus 12M. The x-axis represents Log2 fold change (LFC),
+  and the y-axis represents –Log10 (P value). Vertical dashed lines indicate a threshold
+  of |LFC| > 0.58, and the horizontal dashed line indicates a P value cutoff of 0.05.
+  (B and C) Heatmap of Z-score normalized gene expression for DEGs shown in A, across
+  time points (B) and clusters (C). (D and E) CompareCluster analysis of DEGs in enterocyte-Top2
+  cluster across 0M, 6M, and 12M. Rows represent Gene Ontology (GO) Biological Process
+  (BP) (D) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways (E). Dot plots
+  show significantly enriched GO terms or pathways (P < 0.01, q < 0.05), with dot
+  size indicating the gene ratio (proportion of DEGs) and color indicating the adjusted
+  P value. Numbers below the column name indicate the number of genes related to the
+  pathways for each cluster. (F) Gene expression related to glycerophospholipid metabolism
+  in enterocyte-Top2 cluster across time points. Each dot represents a gene, color
+  intensity indicates the scaled expression level in each cluster, and dot size represents
+  the percentage of cells expressing the gene. (G and H) Heatmap of Z-score normalized
+  expression of genes related to glycerophospholipid metabolism across time points
+  (G) and clusters (H). compareCluster analysis was performed using Over-Representation
+  Analysis (ORA) based on a hypergeometric test (D and E). Multiple-testing correction
+  was performed using the Benjamini-Hochberg (BH) method to control the false discovery
+  rate (FDR) (D and E). To compare gene expression between clusters, the Wilcoxon
+  rank-sum test was used (B, C, G, and H)
+article_title: Longitudinal single-cell analysis of glucagon-like peptide-2 treatment
+  in patients with short bowel syndrome
+citation: Yumi Kudo, et al. JCI Insight. 2025 Aug 7;10(18).
+year: '2025'
+pub_date: 2025-8-7
+epub_date: 2025-8-7
+doi: 10.1172/jci.insight.194497
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Clinical Research
+- Gastroenterology
+- Drug therapy
+---

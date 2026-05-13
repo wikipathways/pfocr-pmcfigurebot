@@ -1,0 +1,39 @@
+---
+figid: PMC12407665__nihpp-2025.08.25.25333715v1-f0003
+pmcid: PMC12407665
+image_filename: jpg
+figure_link: /pmc/articles/PMC12407665/figure/F3/
+number: Figure 3.
+figure_title: Spatial proteomics of the tumor microenvironment reveals stroma remodeling
+  and inflammation
+caption: '(A) PCA of stromal proteomes under normal FT epithelium, FT precursors,
+  and within HGSC and corresponding metastasis (met). FOXJ1pos, FOXJ1-positive. FOXJ1neg,
+  FOXJ1-negative. P53, p53 signature.(B) K-means clustering analysis of stromal proteins
+  in seven clusters, excluding metastasis (Table S3C). Heatmap of normalized protein
+  abundance (z-score) across different cell states. Scale indicates relative protein
+  expression levels.(C) GSEA of pathway alterations during disease progression (Table
+  S3E). Circle size indicates enrichment significance; color intensity represents
+  normalized enrichment score.(D) Heatmap showing progressive activation of interferon
+  gamma signaling across stromal states. Columns represent individual samples; rows
+  represent proteins involved in interferon response. Protein names are displayed
+  alternating between the left and right sides of the heatmap.(E) Protein levels of
+  sulfatase 1 (SULF1) across the indicated sample types determined by proteomics.(F)
+  Representative images of collagen fibers in normal FT and in STIC that are concurrent
+  with invasive HGSC using Trichrome staining. Black dashed line: STIC; red dashed
+  line: invasive HGSC.(G) Decreasing (left) and increasing (right) collagen protein
+  levels across the indicated sample types.(H) Volcano plot comparing stromal protein
+  expression below STICs from women without (STIC_only-adjacent stroma) compared to
+  with (HG_STIC-adjacent stroma) concurrent HGSC (Table S3B). FDR < 0.05, absolute
+  fold change > 1.5'
+article_title: Integration of cell-type resolved spatial proteomics and transcriptomics
+  reveals novel mechanisms in early ovarian cancer
+citation: Andreas Metousis, et al. medRxiv. 2025 Aug 28;NA(NA).
+year: '2025'
+pub_date: 2025-8-28
+epub_date: 2025-8-28
+doi: 10.1101/2025.08.25.25333715
+journal_title: medRxiv
+journal_nlm_ta: medRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

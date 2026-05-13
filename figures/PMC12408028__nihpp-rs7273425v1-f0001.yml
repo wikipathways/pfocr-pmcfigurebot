@@ -1,0 +1,50 @@
+---
+figid: PMC12408028__nihpp-rs7273425v1-f0001
+pmcid: PMC12408028
+image_filename: jpg
+figure_link: /pmc/articles/PMC12408028/figure/F1/
+number: Figure 1.
+figure_title: ExCITE-seq profiling of proximal colonic tissues reveals enrichment
+  of epithelial progenitors in LS carriers
+caption: (A) Overview of the study design. Profiling of human colonic tissue from
+  indicated subjects by ExCITE-seq, which simultaneously captures the surface epitope
+  information using a cocktail of 60 oligo-conjugated antibody-derived tags (ADTs)
+  and transcriptome of individual cells, along with the V(D)J repertoire of T cell
+  and B cell antigen receptors of the same cell for lymphocytes. Isolated human CD4+
+  cells were included as batch control. Control (CON); Lynch syndrome without colorectal
+  cancer (LS); Lynch syndrome with a prior colorectal cancer (LS-CRC).(B) wnn-UMAP
+  embedding of cell surface markers and scRNA-seq from all cells (left panel) and
+  bar graph indicating the percentage of each cell type in indicated individual groups
+  (right panel).(C) UMAP showing the scRNA-seq from epithelium (left panel) and bar
+  graph indicating the percentage of each cell type in indicated subject groups (right
+  panel).(D) UMAP plot overlaid with CytoTRACE scores to show the developmental trajectory.(E)
+  Beeswarm plot of adjusted log2 fold changes in abundance between experimental groups
+  of cellular neighbourhoods (Nhoods) identified by Milo. Each dot represents a Nhood
+  cluster and those displaying differential abundance (FDR < 0.1) are coloured in
+  blue or red.(F) Absolute counts of EpCAM+ and EpCAM+CD44+CD166+ cells per mg of
+  colorectal tissue, measured by flow cytometry.(G) Proportions of EpCAM+ and EpCAM+CD44+CD166+
+  cells as percentages of total live cells and EpCAM+CD44+ live cells, respectively.(H)
+  Pathway enrichment in epithelial cells was analyzed using LIANA+ (Ligand-Receptor
+  Inference Analysis). Factors in each row represent distinct groups of cell-cell
+  communication and each dot represents a signaling pathway enriched within a specific
+  factor. Dot color indicates pathway activity level, while size corresponds to statistical
+  significance (−log10 p-value, Holm correction).Dots represent one individual and
+  bars show mean ± SEM for (F) and (G). Statistical significance for (F) and (G) was
+  determined by one-way ANOVA (Fisher’s LSD post hoc test, *p < 0.05, **p < 0.001)
+article_title: MAIT cell enrichment in Lynch syndrome is associated with immune surveillance
+  and colorectal cancer risk
+citation: Hairu Yang, et al. Res Sq. 2025 Aug 25;NA(NA).
+year: '2025'
+pub_date: 2025-8-25
+epub_date: 2025-8-25
+doi: 10.21203/rs.3.rs-7273425/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords:
+- Lynch syndrome
+- Colorectal cancer
+- Epithelial stem and progenitor cells
+- fibroblasts
+- MAIT cells
+---

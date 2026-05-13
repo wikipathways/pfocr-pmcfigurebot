@@ -1,0 +1,34 @@
+---
+figid: PMC12473722__toxics-13-00733-g002
+pmcid: PMC12473722
+image_filename: jpg
+figure_link: /pmc/articles/PMC12473722/figure/F2/
+number: Figure 2
+figure_title: Enrichment Analysis of KEGG and GSEA.
+caption: 'Enrichment Analysis of KEGG and GSEA. (A) KEGG pathway bubble plot. Axes:
+  gene ratio (x), pathways (y). Bubble size: DEG count; color: −log10(p-value). (B)
+  Enrichment profiles of 9 positively enriched pathways. Screening criteria: (|NES|
+  > 1.5, FDR < 0.25, p < 0.05) (C) Heatmap of circadian rhythm pathway (ko04710) genes.
+  Rows: genes; columns: samples (FA vs. Ozone); red/blue: high/low expression. (D)
+  Detailed GSEA plot for circadian rhythm pathway (ko04710). Key metrics: NES = 1.84,
+  FDR = 0.029; zero cross at rank 6086. (E) GSEA plot for NOTCH signaling pathway
+  (ko04330). Metrics: NES = 1.85, FDR = 0.034; zero cross at rank 6086'
+article_title: Notch Signaling Pathway Regulates Ozone-Induced Lung Circadian Rhythm
+  Disruption
+citation: Xinyu Zhang, et al. Toxics. 2025 Sep;13(9).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-8-30
+doi: 10.3390/toxics13090733
+journal_title: Toxics
+journal_nlm_ta: Toxics
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- Notch3
+- Notch4
+- circadian rhythm
+- ozone
+- Bmal1
+- Per
+- air pollution
+---

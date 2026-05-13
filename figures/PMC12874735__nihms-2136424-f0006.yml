@@ -1,0 +1,33 @@
+---
+figid: PMC12874735__nihms-2136424-f0006
+pmcid: PMC12874735
+image_filename: jpg
+figure_link: /pmc/articles/PMC12874735/figure/F6/
+number: Fig. 6.
+figure_title: Schematic overview of the integrated bioinformatics workflow.
+caption: Schematic overview of the integrated bioinformatics workflow. The pipeline
+  begins with a multi-label perceptron neural network, which is applied to a feature
+  matrix to predict gene-pathway associations. Predicted gene names are analyzed for
+  enrichment using KEGG and GO databases, followed by gene ID conversion via GenID.
+  RAS-related pathways are extracted from the KEGG pathway database. To support computational
+  predictions, literature mining is conducted using the Entrez e-utility and PubMed,
+  linking gene IDs to PMIDs. Relevant articles are converted from PMIDs to PMC IDs
+  and downloaded as PDF or text files for curation. This combined in silico and literature-based
+  approach enhances the biological validation of key genes involved in cardiometabolic
+  disease
+article_title: Deep learning-driven proteomics analysis for gene annotation in the
+  renin-angiotensin system
+citation: Mortaza Eivazi, et al. Eur J Pharmacol. 2025 Nov 05;1006(NA).
+year: '2025'
+pub_date: '2025-11-05'
+epub_date: 2025-9-02
+doi: 10.1016/j.ejphar.2025.178119
+journal_title: European journal of pharmacology
+journal_nlm_ta: Eur J Pharmacol
+publisher_name: .na.character
+keywords:
+- Renin-angiotensin system
+- Multi-layer perceptron
+- Hypertension
+- Machine learning
+---

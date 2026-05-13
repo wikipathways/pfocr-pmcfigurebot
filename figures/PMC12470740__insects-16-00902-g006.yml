@@ -1,0 +1,36 @@
+---
+figid: PMC12470740__insects-16-00902-g006
+pmcid: PMC12470740
+image_filename: jpg
+figure_link: /pmc/articles/PMC12470740/figure/F6/
+number: Figure 6
+figure_title: GO and KEGG enrichment analysis of common DEGs in comparison combinations
+  of worker bees of different age groups.
+caption: GO and KEGG enrichment analysis of common DEGs in comparison combinations
+  of worker bees of different age groups. (A) Results of GO functional enrichment
+  analysis, presented by categories of biological process (BP), cellular component
+  (CC), and molecular function (MF). The x-axis represents functional descriptions,
+  and the y-axis, −log10(p-value), reflects the significance of enrichment, with larger
+  values indicating greater significance. (B) Results of KEGG enrichment analysis.
+  The x-axis, GeneRatio, represents the ratio of the number of DEGs enriched in a
+  particular pathway to the total number of DEGs. The y-axis lists the pathway names.
+  The color of each dot indicates the p-value (redder colors indicate greater significance),
+  and larger size of each dot represents a higher number of genes enriched in that
+  pathway
+article_title: 'Multidimensional Profiling of Senescence in Eastern Honey Bee, Apis
+  cerana (Hymenoptera: Apidae), Workers: Morphology, Microstructure, and Transcriptomics'
+citation: Qiang Ma, et al. Insects. 2025 Sep;16(9).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-8-28
+doi: 10.3390/insects16090902
+journal_title: Insects
+journal_nlm_ta: Insects
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- eastern honey bee
+- aging
+- morphological character
+- structural features
+- transcriptomics
+---

@@ -1,0 +1,48 @@
+---
+figid: PMC12578402__jci-135-189566-g064
+pmcid: PMC12578402
+image_filename: jpg
+figure_link: /pmc/articles/PMC12578402/figure/F5/
+number: Figure 5
+figure_title: Differences in B cell signaling qualities driven by TLR999 or TLR997
+caption: Transcriptome analysis of bead-purified B cells from 5-week-old Tlr9+/– Tlr7–/–
+  or Tlr997 Tlr7–/– female MRL/lpr mice that were stimulated with TLR9 agonist (CpG,
+  10 μg/ml) for 4 hours. (A) Number of differentially expressed genes (DEGs) identified
+  using the limma R package (log2 FC > 0.5, and FDR-corrected P value of < 0.05).
+  (B) Bubble plots show the top 15 reactome pathways enriched in Tlr997 (purple bubbles)
+  and Tlr9+/– (salmon bubbles) regulated genes from the Tlr997 (stim) vs Tlr9+/– (stim)
+  comparison. Bubble size reflects the number of genes in the pathway that are also
+  differentially expressed in Tlr997 vs Tlr9+/–. Enrichment was calculated using Fisher’s
+  exact test (with all expressed genes as background) followed by Storey’s Q value
+  FDR correction. (C) Volcano plot representing the DEGs between Tlr997 and Tlr9+/–
+  CpG-stimulated B cells. The significant DEGs (log2 FC > 0.5) were annotated based
+  on the reported functions of their corresponding proteins in B cell activation (green
+  dots), cell death (yellow dots), TLR-mediated inflammation (red dots), negative
+  regulation of TLR-mediated inflammation and/or B cell activation (blue dots), or
+  if the genes were IFN-induced genes (pink dots). (D) Diagram depicting how proteins
+  encoded by the curated DEGs in C could promote or regulate NF-κB, IRF, MAPK, IFN
+  type 1 or 2 signaling pathways. In the cartoons of the chimeric TLR, TLR9-driven
+  domains are in red and TLR7-derived domain in blue. (E) A TLR9-induced gene set
+  signature for B cells of Tlr9+/+ BALB/c mice was generated. It comprises 1,724 upregulated
+  genes (log2FC > 1 and FDR P value < 0.05) after a 4-hour in vitro CpG stimulation
+  compared with unstimulated cells. Enrichment of this TLR9-induced gene set was assessed
+  before and after TLR9 stimulation in Tlr9+/– B cells (left panel) and in Tlr997
+  (middle panel) B cells and between Tlr9+/– and Tlr997 stimulated B cells (right
+  panel). The P value was calculated using the rankSumTestWithCorrelation function
+  from the R limma package
+article_title: Divergent TIR signaling domains in TLR7 and TLR9 control opposing effects
+  on systemic autoimmunity
+citation: Claire Leibler, et al. J Clin Invest. 2025 Aug 12;135(21).
+year: '2025'
+pub_date: 2025-8-12
+epub_date: 2025-8-12
+doi: 10.1172/JCI189566
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Autoimmunity
+- Immunology
+- Innate immunity
+- Lupus
+---

@@ -1,0 +1,48 @@
+---
+figid: PMC12439480__thnov15p9306g006
+pmcid: PMC12439480
+image_filename: jpg
+figure_link: /pmc/articles/PMC12439480/figure/F5/
+number: Figure 5
+figure_title: Single-cell RNA sequencing reveals tumor cell heterogeneity across different
+  treatment groups.
+caption: Single-cell RNA sequencing reveals tumor cell heterogeneity across different
+  treatment groups. (A) t-SNE clustering analysis identified seven distinct tumor
+  cell populations on the basis of their transcriptomic profiles. (B) Relative proportions
+  of the cell populations across treatment groups. Compared with those in the Veh
+  and mTOR groups, the proportions of the C3 and C4 populations in the Lu and Combo
+  groups were significantly lower, with a particularly pronounced reduction in C4
+  cells (p < 0.05). (C) Differential gene expression analysis revealed elevated expression
+  of DNA replication-associated genes (Mcm6, Mcm3, Pcna, Dut, and Prim1) in C3 cells,
+  whereas C4 cells presented high expression of proliferation- and mitosis-related
+  genes (Hmgb2, Ube2c, Cenpf, Top2a, and Mki67). (D) Heatmap analysis revealed significant
+  enrichment of chemotherapy resistance-associated genes (Birc5, Hmgb2, and Rrm1),
+  proliferation-related genes (Tuba1b, Stmn1, and Mki67), and stemness markers (Aurka,
+  Lgr5, Hes1, Dnmt1, and Ezh2) in the C3 and C4 populations. (E) Gene set enrichment
+  analysis (GSEA) revealed that the HALLMARK MYC TARGETS V1 and HALLMARK G2M CHECKPOINT
+  pathways were significantly enriched in the genes differentially expressed in C4
+  cells, indicating their role in cell cycle progression and robust proliferative
+  capacity. (F) Pseudotime trajectory analysis revealed that C3 and C4 cells were
+  positioned in the early differentiation stage, whereas C1 and C2 cells were located
+  at later differentiation stages, suggesting that the C3 and C4 populations exhibit
+  stem-like characteristics. (G) TCGA survival analysis demonstrated that the increased
+  expression of the top 50 C4-associated genes was significantly correlated with shortened
+  disease-free survival (DFS) in pancreatic and thyroid cancer patients (p < 0.05),
+  whereas low expression of these genes did not result in a similar association
+article_title: Dimeric CCK2R radiotheranostic tracers synergize with mTOR inhibition
+  for enhanced tumor therapy
+citation: Linjie Bian, et al. Theranostics. 2025;15(17).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025-8-16
+doi: 10.7150/thno.117021
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+keywords:
+- Neuroendocrine tumors
+- Peptide receptor radionuclide therapy (PRRT)
+- Multimeric radioligand
+- Oxidative stress modulation
+- Radiosensitization
+---

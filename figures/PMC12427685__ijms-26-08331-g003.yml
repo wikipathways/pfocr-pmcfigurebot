@@ -1,0 +1,36 @@
+---
+figid: PMC12427685__ijms-26-08331-g003
+pmcid: PMC12427685
+image_filename: jpg
+figure_link: /pmc/articles/PMC12427685/figure/F3/
+number: Figure 3
+figure_title: Co-expression network analysis of trans-targeting lncRNA-PCG interactions
+  in A.
+caption: Co-expression network analysis of trans-targeting lncRNA-PCG interactions
+  in A. thaliana immunity. (a) Hierarchical clustering dendrogram with module assignment
+  (24 co-expression modules; n = 8000 transcripts). (b) Module-trait correlation heatmap.
+  (c) “Turquoise” module eigengene dynamics across genotypes (WT vs. MPK6SR) under
+  Pst DC3000 and Pst DC3000 hrcC− challenges. (d) Module-wise distribution of lncRNA
+  and protein-coding gene counts. (e) KEGG pathway enrichment for “turquoise” module
+  trans-regulated lncRNA-PCG pairs. (f) “Pink” module eigengene expression patterns
+  in plant–pathogen interactions. (g) Significantly enriched KEGG terms among “pink”
+  module trans-targeting networks. (h) “Blue” module eigengene trajectories during
+  immune responses. (i) Functional annotation of “blue” module cis-regulatory associations
+  via KEGG
+article_title: Transcriptomic Identification of Long Noncoding RNAs Modulating MPK3/MPK6-Centered
+  Immune Networks in Arabidopsis
+citation: Tianjiao Wang, et al. Int J Mol Sci. 2025 Sep;26(17).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-8-28
+doi: 10.3390/ijms26178331
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- long noncoding RNA
+- plant immunity
+- MPK3/MPK6
+- pattern-triggered immunity
+- effector-triggered immunity
+---

@@ -1,0 +1,32 @@
+---
+figid: PMC12492378__ijmsv22p3924g002
+pmcid: PMC12492378
+image_filename: jpg
+figure_link: /pmc/articles/PMC12492378/figure/F2/
+number: Figure 2
+figure_title: Workflow of model development and the DL neural network architecture.
+caption: Workflow of model development and the DL neural network architecture. The
+  model was developed utilizing multiple-planar analysis (i.e., transverse, sagittal,
+  and coronal planes) within a DL framework. Within each processing pathway, the DL
+  network extracts discriminative features by integrating spatial relationships via
+  a ResNet architecture. Features aggregated from the parallel pathways were subsequently
+  concatenated and fused by the ensuing fully connected (FC) layers. The network accepts
+  the original image containing solely the lesion region as input and outputs the
+  pathological binary classification alongside corresponding heatmaps visualizing
+  salient regions
+article_title: 'Deep Learning Based on Automated Breast Volume Scanner Images for
+  the Diagnosis of Breast Lesions: A Multicenter Diagnostic Study'
+citation: Hui Liu, et al. Int J Med Sci. 2025;22(15).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025-8-22
+doi: 10.7150/ijms.118430
+journal_title: International Journal of Medical Sciences
+journal_nlm_ta: Int J Med Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- Breast cancer
+- Automated breast volume scanner
+- Ultrasound
+- Deep learning.
+---

@@ -1,0 +1,71 @@
+---
+figid: PMC12407900__nihpp-2025.08.26.672243v1-f0002
+pmcid: PMC12407900
+image_filename: jpg
+figure_link: /pmc/articles/PMC12407900/figure/F2/
+number: Figure 2.
+figure_title: Stable-isotope precursor feeding study reveals that root tips (up to
+  length of approximately 5–8 cm) of actively growing plant are the sites of active
+  biosynthesis of cephalotaxine and that specific phenethylisoquinolines serve as
+  intermediates in this process
+caption: (a) Different tissues of C. harringtonia (young inner needles—YIN, young
+  outer needles—YON, old needles—ON, young stem—YSt, old stem—OSt, and root tips—Rt)
+  harvested during actively growing season of the plant (May or June) and dissected
+  for paired feed-in experiments (metabolomics) and RNA-seq (transcriptomics). (b)
+  Natural accumulation of CET ([M + H]+ = m/z 316.1543, r.t. = 2 min.) and HHT ([M
+  + H]+ = m/z 546.2698, r.t. = 10.8 min.) throughout the native plant, C. harringtonia
+  harvested in May 2022. (c) Relative isotope enrichment of CET-D4 in deuterated precursor
+  dopamine-D4 feeding (right half of bar graph) compared to water treatment (left
+  half of bar graph) in five different tissues indicates active biosynthesis of CET
+  in the growing root tips (up to length of approximately 5–8 cm) of the native plant.
+  On the right, isotope envelope of CET in centroid mode, comparing dopamine-D4 treated
+  Rt (red) vs H2O treated Rt (black), is shown—with dopamine-D4 treated Rt having
+  an extra peak of m/z 320.1794 corresponding to CET-D4 ([M0 + H4 + H]+). (d) Untargeted
+  metabolite analysis (XCMS) comparing dopamine-D4 fed roots tips to water-fed root
+  tips of C. harringtonia (n = 9 independent replicates for each experimental condition).
+  The unique mass features (P < 0.2; fold change > 3.5; 200 < m/z < 600) are ranked
+  based on their increasing fold change in abundance between the two conditions, with
+  top 50 shown. Features confirmed to be above signal to noise and represent true
+  mass signatures corresponding to potential intermediates (with four deuteriums,
+  resulting from incorporation of dopamine-D4) in CET biosynthesis are shown in red
+  and their isotopologues and/or adducts in orange. r.t., retention time. While not
+  shown here, CET-D4 ranked 127th out of 148 unique features identified by XCMS with
+  increasing fold change. (e) Relative isotope enrichment of CET-D4 in 2-D4 feeding
+  (right half of bar graph) compared to water treatment (left half of bar graph) in
+  six different tissues indicates active biosynthesis of CET in the growing root tips
+  (up to length of approximately 5–8 cm) of the native plant and 2-D4 as an intermediate
+  in CET biosynthesis. On the right, isotope envelope of CET in 2-D4 fed tissues (YIN,
+  YON, YSt, ON, OSt, and Rt) and in H2O fed Rt in profile mode, focusing on the fourth
+  isotope peak, M4 (M + 4), is shown. In the 2-D4 fed Rt sample, an additional fourth
+  isotope peak appears at m/z 320.1794, corresponding to CET-D4 ([M0 + H4 + H]+) due
+  to four deuterium incorporation, which is distinct from the natural carbon isotope
+  peak at m/z 320.1678, corresponding to CET-M4 ([M4 + H]+) observed in all different
+  tissues fed with 2-D4 or water. (f) Observation of 3-D4 ([M+H]+ = m/z 334.1951,
+  r.t. = 7.8 min.) in all six different tissues treated with 2-D4. O-methylation of
+  2-D4 to 3-D4 predominantly occurs in the actively growing root tips. (g) Relative
+  isotope enrichment of CET-D4 in 3-D4 treatment (right half of bar graph) compared
+  to water treatment (left half of bar graph) in three different tissues indicates
+  active biosynthesis of CET in the growing root tips (up to length of approximately
+  5–8 cm) of the native plant and 3-D4 as an intermediate in CET biosynthesis. (h)
+  Summary of updated proposed biosynthetic pathway for CET with stable-isotope precursor
+  feeding experiments. Dotted line represents proposed aldehyde incorporation not
+  yet supported by labeling studies. For all quantification, EIC of LC-MS was used.
+  For CET-D4 enrichment studies (c, e, g), CET-D4 was normalized by M2 (M + 2) isotopologue
+  to avoid detector saturation effects, since CET ionized well in LC-MS and was highly
+  abundant in our measurement conditions. Experiments in (b-d), (e-f), and (g) were
+  conducted in May 2022 (n = 9 biological replicates for each tissue type, except
+  YSt, n = 6), in May 2023 (n = 4 biological replicates for YSt, ON, and Rt, and n
+  = 2 for YIN, YON, and OSt), and in June 2024 (n = 4 biological replicates for each
+  tissue type) respectively. The values and error bars are mean and ± standard deviation
+article_title: Discovery of homoharringtonine pathway enzymes reveals a whole plant
+  model for coordinated biosynthesis
+citation: Yaereen Dho, et al. bioRxiv. 2025 Aug 29;NA(NA).
+year: '2025'
+pub_date: 2025-8-29
+epub_date: 2025-8-29
+doi: 10.1101/2025.08.26.672243
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

@@ -1,0 +1,36 @@
+---
+figid: PMC12532041__nihms-2113445-f0008
+pmcid: PMC12532041
+image_filename: jpg
+figure_link: /pmc/articles/PMC12532041/figure/F7/
+number: Figure 7.
+figure_title: HSPCs demonstrate unique cell-type-specific transcriptional changes
+  during aging
+caption: (A) Workflow for analysis of aging HSPCs.(B) UMAP of integrated HSPCs with
+  confident cell annotations.(C) Enrichment analysis was performed using informative
+  genes identified from cell-type-specific Spearman correlation analysis for aging
+  and youth. Bar plots show the number of significant terms for each cell-type-specific
+  analysis.(D) RF model performance metrics after RFE for predicting cell-type-specific
+  age on the test data.(E–G) Expression of gene modules associated with DNA repair
+  and processing in HSCs (E) and RNA splicing and processing in HSCs (F) and MPPs
+  (G).(H) Correlation between the predicted age from the RF model after RFE and true
+  age on the test data.(I) Cell-type-specific aging scores for healthy and cancer
+  cells annotated using the mixed-model classifier.Statistical significance was tested
+  using a t test with multiple comparison adjustments. All scores are significantly
+  different unless marked not significant (NS). DDR, DNA damage response; DSBR, double-stranded
+  break repair; ELN, elastic net; GO, Gene Ontology; GOBP, GO biological processes;
+  GOCC, GO cellular component; GOMF, GO molecular functions; NHEJ, non-homologous
+  end joining; PE, pathway enrichment (Reactome); RF, random forest; RFE, recursive
+  feature elimination
+article_title: A single-cell framework identifies functionally and molecularly distinct
+  multipotent progenitors in adult human hematopoiesis
+citation: Asiri Ediriwickrema, et al. Cell Rep. 2025 Sep 23;44(9).
+year: '2025'
+pub_date: 2025-9-23
+epub_date: 2025-9-03
+doi: 10.1016/j.celrep.2025.116236
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

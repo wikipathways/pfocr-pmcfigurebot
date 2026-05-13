@@ -1,0 +1,45 @@
+---
+figid: PMC13034498__nihms-2149468-f0006
+pmcid: PMC13034498
+image_filename: jpg
+figure_link: /pmc/articles/PMC13034498/figure/F6/
+number: Fig. 6.
+figure_title: Flt3L and CD40 agonists increase cDC number and alter activity in human
+  PDAC
+caption: '(A) Graphical depiction of clinical trial (NCT04536077). Patients with resectable
+  PDAC received a single dose of neoadjuvant CDX-1140 (fully humanized αCD40 IgG)
+  or 5 subcutaneous doses of CDX-301 (recombinant human Flt3L) + CDX-1140. (B-C) Flow
+  cytometry analysis of (B) circulating DC frequencies (C) circulating cDC1 CD40 expression
+  (FC = Fold Change) (n=6/arm). (D-E, G-M) ScRNAseq of whole tissue digests from pathological
+  patient tumor or liver met samples. Libraries were generated from 8 patients (4
+  tumor libraries from arm-1 (CDX-1140), and 2 tumor and 2 liver met libraries from
+  arm-2 (CDX-301+CDX-1140). Historical standard-of-care (SOC) patients served as controls
+  (n=19). Repositories for GSEA analysis include: “H”=Hallmark, “K”=KEGG, “R”=Reactome,
+  “B”=Biocarta, “P”=PID and GO Databases. (D) UMAP of APC subsets. (E) DC subset frequency,
+  out of total sequenced cells (n=4–19/arm). (F) 5X and 40X representative mpIHC image
+  and quantification of total XCR1+(purple)/CD11c+ cDC1 and XCR1+/CD11c+/CCR7+(orange)
+  MigDC1 in tumor regional LNs from patients treated with CDX-1140+/−CDX-301 (n=4–5/arm).
+  (G-I) GSEA pathways enriched in the cDC1 cluster (P.adj < 0.05): (G) CDX-1140+/−CDX-301
+  vs. SOC, (H) CDX-301+CDX-1140 vs. CDX-1140, (I) Expression heatmap of the GO:BP
+  IL-12 Production gene set, split by treatment arm. (J-L) GSEA pathways enriched
+  in MigDC (P.adj < 0.05): (J) CDX-1140+/−CDX-301 vs. SOC, (K) Expression heatmap
+  of the PID: CD40 Pathway gene set, split by treatment arm (L) CDX-301+CDX-1140 vs.
+  CDX-1140. (M) Selected DEGs (*indicates P.adj < 0.05, Likelihood Ratio Test, otherwise
+  P < 0.05) in the MigDC cluster (CDX-301+CDX-1140 vs. SOC). Line graphs and bar graphs
+  depict mean +/− SEM. *P < 0.05, **P < 0.01, ***P < 0.001 by mixed-effects model
+  of matched data with Geisser-Greenhouse correction with (B) Dunett multiple comparisons
+  test against baseline (blood draw-1) and (C) Holm-Sidak multiple comparisons test;
+  one-way ANOVA with Holm-Sidak multiple comparisons test (E); or unpaired Student’s
+  t test (F)'
+article_title: Combined Flt3L and CD40 agonism restores dendritic cell-driven T cell
+  immunity in pancreatic cancer
+citation: Graham D. Hogg, et al. Sci Immunol. 2025 Aug 15;10(110).
+year: '2025'
+pub_date: 2025-8-15
+epub_date: 2025-8-15
+doi: 10.1126/sciimmunol.adp3978
+journal_title: Science immunology
+journal_nlm_ta: Sci Immunol
+publisher_name: .na.character
+keywords: []
+---

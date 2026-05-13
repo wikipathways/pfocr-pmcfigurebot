@@ -1,0 +1,60 @@
+---
+figid: PMC12756910__nihms-2098875-f0003
+pmcid: PMC12756910
+image_filename: jpg
+figure_link: /pmc/articles/PMC12756910/figure/F3/
+number: Figure 3.
+figure_title: DoxCM is characterized by reduced phagocytosis gene expression in myeloid
+  cells and higher fibroblast CD47 expression
+caption: 'A) Volcano plot illustrates the downregulation of phagocytosis-related genes
+  in myeloid cells in DoxCM. B) Dot plot of MERTK and MARCO in myeloid cells from
+  19 individuals in Donor and DoxCM. C) Cluster-based pathway enrichment analysis
+  in myeloid cells. The y-axis lists enriched pathways, and the x-axis indicates the
+  corresponding myeloid cell clusters. Circle size reflects the GeneRatio (the proportion
+  of input genes mapped to each individual pathway term) while color represents the
+  adjusted P value for enrichment significance. Bar graphs above each cluster denote
+  the cell counts within each sub-cluster. D) Violin plots of resident macrophage
+  markers in myeloid cells. E) Resident macrophage proportions in Donor (n = 8) and
+  DoxCM (n = 11). An FDR threshold of 0.2 was used to distinguish statistically credible
+  changes in resident macrophage population abundance between Donor and DoxCM. Credible
+  and significant results are depicted as red bars, references for scCODA: Classical_Mono.
+  F) Schematic image of “Don’t Eat Me” pathway. G) Overall CD47 expression in Donor
+  (n = 8) and DoxCM (n = 11) based on Seurat dot plot from individual sample. H) Fibroblast
+  CD47 in Donor (n = 8) and DoxCM (n = 11) based on Seurat dot plot from individual
+  sample. I) Dot plot of CD47 in activated and total fibroblasts. J) Representative
+  immunostaining images and quantification of CD47 from human cardiac sections in
+  Donor (n = 6) and DoxCM (n = 10). Scale bar = 50 μm. White triangles point to CD47
+  positive signal. K) Representative immunoblot images and quantification of CD47
+  in Donor (n = 10) and DoxCM (n = 10). L) Representivate immunoblots and quantification
+  of CD47 in human iPSC-derived cardiomyocytes, fibroblasts, pericytes, and macrophages
+  treated with Dox (0.5 μM) for 6 hours, followed by a 2-day washout period (n = 4).
+  Data are presented as mean ± SEM and analyzed by GraphPad Prism 10.4.0. Mann-Whitney
+  test was utilized in (L) for human iPSC-fibroblasts. Student’s t-test was utilized
+  in (G), (H), and (J-L). P values are shown in all the statistical graphs. Each dot
+  represents one human in all the statistical graphs except (L). THBS1, thrombospondin
+  1; MERTK, MER proto-oncogene tyrosine kinase; MARCO, macrophage receptor with collagenous
+  structure; S100A9, S100 calcium-binding protein A9; TLR2, toll-like receptor 2;
+  HRH2, histamine receptor H2; ANPEP, alanyl aminopeptidase; VSIG4, V-set and immunoglobulin
+  domain-containing 4; IRAK3, interleukin-1 receptor-associated kinase 3; SIRPA, CD47-signal
+  regulatory protein alpha; Donor, non-failing donor controls; DoxCM, heart failure
+  patients with doxorubicin cardiomyopathy; Resident_Mac, resident macrophage; Classical_Mono,
+  classical monocytes; Nonclassical_Mono, nonclassical monocytes; FDR, false discovery
+  rate; iPSC, induced pluripotent stem cell; iCMs, cardiomyocytes; iMacs, macrophages;
+  CPs, cardiac pericytes; CFs, cardiac fibroblasts; and SEM, standard error of the
+  mean'
+article_title: Human single nucleus RNA sequencing identifies CD47 as a therapeutic
+  target for doxorubicin-induced cardiomyopathy
+citation: Zhen Guo, et al. Circulation. 2025 Sep 09;152(10).
+year: '2025'
+pub_date: 2025-9-09
+epub_date: 2025-8-14
+doi: 10.1161/CIRCULATIONAHA.124.071217
+journal_title: Circulation
+journal_nlm_ta: Circulation
+publisher_name: .na.character
+keywords:
+- Doxorubicin cardiomyopathy
+- activated fibroblasts
+- CD47
+- resident macrophage
+---

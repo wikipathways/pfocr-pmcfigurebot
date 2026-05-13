@@ -1,0 +1,70 @@
+---
+figid: PMC12396527__nihms-2105729-f0003
+pmcid: PMC12396527
+image_filename: jpg
+figure_link: /pmc/articles/PMC12396527/figure/F2/
+number: Figure 2.
+figure_title: Genome-wide CRISPR screens in primary human NK cells decipher modulators
+  mediating enhanced antitumor potency under repeated tumor challenge
+caption: (A) Schematic of high-content genome-wide CRISPR screens to identify regulators
+  of NK cell functional resilience under repeated tumor pressure (See also Figure
+  S2).(B) NK cell:Capan-1 pancreatic cancer xCELLigence in vitro killing assay (E:T=1:1)
+  assessing NK cell antitumor potency after two rounds of Capan-1 tumor challenge
+  (NK + 3x PDAC; red) compared to PDAC-naïve controls (NK + 1x PDAC; light green);
+  shown is the mean normalized tumor growth of n=2 independent human NK cell donors.
+  Error bars (SD) are represented as shaded area (p value computed using ratio paired
+  t test of the reciprocal of the area under the tumor growth curve; **p< 0.01; see
+  also Figure S2B for AUC statistics).(C and D) Optimized t-Distributed Stochastic
+  Neighbor Embedding (opt-SNE) plots depicting NK single cell projections before (NK
+  only; blue) and after one (NK + 1x PDAC; green) or three (NK + 3x PDAC; red) rounds
+  of Capan-1 pancreatic cancer (PDAC) challenge (E:T=1:1) (C), and overlaid with FlowSOM
+  metaclusters (D), as assessed by spectral flow cytometry; n=2 CB donors (See also
+  Figures S2C–S2E).(E) Bar chart depicting the changes in relative cluster composition
+  across the different experimental groups (n=2 human NK cell donors).(F) Heatmap
+  of z-transformed median surface marker expression (indicated by color) and percentage
+  expression (indicated by circle size) for metaclusters. Columns are clustered using
+  1-Pearson correlation distance and average linkage.(G) Genome-wide CRISPR screens
+  in primary human NK cells (n=2 donors) identifying positive (FDR<0.05; LFC |ZS|>1.5)
+  and negative (FDR<0.05; LFC |ZS|>5) regulators of NK cell fitness under repeated
+  pancreatic cancer challenge. Hits color-coded by molecular function and cellular
+  localization (See also Figure S2).(H) Integrated analysis of the genome-wide NK
+  cell degranulation and NK:Capan-1 re-challenge screens reveals recovery of the majority
+  of screen hits (FDR<0.05) identified in the NK cell re-challenge screen among top
+  enriched genes (≥95th quantile LFC ZS) in the NK cell degranulation screens.(I)
+  Reactome pathway analysis of significantly depleted non-essential genes (FDR<0.05;
+  LFC ZS>|3|).(J) Single-cell transcriptomic data of tumor-infiltrating and peripheral
+  blood (PB)-NK cells in pancreatic cancer (n=16) and across 19 cancer types (n=217),
+  evaluating a gene signature comprising the top 5 hits compared to healthy controls
+  (n=5). Data represented as box-and-whiskers plots; box limits represent quartiles
+  (IQR), whiskers indicate minimum and maximum values, horizontal solid line represents
+  the median; p values computed using Mann-Whitney U test; *p<0.05 (See also Figure
+  S2S and S2T).(K) Genome-wide screens in primary human NK cells independently identified
+  multiple components of integral cellular regulatory nodes as projected by protein-protein
+  interaction mapping of screen hits (FDR<0.05) by STRING database.(L) Gene ontology
+  (GO) term analysis of positive hits (FDR<0.05, LFC ZS>1.5) delineates cellular localization
+  and functional context (See also Figures S2W and S2X).(M) Top enriched hits (rank≤50)
+  were analyzed using TRANSFAC and JASPAR databases to identify TF binding motifs
+  and infer regulatory networks with shared binding to promoter regions of identified
+  screen hits.Also see Figure S2 and Table S2
+article_title: Genome-wide CRISPR screens identify critical targets to enhance CAR-NK
+  cell antitumor potency
+citation: Alexander Biederstädt, et al. Cancer Cell. 2025 Nov 10;43(11).
+year: '2025'
+pub_date: '2025-11-10'
+epub_date: 2025-8-21
+doi: 10.1016/j.ccell.2025.07.021
+journal_title: Cancer cell
+journal_nlm_ta: Cancer Cell
+publisher_name: .na.character
+keywords:
+- CAR-NK cell therapy
+- genome-wide CRISPR screens
+- tumor microenvironment
+- adoptive cell therapy
+- natural killer cells
+- solid tumors
+- multiplexed cellular engineering
+- metabolic reprogramming
+- precision gene editing
+- functional perturbomics
+---

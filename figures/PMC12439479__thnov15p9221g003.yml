@@ -1,0 +1,45 @@
+---
+figid: PMC12439479__thnov15p9221g003
+pmcid: PMC12439479
+image_filename: jpg
+figure_link: /pmc/articles/PMC12439479/figure/F3/
+number: Figure 3
+figure_title: NETs stimulate TREM1 expression and its interaction with the TLR/NF-κB
+  pathway in endothelial cells.
+caption: NETs stimulate TREM1 expression and its interaction with the TLR/NF-κB pathway
+  in endothelial cells. (A) UMAP visualization of the expression differences in 124,595
+  single cells from injured and control mice, annotated by cell type based on established
+  lineage markers. (B) Endothelial cells were extracted from the total cell population,
+  followed by re-clustering and UMAP visualization, and separated into Sham and TBI
+  groups. (C) Dot plot showing the expression of selected marker genes across different
+  endothelial cell subpopulations. (D) Proportions of each endothelial cell population
+  within different experimental groups. (E) Visualization of the results from pseudotime
+  analysis of endothelial cells. (F) Visualization of the enrichment analysis of differentially
+  expressed genes in the third endothelial cell cluster. (G and H) Western blot analysis
+  and densitometric quantification were performed to evaluate the expression levels
+  of TREM1 and GAPDH in patient samples. Data analyzed by unpaired t-test. (n = 6/group).
+  (I) Co-IP results examining the physical association between NF-κB p65 and TREM1
+  in endothelial cells after NETs stimulation. (J) RNA-Seq analysis of injured cortical
+  tissue from TBI mice, with functional enrichment of genes most strongly associated
+  with TREM1 expression. (K) Representative images of double immunofluorescence staining
+  for NF-κB (red) and TREM1 (green) in endothelial cells following different treatments.
+  Nuclei were stained with DAPI (blue). (n = 6/group). Scale bar = 20 µm. Data are
+  presented as mean ± S.D. and analyzed by one-way ANOVA with Bonferroni's multiple
+  comparison test. *p < 0.05, **p < 0.01, ***p < 0.001
+article_title: Neutrophil extracellular traps induce endothelial damage and exacerbate
+  vasospasm in traumatic brain injury
+citation: Jinchao Wang, et al. Theranostics. 2025;15(17).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025-8-16
+doi: 10.7150/thno.115746
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+keywords:
+- Traumatic brain injury
+- Neutrophil extracellular traps
+- Vascular spasm
+- TREM1
+- Endothelial dysfunction
+---

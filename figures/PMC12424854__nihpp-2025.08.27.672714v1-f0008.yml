@@ -1,0 +1,32 @@
+---
+figid: PMC12424854__nihpp-2025.08.27.672714v1-f0008
+pmcid: PMC12424854
+image_filename: jpg
+figure_link: /pmc/articles/PMC12424854/figure/F8/
+number: Figure 8.
+figure_title: Temporal and organ-specific prediction of small-molecule modulators
+  to target salt-sensitive hypertension
+caption: A–D. Sankey diagrams integrating differential expression profiles with LINCS
+  L1000 chemical perturbation signatures for significantly upregulated genes in the
+  kidney cortex (A), kidney medulla (B), liver (C), and heart (D). Each network connects
+  time points (days 7–D35; left), enriched top 5 Hallmark pathways (middle), and the
+  top predicted small molecules (right) prioritized for their potential to reverse
+  disease-associated transcriptional changes. Edge thickness denotes −log10(adjusted
+  P value), indicating enrichment strength. E. Stacked stream graphs show, for each
+  tissue, the cumulative enrichment of small-molecule classes at each time point,
+  represented as the summed – log10(adjusted P value) of all compounds within each
+  class. Peaks indicate phases when a given class is most strongly aligned with the
+  organ-specific transcriptome. CX, cortex; MD, medulla; LV, liver; HR, heart; D7,
+  day 7; D14, day 14; D21, day 21; and D35, day 35 time points. adj. p indicated adjusted
+  P value. n = 6 male rats per group
+article_title: Longitudinal Multi-Organ Transcriptomic Atlas of Salt-Induced Hypertension
+citation: Ratnakar Tiwari, et al. bioRxiv. 2025 Sep 01;NA(NA).
+year: '2025'
+pub_date: 2025-9-01
+epub_date: 2025-9-01
+doi: 10.1101/2025.08.27.672714
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

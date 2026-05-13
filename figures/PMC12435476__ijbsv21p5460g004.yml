@@ -1,0 +1,58 @@
+---
+figid: PMC12435476__ijbsv21p5460g004
+pmcid: PMC12435476
+image_filename: jpg
+figure_link: /pmc/articles/PMC12435476/figure/F4/
+number: Figure 4
+figure_title: Crucial role of Wnt/β-catenin pathway inhibition in JPI-547 cytotoxicity
+  in Wnt-addicted PDAC cells.
+caption: 'Crucial role of Wnt/β-catenin pathway inhibition in JPI-547 cytotoxicity
+  in Wnt-addicted PDAC cells. (A) Heatmap of RNA-seq data illustrating changes in
+  the β-catenin destruction complex (GO:0030877) geneset between control and JPI-547
+  treatment in HPAF-II. (B) Cycloheximide (50 μg/mL) chase assay with or without JPI-547
+  treatment followed by immunoblot analysis of AXIN2 levels. Representative images
+  from three independent experiments are displayed (left), with relative AXIN2 levels
+  quantified using ImageJ software (right) presented as the mean ± SD (n = 3); p-values
+  by two-way ANOVA. (C) Immunoblot analysis of AXIN2 protein levels in HPAF-II cells
+  following treatment with 1 μM JPI-547 for 0, 24, or 72 h. (D) Immunoblot analysis
+  of β-catenin or non-phospho (active) β-catenin (Ser33/37/Thr41) levels in the nucleus
+  after 72 h treatment with 2.5 µM olaparib or JPI-547. Lamin B1 was used as a nucleus
+  loading control. (E) Upper: Representative images of active β-catenin immunohistochemical
+  staining in AsPC-1 tumors collected from mice at the end of therapy. Lower: H-score
+  calculated from n = 6 mice per group. Data represent mean ± SEM (n = 6); adjusted
+  p-values by one-way ANOVA with Bonferroni''s multiple comparisons test. (F) qRT-PCR
+  analysis of c-Myc and AXIN2 after 120 h treatment with 2.5 µM olaparib or JPI-547.
+  Data represent mean ± SD (n = 3); p-values by unpaired two-tailed Student''s t-test.
+  (G) Heatmap of RNA-seq data illustrating the expression levels of genes associated
+  with Myc targets (HALLMARK_MYC_TARGETS_V1) between the indicated treatment groups
+  in HPAF-II. (H) Gene Set Enrichment Analysis plot showing enrichment of the E2F
+  targets geneset in untreated control samples compared to JPI-547-treated HPAF-II,
+  based on transcriptomic data from RNA-seq. Normalized enrichment scores and nominal
+  p-values were calculated using 1,000 permutations. (I) Bar graphs depicting the
+  effect of CTNNB1 knockdown on the responsiveness of the indicated cell lines to
+  JPI-547. Cells were transfected with the indicated small interfering RNAs for 24
+  h, exposed to JPI-547 for 120 h, and then subjected to MTT assays. Data represent
+  mean ± SD (n = 3); p-values by two-way ANOVA. (J) Immunoblot analysis of β-catenin
+  or non-phospho (active) β-catenin (Ser33/37/Thr41) expression in Capan-1 cells following
+  Wnt ligand stimulation. Cells were stimulated with recombinant Wnt3a (50 ng/mL)
+  and LiCl (10 mM) for 24 h, replenished with fresh culture medium, and then treated
+  with 2.5 µM of olaparib and JPI-547 for 24 h before lysate preparation. Representative
+  images from two independent experiments are shown'
+article_title: JPI-547, a Dual Inhibitor of PARP/Tankyrase, Shows Antitumor Activity
+  Against Pancreatic Cancers with Homologous Recombination Repair Deficiency or Wnt-Addiction
+citation: Kyoung-Seok Oh, et al. Int J Biol Sci. 2025;21(12).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025-8-22
+doi: 10.7150/ijbs.113726
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- PARP
+- PARP inhibitor
+- homologous recombination deficiency
+- Tankyrase
+- RNF43
+- Wnt/B-catenin.
+---

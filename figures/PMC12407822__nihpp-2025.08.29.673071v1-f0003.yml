@@ -1,0 +1,37 @@
+---
+figid: PMC12407822__nihpp-2025.08.29.673071v1-f0003
+pmcid: PMC12407822
+image_filename: jpg
+figure_link: /pmc/articles/PMC12407822/figure/F3/
+number: Figure 3.
+figure_title: METTL3, METTL13 and METTL14 converged in regulating immune signaling,
+  with many distinct pathway alterations caused only by METTL13
+caption: A) Distribution of significantly enriched pathways in each shMETTL compared
+  to shCTRL generated through GSEA. Created in GSEA and MSigDB, FDR q<0.1, including
+  only protein-coding genes, using three different gene set libraries (Wiki Pathways,
+  Reactome and KEGG). Groups are based on which pathways are uniquely altered by shMETTL3
+  (n=4), shMETTL9 (n=3), shMETTL13 (n=4) or shMETTL14 (n=3), as well pathways altered
+  in several conditions; the m6A writer complex (METTL3 and METTL14) with and without
+  METTL13, as well as all other combined conditions, compared to shCTRL (n=5) in human
+  CD34+ HSPCs.B) Network plot of GSEA Wiki Pathways in shMETTL3, shMETTL13 and shMETTL14
+  compared to shCTRL (FDR q<0.1).C) Top 10 significant GSEA Reactome pathways in shMETTL3,
+  shMETTL9, shMETTL13 and shMETTL14 compared to shCTRL (FDR q<0.1). Results are displayed
+  as normalized enrichment score (NES).D) Dysregulated genes involved in inflammatory
+  signaling (TNF, IL1A, CXCL8, IL6, IL11 and IFNB1) in shMETTL3, shMETTL9, shMETTL13
+  and shMETTL14 compared to shCTRL. Significance was calculated using ordinary one-way
+  ANOVA with multiple comparisons compared to shCTRL, as well as Dunnett correction,
+  results are displayed as TPM, mean ± SEM.E) GSEA of shMETTL3, shMETTL9, shMETTL13
+  and shMETTL14 compared to shCTRL using KEGG legacy pathways (FDR q<0.1) Results
+  are displayed as NES and FDR q-value
+article_title: METTL13 Promotes Pre-Leukemic Transformation and the Development of
+  Pediatric Leukemia
+citation: Sabina Enlund, et al. bioRxiv. 2025 Aug 30;NA(NA).
+year: '2025'
+pub_date: 2025-8-30
+epub_date: 2025-8-30
+doi: 10.1101/2025.08.29.673071
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

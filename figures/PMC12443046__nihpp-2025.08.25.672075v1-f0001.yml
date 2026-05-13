@@ -1,0 +1,45 @@
+---
+figid: PMC12443046__nihpp-2025.08.25.672075v1-f0001
+pmcid: PMC12443046
+image_filename: jpg
+figure_link: /pmc/articles/PMC12443046/figure/F1/
+number: Figure 1.
+figure_title: Overview of hippocampal projections and VASO optimization procedure
+caption: A) Schematic illustration of HC-ERC microcircuitry. The trisynaptic pathway
+  (green) includes projections between ERC, DG, CA3, and CA1 while the monosynaptic
+  (temporoammonic) pathway (blue) comprises direct connections from ERC to CA1. There
+  are also direct connections between ERC and CA3, depicted in grey. The HC output
+  (black) targets deep layers of ERC. The dashed green arrow represents autoassociative
+  connections between CA3 neurons. ERC = Entorhinal Cortex, HC = Hippocampus, Sup
+  and Mid = superficial and middle layers, respectively. The SRLM (not shown here)
+  lies within the superficial compartment in CA1. B) tSNR maps and mean BOLD images
+  from one participant, acquired using the reference 3D BOLD-based EPI sequence (left
+  panel) with bilateral HC coverage and imaging slab oriented parallel to the HC long
+  axis. The right panel shows the resulting images after adjustment of multiple parameters
+  including FOV reduction, targeting left HC in sagittal orientation in the same participant.
+  The optimization led to improved tSNR, as shown in the white box. This improvement
+  is expected to generalize across participants since the adjustments systematically
+  reduce artifacts caused by scanner hardware induced EPI phase inconsistencies. Dashed
+  circular markers indicate approximate location of HC. C) Schematic depiction of
+  HC-tailored 3D SS-SI VASO sequence protocol that was developed by further refining
+  the acquisition parameters in B right panel. Note that ~ 500 ms was dedicated to
+  slice-wise fat suppression modules, increasing the ultimate volume TR to 3000 ms
+  and effective temporal resolution to 6000 ms. TR = repetition time, TI = inversion
+  time, SS-SI = slice-selective slab-inversion
+article_title: 'Blood volume sensitive laminar fMRI with VASO in human hippocampus:
+  Capabilities and biophysical challenges at clinical 7T scanners'
+citation: Khazar Ahmadi, et al. bioRxiv. 2025 Aug 29;4(NA).
+year: '2025'
+pub_date: 2025-8-29
+epub_date: 2025-8-29
+doi: 10.1101/2025.08.25.672075
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- laminar fMRI
+- VASO contrast
+- hippocampus
+- memory
+- ultra-high field
+---

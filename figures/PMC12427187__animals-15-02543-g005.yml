@@ -1,0 +1,52 @@
+---
+figid: PMC12427187__animals-15-02543-g005
+pmcid: PMC12427187
+image_filename: jpg
+figure_link: /pmc/articles/PMC12427187/figure/F5/
+number: Figure 5
+figure_title: Metabolism in the serum of piglets fed different levels of PQQ for 28
+  d.
+caption: 'Metabolism in the serum of piglets fed different levels of PQQ for 28 d.
+  (A) Bar chart of KEGG compound classification statistics. The y-axis represents
+  KEGG compound classifications, and the x-axis denotes the number of compounds annotated
+  to each category. The color of the bars indicates the primary classification category
+  to which the compounds belong. (B) PCA analysis plot. The scales on both axes represent
+  relative distances and hold no inherent quantitative significance. Points differentiated
+  by color correspond to samples from distinct groups; a smaller distance between
+  two sample points indicates a higher similarity in metabolites composition. (C)
+  KEGG pathway statistics chart. The y-axis represents the secondary classifications
+  of KEGG metabolic pathways, and the x-axis denotes the number of metabolites annotated
+  to each pathway. The color of the bars indicates different categories of metabolic
+  pathways. (D) KEGG pathway differential abundance (DA score) analysis plot (n =
+  6). The figure illustrates the analysis of differential metabolic pathways between
+  the PQQ-added group and the control group. The x-axis in the figure represents the
+  differential abundance score (DA Score), and the y-axis denotes the names of KEGG
+  metabolic pathways. The DA Score reflects the overall changes of all metabolites
+  in a metabolic pathway: a score of 1 indicates that all annotated differential metabolites
+  in the pathway show an upward expression trend, while a score of −1 indicates a
+  downward expression trend of all annotated differential metabolites in the pathway.
+  The length of the line segment corresponds to the absolute value of the DA Score.
+  The size of the dot represents the number of annotated differential metabolites
+  in the pathway, with larger dots indicating a greater number of differential metabolites
+  in that pathway. Dots distributed on the right side of the central axis with longer
+  line segments indicate a stronger tendency of overall upregulation in the pathway;
+  conversely, dots distributed on the left side of the central axis with longer line
+  segments indicate a stronger tendency of overall downregulation in the pathway.
+  * p < 0.05, ** p < 0.01, *** p < 0.001'
+article_title: Dietary Pyrroloquinoline Quinone Addition Alleviated Weaning Stress
+  via Modulation of Gut Microbiota and Metabolic Profiles in Weaned Piglets
+citation: Haocheng Xu, et al. Animals (Basel). 2025 Sep;15(17).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-8-29
+doi: 10.3390/ani15172543
+journal_title: 'Animals : an Open Access Journal from MDPI'
+journal_nlm_ta: Animals (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- additive
+- piglet
+- growth performance
+- gut microbiota
+- metabolism
+---

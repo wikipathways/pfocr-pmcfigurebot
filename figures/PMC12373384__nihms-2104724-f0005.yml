@@ -1,0 +1,39 @@
+---
+figid: PMC12373384__nihms-2104724-f0005
+pmcid: PMC12373384
+image_filename: jpg
+figure_link: /pmc/articles/PMC12373384/figure/F4/
+number: 'Figure 4:'
+figure_title: Spatial analysis during fibrosis and repair in skin fibrosis reveals
+  Cyp26b1 associated with fibrosis at a spatial level
+caption: (A) Schematic analysis of Visium and PhenoCycler analysis on different timepoints.
+  (B) UMAP of spatial RNAseq clusters identified by Visium analysis. (C) Visualization
+  of spatially indexed cell type probabilities for various cell phenotypes. (D) Violin
+  plot of Cytochrome P450 26B1 (Cyp26b1), Family 2 Cyp26b1 and Yes Associated Protein
+  1 (Yap1) expression spatially by fibroblast subclusters. (E) Spatial plot of fibroblast
+  subtype 1 at Day 12 (Top) and Day 21 (bottom). (F) Gene ontology pathway of fibroblast
+  cluster 1 (Top) and spatial plot of Serpin family A member 1 (Serphinh1) at Day
+  12. (G) Identification of cellular niches associated with each fibroblast subtype.
+  (H) Spatial plot of Cyp26b1 expression at Day 12 and Day 21. (I) UMAP of all cell
+  types identified through PhenoCycler analysis. (J) Ridge plot of Collagen Type 1(Col1),
+  Yap1, Cyp26b1, Piezo1, Piezo2 and Focal Adhesion Kinase (Fak) expression modules
+  analysis across fibroblast subtypes
+article_title: Multi-omic analysis reveals retinoic acid molecular drivers for dermal
+  fibrosis and regenerative repair in the skin
+citation: Michelle Griffin, et al. Cell Stem Cell. 2025 Sep 04;32(9).
+year: '2025'
+pub_date: 2025-9-04
+epub_date: 2025-8-14
+doi: 10.1016/j.stem.2025.07.010
+journal_title: Cell stem cell
+journal_nlm_ta: Cell Stem Cell
+publisher_name: .na.character
+keywords:
+- skin fibrosis
+- spatial transcriptomic
+- fibroblasts
+- multi-omic
+- vitamin A
+- retinonic acid
+- Cyp26b1
+---

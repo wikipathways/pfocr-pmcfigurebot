@@ -1,0 +1,52 @@
+---
+figid: PMC12582374__nihms-2105307-f0006
+pmcid: PMC12582374
+image_filename: jpg
+figure_link: /pmc/articles/PMC12582374/figure/F6/
+number: 'Figure 6:'
+figure_title: Integration of ESR1 Cut&Run, RNA-seq, and H3K27ac HiChIP loops to identify
+  genes regulated by ESR1/E2 that are implicated in endometrial cancer
+caption: '(A) Table showing the number of genes with proximal or anchored ESR1 binding
+  (identified through integration of H3K27ac vehicle HiChIP and ESR1 Cut&Run), as
+  well as overlap with 369 genes regulated by ESR1/E2 in engineered THESC (E2-dependent
+  DEGs). (B) Select pathways from metascape pathway analysis of 75 genes regulated
+  by ESR1/E2 with proximal or anchored ESR1 binding at the promoter. (C) RT-qPCR validation
+  of differentially expressed genes ERRFI1, NRIP1, and EPAS1 in THESCESR1 treated
+  with E2 or vehicle for 24 h. Error bars are shown as mean with SEM. Statistical
+  significance was determined using an unpaired t-test for ERRFI1 and NRIP1, and the
+  Mann– Whitney test for EPAS1. (D) UCSC genome browser views around the ERRFI1, NRIP1,
+  and EPAS1 loci. Tracks show ESR1 Cut&Run in THESCESR1 treated with E2 for 3 h, with
+  IgG background subtracted (black), H3K27ac Cut&Run in THESC (red), and H3K27ac HiChIP
+  loops in vehicle treated hESC (blue). The promoter of the gene of interest is highlighted
+  in pink, ESR1 binding peaks are highlighted in blue, and the HiChIP loop that connects
+  the gene promoter with the ESR1 binding peak is highlighted with a blue loop. (E)
+  Cell viability assessed by MTT assay in THESCESR1 and THESCNT treated with vehicle
+  or E2 for 4 days. Error bars are shown as mean with SEM. Statistical significance
+  was determined using one-way ANOVA. (F) Microscopic images and quantification of
+  density of migrated THESCESR1 and THESCNT treated with vehicle or E2 for 72 h. Cells
+  were stained with 1% crystal violet solution, and cell density was quantified using
+  ImageJ. Error bars are shown as mean with SEM. Statistical significance was determined
+  using one-way ANOVA. Statistical significance is indicated as follows: p < 0.05
+  (*), p < 0.01 (**), p < 0.001 (***), and p < 0.0001 (****). THESC = immortalized
+  human endometrial stromal cells; THESCESR1 = ESR1 activated cells; SEM = standard
+  error of the mean; THESCNT = control non-targeting cells; E2 = 10 nM estradiol;
+  vehicle = 0.1% ethanol; EPC = 10 nM E2, 1 uM medroxyprogesterone acetate, and 100
+  uM cAMP; CPM = counts per million; SEM = standard error of the mean'
+article_title: Deciphering ESR1-driven transcription in human endometrial stromal
+  cells via transcriptome, cistrome, and integration with chromatin landscape
+citation: Skylar G. Montague Redecke, et al. F S Sci. 2026 Jan;7(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: 2025-8-11
+doi: 10.1016/j.xfss.2025.08.002
+journal_title: F&S science
+journal_nlm_ta: F S Sci
+publisher_name: .na.character
+keywords:
+- estrogen
+- ESR1
+- decidualization
+- transcriptome
+- cistrome
+- chromatin
+---
