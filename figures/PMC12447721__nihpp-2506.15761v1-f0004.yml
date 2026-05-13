@@ -1,0 +1,38 @@
+---
+figid: PMC12447721__nihpp-2506.15761v1-f0004
+pmcid: PMC12447721
+image_filename: jpg
+figure_link: /pmc/articles/PMC12447721/figure/F4/
+number: Figure 4.
+figure_title: Out-performing multi-‘omics model identifies microbial, metagenomic,
+  and metabolic biomarkers for ME/CFS compared to controls
+caption: 'A) Biomarkers from three supervised Gradient Boosting (GDBT) models are
+  shown. Models from top to bottom: species relative abundance, relative abundance
+  of KEGG gene profile, normalized abundance of plasma metabolomics. The top ten most
+  important features in each model are shown together with their general functional
+  class, raw abundance, and variance. From left to right: 1. Functional annotations:
+  species relative abundance model - the metabolic function (capacity of butyrate,
+  tryptophan, and propionate pathway); KEGG gene profile model - the class identification
+  of the enzyme; metabolomics models - the superfamily for the metabolite; 2. Feature
+  importance: features were ranked by their contribution to the model on the y-axis;
+  the x-axis indicates the feature importance value from each model; 3. Average feature
+  abundance in control and patient groups (Figure S4); 4. Variation in mean relative
+  abundance in control and patient groups with coefficient of variation. B) Performance
+  of the classifiers using area under the curve (AUC) was evaluated using 10 randomized
+  and 10-fold cross-validations for each model: species relative abundance (pink),
+  KEGG gene profile (blue) or metabolites (orange) alone, or taken altogether (‘omics,
+  green), which used the combination of the top 30 features from three models. See
+  also Figure S4 and Table S3–5'
+article_title: Advancing Digital Precision Medicine for Chronic Fatigue Syndrome through
+  Longitudinal Large-Scale Multi-Modal Biological Omics Modeling with Machine Learning
+  and Artificial Intelligence
+citation: Ruoyun Xiong, et al. ArXiv. 2025 Jun 18;NA(NA).
+year: '2025'
+pub_date: 2025-6-18
+epub_date: 2025-6-18
+doi: .na.character
+journal_title: ArXiv
+journal_nlm_ta: ArXiv
+publisher_name: arXiv
+keywords: []
+---

@@ -1,0 +1,70 @@
+---
+figid: PMC12486299__nihms-2112937-f0002
+pmcid: PMC12486299
+image_filename: jpg
+figure_link: /pmc/articles/PMC12486299/figure/F2/
+number: Fig. 2 |
+figure_title: Immunomodulatory effects of ER stress in cancer cells
+caption: The tumour microenvironment (TME), characterized by hypoxia, oxidative stress
+  and nutrient deprivation, compromises the protein-folding capacity of the endoplasmic
+  reticulum (ER), leading to the accumulation of misfolded proteins. This triggers
+  activation of ER stress sensors protein kinase RNA-like ER kinase (PERK), inositol-requiring
+  enzyme 1α (IRE1α) and activating transcription factor (ATF6) in cancer cells, which
+  can modulate antitumour immunity. a, PERK activation phosphorylates eukaryotic initiation
+  factor 2α (eIF2α), suppressing global translation and inhibiting major histocompatibility
+  complex I (MHC-I) expression. The loss of PERK in melanoma cells induces SEC61β-dependent
+  paraptosis, an alternative cell death pathway characterized by vacuolation and damage
+  to the ER and mitochondria, and triggers immunogenic cell death (ICD), promoting
+  long-term antitumour immunity through type I interferon (IFN-I) secretion by dendritic
+  cells. IFN-I production promotes common monocyte precursor (cMoP) recruitment to
+  the tumour and enhances their local differentiation into dendritic cells that prime
+  antitumour CD8+ T cells. b, Activation of the IRE1α–XBP1s axis in breast cancer
+  cells promotes expression of interleukin 6 (IL-6), IL-8, C-X-C motif chemokine ligand
+  1 (CXCL1), granulocyte–macrophage colony-stimulating factor (GM-CSF) and transforming
+  growth factor-β (TGFβ). These cytokines facilitate the accumulation of cancer-associated
+  fibroblasts and myeloid-derived suppressor cells in triple-negative breast cancer
+  (TNBC) models, blunting immune surveillance. Generation of XBP1s by IRE1α also inhibits
+  expression of natural killer (NK) group 2 member D (NKG2D) ligands, such as MHC-I
+  polypeptide-related sequence A (MICA), by suppressing E2F1 that is responsible for
+  MICA expression. Engagement of MICA would induce activating signals in NK cells
+  and trigger NK cell-mediated cytotoxicity that eliminates cancer cells. Activation
+  of IRE1α in melanoma cells has been shown to upregulate programmed cell death 1
+  ligand 1 (PDL1) expression. Similarly, in TNBC cells, ER stress was shown to enhance
+  PDL1 stability through its interaction with the ER chaperone binding-immunoglobulin
+  protein (BiP), but whether this is specifically mediated by IRE1α remains unclear
+  (indicated with a dashed line). IRE1α–XBP1s also sustains expression of prostaglandin
+  E synthase (Ptges, encoding microsomal prostaglandin E synthase-1 (mPGES1)) in lung
+  cancer cells, enabling prostaglandin E2 (PGE2)-driven immunosuppression in the TME.
+  Beyond generating XBP1s, IRE1α also cleaves select mRNAs through regulated IRE1α-dependent
+  decay (RIDD). This activity prevents double-stranded RNA (dsRNA) accumulation in
+  docetaxel-treated TNBC cells, thus preventing Z-DNA-binding protein 1 (ZBP1)-mediated
+  NOD-like receptor family, pyrin domain-containing 3 (NLRP3) activation and pyroptosis,
+  a lytic, pro-inflammatory form of programmed cell death triggered by inflammasome
+  activation. Inhibition of the IRE1α RNase domain enables pyroptosis, enhances CD8+
+  T cell infiltration, and sensitizes TNBC tumours to ICB and taxane-based chemotherapy.
+  c, ATF6 activation in colon epithelial cells promotes a less structured mucosal
+  layer and is therefore more permeable to bacterial penetration. This leads to microbiota
+  dysbiosis, innate immune infiltration and inflammation, facilitating tumorigenesis.
+  In mice expressing a constitutively active form of ATF6 (nATF6IEC), this was shown
+  to be mediated by myeloid differentiation primary response 88 (MyD88) and TIR-domain-containing
+  adaptor inducing interferon-β (TRIF)-dependent signal transducer and activator 3
+  (STAT3) activation. This could be reversed by antibiotics, thus linking ATF6 activation
+  to microbiome-driven immune modulation. Yet the current understanding of ATF6 in
+  tumour-related immune regulation is limited. In mouse B16 melanoma and RAS-driven
+  lung cancer cells, severe ER stress leads to calreticulin translocation from the
+  ER to the cell membrane. The externalized calreticulin (ecto-CRT) is recognized
+  by NK cells and enhances elimination of ER-stressed cancer cells, but the precise
+  ER stress sensor mediating this process is unknown (indicated by a dashed line).
+  HMGB1, high-mobility group box 1; moDC, monocytic-lineage inflammatory dendritic
+  cell; TLR, toll-like receptor
+article_title: Endoplasmic reticulum stress responses in anticancer immunity
+citation: Sung-Min Hwang, et al. Nat Rev Cancer. 2025 Sep;25(9).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-6-24
+doi: 10.1038/s41568-025-00836-5
+journal_title: Nature reviews. Cancer
+journal_nlm_ta: Nat Rev Cancer
+publisher_name: .na.character
+keywords: []
+---

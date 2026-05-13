@@ -1,0 +1,41 @@
+---
+figid: PMC12262321__nihpp-2025.06.16.659935v1-f0004
+pmcid: PMC12262321
+image_filename: jpg
+figure_link: /pmc/articles/PMC12262321/figure/F4/
+number: Figure. 4
+figure_title: 'QSER1 binds YAP1: TEAD4 enhancers near developmental genes'
+caption: (A) Venn diagram shows the number of genes bound by QSER1, YAP1, and TEAD4
+  in hESCs (from ChIP-seq datasets).(B) Scheme shows YAP1 and QSER1 ChIP-seq peak
+  distribution on co-bound genes in hESCs. Overlapping ovals denotate perfectly aligned
+  peaks. Ovals separated by a dotted line represent distant annotated to the same
+  gene.(C) Analysis of chromatin features associated to QSER1:YAP peaks. Heatmaps
+  depict the correlation of QSER1:YAP co-bound sites with indicated histone modifications
+  (source; ENCODE, Bernstein datasets). Peaks are organized from high to low YAP1
+  signal. (C = center of the peak, +/− 2Kb).(D) Venn diagram shows the number of genes
+  bound by QSER1, NIPBL (cohesin complex), and YAP1 (from ChIP-seq datasets) in hESCs.(E)
+  IGV genome browser captures show YAP1 and QSER1 binding distribution at the indicated
+  genes. H3K27ac and H3K4me1 histone marks are also shown. The coordinates of each
+  genomic region are shown below each gene. TSS; transcriptional start site. The black
+  arrow indicates the transcription direction.(F) Graph shows all enriched terms retrieved
+  from Kegg Pathway analysis of the 1192 QSER1:YAP co-bound genes. Examples of genes
+  included in each term are also indicated
+article_title: YAP1 and QSER1 are Key Modulators of Embryonic Signaling Pathways in
+  the Mammalian Epiblast
+citation: Elizabeth Abraham, et al. bioRxiv. 2025 Jun 17;NA(NA).
+year: '2025'
+pub_date: 2025-6-17
+epub_date: 2025-6-17
+doi: 10.1101/2025.06.16.659935
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- pluripotency
+- epiblast
+- YAP1
+- QSER1
+- 2D-gastruloids
+- Nodal signaling
+- Wnt signaling
+---

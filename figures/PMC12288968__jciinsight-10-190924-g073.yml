@@ -1,0 +1,49 @@
+---
+figid: PMC12288968__jciinsight-10-190924-g073
+pmcid: PMC12288968
+image_filename: jpg
+figure_link: /pmc/articles/PMC12288968/figure/F2/
+number: Figure 2
+figure_title: MUC1-C/MYC pathway regulates aerobic glycolysis, ENZ resistance, and
+  the CSC state in LNCaP-ER cells
+caption: (A and B) Immunoblot analysis of chromatin from LNCaP and LNCaP-ER cells
+  (A) and LNCaP-ER/tet-MUC1shRNA (B) cells treated with DOX for 7 days each run contemporaneously
+  in parallel. (C) Immunoblot analysis of lysates from LNCaP-ER cells expressing the
+  indicated vectors treated with DOX for 7 days run contemporaneously in parallel.
+  (D) GSEA of RNA-Seq data from LNCaP-ER cells with MUC1-C silencing and LNCaP/MUC1-C
+  OE cells using the HALLMARK MYC TARGETS V1 signature. NES, normalized enrichment
+  score. (E) Heatmap of glycolysis gene expression in LNCaP and LNCaP-ER cells. (F)
+  Immunoblot analysis of lysates from LNCaP and LNCaP-ER cells run contemporaneously
+  in parallel. (G) Heatmap of glycolysis gene expression of LNCaP-ER/tet-MUC1shRNA
+  cells treated with DOX for 7 days. (H) Immunoblot analysis of lysates from LNCaP-ER/tet-MUC1shRNA
+  cells treated with DOX for 7 days run contemporaneously in parallel. (I) LNCaP-ER
+  cells treated with 3 μM GO-203 (upper) and LNCaP-ER/tet-MUC1shRNA cells treated
+  with DOX for 7 days (lower) were assayed for OCR and ECAR. The OCR/ECAR results
+  (mean ± SD of 4 determinations) are expressed as the relative ratio compared with
+  untreated cells (t test; n = 3). (J) LNCaP-ER/tet-MYCshRNA cells treated with DOX
+  for 7 days were analyzed for the indicated transcripts by qRT-PCR. The results (mean
+  ± SD of 4 determinations) are expressed as relative levels compared with untreated
+  cells (assigned a value of 1) (t test; n = 3). (K) Immunoblot analysis of lysates
+  from LNCaP-ER/tet-MYCshRNA cells treated with DOX for 7 days run contemporaneously
+  in parallel. (L) LNCaP-ER/tet-MYCshRNA cells treated with vehicle or DOX for 7 days
+  were analyzed for tumorsphere formation. Representative photomicrographs of tumorspheres
+  (left). Results (mean ± SD of 3 determinations) expressed as tumorsphere number
+  (t test; n = 3). (M) LNCaP-ER/tet-MYCshRNA cells treated with DOX for 7 days and
+  then ENZ for 3 days were analyzed for cell viability. **P < 0.01, and ***P < 0.001
+article_title: MUC1-C dependence in treatment-resistant prostate cancer uncovers a
+  target for antibody-drug conjugate therapy
+citation: Keisuke Shigeta, et al. JCI Insight. 2025 Jun 24;10(14).
+year: '2025'
+pub_date: 2025-6-24
+epub_date: 2025-6-24
+doi: 10.1172/jci.insight.190924
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Oncology
+- Therapeutics
+- Cancer
+- Drug therapy
+- Urology
+---

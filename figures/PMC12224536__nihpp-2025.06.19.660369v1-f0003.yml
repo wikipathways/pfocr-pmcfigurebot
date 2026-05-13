@@ -1,0 +1,29 @@
+---
+figid: PMC12224536__nihpp-2025.06.19.660369v1-f0003
+pmcid: PMC12224536
+image_filename: jpg
+figure_link: /pmc/articles/PMC12224536/figure/F3/
+number: Figure 3.
+figure_title: Low dose tolerant versus high dose lethal hDPP4 mice display differential
+  pathway enrichment in response to MERS-CoV infection
+caption: hDPP4 mice were infected with MERS-CoV and lung samples were taken at days
+  1–5 post infection (N = 6 per time point per dose group). Samples were RNA-sequenced,
+  filtered, annotated and analyzed for differential expression (DE; p < 0.05, log2FC
+  > |1.5|). No genes met DE criteria for day 2 in the tolerant group. DE genes were
+  visualized by bar-coded volcano plotting (A) and multidimensional scaling (B). DE
+  genes were uploaded to Ingenuity Pathway Analysis (IPA) for functional analysis
+  of upstream transcription factors (C) and canonical pathways (D) related to pathogenesis.
+  IPA analyzes were conducted using a significance threshold of p < 0.01 and a Z-score
+  ≥ |2|
+article_title: Sex bias determines MERS-CoV infection outcomes in a mouse model of
+  differential pathogenicity
+citation: Marin R. Habbick, et al. bioRxiv. 2025 Jun 19;NA(NA).
+year: '2025'
+pub_date: 2025-6-19
+epub_date: 2025-6-19
+doi: 10.1101/2025.06.19.660369
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

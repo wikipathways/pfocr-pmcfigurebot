@@ -1,0 +1,41 @@
+---
+figid: PMC12333953__jciinsight-10-182578-g054
+pmcid: PMC12333953
+image_filename: jpg
+figure_link: /pmc/articles/PMC12333953/figure/F8/
+number: Figure 8
+figure_title: Metformin enhances AT2 cell transcriptional program and reduces fibrotic
+  fibroblast population
+caption: (A) Schematic of experimental design and UMAP visualization of 39,327 lung
+  cells from WT (age-matched C57B6/J; n = 2) and SftpcI73T mice, treated with either
+  metformin (n = 1) or vehicle control (n = 1), collected at 28 days after tamoxifen
+  induction, profiled by scRNA-Seq, and color-coded by cell lineage. Subset analysis
+  of 4,040 distal epithelial cells is shown. (B) UMAPs color-coded by genotype and
+  time point and frequency table showing the distribution of each cluster within treatment
+  groups. (C) Dendrogram of top 50 DEGs and their associated log2FC for each cluster
+  as determined by FDR. A subset of cluster-defining genes is highlighted. (D) KEGG
+  pathway enrichment analysis of DEGs (FDR < 0.05, log2FC > 1 and <–1) comparing vehicle
+  versus metformin treatment. (E) Gradient dot plots demonstrating expression of select
+  gene modules (Supplemental Table 1) in alveolar epithelium and transitional cell
+  clusters and fibrosis-associated genes in activated AT2 cells. (F) Subclustering
+  of the mesenchymal compartment (24,853 cells) identifies 8 mesenchymal clusters,
+  defined by marker genes, depicted in a gradient dot plot. (G) UMAPs color-coded
+  by genotype and time point, with a frequency table highlighting a decrease in the
+  fibrotic fibroblast population after metformin treatment
+article_title: Impaired AMPK control of alveolar epithelial cell metabolism promotes
+  pulmonary fibrosis
+citation: Luis R. Rodríguez, et al. JCI Insight. 2025 Jul 1;10(15).
+year: '2025'
+pub_date: 2025-7-1
+epub_date: 2025-7-1
+doi: 10.1172/jci.insight.182578
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Metabolism
+- Pulmonology
+- Adult stem cells
+- Fibrosis
+- Mitochondria
+---

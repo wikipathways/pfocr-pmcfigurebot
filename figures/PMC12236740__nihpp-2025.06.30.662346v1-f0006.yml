@@ -1,0 +1,47 @@
+---
+figid: PMC12236740__nihpp-2025.06.30.662346v1-f0006
+pmcid: PMC12236740
+image_filename: jpg
+figure_link: /pmc/articles/PMC12236740/figure/F5/
+number: Figure 5.
+figure_title: CtBP genomic targets regulate EE cell size and fate
+caption: (A) Schematic overview presenting the principle of targeted DamID used to
+  identify the genome-wide target loci of chromatin-binding proteins. For determining
+  its genomic binding, CtBP was fused with DNA adenine methyltransferase (Dam) and
+  expressed in EE cells. (B) CtBP genomic targets include regulators of fate and growth
+  regulating signaling pathways. CNET plot showing gene overlaps among selected pathways
+  of CtBP targets identified by TaDa. Blue-colored nodes represent CtBP target genes
+  within the pathway network. (C) Genetic screen of selected CtBP targets depleted
+  in EE cells (Pros-GAL4>RNAi) reveals regulators of EE cell size and sugar tolerance.
+  The plot shows the effect of the knockdown on EE cell size (X-axis) and sugar intolerance
+  (Y-axis), calculated as the Log2FC of pupariation index of each genotype on LSD
+  vs. HSD (30% sucrose). (D) CtBP binding to the genomic locus encoding Insulin-like
+  receptor (InR), identified by TaDa. (E) Knockdown of InR (Pros-GAL4>RNAi) reduces
+  EE cell size (unpaired t-test, ****P < 0.0001) and (F) delays larval development
+  (log-rank test, χ2 = 39.3, P < 0.0001) on HSD (30% sucrose). (G) Transcriptional
+  regulators Split ends (spen) and (H) Mastermind (mam) are direct targets of CtBP.
+  (I) Depletion of spen in EE cells (Pros-Gal4>RNAi) results in sugar intolerance.
+  Pupariation rate of larvae with EE-specific spen knockdown and its control was analyzed
+  using the log-rank test (χ2 = 80.6, P < 0.0001). (J) Depletion of spen in EE cells
+  (Pros-Gal4>RNAi) decreases the proportion of EE cells in Drosophila intestine, unpaired
+  t-test (****P < 0.0001). (K) Knockdown of mam in EE cells (Pros-Gal4>RNAi) causes
+  sugar intolerance (log-rank test, χ2 = 64.0, P < 0.0001), but (L) does not affect
+  the proportion of EE cells in larval intestine, unpaired t-test, ns indicates P
+  > 0.05. (M) Knockdown of spen in EE cells (Pros-Gal4>RNAi) decreases Dh31 cell numbers
+  and increases Tk cell numbers, lowering the ratio of Dh31/Tk-positive cells (*P
+  = 0.03, **P = 0.0016). (N) Knockdown of mam in EE cells (Pros-Gal4>RNAi) increases
+  Dh31 cell numbers (***P = 0.001) with no significant effect (ns) on Tk-positive
+  EE populations, increasing the ratio of Dh31/Tk-positive cells (***P = 0.001). The
+  data are analyzed with unpaired t-test
+article_title: Metabolic control of enteroendocrine cell fate through a redox state
+  sensor CtBP
+citation: Bohdana M. Rovenko, et al. bioRxiv. 2025 Jul 02;NA(NA).
+year: '2025'
+pub_date: 2025-7-02
+epub_date: 2025-7-02
+doi: 10.1101/2025.06.30.662346
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

@@ -1,0 +1,48 @@
+---
+figid: PMC12292118__biomolecules-15-00943-g001
+pmcid: PMC12292118
+image_filename: jpg
+figure_link: /pmc/articles/PMC12292118/figure/F1/
+number: Figure 1
+figure_title: The biosynthesis of primary bile acids in the peripheral blood of elderly
+  patients with severe COVID-19 altered significantly.
+caption: 'The biosynthesis of primary bile acids in the peripheral blood of elderly
+  patients with severe COVID-19 altered significantly. (a) PCA of metabolites in peripheral
+  blood of elderly patients with (Severe group, n = 8) or without (Non-severe group,
+  n = 23) severe COVID-19 at admission. (b) The volcano plot presented the upregulated
+  and downregulated metabolites in the Severe group vs. the Non-severe group. Screening
+  criteria for differential metabolites: VIP > 1, p < 0.05, |log2FC| > 1.2. (c) Bubble
+  chart of enriched pathways in metabolism by KEGG analysis of differential metabolites
+  between the Severe group and Non-severe group. Terms are labeled and sorted by enrichment
+  score. (d) Chord Diagram of enriched pathways by Reactome analysis of differential
+  metabolites between the Severe group and Non-severe group. The same color series
+  (blue series and green series) represented a subordinate relationship among the
+  pathways. (e–h) Comparison of four intermediate metabolites of cholesterol metabolism
+  to CDCA detected by untargeted metabolomics in the Severe group and Non-severe group
+  at admission. (i,j) Comparison of CDCA and GCDCA detected by targeted metabolomics
+  in the NS-S group and NS-N group at admission. (k,l) Correlation analysis of GCDCA
+  in peripheral blood of NS-S patients with CRP and PCT at admission. (m) ROC curves
+  of CDCA, GCDCA, IL-6, and neutrophils (%) at admission in predicting severe progression
+  of COVID-19 during hospitalization. Univariate statistical analysis was performed
+  using Student’s t-test (for normally distributed data) or Mann–Whitney U test (for
+  non-parametric data). The resulting p values were adjusted for multiple testing
+  via the Benjamini–Hochberg false discovery rate (FDR) correction, with q < 0.05
+  considered statistically significant. (b,e–j) Correlation analysis was conducted
+  using Spearman rank correlation (k–m)'
+article_title: Significant Reduction of Chenodeoxycholic Acid and Glycochenodeoxycholic
+  Acid in the Elderly with Severe COVID-19
+citation: Shiyang Liu, et al. Biomolecules. 2025 Jul;15(7).
+year: '2025'
+pub_date: 2025-7-
+epub_date: 2025-6-28
+doi: 10.3390/biom15070943
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- CDCA
+- GCDCA
+- elderly COVID-19 patients
+- disease progression
+- inflammatory response
+---

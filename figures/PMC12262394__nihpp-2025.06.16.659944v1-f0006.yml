@@ -1,0 +1,39 @@
+---
+figid: PMC12262394__nihpp-2025.06.16.659944v1-f0006
+pmcid: PMC12262394
+image_filename: jpg
+figure_link: /pmc/articles/PMC12262394/figure/F6/
+number: Figure 6.
+figure_title: STAT3 inhibition reduces the IPF therapeutic gap in precision cut lung
+  slices
+caption: '(A) Bar chart showing enrichment −log10p values for the intersection of
+  PCLS IPF-induced and Atlas untreated IPF-induced gene sets across common cell types.
+  (B) Volcano plot showing enrichment of Atlas untreated IPF-induced alveolar fibroblast
+  genes among PCLS IPF-alveolar fibroblast induced genes (C) Functional footprint
+  of STAT3 among TTI-101-repressed genes in PCLSs. Dotted line indicates p adj < 0.05.
+  (D) Manhattan plot comparing the effect on PCLS alveolar fibroblast IPF-induced
+  genes of treatment with nintedanib, pirfenidone and TTI-101. (E) Volcano plot showing
+  enrichment of PCLS alveolar fibroblast IPF vs. CON-induced genes among TTI-101-repressed
+  PCLS alveolar fibroblast genes. (F) Manhattan plot comparing the effect on PCLS
+  AT2 IPF-induced genes of treatment with nintedanib, pirfenidone and TTI-101. (G)
+  Manhattan plot comparing the effect on PCLS capillary aerocyte IPF-induced genes
+  of treatment with nintedanib, pirfenidone and TTI-101. Panels H-L compare numbers
+  of IPF-induced and nintedanib-, pirfenidone- and TTI-101-repressed genes mapping
+  to the indicated IPF-induced gap-prioritized GO term and PCLS cell type; the right
+  panels represent the TTI-101-IPF vs. IPF volcano plot for the corresponding cell
+  type showing TTI-101 repression of the indicated GO term genes: (H) cell-cell junction
+  in AT2 cells; (I) T cell receptor signaling pathway in TCD8s; (J) cell leading edge
+  in MACMONDs; (K) collagen-containing extracellular matrix in MFBs; (L) endothelial
+  cell development in CAPAs. See fig. S4D-H for corresponding TTI-101 volcano plots'
+article_title: Single cell transcriptomics in a treatment-segregated cohort exposes
+  a STAT3-regulated therapeutic gap in idiopathic pulmonary fibrosis
+citation: Neil J. McKenna, et al. bioRxiv. 2025 Jun 21;NA(NA).
+year: '2025'
+pub_date: 2025-6-21
+epub_date: 2025-6-21
+doi: 10.1101/2025.06.16.659944
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

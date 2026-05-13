@@ -1,0 +1,41 @@
+---
+figid: PMC12678022__nihms-2123703-f0003
+pmcid: PMC12678022
+image_filename: jpg
+figure_link: /pmc/articles/PMC12678022/figure/F3/
+number: FIG 3.
+figure_title: Bulk RNA-Seq of neutrophilic dermatoses and HC skin validates prominent
+  interferon signature in SS.
+caption: Bulk RNA-Seq of neutrophilic dermatoses and HC skin validates prominent interferon
+  signature in SS. A, Experimental schematic. B, Cell type deconvolution of bulk RNA-Seq
+  using unique marker genes from snRNA-Seq. Values represent log2 fold changes in
+  samples from HCs versus samples from patients with SS and HCs versus samples from
+  patients with PG. C, Frequency of fibroblast (FB) subsets by machine learning–based
+  cell type deconvolution with CIBERSORTx. Each dot represents 1 patient. D, Number
+  of differentially expressed genes (up and down [adjusted P value (Padj) < .05])
+  in patients with SS and patients with PG compared with HCs. E, Pathway analysis
+  with the 651 differentially expressed genes unique to SS. F, Bulk RNA-Seq expression
+  of interferon (IFN)-induced genes marking each cellular compartment in snRNA-Seq
+  data, scaled by column. Values represent log2 fold changes from HCs versus patients
+  with SS and HCs versus patients with PG. G, Bulk RNA-Seq expression of IFN-induced
+  genes marking IFN-activated FB6. Each dot represents 1 patient. *P < .05; **P <
+  .01; ***P < .001; and ***P < .0001 using unpaired t tests. Error bars represent
+  SEMs
+article_title: Positionally distinct interferon-stimulated dermal immune-acting fibroblasts
+  promote neutrophil recruitment in Sweet syndrome
+citation: Kellen J. Cavagnero, et al. J Allergy Clin Immunol. 2025 Oct;156(4).
+year: '2025'
+pub_date: 2025-10-
+epub_date: 2025-6-16
+doi: 10.1016/j.jaci.2025.05.029
+journal_title: The Journal of allergy and clinical immunology
+journal_nlm_ta: J Allergy Clin Immunol
+publisher_name: .na.character
+keywords:
+- Neutrophilic dermatoses
+- Sweet syndrome
+- inflammation
+- fibroblast
+- interferon
+- neutrophil
+---

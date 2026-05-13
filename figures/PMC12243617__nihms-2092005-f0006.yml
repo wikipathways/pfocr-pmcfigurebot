@@ -1,0 +1,30 @@
+---
+figid: PMC12243617__nihms-2092005-f0006
+pmcid: PMC12243617
+image_filename: jpg
+figure_link: /pmc/articles/PMC12243617/figure/F6/
+number: Figure 6.
+figure_title: Effects of surface protein spacing in computational models of complement
+  responses to surfaces match experimental findings
+caption: (A and B) Comparisons between experimental findings and ODEs predictions
+  of (A) alternative pathway C3a production in response to and (B) C3b adhesion to
+  surfaces coated with different protein spacings.(C) Schematic describing construction
+  and qualitative findings of an ABM for C3 interactions with protein-coated surfaces.(D)
+  Single time points in ABM simulations of C3 interactions with particles coated with
+  IgG at 34, 24, and 17 nm spacing.(E) Comparison of experimental and ABM data showing
+  the quantity of C3b adhered to nanoparticles vs. protein-protein spacing on the
+  particles. Experimental data are reproduced from Figure 2B. **p < 0.01, ***p < 0.001,
+  ****p < 0.0001, r = 0.904/0.953/0.996, Pearson correlation test.See also Figure
+  S9
+article_title: A percolation phase transition controls complement protein coating
+  of surfaces
+citation: Zhicheng Wang, et al. Cell. 2025 Jul 24;188(15).
+year: '2025'
+pub_date: 2025-7-24
+epub_date: 2025-6-13
+doi: 10.1016/j.cell.2025.05.026
+journal_title: Cell
+journal_nlm_ta: Cell
+publisher_name: .na.character
+keywords: []
+---

@@ -1,0 +1,39 @@
+---
+figid: PMC12221774__nihms-2074727-f0001
+pmcid: PMC12221774
+image_filename: jpg
+figure_link: /pmc/articles/PMC12221774/figure/F1/
+number: 'Figure 1:'
+figure_title: Characterization of “real-world” lung cancer cases demonstrates high
+  expression of SCD1 and SLC7A11 in KRAS/STK11/KEAP1 co-mutant LUADs
+caption: (A) Venn-diagram representing clinical dataset of real-world LUAD cases (Caris
+  data). The cohort consisted of 5498 KRAS mutant LUAD tumors submitted for genomic
+  and transcriptomic profiling. Of these patients, 3835 were KRASmut/STK11wt/KEAP1wt,
+  691 were KRASmut/STK11mut/KEAP1wt, 369 were KRASmut/STK11wt/KEAP1mut 603 were KRASmut/STK11mut/KEAP1mut.
+  B) Expression of SCD1 in all four cohorts and C) Expression of SLC7A11 in all four
+  cohorts, D) Expression of SCD1 in normal (N) vs LUAD (T) from publicly available
+  data set from TNM plot analysis (p>0.0001) E) Expression of SLC7A11 in normal (N)
+  vs LUAD (T) from publicly available data set (p>0.0001), F) Co- expression analysis
+  of SCD1 and SLC7A11 in real-world LUAD cases, R value is 0.0.35; p>0.0001), G and
+  H representing the most enriched pathway in co-mutant population, p<0.0001 I) and
+  J) are the Kaplan-Meier plot for both SCD1 and SLC7A11 from Caris LUAD data set
+  LUAD data set, p <0.0001
+article_title: SCD1 Inhibition Blocks the AKT-NRF2-SLC7A11 Pathway to Induce Lipid
+  Metabolism Remodeling and Ferroptosis Priming in Lung Adenocarcinoma
+citation: Utsav Sen, et al. Cancer Res. 2025 Jul 02;85(13).
+year: '2025'
+pub_date: 2025-7-02
+epub_date: 2025-7-02
+doi: 10.1158/0008-5472.CAN-24-2745
+journal_title: Cancer research
+journal_nlm_ta: Cancer Res
+publisher_name: .na.character
+keywords:
+- LUAD
+- SCD1
+- Ferroptosis
+- SLC7A11
+- GSK3β
+- AKT
+- Lipid Metabolism
+---

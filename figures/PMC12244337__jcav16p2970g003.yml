@@ -1,0 +1,40 @@
+---
+figid: PMC12244337__jcav16p2970g003
+pmcid: PMC12244337
+image_filename: jpg
+figure_link: /pmc/articles/PMC12244337/figure/F3/
+number: Figure 3
+figure_title: Pathway and functional enrichment analysis of genes affected by periplocin
+  in leukemia cells.
+caption: Pathway and functional enrichment analysis of genes affected by periplocin
+  in leukemia cells. (A-C) Bubble plot depicting pathway enrichment from GO (Gene
+  Ontology) analysis of the identified genes. (A) GO analysis results for Biological
+  Process (BP) category. (B) GO analysis results for Molecular Function (MF) category.
+  (C) GO analysis results for Cellular Component (CC) category. (D) Bar plot depicting
+  pathway enrichment from KEGG (Kyoto Encyclopedia of Genes and Genomes) pathway analysis.
+  (E) Mito-pathway bar plot showing the number of genes associated with various mitochondrial
+  metabolic processes and functions, including metabolism, small molecule transport,
+  mitochondrial central dogma, protein import, sorting and homeostasis, mitochondrial
+  dynamics and surveillance, and OXPHOS (oxidative phosphorylation) assembly factors.
+  The number of genes involved in each category is displayed beside the respective
+  bar. (F) Bubble plot depicting pathway enrichment in mitochondrial pathways, including
+  GABA metabolism, SLC25A family, sideroflexins, detoxification, and other metabolic
+  processes. The size of each bubble corresponds to the number of genes, while the
+  color gradient indicates the -log10 (q value) for the enrichment significance
+article_title: Periplocin Targets HDAC10 to Inhibit NF-κB Signaling and Induce Apoptosis
+  in Myeloid Leukemia Cells
+citation: Wenjie Li, et al. J Cancer. 2025;16(9).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025-6-23
+doi: 10.7150/jca.113591
+journal_title: Journal of Cancer
+journal_nlm_ta: J Cancer
+publisher_name: Ivyspring International Publisher
+keywords:
+- leukemia
+- epigenetics
+- HDAC10
+- periplocin
+- NF-κB
+---

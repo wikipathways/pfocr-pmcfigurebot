@@ -1,0 +1,33 @@
+---
+figid: PMC12262777__nihpp-2025.06.22.25329156v1-f0002
+pmcid: PMC12262777
+image_filename: jpg
+figure_link: /pmc/articles/PMC12262777/figure/F2/
+number: 'Fig. 2:'
+figure_title: Transcriptomic comparison between MFG, milk cells and non-lactating
+  mammary gland tissue
+caption: (A) Volcano plot showing RNA-seq differentially expressed (DE) genes between
+  milk cells (left side) and MFG (right side) as detected by DESeq2(51). A log-fold
+  change >1 cutoff and BH adjusted p-value<0.05 was used. (B-C) Gene Ontology Biological
+  Process (GOBP) pathway analysis(48) of DE genes from (A) including pathways upregulated
+  in milk cells (B) and in MFG (C). (D) Volcano plot of DE genes comparing milk cells
+  (left side) and non-lactational breast tissue (right side). (E) Corresponding GOBP
+  pathway analysis of DE genes up in milk cells from (D) (right side). (F) Volcano
+  plot of DE genes between MFG (left side) and non-lactational breast tissue (right
+  side). (G) Corresponding GOBP pathway analysis of DE genes up in MFG from (F) (right
+  side). (H) Dot plot of the fold change of the DE genes from (D) and (G) showing
+  similarity in gene expression between milk cells and MFG compared to breast tissue
+  (blue) and DE genes in cells (red) or MFG (green). Full gene and GOBP lists in Table
+  S2. Gene ratio is the ratio of input genes that are annotated in a term (pathway
+  of genes)
+article_title: Genomic characterization of normal and aberrant human milk production
+citation: Yarden Golan, et al. medRxiv. 2025 Jun 23;11(37).
+year: '2025'
+pub_date: 2025-6-23
+epub_date: 2025-6-23
+doi: 10.1101/2025.06.22.25329156
+journal_title: medRxiv
+journal_nlm_ta: medRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

@@ -1,0 +1,51 @@
+---
+figid: PMC12298596__pharmaceuticals-18-00987-g001
+pmcid: PMC12298596
+image_filename: jpg
+figure_link: /pmc/articles/PMC12298596/figure/F1/
+number: Figure 1
+figure_title: 'The siRNA-mediated RNA interference (RNAi) pathway against a virus
+  involves several steps: (1) Introduction of antiviral siRNAs: long double-stranded
+  RNAs (dsRNAs) are initially introduced into the cell and subsequently cleaved by
+  the enzyme RNase III (Dicer) in the cytoplasm.'
+caption: 'The siRNA-mediated RNA interference (RNAi) pathway against a virus involves
+  several steps: (1) Introduction of antiviral siRNAs: long double-stranded RNAs (dsRNAs)
+  are initially introduced into the cell and subsequently cleaved by the enzyme RNase
+  III (Dicer) in the cytoplasm. This cleavage results in the formation of small dsRNAs;
+  (2) processing into siRNAs: these small dsRNAs are further processed by Dicer, yielding
+  short siRNA molecules that are typically 21–30 nucleotides long [22]. These antiviral
+  siRNAs act as the functional units in the silencing mechanism; (3) formation of
+  siRNA duplexes: Dicer cleavage generates siRNA duplexes, consisting of two complementary
+  strands [23]. These duplexes associate with a multi-protein complex called the RNA-induced
+  silencing complex (RISC) [24,25,26]; (4) RISC assembly: the RNA strands within the
+  siRNA duplexes are separated by the ATP-dependent RNA helicase domain of RISC [27].
+  One strand, known as the passenger (sense) strand, is degraded within the RISC;
+  (5) guide strand function: the remaining antisense single-stranded RNA, also known
+  as the guide RNA, assists in aligning the RISC with the target viral mRNA. This
+  alignment allows the fragmentation of the RNA sense strand through the action of
+  Argonaute 2 (Ago2); (6) viral mRNA cleavage: the guide strand within the RISC binds
+  to complementary sequences in the target viral mRNA through the Watson–Crick base
+  pairing [25]. Subsequently, the guide strand directs the RISC to cleave the target
+  viral mRNA [28]; (7) impact on gene expression: this cleavage leads to degradation
+  of the target viral mRNA, resulting in the inhibition of viral protein expression
+  [29,30]. Consequently, the expression of targeted viral genes is reduced; and (8)
+  antiviral potential: by targeting viral genes, this mechanism has the potential
+  to inhibit viral replication and infection, making it a promising approach for antiviral
+  therapy [31]'
+article_title: 'Therapeutic Approaches of Viral Gene Silencing by Small Interfering
+  RNA: Strategies to Prevent the Emergence of Antiviral Resistant Escape Mutants'
+citation: Hara Kang, et al. Pharmaceuticals (Basel). 2025 Jul;18(7).
+year: '2025'
+pub_date: 2025-7-
+epub_date: 2025-7-01
+doi: 10.3390/ph18070987
+journal_title: Pharmaceuticals
+journal_nlm_ta: Pharmaceuticals (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- antiviral
+- resistance
+- RNA interference
+- small interfering RNA
+- virus
+---

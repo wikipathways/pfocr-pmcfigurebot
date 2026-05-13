@@ -1,0 +1,40 @@
+---
+figid: PMC12262346__nihpp-2025.06.11.659108v1-f0004
+pmcid: PMC12262346
+image_filename: jpg
+figure_link: /pmc/articles/PMC12262346/figure/F4/
+number: 'Figure 4:'
+figure_title: Single Cell RNA seq analysis of MDA-MB231 cells from MDA-MB231 mono-clusters
+  vs CAF23/MDA-MB231 co-clusters
+caption: 'A. Heatmap showing the top 10 up and down DEG in breast cancer cells from
+  MDA-MB231 mono-clusters vs breast cancer cells from CAF23/MDA-MB231 co-clusters.
+  Plot shows only cells that were in the G1 phase of the cell cycle; each line represents
+  an individual cell. Number of MDA-MB231 cells analyzed: 902 cells from MDA-MB231
+  mono-clusters and 474 cells from CAF23/MDA-MB231 co-clusters. B. Heatmap showing
+  top upstream regulators and top diseases/functions identified by Ingenuity Pathway
+  Analysis (IPA) of DEG lists of breast cancer cells from mono-clusters vs co-clusters
+  for MDA-MB231 and DT28 cell lines. The Z score indicates the likely activation (positive)
+  or inhibition (negative) of a regulator or function; a score of 2 is considered
+  significant. C. Violin plots from the top 4 genes upregulated in both CAF23/MDA-MB231
+  co-clusters and CAF23/DT28 co-clusters. Each dot represents a cell. D. Gene Ontology
+  analysis of a ranked list of DEG from MDA-MB231 mono-clusters vs CAF23/MDA-MB231
+  co-clusters. Gene ratio indicates the fraction of DEG genes over the number of genes
+  in each gene set. FDR is the adjusted p value'
+article_title: Modeling the role of urokinase plasminogen activator, uPA, and circulating
+  Cancer-Associated Fibroblasts (cCAFS) in breast cancer cell extravasation
+citation: Angela Spartz, et al. bioRxiv. 2025 Jun 17;NA(NA).
+year: '2025'
+pub_date: 2025-6-17
+epub_date: 2025-6-17
+doi: 10.1101/2025.06.11.659108
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- cancer-associated fibroblasts
+- extravasation
+- breast cancer
+- urokinase-type plasminogen activator
+- metastasis
+- circulating tumor cell clusters
+---

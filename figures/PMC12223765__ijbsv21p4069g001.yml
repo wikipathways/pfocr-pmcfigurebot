@@ -1,0 +1,38 @@
+---
+figid: PMC12223765__ijbsv21p4069g001
+pmcid: PMC12223765
+image_filename: jpg
+figure_link: /pmc/articles/PMC12223765/figure/F1/
+number: Figure 1
+figure_title: Opposite regulation of As3+ on H3K9me3 and H3K27me3.
+caption: Opposite regulation of As3+ on H3K9me3 and H3K27me3. A Average ChIP-seq merged
+  peak signals of H3K4me3 (top), H3K9me3, and H3K27me3 (bottom) in control cells and
+  cells treated with 1 μM As3+ for 6 h. B Heatmaps of merged peaks for H3K4me3, H3K9me3,
+  and H3K27me3. C Clustering analysis of 1,405 protein-coding genes exhibiting As³⁺-induced
+  H3K9me3 downregulation (log₂FC < -0.5). Heatmap shows the relative enrichment levels
+  of H3K9me3, H3K4me3, and H3K27me3 across these genes. Most genes displayed increased
+  H3K4me3 enrichment, indicative of transcriptional activation, while a subset showed
+  concurrent elevation of H3K27me3, suggesting complex epigenetic reprogramming. Gene
+  enrichment scores are shown as log2 fold changes. D Pathway analysis of these 1,405
+  genes with reduced H3K9me3 in As3+-treated cells show significant enrichment of
+  PRC2 components, stemness transcription factors, K+ channel, transporter, and G-protein-coupled
+  receptor (GPCR). E Enrichment levels of H3K9me3 and H3K27me3 in ChIP-seq for the
+  indicated imprint genes and heterochromatin regions of chromosome 19
+article_title: Arsenic disrupts H3K9me3 and H3K27me3 balance by biasing PRC2.1 and
+  PRC2.2 activity via PALI1 inhibition in carcinogenesis
+citation: Haoyan Ji, et al. Int J Biol Sci. 2025;21(9).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025-6-9
+doi: 10.7150/ijbs.115605
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- arsenic
+- H3K9me3
+- H3K27me3
+- PALI1
+- PRC2
+- carcinogenesis
+---

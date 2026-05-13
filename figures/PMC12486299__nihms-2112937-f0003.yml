@@ -1,0 +1,74 @@
+---
+figid: PMC12486299__nihms-2112937-f0003
+pmcid: PMC12486299
+image_filename: jpg
+figure_link: /pmc/articles/PMC12486299/figure/F3/
+number: Fig. 3 |
+figure_title: ER stress responses in intratumoural immune cells
+caption: a, Reactive oxygen species (ROS)-driven endoplasmic reticulum (ER) stress
+  in tumour-infiltrating dendritic cells (DCs) leads to potent inositol-requiring
+  enzyme 1 α (IRE1α)–XBP1s activation, causing dysregulated lipogenesis and lipid
+  droplet accumulation that impairs antigen presentation to T cells. Abrogating IRE1α–XBP1s
+  in tumour-infiltrating DCs enhances T cell activation and promotes antitumour immunity
+  in ovarian cancer models. BAT3 deficiency in DCs exacerbates the unfolded protein
+  response (UPR), suppresses co-stimulatory molecule expression and alters metabolic
+  pathways to promote immunosuppression, which can be reversed by disabling IRE1α.
+  Tumour-associated macrophages (TAMs) exhibit ER stress-driven activation of IRE1α–XBP1s,
+  supporting tumour growth through the secretion of interleukin-4 (IL-4), IL-6, vascular
+  endothelial growth factor (VEGFA), tyrosine-protein phosphatase non-receptor type
+  substrate 1 (SIRPA) and thrombospondin 1 (THBS1). Protein kinase RNA-like ER kinase
+  (PERK) activation in TAMs enhances serine biosynthesis by upregulating phosphoserine
+  aminotransferase 1 (PSAT1) and promotes glycolysis through increased glucose transporter
+  1 (GLUT1) expression, facilitating their immunosuppressive polarization. Deleting
+  IRE1α or PERK in TAMs reprogrammes their phenotype, reducing tumour progression
+  and improving responses to immune checkpoint blockade (ICB). In neutrophils, ER
+  stress activates IRE1α and activating transcription factor 6 (ATF6), reinforcing
+  their pro-tumour phenotype and limiting early T cell responses by upregulating arginase
+  1 (ARG1) and prostaglandin E2 (PGE2). Deleting IRE1α in neutrophils delays tumour
+  growth and enhances the efficacy of programmed cell death protein 1 (PD1) blockade
+  in primary high-grade serous ovarian cancer models. ER stress also increases Nectin2
+  and chemokine ligand 5 (CCL5) expression through transcriptional control, which
+  was found to suppress antitumoural T cell responses. In monocytic-myeloid derived
+  suppressor cells (M-MDSCs), PERK preserves mitochondrial DNA integrity, promoting
+  immunosuppression. Ablation of PERK in MDSCs limits phospho-NRF2 antioxidant activity,
+  therefore increasing the levels of ROS. The increased ROS triggers mitochondrial
+  DNA leakage, activating the stimulator of IFN genes (STING) pathway and enhancing
+  antitumour immunity through type I interferon (IFN-I) secretion. Activation of the
+  PERK–ATF4–C/EBP homologous protein (CHOP) axis also upregulates C/EBPβ expression,
+  which induces IL-6 secretion and downstream signal transducer and activator 3 (STAT3)
+  phosphorylation. Phosphorylated STAT3 directly binds to the Arg1 promoter, inducing
+  its expression and thereby regulating MDSC immunosuppressive function. IRE1α–XBP1s
+  activation supports natural killer (NK) cell proliferation and mitochondrial function
+  by upregulating MYC. This process sustains NK cell-mediated tumour control in mouse
+  melanoma models. UPR dysregulation in tumour-associated myeloid cells therefore
+  contributes to reduced antigen presentation, impaired cytotoxicity against cancer
+  cells, increased T cell suppression and resistance to ICB. b, Tumour-induced ER
+  stress provokes aberrant UPR activation in infiltrating T cells, altering their
+  transcriptional, metabolic and functional profiles, ultimately compromising adaptive
+  immunity. Restricted glucose availability or decreased glucose uptake causes persistent
+  ER stress by limiting N-linked glycosylation of ER-resident proteins. This causes
+  constitutive IRE1α–XBP1s signalling in ovarian cancer-infiltrating CD4+ T cells,
+  which dampens glutamine uptake and blunts T cell mitochondrial respiration. In CD8+
+  T cells, cholesterol and tumour-derived factor uptake induces ER stress through
+  IRE1α–XBP1s signalling (as demonstrated in ovarian tumours). This suppress transgelin
+  2 (TAGLN2), a cytoskeletal element essential for fatty acid-binding protein 5 (FABP5)-mediated
+  lipid uptake and mitochondrial fatty acid oxidation (FAO), thus promoting T cell
+  dysfunction. This also upregulates immune checkpoint molecule expression, including
+  PD1, T cell immunoglobulin and mucin-domain-containing-3 (TIM3), T cell immunoreceptor
+  with Ig and ITIM domains (TIGIT) and lymphocyte activation gene 3 (LAG3). Taurine
+  deprivation in intratumoural CD8+ T cells activates PERK–ATF4 signalling, also upregulating
+  immune checkpoint molecules, promoting T cell exhaustion. CTLA4, cytotoxic T lymphocyte
+  protein 4; MHC-I, major histocompatibility complex I; PC, phosphatidylcholine; PE,
+  phosphatidylethanolamine; PMN-MDSC, polymorphonuclear myeloid-derived suppressor
+  cell; RIDD, regulated IRE1α-dependent decay
+article_title: Endoplasmic reticulum stress responses in anticancer immunity
+citation: Sung-Min Hwang, et al. Nat Rev Cancer. 2025 Sep;25(9).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-6-24
+doi: 10.1038/s41568-025-00836-5
+journal_title: Nature reviews. Cancer
+journal_nlm_ta: Nat Rev Cancer
+publisher_name: .na.character
+keywords: []
+---

@@ -1,0 +1,56 @@
+---
+figid: PMC12258984__nihpp-2025.06.06.658239v1-f0006
+pmcid: PMC12258984
+image_filename: jpg
+figure_link: /pmc/articles/PMC12258984/figure/F6/
+number: Figure 6.
+figure_title: HIV-1 infection activates the PI3K signaling pathway
+caption: (A) Bar plots showing the number of differentially changing phosphosites
+  in cervical cells treated with secretome of HIV-infected or uninfected primary CD4+
+  T-cells. Differential changes in the phosphosites were determined based on|log2FC|
+  > 1 and p < 0.05 cutoffs.(B) Volcano plots of phosphoproteomics highlighting changes
+  in phosphosites between cervical cells treated with secretome of HIV-1 infected
+  and uninfected primary CD4+ T-cells. The colored dots depict the differentially
+  changing phosphosites at |log2FC| > 1 and p < 0.05 cutoffs.(C) Heatmap showing the
+  kinase activities of phosphorylated substrates from global MS phosphoproteomics
+  analysis of cervical cells exposed to secretome of HIV-infected or uninfected primary
+  CD4+ T-cells. The colors indicate an increase (red) or decrease (blue) in kinase
+  activity.(D) Bar plots displaying the normalized gene expression (i.e., transcripts
+  per million + 1) and protein expression levels (mean-centered intensities) of IRS1.
+  Statistical comparison was performed using Wilcoxon sum ranked test.(E) Bar plots
+  ranking the transcription factors activated or deactivated by the genes upregulated
+  in WLWH with NC relative to their HIV-counterparts.(F) Oncoplot showing the alteration
+  frequencies from the cervical cancer (TCGA Pancancer) dataset for the top 10 mutated
+  genes in cervical cancer (cBioPortal). Each vertical gray column represents a participant
+  and various genetic alterations of genes in each participant are indicated in the
+  color legend.(G) Bar plots summarizing the proportion of HIV-positive and HIV-negative
+  Ugandan cervical cancer tumors with PIK3CA mutation. Data from Gagliardi and colleagues
+  (46).(H) Box plots depicting expression (RPKM) of mutant or wild-type PIK3CA gene
+  in HIV-positive and negative cervical cancer tumors from Ugandan participants. The
+  center line in each box depicts the median whereas the lower and upper edge of each
+  box represent the 25th and 75th percentile values, respectively. The whiskers represent
+  1.5 times the interquartile range. Each dot represents a tumor. Yellow and dark
+  gray dots represent tumors with wild-type and mutant PIK3CA. Statistical comparison
+  was performed using Wilcoxon sum ranked test. Data from Gagliardi and colleagues
+  (46).(I) Box plots showing the gene (TPM+1) and protein expression levels (i.e.,
+  mean-centered intensities) of known interferon-stimulated genes. The center line
+  in each box depicts the median whereas the lower and upper edge of each box represent
+  the 25th and 75th percentile values, respectively. The whiskers represent 1.5 times
+  the interquartile range. Each dot represents an ISG. Statistical comparison was
+  performed using Wilcoxon sum ranked test
+article_title: Paracrine Signals from HIV-1 Infected Immune Cells Reprogram Cervical
+  Cancer Pathways
+citation: Charles Ochieng’ Olwal, et al. bioRxiv. 2025 Jun 07;NA(NA).
+year: '2025'
+pub_date: 2025-6-07
+epub_date: 2025-6-07
+doi: 10.1101/2025.06.06.658239
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- HPV/HIV coinfection
+- MAPK and PI3K signaling
+- Network propagation
+- HPV-associated cervical cancer
+---

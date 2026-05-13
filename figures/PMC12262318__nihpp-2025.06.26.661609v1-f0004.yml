@@ -1,0 +1,35 @@
+---
+figid: PMC12262318__nihpp-2025.06.26.661609v1-f0004
+pmcid: PMC12262318
+image_filename: jpg
+figure_link: /pmc/articles/PMC12262318/figure/F4/
+number: Figure 4.
+figure_title: Loss of TAZ reverses the dabrafenib-induced UPR in BRAFV600E-driven
+  ATC cells
+caption: A. Gene Set Enrichment Analysis (GSEA) for top 10 pathways showing that the
+  unfolded protein response (UPR) is the most enriched pathway in response to dabrafenib
+  treatment. B. Heat map showing the expression profile of the UPR genes in dabrafenib
+  and vehicle treated control cells. C. Heatmap of log2fold-change value of differentially
+  expressed genes of dabrafenib vs vehicle and dabrafenib treated shTAZ cells vs dabrafenib
+  treated shCtrl cells. D. Left panel Proteomics profiling of dabrafenib treated cells.
+  Difference is plotted in x-axis and −log10(adj P-value) on the y-axis. Right panel.
+  Downstream effectors of UPR in dabrafenib treated cells. E. Cells depleted for TAZ
+  (shTAZ and TAZ KO) were treated with dabrafenib for the indicated times. ATF4, PHGDH
+  and p-MEK were analyzed. TAZ depletion was confirmed in shTAZ and TAZ KO cells.
+  H3 and RPL32 were used as loading controls F. Analysis of newly synthesized proteins
+  using puromycin incorporation for 10min at 7 days of dabrafenib treatment in the
+  presence or absence of TAZ. G. Lipid ROS level was analyzed using BODIPY in shCtrl,
+  shTAZ, shCtrl+dabrafenib and shTAZ+dabrafenib cells. RSL3 was used as a positive
+  control. Concentration of dabrafenib used is 0.8 μM
+article_title: CRISPR-Based Gene Dependency Screens reveal Mechanism of BRAF Inhibitor
+  Resistance in Anaplastic Thyroid Cancer
+citation: Shawn Noronha, et al. bioRxiv. 2025 Jun 27;NA(NA).
+year: '2025'
+pub_date: 2025-6-27
+epub_date: 2025-6-27
+doi: 10.1101/2025.06.26.661609
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

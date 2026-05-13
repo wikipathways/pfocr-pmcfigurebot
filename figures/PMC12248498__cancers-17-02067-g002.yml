@@ -1,0 +1,44 @@
+---
+figid: PMC12248498__cancers-17-02067-g002
+pmcid: PMC12248498
+image_filename: jpg
+figure_link: /pmc/articles/PMC12248498/figure/F2/
+number: Figure 2
+figure_title: Deletion of TOPK potentially suppresses gene expression changes in AK
+  and SCC.
+caption: 'Deletion of TOPK potentially suppresses gene expression changes in AK and
+  SCC. GSE2503, GSE45164, GSE42677, and GSE45216 data were obtained from the GEO database
+  and merged using the R software package in Silico Merging. The samples comprise
+  55 SCC, 19 AK, and 19 normal tissue specimens. Differences in gene expression between
+  (A) SCC vs. normal and (B) AK vs normal tissue were assessed. To be considered relevant,
+  gene expression had to differ significantly (p < 0.05) and exhibit an absolute fold
+  change of ≥2. (C) Overlap between genes in SCC vs. normal, AK vs. normal, and genes
+  in SSL-treated TOPK KO vs. SSL-treated WT groups. The upregulated genes observed
+  in SCC and AK compared with normal tissue overlapped with the downregulated genes
+  in SSL-treated TOPK KO vs. SSL-treated WT groups (upper panel). Additionally, the
+  downregulated genes in SCC and AK compared with normal tissue overlapped with the
+  upregulated genes in SSL-treated TOPK KO vs. SSL-treated WT groups (lower panel).
+  (D) KEGG pathway enrichment analysis demonstrated that multiple signaling pathways
+  are potentially involved in TOPK-mediated AK or SCC development. (E) A431 cell lines
+  stably expressing shTOPK or shControl (shCon) were generated, and the phosphorylation
+  and total expression levels of kinases were analyzed by Western blotting. (F) Phosphorylation
+  and total expression levels of kinases in HaCaT cells were also assessed by Western
+  blotting. Band intensities were quantified using ImageJ (Version: Fiji 2.16.0 ImageJ)'
+article_title: TOPK Drives IL19-Mediated Crosstalk Between Cancer Cells and Fibroblasts
+  to Promote Solar UV-Induced Skin Damage and Carcinogenesis
+citation: Asad U. Khan, et al. Cancers (Basel). 2025 Jul;17(13).
+year: '2025'
+pub_date: 2025-7-
+epub_date: 2025-6-20
+doi: 10.3390/cancers17132067
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- TOPK
+- RNAseq
+- IL19
+- keratinocytes
+- cSCC
+- fibroblast
+---

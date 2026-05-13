@@ -1,0 +1,47 @@
+---
+figid: PMC12273802__ol-30-03-15168-g02
+pmcid: PMC12273802
+image_filename: jpg
+figure_link: /pmc/articles/PMC12273802/figure/F3/
+number: Figure 3.
+figure_title: FANCD2 is involved in the DNA damage repair pathway.
+caption: FANCD2 is involved in the DNA damage repair pathway. GSEA analysis of (A)
+  KEGG pathways, (B) REACTOME pathways, (C) HALLMARK pathways and (D) GO-BP pathways
+  based on FANCD2 expression levels in gastric cancer samples from the ACRG cohort.
+  GSEA analysis of (E) KEGG pathways, (F) REACTOME pathways, (G) HALLMARK pathways
+  and (H) GO-BP pathways based on FANCD2 expression levels in gastric cancer samples
+  from the TCGA-STAD cohort. (I) Interaction network of the top 10 key genes in DNA
+  repair and FANCD2. (J) Correlation coefficient matrix of the top 10 key genes in
+  DNA repair and FANCD2 (lower left for the ACRG cohort, upper right for the TCGA-STAD
+  cohort). The coloured scale bar represents the correlation coefficient, with red
+  representing a negative correlation and blue representing a positive correlation,
+  and the darker the color, the stronger the correlation. (K) Functional enrichment
+  chord diagram of the top 10 key genes in DNA repair and FANCD2. The coloured scale
+  bar represents the size of the P-value, with a lighter colour indicating a smaller
+  P-value. FANCD2, Fanconi anaemia complementation group D2; GSEA, Gene Set Enrichment
+  Analysis; KEGG, Kyoto Encyclopaedia of Genes and Genomes; REACTOME, Reaction and
+  complex transformation or molecular environment; HALLMARK, Hallmark Gene Sets; GO-BP,
+  Gene Ontology-Biological Process; ACRG, Asian Cancer Research Group; TCGA, The Cancer
+  Genome Atlas Program; STAD, stomach adenocarcinoma; RAD18, RAD18 E3 ubiquitin protein
+  ligase; RRM1, ribonucleotide reductase catalytic subunit M1; MCM, minichromosome
+  maintenance protein; CDC45, cell division cycle 45; TOP2B, DNA topoisomerase II
+  beta; RUVBL1, RuvB like AAA ATPase 1; PPP4C, protein phosphatase 4 catalytic subunit;
+  FOXM1, forkhead box M1; PLK1, polo-like kinase 1; ES, enrichment score; NP, normalized
+  P-value
+article_title: 'A FANCD2 gene mutation case analysis providing potential insights
+  into the molecular mechanisms of gastric adenocarcinoma: A case report'
+citation: Kexin Zheng, et al. Oncol Lett. 2025 Sep;30(3).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-7-03
+doi: 10.3892/ol.2025.15168
+journal_title: Oncology Letters
+journal_nlm_ta: Oncol Lett
+publisher_name: Spandidos Publications
+keywords:
+- FANCD2
+- gastric cancer
+- gene mutation
+- DNA repair
+- molecular mechanism
+---

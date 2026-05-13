@@ -1,0 +1,43 @@
+---
+figid: PMC12447721__nihpp-2506.15761v1-f0005
+pmcid: PMC12447721
+image_filename: jpg
+figure_link: /pmc/articles/PMC12447721/figure/F5/
+number: Figure 5.
+figure_title: Phenotypical and metabolic abnormality are most pronounced in long-term
+  patients
+caption: 'A) Multi gradient boosting models identified most important species, genes
+  and metabolites differentiating controls, short-, or long-term ME/CFS. In each model,
+  the top ten features are ranked by their contribution to the model on the y-axis,
+  and the x-axis indicates the feature importance value. The heatmap shows the average
+  feature abundance or relative abundance in each group. For full classification model
+  performance (AUCs), see also Figure S5. B) Naïve Bayesian model based on medical
+  history records classified the stage of disease and identified nine significant
+  clinical phenotypes in the long-term cohort and one significant phenotype in the
+  short-term cohort. For each feature, the probability of experiencing the symptom
+  in the long-term patients was presented to the left on the x-axis and the probability
+  in the short-term patients was presented to the right. C) Overrepresentation analysis
+  (ORA) on the plasma metabolome identified the most differential metabolites and
+  pathways in the long-term group. For each pathway, two comparisons were conducted,
+  control vs. short-term and control vs. long-term. P-values were computed by linear
+  global t-test and the counts of differential metabolites presented on the x-axis.
+  D) The trend of gradually changing metabolic irregularities along with the progression
+  of disease are indicated by the difference between control, short-term and long-term
+  cohorts. Here, each point represents the average normalized abundance for a given
+  metabolite in the top five most abundant superfamilies, connected with a line that
+  is colored by if increasing (red) or decreasing (blue). p-values were computed by
+  Wilcoxon signed-rank test. p-value annotation legend: *: 0.01 < p <= 0.05, **: 0.001
+  < p <= 0.01, ***: 1e-04 < p <= 0.001, ****: p <= 1e-4. See also Table S5–6'
+article_title: Advancing Digital Precision Medicine for Chronic Fatigue Syndrome through
+  Longitudinal Large-Scale Multi-Modal Biological Omics Modeling with Machine Learning
+  and Artificial Intelligence
+citation: Ruoyun Xiong, et al. ArXiv. 2025 Jun 18;NA(NA).
+year: '2025'
+pub_date: 2025-6-18
+epub_date: 2025-6-18
+doi: .na.character
+journal_title: ArXiv
+journal_nlm_ta: ArXiv
+publisher_name: arXiv
+keywords: []
+---

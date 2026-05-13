@@ -1,0 +1,44 @@
+---
+figid: PMC13045877__nihms-2124031-f0006
+pmcid: PMC13045877
+image_filename: jpg
+figure_link: /pmc/articles/PMC13045877/figure/F6/
+number: 'Fig. 6:'
+figure_title: Glucocorticoid fluctuation contributes to ISG expression and virus clearance
+caption: a, heatmap for Z-scores of genes in the response to peptide hormone pathway
+  that are related to glucocorticoid signaling in EpCAM+ cells in scRNA-Seq dataset.
+  Genes are grouped based on whether prior studies have shown them to be upregulated
+  (Up), downregulated (Down), or interact with the glucocorticoid receptor during
+  hormone signaling (Signal). b, time course of Sgk1 expression after CC in samples
+  from Fig. 5J. n = 3–8 mice. c, corticosterone levels in serum from mice from Fig.
+  5h as determined by ELISA. n = 3–10 mice. d, comparison of behavior of averaged
+  corticosterone levels, ISG + Tnfa expression (as shown in Fig. 5h), and MuAstV levels
+  after CC. e, percentage of mice with detectable MuAstV in their stool treated with
+  either vehicle control (Ctr), glucocorticoid antagonist Mifepristone (Mif) or synthetic
+  glucocorticoid Methylprednisolone acetate (MPA) +/−CC. n = 6–11 mice. f, Heatmap
+  of normalized ISG and Tnfa expression in Mifepristone and Methylprednisolone acetate
+  treated mice 24h post CC compared to control. n = 4–6 mice. g, model of cage change-induced
+  MuAstV clearance. SPF mice were used for all experiments. Each dot represents data
+  from one animal in panels (b-c) and (e-f) and the data are represented as mean ±SEM
+  from at least two independent experiments. ns = not significant, *p≤0.05, **p≤0.01,
+  ***p≤0.001, ****p≤0.0001 by 2way ANOVA using Holm-Šídák’s comparison for panels
+  (c) and (e), and two-sided Student’s T-test compared to Ctr for panel (f). For panel
+  f ‘+’ denotes FC with p≤0.05
+article_title: Environmental stress drives clearance of a persistent enteric virus
+  in mice
+citation: Christin Herrmann, et al. Nat Microbiol. 2025 Aug;10(8).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-6-25
+doi: 10.1038/s41564-025-02046-z
+journal_title: Nature microbiology
+journal_nlm_ta: Nat Microbiol
+publisher_name: .na.character
+keywords:
+- Astrovirus
+- persistence
+- antiviral immunity
+- CD8 T cells
+- stress
+- re-exposure
+---

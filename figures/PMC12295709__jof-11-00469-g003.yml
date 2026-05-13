@@ -1,0 +1,41 @@
+---
+figid: PMC12295709__jof-11-00469-g003
+pmcid: PMC12295709
+image_filename: jpg
+figure_link: /pmc/articles/PMC12295709/figure/F3/
+number: Figure 3
+figure_title: Overview of metabolomics results.
+caption: Overview of metabolomics results. (A) HMDB classification of all metabolites.
+  (B) Volcano plots present the differences between the two groups, where the x-axis
+  indicates the fold change in metabolite expression between the two groups, while
+  the y-axis denotes the statistical significance of the metabolite expression changes.
+  Each point in the plot corresponds to a specific metabolite, with the size of the
+  point reflecting its VIP value. Red points represent metabolites with significantly
+  up-regulated expression, blue points indicate significantly down-regulated metabolites,
+  and black points represent metabolites with no significant expression differences.
+  (C) Clustering heat map of the Top 30 DAMs; each column in the figure corresponds
+  to a specific sample, and each row is associated with a particular metabolite. The
+  color gradient in the figure reflects the relative expression levels of metabolites
+  within the corresponding sample group. (D) KEGG pathway analysis of DAMs; the x-axis
+  denotes the enrichment rate, and the y-axis indicates the KEGG pathways. The size
+  of the bubbles reflects the number of compounds enriched in the corresponding metabolic
+  pathway, whereas the color gradient of the bubbles represents the significance level
+  of the enrichment p-values
+article_title: Integrated Proteomics and Metabolomics Reveal Regulatory Pathways Underlying
+  Quality Differences Between Wild and Cultivated Ophiocordyceps sinensis
+citation: Chuyu Tang, et al. J Fungi (Basel). 2025 Jul;11(7).
+year: '2025'
+pub_date: 2025-7-
+epub_date: 2025-6-20
+doi: 10.3390/jof11070469
+journal_title: Journal of Fungi
+journal_nlm_ta: J Fungi (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- cultivated
+- metabolomics
+- Ophiocordyceps sinensis
+- proteomics
+- quality
+- wild
+---

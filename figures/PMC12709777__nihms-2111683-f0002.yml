@@ -1,0 +1,46 @@
+---
+figid: PMC12709777__nihms-2111683-f0002
+pmcid: PMC12709777
+image_filename: jpg
+figure_link: /pmc/articles/PMC12709777/figure/F2/
+number: Figure 2.
+figure_title: |-
+  Compositional differences and cell type-specific differential expression in
+  scRNA-seq data
+caption: |-
+  (a) Barplots show significant differences in cell type
+  frequency for non-IBD control (green) and non-stricture (blue) samples relative
+  to stricture (red) samples in immune, stromal and epithelial compartments.
+  *padj. < 0.05, **padj. < 0.01 (Wald test
+  from Dirichlet regression with FDR correction; Methods). Blue asterisks indicate overrepresentation
+  in stricture or non-stricture samples vs. non-IBD controls, while red asterisks
+  indicate underrepresentation. Error bars are SEM. The total number of cells
+  contributing to each bar is also shown. (b) Similar to
+  (a), only using paired stricture and non-stricture samples
+  (Methods). (c) Number of
+  differentially expressed genes (DEGs) between stricture and non-IBD control
+  samples (left) and between stricture and non-stricture samples (right),
+  displayed by cell type (discrete component of the MAST model; FDR < 0.05;
+  Methods, Supplementary Table 2).
+  (d) Relationship between stricture vs. non-IBD and stricture
+  vs. non-stricture samples within each cell compartment. The 1:1 line is
+  represented in orange. DE coefficient is the discrete coefficient from the MAST
+  model (p-value from Spearman ρ statistic. Methods). (e) Fractions of cell types in which KEGG
+  pathways are significantly enriched (FDR < 0.05; Methods) within each compartment and by each
+  comparison, split by enrichment direction. The number of significant pathways
+  per cell type for each comparison is also shown. All pathway enrichment results
+  are provided in Supplementary
+  Table 3
+article_title: |-
+  Single-cell and spatial transcriptomics of stricturing Crohn’s
+  disease highlights a fibrosis-associated network
+citation: Lingjia Kong, et al. Nat Genet. 2025 Jul;57(7).
+year: '2025'
+pub_date: 2025-7-
+epub_date: 2025-6-25
+doi: 10.1038/s41588-025-02225-y
+journal_title: Nature genetics
+journal_nlm_ta: Nat Genet
+publisher_name: .na.character
+keywords: []
+---

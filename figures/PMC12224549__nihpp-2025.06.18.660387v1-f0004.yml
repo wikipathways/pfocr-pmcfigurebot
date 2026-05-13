@@ -1,0 +1,38 @@
+---
+figid: PMC12224549__nihpp-2025.06.18.660387v1-f0004
+pmcid: PMC12224549
+image_filename: jpg
+figure_link: /pmc/articles/PMC12224549/figure/F4/
+number: Figure 4 -
+figure_title: Bacterial colonization alters the NHBE transcriptome
+caption: (A) PCA plot of host transcriptomes following mono- and co-colonization with
+  F. nucleatum and S. oris. (B) Gene set enrichment analysis (GSEA) in samples from
+  NHBE colonized with both F. nucleatum and S. oris compared to mono-colonization
+  with F. nucleatum (left) and NHBE mono-colonized with F. nucleatum compared to uninfected
+  cells. Normalized enrichment scores (NES) are shown on the x-axis and the color
+  of each point indicates false discovery rate (FDR). High NES with low FDR indicates
+  a pathway enriched in a given comparison. Pathways enriched in both comparisons
+  were removed from the Co-cult vs. Fn plot to highlight pathways unique to this comparison,
+  and only those pathways with a FDR < 0.25 are shown. Expression heatmaps of transcripts
+  enriched in (C) cells mono-colonized with F. nucleatum, or (D) cells dual-colonized
+  with F. nucleatum and S. oris
+article_title: Cross-feeding interactions between Fusobacterium nucleatum and the
+  glycan forager Segatella oris
+citation: Joshua R. Fletcher, et al. bioRxiv. 2025 Jun 19;11(2).
+year: '2025'
+pub_date: 2025-6-19
+epub_date: 2025-6-19
+doi: 10.1101/2025.06.18.660387
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Fusobacterium nucleatum
+- Segatella oris
+- Prevotella oris
+- cross-feeding
+- glycans
+- microbiome
+- chronic airway disease
+- transcriptomics
+---

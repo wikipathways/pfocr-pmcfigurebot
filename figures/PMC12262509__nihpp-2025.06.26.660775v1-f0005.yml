@@ -1,0 +1,45 @@
+---
+figid: PMC12262509__nihpp-2025.06.26.660775v1-f0005
+pmcid: PMC12262509
+image_filename: jpg
+figure_link: /pmc/articles/PMC12262509/figure/F5/
+number: 'Figure 5:'
+figure_title: Primary sensorimotor contraction leads to expansion of the transmodal
+  association cortex
+caption: a, PD 7 control (Satb2flox/flox), Fezf2 cKO, Satb2 cKO, and Zbtb18 cKO brains
+  stained for SEMA7A and PLXNC1. b, Cartoon depicting region quantified (top). Quantifications
+  of signal intensity relative to the mean signal intensity in control versus cKOs.
+  The lateral to medial region quantified was divided into 10 bins, and significance
+  was determined based on the average signal intensity in each bin. c, RNA-scope experiments
+  probing for Zbtb20 and Tfap2d in PD 7 control (Satb2flox/+), Fezf2 cKO, Satb2 cKO,
+  and Zbtb18 cKO brain sections. d, GFP signal in sections from PD 37 control, Fezf2
+  cKO, Satb2 cKO, and Zbtb18 cKO mice in which rgGFP-AAV was injected into the mPFC
+  at PD 30. e, quantification of average cells per section in indicated genotype and
+  the percent distribution of cells across 15 equal sized bins from the lateral to
+  medial region of the cortex depicted in panel b. f, Venn diagrams representing overlapping
+  and unique DEGs identified from PD 0 Fezf2, Satb2, and Zbtb18 cKO neocortical bulk
+  RNA-seq experiments. Bar plots showing shared DEGs between Satb2 and Zbtb18 cKO
+  cortices but not in the Fezf2 cKO. Canonical axon guidance, signaling pathway, area-enriched
+  genes based on Allen brain atlas developing RNA expression data, and other well
+  studied cortical development genes were labeled. All DEGs, genes in Venn diagrams,
+  and bar plots are listed in Supplementary Table 15. g, PD 7 control (Gbx2flox/flox),
+  and Gbx2 cKO (Gbx2flox/flox; Olig3-Cre) brain sections stained for SEMA7A and PLXNC1.
+  The sections imaged in the left column are from dissected and flattened cortices,
+  sectioned tangentially. The right column shows coronal brain sections. h, PD 7 control
+  and Gbx2 cKO brains stained for 5-HT and NTNG1. The relative signal for 5-HT and
+  NTNG1 was determined as in panel b, and normalized intensity was determined by dividing
+  each intensity value by the average intensity across the region sampled. For all
+  quantifications, standard error of the mean is shown, and a paired t-test was used
+  to determine significance. *p < 0.05, **p < 0.01, ***p < 0.001. See Supplementary
+  Table 16 for statistical information
+article_title: Competing Programs Shape Cortical Sensorimotor-Association Axis Development
+citation: Jeremiah Tsyporin, et al. bioRxiv. 2025 Jun 27;NA(NA).
+year: '2025'
+pub_date: 2025-6-27
+epub_date: 2025-6-27
+doi: 10.1101/2025.06.26.660775
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

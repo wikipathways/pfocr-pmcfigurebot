@@ -1,0 +1,35 @@
+---
+figid: PMC12239712__nihms-2086737-f0007
+pmcid: PMC12239712
+image_filename: jpg
+figure_link: /pmc/articles/PMC12239712/figure/F7/
+number: Figure 7.
+figure_title: The mos−/− eggs with one polar body have many differentially expressed
+  genes when compared to wildtype eggs
+caption: '(A) Three-dimensional UMAP projection of scRNA-seq data (n = 107) colored
+  by type: wildtype (blue), chemically treated (green), mos−/− eggs M1 (red), M2 (beige),
+  or M3 (purple). M1 and M2 correspond to mos−/− eggs that extrude 1 or 2 PBs, respectively;
+  M3 corresponds to mos−/− eggs that extrude 2 PBs and undergo additional divisions.
+  (B) Volcano plot showing differentially expressed genes between mos−/− eggs that
+  extrude 1 PB (M1) and wildtype eggs. Genes significantly upregulated in M1 eggs
+  appear on the right, those downregulated on the left, and non-significant changes
+  are centered. (C) Bar plot depicting pathway enrichment analysis for genes upregulated
+  in mos−/− eggs that extrude 1 PB compared to wildtype eggs. Each bar represents
+  a specific biological pathway, with the length indicating the degree of enrichment
+  significance. (D) Volcano plot showing differentially expressed genes between mos−/−
+  eggs that extrude 2 PBs and undergo additional divisions (M3) and mos−/− eggs that
+  extrude 1 PB (M1). Genes significantly upregulated in M3 eggs appear on the right,
+  those upregulated in M1 appear on the left, and non-significant changes are centered.
+  WT, wildtype'
+article_title: Disrupted MOS signaling alters meiotic cell cycle regulation and the
+  egg transcriptome
+citation: Gisela Cairo, et al. Reproduction. 2025 Jul 01;170(1).
+year: '2025'
+pub_date: 2025-7-01
+epub_date: 2025-6-09
+doi: 10.1530/REP-25-0156
+journal_title: Reproduction (Cambridge, England)
+journal_nlm_ta: Reproduction
+publisher_name: .na.character
+keywords: []
+---

@@ -1,0 +1,33 @@
+---
+figid: PMC12341840__nihms-2094565-f0002
+pmcid: PMC12341840
+image_filename: jpg
+figure_link: /pmc/articles/PMC12341840/figure/F2/
+number: 'Figure 2:'
+figure_title: RNA-seq analysis reveals the effects of high glucose and GLUT1 knockdown
+  on the transcriptome and functional alterations of HBMVECs
+caption: (A and B) GLUT1 was knocked down in HBMVECs using siRNA (SiGlut1) and treated
+  with high glucose (HG), with bulk RNA-seq data demonstrating significant differentiation
+  in gene transcription. (C) Gene Set Enrichment Analysis (GSEA) of RNA-seq data shows
+  that the coagulation pathway diminishes under GLUT1 deficiency conditions. (D) Fast
+  Gene Set Enrichment Analysis (FGSEA) in R provides a detailed characterization of
+  the pathway shifts in GLUT1-deficient HBMVECs under normal and high glucose conditions,
+  with pathways arranged by normalized enrichment scores (NES) in descending order.
+  (A-D) Each group contains n = 3, except for HGNS, which has n = 2 due to poor sequencing
+  in one sample. (A) was filtered based on a significance cutoff of P ≤ 0.05. (C)
+  Enrichment plots for siGlut1 and HG+siGlut1 show downregulation with NES values
+  of −1.30 and −1.32, respectively. The significance of the results was P= 0.048 for
+  siGlut1 and P = 0.050 for HG+siGlut1, with false discovery rates (FDR, q-value)
+  of 0.136 and 0.143, respectively
+article_title: Glucose transporter 1 is essential to maintain brain endothelial cell
+  homeostasis under hyperglycemia condition
+citation: Benjamin Miao, et al. Am J Physiol Cell Physiol. 2025 Aug 01;329(2).
+year: '2025'
+pub_date: 2025-8-01
+epub_date: 2025-6-23
+doi: 10.1152/ajpcell.00615.2024
+journal_title: American journal of physiology. Cell physiology
+journal_nlm_ta: Am J Physiol Cell Physiol
+publisher_name: .na.character
+keywords: []
+---

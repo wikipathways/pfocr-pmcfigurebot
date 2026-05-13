@@ -1,0 +1,53 @@
+---
+figid: PMC12262321__nihpp-2025.06.16.659935v1-f0001
+pmcid: PMC12262321
+image_filename: jpg
+figure_link: /pmc/articles/PMC12262321/figure/F1/
+number: Figure 1.
+figure_title: Nodal and Wnt signaling genes are activated in the epiblast of Yap1
+  cKO embryos compared to controls
+caption: '(A) Mice scheme shows the breeding strategy to obtain embryos with conditional
+  deletion of Yap1 in the epiblast (Sox2cre). Blue arrowheads indicate LoxP alleles.
+  E7 heterozygous control (Sox2cre:YAPflox/+) and Yap1 cKO (Sox2cre:Yap1flox/flox)
+  embryos were processed for scRNAseq analysis. Bright-field images show representative
+  embryos of the indicated genotype. The number of embryos processed for sequencing
+  is indicated. Scale Bar 250μm.(B) Heatmap showing expression of lineage markers
+  used to annotate cell populations in the E7 scRNAseq datasets. On the right, a schematic
+  of an E7 mouse gastrula and a UMAP of E7 scRNAseq showing the detected cell populations
+  with the number of cells in parentheses, color-coded to match the heatmap.(C) Dot
+  plot depicts the number of differentially expressed genes (DEGs) in each cluster,
+  with the exact count indicated to the left of each dot. Note that the epiblast cluster
+  contains the highest number of DEGs (abs(Log2FC)>0.25, adj. p-value <0.05).(D) Heatmap
+  shows DEGs in the epiblast of Yap1 cKO versus control embryos. Relevant genes for
+  pluripotency and differentiation are shown.(E) Violin plots show scRNAseq expression
+  levels of indicated genes across clusters in control and Yap1 cKO. The dotted box
+  highlights the epiblast cluster. (Adjusted p-value is based on Bonferroni correction,
+  *p < 0.05, **p < 0.001, ***p < 0.0001.)(F) Graph shows RT-qPCR analysis of the Nodal
+  gene in E7.5 control and Yap1 cKO embryos. (n=10) Data presented as mean ± SEM.
+  Statistical analysis: Student’s t-test, ****p<0.0004(G) Single-cell pathway enrichment
+  analysis (SCPA) was performed on DEGs of Yap1 cKO compared to control. The UMAP
+  plot shows the enrichment of two of terms related to the Nodal/TGFb and Wnt pathway.
+  Significant q-values (>1.4) are displayed in orange with the names of populations.
+  The complete list of Wnt and TGFb terms enriched are shown in Figure EV1I.(H) Western
+  blot of nuclear extracts of E7 control and Yap1 cKO embryos. The number of embryos
+  pooled per lane is indicated above each lane, along with the markers analyzed. Uncropped
+  blots are found in Figure EV1J'
+article_title: YAP1 and QSER1 are Key Modulators of Embryonic Signaling Pathways in
+  the Mammalian Epiblast
+citation: Elizabeth Abraham, et al. bioRxiv. 2025 Jun 17;NA(NA).
+year: '2025'
+pub_date: 2025-6-17
+epub_date: 2025-6-17
+doi: 10.1101/2025.06.16.659935
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- pluripotency
+- epiblast
+- YAP1
+- QSER1
+- 2D-gastruloids
+- Nodal signaling
+- Wnt signaling
+---

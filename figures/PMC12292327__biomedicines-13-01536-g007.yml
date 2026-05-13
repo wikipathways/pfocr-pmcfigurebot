@@ -1,0 +1,33 @@
+---
+figid: PMC12292327__biomedicines-13-01536-g007
+pmcid: PMC12292327
+image_filename: jpg
+figure_link: /pmc/articles/PMC12292327/figure/F7/
+number: Figure 7
+figure_title: GO and KEGG enrichment analysis for hub genes.
+caption: GO and KEGG enrichment analysis for hub genes. (A) Bar chart depicting the
+  results of GO and KEGG pathway enrichment analyses of hub genes, categorized into
+  biological processes (BP), cellular components (CC), molecular functions (MF), and
+  KEGG pathways. The x-axis represents GO and KEGG terms. (B–E) Network diagrams illustrating
+  the GO and KEGG enrichment analysis results for hub genes, with panels corresponding
+  to BP (B), CC (C), MF (D), and KEGG pathways (E). In these networks, light yellow
+  nodes represent enriched terms, orange nodes denote hub genes, the size of the black
+  nodes corresponds to the count value, with larger dots representing higher counts,
+  and connecting lines indicate their relationships. The screening criteria for GO
+  and KEGG enrichment analysis were adj.p < 0.05, FDR value (q value) < 0.235, and
+  the p-value correction method was Benjamini–Hochberg (BH)
+article_title: Integrating Bulk RNA and Single-Cell Sequencing Data Reveals Genes
+  Related to Energy Metabolism and Efferocytosis in Lumbar Disc Herniation
+citation: Lianjun Yang, et al. Biomedicines. 2025 Jul;13(7).
+year: '2025'
+pub_date: 2025-7-
+epub_date: 2025-6-24
+doi: 10.3390/biomedicines13071536
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- lumbar disc herniation
+- energy metabolism
+- efferocytosis
+---

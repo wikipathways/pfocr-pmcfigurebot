@@ -1,0 +1,49 @@
+---
+figid: PMC12704105__nihms-2117644-f0006
+pmcid: PMC12704105
+image_filename: jpg
+figure_link: /pmc/articles/PMC12704105/figure/F6/
+number: Fig. 6.
+figure_title: Exercise remodels AD-dysregulated pathways in mGCs
+caption: 'a, Average size of amyloid-beta plaques (3D6 staining) in dorsal DG sections
+  (APP/PS1-Sed n = 5, APP/PS1-Run n = 6, 3 section per animal; Two-tailed unpaired
+  t-test, *P = 0.0188). b, Scatter plot showing the correlation between AD and exercise
+  effects in mGCs. Each dot represents a statistically significant DEG in AD (WSvsAS).
+  Dots with black borders represent statistically significant DEGs with exercise in
+  AD mice (ASvsAR). The color gradient illustrates the recovery score (|logFC ASvsAR|).
+  The dot size represents the fraction of non-zero count nuclei in the AR group. c,
+  d, Dot plots showing recDEGs (c) and ‘rare’ recDEGs (d) in mGCs. In each, the hue
+  and size of the dot represent the mean expression and fraction of non-zero count
+  nuclei, respectively. e, f, Representative RNA images of DG showing Chgb puncta
+  (magenta, e) and Scg2 puncta (red, f) in mGCs in WT-Sed, APP/PS1-Sed and APP/PS1-Run.
+  Scale bar, 20μm. g, h, Quantification of Chgb punta (g) and Scg2 punta (h) in the
+  different groups. n = 2 biological independent animals. Kruskal-Wallis followed
+  by the Dunn’s test, Chgb: WSvsAS ****P < 0.0001, ASvsAR ***P = 0.0002, WSvsAR ****P
+  < 0.0001, Scg2: WSvsAS ****P < 0.0001, ASvsAR ****P < 0.0001, WSvsAR ****P < 0.0001.
+  i, j, Overlap between the mouse AD-dysregulated genes (mAPP/PS1) and their change
+  with running (mAPP/PS1-Run) from the present data set with snRNA-seq data from human
+  parietal cortex excitatory neurons of sporadic AD (hAD) or AD autosomal dominant
+  (APP and PSEN1, hADAD) in Brase et al., 2023. LogFC, calculated in comparison to
+  healthy age-matched controls (hAD and hADAD), sedentary WT mice (mAPP/PS1), or sedentary
+  AD mice (mAPP/PS1-Run), are color-coded and listed for each gene and comparison.
+  Bold logFC indicates statistically significant adjusted p values. k, Immediate early
+  genes mean expression and the fraction of cells expressing the genes in mGCs. Violin
+  plots show the median (middle bold line) and upper and lower quartiles (lighter
+  dotted lines) of biologically independent samples'
+article_title: Protective exercise responses in the dentate gyrus of Alzheimer’s disease
+  mouse model revealed with single-nucleus sequencing
+citation: Joana F. da Rocha, et al. Nat Neurosci. 2025 Jul;28(7).
+year: '2025'
+pub_date: 2025-7-
+epub_date: 2025-6-12
+doi: 10.1038/s41593-025-01971-w
+journal_title: Nature neuroscience
+journal_nlm_ta: Nat Neurosci
+publisher_name: .na.character
+keywords:
+- Exercise
+- Alzheimer’s disease
+- hippocampus
+- neurogenesis
+- neuroinflammation
+---

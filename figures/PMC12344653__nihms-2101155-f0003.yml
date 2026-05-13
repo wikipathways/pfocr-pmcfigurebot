@@ -1,0 +1,36 @@
+---
+figid: PMC12344653__nihms-2101155-f0003
+pmcid: PMC12344653
+image_filename: jpg
+figure_link: /pmc/articles/PMC12344653/figure/F2/
+number: Figure 2.
+figure_title: Reconstruction of the biosynthetic pathway for glycosaminoglycans (GAGs)
+  using GlycoMaple.
+caption: Reconstruction of the biosynthetic pathway for glycosaminoglycans (GAGs)
+  using GlycoMaple. (A) Analysis of GAG content in recombinant decorin, biglycan,
+  and fibromodulin. Purified proteins were untreated or treated with 0.5 U/mL of chondroitinase
+  ABC or 7 U/mL of heparanase III for 2 h at 37 °C. (B) GAG biosynthetic pathway in
+  suspension-adapted HEK293-F. Reaction arrows are scaled and color-coded based on
+  the normalized gene expression (transcripts per million; TPM) of the governing enzymes
+  analyzed by RNA-Seq If several enzymes have overlapping function in a reaction,
+  the maximum TPM value among the values of overlapped genes was used. When several
+  gene products make a complex for a reaction, the minimum TPM value of the subunit
+  genes was used. GAG structures are drawn using the standard symbol nomenclature
+  for glycans (SNFG). (C) Analysis of pathways for additional modification of chondroitin
+  sulfate and dermatin sulfate in 293-F
+article_title: Recombinant Small Leucine-Rich Proteoglycans Modulate Fiber Structure
+  and Mechanical Properties of Collagen Gels
+citation: Serafina G. Lopez, et al. ACS Biomater Sci Eng. 2025 Jul 14;11(7).
+year: '2025'
+pub_date: 2025-7-14
+epub_date: 2025-6-13
+doi: 10.1021/acsbiomaterials.5c00732
+journal_title: ACS biomaterials science & engineering
+journal_nlm_ta: ACS Biomater Sci Eng
+publisher_name: .na.character
+keywords:
+- proteoglycans
+- SLRP
+- collagen
+- fiber
+---

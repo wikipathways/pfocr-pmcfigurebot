@@ -1,0 +1,40 @@
+---
+figid: PMC12292200__biomolecules-15-00942-g003
+pmcid: PMC12292200
+image_filename: jpg
+figure_link: /pmc/articles/PMC12292200/figure/F3/
+number: Figure 3
+figure_title: SnRNA-seq reveals NTG-induced microglia heterogeneity and distinct functions
+  of each subtype.
+caption: 'SnRNA-seq reveals NTG-induced microglia heterogeneity and distinct functions
+  of each subtype. (A) UMAP visualization of 5 distinct microglia subtypes (M1–M5)
+  pooled across groups, with each point representing an individual nucleus colored
+  by subcluster identity. (B) Condition-specific microglia distribution shown in separate
+  UMAP plots for CON (left) and NTG (right) groups. (C) Heatmap of subtype proportion
+  alterations quantified by Ro/e ratio analysis. +++, Ro/e > 1; ++, 0.8 < Ro/e ≤ 1;
+  +, 0.2 ≤ Ro/e ≤ 0.8. (D) Compositional changes of microglia subtypes between conditions.
+  Stacked bars represent normalized cell proportions (total = 1). (E) Heatmap of top
+  10 DEGs across microglia subtypes. Rows represent genes; columns represent clusters.
+  Color scale shows z-scored expression (dark yellow: upregulated; dark purple: downregulated).
+  (F) Top 5 enriched KEGG pathways identified through GSVA analysis, showing a subtype-specific
+  or shared functional signature'
+article_title: Single-Nucleus Transcriptomics Reveals Glial Metabolic–Immune Rewiring
+  and Intercellular Signaling Disruption in Chronic Migraine
+citation: Shuangyuan Hu, et al. Biomolecules. 2025 Jul;15(7).
+year: '2025'
+pub_date: 2025-7-
+epub_date: 2025-6-28
+doi: 10.3390/biom15070942
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- chronic migraine
+- single-nucleus transcriptomics
+- trigeminal nucleus caudalis
+- astrocytes
+- microglia
+- glial heterogeneity
+- pseudotime trajectory
+- ligand–receptor signaling
+---

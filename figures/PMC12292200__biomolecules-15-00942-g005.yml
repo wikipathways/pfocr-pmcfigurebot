@@ -1,0 +1,38 @@
+---
+figid: PMC12292200__biomolecules-15-00942-g005
+pmcid: PMC12292200
+image_filename: jpg
+figure_link: /pmc/articles/PMC12292200/figure/F5/
+number: Figure 5
+figure_title: NTG-induced astrocytic heterogeneity and expansion of distinct reactive
+  subtypes.
+caption: NTG-induced astrocytic heterogeneity and expansion of distinct reactive subtypes.
+  (A) UMAP visualization of six transcriptionally distinct astrocytic subclusters
+  (A1–A6). (B) Separate UMAP plots show astrocyte distribution in CON (left) and NTG
+  (right) groups. (C) Ro/e ratios quantify the enrichment or depletion of each astrocyte
+  subtype in NTG relative to CON. +++, Ro/e > 1; ++, 0.8 < Ro/e ≤ 1; +, 0.2 ≤ Ro/e
+  ≤ 0.8. (D) Stacked bar plot displays the relative abundance of astrocytic subtypes
+  between groups, highlighting the expansion of A2 and A4 under NTG. (E) Heatmap of
+  top ranked genes delineates the molecular identity and specialization of each subtype.
+  (F) GSVA-based KEGG pathway enrichment showing the top five functional pathways
+  associated with each astrocytic subtype
+article_title: Single-Nucleus Transcriptomics Reveals Glial Metabolic–Immune Rewiring
+  and Intercellular Signaling Disruption in Chronic Migraine
+citation: Shuangyuan Hu, et al. Biomolecules. 2025 Jul;15(7).
+year: '2025'
+pub_date: 2025-7-
+epub_date: 2025-6-28
+doi: 10.3390/biom15070942
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- chronic migraine
+- single-nucleus transcriptomics
+- trigeminal nucleus caudalis
+- astrocytes
+- microglia
+- glial heterogeneity
+- pseudotime trajectory
+- ligand–receptor signaling
+---

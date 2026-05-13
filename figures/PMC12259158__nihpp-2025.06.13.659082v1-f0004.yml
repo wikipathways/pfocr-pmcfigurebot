@@ -1,0 +1,37 @@
+---
+figid: PMC12259158__nihpp-2025.06.13.659082v1-f0004
+pmcid: PMC12259158
+image_filename: jpg
+figure_link: /pmc/articles/PMC12259158/figure/F4/
+number: Figure 4.
+figure_title: PHICS 11 disrupts BCR-ABL signaling pathway
+caption: a Inhibition of BCR-ABL downstream signaling. K562 cells were treated with
+  either PHICS 11 (1 μM) or its control 10 (2 μM), and pSTAT5, pERK, and pCKRL were
+  measured relative to the respective total protein level. b Activation of pro-apoptotic
+  pathways. Immunoblotting after 70-hour incubation with either PHICS 11 (1 μM) or
+  its control 10 (2 μM) is shown. Immunoblotting experiments in a and b were measured
+  in at least three independent replicates, and a single representative example is
+  shown. c Global transcriptomic analysis in K562 cells treated with DMSO, 10, 11,
+  or asciminib. Equal number of genes scoring the highest p-values for each comparison
+  are shown. d PCA plot for gene expression analysis. Cluster A is formed by 11 and
+  asciminib, while cluster B is formed by DMSO and 10. Gene expression was analyzed
+  across four independent biological replicates
+article_title: Phosphorylation-inducing chimera rewires oncogenic kinase to trigger
+  apoptosis
+citation: Manuel L. Merz, et al. bioRxiv. 2025 Jun 13;12(4).
+year: '2025'
+pub_date: 2025-6-13
+epub_date: 2025-6-13
+doi: 10.1101/2025.06.13.659082
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- BCR-ABL
+- PHICS
+- phosphorylation
+- induced proximity
+- event-driven pharmacology
+- resistance development
+- CRISPR-suppressor scanning
+---

@@ -1,0 +1,53 @@
+---
+figid: PMC12258984__nihpp-2025.06.06.658239v1-f0004
+pmcid: PMC12258984
+image_filename: jpg
+figure_link: /pmc/articles/PMC12258984/figure/F4/
+number: Figure 4.
+figure_title: Proteomic profiling identifies pro-cancer pathways impacted by the secretome
+  of HIV-1 infected immune cells
+caption: (A) Bar plots showing the number of differentially expressed proteins (DEP)
+  in cervical cells stimulated with secretome of HIV-infected primary CD4+ T-cells
+  isolated from two healthy donors compared to uninfected controls. The DEPs were
+  determined based on |log2FC| > 1 and p < 0.05 cutoffs.(B) Cartoon illustrating the
+  closeness of the molecular pathways associated with the DEPs and known procervical
+  cancer genes (i.e., genes commonly altered in TCGA cervical cancer Pancancer cohort)
+  within a larger biological network such as Pathway Commons network.(C) Jitter plots
+  comparing the median network propagation heats for the 460 proteins upregulated
+  in cervical cells stimulated with secretome of HIV-infected immune cells versus
+  the medians for size-matched random nodes sampled 1000 times from each of the network
+  propagation outputs. Separate diffuse heat network propagation of the top 460 protein
+  up, CN-Amp or mutated genes from TCGA cervical cancer Pancancer cohort was performed
+  using Pathway Commons for base network. The median network propagation heat of the
+  460 upregulated proteins and that of 460 random nodes sampled 1000 times were plotted
+  for each of the three network propagations performed. The p-value of the upregulated
+  cervical cell proteins per genetic alteration was calculated by first ranking the
+  median heats then dividing the position of the upregulated proteins by the number
+  of randomizations (i.e., 1000 times). Network propagation outputs are provided in
+  Table S5.(D) A dummy biological network generated from the upregulated proteins
+  using Pathway Commons for base network. The network was clustered into 22 subnetworks.
+  See Figure S3 for the actual network.(E) Bar plots highlighting the top five canonical
+  pathways associated with cluster 18 of the network in (D). This bar plot was obtained
+  from a GSOA performed on the subnetwork clusters from D. The p-values were calculated
+  by hypergeometric test with multiple hypothesis testing correction (FDR). An enrichment
+  heatmap highlighting the top three canonical pathway terms associated with all the
+  22 subnetwork clusters is provided as Figure S4. A complete set of enriched biological
+  pathways are provided in Table S6.(F) The subnetwork cluster associated with MAPK
+  signaling extracted from the bigger network in Figure S3 annotated from Pathway
+  Commons network
+article_title: Paracrine Signals from HIV-1 Infected Immune Cells Reprogram Cervical
+  Cancer Pathways
+citation: Charles Ochieng’ Olwal, et al. bioRxiv. 2025 Jun 07;NA(NA).
+year: '2025'
+pub_date: 2025-6-07
+epub_date: 2025-6-07
+doi: 10.1101/2025.06.06.658239
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- HPV/HIV coinfection
+- MAPK and PI3K signaling
+- Network propagation
+- HPV-associated cervical cancer
+---

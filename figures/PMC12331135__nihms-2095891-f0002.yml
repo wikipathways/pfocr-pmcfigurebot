@@ -1,0 +1,37 @@
+---
+figid: PMC12331135__nihms-2095891-f0002
+pmcid: PMC12331135
+image_filename: jpg
+figure_link: /pmc/articles/PMC12331135/figure/F2/
+number: Fig. 2 |
+figure_title: ALSP OLs display a unique signature
+caption: a, UMAP plots of OLs (re-cluster from the Oligo cluster in Fig. 1a) from
+  control individuals (N = 13) and individuals with ALSP (N = 6); n = 21,449 nuclei
+  in control individuals, and n = 32,817 nuclei in individuals with ALSP. b, UMAP
+  plots of expression of feature genes in the OL subsets. c, Donut plots showing nuclei
+  distribution of each OL subset in control or ALSP samples. d, Volcano plot depicting
+  DEGs in ALSP versus control OLs. e, Box plots showing the expression level of selected
+  DEGs in OLs from controls and individuals with ALSP. P values were calculated by
+  two-sided Wilcoxon rank-sum test. f, Venn diagram of overlapping genes commonly
+  upregulated in ALSP OLs and OLs from human Alzheimer’s disease (AD) and multiple
+  sclerosis (MS) datasets. g, UMAP plots of the expression of selected genes in the
+  OL subsets split by conditions. h, UMAP plots of gene module scores of genes related
+  to FGF pathway (PID, Pathway Interaction Database) and MAPK signaling pathway (KEGG,
+  Kyoto Encyclopedia of Genes and Genomes). i, UMAP plots showing the distribution
+  of different subsets of OL-lineage cells. j, Monocle3 analysis showing the predicted
+  trajectory of the OL-lineage subsets. The starting cluster was set at the OPC subset.
+  k, Heat map depicting Pearson correlation coefficients of the top 20 ligands driving
+  the signatures of the Oligo4 subset predicted by NicheNet. l, Violin plots of expression
+  of FGF1, FGF2, FGFR1 and FGFR2 in different cell types between the diseased conditions
+article_title: Mutations in the human CSF1R gene impact microglia’s maintenance of
+  brain white matter integrity
+citation: Siling Du, et al. Nat Immunol. 2025 Jul;26(7).
+year: '2025'
+pub_date: 2025-7-
+epub_date: 2025-6-26
+doi: 10.1038/s41590-025-02195-7
+journal_title: Nature immunology
+journal_nlm_ta: Nat Immunol
+publisher_name: .na.character
+keywords: []
+---

@@ -1,0 +1,50 @@
+---
+figid: PMC12258984__nihpp-2025.06.06.658239v1-f0003
+pmcid: PMC12258984
+image_filename: jpg
+figure_link: /pmc/articles/PMC12258984/figure/F3/
+number: Figure 3.
+figure_title: Transcriptome profiling of participant samples identifies cancer-related
+  genes perturbed by HIV-1 infection
+caption: (A) Bar plots summarizing the number of differentially expressed genes (DEGs)
+  in HIV-infected women across different cervical statuses. The DEGs were based on
+  a cutoff of |log2FC| > 2 and p < 0.05.(B) Cartoon illustrating the closeness of
+  the molecular pathways associated with the DEGs and known procervical cancer genes
+  (i.e., genes commonly altered in TCGA cervical cancer Pancancer cohort) within a
+  larger biological network such as Pathway Commons network.(C) Jitter plots comparing
+  the median network propagation heats for the 884 genes upregulated in HIV-infected
+  women with NC versus the medians for size-matched random nodes sampled 1000 times
+  from each of the network propagation outputs. Separate diffuse heat network propagation
+  of the top 884 mRNA up, CN-amplified or mutated genes from TCGA cervical cancer
+  Pancancer cohort was performed using Pathway Commons for base network. The median
+  propagation heat of the 884 NC upregulated genes and that of 884 random nodes sampled
+  1000 times were plotted per network propagation. The p-value of the NC up genes
+  per genetic alteration was calculated by first ranking the median heats then dividing
+  the position of the NC up genes by the number of randomizations (i.e., 1000 times).
+  Network propagation outputs are provided in Table S3.(D) Venn diagram showing the
+  number of genes upregulated in both the HIV-positive NC group and participants listed
+  in the TCGA cervical cancer Pancancer study cohort.(E) Heatmap showing the top three
+  canonical pathways associated with each of the subnetwork clusters from a network
+  generated from overlapping genes in (D) above. The gene-set overrepresentation analysis
+  was performed for the network subclusters. The p-values were calculated by hypergeometric
+  test with multiple hypothesis testing correction (false discovery rate; FDR). A
+  complete set of enriched biological pathways is provided in Table S4.(F) The subnetwork
+  clusters associated with pro-cancer pathways, such as mitosis and MAPK signaling,
+  are highlighted. A complete network with all the six subnetwork clusters is shown
+  in Figure S2
+article_title: Paracrine Signals from HIV-1 Infected Immune Cells Reprogram Cervical
+  Cancer Pathways
+citation: Charles Ochieng’ Olwal, et al. bioRxiv. 2025 Jun 07;NA(NA).
+year: '2025'
+pub_date: 2025-6-07
+epub_date: 2025-6-07
+doi: 10.1101/2025.06.06.658239
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- HPV/HIV coinfection
+- MAPK and PI3K signaling
+- Network propagation
+- HPV-associated cervical cancer
+---

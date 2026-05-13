@@ -1,0 +1,39 @@
+---
+figid: PMC12360278__nihms-2098428-f0005
+pmcid: PMC12360278
+image_filename: jpg
+figure_link: /pmc/articles/PMC12360278/figure/F5/
+number: Fig. 5.
+figure_title: Sex-specific proteomic differences in human epilepsy.
+caption: Sex-specific proteomic differences in human epilepsy. (A) Principal component
+  analysis (PCA) of the overall dataset. PCA of epileptic female (F-E, red) and epileptic
+  male (M-E, blue) cases shows similar protein expression profiles. Each point represents
+  an individual case. (B) PC1 and PC2 bar plots indicate no significant separation
+  between F-E and M-E cases. (C) Volcano plot displays protein expression differences
+  for all identified proteins. Proteins highlighted in red showed significantly altered
+  expression when comparing F-E and M-E cases. Significance was determined using Student’s
+  t-test. P-values for significantly altered proteins are provided in the Supplementary
+  Table 1. (D) Heatmap of scaled protein expression values (z-scores), color-coded
+  according to the legend on the right, for significantly changed proteins used in
+  clustering analysis. (E) Expression levels of selected proteins of interest with
+  significant sex-specific differences. Each point represents an individual case.
+  *p < 0.05; **p < 0.01; ***p < 0.001. (F) KEGG pathway analysis of significantly
+  altered proteins. The top 10 pathways are shown
+article_title: Sex-specific proteomic analysis of epileptic brain tissues from Pten
+  knockout mice and human refractory epilepsy
+citation: Yibo Li, et al. Exp Neurol. 2025 Oct;392(NA).
+year: '2025'
+pub_date: 2025-10-
+epub_date: 2025-6-24
+doi: 10.1016/j.expneurol.2025.115361
+journal_title: Experimental neurology
+journal_nlm_ta: Exp Neurol
+publisher_name: .na.character
+keywords:
+- Epilepsy
+- Proteomics
+- hippocampus
+- Pten
+- Sex
+- Cortex
+---

@@ -1,0 +1,34 @@
+---
+figid: PMC12266945__nihms-2092694-f0006
+pmcid: PMC12266945
+image_filename: jpg
+figure_link: /pmc/articles/PMC12266945/figure/F5/
+number: Figure 5.
+figure_title: Clustering analyses unveil a distinct β cell hypersecretory response
+  signature
+caption: (A) Weighted gene co-expression network analysis (WGCNA) of the unfiltered
+  transcriptomics dataset.(B) Module eigengene (ME) values for modules that have similar
+  kinetics between SW and Tg (black), different kinetics (yellow), or opposite directional
+  effects (royalblue and turquoise). Data are the mean ± SD of n = 3.(C) Directed
+  network analysis of MEs with their top enriched ontology shown and colored by their
+  kinetics and effect directions. Edges connecting the nodes are colored by positive
+  (red) or negative (blue) correlation, and thickness indicates the magnitude of the
+  correlation, with thicker edges showing stronger relationships.(D) Dirichlet process-Gaussian
+  process (DPGP) clustering analysis.(E) UpSet plot comparison of all WGCNA modules
+  and DPGP clusters. The overlap between SW_DPGP_cluster_3 and the royalblue module
+  is highlighted in light blue. These two sets were merged and analyzed by GO biological
+  process (inset).(F) Select genes for the ERAD pathway show differential expression
+  dynamics between SW and Tg. Values shown are transcripts per million (TPMs) from
+  RNA-seq data (N = 3).See also Figure S5
+article_title: VDAC1 is a target for pharmacologically induced insulin hypersecretion
+  in β cells
+citation: Gitanjali Roy, et al. Cell Rep. 2025 Jun 24;44(6).
+year: '2025'
+pub_date: 2025-6-24
+epub_date: 2025-6-11
+doi: 10.1016/j.celrep.2025.115834
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

@@ -1,0 +1,44 @@
+---
+figid: PMC12236693__nihpp-2025.06.30.662463v1-f0005
+pmcid: PMC12236693
+image_filename: jpg
+figure_link: /pmc/articles/PMC12236693/figure/F5/
+number: Figure 5.
+figure_title: Coarse-grained SNARE fusogens generate entropic forces that drive membrane
+  fusion along the same pathway as that for model rod-like fusogens.
+caption: 'Coarse-grained SNARE fusogens generate entropic forces that drive membrane
+  fusion along the same pathway as that for model rod-like fusogens. (A) Entropic
+  forces (blue arrows) push seven SNAREs outwards into a ring, squeeze vesicles into
+  a flat interface, nucleate a stalk at the interface edge, expand the stalk into
+  a HD, and rupture the HD for fusion (see also Fig. S7A). (B) Top: Fusion is catalyzed
+  by local membrane thinning (green arrows) by TMDs with staple beads (black arrows).
+  Bottom: Thinning is abolished with mutants having neutral staples. No hemifusion
+  or fusion occurred in ~ 40 ms simulation. (C) Total pre-hemifusion squeezing force
+  and pressure versus number of SNAREs (n = 10 simulations for each value). (D) Mean
+  radial entropic force per SNARE during unhemifused and stalk phases (n = 10 simulations,
+  seven SNAREs). (E) Mean first hemifusion and fusion times versus number of SNAREs.
+  (F) Cumulative waiting time distributions for (E) (n = 30 simulations per distribution).
+  (G) Mean number of reversible stalks during ~ 2 ms of simulation versus number of
+  SNAREs (n = 30 simulations per value). (H) Mean irreversible hemifusion-to-fusion
+  time versus number of SNAREs (among ~ 2ms simulations where fusion occurred). (I)
+  Fusion time distribution for seven SNAREs (see Fig. S9). Error bars: SEM for (E),
+  (H); SD for (C), (G). Shaded regions in (F): 95% confidence intervals. SDs in (D):
+  31.3 pN (unhemifused), 35.1 pN (stalk)'
+article_title: Why are so many fusogens rod-shaped?
+citation: Ioana C. Butu, et al. bioRxiv. 2025 Jul 03;NA(NA).
+year: '2025'
+pub_date: 2025-7-03
+epub_date: 2025-7-03
+doi: 10.1101/2025.06.30.662463
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Membrane fusion
+- fusogen
+- SNARE
+- entropic force
+- cell-cell fusion
+- Biological Sciences
+- Biophysics and Computational Biology
+---

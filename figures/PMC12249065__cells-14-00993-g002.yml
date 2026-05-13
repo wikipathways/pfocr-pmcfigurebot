@@ -1,0 +1,36 @@
+---
+figid: PMC12249065__cells-14-00993-g002
+pmcid: PMC12249065
+image_filename: jpg
+figure_link: /pmc/articles/PMC12249065/figure/F2/
+number: Figure 2
+figure_title: Transcriptomic profiling of drug response-associated pathways in osteosarcoma.
+caption: Transcriptomic profiling of drug response-associated pathways in osteosarcoma.
+  (A) This panel presented the GO enrichment analysis of the differentially expressed
+  genes (DEGs). It highlighted key biological processes, molecular functions, and
+  cellular compartment associated with drug response in osteosarcoma. (B) REACTOME
+  pathway enrichment analysis of DEGs. (C) Protein–protein interaction (PPI) network
+  visualized using Cytoscape, where nodes are color-coded by fold-change levels (darker
+  violet indicates higher fold-changes). (D) Hub genes obtained from the PPI network
+  were identified using MCODE, showing the most significant module (MCODE score =
+  11.42). (E) Functional enrichment and pathway analysis of the hub genes in panel
+  (D) were visualized using ClueGO. (F) The second significant module identified by
+  MCODE (MCODE score = 6.0). (G) Functional enrichment and pathway analysis of the
+  hub genes in panel (F) were visualized using ClueGO
+article_title: The Cholesterol Biosynthesis Pathway Plays an Important Role in Chemotherapeutic
+  Drug Response and Metastasis in High-Grade Osteosarcoma
+citation: Amonnat Sukhamwang, et al. Cells. 2025 Jul;14(13).
+year: '2025'
+pub_date: 2025-7-
+epub_date: 2025-6-29
+doi: 10.3390/cells14130993
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- osteosarcoma
+- transcriptomics
+- RNA-seq
+- cholesterol biosynthesis
+- drug resistance
+---

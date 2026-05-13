@@ -1,0 +1,27 @@
+---
+figid: PMC12266945__nihms-2092694-f0005
+pmcid: PMC12266945
+image_filename: jpg
+figure_link: /pmc/articles/PMC12266945/figure/F4/
+number: Figure 4.
+figure_title: Time-course temporal transcriptomics uncovers differential effects of
+  hypersecretion and ER stress
+caption: (A) MIN6 β cells treated with DMSO (0.1%), SW (5 μM), or Tg (100 nM) for
+  1, 2, 6, and 24 h. n = 3.(B) Time-course edgeR analysis results showing overlap
+  of differentially expressed genes (DEGs) between Tg and SW.(C) Heatmaps showing
+  selected pathways containing DEGs that were significant in SW, Tg, or both. Asterisks
+  inside heatmap cells indicate FDR < 0.05 for treatment vs. DMSO for that time point.
+  Asterisks to the right of each gene row indicate significance (FDR < 0.05) across
+  the entire time course vs. baseline.See also Figure S4
+article_title: VDAC1 is a target for pharmacologically induced insulin hypersecretion
+  in β cells
+citation: Gitanjali Roy, et al. Cell Rep. 2025 Jun 24;44(6).
+year: '2025'
+pub_date: 2025-6-24
+epub_date: 2025-6-11
+doi: 10.1016/j.celrep.2025.115834
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

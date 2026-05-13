@@ -1,0 +1,69 @@
+---
+figid: PMC12270207__nihpp-rs6771517v1-f0008
+pmcid: PMC12270207
+image_filename: jpg
+figure_link: /pmc/articles/PMC12270207/figure/F8/
+number: Figure 8
+figure_title: P2rx7 deficiency suppresses the activation of DNA-sensing/IFN signaling
+  in microglia by reducing EV-mediated secretion of toxic mitochondrial molecules
+  in mice with tauopathy
+caption: a, Volcano plot showing the regulation of mitochondrial proteins in BDEVs
+  from PS19 and PS19/P2rx7−/− mice (n= 5 mice per group). b, Single-molecule fluorescence
+  analysis of TFAM on Pan-tetra+ EVs (CD63/CD81/CD9) was performed at the single-EV
+  level via the CODI platform from ONI (n= 4 mice per group; two-way ANOVA with Holm–Šidák
+  post hoc analysis). c, qPCR quantification of mtDNA (D-loop) in BDEVs normalized
+  to WT-EVs (top) or EV particles (bottom) (n= 7 WT mice, n= 10 PS19 mice and n= 5
+  PS19/P2rx7−/− mice; Kruskal–Wallis test with Wilcoxon test post hoc analysis). d,
+  3D rendering of p-S65-Ub/IBA1 colocalized intensity measurements in the DG hippocampus
+  area using Imaris (n= 5 WT mice, n= 5 PS19 mice, n= 5 PS19/P2rx7−/− mice; one-way
+  ANOVA with Holm–Šidák post hoc analysis). e, Schematic of PS19, PS19/P2rx7−/− BDEV
+  or saline injection into the cortex and hippocampus of 9.5-month-old WT mice followed
+  by microglia sorting and RNA-seq. f, Principal component analysis (PCA) of the transcriptome
+  of microglia isolated from WT mice injected with BDEVs or saline (n= 5 saline, n=
+  5 PS19 BDEVs and n= 4 PS19/P2rx7−/− BDEVs). g, Volcano plot showing DEGs regulated
+  in microglia isolated from WT mice injected with PS19/P2rx7−/− BDEVs versus those
+  injected with PS19 BDEVs (n= 5 PS19 BDEVs and n= 4 PS19/P2rx7−/− BDEVs, q-value
+  < 0.05). h, Heatmap comparison of the top 10 pathways significantly regulated in
+  microglia from WT mice injected with PS19 BDEVs (P < 0.05). i, Heatmap showing microglial
+  regulation of the components of type II interferon (IFN) signaling, cytosolic DNA-sensing
+  and proteasome degradation pathways by PS19-EVs and PS19/P2rx7−/− BDEVs. j, Schematic
+  summary of the contribution of the microglia-P2RX7-EV axis to tau pathology. The
+  accumulation of phosphorylated tau aggregates leads to the disruption of neuronal
+  function (1). Degenerative neurons can promote the activation of glial cells (2),
+  especially microglia expressing P2rx7, through the sustained release of ATP (3).
+  Mitochondrial dysfunction can result from a high demand for energy, high levels
+  of ROS generation and unpaired mitochondrial quality control induced by tau pathology,
+  leading to mtDNA leakage and the secretion of mitochondrial-derived vesicles (MDVs)
+  and EVs containing damaged molecules (4). EVs containing damaged mitochondrial molecules
+  activate the inflammatory signaling response in microglia via the recognition of
+  damage-associated molecular patterns (DAMPs; e.g., mtDNA and oxidized proteins)
+  by cytosolic sensors associated with the innate immune response (5). Microglia are
+  phagocytic cells that can uptake and secrete p-tau into the extracellular environment
+  through EVs, a mechanism exacerbated during inflammation, contributing to tau propagation
+  (6). P2rx7 deficiency improves mitochondrial quality control mechanisms and reduces
+  the amount of mitochondrial cargo in EVs secreted in the brain parenchyma of tauopathy
+  mice, resulting in fewer toxic EVs, lowering the inflammatory response from microglia
+  and reducing the propagation of pathological tau originated from neurons (7). Taken
+  together, these findings indicate that P2RX7 plays an important role in mediating
+  microglial EV secretion, the inflammatory response and tau propagation in tau pathology
+  models. All bar graphs represent the mean ± SEM; *P < 0.05, **P < 0.01 and ****P
+  < 0.0001
+article_title: P2RX7 regulates tauopathy progression via tau and mitochondria loading
+  in extracellular vesicles
+citation: Tsuneya Ikezu, et al. Res Sq. 2025 Jun 23;NA(NA).
+year: '2025'
+pub_date: 2025-6-23
+epub_date: 2025-6-23
+doi: 10.21203/rs.3.rs-6771517/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords:
+- Alzheimer’s disease
+- extracellular vesicles
+- microglia
+- microtubule-associated protein tau
+- mitochondria
+- tauopathy
+- P2X purinoceptor 7
+---

@@ -1,0 +1,35 @@
+---
+figid: PMC12262448__nihpp-2025.06.20.660720v2-f0001
+pmcid: PMC12262448
+image_filename: jpg
+figure_link: /pmc/articles/PMC12262448/figure/F1/
+number: Figure 1.
+figure_title: Design and workflow of the Cas12a-based GBS genetic toolkit
+caption: 'Plasmid maps and workflows of the Cas12a-based genetic toolkit for Group
+  B Streptococcus. The two shuttle vectors—pGBSedit (encoding wild-type Cas12a) and
+  pGBScrispri (encoding catalytically inactive dCas12a)—carry a Pxyl/tet-inducible
+  promoter upstream of the cas12a/dcas12a gene, a constitutive TetR repressor, and
+  an Esp3I-flanked protospacer insertion site; pGBSedit also includes a unique XhoI
+  site for cloning homology arms. Three experimental protocols are illustrated: (1)
+  homology-directed repair mutagenesis, in which an editing template directs precise
+  genomic insertions or deletions followed by anhydrotetracycline (aTC) selection;
+  (2) template-less mutagenesis, where Cas12a-induced double-strand breaks are repaired
+  via the native alternative end-joining pathway to generate variable indels; and
+  (3) inducible CRISPR interference, in which dCas12a binding to the target locus
+  upon aTC induction leads to targeted gene knockdown'
+article_title: A Cas12a Toolbox for Rapid and Flexible Group B Streptococcus Genomic
+  Editing and CRISPRi
+citation: GH Hillebrand, et al. bioRxiv. 2025 Jun 24;124(5).
+year: '2025'
+pub_date: 2025-6-24
+epub_date: 2025-6-24
+doi: 10.1101/2025.06.20.660720
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Group B Streptococcus
+- genome editing
+- Cas12a
+- CRISPRi
+---

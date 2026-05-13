@@ -1,0 +1,29 @@
+---
+figid: PMC12224536__nihpp-2025.06.19.660369v1-f0006
+pmcid: PMC12224536
+image_filename: jpg
+figure_link: /pmc/articles/PMC12224536/figure/F6/
+number: Figure 6.
+figure_title: Male and female mice infected with MERS-CoV display both dose- and sex-dependent
+  differences in their response to infection
+caption: Lung samples were collected from hDPP4 mice infected MERS-CoV on days 1–5
+  post-infection. Samples were subjected to RNA-seq followed by data processing and
+  differential expression (DE) analysis. DE genes (p < 0.05, log2FC > |1.5|) were
+  mapped using bar-coded volcano plotting (A) and multidimensional scaling (B). DE
+  genes were uploaded to Ingenuity Pathway Analysis (IPA) to functionally analyze
+  the impact of sex on upstream transcription factors (C) and canonical pathways (D)
+  related to pathogenesis. IPA analyzes were conducted using a significance threshold
+  of p < 0.01 and a Z-score ≥ |2|. 2–4 female or male hDPP4 mice were used per time
+  point per dose group
+article_title: Sex bias determines MERS-CoV infection outcomes in a mouse model of
+  differential pathogenicity
+citation: Marin R. Habbick, et al. bioRxiv. 2025 Jun 19;NA(NA).
+year: '2025'
+pub_date: 2025-6-19
+epub_date: 2025-6-19
+doi: 10.1101/2025.06.19.660369
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

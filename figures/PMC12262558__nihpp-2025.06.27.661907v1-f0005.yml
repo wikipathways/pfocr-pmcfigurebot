@@ -1,0 +1,33 @@
+---
+figid: PMC12262558__nihpp-2025.06.27.661907v1-f0005
+pmcid: PMC12262558
+image_filename: jpg
+figure_link: /pmc/articles/PMC12262558/figure/F5/
+number: Figure 5.
+figure_title: Strain-specific transcriptional responses in bystander cells.
+caption: 'Strain-specific transcriptional responses in bystander cells. (A) Bar plot
+  showing the number of significantly differentially expressed genes (DEGs) between
+  EV-D68 strains 18952 and 23089 across bystander neurons, astrocytes, cycling astrocytes,
+  and OPCs. DEGs were defined as adjusted p-value < 0.05 and log2FC > 0.25. B–D).
+  Volcano plots displaying DEGs between 23089- and 18952-exposed bystander cells in
+  neurons (B), astrocytes (C), and cycling astrocytes (D). Genes upregulated in strain
+  23089 are shown in green, and those upregulated in strain 18952 are in orange; non-significant
+  genes are shown in gray. Dashed lines indicate significance thresholds (adjusted
+  p = 0.05 and log2FC = ±0.25). (E) Bar plot showing normalized enrichment scores
+  (NES) from GSEA of OPC Oligo. bystander cells, comparing transcriptional profiles
+  between strains 23089 and 18952. Despite the absence of individual DEGs meeting
+  significance, GSEA revealed pathway-level differences. Bars are colored by the direction
+  of enrichment: green for pathways enriched in 23089 and orange for pathways enriched
+  in 18952'
+article_title: Strain-Specific Tropism and Transcriptional Responses of Enterovirus
+  D68 Infection in Human Spinal Cord Organoids
+citation: Nathânia Dábilla, et al. bioRxiv. 2025 Jun 27;16(NA).
+year: '2025'
+pub_date: 2025-6-27
+epub_date: 2025-6-27
+doi: 10.1101/2025.06.27.661907
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

@@ -1,0 +1,44 @@
+---
+figid: PMC12236796__nihpp-2025.06.29.660399v2-f0005
+pmcid: PMC12236796
+image_filename: jpg
+figure_link: /pmc/articles/PMC12236796/figure/F5/
+number: 'Figure 5:'
+figure_title: Loss of GLI3 chromatin binding regulates cell cycle exit downstream
+  of high Wnt activity
+caption: '(A) FISH image of E13.5 wildtype skin showing Gli3 expression prior to SHH.
+  (B) Heat map of GLI3 binding at all transcriptional start sites (TSS) in E13.5 control
+  or Actβcat mutant skin. (C) KEGG pathway analysis of GLI3 unbound regions in the
+  Actβcat mutant. (D) Western blot of cell lysates from control of Actβcat mutant
+  stained for anti-Flag (Gli3) or b-actin. (E) FISH of E14.5 control and Gli3 cKO
+  for indicated genes or EdU; quantification of #Sox2+ cells per DC and Cdkn1a transcript
+  levels by skin population. (F) FISH images of E13.5 control and Gli3 cKO with indicated
+  genes or EdU; Quantification of Cdkn1a transcripts or %EdU by population after 1-hour
+  EdU pulse or after 24-hour pulse-chase. (G) GT analysis of E13.5 Gli3 cKO showing
+  an Exit GT. (H) Volcano plot of differentially expressed genes in the Gli3 cKO vs
+  control and those genes that overlap with GLI3 unbound genes in the Actβcat mutant
+  (blue); genome browser tracks showing binding signal of respective antibodies at
+  the promoter region of indicated genes. (I) Label transfer of E14.5 Actβcat Exit
+  GT onto indicated mutant scRNA-seq data. (J) Cartoon showing model of mechanism
+  by which high Wnt activity induces cell cycle exit. Data as mean± SEM; *P<0.05,
+  **P<0.01, ***P<0.001, ****P<0.0001, one-way ANOVA; ns, not significant; scale bars,
+  50 μm. Related to Figure S5'
+article_title: Interaction of Wnt and SHH gradients synchronizes cell cycle exit and
+  differentiation
+citation: Ruiqi Li, et al. bioRxiv. 2025 Jul 01;NA(NA).
+year: '2025'
+pub_date: 2025-7-01
+epub_date: 2025-7-01
+doi: 10.1101/2025.06.29.660399
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Hair follicle
+- dermal condensate
+- scRNA-sequencing
+- Wnt
+- Hedgehog
+- skin
+- dermis
+---

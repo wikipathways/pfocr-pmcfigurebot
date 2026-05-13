@@ -1,0 +1,24 @@
+---
+figid: PMC12333904__nihms-2097277-f0005
+pmcid: PMC12333904
+image_filename: jpg
+figure_link: /pmc/articles/PMC12333904/figure/F5/
+number: Figure 5.
+figure_title: Traversing the ADK sequence-catalysis landscape through mutational walks
+  and “extra-dimensional bypasses”
+caption: |-
+  (A) A graph showing mutational pathways of swapping the chelating cysteine tetrad into the H-Bond lid of ecADK. Nodes represent variants along the pathway, with their kcat value encoded by color. Dashed lines connect variants that are one mutation away from each other. Dashed circles represent variants with KM fit outside of the bounds of the assay. Fully swapping the ecADK H-Bond LID for gsADK’s Zn2+-binding LID is shown as an arrow. (B) A graph showing mutational pathways of swapping the hydrogen-bond motif into the Zn2+ lid of gsADK. Nodes represent variants along the pathway, with their kcat value encoded by color. Dashed lines connect variants that are one mutation away from each other. Dashed circles represent variants with KM fit outside of the bounds of the assay. Fully swapping the gsADK Zn2+-binding LID for ecADK’s H-Bond LID is shown as an arrow. Empty circles represent variants that expressed poorly or displayed activity below the limit of detections and are not connected by edges in the graph. (C)
+  kcat and KM are plotted for LID chimeras of ocADK. Error bars represent standard deviation across biological replicates. The lower detection limit for kcat is plotted as a black dashed line. The bsADK LID chimera displayed activity below the lower limit of detection and is marked with an asterisk. Shortened organism names are used for brevity; full names are provided in Table S1. (D)
+  kcat and KM are plotted for LID chimeras of ddADK. Error bars represent standard deviation across biological replicates. The lower detection limit for kcat is plotted as a black dashed line. The ecADK LID chimera exhibited a KM below the lower bound of the assay and is marked with an asterisk. Shortened organism names are used for brevity; full names are provided in Table S1. (E) Barplot of kcat for consensus sequences, with error bars representing standard deviation across biological replicates. The lidless consensus sequence did not exhibit activity above background
+article_title: Evolutionary-scale enzymology enables exploration of a rugged catalytic
+  landscape
+citation: Duncan F. Muir, et al. Science. 2025 Jun 12;388(6752).
+year: '2025'
+pub_date: 2025-6-12
+epub_date: 2025-6-12
+doi: 10.1126/science.adu1058
+journal_title: Science (New York, N.Y.)
+journal_nlm_ta: Science
+publisher_name: .na.character
+keywords: []
+---

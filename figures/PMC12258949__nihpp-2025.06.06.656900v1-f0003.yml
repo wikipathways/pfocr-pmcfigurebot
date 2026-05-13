@@ -1,0 +1,43 @@
+---
+figid: PMC12258949__nihpp-2025.06.06.656900v1-f0003
+pmcid: PMC12258949
+image_filename: jpg
+figure_link: /pmc/articles/PMC12258949/figure/F3/
+number: 'Figure 3:'
+figure_title: GO and KEGG analysis of FDR P value significant miRNAs in the LBD versus
+  AD comparison
+caption: 'GO and KEGG pathway analyses were performed via DIANA miRPath v4.0 using
+  the TarBase v8.0 database. FDR P values were calculated using a one-sided Fisher’s
+  exact test. The top 10 (ranked by number of target genes) terms within each of the
+  three GO categories (BP, CC, MF) and top 10 (ranked by number of target genes) KEGG
+  pathways were identified for each pulldown. (A) Top 10 terms within each GO category
+  for GluR2+ EV miRNAs. (B) Top 10 KEGG pathways for GluR2+ EV miRNAs. (C) Top 10
+  terms within each GO category for GLAST+ EV miRNAs. (D) Top 10 KEGG pathways for
+  GLAST+ EV miRNAs. In all panels, each bar is labeled to the right with the number
+  of differentially expressed miRNAs associated with the given GO term or KEGG pathway.
+  Abbreviations: LBD, Lewy body disease; AD, Alzheimer’s disease; EV, extracellular
+  vesicle; FDR, false discovery rate; GO, Gene Ontology; KEGG, Kyoto Encyclopedia
+  of Genes and Genomes; BP, biological process; CC, cellular component; MF, molecular
+  function'
+article_title: Brain-derived extracellular vesicle microRNAs in Lewy body and Alzheimer’s
+  disease
+citation: Stephanie J. Yang, et al. bioRxiv. 2025 Jun 09;3(1).
+year: '2025'
+pub_date: 2025-6-09
+epub_date: 2025-6-09
+doi: 10.1101/2025.06.06.656900
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Alzheimer’s disease
+- Lewy body disease
+- neurodegenerative dementia
+- extracellular vesicles
+- microfluidics
+- plasma biomarkers
+- neuron
+- astrocyte
+- microRNA
+- protein biomarkers
+---

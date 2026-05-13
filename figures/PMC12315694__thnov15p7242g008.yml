@@ -1,0 +1,39 @@
+---
+figid: PMC12315694__thnov15p7242g008
+pmcid: PMC12315694
+image_filename: jpg
+figure_link: /pmc/articles/PMC12315694/figure/F8/
+number: Figure 8
+figure_title: Ligand-receptor (L-R) analysis revealed an intestinal interactome network.
+caption: Ligand-receptor (L-R) analysis revealed an intestinal interactome network.
+  (A) Number and strength of inferred interactions between the Ctrl and F group. (B)
+  Circos plot showing the difference between the Ctrl and F group in terms of communication
+  number and strength. Red indicates an increase in the F group, whereas blue indicates
+  a decrease in the F group. (C) Overall information flow of each signaling pathway
+  between the Ctrl and F groups. The top signaling pathways (p < 0.05) are labeled
+  blue (enriched in the fluoride-exposed intestine) and red (enriched in the normal
+  intestine). (D) Chord diagram showing the MHC-II signaling pathway network in the
+  F group. (E) Expression levels of receptor and ligand genes of the MHC-II signaling
+  pathway in the F group based on scRNA-seq. (F) Heat map of cells identified during
+  the MHC-II signaling pathway in the F group. (G) Contribution of L-R pairs to the
+  MHC-II signaling pathway. (H) Chord diagram showing the CCL signaling pathway network
+  in the F group. (I) Expression levels of receptor and ligand genes of the CCL signaling
+  pathway in the F group based on scRNA-seq. (J) Heat map of cells identified in the
+  CCL signaling pathway in the F group
+article_title: Single-cell RNA sequencing uncovers intestinal immune alterations and
+  cellular diversity from chronic fluoride exposure in mice
+citation: Jinge Xin, et al. Theranostics. 2025;15(15).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025-6-18
+doi: 10.7150/thno.116567
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+keywords:
+- MHC-Ⅱ signaling pathway
+- CCL signaling pathway
+- enterocyte
+- T cell
+- plasma cell expansion
+---

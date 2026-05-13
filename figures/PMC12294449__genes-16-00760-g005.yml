@@ -1,0 +1,41 @@
+---
+figid: PMC12294449__genes-16-00760-g005
+pmcid: PMC12294449
+image_filename: jpg
+figure_link: /pmc/articles/PMC12294449/figure/F5/
+number: Figure 5
+figure_title: Analysis of expression regulation in transcriptome and proteome derived
+  from bud and flowering stages of ‘Guichang’.
+caption: Analysis of expression regulation in transcriptome and proteome derived from
+  bud and flowering stages of ‘Guichang’. (A) A Venn diagram showing the overlap and
+  distinct features of expression regulation in transcriptome and proteome. “All_tran”
+  refers to all identified genes in the transcriptome, “diff_tran” refers to differentially
+  expressed genes, “all_prot” indicates all identified proteins in the proteome, and
+  “diff_prot” signifies differentially expressed proteins. This comparison helps identify
+  common and unique genes or proteins in each category. (B) Correlation analysis between
+  transcriptome and proteome expression levels. Each dot represents a protein, with
+  green dots indicating proteins showing significant differential expression and blue
+  dots representing proteins without significant differences. (C) The KEGG enrichment
+  analysis was conducted on metabolic pathways by integrating transcriptomic and proteomic
+  data. Genes or proteins are represented by boxes, where each box is divided. The
+  left part of the box presents the log2 fold change (log2FC) of the protein, and
+  the right part shows the log2FC of the transcript. Up-regulation is indicated by
+  red boxes, while down-regulation is indicated by green boxes
+article_title: AdBSK1-Mediated Hormone Signaling Regulates Flowering Transition in
+  Actinidia deliciosa ‘Guichang’
+citation: Lina Guo, et al. Genes (Basel). 2025 Jul;16(7).
+year: '2025'
+pub_date: 2025-7-
+epub_date: 2025-6-28
+doi: 10.3390/genes16070760
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- kiwifruit
+- ‘Guichang’
+- bud
+- flowering
+- transcriptomics
+- proteomics
+---

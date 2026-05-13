@@ -1,0 +1,36 @@
+---
+figid: PMC12259118__nihpp-2025.06.11.659008v1-f0004
+pmcid: PMC12259118
+image_filename: jpg
+figure_link: /pmc/articles/PMC12259118/figure/F4/
+number: 'Figure 4:'
+figure_title: Transcriptomic profiling reveals distinct molecular responses to HSV-1
+  and TBEV infection in COs
+caption: (A) Principal component analysis of transcriptomic data from WT iPSC-derived
+  COs harvested at D60 following 7-day infection with HSV-1 or TBEV and NTR controls.
+  Four individual organoids per cell line per condition were combined into 9 pooled
+  samples and analyzed. See also Table B for reference on a specific number of samples,
+  replicates, and cell line details used in these experiments. (B) Volcano plots displaying
+  DEGs (p.adj<0.1, log2FC>|0.5|) after HSV-1 (top) and TBEV (bottom) infection when
+  compared to non-infected controls. The top 20 significantly altered genes are labelled
+  with their gene name. (C) Top deregulated pathways enriched upon viral infection
+  (HSV-1, TBEV) based on DEGs. (D) Targeted pathway analysis of DEGs (WT HSV-1-infected
+  COs vs. corresponding non-infected controls) based on literature-defined AD-associated
+  mechanisms ([40–43]; Table E)
+article_title: Viral Infection Induces Alzheimer’s Disease-Related Pathways and Senescence
+  in iPSC-Derived Neuronal Models
+citation: Hana Hribkova, et al. bioRxiv. 2025 Jun 15;NA(NA).
+year: '2025'
+pub_date: 2025-6-15
+epub_date: 2025-6-15
+doi: 10.1101/2025.06.11.659008
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Cerebral organoids
+- Herpes virus
+- Tick-borne Encephalitis
+- Alzheimer’s disease
+- Senescence
+---

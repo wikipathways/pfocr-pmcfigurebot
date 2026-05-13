@@ -1,0 +1,46 @@
+---
+figid: PMC12295709__jof-11-00469-g002
+pmcid: PMC12295709
+image_filename: jpg
+figure_link: /pmc/articles/PMC12295709/figure/F2/
+number: Figure 2
+figure_title: Proteomic profiling of wild and cultivated O.
+caption: Proteomic profiling of wild and cultivated O. sinensis. (A) KEGG pathway
+  functional classification and annotation. (B) Cluster analysis of differential proteins,
+  where each column in the figure corresponds to a sample, and each row represents
+  a protein. The color gradient in the figure reflects the relative expression levels
+  of proteins within their respective sample groups. (C) Volcano plots present the
+  differences between the two groups, where the x-axis indicates the log2-fold change
+  in protein expression between the two samples, while the y-axis represents the −log10
+  (p-value) derived from the statistical test of protein expression differences. Both
+  axes have been subjected to logarithmic transformation for better visualization.
+  Each point in the plot corresponds to a specific protein, with leftward points indicating
+  down-regulated proteins and rightward points indicating up-regulated proteins. (D)
+  GO functional enrichment analysis, where the horizontal axis represents the GO term,
+  the vertical axis represents the enrichment rate, and the color gradient of the
+  columns indicates the significance of enrichment. Those with P or FDR < 0.001 are
+  marked with “***” and those with P or FDR < 0.01 are marked with “**”. (E) KEGG
+  pathway analysis of DEPs, where the x-axis denotes the enrichment rate, while the
+  y-axis indicates KEGG pathways. Each bubble in the figure corresponds to a specific
+  KEGG pathway, and the size of the bubble reflects the number of enriched proteins
+  in the protein cluster associated with that pathway. (F) PPI network analyses, where
+  red indicates the stronger interaction relationship between nodes, blue represents
+  the weaker one, while yellow and green denote the moderate interaction relationship
+article_title: Integrated Proteomics and Metabolomics Reveal Regulatory Pathways Underlying
+  Quality Differences Between Wild and Cultivated Ophiocordyceps sinensis
+citation: Chuyu Tang, et al. J Fungi (Basel). 2025 Jul;11(7).
+year: '2025'
+pub_date: 2025-7-
+epub_date: 2025-6-20
+doi: 10.3390/jof11070469
+journal_title: Journal of Fungi
+journal_nlm_ta: J Fungi (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- cultivated
+- metabolomics
+- Ophiocordyceps sinensis
+- proteomics
+- quality
+- wild
+---

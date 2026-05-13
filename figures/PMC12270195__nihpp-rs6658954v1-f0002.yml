@@ -1,0 +1,59 @@
+---
+figid: PMC12270195__nihpp-rs6658954v1-f0002
+pmcid: PMC12270195
+image_filename: jpg
+figure_link: /pmc/articles/PMC12270195/figure/F2/
+number: Figure 2.
+figure_title: Bacterial infection-associated proteome pathways in AD retina and cerebral
+  cortex
+caption: 'A-B. Gene ontology (GO) analysis of differentially expressed proteins (DEPs)
+  related to bacterial infection (A) in the cerebral temporal cortex and (B) in the
+  temporal hemi-retina from 2 separate cohorts of human donors with AD (brain: n =
+  10; retina: n = 6) versus NC (brain: n = 8; retina: n = 6) subjects. The analysis
+  was carried out in Metascape and included the Reactome, Kyoto Encyclopedia of Genes
+  and Genomes (KEGG) and WikiPathways (WikiPath) databases. Red arrows indicate the
+  shared pathways between brain and retina. Bar and symbol graphs represent z-scores
+  and Benjamini-Hochberg adjusted p-values from Metascape analysis, respectively.
+  Range of p-values are presented as color-coded symbols. C-D. Volcano plots display
+  the fold changes [log2(FC)] and significance level [-log10(p)] (C) in the cerebral
+  cortex and (D) in the retina of AD versus NC subjects for proteins known to interact
+  with Chlamydia inclusion membrane/vacuole. The list of human interacting proteins
+  (termed ‘Chlamydia interactome’) was extracted from 4 original studies and a meta-analysis
+  study and comprises 787 human proteins. Top 10 DEPs by FC upregulated (orange) and
+  downregulated (purple) interactors are shown. The highlighted proteins (5 downregulated:
+  AP2M1, RTN4, STT3B, TECR, TMED4; 5 upregulated: ATP6V1G1, BAG3, HSPB1, LRRFIP1,
+  TPM3) were found in both the temporal cortex and the retina (F). E. GO network (Metascape)
+  of enriched retinal pathways related to bacterial infection, immune response and
+  cell death, including the apoptotic mitochondrial collapse. The size of the nodes
+  represents the number of DEPs in AD versus NC retina, with the inner ring showing
+  the proportion of these DEPs that are downregulated (purple) or upregulated (orange)
+  in AD. The green border and its thickness represent the number of DEPs that interact
+  with Chlamydia inclusion in each pathway. The thickness of edges between nodes represents
+  the shared DEPs (association score) between pathways. Red asterisks indicate pathways
+  that were further explored and validated. F. Heatmaps of upregulated (orange) and
+  downregulated (purple) DEPs [−log10(p) and FC] in AD versus NC retina for selected
+  pathways. Only proteins connected to gram-negative bacterial infection (Metascape
+  analysis) and Chlamydia infection (Chlamydia interactome and literature) are shown
+  for each pathway. The heatmap on the left corresponds to the protein expression
+  level in the 6 NC individuals and the 6 AD patients, normalized by unit variance
+  scaling and generated in ClustVis. Clustering of DEPs was carried out manually based
+  on their involvement in selected pathways for visual clarity'
+article_title: Identification of Chlamydia pneumoniae and NLRP3 inflammasome activation
+  in Alzheimer’s disease retina
+citation: Bhakta Prasad Gaire, et al. Res Sq. 2025 Jun 26;17(NA).
+year: '2025'
+pub_date: 2025-6-26
+epub_date: 2025-6-26
+doi: 10.21203/rs.3.rs-6658954/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords:
+- Alzheimer’s disease
+- Chlamydia pneumoniae (Cp)
+- retina
+- gliosis
+- NLRP3 inflammasome
+- apoptosis
+- machine learning
+---

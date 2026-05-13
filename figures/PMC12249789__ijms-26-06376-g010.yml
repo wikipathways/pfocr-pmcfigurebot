@@ -1,0 +1,44 @@
+---
+figid: PMC12249789__ijms-26-06376-g010
+pmcid: PMC12249789
+image_filename: jpg
+figure_link: /pmc/articles/PMC12249789/figure/F10/
+number: Figure 10
+figure_title: Significant immune system pathways identified through gene set enrichment
+  analysis of the blood transcriptome.
+caption: 'Significant immune system pathways identified through gene set enrichment
+  analysis of the blood transcriptome. This bubble plot illustrates how Cx611 treatment
+  influences transcriptional pathways related to the immune system (based on the Reactome
+  knowledgebase) at each time point following initiation of Cx611 or placebo treatment.
+  To account for random baseline differences in gene expression between groups, the
+  differences at each time point are calculated using interaction terms between “Cx611”
+  and “time point” in linear mixed models, with the screening (SCR) time point (before
+  treatment) serving as the reference. Hence, these differences represent how gene
+  expression in one group differs from the other at each subsequent time point relative
+  to their pre-treatment levels. The differences are expressed as Normalized Enrichment
+  Scores (NES), depicted by color intensity: red indicates higher expression in the
+  Cx611 group, blue indicates lower expression, and grey signifies minimal difference.
+  The bubble size corresponds to the Benjamini–Hochberg (BH)-adjusted p value for
+  that pathway. Abbreviations: CLEC7A, C-type lectin domain family 7 member A; Fc,
+  fragment crystallizable region; FLT3, fms-related receptor tyrosine kinase 3; G-CSF,
+  granulocyte colony-stimulating factor; GM-CSF, granulocyte-macrophage colony-stimulating
+  factor; IFN, interferon; MAPK, mitogen-activated protein kinase; MHC, major histocompatibility
+  complex; NF-κB, nuclear factor kappa-light-chain-enhancer of activated B cells;
+  NIK, NF-κB-inducing kinase; NLR, nucleotide-binding domain leucine-rich repeat containing
+  receptor; PD-1, programmed death 1; TCR, T cell receptor; TNF, tumor necrosis factor.
+  (Reprinted without modifications from Reijnders et al. [25])'
+article_title: 'Clinical Safety and Efficacy of Allogeneic Adipose Stem Cells: A Systematic
+  Review of the Clinical Trials'
+citation: Alexandre Asch, et al. Int J Mol Sci. 2025 Jul;26(13).
+year: '2025'
+pub_date: 2025-7-
+epub_date: 2025-7-02
+doi: 10.3390/ijms26136376
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- allogeneic adipose stem cells
+- regenerative medicine
+- ethics
+---

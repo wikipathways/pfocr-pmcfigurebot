@@ -1,0 +1,40 @@
+---
+figid: PMC12292200__biomolecules-15-00942-g004
+pmcid: PMC12292200
+image_filename: jpg
+figure_link: /pmc/articles/PMC12292200/figure/F4/
+number: Figure 4
+figure_title: Pseudotemporal dynamics of NTG-induced microglial activation and fate
+  determination.
+caption: Pseudotemporal dynamics of NTG-induced microglial activation and fate determination.
+  (A) Trajectory reconstruction revealing bifurcating differentiation paths. (B) Distribution
+  of microglial subtypes (M1–M5) projected along the trajectory. (C) Differentiation
+  potential inferred by CytoTRACE, with highest scores in M4 (root) cells. (D) Cell
+  state assignments across pseudotime. (E) Heatmap of dynamic gene expression along
+  the trajectory. (F) Comparison of pseudotime-defined cell state proportions between
+  CON and NTG groups. (G) Relative abundance of microglial subtypes within each pseudotime-defined
+  state. (H) Heatmap of branch-specific fate biases and their enriched functional
+  pathways. (I,J) Condition-specific trajectories for CON and NTG groups, with corresponding
+  gene expression patterns shown in heatmaps. (K,L) M1- and M2-like signature scores
+  among microglial subtypes. (M) No correlation observed between M1 and M2 signature
+  scores, indicating independent polarization trajectories
+article_title: Single-Nucleus Transcriptomics Reveals Glial Metabolic–Immune Rewiring
+  and Intercellular Signaling Disruption in Chronic Migraine
+citation: Shuangyuan Hu, et al. Biomolecules. 2025 Jul;15(7).
+year: '2025'
+pub_date: 2025-7-
+epub_date: 2025-6-28
+doi: 10.3390/biom15070942
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- chronic migraine
+- single-nucleus transcriptomics
+- trigeminal nucleus caudalis
+- astrocytes
+- microglia
+- glial heterogeneity
+- pseudotime trajectory
+- ligand–receptor signaling
+---

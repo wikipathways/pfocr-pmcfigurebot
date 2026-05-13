@@ -1,0 +1,44 @@
+---
+figid: PMC12360278__nihms-2098428-f0002
+pmcid: PMC12360278
+image_filename: jpg
+figure_link: /pmc/articles/PMC12360278/figure/F2/
+number: Fig. 2.
+figure_title: Proteomic differences in the hippocampus of Pten knockout (KO) and wildtype
+  (WT) mice.
+caption: 'Proteomic differences in the hippocampus of Pten knockout (KO) and wildtype
+  (WT) mice. (A) Principal component analysis (PCA) of Pten KO (red) and WT (blue)
+  groups, showing distinct clustering based on differentially expressed proteins.
+  Each data point represents an individual case. The PC2 bar plot indicates significant
+  separation between groups. (B) Volcano plot displays protein expression differences
+  for all identified proteins. Proteins highlighted in red showed significantly altered
+  expression in Pten KO mice compared to WT mice. Significance was determined using
+  Student’s t-test. P-values for significantly altered proteins are provided in the
+  Supplementary Table 1. (C) Heatmap of scaled protein expression values (z-scores),
+  color-coded according to the legend on the right, for significantly changed proteins
+  used in clustering analysis. (D) Gene Ontology (GO) analysis of significantly altered
+  proteins, including biological process (BP), cellular component (CC), and molecular
+  function (MF). The top 10 terms are shown. (E) KEGG pathway analysis of significantly
+  altered proteins. The top 20 pathways are shown. (F) Representative western blot
+  showing GFAP protein levels, along with quantification for WT (n = 9; females: n
+  = 5, males: n = 4) and Pten KO (n = 10; females: n = 5, males: n = 5) samples. Open
+  circles represent female data points; closed circles represent male data points.
+  *p < 0.05; **p < 0.01'
+article_title: Sex-specific proteomic analysis of epileptic brain tissues from Pten
+  knockout mice and human refractory epilepsy
+citation: Yibo Li, et al. Exp Neurol. 2025 Oct;392(NA).
+year: '2025'
+pub_date: 2025-10-
+epub_date: 2025-6-24
+doi: 10.1016/j.expneurol.2025.115361
+journal_title: Experimental neurology
+journal_nlm_ta: Exp Neurol
+publisher_name: .na.character
+keywords:
+- Epilepsy
+- Proteomics
+- hippocampus
+- Pten
+- Sex
+- Cortex
+---

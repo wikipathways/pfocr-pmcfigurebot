@@ -1,0 +1,39 @@
+---
+figid: PMC12262580__nihpp-2025.06.27.654312v1-f0008
+pmcid: PMC12262580
+image_filename: jpg
+figure_link: /pmc/articles/PMC12262580/figure/F8/
+number: Figure 8.
+figure_title: SGLT2 inhibition restores mitochondrial function and reduces inflammatory
+  signaling in aged killifish kidneys
+caption: (A) UMAP plot of single-nucleus RNA-seq data from aged SGLT2i-treated killifish
+  kidneys, showing conserved renal cell populations across conditions.(B) Venn diagram
+  depicting shared and condition-specific expressed genes; 385 genes were uniquely
+  detected in SGLT2i-treated aged samples, while 97 were unique to untreated aged
+  samples.(C) Bar plot showing relative proportions of major renal cell types. No
+  major differences were observed in endothelial and perivascular cells counts between
+  the SGLT2i group and the untreated group.(D) Heatmap displaying expression (Z-score)
+  of key inflammatory genes, including NF-κB, CRP, TNFα, and IL-6, which were downregulated
+  in treated kidneys.(F) Gene set enrichment analysis (GSEA) of major renal cell types
+  showing normalized enrichment scores (NES) for the top 10 gene sets combining biological
+  processes, molecular functions, and cellular components. Positive enrichment (blue)
+  highlights restored expression of mitochondrial and electron transport-associated
+  pathways in SGLT2i-treated animals, particularly in tubular, endothelial, and perivascular
+  cells
+article_title: SGLT2 Inhibition Ameliorates Age-Dependent Renovascular Rarefaction
+citation: Anastasia Paulmann, et al. bioRxiv. 2025 Jun 28;NA(NA).
+year: '2025'
+pub_date: 2025-6-28
+epub_date: 2025-6-28
+doi: 10.1101/2025.06.27.654312
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Renal Aging
+- Microvascular Rarefaction
+- SGLT2 Inhibition
+- Metabolic Shift
+- Cell–Cell Communication
+- African Turquoise Killifish
+---

@@ -1,0 +1,42 @@
+---
+figid: PMC12259118__nihpp-2025.06.11.659008v1-f0005
+pmcid: PMC12259118
+image_filename: jpg
+figure_link: /pmc/articles/PMC12259118/figure/F5/
+number: 'Figure 5:'
+figure_title: Secretome analysis reveals overlapping neurodegenerative and senescence-associated
+  responses to HSV-1 and TBEV infections in COs
+caption: (A) Principal component analysis of proteins secreted into media from WT
+  D60 and D100 COs following HSV-1 or TBEV infection and NTR controls. Four individual
+  organoids (=technical repetition) per cell line per condition, per timepoint were
+  measured separately and technical tetraplicates were pooled for analysis. See Supplementary
+  Methods and also Table B for reference on a specific number of samples, replicates,
+  and cell line details used in these experiments. (B) Volcano plots displaying DSPs
+  (p.adj<0.1, log2FC>|0.5|) after HSV-1 (top) and TBEV (bottom) infection at D60 and
+  D100 when compared to non-infected controls. The top 20 significantly altered genes
+  are labelled with their gene name. (C) UpSet plot of pathways deregulated and shared/not
+  shared across all datasets. (D) Top deregulated pathways (for each dataset) enriched
+  upon viral infection based on DSPs (HSV-1 infection is shown in color, TBEV in greyscale).
+  (E–F) DSPs (p.adj<0.1, log2FC>|0.5|) from the secretome datasets (HSV-1 and TBEV-infected
+  COs vs. their non-infected controls) on D60 (E) and D100 (F) were plotted against
+  each other, with the fitted line, Pearson’s correlation coefficient (r), and statistical
+  significance. The top 10 DSPs (up/down, based on weighted scores) are labelled with
+  protein/gene name. (G) Comparison of viral infection-induced secretome profiles
+  with the SASP atlas [36]
+article_title: Viral Infection Induces Alzheimer’s Disease-Related Pathways and Senescence
+  in iPSC-Derived Neuronal Models
+citation: Hana Hribkova, et al. bioRxiv. 2025 Jun 15;NA(NA).
+year: '2025'
+pub_date: 2025-6-15
+epub_date: 2025-6-15
+doi: 10.1101/2025.06.11.659008
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Cerebral organoids
+- Herpes virus
+- Tick-borne Encephalitis
+- Alzheimer’s disease
+- Senescence
+---

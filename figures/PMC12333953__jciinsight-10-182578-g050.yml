@@ -1,0 +1,46 @@
+---
+figid: PMC12333953__jciinsight-10-182578-g050
+pmcid: PMC12333953
+image_filename: jpg
+figure_link: /pmc/articles/PMC12333953/figure/F4/
+number: Figure 4
+figure_title: Metabolic alterations and emergence of an epithelial transitional state
+  in response to in vivo SftpcI73T expression
+caption: (A) Uniform manifold approximation and projection (UMAP) visualization of
+  35,002 lung cells profiled by scRNA-Seq in GSE234604 (56) color-coded by cell lineage
+  with subset analysis of 2,500 distal epithelial cells. (B) Gradient dot plot of
+  key distal epithelial genes used to annotate AT1 (cluster 1), AT2 (clusters 2, 4),
+  and transitional subclusters (clusters 3, 5). (C) Dendrogram of top 20 DEGs and
+  their associated log2FC for each cluster as determined by FDR. A subset of cluster-defining
+  genes is highlighted. (D) Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway
+  enrichment analysis of DEGs (FDR < 0.05, log2FC > 1 & <–1) in cluster 2 compared
+  with other clusters. (E) Gradient dot plot of KEGG pathway enrichment analysis of
+  upregulated DEGs (FDR < 0.05, log2FC > 1) across clusters. (F) Color-coded UMAPs
+  by genotype and time point and frequency table denoting cluster distributions within
+  biological samples. (G) Volcano plot of differential expression analysis (FDR <
+  0.05, log2FC > 1 or <–1) comparing the early (cluster 3) and late (cluster 5) transitional
+  clusters highlighting decreased expression of AT1 cell marker genes (Hopx, Ager,
+  Cav1, Pdpn, Aqp5) and increased expression of transitional cell marker genes (Cldn4,
+  Krt8, Krt18, Gdf15, Sppr1a) in the early transitional cell cluster. (H) Pseudotime
+  trajectory analysis with starting node set in the AT2 cell cluster. (I) Gradient
+  dot plot of indicated transitional state gene modules (Supplemental Table 1) (58,
+  60, 62–69) across distal epithelial clusters. (J) KEGG pathway module scores for
+  AMPK and PPAR signaling demonstrate progressive downregulation from the AT2 cell
+  cluster to transitional cell clusters
+article_title: Impaired AMPK control of alveolar epithelial cell metabolism promotes
+  pulmonary fibrosis
+citation: Luis R. Rodríguez, et al. JCI Insight. 2025 Jul 1;10(15).
+year: '2025'
+pub_date: 2025-7-1
+epub_date: 2025-7-1
+doi: 10.1172/jci.insight.182578
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Metabolism
+- Pulmonology
+- Adult stem cells
+- Fibrosis
+- Mitochondria
+---

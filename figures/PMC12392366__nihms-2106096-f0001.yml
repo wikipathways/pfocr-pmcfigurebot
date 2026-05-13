@@ -1,0 +1,44 @@
+---
+figid: PMC12392366__nihms-2106096-f0001
+pmcid: PMC12392366
+image_filename: jpg
+figure_link: /pmc/articles/PMC12392366/figure/F1/
+number: Fig. 1.
+figure_title: ER quality control (QC) pathways
+caption: 'The ER hosts a network of QC mechanisms that ensure proper protein folding
+  and maintain proteostasis. (1) Nascent proteins undergo folding and maturation with
+  the assistance of molecular chaperones and folding enzymes before proceeding along
+  the secretory pathway. Given the error-prone nature of protein folding and the high
+  demand for protein synthesis, the ER relies on several robust QC mechanisms, including
+  (2) ER-associated degradation (ERAD), (3) ER-phagy or ER-to-lysosome-associated
+  degradation (ERLAD), and (4) unfolded protein response (UPR). (2) ERAD identifies
+  misfolded or unassembled proteins, retrotranslocates them across the ER membrane,
+  and targets them for ubiquitin-proteasomal-mediated degradation. (3) ER-phagy or
+  ERLAD mediates the clearance of misfolded protein aggregates and/or damaged ER subdomains
+  via lysosomal degradation, particularly when substrates are resistant to ERAD. (4)
+  The UPR, triggered by activation of UPR sensors IRE1α, PERK or ATF6, aims to restore
+  ER homeostasis by attenuating protein translation, inducing chaperone expression,
+  and enhancing degradation pathways. Importantly, the UPR and ERAD pathways are functionally
+  interconnected: UPR signaling upregulates the expression of ERAD components, while
+  ERAD regulates UPR activity by mediating the degradation of key UPR sensors, such
+  as IRE1α and ATF6. Together, these pathways coordinate to fine-tune the ER folding
+  environment and preserve cellular proteostasis. Created in BioRender'
+article_title: SEL1L-HRD1-mediated ERAD in mammals
+citation: Huilun Helen Wang, et al. Nat Cell Biol. 2025 Jul;27(7).
+year: '2025'
+pub_date: 2025-7-
+epub_date: 2025-6-25
+doi: 10.1038/s41556-025-01690-1
+journal_title: Nature cell biology
+journal_nlm_ta: Nat Cell Biol
+publisher_name: .na.character
+keywords:
+- ER quality control
+- SEL1L-HRD1 ERAD
+- mouse models
+- disease variants
+- ENDI
+- cryo-EM, structure
+- function
+- substrates
+---

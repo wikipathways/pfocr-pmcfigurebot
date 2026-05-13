@@ -1,0 +1,42 @@
+---
+figid: PMC12262559__nihpp-2025.06.26.661693v1-f0003
+pmcid: PMC12262559
+image_filename: jpg
+figure_link: /pmc/articles/PMC12262559/figure/F3/
+number: 'Figure 3:'
+figure_title: The effect of Dox on multi-omic traits in the RIAILs
+caption: (a) Scatter plot showing the Dox effect on mRNA-protein pairs at the mRNA
+  level (x-axis) and protein level (y-axis). Overlapped up- and down-regulated genes
+  (adjusted p-value < 0.05, Log2(fold-change) > 0.5 or < −0.5) induced by Dox are
+  indicated by red and blue, respectively. Differential gene expression upon Dox treatment,
+  irrespective of strains. (b) Dot plot showing the enriched gene sets of overlapped
+  up- (indicated in red) and down-regulated genes (indicated in blue) upon Dox. (c)
+  Heatmap displays the changes of UPRmt-related proteins upon Dox. (d) Bar plot indicating
+  the impact of Dox on the metabolome. (e) Metabolite pathway enrichment analysis
+  of up- (36 metabolites, indicated in red) and down-regulated metabolites (35 metabolites,
+  indicated in blue) upon Dox. (f) The changes of metabolites that are involved in
+  glycine and serine metabolism, as well as methylhistidine metabolism. Log2FC is
+  represented by color and the -Log10(adj.P.Val) is shown by dot size and indicated
+  as * -Log10(adj.P.Val) < 0.05, ** -Log10(adj.P.Val) < 0.01, *** -Log10(adj.P.Val)
+  < 0.001. (g) Barplot indicating the impact of Dox on the lipidome. (h) Pie plots
+  showing the effect of Dox on PC, PE, TG, and DG lipid classes. (i) Dox effects on
+  the genes or proteins involved in the fatty acid beta oxidation. Log2FC is represented
+  by color and the -Log10(adj.P.Val) is shown by dot size and indicated as * -Log10(adj.P.Val)
+  < 0.05, ** -Log10(adj.P.Val) < 0.01, *** -Log10(adj.P.Val) < 0.001
+article_title: Genetic mapping of lifespan and mitochondrial stress response in C.
+  elegans
+citation: Xiaoxu Li, et al. bioRxiv. 2025 Jun 26;NA(NA).
+year: '2025'
+pub_date: 2025-6-26
+epub_date: 2025-6-26
+doi: 10.1101/2025.06.26.661693
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- C. elegans
+- UPRmt
+- systems genetics
+- multi-omics integration
+- aging
+---

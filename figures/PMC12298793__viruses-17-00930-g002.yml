@@ -1,0 +1,39 @@
+---
+figid: PMC12298793__viruses-17-00930-g002
+pmcid: PMC12298793
+image_filename: jpg
+figure_link: /pmc/articles/PMC12298793/figure/F2/
+number: Figure 2
+figure_title: GCRV-II triggers mitochondria-dependent apoptosis pathway in PBLs.
+caption: GCRV-II triggers mitochondria-dependent apoptosis pathway in PBLs. (A) Heatmap
+  analysis of phenotypic DEGs between GCRV and control group (data adjusted p < 0.01,
+  |log2FC| > 1; red, upregulated genes; green, downregulated genes). n = 3. (B) Top
+  20 KEGG pathways enriched for GCRV group by GSEA. The red arrow indicates the selected
+  pathways in Figure 2C. (C) Significantly enriched gene sets related to apoptosis
+  in GCRV group at 36 h post infection (NES, normalized enrichment score; FDR, false
+  discovery rate). (D) Heatmap analysis of phenotypic DEGs related to apoptosis pathway
+  (data adjusted p < 0.01, |log2FC| > 1; violet, upregulated genes; green, downregulated
+  genes). n = 3. (E) Relative mRNA levels of the mitochondria-mediated proapoptotic
+  genes in PBLs at 36 h post infection. n = 4. (F) TEM observation of the morphology
+  and ultrastructure of PBLs at 36 h post infection (N, nucleus; Mt, mitochondria).
+  Scale bar, 1 µm (original), 0.5 µm (enlarged). Data acquisition required two or
+  three independent tests (mean ± SEM). * p < 0.05, ** p < 0.01, *** p < 0.001. PBLs,
+  peripheral blood leukocytes; DEGs, differentially expressed genes; GSEA, gene-set
+  enrichment analysis; TEM, transmission electron microscope
+article_title: GCRV-II Triggers B and T Lymphocyte Apoptosis via Mitochondrial ROS
+  Pathway
+citation: Jie Wang, et al. Viruses. 2025 Jul;17(7).
+year: '2025'
+pub_date: 2025-7-
+epub_date: 2025-6-30
+doi: 10.3390/v17070930
+journal_title: Viruses
+journal_nlm_ta: Viruses
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- GCRV-II
+- apoptosis
+- Caspase-3
+- B and T lymphocytes
+- reactive oxygen species
+---

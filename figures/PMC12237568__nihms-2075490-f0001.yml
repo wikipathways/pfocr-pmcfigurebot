@@ -1,0 +1,47 @@
+---
+figid: PMC12237568__nihms-2075490-f0001
+pmcid: PMC12237568
+image_filename: jpg
+figure_link: /pmc/articles/PMC12237568/figure/F1/
+number: Figure 1.
+figure_title: DKK3 expression in pleural mesothelioma
+caption: (A) Reduced expression of DKK3 in epithelioid pleural mesothelioma. In the
+  epithelioid subtype histology of human pleural mesothelioma, a notable decrease
+  in DKK3 expression is observed. This reduction is linked to the hypermethylation
+  of the DKK3 promoter region. Epigenetic silencing of the DKK3 gene is evident in
+  The Cancer Genome Atlas (TCGA) mesothelioma dataset (N=73).(B) Validation of DKK3
+  expression patterns in pleural mesothelioma. Analysis of 211 pleural mesothelioma
+  tumor samples from the Brigham Women’s Hospital (BWH) cohort confirms lower DKK3
+  expression in epithelioid mesothelioma compared to non-epithelioid (biphasic or
+  sarcomatoid) histologic subtypes. A significant positive correlation is found between
+  DKK3 expression and the expression of B7 family immunoregulatory proteins, including
+  PD-L1, PD-L2, and CD276.(C) Intrinsic functional role of DKK3 in pleural mesothelioma.
+  We established a human DKK3 overexpressing cell line (hDKK3OE_AB1) using lentiviral
+  transfection. We compared mRNA (bulk RNA sequencing) and protein profiles (mass
+  spectrometry) between the control AB1 mesothelioma cell line and hDKK3OE_AB1 cell
+  line. Hallmark pathway enrichment analyses indicate a significant link between hDKK3
+  overexpression and the activation of p53 and glycolysis pathways.(D) Alterations
+  in the secretome of DKK3-overexpressing mesothelioma cells. hDKK3 overexpression
+  led to significant changes in the secretion of various proteins. Secretome analysis
+  revealed marked decreases in the secretion of Cd63, Cd81, and Tsg101 - key markers
+  of extracellular vesicles (EVs) - as well as Colony Stimulating Factor 1 (Csf1),
+  which is instrumental in promoting pro-tumoral M2-like macrophage polarization.(E)
+  Association of DKK3 overexpression with decreased EV release. The GeneSet enrichment
+  analysis (GSEA) showed that the secretomes induced by DKK3 overexpression are linked
+  to a reduced release of EVs. The EVs are known to enhance tumor invasion and metastasis,
+  promote immune escape, and stimulate TAMs to transform from M1-like to M2-like phenotype.
+  The EV signature used in the GSEA is based on the top 100 EV proteins from Vesiclopedia
+  2024 (http://microvesicles.org/extracellular_vesicle_markers)
+article_title: Ad-SGE-DKK3 Gene Therapy Overcomes Resistance to Immune Checkpoint
+  Blockade in Pleural Mesothelioma
+citation: Hee-Jin Jang, et al. Clin Cancer Res. 2025 Jul 01;31(13).
+year: '2025'
+pub_date: 2025-7-01
+epub_date: 2025-7-01
+doi: 10.1158/1078-0432.CCR-24-4024
+journal_title: 'Clinical cancer research : an official journal of the American Association
+  for Cancer Research'
+journal_nlm_ta: Clin Cancer Res
+publisher_name: .na.character
+keywords: []
+---

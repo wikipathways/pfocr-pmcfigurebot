@@ -1,0 +1,46 @@
+---
+figid: PMC12258984__nihpp-2025.06.06.658239v1-f0005
+pmcid: PMC12258984
+image_filename: jpg
+figure_link: /pmc/articles/PMC12258984/figure/F5/
+number: Figure 5.
+figure_title: HIV-1 infection alters pro-cancer signaling pathways at the gene and
+  protein levels
+caption: (A) Heatmap highlighting the canonical pathways from GSOA of significantly
+  upregulated proteins in cervical cells treated with secretome of immune cell infected
+  with HIV-1 and size-matched upregulated genes in WLWH with NC from proteomics and
+  transcriptome profiling, respectively. The numbers depict count of proteins mapping
+  to each canonical pathway term. Red numbers indicate a significant (adj.p value
+  < 0.05) enrichment whereas gray numbers indicate a non-significant enrichment. Background
+  color in the heatmap denotes the −log10adj.p values as shown on color bar. The p-values
+  were calculated by hypergeometric test with multiple hypothesis testing correction
+  (FDR). A complete set of enriched biological pathways are provided in Table S7.(B)
+  A heatmap comparing the log2FC of the genes enriched for diseases of signal transduction
+  in both the transcriptome and proteome data.(C) Heatmap depicting the canonical
+  pathways from GSOA of three subnetworks annotated from STRING network using genes
+  enriched for diseases of signal transduction in (B). The numbers depict count of
+  proteins mapping to each canonical pathway term. Red numbers indicate a significant
+  (adj.p value < 0.05) enrichment whereas gray numbers indicate a non-significant
+  enrichment. Background color in the heatmap denotes the −log10adj.p values as shown
+  on color bar). The p-values were calculated by hypergeometric test with multiple
+  hypothesis testing correction (FDR). A complete set of enriched biological pathways
+  are provided in Table S8.(D) Subnetworks of genes enriched for diseases of signal
+  transduction in (B and C) annotated from STRING network. The HIV and HPV proteins
+  were added based on viral-host protein-protein interactions generated in previous
+  affinity purification MS studies (38,39)
+article_title: Paracrine Signals from HIV-1 Infected Immune Cells Reprogram Cervical
+  Cancer Pathways
+citation: Charles Ochieng’ Olwal, et al. bioRxiv. 2025 Jun 07;NA(NA).
+year: '2025'
+pub_date: 2025-6-07
+epub_date: 2025-6-07
+doi: 10.1101/2025.06.06.658239
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- HPV/HIV coinfection
+- MAPK and PI3K signaling
+- Network propagation
+- HPV-associated cervical cancer
+---

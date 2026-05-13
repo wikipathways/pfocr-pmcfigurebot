@@ -1,0 +1,48 @@
+---
+figid: PMC12321389__jci-135-186135-g033
+pmcid: PMC12321389
+image_filename: jpg
+figure_link: /pmc/articles/PMC12321389/figure/F2/
+number: Figure 2
+figure_title: Skin and joint inflammation in Spry1-cKO mice exhibit hallmarks of psoriasis
+  and psoriatic arthritis
+caption: '(A) Percentages of immune cell subsets in ear skin from control and Spry1-cKO
+  mice determined by flow cytometry (n = 4). (B and C) Heatmap of selected genes based
+  on RNA-Seq data from epidermis (B) and dermis (C) of control and Spry1-cKO mice
+  (adjusted P < 0.05 and |log2FC| > 0.5, n = 3). (D) GSEA of upregulated or downregulated
+  DEGs in human psoriatic skin (GSE13355) on genes of mouse skin (epidermis plus dermis)
+  ranked by log2FC between Spry1-cKO and control mice. (E and F) GO pathway enrichment
+  of upregulated DEGs (Spry1-cKO vs. control) in epidermis (E) and dermis (F) (adjusted
+  P < 0.05). (G) Heatmap of selected cytokines in ear skin from control and Spry1-cKO
+  mice detected by Luminex assays (n = 4). (H and I) ELISA quantification of CRP (H)
+  and rheumatoid factor (RF) (I) in plasma from control and Spry1-cKO mice (n = 15).
+  (J and K) T2-weighted MRI (J) and micro-CT (K) images of paws from control and Spry1-cKO
+  mice. Red arrows indicate bone erosions; right, quantification of bone volume/total
+  volume (BV/TV) in erosion areas (n = 3). (L) Safranin O-Fast green staining of articular
+  cartilage in paws of control and Spry1-cKO mice. Scale bar: 100 μm. Right, quantification
+  of Safranin-O intensity (n = 4). (M) TRAP staining of osteoclasts in interphalangeal
+  joints of paws from control and Spry1-cKO mice (scale bar: 100 μm); boxed areas
+  are magnified below (scale bar: 50 μm); red arrows indicate TRAP+ osteoclasts. Right,
+  quantification of TRAP+ osteoclasts (n = 4). (N) Relative mRNA expression of genes
+  associated with PsA in periarticular tissue from control and Spry1-cKO mice (n =
+  4). (O) Heatmap of selected cytokines in periarticular tissue from control and Spry1-cKO
+  mice detected by Luminex assays (n = 4). Data are shown as mean ± SEM. P values
+  determined using 2-tailed unpaired Student’s t test (A, H, I, and K–N). *P < 0.05,
+  **P < 0.01, ***P < 0.001, ****P < 0.0001'
+article_title: CXCL10 secreted by SPRY1-deficient epidermal keratinocytes fuels joint
+  inflammation in psoriatic arthritis via CD14 signaling
+citation: Fan Xu, et al. J Clin Invest. 2025 Jun 5;135(15).
+year: '2025'
+pub_date: 2025-6-5
+epub_date: 2025-6-5
+doi: 10.1172/JCI186135
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Dermatology
+- Immunology
+- Arthritis
+- Chemokines
+- Macrophages
+---

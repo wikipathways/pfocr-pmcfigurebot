@@ -1,0 +1,39 @@
+---
+figid: PMC12765215__nihms-2127799-f0001
+pmcid: PMC12765215
+image_filename: jpg
+figure_link: /pmc/articles/PMC12765215/figure/F1/
+number: Fig. 1 |
+figure_title: Patient-tissue RABID-seq identifies ANXA1+ astrocytes in human GBM
+caption: a, Dataset schematic and volcano plot of DEGs detected in astrocytes by scRNA-seq
+  in a GBM cohort11; n = 392 astrocytes. b, Biological relevance score of astrocyte
+  DEGs from early- and late-recurring tumours, calculated according to the differential
+  expression and number of pathways affected by each gene. c, Astrocyte ANXA1 expression
+  in scRNA-seq GBM dataset showing time to recurrence. d,e, Representative images
+  of immunofluorescence analysis of three control (d) and three GBM tumours (e) at
+  the infiltrating tumour zone displaying ANXA1 expression in astrocytes. Scale bars,
+  25 μm. f, Quantification of ANXA1 expression in non-malignant astrocytes (n = 4
+  control non-diseased brain specimens; n = 4 GBM specimens). In total, n = 11,505
+  GBM-associated astrocytes and n = 7,755 control astrocytes were quantified. Data
+  show mean ± s.e.m. and P values calculated using unpaired two-sided Mann–Whitney
+  U-test. g, Schematic of ptRABID-seq to study clinical samples. h, UMAP plot of non-malignant
+  cells from organotypic GBM cultures analysed by ptRABID-seq (n = 1,520 cells). i,
+  Connectome captured by ptRABID-seq. Bands represent connections between two cell
+  types; band width corresponds to the number of connections detected. ANXA1 signature-positive
+  astrocytes are highlighted in the astrocyte–GBM band (n = 219 tumour cells and n
+  = 149 astrocytes). j, DEGs between ANXA1 signature-positive astrocytes and ANXA1
+  signature-negative astrocytes connected to GBM cells. k, Ingenuity pathway analysis
+  of the DEGs shown in j. Illustrations in a and g created in BioRender (Lee, J. https://BioRender.com/0bkvepw;
+  2025)
+article_title: Barcoded viral tracing identifies immunosuppressive astrocyte–glioma
+  interactions
+citation: Brian M. Andersen, et al. Nature. 2025 Aug;644(8078).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-6-25
+doi: 10.1038/s41586-025-09191-9
+journal_title: Nature
+journal_nlm_ta: Nature
+publisher_name: .na.character
+keywords: []
+---

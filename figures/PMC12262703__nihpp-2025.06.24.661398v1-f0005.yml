@@ -1,0 +1,38 @@
+---
+figid: PMC12262703__nihpp-2025.06.24.661398v1-f0005
+pmcid: PMC12262703
+image_filename: jpg
+figure_link: /pmc/articles/PMC12262703/figure/F5/
+number: Fig. 5.
+figure_title: Bulk striatum transcriptomics demonstrates blocking CAG expansion with
+  HTT co-silencing synergies to reverse HD neurodegenerative signature beyond either
+  treatment alone
+caption: '(a) Volcano plot of the differential gene expression analysis performed
+  using DESeq2 between 12-month-old vehicle (aCSF-NTC) Q111 versus WT mice. Red indicates
+  significant gene expression change. Significance determined by fold change > 1.5,
+  FDR < 0.05. (b) Gene ontology biological processes (GOBP) pathway enrichment of
+  the differentially expressed genes between vehicle Q111 and WT mice. (c-e) Overall
+  gene reversal percentage of Q111 mice treated with (c) HTT siRNA (d) MSH3 siRNA
+  or (e) MSH3+HTT siRNA combination compared to vehicle Q111 mice. Color indicates
+  the degree of reversal classified as full, partial, super, exacerbation, or negligible.
+  (f-i) Prevention, reversal, recuse (PuRR) classification of the degree of gene expression
+  reversal. Number of genes differentially expressed or reversed by siRNA treatment
+  in the (f) whole HD signature or (h) select STR266 HD signature genes across treatment
+  cohorts as defined by Marchionini et al. 202248. (g-i) classification of the degree
+  of reversal for the (g) whole HD signature or (i) STR266 top gene list. Degree of
+  gene expression reversal color coded as: Blue- full reversal (F-Rev); green- partial
+  reversal (P-Rev); orange- super reversal (S-Rev); red- exacerbation (Exac); gray-
+  negligible reversal (N-Rev). Transcriptomics performed on the same mouse cohorts
+  presented in Figures 1–3. N=9–12 mice per treatment group'
+article_title: Blocking somatic repeat expansion and lowering huntingtin via RNA interference
+  synergize to prevent Huntington’s disease pathogenesis in mice
+citation: Jillian Belgrad, et al. bioRxiv. 2025 Jun 25;NA(NA).
+year: '2025'
+pub_date: 2025-6-25
+epub_date: 2025-6-25
+doi: 10.1101/2025.06.24.661398
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

@@ -1,0 +1,45 @@
+---
+figid: PMC12262311__nihpp-2025.06.17.660196v1-f0006
+pmcid: PMC12262311
+image_filename: jpg
+figure_link: /pmc/articles/PMC12262311/figure/F6/
+number: 'Figure 6:'
+figure_title: Med14S983 controls beta cell plasticity and gene activation by Ex-4
+  in primary mouse islet tissue
+caption: '(A) Uniform manifold approximation and projection (UMAP) representation
+  of WT and Med14 S983A mutant pancreatic islets untreated (top) or treated for 16
+  hours with 10 nM Ex-4 (bottom). 2,500 nuclei are shown per sample. Cell Type annotations
+  are indicated.(B) Relative cell type composition per condition.(C) Volcano plot
+  comparing pseudobulk gene expression in WT and Med14 S983A mutant β cells. Relevant
+  differentially expressed genes (FC >= 1.5; P Adj. <= 0.05) are highlighted.(D) KEGG
+  pathway enrichment of differential genes in WT and Med14 S983A mutant β cells. Example
+  genes for each pathway are shown on the right.(E) Volcano plot comparing pseudobulk
+  gene expression by by Ex-4 (10 nM) in β cells (16 hours). Relevant differentially
+  expressed genes (FC >= 1.5; P Adj. <= 0.05) are highlighted.(F) Heatmap of genes
+  induced (left) and repressed (middle) by Ex-4. Relative expression in WT and Med14
+  S983A mutant beta cells is shown. Boxplots showing Log2 expression values of signal
+  shown in the heatmaps. * p < 10−27, ** p < 10−57 by two-tailed t-test.(G)KEGG pathway
+  enrichment of genes regulated by Ex-4 (10 nM) in WT β cells (16 hours). Example
+  genes for each pathway are shown on the right.(H) Overlap between genes significantly
+  induced in Med14 S983A mutant cells (WT CON/Med14 S983A CON: FC <= 1.5; P Adj. <=
+  0.05) and genes significantly induced by Ex-4 in WT cells (16 hours) (WT Ex-4/WT
+  CON: FC >= 1.5; P Adj. <= 0.05) (left). Overlap between genes significantly repressed
+  in Med14 S983A mutant cells (WT CON/Med14 S983A CON: FC >= 1.5; P Adj. <= 0.05)
+  and genes significantly repressed by Ex-4 in WT cells (16 hours) (WT Ex-4/WT CON:
+  FC <= 1.5; P Adj. <= 0.05) (right).(I) Enrichment of TF binding motifs in nucleosome-free
+  regions (nfr) of H3K27Ac decorated enhancers annotated to beta cell genes induced
+  by Ex-4 (16 hours). H3AcK27 ChIP data from whole primary mouse islet tissue (GEO:
+  GSM3604411).(J) Heatmap depicting expression of marker genes of beta cell subclass
+  enriched in adlib fed (left), high fat diet (HFD) fed (middle) and caloric restricted
+  (CR) (right) beta cells [44]'
+article_title: Med14 phosphorylation shapes genomic response to GLP-1 Agonist
+citation: Sam Van de Velde, et al. bioRxiv. 2025 Jun 23;123(10).
+year: '2025'
+pub_date: 2025-6-23
+epub_date: 2025-6-23
+doi: 10.1101/2025.06.17.660196
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

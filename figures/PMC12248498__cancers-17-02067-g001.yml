@@ -1,0 +1,46 @@
+---
+figid: PMC12248498__cancers-17-02067-g001
+pmcid: PMC12248498
+image_filename: jpg
+figure_link: /pmc/articles/PMC12248498/figure/F1/
+number: Figure 1
+figure_title: TOPK mediates solar UV-induced gene expression changes through multiple
+  signaling pathways.
+caption: 'TOPK mediates solar UV-induced gene expression changes through multiple
+  signaling pathways. (A) SKH-1 hairless mice were divided into four groups: wildtype
+  (WT) and TOPK knockout (KO) with or without solar simulated light (SSL) treatment.
+  At 24 h after 1 dose of SSL irradiation (149 kJ UVA/m2 and 7.2 kJ UVB/m2), dorsal
+  mouse skins were collected, and RNA samples were extracted for library construction
+  and sequencing. (B–E) The R package Limma (version 3.40.6) was used to identify
+  differences in gene expression between groups. To be considered relevant, gene expression
+  had to differ significantly (p < 0.05) and exhibit an absolute fold change of ≥2.
+  (F) Overlap between genes in SSL-treated TOPK vs. SSL-treated WT groups and genes
+  in SSL-treated WT vs. untreated WT groups. (G) Overlap between the genes in SSL-treated
+  TOPK KO vs. SSL-treated WT groups and genes in untreated TOPK KO vs. WT groups.
+  (H) Overlap between genes in SSL-treated TOPK KO vs. untreated TOPK groups and genes
+  in the SSL-treated WT vs. untreated WT groups. (I) Enrichment analysis revealed
+  that various signaling pathways were associated with the altered genes mediated
+  by TOPK in response to SSL treatment. These pathways include cytokine–cytokine receptor
+  interaction, calcium signaling, MAPK pathway, cAMP pathway, and several other signaling
+  pathways. The size of the circle represents the number of genes affected in the
+  pathway. For example, the cytokine–cytokine receptor interaction pathway had the
+  greatest number of genes affected by TOPK KO with SSL treatment. Also, the darker
+  the color, the lower the p-value'
+article_title: TOPK Drives IL19-Mediated Crosstalk Between Cancer Cells and Fibroblasts
+  to Promote Solar UV-Induced Skin Damage and Carcinogenesis
+citation: Asad U. Khan, et al. Cancers (Basel). 2025 Jul;17(13).
+year: '2025'
+pub_date: 2025-7-
+epub_date: 2025-6-20
+doi: 10.3390/cancers17132067
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- TOPK
+- RNAseq
+- IL19
+- keratinocytes
+- cSCC
+- fibroblast
+---

@@ -1,0 +1,47 @@
+---
+figid: PMC12259118__nihpp-2025.06.11.659008v1-f0006
+pmcid: PMC12259118
+image_filename: jpg
+figure_link: /pmc/articles/PMC12259118/figure/F6/
+number: 'Figure 6:'
+figure_title: PSEN1/2 mutant COs show similar acute molecular and secretory responses
+  to viral infection as WT organoids
+caption: (A) Schematic overview of the experimental design for infection of PSEN1/2
+  mutant COs with HSV-1 and TBEV at D60 and D100. (B) Representative immunofluorescence
+  images showing Aβ accumulation in PSEN1/2 mutant organoids at D60 and D100, with
+  or without viral infection. Scale bar = 50 μm. (C) Quantification large Aβ clusters
+  from images in (B) of a total of 173 CO sections. Data represent mean ± SEM. Statistical
+  significance was determined by an unpaired t-test; ****p<0.0001; n≥3. (D) Representative
+  Western blot analysis of full-length APP showing a band shift after HSV-1 infection.
+  (E) DEGs (p.adj<0.1, log2FC>|0.5|) from the transcriptomic datasets comparing WT
+  HSV-1 infected and PSEN1/2 mutant HSV-1 infected COs (relative to their non-infected
+  controls) were plotted against each other, with fitted line, Pearson’s correlation
+  coefficient (r), and statistical significance. The top 10 DEGs (up/down, based on
+  weighted scores) are labelled with gene names. (F) Senescence score calculated from
+  transcriptomic data using a machine learning-based algorithm. (G) Principal component
+  analysis of proteins secreted into media from PSEN1/2 mutant D60 and D100 COs following
+  HSV-1 or TBEV infection and NTR controls. Four individual organoids (=technical
+  repetition) per cell line per condition per timepoint were measured (72 single COs)
+  and technical tetraplicates were pooled for the analysis. (H) Top deregulated pathways
+  enriched upon HSV-1 or TBEV infection based on DSPs (infection in PSEN1/2 mutant
+  samples is shown in color, for WT in greyscale). (I) Proportion of secreted proteins
+  matching entries in the SASP atlas after infection. See also Table B for reference
+  on a specific number of samples, replicates, and cell line details used in these
+  experiments
+article_title: Viral Infection Induces Alzheimer’s Disease-Related Pathways and Senescence
+  in iPSC-Derived Neuronal Models
+citation: Hana Hribkova, et al. bioRxiv. 2025 Jun 15;NA(NA).
+year: '2025'
+pub_date: 2025-6-15
+epub_date: 2025-6-15
+doi: 10.1101/2025.06.11.659008
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Cerebral organoids
+- Herpes virus
+- Tick-borne Encephalitis
+- Alzheimer’s disease
+- Senescence
+---

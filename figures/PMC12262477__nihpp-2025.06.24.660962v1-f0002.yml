@@ -1,0 +1,42 @@
+---
+figid: PMC12262477__nihpp-2025.06.24.660962v1-f0002
+pmcid: PMC12262477
+image_filename: jpg
+figure_link: /pmc/articles/PMC12262477/figure/F2/
+number: Figure 2.
+figure_title: Validation of individual and iEC algorithms using macaque tract-tracing
+  data
+caption: 'a, Individual ECs were inferred from anesthetized macaque fMRI data, which
+  was parcellated into 40 regions defined by viral tracer injection sites. Optimal
+  β coefficients for each EC algorithm were derived from the training dataset (N =
+  9) by maximizing the correlation between integrated EC (iEC) and the fraction of
+  labeled neurons (FLN). Using median optimal βs, we constructed iEC from an independent
+  test dataset (N = 10) to assess generalizability. b, Box plot of optimal βs derived
+  from the training dataset. Boxes are color-coded by methodological families: dynamical
+  systems (blue) and graphical models (yellow). Three algorithms—VAR, FASK, and LiNGAM—demonstrated
+  notably higher β values (p<0.001 in one-tailed t-test, FDR-corrected), indicative
+  of significant contribution. c, Performance comparison of individual EC and iEC
+  algorithms. Two iEC variants were evaluated: one integrating all 9 algorithms and
+  another using only the three algorithms with statistically significant β values.
+  d, Analysis interpreting the enhanced performance of iEC. Data represent a single
+  macaque brain with median performance for iEC (top three), showing a correlation
+  of 0.56 with FLN. The FLN distribution exhibited a strong heavy-tail structure (right
+  vertical histogram), with the tail primarily captured by LiNGAM and even more so
+  by FASK (upper landscape histogram). In contrast, VAR primarily captured weaker
+  connections, which, despite their relative weakness, accounted for more than 50%
+  of the total connections. e, Connection polarity investigated via supragranular
+  labeled neurons (SLN). Connections were categorized into feedforward (FF) and feedback
+  (FB) pathways based on an unbiased SLN threshold of 0.5, and iEC values were profiled
+  separately for each pathway'
+article_title: In vivo cartography of state-dependent signal flow hierarchy in the
+  human cerebral cortex
+citation: Younghyun Oh, et al. bioRxiv. 2025 Jun 25;NA(NA).
+year: '2025'
+pub_date: 2025-6-25
+epub_date: 2025-6-25
+doi: 10.1101/2025.06.24.660962
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

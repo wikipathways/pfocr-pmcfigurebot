@@ -1,0 +1,36 @@
+---
+figid: PMC12292688__biomedicines-13-01532-g005
+pmcid: PMC12292688
+image_filename: jpg
+figure_link: /pmc/articles/PMC12292688/figure/F5/
+number: Figure 5
+figure_title: The flowchart of network pharmacology in MIRI.
+caption: The flowchart of network pharmacology in MIRI. The illustration shows a step-by-step
+  drug discovery workflow with a network pharmacology approach. It starts with data
+  acquisition, in which compound data are obtained based on the traditional system
+  of information (TSI) and modern/recent information (MI/RI), and then compound and
+  disease targets are identified through gene databases. These targets are subsequently
+  incorporated into the construction of the network to determine the shared targets
+  between the compounds and diseases, which is presented in a Venn diagram fashion.
+  The resulting network is thoroughly analyzed so as to identify important molecular
+  interactions and pathways. Lastly, the in silico predicted targets and interactions
+  undergo experimental verification to ascertain their therapeutic context
+article_title: 'Network Pharmacology Approaches to Myocardial Infarction Reperfusion
+  Injury: Exploring Mechanisms, Pathophysiology, and Novel Therapies'
+citation: Joy Das, et al. Biomedicines. 2025 Jul;13(7).
+year: '2025'
+pub_date: 2025-7-
+epub_date: 2025-6-23
+doi: 10.3390/biomedicines13071532
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- myocardial infarction
+- cardiac reperfusion injury
+- oxidative stress
+- calcium overload
+- mitochondrial dysfunction
+- molecular target
+- KEGG pathway analysis
+---

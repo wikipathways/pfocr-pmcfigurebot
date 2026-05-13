@@ -1,0 +1,50 @@
+---
+figid: PMC12236740__nihpp-2025.06.30.662346v1-f0007
+pmcid: PMC12236740
+image_filename: jpg
+figure_link: /pmc/articles/PMC12236740/figure/F6/
+number: Figure 6.
+figure_title: CtBP interacts with Prospero in EE cells
+caption: '(A) CtBP shares >30% of its genomic targets with Pros in EE cells. Comparison
+  of genomic target loci of CtBP and Pros, identified by EE cell-specific TaDa. (B)
+  Common targets of CtBP and Prospero include many regulators of the mTOR and Notch
+  pathways. CNET plot showing gene overlaps in the mTOR and Notch pathways among CtBP
+  and Pros targets identified by TaDa. Blue-colored nodes represent CtBP-specific
+  targets, while purple-colored nodes indicate genes co-regulated by CtBP and Pros.
+  (C) Conserved substrate-binding cleft mediates interaction between Drosophila CtBP
+  (dCtBP) and Prospero. AlphaFold2 multimer model of dCtBP (teal) bound to the Prospero
+  ALSLV motif (residues 1284–1288, orange) is shown superimposed with crystal structures
+  of human CtBP1 (hCtBP1, grey) bound to a canonical PIDLS motif (beige, PDB ID: 1HL3;
+  Nardini et al., 2003), and human CtBP2 (hCtBP2, cyan) bound to a non-canonical ALDLS
+  motif from RAI2 (PDB ID: 8ATI, cyan, Goradia et al., 2024). The zoomed-out view
+  displays the structural alignment of substrate-binding domains across dCtBP, hCtBP1,
+  and hCtBP2, highlighting motif engagement within the conserved PxDLS-binding cleft.
+  The zoomed-in view emphasizes the structural conservation of the CtBP binding pocket
+  and the similar configurations adopted by ALSLV, PIDLS, and ALDLS motifs, despite
+  sequence differences. A computational estimate of the change in free binding energy
+  (ΔΔG) identifies a phenylalanine-to-alanine mutation at position 53 in dCtBP (CtBPF53A)
+  as a key substitution predicted to significantly reduce binding (see also Supplementary
+  Figure 3C). Proteins are shown in cartoon representation, interacting residues as
+  sticks, and NAD as spheres. (D) Co-immunoprecipitation of ectopically expressed
+  FLAG-CtBP (CtBPWT) and HA-Pros (ProsWT) in Drosophila S2 cells confirms the ability
+  of CtBP to interact with Pros. The CtBP-Pros interaction is significantly reduced
+  by the CtBP F53A mutation, consistent with structural predictions. (E) Quantification
+  of the data is displayed as a percentage of Co-IP relative to CtBPWT and normalized
+  to the input (unpaired t-test *P < 0.03). (F) CtBP interacts with Pros in EE cells
+  as revealed by the Bimolecular Fluorescence Complementation (BiFC) assay. (G) CtBP-Pros
+  interaction is significantly inhibited by 2-DG feeding, but in contrast to CtBP-CtBP
+  interaction, it remains unaffected by NR feeding. Data are analyzed using the one-way
+  ANOVA with Kruskal-Wallis correction for not normal distribution, with *P < 0.02.
+  ns indicates no significant difference in the studied parameter'
+article_title: Metabolic control of enteroendocrine cell fate through a redox state
+  sensor CtBP
+citation: Bohdana M. Rovenko, et al. bioRxiv. 2025 Jul 02;NA(NA).
+year: '2025'
+pub_date: 2025-7-02
+epub_date: 2025-7-02
+doi: 10.1101/2025.06.30.662346
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

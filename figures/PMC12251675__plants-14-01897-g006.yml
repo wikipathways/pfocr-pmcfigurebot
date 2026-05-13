@@ -1,0 +1,53 @@
+---
+figid: PMC12251675__plants-14-01897-g006
+pmcid: PMC12251675
+image_filename: jpg
+figure_link: /pmc/articles/PMC12251675/figure/F6/
+number: Figure 6
+figure_title: Transcriptome analysis results and real-time PCR verification of differentially
+  expressed genes (DEGs).
+caption: 'Transcriptome analysis results and real-time PCR verification of differentially
+  expressed genes (DEGs). (a) Venn diagram of DEGs in the WT and transgenic lines.
+  WT represents the wild type after pathogen inoculation, WT-CK represents the wild
+  type before inoculation, BSP represents the sp-BPI-LY-positive transgenic strain
+  after inoculation, and BSP-CK represents the transgenic strain before inoculation;
+  this is the same below. The non-overlapping regions on the Venn diagram represent
+  differential genes unique to the group, whereas the overlapping regions represent
+  DEGs common to the several groups. (b) Number of DEGs between the WT and transgenic
+  lines; up represents upregulated DEGs, whereas down represents downregulated DEGs.
+  (c) GO classification map of DEGs in the sp-BPI-LY (BSP) lines after pathogen inoculation,
+  with WT as a control. (d) Statistics of KEGG enrichment of DEGs in the sp-BPI-LY
+  (BSP) lines after inoculation, with WT as a control. The ordinate represents the
+  KEGG pathway, and the abscissa represents the Rich factor, which is the ratio of
+  the number of DEGs annotated to an item to the total number of genes annotated to
+  that item. The larger the Rich factor, the greater the degree of enrichment. The
+  size of the dots represents the number of genes enriched in this pathway: the larger
+  the number, the bigger the dots. The colors of the dots represent the significance
+  of enrichment for this pathway, assessed with the corrected P. The closer the p-value
+  is to 0, the redder the color is, which represents a more substantial enrichment.
+  (e) Heat map of some DEGs in transcriptome data. The ordinate represents the differential
+  gene, and the abscissa represents the different treatments. The color ranges from
+  green to red, with a redder color representing a higher amount of expression. (f)
+  Validation of upregulated genes in the WT and BSP transgenic lines. ns: not significant.
+  (g) Validation of downregulated genes in the WT and BSP transgenic lines. All samples
+  were collected from three biological replicates of each treatment at specified intervals.
+  The results are expressed as the mean ± standard deviation, and statistical analysis
+  was performed using t-tests; α = 0.05, ** p < 0.01, *** p < 0.001, **** p < 0.0001'
+article_title: The Fusion Gene BPI-LY, Encoding Human Bactericidal/Permeability-Increasing
+  Protein Core Fragments and Lysozyme, Enhanced the Resistance of Transgenic Tomato
+  Plants to Bacterial Wilt
+citation: Lei Ni, et al. Plants (Basel). 2025 Jul;14(13).
+year: '2025'
+pub_date: 2025-7-
+epub_date: 2025-6-20
+doi: 10.3390/plants14131897
+journal_title: Plants
+journal_nlm_ta: Plants (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- tomato
+- bacterial wilt
+- Ralstonia solanacearum
+- bactericidal/permeability increasing protein and lysozyme fusion gene (BPI-LY)
+- disease resistance
+---

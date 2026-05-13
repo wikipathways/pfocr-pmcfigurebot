@@ -1,0 +1,55 @@
+---
+figid: PMC12687470__nihms-2115322-f0003
+pmcid: PMC12687470
+image_filename: jpg
+figure_link: /pmc/articles/PMC12687470/figure/F3/
+number: Fig. 3
+figure_title: |-
+  Overrepresented biological pathways (GO:BP) populated by genes with
+  differential splicing events as a result of iAs exposure, miR-186 overexpression
+  and joint effect of iAs exposure and mir-186 overexpression at 12 and 29-week
+  time points.
+caption: |-
+  Overrepresented biological pathways (GO:BP) populated by genes with
+  differential splicing events as a result of iAs exposure, miR-186 overexpression
+  and joint effect of iAs exposure and mir-186 overexpression at 12 and 29-week
+  time points. (A) Venn diagram showing the number of overrepresented
+  biological pathways at 12-week time point due to iAs exposure (DAS1), miR-186
+  overexpression (DAS2) and joint effect of iAs exposure and mir-186
+  overexpression (DAS3) as well as their overlap. (B) Heat map of
+  overrepresented biological pathways at 12-week time point stratified by effect
+  of iAs exposure (DAS1), miR-186 overexpression (DAS2) and joint effect of iAs
+  exposure and mir-186 overexpression (DAS3). The overrepresented biological
+  pathways are presented in the same order as in Supplementary Table 1 (Sheet
+  1-GOBP-12W). (C) Venn diagram showing the number of overrepresented
+  biological pathways at 29-week time point due to iAs exposure (DAS4), miR-186
+  overexpression (DAS5) and joint effect of iAs exposure and mir-186
+  overexpression (DAS6) as well as their overlap. (D) Heat map of
+  overrepresented biological pathways at 29-week time point stratified by effect
+  of iAs exposure (DAS4), miR-186 overexpression (DAS5) and joint effect of iAs
+  exposure and mir-186 overexpression (DAS6). The overrepresented biological
+  pathways are presented in the same order as in Supplementary Table 1 (Sheet
+  2-GO:BP-29W). For panels (B) and (D), overrepresented
+  biological pathway is determined by log10(padj)>1.3. The color code bar
+  on the right refers to the log10(padj) values. Absence of a bar (represented by
+  white) signifies that the biological pathway was not overrepresented for that
+  comparison at that time point
+article_title: |-
+  Chronic arsenic exposure and hsa-miR-186 overexpression causes
+  transcriptome-wide differential alternative splicing contributing to skin
+  carcinogenesis in human HaCaT cell line
+citation: Mayukh Banerjee, et al. Arch Toxicol. 2025 Oct;99(10).
+year: '2025'
+pub_date: 2025-10-
+epub_date: 2025-6-13
+doi: 10.1007/s00204-025-04104-1
+journal_title: Archives of toxicology
+journal_nlm_ta: Arch Toxicol
+publisher_name: .na.character
+keywords:
+- Arsenic
+- hsa-miR-186
+- Skin carcinogenesis
+- Differential alternative splicing
+- Pathway analysis
+---

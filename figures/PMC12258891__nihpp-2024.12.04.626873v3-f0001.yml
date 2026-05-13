@@ -1,0 +1,45 @@
+---
+figid: PMC12258891__nihpp-2024.12.04.626873v3-f0001
+pmcid: PMC12258891
+image_filename: jpg
+figure_link: /pmc/articles/PMC12258891/figure/F1/
+number: 'Figure 1:'
+figure_title: Analysis of DepMap genome-wide knockout screen uncovers 168-gene glioblastoma
+  dependency signature
+caption: (A-C) Density plots depicting the selection pipeline for the Glioblastoma
+  (GBM) Dependency Signature (GDS). The red dashed line in each represents a mean
+  effect score of −0.5. (A) shows the mean effect scores (ES) of all genes (n = 17,453)
+  in all cell lines (n = 1,078) present in the DepMap dataset. After applying a linear
+  model comparing ES in GBM-lineage cell lines (n = 49) to all other cell lines, (B)
+  depicts the mean ES of 377 GBM-specific genes. (C) then represents the mean ES of
+  the 168-gene GDS, identified by filtering the 377 genes from (B) for those with
+  mean ES < −0.5. (D) Violin and overlapping box plot depicting the module scores
+  (MS) of the GDS in each single-cell (black dots) in the Neftel et al. scRNA-seq
+  dataset (5,689 cells, 20 adult GBM tumors), grouped by neoplastic status. Neoplastic
+  cells (n = 4,865) are compared to non-neoplastic cells (n = 824, consisting of T-cells,
+  macrophages, and oligodendrocytes) by a Student’s t test (**** = p < 0.0001). (E)
+  Dot plot representing Molecular Signatures Database (MSigDB) over-representation
+  analysis performed on the 168-gene GDS (using collections C2 and H). The top 25
+  over-represented terms here have Benjamini-Hochberg (BH)-adjusted p-value < 0.05
+  by Fisher’s exact test. Terms (pathways) are sorted by descending adjusted p-value
+  (bar color). The gene ratio is the number of GDS genes that are enriched in a pathway
+  over the total number of genes that define it
+article_title: IDENTIFICATION OF DISEASE-SPECIFIC VULNERABILITY STATES AT THE SINGLE-CELL
+  LEVEL
+citation: Matthew D’Antuono, et al. bioRxiv. 2025 Jun 08;NA(NA).
+year: '2025'
+pub_date: 2025-6-08
+epub_date: 2025-6-08
+doi: 10.1101/2024.12.04.626873
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- glioblastoma
+- single-cell RNA-sequencing
+- spatial transcriptomics
+- essential genes
+- transcriptional cell states
+- temozolomide
+- pharmacotranscriptomics
+---

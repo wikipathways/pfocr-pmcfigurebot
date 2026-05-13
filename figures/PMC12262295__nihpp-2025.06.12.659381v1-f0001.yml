@@ -1,0 +1,48 @@
+---
+figid: PMC12262295__nihpp-2025.06.12.659381v1-f0001
+pmcid: PMC12262295
+image_filename: jpg
+figure_link: /pmc/articles/PMC12262295/figure/F1/
+number: Figure 1.
+figure_title: Cartoon of the secretory pathway showing the major protein complexes
+  and individual proteins associated with each complex
+caption: A. The Signal Recognition Particle (SRP) is composed of several SRP proteins
+  and a 7S RNA. As shown in the smaller cartoon to the right, SRP (yellow oval) binds
+  the N-terminal hydrophobic signal sequences (black rectangle) of nascent polypeptides
+  (black line) emerging from ribosomes (blue circles). B. The bound SRP complex subsequently
+  docks at the SRP receptor (SR) on the endoplasmic reticulum (ER). The ribosome bound
+  nascent polypeptide is then handed off to the machinery for cotranslational translocation
+  (Sec61 complex and associated proteins), where the elongating polypeptide is threaded
+  into the ER lumen as it is synthesized. Sec61 is also part of the machinery for
+  post-translational ER translocation. As proteins are threaded into the ER lumen,
+  chaperones assist in correct folding (yellow decagon). The N-terminal signal sequence
+  is removed by the SPase complex (Red lines). Several post-translational modifications
+  of proteins occur in the ER – shown modifications include N-linked glycosylation,
+  disulfide bond formation, ER-folding, and quality control. Other proteins are important
+  for overall ER structure – tubular or planar (Gold box). ER cargo proteins are carried
+  to the Golgi through vesicular trafficking. C. Formation and release of ER vesicles
+  destined for the Golgi (small blue circles surrounding two larger circles) is mediated
+  by the Coat Protein Complex II (COPII). D. Proteins important for overall Golgi
+  structure and function are shown in the blue/gray box. E. Retrograde vesicular trafficking
+  from the Golgi back to the ER is mediated by the Coat Protein Complex I (COPI) (small
+  green circles surrounding two larger circles). Retrograde vesicular trafficking
+  in the Golgi is mediated by the Conserved Oligomeric Golgi complex (COG) proteins
+  (purple box)
+article_title: 'CrebA regulation of secretory capacity: Genome-wide transcription
+  profiling coupled with in vivo DNA binding studies'
+citation: D.J Jackson, et al. bioRxiv. 2025 Jun 17;231(4).
+year: '2025'
+pub_date: 2025-6-17
+epub_date: 2025-6-17
+doi: 10.1101/2025.06.12.659381
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- CrebA
+- Secretory pathway component genes (SPCGs)
+- secretion
+- salivary gland
+- single cell RNA seq (scRNA-Seq)
+- Chromatin Immunoprecipitation and sequencing (ChIP-Seq)
+---
