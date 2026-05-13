@@ -342,11 +342,11 @@ extract_figures <- function(xml_content, exfigids) {
         xlink_href <- gsub("\\.jpg$", "", xlink_href)
         
         # Create derived values
-        image_url <- paste0("https://europepmc.org/articles/",
-                            pmcid,
-                            "/bin/",
-                            xlink_href,
-                            ".jpg")
+        image_url <- paste0("https://europepmc.org/api/fulltextRepo?pmcId=",
+                    pmcid,
+                    "&type=FILE&fileName=",
+                    xlink_href,
+                    ".jpg&mimeType=image/jpg")
         figid <- paste(pmcid, xlink_href, sep="__")
         
         # Check if this figure has already been processed
@@ -432,7 +432,7 @@ process_figures <- function(figures, exfigids, config, output_dir = "figures", m
     while (!download_successful && attempt <= max_attempts) {
       tryCatch({
         response <- GET(figures[[i]]$image_url, 
-                        user_agent("fetch_figures_v2/1.0 (alex.pico@gladstone.ucsf.edu)"),
+                        user_agent("fetch_figures_v2/1.0 (ayushi.agrawal@gladstone.ucsf.edu)"),
                         write_disk(filepath, overwrite = TRUE),
                         timeout(30))
         
