@@ -1,0 +1,75 @@
+---
+figid: PMC12393171__nihms-2101258-f0004
+pmcid: PMC12393171
+image_filename: jpg
+figure_link: /pmc/articles/PMC12393171/figure/F3/
+number: Figure 3.
+figure_title: Genomic instability in LUAD and its impact
+caption: 'A. Distribution of CNV segment lengths for each sample. Each column on the
+  x-axis represents one sample and the colors represent the density of the segment
+  length for that sample. Samples are sorted based on 75th percentile of segment lengths.
+  Samples on the left with a high density of large segments represent “Full-stable”
+  and samples on the right with a high density of short segments represent “Unstable”.B.
+  Kaplan-Meier (KM) survival curves showing the overall survival of patients, stratified
+  by SegLen-Q3. P-value obtained using log-rank test.C. Comparison of recurrently
+  amplified regions in unstable (top) and fully stable (bottom) tumors.D. Classification
+  of tumors according to their breakpoint intensity (x-axis) and clustering score
+  (y-axis) to derive BIC groups. Tumors are categorized into three groups: tumors
+  with highly clustered breakpoints (Contiguous), tumors with low clustering and intensity
+  of breakpoints (Fragmented), and tumors with low clustering and high intensity of
+  breakpoints (Intense).E. KM survival curves showing the overall survival of patients,
+  stratified by BIC. Tumors with high clustering show exceptionally good survival
+  independent of their breakpoint intensity. In groups with low clustering, high intensity
+  of breakpoints results in worse outcomes. P-value obtained using log-rank test.F.
+  The proportion of tumors with NKX2-1 amplification (red) and null expression (blue).
+  Tumors with amplified NKX2-1 show significant enrichment in the BIC-intense group.G.
+  Proliferative activity of tumors stratified by NKX2-1 amplification (left) and expression
+  (right) status. Proliferative activity is measured by ssGSEA analysis of RNA expression
+  for the HALLMARK_G2M_CHECKPOINT130 pathway. P values are based on the Wilcoxon Rank
+  Sum test. In boxplots, the centerline represents median; box bounds represent 25th
+  and 75th percentiles; whiskers represent minimum and maximum; and filled points
+  represent individual data points.H. Transcriptional state of tumors stratified by
+  BIC groups. The BIC-intense group shows a reduced contribution of the AT2 phenotype.I.
+  Log2 fold changes of genes from differential expression analysis comparing BIC-intense
+  to other tumors at both RNA (x-axis) and protein (y-axis) levels.J. IGF2BP3 IHC
+  and H&E staining shows heterogeneous protein expression of IGF2BP3 in case-3 (partial
+  stable LUAD), uniformly strong expression in case-1 (unstable), and complete abrogation
+  of IGF2BP3 expression in case-4 (full stable). (IHC; H&E). Scale bar = 50μm.K. Independent
+  validation in 3 patient TMAs reveals higher IGF2BP3 expression in metastatic LUAD
+  compared to primary LUAD and primary LSCC. Also noteworthy is the absence of IGF2BP3
+  in benign lung parenchyma cores. In boxplots, the centerline represents median;
+  box bounds represent 25th and 75th percentiles; whiskers represent minimum and maximum;
+  and filled points represent individual data points.L. Expression of IGF2BP3 (RNA)
+  in LUAD patients from ICGC/PCAWG, stratified by instability. In boxplots, the centerline
+  represents median; box bounds represent 25th and 75th percentiles; whiskers represent
+  minimum and maximum; and filled points represent individual data points.M. KM survival
+  curves showing the overall survival of non-squamous patients treated with the anti-PDL1
+  antibody MPDL3280A, stratified by IGF2BP3 RNA expression in the OAK trial. P-value
+  obtained using log-rank test.N. PD-L1 (CD274) protein expression in the CPTAC cohort
+  stratified by BIC status. In boxplots, the centerline represents median; box bounds
+  represent 25th and 75th percentiles; whiskers represent minimum and maximum; and
+  filled points represent individual data points.O. Correlation of IGF2BP3 protein
+  expression and average IGF2BP3 promoter methylation.See also Figure S3 and Table
+  S3'
+article_title: Integrative Analysis of Lung Adenocarcinoma Across Diverse Ethnicities
+  and Exposures
+citation: Shankha Satpathy, et al. Cancer Cell. 2025 Sep 08;43(9).
+year: '2025'
+pub_date: 2025-9-08
+epub_date: 2025-7-31
+doi: 10.1016/j.ccell.2025.07.011
+journal_title: Cancer cell
+journal_nlm_ta: Cancer Cell
+publisher_name: .na.character
+keywords:
+- Proteogenomics
+- LUAD
+- Genomics
+- Mass Spectrometry
+- PTMs
+- Biomarkers
+- Smokers
+- Non-smokers
+- CPTAC
+- ICPC
+---

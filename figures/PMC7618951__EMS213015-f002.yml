@@ -1,0 +1,58 @@
+---
+figid: PMC7618951__EMS213015-f002
+pmcid: PMC7618951
+image_filename: jpg
+figure_link: /pmc/articles/PMC7618951/figure/F2/
+number: Figure 2
+figure_title: Cryptosporidium replication and sexual stage development hinge on a
+  tipping point in the host cholesterol pathway
+caption: (A) Heatmap of Z scores displaying the effect of knocking out genes in the
+  host cholesterol biosynthesis pathway on parasite growth and sexual development,
+  showing a shift at the midway point between FDFT1 and SQLE. Z scores for all three
+  replicates per gene are shown.(B) Representative images from the microscopy-based
+  CRISPR screen for indicated genes in the cholesterol biosynthesis pathway showing
+  a loss (for HMGCR and FDFT1) and increase (for SQLE and MSMO1) in total parasite
+  numbers and females. Scale bar, 100 μm.(C) Dose-response curves using chemical inhibitors
+  of indicated genes in (A), showing agreement with gene KO data in their effects
+  on parasite replication (left) and female development (right). Parasite growth is
+  calculated as the number of parasites per host nuclei expressed as a percentage,
+  and female development, represented as the percentage of females in the total parasite
+  population, is determined by anti-COWP1 staining. Data shown are the mean and standard
+  deviation (SD) of 6 culture wells per condition and represent one of three experiments
+  each for lovastatin, lapaquistat, and NB-598 and two experiments for RO 48-8071.(D)
+  Immunofluorescence images of HCT-8 cells infected with transgenic Cryptosporidium
+  parasites expressing mNeonGreen and COWP1 endogenously tagged with HA (expressed
+  only in females). Anti-HA antibody staining agrees with the anti-COWP1 antibody
+  used in the screen (top row) and anti-DMC1, another female-specific antibody (bottom
+  row). Scale bar, 5 μm.(E) Treatment of HCT-8 cells infected with COWP1-HA-expressing
+  parasites with lapaquistat (10 μM) or NB-598 (0.5 μM), respectively, reduces and
+  increases the percentage of HA-expressing parasites 49 hpi. Data shown for 4 culture
+  wells per condition.(F) Female parasite development in HCT-8 cells treated with
+  10 μM lapaquistat or 0.5 μM NB-598 was identified using either anti-COWP1 or anti-DMC1
+  antibody staining. The percentage of parasites that were DMC1-positive is slightly
+  lower than COWP1-positive parasites. This is likely because DMC1 is transcribed
+  later than COWP1 during female development; hence, only females that are further
+  along in their development would be DMC1 positive.18 Data shown for 6 culture wells
+  per condition.(G) Immunofluorescence images of HCT-8 cells infected with transgenic
+  Cryptosporidium parasites expressing HAP2 endogenously tagged with HA (expressed
+  only in males). Anti-HA staining identifies bullet-shaped male microgametes at the
+  16-nuclei stage (top row) and egressing males finding DMC1-positive females (bottom
+  row). Scale bar, 2 μm.(H) The percentage of total male parasites (left) and egressed
+  male parasites (right) in HCT-8 cells with indicated drug treatments. Data shown
+  for at least 3 culture wells per condition from two independent experiments. Violin
+  plots depict the median value at the heavy dashed line and the lower and upper quartiles
+  at the lighter dashed lines. p values calculated using one-way ANOVA for (E) and
+  (H) and two-way ANOVA for (F) using Dunnett’s multiple comparisons test.See also
+  Figures S2 and S3
+article_title: The essential host genome for Cryptosporidium survival exposes metabolic
+  dependencies that can be leveraged for treatment
+citation: N. Bishara Marzook, et al. Cell. 2025 Oct 16;188(21).
+year: '2025'
+pub_date: '2025-10-16'
+epub_date: 2025-7-23
+doi: 10.1016/j.cell.2025.07.001
+journal_title: Cell
+journal_nlm_ta: Cell
+publisher_name: .na.character
+keywords: []
+---

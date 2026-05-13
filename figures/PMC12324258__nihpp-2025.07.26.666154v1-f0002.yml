@@ -1,0 +1,35 @@
+---
+figid: PMC12324258__nihpp-2025.07.26.666154v1-f0002
+pmcid: PMC12324258
+image_filename: jpg
+figure_link: /pmc/articles/PMC12324258/figure/F2/
+number: 'Figure 2:'
+figure_title: Schematic representation of GRM-SEM Independent Pathway models with
+  and without
+caption: rGE. Schematic representation of GRM-SEM model structures as illustrated
+  for a six-variate trait shown for (a) an Independent Pathway model (with a 2-factor
+  genetic and a 2-factor residual structure) without rGE and (b) an Independent Pathway
+  model (with a 2-factor genetic and a 2-factor residual structure) with rGE. For
+  (a), ΛA and ΛE capture genetic and residual factor loadings, and ΦA and ΦE genetic
+  and residual factor (co)variance, with each factor variance constrained to one (i.e.
+  a diagonal of 1).For (b), Φ*A and Φ*E are extended ΦA and ΦE matrices including
+  gene-environment covariance Φcov(AE). White squares indicate values of zero and
+  black squares values of one.G – Genetic Relationship Matrix; GRM-SEM - Genetic-Relationship-Matrix
+  Structural Equation Modelling; I – Identity matrix; k - Degrees of freedom; nA -
+  Number of genetic factor; nE - Number of residual factors
+article_title: 'Disentangling multivariate relationships between cognition, language
+  and social traits: structures of G, E, and rGE'
+citation: Fenja Schlag, et al. bioRxiv. 2025 Jul 29;NA(NA).
+year: '2025'
+pub_date: 2025-7-29
+epub_date: 2025-7-29
+doi: 10.1101/2025.07.26.666154
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Genetic-Relationship-Matrix Structural Equation modelling
+- social behaviour
+- cognition
+- gene-environment correlation
+---

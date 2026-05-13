@@ -1,0 +1,50 @@
+---
+figid: PMC12416096__nihms-2104902-f0004
+pmcid: PMC12416096
+image_filename: jpg
+figure_link: /pmc/articles/PMC12416096/figure/F4/
+number: Fig. 4 ∣
+figure_title: Microbiome-immune-metabolome crosstalk is dysbiotic in ME/CFS
+caption: 'a,b, Microbiome-immune-metabolome network in healthy (a) and patient (b)
+  subgroups. A baseline network was established with 200+ healthy control samples
+  (a), bifurcating into two segments: the gut microbiome (species in yellow, genetic
+  modules in orange) and blood elements (immune modules in green, metabolome modules
+  in purple). Nodes: modules; size: number of members; colors: omics type; edges:
+  interactions between modules, with Spearman coefficient (adjusted) represented by
+  thickness, transparency and color—positive (red) and negative (blue). Here, key
+  microbial pathways (pyruvate, amino acid and benzoate) interact with immune and
+  metabolome modules in healthy individuals. Specifically, these correlations were
+  disrupted in patient subgroups (b), as a function of gender, age (young <26 years
+  versus older >50 years), BMI (normal <26 versus overweight >26) and health status
+  (individuals with IBS or infections). Correlations significantly shifted from healthy
+  counterparts (Extended Data Fig. 6c) are highlighted with colored nodes and edges
+  indicating increased (red) or decreased (blue) interactions. c, Targeted microbial
+  pathways and host interactions. Four microbial metabolic mechanisms were analyzed
+  to compare control, short- and long-term patients with ME/CFS, and external cohorts
+  for validation (Guo17 and Raijmakers18) along with their associated host immune/metabolome
+  modules. 1. Microbial pathway fold change: key genes were grouped and annotated
+  in subpathways. Circle size: fold change over control; color: increase (red) or
+  decrease (blue), P values (patient versus control, P value by two-sided Wilcoxon,
+  FDR adjusted; detailed statistics in Supplementary Table 8) marked. 2. Microbiome–host
+  interactions: Sankey diagrams visualize interactions between microbial pathways
+  and host immune cells/metabolites. Line thickness and transparency: Spearman coefficient
+  (adjusted); color: red (positive), blue (negative). 3. Immune and metabolites fold
+  change: pathway-correlated immune cells and metabolites are grouped by category.
+  4. Contribution to disease symptoms: stacked bar plots show accumulated SHAP values
+  (contributions to symptom severity) for each disease symptom (1–12, as in Supplementary
+  Table 1). Colors: microbial subpathways and immune/metabolome categories match module
+  color in fold change maps. x axis: accumulated SHAP values (contributions) from
+  negative to positive, with the most contributed symptoms highlighted. P values:
+  *P < 0.05, **P < 0.01, ***P < 0.001'
+article_title: AI-driven multi-omics modeling of myalgic encephalomyelitis/chronic
+  fatigue syndrome
+citation: Ruoyun Xiong, et al. Nat Med. 2025 Sep;31(9).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-7-25
+doi: 10.1038/s41591-025-03788-3
+journal_title: Nature medicine
+journal_nlm_ta: Nat Med
+publisher_name: .na.character
+keywords: []
+---

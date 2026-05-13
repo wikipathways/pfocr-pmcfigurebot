@@ -1,0 +1,48 @@
+---
+figid: PMC12384364__brainsci-15-00825-g002
+pmcid: PMC12384364
+image_filename: jpg
+figure_link: /pmc/articles/PMC12384364/figure/F2/
+number: Figure 2
+figure_title: The signature of repopulating microglia.
+caption: 'The signature of repopulating microglia. (A) The expression of surface markers
+  on repopulating microglia (dotted line histograms) compared with CTRL (solid line
+  histograms) on day 7 after removal analyzed by flow cytometry. (B) Mean fluorescence
+  intensities of the microglial surface marker on CTRL and repopulating microglia.
+  Data are expressed as box-and-whisker plots, with all datapoints presented for 3–6
+  samples per groups. Statistics: two-tailed t-test. * p < 0.05 and *** p < 0.001.
+  ns, non-significant. Data are representative of three independent experiments. (C)
+  Transcriptome analysis of CTRL and repopulating microglia on day 12. A scatter plot
+  for DNA microarray analysis comparing repopulating microglia with CTRL. The axes
+  of the scatter plot denote the normalized signal values of the samples. The thick
+  green line indicates that the gene expression levels are the same for mgc and dep.
+  The thin green lines indicate a 2-fold or greater change in expression levels between
+  mgc and dep. (D) A volcano plot depicting fold change and p-value. Differentially
+  expressed genes (DEGs) are defined as the genes with a p-value < 0.05 and a fold
+  change value > 2.0 or <0.5. The blue dots denote down-regulated gene expression,
+  the red dots denote up-regulated gene expression, and the gray dots denote the gene
+  expression without marked differences. The horizontal line of the volcano plot represents
+  the threshold (p < 0.05). The vertical dashed line of the volcano plot represents
+  two-fold differences in expression. A total of 876 DEGs are shown in red (upregulated)
+  or blue (downregulated) on the plot. (E) GO category analysis based on the biological
+  process of upregulated genes. (F) KEGG pathway analysis of upregulated genes. (E,F)
+  The upper horizontal axis shows genes counts, and the lower horizontal axis shows
+  -log10 (p values). dep, microglia-depleted cultures; mgc, mixed glial cultures;
+  DEGs, differentially expressed genes; GO, gene ontology; KEGG, Kyoto Encyclopedia
+  of Genes and Genomes'
+article_title: CSF1R-Dependent Microglial Repopulation and Contact-Dependent Inhibition
+  of Proliferation In Vitro
+citation: Rie Nakai, et al. Brain Sci. 2025 Aug;15(8).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-31
+doi: 10.3390/brainsci15080825
+journal_title: Brain Sciences
+journal_nlm_ta: Brain Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- microglia
+- repopulation
+- CD11b
+- colony-stimulating factor 1 receptor
+---

@@ -1,0 +1,56 @@
+---
+figid: PMC12346851__cells-14-01147-g003
+pmcid: PMC12346851
+image_filename: jpg
+figure_link: /pmc/articles/PMC12346851/figure/F3/
+number: Figure 3
+figure_title: CRISPR/Cas9-based approaches.
+caption: CRISPR/Cas9-based approaches. (A) BE is a genome editing tool that involves
+  a ribonucleoprotein (RNP) complex, comprising an sgRNA and nCas9 protein. nCas9
+  is fused to either adenine (ADA) or cytosine (CDA) deaminase. Upon Cas9-mediated
+  ssDNA nicking, ADA or CDA mediates the deamination of adenine and cytosine. While
+  adenine deamination leads to inosine formation (upper), cytosine deamination leads
+  to uracil (bottom). Later replication or reparation mechanisms allow the final conversion
+  from I to G and U to T. (B) The PE system retains the RNP complex comprising a pegRNA
+  and nCas9. nCas9 is fused to a reverse transcriptase (RT). The pegRNA is a large
+  sgRNA containing a primer binding site (PBS) and an RT template. While the PBS leads
+  to targeted sequence hybridization, the RT uses the RT template to synthesize the
+  new gene information. The cell’s repair mechanism later corrects the mismatch between
+  edited and non-edited DNA strands. (C) HITI is intended to integrate foreign DNA
+  within host DNA using the NHEJ pathway. Both the target DNA and the donor template
+  should contain sgRNA and PAM sequences to undergo Cas9-mediated cutting. Upon Cas9-mediated
+  DSB generation, the NHEJ leads to donor insertion in forward or reverse directions.
+  If forward direction occurs, the sgRNA and PAM sequences are abolished, impeding
+  Cas9 cutting. Conversely, if a donor template is inserted in the reverse direction,
+  the presence of the sgRNA and PAM sequences will lead to Cas9 cutting. Repair without
+  donor template insertion will induce additional Cas9-mediated cleavage. (D) The
+  CRISPR-associated transposases (CAST) system enables the insertion of a gene of
+  interest (GOI) through the activity of Tn7-like transposons. CAST requires the presence
+  of an RNP comprised of Cas12k and a sgRNA to recognize and bind the targeted DNA,
+  along with a donor template flanked by transposon left (TL) and right (TR) sequences.
+  Cas12 brings the Tn7-like genes to the target site. Later, DNA recognition by the
+  RNP complex leads to the formation of a transposase complex, which ultimately enables
+  the excision and insertion of the donor template, approximately 60 bp from the PAM
+  sequence (GTN), within the target DNA [9,59]. (E) Gene insertion can also be achieved
+  through the use of integrases/recombinases, which utilize the specific recombination
+  sites attB and attP. In this approach, the presence of the attP sequence in the
+  target DNA is achieved through the use of PE. Consequently, the presence of attB
+  sites in the donor template later leads to the recombination of the GOI within the
+  targeted DNA, resulting in a knock-in without inducing DSBs [9,59]. This figure
+  was created with Biorender.com
+article_title: 'CRISPR/Cas-Based Ex Vivo Gene Therapy and Lysosomal Storage Disorders:
+  A Perspective Beyond Cas9'
+citation: Andrés Felipe Leal, et al. Cells. 2025 Aug;14(15).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-25
+doi: 10.3390/cells14151147
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- CRISPR/Cas
+- ex vivo
+- gene therapy
+- lysosomal storage disorders
+---

@@ -1,0 +1,47 @@
+---
+figid: PMC12404751__jci-135-182555-g123
+pmcid: PMC12404751
+image_filename: jpg
+figure_link: /pmc/articles/PMC12404751/figure/F4/
+number: Figure 4
+figure_title: Inflammatory and degenerative signature in the CSF of young rats with
+  compromised dcLN drainage
+caption: '(A) Graphical abstract summarizing quantitative mass spectrometry–based
+  proteomics with stable isotope–containing isobaric tags (MS3 notch method). (B)
+  PEAKS analysis with Q-module generated hierarchically clustered heat map from c-dcLN
+  (n = 3) and sham (n = 3) rats. The relative protein abundance in the 2 conditions
+  is shown for the protein groups that passed the filters for protein identification
+  (–log (P value) > 13 for protein ID, corresponding to P < 0.05 by ANOVA) and showed
+  significant changes (P < 0.05 by ANOVA/t tests). The full list of proteins is reported
+  in Supplemental Table 2. Positive values reflect fold increases (red color), and
+  negative values reflect fold decreases (blue color). (C) Unsupervised 2D principal
+  component analysis (2D-PCA) score plot generated from the analysis of CSF identified
+  proteome listed in Supplemental Table 2 from sham (green) and c-dcLN (red), with
+  principal components 1 (PC1) and 2 (PC2) accounting for 56.6% and 14.98% of the
+  variance. (D) Volcano plot illustrating the significance of protein expression ratios
+  in c-dcLN/sham. Statistically significant proteins (P < 0.05 by ANOVA) are highlighted
+  in red for 2-fold up-regulated and in blue for 2-fold down-regulated proteins. These
+  proteins are indexed in Supplemental Table 2. (E) IPA analysis–based enrichment
+  of top pathways (P < 0.05 by Fisher’s exact test with Benjamini-Hochberg correction)
+  observed in c-dcLN/sham. (F) Quantitative analysis of protein expression profiles
+  and IPA assigned z score function to all eligible canonical biochemical and cellular
+  pathways: where z < 2 (in blue shades) represents significant downregulation while
+  z > 2.0 (in orange shades) represents a significant upregulation (Supplemental Table
+  2)'
+article_title: Age-dependent brain responses to mechanical stress determine resilience
+  in a chronic lymphatic drainage impairment model
+citation: Zachary Gursky, et al. J Clin Invest. 2025 Jul 15;135(17).
+year: '2025'
+pub_date: 2025-7-15
+epub_date: 2025-7-15
+doi: 10.1172/JCI182555
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Immunology
+- Neuroscience
+- Lymph
+- Neuroimaging
+- Proteomics
+---

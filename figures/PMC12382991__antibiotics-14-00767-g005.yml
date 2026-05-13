@@ -1,0 +1,34 @@
+---
+figid: PMC12382991__antibiotics-14-00767-g005
+pmcid: PMC12382991
+image_filename: jpg
+figure_link: /pmc/articles/PMC12382991/figure/F5/
+number: Figure 5
+figure_title: KEGG metabolic pathways co-enriched for both differential genes and
+  metabolites.
+caption: KEGG metabolic pathways co-enriched for both differential genes and metabolites.
+  (A) Co-enrichment analysis of KEGG metabolic pathways involving both differential
+  genes and metabolites. Metabolites with a VIP > 1 and p-value < 0.05 are considered
+  significantly differentially expressed. The metabolic pathways associated with these
+  metabolites were identified through KEGG database annotations. (B) Expression changes
+  of genes and metabolites in the co-enriched KEGG metabolic pathway. Red color represents
+  upregulated genes or metabolites, and blue color represents downregulated genes
+  or metabolites
+article_title: Resistance Response and Regulatory Mechanisms of Ciprofloxacin-Induced
+  Resistant Salmonella Typhimurium Based on Comprehensive Transcriptomic and Metabolomic
+  Analysis
+citation: Xiaohan Yang, et al. Antibiotics (Basel). 2025 Aug;14(8).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-29
+doi: 10.3390/antibiotics14080767
+journal_title: Antibiotics
+journal_nlm_ta: Antibiotics (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- Salmonella Typhimurium
+- drug resistance
+- ciprofloxacin
+- metabolomics
+- transcriptomics
+---

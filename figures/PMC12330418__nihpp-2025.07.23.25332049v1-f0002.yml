@@ -1,0 +1,54 @@
+---
+figid: PMC12330418__nihpp-2025.07.23.25332049v1-f0002
+pmcid: PMC12330418
+image_filename: jpg
+figure_link: /pmc/articles/PMC12330418/figure/F2/
+number: Figure 2.
+figure_title: Multi-omics analyses comparing ME/CFS vs. HC
+caption: (A and B). Metabolomics. BayesFactors (BFs) of 913 metabolites in plasma
+  comparing ME/CFS vs. HC (A) before and (B) 24 hours after exercise, using linear
+  mixed-effect models (LMMs) paired with Bayesian analyses. The LMM models were adjusted
+  for age, sex, race/ethnicity, geography, body mass index (BMI), and self-reported
+  irritable bowel syndrome (sr-IBS). Significant metabolites were labeled (significance
+  defined as 1. FDR adjusted p<0.05, or 2. BF>3 and 95% HDI does not cover 0, or 3.
+  BFcombined>10 and HDIcombined does not cover 0). If BFcombined>10 and BFcombined>BF,
+  BFcombined is plotted, otherwise, BF is plotted. Gray dots at the bottom of the
+  figure represent individual metabolites that were not significantly altered between
+  ME/CFS and HC. The significant chemical clusters identified by ChemRICH were individually
+  labeled. The significant metabolites in other nonsignificant clusters were labeled
+  under “Other” on the right. The full metabolomic results, comparing ME/CFS and HC,
+  are reported in Table S3A.(C and D). Scatter plots showing BayesFactors (BFs) associated
+  with changes in plasma levels of metabolites from before to 24 hours after exercise
+  in (C) ME/CFS and in (D) HC. The full metabolomic results, comparing ME/CFS and
+  HC, are reported in Table S3A.(E and F). Proteomics. Volcano plots showing BayesFactors
+  (BFs) of proteomic analytes in plasma comparing ME/CFS vs. HC (E) before and (F)
+  after exercise, using linear mixed-effect models (LMMs) paired with Bayesian analyses.
+  The LMM models were adjusted for age, sex, race/ethnicity, geography, body mass
+  index (BMI), and self-reported irritable bowel syndrome (sr-IBS). Significant proteins
+  were labeled (significance defined as 1. FDR adjusted p<0.05, or 2. BF>3 and 95%
+  HDI does not cover 0). Gray dots at the bottom of the figure represent individual
+  proteins that were not significantly different between ME/CFS and HC. The full proteomic
+  results, comparing ME/CFS and HC, are reported in Table S6A.(G and H). Integrative
+  enrichment. Ingenuity pathway analyses (IPA), combining plasma metabolomic and proteomic
+  results, comparing ME/CFS vs. HC (G) before and (H) after exercise. The full IPA
+  results, comparing ME/CFS and HC, are reported in Table S7A.(I). Citric acid and
+  ratios of metabolites. Box plots showing levels of citric acid and standardized
+  ratios of ornithine (ORN) to citrulline (CIT), arginine (ARG) to citrulline (CIT),
+  kynurenine (KYN) to tryptophan (TRP) and kynurenic acid (KYNA) to kynurenine (KYN)
+  in ME/CFS and HC before and 24 hours after exercise. Comparisons employed linear
+  mixed-effect models (LMMs) paired with Bayesian analyses, adjusted for age, sex,
+  race/ethnicity, geography, body mass index (BMI), and self-reported irritable bowel
+  syndrome (sr-IBS). The full results from ratio analysis, comparing ME/CFS and HC,
+  are reported in Table S4A
+article_title: Heightened innate immunity may trigger chronic inflammation, fatigue
+  and post-exertional malaise in ME/CFS
+citation: Xiaoyu Che, et al. medRxiv. 2025 Jul 24;3(NA).
+year: '2025'
+pub_date: 2025-7-24
+epub_date: 2025-7-24
+doi: 10.1101/2025.07.23.25332049
+journal_title: medRxiv
+journal_nlm_ta: medRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

@@ -1,0 +1,45 @@
+---
+figid: PMC12324368__nihpp-2025.07.29.667406v1-f0004
+pmcid: PMC12324368
+image_filename: jpg
+figure_link: /pmc/articles/PMC12324368/figure/F4/
+number: Fig. 4 |
+figure_title: Direct pathway inhibition shifts ACC activity towards ipsilateral-evidence
+  representations
+caption: 'a, Average evidence vs. laser coefficients across cue and delay positions
+  in the task for all ACC neurons in direct pathway mice (grey dots; n = 1449 neurons
+  from 14 sessions). Black line: Spearman rank correlation; r = 0.12; p < 0.001. b,
+  Averaged laser coefficients at each position in the task for all ACC neurons that
+  showed significant tuning for ipsilateral evidence (salmon; n = 111), contralateral
+  evidence (aqua; n = 130), or neurons without significant tuning to evidence or choice
+  (black, n = 750). c, Evidence tuning curves for all ACC neurons with significant
+  evidence-tuning, parsed by ipsilateral- (left) or contralateral (right) preference.
+  For each neuron, z-scored activity was averaged in all cue and delay positions across
+  trials binned by sensory evidence level, separately for laser off (black) or on
+  (orange) trials. Statistics reflect significance of a linear mixed-effects model
+  (ipsilateral: plaser<0.01; contralateral: plaser=0.72). d, Cross-validated projection
+  of ACC population activity onto a one-dimensional evidence decoding axis at each
+  position in the maze (n = 12 sessions with more than 50 neurons), and then averaged
+  across laser off trials binned by their sensory evidence level. e, Same as d, but
+  for the averaged evidence-axis projection across all held-out laser off (black)
+  or on (orange) trials. Positive (or negative) values (a.u., arbitrary unit) indicate
+  greater ipsilateral (or contralateral) evidence representation. f, Similar to c,
+  but evidence tuning curves from population activity projected onto the evidence-axis
+  (left) or first principle component (PC1)-axis (right). Tuning curves were constructed
+  by averaging projected population activity across positions in the cue region and
+  trials binned by sensory evidence level (#ipsilateral - #contralateral cues), separately
+  for laser off (black) or on (orange) trials. Statistics reflect significance of
+  a linear mixed-effects model; evidence axis: plaser<0.001; PC1 axis: plaser=0.46.
+  Data are presented as mean ± s.e.m'
+article_title: Striatal pathways oppositely shift cortical activity along the decision
+  axis
+citation: Jounhong Ryan Cho, et al. bioRxiv. 2025 Jul 30;NA(NA).
+year: '2025'
+pub_date: 2025-7-30
+epub_date: 2025-7-30
+doi: 10.1101/2025.07.29.667406
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

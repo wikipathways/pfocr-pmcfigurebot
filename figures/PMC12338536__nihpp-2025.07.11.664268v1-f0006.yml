@@ -1,0 +1,51 @@
+---
+figid: PMC12338536__nihpp-2025.07.11.664268v1-f0006
+pmcid: PMC12338536
+image_filename: jpg
+figure_link: /pmc/articles/PMC12338536/figure/F6/
+number: Figure 6.
+figure_title: Motor learning induces transcriptomic remodeling in glial cells
+caption: '(A) DEGs in glial cells of the motor cortex. Left, t-SNE plot highlights
+  the four glia cell types. Right, Lollipop plots show the number of upregulated and
+  downregulated DEGs in Early and Late TRAP groups compared to Ctrl. Wilcox rank sum
+  test followed by Holm-Bonferroni correction. DEG Cutoff: Adjusted p-value < 0.05
+  and |Log2 Fold Change| > 0.26.(B) DEGs in glial cells of the dorsal striatum. Left,
+  t-SNE plot of four glia cell types. Right: lollipop plots of DEG counts in Early
+  and Late TRAP groups vs. Ctrl. Statistical method and cutoff as in (A).(C) GO and
+  KEGG pathway enrichment analysis of DEGs in OPCs and OLs. Heatmap displaying −log10
+  P values with red indicating upregulated pathways and blue indicating downregulated
+  pathways. Hypergeometric test with Benjamini-Hochberg correction. Significant terms
+  (p < 0.01, gene count > 3, enrichment factor > 1.5) were clustered by Kappa similarity
+  (> 0.3), and the top 20 enriched pathways are shown. Term names are displayed in
+  a dendrogram (right) with shaded boxes denoting their biological classifications
+  (list at bottom).(D) Expression of DEGs associated with synaptic functions in OPCs
+  and OLs. Left: Table illustrating the biological categories of each DEGs. Right:
+  Heatmaps showing average expression across Ctrl, Early, and Late TRAP neurons in
+  OPCs and OLs of the motor cortex and dorsal striatum. Wilcox rank sum test followed
+  by Holm-Bonferroni correction. * Adjust p value < 0.05.(E) GO and KEGG pathway enrichment
+  analysis of DEGs in microglia. Heatmap formatting, organization and statistics as
+  in (C).(F) Expression of DEGs related to microglial functions. Top: Table illustrating
+  the biological categories of each DEGs. Bottom: Heatmaps showing average expression
+  in Ctrl, Early, and Late TRAP groups in microglia from the motor cortex and dorsal
+  striatum. Wilcox rank sum test followed by Holm-Bonferroni correction. * Adjust
+  p value < 0.05.Abbreviations: OPC, oligodendrocyte precursor cell; OL, oligodendrocyte;
+  AS, astrocyte; MG, microglia; MCtx, motor cortex; dSTR, dorsal striatum.See also
+  Figure S7'
+article_title: Motor learning drives region-specific transcriptomic remodeling in
+  the motor cortex and dorsal striatum
+citation: Yue Sun, et al. bioRxiv. 2025 Jul 17;NA(NA).
+year: '2025'
+pub_date: 2025-7-17
+epub_date: 2025-7-17
+doi: 10.1101/2025.07.11.664268
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Motor learning
+- transcriptomic remodeling
+- motor cortex
+- dorsal striatum
+- Htr3a-expressing interneurons
+- single-cell RNA sequencing
+---

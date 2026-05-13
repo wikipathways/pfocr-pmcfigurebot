@@ -1,0 +1,61 @@
+---
+figid: PMC12323397__nihms-2099775-f0001
+pmcid: PMC12323397
+image_filename: jpg
+figure_link: /pmc/articles/PMC12323397/figure/F1/
+number: Fig. 1 |
+figure_title: Senolytics improve ECM remodeling during atherosclerosis
+caption: a, Schematic depicting the experimental design of our study. Briefly, p16-tdTomato+/−
+  mice were injected with PCSK9 AAV; 2 weeks later, mice were given either an ND or
+  HFD for 16 weeks. At that time, a subset of HFD mice were treated with either a
+  vehicle or ABT-737 for an additional 8 weeks while remaining on the diet before
+  they were sacrificed for aortic single-cell isolation and sequencing. b, Representative
+  images of aortic roots from ND, HFD and HFD + ABT-737 mice, stained with Oil Red
+  O for lipid deposition examination and Masson’s trichrome to visualize collagen.
+  The scale bar is 200 μm. c, Quantification of the relative lesion area using Oil
+  Red O staining of the aortic roots of mice from the ND, HFD and HFD + ABT-737 groups
+  (ND, n = 6; HFD, n = 4; HFD + ABT-737, n = 5; HFD versus ND, P ≤ 0.0001 and HFD
+  + ABT-737 versus HFD, P = 0.9146). d, Quantification of the necrotic core area.
+  e, Quantification of the cap thickness. f, Quantification of the ratio of the collagen
+  fiber (aniline blue-positive) area to the area of the aortic root (sample size for
+  the necrotic core area, cap thickness and collagen fibers (HFD, n = 4; HFD + ABT-737,
+  n = 4)); significance for the necrotic core area (HFD + ABT-737 versus HFD, P =
+  0.0312), cap thickness (HFD + ABT-737 versus HFD, P = 0.0091) and collagen fibers
+  (HFD + ABT-737 versus HFD, P = 0.0244). g, PWV measurements in mice in the ND, HFD
+  and HFD + ABT-737 groups (ND, n = 6; HFD, n = 4; HFD + ABT-737, n = 5; HFD versus
+  ND, P = 0.0261 and HFD + ABT-737 versus HFD, P = 0.0452). h, Bio-Plex analysis of
+  circulating SERPINE1, CD93, ICAM-1, BAFF, MMP3 and CXCL1 in serum from mice in the
+  ND, HFD and HFD + ABT-737 groups (SERPINE1 (ND, n = 7; HFD, n = 5; HFD + ABT-737,
+  n = 4), HFD versus ND, P ≤ 0.0001 and HFD + ABT-737 versus HFD, P = 0.9205; CD93
+  (ND, n = 7; HFD, n = 5; HFD + ABT-737, n = 6), HFD versus ND, P = 0.0413 and HFD
+  + ABT-737 versus HFD, P = 0.4241; ICAM-1 (ND, n = 6; HFD, n = 5; HFD + ABT-737,
+  n = 4), HFD versus ND, P = 0.7365 and HFD + ABT-737 versus HFD, P = 0.9998; BAFF
+  (ND, n = 6; HFD, n = 5; HFD + ABT-737, n = 4), HFD versus ND, P = 0.2129 and HFD
+  + ABT-737 versus HFD, P = 0.0722; MMP3 (ND, n = 7; HFD, n = 5; HFD + ABT-737, n
+  = 5), HFD versus ND, P ≤ 0.001 and HFD + ABT-737 versus HFD, P = 0.2665; CXCL1 (ND,
+  n = 7; HFD, n = 5; HFD + ABT-737, n = 6), HFD versus ND, P = 0.0261 and HFD + ABT-737
+  versus HFD, P = 0.9693). i, Volcano plot of pseudobulk RNA-seq analysis comparing
+  differential gene expression between HFD and ND aortas. j, Volcano plot of pseudobulk
+  RNA-seq analysis comparing differential gene expression between HFD + ABT-737 and
+  HFD aortas. k, Dot plot representation of pathway analysis depicting differentially
+  expressed mRNAs associated with the complement and coagulation pathways (the green
+  gradient represents shared genes between pathways; darker and lighter green are
+  areas of unique genes). l, Dot plot representation of pathway analysis depicting
+  differentially expressed mRNAs associated with the TGFβ, ECM and EMT signaling pathways
+  (the green gradient represents shared genes between pathways; darker and lighter
+  green are areas of unique genes). Data represent the means ± s.d. from indicated
+  biological replicates. Significance was established using Student’s t test (d–f)
+  or one-way ANOVA (c, g and h). *P ≤ 0.05, **P ≤ 0.01, ***P ≤ 0.001, ****P ≤ 0.0001.
+  Panel a created with BioRender.com
+article_title: Single-cell and spatial transcriptomics map senescent vascular cells
+  in arterial remodeling during atherosclerosis in mice
+citation: Krystyna Mazan-Mamczarz, et al. Nat Aging. 2025 Aug;5(8).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-14
+doi: 10.1038/s43587-025-00889-z
+journal_title: Nature aging
+journal_nlm_ta: Nat Aging
+publisher_name: .na.character
+keywords: []
+---

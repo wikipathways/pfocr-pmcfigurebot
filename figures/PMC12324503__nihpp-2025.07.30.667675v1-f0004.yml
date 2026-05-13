@@ -1,0 +1,48 @@
+---
+figid: PMC12324503__nihpp-2025.07.30.667675v1-f0004
+pmcid: PMC12324503
+image_filename: jpg
+figure_link: /pmc/articles/PMC12324503/figure/F3/
+number: Figure 3.
+figure_title: Differential gene expression and GO enrichment analysis of vascular
+  endothelial cells from hemorrhagic cerebral cortices
+caption: (A); Condition-split UMAP highlighting endothelial clusters in integrated
+  P0 scRNAseq samples (top left). Volcano plot of significant DEGs in P0 endothelial
+  cells, KO vs. WT (bottom left). Blue lines on volcano plot mark −1 and +1 avg_log2FC
+  cutoff of statistical significance (x axis). Red line on volcano plot marks adjusted
+  p-value significance cutoff (0.05). Y axis is −log10 of adjusted p value. Heatmap
+  showing log-normalized and scaled expression of top 20 DEGs upregulated in P0 ICH
+  samples (up in KO) and downregulated in ICH samples (up in WT). TreePlot of top
+  15 gene ontology (GO) enrichment pathways overexpressed in endothelial cells at
+  P0 (right). (B); Condition-split UMAP highlighting endothelial clusters in integrated
+  P5 scRNAseq samples (top left). Volcano plot of significant DEGs in P5 endothelial
+  cells, KO vs. WT (bottom left). Blue lines on volcano plot mark −1 and +1 avg_log2FC
+  cutoff of statistical significance (x axis). Red line on volcano plot marks adjusted
+  p-value significance cutoff (0.05). Y axis is −log10 of adjusted p value. Heatmap
+  showing log-normalized and scaled expression of top 20 DEGs upregulated in P5 ICH
+  samples (up in KO) and downregulated in endothelial cells from ICH samples (up in
+  WT). TreePlot of top 15 gene ontology (GO) enrichment pathways overexpressed in
+  endothelial cells at P5 (right). (C); Condition-split UMAP highlighting endothelial
+  clusters in integrated P10 scRNAseq samples (top left). Volcano plot of significantly
+  differentially expressed genes (DEGs) in P10 endothelial cells, KO vs. WT (bottom
+  left). Blue lines on volcano plot mark −1 and +1 avg_log2FC cutoff of statistical
+  significance (x axis). Red line on volcano plot marks adjusted p-value significance
+  cutoff (0.05). Y axis is −log10 of adjusted p value. Heatmap showing log-normalized
+  and scaled expression of top 20 DEGs upregulated in P10 ICH samples (up in KO) and
+  downregulated in endothelial cells from ICH samples (up in WT). TreePlot of top
+  15 gene ontology (GO) enrichment pathways overexpressed in endothelial cells from
+  ICH samples at P10 (right). (D); Ridgeplot of DEGs downregulated in endothelial
+  cells from KO brains at the three neonatal ages. (E); Ridgeplot of DEGs upregulated
+  in endothelial cells from KO brains at P0, P5 and P10
+article_title: Single Cell RNA Sequencing and Spatial Profiling Identify Mechanisms
+  of Neonatal Brain Hemorrhage Development and Resolution
+citation: Santiago A. Forero, et al. bioRxiv. 2025 Jul 31;29(1).
+year: '2025'
+pub_date: 2025-7-31
+epub_date: 2025-7-31
+doi: 10.1101/2025.07.30.667675
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

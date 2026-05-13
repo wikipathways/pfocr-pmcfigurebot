@@ -1,0 +1,43 @@
+---
+figid: PMC12348567__plants-14-02269-g005
+pmcid: PMC12348567
+image_filename: jpg
+figure_link: /pmc/articles/PMC12348567/figure/F5/
+number: Figure 5
+figure_title: Analysis of metabolic pathways associated with vascular tissue development.
+caption: Analysis of metabolic pathways associated with vascular tissue development.
+  Analysis of DEGs related to starch and sucrose metabolic pathways (A). Analysis
+  of DEGs associated with carbon metabolic pathways (B). Used to synthesize UDP-glucose,
+  a substrate for cellulose synthesis. The three stages of root development after
+  blueberry root pruning are presented in the heatmap, from left to right, CK-T1 (CK-7d),
+  CK-T2 (CK-21d), CK-T3 (CK-42d), CT-T1 (CT4-7d), CT-T2 (CT4-21d), and CT-T3 (CT4-42d).
+  The data presented in the heatmap is the average of three biological replicates.
+  Enzyme reactions associated with gene expression involving each step are presented
+  on the corresponding arrows, containing glucoside hydrolase (BGLU), sucrose invertase
+  (INV), and granule-bound starch synthase (WAXY). The gene expressions involved were
+  BGLU (Vadar_g18328, Vadar_g18327, Vadar_g39897, Vadar_g39093, Vadar_g228 and Vadar_g25404),
+  INV (Vadar_g16537), and WAXY (Vadar_g15976). (B) Analysis of DEGs related to carbon
+  metabolic pathways. The data presented in the heatmap are the average of three biological
+  replicates. Enzyme reactions associated with gene expression involving each step
+  are presented on the corresponding arrows, containing (Diphosphate-dependent phosphofructokinase,
+  PFP), (Glyceraldehyde-3-phosphate dehydrogenase, GAPN), (Glyceraldehyde 3-phosphate
+  dehydrogenase, GAPA), (Dihydrolipoyl dehydrogenase, DLD), and (Malate dehydrogenase,
+  MDH2). The gene expressions involved were PFP (Vadar_g33626), GAPN (Vadar_g28061),
+  GAPA (Vadar_g39062), DLD (Vadar_g11578), and MDH2 (Vadar_g46714). CK, non-root pruning;
+  CT, root pruning
+article_title: The Molecular Mechanism and Effects of Root Pruning Treatment on Blueberry
+  Tree Growth
+citation: Liwei Chu, et al. Plants (Basel). 2025 Aug;14(15).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-23
+doi: 10.3390/plants14152269
+journal_title: Plants
+journal_nlm_ta: Plants (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- root pruning
+- root growth
+- transcriptome
+- vascular tissue development
+---

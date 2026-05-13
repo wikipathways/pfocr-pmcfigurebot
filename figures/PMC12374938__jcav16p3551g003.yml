@@ -1,0 +1,44 @@
+---
+figid: PMC12374938__jcav16p3551g003
+pmcid: PMC12374938
+image_filename: jpg
+figure_link: /pmc/articles/PMC12374938/figure/F3/
+number: Figure 3
+figure_title: Integration of multi-omics data and functional characterization of overlapping
+  genes in thyroid cancer.
+caption: 'Integration of multi-omics data and functional characterization of overlapping
+  genes in thyroid cancer. (A) Venn diagram illustrating the overlap among five gene/protein
+  lists derived from multi-omics analyses: enzyme, phosphorylation, proteomics, RNA,
+  and pediatric malignant versus pediatric benign (PM/PB) comparisons. The analysis
+  includes data from papillary thyroid cancer (PTC) patients (n=37 pairs of tumor
+  and adjacent normal tissues) and pediatric thyroid tissue samples (PM, n=15; PB,
+  n=12). A total of 46 genes were identified as shared across at least three datasets.
+  (B) Cancer Hallmark analysis of the 46 overlapping genes, highlighting significant
+  enrichment in pathways related to metabolic reprogramming. The radial plot displays
+  adjusted p-values for each hallmark category, with lower values indicating stronger
+  enrichment. (C) Bubble plot showing Gene Ontology (GO) cellular component enrichment
+  among the intersecting genes. Bubble size corresponds to the number of genes in
+  each GO term, and color intensity reflects statistical significance (FDR-adjusted
+  p-value). (D) Bubble plot of enriched KEGG pathways for the overlapping genes. Bubble
+  size represents the gene ratio (proportion of genes in each pathway), and color
+  intensity indicates statistical significance (FDR-adjusted p-value, shown as -log10
+  values)'
+article_title: Integrative Multi-Omics Analysis Reveals Key Metabolic Regulators and
+  Prognostic Biomarkers in Pediatric and Adult Thyroid Cancer
+citation: Bin Ling, et al. J Cancer. 2025;16(11).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025-7-28
+doi: 10.7150/jca.117034
+journal_title: Journal of Cancer
+journal_nlm_ta: J Cancer
+publisher_name: Ivyspring International Publisher
+keywords:
+- multi-omics integration
+- thyroid carcinoma (TC)
+- proteomics
+- metabolomics
+- RNA sequencing (RNAseq)
+- energy metabolism
+- immunotherapy
+---

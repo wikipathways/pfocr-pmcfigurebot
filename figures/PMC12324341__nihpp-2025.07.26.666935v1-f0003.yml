@@ -1,0 +1,32 @@
+---
+figid: PMC12324341__nihpp-2025.07.26.666935v1-f0003
+pmcid: PMC12324341
+image_filename: jpg
+figure_link: /pmc/articles/PMC12324341/figure/F3/
+number: Figure 3.
+figure_title: GSEA reveals conserved immune pathway enrichment in alpha cells across
+  primary and stem cell-derived islet datasets
+caption: '(A) GSEA of basal alpha- vs beta-cell transcriptomes from HPAP-young (T1D
+  control) donors; (B) GSEA of basal alpha- vs beta-cell transcriptomes from HPAP-older
+  (T2D control) donors; (C) GSEA of basal alpha- vs beta-cell transcriptomes from
+  the dataset Szymczak et al. iPSC stage 7; (D) GSEA of basal alpha- vs beta-cell
+  transcriptomes of Chandra et al. iPSC stage 6 dataset; (E) GSEA of basal alpha-
+  vs beta-cell transcriptomes from the dataset Sintov et al. (hESC-derived alpha-
+  and beta-like cells matured in vivo); (F) GSEA of basal alpha- vs beta-cell transcriptomes
+  from the dataset Sintov et al. (hESC-derived alpha- and beta-like cells differentiated
+  in vitro). Bars represent the NES, with positive values indicating alpha-cell enriched
+  pathways and negative values indicating beta-cell enriched pathways. Color intensity
+  reflects the significance level (−log10 adjusted p-value). GSEA: Gene set enrichment
+  analysis, HPAP: Human Pancreas Analysis Program, NES: normalized enrichment score'
+article_title: Differential immune- and apoptosis-related gene signatures in pancreatic
+  alpha and beta cells contribute to their fate in type 1 diabetes
+citation: Xiaoyan Yi, et al. bioRxiv. 2025 Jul 31;NA(NA).
+year: '2025'
+pub_date: 2025-7-31
+epub_date: 2025-7-31
+doi: 10.1101/2025.07.26.666935
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

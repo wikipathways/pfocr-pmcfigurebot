@@ -1,0 +1,36 @@
+---
+figid: PMC12338652__nihpp-2025.07.16.664929v1-f0004
+pmcid: PMC12338652
+image_filename: jpg
+figure_link: /pmc/articles/PMC12338652/figure/F4/
+number: 'Figure 4:'
+figure_title: Transcriptomic gene-level analysis of ndufs2−/− larvae
+caption: 'A) Principal component analysis plot from RNA-Seq data indicating the zebrafish
+  line of the larvae. Each dot represents a single fish colored according to genotype.
+  AB fish are wild-type with genotype ndufs2+/+ and marked in dark blue. In cross
+  siblings with mixed genotypes ndufs2+/+,+/− are marked in light blue. Mutant ndufs2−/−
+  zebrafish are marked in red. See Supplemental Figure S4 for PCA coded by days post
+  fertilization and clutch. B) Normalized transcript counts to quantify ndufs2 gene
+  expression. Differences in normalized counts between groups were assessed using
+  an unpaired, two-tailed Student’s t-test with Bonferroni correction for multiple
+  comparisons (* p < 0.001, ** p < 0.0001). Significant differences were seen in ndufs2
+  normalized counts between all groups: AB and ndufs2+/+,+/− (44% decrease in ndufs2+/+,+/−,
+  P = 0.0003); AB and ndufs2−/− (96% decrease in ndufs2−/−, p < 0.0001); and ndufs2+/+,+/−
+  and ndufs2−/− (92% decrease in ndufs2−/−, p = 0.0001). C) Heatmap of differentially
+  expressed genes in ndufs2−/− compared to AB and ndufs2+/+,+/− larvae. Gene expression
+  is presented as normalized transcript counts and scaled across genes. All genes
+  represented have significant differences in expression between groups (p < 0.05)
+  calculated using DESeq2 (v 1.38.3). Genes are grouped based on zebrafish pathway
+  categories labeled on figure for horizontal groupings'
+article_title: ndufs2−/− zebrafish have impaired survival, neuromuscular activity,
+  morphology, and one-carbon metabolism treatable with folic acid
+citation: Dana V. Mitchell, et al. bioRxiv. 2025 Jul 18;NA(NA).
+year: '2025'
+pub_date: 2025-7-18
+epub_date: 2025-7-18
+doi: 10.1101/2025.07.16.664929
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

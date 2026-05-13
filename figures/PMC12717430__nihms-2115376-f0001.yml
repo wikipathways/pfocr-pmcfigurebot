@@ -1,0 +1,34 @@
+---
+figid: PMC12717430__nihms-2115376-f0001
+pmcid: PMC12717430
+image_filename: jpg
+figure_link: /pmc/articles/PMC12717430/figure/F1/
+number: Figure 1.
+figure_title: Metabolite identification and computational workflow
+caption: (a) Metabolites were identified through literature with associations to AD-protective,
+  T2D, AD/T2D-protective, and both AD/T2D. A “+” is associated with disease, whereas
+  a “–” is associated with protective conditions. Primary neurons were grown in 6-well
+  plates and stimulated with metabolites and their respective vehicles and prepared
+  for Luminex (b) After data acquisition, multi-pathway and MAPK/SAPK datasets were
+  separately processed and combined into an intracellular signaling dataset. We performed
+  multivariate analysis by creating partial least squares discriminant analysis models
+  on the intracellular data, then correlated our cytokine and intracellular responses
+  together with canonical correlation analysis
+article_title: Metabolites associated with type 2 diabetes and Alzheimer’s disease
+  trigger differential intracellular signaling responses in mouse primary neurons
+citation: Brendan K. Ball, et al. Brain Res. 2025 Oct 01;1864(NA).
+year: '2025'
+pub_date: '2025-10-01'
+epub_date: 2025-7-05
+doi: 10.1016/j.brainres.2025.149819
+journal_title: Brain research
+journal_nlm_ta: Brain Res
+publisher_name: .na.character
+keywords:
+- Intracellular signaling
+- cytokines
+- Alzheimer’s disease
+- type 2 diabetes
+- partial least squares discriminant analysis
+- canonical correlation analysis
+---

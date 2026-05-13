@@ -1,0 +1,38 @@
+---
+figid: PMC12345659__cancers-17-02529-g002
+pmcid: PMC12345659
+image_filename: jpg
+figure_link: /pmc/articles/PMC12345659/figure/F2/
+number: Figure 2
+figure_title: DSP analysis of primary lung cancer and brain metastasis.
+caption: DSP analysis of primary lung cancer and brain metastasis. Protein profiling
+  of ROIs was performed using oligo-conjugated panel and read out with NanoString
+  barcodes. (A) Volcano plot showing differential expression of proteins between patients
+  with primary lung cancer and brain metastasis. The x-axis shows the magnitude of
+  a protein’s association with metastasis. The y-axis shows the −log10(p value), which
+  increases with statistical significance. The horizontal blue line represents the
+  p value cutoffs. Comparisons were analyzed using independent t-test. (B–J) Proteins
+  associated with adaptive immunity and PTEN/mTOR/STAT3 signaling pathway documented
+  lower expression in patients with brain metastasis. (H) However, protein expression
+  pS6 was higher in brain metastasis
+article_title: Spatial Omics Profiling of Treatment-Naïve Lung Adenocarcinoma with
+  Brain Metastasis as the Initial Presentation
+citation: Seoyeon Gwon, et al. Cancers (Basel). 2025 Aug;17(15).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-31
+doi: 10.3390/cancers17152529
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- lung cancer
+- brain metastasis
+- digital spatial profiling
+- IDO-1
+- PD1
+- PDL1
+- STAT3
+- PTEN
+- CD44
+---

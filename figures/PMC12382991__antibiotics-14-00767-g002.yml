@@ -1,0 +1,34 @@
+---
+figid: PMC12382991__antibiotics-14-00767-g002
+pmcid: PMC12382991
+image_filename: jpg
+figure_link: /pmc/articles/PMC12382991/figure/F2/
+number: Figure 2
+figure_title: Transcriptomic changes of strain H1.
+caption: Transcriptomic changes of strain H1. (A) Heatmap illustrating the inter-sample
+  correlation among strain H1 (n = 3) and strain M (n = 3). Correlation coefficients
+  are represented between samples across the horizontal and vertical axes, with color
+  gradients indicating the degree of correlation. (B) Volcano plot showing differentially
+  expressed genes. Genes with an adjusted p-value < 0.05 and a fold change (FC) >
+  2 or <0.5 are defined as significantly differentially expressed. (C,D) KEGG-enriched
+  metabolic pathways of the significantly upregulated (C) and downregulated genes
+  (D) with enrichment rate on the horizontal axis and pathway names on the vertical
+  axis. Circle size reflects the number of genes within each enriched pathway
+article_title: Resistance Response and Regulatory Mechanisms of Ciprofloxacin-Induced
+  Resistant Salmonella Typhimurium Based on Comprehensive Transcriptomic and Metabolomic
+  Analysis
+citation: Xiaohan Yang, et al. Antibiotics (Basel). 2025 Aug;14(8).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-29
+doi: 10.3390/antibiotics14080767
+journal_title: Antibiotics
+journal_nlm_ta: Antibiotics (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- Salmonella Typhimurium
+- drug resistance
+- ciprofloxacin
+- metabolomics
+- transcriptomics
+---

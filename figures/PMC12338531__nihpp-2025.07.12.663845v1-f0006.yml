@@ -1,0 +1,31 @@
+---
+figid: PMC12338531__nihpp-2025.07.12.663845v1-f0006
+pmcid: PMC12338531
+image_filename: jpg
+figure_link: /pmc/articles/PMC12338531/figure/F6/
+number: 'Fig. 6:'
+figure_title: Endogenous TIL alterations.
+caption: Endogenous TIL alterations. A) 3-dimensional UMAP of T cell populations.
+  B) Proportions of T cells positive for Cd8 (Cd8α/β) and Cd4 (including Foxp3). C)
+  Conserved and context-specific relative information flow alterations for highly
+  significant (p<0.01) pathways incoming and outgoing from eTILs. Pathways colored
+  gray are enriched in Veh-M, blue is enriched in EZH2i-M, and text colored black
+  indicates an enriched pathway in both groups. D) Violin plots of module scores comparing
+  progenitor (Pdcd1+/Tcf7+/Havcr2−) and exhausted (Pdcd1+/Tcf7−/Havcr2+) phenotypes
+article_title: Single-cell profiling of EZH2-mediated immune signaling perturbations
+  in NSCLC
+citation: Daniel R. Plaugher, et al. bioRxiv. 2025 Jul 17;NA(NA).
+year: '2025'
+pub_date: 2025-7-17
+epub_date: 2025-7-17
+doi: 10.1101/2025.07.12.663845
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- non-small cell lung cancer
+- cell signaling
+- immune micro-environment
+- epigenetics
+- tumor-infiltrating lymphocytes
+---

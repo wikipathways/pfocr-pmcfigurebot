@@ -1,0 +1,26 @@
+---
+figid: PMC12338652__nihpp-2025.07.16.664929v1-f0005
+pmcid: PMC12338652
+image_filename: jpg
+figure_link: /pmc/articles/PMC12338652/figure/F5/
+number: 'Figure 5:'
+figure_title: Transcriptomic pathway analysis of ndufs2−/− larvae
+caption: ndufs2−/− larvae show enrichment of expression in pathways related to general
+  metabolic processes and one-carbon and nucleotide metabolism but downregulated expression
+  of pathways involved in eye development and vision. Pathway enrichment analysis
+  was performed with RNA-Seq data using GO, KEGG, and WikiPathways databases in ndufs2−/−
+  larvae compared to healthy control larvae through the R package WebGestaltR. Pathways
+  with lollipops towards the right or left indicate pathways that are upregulated
+  or downregulated, respectively, in ndufs2−/− larvae relative to wild-type controls
+article_title: ndufs2−/− zebrafish have impaired survival, neuromuscular activity,
+  morphology, and one-carbon metabolism treatable with folic acid
+citation: Dana V. Mitchell, et al. bioRxiv. 2025 Jul 18;NA(NA).
+year: '2025'
+pub_date: 2025-7-18
+epub_date: 2025-7-18
+doi: 10.1101/2025.07.16.664929
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

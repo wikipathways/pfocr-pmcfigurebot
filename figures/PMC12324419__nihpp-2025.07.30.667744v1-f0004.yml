@@ -1,0 +1,39 @@
+---
+figid: PMC12324419__nihpp-2025.07.30.667744v1-f0004
+pmcid: PMC12324419
+image_filename: jpg
+figure_link: /pmc/articles/PMC12324419/figure/F4/
+number: FIGURE 4
+figure_title: CaMKII activation drives aging-related pathway changes; its inhibition
+  reverses inflammatory signatures in aged muscle, but NF-κB blockade fails to rescue
+  CaMKIICA-induced contractile dysfunction.
+caption: CaMKII activation drives aging-related pathway changes; its inhibition reverses
+  inflammatory signatures in aged muscle, but NF-κB blockade fails to rescue CaMKIICA-induced
+  contractile dysfunction. (a) Normalized Enrichment Scores (NES) from Gene Set Enrichment
+  Analysis (GSEA) on indicated ranked gene lists. The FDR q-value ranges of the enriched
+  pathways are indicated by color. (b) Correlation analysis between the NES of Reactome
+  gene sets regulated by aging (old EGFP vs. young EGFP) or by CaMKIICA (young CaMKIICA
+  vs. young EGFP). Color indicates whether CaMKIICA exacerbated, opposed, or minimally
+  influenced aging-related changes. Spearman’s ρ and p-value are shown. A linear trendline
+  was included to indicate the overall correlation. (c and d) EnrichmentMap clustering
+  of Reactome gene sets regulated by aging or by CaMKIICA; red and blue circles indicate
+  positively and negatively enriched pathways, respectively; edges indicate overlap
+  in underlying genes between connected pathways. (e) EnrichmentMap clustering of
+  Reactome gene sets regulated by CN19o in old muscles compared to old EGFP expressing
+  muscles. (f) Schematics of experimental design testing the effect of IκBα Super
+  Repressor (ISR) on CaMKIICA-induced muscle weakness. (g) In vivo isometric force-frequency
+  curves of TA muscles 5 weeks post-injection of AAV9-tMCK-CaMKIICA with co-injection
+  of either AAV9-tMCK-EGFP or AAV9-tMCK-ISR. n = 9 per condition; p-value in graph
+  (p = 0.1)
+article_title: Chronic activation of a key exercise signal transducer, CaMKII, drives
+  skeletal muscle aging and sarcopenia
+citation: Michael R. Bene, et al. bioRxiv. 2025 Aug 02;NA(NA).
+year: '2025'
+pub_date: 2025-8-02
+epub_date: 2025-8-02
+doi: 10.1101/2025.07.30.667744
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

@@ -1,0 +1,31 @@
+---
+figid: PMC12330743__nihpp-2025.07.23.666475v1-f0005
+pmcid: PMC12330743
+image_filename: jpg
+figure_link: /pmc/articles/PMC12330743/figure/F4/
+number: Figure 4.
+figure_title: Proteomic analysis and KEGG pathway enrichment in snoKO vs. WT SMCs
+caption: A, For each of 5,681 proteins identified by LC-MS/MS, the relative quantity
+  obtained from snoKO SMCs was divided by that obtained in WT SMCs, and these ratios
+  were plotted as a volcano plot. Each point represents a single protein. The x-axis
+  depicts the snoKO/WT ratio for each protein (log2). The y-axis depicts the p value
+  for each of these snoKO/WT ratios (−log10). Proteins with a fold change of ≥1.5
+  (green) or ≤0.67 (red) and a p value of <0.05 were considered significant and are
+  highlighted above the dotted line. The 2 proteins with the most significant changes
+  in expression are labeled. B, The KEGG pathway analysis is displayed as a bubble
+  plot. The y-axis lists the enriched pathways; the x-axis represents the enrichment
+  score, calculated as the log10 of the ratio snoKO/WT. The size of each bubble corresponds
+  to the count of proteins in that pathway, and the color indicates the significance
+  level (−log10 of the p value), with warmer colors representing greater significance
+article_title: Rpl13a snoRNAs Downregulate Smooth Muscle Cell COX4I2 and Promote Neointimal
+  Hyperplasia
+citation: Brittany A. Elliott, et al. bioRxiv. 2025 Jul 27;NA(NA).
+year: '2025'
+pub_date: 2025-7-27
+epub_date: 2025-7-27
+doi: 10.1101/2025.07.23.666475
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

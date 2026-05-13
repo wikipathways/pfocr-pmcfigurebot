@@ -1,0 +1,29 @@
+---
+figid: PMC12338734__nihpp-2025.07.18.665549v1-f0004
+pmcid: PMC12338734
+image_filename: jpg
+figure_link: /pmc/articles/PMC12338734/figure/F4/
+number: Figure 4.
+figure_title: EBV DNAemia gene associations at cell and pathway resolutions
+caption: '(a) UMAP embedding of 211,000 peripheral blood mononuclear cells. The broad
+  cell type annotation (Azimuth L173) annotates major cell types. (b) Module score
+  of EBV ExWAS associations, highlighting populations with the highest enrichment.
+  (c) Summary of EBV ExWAS scores in major populations. *** indicate statistical significance
+  (P < 2.2 × 10−16 relative to held-out cell types; one-sided Wilcoxon rank-sum test).
+  Boxplots: center line, median; box limits, first and third quartiles; whiskers,
+  1.5× interquartile range. (d) Summary of top 5 terms from gene set analysis (GSA)
+  of GO Biological Processes Pathways enrichment. (e) Same as (d) except excluding
+  annotated HLA genes. (f) Same as (d) but excluding all genes mapping to chromosome
+  6'
+article_title: Population-scale sequencing resolves correlates and determinants of
+  latent Epstein-Barr Virus infection
+citation: Sherry S. Nyeo, et al. bioRxiv. 2025 Jul 18;NA(NA).
+year: '2025'
+pub_date: 2025-7-18
+epub_date: 2025-7-18
+doi: 10.1101/2025.07.18.665549
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

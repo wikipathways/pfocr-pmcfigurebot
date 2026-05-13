@@ -1,0 +1,53 @@
+---
+figid: PMC12393171__nihms-2101258-f0008
+pmcid: PMC12393171
+image_filename: jpg
+figure_link: /pmc/articles/PMC12393171/figure/F7/
+number: Figure 7.
+figure_title: Proteomics Clustering Identifies Advanced Molecular Features Driving
+  Late-like Early-stage LUAD
+caption: A. KM plots for relapse-free survival in tumors of stages I–III (left) and
+  stage I alone (right) (log-rank test, p<0.001).B. Summary of activated canonical
+  pathways (activating z-score >1; Fisher's exact test, adj. p<0.05) based on Ingenuity
+  Pathway Analysis of proteins differentially expressed in tumors of all stages (I–IV,
+  left), C1-C3 clusters including tumors of all stages (center), and C1-C3 clusters
+  subsetted for stage I tumors only (right).C. Summary of activated canonical pathways
+  (activating z-score >1; Fisher's exact test; asterisks indicate Benjamini-Hochberg
+  adj. p<0.05) based on Ingenuity Pathway Analysis of proteins differentially expressed
+  in C2 vs non-C2 tumors of all stages (I–IV, left) and stage I alone (right), separated
+  by smoking status.D. Top 30 candidate protein biomarkers significantly enriched
+  in “late-like” early-stage tumors in the proteomic C2 subtype (Fisher's exact test,
+  adj. p<0.01). The log2 and relative abundances in stage I-IV or stage I in the C2/non-C2
+  subtype, −log p-value, protein function and annotation of these candidate biomarkers
+  are presented.E. Sex-specific differences in the incidence frequency (x-axis) and
+  median values of mutagen/carcinogen exposure signatures (y-axis) in proteomic clusters
+  C1–3 (p-values from Fisher’s exact test).F. Sex-dependent mutagen/carcinogen signature
+  distributions within the proteomic C2 subtype. Lower tracks show clinical and mutational
+  annotations.G. Summary of shared and sex-specific enrichment of activated pathways
+  in the C2 proteomic subtype (left). EGFR and BCR signaling-related proteins as well
+  as the immunoproteasome are highly activated in C2 females, while C2 male patients
+  have upregulated KRAS pathways and standard proteasome proteins. Shared activating
+  proteins in the C2 subtype are involved in immune response, cell death and survival,
+  metabolism, and metastasis (right).See also Figure S7 and Tables S1 and S7
+article_title: Integrative Analysis of Lung Adenocarcinoma Across Diverse Ethnicities
+  and Exposures
+citation: Shankha Satpathy, et al. Cancer Cell. 2025 Sep 08;43(9).
+year: '2025'
+pub_date: 2025-9-08
+epub_date: 2025-7-31
+doi: 10.1016/j.ccell.2025.07.011
+journal_title: Cancer cell
+journal_nlm_ta: Cancer Cell
+publisher_name: .na.character
+keywords:
+- Proteogenomics
+- LUAD
+- Genomics
+- Mass Spectrometry
+- PTMs
+- Biomarkers
+- Smokers
+- Non-smokers
+- CPTAC
+- ICPC
+---

@@ -1,0 +1,51 @@
+---
+figid: PMC12338667__nihpp-2025.07.12.664223v1-f0005
+pmcid: PMC12338667
+image_filename: jpg
+figure_link: /pmc/articles/PMC12338667/figure/F5/
+number: 'Figure 5:'
+figure_title: 10Hz AV flicker reverses the effects of stress on clinically relevant
+  Fkbp5 and mediated stress-induced transcriptional changes in frontal cortical astrocytes
+caption: '(A) Volcano plot showing differential gene expression of astrocytes in stressed
+  males following 10Hz AV flicker compared to stress no stimulation (threshold set.
+  log2fc>1 and p<0.05). Genes involved in the regulation of stress signaling are highlighted
+  in bold. (B) Gene ontology (GO) enrichment analysis for genes downregulated (blue)
+  and upregulated (red) after 10Hz AV flicker exposure in stressed males compared
+  to no stimulation stressed males. (C) Venn diagram demonstrating unique modifiable
+  enriched genes associated with stress following 10Hz (blue) AV flicker compared
+  to 40Hz (green) AV flicker. (D) and (E) as in A and B for 40Hz flicker exposure
+  in stressed males compared to no stimulation stressed males. (F) Cortical astrocyte
+  branching (arborization, left) and convex hull volume (right) in stressed male mice
+  under AV flicker intervention at 10Hz (blue), 40Hz (green), stress alone (red),
+  or no stress no stimulation control (grey) conditions (arborization (H (3) = 84.70;
+  p<0.0001); convex hull (H (3) = 43.38; p<0.0001)). Below: Example 20x confocal image
+  of GFAP+ astrocytes (left) and reconstruction of morphology (right), scale bar 50μm.
+  Error bars show mean ± SEM. Each dot is a cell. N = 3 pooled samples from 6 animals
+  per group for transcriptome analysis and n = 439–593 cells from 5 animals per group
+  for morphology analysis. Morphological analyses were conducted at the group level,
+  with data aggregated across cells within a group. Transcriptional profile at gene
+  expression level without FDR adjustment p<0.05, Wald test. GO terms pathway analysis
+  FDR-adjusted, p<0.05. Kruskal-Wallis test performed for astrocyte morphology analysis
+  followed by Dunn’s post hoc test. *p<0.05; ***p<0.001; ****p<0.0001. See Supplemental
+  Table 11 for statistical details'
+article_title: Sensory neurostimulation promotes stress resilience with frequency-specificity
+citation: Tina C. Franklin, et al. bioRxiv. 2025 Jul 17;NA(NA).
+year: '2025'
+pub_date: 2025-7-17
+epub_date: 2025-7-17
+doi: 10.1101/2025.07.12.664223
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Audiovisual sensory stimulation
+- Non-invasive brain stimulation
+- Chronic stress
+- Resilience
+- Medial prefrontal cortex (mPFC)
+- Dendritic spines
+- Astrocytes
+- Microglia
+- Flicker
+- Neuropsychiatric risk genes
+---

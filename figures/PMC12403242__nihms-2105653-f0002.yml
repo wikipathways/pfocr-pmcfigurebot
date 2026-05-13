@@ -1,0 +1,36 @@
+---
+figid: PMC12403242__nihms-2105653-f0002
+pmcid: PMC12403242
+image_filename: jpg
+figure_link: /pmc/articles/PMC12403242/figure/F2/
+number: Fig. 2.
+figure_title: Gene expression alterations in the hypothalamus of Fto-Irx::hibE cis-element
+  knockout mice under fed and 72-hr fasted conditions
+caption: (A-E) The barplots show the RNA-Seq measured expression of Fto, Irx3, and
+  Irx5 in the hypothalamus in each of the Fto-Irx::hibE knockout mouse lines (n=4
+  mice, two-tailed test (Fto) or One-way ANOVA (Irx3 and Irx5) with Tukey post-test).
+  The H3K27ac+ PLAC-Seq detected regulatory contacts for each cis-element are shown
+  above, along with tracks for pHibARs and the location of each knocked out cis-element
+  (E). Data for mice in a fed (grey box) versus 72-hr fasted condition (orange box)
+  are shown. CPM, counts per million. The results show how each element affects Fto,
+  Irx3, and Irx5 expression in two different metabolic conditions. (F) The heatmap
+  shows the expression of RNA-Seq detected differentially expressed genes (DEGs, FDR
+  < 5%) in the hypothalamus for Fto-Irx::hibE3−/− mice in fed and 72-hr fasted conditions
+  relative to +/+ littermates. (G) The barplots show the numbers of significant DEGs
+  (RNA-Seq, FDR<5%) detected in the hypothalamus of −/− versus +/+ mice for fed and
+  72-hr fasted conditions for all 5 different Fto-Irx::hibE cis-element knockout mice
+  (E1-5). (H) The plot shows significant KEGG pathway enrichments from a gene set
+  analysis of significant DEGs in Fto-Irx::hibE2−/− , Fto-Irx::hibE3−/− , and Fto-Irx::hibE4−/−
+  mice
+article_title: Conserved Noncoding Cis-Elements Associated with Hibernation Modulate
+  Metabolic and Behavioral Adaptations in Mice
+citation: Susan Steinwand, et al. Science. 2025 Jul 31;389(6759).
+year: '2025'
+pub_date: 2025-7-31
+epub_date: 2025-7-31
+doi: 10.1126/science.adp4701
+journal_title: Science (New York, N.Y.)
+journal_nlm_ta: Science
+publisher_name: .na.character
+keywords: []
+---

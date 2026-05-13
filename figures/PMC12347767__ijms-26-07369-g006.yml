@@ -1,0 +1,38 @@
+---
+figid: PMC12347767__ijms-26-07369-g006
+pmcid: PMC12347767
+image_filename: jpg
+figure_link: /pmc/articles/PMC12347767/figure/F6/
+number: Figure 6
+figure_title: Comparative pathway analysis of proteomic responses to combination vs.
+caption: 'Comparative pathway analysis of proteomic responses to combination vs. monotherapies
+  in HKB-11 cells. Ingenuity Pathway Analysis (IPA) was used to compare significant
+  proteomic changes in HKB-11 lymphoma cells treated with a combination of nisin (N)
+  and urolithin B (UB) (7:3 ratio; 5750 µM) versus monotherapies (N: 5600 µM; UB:
+  150 µM). Three categories of enrichment are shown: (A) Canonical pathways were selected
+  based on Benjamini–Hochberg (BH)-corrected p values ≤ 0.001 and an absolute activation
+  Z-score ≥ 2. (B) Upstream regulators (genes/proteins) were inferred using the same
+  statistical threshold (p ≤ 0.001) and an absolute Z-score ≥ 3. (C) Enriched diseases
+  and biological functions were filtered by p ≤ 0.001 and an absolute Z-score ≥ 2.
+  The colour intensity represents the activation Z-score of predicted activation (orange)
+  or inhibition (blue), while dotted entries indicate terms with low predicted activation/inhibition
+  (|Z| ≤ 1)'
+article_title: Investigating the Cellular Responses to Combined Nisin and Urolithin
+  B Treatment (7:3) in HKB-11 Lymphoma Cells
+citation: Ahmad K. Al-Khazaleh, et al. Int J Mol Sci. 2025 Aug;26(15).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-30
+doi: 10.3390/ijms26157369
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- lymphoma
+- postbiotics
+- nisin
+- urolithin B
+- synergy
+- proteomics
+- apoptosis
+---

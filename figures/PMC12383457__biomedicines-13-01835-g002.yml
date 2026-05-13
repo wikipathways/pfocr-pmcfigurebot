@@ -1,0 +1,47 @@
+---
+figid: PMC12383457__biomedicines-13-01835-g002
+pmcid: PMC12383457
+image_filename: jpg
+figure_link: /pmc/articles/PMC12383457/figure/F2/
+number: Figure 2
+figure_title: AI-HOPE-RTK-RAS analysis of RTK-RAS pathway alterations in early- vs.
+caption: 'AI-HOPE-RTK-RAS analysis of RTK-RAS pathway alterations in early- vs. late-onset
+  colorectal cancer (CRC) patients. This figure illustrates the application of AI-HOPE-RTK-RAS
+  to evaluate age-related differences in RTK-RAS pathway alterations among CRC patients
+  using a natural language query and automated odds ratio framework. (a) The case
+  cohort includes 153 early-onset CRC (EOCRC) Hispanic/Latino (H/L) patients under
+  the age of 50 (2.8% of the dataset) selected using demographic filters. The pie
+  chart displays the proportion of selected EOCRC H/L patients relative to the full
+  sample population. (b) The control cohort consists of 204 late-onset CRC (LOCRC)
+  H/L patients over the age of 50 (3.7% of the dataset), similarly selected by age
+  and ethnicity. A pie chart illustrates their representation within the dataset.
+  (c) An odds ratio test compares the frequency of RTK-RAS pathway alterations between
+  the EOCRC and LOCRC H/L cohorts using a 2 × 2 table and stacked bar plot. RTK-RAS
+  alterations were present in 67.97% of early-onset and 79.9% of late-onset cases.
+  The resulting odds ratio was 0.534 (95% CI: 0.33–0.865, p = 0.014), indicating that
+  early-onset H/L patients were significantly less likely to harbor RTK-RAS alterations
+  than their later-onset counterparts. This result suggests potential differences
+  in molecular pathogenesis by age within this population and underscores AI-HOPE-RTK-RAS’s
+  capacity to support ancestry- and age-stratified genomic analyses through natural
+  language-driven precision oncology'
+article_title: 'Precision Oncology Through Dialogue: AI-HOPE-RTK-RAS Integrates Clinical
+  and Genomic Insights into RTK-RAS Alterations in Colorectal Cancer'
+citation: Ei-Wen Yang, et al. Biomedicines. 2025 Aug;13(8).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-28
+doi: 10.3390/biomedicines13081835
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- AI
+- artificial intelligence
+- precision medicine
+- cancer treatment
+- molecular insights
+- RTK-RAS pathway
+- large language models
+- AI-agents
+- cancer genetics
+---

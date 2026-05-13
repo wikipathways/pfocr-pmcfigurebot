@@ -1,0 +1,54 @@
+---
+figid: PMC7618990__EMS213201-f001
+pmcid: PMC7618990
+image_filename: jpg
+figure_link: /pmc/articles/PMC7618990/figure/F1/
+number: Fig. 1
+figure_title: An overview of the major mammalian nucleotide excision repair pathways
+caption: A. For the repair of bulky (6−4) pyrimidine–pyrimidone photoproducts (PPs)
+  and cyclobutane pyrimidine dimers (CPDs) in GG-NER, the initial recognition event
+  can be UV-DDB-dependent or XPC-dependent. UV-DDB-dependent repair is more efficient
+  and is initiated by UV-DDB binding directly to the DNA damage lesion. UV-DDB physically
+  manipulates the duplex to ‘flip out’ the bulky base, providing a preferred binding
+  site for XPC, which is in complex with Rad23B and CETN2. UV-DDB resides in a ubiquitin
+  E3 ligase complex consisting of CUL4A, Roc1 and the COP9 signalosome. The UV-DDB-E3
+  complex then ubiquitinates XPC and UV-DDB. TFIIH is then recruited via interaction
+  between the XPB subunit and XPC, and XPC and UV-DDB-E3 are released. For XPC-dependent
+  repair, the XPC-containing complex recognises the lesion which then recruits TFIIH
+  with interaction between XPC and the p62 subunit of TFIIH. The downstream steps
+  of TC- and GG-NER are consistent after TFIIH recruitment and release of the lesion
+  recognition factors. Next, the scaffolding proteins, XPA and RPA, are recruited,
+  releasing the CAK subunit of TFIIH. This also allows for positioning of the repair
+  endonucleases, XPF-ERCC1 and XPG. XPF-ERCC1 cuts first, 5′ to the lesion, followed
+  by XPG at the 3′ side. This results in excision of the DNA damage lesion within
+  a piece of ssDNA. Release of the DNA and repair factors is mediated by the translocase
+  protein, HLTF. This allows for loading of PCNA and DNA polymerase δ or ε for gap
+  filling synthesis, and RPA remains bound. After synthesis, the nick is sealed by
+  DNA ligase I or III. B. TC-NER is initiated by the impediment of RNAPII progression
+  by a bulky DNA lesion. The transient interaction between the transcription regulator
+  protein CSB and RNAPII becomes stabilised, and the CSA-CUL4A-DDB1-RBX1 (CRL4CSA)
+  ubiquitin ligase complex is recruited. The precise molecular coordination of the
+  following steps is unclear, however, it is known that (i) the repair factor ELOF1
+  helps direct the ubiquitination of RNAPII subunit RPB1 at residue K1268 by CRL4CSA,
+  (ii) UVSSA, a scaffold protein, helps to stabilise the complex and aids recruitment
+  of TFIIH, and (iii) STK19 stabilises the repair complex by binding CSA, UVSSA and
+  RPB1, aids UVSSA and RPB1-K1268 ubiquitination, and downstream loading of TFIIH
+  via an interaction with the XPD subunit. Whether RNAPII and other core factors (i.e.,
+  CSB, CRL4CSA, STK19, ELOF1, UVSSA) are present after TFIIH recruitment is still
+  unclear, although RNAPII is thought to be backtracked or released, and has been
+  removed for clarity
+article_title: Transcription-coupled repair of crosslinking DNA damage
+citation: Rebecca Roddan, et al. DNA Repair (Amst). 2025 Aug 01;152(NA).
+year: '2025'
+pub_date: 2025-8-01
+epub_date: 2025-7-16
+doi: 10.1016/j.dnarep.2025.103869
+journal_title: DNA repair
+journal_nlm_ta: DNA Repair (Amst)
+publisher_name: .na.character
+keywords:
+- DNA crosslinks
+- Interstrand crosslinks
+- DNA protein crosslinks
+- Excision repair
+---

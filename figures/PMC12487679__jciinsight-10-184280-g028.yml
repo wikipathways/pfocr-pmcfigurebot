@@ -1,0 +1,43 @@
+---
+figid: PMC12487679__jciinsight-10-184280-g028
+pmcid: PMC12487679
+image_filename: jpg
+figure_link: /pmc/articles/PMC12487679/figure/F3/
+number: Figure 3
+figure_title: Integrative transcriptome and proteomics analyses identify enrichment
+  of the mTOR pathway and MYC targets in DM CLL cells
+caption: (A) Heatmap shows significantly differentially expressed genes between CLL
+  cells with DM or Mdr deletion and normal B cells with different genetic lesions,
+  including Sf3b1-K700E, Mdr deletion, and DM. (B) GSEA from differentially expressed
+  genes from different comparisons, including Mdr MT B cells versus WT B cells, DM
+  B cells versus Mdr MT B cells, Mdr MT CLL cells versus Mdr MT B cells, DM CLL cells
+  versus DM B cells, DM CLL cells versus Mdr MT CLL cells. Significance cutoff is
+  set as FDR < 0.1. (C) Correlative plot of differentially expressed genes and proteins
+  between DM CLL cells and DM normal B cells derived from RNA-Seq and proteomics data.
+  DM CLL versus DM normal B cell fold changes are log2-transformed with positive and
+  negative values indicating upregulation and downregulation, respectively. Color-coded
+  genes are significantly differentially expressed genes at both mRNA and protein
+  levels. (D) GSEA based on differential RNA and protein analysis for genes enriched
+  for upregulated and downregulated pathways at both mRNA and protein levels. The
+  dashed line indicates significance according to the FDR < 0.1. (E) Western blot
+  of mTORC1 pathway components and MYC expression in DM CLL cells, DM and WT normal
+  B cells. (F) Validation of isoform 5 of nuclear factor of activated T cells C1 (NFATC1)
+  using Mdr MT CLL cells and DM CLL cells by immunoblotting. Western blot of mTORC1
+  pathway components, downstream targets, AKT pathway, and MYC expression in Mdr MT
+  CLL cells and DM CLL cells. (G) Correlation plot of pathways enriched at the protein
+  levels between human and mouse CLL with DM versus normal B cells
+article_title: SF3B1 mutation accelerates the development of CLL via activation of
+  the mTOR pathway
+citation: Bo Zhang, et al. JCI Insight. 2025 Jul 22;10(17).
+year: '2025'
+pub_date: 2025-7-22
+epub_date: 2025-7-22
+doi: 10.1172/jci.insight.184280
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Hematology
+- Oncology
+- Leukemias
+---

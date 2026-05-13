@@ -1,0 +1,36 @@
+---
+figid: PMC12347718__nihms-2102324-f0002
+pmcid: PMC12347718
+image_filename: jpg
+figure_link: /pmc/articles/PMC12347718/figure/F2/
+number: Figure 2.
+figure_title: SARS-CoV-2 variants have distinct effects on the megakaryocyte transcriptome.
+caption: SARS-CoV-2 variants have distinct effects on the megakaryocyte transcriptome.
+  (A) Amplification plots of SARS-CoV-2-specific real-time polymerase chain reaction
+  (RT-qPCR) of CD34+-derived MKs co-incubated with WA1, Delta or Omicron SARS-CoV-2
+  isolates or vehicle control (n = 4) for 24 hours. (B-D) Volcano plot of differentially
+  expressed genes (DEGs) between vehicle control and SARS-CoV-2 WA1, Delta or Omicron
+  (B, C and D, respectively). Colored dots are p < .05; red dots represent up-regulated
+  and blue dots down-regulated genes. (E-G) Ingenuity Pathway Analysis (IPA) of DEGs
+  identified upon co-incubation with SARS-CoV-2 WA1, Delta or Omicron (E, F and G,
+  respectively). The top 5 up-regulated and top 5 down-regulated pathways are presented
+  for each SARS-CoV-2 variant (p < .05). (H) Venn diagram depicting shared DEGs between
+  SARS-CoV-2 isolates. (I) Heatmap of overlapping DEGs between SARS-CoV-2 variants.
+  Z-scores were computed gene-by-gene by subtracting the mean of normalized counts
+  and dividing by the standard deviation
+article_title: Megakaryocyte phenotyping in response to SARS-CoV-2 variants
+citation: Marcin A Sowa, et al. Platelets. 2025 Dec;36(1).
+year: '2025'
+pub_date: 2025-12-
+epub_date: 2025-7-23
+doi: 10.1080/09537104.2025.2532459
+journal_title: Platelets
+journal_nlm_ta: Platelets
+publisher_name: .na.character
+keywords:
+- COVID-19
+- CXCL8
+- megakaryocytes
+- platelets
+- thrombosis
+---

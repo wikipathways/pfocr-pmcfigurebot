@@ -1,0 +1,36 @@
+---
+figid: PMC12323397__nihms-2099775-f0004
+pmcid: PMC12323397
+image_filename: jpg
+figure_link: /pmc/articles/PMC12323397/figure/F4/
+number: Fig. 4 |
+figure_title: Identifying senescent subpopulations in fibroblast and T cell clusters
+caption: a, UMAP subclustering of cluster 2 (fibroblasts) from the ND, HFD and HFD
+  + ABT-737 mouse groups. Subclusters were then analyzed for populations that increased
+  in the HFD condition and were diminished by ABT-737 treatment; subcluster 3 (red)
+  was considered potentially senescent, and the percentage is indicated for each condition.
+  b, Dot plot analysis of the top 50 RNAs most highly expressed in subcluster 3 compared
+  to all subclusters. c, Dot plot analysis of the top 50 RNAs most highly expressed
+  in subcluster 3 compared across the ND, HFD and HFD + ABT-737 groups for cluster
+  2. d, Reactome pathway analysis of subcluster 3. e, UMAP subclustering of cluster
+  9 (T cells) from ND, HFD and HFD + ABT-737 mice. Subclusters were then analyzed
+  for populations that increased in the HFD condition and were diminished by ABT-737
+  treatment; subcluster 5 (red) was considered potentially senescent, and the percentage
+  is indicated for each condition. f, Dot plot analysis of the top 50 RNAs most highly
+  expressed in subcluster 5 compared to all subclusters. g, Dot plot analysis of the
+  top 50 RNAs most highly expressed in subcluster 5 compared across the ND, HFD and
+  HFD + ABT-737 groups for cluster 9. h, Reactome pathway analysis of subcluster 5.
+  In d and h, significance was established using a Benjamini–Hochberg multiple test
+  correction
+article_title: Single-cell and spatial transcriptomics map senescent vascular cells
+  in arterial remodeling during atherosclerosis in mice
+citation: Krystyna Mazan-Mamczarz, et al. Nat Aging. 2025 Aug;5(8).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-14
+doi: 10.1038/s43587-025-00889-z
+journal_title: Nature aging
+journal_nlm_ta: Nat Aging
+publisher_name: .na.character
+keywords: []
+---

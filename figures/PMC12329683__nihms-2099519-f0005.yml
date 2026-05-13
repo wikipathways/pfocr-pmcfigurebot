@@ -1,0 +1,32 @@
+---
+figid: PMC12329683__nihms-2099519-f0005
+pmcid: PMC12329683
+image_filename: jpg
+figure_link: /pmc/articles/PMC12329683/figure/F4/
+number: Figure 4.
+figure_title: dNKs respond to intra-uterine inflammation with features of immune activation,
+  pathogen defense, and immunoregulation
+caption: (A and B) Violin plots show GNLY expression by scRNA-seq in dNKs from each
+  individual (A) rhesus and (B) human CAMD. The median expression is indicated by
+  a horizontal line.(C and D) Volcano plots show differentially expressed genes in
+  rhesus dNKs from (C) LPS (n = 3) versus control animals (n = 2) and (D) human pre-term
+  dNK acute chorioamnionitis (ACA) (n = 2) versus non-inflamed (CTR) (n = 2). Differential
+  expression analysis between control and LPS-injected animals in all rhesus dNKs
+  was performed using the FindMarkers function (Wilcoxon rank-sum test, min.pct =
+  0.2). 5 genes upregulated by both species are shown in bold.(E and F) Pathway enrichment
+  of (E) rhesus and (F) human dNK genes that were significantly upregulated with either
+  LPS exposure or ACA compared to healthy controls. Selected pathways with at least
+  3 genes and padj ≤ 0.1 are shown, with pathways common to both species in bold text
+  and orange circles.See also Figure S3 and Tables S4 and S5
+article_title: Granulysin-high decidual NK cells in macaques and humans share signatures
+  of immune defense
+citation: Nina Salinger Prasanphanich, et al. Cell Rep. 2025 Jul 22;44(7).
+year: '2025'
+pub_date: 2025-7-22
+epub_date: 2025-7-08
+doi: 10.1016/j.celrep.2025.115943
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

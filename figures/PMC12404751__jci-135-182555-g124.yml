@@ -1,0 +1,46 @@
+---
+figid: PMC12404751__jci-135-182555-g124
+pmcid: PMC12404751
+image_filename: jpg
+figure_link: /pmc/articles/PMC12404751/figure/F5/
+number: Figure 5
+figure_title: A proteomic signature of acute phase response and oxidative stress is
+  present in the CSF of middle-aged dcLN-cauterized adult rats
+caption: (A) Partial least squares discriminant analysis (PLS-DA) displaying score
+  plot based proteomic profile of CSF harvested from sham (green) and dcLN-cauterized
+  (red) rats with ellipses representing the 95% CI of the group clustering in 10-month
+  (10 M) adult cohort. (B) Heat map of representative biological replicates profile
+  contrasting all FCs between the proteins identified in the sham and dcLN groups
+  (Supplemental Table 2). Only proteins that passed a selected significance statistical
+  threshold (ANOVA/t test applied in PEAKS, P < 0.05) are displayed in the heat map.
+  (C) Volcano plot showing the significance in the ratio corresponding to protein
+  expression in dcLN/sham; highlighted in red and green are the statistically significant
+  proteins (P < 0.05 by ANOVA), showing 2-fold up- and downregulation, respectively
+  (indexed in Supplemental Table 2). (D) Canonical pathway enrichment analysis using
+  IPA (QIAGEN) assigned z score. The orange bar indicates a positive z score, which
+  is an activated/upregulated pathway. Color depth represents the degree of the z
+  score. The horizontal axis indicates −log (Benjamini-Hochberg P value), and the
+  vertical axis represents the given pathways. Additional details are mentioned in
+  Supplemental Table 2. (E and F) Quantitative IPA analysis; identified proteins are
+  represented as gene symbols and are predicted to be upregulated (in red) or downregulated
+  (in green) in the comparison between groups. For network generation, datasets containing
+  gene symbols were uploaded into the IPA application along with their rescaled log2
+  transformation of average protein area ratios. Proteins with significant changes
+  (P < 0.05, by ANOVA/ t tests) are reported in Supplemental Table 2
+article_title: Age-dependent brain responses to mechanical stress determine resilience
+  in a chronic lymphatic drainage impairment model
+citation: Zachary Gursky, et al. J Clin Invest. 2025 Jul 15;135(17).
+year: '2025'
+pub_date: 2025-7-15
+epub_date: 2025-7-15
+doi: 10.1172/JCI182555
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Immunology
+- Neuroscience
+- Lymph
+- Neuroimaging
+- Proteomics
+---

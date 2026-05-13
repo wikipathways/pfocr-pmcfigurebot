@@ -1,0 +1,51 @@
+---
+figid: PMC12320233__ijbsv21p4529g002
+pmcid: PMC12320233
+image_filename: jpg
+figure_link: /pmc/articles/PMC12320233/figure/F2/
+number: Figure 2
+figure_title: Glucose metabolic reprogramming is a crucial event during HCC evolution.
+caption: Glucose metabolic reprogramming is a crucial event during HCC evolution.
+  A. Schematic diagram illustrating the workflow and study design for the TEM at single-cell
+  resolution, including analytical strategies implemented in this research. B. Uniform
+  Manifold Approximation and Projection (UMAP) plot showing cell type annotations
+  within the HCC TIME, with corresponding color codes. C. Heatmap displaying the clustering
+  of malignant cells based on the expression levels of evolutionary core genes in
+  clusters C1 & C4 and C3. D. Heatmap presenting the clustering of HCC patient samples
+  based on the proportions of tumor cells from different evolutionary stages (early,
+  mid, and advanced) identified by the single-cell TEM. Samples labeled with “H” represent
+  patients from the HCC cohort (n = 10), and those labeled with “G” are from the GEO
+  dataset GSE151530 (n = 11). E. Gene Ontology (GO) enrichment analysis of characteristic
+  genes associated with advanced stage malignant cells. F. Heatmap illustrating GSVA
+  scores of metabolism-related pathways in malignant cells across early, mid, and
+  advanced stages of HCC evolution. G. UMAP plot depicting the reconstructed evolutionary
+  trajectory of malignant cells using the Slingshot algorithm. Cells from early, mid,
+  and advanced stages are classified based on the TEM at single-cell resolution. H.
+  UMAP plot demonstrating the GSVA scores for the glycolysis pathway along the Slingshot-inferred
+  trajectory of malignant cells. I. Heatmap showing the expression levels of glycolysis
+  pathway genes during HCC evolution in the murine TEM. J and K. The content of pyruvic
+  acid (J) and lactate (K) in tumor cells or tissues derived from murine TEM at the
+  indicated time after transplantation. L and M. Tumor weight (L) and volumes (M)
+  were measured in an in vivo syngeneic tumorigenesis assay by subcutaneously injecting
+  Hepa1-6 cells into C57BL/6 mice. The experimental group received drinking water
+  supplemented with 15% glucose, while the control group received regular drinking
+  water (n = 6 animals/group). Data are mean ± SD. *p < 0.05, **p < 0.01, ***p < 0.001,
+  ****p < 0.0001, ns, non-significant by Student's t test (L and M) or by two-way
+  ANOVA (J and K)
+article_title: The glucose sensor NSUN2-m5C modification regulates tumor-immune glucose
+  metabolism reprogramming to drive hepatocellular carcinoma evolution
+citation: Jing He, et al. Int J Biol Sci. 2025;21(10).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025-7-11
+doi: 10.7150/ijbs.115610
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- tumor evolution
+- metabolic reprogramming
+- tumor immune microenvironment
+- single-cell sequencing
+- 5-methylcytosine modification
+---

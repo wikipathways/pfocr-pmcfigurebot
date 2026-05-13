@@ -1,0 +1,35 @@
+---
+figid: PMC11623603__nihpp-2024.11.26.625473v2-f0003
+pmcid: PMC11623603
+image_filename: jpg
+figure_link: /pmc/articles/PMC11623603/figure/F3/
+number: 'Figure 3:'
+figure_title: ARHGAP18 total RNA sequencing shows changes in transcription of actin
+  regulatory processes including HIPPO and YAP/TAZ dependent pathways
+caption: A) Principle Component Analysis (PCA) from total RNA sequencing results obtained
+  from WT Jeg-3 and ARHGAP18−/− cells (n=3) B) plot of Adjusted p-value vs. log fold
+  change in expression (volcano plot) with select genes identified C) Go terminology
+  analysis of biological pathways. Color indicates p-value, representing the likelihood
+  that a pathway is altered in ARHGAP18−/− vs. WT Jeg-3 cells while bubble size indicates
+  the number of genes identified with altered expression. D) GO terminology analysis
+  of Cellular components E) GO terminology analysis of Molecular Functions. F) Heat
+  map of the genes where the gene product is a known or predicted actin binding protein
+  in each of the 3 biological replicates from WT Jeg-3 or ARHGAP18−/− cells. Color
+  indicates fold change where blue is lower expression and red is increased expression
+  compared to the other group. G) Heatmap similar to (F) for Cell Migration gene products
+  H) Heatmap similar to (F) for Anchoring Junctional gene products. I) Venn diagram
+  identifying genes that are combinations of the terms shown in (F)-(H). LCP1 and
+  CORO1A’s gene products bind actin and have been characterized to play a role at
+  anchoring junctions and in cell migration
+article_title: The Rho effector ARHGAP18 coordinates a Hippo pathway feedback loop
+  through YAP and Merlin to regulate the cytoskeleton and epithelial cell polarity
+citation: Emma C. Murray, et al. bioRxiv. 2025 Jul 29;NA(NA).
+year: '2025'
+pub_date: 2025-7-29
+epub_date: 2025-7-29
+doi: 10.1101/2024.11.26.625473
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

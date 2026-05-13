@@ -1,0 +1,36 @@
+---
+figid: PMC12345837__ijms-26-07110-g005
+pmcid: PMC12345837
+image_filename: jpg
+figure_link: /pmc/articles/PMC12345837/figure/F5/
+number: Figure 5
+figure_title: Functional validation of PriorCCI-prioritized gene pairs through enrichment
+  analysis.
+caption: Functional validation of PriorCCI-prioritized gene pairs through enrichment
+  analysis. (a) Bar plot showing significantly enriched terms associated with gene
+  pairs from Tumor–Endothelial interactions in NSCLC. (b) Enriched pathways for Tumor–Myeloid
+  interactions in NSCLC. (c) Functional terms for Tumor–Fibroblast interactions in
+  CRC. (d) Immune-related enrichment in Tumor–Myeloid interactions in CRC. Each bar
+  indicates an enriched term from Gene Ontology (GO Biological Process and GO Molecular
+  Function), KEGG pathway, or MSigDB Hallmark. Color legend corresponds to the source
+  of each term
+article_title: 'PriorCCI: Interpretable Deep Learning Framework for Identifying Key
+  Ligand–Receptor Interactions Between Specific Cell Types from Single-Cell Transcriptomes'
+citation: Hanbyeol Kim, et al. Int J Mol Sci. 2025 Aug;26(15).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-23
+doi: 10.3390/ijms26157110
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- cell-cell interaction
+- convolutional neural network
+- explainable AI
+- prioritization
+- single-cell RNA-seq data
+- tumor microenvironment
+- endothelial cell
+- angiogenesis
+---

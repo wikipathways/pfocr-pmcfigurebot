@@ -1,0 +1,33 @@
+---
+figid: PMC12439128__nihms-2106983-f0007
+pmcid: PMC12439128
+image_filename: jpg
+figure_link: /pmc/articles/PMC12439128/figure/F7/
+number: Figure 7.
+figure_title: Analysis of the DEGs in astrocytes and oligodendrocytes in PTHS brains
+caption: (A and D) Volcano plots representing the genes that were differentially expressed
+  in Cre+ compared to Cre− astrocytes (left) and oligodendrocytes (right) are shown.
+  Dots represent differentially expressed genes. The upregulated gene cutoff was log2fold
+  change > 0.5 and Bonferroni adjusted p-value (p adj) < 0.05. The downregulated gene
+  cutoff was log2fold change < −0.5 and p adj < 0.05. (B and E) Network/pathway analysis
+  of the DEGs identified in Cre+ versus Cre− astrocyte (B) and oligodendrocyte (E)
+  clusters. (C and F) Box plots showing the most differentially regulated genes identified
+  in astrocytes (C) and oligodendrocytes (F). Blue boxes represent Cre− cells, and
+  orange boxes represent Cre+ cells. Statistical analysis was done using R-suit. ****p<0.0001.
+  Enlarged Figure 7B and E are shown in Supplemental Figure 10
+article_title: Tcf4 Deficiency Causes Recurrent Seizures in Mice
+citation: Laura Craciun, et al. Prog Neurobiol. 2025 Aug;251(NA).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-04
+doi: 10.1016/j.pneurobio.2025.102805
+journal_title: Progress in neurobiology
+journal_nlm_ta: Prog Neurobiol
+publisher_name: .na.character
+keywords:
+- Transcription Factor 4 (TCF4)
+- Pitt-Hopkins Syndrome (PTHS)
+- Seizures
+- Epilepsy
+- Astrogliosis
+---

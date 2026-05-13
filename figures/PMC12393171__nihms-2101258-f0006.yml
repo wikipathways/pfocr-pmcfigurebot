@@ -1,0 +1,58 @@
+---
+figid: PMC12393171__nihms-2101258-f0006
+pmcid: PMC12393171
+image_filename: jpg
+figure_link: /pmc/articles/PMC12393171/figure/F5/
+number: Figure 5.
+figure_title: Environmental Carcinogens Synergistically Induced LUAD Development
+caption: 'A. Ten mutation-based subclusters (Figure S5A) are condensed into four major
+  mutagen/carcinogen groups based primarily on the relative contribution of nitro-PAHs
+  (dark blue), PAHs (light blue), nitrosamines (green), APOBEC (yellow) and methylcytosine
+  (gray) signatures. A mixed cluster is indicated in white.B. Summary of association
+  of environmental carcinogens with clinical features and gene mutations. Tumor samples
+  are categorized into four groups based on the relative contribution of exogenous
+  carcinogen signatures: PAHs/nitro-PAHs high, PAHs/nitro-PAHs low, Nitrosamines high,
+  and Nitrosamines low. Clinical features with significantly different enrichment
+  between these groups are annotated and marked with an asterisk. (Fisher’s exact
+  test, adj. p<0.05).C. Summary plot showing different endogenous mutagen and exogenous
+  carcinogen signatures (x-axis) in tumors and their enriched EGFR and KRAS mutations
+  segregated by smoking status (y-axis).D. KM plot showing significant differences
+  in relapse-free survival (log-rank test, p<0.001) between the four carcinogen groups
+  defined in Figure 5A.E. Forest plot of the impact of carcinogen groups on relapse-free
+  survival using the Hazard ratio (HR) with 95% confidence interval (CI).F. KM plot
+  showing significantly worse relapse-free survival (log-rank test, p=0.018) in patients
+  in the high compared to low nitrosamine signature group.G. Canonical pathway activation
+  (activating z-score >1, adj. p<0.05) based on Ingenuity Pathway Analysis of proteins
+  differentially expressed (Fisher''s exact test, adj. p<0.05) in NATs from patients
+  in the PAHs/nitro-PAHs and nitrosamine carcinogen signature groups.H. Signaling
+  pathway enrichments in high smoke-exposure score (HSS) NATs based on a protein-protein
+  interaction network derived from proteins differentially expressed between HSS and
+  low smoke-exposure score (LSS) NATs and partitioned into 19 strongly intra-connected
+  modules (hypergeometric test, adj. p <0.05, STAR methods).I. Upregulated proteins
+  and phosphosites associated with metabolic imbalance and chronic inflammation from
+  NATs with HSS, mostly contributed by samples with PAHs/nitro-PAHs signatures (adj.
+  p<0.05). The protein interaction networks and functional categories are represented
+  as connecting lines according to the STRING database.See also Figure S5 and Table
+  S5'
+article_title: Integrative Analysis of Lung Adenocarcinoma Across Diverse Ethnicities
+  and Exposures
+citation: Shankha Satpathy, et al. Cancer Cell. 2025 Sep 08;43(9).
+year: '2025'
+pub_date: 2025-9-08
+epub_date: 2025-7-31
+doi: 10.1016/j.ccell.2025.07.011
+journal_title: Cancer cell
+journal_nlm_ta: Cancer Cell
+publisher_name: .na.character
+keywords:
+- Proteogenomics
+- LUAD
+- Genomics
+- Mass Spectrometry
+- PTMs
+- Biomarkers
+- Smokers
+- Non-smokers
+- CPTAC
+- ICPC
+---

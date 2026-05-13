@@ -1,0 +1,38 @@
+---
+figid: PMC12375879__nihms-2100877-f0006
+pmcid: PMC12375879
+image_filename: jpg
+figure_link: /pmc/articles/PMC12375879/figure/F6/
+number: Fig. 6.
+figure_title: Exercise-specific genes enrich for similar transcription factors across
+  species and exercise modalities.
+caption: 'Exercise-specific genes enrich for similar transcription factors across
+  species and exercise modalities. Bar graph displaying the top 10 transcription factors
+  enriched among genes exclusively differentially expressed between exercise and sedentary
+  or baseline, but not exercise+metformin for (A) aerobic exercise training (AET;
+  Mus musculus, current study), or (B) progressive resistance exercise training (plaPRT;
+  Homo sapiens, reanalysis of MASTERS trial data, PMID: 33071237). Boxplots of the
+  log2FC for BCL6B enriched genes from (A; 71 genes) and (B; 97 genes) in their response
+  to (C) AET and AET+MET (Mouse), or (D) plaPRT and metPRT (Human). (E) Cell-type
+  enrichment for BCL6B-enriched genes for AET (Mouse, green) and plaPRT (Human, orange),
+  shown as scatterplots of the odds ratio versus −log10(p_adj) from the Fisher’s exact
+  test using the Human Protein Atlas RNA single-cell type data. (E) KEGG pathways
+  significantly enriched by over-representation of BCL6B enriched genes for AET (Mouse,
+  green) and plaPRT (Human, orange)'
+article_title: Metformin Suppresses the Mitochondrial and Transcriptional Response
+  to Exercise Revealing a Conserved BCL6B Associated Angiogenic Program
+citation: Matthew D. Bruss, et al. J Appl Physiol (1985). 2025 Aug 01;139(2).
+year: '2025'
+pub_date: 2025-8-01
+epub_date: 2025-7-22
+doi: 10.1152/japplphysiol.00432.2025
+journal_title: 'Journal of applied physiology (Bethesda, Md. : 1985)'
+journal_nlm_ta: J Appl Physiol (1985)
+publisher_name: .na.character
+keywords:
+- PI3K-AKT-mTOR
+- BCL6B
+- respiration
+- angiogenesis
+- endurance exercise
+---

@@ -1,0 +1,42 @@
+---
+figid: PMC12324258__nihpp-2025.07.26.666154v1-f0003
+pmcid: PMC12324258
+image_filename: jpg
+figure_link: /pmc/articles/PMC12324258/figure/F3/
+number: 'Figure 3:'
+figure_title: GRM-SEM and phenotype models in ALSPAC (without rGE)
+caption: (a) Scree plot, (b) path diagram, (c) standardised genetic (h2) and non-genomic/residual
+  (e2) variance, and (d) genetic (rg) and residual (re) correlation patterns of the
+  best fitting GRM-SEM (IP) model, without rGE (N=6,543). (e) Scree plot and (f) path
+  diagram of the best fitting phenotype model, based on a split-half approach (N=3,273).
+  (a,e) The number of PCs was predicted using the Kaiser’s criterion (Eigenvalue>1;
+  grey line), and Cattell’s scree test (dashed line). (b,f) Path diagrams with standardised
+  factor loadings. The best-fitting GRM-SEM (IP) model (b) consists of genetic (A),
+  specific genetic (AS), residual (E), and specific residual (ES) factors. The best-fitting
+  phenotypic model (f) consists of phenotypic (P) and specific (PS) factors (specific
+  factor loadings are shown as the square root of the specific factor variance). Observed
+  measures are represented by squares and latent variables by circles. Single-headed
+  arrows (paths) define relationships between variables, and double-headed arrows
+  correlations. The variance of latent variables is constrained to unit variance.
+  Note that SEs for GRM-SEM SNP-h2 contributions (c) have been omitted for clarity.ALSPAC
+  - Avon Longitudinal Study of Parents and Children; IP - Independent pathway; LGC
+  - Listening comprehension; PC - Principal component; PCA - Principal component analysis;
+  PIQ - Performance intelligence quotient; PP - Peer problems; PRC - Pragmatic composite;
+  rev – reverse-coded; SCD – social communication difficulties; VIQ - Verbal intelligence
+  quotient; Y - Years
+article_title: 'Disentangling multivariate relationships between cognition, language
+  and social traits: structures of G, E, and rGE'
+citation: Fenja Schlag, et al. bioRxiv. 2025 Jul 29;NA(NA).
+year: '2025'
+pub_date: 2025-7-29
+epub_date: 2025-7-29
+doi: 10.1101/2025.07.26.666154
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Genetic-Relationship-Matrix Structural Equation modelling
+- social behaviour
+- cognition
+- gene-environment correlation
+---

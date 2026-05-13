@@ -1,0 +1,57 @@
+---
+figid: PMC12393171__nihms-2101258-f0003
+pmcid: PMC12393171
+image_filename: jpg
+figure_link: /pmc/articles/PMC12393171/figure/F2/
+number: Figure 2.
+figure_title: Impact of mutation and PTMs on downstream signaling and structure
+caption: 'A. GSEA result of protein-level differential expression analysis comparing
+  RBM10 truncated mutation tumors versus RBM10 WT in the context of EGFR mutation.B.
+  Post-translational modification-Signature Enrichment Analysis (PTM-SEA) showed splicing
+  kinase- and pathway-associated phosphorylation enrichment.C. Differentially expressed
+  features between RBM10 mutant and WT tumors in the context of EGFR mutation at the
+  levels of proteome and phosphoproteome.D. Differential features between ALK fusion
+  and WT tumors at the level of proteome and phosphoproteome.E. Candidate pY sites
+  and their abundance in a range of cell lines treated with driver-matched kinase
+  inhibitors including ALK-fusion LUAD cell lines treated with the ALK inhibitor ceritinib.
+  pY sites were downregulated upon kinase inhibition specifically in the ALK lines,
+  and in a time dependent fashion (6 and 24 hours).F. Rank plots showing protein abundance
+  (indicated by signed −log10 p-value) in candidate pY vs. unmodified peptide pull-downs.
+  The red dots show known ALK interactors in the BioGRID database129. Key interactors
+  are indicated in the panel.G. Bubble plot representing CLUMPS-PTM results. Phosphoproteome
+  shows clustering results for both ICPC and CPTAC cohorts; acetylproteome and ubiquitylproteome
+  results are shown for the CPTAC cohort. Red circle: Significant results: permutation
+  test, adj. p<0.1.H. HSPB1 phosphorylation cluster on 3D crystal structure (cyan,
+  PDB ID: 6DV5-A, left). Violin plots showing relative protein abundances of AKT1
+  between EGFR mutant and wild type (right). In boxplots inset in violin plots, the
+  centerline represents median; box bounds represent 25th and 75th percentiles; whiskers
+  represent minimum and maximum; and filled points represent individual data points.I.
+  MDH1 acetylation cluster on 3D crystal structure (cyan, PDB ID: 4WLE-A). Highly
+  differentially expressed acetylation sites are denoted by bright pink.J. PSMA5 ubiquitylation
+  cluster on 3D crystal structure (cyan, PDB ID: 5GJQ-F, left). Violin plots showing
+  protein abundances of PSMA5 across the proteomic NMF clusters (right). In boxplots
+  inset in violin plots, the centerline represents median; box bounds represent 25th
+  and 75th percentiles; whiskers represent minimum and maximum; and filled points
+  represent individual data points.See also Figure S2 and Table S3'
+article_title: Integrative Analysis of Lung Adenocarcinoma Across Diverse Ethnicities
+  and Exposures
+citation: Shankha Satpathy, et al. Cancer Cell. 2025 Sep 08;43(9).
+year: '2025'
+pub_date: 2025-9-08
+epub_date: 2025-7-31
+doi: 10.1016/j.ccell.2025.07.011
+journal_title: Cancer cell
+journal_nlm_ta: Cancer Cell
+publisher_name: .na.character
+keywords:
+- Proteogenomics
+- LUAD
+- Genomics
+- Mass Spectrometry
+- PTMs
+- Biomarkers
+- Smokers
+- Non-smokers
+- CPTAC
+- ICPC
+---

@@ -1,0 +1,55 @@
+---
+figid: PMC12383457__biomedicines-13-01835-g005
+pmcid: PMC12383457
+image_filename: jpg
+figure_link: /pmc/articles/PMC12383457/figure/F5/
+number: Figure 5
+figure_title: AI-HOPE-RTK-RAS analysis of early-onset colorectal cancer (CRC) patients
+  treated with FOLFOX stratified by RTK-RAS pathway alteration.
+caption: 'AI-HOPE-RTK-RAS analysis of early-onset colorectal cancer (CRC) patients
+  treated with FOLFOX stratified by RTK-RAS pathway alteration. This figure presents
+  the results of a natural language query performed using AI-HOPE-RTK-RAS, examining
+  the clinical and genomic impact of RTK-RAS pathway alterations in early-onset colorectal
+  cancer (EOCRC) patients of Hispanic/Latino (H/L) ancestry treated with FOLFOX (Fluorouracil,
+  Leucovorin, Oxaliplatin). (a) A histogram displays the distribution of patient ages
+  across the dataset, with a smooth density curve highlighting the central tendency
+  and spread. The mean age is 57.92 years, and the median is 57.75 years, confirming
+  the appropriateness of using <50 years as a cutoff to define EOCRC. (b) Pie charts
+  show the relative sample sizes of the defined cohorts. The case group includes 824
+  patients under age 50 with RTK-RAS pathway alterations and FOLFOX treatment (14.9%
+  of the dataset), while the control group consists of 430 EOCRC patients without
+  RTK-RAS alterations who also received FOLFOX (7.8%). These visualizations reflect
+  the selective filtering enabled through AI-HOPE’s natural language-driven interface.
+  (c) Kaplan–Meier survival curves compare overall survival between the case and control
+  groups. Although both cohorts were treated with FOLFOX, patients with RTK-RAS pathway
+  alterations showed moderately worse survival rates, with a p-value of 0.0262. The
+  divergence of the curves and non-overlapping confidence intervals suggest a potential
+  prognostic effect of RTK-RAS alterations in early-onset Hispanic/Latino CRC. (d)
+  An odds ratio test was conducted to examine the enrichment of Hispanic/Latino ethnicity
+  among cases versus controls. The stacked bar plot illustrates a 2 × 2 comparison
+  of in-context (H/L) and out-of-context (non-Hispanic White-NHW) patients. The odds
+  ratio was 1.00 (95% CI: [0.687, 1.482], p = 1.00), indicating no significant enrichment
+  of Hispanic/Latino individuals in either group. This analysis underscores AI-HOPE-RTK-RAS’s
+  ability to execute multifaceted queries integrating clinical, genomic, and demographic
+  variables to support precision oncology research'
+article_title: 'Precision Oncology Through Dialogue: AI-HOPE-RTK-RAS Integrates Clinical
+  and Genomic Insights into RTK-RAS Alterations in Colorectal Cancer'
+citation: Ei-Wen Yang, et al. Biomedicines. 2025 Aug;13(8).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-28
+doi: 10.3390/biomedicines13081835
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- AI
+- artificial intelligence
+- precision medicine
+- cancer treatment
+- molecular insights
+- RTK-RAS pathway
+- large language models
+- AI-agents
+- cancer genetics
+---

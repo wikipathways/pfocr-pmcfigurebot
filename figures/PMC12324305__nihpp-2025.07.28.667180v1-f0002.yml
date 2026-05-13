@@ -1,0 +1,43 @@
+---
+figid: PMC12324305__nihpp-2025.07.28.667180v1-f0002
+pmcid: PMC12324305
+image_filename: jpg
+figure_link: /pmc/articles/PMC12324305/figure/F2/
+number: Fig. 2.
+figure_title: Synergistic and Antagonistic Interplay between IL-4 and TNF in Regulating
+  Gene Expression in Human Monocytes
+caption: 'a, Experimental design: human CD14+ primary monocytes were stimulated with
+  IL-4 (30ng/ml) and/or TNF (10ng/ml) for 3, 6 or 24 hours. b, RT-qPCR measurement
+  of the indicated mRNA at the indicated time points after IL-4 and TNF co-stimulation
+  (n=9). Boxplots displaying the interquartile range of expression levels for various
+  treatments (N, IL4, TNF, IL4TNF) at different time points (3h, 6h, 24h). Each dot
+  represents an individual donor, and the horizontal line within each box shows the
+  median value. Two-way ANOVA was performed at each time point. *p < 0.05, **p < 0.01,
+  ***p < 0.001. c, Left panel, K-means (K=5) clustering of 2727 differentially up-regulated
+  genes (log2 fold change > 1 and FDR < 0.05) in any pairwise comparison to untreated
+  control. Values from biological replicates are shown in separate columns for each
+  sample (6h: n=2, 24h: n=3). Right panels show heatmaps of expression of representative
+  genes in each cluster. d, Reactome pathway enrichment analysis of the gene clusters
+  in Fig 2c. e, Venn diagram of the overlap between genes synergistically induced
+  by IL-4 and TNF co-stimulation at 6 hours and 24 hours. f, g, Functionally enriched
+  Gene Ontology (GO) categories Reactome pathways (f) and Molecular Function (MF)
+  (g) and of the synergy genes in Fig. 2e. h, Heatmap of gene expression from same
+  RNA-seq analysis as in Figure 1 displaying representative MHC class II genes, color-coded
+  by z-scores. i, Left: Representative histogram showing Median Fluorescence Intensity
+  (MFI) of HLA-DR on human CD14+ monocytes treated with indicated experimental conditions
+  for 24 hours. Cells were gated on live singlets (using a FSC-W versus FSC-A gate).
+  Right: Cumulative data (n = 4) shown as means ± SD. ***p < 0.001, ****p < 0.0001,
+  One-way ANOVA. j, k. Gene set enrichment analysis (gene Clusters from Figure 2c).
+  Mouse wound healing clusters: CI: Cluster I, CII: Cluster II, CIII: Cluster III'
+article_title: 'Beyond Antagonism: IL-4 Exploits TNF signaling to Shape Its Gene Expression
+  Signature in Monocytes and Macrophages'
+citation: Ruoxi Yuan, et al. bioRxiv. 2025 Jul 31;NA(NA).
+year: '2025'
+pub_date: 2025-7-31
+epub_date: 2025-7-31
+doi: 10.1101/2025.07.28.667180
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

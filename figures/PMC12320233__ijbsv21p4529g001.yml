@@ -1,0 +1,47 @@
+---
+figid: PMC12320233__ijbsv21p4529g001
+pmcid: PMC12320233
+image_filename: jpg
+figure_link: /pmc/articles/PMC12320233/figure/F1/
+number: Figure 1
+figure_title: Identification of evolutionary core genes in murine tumor evolution
+  model (TEM).
+caption: 'Identification of evolutionary core genes in murine tumor evolution model
+  (TEM). A. Schematic diagram illustrating the workflow of study design and analysis.
+  B. Immunohistochemical staining of Ki67, N-cadherin, and VEGFα in tumor tissues
+  from an orthotopic hepatocellular carcinoma model established by the transplantation
+  of Hepa1-6 cells into the livers of C57BL/6 mice (murine tumor evolution model,
+  murine TEM). Tumor samples were collected at indicated time points post-transplantation,
+  with brown signals indicating positive staining. C. Comparison of GSVA scores for
+  pathways associated with tumor malignancy across distinct time points post-transplantation
+  in murine TEM. Data are mean ± SD. *p < 0.05, **p < 0.01, ***p < 0.001, ****p <
+  0.0001, ns, non-significant by two-way ANOVA. D. Heatmap depicting the comparative
+  gene expression profiles in tumor tissues harvested from the murine TEM at distinct
+  time points post-transplantation, highlighting transcriptomic changes during tumor
+  evolution. Differentially expressed genes (DEGs) were identified based on the criteria
+  of p < 0.05 and |log2(Fold Change)| ≥ 1. E. Weighted Gene Co-Expression Network
+  Analysis (WGCNA) identified a total of 12 merged modules. The heat map illustrates
+  the expression level changes of co-expression modules across distinct time points
+  post-transplantation in murine TEM. F. The intersection of DEGs with co-expression
+  modules was further analyzed using Support Vector Machine-Recursive Feature Elimination
+  (SVM-RFE) algorithm. The UpSet plot indicated this relationship. G. Genes clustered
+  according to their expression patterns along tumor evolution, utilizing Mfuzz clustering
+  analysis. H and I. Correlation between angiogenesis and cell migration GSVA enrichment
+  scores with Mfuzz clusters: C1 & C4 (H), C3 (I) in the TCGA-LIHC cohort'
+article_title: The glucose sensor NSUN2-m5C modification regulates tumor-immune glucose
+  metabolism reprogramming to drive hepatocellular carcinoma evolution
+citation: Jing He, et al. Int J Biol Sci. 2025;21(10).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025-7-11
+doi: 10.7150/ijbs.115610
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- tumor evolution
+- metabolic reprogramming
+- tumor immune microenvironment
+- single-cell sequencing
+- 5-methylcytosine modification
+---

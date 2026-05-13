@@ -1,0 +1,30 @@
+---
+figid: PMC12338735__nihpp-2025.07.18.665536v1-f0005
+pmcid: PMC12338735
+image_filename: jpg
+figure_link: /pmc/articles/PMC12338735/figure/F5/
+number: 'Figure 5:'
+figure_title: Loss of Ezh2 Leads to Accumulation of B-cell Progenitors in the Bone
+  Marrow
+caption: A) UMAP clustering and cell annotation of CITE-seq data generated from HSPCs
+  (Lineage− Sca-1+ c-Kit+) of indicated genotypes isolated from mice eight-weeks post-pIpC.B)
+  Frequency of cell of indicated genotypes within B-cell Progenitor 1 and B-cell Progenitor
+  2 cell clusters.C) Expression of B-cell markers CD19, Ebf1 and Pax5 in cells across
+  the UMAP.D) Gene Set Enrichment Analysis (GSEA) of B-cell Progenitor 1 and B-cell
+  Progenitor 2 clusters showing enrichment of B-cell survival pathway gene expression
+  in Ezh2Δ/Δ cells.E) Pseudobulk differential gene expression analysis in B-cell Progenitor
+  1 and B-cell Progenitor 2 clusters showing overexpression of early B-cell survival
+  genes in Ezh2Δ/Δ cells.Data are mean ± s.e.m. * p<0.05, ** p<0.01, *** p<0.001,
+  **** p<0.0001. One-way ANOVA with Tukey correction for multiple comparisons
+article_title: Functional Comparison to Ezh2 Reveals PRC2-Independent Functions of
+  Jarid2 in Hematopoietic Stem Cell Lineage Commitment
+citation: Hassan Bjeije, et al. bioRxiv. 2025 Jul 19;21(3).
+year: '2025'
+pub_date: 2025-7-19
+epub_date: 2025-7-19
+doi: 10.1101/2025.07.18.665536
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

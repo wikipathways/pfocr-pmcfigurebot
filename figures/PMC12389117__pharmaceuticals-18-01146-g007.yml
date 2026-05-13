@@ -1,0 +1,38 @@
+---
+figid: PMC12389117__pharmaceuticals-18-01146-g007
+pmcid: PMC12389117
+image_filename: jpg
+figure_link: /pmc/articles/PMC12389117/figure/F7/
+number: Figure 7
+figure_title: Network and enrichment analysis of signaling pathway-related genes overexpressed
+  during injury-induced inflammation in zebrafish larvae treated with TnP compared
+  to untreated control.
+caption: Network and enrichment analysis of signaling pathway-related genes overexpressed
+  during injury-induced inflammation in zebrafish larvae treated with TnP compared
+  to untreated control. (A) Protein-protein interaction (PPI) networks of 66 differentially
+  overexpressed genes (padj < 0.05). The PPI network was performed in STRING on Cytoscape,
+  and each subnetwork was evaluated in the software to provide the main functional
+  enrichment term through STRING. The bigger the circle, the lower the adjusted p-value.
+  Singletons were omitted from the network. (B) Functional enrichment analysis focusing
+  on the overexpressed genes list (62 DAVID IDs) related to signaling pathways using
+  the DAVID software. Terms were considered significant if the adjusted p-value was
+  less than 0.05 and the gene count at least 3
+article_title: TnP as a Multifaceted Therapeutic Peptide with System-Wide Regulatory
+  Capacity
+citation: Geonildo Rodrigo Disner, et al. Pharmaceuticals (Basel). 2025 Aug;18(8).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-8-01
+doi: 10.3390/ph18081146
+journal_title: Pharmaceuticals
+journal_nlm_ta: Pharmaceuticals (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- TnP
+- therapeutic peptide
+- zebrafish
+- network pharmacology
+- drug metabolism
+- wound healing
+- proteostasis
+---

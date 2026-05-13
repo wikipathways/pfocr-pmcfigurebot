@@ -1,0 +1,38 @@
+---
+figid: PMC12338652__nihpp-2025.07.16.664929v1-f0007
+pmcid: PMC12338652
+image_filename: jpg
+figure_link: /pmc/articles/PMC12338652/figure/F7/
+number: 'Figure 7:'
+figure_title: Untargeted metabolomics analysis shows upregulated one-carbon metabolism
+  and one-carbon associated pathways in ndufs2−/− zebrafish larvae
+caption: 'A) Variable importance projection (VIP) of the top 30 metabolites significantly
+  up or downregulated in ndufs2−/− larvae compared only to AB (p < 0.05). Metabolites
+  are shown on the y-axis and the x-axis shows the VIP score, a measure of the contribution
+  the variable makes towards the PLS-DA (Supplemental Figure S7A). The heatmap to
+  the right indicates directionality of the change in metabolite by showing the average
+  metabolite levels of AB and ndufs2−/− zebrafish, respectively. B) N--formylmethionine
+  metabolite levels as a marker for the one-carbon metabolism pathway (n=3 biological
+  replicates each containing 20 larvae). C) The methyl cycle is also linked to one-carbon
+  metabolism, with 5 identified metabolites quantified (n=3 biological replicates
+  each containing 20 larvae). As homocysteine was not detected in AB fish, it could
+  not be normalized to AB but instead is arbitrarily shown as ndufs2−/− larvae having
+  500% enrichment compared to AB. D) Three metabolites were identified in the transsulfuration
+  pathway, which is an associated pathway of one-carbon metabolism, of which glutathione
+  disulfide was significantly increased in ndufs2−/− larvae (p < 0.05, n=3 biological
+  replicates each containing 20 larvae). E) Purine biosynthetic pathway is linked
+  to one-carbon metabolism, of which many intermediates and metabolites were identified
+  in this dataset (n=3 biological replicates each containing 20 larvae). Statistics
+  were calculated using a two-tailed Welch’s t-test: ns, not significant; * p < 0.05'
+article_title: ndufs2−/− zebrafish have impaired survival, neuromuscular activity,
+  morphology, and one-carbon metabolism treatable with folic acid
+citation: Dana V. Mitchell, et al. bioRxiv. 2025 Jul 18;NA(NA).
+year: '2025'
+pub_date: 2025-7-18
+epub_date: 2025-7-18
+doi: 10.1101/2025.07.16.664929
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

@@ -1,0 +1,43 @@
+---
+figid: PMC12388267__microorganisms-13-01730-g002
+pmcid: PMC12388267
+image_filename: jpg
+figure_link: /pmc/articles/PMC12388267/figure/F2/
+number: Figure 2
+figure_title: Transcriptomic profiling and functional validation of acid stress response
+  in EHEC.
+caption: 'Transcriptomic profiling and functional validation of acid stress response
+  in EHEC. (A) Differential expression analysis. Volcano plot identifies significantly
+  altered transcripts between AHL-treated and untreated groups. X-axis: log2 fold-change;
+  Y-axis: −log10 (adjusted p-value). Red points: up-regulated genes (log2FC > 1, FDR
+  < 0.01); green points: down-regulated genes (log2FC < −1, FDR < 0.01); blue points:
+  non-significant genes. (B) Gene ontology enrichment. Terms are categorized by biological
+  process (red bars), cellular component (green bars), and molecular function (blue
+  bars). Ribosomal pathways show peak enrichment (−log10[padj] = 12.1 for cellular
+  components). (C) KEGG pathway analysis. Significantly enriched pathways include
+  ribosome assembly (boxed in red; −log10[padj] = 10.5) and pathogenic E. coli infection.
+  (D) Technical validation of RNA-seq data. Log2 fold-change comparison between sequencing
+  and RT-qPCR results for selected ribosomal genes (rmf, raiA, rpsL, rplM…). Error
+  bars: ±SD. (E) Acid resistance impairment in rmf mutant. Wild-type (WT), Δrmf deletion
+  mutant, and genetically complemented strain (Δrmf/prmf) were challenged at pH 2.5
+  for 1–3 h. Survival rates (relative CFU = CFUh/CFU0; mean ± SEM; n = 3) reveal significant
+  attenuation in Δrmf (** p < 0.01, *** p < 0.001 versus WT at corresponding time
+  points)'
+article_title: Ribosomal Hibernation Factor Links Quorum-Sensing to Acid Resistance
+  in EHEC
+citation: Yang Yang, et al. Microorganisms. 2025 Aug;13(8).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-24
+doi: 10.3390/microorganisms13081730
+journal_title: Microorganisms
+journal_nlm_ta: Microorganisms
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- quorum sensing
+- Ribosomal Hibernation Factor
+- acid resistance
+- EHEC
+- pathogen resilience
+- SOS
+---

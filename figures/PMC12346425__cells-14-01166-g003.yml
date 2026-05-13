@@ -1,0 +1,47 @@
+---
+figid: PMC12346425__cells-14-01166-g003
+pmcid: PMC12346425
+image_filename: jpg
+figure_link: /pmc/articles/PMC12346425/figure/F3/
+number: Figure 3
+figure_title: Analyses of genes in the proteostasis network as a function of photoreceptor
+  outer segment (POS) trafficking by RPE cells.
+caption: 'Analyses of genes in the proteostasis network as a function of photoreceptor
+  outer segment (POS) trafficking by RPE cells. (A) Differentially expressed genes
+  (DEGs) present in the autophagy–lysosomal pathway correlated with POS processing
+  at 4, 6, 24 and 48 h following pulse-chase. Heatmaps show normalised count data
+  from DEGs from control RPE cultures and those synchronously fed with POS, which
+  were combined to enable a direct comparison of z scores between the two conditions.
+  Corresponding Venn diagrams of DEGs in the autophagy–lysosomal pathway where count
+  data was normalised to produce p values, adjusted p values and log2 fold changes
+  between each timepoint (6, 24 and 48 h) compared to the initial 4 h timepoint. These
+  show the number of DEGs that have an adjusted p < 0.01 at each timepoint. Genes
+  were retained if the threshold was met in at least one timepoint comparison in either
+  the control or POS-fed RPE, which reduced the 845 genes in the autophagy–lysosomal
+  pathway to 272 DEGs. (B) A similar scrutiny of genes in the ubiquitin proteasome
+  system was carried out, which revealed 363 DEGs distributed in the Venn diagram
+  from an initial list of 1179 genes. (C) Parallel analyses of genes in the chaperone-mediated
+  pathway identified 396 DEGs from an initial list of 1141 genes. Note: some genes
+  overlapped with several pathways. This approach enabled a detailed scrutiny of gene
+  networks in the proteostasis network in response to POS trafficking and processing
+  by RPE at timepoints where these cargos were maximally co-localised with early and
+  mature phagosomes/endosomes, lysosomes, and autophagy bodies'
+article_title: Whole RNA-Seq Analysis Reveals Longitudinal Proteostasis Network Responses
+  to Photoreceptor Outer Segment Trafficking and Degradation in RPE Cells
+citation: Rebecca D. Miller, et al. Cells. 2025 Aug;14(15).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-29
+doi: 10.3390/cells14151166
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- retinal pigment epithelium (RPE)
+- RNA-seq
+- photoreceptor outer segments (POS)
+- trafficking
+- proteostasis
+- age-related macular degeneration (AMD)
+- inherited retinal dystrophies
+---

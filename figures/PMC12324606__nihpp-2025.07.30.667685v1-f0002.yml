@@ -1,0 +1,41 @@
+---
+figid: PMC12324606__nihpp-2025.07.30.667685v1-f0002
+pmcid: PMC12324606
+image_filename: jpg
+figure_link: /pmc/articles/PMC12324606/figure/F2/
+number: 'Figure 2:'
+figure_title: HBOs model multiple aspects of urinary tract infection
+caption: (A) Adherent bacteria and (B) intracellular bacteria recovered at 4- and
+  24-hours post-infection. Bulk RNA-sequencing of infected HBOs to (C) quantify cytokine
+  expression changes and (D, E) counts of the overall number of DEGs. (F) Hallmark
+  pathway analyses at 4- and 24-hours post-infection. (G) Single-cell RNA-sequencing
+  was used to generate a heatmap showing the five most up- and down-regulated genes
+  from each cluster after UPEC infection and the change in RNA expression of those
+  genes amongst the other cell clusters. (H) Single cell RNA-sequencing was also used
+  to quantify the induction of IL1B and S100A14 following UPEC infection for each
+  cell cluster. (I) IL-17C production in apical urine at 24-hours post-infection.
+  (J) Trans-epithelial electrical resistance (TEER) across the transwell insert at
+  4- and 24-hours post-infection. Lactate dehydrogenase release in apical urine at
+  4- (K) and 24-hours (L) post-infection. Box and whisker plots show median and min/max
+  with points representing individual organoid transwells. Data is representative
+  of 2 (A-B), 3 (C-F), or 4+ (J-L) independent experiments. Statistical comparisons
+  between control and UPEC infected groups were made using Kruskal-Wallis tests with
+  Dunn’s multiple comparisons (A-B), Wilcoxon Rank Sum with Bonferroni correction
+  (G-H), or two-way ANOVA tests with uncorrected Fisher’s LSD (I, K-L). Generalized
+  linear model with Log2 fold change >1 and Wald tests with FDR adjusted p-value <0.05
+  was used to determine DEGs (D-E). Wilcoxon signed-rank test was used for testing
+  the effect of infection on TEER, relative to urine-treated controls (J). Gene set
+  enrichment analyses were conducted using the hallmark gene set collection from the
+  Molecular Signatures Database (F,H). *p<0.05, **p<0.01, ***p<0.001, ****p<0.0001
+article_title: Human bladder organoids model urinary tract infection and bacteriophage
+  therapy
+citation: Jacob J. Zulk, et al. bioRxiv. 2025 Jul 30;NA(NA).
+year: '2025'
+pub_date: 2025-7-30
+epub_date: 2025-7-30
+doi: 10.1101/2025.07.30.667685
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

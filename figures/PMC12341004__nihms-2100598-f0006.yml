@@ -1,0 +1,40 @@
+---
+figid: PMC12341004__nihms-2100598-f0006
+pmcid: PMC12341004
+image_filename: jpg
+figure_link: /pmc/articles/PMC12341004/figure/F6/
+number: Figure 6.
+figure_title: Hypertension-dependent shift in miRNA regulatory network correlations
+  influencing inflammatory signaling
+caption: A) Subset of the larger miRNA regulatory network focused on inflammatory
+  signaling. Arrows from miRNAs to genes represent miRNA-target pairs while arrows
+  from gene to pathway indicate pathways or processes that the genes influence, regardless
+  of whether they activate or inhibit the pathway in question.B) miRNA regulatory
+  networks detailing the dynamic correlations between miRNAs and their putative targets
+  in the SHR and WKY and the shift in correlations between strains. Edges are mapped
+  to the correlation values in each strain (blue, negative; red, positive, transparency
+  is proportional to overall strength in correlation) and line width is mapped to
+  the difference in correlation between SHR and WKY.C) Dynamic profiles of miR-543
+  and its putative target Il6st in the CVLM, illustrating the shift in dynamic correlation
+  between WKY and SHR where miR-543 and Il6st are positively correlated in the SHR.
+  Pearson correlation shifted from −0.27 in WKY to 0.96 in SHR.D) Dynamic profiles
+  of miR-34c and its putative target Cyp4f5 in the NTS, illustrating the shift in
+  dynamic correlation between WKY and SHR where there is a shift from negative to
+  positive correlation (corr = −0.69 to 0.84).E) Dynamic profiles of miR-146a and
+  its putative target Stat3 in the RVLM, illustrating the shift in dynamic correlation
+  between WKY and SHR where there is a shift from positive to negative correlation
+  (corr = 0.91 to −0.52). Plots represent mean +/− standard error of normalized expression
+  values
+article_title: Dynamic rewiring of microRNA networks in the brainstem autonomic control
+  circuits during hypertension development in the female spontaneously hypertensive
+  rat
+citation: Alison Moss, et al. Physiol Genomics. 2025 Oct 01;57(10).
+year: '2025'
+pub_date: '2025-10-01'
+epub_date: 2025-7-18
+doi: 10.1152/physiolgenomics.00136.2024
+journal_title: Physiological genomics
+journal_nlm_ta: Physiol Genomics
+publisher_name: .na.character
+keywords: []
+---

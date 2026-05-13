@@ -1,0 +1,36 @@
+---
+figid: PMC12338545__nihpp-2025.07.11.664369v1-f0003
+pmcid: PMC12338545
+image_filename: jpg
+figure_link: /pmc/articles/PMC12338545/figure/F3/
+number: Figure 3.
+figure_title: Control vs. IVH by developmental stage in glial cells
+caption: A. Stacked barplot showing the number of differentially expressed genes per
+  cell type. Genes highlighted in red are involved in immune pathways. B. Heatmap
+  visualizing the differentially expressed genes in each cell type ranked by fold
+  change differences between IVH-treated and control rats. Fold changes indicate whether
+  gene expression is higher or lower in IVH compared with control. C-F. Significant
+  immune pathways enriched after IVH for each cell type. Color shows AUC values ranked
+  by higher (red) or lower (blue) in IVH compared with control. There was no significant
+  immune pathway enrichment for PND2. G. Barplot with standard errors depicting microglia
+  proportions in IVH and Control at both time points. Stars correspond to the significance
+  of changes (Wilcoxon Rank Sum test; **** = p < 0.001, * = p < 0.05). H. Heatmaps
+  showing fold changes between control and IVH-induced rats for PND2 and PND5 in microglia.
+  The genes shaded blue show statistically significant reduced effect size after IVH
+  inducement as compared to control, while those shaded red show statistically significant
+  increased effect size. Genes labeled in red are involved in immune pathways. I-J.
+  Volcano plots highlighting the transcriptomic differences in microglial at PND2
+  (I) and PND5 (J). Y-axis corresponds to the −log10(FDR) and X-axis corresponds to
+  the log2(Fold Change)
+article_title: Developmental Stage-Dependent Transcriptomic Responses to Neonatal
+  Intraventricular Hemorrhage
+citation: Elizabeth Wallace-Anthony, et al. bioRxiv. 2025 Jul 17;23(NA).
+year: '2025'
+pub_date: 2025-7-17
+epub_date: 2025-7-17
+doi: 10.1101/2025.07.11.664369
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

@@ -1,0 +1,49 @@
+---
+figid: PMC12777652__nihms-2114726-f0003
+pmcid: PMC12777652
+image_filename: jpg
+figure_link: /pmc/articles/PMC12777652/figure/F3/
+number: 'Figure 3:'
+figure_title: CARαVEGF enhances proliferation and effector function across target
+  antigens and tumor types in vitro
+caption: A, CD69 surface expression of meso-targeting CAR T-cell constructs cultured
+  with SKOV3 for 18 hours. B, CD69 surface expression of CD70-targeting CAR T-cell
+  constructs cultured with plate bound CD70 antigen for 24 hours. C, 70αVEGF and 70αCD19
+  CAR T cells (n=4 donor T cells each) were incubated for 48 hours on plates coated
+  with recombinant CD70 protein, then lysed and evaluated via targeted RNA expression.
+  Heatmap results highlight individual pathway scores for each donor and construct.
+  See supplemental figure 5 for additional details. D, Pathway score for the most
+  differentially scored pathway from 3C. Symbols represent individual T-cell donors.
+  Dashed line represents the median and the dotted line represents the top and bottom
+  quartiles. All pathways were subjected to paired t tests and corrected for multiple
+  comparisons with the two-stage step-up method of Bejanmini, Kreiger, and Yekutieli
+  with a desired FDR (q) of 1%. E, Fold expansion of MesoαCD19 and mesoαVEGF CAR-T
+  cells from restimulation assays with meso+K562 ( 2 NDs and 2 technical replicates,
+  mean±SEM, p-values by 2 way ANOVA). F and G, Cytotoxicity and proliferation of meso-targeting
+  CAR T cells cultured with SKOV3 at 3:1 E:T ratio (2 NDs with 2+ technical replicates)
+  (F) and OVCAR3 at 3:1 E:T (2 NDs) (G). H and I, Concentration of VEGF, IFNγ, TNFα,
+  and Granzyme B in supernatant taken from endpoint of associated cytotoxicity assay,
+  SKOV3 (H) and OVCAR3 (I) measured using Ella automated immunoassay system ( 2 ND
+  with 2+ technical replicates). J and K, Cytotoxicity and proliferation of meso-targeting
+  CAR T cells cultured with Nomo-1 at 3:1 E:T (1 ND, representative of 2 NDs) (J)
+  and A549 at 3:1 E:T (2 NDs) (K), images depict GFP-expressing tumor and mcherry-expressing
+  CAR T cells from the same respective wells at time 0 and after 72 hours of co-culture.
+  L, M, and N, Cytotoxicity assays of mcherry+ CD70αCD19 and CD70αVEGF CAR T cells
+  cultured with GFP+ 786O at 2:1 E:T (3 NDs) (L), SKOV3 at 3:1 E:T ( 2 NDs) (M), and
+  Nomo-1 at 3:1 E:T (1 ND) (N). O, Concentration of VEGF from supernatant of cytotoxicity
+  assay in N (2 NDs with 2+ technical replicates). Cytotoxicity assays were performed
+  using incucyte imaging system and wells were imaged every 1–2 hours. Data represents
+  values normalized to the starting condition of red or green fluorescence. All cytotoxicity
+  assays show mean±SEM with p-values by two-way ANOVA. All cytokine assays show mean±SEM
+  with p-values by one-way ANOVA. ND-normal donor
+article_title: Secretion of a VEGF-blocking scFv enhances CAR T-cell potency
+citation: Valentina M. Supper, et al. Cancer Immunol Res. 2025 Aug 01;13(8).
+year: '2025'
+pub_date: 2025-8-01
+epub_date: 2025-8-01
+doi: 10.1158/2326-6066.CIR-24-0876
+journal_title: Cancer immunology research
+journal_nlm_ta: Cancer Immunol Res
+publisher_name: .na.character
+keywords: []
+---

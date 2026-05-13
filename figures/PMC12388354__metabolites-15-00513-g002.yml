@@ -1,0 +1,60 @@
+---
+figid: PMC12388354__metabolites-15-00513-g002
+pmcid: PMC12388354
+image_filename: jpg
+figure_link: /pmc/articles/PMC12388354/figure/F2/
+number: Figure 2
+figure_title: Schematic integration of mitochondrial metabolic networks.
+caption: 'Schematic integration of mitochondrial metabolic networks. This diagram
+  provides a comprehensive overview of the core mitochondrial metabolic pathways and
+  their molecular components, highlighting the synergistic interactions between energy
+  metabolism, redox homeostasis, ion regulation, one-carbon metabolism, fatty acid
+  metabolism, and amino acid utilization. Lipolysis and fatty acid metabolism: Lipolysis,
+  catalyzed by hormone-sensitive lipase (HSL), hydrolyzes triacylglycerols (TAGs)
+  into non-esterified fatty acids (NEFAs) and glycerol, thereby providing substrates
+  for mitochondrial β-oxidation. Fatty acids (FAs) are transported into mitochondria
+  via CD36 and fatty acid-binding proteins (FABPs), where they are activated by acyl-CoA
+  synthetase (ACS) and enter β-oxidation, generating acetyl-CoA, which subsequently
+  feeds into the tricarboxylic acid (TCA) cycle. Amino acid metabolism: Amino acid
+  transporters (e.g., SNAT, ASC, ASCT1/2) mediate the uptake of key amino acids, including
+  glutamine, aspartate, arginine, and serine. Glutamine is converted into α-ketoglutarate
+  (α-KG) by glutaminase (GLS1), which then enters the TCA cycle. The serine/glycine
+  pathway, regulated by serine hydroxymethyltransferase (SHMT) and the folate cycle,
+  provides methyl donors for thymidylate (TYMS/DHFR) synthesis and epigenetic regulation.
+  The methionine cycle, governed by MTHFR, is critical for controlling methylation
+  processes and maintaining redox homeostasis. One-carbon metabolism and nucleic acid
+  synthesis: Folate-mediated one-carbon metabolism generates 5,10-methylene-THF, which
+  is either converted to formate by MTHFD enzymes or utilized in the synthesis of
+  purines and thymidylate. Key enzymes, such as dihydrofolate reductase (DHFR) and
+  thymidylate synthase (TYMS), are therapeutic targets for anticancer agents, including
+  5-fluorouracil (5-FU) and methotrexate. Ion metabolism and redox regulation: Mitochondrial
+  calcium (Ca2+) influx is mediated by the voltage-dependent anion channel (VDAC)
+  and the mitochondrial calcium uniporter (MCU), with efflux facilitated by NCLX and
+  LETM1. Disruption of calcium homeostasis can induce cell death or promote carcinogenesis,
+  as observed in pancreatic and colorectal cancers. Potassium channels (Kv) and the
+  electron transport chain (ETC) regulate reactive oxygen species (ROS) production,
+  influencing tumor progression in malignancies such as leukemia and lung cancer.
+  Reverse electron transport (RET), involving complexes I and III, enhances ROS generation
+  and is implicated in immune metabolic reprogramming. Energy metabolism and targeted
+  therapy: Mutations in key TCA cycle enzymes (e.g., IDH, SDH, FH) lead to the accumulation
+  of oncogenic metabolites (such as 2-HG, succinate, and fumarate), driving tumorigenesis.
+  IDH inhibitors (e.g., Idhifa, Tibsovo) and metabolic enzyme inhibitors (e.g., ACC
+  and FAS inhibitors) have entered clinical trials, providing promising avenues for
+  targeted cancer therapies'
+article_title: 'Mitochondrial Metabolomics in Cancer: Mass Spectrometry-Based Approaches
+  for Metabolic Rewiring Analysis and Therapeutic Discovery'
+citation: Yuqing Gao, et al. Metabolites. 2025 Aug;15(8).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-31
+doi: 10.3390/metabo15080513
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- mitochondrial metabolomics
+- mass spectrometry
+- mitochondria isolation
+- targeted metabolomics
+- untargeted metabolomics
+---

@@ -1,0 +1,41 @@
+---
+figid: PMC12352899__jci-135-187372-g165
+pmcid: PMC12352899
+image_filename: jpg
+figure_link: /pmc/articles/PMC12352899/figure/F2/
+number: Figure 2
+figure_title: SCF promotes ILC3 effector function and STAT3 pathway
+caption: (A) Sorted lung ILCs (CD45+Thy1.2+Lin-) were treated with either IL-1β/IL-23
+  or IL-1β/IL-23/SCF for 48 hours and then analyzed by flow cytometry. Percentage
+  of IL-17A+ cells in ILC3s (CD45+Thy1.2+Lin-ROR-γt+). n = 3 per group. (B–E) Sorted
+  small intestine ILC3s (CD45intThy1.2hiLin-KLRG1–) were treated with either IL-1β/IL-23
+  or IL-1β/IL-23/SCF for 6 hours and then subjected to RNA-seq analysis. (B) Heatmap
+  showing differentially expressed genes, with a statistical cutoff of P < 0.005.
+  (C) Gene Ontology (GO) biological process enrichment analyses of the genes upregulated
+  in IL-1β/IL-23/SCF-treated ILC3s relative to IL-1β/IL-23 alone. (D) Kyoto Encyclopedia
+  of Genes and Genomes (KEGG) enrichment analyses of the genes upregulated in IL-1β/IL-23/SCF-treated
+  ILC3s relative to IL-1β/IL-23 alone. (E) Gene set enrichment analysis (GSEA) for
+  KEGG JAK-STAT signaling pathway in IL-1β/IL-23/SCF-treated ILC3s relative to IL-1β/IL-23
+  alone. n = 4 per group. (F and G) Sorted lung ILCs (CD45+Thy1.2+Lin-) were treated
+  with either IL-1β/IL-23 or IL-1β/IL-23/SCF for 10 minutes and then analyzed by flow
+  cytometry. (F) Percentage of pSTAT3+ cells in ILC3s (CD45+Thy1.2+Lin-ROR-γt+). n
+  = 3 per group. (G) Percentage of pAKT+ cells in ILC3s. n = 3 per group. All sorted
+  cells were pooled from at least 10 mice and the data are representative of at least
+  3 independent experiments. Significance was determined by 2-tailed paired Student’s
+  t test (A, F, and G)
+article_title: Pulmonary fibroblast-derived stem cell factor promotes neutrophilic
+  asthma by augmenting IL-17A production from ILC3s
+citation: Jheng-Syuan Shao, et al. J Clin Invest. 2025 Jul 17;135(16).
+year: '2025'
+pub_date: 2025-7-17
+epub_date: 2025-7-17
+doi: 10.1172/JCI187372
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Immunology
+- Inflammation
+- Asthma
+- Innate immunity
+---

@@ -1,0 +1,54 @@
+---
+figid: PMC12330681__nihpp-2025.07.22.666113v3-f0001
+pmcid: PMC12330681
+image_filename: jpg
+figure_link: /pmc/articles/PMC12330681/figure/F1/
+number: Figure 1.
+figure_title: Glycolysis is upregulated in somatic cells
+caption: '(A) Diagram of the apical tip of a Drosophila testis. The stem cell niche,
+  called hub (cyan), is a group of post-mitotic cells at the tip of the testis (top)
+  which supports two stem cell populations, cyst stem cells (CySCs, magenta) and germline
+  stem cells (GSCs) grey. GSCs divide to give rise to a gonialblast (grey) that is
+  encapsulated by two CySC daughters called cyst cells. The gonialblast divides with
+  incomplete cytokinesis within the envelope formed by the somatic cyst cells (cyan)
+  to form a germ cell cyst of 2, 4, 8 (grey) and 16 (not shown) interconnected cells.
+  Around the 4-cell stage, the two cyst cells form tight junctions (blue), isolating
+  the germline from the external environment. (B) Diagram representing the glycolytic
+  pathway. In flies, the major circulating sugar is trehalose, which is imported into
+  cyst cells by the Trehalose transporter (Tret1) then cleaved into two molecules
+  of glucose. Glucose is then broken down into pyruvate (Pyr) through glycolysis.
+  Enzymes catalysing each step are indicated in red. (C) Confocal image of a testis
+  tip from a Tret1::nlsGFP fly showing GFP expression (yellow). Zfh1 (magenta) labels
+  CySCs and their immediate daughters, Fas3 (cyan) labels the hub and Eya (cyan) labels
+  cyst cells. (D) Confocal image of a testis from a fly carrying an Aldo-GFP protein
+  trap labelled with GFP (yellow), Zfh1 (magenta) labels CySCs and their immediate
+  daughters and Dlg1 (cyan) labels cell outlines. (E) Confocal image of a testis from
+  a Pyk-HA fly showing HA (yellow), Tj (magenta) labels CySCs and early cyst cells,
+  and Dlg1 (cyan) labels cell outlines. All panels: asterisks indicate the hub, arrowheads
+  indicate GFP-expressing cyst cells. Scale bars: 20 μm. (F) Plot showing expression
+  of Tret1, Treh and glycolytic enzymes according to data from the Fly Cell Atlas
+  in clusters corresponding to CySCs (62), early cyst cells (36 and 58), spermatogonia
+  (25), mid-late proliferating spermatogonia (22) and at the spermatogonium-spermatocyte
+  transition (5). The size of the dots indicates the percent of expressing cells in
+  each cluster, and the colour represents the expression level. (G) Measured abundance
+  of glucose and lactate obtained by LC-MS in sorted somatic and germ cells. ****
+  denotes P<0.0001, * denotes P < 0.05, student’s t test'
+article_title: Somatic cells compartmentalise their metabolism to sustain germ cell
+  survival
+citation: Diego Sainz de la Maza, et al. bioRxiv. 2025 Jul 24;NA(NA).
+year: '2025'
+pub_date: 2025-7-24
+epub_date: 2025-7-24
+doi: 10.1101/2025.07.22.666113
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Testis
+- spermatogenesis
+- glycolysis
+- lactate
+- pyruvate
+- metabolite shuttling
+- somatic gonadal cells
+---

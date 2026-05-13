@@ -1,0 +1,38 @@
+---
+figid: PMC12346731__ijms-26-07037-g004
+pmcid: PMC12346731
+image_filename: jpg
+figure_link: /pmc/articles/PMC12346731/figure/F4/
+number: Figure 4
+figure_title: Pathway enrichment analysis results generated using the functional enrichment
+  visualization tool in The Search Tool for Recurring Instances of Neighboring Genes
+  (STRINGv12.
+caption: Pathway enrichment analysis results generated using the functional enrichment
+  visualization tool in The Search Tool for Recurring Instances of Neighboring Genes
+  (STRINGv12.0) with the Kyoto Encyclopedia of Genes and Genomes (KEGGv112.1) pathways
+  database for 112 differentially expressed proteins (DEPs) in the (A). right parotid
+  and 89 DEPs from all gland sites with (B). proteins of analytical interest including
+  known involvement in the oral cavity, neurological disorders, glyoxalase system,
+  or oxidative stress. Pathway enrichment was determined by STRINGv12.0 using a hypergeometric
+  test for over-representation, with p-values corrected for multiple testing using
+  the Benjamini–Hochberg correction for the false discovery rate (FDR). Pathways are
+  ranked by strength, with bubble size representing the number of DEPs mapped to the
+  pathway and bubble color representing the FDR
+article_title: 'Salivary Proteome Profile of Xerostomic Patients Reveals Pathway Dysregulation
+  Related to Neurodegenerative Diseases: A Pilot Study'
+citation: Abhijeet A. Henry, et al. Int J Mol Sci. 2025 Aug;26(15).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-22
+doi: 10.3390/ijms26157037
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- saliva
+- xerostomia
+- dry mouth
+- salivary hypofunction
+- proteomics
+- neurodegenerative diseases
+---

@@ -1,0 +1,59 @@
+---
+figid: PMC12324400__nihpp-2025.01.21.634180v2-f0001
+pmcid: PMC12324400
+image_filename: jpg
+figure_link: /pmc/articles/PMC12324400/figure/F1/
+number: Figure 1.
+figure_title: Identification of CCDC88A as a putative modulator of NOD2 in non-inflammatory
+  ColAMs in IBD
+caption: 'A. Key steps of the previously published workflow (3) used to develop the
+  computational model of macrophage continuum states—Signatures of Macrophage Reactivity
+  and Tolerance (SMaRT)—are shown. SMaRT identifies invariant gene clusters representing
+  reactive (R) and tolerant (T1, T2) states across over 12,500 diverse transcriptomic
+  datasets. The schematic below illustrates their opposing roles: reactive macrophages
+  act as “accelerators,” while tolerant states serve as “brakes,” working antagonistically
+  to fine-tune inflammatory responses to perceived threats.B.Left: Key steps used
+  here to refine SMaRT in the context of the gut mucosa and derive colon-associated
+  macrophage signatures (ColAMs) using a dataset (GSE83687) (24) comprised of both
+  healthy and IBD samples. SMaRT genes were trained to derive a subset of ColAMs that
+  could classify healthy vs IBD sample, achieving an area under the curve ≥ 0.7. Right:
+  Inflammatory and non-inflammatory ColAMs identified here, in health (top) and IBD
+  (bottom).C-D. KEGG pathway enrichment analysis on the SMaRT (C) and the ColAM-IBD
+  (D) genes.E-F. Bubble plot displays ROC-AUC values (circle radii proportional to
+  ROC-AUC) illustrating gene regulation directions (Up-regulated in red, Down-regulated
+  in blue) for classifying healthy vs. CD and healthy vs. UC in human colonic lamina
+  propria (GSE123141) (E) and DSS-induced acute, chronic and healing phase of murine
+  colitis models (F). This classification is based on macrophage gene signatures of
+  reactivity ‘R’ and tolerance ‘T’, identified in the SMaRT model and the i/niColAMs,
+  used independently. Welch’s two-sample unpaired t-test is applied to the composite
+  gene signature score (z-score of normalized transcripts per million [tpm] count)
+  to compute p-values (* p ≤ 0.05; ** p ≤ 0.01; *** p ≤ 0.001).G. Venn diagram shows
+  the number of genes/proteins, identified by independent studies, to interact with
+  NOD1/2. One gene/protein (CCDC88A/Girdin; white circle) interacts with NOD2 but
+  not NOD1, is associated with tolerant ColAMs.H. Heatmap of the correlation coefficient
+  of normalized gene expression of CCDC88A with NOD2 (left) and NOD1 (right) in various
+  independent transcriptomic datasets of healthy and IBD tissues.I. The bar graph
+  shows MDP/NOD2-induced NFκB activation observed during a functional genomic (siRNA-based)
+  screen. The impact of depletion of iColAM genes and niColAM genes are presented.
+  Interrupted line marks 75% enhancement of NFkB activity compared to MDP-stimulated
+  control samples'
+article_title: Distinct Colitis-Associated Macrophages Drive NOD2-Dependent Bacterial
+  Sensing and Gut Homeostasis
+citation: Gajanan D. Katkar, et al. bioRxiv. 2025 Jul 31;135(23).
+year: '2025'
+pub_date: 2025-7-31
+epub_date: 2025-7-31
+doi: 10.1101/2025.01.21.634180
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- GIV/Girdin
+- Guanine-nucleotide exchange modulators (GEMs)
+- CCDC88A
+- Macrophage
+- NOD2
+- MDP
+- Microbes
+- Innate immunity
+---

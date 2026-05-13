@@ -1,0 +1,37 @@
+---
+figid: PMC12338701__nihpp-2025.07.15.664801v1-f0006
+pmcid: PMC12338701
+image_filename: jpg
+figure_link: /pmc/articles/PMC12338701/figure/F6/
+number: Figure 6.
+figure_title: Commonly enriched miRNAs regulate cell cycle, angiogenesis, and cell
+  migration pathways in angiosarcoma
+caption: (A) Euler diagram of the overlapping genes that are increased in expression
+  in aP2-Cre;Dicer1Fl/Fl (ADcKO, from GSE85834). tumors compared to normal aorta (FDR
+  < 0.05, log2 fold change > 0.5) and all genes with decreased expression in ADC106
+  or SVR cells (FDR < 0.0). (B) DAVID gene ontology analysis of enriched terms within
+  the 465 overlapping genes from (A). (C) The top miRNAs with increased abundance
+  in common between ADC106 and SVR cells treated with ENX with enrichment of target
+  genes among the overlapping genes from (A). All miRNAs with significant (FDR < 0.05)
+  enrichment of target genes plotted. Selected oncogenic genes experimentally validated
+  to be regulated by miRNAs indicated. (D) Graphical abstract illustrating normal
+  miRNA biogenesis and function of miRNAs. Conditional Dgcr8 or Dicer1 deletion in
+  aP2-Cre expressing cells disrupts canonical miRNA biogenesis, leading to angiosarcoma
+  development in mice. This highlights the important tumor-suppressing role of miRNAs
+  in angiosarcoma. Pharmacologic repurposing the antibiotic enoxacin enhances the
+  expression of several tumor suppressing miRNAs and demonstrates anticancer properties
+  in angiosarcoma by repressing oncogenic pathways such as cell proliferation, angiogenesis,
+  cell migration, and cytoskeleton organization. Mouse illustration from NIAID NIH
+  BIOART Source (bioart.niaid.nih.gov/bioart/279)
+article_title: Canonical microRNA loss drives tumor development implicating therapeutic
+  efficacy of enoxacin in angiosarcoma
+citation: Ant Murphy, et al. bioRxiv. 2025 Jul 17;NA(NA).
+year: '2025'
+pub_date: 2025-7-17
+epub_date: 2025-7-17
+doi: 10.1101/2025.07.15.664801
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

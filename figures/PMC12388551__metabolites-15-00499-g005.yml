@@ -1,0 +1,44 @@
+---
+figid: PMC12388551__metabolites-15-00499-g005
+pmcid: PMC12388551
+image_filename: jpg
+figure_link: /pmc/articles/PMC12388551/figure/F5/
+number: Figure 5
+figure_title: Flux distribution of metabolic reactions associated with energy metabolism
+  across exposure conditions in investigated mice.
+caption: Flux distribution of metabolic reactions associated with energy metabolism
+  across exposure conditions in investigated mice. (A) Reaction fluxes of pentose
+  phosphate pathway (PPP), glycolysis, and citric cycle (TCA) in female and male BALB/c
+  mice exposed to PFESA-BP2. Schematic diagram of the biological pathways was acquired
+  from ESCHER database [79], where the orange-colored nodes represent metabolites,
+  and reaction IDs are given to represent enzyme name catalyzing the reaction. (B)
+  Reaction fluxes of fatty acid β-oxidation in mitochondria, including the transport
+  reactions from extracellular and cytosol compartments in WT and PPARα−/− male mice
+  exposed to PFOA and GenX. The pathway schematic diagram was acquired from WikiPathways-(WP3588)
+  database [78] with minor modifications, addressing the reactions of interest and
+  related enzymes. The BIGG reaction IDs are given corresponding to their set of enzymes
+  (highlighted in red color). Statistical analyses were performed using unpaired two-tailed
+  t-tests, using Ctrl group (for panel A) and WT-control group (for panel B) as the
+  respective comparison references. A p-value < 0.05 was considered statistically
+  significant (* p < 0.05, ** p < 0.01, and *** p < 0.005). KO represents the PPARα−/−
+  mice. Low- and high-PFOA are PFOA doses of 0.05 and 0.3 mg/kg.bw/day, respectively
+article_title: Investigating Lipid and Energy Dyshomeostasis Induced by Per- and Polyfluoroalkyl
+  Substances (PFAS) Congeners in Mouse Model Using Systems Biology Approaches
+citation: Esraa Gabal, et al. Metabolites. 2025 Aug;15(8).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-24
+doi: 10.3390/metabo15080499
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- energy metabolism
+- PFAS
+- PFESA-BP2
+- GenX
+- genome-scale metabolic models
+- PFOA
+- PPARα
+- lipid metabolism
+---

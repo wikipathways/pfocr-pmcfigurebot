@@ -1,0 +1,36 @@
+---
+figid: PMC12324473__nihpp-2025.07.31.667996v1-f0008
+pmcid: PMC12324473
+image_filename: jpg
+figure_link: /pmc/articles/PMC12324473/figure/F8/
+number: Figure 8.
+figure_title: scRNA-seq analysis of tumors from SmoM2 and SmoM2-Ptenfl/fl mice reveals
+  altered differentiation in SHH-MB tumor cells lacking Pten
+caption: (A) UMAP of integrated cells from SmoM2 (n=2) and SmoM2-Ptenfl/fl (n=2) tumors
+  showing scRNA-seq GCP-lineage clusters 0–9 (Pax6-expressing) (left) and the assignment
+  of cell types to each cluster (right) based on marker gene expression and cell cycle
+  phase. (B) Pax6 expression (GCP-lineage marker) shown across all clusters in UMAP
+  of all tumor cells. (C) UMAP of GCP-lineage cells shown by genotye. (D) UMAP of
+  GCP-lineage cells (two genotypes) showing cell cycle phases. (E) Dot plot graph
+  showing expression levels of GCP-lineage marker genes and desgnation of the clusters
+  as GCP-like or maturing GC-like cell types. (F) Graph of GCP-lineage cells showing
+  percentage of cells from each genotype that are GCP-like, transitioning GC-like,
+  early GC-like and mature GC-like showing a higher percentage of mature GCs in tumors
+  from SmoM2 mice. (G) Graph showing proportions of cells of each genotype in each
+  of the GCP-lineage cell types excuding mature GCs that are mostly from SmoM2 mice.
+  Dotted line represents the expected ratio between the two genotypes. (H) Pseudotime
+  analysis reflecting the differentiation pathway of cells within the GCP-lineage
+  with an origin in the GCP-like clusters, indicating cluster 7 is stalled or altered
+  during differentiation
+article_title: PTEN restrains SHH medulloblastma growth through cell autonomous and
+  nonautonomous mechanisms
+citation: Zhimin Lao, et al. bioRxiv. 2025 Aug 02;14(NA).
+year: '2025'
+pub_date: 2025-8-02
+epub_date: 2025-8-02
+doi: 10.1101/2025.07.31.667996
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

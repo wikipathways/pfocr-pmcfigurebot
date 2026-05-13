@@ -1,0 +1,32 @@
+---
+figid: PMC12385589__genes-16-00878-g009
+pmcid: PMC12385589
+image_filename: jpg
+figure_link: /pmc/articles/PMC12385589/figure/F9/
+number: Figure 9
+figure_title: 'Trend clustering and KEGG enrichment analysis of differentially expressed
+  genes: (a) K-means clustering divided DEGs in L.'
+caption: 'Trend clustering and KEGG enrichment analysis of differentially expressed
+  genes: (a) K-means clustering divided DEGs in L. rotatum seeds under different GA3
+  treatment durations into six expression patterns (Cluster 1–6), showing dynamic
+  transcriptional responses over time; (b) KEGG enrichment bubble plot for each expression
+  cluster, illustrating the significantly enriched metabolic and signaling pathways.
+  Rich factor indicates enrichment strength, bubble size represents gene count, and
+  color denotes –log10(q-value)'
+article_title: Regulatory Mechanisms of Exogenous Gibberellin on Seed Germination
+  and Transcriptomic Responses in Lomatogonium rotatum
+citation: Kefan Cao, et al. Genes (Basel). 2025 Aug;16(8).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-26
+doi: 10.3390/genes16080878
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- Lomatogonium rotatum
+- Gibberellin (GA3)
+- seed germination
+- transcriptome analysis
+- WGCNA
+---

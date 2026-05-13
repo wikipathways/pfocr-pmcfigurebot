@@ -1,0 +1,51 @@
+---
+figid: PMC12324292__nihpp-2025.07.27.667063v1-f0001
+pmcid: PMC12324292
+image_filename: jpg
+figure_link: /pmc/articles/PMC12324292/figure/F1/
+number: Figure 1.
+figure_title: Structural and sequence features of tetra-nucleosome and chromatin architectural
+  proteins.
+caption: 'Structural and sequence features of tetra-nucleosome and chromatin architectural
+  proteins. (a) The left panel shows the atomistic canonical crystal structure of
+  the tetra-nucleosome (PDB: 5OY7), which serves as the model chromatin unit in our
+  simulations. The middle panel illustrates the coarse-grained β-rhombus configuration,
+  characterized by a planar arrangement of nucleosomes, while the right panel depicts
+  the coarse-grained α-tetrahedron conformation, a compact pyramidal geometry formed
+  by short-range nucleosome–nucleosome interactions. These two configurations represent
+  hallmark folding states of short chromatin arrays and serve as reference conformations
+  for assessing the impact of chromatin-binding proteins on folding pathways and structural
+  transitions. (b) Domain architecture and sequence features of HP1α. HP1α is composed
+  of an N-terminal extension (NTE), chromodomain (CD), a central hinge region, and
+  the chromoshadow domain (CSD). These domains mediate key functions including H3K9me3
+  recognition, DNA binding, dimerization, and histone tail interaction. The full-length
+  amino acid sequence is shown below, color-coded to match the domain schematic. Positively
+  and negatively charged residues are marked with blue and red beads, respectively,
+  to highlight the sequence-specific distribution of charges across domains. (c) Domain
+  architecture and sequence features of PHC3, which includes an intrinsically disordered
+  region (IDR), an FCS zinc finger, a flexible linker, and a sterile alpha motif (SAM)
+  domain that mediates oligomerization. We use a truncated construct of PHC3 (tPHC3)
+  in our simulations, retaining the key domains: SAM and the unstructured linker.
+  The sequence of tPHC3 is displayed with domain-specific color coding, and charged
+  residues are annotated with blue (positively charged) and red (negatively charged)
+  beads to highlight electrostatic patterning across the protein. These domain-level
+  annotations highlight the compositional and electrostatic contrasts between the
+  disordered and structured regions of HP1α and tPHC3, setting the stage for interpreting
+  their differential roles in chromatin organization'
+article_title: 'How chromatin-binding proteins direct distinct folding pathways of
+  tetra-nucleosomes: Insights from coarse-grained simulations'
+citation: Utkarsh Kapoor, et al. bioRxiv. 2025 Jul 31;NA(NA).
+year: '2025'
+pub_date: 2025-7-31
+epub_date: 2025-7-31
+doi: 10.1101/2025.07.27.667063
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- chromatin-binding proteins
+- tetra-nucleosome folding pathway
+- thermodynamics
+- protein-nucleic acid interactions
+- coarse-grained molecular dynamics
+---

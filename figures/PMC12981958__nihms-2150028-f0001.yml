@@ -1,0 +1,51 @@
+---
+figid: PMC12981958__nihms-2150028-f0001
+pmcid: PMC12981958
+image_filename: jpg
+figure_link: /pmc/articles/PMC12981958/figure/F1/
+number: Figure 1.
+figure_title: Schematic representation of cAMP signaling in mammalian cells vs. trypanosomatids
+  highlighting the differences between both systems
+caption: 'Left panel: In mammalian cells, ligand (orange sphere) binding activates
+  GPCR, which activates the G proteins by promoting GDP/GTP exchange in the Gα subunit,
+  triggering its detachment from Gβ/Gγ subunits to activate type III AC containing
+  12 transmembrane domains. AC catalyzes the synthesis of cAMP from ATP. An increased
+  level of cytosolic cAMP activates PKA holoenzyme, which binds AKAP through the dimerization
+  domain of the PKA-R subunit. cAMP also activates EPAC and CNGCs. cAMP binding to
+  PKA-R promotes the dissociation of PKA-C subunits that translocate to the cell nucleus
+  to induce the phosphorylation of transcription factors, such as CREB, modifying
+  the gene expression profile of the cell. PDE hydrolyzes cAMP, thus restoring intracellular
+  cAMP to basal levels. Right panel: In trypanosomatids, environmental cues (osmotic
+  stress, pH, hydrophobic interactions, nutrient deprivation) produce membrane alterations
+  that activate receptor-type ACs through the dimerization of their catalytic domain.
+  Trypanosome AC exhibits a single transmembrane domain and catalyzes the synthesis
+  of cAMP from ATP. In trypanosomatids, the PKA regulatory subunit is not activated
+  by cAMP. CARPs have been proposed as cAMP effectors in this PKA-independent signaling
+  pathway but so far, except for CARP3, their function remains unknown. CARP3 is a
+  multiadenylate cyclase modulator in trypanosomatids that binds ACs through their
+  C-terminal (cytosolic) region. No GPCRs, CNGCs, or EPAC have been identified in
+  the genomes of trypanosomatids. Other putative cAMP effectors have been proposed
+  in T. cruzi (FLAM6 and CC2CP). AKAP, A-kinase anchoring protein; CARP, cAMP response
+  protein; CNGC, cyclic nucleotide-gated ion channel; CRE, cAMP-response elements;
+  CREB, cAMP response element-binding protein; EPAC, exchange protein directly activated
+  by cAMP; Gα, G protein alpha subunit; Gβ/Gγ, G protein beta and gamma subunits;
+  GPCR, G-protein-coupled receptor; PDE, phosphodiesterase; PKA, protein kinase A;
+  PKA-R, PKA regulatory subunit; PKA-C, PKA catalytic subunit. This figure was created
+  using BioRender'
+article_title: Outlining the structure of cAMP compartments in Trypanosoma cruzi
+citation: Noelia Lander, et al. Trends Parasitol. 2025 Aug;41(8).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-16
+doi: 10.1016/j.pt.2025.06.013
+journal_title: Trends in parasitology
+journal_nlm_ta: Trends Parasitol
+publisher_name: .na.character
+keywords:
+- Contractile vacuole complex
+- Environmental sensing
+- Flagellar distal domain
+- Metacyclogenesis
+- Osmoregulation
+- Signaling microdomains
+---

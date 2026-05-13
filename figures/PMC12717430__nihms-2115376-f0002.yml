@@ -1,0 +1,32 @@
+---
+figid: PMC12717430__nihms-2115376-f0002
+pmcid: PMC12717430
+image_filename: jpg
+figure_link: /pmc/articles/PMC12717430/figure/F2/
+number: Figure 2.
+figure_title: Hierarchical clustering of intracellular protein concentrations in response
+  to metabolite treatments
+caption: (a) Intracellular proteins were hierarchically clustered by their respective
+  z-scores. Significant pathway proteins (FDR q < 0.10) were denoted with a star as
+  determined by a Kruskal-Wallis test adjusted by the Benjamini-Hochberg method. (b)
+  Mann-Whitney pairwise testing of the log2 fold change (metabolite/vehicle) of significant
+  proteins identified by the Kruskal-Wallis test. Significance between different metabolite
+  condition pairs was established with a p < 0.05
+article_title: Metabolites associated with type 2 diabetes and Alzheimer’s disease
+  trigger differential intracellular signaling responses in mouse primary neurons
+citation: Brendan K. Ball, et al. Brain Res. 2025 Oct 01;1864(NA).
+year: '2025'
+pub_date: '2025-10-01'
+epub_date: 2025-7-05
+doi: 10.1016/j.brainres.2025.149819
+journal_title: Brain research
+journal_nlm_ta: Brain Res
+publisher_name: .na.character
+keywords:
+- Intracellular signaling
+- cytokines
+- Alzheimer’s disease
+- type 2 diabetes
+- partial least squares discriminant analysis
+- canonical correlation analysis
+---

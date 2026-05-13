@@ -1,0 +1,53 @@
+---
+figid: PMC12338536__nihpp-2025.07.11.664268v1-f0005
+pmcid: PMC12338536
+image_filename: jpg
+figure_link: /pmc/articles/PMC12338536/figure/F5/
+number: Figure 5.
+figure_title: Motor learning-associated pathways are shared between motor cortex and
+  dorsal striatum with region- and stage-specific regulation
+caption: '(A) GO and KEGG pathway enrichment analysis of DEGs in projection neuron
+  subtypes from the motor cortex. Heatmap shows −log10 P values, with red indicating
+  enrichment among upregulated pathways and blue among downregulated pathways. Hypergeometric
+  test with Benjamini-Hochberg correction. Significant terms (p < 0.01, gene count
+  > 3, enrichment factor> 1.5) were clustered by Kappa similarity (> 0.3). Rows represent
+  the top 20 enriched terms; columns represent neuronal subtypes. Term names are displayed
+  in a dendrogram (right) with shaded boxes denoting their biological classifications
+  (list at bottom).(B) GO and KEGG pathway enrichment analysis of DEGs across projection
+  neuron subtypes in the dorsal striatum. Format, color scheme and statistics as in
+  (A).(C) Expression of DEGs related to synaptic function in the motor cortex. Top:
+  Table illustrating the biological categories; DEGs shared with the dorsal striatum
+  are bolded. Bottom: Heatmaps showing average expression in Ctrl, Early, and Late
+  TRAP neurons by subtype. Wilcox rank sum test followed by Holm-Bonferroni correction.
+  * Adjust p value < 0.05.(D) Expression of DEGs related to synaptic function in the
+  dorsal striatum. Top: categorization of DEGs; shared genes with the motor cortex
+  are bolded. Bottom: heatmaps of average expression across experimental groups. Wilcox
+  rank sum test followed by Holm-Bonferroni correction. * Adjust p value < 0.05.(E)
+  Representative images of single-molecule RNA in situ hybridization (ISH) for Syn1in
+  the motor cortex. Insets show enlarged views of two TRAP neurons. Yellow dashed
+  lines outline the mask areas used for RNA puncta quantification. Scale bars: M1,
+  100 μm; enlarged views, 10 μm.(F) Scatter violin plots showing the expression of
+  Syn1 in Ctrl, Early, and Late TRAP neurons. Left: scRNA-seq data. Right: RNA ISH
+  validations. Scatter points represent cells. Black crossbars indicate group medians.
+  Wilcox rank sum test. P values are displayed above each violin plot; cell numbers
+  are shown below. ns, non-significant.Abbreviations: IT, intratelencephalically projecting;
+  NP, near-projecting; PT, pyramidal tract; CT, corticothalamic projecting; PV, parvalbumin;
+  SPN, spiny projection neuron.See also Figure S5 and S6'
+article_title: Motor learning drives region-specific transcriptomic remodeling in
+  the motor cortex and dorsal striatum
+citation: Yue Sun, et al. bioRxiv. 2025 Jul 17;NA(NA).
+year: '2025'
+pub_date: 2025-7-17
+epub_date: 2025-7-17
+doi: 10.1101/2025.07.11.664268
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Motor learning
+- transcriptomic remodeling
+- motor cortex
+- dorsal striatum
+- Htr3a-expressing interneurons
+- single-cell RNA sequencing
+---

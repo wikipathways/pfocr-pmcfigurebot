@@ -1,0 +1,24 @@
+---
+figid: PMC12933722__nihms-2134039-f0006
+pmcid: PMC12933722
+image_filename: jpg
+figure_link: /pmc/articles/PMC12933722/figure/F6/
+number: 'Figure 6:'
+figure_title: Tumor-intrinsic mechanism of resistance to CTX of Brca1mut tumors include
+  the PGE2-axis upregulation
+caption: |-
+  (A) t-SNE map of the in-vivo single-cell transcriptomic data displaying the identified malignant clusters. (B) Proportion of the indicated malignant subclasses between Brca1mut and Brca1wt tumours at baseline and at recurrence. (C) Heatmap displaying gene non-negative matrix factorization (NMF) and the nine metaprograms (MPs) identified in the malignant compartment. (D) Pathway enrichment analysis for each MP using both the Hallmarks and the Reactome pathway collections. (E) Heatmap showing signature scores (z-score) for each MPs in each malignant subpopulation. (F) Tumour growth kinetics of ID8Luc Trp53−/−
+  Brca1wt during treatment with chemotherapy (CTX) and CTX+anti-IFNAR1 Ab (n=6-7 mice per group). (G) FACS data analysis from in-vivo experiment in panel F. (H) PGE2 expressed by Brca1wt and Brca1mut cell lines assessed by ELISA at the indicated time-point and according to the labeled conditions. (I) Tumour growth kinetics of ID8Luc Trp53−/−
+  Brca1mut during treatment with chemotherapy (CTX) and CTX+celecoxib (n=6-7 mice per group). (J) Survival curve from in-vivo experiment in panel I according to the different maintenance treatment groups.Statistical analysis: unpaired, two-tailed Wilcoxon-rank test (B,G), two-way ANOVA (A,I,), Log-rank test (J); p values <0.05 considered significant. Also see Figure S8
+article_title: Myeloid cell networks govern re-establishment of original immune landscapes
+  in recurrent ovarian cancer
+citation: Eleonora Ghisoni, et al. Cancer Cell. 2025 Aug 11;43(8).
+year: '2025'
+pub_date: 2025-8-11
+epub_date: 2025-7-31
+doi: 10.1016/j.ccell.2025.07.005
+journal_title: Cancer cell
+journal_nlm_ta: Cancer Cell
+publisher_name: .na.character
+keywords: []
+---

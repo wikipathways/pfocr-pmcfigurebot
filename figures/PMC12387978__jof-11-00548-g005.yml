@@ -1,0 +1,38 @@
+---
+figid: PMC12387978__jof-11-00548-g005
+pmcid: PMC12387978
+image_filename: jpg
+figure_link: /pmc/articles/PMC12387978/figure/F5/
+number: Figure 5
+figure_title: Transcriptomic dynamics in CSP41b-OE versus WT plants pre- and post-inoculation.
+caption: 'Transcriptomic dynamics in CSP41b-OE versus WT plants pre- and post-inoculation.
+  (A) Principal component analysis (PCA) of gene expression in 12 samples across four
+  experimental groups. Samples within the same group are denoted by same symbols.
+  (B) Bar plot quantifying the number of DEGs between indicated group comparisons.
+  (C) GO enrichment of upregulated DEGs in OE lines between WT plants. (D) The Venn
+  diagram illustrates overlaps of DEGs between OE lines and WT plants before and after
+  R. solani infection. (E) Gene Set Enrichment Analysis (GSEA) of DEGs from WT_24hpi
+  vs. WT_Mock and OE_24hpi vs. OE_Mock comparisons. Enriched KEGG pathways shown on
+  y-axis, significance levels on x-axis. Enrichment scores are color-coded (red: upregulated;
+  blue: downregulated; NES: Normalized Enrichment Score). (F) GSEA for DEGs from OE_24hpi
+  vs. WT_24hpi comparison: Top left: Enrichment score (ES) profile; Bottom left: Barcode
+  plot showing positions of pathway-specific genes in ranked DEG list (colors represent
+  distinct gene sets). (G) Proportion of reads from chloroplast genome relative to
+  total reads across groups. Values presented as bar plot (mean ± SE). Significant
+  differences were determined using a two-tailed Student’s t-test (** p < 0.01)'
+article_title: Overexpression of OsCSP41b Enhances Rice Tolerance to Sheath Blight
+  Caused by Rhizoctonia solani
+citation: Jianhua Zhao, et al. J Fungi (Basel). 2025 Aug;11(8).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-23
+doi: 10.3390/jof11080548
+journal_title: Journal of Fungi
+journal_nlm_ta: J Fungi (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- rice (Oryza sativa L.)
+- sheath blight
+- OsCSP41b
+- chloroplast
+---

@@ -1,0 +1,30 @@
+---
+figid: PMC12385770__entropy-27-00784-g002
+pmcid: PMC12385770
+image_filename: jpg
+figure_link: /pmc/articles/PMC12385770/figure/F2/
+number: Figure 2
+figure_title: CurveMark dual-channel detection framework architecture.
+caption: CurveMark dual-channel detection framework architecture. The upper pathway
+  illustrates watermark embedding during text generation through entropy-aware green/red
+  list manipulation. The lower pathway shows the detection process extracting features
+  from probability curvature patterns and watermark-specific metrics for classification
+article_title: 'CurveMark: Detecting AI-Generated Text via Probabilistic Curvature
+  and Dynamic Semantic Watermarking'
+citation: Yuhan Zhang, et al. Entropy (Basel). 2025 Aug;27(8).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-24
+doi: 10.3390/e27080784
+journal_title: Entropy
+journal_nlm_ta: Entropy (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- information theory
+- AI-generated text detection
+- semantic watermarking
+- probability curvature
+- large language models
+- entropy manipulation
+- channel capacity
+---

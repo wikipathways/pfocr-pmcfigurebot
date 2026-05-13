@@ -1,0 +1,42 @@
+---
+figid: PMC12308458__ol-30-03-15191-g02
+pmcid: PMC12308458
+image_filename: jpg
+figure_link: /pmc/articles/PMC12308458/figure/F3/
+number: Figure 3.
+figure_title: Key genes associated with p53-WT and TP53-MT in patients with prostate
+  cancer.
+caption: Key genes associated with p53-WT and TP53-MT in patients with prostate cancer.
+  (A) Top mutated genes between the high and low TP53 expression groups in the TCGA-PRAD
+  cohort. (B) Top mutated driver genes with TP53 as hub gene in the TCGA-PRAD cohort.
+  GSEA was performed using the R programming 3.3.4. packages ‘clusterProfiler’ based
+  on the top mutated driver genes between the (C) TP53-MT and TP53-WT groups, as well
+  as between the (D) high and low TP53 expression groups in the TCGA-PRAD cohort.
+  KEGG pathway enrichment analysis demonstrated that significantly enriched pathways
+  included (E) ‘Ribosome’, (F) ‘Herpes simplex virus 1 infection’ and (G) ‘Transcriptional
+  misregulation in cancer’, which were potentially associated with TP53 mutations
+  or altered expression. WT, wild-type; TP53, tumor protein 53; MT, mutated; TCGA,
+  The Cancer Genome Atlas; PRAD, prostate adenocarcinoma; GSEA, gene set enrichment
+  analysis; KEGG, Kyoto Encyclopedia of Genes and Genomes; TSG, tumor suppressor gene;
+  ATM, ataxia telangiectasia mutated; MDM2, mouse double minute 2 homolog; CDKN2A,
+  cyclin-dependent kinase inhibitor 2A; CCND1, cyclin D1; CDKN1A, cyclin-dependent
+  kinase inhibitor 1A; FBXW7, F-Box and WD repeat domain containing 7; CCNE1, cyclin
+  E1; RB1, retinoblastoma 1; E2F3, E2F transcription factor 3; cGMP, cyclic guanosine
+  monophosphate; PKG, protein kinase G; PPAR, peroxisome proliferator-activated receptor
+article_title: Effect of TP53 mutation, expression and polymorphism on the survival,
+  immune infiltration and ferroptosis in patients with prostate cancer
+citation: Gui-Min Wen, et al. Oncol Lett. 2025 Sep;30(3).
+year: '2025'
+pub_date: 2025-9-
+epub_date: 2025-7-17
+doi: 10.3892/ol.2025.15191
+journal_title: Oncology Letters
+journal_nlm_ta: Oncol Lett
+publisher_name: Spandidos Publications
+keywords:
+- prostate cancer
+- tumor protein 53
+- mutation
+- ferroptosis
+- polymorphism
+---

@@ -1,0 +1,31 @@
+---
+figid: PMC7618990__EMS213201-f003
+pmcid: PMC7618990
+image_filename: jpg
+figure_link: /pmc/articles/PMC7618990/figure/F3/
+number: Fig. 3
+figure_title: Model of TC-DPC repair
+caption: A DPC represents a fundamental blockage to RNAPII, resulting in transcription
+  stalling. The interaction between CSB and RNAPII becomes sustained, and the CRL4CSA
+  complex is recruited. RNAPII (RPB1-K1268, although this is not functionally relevant)
+  and the crosslinked protein are then ubiquitinated by the CRL4CSA complex. TFIIH
+  is potentially involved, aiding duplex manipulation to allow for DPC access. The
+  unfoldase protein, p97, in complex with VCP, is then recruited to aid DPC degradation
+  by the proteasome. It is thought that RNAPII is not evicted during DPC degradation.
+  Degradation results in a crosslinked peptide remaining on the template strand, which
+  would likely be a substrate for NER or another excision repair pathway [82,84]
+article_title: Transcription-coupled repair of crosslinking DNA damage
+citation: Rebecca Roddan, et al. DNA Repair (Amst). 2025 Aug 01;152(NA).
+year: '2025'
+pub_date: 2025-8-01
+epub_date: 2025-7-16
+doi: 10.1016/j.dnarep.2025.103869
+journal_title: DNA repair
+journal_nlm_ta: DNA Repair (Amst)
+publisher_name: .na.character
+keywords:
+- DNA crosslinks
+- Interstrand crosslinks
+- DNA protein crosslinks
+- Excision repair
+---

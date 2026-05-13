@@ -1,0 +1,45 @@
+---
+figid: PMC12374584__thnov15p8360g005
+pmcid: PMC12374584
+image_filename: jpg
+figure_link: /pmc/articles/PMC12374584/figure/F5/
+number: Figure 5
+figure_title: Single-cell transcriptomics implicates senescence pathways in PTEN-regulated
+  mechanical ventilation-associated pulmonary fibrosis.
+caption: Single-cell transcriptomics implicates senescence pathways in PTEN-regulated
+  mechanical ventilation-associated pulmonary fibrosis. (A) Schematic representation
+  of the single-cell RNA sequencing (scRNA-seq) workflow. Following HCl and mechanical
+  ventilation (MV), lung tissues were extracted, single cells were isolated, and next-generation
+  sequencing was performed using the 10x Genomics platform. (B) Proportion of different
+  cell types in lung tissue from PTENF/F and PTENCKO (knockout) mice under HCl+MV
+  condition. (C) Uniform Manifold Approximation and Projection (UMAP) plot showing
+  distinct cell populations in lung tissue from mice under HCl+MV condition. (D) UMAP
+  plot comparing PTENF/F and PTENCKO mice under HCl+MV condition, highlighting changes
+  in cellular distribution patterns. (E) Heatmap of the top 15 differentially expressed
+  genes (DEGs) in lung epithelial cells (ECs) following PTEN knockout. (F) Pathway
+  analysis in lung ECs showing significant enrichment in pathways related to cellular
+  senescence. (G) Heatmap of the top 15 DEGs in immune cells (macrophages, monocytes,
+  dendritic cells, mast cells, and neutrophils) following PTEN knockout. (H) Pathway
+  analysis in immune cells showing significant enrichment in pathways related to interleukin-1
+  and interleukin-1 β signaling (cellular senescence-related pathways). (I) Senescence-associated
+  secretory phenotype (SASP) scores in 11 major lung cell types (AddModuleScore),
+  with the highest scores observed in mast cells and fibroblasts. Differences in SASP
+  scores were observed only in lung ECs, indicating a protective effect of PTEN knockout
+  on MV-PF through downregulation of cellular senescence in lung ECs. Comparisons
+  between two groups were performed using independent sample t tests
+article_title: PTEN-mediated senescence of lung epithelial cells drives ventilator-induced
+  pulmonary fibrosis
+citation: Mengyu Li, et al. Theranostics. 2025;15(16).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025-7-25
+doi: 10.7150/thno.117523
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+keywords:
+- mechanical ventilation-pulmonary fibrosis
+- epithelial senescence
+- phosphatase and tensin homolog
+- P53 signaling
+---

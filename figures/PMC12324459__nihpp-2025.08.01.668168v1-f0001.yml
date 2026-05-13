@@ -1,0 +1,37 @@
+---
+figid: PMC12324459__nihpp-2025.08.01.668168v1-f0001
+pmcid: PMC12324459
+image_filename: jpg
+figure_link: /pmc/articles/PMC12324459/figure/F1/
+number: Figure 1.
+figure_title: SDH loss significantly alters imCC and iMEF total proteomes
+caption: A-B. Volcano plot depicting effects of SDH loss on A. imCC and B. iMEF total
+  proteomes. Vertical dotted lines indicate fold change (FC) of 2. The number and
+  percentage of significantly changed (P (FDR-adjusted p-value) < 0.05, |FC| > 2)
+  proteins are labeled in red. C. Venn diagram of all identified proteins shown in
+  A. and B. as shared or unique to imCC and iMEF total proteomes. D. Correlation plot
+  of total protein changes upon SDH loss between imCCs and iMEFs. Proteins with iMEF
+  FC/imCC FC > 1.25 are colored in gold and proteins with imCC FC/iMEF FC > 1.25 are
+  colored in teal. E-F. Top 15 upregulated and downregulated pathways upon SDH loss
+  for E. imCCs and F. iMEFs from Ingenuity Pathway Analysis
+article_title: Distinct proteomic and acylproteomic adaptations to succinate dehydrogenase
+  loss in two cell contexts
+citation: Sherry X Zhou, et al. bioRxiv. 2025 Aug 02;NA(NA).
+year: '2025'
+pub_date: 2025-8-02
+epub_date: 2025-8-02
+doi: 10.1101/2025.08.01.668168
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- pheochromocytoma
+- paraganglioma
+- succinate dehydrogenase
+- proteomics
+- acylation
+- acetylation
+- succinylation
+- fatty acid oxidation
+- energy deficiency
+---

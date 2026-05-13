@@ -1,0 +1,38 @@
+---
+figid: PMC12338616__nihpp-2025.07.16.665170v1-f0004
+pmcid: PMC12338616
+image_filename: jpg
+figure_link: /pmc/articles/PMC12338616/figure/F4/
+number: Figure 4
+figure_title: The var2csa uORF is responsible for degradation of var2csa transcripts
+  in the switcher clones
+caption: (A) Model for var gene switching and the role of var2csa as a sink-node.
+  Wild type switcher parasites transiently activate var2csa (red) in the beginning
+  of the cell cycle. The uORF present upstream of the gene is recognized as a premature
+  stop codon and var2csa mRNAs are destabilized through the nonsense mediated decay
+  (NMD) pathway. This results in parasites that either continue to express the same
+  var gene transcribed in the previous cell cycle (blue) or switch to a new var gene
+  (purple). (B) Model for switching in NMD-deficient lines. In absence of NMD, the
+  var2csa mRNA is stabilized despite the presence of the uORF, resulting in parasite
+  unable to switch away from expressing var2csa. (C) Pie charts representing var expression
+  profiles of a switcher clone (upper) and a non-switcher clone (bottom) before and
+  after disruption of the gene encoding UPF3B, a protein required for the NMD pathway.
+  Expression of each var gene was determined by quantitative RT-PCR and represented
+  as relative to seryl-tRNA synthetase (PF3D7_0717700). (D) Pie charts representing
+  var expression profiles of a switcher clone (upper) and a non-switcher clone (bottom)
+  before and after uORF elimination. Expression of each var gene was determined by
+  quantitative RT-PCR and represented as relative to seryl-tRNA synthetase (PF3D7_0717700).
+  The schematic shows the point mutation (M>I) that eliminates the start codon and
+  disrupts the uORF
+article_title: The molecular basis of coordinated antigen switching enabling chronic
+  infection by human malaria parasites
+citation: Joseph E. Visone, et al. bioRxiv. 2025 Jul 16;NA(NA).
+year: '2025'
+pub_date: 2025-7-16
+epub_date: 2025-7-16
+doi: 10.1101/2025.07.16.665170
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

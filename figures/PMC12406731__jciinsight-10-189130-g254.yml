@@ -1,0 +1,38 @@
+---
+figid: PMC12406731__jciinsight-10-189130-g254
+pmcid: PMC12406731
+image_filename: jpg
+figure_link: /pmc/articles/PMC12406731/figure/F6/
+number: Figure 6
+figure_title: Overexpression of CircNSD1 downregulated ACSL4 and SLC39A14 by H3K36
+  methylation
+caption: '(A) Reanalyzing a single-cell RNA-Seq dataset of mouse kidney (GSE139107).
+  Venn diagram showing the intersection analysis of genes changed in I/R-2D and I/R-14D
+  with genes associated with ferroptosis. (B) KEGG pathway analysis of overlapping
+  genes. (C) ChIP assay detecting the H3K36me modification of ACSL4, LPCAT3, SLC39A14,
+  and SAT1 regulated by CircNSD1 in control and CircNSD1 overexpressed cells treated
+  with H/R-48h. (D) Representative immunofluorescence staining of ACSL4 and SLC39A14
+  in control and CircNSD1 overexpressed cells treated with H/R-48h. Scale bar: 20
+  μm. (E) Immunofluorescence staining of ACSL4 and LTL in kidney tissues from control
+  and CircNsd1-overexpressing I/R mice. Immunofluorescence staining of SLC39A14 and
+  LTL in kidney tissues from control and CircNsd1-overexpressing I/R mice. Scale bar:
+  50 μm. Data are shown as mean ± SEM, *P < 0.05, **P < 0.01, ***P < 0.001 compared
+  with the IgG-EV-H/R-48h group by 1-way ANOVA with Tukey’s post hoc test. ###P <
+  0.001 compared with H3K36me1-EV-H/R-48h group or H3K36me2-EV-H/R-48h group by 1-way
+  ANOVA with Tukey’s post hoc test. &&&P < 0.001 compared with H3K36me3-EV-H/R-48h
+  group by 1-way ANOVA with Tukey’s post hoc test'
+article_title: NSD1-916aa encoded by CircNSD1 contributes to AKI-to-CKD transition
+  through inducing ferroptosis in tubular epithelial cells
+citation: Li Gao, et al. JCI Insight. 2025 Jul 15;10(16).
+year: '2025'
+pub_date: 2025-7-15
+epub_date: 2025-7-15
+doi: 10.1172/jci.insight.189130
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Metabolism
+- Nephrology
+- Chronic kidney disease
+---

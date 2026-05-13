@@ -1,0 +1,65 @@
+---
+figid: PMC12338689__nihpp-2025.07.18.664790v1-f0003
+pmcid: PMC12338689
+image_filename: jpg
+figure_link: /pmc/articles/PMC12338689/figure/F2/
+number: Figure 2.
+figure_title: SOX2 directly interacts with FOXA1 in PCa cells competitively with AR,
+  as is corroborated with gene expression data in PCa patient samples
+caption: A) All candidate TFs within 20bp of SOX2 peak in CWR-R1 cells. The e-value
+  is the lowest p-value of any spacing of the secondary motif times the number of
+  secondary motifs; it estimates the expected number of random secondary motifs that
+  would have the observed minimum p-value or less. FOXA1 identified in red. The FOXA1-SOX2
+  motif enriched by ChIP-seq shows a potential direct interaction on the chromatin.
+  B-F) Gene network signature analyses in PCa patient tumors using the Algorithm for
+  Linking Activity Networks (ALAN) model. Datasets from publicly available sources
+  are depicted across contexts of prostate cancer (GTEX, TCGA, SU2C, and Adeno and
+  NEPC). Gene network signature for FOXA1 (orange) is visualized compared to the gene
+  networks of AR (blue) and SOX2 (red) in each dataset where the median ALAN profile
+  score for each gene network is noted with a black line. Overall network analysis
+  is represented as positive for a median ALAN profile score above 0 and negative
+  for a median ALAN profile score below 0. G) Proximity ligation assay (PLA) measures
+  co-localization (red) of SOX2 and FOXA1 CWR-R1 castration-resistant prostate adenocarcinoma
+  cells. H) Reciprocal co-immunoprecipitation of SOX2 and FOXA1 in CWR-R1 cells. I)
+  Co-immunoprecipitation of FOXA1 with SOX2 in the NEPC cell line NCI-H660. J) Split
+  nano-luciferase complementation reporter assay (Nano-BiT) demonstrating a specific
+  interaction between SOX2 and FOXA1 in HEK293T cells. Tagged AR and FOXA1 were shown
+  to interact as a positive control, and co-transfection of tagged AR and SOX2 were
+  a negative control. Data points represent mean luminescence +/− SD. K) Lentiviral
+  SOX2 overexpression (OE) ablates the AR-FOXA1 Nano-BiT interaction in HEK293T cells.
+  Data points represent mean luminescence +/− SD. L) Lentiviral AR overexpression
+  (OE) ablates the SOX2-FOXA1 Nano-BiT interaction in HEK293T cells, specifically
+  in ARSI conditions. Data points represent mean luminescence +/− SD. M) Nano-BiT
+  in prostate adenocarcinoma LNCaP cells demonstrates strong SOX2-FOXA1 interaction.
+  No significant changes were observed across different AR-signaling contexts. Data
+  points represent mean luminescence +/− SD. N) Western blots of CWR-R1 protein lysate
+  from cells that underwent AR-pathway modulation. Protein bands were quantified using
+  Empiria Studio
+article_title: SOX2 utilizes FOXA1 as a heteromeric transcriptional partner to drive
+  proliferation in therapy-resistant prostate cancer
+citation: John T. Phoenix, et al. bioRxiv. 2025 Jul 19;NA(NA).
+year: '2025'
+pub_date: 2025-7-19
+epub_date: 2025-7-19
+doi: 10.1101/2025.07.18.664790
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- SOX2
+- FOXA1
+- AR
+- CRPC
+- NEPC
+- Prostate cancer
+- neuroendocrine
+- lineage plasticity
+- stem cells
+- ASCL1
+- ROR1
+- FGF
+- FGFR
+- enzalutamide
+- castration
+- androgen
+---

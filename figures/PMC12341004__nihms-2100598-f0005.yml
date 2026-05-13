@@ -1,0 +1,38 @@
+---
+figid: PMC12341004__nihms-2100598-f0005
+pmcid: PMC12341004
+image_filename: jpg
+figure_link: /pmc/articles/PMC12341004/figure/F5/
+number: Figure 5.
+figure_title: SHR vs. WKY differential correlations in the miRNA regulatory network
+  putatively controlling the expression of the renin-angiotensin system and angiotensin
+  II signaling components
+caption: A) Subset of the larger miRNA regulatory network focused on the renin angiotensin
+  system (RAS) pathway and downstream angiotensin II signaling. Arrows from miRNAs
+  to genes represent miRNA-target pairs, while arrows from gene to pathway indicate
+  pathways or processes that the genes influence, regardless of whether they activate
+  or inhibit the pathway in question.B) miRNA regulatory networks detailing the dynamic
+  correlations between miRNAs and their putative targets in the SHR and WKY and the
+  shift in correlations between strains. Edges are mapped to the correlation values
+  in each strain (blue, negative; red, positive, transparency is proportional to overall
+  strength in correlation) and line width is mapped to the difference in correlation
+  between SHR and WKY.C) Dynamic profiles of miR-543 and its putative targets Nr3c2,
+  Ace, and Atp6ap2 (prorenin receptor, PRR) in the NTS, illustrating the shift in
+  dynamic correlation between WKY (blue) and SHR (red). Pearson correlation shifts
+  from 0.75 to −0.94 for Nr3c2, 0.92 to −0.81 for Ace, −0.92 to 0.59 for Atp6ap2.D)
+  Dynamic profiles of miR-485 and its putative target Agtrap in the RVLM, illustrating
+  the negative correlation in WKY (blue; corr = −0.99) that is lost in SHR (red, corr
+  = 0.04). Plots represent mean +/− standard error of normalized expression values
+article_title: Dynamic rewiring of microRNA networks in the brainstem autonomic control
+  circuits during hypertension development in the female spontaneously hypertensive
+  rat
+citation: Alison Moss, et al. Physiol Genomics. 2025 Oct 01;57(10).
+year: '2025'
+pub_date: '2025-10-01'
+epub_date: 2025-7-18
+doi: 10.1152/physiolgenomics.00136.2024
+journal_title: Physiological genomics
+journal_nlm_ta: Physiol Genomics
+publisher_name: .na.character
+keywords: []
+---

@@ -1,0 +1,35 @@
+---
+figid: PMC12346471__ijms-26-07041-g001
+pmcid: PMC12346471
+image_filename: jpg
+figure_link: /pmc/articles/PMC12346471/figure/F1/
+number: Figure 1
+figure_title: A previously published CVB-infected iBEC RNA sequencing dataset was
+  queried and downloaded from Gene Expression Omnibus (GEO) (GSE269413).
+caption: A previously published CVB-infected iBEC RNA sequencing dataset was queried
+  and downloaded from Gene Expression Omnibus (GEO) (GSE269413). Whole transcriptome
+  analysis was then run using a suite of bioinformatics tools in the “3PodR” package,
+  including differential gene expression, pathway analysis, and perturbagen analysis
+  [19]. Visualizations were subsequently generated from this analysis. The “3PodR”
+  tool package (pre-release, https://doi.org/10.5281/zenodo.8190833, accessed on 8
+  August 2024) enabled the interpretation of transcriptomic changes, biomolecular
+  pathways, and possible perturbagens were identified, providing a unique transcriptional
+  analysis of this dataset. Created in Biorender. Jacob Wood. (2025) https://BioRender.com
+  (accessed on 10 January 2025)
+article_title: Identification of Drug Repurposing Candidates for Coxsackievirus B3
+  Infection in iPSC-Derived Brain-like Endothelial Cells
+citation: Jacob F. Wood, et al. Int J Mol Sci. 2025 Aug;26(15).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-22
+doi: 10.3390/ijms26157041
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- differential gene expression
+- Coxsackievirus B3
+- blood–brain barrier
+- transcriptomics
+- drug repurposing
+---

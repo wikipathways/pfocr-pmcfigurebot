@@ -1,0 +1,50 @@
+---
+figid: PMC12320230__ijbsv21p4410g002
+pmcid: PMC12320230
+image_filename: jpg
+figure_link: /pmc/articles/PMC12320230/figure/F2/
+number: Figure 2
+figure_title: NF-κB activation is necessary for RNF25-mediated anti-apoptosis.
+caption: NF-κB activation is necessary for RNF25-mediated anti-apoptosis. A Top five
+  enriched pathways associated with downregulated genes following RNF25 knockdown.
+  B Heatmap showing the relative expression of NF-κB pathway genes significantly regulated
+  by RNF25 knockdown (log2FC > 1, q-value < 0.05). C, D RT‒qPCR (C) and dual luciferase
+  reporter assay (D) were performed in control and RNF25-knockdown SW839 and OS-RC-2
+  cells (mean ± SD, n = 3, two-tailed unpaired Student's t-test). E Western blot analysis
+  of WCL derived from control and RNF25-knockdown SW839 and OS-RC-2 cells. Relative
+  protein levels of RNF25 and p-p65 are shown. F Western blot analysis of WCL derived
+  from control and RNF25-knockdown SW839 cells treated with 50 ng/ml TNFα for the
+  indicated time points. Relative protein levels of p-IKKα/β, IκBα and p-p65 are shown.
+  G Western blot analysis of WCL derived from parental and resistant SW839 and OS-RC-2
+  cells. Relative protein levels of RNF25 and p-p65 are shown. H Dual luciferase reporter
+  assay were performed in parental and resistant SW839 and OS-RC-2 cells (mean ± SD,
+  n = 3, two-tailed unpaired Student's t-test). I Dose-response survival curves of
+  control and p65-knockdown SW839-R (left) and OS-RC-2-R (right) cells exposed to
+  increasing concentrations of ABT-199 (mean ± SEM, n = 3). J, K Annexin V/7-AAD-FC
+  analysis of control and p65-knockdown SW839-R and OS-RC-2-R cells treated with DMSO
+  or ABT-199 (20 µM) for 24 hours (J), with quantification data shown in (K) (mean
+  ± SD, n = 3, two-tailed unpaired Student's t-test). L, M Dual luciferase reporter
+  assay (L) and RT‒qPCR (M) were performed in control and RNF25-knockdown SW839-R
+  cells infected with the indicated viral constructs (mean ± SD, n = 3, two-tailed
+  unpaired Student's t-test). N Quantification of Annexin V/7-AAD-FC analysis of control
+  and RNF25-knockdown SW839-R cells infected with the indicated viral constructs and
+  treated with DMSO or ABT-199 (20 µM) for 24 hours (mean ± SD, n = 3, two-tailed
+  unpaired Student's t-test). All experiments were independently performed in triplicate,
+  yielding consistent results
+article_title: BAY11-7082 Targets RNF25 to Reverse TRIP4 Ubiquitination-dependent
+  NF-κB Activation and Apoptosis Resistance in Renal Cell Carcinoma
+citation: Lei Li, et al. Int J Biol Sci. 2025;21(10).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025-7-4
+doi: 10.7150/ijbs.115032
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- anti-apoptosis
+- NF-κB activation
+- RNF25
+- TRIP4
+- BAY11-7082
+---

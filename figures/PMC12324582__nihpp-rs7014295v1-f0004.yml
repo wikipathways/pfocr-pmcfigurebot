@@ -1,0 +1,29 @@
+---
+figid: PMC12324582__nihpp-rs7014295v1-f0004
+pmcid: PMC12324582
+image_filename: jpg
+figure_link: /pmc/articles/PMC12324582/figure/F4/
+number: Figure 4
+figure_title: CRISPR screens for genes modulating sensitivity to RP-1664
+caption: A,B. Screen for gene knockouts causing RP-1664 resistance in CHP134 TRIM37-low/TP53-KO
+  cells. A. Experimental design. See methods for details. B. Screen results. Median
+  sgRNA fold changes per gene in RP-1664-treated cells (Y axis) vs. untreated (X axis).
+  Resistor hits with known functions in centriole/centrosome biogenesis (blue), apoptosis
+  (red) or the PIDDosome (green) are highlighted. C,D. Screen for genes knockouts
+  causing RP-1664 resistance or sensitivity in RPE1-hTERT Cas9 cells. C. Experimental
+  design. See methods for details. D. Screen results. Gene-level DrugZ85 scores in
+  cells treated with 50nM RP-1664 (centrosome amplification; Y axis) vs. 150nM (centrosome
+  depletion; X axis). Hits with known functions in centriole/centrosome biogenesis
+  (blue), the mitotic surveillance pathway (red) or the PIDDosome (green) are highlighted
+article_title: The PLK4 inhibitor RP-1664 demonstrates potent single-agent efficacy
+  in neuroblastoma models through a dual mechanism of sensitivity
+citation: John Maris, et al. Res Sq. 2025 Jul 29;NA(NA).
+year: '2025'
+pub_date: 2025-7-29
+epub_date: 2025-7-29
+doi: 10.21203/rs.3.rs-7014295/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords: []
+---

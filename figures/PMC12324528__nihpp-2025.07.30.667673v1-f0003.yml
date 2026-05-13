@@ -1,0 +1,28 @@
+---
+figid: PMC12324528__nihpp-2025.07.30.667673v1-f0003
+pmcid: PMC12324528
+image_filename: jpg
+figure_link: /pmc/articles/PMC12324528/figure/F2/
+number: 'Figure 2:'
+figure_title: Overlaps among AD-specific pathways in the 7K SomaScan assay
+caption: Each intersection shows the number of overlapping SOMAmers; zeros are not
+  shown. Pathways were obtained from the KEGG Legacy (KL), WikiPathways (WP), and
+  Chemical and Genetic Perturbations (CGP) collections included in MSigDB. (a) Original
+  (MSigDB) gene sets. (b) SomaModules derived from the original (MSigDB) gene sets
+article_title: 'SomaModules: a pathway enrichment approach tailored to SomaScan data'
+citation: Julián Candia, et al. bioRxiv. 2025 Aug 02;24(9).
+year: '2025'
+pub_date: 2025-8-02
+epub_date: 2025-8-02
+doi: 10.1101/2025.07.30.667673
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- SomaScan
+- SOMAmers
+- functional enrichment
+- pathway analysis
+- GSEA
+- SomaModules
+---

@@ -1,0 +1,46 @@
+---
+figid: PMC12487673__jciinsight-10-194440-g253
+pmcid: PMC12487673
+image_filename: jpg
+figure_link: /pmc/articles/PMC12487673/figure/F2/
+number: Figure 2
+figure_title: Differential gene expression and coexpression in BAL and paired blood
+  samples
+caption: (A) Genes differentially expressed in BAL versus peripheral blood are shown.
+  (B) Expression levels of select genes specific to lung (SFTPC, MUC5AC) and blood
+  (HBA2, HBB). (C) Gene set enrichment scores to the 50 MSigDB Hallmark Pathways were
+  calculated, and correlation between expression of each gene set was calculated within
+  each body site and then contrasted to identify site-specific coregulation. Here
+  we show unique coexpression of Hallmark Hypoxia and IFN-γ gene sets in BAL but not
+  blood as well as unique coexpression of Hallmark DNA Repair and E2F targets in blood
+  but not BAL. (D) Correlation of MSigDB Hallmark pathways within blood (top right
+  triangle) and within BAL (bottom left triangle) are shown. See Supplemental Figure
+  1 for detailed labels. (E) BAL-blood correlation was calculated for expression levels
+  of n = 7,169 protein-coding genes, and the distribution of correlation coefficients
+  is plotted. Expression levels of CXCL8 in BAL and blood are shown as an example
+  of minimal correlation. Gene set enrichment scores for the MSigDB Hallmark Inflammatory
+  Response gene set measured in BAL and blood are also shown as an example of minimal
+  BAL-blood correlation. BAL and peripheral blood cell type fractions were imputed
+  using CIBERSORTx and reference atlases, and cell fractions across body sites were
+  correlated using Spearman correlation coefficients, with neutrophils and CD8+ T
+  cells shown as examples. T and B cell receptor clonotypes were measured using ImReP,
+  and the number of unique clonotypes across body sites were correlated using Spearman
+  correlation coefficients, with TRA shown as an example
+article_title: Integrating pulmonary and systemic transcriptomes to characterize lung
+  injury after pediatric hematopoietic stem cell transplant
+citation: Emma M. Pearce, et al. JCI Insight. 2025 Jul 22;10(17).
+year: '2025'
+pub_date: 2025-7-22
+epub_date: 2025-7-22
+doi: 10.1172/jci.insight.194440
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Immunology
+- Inflammation
+- Pulmonology
+- Bone marrow transplantation
+- Stem cell transplantation
+- Transcriptomics
+---

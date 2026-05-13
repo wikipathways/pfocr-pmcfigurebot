@@ -1,0 +1,35 @@
+---
+figid: PMC12624573__nihms-2107237-f0002
+pmcid: PMC12624573
+image_filename: jpg
+figure_link: /pmc/articles/PMC12624573/figure/F1/
+number: Figure 1.
+figure_title: Cytokine treatment of cultured human islets upregulates MHC-I and MHC-II
+  antigen presentation pathways
+caption: (A) UMAP analysis of cultured islet RNA-seq data from two donors (HP-20289-1
+  and HP-20276, Table S1) showing α, β, and δ cells with smaller amounts of islet-associated
+  ductal, acinar, and stellate cells, and low levels of immune cells.(B) Untreated
+  and cytokine-treated islets (from donor HP-20289-1) were surface stained for CD45
+  and HLA-DR and intracellularly stained for insulin (Ins) and glucagon (GCG) on day
+  2 of culture.(C) HLA-DR surface staining of untreated and cytokine-treated samples
+  with Ins+, GCG++, Ins-GCG−, and CD45+ populations shown along with reference human
+  B-lymphoblastoid cell line.(D) CD45+ immune cells, Ins+ β cells, and CD45-GCG-ins−
+  populations but not GCG+ α cells increased HLA-DR expression after cytokine treatment.(E
+  and F) Volcano plots showing transcripts differentially expressed in bulk RNA sequencing
+  of sorted E) β (CD45−, GCG−, Ins+), (F) α (CD45−, GCG+, Ins+−), and (G) “negative”
+  (CD45−, GCG−, Ins−) populations before and after cytokine treatment from donor HP-20289–01.
+  Red, genes upregulated >2-fold (padj < 0.05) by cytokine treatment, blue, genes
+  downregulated by the same criteria.(H) Heatmap representing differential expression
+  of MHC-I and MHC-II pathway components
+article_title: The antigen presentation landscape of cytokine-stressed human pancreatic
+  islets
+citation: Padma P. Nanaware, et al. Cell Rep. 2025 Aug 26;44(8).
+year: '2025'
+pub_date: 2025-8-26
+epub_date: 2025-7-19
+doi: 10.1016/j.celrep.2025.115927
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

@@ -1,0 +1,34 @@
+---
+figid: PMC12338884__nihpp-2025.07.11.25331381v2-f0002
+pmcid: PMC12338884
+image_filename: jpg
+figure_link: /pmc/articles/PMC12338884/figure/F2/
+number: Fig. 2|
+figure_title: Rare CNVs association analysis results in molecular pathways and neuronal
+  cell types.
+caption: Rare CNVs association analysis results in molecular pathways and neuronal
+  cell types. (a) Enrichment map showing clusters of functional modules that are significantly
+  associated with any condition. CNV associations are color-coded as a portion with
+  a node where red indicates a DEL association in ASD, orange indicates a DEL association
+  in SCZ, blue indicates a DUP association in SCZ, and yellow indicates a DEL association
+  in ADHD. Gene-sets not forming a cluster of 3 or more members were excluded. Gene
+  set clusters are listed in Table S4. (b) The heatmap represents the results at the
+  pathway-cluster level, with color indicating z-score from meta-analysis. (c) A UMAP
+  plot displays cell clusters colored by prenatal (teal) and postnatal (red) periods.
+  (d) Heatmaps show association results at the cell type level with color indicating
+  z-score, where red represents a higher burden of CNVs in cases and blue represents
+  a depletion of CNVs burden in cases. An asterisk indicates statistically significant
+  associations (q-value <0.1). Summary statistics of the initial primary gene sets
+  and for the final set of pathway clusters are in Tables S3, and S5 respectively
+article_title: Psychiatric disorders converge on common pathways but diverge in cellular
+  context, spatial distribution, and directionality of genetic effects
+citation: Worrawat Engchuan, et al. medRxiv. 2025 Jul 16;NA(NA).
+year: '2025'
+pub_date: 2025-7-16
+epub_date: 2025-7-16
+doi: 10.1101/2025.07.11.25331381
+journal_title: medRxiv
+journal_nlm_ta: medRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

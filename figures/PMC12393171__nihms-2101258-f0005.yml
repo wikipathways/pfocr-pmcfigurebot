@@ -1,0 +1,78 @@
+---
+figid: PMC12393171__nihms-2101258-f0005
+pmcid: PMC12393171
+image_filename: jpg
+figure_link: /pmc/articles/PMC12393171/figure/F4/
+number: Figure 4.
+figure_title: Immune landscape of LUAD
+caption: 'A. Cell type fractions estimated via multi-omics-based deconvolution analysis
+  (top), protein (middle), and RNA expression (bottom) of cell type-specific markers.
+  The annotation tracks show immune subtypes derived from proteogenomic data, immune
+  score derived via ESTIMATE from RNA-seq data, tumor purity derived via TSNet from
+  RNA-seq data, tumor purity estimated from CNV data, and various clinical and mutation
+  parameters.B. Bubble plot showing summary statistics of association analyses between
+  immune subtypes and biological pathways (from Hallmark, KEGG and Reactome). Bubble
+  size corresponds to adjusted p-value (Wilcoxon test, −log10 scale), while bubble
+  color corresponds to the difference between the averaged pathway score for samples
+  in a particular immune subtype and that of samples allocated to other immune subtypes.C.
+  Bubble-plot showing the association analysis between immune subtypes and kinase
+  activity score for tumor samples. The color of the bubble corresponds to the average
+  kinase activity score in a particular immune subtype, while the size of the bubble
+  corresponds to the adjusted p-value (Wilcoxon test, −log2 transformed). Associations
+  significant at 10% FDR are denoted with an outer black circle.D. Focal adhesion-related
+  kinase cluster associated with immune-related TF cluster in Hot tumors. The bar
+  plots show experimental validation via the LINCS L1000 database. The leftmost blue
+  bar chart shows the enrichment of Innate Immune System Reactome pathway in the set
+  of genes upregulated after kinase CRISPR-Cas knockouts from the LINCS L1000 dataset
+  (p-values from Fisher’s exact test). The centered bar chart shows the enrichment
+  of STAT4 targets in the set of up-regulated genes after L1000 kinase knockouts.
+  The rightmost chart displays the number of overlapping genes between STAT4 targets
+  and the set of up-regulated genes after L1000 kinase knockouts. The red vertical
+  line in the bar plots denotes significance (p = 0.05). Cell lines are in parentheses
+  and their primary disease associations are: A549: Lung Cancer, AGS: Gastric Cancer,
+  YAPC: Pancreatic Cancer, BICR6: Head and Neck Cancer, A375: Skin Cancer, ES2: Ovarian
+  Cancer, HT29: Colon/Colorectal Cancer, MCF7: Breast Cancer, U251MG: Brain Cancer.E.
+  Cell-type specific pathway analysis to characterize pathway activation in tumor
+  cells of Hot and Cold tumors based on RNA (left) and proteome data (right). The
+  heatmap shows the average pathway score for each cell type (i.e., tumor cells of
+  Hot tumors, tumor cells of Cold tumors and immune/stromal cells.F. Selected glycosites
+  stratified by immune subtype. P-values from the Wilcoxon test are reported. Asterisks
+  represent p-values<0.001. In boxplots, the centerline represents median; box bounds
+  represent 25th and 75th percentiles; whiskers represent minimum and maximum; and
+  filled points represent outliers.G. Neutrophil infiltration stratified by immune
+  subtype. P-values from the Wilcoxon test are reported. Asterisks represent p-values<0.001.
+  In boxplots, the centerline represents median; box bounds represent 25th and 75th
+  percentiles; and whiskers represent minimum and maximum.H. KM curves of progression-free
+  survival stratified by immune subtypes. P-value from a log-rank test is reported.I.
+  Association between STK11 mutation status and fraction of different cell types in
+  tumor samples. P-values from the Wilcoxon-rank-sum test are reported. In boxplots,
+  the centerline represents median; box bounds represent 25th and 75th percentiles;
+  and whiskers represent minimum and maximum.J. CD47 stratified by STK11 mutation
+  status and NMF proteomic subtype. P-values from the Wilcoxon test are reported.
+  Asterisks represent p-values<0.001. In boxplots, the centerline represents median;
+  box bounds represent 25th and 75th percentiles; whiskers represent minimum and maximum;
+  and filled points represent outliers.K. Scatter plot showing molecular aberrations
+  between C1/C3 STK11-mutant vs C2 STK11-mutant samples.See also Figure S4 and Table
+  S4'
+article_title: Integrative Analysis of Lung Adenocarcinoma Across Diverse Ethnicities
+  and Exposures
+citation: Shankha Satpathy, et al. Cancer Cell. 2025 Sep 08;43(9).
+year: '2025'
+pub_date: 2025-9-08
+epub_date: 2025-7-31
+doi: 10.1016/j.ccell.2025.07.011
+journal_title: Cancer cell
+journal_nlm_ta: Cancer Cell
+publisher_name: .na.character
+keywords:
+- Proteogenomics
+- LUAD
+- Genomics
+- Mass Spectrometry
+- PTMs
+- Biomarkers
+- Smokers
+- Non-smokers
+- CPTAC
+- ICPC
+---

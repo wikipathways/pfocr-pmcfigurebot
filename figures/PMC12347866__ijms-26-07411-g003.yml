@@ -1,0 +1,39 @@
+---
+figid: PMC12347866__ijms-26-07411-g003
+pmcid: PMC12347866
+image_filename: jpg
+figure_link: /pmc/articles/PMC12347866/figure/F3/
+number: Figure 3
+figure_title: Metabolic reprogramming and cancer hallmark pathways vary with antigen-presenting-cell
+  (APC) signature activity.
+caption: Metabolic reprogramming and cancer hallmark pathways vary with antigen-presenting-cell
+  (APC) signature activity. (A) Kaplan–Meier plots showing the overall survival rates
+  for the high- and low-MHC class APC, dendritic cell (DC) APC, tumor-associated macrophage
+  (TAM) APC, and Breg-like APC expression groups. (B) Box plots of the MHC class APC,
+  DC APC, TAM APC, and Breg-like APC activity in the StemID cluster of the adults.
+  (C) Box plots of the MHC class APC, DC APC, TAM APC, and Breg-like APC activity
+  in the StemID cluster of the pediatric dataset. (D) Heatmap of metabolic reprogramming
+  in the StemID cluster for the adult dataset. “Heatmaps show Pearson correlation
+  coefficients (r) between APC gene expression and metabolic pathway activity across
+  single-cell clusters. Only correlations with FDR-adjusted p-values < 0.05 (Benjamini–Hochberg
+  correction) are shown.” (E) A heatmap of the cancer hallmark pathways in the StemID
+  cluster for the adult dataset. (F) A heatmap of the cancer hallmark pathways in
+  the StemID cluster for the pediatric dataset
+article_title: Elevated Antigen-Presenting-Cell Signature Genes Predict Stemness and
+  Metabolic Reprogramming States in Glioblastoma
+citation: Ji-Yong Sung, et al. Int J Mol Sci. 2025 Aug;26(15).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-8-01
+doi: 10.3390/ijms26157411
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- antigen-presenting-cell signature genes
+- glioblastoma
+- RNA sequencing
+- stemness
+- metabolic reprogramming
+- inflammation
+---

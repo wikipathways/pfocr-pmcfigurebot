@@ -1,0 +1,45 @@
+---
+figid: PMC12348992__plants-14-02322-g005
+pmcid: PMC12348992
+image_filename: jpg
+figure_link: /pmc/articles/PMC12348992/figure/F5/
+number: Figure 5
+figure_title: STRING analysis detecting protein–protein interaction dynamics of ABA–ethylene
+  crosstalk.
+caption: 'STRING analysis detecting protein–protein interaction dynamics of ABA–ethylene
+  crosstalk. The analysis was performed by inputting a curated list of ABA- and ethylene-responsive
+  genes into the STRING database with reference to Arabidopsis database. This analysis
+  mapped the interactions between major signaling components and downstream effectors,
+  emphasizing both direct and indirect associations within and across the two hormonal
+  pathways. The interaction detected 10 nodes linked by 30 edges. Network nodes represent
+  proteins, colored nodes indicate query proteins and the first shell of interactors,
+  white nodes indicate the second shell of interactors, empty nodes indicate proteins
+  of unknown 3D structure, and filled nodes indicate 3D structure proteins of known
+  or predicted structures. The average node degree is 6 and the average local clustering
+  coefficient is 0.83. The resulting protein–protein interaction (PPI) network (p-value:
+  <0.83) revealed functional modules and hub proteins involved in stress responses.
+  Colored lines represent various types of evidence supporting interactions. Green
+  shows gene neighborhood, red indicates gene fusion, and blue reflects gene co-occurrence
+  across genomes. Pink lines represent experimental evidence, light blue denotes curated
+  database information, black shows co-expression, yellow indicates text mining, and
+  lilac suggests protein homology. The thickness of the lines corresponds to confidence
+  levels, with thicker lines indicating stronger evidence'
+article_title: 'From Hormones to Harvests: A Pathway to Strengthening Plant Resilience
+  for Achieving Sustainable Development Goals'
+citation: Dipayan Das, et al. Plants (Basel). 2025 Aug;14(15).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-27
+doi: 10.3390/plants14152322
+journal_title: Plants
+journal_nlm_ta: Plants (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- phytohormone
+- crosstalk
+- abiotic response
+- SDG
+- food security
+- climate change
+- adaptation
+---

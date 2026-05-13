@@ -1,0 +1,44 @@
+---
+figid: PMC12338689__nihpp-2025.07.18.664790v1-f0006
+pmcid: PMC12338689
+image_filename: jpg
+figure_link: /pmc/articles/PMC12338689/figure/F5/
+number: Figure 5.
+figure_title: SOX2 and FOXA1 reciprocally bind DNA sites and regulate proliferation
+  in both adenocarcinoma and NEPC contexts
+caption: A-D) Heatmaps of transcription factor binding in CWR-R1 and NCI-H660 cells.
+  The vertical axis of each heatmap represents the top 1000 transcription factor binding
+  sites by peak score in both adenocarcinoma and NEPC. E) Nested Venn diagram of the
+  shared SOX2/FOXA1 candidate target genes (from Figures 3C and 4C) in both CWR-R1
+  and NCI-H660. We find 130 potentially SOX2/FOXA1 co-regulated genes across cell
+  lines. F-H) Gene Ontology (GO) pathway analyses for the unique and shared CWR-R1
+  and NCI-H660 candidate SOX2/FOXA1 co-regulated genes. GO enrichment was performed
+  using Enrichr
+article_title: SOX2 utilizes FOXA1 as a heteromeric transcriptional partner to drive
+  proliferation in therapy-resistant prostate cancer
+citation: John T. Phoenix, et al. bioRxiv. 2025 Jul 19;NA(NA).
+year: '2025'
+pub_date: 2025-7-19
+epub_date: 2025-7-19
+doi: 10.1101/2025.07.18.664790
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- SOX2
+- FOXA1
+- AR
+- CRPC
+- NEPC
+- Prostate cancer
+- neuroendocrine
+- lineage plasticity
+- stem cells
+- ASCL1
+- ROR1
+- FGF
+- FGFR
+- enzalutamide
+- castration
+- androgen
+---

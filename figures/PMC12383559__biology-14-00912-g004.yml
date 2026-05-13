@@ -1,0 +1,37 @@
+---
+figid: PMC12383559__biology-14-00912-g004
+pmcid: PMC12383559
+image_filename: jpg
+figure_link: /pmc/articles/PMC12383559/figure/F4/
+number: Figure 4
+figure_title: Gene Ontology (GO) and KEGG Pathway Enrichment Analysis in D.
+caption: Gene Ontology (GO) and KEGG Pathway Enrichment Analysis in D. melanogaster
+  and H. axyridis. (A) GO enrichment analysis for D. melanogaster, showing enriched
+  terms in the biological process, cellular component, and molecular function categories
+  for comparisons between wandering larvae (WL), prepupa (PP), and pupa (P). Dot size
+  indicates gene count, and color intensity reflects p-value significance. (B) GO
+  enrichment analysis for H. axyridis, displaying enriched terms in the biological
+  process, cellular component, and molecular function categories for comparisons between
+  second-instar larvae (L2), (L4), prepupae (PP), and pupae (P). Dot size indicates
+  gene count, and color intensity reflects p-value significance. (C) KEGG pathway
+  enrichment in D. melanogaster, with bar heights representing gene counts for WL
+  vs. P, PP vs. P, and P vs. L2 comparisons. (D) KEGG pathway enrichment in H. axyridis,
+  with bar heights representing gene counts for L2 vs. P, L4 vs. P, PP vs. P, and
+  P vs. L2 comparisons. Colors distinguish between comparison groups
+article_title: Chromatin Accessibility Dynamics Reveal Conserved Transcriptional Regulatory
+  Networks During Insect Metamorphosis in Harmonia axyridis and Drosophila melanogaster
+citation: Jiejing Tang, et al. Biology (Basel). 2025 Aug;14(8).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-22
+doi: 10.3390/biology14080912
+journal_title: Biology
+journal_nlm_ta: Biology (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- insect metamorphosis
+- chromatin accessibility
+- ATAC-seq
+- transcriptional regulation
+- gene regulatory networks
+---

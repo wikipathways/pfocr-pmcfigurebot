@@ -1,0 +1,35 @@
+---
+figid: PMC12324592__nihpp-rs7077811v1-f0002
+pmcid: PMC12324592
+image_filename: jpg
+figure_link: /pmc/articles/PMC12324592/figure/F2/
+number: Figure 2
+figure_title: K21 Alters Gene Expression Profiles of Macrophages and Selectively Induces
+  Growth of Pro-inflammatory Macrophages
+caption: (a) UMAP plots of 11 clusters of cells identified from single-cell RNA-seq
+  analysis of K21-treated and untreated naïve macrophages. Cluster-specific cell types
+  are indicated. (b) Similar UMAP analysis of activated macrophages. (c) A barplot
+  showing changes in the proportion of various cell types (naïve on the left, activated
+  on the right) in the presence (red) and absence (blue) of K21. (d) A Venn diagram
+  showing the common genes upregulated by K21 in all the identified cell types. (e)
+  UMAP visualization of trajectory and pseudotime computed from macrophage scRNA-seq
+  data (naïve on the left, activated on the right, K21-treated on bottom, untreated
+  on top). Cells are coloured by pseudotime. Only monocyte-derived cell populations
+  are included within the images. (f) Bubble plot showing significantly enriched pathways
+  from the pairwise GSEA Reactome analysis of the two pro-inflammatory macrophage
+  populations enriched within naïve macrophages. The significantly enriched pathways
+  are visualised for cells with and without K21. The size of each bubble is proportional
+  to the number of core genes within the pathway. More details of the significant
+  pathways are provided in Extended Data Figure 10. NES, Normalised Enrichment Score
+article_title: Drug-induced metabolic remodeling of immune cell repertoire generates
+  an effective broad-range antimicrobial effect
+citation: Bhupesh Kumar Prusty, et al. Res Sq. 2025 Jul 29;NA(NA).
+year: '2025'
+pub_date: 2025-7-29
+epub_date: 2025-7-29
+doi: 10.21203/rs.3.rs-7077811/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords: []
+---

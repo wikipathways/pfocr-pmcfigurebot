@@ -1,0 +1,38 @@
+---
+figid: PMC12346641__cells-14-01164-g004
+pmcid: PMC12346641
+image_filename: jpg
+figure_link: /pmc/articles/PMC12346641/figure/F4/
+number: Figure 4
+figure_title: Reprogrammed energy metabolism of gut Tregs.
+caption: 'Reprogrammed energy metabolism of gut Tregs. (A) Volcano plots depicting
+  the DEGs across comparisons of NCs/IRs, NCs/INRs, and INRs/IRs. (B) Cluster heatmap
+  displaying the specific DEGs identified in the NCs/IRs, NCs/INRs, and INRs/IRs.
+  Z-score standardization was applied to normalize the data by centering (subtracting
+  the mean) and scaling (dividing by the standard deviation). (C) Bubble plot of GO
+  enrichment analysis of the DEGs. “Count” indicates the number of DEGs enriched in
+  pathway; “GeneRatio” indicates the ratio of enriched DEGs to background genes; “p.adj”
+  indicates the p-value corrected by ‘BH’ method. (D) Violin plot showing metabolism-related
+  scores for Tregs across the three groups. The Mann-Whitney U test was employed to
+  assess statistical differences between groups. Significance levels are denoted as
+  follows: * p < 0.05; ** p < 0.01; *** p < 0.001; **** p < 0.0001; ns indicates non-significant
+  results. (E) Dot plot showing the expression levels of metabolism-related genes.
+  DEGs: differentially expressed genes; GO: gene ontology; BH: Benjamini–Hochberg'
+article_title: Dysfunction and Metabolic Reprogramming of Gut Regulatory T Cells in
+  HIV-Infected Immunological Non-Responders
+citation: Minrui Yu, et al. Cells. 2025 Aug;14(15).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-29
+doi: 10.3390/cells14151164
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- HIV
+- immunological non-responders
+- immunological responders
+- Tregs
+- gut
+- SCFA
+---

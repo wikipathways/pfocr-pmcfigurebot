@@ -1,0 +1,34 @@
+---
+figid: PMC11741344__nihpp-2025.01.10.632440v2-f0003
+pmcid: PMC11741344
+image_filename: jpg
+figure_link: /pmc/articles/PMC11741344/figure/F3/
+number: 'Figure 3:'
+figure_title: Erythroid cells express molecular machinery for oxygen binding
+caption: (a) Schematic illustrating scRNA-sequencing of cells flushed from the injury
+  site at 3 dpi (Fx) or the contralateral bone marrow (cBM). We removed dead cells
+  and lysed mature red blood cells, but did not digest the samples or sort prior to
+  scRNA-seq 24. (b) UMAP and Louvain clustering. Integrated data sets from n = 3 mice
+  per group from 3 independent experiments. (c) Cell type annotations based on canonical
+  marker expression. (d) Schematic illustration of hemoglobin synthesis 24 and (e,
+  f) feature plots of relevant genes on the UMAP. (g) Gene set enrichment analysis
+  (GSEA) highlighting upregulated pathways and processes in erythroid cells at the
+  injury site compared to cBM. (h) Secondary Louvain clustering of erythroid cells.
+  Integrated data sets from n = 3 mice per group from 3 independent experiments. (i)
+  Erythroid cell differentiation state annotations based on developmental stage-specific
+  marker expression. (j) Frequency of cells in the different clusters normalized to
+  the absolute cell count per cluster. Data show individual data points from n = 3
+  mice per group from 3 independent experiments and are mean ± s.e.m. P values were
+  calculated using two-tailed paired Student’s t-test
+article_title: Erythroid precursors regulate local oxygen tension and repair outcomes
+  in the bone marrow niche
+citation: Annemarie Lang, et al. bioRxiv. 2025 Jul 29;122(46).
+year: '2025'
+pub_date: 2025-7-29
+epub_date: 2025-7-29
+doi: 10.1101/2025.01.10.632440
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

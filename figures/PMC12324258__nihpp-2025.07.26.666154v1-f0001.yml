@@ -1,0 +1,41 @@
+---
+figid: PMC12324258__nihpp-2025.07.26.666154v1-f0001
+pmcid: PMC12324258
+image_filename: jpg
+figure_link: /pmc/articles/PMC12324258/figure/F1/
+number: 'Figure 1:'
+figure_title: Study outline and modelling approach
+caption: (a) Study outline. Discovery analyses were performed in ALSPAC and followed
+  up in the ABCD Study®. (b) Data-driven stepwise multivariate modelling approach
+  of genomic and non-genomic structures. Note that for the ABCD Study®, due to low
+  SNP-h2, multivariate modelling was limited to the non-genomic structure, implementing
+  a CIP model only. (c) Estimation of gene-environment correlations (rGE) extending
+  the data-driven approach in (b). Given the similarity of genomic and non-genomic
+  structures (ALSPAC only), rGE parameters can be added to the identified IP from
+  (b), to provide starting values for re-fitting the model. Note that there is evidence
+  for rGE, if the IP model allowing for rGE fits the data better than the IP model
+  assuming independence of A and E (b), and the rGE estimates are different from zero.
+  All models are described in the Methods. Cholesky, IPC and CIP models are also schematically
+  illustrated in Supplementary Figure 1, and the IP model with and without rGE in
+  Figure 2.ABCD - Adolescent Brain Cognitive Development Study (ABCD Study®); ALSPAC
+  - Avon Longitudinal Study of Parents and Children; CIP - Hybrid Cholesky/independent
+  pathway; EFA – Exploratory factor analysis; GRM-SEM - Genetic-Relationship-Matrix
+  Structural Equation Modelling; IP - Independent pathway; IPC - Hybrid independent
+  pathway/Cholesky; PCA – Principal component analysis; rGE - Gene-environment correlation;
+  SNP-h2 - SNP heritability
+article_title: 'Disentangling multivariate relationships between cognition, language
+  and social traits: structures of G, E, and rGE'
+citation: Fenja Schlag, et al. bioRxiv. 2025 Jul 29;NA(NA).
+year: '2025'
+pub_date: 2025-7-29
+epub_date: 2025-7-29
+doi: 10.1101/2025.07.26.666154
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Genetic-Relationship-Matrix Structural Equation modelling
+- social behaviour
+- cognition
+- gene-environment correlation
+---

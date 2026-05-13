@@ -1176,3 +1176,39 @@
 
 2026-05-13 15:10:21 - ==========================================================
 
+2026-05-13 15:33:46 - Starting NCBI PMC Figure Fetcher
+
+2026-05-13 15:33:46 - Configuration loaded from query_config.yml
+
+2026-05-13 15:33:47 - PMC search query: (((((((((((signaling pathway[Figure/Table Caption]) OR signalling pathway[Figure/Table Caption]) OR regulatory pathway[Figure/Table Caption]) OR disease pathway[Figure/Table Caption]) OR drug pathway[Figure/Table Caption]) OR metabolic pathway[Figure/Table Caption]) OR biosynthetic pathway[Figure/Table Caption]) OR synthesis pathway[Figure/Table Caption]) OR cancer pathway[Figure/Table Caption]) OR response pathway[Figure/Table Caption]) OR cycle pathway[Figure/Table Caption])) AND (2025/07/03[PUBDATE] : 2025/08/03[PUBDATE])
+
+2026-05-13 15:34:33 - PMC search completed. Fetched 3000 results (max set to 3000).
+
+2026-05-13 15:35:08 - Extracted 4808 figures from XML content.
+
+2026-05-13 15:35:08 - Identified 1253 pathway figures.
+
+2026-05-13 15:35:08 - Skipped 19 figures previously processed.
+
+2026-05-13 15:35:08 - Processed 1234 pathway figures for download.
+
+2026-05-13 15:35:21 - Failed to download image for PMC12810938__nihms-2136053-f0001 after 3 attempts.
+
+2026-05-13 15:35:28 - Failed to download image for PMC12810938__nihms-2136053-f0002 after 3 attempts.
+
+2026-05-13 15:35:44 - Failed to download image for PMC12337047__nihms-2099532-f0003 after 3 attempts.
+
+2026-05-13 15:35:51 - Failed to download image for PMC13153432__nihms-2169642-f0002 after 3 attempts.
+
+2026-05-13 15:35:58 - Failed to download image for PMC13153432__nihms-2169642-f0004 after 3 attempts.
+
+2026-05-13 15:36:05 - Failed to download image for PMC13153707__ab-25-0027f3 after 3 attempts.
+
+2026-05-13 15:36:13 - Failed to download image for PMC12335325__nihms-2101842-f0009 after 3 attempts.
+
+2026-05-13 15:52:56 - New pathway figures downloaded: 1227
+
+2026-05-13 15:52:56 - NCBI PMC Figure Fetcher completed
+
+2026-05-13 15:52:56 - ==========================================================
+

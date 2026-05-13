@@ -1,0 +1,31 @@
+---
+figid: PMC12338589__nihpp-2024.10.14.618318v3-f0001
+pmcid: PMC12338589
+image_filename: jpg
+figure_link: /pmc/articles/PMC12338589/figure/F1/
+number: Figure 1.
+figure_title: Phylogenetic associations of functional classes of eukaryotic proteins
+  with major archaeal and bacterial taxa
+caption: A) Simplified EPOC generation and processing pipeline. From left to right,
+  one eukaryotic and one prokaryotic sequence database transformed into HMMs. The
+  query of eukaryotic against prokaryotic HMMs generated 13,500 annotated EPOCs. The
+  detected prokaryotic clades were assessed for their probability to be the closest
+  eukaryotic sister phyla by permutation testing using IQTree2 (see supplementary
+  Figure 2). B) Global aELW for all EPOCs within unfiltered, core and non-paralogous
+  subsets and top-level breakdowns for metabolic enzymes and proteins of core information
+  processing pathways as defined by the KEGG ontology BRITE at the coarsest A level
+  (KO:09100, KO:09120). Grey markers group prokaryotic taxa with an aELW < 0.01. C)
+  Further subdivision of aELW values across more specific functional categories of
+  genes BRITE level B, counting the total number of EPOCs and colored by relative
+  aELW of taxa per category
+article_title: Dominant contribution of Asgard archaea to eukaryogenesis
+citation: Victor Tobiasson, et al. bioRxiv. 2025 Jul 14;650(8100).
+year: '2025'
+pub_date: 2025-7-14
+epub_date: 2025-7-14
+doi: 10.1101/2024.10.14.618318
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

@@ -1,0 +1,59 @@
+---
+figid: PMC12338689__nihpp-2025.07.18.664790v1-f0008
+pmcid: PMC12338689
+image_filename: jpg
+figure_link: /pmc/articles/PMC12338689/figure/F7/
+number: Figure 7.
+figure_title: SOX2 expression is highest in AR-low patient tumors, especially in FGFR-driven
+  Double Negative Prostate Cancer (DNPC) and displays a unique cistrome in cancer
+  compared to normal tissues
+caption: 'A) UMAP visualization of prostate cancer cell populations from 13 castration-resistant
+  patients from the Human Metastatic Prostate (HMP) dataset. B) UMAP visualization
+  of the same 13 patients categorized by histological type: adenocarcinoma and NEPC.
+  C) NEPC signature analysis applied to CRPC patients. D-F) Expression analyses of
+  AR, FOXA1, and SOX2 across the same UMAP coordinates G) Expression levels of genes
+  (AR, FOXA1, SOX2) and pathway signatures (AR, NEPC scores) are shown through a bubble
+  plot as organized by sample. H) Western blot panels of malignant prostate cancer
+  cells for AR, FOXA1, SOX2, and the FGFR-family of proteins. Blots for β-actin were
+  used as an internal loading control. I) UpSet plot of SOX2 ChIP-seq peaks in CWR-R1,
+  NCI-H660, PrEC, WA-01 and NCCIT cells. Shared regions represent called peaks with
+  >= 1bp of overlap. J) Venn Diagram SOX2 ChIP-seq peaks in CWR-R1, NCI-H660, PrEC,
+  WA-01 and NCCIT cells. Shared regions represent called peaks with >= 1bp of overlap.
+  K) Venn diagram of SOX2 potential target genes. SOX2 ChIP-seq peaks from all cell
+  lines were analyzed using Cistrome-GO to identify genes that SOX2 binding peaks
+  less than 10kb from a TSS and an adjusted regulatory potential (RP) score of >0.01.
+  We find zero genes that are commonly bound by SOX2 across the different cell contexts.
+  L) Binding motif enrichment near SOX2 peaks in PrEC, CWR-R1, and NCI-H660 cells.
+  Both MEME and STREME motif discovery analyses were included. Full lists of motifs
+  discovered can be found in Supplementary Table 1. M) Binding motif enrichment near
+  SOX2 peaks in pluripotent WA-01 and NCCIT cells. Both MEME and STREME motif discovery
+  analyses were included. Full lists of motifs discovered can be found in Supplementary
+  Table 1'
+article_title: SOX2 utilizes FOXA1 as a heteromeric transcriptional partner to drive
+  proliferation in therapy-resistant prostate cancer
+citation: John T. Phoenix, et al. bioRxiv. 2025 Jul 19;NA(NA).
+year: '2025'
+pub_date: 2025-7-19
+epub_date: 2025-7-19
+doi: 10.1101/2025.07.18.664790
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- SOX2
+- FOXA1
+- AR
+- CRPC
+- NEPC
+- Prostate cancer
+- neuroendocrine
+- lineage plasticity
+- stem cells
+- ASCL1
+- ROR1
+- FGF
+- FGFR
+- enzalutamide
+- castration
+- androgen
+---

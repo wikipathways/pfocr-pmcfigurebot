@@ -1,0 +1,50 @@
+---
+figid: PMC12490229__jci-135-189300-g315
+pmcid: PMC12490229
+image_filename: jpg
+figure_link: /pmc/articles/PMC12490229/figure/F5/
+number: Figure 5
+figure_title: Baseline immune features and pathway-level determinants of LAIV responder
+  profiles
+caption: '(A–C) Polar plots illustrating scaled median expression of immune pathways
+  across 3 responder groups: (A) CD8+ T cell responders (group 1, green); (B) mucosal
+  responders (group 2, orange); and (C) systemic, broad influenza A virus responders
+  (group 3, purple). (D) Combined radar plot showing integrated immune pathway signatures
+  across the 3 responder groups, highlighting intergroup differences in pathway activation.
+  (E) SHAP (SHapley Additive exPlanations) summary plots showing the contribution
+  of baseline features to model predictions for each responder group (CD8+ T cell
+  responders, group 1, green; mucosal responders, group 2, orange; and systemic, broad
+  influenza A virus responders, group 3, purple). The intercept represents the baseline
+  prediction before feature contributions. All other factors include the combined
+  effect of features not displayed in the top 10 contributors. Prediction (purple
+  bar) is the final probability derived by summing the intercept, top 10 feature contributions,
+  and all other factors. Feature impacts are color coded as follows: green (positive,
+  1) increases the likelihood of belonging to the group, and red (negative, –1) decreases
+  it. The top 10 features are ranked by their contribution to the prediction, providing
+  insights into key drivers of LAIV response profiles. (F) The decision tree depicts
+  the splits made at each node based on immune feature thresholds. Splits are chosen
+  to maximize class separation, with fitted class probabilities displayed as group
+  1 (CD8+ T cell responders, green), group 2 (mucosal responder, orange), and group
+  3 (systemic, broad influenza A virus responders, purple) for each terminal node.
+  The coverage percentage represents the proportion of observations falling under
+  each rule. Nodes are labeled with thresholds and the conditions that define group
+  separation, with terminal nodes representing the predicted group and associated
+  probabilities'
+article_title: Integrative mapping of preexisting influenza immune landscapes predicts
+  vaccine response
+citation: Stephanie Hao, et al. J Clin Invest. 2025 Jul 15;135(18).
+year: '2025'
+pub_date: 2025-7-15
+epub_date: 2025-7-15
+doi: 10.1172/JCI189300
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Clinical Research
+- Immunology
+- Virology
+- Adaptive immunity
+- Influenza
+- Vaccines
+---

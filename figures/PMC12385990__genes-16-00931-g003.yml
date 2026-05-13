@@ -1,0 +1,40 @@
+---
+figid: PMC12385990__genes-16-00931-g003
+pmcid: PMC12385990
+image_filename: jpg
+figure_link: /pmc/articles/PMC12385990/figure/F3/
+number: Figure 3
+figure_title: Comparison of expression profiles of ovarian cell types in Holstein
+  cows under different physiological conditions.
+caption: Comparison of expression profiles of ovarian cell types in Holstein cows
+  under different physiological conditions. (A) Differences in somatic cell types
+  visualized by UMAP. (B) The top 10 differentially expressed genes (DEGs) for each
+  ovarian somatic cell type under different physiological conditions. The gene expression
+  levels are represented by a color gradient from blue (low expression) to red (high
+  expression). (C) A bubble plot showing the top five enriched pathways for each cell
+  type in the Kyoto Encyclopedia of Genes and Genomes (KEGG) analysis. The proportion
+  of genes involved in the corresponding pathway is represented by the size of the
+  bubble. The adjusted p-values from low to high are represented by a color gradient
+  from blue to red. (D) A bubble plot showing the top five enriched biological process
+  (BP) terms for each cell type in the gene ontology (GO) analysis. The proportion
+  of genes involved in the corresponding biological process is represented by the
+  size of the bubble. The adjusted p-values from low to high are represented by a
+  color gradient from blue to red
+article_title: Single-Nucleus Transcriptome Sequencing Unravels Physiological Differences
+  in Holstein Cows Under Different Physiological States
+citation: Peipei Li, et al. Genes (Basel). 2025 Aug;16(8).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-8-03
+doi: 10.3390/genes16080931
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- snRNA-Seq
+- Holstein cow
+- ovary
+- pregnant
+- cellular atlas
+- cell communication
+---

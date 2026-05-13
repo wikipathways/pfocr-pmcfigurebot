@@ -1,0 +1,36 @@
+---
+figid: PMC12324469__nihpp-2025.08.01.668022v1-f0001
+pmcid: PMC12324469
+image_filename: jpg
+figure_link: /pmc/articles/PMC12324469/figure/F1/
+number: 'Figure 1:'
+figure_title: Retrieval-Augmented Generation workflow and derivation of mechanistic
+  evaluation benchmarks
+caption: '(A) Schematic of the BTE-RAG pipeline, which augments large language model
+  (LLM) responses with context retrieved from the BioThings Explorer (BTE) knowledge
+  graph. In the LLM-only pathway, the model generates a response using only the input
+  question. In contrast, BTE-RAG operates in two phases: a Retrieval Phase, where
+  relevant entities are extracted from the question and queried against BTE to collect
+  mechanistically relevant subject–predicate–object triples, and a Generative Phase,
+  where this curated context is appended to the input question and passed to the LLM.
+  The resulting outputs: LLM-only or BTE-RAG, can be directly compared to assess the
+  impact of knowledge-augmented generation.(B) Construction of benchmark datasets
+  from DrugMechDB, a curated biomedical knowledge graph of drug–disease mechanisms.
+  Directed paths connecting a drug to a disease were mined and transformed into structured
+  questions targeting different mechanistic facets: (i) gene nodes (Mechanistic Gene
+  Benchmark), (ii) biochemical entities or metabolites (Metabolite Benchmark), and
+  (iii) drug–biological process–disease paths (Drug Benchmark). Each benchmark provides
+  paired questions and gold-standard labels for rigorous, domain-specific evaluation
+  of retrieval-augmented generation'
+article_title: Federated Knowledge Retrieval Elevates Large Language Model Performance
+  on Biomedical Benchmarks
+citation: Janet Joy, et al. bioRxiv. 2025 Aug 02;15(NA).
+year: '2025'
+pub_date: 2025-8-02
+epub_date: 2025-8-02
+doi: 10.1101/2025.08.01.668022
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

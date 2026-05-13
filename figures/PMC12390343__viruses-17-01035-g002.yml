@@ -1,0 +1,33 @@
+---
+figid: PMC12390343__viruses-17-01035-g002
+pmcid: PMC12390343
+image_filename: jpg
+figure_link: /pmc/articles/PMC12390343/figure/F2/
+number: Figure 2
+figure_title: SIINFEKL-based MHC I antigen presentation assay for evaluating PSI activity.
+caption: SIINFEKL-based MHC I antigen presentation assay for evaluating PSI activity.
+  Viral antigens are fused in-frame to eGFP and the SIINFEKL peptide (derived from
+  chicken ovalbumin) and transfected into H2Kb-expressing 293 cells. eGFP fluorescence
+  serves as a readout of antigen expression (Q2 + Q3), while SIINFEKL is processed
+  and presented via the endogenous MHC I pathway. Surface presentation of SIINFEKL-H2Kb
+  complexes is detected using a conformation-specific anti-SIINFEKL- H2Kb monoclonal
+  antibody, enabling quantification of MHC I presentation (Q2). The antigen presentation
+  efficiency is calculated as the ratio, Q2/(Q2 + Q3). This assay can be followed
+  by functional validation using OT-1 CD8+ T cells, which recognize the SIINFEKL-H2Kb
+  complex, to assess cytokine production or target cell lysis. Secondary functional
+  screening can be performed with an SIINFEKL-specific tetramer
+article_title: Primary Sequence-Intrinsic Immune Evasion by Viral Proteins Guides
+  CTL-Based Vaccine Strategies
+citation: Li Wan, et al. Viruses. 2025 Aug;17(8).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-24
+doi: 10.3390/v17081035
+journal_title: Viruses
+journal_nlm_ta: Viruses
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- primary sequence-intrinsic immune evasion
+- MHC I
+- CTL-based vaccine
+---

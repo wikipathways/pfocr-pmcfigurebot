@@ -1,0 +1,39 @@
+---
+figid: PMC12324576__nihpp-rs7093535v1-f0004
+pmcid: PMC12324576
+image_filename: jpg
+figure_link: /pmc/articles/PMC12324576/figure/F4/
+number: Figure 4
+figure_title: Biological interrogation of lifespan trait-related gene modules constructed
+  from the transcriptome
+caption: '(a) Schematic of the pipeline used to identify lifespan trait-associated
+  gene modules from transcriptomic data. Gene co-expression networks were constructed
+  by WGCNA, and Cox regression was applied to evaluate lifespan-related modules. (b)
+  −Log10(Hazard ratio) of mixed-effects Cox regression model for lifespan traits,
+  with the eigengenes of gene modules as predictor values, Dox and the interaction
+  between phenotype and Dox as covariates, and RIAIL strain as a random effect. Only
+  gene modules that were significantly associated with lifespan traits after multiple
+  testing adjustments with the BH method (BH-adjusted p value < 0.05) are shown. (c)
+  Dot plot showing the enriched pathways for genes involved in lifespan-related modules.
+  (d) Enriched transcription factor binding motifs in the promoters of genes within
+  Modules 5, 13, and 14. (e) Dot plot showing associations between enriched transcription
+  factors and metabolic disorders in the human FinnGen database. Only suggestive (−Log10P
+  > 7, red dashed line) or significant (−Log10P > 8, blue dashed line) associations
+  are shown. AMD: Age-related macular degeneration'
+article_title: Genetic mapping of lifespan and mitochondrialstress response in C.
+  elegans
+citation: Johan Auwerx, et al. Res Sq. 2025 Jul 31;NA(NA).
+year: '2025'
+pub_date: 2025-7-31
+epub_date: 2025-7-31
+doi: 10.21203/rs.3.rs-7093535/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords:
+- C. elegans
+- UPRmt
+- systems genetics
+- multi-omics integration
+- fipp-1/FIP1L1 and aging
+---

@@ -1,0 +1,38 @@
+---
+figid: PMC12338582__nihpp-2025.07.09.663881v1-f0003
+pmcid: PMC12338582
+image_filename: jpg
+figure_link: /pmc/articles/PMC12338582/figure/F3/
+number: 'Fig. 3:'
+figure_title: |-
+  scRNA-seq analysis of Ren1c+/−
+  (phenotypically WT) or Ren1c−/−
+  (KO) mice identified enriched signatures of inflammation, fibrosis, extracellular matrix deposition, and a secretory phenotype in KO populations
+caption: (A) UMAP visualization of cell populations with inferred trajectory (orange
+  line) showing branch points (gray circles with arrows) and cell fate decisions (black
+  circle with exclamation). For each population, a heatmap depicts the top 20 differentially
+  expressed genes between phenotypically WT and KO mice. (B) Gene signature enrichment
+  scores for inflammation-related genes, the matrisome, the senescence-associated
+  secretory phenotype (SASP), and hypoxia. Pathway enrichment analysis identified
+  loss of oxidative capacity, an epithelial-mesenchymal transition, and inflammation
+  related pathways to be elevated in Ren1 KO cells. (NES=normalized enrichment score.
+  =padj < 0.01. P values are calculated from an estimated marginal means linear model
+  followed by pairwise comparisons between Ren1cKO*(KO) and Ren1cWT (phenotypically
+  WT) cell populations with the Benjamini-Hochberg multiple testing procedure correction.)
+  (C) Inferred gene regulatory network analysis identified three modules of driver
+  transcription factors composing the renin-lineage trajectory with positive (yellow)
+  and negative (purple) interactions among factors driving the differences observed
+  between trajectory cell populations. For each transcription factor, the color represents
+  the log2 fold change between KO and phenotypically WT cell populations
+article_title: Hypoxia-Induced Metabolic Reprogramming and Markings of Cell Fate in
+  Concentric Arterial Hypertrophy
+citation: Lucas Ferreira de Almeida, et al. bioRxiv. 2025 Jul 14;NA(NA).
+year: '2025'
+pub_date: 2025-7-14
+epub_date: 2025-7-14
+doi: 10.1101/2025.07.09.663881
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

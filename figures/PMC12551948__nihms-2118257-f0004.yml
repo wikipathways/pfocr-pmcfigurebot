@@ -1,0 +1,27 @@
+---
+figid: PMC12551948__nihms-2118257-f0004
+pmcid: PMC12551948
+image_filename: jpg
+figure_link: /pmc/articles/PMC12551948/figure/F4/
+number: Fig. 4.
+figure_title: 'Role of MYB-dependent transcriptional output in hypoxia adaptive response:'
+caption: |-
+  (A) A volcano plot illustrating the differentially expressed genes (DEGs) obtained from RNA-seq analysis of hypoxia-treated pancreatic cancer cells compared to normoxia. Hypoxia-induced upregulated and downregulated genes are shown in orange color and turquoise color respectively. (B) RNA-seq analysis was performed to determine the DEGs under hypoxia in MiaPaCa cells following MYB deletion. The volcano plot shows the differentially expressed genes from RNA-seq analysis when control cells were compared with MYB KO cells under hypoxia. The genes upregulated and downregulated in control cells shown by red color and blue color respectively. (C) Heatmap of RNA-seq data showing the k-means clustering of significant DEGs affected by hypoxia in control and MYB knockout cells compared to control cells under normoxia. A subset of genes that failed to be properly altered under hypoxia in MYB knockout cells are marked by rectangular boxes. (D) Venn diagram depicts the comparison of putative MYB ChIP-seq targets (protein coding genes) under hypoxia with the genes not sufficiently altered under hypoxia (marked by rectangle) in MYB KO cells. Integrated Genome Browser (IGB) software was used to visualize MYB binding sites on the promoter region of CCNE1 (E), ARL5A (F), and the exonic region of GFI1 (G) under normoxia and hypoxia conditions. N-Normoxia (black track), H-Hypoxia (red track); The input control track is shown in blue color. (H) Bar diagram showing the enriched KEGG pathways associated with direct targets of MYB that were not altered properly under hypoxia. The vertical axis shows the pathways terms, and the horizontal axis depicts the −log10
+  p-value of individual pathway. (For interpretation of the references to color in this figure legend, the reader is referred to the Web version of this article.)
+article_title: MYB and HIF1α crosstalk drives hypoxia-induced transcriptional reprogramming
+  and adaptive signaling alterations in pancreatic cancer
+citation: Shashi Anand, et al. Cancer Lett. 2025 Oct 28;631(NA).
+year: '2025'
+pub_date: '2025-10-28'
+epub_date: 2025-7-16
+doi: 10.1016/j.canlet.2025.217916
+journal_title: Cancer letters
+journal_nlm_ta: Cancer Lett
+publisher_name: .na.character
+keywords:
+- MYB
+- HIF1α
+- Hypoxia
+- Pancreatic cancer
+- Transcriptional reprogramming
+---

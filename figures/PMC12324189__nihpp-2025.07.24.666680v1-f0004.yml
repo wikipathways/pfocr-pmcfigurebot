@@ -1,0 +1,39 @@
+---
+figid: PMC12324189__nihpp-2025.07.24.666680v1-f0004
+pmcid: PMC12324189
+image_filename: jpg
+figure_link: /pmc/articles/PMC12324189/figure/F4/
+number: Figure 4.
+figure_title: Progressive temporal decoding of Ca2+ oscillations down the ERK cascade
+caption: (A) Representative single-cell timecourses of TEA-stimulated biosensor responses
+  in MIN6 cells co-expressing (left) RasGRF2-mCherry (magenta curve) plus pmGCaMP3
+  (Ca2+, green curve) or either (middle) RaichuEV-Ras (Ras, blue curve) or (right)
+  EKAREV (ERK, dark blue curve) plus RCaMP1d (Ca2+, red curves). Traces are representative
+  of n = 24 (RasGRF2), 20 (Ras), and 14 (ERK) cells from 4, 4, and 3 independent experiments,
+  respectively. Additional representative traces shown in Fig. S6. (B-D) Representative
+  average timecourses of biosensor responses from MIN6 cells co-expressing (B) RasGRF2-mCherry
+  plus pmGCaMP3 (left-to-right, n = 5, 9, and 7 cells) or either (C) RaichuRas-EV
+  (left-to-right, n = 10, 11, and 7 cells) or (D) EKAREV (left-to-right, n = 12, 9,
+  and 15 cells) plus RCaMP1d and stimulated with 30 mM KCl for 1 min at 5- (left),
+  10- (middle), or 15 (right)-min intervals. Solid lines indicate the mean; shaded
+  areas, s.d. Data are representative of (B) n = 15, 19, and 17 cells from 4, 3, and
+  4 independent experiments, (C) n = 48, 42, and 35 cells from 6, 4, and 5 independent
+  experiments, and (D) n = 49, 39, and 48 cells from 4 independent experiments each.
+  (E) We assessed the frequency response of each pathway component by measuring the
+  amplitude, defined as the peak-to-trough difference for a single pulse, of the input
+  signal (e.g., Ca2+) and output response (e.g., RasGRF2, Ras, or ERK) and calculating
+  the gain at each KCl pulse frequency. (F) Plot showing the normalized gain with
+  respect to the log of the KCl pulse frequency for RasGRF2 (GRF2, magenta), Ras (blue),
+  and ERK (dark blue). Values calculated from data in B-D. Lines indicate the mean;
+  error bars, s.e.m
+article_title: Oscillatory signal decoding within the ERK cascade
+citation: Ambhighainath Ganesan, et al. bioRxiv. 2025 Jul 28;NA(NA).
+year: '2025'
+pub_date: 2025-7-28
+epub_date: 2025-7-28
+doi: 10.1101/2025.07.24.666680
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

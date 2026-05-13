@@ -1,0 +1,35 @@
+---
+figid: PMC12330534__nihpp-2025.07.24.663565v1-f0009
+pmcid: PMC12330534
+image_filename: jpg
+figure_link: /pmc/articles/PMC12330534/figure/F9/
+number: 'Figure 9:'
+figure_title: Weighted gene co-expression network analysis identifies modules associated
+  with metabolic, cognitive and pathological outcomes in males
+caption: (A) Weighted gene co-expression network analysis (WGCNA) identifies the relationship
+  of module eigengenes (rows) and measures phenotypes (columns) in 3xTg male mice.
+  Heatmap shows the Pearson correlation coefficient between module eigengenes and
+  phenotypic traits, numbers in brackets indicate the corresponding p values. (B)
+  Bubble plot of pathway enrichment based on differentially expressed genes within
+  the brown module following individual BCAA restriction. Red indicates upregulated
+  and blue indicates downregulated pathways relative to Control-fed mice. (C) Dot
+  plot summarizing pathway enrichment for genes in the brown module across all three
+  BCAA restricted diets. Red dot denotes the presence of significant enrichment for
+  a given pathway across all diet groups pooled (All sig) or in the indicated diet
+  group, grey dot denotes absence of significant enrichment
+article_title: Restriction of individual branched-chain amino acids has distinct effects
+  on the development and progression of Alzheimer’s disease in 3xTg mice
+citation: Reji Babygirija, et al. bioRxiv. 2025 Jul 26;NA(NA).
+year: '2025'
+pub_date: 2025-7-26
+epub_date: 2025-7-26
+doi: 10.1101/2025.07.24.663565
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Alzheimer’s disease
+- branched chain amino acids
+- autophagy
+- mTORC1
+---

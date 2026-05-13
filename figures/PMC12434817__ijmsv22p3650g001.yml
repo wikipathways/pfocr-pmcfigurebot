@@ -1,0 +1,36 @@
+---
+figid: PMC12434817__ijmsv22p3650g001
+pmcid: PMC12434817
+image_filename: jpg
+figure_link: /pmc/articles/PMC12434817/figure/F1/
+number: Figure 1
+figure_title: Higher levels of RANKL are related to the pro-inflammatory response
+  and cartilage tissue catabolism in synovial tissues from OA and RA patients.
+caption: Higher levels of RANKL are related to the pro-inflammatory response and cartilage
+  tissue catabolism in synovial tissues from OA and RA patients. (A) The expression
+  of RANKL in synovial tissue expression profiles was analyzed from the GEO database,
+  including healthy tissues (n=28), OA tissues (n=22), and RA tissues (n=152). (B-C)
+  The IPA analysis identified enriched biological pathways in the GSE89408 database.
+  Colors represent the extent of z-scores, indicating pathway activity based on changes
+  in gene expression. A z-score > 2 (orange) suggests significant activation, while
+  a z-score < -2 (blue) indicates significant inhibition. (D-E) The interaction network
+  between differentially expressed genes, biological functions, and diseases was analyzed
+  from the GSE89408 database. (The dotted line means direct connections.) Results
+  are expressed as the means ± SD. *p < 0.05 vs. normal SF cells
+article_title: miR-548aj-3p and miR-3127-3p suppress RANKL-facilitated inflammatory
+  cytokines and catabolic factor in osteoarthritis and rheumatoid arthritis
+citation: Yu-Han Wang, et al. Int J Med Sci. 2025;22(14).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025-7-28
+doi: 10.7150/ijms.110812
+journal_title: International Journal of Medical Sciences
+journal_nlm_ta: Int J Med Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- osteoarthritis
+- rheumatoid arthritis
+- miRNA
+- inflammatory cytokine
+- matrix metalloproteinase
+---

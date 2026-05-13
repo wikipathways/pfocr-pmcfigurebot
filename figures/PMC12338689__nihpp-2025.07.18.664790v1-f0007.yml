@@ -1,0 +1,58 @@
+---
+figid: PMC12338689__nihpp-2025.07.18.664790v1-f0007
+pmcid: PMC12338689
+image_filename: jpg
+figure_link: /pmc/articles/PMC12338689/figure/F6/
+number: Figure 6.
+figure_title: SOX2 co-occupies sites with AR that are unaffected by AR signaling modulation,
+  suggesting stabilizing the complex on the chromatin to promote AR-signaling inhibition
+  (ARSI) resistance and lineage plasticity
+caption: 'A-D) Track plots of AR, FOXA1, and SOX2 co-bound genes in CWR-R1 and NCI-H660.
+  Peaks visualized using IGV and mapped to the human hg38 chromosome build. E) Heatmap
+  of differential gene expression in Control vs. SOX2KO CWR-R1 cells. Data represent
+  transcripts per million (TPM) values of RNA-seq triplicates. F) UpSet plot of AR
+  and SOX2 ChIP-seq peaks in CWR-R1 cells. Shared regions represent called peaks with
+  >= 1bp of overlap. G) Venn Diagram of AR and SOX2 ChIP-seq peaks in CWR-R1 cells.
+  Shared regions represent called peaks with >= 1bp of overlap. H) Venn diagram of
+  AR and SOX2 potential target genes. CWR-R1 ChIP-seq peaks were analyzed using Cistrome-GO
+  to identify genes that had AR and/or SOX2 binding peaks less than 10kb from a TSS
+  and an adjusted regulatory potential (RP) score of >0.01. I) Gene Ontology (GO)
+  pathway analyses for the invariant AR and SOX2 candidate target genes in CWR-R1.
+  GO enrichment was performed using Enrichr. J) Relative SOX2 and ROR1 mRNA expression
+  in NCI-H660 cells following SOX2 siRNA knockdown normalized to β-actin. Data are
+  represented as the fold change (2−ΔΔCT) ± SEM. K) The chosen sequence of the SOX2/FOXA1
+  co-bound region (peak summit) of the ROR1 gene used for computational modeling of
+  the SOX2/FOXA1 interaction. L) Track plot of SOX2/FOXA1 co-binding in the ROR1 gene
+  body. M) Computational modeling using the Chai-1 build of AlphaFold-3 to predict
+  the structure of SOX2 and FOXA1 (UniProt IDs: P48431 and P55317, respectively) co-bound
+  to DNA containing a single FOX motif within the ROR1 gene. N) Structure prediction
+  of SOX2 and FOXA1 co-bound to DNA containing both an HMG-box and FOX motif within
+  the ROR1 gene'
+article_title: SOX2 utilizes FOXA1 as a heteromeric transcriptional partner to drive
+  proliferation in therapy-resistant prostate cancer
+citation: John T. Phoenix, et al. bioRxiv. 2025 Jul 19;NA(NA).
+year: '2025'
+pub_date: 2025-7-19
+epub_date: 2025-7-19
+doi: 10.1101/2025.07.18.664790
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- SOX2
+- FOXA1
+- AR
+- CRPC
+- NEPC
+- Prostate cancer
+- neuroendocrine
+- lineage plasticity
+- stem cells
+- ASCL1
+- ROR1
+- FGF
+- FGFR
+- enzalutamide
+- castration
+- androgen
+---

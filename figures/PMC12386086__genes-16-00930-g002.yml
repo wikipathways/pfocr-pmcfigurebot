@@ -1,0 +1,27 @@
+---
+figid: PMC12386086__genes-16-00930-g002
+pmcid: PMC12386086
+image_filename: jpg
+figure_link: /pmc/articles/PMC12386086/figure/F2/
+number: Figure 2
+figure_title: Functional pathway analysis of significant differential gene expression.
+caption: |-
+  Functional pathway analysis of significant differential gene expression. (A) The volcano plot shows differential gene expression between the case and control groups. Log2 fold change (x-axis), representing the magnitude of gene expression change. Positive values indicate upregulation, while negative values indicate downregulation in the case group. Y-axis: -Log10
+  p-value, representing statistical significance. Each dot represents a gene. Bubble plots of functional pathway analysis in different ontology categories show enriched (B) biological process (BP), (C) molecular function (MF), and (D) cellular component (CC) in either activated or suppressed processes. X-axis: GeneRatio (the proportion of differentially expressed genes relative to the total genes in that pathway). Y-axis: Pathway names. Size (gene count): Represents the count of genes in the pathway (larger bubbles = more genes)
+article_title: RNA Sequencing on Muscle Biopsies from Exertional Rhabdomyolysis Patients
+  Revealed Down-Regulation of Mitochondrial Function and Enhancement of Extracellular
+  Matrix Composition
+citation: Mingqiang Ren, et al. Genes (Basel). 2025 Aug;16(8).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-8-02
+doi: 10.3390/genes16080930
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- skeletal muscle
+- exertional rhabdomyolysis
+- RNA Sequencing
+- transcriptomics
+---

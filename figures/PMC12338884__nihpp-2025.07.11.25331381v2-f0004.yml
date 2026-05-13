@@ -1,0 +1,30 @@
+---
+figid: PMC12338884__nihpp-2025.07.11.25331381v2-f0004
+pmcid: PMC12338884
+image_filename: jpg
+figure_link: /pmc/articles/PMC12338884/figure/F4/
+number: Fig. 4|
+figure_title: Associations of pathways with psychiatric traits vary by cell-type and
+  gene dosage
+caption: (a) Schematic illustrating how gene sets were defined by intersecting pathway,
+  cell type, and cortical region dimensions. Example intersections include Chromatin-ExNeu,
+  Chromatin-Assoc, ExNeu-Assoc, and Chromatin-ExNeu-Assoc. (b) Full model R2 estimates
+  showing the total variance in gene-set z-scores explained by main effects and interaction
+  terms for each diagnosis. Models included pathway, cell type, brain region, dosage,
+  and all combinations of two-way and three-way interactions. (c) R2 estimates for
+  individual interaction terms, quantifying the contribution of each interaction to
+  the explained variance. The pathway×celltype×dosage interaction consistently explains
+  the largest proportion of variance across diagnoses, highlighting the importance
+  of dosage-sensitive and cell-type-specific pathway effects (Tables S9–S10)
+article_title: Psychiatric disorders converge on common pathways but diverge in cellular
+  context, spatial distribution, and directionality of genetic effects
+citation: Worrawat Engchuan, et al. medRxiv. 2025 Jul 16;NA(NA).
+year: '2025'
+pub_date: 2025-7-16
+epub_date: 2025-7-16
+doi: 10.1101/2025.07.11.25331381
+journal_title: medRxiv
+journal_nlm_ta: medRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

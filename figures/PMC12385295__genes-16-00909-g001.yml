@@ -1,0 +1,38 @@
+---
+figid: PMC12385295__genes-16-00909-g001
+pmcid: PMC12385295
+image_filename: jpg
+figure_link: /pmc/articles/PMC12385295/figure/F1/
+number: Figure 1
+figure_title: Sample distribution and RNA-seq of Tibetan sheep.
+caption: Sample distribution and RNA-seq of Tibetan sheep. (A) Geographical distribution
+  of testicular samples from Tibetan sheep populations; (B) Differential expression
+  analysis between Tibetan and Small-tailed Han sheep, identifying 92 TSHDEGs (labeled
+  genes represent the top three most significant hits by log2FC); (C) Comparative
+  transcriptomics of Tibetan vs. Hu sheep, revealing 235 THDEGs (top three log2FC
+  genes annotated); (D) Functional enrichment of TSHDEGs using clusterProfiler (v4.10.0)
+  and AnnotationDbi (v1.62.0) with sheep annotation package “AH7526”, with the results
+  showing significant association with flagellated sperm motility pathways (adjusted
+  p < 0.05; FDR is used for multiple p value testing correction); (E) Cross-species
+  functional annotation (human/mouse references) of conserved TSHDEG orthologs generated
+  by Metascape [22], highlighting enrichment in reproductive process regulation and
+  spermatogenesis; (F) Enrichment profile of THDEGs in cellular homeostasis, stress
+  adaptation, and reproductive pathways via clusterProfiler (v4.10.0) (annotation
+  package “AH7526”)
+article_title: Molecular Genetic Basis of Reproductive Fitness in Tibetan Sheep on
+  the Qinghai-Tibet Plateau
+citation: Wangshan Zheng, et al. Genes (Basel). 2025 Aug;16(8).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-29
+doi: 10.3390/genes16080909
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- Tibetan sheep
+- reproductive success
+- nature selection
+- HBB
+- high-altitude adaptation
+---

@@ -1,0 +1,29 @@
+---
+figid: PMC12324296__nihpp-2025.07.28.667300v1-f0006
+pmcid: PMC12324296
+image_filename: jpg
+figure_link: /pmc/articles/PMC12324296/figure/F6/
+number: Figure 6.
+figure_title: Analysis of enriched pathways and protein-protein interactions for promoter
+  5mCG in cancer patients
+caption: A) Pathway enrichment analysis was performed by Enrichr algorithm. The p-values
+  were shown for each associated pathway. B) Protein-protein interaction analysis
+  was performed with the PPI Hub Proteins database. The p-values are shown for each
+  associated protein
+article_title: Nanopore-based cell-free DNA fragmentation and methylation profiles
+  from the cerebral spinal fluid of patients with lung cancer brain metastases
+citation: Tianqi Chen, et al. bioRxiv. 2025 Jul 31;NA(NA).
+year: '2025'
+pub_date: 2025-7-31
+epub_date: 2025-7-31
+doi: 10.1101/2025.07.28.667300
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Cerebrospinal fluids
+- fragmentation
+- methylation
+- hydroxymethylation
+- nanopore sequencing
+---

@@ -1,0 +1,39 @@
+---
+figid: PMC12456008__nihms-2100079-f0004
+pmcid: PMC12456008
+image_filename: jpg
+figure_link: /pmc/articles/PMC12456008/figure/F4/
+number: Fig. 4.
+figure_title: In vitro hyperoxia exposure (95% oxygen) of bone marrow-derived macrophages
+  (BMDMs) increases TREM2 expression
+caption: (a) BMDMs were obtained from B6 (WT), DBA and T2KO mice and exposed to hyperoxia
+  (95%) for 24 h.(b) Immunoblots of TREM2 protein in whole cell lysates of hyperoxia-exposed
+  BMDMs obtained from B6 (WT), DBA and T2KO mice and the normoxic controls. Data are
+  representative of three independent experiments. Uncropped images of the blots are
+  shown in Extended Data Fig. 7.(c) RNA-seq of hyperoxia-exposed BMDMs from B6 (WT),
+  DBA and T2KO mice and the normoxic controls. Heatmap shows the 1827 differentially
+  expressed genes (FC > 2; p-adj < 0.05).(d) Venn diagram showing the overlap between
+  hyperoxia-induced genes in B6 (WT) BMDMs (n = 173) and hyperoxia-suppressed genes
+  in T2KO (n = 570) and DBA (n = 905) BMDMs. Gene Ontology analysis was performed
+  on the 34 genes that were induced by hyperoxia in B6 (WT) and suppressed in T2KO
+  and DBA BMDMs.(e) Bar plots for expression of representative genes belonging to
+  the p53 signaling pathway. Data are mean ± SEM. DSeq2 was used for comparisons.
+  **p-adj < 0.01 and ***p-adj < 0.001 reported by DESeq2 using the Benjamini–Hochberg
+  method for the multiple-testing correction (B6 Nx, n = 2; B6 Hprx, n = 2; DBA Nx,
+  n = 2; DBA Hprx n = 2; T2KO Nx, n = 2; T2KO Hprx, n = 2).(f) Caspase 3 activity
+  measured in cytosolic fractions from BMDMs from B6 (WT), DBA and T2KO mice. Data
+  are mean ± SEM. (n = 4 for each group). ANOVA was performed followed by Tukey’s
+  post hoc comparison. * p < 0.05. Each dot represents one mouse (e, f). See also
+  Extended Data Fig. 4
+article_title: Genetic variation in the activity of a TREM2-p53 signaling axis determines
+  oxygen-induced lung injury
+citation: Yohei Abe, et al. Nat Immunol. 2025 Aug;26(8).
+year: '2025'
+pub_date: 2025-8-
+epub_date: 2025-7-25
+doi: 10.1038/s41590-025-02217-4
+journal_title: Nature immunology
+journal_nlm_ta: Nat Immunol
+publisher_name: .na.character
+keywords: []
+---
