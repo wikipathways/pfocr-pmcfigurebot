@@ -1,0 +1,38 @@
+---
+figid: PMC12871377__nihms-2130846-f0006
+pmcid: PMC12871377
+image_filename: jpg
+figure_link: /pmc/articles/PMC12871377/figure/F6/
+number: Figure 6.
+figure_title: Expression differences of ortholog genes annotated for the Kyoto Encyclopedia
+  of Genes and Genomes (KEGG).
+caption: Expression differences of ortholog genes annotated for the Kyoto Encyclopedia
+  of Genes and Genomes (KEGG). Oxidative phosphorylation (hsa00190) pathway for lab
+  versus wild-cross contrasts across hypoxia treatments in the abdominal ganglion
+  (n = 3 animals per group and treatment). Each node of the pathway diagram represents
+  an ortholog assigned to an A. californica-annotated gene. Nodes are divided into
+  six sections corresponding to treatments, from left to right, Control (normoxia),
+  2 h hypoxia, 6 h hypoxia, reoxygenation, 5-day repetitive hypoxia, 6-day repetitive
+  hypoxia, and recovery. Node sections are colored according to their log2fold change
+  (lab vs. wild-cross). Nodes that are not colored were absent in the gene set or
+  not annotated. Pathway enrichment demonstrates broad upregulation of oxidative metabolism
+  in lab-cross animals across hypoxia treatments
+article_title: Experience-mediated transcriptional memory correlates with hypoxia
+  resistance in the nervous system of the sea hare Aplysia californica
+citation: Javier A. Rodriguez-Casariego, et al. Am J Physiol Regul Integr Comp Physiol.
+  2025 Nov 01;329(5).
+year: '2025'
+pub_date: '2025-11-01'
+epub_date: 2025-9-08
+doi: 10.1152/ajpregu.00071.2025
+journal_title: American journal of physiology. Regulatory, integrative and comparative
+  physiology
+journal_nlm_ta: Am J Physiol Regul Integr Comp Physiol
+publisher_name: .na.character
+keywords:
+- behavior
+- hypoxia resistance
+- neuroplasticity
+- sea hare
+- transcriptome
+---

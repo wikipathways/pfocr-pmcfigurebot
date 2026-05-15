@@ -1,0 +1,45 @@
+---
+figid: PMC12670270__nihms-2110755-f0012
+pmcid: PMC12670270
+image_filename: jpg
+figure_link: /pmc/articles/PMC12670270/figure/F6/
+number: 'Figure 6:'
+figure_title: CF-pHBEC from three donors were exposed to P.
+caption: CF-pHBEC from three donors were exposed to P. aeruginosa (Pa) alone or in
+  combination with process control (PC), negative control (NC) MSC EVs, or let-7b
+  MSC EVs for 6 hours. Cytokine levels of (A) IL-8 and (B) IL-6 were measured by ELISA.
+  Relative mRNA transcript levels of (C) IL-8 and (D) IL-6 were analyzed using the
+  2−ΔΔCt method, with UBC serving as the reference gene (the UBC ΔCT was <1) compared
+  to untreated cells as the control. Each colored line represents one CF donor across
+  all treatment conditions. The male donor is represented by squares, while the female
+  donors are represented by circles. Linear mixed-effects models with donor as a random
+  effect were used to test for statistical significance. (E) Heatmap showing significant
+  cell stress and inflammation DEGs (differentially expressed genes with (p < 0.05,
+  ∣ log2FC ∣ > 1 ) between let-7b-5p MSC EV treatment and P. aeruginosa treatment,
+  and how they change in other conditions (untreated control, PC, NC MSC EV) relative
+  to P. aeruginosa only. Red and blue represent the upregulation or downregulation
+  of a gene, respectively, while white represents no change. FPR1, a predicted target
+  of let-7b-5p is indicated with an arrow. (F) Heatmap showing the enrichment scores
+  of the two KEGG pathways in PC, NC MSC EV and let-7b-5p exposures, all compared
+  to P. aeruginosa. Red and blue represent upregulation or downregulation of a pathway,
+  respectively. n = 3 CF-pHBEC donors (ΔF508/ΔF508); *p-value = 0.014 (Figure A);
+  *p < 0.05, **p < 0.01 (Figure E; exact p-values in Supplementary Table 1); PC (process
+  control) = unconditioned media passed through EV preparation process, NC = negative
+  control
+article_title: Mesenchymal Stromal Cell Extracellular Vesicles Reduce Pseudomonas
+  Biofilm Formation, and let-7b-5p Loading Confers Additional Anti-Inflammatory Effects
+citation: Sharanya Sarkar, et al. Am J Physiol Lung Cell Mol Physiol. 2025 Oct 01;329(4).
+year: '2025'
+pub_date: '2025-10-01'
+epub_date: 2025-9-08
+doi: 10.1152/ajplung.00187.2025
+journal_title: American journal of physiology. Lung cellular and molecular physiology
+journal_nlm_ta: Am J Physiol Lung Cell Mol Physiol
+publisher_name: .na.character
+keywords:
+- Cystic Fibrosis
+- Human Bronchial Epithelial Cells
+- Inflammation
+- Mesenchymal Stromal Cell Extracellular Vesicles
+- Pseudomonas aeruginosa biofilms
+---

@@ -1,0 +1,51 @@
+---
+figid: PMC12635795__nihms-2114494-f0001
+pmcid: PMC12635795
+image_filename: jpg
+figure_link: /pmc/articles/PMC12635795/figure/FNA/
+number: 'Figure:'
+figure_title: RA dilation and dysfunction induced by pulmonary artery banding resulted
+  in a unique cellular and molecular signature as defined by snRNA
+caption: '(A) Representative 4-chamber cMRI images depicting RA enlargement in PAB
+  pigs. Quantification of RA end-diastolic volume index [Control: 1.1 mL/kg (0.9,
+  1.1), PAB: 1.6 mL/kg (1.4, 1.9)], p-value determined by Mann Whitney test. Quantification
+  of right atrium emptying fraction [Control: 60% (54, 64), PAB: 35% (34, 46)], p-value
+  determined by Mann-Whitney test. Representative confocal micrographs of control
+  and PAB RA cross sections stained with wheat germ agglutinin (purple) and 4’,6-diamidino-2-phenylindole
+  to delineate nuclei (blue). Quantification of RA cardiomyocyte cross sectional area
+  [Control: 68 μm2 (55, 95), PAB: 103 μm2 (90, 136)], p-value determined by Mann Whitney
+  test. (B) Uniform Manifold Approximation and Project (UMAP) depicting the eight
+  clusters of cells detected in RA samples (nuclei isolated from 4 animals/group).
+  Heatmap demonstrating the unique transcriptomic profile of each cell cluster. UMAP
+  of control and PAB samples with proportion of each cell type identified in each
+  experimental group. (C, upper) UMAP of control and PAB cardiomyocyte subpopulations
+  with pathway analysis of genes downregulated in pseuobulked PAB cardiomyocytes.
+  Module score of pseudobulked cardiomyocytes ER pathways was reduced in PAB animals.
+  P-value determined by Mann-Whitney test. Representative Western blots and quantification
+  of endoplasmic reticulum proteins. P-values determined by Mann-Whitney test, n=4
+  animals/group. (Lower) Pathway analysis of top 1000 genes important for identifying
+  cardiomyocyte subclusters 2 and 4 (control enriched) and subclusters 1 and 3 (PAB
+  enriched). Module score of oxidative phosphorylation, and TCA cycle from pseudobulked
+  cardiomyocytes. p-values determined by Mann-Whitney test. (D) Representative images
+  of RA sections stained with wheat germ agglutinin (green) and galectin 3 (orange).
+  Quantification of galectin-3 positive cells per field of view. p-values determined
+  by Mann-Whitney test, n=4 animals/group. UMAP of control and PAB macrophage subclusters
+  with identified genes used to identify macrophage subclusters. Quantification of
+  relative abundances of each macrophage subtype. p-values determined by Mann-Whitney
+  test. Pathway analysis of upregulated transcripts (Wilcoxon test, false discovery
+  rate<0.1) in PAB resident macrophage identified a pro-inflammatory gene signature'
+article_title: Single-Nucleus RNAseq Defines Cellular and Molecular Landscape of Dysfunctional
+  Right Atrium in Pulmonary Artery Banded Swine
+citation: Jenna B. Mendelson, et al. Circ Res. 2025 Oct 10;137(9).
+year: '2025'
+pub_date: '2025-10-10'
+epub_date: 2025-9-15
+doi: 10.1161/CIRCRESAHA.125.326892
+journal_title: Circulation research
+journal_nlm_ta: Circ Res
+publisher_name: .na.character
+keywords:
+- Animal Models of Human Disease
+- Basic Science Research
+- Computational Biology
+---

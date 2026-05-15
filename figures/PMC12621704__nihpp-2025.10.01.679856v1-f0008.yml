@@ -1,0 +1,40 @@
+---
+figid: PMC12621704__nihpp-2025.10.01.679856v1-f0008
+pmcid: PMC12621704
+image_filename: jpg
+figure_link: /pmc/articles/PMC12621704/figure/F8/
+number: Figure 8.
+figure_title: Spatial transcriptomics of clonal outgrowths and tumors
+caption: a, Spatial transcriptomic profiling was performed on male Mgmt−/− liver samples
+  10 weeks post-treatment using 10x Genomics Visium technology. Representative male
+  Mgmt−/− liver samples 10 weeks post-treatment were analyzed. For each sample, the
+  same liver section was used for H&E staining (row 1) and spatial transcriptomics
+  mapping (row 2), while an adjacent serial section was imaged for eGFP fluorescence
+  (row 3). In saline-treated livers, transcriptomic clusters were uniform, but NDMA
+  treatment revealed distinct clustering, accompanied by histological changes including
+  portal hepatitis and biliary hyperplasia, which overlapped with an intensely GFP-positive
+  colony. One featured clonal expansion (~0.5 mm2) was analyzed for differentially
+  expressed RNA transcripts; upregulated genes from this region were enriched for
+  pathways in the MSigDB Hallmark collection, with the top 9 pathways shown. b, Spatial
+  transcriptomic profiling of male Mgmt−/− livers 10 months post-treatment. Analysis
+  used the same tissue section for H&E staining (row 1) and spatial transcriptomics
+  (row 2); a serial section was imaged for eGFP (row 3). Saline controls continued
+  to show uniform transcriptomic clustering, while NDMA treatment resulted in a hepatocellular
+  adenoma with a few dilated bile ducts. Differentially expressed genes from the tumor
+  region were subjected to MSigDB Hallmark pathway enrichment, with the top 9 pathways
+  shown. c, Radar plots summarize key endpoints from this study at 1 day and 10 weeks
+  post-exposure. Medians or means from each data set were normalized to the highest
+  scoring group in that analysis method (e.g., NDMA-treated Mgmt−/− mice had the highest
+  tumor burden, so medians of all groups were normalized to the median Mgmt−/−)
+article_title: Persistent interferon signaling and clonal expansion mark early events
+  in DNA methylation damage-induced liver cancer
+citation: Lee J. Pribyl, et al. bioRxiv. 2025 Oct 03;NA(NA).
+year: '2025'
+pub_date: '2025-10-03'
+epub_date: '2025-10-03'
+doi: 10.1101/2025.10.01.679856
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

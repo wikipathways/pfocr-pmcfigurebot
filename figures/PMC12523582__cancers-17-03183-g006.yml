@@ -1,0 +1,36 @@
+---
+figid: PMC12523582__cancers-17-03183-g006
+pmcid: PMC12523582
+image_filename: jpg
+figure_link: /pmc/articles/PMC12523582/figure/F6/
+number: Figure 6
+figure_title: PAK6 expression is correlated with chemokine signaling and may regulate
+  immune cell migration in colorectal cancer.
+caption: PAK6 expression is correlated with chemokine signaling and may regulate immune
+  cell migration in colorectal cancer. (A) Heatmap demonstrating significant positive
+  correlations (all p < 0.001) between PAK6 expression and key chemokines (CCL24,
+  CCL5, CX3CL1, CXCL16) in the TCGA-CRC cohort, with CXCL16 showing the strongest
+  correlation (R = 0.291). (B) Bubble plot of Gene Ontology (GO) enrichment analysis
+  showing that PAK6-associated chemokine receptors and pathway genes are predominantly
+  enriched in biological processes related to chemokine production and regulation.
+  (C–J) Independent validation using the TISIDB database confirms significant correlations
+  (p < 0.05) between PAK6 expression and the four highlighted chemokines (C–F) as
+  well as key chemokine receptors CCR2, CCR4, CCR6, and CX3CR1 (G–J) in CRC. (***
+  p < 0.001)
+article_title: Prognostic and Immunomodulatory Roles of PAK6 in Colorectal Cancer
+  Through Integrative Transcriptomic and Clinical Analysis
+citation: Chunxiang Ye, et al. Cancers (Basel). 2025 Oct;17(19).
+year: '2025'
+pub_date: 2025-10-
+epub_date: 2025-9-30
+doi: 10.3390/cancers17193183
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- PAK6
+- colorectal cancer
+- immune infiltration
+- prognosis
+- tumor microenvironment
+---

@@ -1,0 +1,55 @@
+---
+figid: PMC12485882__nihpp-2025.09.24.678397v1-f0005
+pmcid: PMC12485882
+image_filename: jpg
+figure_link: /pmc/articles/PMC12485882/figure/F5/
+number: Figure 5.
+figure_title: Spacelink detects temporal dynamics in spatial variability during mouse
+  organogenesis
+caption: '(a). Schematic illustrating mouse embryonic Stereo-seq SRT data across 8
+  stages (E9.5–E16.5) tracking organogenesis; bottom panel shows spots colored by
+  tissue type. (b). Number of SVGs identified by Spacelink at each stage within the
+  whole embryo (left) and the brain region (right), with bars shaded from light to
+  dark green across developmental time. (c). Volcano plots of gene-level regressions
+  associating stage-corrected ESV (adjusted for embryo size; Methods) with developmental
+  time in the whole embryo (left) and brain (right). Each point represents the regression
+  slope (x-axis) and −log10 p-value (y-axis). Genes with nominally significant (P
+  < 0.05) negative and positive associations are shown in light and dark green, respectively.
+  (d). Pathway enrichment analyses (based on ConsensusPathdb63) of genes with significantly
+  negative (light green) and positive (dark green) associations between spatial variability
+  and developmental progression in the whole embryo (left) and brain region (right).
+  (e). Spatial expression plots of four genes showing (i) negatively associated ESV
+  with developmental time in whole embryo (Myl9), (ii) positively associated ESV with
+  developmental time in whole embryo (Rab3a), (iii) negatively associated ESV in brain
+  with developmental time (Rspo2), and (iv) positively associated ESV in brain with
+  developmental time (Grin2b). (f). Average stage-corrected ESV within brain regions
+  at each stage among genes with nominally significantly (P < 0.05) negative (light
+  green) and positive (dark green) associations between spatial variability and developmental
+  progression. (g). Examples of genes showing divergent trends in ESV between brain
+  and non-brain across developmental time. Heatmap shows corrected ESV within brain
+  and non-brain at each stage. Rows are shaded by temporal patterns: light green demonstrates
+  negative ESV trend, dark green demonstrates positive ESV trend, grey demonstrates
+  consistently high ESV throughout development. (h). Proportion of differentially
+  expressed (DE) genes in each tissue among genes which are SVGs within non-brain
+  (top) and brain (bottom) at least 6 of the 8 stages. We rank the tissues based on
+  the decreasing values of the proportion. (i). Disease informativeness of genes with
+  negative (circles) or positive (triangles) temporal ESV associations in brain (top)
+  and non-brain (bottom), focusing on four brain-related Mendelian disorders. Informativeness
+  is measured by the fraction of disorder genes with significant ESV trends (X axis)
+  and the odds ratio between gene sets (Y axis). (j). Spatial expression plots of
+  two monogenic autism risk genes, Nrxn1 and Foxp2, showing different spatial patterns
+  within brain and non-brain. Nrxn1 exhibits positive ESV trend with development in
+  both brain and non-brain, whereas Foxp2 shows positive ESV trend specifically in
+  brain. Numerical results are reported in Supplementary Table S5'
+article_title: Mapping disease critical spatially variable gene programs by integrating
+  spatial transcriptomics with human genetics
+citation: Hanbyul Lee, et al. bioRxiv. 2025 Sep 25;NA(NA).
+year: '2025'
+pub_date: 2025-9-25
+epub_date: 2025-9-25
+doi: 10.1101/2025.09.24.678397
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

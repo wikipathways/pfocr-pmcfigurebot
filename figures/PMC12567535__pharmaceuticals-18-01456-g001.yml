@@ -1,0 +1,38 @@
+---
+figid: PMC12567535__pharmaceuticals-18-01456-g001
+pmcid: PMC12567535
+image_filename: jpg
+figure_link: /pmc/articles/PMC12567535/figure/F1/
+number: Figure 1
+figure_title: Network pharmacology prediction of Shentong Zhuyu Decoction (STZYD)
+  in the treatment of NPP.
+caption: Network pharmacology prediction of Shentong Zhuyu Decoction (STZYD) in the
+  treatment of NPP. (A) Venn diagram showing the overlap between STZYD and NPP. (B)
+  Compound–target–pathway–disease network. Inverted triangles represent the herbal
+  components, circles represent the active-ingredient targets, and squares represent
+  disease nodes. (C) Protein–protein interaction (PPI) network of candidate targets
+  obtained from the STRING database and visualized using Cytoscape 3.7.2. (D) Top
+  30 enriched Gene Ontology (GO) terms of STZYD candidate targets, including biological
+  processes (BPs), cellular components (CCs), and molecular functions (MFs). (E) Top
+  10 enriched KEGG pathways of STZYD candidate targets. The x-axis represents the
+  enrichment ratio, the circle sizes indicate the numbers of enriched genes, the y-axis
+  denotes the KEGG pathways, and the different colors represent the adjusted p values
+article_title: Shentong Zhuyu Decoction Alleviates Neuropathic Pain in Mice by Inhibiting
+  the NMDAR-2B Receptor-Mediated CaMKII/CREB Signaling Pathway in GABAergic Neurons
+  of the Interpeduncular Nucleus
+citation: Ying Liu, et al. Pharmaceuticals (Basel). 2025 Oct;18(10).
+year: '2025'
+pub_date: 2025-10-
+epub_date: 2025-9-28
+doi: 10.3390/ph18101456
+journal_title: Pharmaceuticals
+journal_nlm_ta: Pharmaceuticals (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- neuropathic pain
+- Shentong Zhuyu Decoction
+- network pharmacology
+- NMDAR-2B/CaMKII/CREB
+- GABAergic neurons
+- spared nerve injury
+---

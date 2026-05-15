@@ -1,0 +1,37 @@
+---
+figid: PMC12524880__ijms-26-09357-g002
+pmcid: PMC12524880
+image_filename: jpg
+figure_link: /pmc/articles/PMC12524880/figure/F2/
+number: Figure 2
+figure_title: Dynamic gene expression pattern in node I during the reproductive growth
+  stage.
+caption: Dynamic gene expression pattern in node I during the reproductive growth
+  stage. (a) Principal component analysis (PCA) of gene expression profiles in node
+  I at seven reproductive growth stages. Each data point represented an independent
+  biological replicate. (b) Short Time-series Expression Miner (STEM) analysis of
+  genes in node I at seven reproductive growth stages. Five significant profiles with
+  color background are shown. p-values were represented below each profile, and gene
+  numbers in each profile are shown on the top. The tree map on the right side of
+  each profile is GO enrichment analysis. The functional categories with false discovery
+  rates ≤ 0.05% were summarized using REVIGO. The grey color indicates the significance
+  of the GO terms, and the aggregate size indicates the gene numbers of the GO terms.
+  (c) KEGG pathway enrichment analysis of genes in profile 4. The top 20 KEGG pathways
+  with the lowest p-values are shown
+article_title: Spatiotemporal Transcriptome Profiling Reveals Nutrient Transport Dynamics
+  in Rice Nodes and Roots During Reproductive Development
+citation: Wan-Chun Lu, et al. Int J Mol Sci. 2025 Oct;26(19).
+year: '2025'
+pub_date: 2025-10-
+epub_date: 2025-9-25
+doi: 10.3390/ijms26199357
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- grain filling
+- node
+- nutrient transport
+- mineral nutrient allocation
+- transcriptome profiling
+---

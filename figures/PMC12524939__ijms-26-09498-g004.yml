@@ -1,0 +1,55 @@
+---
+figid: PMC12524939__ijms-26-09498-g004
+pmcid: PMC12524939
+image_filename: jpg
+figure_link: /pmc/articles/PMC12524939/figure/F4/
+number: Figure 4
+figure_title: Non-coding RNA Networks in Inflammation-Associated Colorectal Cancer.
+caption: 'Non-coding RNA Networks in Inflammation-Associated Colorectal Cancer. The
+  above diagram illustrates the interactions between key ncRNAs and inflammation-related
+  signaling cascades within the colorectal tumor microenvironment. The upper region
+  depicts inflammatory cytokines (e.g., IL-6, TNF-α) activating intracellular pathways
+  such as NF-κB, STAT3, in CRC epithelial cells, which in turn regulate the expression
+  of oncogenic miRNAs and interact with Wnt/β-catenin in colonic epithelial cells.
+  These signals modulate the transcriptional expression of lncRNAs (HOTAIR, MALAT1),
+  miRNAs (miR-21, miR-155) and circRNAs (circHIPK3, circCCDC66) in CRC pathogenesis.
+  Circular RNAs act as sponges modulating miRNA activity, such as circCCDC66 protecting
+  PTEN from miRNA-mediated repression, while circHIPK3 affecting NF-κB signaling.
+  Downstream key targets include tumor suppressor genes (e.g., PTEN, PDCD4) and oncogenes
+  (e.g., BCL2, Wnt/β-catenin), leading to increased cell survival, proliferation,
+  and evasion of apoptosis. The diagram portrays chromatin-level epigenetic changes,
+  including DNA methylation and histone modification (e.g., H3K27me3), which are orchestrated
+  by ncRNA-interacting complexes such as PRC2. This integrated view underscores the
+  central role of ncRNAs in mediating inflammation-associated carcinogenesis. Notes:
+  The references in brackets refer to PMIDs, which support the interactions. PMIDs:
+  [1], [35305641]; [2], [35961438]; [3], [29263891]; [4], [36733201]; [5], [24165275];
+  [6], [32380907]. Bold black fonts (NFκB, STAT3, Wnt/β-catenin) indicate transcriptional
+  hubs activated in the nucleus, connected by black arrows (canonical activation).
+  Light blue fonts (e.g., NFκB) denote transcription factors when directly targeted
+  by miRNAs, shown by thin blue inhibitory arrows. The circHIPK3 black arrow “attacking”
+  the miRNAs means that circHIPK3 functions as a competing endogenous RNA (ceRNA):
+  it binds and sponges miRNAs, thereby reducing their availability to repress targets
+  like NFκB or PTEN. Black arrows from extracellular factors (IL-6, TNFα) reflect
+  cytokine-induced pathway activation feeding into the nucleus'
+article_title: 'Integrating Inflammatory and Epigenetic Signatures in IBD-Associated
+  Colorectal Carcinogenesis: Models, Mechanisms, and Clinical Implications'
+citation: Kostas A. Triantaphyllopoulos, et al. Int J Mol Sci. 2025 Oct;26(19).
+year: '2025'
+pub_date: 2025-10-
+epub_date: 2025-9-28
+doi: 10.3390/ijms26199498
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- inflammatory bowel disease (IBD)
+- colorectal cancer (CRC)
+- colitis-associated colorectal cancer (CAC)
+- autophagy dysfunction
+- epigenetic
+- DNA methylation
+- histone modifications
+- non-coding RNAs (ncRNA)
+- pro-inflammatory cytokines
+- translational biomarkers
+---

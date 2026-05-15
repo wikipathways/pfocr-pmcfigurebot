@@ -1,0 +1,47 @@
+---
+figid: PMC12485908__nihpp-2024.09.22.610444v2-f0004
+pmcid: PMC12485908
+image_filename: jpg
+figure_link: /pmc/articles/PMC12485908/figure/F4/
+number: 'Fig. 4:'
+figure_title: Vascular cell populations are implicated in intercellular communication
+  in metabolic health and disease
+caption: 'a, Bar plots depicting the number of intercellular interactions and their
+  strength in each metabolic state. b, Scatter plots showing the strength of the outgoing
+  (x-axis) and the incoming (y-axis) interaction strength for each cell type in each
+  metabolic state. c, Differential number of interactions implicating the vascular
+  cell compartment inferred by CellChat and LIANA+ and the differential strength of
+  interactions inferred by CellChat. d, Chord diagrams depicting the results of CellChat
+  inferred ligand–receptor analysis for significant signaling pathways between the
+  three sub-AdECs populations with the highest differential number and strength of
+  interactions (AV, F, and Ly) and their main interacting partners (receiving cells)
+  in obesity and obesity compounded by T2D. e, Filtered druggable differentially expressed
+  protein-coding targets in the vascular cells of human SAT in each metabolic state.
+  Ridge plots represent the expression level of specific genes in vascular populations
+  as a factor of cell density (frequency of cells). f, Representative immunohistochemical
+  images validating the upregulation of the two druggable targets FABP4 and CD74,
+  at the protein level, in the adipose tissue of donors living with obesity or obesity
+  compounded by T2D. Quantification of immunohistochemical stainings of FABP4 (Non-obese;
+  n=11, Obese; n=10, and Obese diabetic; n=7) and CD74 (Non-obese; n=9, Obese; n=12,
+  and Obese diabetic; n=5) in the endothelial cell compartment. Scale bar: 50μm. g,
+  Heatmaps depicting the differential enrichment of Drug2cell scores of drugs identified
+  to target cell populations within the vascular niche in donors living with obesity
+  or obesity compounded by T2D. h, Heatmap depicting scDRS calculated significant
+  associations between the vascular cell types of human SAT vascular niche and seventeen
+  relevant metabolic and cardiovascular traits. In quantifications, Obese and Obese
+  diabetic donors were pooled where indicated, as the deregulated genes exhibited
+  changes in the same direction and of comparable magnitude. In box plots, error bars
+  represent ± s.e.m and P values were calculated using an unpaired t-test. P < 0.05
+  was considered statistically significant'
+article_title: Defining the vascular niche of human adipose tissue across metabolic
+  states
+citation: Ibrahim AlZaim, et al. bioRxiv. 2025 Sep 22;NA(NA).
+year: '2025'
+pub_date: 2025-9-22
+epub_date: 2025-9-22
+doi: 10.1101/2024.09.22.610444
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

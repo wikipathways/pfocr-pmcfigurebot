@@ -1,0 +1,58 @@
+---
+figid: PMC12621876__nihpp-2025.10.01.679874v1-f0004
+pmcid: PMC12621876
+image_filename: jpg
+figure_link: /pmc/articles/PMC12621876/figure/F4/
+number: Figure 4.
+figure_title: Synthetic rewiring of PD-1 signaling into immunoactivating outputs using
+  Sphyder circuits
+caption: '(A) Comparison of native versus Sphyder signaling modules. Native phosphotyrosine
+  signaling modules often bind tandem motifs with overlapping specificity, resulting
+  in signaling cross-talk. In contrast, Sphyder generates orthogonal phosphotyrosine–synthetic
+  binder pairs in which each binder recognizes a defined single phosphotyrosine motif
+  with high affinity and specificity. This orthogonality enables the construction
+  of synthetic signaling pathways and receptors with customizable input–output properties.
+  (B) Engineered PD-1 pathway using Sphyder binders. Phosphorylated PD-1 recruits
+  synthetic modules that convert inhibitory signaling into immune activation via inducible
+  gene expression. NT7 fused to TEV protease enables phosphorylation-dependent cleavage
+  of transcription factors (e.g., Gal4, tTA) tethered to PD-1 via TEVs, initiating
+  gene expression. (C) Schematics of using Sphyder binders to reprogram receptor signaling.
+  A customized antigen recognition domain replaced the ectodomain of PD-1 while retaining
+  the intracellular domain of PD-1. Similar to synthetic PD-1 signaling, a transcription
+  factor would be released upon phosphorylation to drive antigen-dependent response.
+  (D) Time kinetics of TRE3G driven GFP expression in PD-1 circuit, GFP was upregulated
+  in PD1-TEVs-tTA and NT7-uTEVΔ1 expressing primary T cells co-cultured with PD-L1+
+  Raji cells at early time points and with sustained level for 2 days compared to
+  non co-culture or cells only transduced with TRE3G::GFP. (E) GFP expression quantification
+  in Jurkat T cells expressing PD-1 Sphyder circuits. Cells were co-cultured with
+  PD-L1- or PD-L1+ Raji cells in absence of presence of 100 nM PD-1 inhibitor Nivolumab
+  (Nivo). PD-1 Sphyder circuit-expressing cells show strong PD-L1-induced GFP expression,
+  while cells exposed to PD-L1+ in presence of Nivolumab exhibit reduced GFP levels.
+  (F) Time-course analysis of GFP expression in the Sphyder-circuit using IncuCyte.
+  GFP expression is rapidly induced following co-culture with PD-L1+ Raji cells and
+  TEV-mediated cleavage. The TEV-uncleavable variant (ENLYFQP) showed minimal activation.
+  Data represent mean ± s.d. from 2 replicates, each well were imaged 9 images for
+  averaging and quantification. (G) NanoLuc luciferase assay quantifying HiBiT-tagged
+  IL-7 (Blue) and IL-12 (Red) secretion in media in response to PD-1 activation by
+  SY5Y PD-L1+ cells. Red: IL-12, blue: IL-7. (H) 7.9-fold induction of GFP was observed
+  in cells expressing FMC63-replaced receptor cultured with CD19+ Raji cells, or 1.6-fold
+  induction when co-cultured with a soluble bivalent CD19-Fc fusion protein. (I) A
+  CD-19 driven Sphyder circuit in GD2-HA CAR-T cells showed CD-19 dependent cytokine
+  secretion, co-culture with a GD-2 positive but CD-19 negative tumor cell line did
+  not induce cytokine secretion from engineered T cells. Data represent mean ± s.d.
+  from 2 replicates. (J) Time-course quantification of tumor cell killing by primary
+  CAR-T cells expressing PD-1 circuits driving IL-7 and IL-12 expression. Sphyder-based
+  transcriptional circuits enhance tumor clearance relative to control CAR-T cells.
+  Two-way ANOVA, *P=0.0131. Data represent mean ± s.d. from 2 replicates'
+article_title: Synthetic signaling platform uncovers and rewires cellular responses
+  to PD-1 perturbation
+citation: Zhixing Ma, et al. bioRxiv. 2025 Oct 03;NA(NA).
+year: '2025'
+pub_date: '2025-10-03'
+epub_date: '2025-10-03'
+doi: 10.1101/2025.10.01.679874
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

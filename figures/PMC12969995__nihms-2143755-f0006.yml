@@ -1,0 +1,39 @@
+---
+figid: PMC12969995__nihms-2143755-f0006
+pmcid: PMC12969995
+image_filename: jpg
+figure_link: /pmc/articles/PMC12969995/figure/F6/
+number: Fig. 6 |
+figure_title: Severe influenza infection induces transcriptional shutdown and activation
+  of ECM reorganization and antiviral immune pathways
+caption: a, The number of highly upregulated genes (FC >1.5) per cell type compared
+  with the control devices. b, Volcano plot visualization of DEG analysis, highlighting
+  all genes significantly highly (P < 0.05, |FC| >1.5) up- or downregulated across
+  all cell populations when comparing uninfected control to 8 h H1N1 infection IC-LOC
+  devices. Statistical significance determined via Wilcoxon rank sum test. c,d, Pathways
+  represented in the top 10% of upregulated genes in each infected condition, comprised
+  primarily of immune pathways (c) and ECM interactions (d). Statistical significance
+  determined via binomial test. e, Heat map of expression levels of inflammatory,
+  antiviral and immune activation genes in B, CD4 T, CD8 T and NK/NKT cells from uninfected
+  and infected devices showing increased expression levels in the infected devices.
+  Heat map shows average expression levels of each gene for cells with non-zero expression.
+  White boxes represent genes that are not expressed in the given cell type. f, Heat
+  map of expression levels of innate immune response genes in AM, DC, IM, endothelial,
+  fibroblast, adventitial and myofibroblast populations. g, Top 10% of CellChat predicted
+  cell–cell interactions, demonstrating an increase in both stromal and immune cell
+  interactions in response to infection. DEGs, differentially expressed genes; Mon,
+  monocytes; Gran, granulocytes; Adv, adventitial cells; Fib, fibroblasts; Myofib,
+  myofibroblasts; Endo, endothelial cells; Epi, epithelial cells; TFs, transcription
+  factors; pval, P value
+article_title: An immune-competent lung-on-a-chip for modelling the human severe influenza
+  infection response
+citation: Rachel Ringquist, et al. Nat Biomed Eng. 2025 Sep 23;NA(NA).
+year: '2025'
+pub_date: 2025-9-23
+epub_date: 2025-9-23
+doi: 10.1038/s41551-025-01491-9
+journal_title: Nature biomedical engineering
+journal_nlm_ta: Nat Biomed Eng
+publisher_name: .na.character
+keywords: []
+---

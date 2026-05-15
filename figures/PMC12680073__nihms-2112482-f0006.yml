@@ -1,0 +1,38 @@
+---
+figid: PMC12680073__nihms-2112482-f0006
+pmcid: PMC12680073
+image_filename: jpg
+figure_link: /pmc/articles/PMC12680073/figure/F6/
+number: Fig. 6.
+figure_title: Analysis of differentially expressed proteins (DEPs) using STRING
+caption: The STRING database was used for network analysis of the hTau vs WT, hTau/PKO
+  vs hTau, and hTau/ParkinW402A vs hTau DEPs. The k-means clustering method was used
+  under a high confidence interaction score (min. Interaction score = 0.7). (A) Network
+  representation for the top upregulated and downregulated cluster of proteins in
+  the hTau vs WT comparison. (B) Network representation for the top upregulated and
+  downregulated cluster of proteins in the hTau/PKO vs hTau comparison. (C) Network
+  representation for the top upregulated and downregulated cluster of proteins in
+  the hTau/ParkinW402A vs hTau comparison. n = 5 mice per group. The Gene Ontology
+  Biological Process (GO BP), KEGG, and Reactome databases were used to identify changed
+  pathways
+article_title: The absence of Parkin in hTau mice leads to synaptic mitochondrial
+  dysfunction, alterations to the synaptic proteome, and increased phosphorylated
+  tau in the Hippocampus
+citation: L. Daniel Estrella, et al. Neurobiol Dis. 2025 Oct 15;215(NA).
+year: '2025'
+pub_date: '2025-10-15'
+epub_date: 2025-9-04
+doi: 10.1016/j.nbd.2025.107084
+journal_title: Neurobiology of disease
+journal_nlm_ta: Neurobiol Dis
+publisher_name: .na.character
+keywords:
+- Tauopathy
+- Phosphorylated Tau
+- Parkin
+- ParkinW402A
+- Mitophagy
+- Alzheimer’s disease
+- Synapse
+- Synaptic mitochondria
+---

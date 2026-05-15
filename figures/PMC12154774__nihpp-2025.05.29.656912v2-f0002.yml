@@ -1,0 +1,33 @@
+---
+figid: PMC12154774__nihpp-2025.05.29.656912v2-f0002
+pmcid: PMC12154774
+image_filename: jpg
+figure_link: /pmc/articles/PMC12154774/figure/F2/
+number: Fig. 2.
+figure_title: Transcriptional and functional characterization of LCs activation state
+caption: a. scRNA-seq analysis identified three major transcriptional states of LCs
+  —steady, activated, and migratory — separated by UMAP clustering. For in-depth regulon
+  and pathway analysis, the dataset was further subdivided into eight transcriptionally
+  distinct substages. b. Differential gene expression and flow cytometry analysis
+  demonstrates that activated LCs can be distinguished from steady and migratory populations
+  using surface markers such as Cd137, Cd14, and Ly6a. Flow cytometry is representative
+  data (n = 3 mice). c. During activation, the majority of LCs exit the proliferative
+  cycle and undergo mitotic arrest, indicating a functional shift from self-renewal
+  to immune engagement
+article_title: An intermediate activation state primes Langerhans cell migration from
+  the epidermis
+citation: Artem Kiselev, et al. bioRxiv. 2025 Sep 17;NA(NA).
+year: '2025'
+pub_date: 2025-9-17
+epub_date: 2025-9-17
+doi: 10.1101/2025.05.29.656912
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Langerhans cells
+- Single-Cell RNA Sequencing
+- Activation
+- Wound
+- Complement cascade
+---

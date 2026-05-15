@@ -1,0 +1,34 @@
+---
+figid: PMC12621799__nihpp-2025.10.01.679873v1-f0003
+pmcid: PMC12621799
+image_filename: jpg
+figure_link: /pmc/articles/PMC12621799/figure/F3/
+number: Figure 3.
+figure_title: Partial least squares regression (PLSR) model predicts unique signaling
+  pathways associated with CM size and elongation
+caption: (A) Overview of experimental design for PLSR model, in which the goal is
+  to identify predictive relationships from protein and phospho-protein expression
+  (predictor block) to gene expression and morphological changes (response block).
+  Protein levels were measured by RPPA 48 hours after treatment, gene expression was
+  measured by qPCR 48 hours after treatment, and morphology of individual cells was
+  tracked by fluorescent microscopy from before treatment to 48 hours after treatment.
+  (B) PLSR loadings are plotted for protein expression (predictor block; circle markers)
+  and for gene expression and morphology (response block; square markers). Unique
+  signaling pathways are grouped together via K-means cluster analysis. Middle arrows
+  show orientation and relative magnitude of PLSR scores for ligand inputs at two
+  timepoints (1hr and 48hr after treatment). (C) Alignment scores of cell area and
+  elongation in PLS latent space shown in panel B. (D) PLSR model performance, including
+  percent variance explained (R2) and leave-one-out cross-validation to estimate predictive
+  value (Q2). (E) Observed-versus-fitted plots for area and elongation
+article_title: Systems analysis reveals neuregulin-1 control of cardiomyocyte size
+  and shape mediated by distinct PI3K and p38 pathways
+citation: Pichayathida Luanpaisanon, et al. bioRxiv. 2025 Oct 03;NA(NA).
+year: '2025'
+pub_date: '2025-10-03'
+epub_date: '2025-10-03'
+doi: 10.1101/2025.10.01.679873
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

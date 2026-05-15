@@ -1,0 +1,38 @@
+---
+figid: PMC12513781__MI2025-1538054.003
+pmcid: PMC12513781
+image_filename: jpg
+figure_link: /pmc/articles/PMC12513781/figure/F3/
+number: Figure 3
+figure_title: GO and KEGG enrichment analysis of PRDEGs.
+caption: 'GO and KEGG enrichment analysis of PRDEGs. (a) GO enrichment analysis of
+  PRDEGs. GO terms are classified into three categories: BP, CC and MF. The bar chart
+  displays the top significantly enriched GO items, ranked by adjusted p-values. (b)
+  KEGG pathway enrichment analysis for PRDEGs. The bubble plot represents significantly
+  enriched pathways, with bubble size corresponding to the number of genes involved
+  in each pathway. The bubble color gradient represents statistical significance,
+  with bluer hues indicating higher enrichment significance. (c) Network diagram illustrating
+  the GO enrichment analysis results for PRDEGs. Blue nodes represent specific PRDEGs,
+  while red nodes indicate GO terms. Node size reflects the number of genes associated
+  with each GO term. Edges illustrate interactions between genes and GO terms. (d)
+  Network diagram depicting the KEGG enrichment analysis results for PRDEGs. Blue
+  nodes represent PRDEGs, while red nodes denote KEGG pathways. Node size and edges
+  represent the number of genes involvement and interconnections among pathways. GO,
+  Gene Ontology; KEGG, Kyoto Encyclopedia of Genes and Genomes; PRDEGs, pyroptosis-related
+  differentially expressed genes'
+article_title: Identification and Validation of Pyroptosis-Associated Gene Signature
+  in Primary Sjögren's Syndrome
+citation: Yijun Dai, et al. Mediators Inflamm. 2025;2025(NA).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025-10-3
+doi: 10.1155/mi/1538054
+journal_title: Mediators of Inflammation
+journal_nlm_ta: Mediators Inflamm
+publisher_name: Wiley
+keywords:
+- bioinformatic analysis
+- gene signatures
+- primary Sjögren's syndrome (pSS)
+- pyroptosis
+---

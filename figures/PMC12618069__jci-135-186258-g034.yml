@@ -1,0 +1,49 @@
+---
+figid: PMC12618069__jci-135-186258-g034
+pmcid: PMC12618069
+image_filename: jpg
+figure_link: /pmc/articles/PMC12618069/figure/F4/
+number: Figure 4
+figure_title: BCR/TLR9 stimulation drives BCAA synthesis in human primary B cells
+caption: (A) Isotope tracing schematic. [13C]-L-leucine_m+6 was used to trace BCAT1
+  BCAA catabolism to a-keto-isocaproic acid (KIC); [15N]-glutamine_m+2 was used to
+  monitor BCAT1 BCAA biosynthesis from KIC, a-keto-isovaleric acid (KIV), or a-keto
+  b-methylvaleric acid (KMV). Gln, glutamine. Glu, glutamate. (B) Isotope tracing
+  experimental design. Primary B cells from n = 4 donors were pretreated with vehicle
+  or ERG245(100 μM) for 1 hour and then stimulated by αIgM + CpG for 24 hours in the
+  presence of vehicle or ERG245. Cells were washed with PBS 3 times and resuspended
+  in glutamine/leucine-free media supplemented with 381 mM 13C6-leucine and 2.054
+  mM 15N2-glutamine + 10% dialyzed FBS. ERG245(100 μM) and αIgM + CpG stimulants were
+  also refreshed at this time point. Intracellular metabolites were profiled at 8,
+  24, and 48 hours later. (C) Ion intensities of m+6-labeled and -unlabeled KIC at
+  the indicated times in cells treated with vehicle control or ERG245. (D) Ion intensities
+  of labeled and unlabeled leucine (Leu) at the indicated times in cells treated with
+  vehicle control or ERG245. (E) Ion intensities of labeled and unlabeled isoleucine
+  (Ile) at the indicated times in cells treated with vehicle control or ERG245. (F)
+  Ion intensities of labeled and unlabeled valine (Val) at the indicated times in
+  cells treated with vehicle control or ERG245. (G) Heatmap analysis of metabolite
+  z scores in primary B cells treated with vehicle or ERG245 (100 μM) and stimulated
+  as indicated for 24 hours. (H) Volcano plot visualization of –log10 (P value statistical
+  significance) and log2 (fold-change metabolite abundance) from metabolomic analysis
+  of ERG245-treated versus vehicle-treated primary B cells stimulated by αIgM + CpG
+  for 24 hours from n = 4 replicates. (I) MetaboAnalyst pathway enrichment analysis
+  of metabolites diminished by ERG245 treatment in αIgM + CpG–stimulated B cells at
+  24 hours. P values were calculated by 2-way ANOVA followed by Tukey’s multiple-comparison
+  test (C–F)
+article_title: Multiomic analysis reveals a key BCAT1 role in mTOR activation by B
+  cell receptor and TLR9
+citation: Rui Guo, et al. J Clin Invest. 2025 Sep 9;135(22).
+year: '2025'
+pub_date: 2025-9-9
+epub_date: 2025-9-9
+doi: 10.1172/JCI186258
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Cell biology
+- Metabolism
+- Adaptive immunity
+- Amino acid metabolism
+- Lymphomas
+---

@@ -1,0 +1,32 @@
+---
+figid: PMC12851831__nihms-2129767-f0005
+pmcid: PMC12851831
+image_filename: jpg
+figure_link: /pmc/articles/PMC12851831/figure/F4/
+number: Figure 4.
+figure_title: Protein co-expression network analysis of the PHG proteomics in the
+  MSBB
+caption: (A) The global protein co-expression network highlighting the top hierarchical
+  modules.(B) Circos plot of the 30 top-ranked modules. Track 1 represents the top
+  30 modules in the descendant order of the relevance to AD. Track 2 denotes the relevance
+  scores of the modules computed as the sum of the adjusted p values of the DEP signatures
+  shown in tracks 3–21.(C) Cell-type specificity of the protein modules based on the
+  most enriched brain cell-type marker gene signature.58 Highlighted are the modules
+  with the best enrichment FDR less than 0.05.(D) Major GO pathways associated with
+  the MEGENA modules (FDR < 0.05).(E) The MEGENA subnetwork for M3. Each node circle
+  was divided into four sections. The left and right half circles represent protein
+  and gene differential expression statuses with respect to CDR and CERAD, respectively.
+  NA means that there is no matched DEG. KDPs are highlighted as large nodes.See also
+  Figure S3 and Table S4, pages 1–6
+article_title: Multiscale proteomic modeling reveals protein networks driving Alzheimer’s
+  disease pathogenesis
+citation: Erming Wang, et al. Cell. 2025 Oct 30;188(22).
+year: '2025'
+pub_date: '2025-10-30'
+epub_date: 2025-9-25
+doi: 10.1016/j.cell.2025.08.038
+journal_title: Cell
+journal_nlm_ta: Cell
+publisher_name: .na.character
+keywords: []
+---

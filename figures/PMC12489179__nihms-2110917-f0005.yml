@@ -1,0 +1,52 @@
+---
+figid: PMC12489179__nihms-2110917-f0005
+pmcid: PMC12489179
+image_filename: jpg
+figure_link: /pmc/articles/PMC12489179/figure/F5/
+number: 'Figure 5:'
+figure_title: Mgat5 KO glycoengineered T cells present an effector function phenotype
+  with increased cytotoxicity, promoting tumor killing in vivo
+caption: 'A) Schematic representation of the experimental design: Mgat5 KO Glycoengineered
+  OT-I T cells were adoptive transferred in MC38-OVA-bearing mice and 1) tumor growth
+  and survival were assessed over time and 2) tumor infiltrated lymphocytes (TILs)
+  were isolated after 20 days of tumor growth. B) Tumor growth curves and C) overall
+  survival of Mgat5 KO Glycoengineered OT-I T cells comparing to non-target cells
+  (NC) and PBS. D) IFNγ and TNFα expression on OT-I TILs upon SIINFEKL restimulation
+  for 5 hours. Representative flow cytometry plots with a gating on IFNγ and TNFα
+  percentage of cells among live OT-I TILs are shown (n=13 for NC vs. n=15 for Magt5
+  KO). E) Percentage of GzB-producing OT-I TILs upon SIINFEKL restimulation for 5
+  hours. Representative flow cytometry plots with a gating on GzB percentage of cells
+  among live OT-I TILs are shown (n=13 for NC vs. n=15 for Magt5 KO). F) PD1 and Tim3
+  expression. Representative flow cytometry plots with a gating on PD1 and Tim3 percentage
+  of cells among live OT-I TILs are shown (n=16 for NC vs. n=18 for Magt5 KO). G)
+  Percentage of CD39 expressing OT-I TILs and representative flow cytometry plots
+  with a gating on CD39 percentage of cells among live OT-I TILs (n=16 for NC vs.
+  n=18 for Magt5 KO). H) Volcano plot depicting the differential expressed genes in
+  OT-I TILs NC vs. Magt5 KO. I) Heatmap from RNA sequencing of NC and Mgat5 KO OT-I
+  TILs, regarding the expression of cellular respiration; T cell effector functions
+  and T cell memory/ stemness related genes. J) Pathway analysis of gene sets enriched
+  in Mgat5 KO OT-I TILs. Data represent three (B-E) or four independent experiments
+  (F-G). Two-way ANOVA with uncorrected Fisher’s LSD test: (B) and (D); Unpaired t-test:
+  (E) - (G); *, p < 0.05; **, p < 0.01; ***, p < 0.001 and ****, p < 0.0001; error
+  bars represent SEM of different biological samples. See also Figure S5'
+article_title: Reprogramming CD8+ T-cell branched N-glycosylation limits exhaustion,
+  enhancing cytotoxicity and tumor killing
+citation: Catarina M. Azevedo, et al. Cancer Immunol Res. 2025 Oct 01;13(10).
+year: '2025'
+pub_date: '2025-10-01'
+epub_date: '2025-10-01'
+doi: 10.1158/2326-6066.CIR-25-0313
+journal_title: Cancer immunology research
+journal_nlm_ta: Cancer Immunol Res
+publisher_name: .na.character
+keywords:
+- T cell
+- N-glycosylation
+- branched N-glycans
+- MGAT5
+- Tumor microenvironment
+- T cell immune response
+- T cell exhaustion
+- Immunotherapy
+- CAR-T cells
+---

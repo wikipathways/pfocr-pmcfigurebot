@@ -1,0 +1,55 @@
+---
+figid: PMC12486407__thnov15p9819g004
+pmcid: PMC12486407
+image_filename: jpg
+figure_link: /pmc/articles/PMC12486407/figure/F4/
+number: Figure 4
+figure_title: ECs endows non-GSCs with stemness owing to transcriptional activation
+  of GLI1 by AKT/NF-κB signaling pathway.
+caption: 'ECs endows non-GSCs with stemness owing to transcriptional activation of
+  GLI1 by AKT/NF-κB signaling pathway. (A) Western blot assays were conducted to evaluate
+  the expression levels of GLI1, N1ICD, and β-catenin in GBM cells, both in isolation
+  and following treatment with SDF-1α, utilizing nuclear-cytoplasmic extraction methods.
+  (B) A heatmap depicting the single-sample gene set enrichment analysis (ssGSEA)
+  scores of stemness-related gene sets was generated, categorized by the proximity
+  of glioma cells to blood vessels (E-MTAB-6882). (C) Western blot assays assessed
+  the expression of GLI1, CD133, OCT4, SOX2, and NANOG in GBM cells treated with either
+  SDF-1α (100 ng/mL) /GANT61 (5 μM) alone or in combination. (D) The expression of
+  GLI1, CD133, OCT4, SOX2, and NANOG was evaluated in GBM cells treated with SDF-1α
+  (100 ng/mL) /shGLI1, both independently and together. (E-F) Limiting dilution sphere-forming
+  assays were performed on ECs co-cultured with control GBM cells, treated with GANT61
+  (5 μM) or not, alongside representative images of tumor spheres. (G) Western blot
+  assays tested the expression levels of GLI1, p-AKT, AKT, and NFKB1 in GBM cells,
+  both alone and following treatment with SDF-1α (100 ng/mL), with or without AMD3100
+  (10 μM). (H) GSEA plots illustrated the enrichment results of the Hedgehog-GLI gene
+  set in control GBM cells compared to GBM cells with NFKB1 knockdown. (I) Western
+  blot assays evaluated the expression of GLI1 in SDF-1α-treated GBM cells, with or
+  without GSK690693 (2 μM)/QNZ (100 nM). (J) The expression levels of GLI1, CD133,
+  OCT4, SOX2, and NANOG were assessed in GBM cells treated with SDF-1α (100 ng/mL)/shAKT,
+  both independently and in combination. (K) Western blot assays evaluated the expression
+  of GLI1, CD133, OCT4, SOX2, and NANOG in GBM cells treated with SDF-1α (100 ng/mL)/shNFKB1,
+  both alone and in combination. (L) The binding site of NFKB1 on the promoter region
+  of GLI1 was identified through analysis of the JASPAR database, and luciferase reporter
+  assays were conducted to test the transcriptional activation of GLI1 by NFKB1. (M)
+  qRT-PCR assays assessed the expression of GLI1 in NFKB1-transfected GBM cells compared
+  to control cells. (N) ChIP assays confirmed that NFKB1 directly binds to the promoter
+  region of GLI1. Data are means ± SD. ns: no significance; **, P < 0.01; ***, P <
+  0.001'
+article_title: Endothelial cell-derived SDF-1α elicits stemness traits of glioblastoma
+  via dual-regulation of GLI1
+citation: Ye Yuan, et al. Theranostics. 2025;15(18).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025-9-8
+doi: 10.7150/thno.108843
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+keywords:
+- glioma stem cell
+- SDF-1α
+- GLI1
+- perivascular niche
+- cell-cell interaction
+- stemness regulation.
+---

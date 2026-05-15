@@ -1,0 +1,35 @@
+---
+figid: PMC12154774__nihpp-2025.05.29.656912v2-f0003
+pmcid: PMC12154774
+image_filename: jpg
+figure_link: /pmc/articles/PMC12154774/figure/F3/
+number: Fig. 3.
+figure_title: Regulatory network and pathway dynamics underlying LC activation and
+  migration
+caption: 'a. Heatmap generated using the SCENIC tool, where red indicates high activity
+  and blue indicates low activity by z-score of gene regulatory networks associated
+  with specific transcription factors. b. Dot plots showing the relative expression
+  of key genes during the activation and migration of LCs. Dot size reflects the proportion
+  of cells expressing the gene, while color intensity represents expression levels.
+  c. Pathway enrichment analysis using the SCPA package. Red indicates high pathway
+  activity, and blue indicates low activity. Prefixes before pathway names denote
+  the source database: H – Hallmarks, B – GO: Biological Processes, M – GO: Molecular
+  Functions, C – GO: Cellular Components, R – Reactome, W – WikiPathways, and K –
+  KEGG'
+article_title: An intermediate activation state primes Langerhans cell migration from
+  the epidermis
+citation: Artem Kiselev, et al. bioRxiv. 2025 Sep 17;NA(NA).
+year: '2025'
+pub_date: 2025-9-17
+epub_date: 2025-9-17
+doi: 10.1101/2025.05.29.656912
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Langerhans cells
+- Single-Cell RNA Sequencing
+- Activation
+- Wound
+- Complement cascade
+---

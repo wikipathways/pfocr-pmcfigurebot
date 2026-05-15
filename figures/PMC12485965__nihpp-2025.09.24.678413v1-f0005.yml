@@ -1,0 +1,46 @@
+---
+figid: PMC12485965__nihpp-2025.09.24.678413v1-f0005
+pmcid: PMC12485965
+image_filename: jpg
+figure_link: /pmc/articles/PMC12485965/figure/F5/
+number: Figure 5.
+figure_title: Single-cell transcriptomics of non-classical monocytes shows multiple
+  alterations driven by key cytokine signaling pathways including TNF, CCL2, and IFNγ.
+caption: 'Single-cell transcriptomics of non-classical monocytes shows multiple alterations
+  driven by key cytokine signaling pathways including TNF, CCL2, and IFNγ. (A) UMAP
+  of non-classical monocytes (cluster 13) within the single-cell data set. (B) Volcano
+  plot highlighting some of the differentially expressed genes in GBS patients compared
+  to healthy controls. (C) Top 5 significantly enriched pathways as determined by
+  PANTHER gene set enrichment analysis of the differentially expressed genes shows
+  angiogenesis, blood coagulation (which included complement-associated genes), JAK/STAT
+  signaling, CCKR signaling, and IFNγ signaling processes. (D) Analysis of the top
+  10 upstream regulators with consistent differentially expressed downstream products
+  shows TNF as the top predicted regulator. TNF, CRP, and CCL2 all reached statistical
+  significance (P < 0.05). (E) Chord plot shows the differentially expressed genes
+  in non-classical monocytes predicted to be regulated by TNF, CCL2, and CRP. (F)
+  The directionality and predicted mechanisms of TNF on differentially expressed genes.
+  CCL2: C-C chemokine ligand 2; CCKR: cholecystokinin receptor; IFNγ: interferon-gamma;
+  JAK: Janus kinase; STAT: signal transducer and activator of transcription; TNF:
+  tumor necrosis factor'
+article_title: Peripheral nerve-targeting and pain-promoting transcriptomic signatures
+  in early Guillain-Barré syndrome
+citation: Jayden A. O’Brien, et al. bioRxiv. 2025 Sep 25;NA(NA).
+year: '2025'
+pub_date: 2025-9-25
+epub_date: 2025-9-25
+doi: 10.1101/2025.09.24.678413
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- acute inflammatory demyelinating polyradiculoneuropathy
+- CCL4
+- Guillain-Barré syndrome
+- inflammatory cytokines
+- interactome
+- intermediate monocytes
+- mononuclear cells
+- neuropathic pain
+- T-cell dysregulation
+- transcriptomics
+---

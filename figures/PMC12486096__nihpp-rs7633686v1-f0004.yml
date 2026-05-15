@@ -1,0 +1,51 @@
+---
+figid: PMC12486096__nihpp-rs7633686v1-f0004
+pmcid: PMC12486096
+image_filename: jpg
+figure_link: /pmc/articles/PMC12486096/figure/F4/
+number: 'Figure 4:'
+figure_title: B-cell depletion fails to abrogate myeloid activation and CD8+ T-cell
+  related cytotoxicity in PRL-positive cases, and new predicted targets
+caption: 'a) Upset plot demonstrating protein changes in the serum across B-cell-depleted
+  versus PRL-negative and PRL-positive versus PRL-negative comparisons. The concordantly
+  enriched or depleted proteins across the comparisons represent PRL-related pathology
+  that remains unaddressed by B-cell depletion.b) Gene ontology (GO) terms for the
+  concordantly enriched proteins in serum across the two comparisons: (1) B-cell-depleted
+  versus PRL-negative; and (2) PRL-positive versus PRL-negative cases.c) Heatmap demonstrating
+  Z-score enrichment of canonical pathways across CSF myeloid subclusters for DEG
+  across B-cell-depleted (all PRL-positive) vs. PRL-negative and PRL-positive vs.
+  PRL-negative comparisons. The heatmaps show concordant and discordant pathways between
+  the two comparisons. Concordant pathways may reflect PRL-related pathology unaccounted
+  for by B-cell depletion. See Extended Figure 17 for Z-score enrichment of pathways
+  in CSF and peripheral lymphoid and myeloid cells for similar comparisons.d) Summary
+  of Z-score enrichment of T-cell-related pathways across blood (left panel) and CSF
+  lymphoid (right panel) cell clusters for the DEG across the comparisons shown (refer
+  to Extended Figure 17E–H)e) From left to right: (1) Schematic showing the application
+  of in silico perturbation strategy involving predicted upstream regulators driving
+  PRL-pertinent immune responses (see Methods and Extended Figure 18), starting from
+  the PRL-positive immune cells; (2) PCA plot and corresponding heatmap of the simulated
+  distances from comparing the gene regulatory network (GRN) of the original PRL-positive
+  state in CSF versus the GRN resulting from in-silico KO of the predicted regulator;
+  and (3) heatmap of the simulated distances comparing the GRN of PRL-positive immune
+  cells in blood vs. the same dataset following the gene knock-out (Extended Figure
+  19A shows the corresponding PCA plot).f) Venn diagram showing the significantly
+  altered genes by in silico CD20-depletion, in silico JAK2, MYD88, TYK2, and RELA
+  KOs. Accompanying are the list of genes that remain unaffected by in silico and
+  in vivo anti-CD20-mediated B-cell depletion strategies, are contributory toward
+  PRL-pathology, and might potentially be perturbed by the gene knock-out. Gene-set
+  enrichment analysis (GSEA) of the significantly altered and ranked genes was performed
+  (Supplementary File 7).g) In silico cell depletions from PRL-positive immune network
+  of CSF, showing TYK2-, MYD88-, RELA-, and JAK2-positive cell-depletion strategies
+  for abrogating PRL-related chronic neuroinflammation'
+article_title: Maintenance of chronic neuroinflammation in multiple sclerosis via
+  interferon signaling and CD8 T-cell-mediated cytotoxicity
+citation: Syed Ali Raza, et al. Res Sq. 2025 Sep 25;NA(NA).
+year: '2025'
+pub_date: 2025-9-25
+epub_date: 2025-9-25
+doi: 10.21203/rs.3.rs-7633686/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords: []
+---

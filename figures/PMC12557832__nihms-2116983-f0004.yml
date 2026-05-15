@@ -1,0 +1,37 @@
+---
+figid: PMC12557832__nihms-2116983-f0004
+pmcid: PMC12557832
+image_filename: jpg
+figure_link: /pmc/articles/PMC12557832/figure/F4/
+number: Fig. 4.
+figure_title: 'Ingenuity pathway analysis (IPA): A.'
+caption: 'Ingenuity pathway analysis (IPA): A. A. Bar chart of significant diseases
+  and disorders observed in cord blood (CB) samples. The Y-axis represents −log (P-value),
+  with a threshold value of 1.5. Diseases and disorders marked within the red box
+  indicate findings similar to those reported in our previous cohort from the 45-month
+  study group (Mondal et al., 2022). B. Network of Autophagy (predicted activation).
+  C. Network of cell proliferation in carcinoma cell lines (predicted activation).
+  D. Network of Endocytosis (predicted activation). The construction of the network
+  relied on information stored in the Ingenuity Pathways Knowledge Base (IPKB), along
+  with actual expression data. Connections between differentially expressed genes
+  were analyzed, focusing on those exhibiting a fold change of ≥ 1.5 and p-value <
+  0.05. Genes that are upregulated are represented by geometric figures in red, while
+  downregulated genes are depicted in green. The intensity of the red and green colors
+  reflects the degree of up- or downregulation, respectively, in the expression dataset'
+article_title: 'Exploring the associations between prenatal PCB exposures and gene
+  expression: Observations from a study of newborn Slovak infants'
+citation: Amara Saleem, et al. Ecotoxicol Environ Saf. 2025 Oct 01;304(NA).
+year: '2025'
+pub_date: '2025-10-01'
+epub_date: 2025-9-20
+doi: 10.1016/j.ecoenv.2025.119059
+journal_title: Ecotoxicology and environmental safety
+journal_nlm_ta: Ecotoxicol Environ Saf
+publisher_name: .na.character
+keywords:
+- Polychlorinated Biphenyls (PCBs)
+- Gene Expression
+- Exposures
+- New-Born Children
+- Slovakia
+---

@@ -1,0 +1,52 @@
+---
+figid: PMC12857809__nihms-2134457-f0007
+pmcid: PMC12857809
+image_filename: jpg
+figure_link: /pmc/articles/PMC12857809/figure/F6/
+number: Figure 6.
+figure_title: Spatial transcriptomics identifies of IMM-EPI remodeling and associated
+  pathways in CRSwNP
+caption: (A) PCA of EPI regions using top 500 variable genes, demonstrating distinct
+  clustering of control, CRSsNP, and CRSwNP samples. The first two principal components
+  and their eigenvalues are shown, accounting for 15.38% and 11.77% of the variance.
+  Samples are colored based on the origin of tissue types.(B) Differential gene expression
+  analysis of EPI regions comparing CRSsNP and CRSwNP, with significant (∣fold change
+  log2FC∣ > 1.5) genes highlighted in the volcano plot in red.(C) REACTOME pathway
+  analysis revealing enrichment of GPCR signaling, L-R interactions, and keratinization
+  pathways in CRSwNP epithelium, while antigen presentation and metabolic pathways
+  are enriched in CRSsNP.(D) Projection of EPI ROIs onto the basal cell trajectory
+  space, colored by tissue type (top) and cell fate (bottom), demonstrating conservation
+  of the developmental trajectories identified in single-cell analysis.(E) Quantification
+  of cell fate distributions across samples, showing enrichment of IMM remodeling
+  fate in CRSwNP.(F) Barplot comparing IMM remodeling signature scores across control,
+  CRSsNP, and CRSwNP EPI regions, confirming increased remodeling in CRSwNP, using
+  a two-sided Wilcoxon test. Boxes indicate interquartile range (25th–75th), with
+  the lines indicating the median.(G) Heatmaps showing co-expressed gene programs
+  between IMM and EPI regions in CRSsNP (left) and CRSwNP (right) samples, with functional
+  pathway enrichment analysis below highlighting differences in IMM and tissue remodeling
+  processes.(H) Dot plot analysis of L-R pairs mediating EPI-IMM communication, showing
+  enrichment of type 2 inflammatory signaling specifically in CRSwNP. Interactions
+  are grouped by functional categories (chemokines, cytokines, ECM-receptor interactions,
+  and prostaglandin signaling).(I) Spatial visualization using Delaunay triangulation
+  showing organization of EPI (magenta) and IMM (green) cells in CRSwNP tissue, with
+  cellular interactions indicated by edges. Each dot represents an individual cell,
+  and the edges between them indicate a proximity of 50 μm. Edges connecting cells
+  within the same type are colored to match the nodes, while edges spanning across
+  different cell types are shown in blue.(J) Quantification of geometric interaction
+  scores between EPI and IMM cells, demonstrating increased spatial association in
+  CRSwNP, compared with control and CRSsNP samples. Statistical significance was assessed
+  using a two-sided Wilcoxon rank-sum test, with p values adjusted via Bonferroni
+  correction. Boxes indicate interquartile range (25th–75th), with the lines indicating
+  the median.See also Figure S6
+article_title: Multi-scaled transcriptomics of chronically inflamed nasal epithelium
+  reveals immune-epithelial dynamics and tissue remodeling in nasal polyp formation
+citation: Guanrui Liao, et al. Immunity. 2025 Oct 14;58(10).
+year: '2025'
+pub_date: '2025-10-14'
+epub_date: 2025-9-12
+doi: 10.1016/j.immuni.2025.08.009
+journal_title: Immunity
+journal_nlm_ta: Immunity
+publisher_name: .na.character
+keywords: []
+---

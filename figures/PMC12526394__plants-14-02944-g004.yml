@@ -1,0 +1,35 @@
+---
+figid: PMC12526394__plants-14-02944-g004
+pmcid: PMC12526394
+image_filename: jpg
+figure_link: /pmc/articles/PMC12526394/figure/F4/
+number: Figure 4
+figure_title: Differential gene expression analysis and functional enrichment results.
+caption: Differential gene expression analysis and functional enrichment results.
+  (A) Bar chart showing the number of upregulated (red), downregulated (blue), and
+  non-differentially expressed (brown) genes in fuhua30 and fuhua23. (B) Volcano plot
+  illustrating the distribution of differentially expressed genes. The x-axis represents
+  log2(fold change), and the y-axis represents −log10(FDR). Red points indicate upregulated
+  genes, blue points indicate downregulated genes, and green points indicate non-significant
+  genes. (C) Go pathway enrichment bubble plot. The x-axis represents the Rich Factor,
+  and the y-axis lists the Go pathways. Bubble size corresponds to the number of genes,
+  and color indicates the Q-value. (D) Sequence alignment of COLD1a, COLD1b, and Rice
+  COLD1 proteins generated using sequences retrieved from UniProt, aligned with ClustalW,
+  and visualized with ESPript
+article_title: The Impact of Storage Conditions on Peanut Seed Quality, Growth, and
+  Yield
+citation: Puxiang Shi, et al. Plants (Basel). 2025 Oct;14(19).
+year: '2025'
+pub_date: 2025-10-
+epub_date: 2025-9-23
+doi: 10.3390/plants14192944
+journal_title: Plants
+journal_nlm_ta: Plants (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- peanut
+- seed quality
+- storage conditions
+- cold stress
+- yield
+---

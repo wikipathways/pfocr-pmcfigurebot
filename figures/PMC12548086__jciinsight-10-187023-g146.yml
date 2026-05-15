@@ -1,0 +1,40 @@
+---
+figid: PMC12548086__jciinsight-10-187023-g146
+pmcid: PMC12548086
+image_filename: jpg
+figure_link: /pmc/articles/PMC12548086/figure/F5/
+number: Figure 5
+figure_title: 'Transcriptome data analysis of PM2.5-exposed BAT: differential expression
+  and associated functional analyses'
+caption: '(A) PCA plot of biological replicates from FA (n = 4) and PM2.5 (n = 4)
+  in the transcriptome data of BAT. (B) Hierarchical clustering and heatmap plot of
+  statistically significant differentially expressed genes (DEGs: 663, of which 409
+  are upregulated and 269 are downregulated) in PM2.5-exposed BAT. (C) GSEA of transcriptome
+  data in specific pathways of interest. Left: ROS and Glutathione Metabolism. Middle:
+  Circadian Rhythm. Right: BAT Metabolism. Red: upregulated; Blue: downregulated in
+  PM2.5. NES, normalized enrichment score. Most of the genes in these pathways were
+  downregulated. (D–G) GO and KEGG pathways of DEGs by overrepresentation analysis
+  (ORA) and GSEA. (D) Dot plot of top regulated KEGG pathways of DEGs analyzed by
+  ORA (left) and GSEA (right). (E) Tree plot views of significant (ORA enriched) top
+  regulated GO terms. Left: Upregulated GO terms. Right: Downregulated GO terms. (F)
+  Gene-concept network of top KEGG pathways (smallest pathways’ P values from B) and
+  associated genes in DEGs. Left: ORA. Right: GSEA. (G) Enrichment map of top KEGG
+  pathways in DEGs. Left: ORA. Right: GSEA. The thickness of an edge between any 2
+  KEGG pathways is proportional to the overlap between the 2 pathways'
+article_title: Air pollution modulates brown adipose tissue function through epigenetic
+  regulation by HDAC9 and KDM2B
+citation: Rengasamy Palanivel, et al. JCI Insight. 2025 Sep 23;10(18).
+year: '2025'
+pub_date: 2025-9-23
+epub_date: 2025-9-23
+doi: 10.1172/jci.insight.187023
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Cell biology
+- Metabolism
+- Adipose tissue
+- Epigenetics
+- Glucose metabolism
+---

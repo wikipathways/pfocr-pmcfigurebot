@@ -1,0 +1,43 @@
+---
+figid: PMC12857809__nihms-2134457-f0004
+pmcid: PMC12857809
+image_filename: jpg
+figure_link: /pmc/articles/PMC12857809/figure/F3/
+number: Figure 3.
+figure_title: Tuft cells and other EPI populations mediate IMM cell recruitment in
+  CRSwNP
+caption: (A) UMAP of 21,833 EPI cells including basal, ciliated, cycling basal, goblet,
+  tuft, and other specialized types.(B) Correlation heatmap of IMM and EPI cell abundances.
+  The black box highlights a key cluster of correlated populations.(C) Quantification
+  of cell populations significantly enriched in CRSwNP NPs, showing increased frequencies
+  of tuft cells, cycling basal cells, and suprabasal cells, compared with control
+  and CRSsNP samples. Statistical significance was determined using two-sided Wilcoxon
+  tests. Bars represent the data range, with the lines indicating the median.(D) Quantification
+  of cell populations depleted in CRSwNP NPs, demonstrating reduced frequencies of
+  FOXJ1low ciliated cells, mucous cells, and serous cells.(E) Volcano plot showing
+  DEGs in tuft cells between CRSwNP and CRSsNP conditions. Red dots indicate significantly
+  altered genes with ∣logFC∣ > 1 and expressing percentage (pct) > 0.25.(F) Pathway
+  enrichment analysis of genes upregulated in CRSwNP tuft cells, highlighting prostaglandin
+  synthesis and regulation as the top enriched pathway.(G) Violin plots showing expression
+  levels of prostaglandin pathway genes ALOX5 and PTGS1 across control and CRS samples.(H)
+  Heatmap depicting predicted L-R interactions between tuft cells and CD4+ T cell
+  subsets, focusing on ALOX5/PTGS1 and PTGDR2 signaling.(I) Violin plots comparing
+  tuft cell spatial signature scores between CRSwNP and control samples in PanCK+
+  EPI regions from spatial transcriptomics data. Boxes indicate interquartile range
+  (25th–75th), with the dot indicating the median.(J) Scatterplot demonstrating the
+  spatial correlation between tuft cell and Th2 cell signature scores, suggesting
+  functional interaction in CRSwNP. The brown line shows the regression fit; the gray
+  band indicates the 95% confidence interval (CI). Regression indices and p values
+  shown on the plot.See also Figure S3
+article_title: Multi-scaled transcriptomics of chronically inflamed nasal epithelium
+  reveals immune-epithelial dynamics and tissue remodeling in nasal polyp formation
+citation: Guanrui Liao, et al. Immunity. 2025 Oct 14;58(10).
+year: '2025'
+pub_date: '2025-10-14'
+epub_date: 2025-9-12
+doi: 10.1016/j.immuni.2025.08.009
+journal_title: Immunity
+journal_nlm_ta: Immunity
+publisher_name: .na.character
+keywords: []
+---

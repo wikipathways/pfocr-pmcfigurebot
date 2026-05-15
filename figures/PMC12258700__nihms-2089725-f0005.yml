@@ -1,0 +1,44 @@
+---
+figid: PMC12258700__nihms-2089725-f0005
+pmcid: PMC12258700
+image_filename: jpg
+figure_link: /pmc/articles/PMC12258700/figure/F5/
+number: Fig. 5.
+figure_title: The beneficial effect of NK cell depletion in immunotherapy is mediated
+  by cytokine signaling
+caption: '(A) Differentially expressed genes between total CD8+ T cells from control
+  and α-NK1.1 antibody-treated mice tumor samples were subjected to the REACTOME pathway
+  analysis tool. (B) Differentially expressed genes between cluster 5 and cluster
+  1 were subjected to the REACTOME pathway analysis tool. (C-D) Representative flow
+  cytometry plot showing GZMB and TIM3 expression levels in tumor-infiltrating CD8+
+  T cells from indicated conditions and a corresponding quantification (n=5). (E)
+  Quantification of the IFN-γ+ TNF-α+ CD8+ T cell population in a co-culture experiment.
+  CD8+ T cells were co-cultured with TANK and high-dose IL-2, and IFN-α was added
+  (n=5). (F) Quantification of the PD-1+ TIM3+ CD8+ T cell population in a co-culture
+  experiment. CD8+ T cells were cultured without TANK or co-cultured with TANK and
+  receptor-blocked TANK (RB-TANK) (n=5). (G) Tumor growth curve of control, α-PD-1,
+  α-NK1.1, and α-PD-1 + α-NK1.1 antibody-treated WT and KO mice groups (n=5–12) (WT;
+  E8iCre-Ifnar1fl/fl, KO; E8iCre+Ifnar1fl/fl). Key comparison statistics are provided.
+  (H) Corresponding survival graph of indicated mice groups. Key comparison statistics
+  are provided. (I) Schematic of differentiation program used for computational modeling.
+  (J) Computational modeling showing fits to indicated conditions. Parameters shown
+  in the schematic diagram were estimated by fitting a part of the data and used for
+  generating model prediction curves outside model training. Predicted curves were
+  overlaid with the experimental datasets.Data represent mean ± s.e.m. To evaluate
+  statistical significance, Tukey’s multiple comparison test was performed to compare
+  multiple variables (D-F), LMM was utilized for the tumor growth curve (G), and the
+  log-rank test with Bonferroni adjustment was performed to compare survival curves
+  (H). *: P<0.05, **: P<0.01, ***: P<0.001'
+article_title: Tumor-associated natural killer cells regulate distinct CD8+ T cell
+  differentiation program in cancer and contribute to resistance against immune checkpoint
+  blockers
+citation: No-Joon Song, et al. Cancer Discov. 2025 Sep 04;15(9).
+year: '2025'
+pub_date: 2025-9-04
+epub_date: 2025-9-04
+doi: 10.1158/2159-8290.CD-24-1232
+journal_title: Cancer discovery
+journal_nlm_ta: Cancer Discov
+publisher_name: .na.character
+keywords: []
+---

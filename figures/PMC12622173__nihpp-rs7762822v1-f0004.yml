@@ -1,0 +1,48 @@
+---
+figid: PMC12622173__nihpp-rs7762822v1-f0004
+pmcid: PMC12622173
+image_filename: jpg
+figure_link: /pmc/articles/PMC12622173/figure/F4/
+number: Figure 4
+figure_title: Distinct and shared human and mouse brain myeloid cell signatures
+caption: '(a) Schematic overview comparing human primary and xenotransplanted samples
+  to a murine dataset26.(b) Principal Component Analysis (PCA) of human and mouse
+  samples based on gene expression profiles. Mouse samples include WT MG (wild-type
+  microglia), ICT MG (intracerebral transplanted microglia), ICT MNC (intracerebral
+  transplanted monocytes), and ICT CD34 (intracerebral transplanted bone marrow).(c)
+  Scatter plot visualizing differential gene expression in mouse CD34+ and monocytes-derived
+  brain myeloid cells represented by log10 counts. Five genes—ZBTB16, HSPA1B, CD93,
+  TTR, and SPARC—were significantly upregulated in mouse CD34+ cells. In contrast,
+  six genes—KDM5D, UTY, EIF2S3B, DDX3Y, CMPK1, and RNF149—were upregulated in mouse
+  monocytes-derived brain myeloid cells.(d) Transcript per million (TPM) values of
+  TMEM119 are shown across human microglia (MG), xenografted microglia (xMG), CD34+
+  cells, and mouse MG and CD34+ cells. Each group includes at least six biological
+  replicates (n ≥ 6).(e) Venn diagram overlap of genes upregulated in CD34+ and monocyte-derived
+  brain myeloid cells relative to primary microglia across human and mouse samples.
+  It reveals distinct and shared gene expression patterns. Log2Foldchange > 1 and
+  p-adj < 0.05.(f) Representative species specific and shared genes with high expression
+  in human or mouse CD34+ and monocyte-derived brain myeloid cells, as well as the
+  overlapping genes shared between human and mouse.(g) Metascape enrichment analysis
+  performed on the genes upregulated in CD34+ and monocyte-derived brain myeloid relative
+  to primary microglia that are human specific, murine specific, and shared overlapping
+  genes.(h) Heatmap of key differentially expressed genes between human and mouse
+  CD34+ and monocyte-derived brain myeloid cells. Human orthologs displayed, murine
+  orthologs: Ifit2, Ifit1, Ifit3, Isg15, Ifitm3, Mx1, Mx2, Oas1a, Oas3, Stat1, H2-Dmb1,
+  H2-Ab1, H2-Oa, H2-Aa.(i) Ingenuity Pathway Analysis (IPA) of the upstream regulators
+  of human-specific CD34+ and monocyte-derived brain myeloid cells.(j) RNAscope for
+  MS4A7in IBA1-positive human brain myeloid cells with quantification of MS4A7 intensity.
+  Scale bar = 15 μm.Statistical significance was determined using one-way ANOVA with
+  multiple comparison corrections. Significance levels are indicated as follows: *p
+  < 0.05, **p < 0.01, ***p < 0.001, ****p < 0.0001'
+article_title: Global human myeloid replacement with peripheral progenitors induces
+  interferonopathy and neurodegeneration
+citation: Jing Wang, et al. Res Sq. 2025 Oct 03;NA(NA).
+year: '2025'
+pub_date: '2025-10-03'
+epub_date: '2025-10-03'
+doi: 10.21203/rs.3.rs-7762822/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords: []
+---

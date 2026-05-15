@@ -1,0 +1,39 @@
+---
+figid: PMC12485691__nihpp-2025.09.23.678110v1-f0002
+pmcid: PMC12485691
+image_filename: jpg
+figure_link: /pmc/articles/PMC12485691/figure/F2/
+number: Figure 2.
+figure_title: Characterization of factor 8 functional enrichment and feature contributions
+caption: (a) Gene Set Enrichment Analysis of factor 8, showing the most significant
+  terms for each view. P-values were corrected using Benjamini-Hochberg (BH) method
+  to address multiple comparisons. Terms were selected based on the lowest adjusted
+  P values for each view. ‘GO’ and ‘Reactome’ comprise terms from Gene Ontology and
+  Reactome databases, respectively. ‘Modules’ include relevant co-expression protein
+  modules from 46. ‘Cell Types’ refers to subpopulations of cell lineages as determined
+  by 47. The color scale shows the normalized enrichment score (NES) direction and
+  strength from negative (blue) to positive (red). (*) = −log10 (adj. P < 0.05); (**)
+  = −log10 (adj. P < 0.01); (***) = −log10 (adj. P < 0.001). (b) Top five positive
+  and negative feature weights in each view. Weights are scaled to each view. Positive
+  weights indicate that the feature has higher levels in the cells with positive factor
+  values, and vice versa. Metabolites shown as ‘X –’ have not been characterized.
+  (c) Jitter plot showing genes with weights in each view scaled across all views
+  (cell types and metabolomics are not shown). Genes from selected pathways and with
+  an absolute weight greater than 0.3 are highlighted (colored by category)
+article_title: Integration of aged brain multi-omics reveals cross-system mechanisms
+  underlying Alzheimer’s disease heterogeneity
+citation: Lucas P Scheidemantel, et al. bioRxiv. 2025 Sep 23;45(4).
+year: '2025'
+pub_date: 2025-9-23
+epub_date: 2025-9-23
+doi: 10.1101/2025.09.23.678110
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Alzheimer’s disease
+- multi-omics integration
+- MOFA
+- molecular subtypes
+- biomarkers
+---

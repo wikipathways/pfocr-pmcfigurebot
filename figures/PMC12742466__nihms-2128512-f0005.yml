@@ -1,0 +1,32 @@
+---
+figid: PMC12742466__nihms-2128512-f0005
+pmcid: PMC12742466
+image_filename: jpg
+figure_link: /pmc/articles/PMC12742466/figure/F5/
+number: Fig. 5.
+figure_title: Untargeted tissue metabolomics in Klf9KI and Wt-Cre
+caption: A. Volcano plot showing differentially accumulated metabolites in 4-week
+  Klf9KI hearts compared to Wt-Cre (VIP > 1.5, |log2FC| > 0.5 and p < 0.05). B. Dot
+  plot of network analysis in perturbed metabolites. C. The graph shows differentially
+  accumulated metabolites from enriched metabolic pathways shown in (B). D. The graph
+  shows differentially regulated genes from selected metabolic pathways from RNAseq
+  results in 4-week-old Klf9KI and Wt-Cre hearts, which correlate with the enriched
+  metabolic pathways from the differential metabolites shown in (C). Metabolomics
+  data include n = 6 for the Wt-Cre group and n = 5 for the Klf9KI group
+article_title: Constitutive expression of cardiomyocyte Klf9 precipitates metabolic
+  dysfunction and spontaneous cardiomyopathy
+citation: Chandni Thakkar, et al. Cell Signal. 2025 Dec;136(NA).
+year: '2025'
+pub_date: 2025-12-
+epub_date: 2025-9-22
+doi: 10.1016/j.cellsig.2025.112146
+journal_title: Cellular signalling
+journal_nlm_ta: Cell Signal
+publisher_name: .na.character
+keywords:
+- Krüppel-like factor
+- Klf9
+- BTEB
+- Metabolic adaptations in cardiomyocytes
+- Klf9 knock-in
+---

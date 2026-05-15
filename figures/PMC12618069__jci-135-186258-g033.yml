@@ -1,0 +1,49 @@
+---
+figid: PMC12618069__jci-135-186258-g033
+pmcid: PMC12618069
+image_filename: jpg
+figure_link: /pmc/articles/PMC12618069/figure/F3/
+number: Figure 3
+figure_title: BCR/TLR9 costimulation highly induces BCAT1, which is essential for
+  αIgM/CpG but not CD40/IL-4–driven primary B cell mTORC1 activation, growth, and
+  survival
+caption: (A) Log2-normalized protein abundance from proteomic analysis of primary
+  B cells after 24-hour stimulation. BCAT1 protein levels are highlighted in red.
+  (B) BCAA metabolism schematic. Cytosolic BCAT1 and mitochondrial BCAT2 catalyze
+  reversible transamination of BCKA and BCAA. (C) Immunoblot of BCAT1, BCAT2, SLC7A5,
+  and DDX1 from whole-cell lysates (WCLs) of 24-hour stimulated B cells. DDX1 was
+  the load control. (D) Heatmap analysis of key BCAA pathway RNA, protein, and metabolite
+  z scores in 24-hour stimulated primary B cells. (E) CFSE analysis of primary B cells
+  electroporated with Cas9 ribonucleoprotein complexes with control or BCAT1 targeting
+  sgRNA, then stimulated for 5 days. (F) CFSE analysis of primary B cells treated
+  with vehicle or ERG245 (100 mM) and stimulated. (G) Mean ± SEM caspase-3/7 activity
+  of primary B cells with indicated Cas9 ribonucleoproteins after 48 hour stimulation.
+  P values calculated by 2-tailed paired Student’s t test. (H) Heatmap of selected
+  mTORC1 pathway target gene z scores, shown in vertical columns, in 24-hour stimulated
+  primary B cells. Metabolic enzymes upregulated by αIgM + CpG vs. CD40L + IL-4 stimulation
+  are highlighted. (I) Immunoblots of WCLs from 24-hour stimulated primary B cells
+  expressing indicated Cas9 ribonucleoproteins. (J) Immunoblot of WCLs from C57BL/6J
+  murine splenic B cells, harvested 48 hours after i.p. injection of PBS vehicle,
+  20 mg LPS + 250 mg αIgM, or 250 mg aCD40 antibody + 1 mg murine IL-4 in complex
+  with 10 mg anti–IL-4, with vehicle or 20 mg/kg ERG245. (K) Immunoblot of WCLs from
+  MD4 murine splenic B cells, harvested 48 hours after i.p. injection of PBS vehicle,
+  20 mg LPS + 10 mg HEL, or 250 mg aCD40 antibody + 1 mg IL-4 in complex with 10 mg
+  αIL-4, with vehicle or 20 mg/kg ERG245. Representative of n = 3 replicates (E, F,
+  and I–K). See also Supplemental Figure 4
+article_title: Multiomic analysis reveals a key BCAT1 role in mTOR activation by B
+  cell receptor and TLR9
+citation: Rui Guo, et al. J Clin Invest. 2025 Sep 9;135(22).
+year: '2025'
+pub_date: 2025-9-9
+epub_date: 2025-9-9
+doi: 10.1172/JCI186258
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Cell biology
+- Metabolism
+- Adaptive immunity
+- Amino acid metabolism
+- Lymphomas
+---

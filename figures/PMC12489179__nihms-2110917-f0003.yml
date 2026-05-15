@@ -1,0 +1,62 @@
+---
+figid: PMC12489179__nihms-2110917-f0003
+pmcid: PMC12489179
+image_filename: jpg
+figure_link: /pmc/articles/PMC12489179/figure/F3/
+number: 'Figure 3:'
+figure_title: Removal of β1,6-branched N-glycans is able to decrease exhaustion phenotypes
+  in T cells, increasing its activation
+caption: 'A) Schematic representation of the protocol performed for CRISPR/Cas9 KO.
+  Briefly, naïve OT-I T cells were cultured with αCD3/αCD28 and IL2. After 24h, Cas9
+  Nuclease V3 was mixed with sgRNA to form the RNP complex, CRISPR/Cas9 transfection
+  was performed and cells were expanded for 7 days before performing the experiments.
+  B) Schematic representation of the N-glycosylation pathway highlighting the synthesis
+  of complex branched N-glycans. C) L-PHA expression on non-target T cells (NC) vs.
+  Glycoengineered T cells (Mgat1 (n=5), Mgat2 (n=7) and Mgat5 KO (n=9)) and representative
+  histograms. D) PD1 and Tim3 expression. Representative flow cytometry plots with
+  a gating on PD1 and Tim3 percentage of cells among live CD8+ T cells are shown (n=4
+  for Mgat1 KO, n=6 for Mgat2 KO and n=8 for Mgat5 KO). E) Tox expression and F) Tcf1
+  expression on NC vs. Glycoengineered T cells (n=4/5 for Mgat1 KO, Mgat2 KO and n=4/6
+  for Mgat5 KO, respectively) and the respective representative histograms. G) Tbet
+  and Eomes expression. Representative flow cytometry plots with a gating on Tbet
+  and Eomes percentage of cells among live CD8+ T cells are shown (n=5 for Mgat1 KO,
+  n=4 for Mgat2 KO and n=6 for Mgat5 KO). H-I) seahorse metabolic assay with sequential
+  administration of oligomycin (O), FCCP (F), 2DG, and rotenone/antimycin A (R/A)
+  to measure H) oxygen consumption rate (OCR) and I) extracellular acidification rate
+  (ECAR) on NC vs. Glycoengineered T cells (n=4/group). J) CD69 expression after αCD3/αCD28
+  5 hours restimulation (n=4 for Mgat1 KO, n=6 for Mgat2 KO and n=8 for Mgat5 KO)
+  and representative histograms. K) CD69 expression on CD8+ T cells from Rag1CreMgat1fl/fl,
+  Rag1CreMgat2fl/fl and Mgat5 KO mice vs. the respective controls (n=5) upon 48h αCD3/αCD28
+  activation, as described in Figure S3C, and representative histograms. L) Percentage
+  of proliferative cells (CFSE) on Rag1CreMgat1fl/fl (n=3), Rag1CreMgat2fl/fl (n=3)
+  and Mgat5 KO mice (n=4) vs. the respective controls upon 48h αCD3/αCD28 activation.
+  M-P) On day 7, cells (NC vs. Glycoengineered CD8+ T cells) were restimulated with
+  αCD3/αCD28 for 1, 5, 15, 30 or 60 min. Western blotting was then conducted on lysates
+  from stimulated cells. M) Representative blots for all proteins are shown; with
+  quantification for N) p-ERK1; O) p-Zap70 and P) p-Plcγ (n=3/group). Repeated measures
+  One-way ANOVA with uncorrected Fisher’s LSD test: (C)-(F), (H)-(J); One-way ANOVA
+  with uncorrected Fisher’s LSD test: (K) and (L); Repeated measures Two-way ANOVA
+  with uncorrected Fisher’s LSD test: (G) and (N)-(P). *, p < 0.05; **, p < 0.01 and
+  ****, p < 0.0001; error bars represent SEM of different biological sample/ independent
+  experiments. See also Figure S3'
+article_title: Reprogramming CD8+ T-cell branched N-glycosylation limits exhaustion,
+  enhancing cytotoxicity and tumor killing
+citation: Catarina M. Azevedo, et al. Cancer Immunol Res. 2025 Oct 01;13(10).
+year: '2025'
+pub_date: '2025-10-01'
+epub_date: '2025-10-01'
+doi: 10.1158/2326-6066.CIR-25-0313
+journal_title: Cancer immunology research
+journal_nlm_ta: Cancer Immunol Res
+publisher_name: .na.character
+keywords:
+- T cell
+- N-glycosylation
+- branched N-glycans
+- MGAT5
+- Tumor microenvironment
+- T cell immune response
+- T cell exhaustion
+- Immunotherapy
+- CAR-T cells
+---

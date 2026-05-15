@@ -1,0 +1,37 @@
+---
+figid: PMC12524374__ijms-26-09298-g003
+pmcid: PMC12524374
+image_filename: jpg
+figure_link: /pmc/articles/PMC12524374/figure/F3/
+number: Figure 3
+figure_title: Biological Processes GO terms enrichment and The KEGG pathway analysis
+  for upregulated and downregulated genes.
+caption: 'Biological Processes GO terms enrichment and The KEGG pathway analysis for
+  upregulated and downregulated genes. (A) The most enriched Gene Ontology (GO) terms
+  for all differentially expressed genes (DEGs) are categorized into three primary
+  levels: biological process (BP), cellular component (CC), and molecular function
+  (MF). The GO enrichment results have been transformed into negative logarithm scores
+  to facilitate interpretation. (B) Enriched KEGG pathways were identified by analyzing
+  all differentially expressed genes (DEGs) across various developmental stages using
+  the Bioinformatics website (https://www.bioinformatics.com.cn, accessed on 15 June
+  2025). In the resulting figure, the columns and rows represent the enriched pathway
+  terms and the corresponding rich factor, respectively. The size of the circles indicates
+  the number of DEGs enriched within each specified KEGG pathway, while the color
+  coding reflects the q-value (Corrected p-value) from the enrichment tests'
+article_title: Study on the Molecular Mechanism of Arbuscular Mycorrhizal Symbiosis
+  Regulating Polysaccharide Synthesis in Dendrobium officinale
+citation: Jiadong Chen, et al. Int J Mol Sci. 2025 Oct;26(19).
+year: '2025'
+pub_date: 2025-10-
+epub_date: 2025-9-23
+doi: 10.3390/ijms26199298
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- Dendrobium officinale
+- mycorrhizal symbiosis
+- polysaccharide synthesis
+- expressed genes
+- glycosyltransferase
+---

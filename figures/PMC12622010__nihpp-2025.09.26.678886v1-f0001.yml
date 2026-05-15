@@ -1,0 +1,31 @@
+---
+figid: PMC12622010__nihpp-2025.09.26.678886v1-f0001
+pmcid: PMC12622010
+image_filename: jpg
+figure_link: /pmc/articles/PMC12622010/figure/F1/
+number: Figure 1.
+figure_title: Data Description and Exploratory Data Analysis
+caption: (a) Schematic overview of dataset and analyses performed. BMAC samples and
+  KL grades (OA severity) were obtained for 119 OA patients, and each sample was subjected
+  to scRNA-seq and LC-MS profiling, yielding cell type-specific transcriptomic profiles
+  and metabolomic profiles of each patient. These multi-omics data were analyzed to
+  produce metabolite-gene associations for each cell type, highlighting key genes,
+  metabolites and pathways, associating metabolites with cell types, and relating
+  multi-omics profiles to KL scores. (b) Boxplots representing proportions of 17 cell
+  types in BMAC samples across all patients. The cell types are sorted from left to
+  right in decreasing order of median abundance. (c, d) UMAP plots of batch-corrected
+  transcriptomics profiles (C) and batch-corrected metabolomics profiles (D). Each
+  point represents a patient sample and is colored according to the site (hospital)
+  where the sample was collected
+article_title: Multi-omics integration at cell type resolution uncovers gene-metabolite
+  mechanisms underlying osteoarthritis heterogeneity
+citation: Abhishek Ojha, et al. bioRxiv. 2025 Sep 29;NA(NA).
+year: '2025'
+pub_date: 2025-9-29
+epub_date: 2025-9-29
+doi: 10.1101/2025.09.26.678886
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

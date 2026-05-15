@@ -1,0 +1,45 @@
+---
+figid: PMC12709678__nihms-2115964-f0008
+pmcid: PMC12709678
+image_filename: jpg
+figure_link: /pmc/articles/PMC12709678/figure/F8/
+number: Figure 8.
+figure_title: Downregulation of COL8A1 Facilitates TNF-α-induced EndMT via NF-κB/Snail
+  Signaling
+caption: (A) Gene Set Enrichment Analysis (GSEA) bubble plot of bulk RNA-seq in HAECs
+  transfected with Control siRNA or COL8A1 siRNA for 24 hours without TNF-α treatment,
+  showing positively enriched pathways in the hallmark gene set collection.(B) GSEA
+  enrichment plot of the hallmark TNF-α signaling via NF-κB gene set, accompanied
+  by a heatmap illustrating differential expression of representative genes in this
+  pathway following COL8A1 knockdown.(C) Western blot analysis demonstrates the effect
+  of QNZ on the expression of p65 and its phosphorylated form, p-p65. Cells were pre-treated
+  with the NF-κB inhibitor QNZ before TNF-α stimulation, with GAPDH as the loading
+  control. Western blot images are shown alongside the quantification of normalized
+  p-p65 to total p65 (n = 3), and the values are expressed as mean±SEM.(D) Western
+  blot analysis shows the expression levels of Snail protein in COL8A1 or control
+  siRNA transfected cells, with or without TNF-α. GAPDH is used as an internal loading
+  control. Western blot images are shown alongside the quantification of normalized
+  Snail to GAPDH (n = 3), and the values are expressed as mean±SEM.(E) Western blot
+  analysis demonstrates the effect of QNZ on the expression of Snail. COL8A1 or control
+  siRNA transfected cells were pre-treated with the NF-κB inhibitor QNZ before TNF-α
+  stimulation, with GAPDH as the loading control. Western blot images are shown alongside
+  the quantification of normalized Snail to GAPDH (n = 3), and the values are expressed
+  as mean±SEM.Western blots presented in panels (C, D, and E) are representative examples
+  of 3 independent experiments
+article_title: COL8A1 Regulates Endothelial Phenotype in Inflammatory Endothelial-to-Mesenchymal
+  Transition
+citation: Qian Li, et al. Am J Physiol Heart Circ Physiol. 2025 Nov 01;329(5).
+year: '2025'
+pub_date: '2025-11-01'
+epub_date: '2025-10-03'
+doi: 10.1152/ajpheart.00339.2025
+journal_title: American journal of physiology. Heart and circulatory physiology
+journal_nlm_ta: Am J Physiol Heart Circ Physiol
+publisher_name: .na.character
+keywords:
+- collagen type VIII
+- Inflammation
+- Endothelial-to-mesenchymal transition
+- Tumor necrosis factor-α
+- COL8A1
+---

@@ -1,0 +1,44 @@
+---
+figid: PMC12486074__nihpp-rs7491382v1-f0004
+pmcid: PMC12486074
+image_filename: jpg
+figure_link: /pmc/articles/PMC12486074/figure/F4/
+number: 'Figure 4:'
+figure_title: Differential pathway gene expression in WT and fat-1 mice in response
+  to OIR at P17
+caption: '(A) Volcano plots of global response to OIR in WT (left) and fat-1 mice
+  (right). Highlighted are genes with maximal response in WT mice, with dampened or
+  not significant response in fat-1 mice. The x-axis represents log2 fold changes
+  between OIR and RA mice and has the same scale in both plots. The y-axis represents
+  -log10 adjusted p-values. Note the scale is different for both genotypes given the
+  more marked statistical significance in WT mice. (B) Functional enrichment results
+  of whole retina RNA sequencing. Significantly regulated genes in response to OIR
+  as compared to RA were strongly enriched in inflammation, angiogenesis, and microglial
+  activation pathways in wild type (WT) mice (left column in heatmap). These same
+  pathways are less significant in fat-1 mice (right column). (C) Differential regulation
+  of key pathway genes in response to OIR in WT and fat-1 mice. Shown are results
+  for genes that exhibited strong up-regulation in WT mice and dampened or no up-regulation
+  in fat-1 mice in response to OIR. Top: bar plot of log2 fold changes (y axis) in
+  OIR conditions as compared to RA for P17 mice in both genotypes. Genes are sorted
+  by increasing fold change in WT mice (x axis). Middle: position of genes annotated
+  in pathways significantly associated with OIR upregulation. Selected gene names
+  are shown below. Bottom: bar plot of WT vs. fat-1 log2 fold-change ratios'
+article_title: Polyunsaturated fatty acid balance modulates microglial state in a
+  murine model of oxygen-induced neovascularization
+citation: Esther S. Kim, et al. Res Sq. 2025 Sep 23;18(5).
+year: '2025'
+pub_date: 2025-9-23
+epub_date: 2025-9-23
+doi: 10.21203/rs.3.rs-7491382/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords:
+- retina
+- retinopathy of prematurity
+- oxygen-induced retinopathy
+- polyunsaturated fatty acids
+- angiogenesis
+- hypoxia
+- microglia
+---

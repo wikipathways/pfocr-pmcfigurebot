@@ -1,0 +1,32 @@
+---
+figid: PMC12564907__genes-16-01163-g005
+pmcid: PMC12564907
+image_filename: jpg
+figure_link: /pmc/articles/PMC12564907/figure/F5/
+number: Figure 5
+figure_title: Scatter plot of KEGG functional enrichment analysis for differentially
+  expressed genes between winged and wingless morphs of R.
+caption: 'Scatter plot of KEGG functional enrichment analysis for differentially expressed
+  genes between winged and wingless morphs of R. padi. The y-axis lists pathways,
+  while the x-axis plots enrichment significance (Rich Factor: DEGs in a pathway/total
+  annotated genes in that pathway). Points are colored by q-value (red = low q-value,
+  high significance) and sized by DEG count'
+article_title: 'Lipid Metabolism and Circadian Regulation in Wing Polyphenism of Rhopalosiphum
+  padi: Transcriptomic Validation of Key DEGs for Biocontrol'
+citation: Yan Zhang, et al. Genes (Basel). 2025 Oct;16(10).
+year: '2025'
+pub_date: 2025-10-
+epub_date: 2025-9-30
+doi: 10.3390/genes16101163
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- Rhopalosiphum padi
+- wing polyphenism
+- transcriptomics
+- lipid metabolism
+- circadian rhythm
+- energy allocation
+- RNAi-based biocontrol
+---

@@ -1,0 +1,54 @@
+---
+figid: PMC12764381__nihms-2113252-f0003
+pmcid: PMC12764381
+image_filename: jpg
+figure_link: /pmc/articles/PMC12764381/figure/F2/
+number: Figure 2.
+figure_title: HSPC-FOMA analyses
+caption: (A) Schematic of telomere length estimation from WGS data derived from ground
+  and spaceflight HSPC nanobioreactors. Raw FASTQ files were downloaded within Triton
+  shared computational cluster environment. Next, the GRCh38.d1.vd1 reference sequence
+  was used for the alignment of raw reads. Subsequently, following GATK4 best practice,
+  Telomerecat was employed for estimation of telomere length.(B) Bar graphs illustrating
+  the Telomerecat-estimated overall telomere length (in base pairs [bp]) of cells
+  that are derived from paired spaceflight and ground samples of SAK-109, SAK-252,
+  SAK-290, and SAK-291 upon their return.(C) Bar plots of mean telomere length estimates
+  (in bp) from the four replicates shown in (B). Bar plots represent the mean ± SEM.
+  Statistics reported using the Wilcoxon signed-rank test with p = 0.125.(D) Summary
+  of top expression differences (measured by limma p value) for telomere-associated
+  pathway genes curated from the Reactome pathways HAS-157579, HSA-171319, and HSA-171306.(E)
+  GSEA results for comparison of spaceflight (SAK-066, SAK-109, and SAK-252) and ground
+  (SAK-072, SAK-109, and SAK-252) RNA-seq samples using Reactome pathways as an ontological
+  database. NES, normalized enrichment score.(F) Bar plots of mitochondrial copy-number
+  estimates from the four replicates shown in (B).(G) (Top) Waterfall plot of top
+  30 genes (by logFC) in the significantly enriched (by GSEA) MitoCarta 3.0 s-tier
+  class categories. All genes are increased in the spaceflight samples. (Bottom) Heatmap
+  of all expressed genes in GSEA-enriched MitoCarta 3.0 top class categories. The
+  heatmap dendrogram shows that spaceflight and ground samples separate, and genes
+  are primarily increased in the spaceflight samples.(H) GSEA enrichment plot for
+  the comparison of ground and spaceflight RNA-seq samples shows the distribution
+  of the enrichment score (ES, green line) and the position of each gene in the set
+  across the gene ranks for mitochondrial translation (positive NES). Boxplot of the
+  significantly enriched GSEA pathway classes for mitochondrial translation showing
+  the top 5 genes and corresponding log fold changes.(I) GSEA enrichment plot for
+  the comparison of ground and spaceflight RNA-seq samples shows the distribution
+  of the ES (green line) and the position of each gene in the set across the gene
+  ranks for cell-cycle checkpoints (negative NES). Boxplot of the significantly enriched
+  GSEA pathway classes for cell-cycle checkpoints showing the top 5 genes and corresponding
+  log fold changes.(J) GSEA enrichment plot for the comparison of ground and spaceflight
+  RNA-seq samples shows the distribution of the ES (green line) and the position of
+  each gene in the set across the gene ranks for interferon signaling (negative NES).
+  Boxplot of the significantly enriched GSEA pathway classes for interferon signaling
+  showing the top 5 genes and corresponding log fold changes.See also Figure S2
+article_title: Nanobioreactor detection of space-associated hematopoietic stem and
+  progenitor cell aging
+citation: Jessica Pham, et al. Cell Stem Cell. 2025 Sep 04;32(9).
+year: '2025'
+pub_date: 2025-9-04
+epub_date: 2025-9-04
+doi: 10.1016/j.stem.2025.07.013
+journal_title: Cell stem cell
+journal_nlm_ta: Cell Stem Cell
+publisher_name: .na.character
+keywords: []
+---

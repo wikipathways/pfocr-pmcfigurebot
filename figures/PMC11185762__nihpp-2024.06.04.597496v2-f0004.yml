@@ -1,0 +1,43 @@
+---
+figid: PMC11185762__nihpp-2024.06.04.597496v2-f0004
+pmcid: PMC11185762
+image_filename: jpg
+figure_link: /pmc/articles/PMC11185762/figure/F4/
+number: 'Figure 4:'
+figure_title: CRISPR screens elucidate regulators of tau phosphorylation in neurons
+caption: (A) Pooled genetic screening workflow for tau pS202/pT205 levels in neurons.
+  MAPT WT CRISPRi NGN2 iPSCs, MAPT Het CRISPRi NGN2 iPSCs or MAPT WT CRISPRa NGN2
+  iPSCs were transduced by lentivirus with a pooled “druggable genome” sgRNA library
+  targeting 2,318 genes enriched for kinases and phosphatases. iPSCs were differentiated
+  into neurons. After two weeks, neurons were fixed, stained with AT8 and sorted for
+  high or low AT8 staining. The high AT8 and low AT8 samples were sequenced to determine
+  which sgRNAs were enriched in either fraction. (B) Scatter plot comparing CRISPRi
+  screens in MAPT Het neurons vs. MAPT WT neurons. AT8 non-hits are labeled with grey
+  circles, AT8 hits that also modify tau levels (using the T22 antibody as a surrogate
+  for total tau levels) are labeled with “+”, and AT8-specific hits are labeled with
+  black circles. Top genotype-specific hits are labeled in black, and key pathways
+  are labeled in green (cytoskeleton), purple (Neuron projection development) and
+  blue (p38 MAPK pathway). (C) Rank plot showing the results of the CRISPRa screen
+  in MAPT WT neurons. AT8 non-hits are labeled in grey and AT8 hits are labeled in
+  black. Hits that are cytoskeleton-related genes are labeled in green and hits that
+  are related to neuron projection development are labeled in purple. (D) Detected
+  tau phosphosites are mapped to the phenotype of known tau kinases from the CRISPRi/a
+  screens. Tau phosphosites that were significantly different in either MAPT Hom or
+  MAPT Het neurons vs. MAPT WT are indicated with blue text/boxes. Kinases whose knockdown
+  or overexpression perturb tau phosphorylation at S202/T205 are indicated by red
+  text/boxes. Overlap between significant kinases and differential phosphorylations
+  are indicated by purple boxes. Grey boxes indicate phosphorylations by known tau
+  kinases that are not significantly differential or involved in tau pS202/T205. References
+  for known tau kinase activity are indicated by the kinase name
+article_title: Multi-omic phenotyping of iPSC-derived neurons harboring the MAPT V337M
+  mutation reveals tau hypophosphorylation and perturbed axon morphology pathways
+citation: Gregory A. Mohl, et al. bioRxiv. 2025 Sep 09;NA(NA).
+year: '2025'
+pub_date: 2025-9-09
+epub_date: 2025-9-09
+doi: 10.1101/2024.06.04.597496
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

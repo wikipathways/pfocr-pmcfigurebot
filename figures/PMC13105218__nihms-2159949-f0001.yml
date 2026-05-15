@@ -1,0 +1,49 @@
+---
+figid: PMC13105218__nihms-2159949-f0001
+pmcid: PMC13105218
+image_filename: jpg
+figure_link: /pmc/articles/PMC13105218/figure/F1/
+number: 'Fig. 1:'
+figure_title: Lung cancer promotes changes in the chromatin state of BM myeloid progenitors
+caption: 'a, Relative abundance of long-term hematopoietic stem cells (LT-HSC), common
+  myeloid progenitors (CMP), granulocytic-monocytic progenitors (GMP), and common
+  monocytic progenitors (cMoP) in bone marrow (BM) of naïve and KP tumor-bearing mice
+  at different time points, normalized to tumor-naïve mice. Individual data points
+  with bar denoting mean (left to right, n=10,7,12,12 mice). Pooled from two independent
+  experiments. b, Gene markers characterizing CD157+ Ly6Chi GMP-origin neutrophil-like
+  monocytes, with abundance in BM and blood of naïve and KP tumor-bearing mice at
+  different time points. Individual data points with bar denoting mean (left to right,
+  n=3,7,12,12 mice). Pooled from two independent experiments. c, Normalized UCell-computed
+  scores for oxidative stress response, ER stress response, and Type I/III Interferon
+  (IFN)-stimulated gene signature in BM cells of naïve and KP tumor-bearing mice.
+  Data are per-cell distribution, pooled from 3 mice for one experiment. d, Representative
+  histograms and quantification of CellROX, LiperFluo, and MitoSOX median fluorescence
+  intensity (MFI) in BM GMPs, Ly6Chi monocytes, and Ly6Ghi neutrophils from naïve
+  (n=5) and KP tumor-bearing mice (n=5). Individual data points with bar denoting
+  mean, representative of two experiments. e, Transcription factor (TF) motifs differentially
+  enriched in KP-tumor bearing mouse GMPs (left) and BM cMoPs (right) compared to
+  naïve mice; ranked by false discovery rate (FDR). Dot color indicate known biological
+  pathways. f,g, H3K4me3 CUT&RUN signal clustering (f) and relative DORC scores for
+  exemplar genes (g) in KP tumor-associated GMP and monocytes relative to naïve. h,
+  Frequency of hematopoietic stem cells (HSC), multipotent progenitors (MPP), and
+  GMP in blood of patients with NSCLC (n=12) and healthy donors (HD, n=3). Pooled
+  from three independent experiments. i, Normalized UCell-computed scores for oxidative
+  stress response gene signature in indicated myeloid cells from patients with NSCLC
+  (n=3) and healthy donors (HD, n=2). Data are per-cell distribution, pooled per group.
+  j, Normalized scores for cisTopic region #5 in HSC, LMPP, and CD14+ monocytes from
+  blood of patients with NSCLC (n=3) compared to HD (n=2). Data are per-cell distribution,
+  pooled per group. Statistics computed by two-way ANOVA with Fisher’s LSD test (a),
+  one-way ANOVA with Dunnett’s multiple comparison (b), unpaired two-tailed Student’s
+  t-test (d,h), hypergeometric test with multiple correction (c,i,j)'
+article_title: Myeloid progenitor dysregulation fuels immunosuppressive macrophages
+  in tumours
+citation: Samarth Hegde, et al. Nature. 2025 Oct;646(8087).
+year: '2025'
+pub_date: 2025-10-
+epub_date: 2025-9-10
+doi: 10.1038/s41586-025-09493-y
+journal_title: Nature
+journal_nlm_ta: Nature
+publisher_name: .na.character
+keywords: []
+---

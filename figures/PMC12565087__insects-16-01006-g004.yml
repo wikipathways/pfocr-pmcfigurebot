@@ -1,0 +1,41 @@
+---
+figid: PMC12565087__insects-16-01006-g004
+pmcid: PMC12565087
+image_filename: jpg
+figure_link: /pmc/articles/PMC12565087/figure/F4/
+number: Figure 4
+figure_title: The mTOR Signaling Pathway Exhibits Distinct Responses in JPS Larvae
+  to Infections by Beauveria bassiana (Bb) and Metarhizium anisopliae (Ma).
+caption: The mTOR Signaling Pathway Exhibits Distinct Responses in JPS Larvae to Infections
+  by Beauveria bassiana (Bb) and Metarhizium anisopliae (Ma). (a) This panel presents
+  the results of a KEGG enrichment analysis on differentially expressed genes in JPS
+  larvae in response to invasions by Bb and Ma (p < 0.05, t-test). Notably, the mTOR
+  signaling pathway is highlighted in a orange box, while its associated pathways
+  are marked in blue boxes. (b) Heatmap visualizes the expression levels of genes
+  involved in the mTOR signaling pathway in JPS larvae following infections by Bb
+  and Ma. The color intensity reflects the degree of gene expression changes. (c)
+  The relative quantification results of mTOR-associated genes in JPS larvae at 48
+  h post-infection with Bb or Ma, as determined by qPCR (Data are presented as mean
+  ± standard error of the mean (SEM) from three independent experiments, each with
+  three replicates). The asterisks (*) indicate significant differences between treatment
+  groups at the p < 0.05 level, as determined by one-way ANOVA with multiple comparisons
+  performed using Tukey’s test. The label “ns” denotes non-significant differences
+  (p > 0.05)
+article_title: Comparative Transcriptomics Unveils Pathogen-Specific mTOR Pathway
+  Modulation in Monochamus alternatus Infected with Entomopathogenic Fungi
+citation: Haoran Guan, et al. Insects. 2025 Oct;16(10).
+year: '2025'
+pub_date: 2025-10-
+epub_date: 2025-9-28
+doi: 10.3390/insects16101006
+journal_title: Insects
+journal_nlm_ta: Insects
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- pine wilt disease
+- Monochamus alternatus
+- Beauveria bassiana
+- Metarhizium anisopliae
+- dual RNA-seq
+- mTOR pathway
+---

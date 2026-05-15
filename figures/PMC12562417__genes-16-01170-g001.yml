@@ -1,0 +1,35 @@
+---
+figid: PMC12562417__genes-16-01170-g001
+pmcid: PMC12562417
+image_filename: jpg
+figure_link: /pmc/articles/PMC12562417/figure/F1/
+number: Figure 1
+figure_title: Functional enrichment analysis of the consensus gene signature following
+  LGALS3 CRISPR deletion.
+caption: Functional enrichment analysis of the consensus gene signature following
+  LGALS3 CRISPR deletion. (A) Protein–Protein Interaction network of genes consistently
+  deregulated across multiple cancer cell lines upon LGALS3 knockout, conducted using
+  the Metascape platform (accessed on 3 June 2025). Each MCODE network is assigned
+  a unique color. (B) Network visualization of MCODE clusters, representing densely
+  connected functional modules. (C) Summary table of major functional clusters enriched
+  in the consensus gene signature, highlighting representative biological processes
+  and pathways associated with LGALS3 loss. (D) Gene Ontology (GO) and pathway enrichment
+  analysis of the consensus signature derived from CRISPR/Cas9-mediated knockout of
+  LGALS3 is presented as heatmap. The heatmap cells are colored by their p-values
+  and significant terms are hierarchically clustered based on their statistical similarities
+article_title: Transcriptomic and Clinical Profiling Reveals LGALS3 as a Prognostic
+  Oncogene in Pancreatic Cancer
+citation: Grazia Scuderi, et al. Genes (Basel). 2025 Oct;16(10).
+year: '2025'
+pub_date: 2025-10-
+epub_date: '2025-10-03'
+doi: 10.3390/genes16101170
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- galectins
+- LGALS3
+- transcriptomics
+- prognostic biomarker
+---

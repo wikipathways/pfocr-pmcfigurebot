@@ -1,0 +1,42 @@
+---
+figid: PMC12622010__nihpp-2025.09.26.678886v1-f0003
+pmcid: PMC12622010
+image_filename: jpg
+figure_link: /pmc/articles/PMC12622010/figure/F3/
+number: Figure 3.
+figure_title: Gene set and pathway analysis of gene-metabolite associations in osteoarthritis
+caption: '(a, b) REVIGO plots showing prominent Gene Ontology (GO) terms – biological
+  processes (a) and molecular functions (b) – enriched in hub genes of different cell
+  types. Colors represent cell types and circle size represents strength of enrichment
+  (-log10(p-value)). Placement of circles has been calculated by the REVIGO tool that
+  maps GO terms to a latent space based on similarity between GO terms. (c, d, e,
+  f) Each panel depicts a gene-metabolite pair with significant statistical association
+  in a particular cell type, and shows covariation of metabolite abundance with gene
+  expression (scatterplot, middle) and a schematic diagram (bottom) of a reaction
+  in KEGG pathway that includes the gene and the metabolite. In each panel, patient
+  samples are shown divided into two groups (Methods) based on metabolite abundance
+  (blue = higher metabolite abundance, red = lower metabolite abundance). Above each
+  scatterplot is a bar plot that shows the mean standardized gene expressions in each
+  group of patients, depicting a significant inter-group difference in mean gene expression.
+  Pairs shown are: (c) metabolite PC(38:4) and gene LPCAT2 (in Mature B cells) based
+  gene expression of LPCAT2, (d) metabolite PC(38:4) and gene PLD1 (in Trans B cells),
+  (e) metabolite Cer(d42:1) and gene SGMS2 (in Pre B cells), (f) metabolite ‘PE(O-40:7)’
+  and gene PLA2G4 (in Naïve CD4+ T cells). (g) Bar plot showing the number of times
+  each metabolite appears in the same pathway as an associated gene, aggregated across
+  cell types. Only top 10 metabolites have been shown. (h) Bar plot showing the number
+  of times each metabolic pathway harbors a significant gene-metabolite pair. Only
+  top 10 pathways have been shown. (i) Bar plot showing the number of times each gene
+  appears in the same pathway as an associated metabolite, aggregated across cell
+  types. Only top 20 genes have been depicted. '
+article_title: Multi-omics integration at cell type resolution uncovers gene-metabolite
+  mechanisms underlying osteoarthritis heterogeneity
+citation: Abhishek Ojha, et al. bioRxiv. 2025 Sep 29;NA(NA).
+year: '2025'
+pub_date: 2025-9-29
+epub_date: 2025-9-29
+doi: 10.1101/2025.09.26.678886
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

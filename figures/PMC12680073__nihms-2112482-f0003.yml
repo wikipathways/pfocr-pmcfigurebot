@@ -1,0 +1,40 @@
+---
+figid: PMC12680073__nihms-2112482-f0003
+pmcid: PMC12680073
+image_filename: jpg
+figure_link: /pmc/articles/PMC12680073/figure/F3/
+number: Fig. 3.
+figure_title: Global analysis of synaptosome proteomics using Ingenuity Pathway Analysis
+  (IPA) and Gene Set Enrichment Analysis (GSEA)
+caption: Heatmap representing enriched (A) metabolic and (B) signaling pathways produced
+  by IPA canonical pathway analysis comparing all the studied conditions. Score filter
+  p-value cutoff = 1.3 (log10) and z-score cutoff = 1 (absolute value). Blue blocks
+  and orange blocks represent inhibited and activated pathways, respectively. Gray
+  dots represent pathways that did not achieve significance in the given experimental
+  comparison. Heatmaps show the GSEA enrichment scores (NES) and adjusted p-value
+  for the identified Gene Ontology Biological Processes (GO BP) that were significantly
+  changed in (C) hTau vs WT, (D) hTau/PKO vs hTau, and (E) hTau/ParkinW402A vs hTau
+  synaptosomes. n = 5 mice per group. Enrichment analysis was performed in the R software
+  using a p-value cutoff of <0.05. The Benjamini–Hochberg postdoc test was then applied
+  for the generation of adjusted p-values
+article_title: The absence of Parkin in hTau mice leads to synaptic mitochondrial
+  dysfunction, alterations to the synaptic proteome, and increased phosphorylated
+  tau in the Hippocampus
+citation: L. Daniel Estrella, et al. Neurobiol Dis. 2025 Oct 15;215(NA).
+year: '2025'
+pub_date: '2025-10-15'
+epub_date: 2025-9-04
+doi: 10.1016/j.nbd.2025.107084
+journal_title: Neurobiology of disease
+journal_nlm_ta: Neurobiol Dis
+publisher_name: .na.character
+keywords:
+- Tauopathy
+- Phosphorylated Tau
+- Parkin
+- ParkinW402A
+- Mitophagy
+- Alzheimer’s disease
+- Synapse
+- Synaptic mitochondria
+---

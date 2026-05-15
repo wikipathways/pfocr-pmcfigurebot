@@ -1264,3 +1264,47 @@
 
 2026-05-13 16:26:22 - ==========================================================
 
+2026-05-15 02:12:46 - Starting NCBI PMC Figure Fetcher
+
+2026-05-15 02:12:46 - Configuration loaded from query_config.yml
+
+2026-05-15 02:12:46 - PMC search query: (((((((((((signaling pathway[Figure/Table Caption]) OR signalling pathway[Figure/Table Caption]) OR regulatory pathway[Figure/Table Caption]) OR disease pathway[Figure/Table Caption]) OR drug pathway[Figure/Table Caption]) OR metabolic pathway[Figure/Table Caption]) OR biosynthetic pathway[Figure/Table Caption]) OR synthesis pathway[Figure/Table Caption]) OR cancer pathway[Figure/Table Caption]) OR response pathway[Figure/Table Caption]) OR cycle pathway[Figure/Table Caption])) AND (2025/09/03[PUBDATE] : 2025/10/03[PUBDATE])
+
+2026-05-15 02:13:37 - PMC search completed. Fetched 3000 results (max set to 3000).
+
+2026-05-15 02:14:10 - Extracted 4449 figures from XML content.
+
+2026-05-15 02:14:10 - Identified 1164 pathway figures.
+
+2026-05-15 02:14:10 - Skipped 22 figures previously processed.
+
+2026-05-15 02:14:10 - Processed 1142 pathway figures for download.
+
+2026-05-15 02:14:19 - Failed to download image for PMC13120755__nihms-2164403-f0006 after 3 attempts.
+
+2026-05-15 02:14:28 - Failed to download image for PMC13112368__nihms-2118855-f0002 after 3 attempts.
+
+2026-05-15 02:14:37 - Failed to download image for PMC13158003__nihms-2168491-f0002 after 3 attempts.
+
+2026-05-15 02:14:44 - Failed to download image for PMC13128149__nihms-2164024-f0007 after 3 attempts.
+
+2026-05-15 02:14:56 - Failed to download image for PMC13107971__nihms-2150110-f0002 after 3 attempts.
+
+2026-05-15 02:15:03 - Failed to download image for PMC13107971__nihms-2150110-f0003 after 3 attempts.
+
+2026-05-15 02:15:10 - Failed to download image for PMC13107971__nihms-2150110-f0005 after 3 attempts.
+
+2026-05-15 02:15:17 - Failed to download image for PMC13107971__nihms-2150110-f0006 after 3 attempts.
+
+2026-05-15 02:15:24 - Failed to download image for PMC13107971__nihms-2150110-f0008 after 3 attempts.
+
+2026-05-15 02:15:31 - Failed to download image for PMC13107971__nihms-2150110-f0009 after 3 attempts.
+
+2026-05-15 02:15:38 - Failed to download image for PMC13107971__nihms-2150110-f0011 after 3 attempts.
+
+2026-05-15 02:30:34 - New pathway figures downloaded: 1131
+
+2026-05-15 02:30:34 - NCBI PMC Figure Fetcher completed
+
+2026-05-15 02:30:34 - ==========================================================
+

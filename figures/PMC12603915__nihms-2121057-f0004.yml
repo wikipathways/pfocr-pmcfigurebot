@@ -1,0 +1,57 @@
+---
+figid: PMC12603915__nihms-2121057-f0004
+pmcid: PMC12603915
+image_filename: jpg
+figure_link: /pmc/articles/PMC12603915/figure/F4/
+number: Figure 4.
+figure_title: Tick EVs impact the keratinocyte transcriptional program
+caption: (a) Composite tSNE plot of keratinocytes in FVB-Jax and FVB-Tac mice in the
+  presence or absence of I scapularis nymphs microinjected with scV33 or siV33. (b)
+  Dot plot of the top 5 marker genes present in the keratinocyte clusters (as shown
+  in a). Average gene expression is demarked by the intensity of color. Percentage
+  of gene expression within individual clusters is represented by the dot diameter.
+  (c) Cells colored by clusters originated from the keratinocyte tSNE plot (as shown
+  in a) ordered across pseudotime (x-axis) for naïve, scV33-, and siV33-tick bites
+  of FVB-Jax and FVB-Tac mice. (d) Expression of Col1a1 across treatments ordered
+  across pseudotime (x-axis) for naïve, scV33-, and siV33-tick bites of FVB-Jax and
+  FVB-Tac mice. (e) Enriched pathways in the unidentified cell cluster based on functional
+  annotation in DAVID. Fold enrichment is indicated in a Log 2 scale. *P-value and
+  FDR < 0.05 were set as threshold. KEGG, GO, and InterPro were used as reference
+  annotation databases. (f) The “AddModuleScore” function was used to generate an
+  EMT score across all keratinocytes on the basis of 102 EMT genes. Selected genes
+  were reported as indicative of keratinocytes in intermediary or mesenchymal transitioning
+  states. (g) IPA comparing keratinocytes of skin biopsies from FVB-Jax siV33 with
+  those from FVB-Jax scV33. Blue denotes pathways predicted to be inhibited (negative
+  z-score), whereas orange indicates pathways predicted to be activated (positive
+  z-score) on the basis of default parameters. Differential expression datasets were
+  assessed for canonical pathway analysis. Results are shown in a −log (P-value) scale.
+  *P-value and FDR < 0.05 were set as threshold. (h) Volcano plot of genes representing
+  the wound healing signaling pathway in keratinocytes of FVB-Jax siV33 compared with
+  those of FVB-Jax scV33 datasets (highlighted in yellow, in g). Blue denotes decrease,
+  whereas red indicates increase in the coefficient (denoted as coef) of expression.
+  (i) IPA derived from siV33 compared with the bite of scV33 ticks on FVB-Jax or FVB-Tac
+  mice. Canonical pathways predicted to be inhibited (blue, negative z-score) or activated
+  (orange, positive z-score) on the basis of differential expression profile. The
+  solid line indicates the P-value significance threshold of .05 (−log = 1.3). (j)
+  The signaling cascade of EIF2 (highlighted in yellow, in i), yielding (→) or inhibitory
+  (┤) arrows. Orange indicates activation, whereas blue shows inhibition according
+  to the IPA prediction. Gene expression based on the scRNA-seq experiment is indicated
+  in red (increased) or green (decreased). Gray denotes no expression or prediction.
+  EIF2, eukaryotic initiation factor 2; EMT, epithelial-to-mesenchymal transition;
+  EV, extracellular vesicle; FDR, false discovery rate; GO, Gene Ontology; IPA, Ingenuity
+  Pathway Analysis; KEGG, Kyoto Encyclopedia of Genes and Genomes; scRNA-seq, single-cell
+  RNA sequencing; tSNE, t-distributed stochastic neighbor embedding
+article_title: Tick Extracellular Vesicles Alter Epidermal Keratinocyte Function
+citation: Liron Marnin, et al. J Invest Dermatol. 2026 Apr;146(4).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2025-9-05
+doi: 10.1016/j.jid.2025.08.037
+journal_title: The Journal of investigative dermatology
+journal_nlm_ta: J Invest Dermatol
+publisher_name: .na.character
+keywords:
+- Models
+- Mouse
+- Wound healing
+---

@@ -1,0 +1,65 @@
+---
+figid: PMC12485882__nihpp-2025.09.24.678397v1-f0007
+pmcid: PMC12485882
+image_filename: jpg
+figure_link: /pmc/articles/PMC12485882/figure/F7/
+number: Figure 7.
+figure_title: Spacelink captures dynamic alterations in spatial variability across
+  Alzheimer’s disease progression
+caption: '(a). Illustration of 10x Visium human brain dorsolateral prefrontal cortex
+  (DLPFC) data from 4 control samples from 2 healthy donors and 28 samples from 15
+  donors at different stages of Alzheimer’s disease (AD), with comprehensive pathological
+  metadata available for each sample, including total amyloid burden, neurofibrillary
+  tangle accumulation, and neuritic plaque counts. Amyloid burden, tangle accumulation,
+  and neuritic plaque counts were square-root transformed to facilitate regression
+  analyses. (b). Boxplots of average Effective Spatial Variability (ESV) scores across
+  genes at control and 3 different stages of AD pathology, determined by levels of
+  amyloid burden (left) and tangle accumulation (right). For each measure, CTRL includes
+  4 control samples from 2 healthy donors; AD-Lower includes 10 samples with the lowest
+  values of the pathology indicator; AD-Mid includes 9 samples with intermediate values
+  of the pathology indicator; and AD-Higher includes 9 samples with the highest values
+  of the pathology indicator. (c). Volcano plots representing regression analyses
+  associating ESV with amyloid burden (left) or tangle accumulation (right) at the
+  gene level, adjusting for cortical layer composition and mean expression levels,
+  and donor-level random effects. Each point represents the slope coefficient from
+  the regression model and its −log p-value for a gene. We highlight genes that are
+  nominally significant (P < 0.05) for association against amyloid (colored blue)
+  and tau burden (colored orange) respectively. (d). Pathway enrichment analyses of
+  334 and 216 genes with nominally significant (P < 0.05) negative associations between
+  spatial variability (ESV) and amyloid burden (left) or tangle accumulation (right).
+  Pathway enrichment analysis was performed using ConsensusPathdb63 with the set of
+  genes in the Visium panel as the background set. (e). Spatial expression plots of
+  the PKM gene (left column), along with layer annotations (middle column), and plaque
+  annotations (right column) in one control sample (top panel) and one high–amyloid-burden
+  sample (bottom panel). (f). Pathology-xQTL colocalization analysis using ColocBoost
+  identifies a 95% colocalized confidence set (chr15: 70531387-70531393) consisting
+  of 5 variants, showing colocalized effect between a splicing QTL phenotype in brain
+  DLPFC and a square-root transformed amyloid burden QTL in an independent ROSMAP
+  cohort with N=595 individuals. (g). Excess overlap analysis (see Methods) of genes
+  with negative associations between ESV and amyloid burden (from panel c), among
+  genes with the largest average ESV differences between WT and 5xFAD mouse in 10x
+  Visium SRT data from the 5xFAD mouse model at four time points with progressive
+  amyloid accumulation. Asterisks denote significant enrichment by Fisher’s exact
+  test (*** BH-adjusted P < 0.001, ** BH-adjusted P < 0.01, * BH-adjusted P < 0.05).
+  (h) Spatial expression plots of the CLU gene (left column), along with layer annotations
+  (middle column), and plaque annotations (right column) in one control sample (top
+  panel) and one high–amyloid-burden sample (bottom panel) from 10x Visium human DLPFC
+  data. (i) Spatial expression plots of the Clu gene (left column), along with layer
+  annotations (right column) from 10x Visium mouse SRT data of 4-month-old (top panel)
+  and 12-month-old (bottom panel) 5xFAD mice. (j). Alzheimer’s disease (AD)-xQTL colocalization
+  analysis with CLU, showing a 95% colocalized confidence set (chr8: 27604964-27610304)
+  consisting of 8 variants between a CLU eQTL specifically in astrocytes, together
+  with bulk eQTL in DLPFC, and AD GWAS. Numerical results are reported in Supplementary
+  Table S7'
+article_title: Mapping disease critical spatially variable gene programs by integrating
+  spatial transcriptomics with human genetics
+citation: Hanbyul Lee, et al. bioRxiv. 2025 Sep 25;NA(NA).
+year: '2025'
+pub_date: 2025-9-25
+epub_date: 2025-9-25
+doi: 10.1101/2025.09.24.678397
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

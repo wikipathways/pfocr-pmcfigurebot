@@ -1,0 +1,35 @@
+---
+figid: PMC12323549__nihms-2093755-f0006
+pmcid: PMC12323549
+image_filename: jpg
+figure_link: /pmc/articles/PMC12323549/figure/F6/
+number: Figure 6.
+figure_title: Integrin αv and α5 expression frequency and transcriptional correlates
+  within clinical specimens
+caption: '(A) Integrin αv and α5 expression in the metastatic CRPC rapid autopsy tumor
+  microarray (UWTMA100) is summarized in the table. (B) Representative images of αv
+  and α5 expression in bone metastases from UWTMA100 specimens. Blue arrows indicate
+  αv (left) and α5 (right) expression in tumor cells. Red arrows indicate endosteal
+  αv expression (left) and endosteal α5 expression (right). (C) Enrichment plots showing
+  Myc pathway activation in αv-positive (n=20) versus αv-negative (n=23) UWTMA100
+  subsets. UWTMA100 specimens with bulk RNA sequencing data were grouped based on
+  IHC-defined αv positivity. Differential expression analysis was used to rank genes
+  by fold change and p-value, and pre-ranked GSEA was performed using the MSigDB hallmark
+  gene sets. (D) The heat map displays normalized enrichment scores (NES) for each
+  pathway derived from GSEA, with red indicating positive enrichment and blue indicating
+  negative enrichment. Genes were ranked by Pearson correlation coefficients with
+  either ITGAV or ITGA5 transcript expression in three datasets: UWTMA100 (n=43),
+  SU2C (n=161), and DKFZ (n=109). Pre-ranked GSEA was performed with the MSigDB hallmark
+  gene sets for each dataset (p<0.05 and FDR<0.1 used to define significance)'
+article_title: A novel bispecific integrin α5β1/αv antibody reprograms the Myc-regulated
+  basal phenotype of prostate cancer with natural killer cell–mediated tumor elimination
+citation: Raghav Joshi, et al. Mol Cancer Res. 2025 Oct 02;23(10).
+year: '2025'
+pub_date: '2025-10-02'
+epub_date: '2025-10-02'
+doi: 10.1158/1541-7786.MCR-25-0104
+journal_title: 'Molecular cancer research : MCR'
+journal_nlm_ta: Mol Cancer Res
+publisher_name: .na.character
+keywords: []
+---

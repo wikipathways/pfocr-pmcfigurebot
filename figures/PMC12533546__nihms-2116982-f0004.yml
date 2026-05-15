@@ -1,0 +1,58 @@
+---
+figid: PMC12533546__nihms-2116982-f0004
+pmcid: PMC12533546
+image_filename: jpg
+figure_link: /pmc/articles/PMC12533546/figure/F4/
+number: Fig. 4.
+figure_title: Volcano Plots for Differences in the Gramian Energy to steer BRAINN
+  to each of the 81 eigenstates of a healthy participant.
+caption: 'Volcano Plots for Differences in the Gramian Energy to steer BRAINN to each
+  of the 81 eigenstates of a healthy participant. Because any state is a linear sum
+  of eigenstates, the Gramian energy for one set of eigenstates is indicative of the
+  energy required to steer BRAINN to any desired state. We computed the Gramian energy
+  for each participant and compared whether the energy required for patients differed
+  from that required for healthy participants. The Gramian energy was computed for
+  five different configurations of control inputs: (1) vec1, an 81 × 1 vector where
+  one input controlled the same state-space variable across all neural pathways; (2)
+  vec2, an 81 × 1 vector where one control input was applied to all state-space variables;
+  (3) Mat3, an 81 × 3 matrix where input 1 controlled state 1, input 2 controlled
+  state 2, and input 3 controlled state 3 across all neural pathways; (4) MatIdent,
+  an 81 × 81 matrix where 81 inputs independently controlled each of the 81 states;
+  and (5) MatRand81, an 81 × 81 matrix where each input controlled a randomly selected
+  set of states across all neural pathways. The X-axis plots the logarithm-to-base-2
+  of the ratio of the patient mean to the healthy mean (fold change) for the real
+  part of an eigenvalue, and the Y-axis plots the minus-logarithm-to-the-base-10 of
+  the p-value in the Student’s t-test. We plotted horizontal lines at significance
+  levels α = 0.05 and α = 0.10 to visualize statistically significant p-values. The
+  logarithm-to-base-2 fold-change values (X-axis) were large for vec1, vec2, and Mat3
+  because few inputs required large control energies for steering BRAINN to a desired
+  state; consequently, variance in control energies and hence ratio was large across
+  participants. The Gramian energy required was substantially lower when the 81 control
+  inputs were in the MatIdent and MatRand81 configurations, which decreased the variance
+  and fold-change between patients and healthy participants. At baseline, the control
+  energy in patients relative to controls differed for only a couple of eigenstates.
+  However, the control energy required in patients differed from that of healthy participants
+  for steering to a greater number of states at Week 9, Week 22, and Year 1, thereby
+  suggesting a disruption in the dynamic control of BRAINN in patients during chemotherapy'
+article_title: Biophysically constrained dynamical modelling of the brain using multimodal
+  magnetic resonance imaging
+citation: Siddharth Bansal, et al. Brain Res Bull. 2025 Oct 15;231(NA).
+year: '2025'
+pub_date: '2025-10-15'
+epub_date: 2025-9-08
+doi: 10.1016/j.brainresbull.2025.111541
+journal_title: Brain research bulletin
+journal_nlm_ta: Brain Res Bull
+publisher_name: .na.character
+keywords:
+- Anatomical MRI
+- MR spectroscopy
+- Perfusion MRI
+- Diffusion tensor imaging
+- Control system, Dynamical brain model
+- System stability
+- Eigenmodes
+- System controllability
+- PBH test
+- Gramian matrix
+---

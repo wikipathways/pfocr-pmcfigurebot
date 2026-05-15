@@ -1,0 +1,36 @@
+---
+figid: PMC12486407__thnov15p9819g001
+pmcid: PMC12486407
+image_filename: jpg
+figure_link: /pmc/articles/PMC12486407/figure/F1/
+number: Figure 1
+figure_title: Identification of CXCL12-CXCR4 signaling pathway in EC-GSC communication.
+caption: Identification of CXCL12-CXCR4 signaling pathway in EC-GSC communication.
+  (A) Visualization of cell clusters after cell clustering and marker gene identification
+  based on UMAP algorithm. (B) Heatmap of cluster-specific markers of cell types.
+  (C) Visualization of typical markers in cancer cells and ECs. (D) The GSC score
+  in each cell type. (E) Visualization of GSC score and GSCs sperate in cancer cell.
+  (F) The number and total interaction strength of interactions between cells in glioma.
+  (G) The interaction strength of ECs and CSCs with other celltypes. (H) The interaction
+  of stemness-related signaling pathways between cells in gliomas. (I) Receptor-ligand
+  analysis between ECs and tumor stem cells. (J-M) Correlation analysis of endothelial
+  cell scores with CXCL12. Prognostic survival analysis of CXCR4, endothelial cell
+  score with CXCR4 and endothelial cell score in glioma patients
+article_title: Endothelial cell-derived SDF-1α elicits stemness traits of glioblastoma
+  via dual-regulation of GLI1
+citation: Ye Yuan, et al. Theranostics. 2025;15(18).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025-9-8
+doi: 10.7150/thno.108843
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+keywords:
+- glioma stem cell
+- SDF-1α
+- GLI1
+- perivascular niche
+- cell-cell interaction
+- stemness regulation.
+---

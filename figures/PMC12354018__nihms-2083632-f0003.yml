@@ -1,0 +1,43 @@
+---
+figid: PMC12354018__nihms-2083632-f0003
+pmcid: PMC12354018
+image_filename: jpg
+figure_link: /pmc/articles/PMC12354018/figure/F3/
+number: Fig. 3.
+figure_title: Loss of PKCδ increases glutathione production
+caption: (A and B) Steady state level of individual metabolites from the glutathione
+  (GSH) synthesis pathway. Data is presented as (A) fold change of shδ110 (black circle)
+  or shδ680 (teal triangle) relative to shNT control in ParC5 cells; and (B) fold
+  change of shδ193 (black circle) or shδ203 (teal triangle) relative to shSCR control
+  in A549 cells. Metabolites with significant fold change over their controls (P ≤
+  0.05, t-test) are shown in bold and italicized; * in 3A indicates only shδ680 is
+  significantly different than the shNT. (C and D) Total GSH was assayed in A549 shSCR,
+  shδ193 and shδ800 cells (C) and in HEK293 shSCR, shδ193 and shδ203 cells (D). (E)
+  Schematic of GSH metabolic pathways (Created with BioRender.com). (F) qRT-PCR quantitation
+  of mRNA for components of the GSH pathway shown in (E) and PKCδ, in ParC5 shNT,
+  shδ110 and shδ680 cells. (G) Western blots of ParC5 shNT, shδ110 and shδ680 cells
+  immunoblotted with the indicated antibodies. (H) Quantitation of Western blots shown
+  in (G); expression of each protein of interest (POI) was normalized to the β-actin
+  control. Note that panel (G) shows different experiments separated by lines, each
+  normalized to their own β-actin loading control. Shown is data (mean ± SEM) from
+  at least three independent biological replicates. Statistics represent one-way ANOVA
+  or two-way ANOVA for (F), followed by Dunnett’s multiple comparisons to their corresponding
+  shNT or shSCR control. *P < 0.05, **P < 0.002, and ***P < 0.001
+article_title: PKCδ regulates DNA damage and cell death through a SIRT6/Nrf2-dependent
+  antioxidant response
+citation: Trisiani Affandi, et al. Mol Cancer Res. 2025 Sep 04;23(9).
+year: '2025'
+pub_date: 2025-9-04
+epub_date: 2025-9-04
+doi: 10.1158/1541-7786.MCR-24-0805
+journal_title: 'Molecular cancer research : MCR'
+journal_nlm_ta: Mol Cancer Res
+publisher_name: .na.character
+keywords:
+- protein kinase Cδ
+- radioprotection
+- antioxidant
+- Nrf2
+- SIRT6
+- salivary gland
+---

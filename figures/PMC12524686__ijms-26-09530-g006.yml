@@ -1,0 +1,34 @@
+---
+figid: PMC12524686__ijms-26-09530-g006
+pmcid: PMC12524686
+image_filename: jpg
+figure_link: /pmc/articles/PMC12524686/figure/F6/
+number: Figure 6
+figure_title: Enrichment analysis of 18 genes screened based on SMAD4 expression levels.
+caption: Enrichment analysis of 18 genes screened based on SMAD4 expression levels.
+  (A) GO biological process analysis results, presented as a bar graph of the top
+  10 enriched processes sorted by the combined score. (B) Pathway analysis results
+  are presented as a clustered heatmap with a dendrogram, showing genes significantly
+  associated with multiple pathways. Only genes associated with two or more pathways
+  and those showing significant enrichment were included in the visualization. Clustering
+  was performed using Euclidean distance calculation and the average linkage method
+  between clusters. Red blocks indicate the association of genes (shown along the
+  bottom axis) with the corresponding pathways
+article_title: Identification of Anticancer Targets in Ovarian Cancer Using Genomic
+  Drug Sensitivity Data
+citation: Yebin Son, et al. Int J Mol Sci. 2025 Oct;26(19).
+year: '2025'
+pub_date: 2025-10-
+epub_date: 2025-9-29
+doi: 10.3390/ijms26199530
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- ovarian cancer
+- drug sensitivity
+- PARP inhibitors
+- biomarker
+- gene dependency score
+- target discovery
+---

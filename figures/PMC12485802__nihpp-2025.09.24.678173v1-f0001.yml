@@ -1,0 +1,30 @@
+---
+figid: PMC12485802__nihpp-2025.09.24.678173v1-f0001
+pmcid: PMC12485802
+image_filename: jpg
+figure_link: /pmc/articles/PMC12485802/figure/F1/
+number: Fig. 1 |
+figure_title: Mechanism of the electroactive co-culture sensing system (e−COSENS)
+caption: The e−COSENS system comprises a “sender” and a “receiver” bacterial strain.
+  The sender synthesizes 1,4-dihydroxy-2-naphthoic acid (DHNA, precursor of vitamin
+  K2) from the substrate chorismate through the seven-enzyme Men pathway. The menD
+  gene was knocked out from the genome and expressed on plasmids under the control
+  of analyte-inducible promoters to conditionally turn on DHNA biosynthesis for sensing
+  purposes. The menA gene was also knocked out to prevent the prenylation of DHNA
+  by prenyl diphosphate (PP). The secreted DHNA activates extracellular electron transfer
+  (EET) in the receiver strain by mediating electron cycling between the membrane-bound
+  type-II NADH:quinone oxidoreductase Ndh2 and the terminal electron acceptors, such
+  as iron(III) oxide or an electrode. This results in the generation of electrical
+  signals. The present system uses Lactiplantibacillus plantarum as the receiver strain
+article_title: Synthetic microbial co-cultures for modular bioelectronic sensing in
+  diverse environments
+citation: Siliang Li, et al. bioRxiv. 2025 Sep 24;NA(NA).
+year: '2025'
+pub_date: 2025-9-24
+epub_date: 2025-9-24
+doi: 10.1101/2025.09.24.678173
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

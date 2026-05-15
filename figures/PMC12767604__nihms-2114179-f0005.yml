@@ -1,0 +1,36 @@
+---
+figid: PMC12767604__nihms-2114179-f0005
+pmcid: PMC12767604
+image_filename: jpg
+figure_link: /pmc/articles/PMC12767604/figure/F5/
+number: 'Fig. 5:'
+figure_title: Naïve CD4 T cells in ARI have a multimodal signature of activation
+caption: (A) PBMC TEA-seq was performed on a subset of ARI and HC2 samples. (B) Percentage
+  of variance in each modality (surface protein, plasma protein, RNA, ATAC) explained
+  by Multi-Omics Factor Analysis (MOFA) factors. (C) Factor 1 scores comparing ARI
+  and HC2. (D) Scaled normalized expression of select genes in Calcium–Calcineurin–NFAT
+  pathway in ARI and HC2. (E) Inferred accessibility for the top 15 transcription
+  factors (TFs) positively or negatively associated with factor 1, ranked by weight.
+  (F) RNA expression differences in core naïve CD4 T cells over time in CONV (orange)
+  who progress to clinical RA (purple). Genes associated with T cell activation are
+  annotated. (G) T cell RNA activation metric in core naïve CD4 T cells over time
+  as CONV progress to clinical RA. Each participant’s longitudinal series is connected
+  by a gray line, with a group trendline and 95% confidence interval in purple. (H)
+  Enriched pathways associated with T cell activation in core naïve CD4 T cells over
+  time as CONV progress to clinical RA. P values were determined by Wilcoxon rank-sum
+  test and FDR were adjusted for all MOFA factors tested (C). P value was determined
+  by linear mixed models (F, G). Normalized enrichment scores (NES) and adjusted P
+  values, by GSEA, are shown (H). Nominal P value is shown in (G). FDR values are
+  indicated for remaining plots. Values below 0.1 were considered significant
+article_title: Progression to rheumatoid arthritis in at-risk individuals is defined
+  by systemic inflammation and by T and B cell dysregulation
+citation: Ziyuan He, et al. Sci Transl Med. 2025 Sep 24;17(817).
+year: '2025'
+pub_date: 2025-9-24
+epub_date: 2025-9-24
+doi: 10.1126/scitranslmed.adt7214
+journal_title: Science translational medicine
+journal_nlm_ta: Sci Transl Med
+publisher_name: .na.character
+keywords: []
+---

@@ -1,0 +1,36 @@
+---
+figid: PMC12510174__ijbsv21p5975g001
+pmcid: PMC12510174
+image_filename: jpg
+figure_link: /pmc/articles/PMC12510174/figure/F1/
+number: Figure 1
+figure_title: Single-cell analysis reveals enhanced macropinocytic activity in RB
+  cells versus normal intraocular cells.
+caption: Single-cell analysis reveals enhanced macropinocytic activity in RB cells
+  versus normal intraocular cells. (A-B) UMAP projection of single-cell transcriptomes
+  from four independent retinal tissue samples(A) and integrated UMAP visualization(B)
+  of the combined dataset (GSE249995) are presented, with individual points representing
+  cells and colors indicating computationally annotated clusters. (C) Cell-type annotation
+  was achieved using published single-cell RNA-seq datasets through reference-based
+  mapping. (D) Specific gene markers were identified for each cell type. (E) Expression
+  levels of marker genes associated with the retinoblastoma cell class are shown.
+  (F) Gene set enrichment analysis (GSEA) of genes in the Rac1 pathway (NES=1.30).
+  (G) A violin plot illustrates the expression levels of Rac1 and PAK1 across different
+  cell types. (H) The t-SNE visualization depicts Rac1 and PAK1 expression patterns,
+  with gradient colors representing normalized expression levels
+article_title: 'Bringing p53 Back: A Prion-Powered Attack on Retinoblastoma'
+citation: Yuyan Ma, et al. Int J Biol Sci. 2025;21(13).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025-9-22
+doi: 10.7150/ijbs.113116
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- Retinoblastoma
+- HDMX
+- p53
+- peptide
+- prion-like self-assembly
+---

@@ -1,0 +1,44 @@
+---
+figid: PMC12485690__nihpp-2025.09.25.678630v1-f0006
+pmcid: PMC12485690
+image_filename: jpg
+figure_link: /pmc/articles/PMC12485690/figure/F5/
+number: Fig. 5.
+figure_title: Chemical and biological perturbations induce aspects of hnDAM in iPSC-derived
+  microglia
+caption: Transcriptional perturbations mimicking the hnDAM signature were predicted
+  in silico using the Library of Integrated Network-based Cellular Signaling52 SigCom
+  server (See “Perturbation discovery for mimickers of hnDAM”). (A) Schematic of perturbation
+  discovery. (B) Experimental design for in vitro screening of perturbation. (C) Differential
+  expressed gene sets of damage-associated molecular patterns (DAMPs) and HDAC inhibitor
+  treatment of iPSC-derived microglia (n = 5 genetic background per condition). Analysis
+  ran using variancePartition::dream() reveals dose-dependent effects in numbers of
+  DEGs (∣log2FC∣ > 0.5, FDR < 0.05). (D) Gene-level results for the 105-gene hnDAM
+  signature reveal subsets recapitulated by either chemical or biological treatment.
+  Enrichment for apoptosis (hsa04210) and hnDAM signature performed in fgsea. Significance
+  stars for both DEGs and NES values indicate FDR < 0.05. (E-H) Ranked gene set plots
+  from GSEA demonstrate normalized enrichment score from GSEA-calculations against
+  hnDAM signature and apoptosis pathway. Statistics available in Table S43. Schematic
+  (A-B) created with BioRender.com
+article_title: Integrative analysis reveals generalizable human neurodegenerative
+  disease-associated glial states
+citation: Liam Horan-Portelance, et al. bioRxiv. 2025 Sep 25;NA(NA).
+year: '2025'
+pub_date: 2025-9-25
+epub_date: 2025-9-25
+doi: 10.1101/2025.09.25.678630
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Neurodegenerative disease
+- Alzheimer’s
+- Parkinson’s
+- Frontotemporal dementia
+- Amyotrophic Lateral Sclerosis
+- disease-associated microglia
+- astrocytes
+- oligodendrocytes
+- snRNA-seq
+- iPSC-derived microglia
+---

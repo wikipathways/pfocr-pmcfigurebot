@@ -1,0 +1,32 @@
+---
+figid: PMC11463446__nihpp-2024.09.25.614868v2-f0004
+pmcid: PMC11463446
+image_filename: jpg
+figure_link: /pmc/articles/PMC11463446/figure/F4/
+number: Figure 4.
+figure_title: Selecting designs with preorganized catalytic residues increases activity
+caption: 'A) Mechanism of the retro-aldol reaction with the key intermediates shown.
+  B) Five intermediate states of the RA reaction with methodol were modeled by PLACER
+  for the RA95 series of designs to probe preorganization of the active site lysine
+  and its modifications. C) Examples of PLACER ensembles for active sites of the three
+  previously published retro-aldolases with increasing activity show higher degree
+  of preorganization in steps 1 and 2 along the reaction pathway. D) Design model
+  of the most active variant, cnRA-50, with the catalytic tetrad highlighted in blue
+  and substrate in orange. E) PLACER generated ensembles of lysine-methodol conjugates
+  of catalytic steps 1 and 2 of the active site of cnRA-50. F) PLACER active site
+  pre-organization ensemble metrics (pRMSD of conjugated lysine atoms, except backbone)
+  in steps 1 and 2 enrich for selecting more active de novo designed retro-aldolase
+  enzymes. G) Retro-aldol reaction catalyzed by cnRA-50: time-course following the
+  formation of 6-methoxy-2-naphthaldehyde (left), and Michaelis-Menten plot (right)
+  obtained from initial velocities'
+article_title: Modeling protein-small molecule conformational ensembles with PLACER
+citation: Ivan Anishchenko, et al. bioRxiv. 2025 Sep 27;122(45).
+year: '2025'
+pub_date: 2025-9-27
+epub_date: 2025-9-27
+doi: 10.1101/2024.09.25.614868
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

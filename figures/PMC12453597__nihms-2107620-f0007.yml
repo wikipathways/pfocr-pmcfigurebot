@@ -1,0 +1,45 @@
+---
+figid: PMC12453597__nihms-2107620-f0007
+pmcid: PMC12453597
+image_filename: jpg
+figure_link: /pmc/articles/PMC12453597/figure/F6/
+number: Figure 6 |
+figure_title: MAT-derived mechanosensitive fibroblasts are conserved in mouse colotomies
+caption: 'A) Schematic of the separate dissection and dissociation of bowel and associated
+  mesenteric adipose tissue (MAT) from sham and colotomy mice at post-operative day
+  (POD) 14 for scRNA-seq analysis.B) UMAP of 5,028 mouse fibroblasts integrated by
+  sample and independently re-clustered.C) Bar plot of fibroblast enrichment in sham
+  and colotomy bowel (left) and MAT (right).D) Dot plot of the scaled average expression
+  of YAP and ECM signatures in fibroblast subpopulations.E) Bar plot of pathway analysis
+  (GO Biological Process) on Cthrc1+ fibroblasts. ECM pathways highlighted (red).F)
+  Dot plot of the scaled average expression of YAP signatures and ECM in Cthrc1+ fibroblasts
+  in different conditions between bowel and MAT.G) Dot plot of scaled anchor label
+  transfer scores for fibroblast subpopulations between mouse query dataset and human
+  CD atlas reference. Higher values signify greater similarity between subpopulations.H)
+  Immunostaining for YAP1 (green) and POSTN (red) in uninvolved (left) and colotomy
+  (right) bowel wall (*BW), interface (**IF) and mesenteric adipose tissue (***MAT)
+  (n = 3) in low (left) and high (inset, right four columns) magnification. MAT is
+  outlined (white). Nuclear YAP1+POSTN+ cells are highlighted (arrowheads).Scale bars:
+  200μm (H (lower magnification). 20μm (H (higher magnification)).Cthrc1+ fibroblasts
+  are highlighted (red boxes)'
+article_title: Creeping fat-derived mechanosensitive fibroblasts drive intestinal
+  fibrosis in Crohn’s disease strictures
+citation: Khristian E Bauer-Rowe, et al. Cell. 2025 Nov 13;188(23).
+year: '2025'
+pub_date: '2025-11-13'
+epub_date: 2025-9-17
+doi: 10.1016/j.cell.2025.08.029
+journal_title: Cell
+journal_nlm_ta: Cell
+publisher_name: .na.character
+keywords:
+- Inflammatory bowel disease
+- Crohn’s disease
+- creeping fat
+- strictures
+- fibrosis
+- meta-analysis
+- scRNA-seq
+- Yes-associated protein
+- fibroblasts
+---

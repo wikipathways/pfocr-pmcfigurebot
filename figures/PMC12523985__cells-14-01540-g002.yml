@@ -1,0 +1,37 @@
+---
+figid: PMC12523985__cells-14-01540-g002
+pmcid: PMC12523985
+image_filename: jpg
+figure_link: /pmc/articles/PMC12523985/figure/F2/
+number: Figure 2
+figure_title: Extracellular matrix-related intercellular interactions are associated
+  with GBM pathogenesis.
+caption: Extracellular matrix-related intercellular interactions are associated with
+  GBM pathogenesis. (A,B) Bubble plots showing significant ligand–receptor (LR) pairs
+  in the context where GBM cells serve as receivers (A) and senders (B), respectively.
+  Bubble size indicates p-value and color indicates the probability of CCIs. (C,D)
+  Bar plots indicating the top 10 significantly enriched Reactome pathway of the identified
+  96 LR pairs (C) and 78 LR pairs (D), respectively. The bar color represents p-value,
+  and the size represents gene enrichment ratios. (E) Kaplan–Meier survival analysis
+  for high ECM_signature (n = 182) and low (n = 182) GBM samples in The Cancer Genome
+  Atlas dataset. (F,G) Gene Set Enrichment Analysis of epithelial–mesenchymal transition
+  (HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION) (F) and mesenchymal subtype (VERHAAK_GLIOBLASTOMA_MESENCHYMAL)
+  (G), respectively
+article_title: Integrated Spatial and Single-Cell Transcriptomics Reveals Poor Prognostic
+  Ligand–Receptor Pairs in Glioblastoma
+citation: Makoto Yoshimoto, et al. Cells. 2025 Oct;14(19).
+year: '2025'
+pub_date: 2025-10-
+epub_date: '2025-10-01'
+doi: 10.3390/cells14191540
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- spatial transcriptomics
+- glioblastoma
+- cell–cell interaction
+- gene expression omnibus
+- the cancer gnome atlas
+- Chinese glioma genome atlas
+---

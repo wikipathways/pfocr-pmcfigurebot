@@ -1,0 +1,40 @@
+---
+figid: PMC12139739__nihpp-2025.04.30.651101v3-f0003
+pmcid: PMC12139739
+image_filename: jpg
+figure_link: /pmc/articles/PMC12139739/figure/F3/
+number: Figure 3
+figure_title: Differential transcript usage between cell types and cell subpopulations.
+caption: Differential transcript usage between cell types and cell subpopulations.
+  (A) Heatmap showing differential transcript usage (DTU) between alpha and beta cells.
+  Each row represents a transcript (significant at FDR < 0.05), and each column represents
+  a cell type. Colors indicate the fraction of a gene’s expression contributed by
+  each transcript within each cell type. DTU genes were identified from pseudobulk
+  analysis of two biological replicates of mouse pancreatic islet sclrRNA-seq libraries
+  prepared with 5′ modified 10x Genomics technology. (B) KEGG pathway overrepresentation
+  analysis (ORA) for DTU genes between alpha and beta cells. The x-axis shows recall,
+  i.e., the proportion of functionally annotated genes in the query that are associated
+  with each pathway. Bubble size represents the number of DTU genes in the pathway,
+  and bubble color indicates statistical significance (−log10 p-value). The top 25
+  enriched KEGG pathways are shown. (C) Differential gene expression (DGE), differential
+  transcript expression (DTE), and differential transcript usage (DTU) analysis of
+  Gnas between alpha and beta cells. DTU shows the relative contribution of each transcript
+  to the gene’s overall expression. (C) DGE, DTE, DTU analysis of Ndufs2 between beta
+  cell subpopulations 1_beta and 4_beta
+article_title: Optimizing Single-Cell Long-Read Sequencing for Enhanced Isoform Detection
+  in Pancreatic Islets
+citation: Maria S. Hansen, et al. bioRxiv. 2025 Sep 19;75(4).
+year: '2025'
+pub_date: 2025-9-19
+epub_date: 2025-9-19
+doi: 10.1101/2025.04.30.651101
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- single cell long read RNA-sequencing
+- transcriptomics
+- islet biology
+- RNA isoforms
+- RNA splicing
+---

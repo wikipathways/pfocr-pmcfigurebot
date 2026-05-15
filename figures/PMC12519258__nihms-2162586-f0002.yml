@@ -1,0 +1,43 @@
+---
+figid: PMC12519258__nihms-2162586-f0002
+pmcid: PMC12519258
+image_filename: jpg
+figure_link: /pmc/articles/PMC12519258/figure/F1/
+number: Figure 1.
+figure_title: CEMa system overview, cell line selection, and viability assays.
+caption: 'CEMa system overview, cell line selection, and viability assays.(A) Schematic
+  overview of the CEMa system and targeting location on the TP53 gene. (B)TP53 expression
+  data of cancer cell lines from the Broad Institute’s DepMap,31 grouped by mutation
+  status. (C) Table of pertinent TP53 pathway mutations in AGS, OE33, and KATO-III
+  cell lines. (D) Relative expression of TP53 in AGS, OE33, and KATO-III cells with
+  the CEMa system and nontargeting or TP53 targeting sgRNA stably infected, in the
+  absence of CEM87. (E) Etoposide-induced p53, p21, and PUMA activation in AGS and
+  OE33 cells was assessed by immunofluorescent staining after treatment with 25 μM
+  etoposide for 48 h. (F) Cell viability evaluated by CellTiter-Glo in AGS cells with
+  the CEMa system and nontargeting or TP53 targeting sgRNA stably infected, in the
+  presence of CEM87. (G) Cell viability evaluated by CellTiter-Glo in OE33 cells with
+  the CEMa system and nontargeting or TP53 targeting sgRNA stably infected, in the
+  presence of CEM87. (H) Cell viability evaluated by CellTiter-Glo in KATO-III cells
+  with the CEMa system and nontargeting or TP53 targeting sgRNA stably infected, in
+  the presence of CEM87. In panels F–H, IC50 values were calculated using four-parameter
+  nonlinear regression, and error bars represent the standard deviation of four biological
+  replicates. Abbreviations: CEMa, activating chemical epigenetic modifier; sgRNA,
+  single guide RNA'
+article_title: A First-in-Class Chemical-Induced Proximity System Achieves Dose-Dependent
+  Control of Tumor Protein P53 Gene Activation in Preclinical Models of Gastric Cancer
+citation: Travis J. Nelson, et al. ACS Pharmacol Transl Sci. 2025 Oct 10;8(10).
+year: '2025'
+pub_date: '2025-10-10'
+epub_date: 2025-9-08
+doi: 10.1021/acsptsci.5c00402
+journal_title: ACS pharmacology & translational science
+journal_nlm_ta: ACS Pharmacol Transl Sci
+publisher_name: .na.character
+keywords:
+- TP53
+- chemical-induced proximity
+- gene therapy
+- CRISPR
+- apoptosis
+- cell cycle arrest
+---

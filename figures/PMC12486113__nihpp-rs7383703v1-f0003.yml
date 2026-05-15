@@ -1,0 +1,31 @@
+---
+figid: PMC12486113__nihpp-rs7383703v1-f0003
+pmcid: PMC12486113
+image_filename: jpg
+figure_link: /pmc/articles/PMC12486113/figure/F3/
+number: Figure 3
+figure_title: Transcriptomic changes in primary microglia following rIfi27l2a stimulation
+caption: 'Primary microglia treated with either vehicle or 100 ng/ml of rIfi27l2a
+  were used for RNA sequencing. (a) The PCA plot shows distinct transcriptomic profiles
+  between the vehicle and rIfi27l2a-treated cells (n=5 per group). (b) 460 down-regulated
+  genes and 548 up-regulated gene by rIfi27l2a were identified (cutoff: log2fold change
+  −0.6< and >0.6, adj. p <0.05). Volcano plot revealed the highly differentially expressed
+  genes, including Cxcl2, Cxcl3, Ptgs2, Il7, Tnf, Ccl2, and Il6. (c) Gene ontology
+  (GO) analysis using g:Profiler reveals that differentially expressed genes (DEGs)
+  altered by Ifi27l2a treatment are involved in several key biological processes and
+  cellular pathway. (d) Heatmap shows increased expression of inflammatory genes,
+  including genes for proinflammatory cytokines, chemokines, receptors. (e) Heatmap
+  for Mmps. (f)Violin plots show an increased expression pattern of genes related
+  to cellular senescence such as Cdkn1a (* p<0.05) and Cdkn2a(p=0.076)'
+article_title: Ifi27l2a acts as a cytokine that promotes a pro-inflammatory phenotype
+  in microglia and enhances neuroinflammation
+citation: Sodam Kim, et al. Res Sq. 2025 Sep 24;NA(NA).
+year: '2025'
+pub_date: 2025-9-24
+epub_date: 2025-9-24
+doi: 10.21203/rs.3.rs-7383703/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords: []
+---

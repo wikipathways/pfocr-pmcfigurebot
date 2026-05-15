@@ -1,0 +1,50 @@
+---
+figid: PMC12485965__nihpp-2025.09.24.678413v1-f0004
+pmcid: PMC12485965
+image_filename: jpg
+figure_link: /pmc/articles/PMC12485965/figure/F4/
+number: Figure 4.
+figure_title: Single-cell transcriptomics reveals numerous alterations in monocyte
+  subpopulations, including within an intermediate monocyte subset with a highly activated
+  phenotype.
+caption: 'Single-cell transcriptomics reveals numerous alterations in monocyte subpopulations,
+  including within an intermediate monocyte subset with a highly activated phenotype.
+  (A) Upset plot of differentially expressed genes shared by, or unique to, the four
+  detected monocyte clusters. Non-classical monocytes had the most differentially
+  expressed genes. (B) UMAP highlights the activated intermediate monocytes (cluster
+  9) in the single-cell data set. (C) There were 29 significantly upregulated genes
+  and zero downregulated genes (Padj < 0.05 and log2FC > ±0.5) within this cluster
+  in GBS patients compared to controls. (D) PANTHER gene set enrichment analysis of
+  the significantly upregulated genes of highly activated intermediate monocytes displaying
+  the top 7 pathways. The top three pathways were significantly enriched: blood coagulation
+  (P = 0.001), plasminogen activating cascade (P = 0.022), and interferon-gamma (IFNγ)
+  signaling (P = 0.040). (E-G) Pathways were generated and upstream regulators predicted
+  using iPathwayGuide. (E) KEGG pathway analysis revealed additional upregulated pathways,
+  including TNF and NFκB signaling. (F) The predicted upstream regulators of the differentially
+  expressed genes; the IL-6 receptor family cytokine oncostatin M (OSM) was the most
+  highly consistent with the GBS patient upregulated genes. The top 10 statistically
+  significant consistent genes are depicted (all P ≤ 0.005). (G) The genes consistent
+  with upregulation by OSM were ICAM1, SOCS3, F3, and LDLR. In each case, OSM is predicted
+  to activate the gene'
+article_title: Peripheral nerve-targeting and pain-promoting transcriptomic signatures
+  in early Guillain-Barré syndrome
+citation: Jayden A. O’Brien, et al. bioRxiv. 2025 Sep 25;NA(NA).
+year: '2025'
+pub_date: 2025-9-25
+epub_date: 2025-9-25
+doi: 10.1101/2025.09.24.678413
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- acute inflammatory demyelinating polyradiculoneuropathy
+- CCL4
+- Guillain-Barré syndrome
+- inflammatory cytokines
+- interactome
+- intermediate monocytes
+- mononuclear cells
+- neuropathic pain
+- T-cell dysregulation
+- transcriptomics
+---

@@ -1,0 +1,50 @@
+---
+figid: PMC12485965__nihpp-2025.09.24.678413v1-f0001
+pmcid: PMC12485965
+image_filename: jpg
+figure_link: /pmc/articles/PMC12485965/figure/F1/
+number: Figure 1.
+figure_title: Bulk RNA sequencing of cell-sorted CD11b+, CD8+, and CD4+ cells shows
+  transcriptomic changes related to interferon production and axon guidance in early
+  AIDP-variant Guillain-Barre syndrome.
+caption: Bulk RNA sequencing of cell-sorted CD11b+, CD8+, and CD4+ cells shows transcriptomic
+  changes related to interferon production and axon guidance in early AIDP-variant
+  Guillain-Barre syndrome. (A) The number of upregulated and downregulated genes in
+  CD4+, CD8+, and CD11b+ sorted cells indicated several differentially expressed genes
+  in CD8+ and CD11b+ cell populations which were largely unique to each population.
+  There were no detected changes in CD4+ sorted cells. (B) Genes differentially expressed
+  in the CD11b+ cell portion were significantly associated with the activity of upstream
+  regulators IRF9, STAT2, IFNG, and TNF (all P < 0.05). Pathways were generated using
+  iPathwayGuide. (C) Volcano plot of differentially expressed genes in CD11b+ myeloid
+  cells. Positive fold-changes indicate genes with higher expression in GBS patients
+  than in healthy controls. Log2FC > |±0.5| and Padj < 0.05 were used as cutoffs.
+  (D) Gene set enrichment analysis using gene ontology (GO) annotations in Enrichr
+  showed that the most overrepresented biological processes in myeloid cells included
+  viral response, type I interferon signaling, and cytokine production. (E) Further
+  gene set enrichment using PANTHER indicated FAS and interferon-gamma as among the
+  most highly overrepresented signaling pathways. (F) Volcano plot of differentially
+  expressed genes in CD8+ sorted cells. (G) The most highly overrepresented biological
+  processes included those related to extracellular matrix organization, mitosis,
+  and axon guidance
+article_title: Peripheral nerve-targeting and pain-promoting transcriptomic signatures
+  in early Guillain-Barré syndrome
+citation: Jayden A. O’Brien, et al. bioRxiv. 2025 Sep 25;NA(NA).
+year: '2025'
+pub_date: 2025-9-25
+epub_date: 2025-9-25
+doi: 10.1101/2025.09.24.678413
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- acute inflammatory demyelinating polyradiculoneuropathy
+- CCL4
+- Guillain-Barré syndrome
+- inflammatory cytokines
+- interactome
+- intermediate monocytes
+- mononuclear cells
+- neuropathic pain
+- T-cell dysregulation
+- transcriptomics
+---

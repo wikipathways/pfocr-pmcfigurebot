@@ -1,0 +1,25 @@
+---
+figid: PMC12592795__nihms-2120102-f0006
+pmcid: PMC12592795
+image_filename: jpg
+figure_link: /pmc/articles/PMC12592795/figure/F5/
+number: Figure 5.
+figure_title: aP2-Cre;Ptch1Flox/Flox animals develop rhabdomyosarcoma and phenocopy
+  aP2-Cre;R26SmoM2
+caption: |-
+  (A) Volcano plot of DEGs between AST tumor vasculature (Tom+/PECAM1+) and tumor (Tom+/PECAM1−) cells (log2 FC > 1, p < 0.05).(B and C) GSEA enrichment plots of AST tumor vasculature (Tom+/PECAM1+)(B) and AST tumor (Tom+/PECAM1−) cells (C) from (A). NES, normalized enrichment score.(D) Breeding schematic to generate aP2-Cre;Ptch1Flox/Flox (APcKO) or aP2-Cre;Ptch1Flox/+ (AP
+  Het) animals.(E) Kaplan-Meier tumor-free survival curve for APcKO (n = 21) and APHet (n = 33) animals.(F) Gene expression of SHH pathway genes, Smoothened (Smo), Patched1 (Ptch1), Hhip, and Gli1 in APcKO (n = 4), AST (n = 4) tumors, and wild-type SCM (n = 4) compared to primary mouse myoblasts (n = 4). Error bars ± SEM, ****p < 0.0001, ***p < 0.001, **p < 0.01, and *p < 0.05. ns, non-significant. Each dot represents a single replicate.(G) Histology from AST and APcKO
+  tumors stained for H&E, MYOD1, myogenin, and desmin. Scale bars, 100 μm.(H) Left: immunohistochemistry for Ki67 in AST and APcKO tumors. Right: quantification of Ki67 staining. AST n = 3 tumors from three different mice and 6,530 cells. APcKO
+  n = 3 tumors from three different mice and 11,095 cells. Scale bars, 100 μm. Errors bars ± SEM, ns = not significant. Each dot represents quantification of a single image.(I) Volcano plot of DEGs from AST and APcKO bulk tumor cell RNA-seq.(J) Venn diagram of genes with 2-fold overexpression and p < 0.05 in AST and APcKO tumors from (I).(K–M) Top ten unique gene GO terms of genes from (J) in all tumors (K), only APcKO tumors (L), and only AST tumors (M). The number in parentheses is the number of genes in each GO term
+article_title: Transdifferentiation of endothelial progenitor cells into rhabdomyosarcoma
+  defined by hedgehog signaling competence
+citation: Katherine E. Gadek, et al. Cell Rep. 2025 Oct 28;44(10).
+year: '2025'
+pub_date: '2025-10-28'
+epub_date: 2025-9-24
+doi: 10.1016/j.celrep.2025.116339
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

@@ -1,0 +1,46 @@
+---
+figid: PMC11398371__nihpp-2024.09.02.610816v2-f0004
+pmcid: PMC11398371
+image_filename: jpg
+figure_link: /pmc/articles/PMC11398371/figure/F4/
+number: 'Figure 4:'
+figure_title: Geographic organization and cellular interactions in the tumor segregate
+  the microenvironment through local chemotactic hubs while fueling tumor growth
+caption: (A-D) Single-cell RNA sequencing was performed on ex vivo bladder tumors
+  (n=3 BCG-naïve, n=4 BCG-unresponsive) and tumor cells selected for further analyses.(A)
+  UMAP visualization of bladder tumor cells from unsupervised clustering. Each color
+  represents one cluster.(B) Average expression of HLA-E per cluster (left) and distribution
+  of the bladder tumor cell clusters in BCG-naïve and BCG-unresponsive NMIBC tumors
+  (right).(C) Pathway analysis of Hallmark gene networks that are significantly differentially
+  expressed on HLA-Ehigh and HLA-Elow bladder tumor cells.(D) Differential expression
+  in HLA-Ehigh and HLA-Elow tumors of key genes of interest.(E-L) Spatial transcriptomics
+  sequencing (ST-seq) was performed on ex vivo bladder tumors (n=4 BCG-naïve, n=4
+  BCG-unresponsive)(E) Representative ST-seq image from one NMIBC tumor highlighting
+  the proximity of stromal cells and tumor cells according to HLA-E expression in
+  the tumors and CXCL12 expression in the stromal cells.(F) Summary graph of the proximity
+  between HLA-Elow/high tumors and CXCL12high spots.(G) Average expression in all
+  cell populations of genes of interest that are upregulated in neutrophils and their
+  ligands/receptors.(H) Representative ST-seq image from one NMIBC tumor highlighting
+  the proximity of NK and CD8 T cells to neutrophils.(I) Summary graph of the neutrophils
+  deconvolution scores in spots that are neighbors of NK/CD8T cells vs other cells.(J)
+  Average expression in all cell populations of genes of interest that are upregulated
+  in mReg DCs and their ligands/receptors.(K) Representative ST-seq image from one
+  NMIBC tumor highlighting the proximity of NK and CD8 T cells to mReg DCs.(L) Summary
+  graph of the mReg DCs deconvolution scores in spots that are neighbors of NK/CD8T
+  cells vs other cells
+article_title: HLA-E and NKG2A Mediate Resistance to BCG Immunotherapy in Non-Muscle-Invasive
+  Bladder Cancer
+citation: D. Ranti, et al. bioRxiv. 2025 Sep 09;NA(NA).
+year: '2025'
+pub_date: 2025-9-09
+epub_date: 2025-9-09
+doi: 10.1101/2024.09.02.610816
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Non-muscle-invasive bladder cancer
+- BCG-unresponsive
+- NK cells
+- Immunotherapy
+---

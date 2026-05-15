@@ -1,0 +1,42 @@
+---
+figid: PMC12618069__jci-135-186258-g031
+pmcid: PMC12618069
+image_filename: jpg
+figure_link: /pmc/articles/PMC12618069/figure/F1/
+number: Figure 1
+figure_title: Receptor-driven B cell activation results in different cellular responses
+caption: (A) Schematic of T cell–dependent or –independent B cell activation pathways.
+  (B) Multiomics profiling experimental design. Human primary peripheral blood CD19+
+  B cells were isolated by negative selection from 3 donors and stimulated by CD40L
+  (50 ng/mL), CpG (0.5 μM), IL-4 (20 ng/mL), αIgM (1 mg/mL), or combinations thereof
+  for 24 hours and then profiled. (C–E) Principal component analysis of transcriptomic
+  (C), proteomic (D), and metabolomic (E) datasets. (F) Numbers of differentially
+  expressed genes (DEGs), proteins (DEP), and metabolites (DEMs) across conditions
+  using the numbering scheme in B, relative to unstimulated cells and using a P value
+  < 0.01 and a fold-change > 2 or <0.5 cutoff. (G) GSEA of pathways enriched across
+  conditions at the RNA (top) or protein (bottom) levels. (H) Heatmap visualization
+  of row z scores of mRNA and protein abundance in GSEA Hallmark mTORC1 signaling
+  (top) and MYC target V2 (bottom) gene set. (I) Heatmap visualization of row z scores
+  of mRNA and protein abundance in GSEA TNF-α signaling via NF-κB gene set. (J) Volcano
+  plot visualization of –log10 (P value statistical significance) versus log2 (mRNA
+  abundance fold change) from RNA-Seq analysis of B cells stimulated with αIgM + CpG
+  versus CD40L + IL-4. (K) Volcano plot visualization of –log10 (P value statistical
+  significance) versus log2 (protein abundance fold change) from proteomic analysis
+  of B cells stimulated with αIgM + CpG versus CD40L + IL-4
+article_title: Multiomic analysis reveals a key BCAT1 role in mTOR activation by B
+  cell receptor and TLR9
+citation: Rui Guo, et al. J Clin Invest. 2025 Sep 9;135(22).
+year: '2025'
+pub_date: 2025-9-9
+epub_date: 2025-9-9
+doi: 10.1172/JCI186258
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Cell biology
+- Metabolism
+- Adaptive immunity
+- Amino acid metabolism
+- Lymphomas
+---

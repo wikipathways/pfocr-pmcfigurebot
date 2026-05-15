@@ -1,0 +1,43 @@
+---
+figid: PMC12709678__nihms-2115964-f0006
+pmcid: PMC12709678
+image_filename: jpg
+figure_link: /pmc/articles/PMC12709678/figure/F6/
+number: Figure 6.
+figure_title: COL8A1 suppression promotes EndMT
+caption: (A) Matrigel-based tube formation assays of HAECs transfected with control
+  (siCtrl) or COL8A1 siRNA (siCOL8A1), with or without TNF-α treatment for 4 days
+  (scale bar, 200 μm).(B) Quantification of total tube length and number of nodes
+  in each group (n = 5). Data are mean ± SEM, statistical analysis by one-way ANOVA.(C-E)
+  Bulk RNA-seq datasets of control or COL8A1 downregulated HAECs, both of which treated
+  with control siRNA or COL8A1 siRNA for 24 hours.(C) Gene Ontology (GO)-Molecular
+  Function (MF) analysis showing the pathway enrichments.(D) Volcano plot, showing
+  differentially expressed genes (defined as fold-change>2, p value<0.05) upon COL8A1
+  knockdown (siCOL8A1 vs. siCtrl). The annotated genes are COL8A1, and key genes related
+  to endothelial function.(E) Gene Set Enrichment Analysis (GSEA), demonstrating Epithelial
+  to Mesenchymal transition as positive enriched pathway related to COL8A1 knockdown
+  and the differentially expressed genes contributing to the pathway.(F) Western blot
+  analysis of COL8A1, PECAM1, eNOS3, TAGLN, Snail, and GAPDH (loading control) in
+  HAECs transfected with Control siRNA, COL8A1 siRNA, or treated with TNF-α for 60
+  hours.(G) Quantification of normalized protein expression levels for COL8A1 (15
+  kDa and 85 kDa), PECAM1, TAGLN, and Snail, relative to GAPDH (n = 3). Data are mean
+  ± SEM.(H) HAECs transfected with siCtrl or siCOL8A1 were cultured on BSA- or rcol8a1-coated
+  plates. RT-qPCR analysis of PECAM1, ENOS3, and CDH2 expression (n = 6). Data are
+  mean ± SEM; statistical analysis by two-tailed Student’s t-test
+article_title: COL8A1 Regulates Endothelial Phenotype in Inflammatory Endothelial-to-Mesenchymal
+  Transition
+citation: Qian Li, et al. Am J Physiol Heart Circ Physiol. 2025 Nov 01;329(5).
+year: '2025'
+pub_date: '2025-11-01'
+epub_date: '2025-10-03'
+doi: 10.1152/ajpheart.00339.2025
+journal_title: American journal of physiology. Heart and circulatory physiology
+journal_nlm_ta: Am J Physiol Heart Circ Physiol
+publisher_name: .na.character
+keywords:
+- collagen type VIII
+- Inflammation
+- Endothelial-to-mesenchymal transition
+- Tumor necrosis factor-α
+- COL8A1
+---

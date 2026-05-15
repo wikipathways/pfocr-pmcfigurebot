@@ -1,0 +1,45 @@
+---
+figid: PMC12618069__jci-135-186258-g032
+pmcid: PMC12618069
+image_filename: jpg
+figure_link: /pmc/articles/PMC12618069/figure/F2/
+number: Figure 2
+figure_title: Cross-comparison of αIgM + CpG versus CD40/IL-4–driven B cell metabolism
+  remodeling
+caption: (A) Gene ontology (GO) biological process analysis of genes differentially
+  expressed in B cells stimulated with αIgM + CpG versus CD40L + IL-4, using a curated
+  metabolism gene set (34). (B) GSEA Hallmark pathway analysis of oxidative phosphorylation
+  (top) and hypoxia genes in CD differentially expressed genes in B cells stimulated
+  with αIgM + CpG versus CD40L + IL-4. (C) Heatmap analysis of mRNA encoding electron
+  transport chain (ETC) components in cells stimulated as indicated. Columns display
+  z score values for each ETC gene, produced by cross-comparison of the 10 conditions.
+  (D) Seahorse oxygen consumption rate (OCR, top) and extracellular acidification
+  rate (ECAR, bottom) of primary B cells stimulated by indicated conditions for 24
+  hours and subject to flux analysis in the presence of indicated ETC inhibitors.
+  Mean ± SEM from n = 7 replicates shown. P values calculated by 2-way ANOVA. (E)
+  FACS analysis of primary B cell glucose analogue 2-(N-(7-nitrobenz-2-oxa-1,3-diazol-4-yl)amino)-2-deoxyglucose
+  uptake at the indicated time points after stimulation. Mean ± SEM from n = 3 replicates.
+  P values calculated by 2-tailed paired Student’s t test. (F) Heatmap analysis showing
+  intracellular metabolite z scores in primary human B cells stimulated for 24 hours
+  as indicated. (G) Volcano plot visualization of –log10 (P value statistical significance)
+  versus log2 (fold-change metabolite abundance) from primary B cells stimulated by
+  αIgM + CpG versus CD40L + IL-4 for 24 hours from n = 3 replicates. (H) MetaboAnalyst
+  pathway enrichment analysis of metabolites that were higher in αIgM + CpG–stimulated
+  cells than CD40L + IL-4–stimulated cells at 24 hours
+article_title: Multiomic analysis reveals a key BCAT1 role in mTOR activation by B
+  cell receptor and TLR9
+citation: Rui Guo, et al. J Clin Invest. 2025 Sep 9;135(22).
+year: '2025'
+pub_date: 2025-9-9
+epub_date: 2025-9-9
+doi: 10.1172/JCI186258
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Cell biology
+- Metabolism
+- Adaptive immunity
+- Amino acid metabolism
+- Lymphomas
+---

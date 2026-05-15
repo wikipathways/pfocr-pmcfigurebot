@@ -1,0 +1,37 @@
+---
+figid: PMC12485727__nihpp-2025.09.23.678127v1-f0002
+pmcid: PMC12485727
+image_filename: jpg
+figure_link: /pmc/articles/PMC12485727/figure/F2/
+number: Fig. 2.
+figure_title: Genome-wide in vivo CRISPR screen identifies G protein-coupled receptor
+  signaling pathways regulating human T cell abundance in solid tumors
+caption: a. Schematic of the in vivo genome-wide CRISPR screen strategy for regulators
+  of T cell abundance in tumors.b-c. Volcano plots indicate genes with enriched (red)
+  and depleted (blue) guides in T cells from tumors (b) and spleens (c) identified
+  by MAGeCK for tumor vs input and spleen vs input. Each screen includes two human
+  T cell donors. (Enrichment based on FDR < 0.25, abs (Log2FC)⩾0.3). Selected enriched
+  genes with known roles in human T cell fitness are circled.d. Top enriched GO biological
+  processes pathways in the tumor vs input and spleen vs input comparisons, based
+  on top normalized enrichment score (NES) and cutoff of min(qvalue) < 0.0005.e. Gene
+  rank plots of in vivo tumor (tumor versus input) and spleen (spleen versus input)
+  abundance CRISPR screens. Colored points highlight the top 250 genes from the tumor
+  abundance screen that are associated with the GPCR signaling pathways.f. sgRNA z-scores
+  for genes of interest that are associated with the GPCR signaling pathways, shown
+  across the in vivo tumor abundance screen and published in vitro screens6,7.g. Comparison
+  of gene-level log2 fold changes from genome-wide CRISPR knockout screens in human
+  T cells. Each point represents a gene. Log2 fold change from the in vivo T cell
+  abundance screen (y-axis) is plotted against log2 fold change from a published in
+  vitro expansion screen (x-axis; Freitas et al.7)
+article_title: In vivo genome-wide CRISPR screens in human T cells to enhance T cell
+  therapy for solid tumors
+citation: Qi Liu, et al. bioRxiv. 2025 Sep 24;NA(NA).
+year: '2025'
+pub_date: 2025-9-24
+epub_date: 2025-9-24
+doi: 10.1101/2025.09.23.678127
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

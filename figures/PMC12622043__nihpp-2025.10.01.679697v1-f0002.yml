@@ -1,0 +1,43 @@
+---
+figid: PMC12622043__nihpp-2025.10.01.679697v1-f0002
+pmcid: PMC12622043
+image_filename: jpg
+figure_link: /pmc/articles/PMC12622043/figure/F2/
+number: Figure 2.
+figure_title: Age-related increase in NF-kB-activation in tissue fibroblasts
+caption: (A) Xenium spatial analysis of BALT from aged mouse identifying adventitial
+  fibroblast markers.(B) Flow cytometry plots of GFP expression in adventitial fibroblasts
+  from young (4-month) and aged (24-month) INKBRITE mice, as well as percentage of
+  fibroblasts that are GFP+, and GFP intensity within GFP+ population (young n = 6
+  mice, aged n = 7 mice).(C) qPCR analysis of indicated NF-kB target genes in GFP+
+  vs GFP− adventitial fibroblasts from aged (24-month) INKBRITE mice.(D) UMAPs of
+  scRNA-sequencing data of fibroblasts from young and aged WT mice.(E) IPA of scRNA-sequencing
+  of aged vs. young adventitial fibroblasts. Activation score >2 predicts pathway
+  activation.(F) Violin plots of NF-kB target genes in adventitial fibroblasts.(G)
+  Nuclear/cytoplasmic ratio of p65 in cultured lung adventitial fibroblasts from young
+  (3 mo.) versus aged (>24 mo.) WT mice, as well as sample anti-p65 immunocytochemistry.
+  Ratio determined by intensity of p65 staining overlying the nucleus compared with
+  that of the cytoplasm (young n = 171, aged n = 279 cells). All p-values determined
+  by 2-tailed t-test, * p<0.05, **p<0.01, *** p<0.001, ****p<0.0001
+article_title: Fibroblast orchestration of inflammaging via NF-kB activation
+citation: Nancy C. Allen, et al. bioRxiv. 2025 Oct 01;NA(NA).
+year: '2025'
+pub_date: '2025-10-01'
+epub_date: '2025-10-01'
+doi: 10.1101/2025.10.01.679697
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Inflammaging
+- immune aging
+- fibroblasts
+- adventitia
+- NF-kB
+- TNFAIP3
+- GZMK+ T cells
+- T cell exhaustion
+- tertiary lymphoid structure
+- ARDS
+- aged lung
+---

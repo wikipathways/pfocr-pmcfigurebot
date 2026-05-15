@@ -1,0 +1,34 @@
+---
+figid: PMC12157620__nihpp-2025.06.08.658490v3-f0004
+pmcid: PMC12157620
+image_filename: jpg
+figure_link: /pmc/articles/PMC12157620/figure/F4/
+number: Figure 4.
+figure_title: Decreases in T cell effector differentiation and TCR signaling genes
+  in γδT17p cells from HEB cKO mice
+caption: A. Volcano plots showing differential gene expression in γδT17p cells from
+  WT versus HEB cKO fetal thymus. Genes expressed at higher levels in HEB cKO cells
+  are on the left, and genes expressed at lower levels in HEB cKO cells are on the
+  right. Significance (pink) was set at Log2Fc > 0.5 and Log10P <1025. B. Gene ontology
+  analysis of genes significantly reduced in HEB cKO γδT17p cells relative to WT,
+  with significance set at avg Log2Fc > 0.25 and adjusted P value < 0.001. Bar plots
+  show pathway enrichment (Fold enrichment) and significance by false discovery rate
+  (FDR) for each functional category defined in the KEGG pathway list. Minimum genes
+  for pathway inclusion was set at 5 and FDR cutoff was set at 0.05. C. Relative expression
+  of genes associated with strong TCR signaling in WT and HEB cKO cells in each cluster.
+  D. Relative expression of Id3 in immature γδ T cell subsets from WT and HEB cKO
+  mice. E. Split feature plots showing expression of Id3 across all clusters in WT
+  versus HEB cKO cells. F. Relative expression of Maf and Rorc in WT versus HEB cKO
+  γδT cell subsets. WT = blue, HEB cKO = orange
+article_title: HEB collaborates with TCR signaling to upregulate Id3 and enable γδT17
+  cell maturation in the fetal thymus
+citation: Johanna S. Selvaratnam, et al. bioRxiv. 2025 Sep 12;14(NA).
+year: '2025'
+pub_date: 2025-9-12
+epub_date: 2025-9-12
+doi: 10.1101/2025.06.08.658490
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

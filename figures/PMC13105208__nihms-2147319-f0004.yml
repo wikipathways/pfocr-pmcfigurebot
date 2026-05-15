@@ -1,0 +1,46 @@
+---
+figid: PMC13105208__nihms-2147319-f0004
+pmcid: PMC13105208
+image_filename: jpg
+figure_link: /pmc/articles/PMC13105208/figure/F4/
+number: 'Figure 4:'
+figure_title: Correlated motions analysis of RKIP reveal that the fluctuations of
+  the αE helix are correlated with the dynamic of the phosphorylation loop
+caption: (A) Dynamic cross-correlation matrix (DCCM) calculated for pairs of C-alpha
+  atoms in the CHARMM-CSI ensemble of RKIP. Grey and black bars on the two axes indicate
+  the positions of β-strands and α-helices, respectively. Black boxes outline positive
+  correlations between the loop’s residues 41–49 and 107–116 with C-terminal helix
+  residues 172–187. The DCCM of the corresponding AMBER-CSI ensemble is reported in
+  Figure S11. (B) Correlated motions (correlation coefficients ≥ 0.3) between Cα atoms
+  of spatially distant residues (15 positions apart in sequence) as mapped onto the
+  RKIP structure using red lines. The close-up view illustrates the positively correlated
+  residues highlighted using black boxes in the DCCM matrix. (C) 2D population surface
+  plotted vs. the αE helix displacement (rmsd calculated relative to the X-ray structure)
+  and the range of extension of the 46–51 loop, calculated as the distance between
+  the Cα of residues 46 and 51. Three main basins with progressive degree of detachment
+  of the helix αE from the protein core are identified. Red arrows show a hypothetical
+  pathway linking the native basin B1 with the one showing the high-energy expanded
+  state showing a complete detachment of helix αE (B3). The dashed green line marks
+  the V46–S51 distance observed in the crystal structure (2IQY). (D) Structure of
+  RKIP showing αE and the loop 46–51 regions in blue, with the distance between residue
+  V46 and S51 depicted in green
+article_title: Protein Kinase A Phosphorylates a Conformationally High-Energy State
+  of Raf Kinase Inhibitory Protein
+citation: Cristina Olivieri, et al. J Mol Biol. 2025 Dec 01;437(23).
+year: '2025'
+pub_date: '2025-12-01'
+epub_date: 2025-9-26
+doi: 10.1016/j.jmb.2025.169466
+journal_title: Journal of molecular biology
+journal_nlm_ta: J Mol Biol
+publisher_name: .na.character
+keywords:
+- Protein kinase A
+- Raf Kinase Inhibitory Protein
+- Protein-Protein Interactions
+- Protein Dynamics
+- Allostery
+- NMR
+- CEST
+- CPMG
+---

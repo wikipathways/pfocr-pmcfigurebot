@@ -1,0 +1,37 @@
+---
+figid: PMC12622205__nihpp-2509.25417v1-f0003
+pmcid: PMC12622205
+image_filename: jpg
+figure_link: /pmc/articles/PMC12622205/figure/F3/
+number: 'Figure 3:'
+figure_title: Computational Drug Repurposing for Alzheimer’s Disease via Sheaf Theoretic
+  Population-Scale Analysis of snRNA-seq Data
+caption: a. UMAP plot of the microglial state transitionary cells taken from Sun et.
+  al. Cells are colored by their activation status. b. Schematic overview of the interactions
+  between disease associated microglia cells and the BBB in AD. c. UMAP plots of the
+  early Inflammatory and Phagocytic microglia cells, with up-regulated DEGs in the
+  phagocytic state being used to construct a PPI complex. Top dysregulated genes in
+  terms of logFC are labeled. d. Focused analysis of PPI structures surrounding our
+  top scoring topologically significant genes from the PSL analysis. The largest connected
+  component made up of topological genes is extracted and its structure reveals four
+  primary axes joined by a central HIF1A / PPARG / APOE backbone. e. The topological
+  genes and their surrounding PPI structures were then used to conduct a pathway analysis
+  via the GO databases in GSEApy, revealing coherent and coordinated pathways driving
+  different aspects of phagocytosis as well as hypoxia, antigen presentation, and
+  outside immune recruitment
+article_title: Computational Drug Repurposing for Alzheimer’s Disease via Sheaf Theoretic
+  Population-Scale Analysis of snRNA-seq Data
+citation: Sean Cottrell, et al. ArXiv. 2025 Sep 29;69(4).
+year: '2025'
+pub_date: 2025-9-29
+epub_date: 2025-9-29
+doi: .na.character
+journal_title: ArXiv
+journal_nlm_ta: ArXiv
+publisher_name: arXiv
+keywords:
+- Topological Data Analysis
+- Persistent Sheaf Laplacian
+- snRNAseq
+- Drug Discovery
+---

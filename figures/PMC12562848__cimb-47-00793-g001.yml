@@ -1,0 +1,39 @@
+---
+figid: PMC12562848__cimb-47-00793-g001
+pmcid: PMC12562848
+image_filename: jpg
+figure_link: /pmc/articles/PMC12562848/figure/F1/
+number: Figure 1
+figure_title: Results of network pharmacology and molecular docking.
+caption: Results of network pharmacology and molecular docking. (A) 2D structural
+  diagram of EC. The red O represents the oxygen element in the 2D structure of epicatechin.
+  (B) Venn diagram illustrating the overlap between EC targets and aging—related genes.
+  (C) Core components were identified by adopting Cytoscape 3.10.2 grounded in a median
+  degree greater than 2, ultimately bringing about 54 paramount targets, comprising
+  EGFR, ErbB4, NFKB1 and BCL2. (D) GO analysis of the 54 core targets revealed 15
+  enriched phrases related to molecular functions (MFs), cellular components (CCs)
+  and biological processes (BPs). (E) KEGG pathway enrichment analysis unveiled critical
+  pathways tightly correlated with anti-aging effects, such as the EGF receptor tyrosine
+  kinase inhibitor resistance pathway, the PI3K-Akt signaling pathway and the cancer
+  proteoglycan pathway. (F) As molecular docking results suggested, EC binds effectively
+  to Neuregulin-1 (NRG1), illustrating a binding affinity of −2.68 kcal/mol. (G) Visualization
+  via PyMOL confirmed stable interactions between EC and NRG1, which adequately demonstrates
+  favorable binding activity
+article_title: Epicatechin Protects Against Post-Cardiac Arrest Brain Injury in Aged
+  Rats via NRG1-Mediated Suppression of Neuroinflammation
+citation: Hui-Hui Wang, et al. Curr Issues Mol Biol. 2025 Oct;47(10).
+year: '2025'
+pub_date: 2025-10-
+epub_date: 2025-9-24
+doi: 10.3390/cimb47100793
+journal_title: Current Issues in Molecular Biology
+journal_nlm_ta: Curr Issues Mol Biol
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- aging
+- Epicatechin
+- inflammation
+- cardiopulmonary resuscitation
+- Neuregulin-1
+- NF-κB
+---

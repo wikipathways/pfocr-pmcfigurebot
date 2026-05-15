@@ -1,0 +1,50 @@
+---
+figid: PMC7618711__EMS212089-f001
+pmcid: PMC7618711
+image_filename: jpg
+figure_link: /pmc/articles/PMC7618711/figure/F1/
+number: Figure 1
+figure_title: Rapid intracellular ATP depletion directly drives translation shutdown
+caption: (A) Polysome gradient analyses assessing translational status on 2% glucose,
+  and 10 min after transfer to 2% glycerol/2% ethanol (no glucose). Positions of small
+  (40S) and large (60S) ribosomal subunits, monosomes (80S), and polysomes with multiple
+  ribosomes are indicated.(B) Estimated intracellular nucleoside triphosphate (NTP)
+  pools following glucose withdrawal (mean values; n = 3). Km[ATP] for eIF4A is indicated
+  (dashed line).(C) ADP:ATP ratio following glucose withdrawal (mean values; n = 3).(D)
+  GTP and ADP concentrations (log10-adjusted means; n = 3). Binding constants for
+  eIF4A and eEF1A are indicated (dashed lines).(E) Analysis of translation initiation
+  factor recovery following in vivo UV crosslinking (254 nm) and poly(A) selection.
+  Cells were irradiated during growth on 2% glucose or 30 s, 1 min, and 10 min after
+  transfer to 2% glycerol/2% ethanol. Total proteins in cell lysates (input) and proteins
+  recovered after mRNA binding to oligo [dT]25 beads (eluate) were analyzed by western
+  blots decorated with anti-FLAG for FLAG-eIF4A and FLAG-eIF4B.(F) Quantification
+  of (E). Intensities were normalized to Pab1 as positive control for input and pull-down
+  efficiency (n = 2). Bar graphs represent the amount of eIF4A/4B bound to mRNA as
+  a percentage of pre-shift level.(G) Proposed “differential affinity” mechanism for
+  rapid translational arrest. In the absence of glucose, flux through the glycolytic
+  pathway is stopped immediately and NTP production falls, while usage continues,
+  leading to rapid depletion. ATP levels fall below the binding constants for the
+  low-affinity DEAD-box helicases required for initiation, displacing these ATP-dependent
+  RNA-binding protein from transcripts. Comparatively, elongation factors are high
+  affinity and retain GTP binding, allowing translation to continue from initiated
+  ribosomes. In the absence of recycling, polysomes run off, leaving free translation
+  machinery and transcripts.(H) Intracellular ATP and GTP levels (mean values; n =
+  3) during growth in 2% sucrose and following addition of mitochondrial inhibitor
+  antimycin A (AA) to 0.02 μg/mL. Km[ATP] for eIF4A is indicated (dashed line).(I)
+  Polysome gradient analyses for yeast grown in 2% sucrose and 10 min after addition
+  of 0.02 μg/mL AA.(J) Western blot analysis of translation initiation factor mRNA
+  binding. In vivo UV crosslinking was performed during growth on 2% sucrose or 10
+  min after addition of 0.02 μg/mL AA, followed by poly(A) selection and analysis
+  as in (D)
+article_title: Rapid remodeling of NTP levels enables immediate translational adaptation
+  to energy stress in yeast
+citation: Katherine Bexley, et al. Mol Cell. 2025 Oct 02;85(19).
+year: '2025'
+pub_date: '2025-10-02'
+epub_date: 2025-9-19
+doi: 10.1016/j.molcel.2025.08.031
+journal_title: Molecular cell
+journal_nlm_ta: Mol Cell
+publisher_name: .na.character
+keywords: []
+---

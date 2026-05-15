@@ -1,0 +1,47 @@
+---
+figid: PMC10888887__nihpp-2024.02.11.579839v2-f0004
+pmcid: PMC10888887
+image_filename: jpg
+figure_link: /pmc/articles/PMC10888887/figure/F4/
+number: Fig 4.
+figure_title: Evaluation of cluster-specific marker genes identified by NCLUSION on
+  the PBMC dataset (N=94,615cells)
+caption: (A) The framework used for assessing cluster-specific marker genes. (B) Embeddings
+  of the experimental annotations for major cell types from the PBMC dataset compared
+  to the clusters inferred by NCLUSION. (C) Heat maps of the adjusted posterior inclusion
+  probabilities (PIPs) (left), effect size sign (ESS) (center), and strictly standardized
+  mean difference (SSMD) (right) of significant genes in each cluster. Cluster-specific
+  marker genes are selected as those that have a significant inclusion probability,
+  are up-regulated in a given cluster, and have a large effect size magnitude such
+  that PIP ≥ 0.5, ESS = +, and |SSMD(j;k)|≥S*(j;k), respectively. Here S*(j;k) is
+  a threshold set to preserve a false positive rate of 0.05. (D) Highlighted location
+  on t-SNEs of NCLUSION-inferred clusters that contain predominantly one cell type.
+  (E) Violin plots comparing the normalized expression of cluster-specific marker
+  genes in each of the inferred clusters. (F) Scatter plot comparing the marker genes
+  identified using post hoc differential expression analysis with Seurat (yellow)
+  versus the variable selection approach with NCLUSION (blue). Yellow points have
+  PIP ≥ 0.5 and ESS = +, while purple points have PIP ≥ 0.5 and ESS = −, respectively.
+  The vertical dashed line marks the median probability criterion38, and the horizontal
+  dashed line marks the Bonferroni-corrected threshold for significant q-values (i.e.,
+  an adjusted P). Genes in the top right quadrant are identified by both methods.
+  (G) Scatter plot comparing gene ontology (GO) pathway enrichment analyses using
+  cluster-specific marker genes from Seurat versus NCLUSION. The horizontal and vertical
+  lines correspond to significant q-values being below 0.05. Pathways in the top right
+  quadrant are selected by both approaches (red), while elements in the bottom right
+  and top left quadrants are uniquely identified by NCLUSION (blue) and Seurat (orange),
+  respectively. (H) Highlight of select top GO pathway enrichment analysis for the
+  marker genes identified by NCLUSION. Plotted on the x-axis are the negative log-transformed
+  q-values for each GO gene set. Gene sets with a q-value below 0.05 are deemed to
+  be significant
+article_title: Scalable nonparametric clustering with unified marker gene selection
+  for single-cell RNA-seq data
+citation: Chibuikem Nwizu, et al. bioRxiv. 2025 Sep 22;6(3).
+year: '2025'
+pub_date: 2025-9-22
+epub_date: 2025-9-22
+doi: 10.1101/2024.02.11.579839
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

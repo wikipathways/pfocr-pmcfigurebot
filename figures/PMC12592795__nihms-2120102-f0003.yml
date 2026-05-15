@@ -1,0 +1,36 @@
+---
+figid: PMC12592795__nihms-2120102-f0003
+pmcid: PMC12592795
+image_filename: jpg
+figure_link: /pmc/articles/PMC12592795/figure/F2/
+number: Figure 2.
+figure_title: Cdh5-Cre;R26SmoM2 mice develop myofibroblastic tumors
+caption: (A–C) Expression of SmoM2 transgene (Smoothened-YFP) and SHH pathway target
+  genes (A; Gli1 and Ptch1), early muscle developmental genes (B; Myod1 and Myogenin),
+  or terminal differentiated muscle genes (C; Ckm and Myh4) in cultured myoblasts,
+  SCM muscle, AST, CST, and MST. Data in (A) and (C) relative to the SCM, and data
+  in (B) relative to myoblasts. Error bars ± SEM, n = 3 tumors/genotype, ****p < 0.0001,
+  ***p < 0.001, and **p < 0.01. Each dot represents the average of one biological
+  replicate run in triplicate.(D) Hierarchical clustering heatmap of bulk RNA-seq
+  from MST (n = 4), AST (n = 4), and CST (n = 5) tumors compared to WT C57BL/6 gastrocnemius
+  muscle.47(E) Principal components analysis of MST, AST, and CST tumor bulk RNA-seq
+  in (D).(F) Venn diagram of genes with 4-fold overexpression and p < 0.05 in AST,
+  CST, and MST tumors from (D).(G and H) Top ten unique GO terms of genes from D in
+  all tumors (G) or only CST tumors (H).(I) Volcano plot of DEGs from AST and CST
+  tdTomato+/PECAM1− tumor cell RNA-seq. Red and blue dots represent significant DEGs.(J
+  and K) GSEA enrichment plots of AST (J) or CST (K) tumor cells. NES, normalized
+  enrichment score.(L) Immunofluorescence (left) and quantification (right) of myogenic
+  marker MYOD1 in CST tdTomato+ tumor cells Scale bars, 100 μm. n = 5 tumors, 2,613
+  cells. ***p < 0.001. Each dot represents quantification of a single image
+article_title: Transdifferentiation of endothelial progenitor cells into rhabdomyosarcoma
+  defined by hedgehog signaling competence
+citation: Katherine E. Gadek, et al. Cell Rep. 2025 Oct 28;44(10).
+year: '2025'
+pub_date: '2025-10-28'
+epub_date: 2025-9-24
+doi: 10.1016/j.celrep.2025.116339
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

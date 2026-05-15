@@ -1,0 +1,40 @@
+---
+figid: PMC12564598__biomolecules-15-01354-g002
+pmcid: PMC12564598
+image_filename: jpg
+figure_link: /pmc/articles/PMC12564598/figure/F2/
+number: Figure 2
+figure_title: Expression changes of carbon metabolism genes in response to CAP treatment
+  of stationary-phase cells in glucose medium.
+caption: 'Expression changes of carbon metabolism genes in response to CAP treatment
+  of stationary-phase cells in glucose medium. (a) Heatmap of expression fold changes
+  (FCs) for genes involved in major carbon metabolism pathways. The log2FC values
+  are color-coded as indicated, with grey boxes indicating non-significant expression
+  changes (FDR > 0.05). (b) Carbon metabolism network scheme to map gene expression
+  changes in response to CAP treatment in stationary-phase cells grown in glucose
+  medium. Genes are colored according to their log2FC shown in (a): red indicates
+  significantly induced genes (log2FC > 1), blue indicates significantly repressed
+  genes (log2FC < −1), black indicates small fold changes (−1 < log2FC < 1), and grey
+  indicates non-significant changes (FDR > 0.05)'
+article_title: Mitochondrial Translation Inhibition Triggers an Rst2-Controlled Transcriptional
+  Reprogramming of Carbon Metabolism in Stationary-Phase Cells of Fission Yeast
+citation: Ying Luo, et al. Biomolecules. 2025 Oct;15(10).
+year: '2025'
+pub_date: 2025-10-
+epub_date: 2025-9-24
+doi: 10.3390/biom15101354
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- S. pombe
+- retrograde response
+- carbon catabolite repression
+- Scr1
+- transcription factor
+- transcriptome
+- mitochondrial metabolism
+- stress response
+- RNA-seq
+- genetic interactions
+---

@@ -1,0 +1,43 @@
+---
+figid: PMC10996646__nihpp-2024.03.26.586745v7-f0002
+pmcid: PMC10996646
+image_filename: jpg
+figure_link: /pmc/articles/PMC10996646/figure/F2/
+number: Fig. 2 |
+figure_title: ComSLI detects fiber orientations independent of tissue preparation
+  and species
+caption: '(A-C) Human Hippocampi, FFPE sections with different stains. (A) Brightfield
+  microscopy images, 0.5μm/pixel. (B) ComSLI fiber orientation maps, 7μm/pixel, orientations
+  encoded by color wheel. (C) Zoomed-in fiber orientation vector maps (white box in
+  (B)), including parts of cornu ammonis and multiple tracts: fornix (f), endfolial
+  pathway (ef), alveus (al), Schaffer collaterals (Sch). Vectors of 15x15 pixels are
+  overlaid. (D) Orientation difference for each pair of consecutive sections, as map
+  (left) and histogram (right), with median value and full-width-half-maximum (FWHM)
+  reported. Histograms were generated from the difference maps excluding zero/background
+  pixels (43 vs. 45: 2 850 173 pixels, 45 vs. 49: 2 784 337 pixels, 49 vs. 51: 2 787
+  707 pixels) with a bin size of 0.3°. (E-F) Myelin-stained human brain section (~120-year-old).
+  (E) Section photograph. (F) ComSLI color-coded fiber orientation map (3μm/pixel)
+  of marked region in (E), cc: corpus callosum, Cd: Caudate nucleus, MB: Muratoff
+  bundle (arrowhead). (G-J) Sagittal mouse brain section, FFPE, microglia-stained.
+  (G) Brightfield image, 0.5μm/pixel. (H) ComSLI average scattering signal, 4.25μm/pixel.
+  (I) Fiber orientation map. (J) Zoom-in of box in (H) (cerebellar area), including
+  cerebellar peduncle (cp), cerebellar nuclei (cn), lobes (inferior-il, posterior-pl,
+  central-cl, anterodorsal-adl, anterobasal-abl), and gray matter including oriented
+  molecular layer (ml) fibers. Vectors overlaid for 15x15 pixels. (K-N) Pig hemisphere-brain
+  section, FFPE, H&E-stained. (K) Brightfield image, 0.5μm/pixel. (L) ComSLI average
+  scattering signal, 9μm/pixel. (M) Fiber orientation map. (N) Fiber orientations
+  from box in (L), overlaid for 15x15 pixels, including U-fiber tracts (curved arrows)
+  and multiple crossing fibers (straight arrows); external capsule (ec), internal
+  capsule (ic), corpus callosum (cc)'
+article_title: Micron-resolution fiber mapping in histology independent of sample
+  preparation
+citation: Marios Georgiadis, et al. bioRxiv. 2025 Sep 18;16(NA).
+year: '2025'
+pub_date: 2025-9-18
+epub_date: 2025-9-18
+doi: 10.1101/2024.03.26.586745
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

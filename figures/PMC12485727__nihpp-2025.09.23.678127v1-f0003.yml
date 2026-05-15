@@ -1,0 +1,52 @@
+---
+figid: PMC12485727__nihpp-2025.09.23.678127v1-f0003
+pmcid: PMC12485727
+image_filename: jpg
+figure_link: /pmc/articles/PMC12485727/figure/F3/
+number: Fig. 3.
+figure_title: GGG-P2RY8 axis inhibits human T cell trafficking in solid tumors
+caption: 'a. Comparison of gene enrichment values (log2 fold change, across two donors)
+  in the in vivo abundance screen, evaluating tumor versus spleen and tumor versus
+  input conditions, colored by direction and specificity of effect comparing the two
+  conditions. Genes meeting the significance threshold (p-value<=0.05 and abs (Log2FC)⩾0.2)
+  are highlighted.b. Schematic of the P2RY8 signaling pathway that inhibits germinal
+  center B cell migration. Schematic is based on literature34.c. Phylogenetic tree
+  of P2RY8 homologues across different species, with rodents notably absent.d. In
+  vitro P2RY8 ligand bioassay. Schematic (left): GFP-P2RY8-expressing and wild-type
+  WEHI-231 cells were placed in the upper chamber of a transwell insert. Migration
+  toward CXCL12 in the lower chamber was quantified by flow cytometry, measuring the
+  percentage of GFP-P2RY8-expressing cells that reached the bottom well. Representative
+  data (right): Migration is normalized to GFP-P2RY8-expressing cells that migrated
+  toward migration media alone. Tumor supernatants were diluted with fresh migration
+  media at the indicated ratios (n = 3 biological replicates per group).e. In vitro
+  human T cell transwell migration assay. AAVS1 control and P2RY8 KO human T cells
+  were labeled with CellTrace™ Violet and CellTrace™ Far Red, respectively, and mixed
+  at a 1:1 ratio. Flow cytometry analysis showing the percentages of AAVS1 and P2RY8
+  KO human T cells within total CD45+ T cells before being added to the transwell
+  insert (before) and after migration to the bottom well (after). Data represent four
+  technical replicates and are representative of one of three independent human T
+  cell donors.f. In vivo migration assay. GFP-labeled AAVS1 control and BFP-labeled
+  P2RY8 KO CD19 CAR T cells, NY-ESO-1 TCR T cells, or CLDN18.2 CAR T cells were mixed
+  at a 1:1 ratio and intravenously co-transferred into NSG mice bearing CD19-A375,
+  A375, or OE19 tumors, respectively. Forty-eight hours after transfer, the distribution
+  of GFP+ AAVS1 and BFP+ P2RY8 KO T cells in spleen and tumor were analyzed by flow
+  cytometry (n = 3–4 mice per group).g-h. Tumor growth in NSG mice bearing CD19-A375
+  tumors (g) or CD19-A549 tumors (h) treated with AAVS1 vs P2RY8 KO CD19 CAR T cells
+  9 days post tumor injection (n = 6 mice for each group).i. Tumor growth of CD19-AsPC-1
+  tumor-bearing NSG mice treated with AAVS1 vs P2RY8 KO CD19 CAR T cells 25 days post
+  tumor injection (left) and tumor size at day 84 post CAR T cell infusion (right)
+  (n = 5 mice for AAVS1 control and 6 mice for P2RY8 KO).P values were determined
+  by two-tailed unpaired Student’s t-test (e, f, i). *P < 0.05, **P < 0.01, ***P <
+  0.001, and ****P < 0.0001. Data are presented as mean ± s.e.m'
+article_title: In vivo genome-wide CRISPR screens in human T cells to enhance T cell
+  therapy for solid tumors
+citation: Qi Liu, et al. bioRxiv. 2025 Sep 24;NA(NA).
+year: '2025'
+pub_date: 2025-9-24
+epub_date: 2025-9-24
+doi: 10.1101/2025.09.23.678127
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

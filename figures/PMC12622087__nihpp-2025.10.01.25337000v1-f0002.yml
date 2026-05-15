@@ -1,0 +1,33 @@
+---
+figid: PMC12622087__nihpp-2025.10.01.25337000v1-f0002
+pmcid: PMC12622087
+image_filename: jpg
+figure_link: /pmc/articles/PMC12622087/figure/F2/
+number: Figure 2.
+figure_title: Significant metabolic changes observed after BSS treatment
+caption: a, Bubble plot of metabolomics and short chain fatty acids. Fold changes
+  were calculated using paired time point samples, Day 2/Day 0. Bubble color reflected
+  the log2 transformed fold changes. Significant difference between paired time point
+  samples were calculated using the Wilcoxon test. Bubble size reflected the −log10
+  transformed adjusted p-values. Metabolites included in the plot passed an FDR 10%
+  significance threshold after adjustment using the Benjamini-Hochberg method. Metabolites
+  were arranged by their associated pathway. b, Bubble plot of bile acids, and c,
+  calculated bile acid ratios. Bubble color reflected paired Day2/Day0 fold changes,
+  and size reflected significance as described in (a). Displayed molecules and ratios
+  pass FDR filter of 20%. d, Sankey diagram depicting positive correlations between
+  genus level eigengene modules to metabolites, arranged by their associated pathway.
+  Genus eigengene module to metabolite connections displayed in the Sankey diagram
+  had a correlation estimate (Pearson method) greater than or equal to 0.4 with p-value
+  less than 0.05
+article_title: Bismuth subsalicylate profoundly alters gut microbiome and immunity
+  with increased susceptibility to infection
+citation: Victor I. Band, et al. medRxiv. 2025 Oct 03;NA(NA).
+year: '2025'
+pub_date: '2025-10-03'
+epub_date: '2025-10-03'
+doi: 10.1101/2025.10.01.25337000
+journal_title: medRxiv
+journal_nlm_ta: medRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

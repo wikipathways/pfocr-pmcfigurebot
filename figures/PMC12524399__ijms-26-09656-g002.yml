@@ -1,0 +1,50 @@
+---
+figid: PMC12524399__ijms-26-09656-g002
+pmcid: PMC12524399
+image_filename: jpg
+figure_link: /pmc/articles/PMC12524399/figure/F2/
+number: Figure 2
+figure_title: Roles of circRNAs in viral infections.
+caption: 'Roles of circRNAs in viral infections. (a) The ceRNA mechanism regulates
+  viral infection: SARS-CoV-2-encoded circ_3205 sponges hsa-miR-298, promoting infection
+  by upregulating PRKCE and KCNMB4 [21]. In EBV-positive B lymphoma cells, circEAF2
+  expression is significantly downregulated. CircEAF2 functions as a molecular sponge,
+  effectively sequestering miR-BART19-3p. This interaction diminishes miR-BART19-3p’s
+  ability to suppress APC mRNA, resulting in an upregulation of APC mRNA levels. The
+  subsequent rise in APC protein levels leads to a decrease in β-catenin expression
+  downstream, thereby suppressing B cell proliferation through Wnt pathway inactivation
+  [22]. (b) Interacts with proteins to regulate viral infection: EBV-encoded circBART2.2
+  activates IRF3 and NF-kB by binding to RIG-I helicase domains, promoting PD-L1 expression
+  for immune evasion [23]. In A549 cells infected with IAV, circVAMP3 levels increase
+  significantly. It acts as a decoy for viral proteins NP and NS1, disrupting their
+  functions. NP normally forms RNP complexes with viral RNA for replication and transcription.
+  CircVAMP3 binds NP, preventing RNP formation and blocking viral replication. NS1
+  suppresses RIG-I activation by binding to TRIM25 or directly binding to RIG-1, thereby
+  inhibiting the host immune response. CircVAMP3 binding to NS1 impairs its function,
+  enhancing immune response and reducing viral RNA synthesis [24]. (c) Translated
+  peptides regulate viral infection: CircRNA-vSP27 from BmCPV encodes vsp27, which
+  induces ROS to activate NF-κB, inhibiting infection; vsp21, originating from vcircRNA_000048,
+  induces cellular autophagy by activating ROS production to diminish viral replication
+  [25]. MDV infection generates circRUNX2.2, which translates into peptide circRUNX2.2-rt
+  to interact with cell cycle proteins, promoting cell proliferation and MDV replication
+  [26]. PD-L1, programmed death ligand 1; PD-1, programmed death receptor 1; NP, nucleoprotein;
+  NS1, nonstructural protein 1; RNP, ribonucleoprotein; ROS, reactive oxygen species;
+  UCH, ubiquitin carboxy-terminal hydrolase; CDK, cyclin-dependent kinase; Cyclin,
+  Cyclin-dependent kinase regulatory subunit. Green Arrow: Indicates increased expression
+  of proteins or genes'
+article_title: Roles and Applications of Circular RNA in Virus Infection
+citation: Fang Gou, et al. Int J Mol Sci. 2025 Oct;26(19).
+year: '2025'
+pub_date: 2025-10-
+epub_date: '2025-10-03'
+doi: 10.3390/ijms26199656
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- circular RNAs
+- viral infection
+- RNA therapy
+- viral circRNAs
+- host circRNAs
+---

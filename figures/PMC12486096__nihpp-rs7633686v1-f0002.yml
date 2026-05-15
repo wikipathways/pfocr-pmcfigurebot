@@ -1,0 +1,53 @@
+---
+figid: PMC12486096__nihpp-rs7633686v1-f0002
+pmcid: PMC12486096
+image_filename: jpg
+figure_link: /pmc/articles/PMC12486096/figure/F2/
+number: 'Figure 2:'
+figure_title: IFN-signature enrichment in MS cases with PRL
+caption: 'a) In vivo advanced 7-tesla MRI demonstrating three PRL in a 70-year old
+  man with primary progressive MS and untreated with any disease-modifying therapy
+  for approximately 6 months. Axial T2*-weighted motion- and B0-corrected images at
+  0.5 mm isotropic resolution, magnitude and unwrapped filtered phase images. Images
+  are observed in three planes. A hypointense rim surrounds an isointense core in
+  phase images (bottom row); a central vein sign is also observed through the lesions.
+  On the right of the panel is the PRL categorization5.b) CSF L1 UMAP for PRL-positive
+  versus PRL-negative comparison with total cell population down-sampled equally per
+  condition to 12,500 cells. Right panel is a lineplot showing increased proportion
+  of Transitional-B, B naïve, B memory, plasmablast, and T-regulatory clusters in
+  PRL-positive cases. cDC2 is decreased in proportion in PRL-positive cases.c) Volcano
+  plots of DEG in CSF M5 myeloid subcluster comparing PRL-positive versus PRL-negative
+  (left panel) and PRL-high versus PRL-low cases (right panel). Corrected significance
+  on y-axes represents −log10(adjusted p-value).d) Correlation heatmap comparing average
+  transcriptome similarity of CSF myeloid L2 subclusters vs. the immune-cell populations
+  from a previously published snRNAseq dataset in different cases7. Subclusters M3
+  and M5 show the strongest transcriptional similarity to previously identified MIMS-iron
+  and MIMS-foamy microglia at the CAL edge.e) PBMC myeloid L2 UMAP shown for PRL-positive
+  versus PRL-negative comparison with total cell population randomly down-sampled
+  equally per condition to 7000 cells (left panel). Volcano plots of DEG in the L2
+  CD14M4 and CD14M5 myeloid clusters comparing PRL-positive versus PRL-negative cells.
+  CD14M4 shows upregulation of IFN-related genes while CD14M5 demonstrates upregulation
+  of chemokines, including CCL3, CCL4, CXCL8, and pro-inflammatory cytokines, including
+  IL1B.f) Transcriptional abundance of genes involved in the IFN pathway in the PBMC
+  represented in a dot plot comparing cells from PRL-positive versus PRL-negative
+  cases (left panel). On the right are violin plots showing enrichment of the average
+  IFN module score (“IFN-signature”) across PRL categories in the myeloid and T/NK
+  cells (right panel) in blood.g) Boxplots showing abundance of IFN-related protein
+  assays across patients with 0, 1–3, and ≥4 PRL (PRL categories: none, PRL-low, and
+  PRL-high, respectively) in the serum (* p ≤ 0.05, ** p ≤ 0.01).h) Heatmap demonstrating
+  differentially expressed proteins in CSF across PRL categories in patients. These
+  are the sex- and age-adjusted abundances with abs[(log2(Fold Change (FC))] > 0.58
+  and p < 0.05.i) Differential abundance of CXCL8 and CXCL10 in the CSF of patients
+  across PRL categories (* p ≤ 0.05)'
+article_title: Maintenance of chronic neuroinflammation in multiple sclerosis via
+  interferon signaling and CD8 T-cell-mediated cytotoxicity
+citation: Syed Ali Raza, et al. Res Sq. 2025 Sep 25;NA(NA).
+year: '2025'
+pub_date: 2025-9-25
+epub_date: 2025-9-25
+doi: 10.21203/rs.3.rs-7633686/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords: []
+---

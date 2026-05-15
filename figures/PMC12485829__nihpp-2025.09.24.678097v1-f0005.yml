@@ -1,0 +1,33 @@
+---
+figid: PMC12485829__nihpp-2025.09.24.678097v1-f0005
+pmcid: PMC12485829
+image_filename: jpg
+figure_link: /pmc/articles/PMC12485829/figure/F5/
+number: Figure 5.
+figure_title: Pooled genome-wide CRISPR/Cas9 screening showed nucleus export pathways
+  and nuclear transport pathways were enriched by GO analysis
+caption: (A) Cas9-expressing DLD1 cells were infected with genome-wide pooled gRNA
+  lentivirus. Infected cells were selected with puromycin for 3 days. The cells were
+  then reseeded and treated with NETs condition medium or DLD1 condition medium for
+  16 hours. Genomic DNA was extracted from DLD1 cells after treatment, and gRNA sequences
+  were amplified by PCR. PCR products were purified and subjected to next-generation
+  sequencing. The enriched genes were subjected to GO analysis. The data presented
+  are the enriched pathways
+article_title: CRISPR/Cas9 screenings reveal the role of STX1A and CDK1 in Cathepsin
+  G entering and killing colorectal cancer cells
+citation: Yuxiang Wang, et al. bioRxiv. 2025 Sep 26;31(1).
+year: '2025'
+pub_date: 2025-9-26
+epub_date: 2025-9-26
+doi: 10.1101/2025.09.24.678097
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- CTSG
+- RAGE
+- endocytosis
+- CRISPR/Cas9 screening
+- STX1A
+- CDK1
+---

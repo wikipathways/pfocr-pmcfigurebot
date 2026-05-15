@@ -1,0 +1,40 @@
+---
+figid: PMC12526205__plants-14-02993-g005
+pmcid: PMC12526205
+image_filename: jpg
+figure_link: /pmc/articles/PMC12526205/figure/F5/
+number: Figure 5
+figure_title: Functional annotations of DEGs between LN and NN treatments at the SG
+  stage (LNSG vs.
+caption: 'Functional annotations of DEGs between LN and NN treatments at the SG stage
+  (LNSG vs. NNSG). (a) GO enrichment circle map of DEGs. Tracks are arranged from
+  outermost to innermost: GO terms, yellow tracks represents cellular component (CC),
+  green tracks represents molecular function (MF), purple tracks represents biological
+  process (BP); BgRatio, the ratio of the number of background genes annotated to
+  a GO term (the length of purple tracks represent the number of genes) to the total
+  number of background genes (26,949); GeneRatio, the ratio of the number of DEGs
+  annotated to a GO term (the green parts in the track) to the total number of DEGs
+  (43); −log10(p-value), the lighter the color, the more significant it is; the ratio
+  of the number of DEGs annotated to a GO term to the number of background genes annotated
+  to a GO term, the higher the height, the greater the ratio. (b) KEGG pathway enrichment
+  bubble plot of DEGs. The x-axis shows the GeneRatio, the y-axis shows the metabolic
+  pathway terms. The size of the plotted circle indicates the number of queried genes.
+  The fill color is scaled by the p-value'
+article_title: Integrated Analysis of Transcriptome and Metabolome Reveals the Accumulation
+  of Anthocyanins in Black Soybean (Glycine max L.) Seed Coats Induced by Low Nitrogen
+  Concentration in the Nutrient Solution
+citation: Suming Liang, et al. Plants (Basel). 2025 Oct;14(19).
+year: '2025'
+pub_date: 2025-10-
+epub_date: 2025-9-27
+doi: 10.3390/plants14192993
+journal_title: Plants
+journal_nlm_ta: Plants (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- black soybean
+- low nitrogen
+- anthocyanin
+- metabolites
+- differentially expressed genes
+---

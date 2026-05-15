@@ -1,0 +1,46 @@
+---
+figid: PMC12353624__nihms-2081370-f0007
+pmcid: PMC12353624
+image_filename: jpg
+figure_link: /pmc/articles/PMC12353624/figure/F7/
+number: Figure 7.
+figure_title: Landscape of genetic dependencies in BTCs
+caption: '(A) Scatter plot showing outlier dependencies identified by calculating
+  median gene effect scores across dependent cell lines (x-axis) and normal LRT scores
+  (y-axis) of BTC cell lines (n=39). Colors indicate pathway membership. Bubble size
+  indicates the percentage of BTC cell lines with gene effect score <−0.5. Dotted
+  line: −0.5 dependency threshold.(B) Heatmap showing gene effect scores corresponding
+  to the unsupervised clustering of BTC cell lines (n=39) based on outlier dependencies.
+  The heatmap displays significant genes with at least 2 dependent cell lines in the
+  in-group. Unpaired t-test; *q <0.1.(C) PPI networks generated using STRING database
+  by combining differential dependencies and significantly up and downregulated mRNA
+  features per cluster. Red=Dependency, Blue= upregulated genes and Yellow= downregulated
+  genes.(D) Density plots showing UXS1 dependency in R3 ICC versus R4 ICC (m=771)
+  and other DepMap (m=770) cell lines. Unpaired t-test, significant: q<0.1, near-significant:
+  0.1 ≤ q < 0.25. m= number of hypotheses tested for multiple hypothesis testing (MHT).(E)
+  Bar plots showing relative viability after UXS1 knockout in the indicated ICC cell
+  lines. Unpaired t-test. ***p<0.001, ****p<0.0001, ns= not significant(F) Scatter
+  plot showing correlation between TP63 mRNA expression and ssGSEA score using TP63
+  dependency associated mRNA signature (based on network and RF analyses) in FU-iCCA
+  cohort (n=249). Pearson correlation r; p.(G) Kaplan-Meier curves showing overall
+  survival in FU-iCCA patients (n=238) grouped based on TP63 mRNA expression'
+article_title: Generation of a biliary tract cancer cell line atlas identifies molecular
+  subtypes and therapeutic targets
+citation: Vindhya Vijay, et al. Cancer Discov. 2025 Sep 04;15(9).
+year: '2025'
+pub_date: 2025-9-04
+epub_date: 2025-9-04
+doi: 10.1158/2159-8290.CD-24-1383
+journal_title: Cancer discovery
+journal_nlm_ta: Cancer Discov
+publisher_name: .na.character
+keywords:
+- Biliary Tract Cancer
+- Cholangiocarcinoma
+- Gallbladder Carcinoma
+- Cell line atlas
+- CRISPR screens
+- Tumor classification
+- Multi-omics
+- Integrative analysis
+---

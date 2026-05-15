@@ -1,0 +1,48 @@
+---
+figid: PMC13032854__nihms-2153564-f0002
+pmcid: PMC13032854
+image_filename: jpg
+figure_link: /pmc/articles/PMC13032854/figure/F2/
+number: FIGURE 2
+figure_title: Dual RET/CDK8 inhibition with 8p disrupts transcriptional regulation
+  and reduces leukaemic burden in KMT2A-rearranged (KMT2A-r) acute myeloid leukaemia
+  (AML).
+caption: 'Dual RET/CDK8 inhibition with 8p disrupts transcriptional regulation and
+  reduces leukaemic burden in KMT2A-rearranged (KMT2A-r) acute myeloid leukaemia (AML).
+  (A) Schematic model of the proposed mechanism: 8p disrupts the KMT2A–MED12–CDK8
+  axis, impairing RNA Pol II–mediated transcriptional activation of RET. (B) Immunoblot
+  analysis of MED12, CDK8, pSTAT1 (Ser727) and RET in MOLM-13 cells treated with 8p
+  (3.5, 1.75, 0.625 nM) or selpercatinib (150, 75, 37.5 nM). β-Actin serves as a loading
+  control. 8p reduces RET expression along with upstream regulatory proteins in a
+  dose-dependent manner. (C) Volcano plot of RNA-seq analysis in MOLM-13 cells treated
+  with 3.5 nM 8p. Significantly upregulated (red) and downregulated (blue) genes are
+  shown (p < 0.05, log2FC > 1); non-significant genes are in grey. (D) Venn diagram
+  showing overlap of genes significantly up- or downregulated at both RNA and protein
+  levels after 8p treatment. A total of 85 genes were upregulated and 139 downregulated
+  at both levels. (E) KEGG pathway enrichment analysis of DEGs with concordant changes
+  at the RNA and protein levels. Upregulated pathways include oxidative phosphorylation
+  and lysosomal processes; downregulated pathways include DNA replication, nucleotide
+  excision repair and cell cycle progression. Colour scale reflects −log10(FDR). (F)
+  Gene Ontology enrichment for downregulated transcripts following 8p treatment (FDR
+  < 0.05) reveals impairment of DNA replication and cell cycle programmes. (G) In
+  vivo bioluminescence imaging of NSG-SGM3 mice engrafted with MOLM-13luc+ cells and
+  treated with vehicle or 8p. Images at weeks 2 and 4 show reduced leukaemic burden
+  in the 8p-treated group. Control mice were no longer imaged in week 4 due to disease-related
+  mortality. (H) Kaplan–Meier survival curve demonstrating a significant survival
+  benefit in the 8p-treated cohort (p < 0.05, log-rank test). No overt toxicity or
+  weight loss was observed in treated animals'
+article_title: Epigenetic dysregulation and therapeutic targeting of RET receptor
+  tyrosine kinase in high-risk KMT2A-rearranged acute myeloid leukaemia
+citation: Arundhati Chavan, et al. Br J Haematol. 2025 Dec;207(6).
+year: '2025'
+pub_date: 2025-12-
+epub_date: 2025-9-21
+doi: 10.1111/bjh.70183
+journal_title: British journal of haematology
+journal_nlm_ta: Br J Haematol
+publisher_name: .na.character
+keywords:
+- CDK8-MED12
+- KMT2A-rearranged leukemia
+- RET-receptor tyrosine kinase
+---

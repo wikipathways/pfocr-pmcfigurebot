@@ -1,0 +1,47 @@
+---
+figid: PMC12646666__jci-135-176403-g283
+pmcid: PMC12646666
+image_filename: jpg
+figure_link: /pmc/articles/PMC12646666/figure/F3/
+number: Figure 3
+figure_title: Blood-based NR signature in anti–mouse CD3 R mice and its cellular origin
+caption: (A) Volcano plot illustrating DEGs comparing peripheral blood leukocytes
+  of R and NR samples. Blue dots and labels indicate downregulated genes, while gray
+  dots and labels indicate upregulated genes that were statistically significant (P
+  < 0.05). The log-transformed FC values are reported on the x axis, and –log10-transformed
+  values of the adjusted P values are shown on the y axis. P values were obtained
+  by Wilcoxon rank-sum test with Bonferroni correction. (B) hypeR pathway analysis
+  performed on downregulated DEGs in peripheral blood leukocytes of R samples. Assessment
+  of relevant pathways was conducted utilizing the hallmark gene sets from the MSigDB
+  as a reference. (C) Heatmap presenting normalized expression levels of the 50 genes
+  comprising the NR signature, represented using the z score. (D) Box plots representing
+  the NR signature score calculated in peripheral blood (left) and pancreas (right)
+  of RO, R, and NR samples. Mean expression of the genes comprising the NR signature
+  in each individual cell was calculated using the Seurat function AddModuleScore.
+  Boxes represent the median (center line) and extend from the 25th to 75th percentiles
+  (bottom and top lines, respectively); whiskers extend from the minimum to the maximum
+  value. (E) UMAP plot displaying the expression of the NR signature in the main immune
+  cell types in peripheral blood and pancreas. (F) Dot plot showing the expression
+  of individual genes comprising the NR signature in the main immune cell types in
+  peripheral blood and pancreas. (G) Dot plot showing the average expression of the
+  NR signature in the main immune cell types in peripheral blood and pancreas. (H)
+  Violin plots comparing the expression levels of the NR signature in the main immune
+  cell types in peripheral blood and pancreas. In D, the Mann-Whitney U test was used
+  for statistical comparison
+article_title: Neutrophil-enriched gene signature correlates with teplizumab therapy
+  resistance in different stages of type 1 diabetes
+citation: Gabriele Sassi, et al. J Clin Invest. 2025 Sep 30;135(23).
+year: '2025'
+pub_date: 2025-9-30
+epub_date: 2025-9-30
+doi: 10.1172/JCI176403
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Autoimmunity
+- Endocrinology
+- Diabetes
+- Immunotherapy
+- Neutrophils
+---

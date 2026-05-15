@@ -1,0 +1,40 @@
+---
+figid: PMC12523485__cancers-17-03164-g005
+pmcid: PMC12523485
+image_filename: jpg
+figure_link: /pmc/articles/PMC12523485/figure/F5/
+number: Figure 5
+figure_title: Validation of single-cell sequencing results by bulk RNA-Seq.
+caption: Validation of single-cell sequencing results by bulk RNA-Seq. (A) Correlation
+  scatter plot showing the association between the Hh activation level and the MMP1
+  + FIB infiltration level in patients. (B) Volcano plot of the DEGs between the High_MMP1
+  group and the Low_MMP1 group. (C) Results of the GO and KEGG functional annotation
+  analyses for the High_MMP1 group and the Low_MMP1 group. (D) GSEA enrichment analysis
+  showing the activation status of the ECM–receptor interaction and complement and
+  coagulation cascades. (E) Correlation between the MMP1 + FIB infiltration level
+  and the infiltration levels of M2 macrophages, T cells, plasma cells, and other
+  immune cells in patients. (F) Box plot presenting the differences in the infiltration
+  levels of M2 macrophages, T cells, plasma cells, and other immune cells between
+  the High_MMP1 group and the Low_MMP1 group. Hedgehog, gsva enrichment score of the
+  Hedgehog signaling pathway gene set; High_MMP1, patients with high GSVA scores for
+  MMP1 + FIB-related characteristic genes; Low_MMP1, patients with low GSVA scores
+  for MMP1 + FIB-related characteristic genes
+article_title: M2 Macrophage Polarization Mediated by Complement C3 from Hedgehog-Activated
+  Fibroblasts Establishes an Immunosuppressive Niche in Gastric Cancer
+citation: Jiaheng Lou, et al. Cancers (Basel). 2025 Oct;17(19).
+year: '2025'
+pub_date: 2025-10-
+epub_date: 2025-9-29
+doi: 10.3390/cancers17193164
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- gastric cancer
+- hedgehog signaling pathway
+- fibroblast
+- macrophage
+- T cell
+- single-cell RNA-seq
+- tumor immunosuppressive microenvironment
+---

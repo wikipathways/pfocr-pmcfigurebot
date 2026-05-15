@@ -1,0 +1,50 @@
+---
+figid: PMC12669475__nihms-2118623-f0004
+pmcid: PMC12669475
+image_filename: jpg
+figure_link: /pmc/articles/PMC12669475/figure/F3/
+number: 'Figure 3:'
+figure_title: Deletion of macrophage-epsins reduces foam cell formation by inhibiting
+  the crosstalk between VSMCs and macrophages
+caption: 'A) RNA velocity analysis reveals VSMCs transitioning to a macrophage-like
+  phenotype in WT/Apoe−/− mice, significantly reduced in LysM-DKO/Apoe−/− mice. The
+  arrows within the plot sow the directional flow of cells towards an extrapolated
+  future state. B) Monocle trajectory analysis confirming the VSMC-to-macrophage transition
+  in WT/Apoe−/− mice, a process fully inhibited in LysM-DKO/Apoe−/− mice. Green arrows
+  indicate the inferred trajectory of modulated VSMC2 cell fate as estimated by Monocle.
+  C) Gene expression for macrophage (Cxcl2, Lyz2) and Col15a1hi VSMC (Col15a1, Col4a6)
+  marker genes were upregulated in the trajectories of WT/Apoe−/− and LysM-DKO/Apoe−/−
+  mice, respectively. D-F) Co-culturing of murine aortic SMCs with peritoneal macrophages
+  harvested from WT/Apoe−/− and LysM-DKO/Apoe−/− mice were performed for 24, 48 and
+  72h (D). Representative confocal micrographs, showing immunofluorescent co-staining
+  for macrophages (F4/80, green), smooth muscle cells (α-SMA, red) and modulating
+  VSMC2 cells (Myh9, magenta), scale bar: d=50 μm. Bar plots shows (E) the fold-change
+  in expression of the modulated VSMC2 marker Myh9, and (F) the percentage of macrophage
+  population in VSMC cells (indicating a phenotypic transition) at different time
+  points in WT/Apoe−/− and LysM-DKO/Apoe−/− mice (X-axis). Multiple unpaired t-test
+  was conducted in Figure D (n=6) and are presented as mean±SD. G) SCIG comparison
+  identifying unique cell identity genes in the modulated VSMC subtype under each
+  condition and their associated functional pathways. Note: P values determined by
+  the Wilcoxon test'
+article_title: Single-Cell Analysis Reveals a Critical Role for Macrophage Epsins
+  in Regulating the Origin of Foam Cells in Atherosclerosis
+citation: Kulandaisamy Arulsamy, et al. Arterioscler Thromb Vasc Biol. 2025 Nov;45(11).
+year: '2025'
+pub_date: 2025-11-
+epub_date: 2025-9-11
+doi: 10.1161/ATVBAHA.125.323288
+journal_title: Arteriosclerosis, thrombosis, and vascular biology
+journal_nlm_ta: Arterioscler Thromb Vasc Biol
+publisher_name: .na.character
+keywords:
+- Epsins
+- Smooth muscle cells
+- Macrophages
+- Cell identity
+- Atherosclerosis
+- Foam cells
+- Inflammation
+- Cholesterol
+- Lipid metabolism
+- Single-cell RNA sequencing
+---

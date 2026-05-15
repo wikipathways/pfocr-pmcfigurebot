@@ -1,0 +1,38 @@
+---
+figid: PMC12523485__cancers-17-03164-g004
+pmcid: PMC12523485
+image_filename: jpg
+figure_link: /pmc/articles/PMC12523485/figure/F4/
+number: Figure 4
+figure_title: CellChat reveals cell–cell communication roles of MMP1 + FIB in the
+  gastric cancer TME.
+caption: CellChat reveals cell–cell communication roles of MMP1 + FIB in the gastric
+  cancer TME. (A,B) Circos plots depict the number and strength of the interactions
+  among different cell types. Thicker lines indicate greater interaction numbers and
+  stronger intensity between cell types. (C–E) Cell–cell communication networks for
+  MMP1 + FIB, PDGFA + FIB, and IGLC2 + FIB. (F) Heatmap showing the relative strength
+  of each signaling pathway network per cluster, including incoming and outgoing signaling.
+  Color gradients reflect scaled interaction strength. (G) Hierarchy plot illustrating
+  the signaling cascade of the COMPLEMENT signaling pathway network. (H) Bubble plot
+  highlighting the dominant signaling pathways in MMP1 + FIB. Each dot represents
+  a ligand–receptor pair, with the size determined by the pathway-enrichment p-value
+  and color indicating the communication probability. FIB, fibroblast
+article_title: M2 Macrophage Polarization Mediated by Complement C3 from Hedgehog-Activated
+  Fibroblasts Establishes an Immunosuppressive Niche in Gastric Cancer
+citation: Jiaheng Lou, et al. Cancers (Basel). 2025 Oct;17(19).
+year: '2025'
+pub_date: 2025-10-
+epub_date: 2025-9-29
+doi: 10.3390/cancers17193164
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- gastric cancer
+- hedgehog signaling pathway
+- fibroblast
+- macrophage
+- T cell
+- single-cell RNA-seq
+- tumor immunosuppressive microenvironment
+---

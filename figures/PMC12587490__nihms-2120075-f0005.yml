@@ -1,0 +1,32 @@
+---
+figid: PMC12587490__nihms-2120075-f0005
+pmcid: PMC12587490
+image_filename: jpg
+figure_link: /pmc/articles/PMC12587490/figure/F4/
+number: Figure 4.
+figure_title: Single-cell RNA sequencing reveals transcriptional heterogeneity among
+  immunophenotypically defined SEhi FL-HSCs
+caption: (A) Sorting strategy for SEhi FL-HSCs from freshly isolated E13.5 FL used
+  for scRNA-seq.(B) Unsupervised clustering of E13.5 SEhi FL-HSC scRNA-seq data in
+  UMAP.(C) Heatmap of gene-set scores by cluster for genes associated with adult HSC
+  dormancy,24 serial-engrafting HSCs,25 diapause,26,27 chemokine signaling (WP_CHEMOKINE_SIGNALING_PATHWAY),
+  and a common stem-cell dormancy state associated with lipid metabolism,28 or genes
+  associated with activated HSC/MPP states including high output and multilineage
+  signatures,24,25,29 Myc pathway activation (Hallmark Myc Target Genes V1, V2), and
+  metabolic activity (WP_TCA_CYCLE, HALLMARK_OXIDATIVE_PHOSPHORYLATION, WP_PURINE_METABOLISM).(D)
+  Gene-set expression heatmaps for dormant HSC signature genes and serial-engrafting
+  HSC signature genes.24,25(E) Expression heatmaps for modules of co-regulated genes.
+  Gene modules 1, 3, 4, and 7 are shown with representative genes identified in each
+  module
+article_title: Differentiation latency and dormancy signatures define fetal liver
+  hematopoietic stem cells at single-cell resolution
+citation: Takashi Ishida, et al. Cell Rep. 2025 Oct 28;44(10).
+year: '2025'
+pub_date: '2025-10-28'
+epub_date: 2025-9-18
+doi: 10.1016/j.celrep.2025.116289
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

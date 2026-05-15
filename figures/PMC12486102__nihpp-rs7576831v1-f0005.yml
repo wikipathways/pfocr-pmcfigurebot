@@ -1,0 +1,32 @@
+---
+figid: PMC12486102__nihpp-rs7576831v1-f0005
+pmcid: PMC12486102
+image_filename: jpg
+figure_link: /pmc/articles/PMC12486102/figure/F5/
+number: Figure 5
+figure_title: Longitudinal gene set enrichment analysis (GSEA) of host cervical transcriptomes
+  stratified by BV recurrence status
+caption: Dot plots show significantly enriched host gene ontology (GO), pathway, and
+  molecular function terms at (a) baseline, (b) 1-month post-treatment, and (c) 6-months
+  post-treatment, based on differential expression between recurrent and nonrecurrent
+  participants based on Amsel BV criteria. Enrichment was performed using gene ontology
+  biological processes (GO:BP), molecular functions (GO:MF), KEGG pathways (KEGG),
+  Reactome pathways (REAC), Human Phenotype (HP), and WikiPathways (WP), with results
+  filtered at FDR < 0.05. Color indicates source ontology, and dot position reflects
+  significance (–log10[FDR]). Key findings include baseline enrichment of immune-related
+  pathways (e.g., NF-κB signaling, chemokine signaling) in participants who would
+  later experience recurrence, strong EGFR signaling and transporter-related activity
+  at 1-month, and limited but persistent signaling differences at 6 months
+article_title: Host-microbe interactions characterized by gene expression of cervical
+  adhesion molecules, cytokines, and growth factors define the recurrence of bacterial
+  vaginosis
+citation: Nichole Klatt, et al. Res Sq. 2025 Sep 23;NA(NA).
+year: '2025'
+pub_date: 2025-9-23
+epub_date: 2025-9-23
+doi: 10.21203/rs.3.rs-7576831/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords: []
+---

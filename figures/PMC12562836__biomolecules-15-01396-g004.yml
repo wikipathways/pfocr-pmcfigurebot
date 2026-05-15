@@ -1,0 +1,48 @@
+---
+figid: PMC12562836__biomolecules-15-01396-g004
+pmcid: PMC12562836
+image_filename: jpg
+figure_link: /pmc/articles/PMC12562836/figure/F4/
+number: Figure 4
+figure_title: RNA-seq analysis reveals modulation of apoptotic and ribosomal biogenesis
+  pathways in OVCAR8 cells following combination treatment with EC359 and trametinib.
+caption: RNA-seq analysis reveals modulation of apoptotic and ribosomal biogenesis
+  pathways in OVCAR8 cells following combination treatment with EC359 and trametinib.
+  (A) Venn diagram showing the overlap of differentially expressed genes (DEGs) in
+  OVCAR8 cells treated with EC359, trametinib, or their combination compared to control.
+  (B,C) Gene Set Enrichment Analysis (GSEA) shows the top significantly enriched pathways
+  in the combination-treated group, including upregulation of apoptotic signaling
+  (B) and downregulation of mitochondrial translation and MYC target genes (C). (D)
+  Heatmap show activation of several ferroptosis-related genes following combination
+  treatment (E) Bar plot displaying the top enriched pathways (ranked by −log10(P))
+  from genes uniquely upregulated in the combination group, as identified by Metascape.
+  Notable enriched pathways include PRC2-mediated histone and DNA methylation, chromatin
+  remodeling, and stress response to metal ion indicating activation of key tumor-suppressive
+  and regulatory processes. (F) Bar plot showing the top enriched pathways (ranked
+  by −log10(P)) derived from genes uniquely downregulated in the combination group.
+  These include ribosome biogenesis, ribosomal large subunit biogenesis, rRNA modification,
+  and RNA processing. (G) Western blot showing the levels of c-MYC protein levels,
+  and BCL-2 family proteins following combination treatment. Significant genes with
+  fold change > 2 and adjusted p value < 0.05 were used for interpreting the biological
+  pathways using GSEA. Fold change values in heatmap were calculated by normalization
+  of FPKM values to those for control
+article_title: EC359 Enhances Trametinib Efficacy in Ras/Raf-Driven Ovarian Cancer
+  by Suppressing LIFR Signaling
+citation: William C. Arnold, et al. Biomolecules. 2025 Oct;15(10).
+year: '2025'
+pub_date: 2025-10-
+epub_date: 2025-9-30
+doi: 10.3390/biom15101396
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- ovarian cancer
+- low grade serous ovarian cancer
+- Ras/Raf mutations
+- LIFR
+- EC359
+- MAPK
+- STAT3
+- trametinib
+---

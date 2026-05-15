@@ -1,0 +1,30 @@
+---
+figid: PMC12486064__nihpp-rs7481614v1-f0003
+pmcid: PMC12486064
+image_filename: jpg
+figure_link: /pmc/articles/PMC12486064/figure/F3/
+number: Figure 3
+figure_title: Liver transcript-/metabolomic analysis
+caption: A. Volcano plot representation of DEG’s in liver of hPHB1-KD males compared
+  with WT. Annotated genes on the plot represent DEG’s that are significantly up-
+  (red) or downregulated (blue) in hPHB1-KD mice. The Y-axis shows statistical significance,
+  expressed as −log10 p-value while the X-axis denotes the beta value (natural log
+  of fold change) between groups. B. KEGG pathway enrichment analysis performed using
+  BioJupies software. Bar graph was prepared using GraphPad prism 10 software to show
+  upregulated pathways involved in liver metabolism C. Joint pathway analysis by integrating
+  transcriptomic (DEGs with p value <0.05 and beta value > 0.35 (one-fold change))
+  and metabolomic (metabolites with p-value <0.1) data using KEGG pathway on MetaboAnalyst
+  software version 5. The plot represents the pathway impact with its significance
+  presented as −1og10 p-value
+article_title: Persistent mTORC1 activation underlies sex dimorphic progression of
+  MASLD in mice with hepatocyte prohibitin-1 deficiency
+citation: Amany A. Alowaisi, et al. Res Sq. 2025 Sep 25;NA(NA).
+year: '2025'
+pub_date: 2025-9-25
+epub_date: 2025-9-25
+doi: 10.21203/rs.3.rs-7481614/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords: []
+---

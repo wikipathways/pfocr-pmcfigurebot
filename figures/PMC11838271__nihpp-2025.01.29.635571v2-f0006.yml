@@ -1,0 +1,42 @@
+---
+figid: PMC11838271__nihpp-2025.01.29.635571v2-f0006
+pmcid: PMC11838271
+image_filename: jpg
+figure_link: /pmc/articles/PMC11838271/figure/F6/
+number: 'Figure 6:'
+figure_title: Gene expression changes and pathway analysis of lymphoid aggregate
+caption: A) Aggregated gene expression of granuloma and granulomatosis gene sets from
+  MSigDB projected on hematoxylin stain of lungs from coinfection mice. Spot-wise
+  gene expression aggregate was projected on lymphoid cell aggregate and its surround
+  tissue. Color key represents aggregate of expression values of all the genes in
+  the granuloma gene set (DOCK2, CYBC1, PIK3CG, CYBB, IRF8, NF1, DNASE2, and ACP5)
+  and granulomatosis gene set (DOCK2, CYBC1, PIK3CG, CYBB, IRF8, NF1, DNASE2, and
+  ACP5). B) Top 20 pathways based on an adjusted p value identified in over representation
+  analysis on gene upregulated in cluster 13 spanning lymphoid cell aggregate in coinfection
+  mice. Gene ratios were computed as the percentage of total DEGs in the given pathway
+  term. C) Expression levels of interferon regulatory factors enriched among upregulated
+  genes in lymphoid cell aggregate were projected individually on lymphoid cell aggregate
+  and its surround tissue. D) Top 20 pathways identified in over representation analysis
+  on gene down regulated in cluster 13 as shown like figure 4B. E) Down regulation
+  of SMAD6, an inhibitory SMAD and upregulation of TGFB1/2 in lymphoid cell aggregate.
+  Gene expression levels quantified in spatial transcriptomics analysis were projected
+  on hematoxylin-stained tissue section. A, C, E) Color key represents aggregate/individual
+  gene expression values in log2 scale
+article_title: Spatial transcriptomic analysis of HIV and tuberculosis coinfection
+  in a humanized mouse model reveals unique transcription patterns, immune responses
+  and early morphological alterations
+citation: Sitaramaraju Adduri, et al. bioRxiv. 2025 Sep 10;NA(NA).
+year: '2025'
+pub_date: 2025-9-10
+epub_date: 2025-9-10
+doi: 10.1101/2025.01.29.635571
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- HIV and tuberculosis coinfection
+- Humanized mouse model
+- Early granuloma formation
+- Spatial transcriptomics
+- Imaging mass cytometry
+---

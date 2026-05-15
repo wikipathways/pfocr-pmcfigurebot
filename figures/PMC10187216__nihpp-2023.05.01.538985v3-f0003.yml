@@ -1,0 +1,33 @@
+---
+figid: PMC10187216__nihpp-2023.05.01.538985v3-f0003
+pmcid: PMC10187216
+image_filename: jpg
+figure_link: /pmc/articles/PMC10187216/figure/F3/
+number: Figure 3.
+figure_title: Analysis of AHR target genes
+caption: (A) Upregulated AHR target genes (fold change TCDD vs vehicle, 2-hour exposure,
+  mouse liver) containing AHR ChIP peaks with 5 or more NC-XRE motifs separated by
+  50 base pairs or less. AHR target genes are defined as differentially expressed
+  genes (RNA-seq, fold difference in TCDD vs vehicle > 1.5x, FDR < 5%) containing
+  AHR ChIP peaks within 10 kb of a gene body. (B) Over-Representation Analysis (ORA)
+  of Gene Ontology Biological Processes (GOBP) using the AHR target genes from panel
+  A. Enriched pathways were ranked by their statistical significance (P-value) along
+  with the number of hit genes and their names. For example, the embryo development
+  GOBP pathway contains 8 upregulated genes (Atoh8, Notch1, Mafb, Lrp4, Maff, Hes1,
+  Tsgz1, Sebox) that have 5 repeats of NC-XRE motifs with a maximum of 50 bp spacers
+  between them. (C) Gene Set Enrichment Analysis (GSEA) displaying normalized enrichment
+  scores (NES) for mouse liver global RNA-seq (TCDD vs vehicle) ranked genes. Only
+  the pathways identified in the ORA (panel B) are shown here. All except the ‘response
+  to oxygen-containing compound’ pathway are enriched in the TCDD-exposed mouse liver
+article_title: Functional genomic analysis of non-canonical DNA regulatory elements
+  of the aryl hydrocarbon receptor
+citation: Shayan Shahriar, et al. bioRxiv. 2025 Sep 29;209(1).
+year: '2025'
+pub_date: 2025-9-29
+epub_date: 2025-9-29
+doi: 10.1101/2023.05.01.538985
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

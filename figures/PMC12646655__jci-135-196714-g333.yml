@@ -1,0 +1,34 @@
+---
+figid: PMC12646655__jci-135-196714-g333
+pmcid: PMC12646655
+image_filename: jpg
+figure_link: /pmc/articles/PMC12646655/figure/F5/
+number: Figure 5
+figure_title: scRNA-Seq of aortas from Serpine1TA700/+ and Serpine1+/+ mice
+caption: (A) UMAP plot showing the clustering of all cells sequenced from aortas of
+  4 Serpine1TA700/+ mice (n = 2 males and n = 2 females) and 6 Serpine1+/+ mice (n
+  = 3 males and n = 3 females). (B) UMAP plot showing the composition of sequenced
+  cells from mice of each genotype. (C) Pathway enrichment analysis was done on genes
+  overrepresented in total Serpine1TA700/+ and Serpine1+/+ cells using KEGG. (D–O)
+  Violin plots showing log-normalized gene expression of Serpine1, Ccn1, and Itgb1
+  in total cells, ECs, SMCs, and fibroblasts from mice of the 2 genotypes. The Mann-Whitney
+  U test was used to test for significance in the differential expression of genes
+  (D–O)
+article_title: Plasminogen activator inhibitor 1 promotes aortic aging–like pathophysiology
+  in humans and mice
+citation: Alireza Khoddam, et al. J Clin Invest. 2025 Sep 30;135(23).
+year: '2025'
+pub_date: 2025-9-30
+epub_date: 2025-9-30
+doi: 10.1172/JCI196714
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Cardiology
+- Genetics
+- Vascular biology
+- Cardiovascular disease
+- Serpins
+- Transcriptomics
+---

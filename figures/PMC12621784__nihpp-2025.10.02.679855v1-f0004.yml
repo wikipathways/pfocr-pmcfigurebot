@@ -1,0 +1,51 @@
+---
+figid: PMC12621784__nihpp-2025.10.02.679855v1-f0004
+pmcid: PMC12621784
+image_filename: jpg
+figure_link: /pmc/articles/PMC12621784/figure/F3/
+number: Figure 3.
+figure_title: Linking Epigenomic Features to Gene Expression
+caption: (A) Correlation framework epigenomic peaks to gene expression. Distal regulatory
+  elements (yellow) reside within 1 Mb of the gene’s TSS and are correlated with promoter
+  peaks (1, pink) and gene expression (2). Promoter peaks are correlated with one
+  another (3) and gene expression (4).(B) Correlation of distal (columns) and promoter
+  (rows and ▲-marked columns) elements surrounding Decr1, with the top annotation
+  bar indicating the directionality of the Pk2G link (red=positive, blue=negative).
+  The subsequent heatmap plots the spearman’s correlation coefficient with significant
+  relationships (FDR < 0.05) annotated by ‘•’. Columns are labeled and ordered by
+  the distance of the peak from the TSS (Dist to TSS). The signed −log10(FDR)HCR/LCR
+  bar provides feature-specific differential results for HCR up (green) regions and
+  LCR up (magenta) features, with an asterisk annotating those that pass the significance
+  threshold provided in Figure 2C. The bottom-most ‘Modality’ annotation bar is colored
+  based on data origin. Nearby and overlapping peaks are indicated by ‘+’ and ‘X’,
+  alternating between distinct instances of clustered regions. See additional examples
+  in Figure S8.(C) Ranked gene set enrichment analysis of Pk2G targets linked to differential
+  (p-value < 0.1) peaks for multiple trials (columns), with the number of input genes
+  indicated in the bottom bar plot. Significant gene sets (FDR < 0.05) were kappa-reduced
+  and the −log10(p-values) of the most significant category within the representative
+  term is plotted, with ‘•’ annotating significant clusters. The number of gene sets
+  reduced into the cluster are annotated on the right side of the heatmap. The prominent
+  gene sets collapsed into the two largest clusters are listed on the far-right side
+  of the plot, with the size of the text associated with the number of times a gene
+  set related to that term is present within the cluster. The additional comparison
+  to the RNA-Enrich results shows concordance of links to RNA-Seq HCR/LCR differences.(D)
+  HCR-favored Pk2G mitochondrial metabolism genes compared to their differential expression.
+  Comparison of the significance from the Pk2G correlation analysis included in the
+  pathway enrichment analysis to the differential expression of the 502 genes that
+  significantly enrich gene sets via GSEA of HCR Up, Pos gene links and RNA-Enrich
+  differential gene expression. Y-axis shows −log10(p-value) from the HCR/LCR differential
+  gene expression analysis, and the −log10(p-value) from the Pk2G link is plotted
+  on the x-axis. Highly significant genes have strong relationships with epigenomic
+  features, supporting coordinated regulation of the chromatin and gene expression
+article_title: Integrative multi-omics uncovers skeletal muscle enhancer programming
+  of cardiorespiratory fitness
+citation: Anne M. Weitzel, et al. bioRxiv. 2025 Oct 03;NA(NA).
+year: '2025'
+pub_date: '2025-10-03'
+epub_date: '2025-10-03'
+doi: 10.1101/2025.10.02.679855
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

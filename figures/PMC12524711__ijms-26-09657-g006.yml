@@ -1,0 +1,39 @@
+---
+figid: PMC12524711__ijms-26-09657-g006
+pmcid: PMC12524711
+image_filename: jpg
+figure_link: /pmc/articles/PMC12524711/figure/F6/
+number: Figure 6
+figure_title: 'Analysis of differential gene expression: Enrichment of Gene Ontology
+  (GO) terms and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways.'
+caption: 'Analysis of differential gene expression: Enrichment of Gene Ontology (GO)
+  terms and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways. (A) Bubble plot
+  illustrating significantly enriched GO biological processes. (B) Bubble plot depicting
+  significantly enriched KEGG metabolic pathways. In each panel, every dot corresponds
+  to a particular GO term or KEGG pathway. The Y-axis represents functional terms
+  or pathways, while the X-axis denotes the enrichment factor. The Rich factor is
+  determined by dividing the proportion of DEGs associated with a specific term by
+  the proportion of all genes linked to that term. A higher rich factor signifies
+  a greater degree of enrichment for the term or pathway. Dot color corresponds to
+  the q-value (i.e., adjusted p-value), with lower q-values signifying heightened
+  significance and reliability of the enrichment signal. On the other hand, dot size
+  reflects the count of genes enriched within each pathway, such that larger dots
+  are indicative of a greater number of genes involved in the respective enrichment
+  event'
+article_title: CRISPR/Cas9-Mediated Targeted Mutagenesis of GmAS1/2 Genes Alters Leaf
+  Shape in Soybean
+citation: Juan Xu, et al. Int J Mol Sci. 2025 Oct;26(19).
+year: '2025'
+pub_date: 2025-10-
+epub_date: '2025-10-03'
+doi: 10.3390/ijms26199657
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- soybean
+- GmAS1/2
+- leaf shape
+- wrinkling and curling
+- transcriptome analysis
+---

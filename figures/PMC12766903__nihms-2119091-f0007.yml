@@ -1,0 +1,33 @@
+---
+figid: PMC12766903__nihms-2119091-f0007
+pmcid: PMC12766903
+image_filename: jpg
+figure_link: /pmc/articles/PMC12766903/figure/F7/
+number: Figure 7.
+figure_title: FR-B T cells + anti-PD-1 followed by vaccine boosting improves treatment
+  outcome and suggests opportunities for clinical application of triple combination
+  therapy
+caption: (A) Survival of IE9-mp1-hFRa tumor-bearing mice treated with control T cells
+  + IgG + Ad-OVA (n = 6), control T cells + anti-PD-1 (n = 9), FR-B T cells + IgG
+  (n = 10), FR-B T cells + IgG + Ad-OVA (n = 10), FR-B T cells + anti-PD-1 (n = 10),
+  or FR-B T cells + anti-PD-1+ Ad-OVA (n = 11). Data compiled from 2 independent studies.
+  (B) Low-dimensional representation (UMAP) of cells (22,274) derived from scRNA-seq
+  profiling of human OC patient samples (n = 4 OC patients), colored by major lineage
+  (left) or by patient (right). (C) Aggregate expression of clinical vaccination targets
+  in OC by patient. In vitro response to FR-Bh T cells + anti-PD-1 in co-culture studies
+  (Figure 1B) is noted (red, R; green, R+). Enrichment (GSVA) of total vaccination
+  target pathway is shown. (D) Proposed clinical approach to harness ACT-driven epitope
+  spreading through vaccination. Data in (A) analyzed by log rank test. *p < 0.05,
+  **p < 0.01
+article_title: BiTE-secreting T cells rationally combine with PD-1 blockade and vaccine
+  boosting to reshape antitumor immunity in ovarian cancer
+citation: Jessie L. Chiello, et al. Mol Ther. 2026 Jan 07;34(1).
+year: '2026'
+pub_date: 2026-1-07
+epub_date: 2025-9-30
+doi: 10.1016/j.ymthe.2025.09.047
+journal_title: 'Molecular therapy : the journal of the American Society of Gene Therapy'
+journal_nlm_ta: Mol Ther
+publisher_name: .na.character
+keywords: []
+---

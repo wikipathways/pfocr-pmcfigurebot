@@ -1,0 +1,52 @@
+---
+figid: PMC12485807__nihpp-2025.09.22.676666v1-f0003
+pmcid: PMC12485807
+image_filename: jpg
+figure_link: /pmc/articles/PMC12485807/figure/F3/
+number: Figure 3.
+figure_title: Early stage of the cold shock response (CSR) in B. subtilis
+caption: '(A) Scatter plot comparing gene-specific fitness values from two biological
+  replicates during the early stage of CSR (1st doubling after cold shock). Genes
+  with strongly decreased fitness are labeled. Colors indicate gene fitness during
+  exponential growth at 37°C. r: Pearson’s correlation coefficient; grey dashed lines:
+  x = 1, y = 1, and y = x.(B) Gene Ontology (GO) analysis of the 32 genes with the
+  lowest fitness values during early CSR (fitness < 0, p < 0.05), showing the most
+  significantly enriched biological processes and cellular components (see Methods).
+  Adj p-values: adjusted p-values from Fisher’s exact test with false discovery rate
+  correction.(C) Normalized Tn-seq signals mapped to the bkd operon and surrounding
+  regions, averaged from two biological replicates. Rows represent samples collected
+  at t0 (control), 37°C before cold shock, and at 5 min, 1, 6, or 11 doublings after
+  cold shock to 18°C. Genes with strong fitness defects are highlighted in red.(D)
+  Growth curves of B. subtilis 168, and various single-gene deletion mutants of the
+  bkd operon before and after cold shock. CS 18°C: cold shock to 18°C.(E)B. subtilis
+  branched-chain fatty acid (BCFA) biosynthesis pathway. Branched-chain amino acids
+  are converted to α-keto acids by branched-chain amino acid aminotransferases (BCATs)
+  YwaA or YbgE, or alternatively by the NAD+-dependent dehydrogenase Bcd. The BKD
+  complex then converts these intermediates to branched-chain acyl-CoA esters, precursors
+  for BCFA synthesis via the FAS II pathway (72). Enzymes whose mutants showed strong
+  fitness defects after cold shock are highlighted in red. Among them, FabH initiates
+  FAS II; of the two isoenzymes in B. subtilis (FabHA and FabHB), only FabHA mutant
+  showed cold sensitivity (Table S3).(F) Normalized Tn-seq signals mapped to the dlt
+  operon and nearby genes, averaged from two biological replicates.(G) Left: Growth
+  curves of B. subtilis 168 and the ΔdltA-E mutant before and after cold shock. CS
+  15°C: cold shock to 15°C. Right: Microscope images of wild-type and ΔdltA-E cells
+  at 290 and 240 min after cold shock, respectively. Arrows highlight dead cells in
+  the mutant.(H) Schematic of the B. subtilis lipid teichoic acid (LTA) D-alanylation
+  pathway, adapted from (33)'
+article_title: Cross-species phenotypic profiling uncovers functional determinants
+  of bacterial cold shock adaptation
+citation: Hao Fan, et al. bioRxiv. 2025 Sep 22;NA(NA).
+year: '2025'
+pub_date: 2025-9-22
+epub_date: 2025-9-22
+doi: 10.1101/2025.09.22.676666
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Cold shock response
+- Tn-seq
+- RNA metabolism
+- Translation
+- Cell envelope
+---

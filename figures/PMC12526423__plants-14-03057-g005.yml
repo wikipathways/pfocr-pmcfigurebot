@@ -1,0 +1,40 @@
+---
+figid: PMC12526423__plants-14-03057-g005
+pmcid: PMC12526423
+image_filename: jpg
+figure_link: /pmc/articles/PMC12526423/figure/F5/
+number: Figure 5
+figure_title: Temporal dynamics of DEGs (FDR < 0.
+caption: 'Temporal dynamics of DEGs (FDR < 0.05 and |log~2~Fold Change| ≥ 1) in Ilex
+  verticillata leaves during Alternaria alternata infection. (A): Histogram showing
+  the total number of DEGs identified at 3-, 12-, and 19 days post-inoculation (dpi)
+  compared to uninoculated controls (0 dpi). (B,C) Venn diagrams illustrating (B)
+  upregulated and (C) downregulated DEGs at each time point relative to 0 dpi controls,
+  revealing stage-specific transcriptional responses. (D,E) Comparative Venn analyses
+  of (D) upregulated and (E) downregulated DEGs across all infection timepoints (3
+  vs. 12 vs. 19 dpi), highlighting conserved and unique gene expression patterns during
+  disease progression. (F): Top 20 significantly enriched KEGG pathways (FDR < 0.05)
+  during A. alternata infection. The Rich Factor (x-axis) is the ratio of the number
+  of DEGs to the total number of genes in a given pathway. The size of the bubble
+  corresponds to the number of DEGs assigned to the pathway, and the color represents
+  the -log10 transformed p-value from the enrichment analysis'
+article_title: 'Leaf Blight in Ilex verticillata Caused by Alternaria alternata: Mechanisms
+  of Antioxidant Defense, Phytohormone Crosstalk, and Oxidative Stress Responses'
+citation: Huijie Lu, et al. Plants (Basel). 2025 Oct;14(19).
+year: '2025'
+pub_date: 2025-10-
+epub_date: '2025-10-03'
+doi: 10.3390/plants14193057
+journal_title: Plants
+journal_nlm_ta: Plants (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- Alternaria alternata
+- Ilex verticillata
+- leaf blight
+- host–pathogen interaction
+- transcriptomics
+- antioxidant defense
+- phytohormones
+- oxidative stress
+---

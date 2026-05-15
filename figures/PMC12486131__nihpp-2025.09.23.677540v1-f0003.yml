@@ -1,0 +1,46 @@
+---
+figid: PMC12486131__nihpp-2025.09.23.677540v1-f0003
+pmcid: PMC12486131
+image_filename: jpg
+figure_link: /pmc/articles/PMC12486131/figure/F3/
+number: Figure 3 –
+figure_title: TBCK loss alters global splicing fidelity and disrupts exon integrity
+  of its own isoforms –
+caption: A) Volcano plots representing five major categories of alternative splicing
+  events, revealing significant dysregulated splicing on TBCK−/− vs control cells
+  (n = 3 per group; ΔPSI ≥ 0.1, FDR < 0.05). Upregulated events in TBCK−/− samples
+  are shown in blue; downregulated in red. B) Gene ontology analysis of differentially
+  spliced genes reveals enrichment with dot size reflecting gene count and color intensity
+  adjusted p-value. C-D) Bar plots showing representative genes contributing to the
+  top enriched splicing-related pathways, with the direction and magnitude of splicing
+  change indicated by delta PSI values. (SE) – Skipped Exon, (RI) – Retained Intron,
+  (MXE) - Mutual Exclusion and (A5SS) – Alternative 5’ Splice Site E) Schematic of
+  TBCK gene structure showing long and short isoforms, annotated with PK, TBC, and
+  Rhodanese domains. Exon 21, more frequently skipped in TBCK−/− samples, is in red.
+  F) RT-PCR analysis demonstrating the presence of smaller TBCK isoforms in TBCK−/−
+  fibroblasts. (a) denotes control sample and (x) TBCK−/− individuals G) Violin plot
+  showing increased exon skipping in TBCK−/− fibroblasts compared to controls. H)
+  Sashimi plots depicting read coverage and exon-exon junctions across Exon 21 in
+  control and TBCK−/− fibroblasts. Increased exon skipping in TBCK−/− samples is supported
+  by junction read counts. I) Transcriptome mapping of Exon 21 skipping events to
+  Ensembl TBCK isoforms
+article_title: 'TBCK Deficiency Alters Ribosomal Function, RNA Splicing, and miRNA
+  Networks: Insights from Multi-Omics Analyses'
+citation: Abdias Diaz-Rosado, et al. bioRxiv. 2025 Sep 25;NA(NA).
+year: '2025'
+pub_date: 2025-9-25
+epub_date: 2025-9-25
+doi: 10.1101/2025.09.23.677540
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- TBCK Syndrome
+- multi-omics
+- transcriptomics
+- proteomics
+- splicing
+- miRNAs
+- ribosomes
+- isoforms
+---

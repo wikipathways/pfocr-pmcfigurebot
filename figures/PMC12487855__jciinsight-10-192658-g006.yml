@@ -1,0 +1,38 @@
+---
+figid: PMC12487855__jciinsight-10-192658-g006
+pmcid: PMC12487855
+image_filename: jpg
+figure_link: /pmc/articles/PMC12487855/figure/F3/
+number: Figure 3
+figure_title: ScRNA-Seq of SB28 intracranial allografts and GBM43 glioblastoma neurospheres
+  reveals distinct transcriptional signatures and selumetinib responses in MES-like
+  compared with non-MES tumor cell subpopulations
+caption: (A) Experimental overview of scRNA-Seq of selumetinib- versus vehicle-treated
+  SB28 intracranial allografts. BLI, bioluminescence imaging. (B) Classification of
+  3,411 cells as tumor cells. (C) Tumor cells were distributed across 4 cell states
+  (OPC-like, NPC-like, AC-like, MES-like). (D) Selumetinib-treated MES-like tumor
+  cells show significantly increased expression of an MEK activation signature (*
+  P < 0.001, Wilcoxon rank-sum test). (E) Selumetinib-treated MES-like cells show
+  significantly increased expression of Ras pathway transcriptional targets, such
+  as Fos, Jun, Junb, Jund, and Dusp1. (F) Selumetinib-treated non-MES cells show significantly
+  increased expression of glial differentiation genes, such as Olig1, Olig2, Sox10,
+  Ptprz1, and Pdgfra. (G) ScRNA-Seq of human GBM43 neurospheres treated with vehicle
+  DMSO, selumetinib, or trametinib reveals depletion of MES-like cells following treatment
+  with either the MEK inhibitor selumetinib or trametinib compared with DMSO control
+article_title: Tumor heterogeneity underlies clinical outcome and MEK inhibitor response
+  in somatic NF1-mutant glioblastoma
+citation: Sixuan Pan, et al. JCI Insight. 2025 Sep 23;10(18).
+year: '2025'
+pub_date: 2025-9-23
+epub_date: 2025-9-23
+doi: 10.1172/jci.insight.192658
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Genetics
+- Oncology
+- Brain cancer
+- Drug screens
+- Molecular genetics
+---

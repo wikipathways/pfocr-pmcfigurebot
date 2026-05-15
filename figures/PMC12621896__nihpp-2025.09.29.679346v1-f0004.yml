@@ -1,0 +1,33 @@
+---
+figid: PMC12621896__nihpp-2025.09.29.679346v1-f0004
+pmcid: PMC12621896
+image_filename: jpg
+figure_link: /pmc/articles/PMC12621896/figure/F4/
+number: 'Figure 4:'
+figure_title: Elevated IFN response in TS21 in cortical inhibitory neurogenesis
+caption: 'A. Volcano plot for DEGs between CTRL and TS21 in the radial glia class
+  (RG, DIV) grouped by clonal clusters. DEGs with an absolute log2FC change more than
+  0.2 were shown. Top DEGs in each clonal cluster and IFN stimulated genes were highlighted
+  and labeled.B. Cleveland''s dot plots showing pathway activity in DEGs in IN- (top)
+  and EN- (bottom) biased RG. Size denotes −log2(adjusted p value) and color denotes
+  pathway activity inferred using a univariate linear model through PROGENy54C. Scatterplots
+  of genes associated with the JAK-STAT pathway in IN- (top) and EN-(bottom) biased
+  RG. The x-axis denotes the weight of the target gene in the pathway obtained from
+  PROGENy54. The y-axis represents the Wald test statistic from DESeq235, defined
+  as the estimated log2FC divided by its standard error.D. Kernel density estimate
+  (KDE) plots of cells from top 15% clones where the radial glia class highly expresses
+  IFN responsive genes: ZBTB20, ISG15, IFI44, MX1, IFIT1 and IFIT3.E. Graphic summary
+  of findings: cortical RG in TS21 display premature inhibitory neurogenesis at the
+  expense of ENs and dysregulated developmental tempo, associated with elevated IFN
+  response and activation of JAK-STAT signaling pathway.IFN, interferon'
+article_title: Accelerated Tempo of Cortical Neurogenesis in Down Syndrome
+citation: Jingwen W Ding, et al. bioRxiv. 2025 Sep 29;NA(NA).
+year: '2025'
+pub_date: 2025-9-29
+epub_date: 2025-9-29
+doi: 10.1101/2025.09.29.679346
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

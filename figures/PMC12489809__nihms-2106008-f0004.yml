@@ -1,0 +1,44 @@
+---
+figid: PMC12489809__nihms-2106008-f0004
+pmcid: PMC12489809
+image_filename: jpg
+figure_link: /pmc/articles/PMC12489809/figure/F3/
+number: Figure 3.
+figure_title: Wnt receptor signaling is elicited in layer IV astrocytes following
+  whisker removal
+caption: '(A) Experimental design for B-C. Barrel cortex, 24 hours post-lesioning.(B)
+  Volcano plot of differentially expressed genes (DEGs) in astrocytes in control vs.
+  deprived hemispheres (hem). n=5 mice.(C) Plot of Ingenuity Pathway Analysis (IPA)
+  root regulators of DEGs in control vs. deprived hem astrocytes. x-axis position
+  indicates activation z-score. Dot size indicates −log10 p-value. Wnt signaling pathway
+  molecules: bold and blue.(D) Diagram of canonical Wnt siganling pathway.(E) Experimental
+  design for F-I. Layer IV barrel cortex, 24 hours post-lesioning.(F) Representative
+  images of control vs. deprived hems of TCF/Lef:H2B-GFP mice showing anti-SOX9+ astrocyte
+  nuclei, DAPI+ nuclei, and anti-GFP+ nuclei. Right-most panels depict anti-GFP signal
+  in astrocytes (SOX9+; examples outlined in insets) and non-astrocytes (DAPI+ SOX9-negative).
+  Scale bars and inset scale bars 10 μm.(G) Average TCF/Lef:H2B-GFP mean fluorescence
+  intensity (MFI) in control vs. deprived hem astrocytes (n=3 mice. ***p<0.001).(H)
+  Representative images of anti-β-catenin, anti-SOX9+ astrocyte nuclei, and DAPI+
+  nuclei in control vs. deprived hems. Two right-most columns show anti-β-catenin
+  in astrocyte nuclei (SOX9+; examples outlined in insets) and non-astrocytes (DAPI+
+  SOX9-negative). Scale bars and inset scale bars 10 μm.(I) Average nuclear β-catenin
+  MFI in astrocytes and non-astrocytes in control vs. deprived hems (n=6 mice. *p<0.05).Bar
+  graphs represent mean ± SEM. Circles (female) and squares (male) represent individual
+  animals.Statistics: Ratio paired t test (G), Repeated measures 2-way ANOVA with
+  Holm-Sidak post-hoc test (I).See also Figure S4, Tables S1–S3'
+article_title: Microglia-astrocyte crosstalk regulates synapse remodeling via Wnt
+  signaling
+citation: Travis E. Faust, et al. Cell. 2025 Sep 18;188(19).
+year: '2025'
+pub_date: 2025-9-18
+epub_date: 2025-9-10
+doi: 10.1016/j.cell.2025.08.023
+journal_title: Cell
+journal_nlm_ta: Cell
+publisher_name: .na.character
+keywords:
+- Microglia
+- astrocyte
+- synapse remodeling
+- Wnt
+---

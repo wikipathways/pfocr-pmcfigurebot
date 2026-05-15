@@ -1,0 +1,59 @@
+---
+figid: PMC12622173__nihpp-rs7762822v1-f0002
+pmcid: PMC12622173
+image_filename: jpg
+figure_link: /pmc/articles/PMC12622173/figure/F2/
+number: Figure 2
+figure_title: Ontogeny and environment drive transcriptional changes in brain myeloid
+  cells
+caption: (a) Principal component analysis (PCA) of RNA-seq from xenotransplanted brain
+  myeloid cells (CD11b+CD45+cells) based on 25,537 genes.(b) Differential gene expression
+  analysis using a likelihood ratio test (LRT) model across four groups. Overall,
+  1,057 genes were upregulated in CD34+ and monocyte-differentiated brain myeloid
+  cells. Z-score of gene abundance was used to quantify the distance between each
+  data point and the mean, with values expressed in terms of standard deviations.
+  Log2 Fold change > 0.5, padj < 0.05.(c) Pathway enrichment analysis (Metascape)
+  of upregulated genes in CD34+ cell- and monocyte-derived brain myeloid cells.(d)
+  Heatmap of highly expressed pathway genes in CD34+ cell- and monocyte-derived brain
+  myeloid cells, with genes involved in antigen presentation and interferon response.(e)
+  The LRT model identified 1,026 genes upregulated in both PN and iHPCs-derived microglia
+  compared to the CD34+ and monocyte-derived brain myeloid cells. The Z-scores of
+  gene abundance was plotted in bar charts to quantify the deviation of each data
+  point from the mean, with values presented as standard deviations. Log2 Fold change
+  > 0.5, padj < 0.05.(f) Metascape analysis for pathways enrichment in human postnatal
+  (PN) and iHPCs-derived microglia.(g) LRT analysis identifies 204 genes upregulated
+  in PN microglia compared to all other groups. Log2 Fold change > 0.5, padj < 0.05.(h)
+  Pathway enrichment analysis (Metascape) of genes upregulated in PN.(i) Pairwise
+  comparison between postnatal microglia (PN) and the combined data of CD34+ and monocyte-derived
+  brain myeloid cells with Metascape specific pathway enrichment. P-adj < 0.05. Genes
+  with a |log2 fold change| > 1 are considered significantly upregulated or downregulated,
+  representing at least a two-fold increase or decrease in expression.(j) Rank-Rank
+  Hypergeometric Overlap (RRHO) analysis revealed strong concordance in the gene signatures
+  of monocyte-derived myeloid cells between our RNA-seq data and the Visium spatial
+  dataset from Davtyan and Chadarevian et al. Based on the RRHO analysis, the most
+  co-upregulated genes based on ranking identified 1,094 overlapping genes visualized
+  by Venn diagram. Pathway enrichment of these shared genes using Metascape highlighted
+  processes related to cytokine production, cell activation, and interferon signaling,
+  with −log10(p-value) > 10.(k) Heatmap of transcription factor gene expression across
+  the four groups. Genes marked in red are differentially expressed (|log2FC| > 1,
+  padj < 0.05) between iHPCs- and CD34/monocyte-derived cells in the CNS.(l) Venn
+  diagram of the overlap of genes upregulated in postnatal and iHPCs-derived microglia
+  in the CNS (1026, Fig. 2e) overlapped with microglial genes regulated by the brain
+  environment (Gosselin et al19). Hypergeometric p value is included. p-adj < 0.05
+  and Log2FC > 0.5.(m) Venn diagram of brain environmentally response genes with those
+  upregulated in CD34 and monocyte derived brain myeloid cells (1057, Fig. 2b), hypergeometric
+  p with p-adj < 0.05 and Log2FC> 0.5.Analysis based on n ≥ 6 samples from all groups
+  except for postnatal microglia (n = 16 derived from Han CZ et al30 and Gosselin
+  D et al19)
+article_title: Global human myeloid replacement with peripheral progenitors induces
+  interferonopathy and neurodegeneration
+citation: Jing Wang, et al. Res Sq. 2025 Oct 03;NA(NA).
+year: '2025'
+pub_date: '2025-10-03'
+epub_date: '2025-10-03'
+doi: 10.21203/rs.3.rs-7762822/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords: []
+---

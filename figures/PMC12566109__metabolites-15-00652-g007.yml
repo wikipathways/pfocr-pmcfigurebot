@@ -1,0 +1,30 @@
+---
+figid: PMC12566109__metabolites-15-00652-g007
+pmcid: PMC12566109
+image_filename: jpg
+figure_link: /pmc/articles/PMC12566109/figure/F7/
+number: Figure 7
+figure_title: KEGG enrichment network of differential metabolites.
+caption: 'KEGG enrichment network of differential metabolites. In the figure, the
+  light yellow nodes represent pathways, and the small nodes connected to them are
+  the specific metabolites annotated to these pathways. The size of the nodes indicates
+  the number of differential metabolites annotated to the pathway, and the color depth
+  represents the log2 value of the fold change. (A): MP vs. CK; (B): MN vs. CK; (C):
+  MP–N vs. CK'
+article_title: Metabolic Characteristics of PGPR-Induced Growth Promotion in Alfalfa
+  (Medicago sativa L.)
+citation: Rina Dao, et al. Metabolites. 2025 Oct;15(10).
+year: '2025'
+pub_date: 2025-10-
+epub_date: 2025-9-30
+doi: 10.3390/metabo15100652
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- PGPR
+- Medicago sativa
+- metabolomics
+- KEGG enrichment
+- isoflavonoid biosynthesis
+---

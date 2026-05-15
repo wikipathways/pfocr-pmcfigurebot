@@ -1,0 +1,38 @@
+---
+figid: PMC12621708__nihpp-2025.09.27.678977v1-f0002
+pmcid: PMC12621708
+image_filename: jpg
+figure_link: /pmc/articles/PMC12621708/figure/F2/
+number: Figure 2.
+figure_title: homeRNA captures LPS-induced immune response.
+caption: 'homeRNA captures LPS-induced immune response. A) Volcano plot of differentially
+  expressed genes (DEGs) between LPS-stimulated and unstimulated homeRNA-stabilized
+  samples. The measured 943 DEGs (30% change in expression, FDR ≤ 0.05) are represented
+  by the negative log10 of the adjusted p-value on the y-axis and log2 fold change
+  on the x-axis. Red points represent up-regulated genes and blue points represent
+  down-regulated genes with LPS stimulation. The top 10 highly expressed up-regulated
+  and down-regulated genes are labeled. B) Gene ontology (GO) enrichment chord diagram
+  visualizing the top 10 DEGs present in each of the top six biological processes.
+  Genes are positioned around the circle and colored by their log2 fold change (red
+  for up-regulated, blue for down-regulated). Biological processes are labeled A-F
+  around the outer ring. Connecting ribbons link genes to their associated biological
+  processes, with ribbon colors corresponding to a biological process. C) All up-
+  and down-regulated DEGs (n=29 DEGs) in the toll-like receptor signaling pathway
+  (KEGG: 04060) ranked based on their absolute value of log2 fold change. Up-regulated
+  genes are shown in red; down-regulated genes are shown in blue. The box and whisker
+  plot on the left summarizes the distribution of all DEGs in this pathway with outliers
+  represented by circles. p-values were adjusted for multiple comparisons by controlling
+  for the false discovery rate (FDR) using the Benjamini-Hochberg (BH) procedure41'
+article_title: 'From Home to Transcriptome: Comparing the transcriptomic profile of
+  induced immune response via lipopolysaccharide stimulation in homeRNA and venous
+  blood'
+citation: Lauren G. Brown, et al. bioRxiv. 2025 Sep 29;98(4).
+year: '2025'
+pub_date: 2025-9-29
+epub_date: 2025-9-29
+doi: 10.1101/2025.09.27.678977
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

@@ -1,0 +1,38 @@
+---
+figid: PMC12621704__nihpp-2025.10.01.679856v1-f0005
+pmcid: PMC12621704
+image_filename: jpg
+figure_link: /pmc/articles/PMC12621704/figure/F5/
+number: 'Fig. 5:'
+figure_title: Upstream regulators of the IFN response are persistently activated in
+  Mgmt−/− mice
+caption: 'a, Upregulated genes from WT and Mgmt−/− livers (5 days post-NDMA treatment)
+  were analyzed for transcriptional regulatory network enrichment using the TRRUST
+  (Transcriptional Regulatory Relationships Unravelled by Sentence-based Text-mining)
+  database via Enrichr. Bar graphs display the top 10 enriched transcription factors
+  as ranked by p-value. b, Ingenuity Pathway Analysis (IPA) of RNA-sequencing data
+  from Mgmt−/− mice identified activated (> 2.0 z-score) and inhibited (< 2.0 z-score)
+  upstream regulators throughout their lifetime with IFN genes labeled in each plot.
+  c, IPA of RNA-sequencing data for WT mice identified activated and inhibited upstream
+  regulators only at 1 day and 5 days post-exposure. No genes met cutoff thresholds
+  (same as (B) for 10-week or 10-month data. Genes involved in IFN response are labeled.
+  d, IFN pathway protein levels (cGAS, STING, STAT1, pSTAT1) were quantified by western
+  blot from whole-cell liver tissue at 1 day, 5 days, and 10 weeks post-NDMA exposure.
+  Band intensities normalized to TPS and saline WT controls. n = 4 per group (2 males,
+  2 females). Statistical comparisons performed by two-way ANOVA with Šídák’s multiple
+  comparisons test. Data are presented as mean ± s.e.m. Statistical significance:
+  *p < 0.05, **p < 0.01, ***p < 0.001, ****p < 0.0001. NS, not significant. All transcriptomic
+  analyses utilized filtering thresholds of p-adjusted value < 0.05 and absolute log2
+  fold change > 0.58'
+article_title: Persistent interferon signaling and clonal expansion mark early events
+  in DNA methylation damage-induced liver cancer
+citation: Lee J. Pribyl, et al. bioRxiv. 2025 Oct 03;NA(NA).
+year: '2025'
+pub_date: '2025-10-03'
+epub_date: '2025-10-03'
+doi: 10.1101/2025.10.01.679856
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

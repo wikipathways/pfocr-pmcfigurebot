@@ -1,0 +1,40 @@
+---
+figid: PMC12485691__nihpp-2025.09.23.678110v1-f0001
+pmcid: PMC12485691
+image_filename: jpg
+figure_link: /pmc/articles/PMC12485691/figure/F1/
+number: Figure 1.
+figure_title: Multi-omics factor analysis of the aging human brain
+caption: (a) Summary of the number of samples for each view. Numbers in parentheses
+  represent the total number of samples and gray lines represent the missing samples.
+  (b) The sum of variance explained from all factors for each view. (c) Variance explained
+  by factors across views. The color scale shows the percentage of variance explained,
+  ranging from zero (white) to 10 (dark orange). (d) Relationship of factors with
+  covariates via regression analysis. Results were controlled for sex, age, and years
+  of education, with P-values corrected using the False Discovery Rate (FDR) method
+  to address multiple comparisons. (*) = −log10 (adj. P) > 1.30103; (**) = −log10
+  (adj. P) > 2; (***) = −log10 (adj. P) > 3. The color scale shows the association
+  effect size indicating direction and strength from negative (blue) to positive (red).
+  (e) Variance explained for each factor by phenotype category. (f) Pathway enrichment
+  analysis. Gene Set Enrichment Analysis (GSEA) was performed for each factor and
+  the resulting terms were assigned into eight pathways. The selection of terms was
+  made through the use of pathway related keywords. Approximately 31% of the total
+  number of terms were allocated into one of the categories. The color scale shows
+  the P-values corrected by the Benjamini-Hochberg (BH) method
+article_title: Integration of aged brain multi-omics reveals cross-system mechanisms
+  underlying Alzheimer’s disease heterogeneity
+citation: Lucas P Scheidemantel, et al. bioRxiv. 2025 Sep 23;45(4).
+year: '2025'
+pub_date: 2025-9-23
+epub_date: 2025-9-23
+doi: 10.1101/2025.09.23.678110
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Alzheimer’s disease
+- multi-omics integration
+- MOFA
+- molecular subtypes
+- biomarkers
+---

@@ -1,0 +1,27 @@
+---
+figid: PMC12489809__nihms-2106008-f0005
+pmcid: PMC12489809
+image_filename: jpg
+figure_link: /pmc/articles/PMC12489809/figure/F4/
+number: Figure 4.
+figure_title: Activation of Wnt signaling in astrocytes induces increased separation
+  between synapses and astrocyte processes
+caption: |-
+  (A) Diagram of Wnt signaling pathway and β-catenin destruction complex.(B) Diagram of Apc
+  Flox allele.(C) Experimental design for D-J. Layer IV barrel cortex, P12.(D) Representative images of anti-β-catenin, anti-SOX9+ astrocytes, and DAPI+ nuclei in Aldh1l1CreER/+; Apc+/+; Rosa26mTmG/+ (control) mice vs. Aldh1l1CreER/+; ApcFlox/Flox; Rosa26mTmG/+ (APC cKO) mice. Right-most panels show anti-β-catenin in astrocyte nuclei (SOX9+; examples outlined in insets). Scale bars and inset scale bars 10 μm.(E) Average nuclear β-catenin MFI in astrocytes in control vs. APC cKO mice (n=5 control, 3 APC cKO mice. *p<0.05).(F) Representative 3D renders of anti-GFP+ astrocyte processes in control vs. APC cKO mice. Scale bars 2 μm (corrected for expansion index).(G) Total density of astrocyte processes in control vs. APC cKO mice (n=6 control, 5 APC cKO mice).(H) Representative 3D renders of anti-VGluT2+ synapses in control vs. APC cKO mice, pseudo-colored by synapse-astrocyte nearest neighbor distance (NND; corrected for expansion index). Astrocyte-contacted synapses (NND=0) are transparent. Insets: 3D renders of anti-VGluT2+ synapses and anti-GFP+ astrocyte processes. Scale bars and inset scale bars 2 μm (corrected for expansion index).(I-J) Percentage of synapses contacted by astrocytes (I) and mean synapse-astrocyte NND (J) in control vs. APC cKO mice (n=6 control, 5 APC cKO mice. *p<0.05).(K) Diagram of ligand-receptor analysis.(L) Heatmap of predicted ligand activities for Wnts in public astrocyte TRAP-Seq datasets. Superscripts: reference numbers.Bar graphs represent mean ± SEM. Circles (female) and squares (male) represent individual animals.Statistics: Student’s t test (E, G, I-J).See also Table S4
+article_title: Microglia-astrocyte crosstalk regulates synapse remodeling via Wnt
+  signaling
+citation: Travis E. Faust, et al. Cell. 2025 Sep 18;188(19).
+year: '2025'
+pub_date: 2025-9-18
+epub_date: 2025-9-10
+doi: 10.1016/j.cell.2025.08.023
+journal_title: Cell
+journal_nlm_ta: Cell
+publisher_name: .na.character
+keywords:
+- Microglia
+- astrocyte
+- synapse remodeling
+- Wnt
+---

@@ -1,0 +1,43 @@
+---
+figid: PMC12485861__nihpp-2025.09.24.678314v1-f0001
+pmcid: PMC12485861
+image_filename: jpg
+figure_link: /pmc/articles/PMC12485861/figure/F1/
+number: 'Figure 1:'
+figure_title: Immune enhancers identified by STARR-seq (A) Schematic of STARR-seq
+  experiment.
+caption: Immune enhancers identified by STARR-seq (A) Schematic of STARR-seq experiment.
+  Fragmented genomic DNA is cloned into the pSTARR-seq plasmid, creating a library
+  of putative enhancer regions. This library is transfected into S2* cells, split
+  into 3 different populations and treated with either H2O/PBS, 20E/PBS, 20E/Heat-killed
+  Serratia marcescens (HKSM). (B) Pearson correlation of each individual replicate
+  across three treatments. (C) Distribution of enhancers in genomic regions (D) Schlamp
+  et al. (2021) identified four time clusters of gene expression in the first 24 hrs
+  following immune stimulation in adult flies; peak expression times for each time
+  cluster are shown. Enhancers were assigned to these immune genes and the fraction
+  of immune genes identified by Schlamp et al. with an immune enhancer is plotted.
+  (E) Schematic of Imd pathway activated by DAP-type peptidoglycan binding to peptidoglycan
+  recognition proteins (PGRPs) leading to the cleavage of the NF-κB Relish, allowing
+  its translocation into the nucleus where it activates transcription of antimicrobial
+  peptides (AMPs). Pie chart of the number of enhancers assigned to Imd-associated
+  AMPs and effectors (Westlake et al. 2024) (F) IGV view of the CrebA gene locus,
+  showing the STARR-seq output tracks and STARRPeaker called peaks for all treatment
+  conditions. STARR-seq identified two enhancers in the CrebA intron, one shared across
+  all conditions and one that is IMD specific (G) Overlay histogram of GFP levels
+  of S2* cells transfected with a GFP reporter of the IMD-specific CrebA enhancer
+  analyzed by flow cytometry
+article_title: A genome-wide survey reveals a diverse array of enhancers coordinate
+  the Drosophila innate immune response
+citation: Lianne B. Cohen, et al. bioRxiv. 2025 Sep 24;NA(NA).
+year: '2025'
+pub_date: 2025-9-24
+epub_date: 2025-9-24
+doi: 10.1101/2025.09.24.678314
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Drosophila immunity
+- Immune-responsive enhancer
+- STARR-seq
+---

@@ -1,0 +1,52 @@
+---
+figid: PMC12564598__biomolecules-15-01354-g005
+pmcid: PMC12564598
+image_filename: jpg
+figure_link: /pmc/articles/PMC12564598/figure/F5/
+number: Figure 5
+figure_title: Rst2 contribution to gene regulation in response to mitochondrial translation
+  inhibition during the stationary phase.
+caption: 'Rst2 contribution to gene regulation in response to mitochondrial translation
+  inhibition during the stationary phase. (a) Experimental design of wild-type (wt)
+  and Δrst2 strains used for RNA-seq analysis. For experimental details, see the Materials
+  and Methods Section. Three independent biological replicates were prepared for each
+  condition. (b) PCA based on rlog-transformed normalized expression values of transcriptome
+  responses from ∆rst2 and wild-type (wt) cells collected during exponential and stationary
+  phases. Each dot represents one biological replicate. Dot shapes indicate the growth
+  phases (circle: exponential; triangle: stationary), and dot colors indicate the
+  genotype (turquoise: wt; pink: ∆rst2). PC1 and PC2 account for 91.2% and 5.6% of
+  the total variance, respectively. (c) Overlap analysis of genes repressed in Δrst2
+  cells during the stationary phase compared to CAP-induced genes during the stationary
+  phase and to Rst2 target genes [25]. The p-value represents the significance of
+  the overlap among the three gene sets. (d) KEGG pathway enrichment analysis of the
+  genes repressed in Δrst2 cells during the stationary phase. The most enriched pathways
+  are related to carbon metabolism and meiosis. Dot size represents gene count per
+  pathway, and color indicates FDR values, as shown on the right. The analysis was
+  performed using DAVID [36,37] with default parameters and visualized by R (version
+  4.4.1, R Foundation for Statistical Computing, Vienna) [38]. (e) Subcellular localization
+  of Rst2 in untreated and CAP-treated cells. Wild-type cells expressing Rst2-GFP
+  under its endogenous promoter were grown in YES medium to an initial OD600 of 0.2
+  (0 h). Cells were then treated with CAP and collected at the indicated time points
+  for fluorescence microscopy. Scale bar, 10 μm'
+article_title: Mitochondrial Translation Inhibition Triggers an Rst2-Controlled Transcriptional
+  Reprogramming of Carbon Metabolism in Stationary-Phase Cells of Fission Yeast
+citation: Ying Luo, et al. Biomolecules. 2025 Oct;15(10).
+year: '2025'
+pub_date: 2025-10-
+epub_date: 2025-9-24
+doi: 10.3390/biom15101354
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- S. pombe
+- retrograde response
+- carbon catabolite repression
+- Scr1
+- transcription factor
+- transcriptome
+- mitochondrial metabolism
+- stress response
+- RNA-seq
+- genetic interactions
+---

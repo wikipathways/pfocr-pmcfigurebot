@@ -1,0 +1,32 @@
+---
+figid: PMC12524464__ijms-26-09443-g004
+pmcid: PMC12524464
+image_filename: jpg
+figure_link: /pmc/articles/PMC12524464/figure/F4/
+number: Figure 4
+figure_title: Identification of hub genes in UC using WGCNA.
+caption: Identification of hub genes in UC using WGCNA. (A) Hierarchical clustering
+  trees of mRNAs expression patterns in UC samples (GSE87466). (B) Topological calculations
+  with soft thresholds value (1~20) to select the optimal soft threshold. (C) Clustering
+  dendrograms of genes in UC. (D) Heatmap of the correlation analysis of module eigengenes
+  with the fructose and mannose metabolism pathway(the MEblue module contains the
+  genes that are the most strongly correlated with this pathway). (E) Venn diagrams
+  for intersecting genes between coexpressed module genes and genes in the metabolism
+  pathway
+article_title: Multiple Comprehensive Analyses Identify the Protective Role and Diagnostic
+  Signature of Mannose Metabolism in Ulcerative Colitis
+citation: Yunze Liu, et al. Int J Mol Sci. 2025 Oct;26(19).
+year: '2025'
+pub_date: 2025-10-
+epub_date: 2025-9-26
+doi: 10.3390/ijms26199443
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- ulcerative colitis
+- mannose metabolism
+- immune cell
+- Mendelian randomization
+- machine learning
+---

@@ -1,0 +1,43 @@
+---
+figid: PMC12742466__nihms-2128512-f0004
+pmcid: PMC12742466
+image_filename: jpg
+figure_link: /pmc/articles/PMC12742466/figure/F4/
+number: Fig. 4.
+figure_title: RNAseq data from Klf9KI and Wt-Cre
+caption: A. Western blotting of total protein lysate from 1-day, 1-week, 2-week, 4-week,
+  and 8-week-old Wt-Cre and Klf9KI mouse hearts probed for the indicated proteins.
+  Lamin A/C and Ponceau staining are shown for loading controls. B. The graph represents
+  the relative Klf9 mRNA abundance at 1 week, 4 weeks, and 8 weeks old Klf9KI hearts
+  compared to Wt-Cre. Error bars represent SEM, * is p < 0.05 compared to respective
+  Wt-Cre, n = 3–4. C. Venn diagram shows the number of genes that are differentially
+  regulated between Wt-Cre and Klf9KI mice at 1-week, 4-week, and 8-week of age (|log2FC|
+  ≥ 1), n = 3 for each time point with its respective controls. D. Donut Pie charts
+  show the number of differentially regulated genes and the percent of upregulated
+  and downregulated genes in 1 week, 4 weeks, and 8 weeks old Klf9KI versus Wt-Cre
+  mice. E. Volcano plot showing genes that are upregulated (red), downregulated (green),
+  and unchanged (blue) in 1-week Klf9KI hearts compared to Wt-Cre. F. Table lists
+  the differentially expressed genes from selected pathways in 1-week-old Klf9KI and
+  Wt-Cre hearts. The heatmap represents levels of the 108 differentially expressed
+  genes in these hearts. G. The graphs list the number of genes in the functional
+  groups as categorized by KEGG pathway analysis, which shows differential regulation
+  in the 4-week hearts of Klf9KI compared to Wt-Cre. H. The graphs list the number
+  of genes in the functional groups as categorized by KEGG pathway analysis, which
+  shows differential regulation in the 8-week hearts of Klf9KI compared to Wt-Cre
+article_title: Constitutive expression of cardiomyocyte Klf9 precipitates metabolic
+  dysfunction and spontaneous cardiomyopathy
+citation: Chandni Thakkar, et al. Cell Signal. 2025 Dec;136(NA).
+year: '2025'
+pub_date: 2025-12-
+epub_date: 2025-9-22
+doi: 10.1016/j.cellsig.2025.112146
+journal_title: Cellular signalling
+journal_nlm_ta: Cell Signal
+publisher_name: .na.character
+keywords:
+- Krüppel-like factor
+- Klf9
+- BTEB
+- Metabolic adaptations in cardiomyocytes
+- Klf9 knock-in
+---
