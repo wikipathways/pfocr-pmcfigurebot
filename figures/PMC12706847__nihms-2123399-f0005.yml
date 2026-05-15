@@ -1,0 +1,60 @@
+---
+figid: PMC12706847__nihms-2123399-f0005
+pmcid: PMC12706847
+image_filename: jpg
+figure_link: /pmc/articles/PMC12706847/figure/F5/
+number: Fig. 5.
+figure_title: Differential expression of spinal lncRNAs in allodynic PAE mice and
+  their potential interactions with concurrent mRNAs and circRNA changes in the spinal
+  cord
+caption: 'A. Volcano plot visualizes differential expression of spinal lncRNAs comparing
+  PAE + minor CCI + morphine vs. control + minor CCI + morphine mice group. Based
+  on the FDR-corrected p-value<0.05, there were a total of 123 dysregulated lncRNAs.
+  The volcano plot shows DE lncRNAs with FDR-corrected p-value <0.05 and log2FC >
+  0.25, this conservative approach yields a total of 34 significantly dysregulated
+  lncRNAs-26 upregulated and 8 downregulated. Red represents significantly upregulated
+  lncRNAs and downregulated lncRNAs. Blue circles indicate lncRNAs that meet the p-value
+  criteria, but not the log2FC criteria. Green circles indicate lncRNAs that meet
+  the log2FC criteria but not the log10(p-value), and gray circles are insignificant
+  lncRNAs. B. KEGG and GO pathways of interest analysis, discerning interactions of
+  cis genes of DE lncRNAs. C. Circos plot demonstrating commonality in DE mRNAs-circRNAs-lncRNAs.
+  The outer arcs represent individual gene lists, color-coded to match green for mRNA,
+  red for circRNA, and blue for lncRNA. Inner segments (lines) display the gene members
+  of each list, displaying genes in common with the RNA species. In this dataset three
+  genes were common in DEcircRNA and DE-mRNA: Kirrel3, Lcorl, and Qki. For Qki, the
+  circular and linear forms displayed changes in the same directionality (both upregulated)
+  compared to PAE and non-PAE morphine-treated mice. In contrast, for Lcorl and Kirrel3,
+  the linear and circular isoforms showed opposite patterns of dysregulation. D. DE
+  gene lists from all datasets were combined to generate a unified protein–protein
+  interaction (PPI) network. Distinct network modules, outlined in different colors,
+  were identified using the MCODE algorithm, which detects regions of high connectivity.
+  Nodes within the network are color-coded according to RNA type: blue (lncRNAs),
+  green (mRNAs), and red (circRNAs). Gene Ontology (GO) enrichment analysis from protein-protein
+  interaction (PPI) networks that identified significant MCODE clusters displaying
+  molecular interactions. The top results were grouped by MCODE modules to show which
+  functions were most enriched in each cluster. This analysis revealed “steroid hormone
+  signaling, transcription binding-(MCODE1)” and “synapse organization, transcription
+  co-repressor binding-(MCODE2)” “dendritic and neuron spine and synapse organization
+  (MCODE 3–4)” relate to PAE-induced synaptic plasticity underlying CNS dysfunction.
+  MCODE 5 predicted dysregulation of RNA processing and nuclear architecture, altering
+  splicing kinetics and transcript stability'
+article_title: Prenatal alcohol exposure induces circular and linear long non-coding
+  RNAs, and protein-coding genes linked to proinflammatory neuroimmune function, promoting
+  nerve injury-induced allodynia following morphine treatment
+citation: Ariana N. Pritha, et al. Neuropharmacology. 2026 Feb 01;283(NA).
+year: '2026'
+pub_date: 2026-2-01
+epub_date: '2025-11-07'
+doi: 10.1016/j.neuropharm.2025.110756
+journal_title: Neuropharmacology
+journal_nlm_ta: Neuropharmacology
+publisher_name: .na.character
+keywords:
+- circRNA
+- Neuroimmune
+- Prenatal alcohol
+- Inflammation
+- lncRNA
+- Morphine
+- Pain
+---

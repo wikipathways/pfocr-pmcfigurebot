@@ -1,0 +1,61 @@
+---
+figid: PMC13071151__nihms-2158501-f0006
+pmcid: PMC13071151
+image_filename: jpg
+figure_link: /pmc/articles/PMC13071151/figure/F6/
+number: Figure 6.
+figure_title: RNF125 suppresses HCC development
+caption: '(A) Study design. FVB/N mice were hydrodynamically injected with either
+  c-Met/β-cateninΔ90/pT3 or c-Met/β-cateninΔ90/pT3-RNF125 plasmids. (B) The survival
+  curves of c-Met/β-cateninΔ90/pT3 (n=5) and c-Met/β-cateninΔ90/pT3-RNF125 (n=10).
+  (C) Comparison of liver weight. (D) Representative gross liver images and H&E staining.
+  (E) Representative images and quantification of colony formation assay in RNF125-overexpressing
+  HepG2, SNU449, and PLC/PRF/5 cells. (F) Cell cycle distribution was quantified by
+  the area corresponding to each cell cycle phase in the flow cytometry histogram.
+  (G) RT-qPCR analysis of RNF125 in FOXO1AAA-overexpressing HCC cells (HepG2, SNU449,
+  and PLC/PRF/5) after siRNF125–1 transfection. HCC cells were transfected with either
+  siRNF125–1 or a negative control siRNA, followed by treatment with 2 μM doxycycline
+  hydrochloride (Dox) on the second day to induce FOXO1AAA expression. Cells were
+  harvested after 48 hours of Dox treatment. (H) Cell viability in FOXO1AAA-overexpressing
+  HCC cells (HepG2, SNU449, and PLC/PRF/5) following RNF125 knockdown. (I) Schematic
+  representation of RNA-seq study. pInducer20-RNF125 HepG2 cells were treated with
+  or without 2 μM Dox for 48 hours, followed by RNA-seq analysis. (J) KEGG pathway
+  analysis of downregulated genes in RNA-seq data of RNF125-overexpressing HepG2 cells.
+  (K) GSEA analysis of the hallmark pathways ‘Hepatocellular carcinoma’, ‘DNA replication’,
+  ’Cell cycle’, and ’Apoptosis_multiple species’ in the RNA-seq study of RNF125-overexpressing
+  HepG2 cells. (L) KEGG pathway analysis of upregulated proteins in the proteomics
+  of RNF125-overexpressing HepG2 cells. (M) Western blots of potential RNF125 target
+  proteins in pInducer20-RNF125 HepG2 cells. Cells were transfected with plasmids
+  expressing Flag-tagged MCM6, MCM9, or MAP3K4. After overnight transfection, 2 µM
+  Dox was added to induce RNF125 expression, and cells were harvested 48 hours after
+  Dox treatment for Western blot analysis. GAPDH was used as the loading control.
+  (N) Docked protein-protein interaction complex of RNF125-E2-Ubiquitin (green-cyan-magenta)
+  and MCM9 (orange). Left: Surface representation of the whole complex. Right: Enlarged
+  details of the interaction. The carboxylic group of G76 on ubiquitin is 5.2Å away
+  from the amine moiety of K296 on MCM9, rendering the possibility of nucleophilic
+  attack for ubiquitination to occur. (O) Docked protein-protein interaction complex
+  of RNF125-E2-Ubiquitin (green-cyan-magenta) and MAP3K4 (gray). Left: Surface representation
+  of the whole complex. Right: Enlarged details of the interaction. The carboxylic
+  group of G76 on ubiquitin is 5.4Å away from the amine moiety of K1326 on MAP3K4.
+  This indicates K1326 is likely to be ubiquitinated, in agreement to existing reports.
+  Data are presented as the mean ± SEM. Statistical significance: *P < 0.05, **P <
+  0.01, ***P < 0.001, ****P < 0.0001. Abbreviations: H&E, hematoxylin and eosin staining;
+  w.p.i., weeks post-injection'
+article_title: Targeting mTORC2-Dependent AKT/FOXO1/RNF125 Signaling Exploits a Therapeutic
+  Vulnerability in c-MET-Activated and β-catenin-Mutated Hepatocellular Carcinoma
+citation: Xue Wang, et al. Hepatology. 2025 Dec 02;NA(NA).
+year: '2025'
+pub_date: '2025-12-02'
+epub_date: '2025-12-02'
+doi: 10.1097/HEP.0000000000001637
+journal_title: Hepatology (Baltimore, Md.)
+journal_nlm_ta: Hepatology
+publisher_name: .na.character
+keywords:
+- Hepatocellular carcinomas
+- c-MET
+- β-catenin
+- AKT signaling
+- RNF125
+- Targeted therapy
+---

@@ -1,0 +1,38 @@
+---
+figid: PMC11722313__nihpp-2024.12.30.630732v4-f0003
+pmcid: PMC11722313
+image_filename: jpg
+figure_link: /pmc/articles/PMC11722313/figure/F3/
+number: 'Figure 3:'
+figure_title: Conformational dynamics of IDE implied by structural heterogeneity
+caption: '(A) All-atom MD simulations analysis. The primary source of structural variance
+  (RMSD) results from the IDE-N moving against IDE-C as a rigid body. Rigid bodies
+  were defined as colored for multibody refinement in RELION. (B-C) Multibody analysis.
+  The range of conformational variance described by the top principal component vectors
+  displays an unexpectedly high degree of rotational motion, as measured by the change
+  in D1-D2-D3-D4 dihedral angle across the gradient of structural heterogeneity for
+  each vector, in both the absence (B) and presence (C) of insulin compared to the
+  expected open-close transition pathway predicted from a linear interpolation of
+  the experimentally determined structures of IDE (dashed line, Figure 3 – figure
+  supplement 1). Two dominant components of structural variance are revealed from
+  multibody analysis: (D) where IDE-N swings relative to IDE-N about the inter-domain
+  linker, and (E) where IDE-N rotates against IDE-C. Starting (orange) and ending
+  (red) states of IDE-N shown with pathway depicted by arrows. IDE-C shown as gray
+  surface'
+article_title: Characterization and modulation of human insulin degrading enzyme conformational
+  dynamics to control enzyme activity
+citation: Jordan M. Mancl, et al. bioRxiv. 2025 Dec 03;NA(NA).
+year: '2025'
+pub_date: '2025-12-03'
+epub_date: '2025-12-03'
+doi: 10.1101/2024.12.30.630732
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- amyloid peptides
+- insulin degrading enzyme
+- proteostasis
+- diabetes
+- cryo-electron microscopy
+---

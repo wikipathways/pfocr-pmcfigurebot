@@ -1,0 +1,38 @@
+---
+figid: PMC12691261__animals-15-03435-g009
+pmcid: PMC12691261
+image_filename: jpg
+figure_link: /pmc/articles/PMC12691261/figure/F9/
+number: Figure 9
+figure_title: Joint analysis of differential genes and differential metabolites.
+caption: Joint analysis of differential genes and differential metabolites. (A) Clustered
+  heatmap of correlation coefficients between differentially expressed genes (DEGs)
+  and differential metabolites (DMs). The heatmap visualizes the Pearson correlation
+  coefficients, demonstrating coordinated changes between the transcriptomic and metabolomic
+  profiles. (B) Venn diagram identifying shared KEGG pathways. The diagram illustrates
+  the intersection of KEGG pathways significantly enriched by DEGs and DMs, highlighting
+  biological processes commonly perturbed at both molecular levels. (C) Bar plot of
+  KEGG pathway enrichment. The bar chart displays the top significantly enriched KEGG
+  pathways common to both DEGs and DMs. The x-axis represents the rich factor, while
+  the y-axis lists the pathway names. (D) Correlation network of DEGs and DMs within
+  four key pathways. The network depicts the interactions between DEGs (rectangular
+  nodes) and DMs (circular nodes) within four selected pathways. Edges represent significant
+  correlations, highlighting potential regulatory relationships. Solid blue lines
+  indicate negative correlations and solid red lines indicate positive correlations
+article_title: The Impact of MEI1 Alternative Splicing Events on Spermatogenesis in
+  Mongolian Horses
+citation: Dailing Song, et al. Animals (Basel). 2025 Dec;15(23).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-28'
+doi: 10.3390/ani15233435
+journal_title: 'Animals : an Open Access Journal from MDPI'
+journal_nlm_ta: Animals (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- MEI1 gene
+- alternative splicing
+- skipped exons
+- mutually exclusive exons
+- spermatogenesis
+---

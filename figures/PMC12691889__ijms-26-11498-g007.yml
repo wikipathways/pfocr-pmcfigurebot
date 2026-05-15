@@ -1,0 +1,31 @@
+---
+figid: PMC12691889__ijms-26-11498-g007
+pmcid: PMC12691889
+image_filename: jpg
+figure_link: /pmc/articles/PMC12691889/figure/F7/
+number: Figure 7
+figure_title: Functional enrichment analysis of 3661 dysregulated proteins using g:Profiler.
+caption: Functional enrichment analysis of 3661 dysregulated proteins using g:Profiler.
+  Bubble plots show combined GO enrichment across biological processes, molecular
+  functions, and cellular components. Bubble size represents the number of proteins
+  per term, while color intensity reflects the significance level as −log10(p-value).
+  This visualization highlights key pathways, functions, and cellular locations associated
+  with the dysregulated proteins. The x-axis indicates the number of dysregulated
+  proteins associated with each GO term (i.e., term count)
+article_title: Data-Independent Acquisition (DIA)-Based Proteomics for the Identification
+  of Biomarkers in Tissue Washings of Endometrial Cancer
+citation: Lorenzo Monasta, et al. Int J Mol Sci. 2025 Dec;26(23).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-27'
+doi: 10.3390/ijms262311498
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- endometrial cancer
+- proteomics
+- mass spectrometry
+- tissue washings
+- biomarker
+---

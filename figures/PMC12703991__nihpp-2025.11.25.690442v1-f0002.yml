@@ -1,0 +1,35 @@
+---
+figid: PMC12703991__nihpp-2025.11.25.690442v1-f0002
+pmcid: PMC12703991
+image_filename: jpg
+figure_link: /pmc/articles/PMC12703991/figure/F1/
+number: 'Figure 1:'
+figure_title: Overview of Synaptic MEMOIR
+caption: a, Conceptual illustration of the trade-off between imaging resolution and
+  volume.b, Synaptic MEMOIR labels each neuron with a unique, genetically encoded
+  barcode ID that is read out both at cell bodies and synapses, enabling the reconstruction
+  of neuronal projection patterns with single-synapse resolution across long distances
+  in brain tissue.c, Protein-barcode system design. A protein barcode cassette is
+  fused and translated together with a synaptic localization protein.d, Validation
+  of protein tag transport and synaptic localization in D. melanogaster. Schematic
+  of antennal lobe projection neurons pathway with presynapses formed in the mushroom
+  body calyx and the lateral horn. Maximum-intensity projection of a whole-mount brain
+  labeled with anti-Brp (magenta), synaptic protein barcode tags (yellow) and DAPI
+  (cyan). Scale bar = 100 um. Insets show protein tag signals detected in mushroom
+  body calyx synapses (1, white box in overview image) and antennal lobe projection
+  neuron cell bodies (2, white dotted line box in overview image). Scale bars = 10
+  μm.e, Schematic of a calyx synapse indicating pre- and postsynaptic compartments.f,
+  Example co-localization of presynaptic and postsynaptic protein-barcode fusion tags
+  using DSyd-1 and Drep-2, respectively. Scale bar = 1 μm
+article_title: 'Synaptic MEMOIR: mapping individual synapses of neurons with protein
+  barcodes'
+citation: Carsten H. Tischbirek, et al. bioRxiv. 2025 Nov 25;NA(NA).
+year: '2025'
+pub_date: '2025-11-25'
+epub_date: '2025-11-25'
+doi: 10.1101/2025.11.25.690442
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

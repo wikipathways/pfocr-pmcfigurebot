@@ -1,0 +1,51 @@
+---
+figid: PMC12908446__nihms-2126374-f0005
+pmcid: PMC12908446
+image_filename: jpg
+figure_link: /pmc/articles/PMC12908446/figure/F5/
+number: Figure 5.
+figure_title: L1CAM is a mediator of the endothelial effects of REST
+caption: 'A. Joint analysis of RNA-seq and CUT&Tag identifies direct targets of REST
+  in HAEC. The top 5 genes upregulated in RNA-seq upon REST silencing that are also
+  direct REST targets are labeled in the plot. B. Reactome pathway analysis of genes
+  upregulated upon REST silencing and whose regulatory elements are bound by REST
+  based on CUT&Tag compared to all genes expressed in HAEC RNA-seq. Note that L1CAM
+  (also known as L1) and its interactors are among the most enriched pathways. All
+  presented pathways are significant at an FDR < 0.05. C. L1CAM immunofluorescence
+  in HAEC shows expression of L1CAM in the surface of endothelial cells upon REST
+  silencing. D. REST binds to the L1CAM promoter based on CUT&Tag. E. Quantification
+  of the immunofluorescence images in C. A Wilcoxon rank sum test was performed for
+  comparison. F. Western blot of L1CAM with its corresponding quantification in HAEC
+  exposed to siRNA for REST or scramble control. A linear mixed model was used to
+  account for nesting due to two independent experiments. G. Combined silencing of
+  REST and L1CAM eliminates the effects of REST silencing on endothelial migration
+  in vitro. Outlier replicates were removed with the ROUT procedure as implemented
+  in Prism. A linear mixed model was used to account for nesting due to four independent
+  experiments with n=2-3 replicates each and p-values were adjusted for all possible
+  comparisons using FDR. H. qPCR shows that combined silencing of REST and L1CAM reverses
+  effects of REST on TGFb signaling in vitro. ACTB is used as loading control. A linear
+  mixed model was used to account for nesting due to 2-3 independent experiments with
+  n=3 replicates each and p-values were adjusted for all possible comparisons using
+  FDR. qPCR technical replicates (n=2 per biological replicate) were averaged prior
+  to the statistical analyses and each dot represents the average of the technical
+  replicates. ns: Not significant. Each data point reflects a measurement obtained
+  from multiple cells in one biological replicate'
+article_title: Functional Genomics Link REST to Endothelial Plasticity and Atherosclerosis
+citation: Maria Viskadourou, et al. Circ Res. 2026 Jan 02;138(1).
+year: '2026'
+pub_date: 2026-1-02
+epub_date: '2025-11-26'
+doi: 10.1161/CIRCRESAHA.125.326628
+journal_title: Circulation research
+journal_nlm_ta: Circ Res
+publisher_name: .na.character
+keywords:
+- GWAS
+- NRSF/REST
+- endothelial to mesenchymal transition
+- L1CAM
+- atherosclerosis
+- Atherosclerosis
+- Gene Expression and Regulation
+- Vascular Biology
+---

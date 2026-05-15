@@ -1,0 +1,36 @@
+---
+figid: PMC12691489__diagnostics-15-03016-g005
+pmcid: PMC12691489
+image_filename: jpg
+figure_link: /pmc/articles/PMC12691489/figure/F5/
+number: Figure 5
+figure_title: Functional enrichment of CDC20 and validation of GSEA.
+caption: Functional enrichment of CDC20 and validation of GSEA. (A) PPI network of
+  CDC20 with other proteins involved in bladder cancer (B) The GO enrichment analysis
+  and KEGG pathway analysis of CDC20-associated genes. Gene Ontology (GO) enrichment
+  analysis of CDC20-interacting genes reveals significant associations with mitotic
+  regulation, chromosome organization, and microtubule binding. KEGG pathway analysis
+  shows predominant enrichment in cell cycle regulation and progesterone-mediated
+  oocyte maturation pathways. (C,D) Relative pathways associated with the expression
+  of CDC20 are shown in enrichment plots by GSEA. Gene Set Enrichment Analysis (GSEA)
+  using Hallmark gene sets demonstrates that high CDC20 expression is significantly
+  enriched in E2F targets, G2/M checkpoint, inflammatory response, and immune-related
+  pathways, suggesting its dual role in cell cycle progression and tumor microenvironment
+  modulation
+article_title: Overexpression of CDC20 Confer a Poorer Prognosis in Bladder Cancer
+  Identified by Gene Co-Expression Network Analysis
+citation: Xuejian Yang, et al. Diagnostics (Basel). 2025 Dec;15(23).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-27'
+doi: 10.3390/diagnostics15233016
+journal_title: Diagnostics
+journal_nlm_ta: Diagnostics (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- bioinformatics analysis
+- CDC20
+- biomarker
+- cancer progression
+- bladder cancer
+---

@@ -1,0 +1,42 @@
+---
+figid: PMC12676426__nihpp-rs8051355v1-f0003
+pmcid: PMC12676426
+image_filename: jpg
+figure_link: /pmc/articles/PMC12676426/figure/F3/
+number: Figure 3
+figure_title: HTLV-1 infection promotes pro-inflammatory signaling and immune activation
+  in lung epithelial cells
+caption: Among 830 upregulated genes in A549 MT-2 cells, 105 were selected based on
+  overlap with ≥2 of 18 enriched KEGG pathways. (a) PPI network analysis grouped the
+  associated proteins into 5 biological processes, highlighting enrichment in HTLV-1
+  pathway (hsa05166, red), monocyte differentiation (GO:0045655, cyan), monocyte recruitment
+  (GO:0002548, magenta), tissue-resident monocyte activity (BTO:0000876, dark blue),
+  and bronchiectasis-related inflammation (HP:0002110, yellow). (b, c)Transcription
+  factors (TFs) regulating these proteins were identified through enrichment analysis.
+  (d–i) RT-qPCR showed cell ratio- and time-dependent increases in CCL2 and CSF-1
+  expression following MT-2 co-culture. (j–l)In p65KO A549 cells, CSF-1 upregulation
+  was suppressed, implicating canonical NF-κB signaling. (m–o) Tax knockdown in MT-2
+  cells did not significantly alter CCL2 or CSF-1 expression in A549 cells. Statistical
+  analysis by one-way ANOVA with Tukey post hoc test; *p < 0.05, **p < 0.01, ***p
+  < 0.001, ****p < 0.0001
+article_title: 'Deciphering HTLV-1-associated Lung Pathology through Integrated in
+  vitro and Multi-cohort Multi-omics Analysis: Inflammation, Monocyte Recruitment
+  and Differentiation Triggered by HTLV-1-exposed Alveolar Epithelial Cells'
+citation: Clément J. F. Heymann, et al. Res Sq. 2025 Nov 24;NA(NA).
+year: '2025'
+pub_date: '2025-11-24'
+epub_date: '2025-11-24'
+doi: 10.21203/rs.3.rs-8051355/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords:
+- HTLV-1
+- transcriptomics
+- lung
+- inflammation
+- monocytes
+- bronchiectasis
+- GWAS
+- interactome
+---

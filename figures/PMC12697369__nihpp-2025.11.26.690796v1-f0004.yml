@@ -1,0 +1,38 @@
+---
+figid: PMC12697369__nihpp-2025.11.26.690796v1-f0004
+pmcid: PMC12697369
+image_filename: jpg
+figure_link: /pmc/articles/PMC12697369/figure/F4/
+number: 'Fig. 4:'
+figure_title: Spatiotemporal analysis of ligand-receptor interactions in the mouse
+  brain cortex with LARIS
+caption: a) Spatial mapping of neuroanatomical and cortical regions profiled across
+  prenatal (E14.5, E16.5), early postnatal (P7, P14), and adult (P77) stages. b) Slit1
+  and Robo1 interaction is highly specific to the upper layer projecting neurons and
+  CR cells at the prenatal stage, then sporadically present across all layers. Sema3c
+  and Plxna4 interaction is strong in the migrating and deep layer projecting neurons
+  in the prenatal stage but then follows a similar trend and loses its spatial specificity
+  after birth. c) Interacting ligand-receptor (LR) pairs in the cortical regions at
+  different developmental time points. Cortical annotation classes include Cajal-Retzius
+  (CR) cells, upper- and deep-layer, migrating neurons, and apical/intermediate progenitors
+  (Api/Int prog). Interactions are grouped according to their functionality, such
+  as neurotransmission (glutamatergic, GABAergic, monoamines, dopamine), axon guidance
+  and synapse formation, growth modulators, canonical and non-canonical Wnt signalling,
+  immune and other. Interaction scores are normalized per interaction. d) Changes
+  in normalised LR interaction scores across the dorsal-ventral developmental axis
+  at the different developmental time points for the Slit1::Robo1, Efnb1::Epha4, and
+  Lrfn5::Ptprs interactions. e) KEGG pathway-level enrichment of interacting gene
+  sets across stages (prenatal, postnatal, adult). Bubble size denotes gene ratio;
+  colour indicates −log10(adjusted P value)
+article_title: LARIS enables accurate and efficient ligand and receptor interaction
+  analysis in spatial transcriptomics
+citation: Min Dai, et al. bioRxiv. 2025 Nov 28;NA(NA).
+year: '2025'
+pub_date: '2025-11-28'
+epub_date: '2025-11-28'
+doi: 10.1101/2025.11.26.690796
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

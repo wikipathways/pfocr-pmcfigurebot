@@ -1,0 +1,35 @@
+---
+figid: PMC12690637__ol-31-02-15409-g03
+pmcid: PMC12690637
+image_filename: jpg
+figure_link: /pmc/articles/PMC12690637/figure/F4/
+number: Figure 4.
+figure_title: Heatmaps of Z-score-normalized TPM values and bar plots of log2 fold-changes
+  for differentially expressed genes associated with the interferon-responsive signaling
+  pathway.
+caption: Heatmaps of Z-score-normalized TPM values and bar plots of log2 fold-changes
+  for differentially expressed genes associated with the interferon-responsive signaling
+  pathway. (A) Analysis of interferon-stimulated genes using the C2 gene set and (B)
+  the hallmark gene set. The color gradient indicates the Z-score of TPM. Bars are
+  colored black for adjusted P-values ≥0.05 and log2 fold-changes between −1.5 and
+  1.5. For bar plots with adjusted P-values <0.05, log2 fold-changes <-1.5 are marked
+  in green, while those >1.5 are marked in red, indicating significant fold-changes.
+  TPM, transcripts per million; FaDuex, advanced FaDu
+article_title: Differential gene expression analysis reveals signaling pathways of
+  proliferation, angiogenesis and metastasis is associated with interferon suppression
+  in advanced hypopharyngeal cancer cells
+citation: Chia-Wei Kao, et al. Oncol Lett. 2026 Feb;31(2).
+year: '2026'
+pub_date: 2026-2-
+epub_date: '2025-11-27'
+doi: 10.3892/ol.2025.15409
+journal_title: Oncology Letters
+journal_nlm_ta: Oncol Lett
+publisher_name: Spandidos Publications
+keywords:
+- hypopharyngeal cancer
+- RNA-sequencing
+- differential gene expression
+- interferon-stimulated genes
+- malignancy
+---

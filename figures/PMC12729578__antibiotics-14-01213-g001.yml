@@ -1,0 +1,44 @@
+---
+figid: PMC12729578__antibiotics-14-01213-g001
+pmcid: PMC12729578
+image_filename: jpg
+figure_link: /pmc/articles/PMC12729578/figure/F1/
+number: Figure 1
+figure_title: Schematic overview of lipopolysaccharide (LPS) modification pathways
+  contributing to polymyxin resistance in Gram-negative bacteria.
+caption: Schematic overview of lipopolysaccharide (LPS) modification pathways contributing
+  to polymyxin resistance in Gram-negative bacteria. Gram-negative bacteria can detect
+  a variety of environmental signals—such as exposure to polymyxins and other cationic
+  antimicrobial peptides, low Ca2+ or Mg2+ availability, high Fe3+ concentrations,
+  or acidic pH—which stimulate the histidine kinases PmrB and PhoQ (denoted by star
+  symbols). Phosphorylation-dependent activation steps are indicated with dashed arrows,
+  while thick arrows illustrate the downstream effects. Signal transduction through
+  the PmrA–PmrB and PhoP–PhoQ two-component systems triggers expression of the pmrCAB
+  and arnBCADTEF operons, respectively. The pmrCAB encodes enzymes that attach pEtN
+  to lipid A, while arnBCADTEF operon mediates the synthesis and transfer of 4-amino-4-deoxy-L-arabinose
+  (L-Ara4N) to lipid A. These chemical modifications, carried out by pEtN transferase
+  and L-Ara4N formyltransferase (thick arrows), reduce the binding affinity of colistin
+  for the bacterial membrane. Loss-of-function mutations in mgrB, a negative regulator
+  of PhoP–PhoQ, abolish feedback inhibition, causing constitutive phoP–phoQ expression
+  and overproduction of L-Ara4N. In addition, plasmid-borne mcr genes encode pEtN
+  transferases that replicate the chromosomal pEtN modification pathway but enable
+  its rapid dissemination between bacterial species via horizontal gene transfer
+article_title: 'The Public Health Risks of Colistin Resistance in Dogs and Cats: A
+  One Health Perspective Review'
+citation: Juliana Menezes, et al. Antibiotics (Basel). 2025 Dec;14(12).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-12-02'
+doi: 10.3390/antibiotics14121213
+journal_title: Antibiotics
+journal_nlm_ta: Antibiotics (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- mcr genes
+- companion animals
+- antimicrobial resistance
+- zoonotic transmission
+- plasmid-mediated dissemination
+- animal–human sharing
+- transmission pathways
+---

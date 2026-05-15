@@ -1,0 +1,56 @@
+---
+figid: PMC11384008__nihpp-2024.08.28.610198v4-f0007
+pmcid: PMC11384008
+image_filename: jpg
+figure_link: /pmc/articles/PMC11384008/figure/F7/
+number: Figure 7.
+figure_title: ER-localized DNPs traffic beyond the ER
+caption: 'A and C. Fluorescence micrographs of cells expressing N-terminal mNG-tagged
+  Ybr196c-a in WT cells or those lacking PEP4 and/or VPS4 are shown. Vacuoles are
+  stained with CMAC-blue. A. Vacuoles are indicated on the green channel images using
+  a white dashed line. C. Plots indicate the fluorescence intensity from the blue
+  and green channels along a line scan through the vacuole (indicated in yellow on
+  merge). Overlapping maximum peaks of blue and green lines indicate mNG presence
+  in the vacuolar lumen. Similar results and analysis are shown for all other N-terminal
+  mNG-tagged DNPs in Figures S9H-L. B and D. Scatterplots of the ratio of the vacuolar
+  fluorescence over the whole cell fluorescence for the cells imaged in panel A and
+  Figure S9A are shown in B (num of cells=193–924) and those imaged in C and Figures
+  S9H-L are shown in panel D (num of cells=206–342). A Mann-Whitney two-sided test
+  assessed statistical difference between the WT and pep4Δ (denoted by asterisks)
+  in panel B and a one-way ANOVA test with Dunnett’s multiple comparison correction
+  between WT and pep4Δ (denoted by asterisks) and vps4Δ pep4Δ (denoted by blue daggers)
+  in panel D cell populations (ns: not significant, p < 0.05 = *, p < 0.0005 = ***,
+  p < 0.0005 = †††). The median fluorescence intensity and 95% confidence interval
+  are represented by horizontal lines. Similar analyses to those shown in panel B
+  for C-terminal mNG-tagged DNPs is provided in Figure S9C. E. Model of ER-localized
+  DNP cellular integration. De novo originated ORFs arising from non-coding DNA are
+  transcribed and translated into DNPs. ER-localized DNPs all share a common C-terminal
+  TMD (outlined in pink) and depend on the post-translational targeting pathways GET
+  and SND to localize to the ER. Once at the ER, DNPs are either degraded in the proteasome
+  via ERAD, or traffic out of the ER using an unknown mechanism (indicated by a question
+  mark) to eventually arrive at the vacuole via an ESCRT-III-mediated pathway where
+  they are degraded by vacuolar proteases. Specific components of each major pathway
+  found to be involved in DNP targeting, trafficking, and degradation listed below
+  corresponding arrows'
+article_title: Yeast de novo proteins integrate into cellular systems using ancient
+  protein targeting and degradation pathways
+citation: Carly J. Houghton, et al. bioRxiv. 2025 Nov 25;NA(NA).
+year: '2025'
+pub_date: '2025-11-25'
+epub_date: '2025-11-25'
+doi: 10.1101/2024.08.28.610198
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Biological Sciences
+- Genetics
+- de novo gene birth
+- de novo proteins
+- microproteins
+- protein targeting
+- protein degradation
+- protein localization
+- proto-genes
+- molecular evolution
+---

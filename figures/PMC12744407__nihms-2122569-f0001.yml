@@ -1,0 +1,53 @@
+---
+figid: PMC12744407__nihms-2122569-f0001
+pmcid: PMC12744407
+image_filename: jpg
+figure_link: /pmc/articles/PMC12744407/figure/F1/
+number: 'Figure1:'
+figure_title: Inferring endocrine relationship via Secretome Association with Latent
+  Variables between Tissues (SALVE)
+caption: A. Presented workflow. Large transcriptome data from GTEx v8 is (Step 1)
+  normalized and (Step 2) sequentially batch corrected. Transcripts are then categorized
+  based on whether the protein products are known to be secreted to blood in the Human
+  Protein Atlas (Step 3). Secreted factor genes from the source tissues of interest
+  are extracted (Step 4). All non-secreted factor genes in the entire GTEx data set
+  are then used to train a PLIER Z matrix that relates genes to latent variables mapping
+  to known functional annotations or pathways (Step 5). This learned matrix is used
+  to create a low-dimension representation of gene expression in the target tissue
+  of interest (Step 6 and 7). A correlation matrix between all source tissue secreted
+  factor genes and target tissue latent variables is created for each source-target
+  tissue pair (Step 8).B. Boxplot showing distribution of significant correlation
+  between each source tissue (x-axis) with all target tissues.C. Chord diagram showing
+  the number of significant organkines (left) and organokine-latent variable correlations
+  (right) (adj.P ≤ 0.01, S* ≥ 2) among prioritized organokines across several tissues
+  of interest.D. Histogram showing the Standardized S* score of associations between
+  adipose (subcutaneous) secreted factor coding transcripts and heart (left ventricle)
+  latent variables. Organokines with Standardized S* scores ≥ 2 (black line) are prioritized.
+  Known adipokines including ADIPOQ, LGALS3, and CCL2 that are captured in the analysis
+  are highlightedE. As in D, but showing heart secreted factors to adipose (subcutaneous)
+  latent variables associations. Adipokines no longer have significant scores.F. As
+  in D, but showing pancreas secreted factors to liver latent variables associations,
+  highlighting known pancreas secreted hormones glucagon and insulin.G. As in D, but
+  showing liver to adipose (subcutaneous) latent variables associations, highlighting
+  the known hepatokine AHSG. Apolipoproteins APOA2 and APOC2 also show significant
+  scores.H. As in G, but showing adipose to liver associations.I. As in G, but showing
+  heart (atrial appendage) to adipose associations, highlighting candidate cardiokines
+  that may participate in endocrine signaling including GDF11, ACE2, BMP4, BMP7, and
+  ANG
+article_title: 'SALVE: prediction of interorgan communication with transcriptome latent
+  space representation'
+citation: Jay Pavelka, et al. Am J Physiol Heart Circ Physiol. 2025 Dec 01;329(6).
+year: '2025'
+pub_date: '2025-12-01'
+epub_date: '2025-11-05'
+doi: 10.1152/ajpheart.00637.2025
+journal_title: American journal of physiology. Heart and circulatory physiology
+journal_nlm_ta: Am J Physiol Heart Circ Physiol
+publisher_name: .na.character
+keywords:
+- Interorgan communication
+- secretome
+- latent space representation
+- cardiokine
+- adipokine
+---

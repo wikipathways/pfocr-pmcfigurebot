@@ -1,0 +1,34 @@
+---
+figid: PMC12732458__genes-16-01431-g003
+pmcid: PMC12732458
+image_filename: jpg
+figure_link: /pmc/articles/PMC12732458/figure/F3/
+number: Figure 3
+figure_title: (A) The boxplot of biological distance to known UC-associated genes
+  for candidate genes.
+caption: (A) The boxplot of biological distance to known UC-associated genes for candidate
+  genes. The top ten genes are displayed in the plot. Shorter distance means biologically
+  closer to UC genes. (B) IPA pathway analysis based on significant genes derived
+  from high-impact rare variant collapsing analysis. Pathways with p < 0.05 are displayed.
+  (C) Density of the most optimal polygenic risk scores of individuals in cases and
+  controls. (D) Disease odds ratio (OR) for the second to fifth quintile of the most
+  optimal polygenic risk score (the first quintile used as reference). Vertical bars
+  demarcate 95% confidence intervals. The odds ratio is denoted as the odds of UC
+  cases in quintiles over the odds of UC cases in the reference panel (the lowest
+  quintile)
+article_title: Unveiling Novel Traits Associated with Ulcerative Colitis via Phenome-Wide
+  Associations Enhanced by Polygenic Risk Statistics
+citation: Yiming Wu, et al. Genes (Basel). 2025 Dec;16(12).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-30'
+doi: 10.3390/genes16121431
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- ulcerative colitis
+- association analysis
+- risk prediction
+- PRS-PheWAS
+---

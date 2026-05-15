@@ -1,0 +1,27 @@
+---
+figid: PMC12890486__jciinsight-11-198590-g179
+pmcid: PMC12890486
+image_filename: jpg
+figure_link: /pmc/articles/PMC12890486/figure/F3/
+number: Figure 3
+figure_title: CBD concentration–dependent effects on cell proportion
+caption: |-
+  In the post-CBD phase, 10 participants had overlapping sc/snRNA-Seq and pharmacokinetic data. (A) Concentration-to-time curves of CBD concentration levels (ng/mL) at time points starting on day 12: 0 hours, 0.33 hours, 0.66 hours, 1 hour, 2 hours, 4 hours, 6 hours, and 12 hours while at CBD steady state. Some inter-individual variability was observed in the pharmacokinetic profiles of participants. (B) Scatterplot shows relationships between immune cell proportions and CBD concentrations in participants. Green dots represent proportion of TEM cells versus CBD trough concentration at steady state (C0h), with Pearson’s correlation coefficient (Cor) of 77%, P value of 0.01, and R2 value of 0.59. Dashed line indicates linear regression fits, performed using Pearson’s correlation by lm method in ggplot2 (v3.5.1). (C) Gene expression in TEM cells changed across comparisons: No CD3/CD28 –CBD vs. CD3/CD28 –CBD (x axis) and CD3/CD28 +CBD vs. CD3/CD28 –CBD (y axis). Scatterplot depicts log2 fold changes (log2FC) in gene expression for TEM cells in each comparison. Each point represents a gene with statistically significant differential expression (adjusted P value < 0.05) in both comparisons. Genes exhibiting opposing directions of regulation — up in one comparison and down in the other — are highlighted (green, upregulated with CBD under stimulation; gold, downregulated with CBD under stimulation). The top 300 genes identified based on discordant regulation across CBD treatment conditions and ranked by Euclidean distance from the origin (see Supplemental Table 6) were analyzed using active-subnetwork enrichment via pathfindR. Genes with adjusted P value less than 0.05 were input into pathfindR using the BioGRID protein-protein interaction network and KEGG gene set. (D) Volcano plot showing associations between CBD trough concentration (C0h) and pathway activity in TEM cells. Each point represents a pathway, with the x axis indicating effect size (correlation coefficient) and the y axis showing statistical significance (–log10
+  P value). N = 10 participants. (E–G) Negative correlations were observed for KEGG hsa03050 (proteasome, 90%, P = 0.00055; Pearson’s) and hsa00010 (glycolysis/gluconeogenesis, 80%, P = 0.0058; Pearson’s), while a positive correlation was identified for hsa00061 (fatty acid biosynthesis, 61%, P = 0.059; Pearson’s). For each participant in the x axis CBD trough C0h and y axis mean pathway activity (MPA) TEM cell divided by MPA calculated for all other cell types (CT)
+article_title: Cannabidiol exerts antiinflammatory effects but maintains T effector
+  memory cell differentiation in humans
+citation: Debora L. Gisch, et al. JCI Insight. 2025 Nov 18;11(1).
+year: '2025'
+pub_date: '2025-11-18'
+epub_date: '2025-11-18'
+doi: 10.1172/jci.insight.198590
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Clinical Research
+- Immunology
+- Pharmacology
+- Transcriptomics
+- Transplantation
+---

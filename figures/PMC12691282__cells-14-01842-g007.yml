@@ -1,0 +1,35 @@
+---
+figid: PMC12691282__cells-14-01842-g007
+pmcid: PMC12691282
+image_filename: jpg
+figure_link: /pmc/articles/PMC12691282/figure/F7/
+number: Figure 7
+figure_title: Pseudo-time trajectory analysis of 24 hemocyte clusters (0–23) of S.
+caption: 'Pseudo-time trajectory analysis of 24 hemocyte clusters (0–23) of S. exigua.
+  Pseudo-time trajectories were reconstructed from pooled hemocytes of naïve and immune-challenged
+  larvae using Monocle 3 in R. Prohemocytes were designated as the root state, marking
+  the earliest point of the differentiation pathway. Each cluster is color-coded as
+  shown in the figure, with individual dots representing single cells positioned along
+  the inferred developmental continuum. Hemocyte clusters were organized into three
+  distinct lineages (Lineage 1–Lineage 3), with each lineage trajectory subdivided
+  into three developmental stages: an early stage, enriched in progenitor-like clusters
+  at the root; a mid-stage, consisting of transitional clusters positioned along branching
+  trajectories; and a late stage, composed of terminally differentiated hemocyte subtypes
+  located at branch termini'
+article_title: Functional Division of Insect Blood Cells by Single-Cell RNA-Sequencing
+  and Cell-Type-Specific FISH Markers
+citation: Falguni Khan, et al. Cells. 2025 Dec;14(23).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-22'
+doi: 10.3390/cells14231842
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- immunity
+- hemocyte
+- insect
+- eicosanoid
+- scRNA-Seq
+---

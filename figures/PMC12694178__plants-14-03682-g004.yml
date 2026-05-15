@@ -1,0 +1,41 @@
+---
+figid: PMC12694178__plants-14-03682-g004
+pmcid: PMC12694178
+image_filename: jpg
+figure_link: /pmc/articles/PMC12694178/figure/F4/
+number: Figure 4
+figure_title: Expression patterns of differentially expressed genes (DEGs) in Phalaenopsis
+  at different flowering stages.
+caption: 'Expression patterns of differentially expressed genes (DEGs) in Phalaenopsis
+  at different flowering stages. (A) PCA on FPKM in Phalaenopsis at different flowering
+  stages. (B) Differentially expressed genes (DEGs) at different flowering stages.
+  Black bars: upregulation; gray bars: downregulation. (C) K-means clustering reveals
+  two major expression trends of DEGs during flowering. The gray background displays
+  the result of adding or subtracting the standard deviation from the average value.
+  The lines represent the average values. The expression of genes in the red box shows
+  a similar pattern to the aroma content during Phalaenopsis flowering. (D) KEGG pathway
+  enrichment analysis of DEGs in Cluster 1. The red font indicates the GO enrichment
+  pathways related to aroma synthesis. (E) Classification of transcription factor
+  (TF) families in Cluster 1. (F) Co-expression network of TFs and aroma-related genes
+  in Cluster 1 was drawn by Cytoscape (v. 3.5.1) software based on the expression
+  correlation (Pearson’s correlation coefficient ≥ 0.9, p ≤ 0.01). The outer blue
+  spheres represent the structural genes related to the aroma biosynthesis pathway,
+  while the differently colored spheres inside represent different transcription factor
+  families'
+article_title: Multi-Omics Analysis Unravels the Biosynthesis and Regulatory Mechanisms
+  of Floral Scent Across Various Cultivars and Developmental Stages in Phalaenopsis
+citation: Huaiqin Zhong, et al. Plants (Basel). 2025 Dec;14(23).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-12-03'
+doi: 10.3390/plants14233682
+journal_title: Plants
+journal_nlm_ta: Plants (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- Phalaenopsis
+- floral scent
+- transcriptional factor
+- terpenoid
+- ester compounds
+---

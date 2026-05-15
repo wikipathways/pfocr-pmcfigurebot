@@ -1,0 +1,32 @@
+---
+figid: PMC13015812__nihms-2145350-f0006
+pmcid: PMC13015812
+image_filename: jpg
+figure_link: /pmc/articles/PMC13015812/figure/F6/
+number: Fig. 6.
+figure_title: Workflow of the LLM_GP Platform.
+caption: Workflow of the LLM_GP Platform. (1) Select a high-score prompt template
+  from the dropdown menu. (2) Upload a gene pathway image, displayed as a preview.
+  (3) Generate initial gene interaction results in the “Response” section. (4) Cross-verification
+  displayed verified interactions in the “Verified Interactions” section, with a maximized
+  image view available in the “Graph Preview” for detailed cross-checking
+article_title: Applications of Large Language Models and Prompt Optimization for Knowledge
+  Extraction from Biological Pathway Figures
+citation: Muhammad Azam, et al. IEEE J Biomed Health Inform. 2025 Nov 13;PP(NA).
+year: '2025'
+pub_date: '2025-11-13'
+epub_date: '2025-11-13'
+doi: 10.1109/JBHI.2025.3631538
+journal_title: IEEE journal of biomedical and health informatics
+journal_nlm_ta: IEEE J Biomed Health Inform
+publisher_name: .na.character
+keywords:
+- Large language model
+- multimodal AI
+- image understanding
+- gene interaction extraction
+- tumor signaling pathways
+- prompt optimization
+- genetic prompt vision
+- biocuration
+---

@@ -1,0 +1,47 @@
+---
+figid: PMC12892912__jciinsight-11-191606-g138
+pmcid: PMC12892912
+image_filename: jpg
+figure_link: /pmc/articles/PMC12892912/figure/F6/
+number: Figure 6
+figure_title: Aebp1 deletion leads to reduction in Wnt/β-catenin signaling activity
+  in the developing long bones
+caption: '(A) Schematics of isolating 6-week-old hindlimb bones for the scRNA-Seq
+  analysis. (B) Results of enriched biological processes in top 100 downregulated
+  DEGs of Aebp1OsxCre osteoblasts. (C) Cell counts of Aebp1fl/fl and Aebp1OsxCre osteoblasts
+  among different pseudotime states. (D) Results of enriched pathways in top 100 downregulated
+  DEGs of Aebp1OsxCre osteoblasts. (E) Principal component analysis (PCA) of the bulk
+  RNA-Seq data of Aebp1fl/fl and Aebp1OsxCre femoral samples (n = 3 for each genotype).
+  (F) Estimated proportions of cluster S1 in bulk RNA-Seq data calculated by deconvolution
+  algorithm. (G) Volcano plot exhibits the DEGs of the Aebp1OsxCre group compared
+  with the Aebp1fl/fl group (n = 3 for each genotype). Green dots show genes more
+  highly expressed in the Aebp1fl/fl group. Red dots show genes more highly expressed
+  in the Aebp1OsxCre group. (H) GO enrichment analysis of DEGs downregulated in the
+  Aebp1OsxCre group. (I) GSEA shows the enrichment score of Wnt signaling pathway
+  by comparing with the Aebp1OsxCre group to the Aebp1fl/fl group. (J) Representative
+  images of β-catenin IF staining of the humerus sections from P0 pups with the indicated
+  genotypes. Scale bar: 100 μm. (K) Western blotting analyses of the femur bone tissue
+  lysates of the P0 pups with indicated genotypes. (L) Scaled expression levels of
+  selected Wnt pathway–related genes among Aebp1fl/fl and Aebp1OsxCre groups was shown
+  by heatmap. (M) Related expression of Wnt signaling pathway related gene Axin2,
+  Lrp5, Lrp6, and Ccnd1 in P0 mice femur were accessed by qPCR (n = 4, Student’s t
+  test, data shown as mean ± SD). (N) Western blotting analyses of the β-catenin protein
+  level of MC3T3-E1 cells. (O) Quantification of the Western blotting results in N
+  (n = 3, Student’s t test, data shown as mean ± SD)'
+article_title: Aebp1 loss in osteoprogenitors leads to skeletal defects resembling
+  Ehlers-Danlos Syndrome by diminishing Wnt/β-catenin signaling
+citation: Shuhao Feng, et al. JCI Insight. 2025 Nov 13;11(2).
+year: '2025'
+pub_date: '2025-11-13'
+epub_date: '2025-11-13'
+doi: 10.1172/jci.insight.191606
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Bone biology
+- Cell biology
+- Development
+- Bone development
+- Osteoclast/osteoblast biology
+---

@@ -1,0 +1,39 @@
+---
+figid: PMC12721891__jci-136-198387-g281
+pmcid: PMC12721891
+image_filename: jpg
+figure_link: /pmc/articles/PMC12721891/figure/F4/
+number: Figure 4
+figure_title: SnRNA-Seq identifies changes in cell proportions and identity with progression
+  of FPLD2
+caption: (A) UMAP of combined upper neck and abdomen biopsies across disease states;
+  cell type markers are the same as in Figure 3. Permutation tests identified changes
+  in cell proportion from abdominal biopsies from patients with (B) developing FPLD2
+  and (C) FPLD2 relative to control and from upper neck biopsies in (D) developing
+  FPLD2 and (E) FPLD2 relative to control. Cell proportion changes in the upper neck
+  relative to abdomen were identified in (F) developing and (G) FPLD2 disease states.
+  (H) All adipocytes from developing or FPLD2 biopsies were analyzed via GSEA and
+  compared with controls to identify population-level changes in cell identity. Numbers
+  on bar represent the number of genes driving that dataset. Sig, signaling; Org,
+  organization. (I) Adipocyte subcluster analyses with corresponding GSEA pathways
+  (same as in Figure 3) and subcluster changes with disease. (J) ASPC GSEA in developing
+  or FPLD2 biopsies relative to controls. (K) ASPC subcluster changes with disease.
+  (L) Macrophage GSEA in developing or FPLD2 biopsies relative to controls. (M) Macrophage
+  subcluster changes with disease
+article_title: Altered lipid metabolism and inflammatory programs associate with adipocyte
+  loss in familial partial lipodystrophy 2
+citation: Jessica N. Maung, et al. J Clin Invest. 2025 Nov 11;136(1).
+year: '2025'
+pub_date: '2025-11-11'
+epub_date: '2025-11-11'
+doi: 10.1172/JCI198387
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Clinical Research
+- Metabolism
+- Adipose tissue
+- Bioinformatics
+- Genetic diseases
+---

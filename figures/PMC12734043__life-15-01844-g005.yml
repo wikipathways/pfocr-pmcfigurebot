@@ -1,0 +1,36 @@
+---
+figid: PMC12734043__life-15-01844-g005
+pmcid: PMC12734043
+image_filename: jpg
+figure_link: /pmc/articles/PMC12734043/figure/F5/
+number: Figure 5
+figure_title: KEGG pathway enrichment analysis of genes from co-expression modules
+  identified by WGNCA.
+caption: KEGG pathway enrichment analysis of genes from co-expression modules identified
+  by WGNCA. (A) KEGG pathway enrichment of genes in the pink module. (B) KEGG pathway
+  enrichment of genes in the red module. (C) KEGG pathway enrichment of genes in the
+  turquoise module. (D) KEGG pathway enrichment of genes in the brown module. (E)
+  KEGG pathway enrichment of genes in the blue module. Each dot represents a significantly
+  enriched KEGG pathway (adjusted p-value < 0.05). The x-axis indicates the gene ratio
+  (the proportion of genes in the module involved in a given pathway), while the size
+  of each dot reflects the number of genes associated with that pathway. The color
+  gradient represents the adjusted p-value, with darker red indicating higher significance.
+  Pathways were identified using enrichment analysis of genes within each module,
+  and only the top significant terms are shown
+article_title: Dynamic Gene Network Alterations and Identification of Key Genes in
+  the Spleen During African Swine Fever Virus (ASFV) Infection
+citation: Jae-Beom Go, et al. Life (Basel). 2025 Dec;15(12).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-30'
+doi: 10.3390/life15121844
+journal_title: Life
+journal_nlm_ta: Life (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- African swine fever virus (ASFV)
+- spleen
+- gene co-expression network
+- RNA-seq
+- hub gene
+---

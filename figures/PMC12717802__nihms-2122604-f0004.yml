@@ -1,0 +1,53 @@
+---
+figid: PMC12717802__nihms-2122604-f0004
+pmcid: PMC12717802
+image_filename: jpg
+figure_link: /pmc/articles/PMC12717802/figure/F4/
+number: Figure 4.
+figure_title: PLA1A acts in the GPR34 pathway to promote cDC1 cross-presentation
+caption: (A) Schematic of PS conversion to sn-2 and sn-1 lysoPS by PLA1A and ABHD16A,
+  respectively.(B-F, I, and J) Splenic immune cells were analyzed by flow cytometry.(B
+  and C) Analysis of OT-I response in control (WT or Pa1aHet) and Pla1aKO mice 3 days
+  after IV transfer of OVA-loaded thymocytes.(B) Frequencies of OT-I division (control,
+  n = 21; Pla1aKO, n = 19).(C) Frequencies of PD-1+ OT-I cells (control, n = 15; Pla1aKO,
+  n = 15).(D) Frequencies of OT-I division in control (Abhd16aHet) and Abhd16aKO mice
+  3 days after IV transfer of OVA-loaded thymocytes (control, n = 15; Abhd16aKO, n
+  = 12).(E and F) Analysis of OT-I response 3 days after transfer of OVA-loaded thymocytes
+  in chimeric mice with control (WT or Pa1aHet) BM reconstituted into control (WT
+  or Pa1aHet) or Pla1aKO hosts.(E) Frequencies of OT-I division (control BM → control
+  host, n = 13; control BM → Pla1aKO host, n = 15).(F) Frequencies of PD-1+ OT-I cells
+  (control BM → control host, n = 13; control BM → Pla1aKO host, n = 15).(G) Seurat
+  reanalysis of the mouse spleen stromal cell scRNAseq dataset from Alexandre et al.
+  (2022). UMAPs show normalized expression of Pla1a, Ace, Emilin2, and Pdgfra.(H)
+  Representative immunofluorescence image of a spleen section stained for PDGFRA and
+  ACE from WT mice (n = 2). Scale bar, 400 μm. Numbered white and yellow boxes correspond
+  to magnified views (right) containing examples of PDGFRA+ACE+ cells in the red pulp
+  and MZ, respectively. White and yellow arrows indicate additional examples.(I and
+  J) Analysis of OT-I response in control (WT or Gpr34Het;WT or Pla1aHet), Gpr34KO
+  (Gpr34KO;WT or Pla1aHet), Pla1aKO (WT or Gpr34Het;Pla1aKO), and Gpr34KO;Pla1aKO
+  mice 3 days after IV transfer of OVA-loaded thymocytes.(I) Frequencies of OT-I division
+  (control, n = 7; Gpr34KO, n = 6; Pla1aKO, n = 2; and Gpr34KO;Pla1aKO, n = 5).(J)
+  Frequencies of PD-1+ OT-I cells (control, n = 7; Gpr34KO, n = 6; Pla1aKO, n = 2;
+  and Gpr34KO;Pla1aKO, n = 5).In B-F, I, and J, each data point represents an individual
+  mouse, lines indicate means, and error bars represent the SEM. Data were pooled
+  from two or more independent experiments. Statistical significance was determined
+  by an unpaired t test corrected for multiple comparisons (Holm-Šídák).ns, not significant;
+  *P < 0.05; **P < 0.01; ****P < 0.0001
+article_title: Splenic cDC1 efferocytosis and cross-presentation to CD8 T cells are
+  promoted by GPR34 and lysophosphatidylserine
+citation: Hanson Tam, et al. J Exp Med. 2026 Jan 05;223(1).
+year: '2026'
+pub_date: 2026-1-05
+epub_date: '2025-11-10'
+doi: 10.1084/jem.20250887
+journal_title: The Journal of experimental medicine
+journal_nlm_ta: J Exp Med
+publisher_name: .na.character
+keywords:
+- spleen
+- conventional dendritic cells type 1
+- efferocytosis
+- cross-presentation
+- GPR34
+- PLA1A
+---

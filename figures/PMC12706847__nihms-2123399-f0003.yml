@@ -1,0 +1,57 @@
+---
+figid: PMC12706847__nihms-2123399-f0003
+pmcid: PMC12706847
+image_filename: jpg
+figure_link: /pmc/articles/PMC12706847/figure/F3/
+number: Fig. 3.
+figure_title: PAE induces transcriptomic alterations associated with proinflammatory
+  immune activation during morphine-prolonged allodynia despite minimal nerve injury
+caption: A. DESeq2 analysis of mRNAs between the PAE + minor CCI + morphine (allodynic)
+  vs. Control mice + minor CCI + morphine (non-allodynic) group. The volcano plot
+  displays the shrinked log2FC (fold changes) on the x-axis and −log10 (padj-value)
+  on the y-axis at a threshold of padj-value <0.05 and log2FC > 0.25 (corresponds
+  to a 1.2-fold regulation). Genes meeting these criteria were color-coded, with red
+  representing significant upregulated genes and downregulated genes, blue circles
+  indicate genes that met the p-value criteria but not the log2FC (fold change) criteria,
+  green circles indicate genes that met the log2(fold-change) criteria but not the
+  log10 (p-value), and gray circles are insignificant genes. Notable genes of interest
+  are labeled on the volcano plot. Based on the p-value <0.05, there were 179 dysregulated
+  DEGs, 148 upregulated and 31 downregulated. Applying a more conservative threshold
+  of a log2(fold-change)>|0.25|, there are 69 upregulated and 16 downregulated genes.
+  B. Top upregulated and downregulated spinal DEGs. C. Top network pathways dysregulated
+  in the allodynic group (PAE + minor nerve injury + morphine) at post-CCI D24. A
+  total of 23 networks were identified as “significant” by IPA analysis. Among the
+  significant networks, the top 3 networks with z-scores of 29, 20, and 19, respectively,
+  are demonstrated. D. Bubble plot demonstrating the canonical pathways involved with
+  the significant DEGs (p-value <0.05) that may contribute to molecular dysregulation
+  occurring from prenatal alcohol exposure and morphine. The x-axis represents −log10(p-value),
+  and the y-axis shows the canonical pathways listed. Each bubble in the plot corresponds
+  to a specific pathway, with the bubble size indicating several mRNAs contributing
+  to that pathway and the color representing the z-score. Significance threshold was
+  set at p-value <0.05 (−log10(p-value) > ~1.3) and considered pathways with |z-score|
+  ≥ 2 as significantly activated (orange) or inhibited (blue). The analysis revealed
+  the top 25 significantly enriched pathways. E. Diseases and biological functions
+  associated with significant DEGs. The x-axis represents the −log (p-value) for each
+  category, with a threshold of 1.3 set to indicate statistical significance. The
+  y-axis lists various diseases and biological functions relevant to spinal mRNA changes
+  in the allodynia PAE mice
+article_title: Prenatal alcohol exposure induces circular and linear long non-coding
+  RNAs, and protein-coding genes linked to proinflammatory neuroimmune function, promoting
+  nerve injury-induced allodynia following morphine treatment
+citation: Ariana N. Pritha, et al. Neuropharmacology. 2026 Feb 01;283(NA).
+year: '2026'
+pub_date: 2026-2-01
+epub_date: '2025-11-07'
+doi: 10.1016/j.neuropharm.2025.110756
+journal_title: Neuropharmacology
+journal_nlm_ta: Neuropharmacology
+publisher_name: .na.character
+keywords:
+- circRNA
+- Neuroimmune
+- Prenatal alcohol
+- Inflammation
+- lncRNA
+- Morphine
+- Pain
+---

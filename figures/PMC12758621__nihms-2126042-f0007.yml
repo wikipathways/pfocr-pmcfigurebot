@@ -1,0 +1,39 @@
+---
+figid: PMC12758621__nihms-2126042-f0007
+pmcid: PMC12758621
+image_filename: jpg
+figure_link: /pmc/articles/PMC12758621/figure/F6/
+number: Figure 6.
+figure_title: Selective autophagic pathways are independent regulated
+caption: (A) Two hypothetical models for how peroxisomes and mitochondrial are degraded
+  through autophagy. In the shared limiting resource model (left), the receptors Atg30
+  and Atg32 compete for the same limiting autophagic machinery or resource such that
+  the presence of one pathway is expected to slow the other. This model predicts that
+  inhibition of either pathway should increase the flux through the unperturbed pathway.
+  In the independent regulatory model (right) the pathways are not in competition
+  and are not predicted to impact one another. (B) Clustered heatmap plotting the
+  relative abundance of peroxisomal (orange) or mitochondrial (purple) proteins over
+  time in wild-type, atg9Δ, atg11Δ, atg30Δ, and atg32Δ cells transitioning from M+N
+  to M−N media. Columns represent individual timepoints, which are plotted above.
+  (C-D) Degradation profiles and fit kinetic models (eq. 1, see Methods) of representative
+  peroxisomal (C) or mitochondrial (D) proteins, with Atp synthase related proteins,
+  which are degraded relatively slowly, outlined. Uniprot protein ID and protein common
+  names are listed, with fit parameters kdeg and Adeg noted above each plot
+article_title: Bulk and selective autophagy cooperate to remodel a fungal proteome
+  in response to changing nutrient availability
+citation: Bertina Telusma, et al. Cell Rep. 2025 Dec 23;44(12).
+year: '2025'
+pub_date: '2025-12-23'
+epub_date: '2025-11-25'
+doi: 10.1016/j.celrep.2025.116585
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords:
+- Autophagy
+- quantitative mass spectrometry
+- proteome quality control
+- protein degradation
+- pexophagy
+- mitophagy
+---

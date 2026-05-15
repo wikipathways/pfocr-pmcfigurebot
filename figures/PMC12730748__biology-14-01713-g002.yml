@@ -1,0 +1,38 @@
+---
+figid: PMC12730748__biology-14-01713-g002
+pmcid: PMC12730748
+image_filename: jpg
+figure_link: /pmc/articles/PMC12730748/figure/F2/
+number: Figure 2
+figure_title: (a) PCA plot, where PC1 represents the first principal component, PC2
+  represents the second principal component, and the percentages indicate the explanatory
+  power of these principal components for the dataset.
+caption: (a) PCA plot, where PC1 represents the first principal component, PC2 represents
+  the second principal component, and the percentages indicate the explanatory power
+  of these principal components for the dataset. Each point represents a sample, with
+  samples from the same group depicted in the same color. Grouping is indicated in
+  the legend. (b) S-plot, where the horizontal axis represents the covariance between
+  principal components and metabolites, and the vertical axis represents the correlation
+  coefficient between principal components and metabolites. Metabolites closer to
+  the upper right and lower left corners show more significant differences, with red
+  dots indicating VIP values greater than 1 and green dots indicating VIP values less
+  than or equal to 1. (c) Volcano plot of DMs, where green dots indicate down-regulated
+  metabolites and red dots indicate up-regulated metabolites. (d) KEGG pathway bubble
+  plot of DMs, with KEGG pathway names on the vertical axis and enrichment factor
+  on the horizontal axis. The size of the dots represents the number of enriched metabolites,
+  and the color of the dots indicates different ranges of p-values
+article_title: Differential Energy Metabolism in Skeletal Muscle Tissues of Yili Horses
+  Based on Targeted Metabolomics and Transcriptomics Analysis
+citation: Xueyan Li, et al. Biology (Basel). 2025 Dec;14(12).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-30'
+doi: 10.3390/biology14121713
+journal_title: Biology
+journal_nlm_ta: Biology (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- Yili horse
+- skeletal muscle
+- energy metabolism
+---

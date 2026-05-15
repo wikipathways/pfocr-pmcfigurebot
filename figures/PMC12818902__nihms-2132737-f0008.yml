@@ -1,0 +1,54 @@
+---
+figid: PMC12818902__nihms-2132737-f0008
+pmcid: PMC12818902
+image_filename: jpg
+figure_link: /pmc/articles/PMC12818902/figure/F7/
+number: Figure 7.
+figure_title: CARD11 is required for maintaining p100 protein levels by a post-transcriptional
+  mechanism
+caption: '(A) Representative flow-cytometry plots showing percentage of B220+CD93−
+  splenic mature B cells from CARD11+/+ and CARD11−/− mice that stained positively
+  for CD21 and CD23.(B) Absolute numbers of CD19+B220+ splenic B cells, B220+CD93−CD21low/−CD23+
+  FO B cells, and B220+CD93−CD21hiCD23− MZ B cells from CARD11+/+ and CARD11−/− mice.(C)
+  Lysates from splenic FO and MZ B cells from CARD11+/+ and CARD11−/− mice were analyzed
+  by immunoblotting using the indicated primary antibodies. p100 and RelB levels were
+  normalized to β-actin and expressed relative to CARD11+/+ set to 1.0. Levels of
+  p52 were normalized to the amount of total p100 to measure processing of p100 and
+  expressed relative to CARD11+/+ set to 1.0. See Figure S6I for quantifications.(D)
+  Comparison of basal NF-κB2 (p100) mRNA levels in CARD11+/+ and CARD11−/− MZ and
+  FO B cells relative to the expression of reference gene β-actin using RT-qPCR and
+  quantified using the 2−ΔΔCq method.40 Expression levels are normalized to CARD11+/+
+  set to 1.0. Quantified data are presented as mean with SD, with individual data
+  points shown from at least three replicates per genotype. A two-tailed unpaired
+  t test with Welch’s correction was used. Mice were age and sex matched within experiments.
+  Significance definitions are as follows: ns not significant, *p < 0.05, **p <0.01,
+  ***p < 0.001, ****p < 0.0001.(E) Model illustrating the potentiation of noncanonical
+  NF-κB signaling by GoF and activated CARD11. Left: under basal conditions, the repressive
+  TRAF3/TRAF2/cIAP1/2 complex targets NIK for ubiquitin-dependent degradation, allowing
+  for only low levels of NIK to accumulate and process low levels of p100 to p52.
+  p52:RelB heterodimers translocate to the nucleus and induce transcription of NF-κB2
+  target genes. Upon BCR engagement, wild-type (WT) CARD11 converts to an open, active
+  scaffold and maintains basal levels of p100 by inhibiting the basal rate of p100
+  processing. Induction of noncanonical NF-κB signaling by the indicated ligand-receptor
+  interactions leads to the recruitment of the TRAF3/TRAF2/cIAP1/2 complex to the
+  receptor, resulting in the destruction of TRAF3 and TRAF2. This allows higher levels
+  of NIK to accumulate and process the available levels of p100 to p52, ultimately
+  stimulating NF-κB2-dependent transcription. Right: in the presence of a GoF CARD11
+  that is constitutively open and active, the rate of basal processing of p100 to
+  p52 is further inhibited, resulting in significant accumulation of p100. This potentiates
+  the noncanonical NF-κB pathway such that on ligand-receptor interaction the inhibition
+  is overcome, and accumulating NIK can process the pool of p100 that has amassed
+  to produce high levels of active p52 and, subsequently, p52:RelB dimers. These translocate
+  to the nucleus and cause higher induction of NF-κB2-dependent transcriptional programs'
+article_title: Potentiation of noncanonical NF-κB signaling and marginal zone B cell
+  expansion by CARD11-mediated regulation of p100 processing
+citation: Anushka Ghosh, et al. Cell Rep. 2025 Dec 23;44(12).
+year: '2025'
+pub_date: '2025-12-23'
+epub_date: '2025-11-26'
+doi: 10.1016/j.celrep.2025.116616
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

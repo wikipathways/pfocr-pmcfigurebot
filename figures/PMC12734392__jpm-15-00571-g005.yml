@@ -1,0 +1,40 @@
+---
+figid: PMC12734392__jpm-15-00571-g005
+pmcid: PMC12734392
+image_filename: jpg
+figure_link: /pmc/articles/PMC12734392/figure/F5/
+number: Figure 5
+figure_title: 'Heterogeneity of mitochondria/metabolism regulations in colorectal
+  tumors according to their consensus molecular subtype classification: only tumor
+  samples from dataset GSE44076.'
+caption: 'Heterogeneity of mitochondria/metabolism regulations in colorectal tumors
+  according to their consensus molecular subtype classification: only tumor samples
+  from dataset GSE44076. (A): Signaling pathway activated in consensus classes from
+  tumors of the GSE44076 dataset; (B): heatmap of Topological Overlap Matrix performed
+  during Weighted Gene Co-expression Network Analysis with mitochondria/metabolism
+  enrichment (5 distinct modules); (C): heatmap of module/phenotype traits determined
+  via Pearson correlation during WGCNA analysis, performed on mitochondria/metabolism
+  enrichment (Pearson coefficients and Pearson correlation test p-value in brackets)
+  (CMS: consensus molecular subtypes); and (D): co-enrichment network according to
+  significant modules, mixing mitochondria enrichment (pink) and metabolism enrichment
+  (green)'
+article_title: The Heterogeneous Interplay Between Metabolism and Mitochondrial Activity
+  in Colorectal Cancer
+citation: Christophe Desterke, et al. J Pers Med. 2025 Dec;15(12).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-28'
+doi: 10.3390/jpm15120571
+journal_title: Journal of Personalized Medicine
+journal_nlm_ta: J Pers Med
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- colorectal cancer
+- mitoscore
+- keggmetascore
+- metabolism
+- mitochondria
+- transcriptome
+- R-packages
+- single-cell RNA-sequencing
+---

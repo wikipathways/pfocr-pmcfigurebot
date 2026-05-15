@@ -1,0 +1,46 @@
+---
+figid: PMC12737659__toxins-17-00579-g002
+pmcid: PMC12737659
+image_filename: jpg
+figure_link: /pmc/articles/PMC12737659/figure/F2/
+number: Figure 2
+figure_title: Structural organization of mammalian VGICs (NaV, Kv, and CaV).
+caption: Structural organization of mammalian VGICs (NaV, Kv, and CaV). VGICs adopt
+  a conserved modular scaffold consisting of six transmembrane helices (S1–S6) subdivided
+  into the voltage-sensing domain (VSD; S1–S4), anchored by the positively charged
+  S4 helix, and the pore domain (PD; S5–S6 + P-loop), which hosts the ion-selective
+  filter and permeation pathway. Depolarization-induced motions within the VSD are
+  transmitted allosterically to the PD to open the channel. This shared framework
+  underpins NaV, Kv, and CaV channels alike, whereas subtype-specific architectural
+  features fundamentally shape their physiological functions and pharmacological modulation.
+  (A) NaV channels—The α-subunit consists of a single polypeptide containing four
+  homologous domains (DI–DIV), each organized as a VSD–PD module. Inactivation occurs
+  via the intracellular linker between domains III and IV, and auxiliary β subunits
+  (β1/β2) modulate trafficking and gating. (Model based on human NaV1.7; PDB 7W9L.)
+  (B) Kv channels—A functional pore is formed by the tetrameric assembly of four individual
+  α-subunits, each contributing one VSD–PD module. The cytoplasmic N-terminal tetramerization
+  domain organizes subunit assembly, allowing homo- or heterotetramer formation and
+  extensive functional diversity. (Model based on human Kv3.1; PDB 7PQT). (C) CaV
+  channels—A single α1 subunit contains four homologous VSD–PD modules, similar to
+  NaV channels, but requires three auxiliary subunits (β, α2δ, γ) that fine-tune gating,
+  trafficking, and membrane localization. The selectivity filter in the PD coordinates
+  Ca2+ to ensure CaV-specific ion permeation. (Model based on human CaV2.3; PDB 7XLQ)
+article_title: 'Ion Channel-Targeting Toxins: Structural Mechanisms of Activation,
+  Inhibition, and Therapeutic Potential'
+citation: Narumi Aoki-Shioi, et al. Toxins (Basel). 2025 Dec;17(12).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-12-02'
+doi: 10.3390/toxins17120579
+journal_title: Toxins
+journal_nlm_ta: Toxins (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- ion channel toxins
+- peptide toxins
+- pore blockade
+- voltage-sensor domain (VSD)
+- gating modifier
+- cryo-EM
+- state-dependent modulation
+---

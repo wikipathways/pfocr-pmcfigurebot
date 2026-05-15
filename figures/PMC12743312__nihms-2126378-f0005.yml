@@ -1,0 +1,31 @@
+---
+figid: PMC12743312__nihms-2126378-f0005
+pmcid: PMC12743312
+image_filename: jpg
+figure_link: /pmc/articles/PMC12743312/figure/F5/
+number: 'Fig. 5:'
+figure_title: miR-499 and miR-184 downregulate tumor suppressor gene lactotransferrin
+  (Ltf)
+caption: |-
+  Mouse HSPC were transfected with either control miR, miR-184, or miR-499. Two days after the transfection, RNA sequencing was carried out, n=3 per group. a-b, The principal component analysis (PCA) after miR-499 (a) and miR-184 (b) overexpression was conducted, n=3 per group. c-d, The volcano plots (The dotted lines show the cut off: log 2 fold change −1 and FDR p-value 0.05/ −Log10 FDR p-value 1.30) and e-f), heatmaps depict the significantly downregulated genes after the miR transfection, n=3 per group. The units of the color bars are arbitrary units (AU). g-h, Ingenuity Pathway Analysis (IPA) with the genes differentially expressed after miR-499 (g) and miR-184 (h) overexpression was employed to define the significantly altered biological pathways after the transfection, n=3 per group. i,
+  LTF expression was measured after miR control, miR-184, and miR-499 transfection in human CD34+ HSPC, n=6 per group. j, Mouse HSPC were transfected with either scrambled miR (control) or miR-205 and Ltf expression was quantified by qPCR. Ltf expression is depicted as fold change compared to the control, n= 5–6 per group. k, Ltf-expressing HSPC in the spleen and bone marrow were quantified by flow cytometry, n= 6 per group. Mean ± s.e.m. * P < 0.05, ** P < 0.01, **** P < 0.0001
+article_title: miR-499 in platelet-derived extracellular vesicles augments inflammatory
+  cell generation and cardiac remodeling after myocardial infarction
+citation: Lee Ohayon-Steckel, et al. Circulation. 2026 Jan 27;153(4).
+year: '2026'
+pub_date: 2026-1-27
+epub_date: '2025-11-10'
+doi: 10.1161/CIRCULATIONAHA.124.073527
+journal_title: Circulation
+journal_nlm_ta: Circulation
+publisher_name: .na.character
+keywords:
+- Platelet-derived extracellular vesicles (pEV)
+- miR-499
+- miR-184
+- Myocardial Infarction (MI)
+- Hematopoietic Stem and Progenitor Cells (HSPC)
+- Hematopoiesis
+- Inflammation
+- Lactoferrin/ Lactotransferrin (Ltf)
+---

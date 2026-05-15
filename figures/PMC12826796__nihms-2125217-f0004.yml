@@ -1,0 +1,59 @@
+---
+figid: PMC12826796__nihms-2125217-f0004
+pmcid: PMC12826796
+image_filename: jpg
+figure_link: /pmc/articles/PMC12826796/figure/F3/
+number: Figure 3.
+figure_title: Space-Associated Hematopoietic Stem and Progenitor Cell Telomere, Mitochondrial
+  and Inflammatory Cytokine Deregulation
+caption: (A-C) Bar graph illustrating WGS analysis of the average Telomerecat-estimated
+  overall telomere length in base pairs (bp) of CD34+ cells derived from Ax-2 (A),
+  Ax-3 (B), and Ax-4 (C) samples. Ax-3 R+1 year timepoint includes n=2 samples.(D)
+  Violin plots of mitochondrial stress-related gene expression in CD34+CD38− cells
+  from normal control samples derived from normal aged-matched peripheral blood, young
+  and aged bone marrow, and Ax-2 and Ax-3 astronauts. SSCI 8–21 are normal age-matched
+  donor PBMCs or SAK527 and SAK528 derived from normal aged BM. Telomerase pathway
+  genes include TPP1, POLD2 , POLA1, NHP2, TERF1, and PRIM1.(E-G) Bar graph of average
+  mitochondrial copy number estimates (y-axis) from Ax-2 (E), Ax-3 (F), and Ax-4 (G)
+  samples over time (x-axis) measured by WGS. Ax-2 timepoints include n=4 L-45 days,
+  L-2 days, inflight, R+1 day, R+42–55 days, and R+1 year. Ax-3 timepoints include
+  n=3 inflight, R+0 days, R+21 days, and R+1 year (n=2). Ax-4 timepoints include n=2
+  L-57 days, L-1 day, inflight, R+0 days, and R+30 days. Statistical significance
+  determined by a two-way ANOVA with Tukey’s multiple comparisons test.(H) Violin
+  plots of mitochondrial stress-related gene expression in CD34+CD38− cells from normal
+  control samples derived from normal aged-matched peripheral blood, young and aged
+  bone marrow, and Ax-2 and Ax-3 astronauts. SSCI 8–21 are normal age-matched donor
+  PBMCs or SAK527 and SAK528 derived from normal aged BM. Telomerase pathway genes
+  include PRKN, OPTN, and PINK1.(I-K) For the sample groups R+1 day and R+42–55 days
+  from Ax-2 (I), R+0 days and R+21 days from Ax-3 (J), and R+0 days and R+30 days
+  from Ax-4 (K) pseudobulk counts were used to generate a heatmap for the expressed
+  genes in the Mitochondrial translation category. In the GSEA analysis for Ax-2 (I),
+  this category had a nominal p-value < 0.005 and the majority of genes had a positive
+  logFC indicating expression greater in the R+42–55 days group. In the GSEA analysis
+  for Ax-3 (J), this category had an adjusted p-value < 0.05 and the majority of genes
+  had a positive logFC indicating expression greater in the R+21 days group. In the
+  GSEA analysis for Ax-4 (K), this category had an adjusted p-value < 0.05 and the
+  majority of genes had a positive logFC indicating expression greater in R+0 days
+  group
+article_title: Space Associated Stem Cell Hallmarks of Aging and Resilience (SASHA-R)
+  in Astronauts
+citation: Jessica Pham, et al. Cell Stem Cell. 2025 Dec 04;32(12).
+year: '2025'
+pub_date: '2025-12-04'
+epub_date: '2025-11-24'
+doi: 10.1016/j.stem.2025.11.001
+journal_title: Cell stem cell
+journal_nlm_ta: Cell Stem Cell
+publisher_name: .na.character
+keywords:
+- Spaceflight
+- astronauts
+- hematopoietic stem and progenitor cells
+- ADAR1
+- APOBEC3C
+- retrotransposons
+- telomere
+- mitochondria
+- clonal mutations
+- resilience
+---

@@ -1,0 +1,40 @@
+---
+figid: PMC12732217__cimb-47-01003-g003
+pmcid: PMC12732217
+image_filename: jpg
+figure_link: /pmc/articles/PMC12732217/figure/F3/
+number: Figure 3
+figure_title: Cluster Analysis of Signaling Pathways Overrepresented in CRP PPIs.
+caption: 'Cluster Analysis of Signaling Pathways Overrepresented in CRP PPIs. All
+  71 proteins with protein–protein interactions (PPIs) with CRP curated by BioGrid
+  (https://thebiogrid.org) from published data were used and the ShinyGO database
+  (https://bioinformatics.sdstate.edu/go/, accessed on 1 May 2025) database was queried.
+  (A) Interactions between proteins and pathways identified by CRP PPIs showing similarities
+  and overlap between specific pathways. The number of CRP PPIs identified in each
+  pathway is indicated by node size with opacity indicating statistical enrichment.
+  Number of proteins overlapping (i.e., CRP PPIs present in each dataset) is indicated
+  by line thickness. (B) Hierarchical cluster analysis of pathways as a function of
+  representation from the CRP PPI dataset, with PPIs shared across pathways clustering
+  closer together. Data indicates two primary clusters: (top) metabolic pathways,
+  specifically those associated with glycosaminoglycan and glycosphingolipid synthesis,
+  and (bottom) cancer associated pathways and molecular responses to infectious diseases'
+article_title: 'Evaluating the CRP Interactome: Insights into Possible Novel Roles
+  in Cellular Signaling and Tumorigenicity'
+citation: Alison Gerhardt, et al. Curr Issues Mol Biol. 2025 Dec;47(12).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-28'
+doi: 10.3390/cimb47121003
+journal_title: Current Issues in Molecular Biology
+journal_nlm_ta: Curr Issues Mol Biol
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- C-reactive protein
+- CRP
+- interactome
+- protein-protein interactions
+- glycoproteins
+- glycosaminoglycan biosynthesis
+- extracellular matrix
+- tumor microenvironment
+---

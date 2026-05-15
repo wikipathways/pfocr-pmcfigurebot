@@ -1,0 +1,33 @@
+---
+figid: PMC12695069__nihms-2126267-f0008
+pmcid: PMC12695069
+image_filename: jpg
+figure_link: /pmc/articles/PMC12695069/figure/F7/
+number: Figure 7 –
+figure_title: Single-cell flux quantification of purine metabolism with 13C-scMFA
+caption: (A) Schematic of purine model for single cells. Myeloid and neoplastic cells
+  are included in the model based on nucleotide synthesis-related gene expression.
+  (B) Gene expression score for purine pathways calculated by Seurat module score.
+  (C-D) Distribution of single-cell fluxes in myeloid and neoplastic cells for (C)
+  IMPDH-dependent (de novo) GMP synthesis and (C) HPRT1-dependent salvage GMP synthesis
+  in patients with glioma. (E) Validation of 13C-scMFA purine model. Estimated single-cell
+  fluxes of de novo GMP synthesis flux in GBM38 and TRP models
+article_title: Digital twins for in vivo metabolic flux estimations in patients with
+  brain cancer
+citation: Baharan Meghdadi, et al. Cell Metab. 2026 Jan 06;38(1).
+year: '2026'
+pub_date: 2026-1-06
+epub_date: '2025-12-01'
+doi: 10.1016/j.cmet.2025.10.022
+journal_title: Cell metabolism
+journal_nlm_ta: Cell Metab
+publisher_name: .na.character
+keywords:
+- cancer metabolism
+- in vivo metabolism
+- in vivo isotope tracing
+- machine learning
+- 13C-single cell metabolic flux analysis
+- tumor microenvironment
+- glioblastoma
+---

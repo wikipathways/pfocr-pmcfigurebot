@@ -1,0 +1,37 @@
+---
+figid: PMC12836620__nihms-2136023-f0004
+pmcid: PMC12836620
+image_filename: jpg
+figure_link: /pmc/articles/PMC12836620/figure/F4/
+number: Fig. 4.
+figure_title: NISCH S-glutathionylation activates the PAK1-LIMK1-cofilin pathway
+caption: MDA-MB-231 cells expressing NISCH WT or C185S were incubated in low or high
+  glucose (LG or HG) for 16 h. (a) Phosphorylation levels of PAK1, ERK1/2, and MEK1/2
+  (n = 3). (b) Phosphorylation levels of LIMK1 and cofilin (n = 3). (c) Paxillin phosphorylation
+  level (n = 3). (d) A model for cell migration induced by NISCH glutathionylation.
+  In a non-stressed condition, NISCH binds to its protein partners, including Rac1
+  and PAK1, thus suppressing Rac1-and PAK1-mediated cell migration. NISCH may bind
+  and retain Rac1 and integrin-α5 in the cytosol or endosome. However, upon ROS production,
+  NISCH is glutathionylated at C185, dissociating Rac1 and PAK1, but not integrin-α5.
+  The activated PAK1 activates its downstream LIMK1 and inhibits cofilin through phosphorylation,
+  thereby increasing actin dynamics and polymerization. The dissociated Rac1 increases
+  its localization to the membrane, where it activates actin filament branching, induces
+  lamellipodia and membrane ruffles, and increases cell migration. Data represent
+  the mean ± SD. The statistical difference was analyzed by one-way ANOVA and Tukey’s
+  post-hoc test (a–c), where *p < 0.03, **p < 0.002, ***p < 0.0002, ****p < 0.0001
+article_title: Redox regulation of cell migration via Nischarin S-glutathionylation
+citation: Madhu C. Shivamadhu, et al. Free Radic Biol Med. 2026 Feb 01;243(NA).
+year: '2026'
+pub_date: 2026-2-01
+epub_date: '2025-11-08'
+doi: 10.1016/j.freeradbiomed.2025.11.013
+journal_title: Free radical biology & medicine
+journal_nlm_ta: Free Radic Biol Med
+publisher_name: .na.character
+keywords:
+- Nischarin
+- IRAS
+- S-Glutathionylation
+- Cell migration and invasion
+- Redox signaling
+---

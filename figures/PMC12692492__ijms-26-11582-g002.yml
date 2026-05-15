@@ -1,0 +1,50 @@
+---
+figid: PMC12692492__ijms-26-11582-g002
+pmcid: PMC12692492
+image_filename: jpg
+figure_link: /pmc/articles/PMC12692492/figure/F2/
+number: Figure 2
+figure_title: Functional heterogeneity of malignant epithelial subpopulations and
+  characterization of their metastatic features.
+caption: 'Functional heterogeneity of malignant epithelial subpopulations and characterization
+  of their metastatic features. (A) Boxplots showing EMT signature scores in malignant
+  cells across cancer stages and metastatic states, demonstrating that EMT activity
+  progressively increases with tumor progression and metastasis. (B) UMAP visualization
+  of malignant cells showing three EMT-defined subtypes (hEMT, mEMT, lEMT). (C) Stacked
+  bar plot showing that the proportion of hEMT cells increases with metastatic advancement
+  across cancer types. (D) Heatmap illustrating AUCell Z-score activity of functional
+  pathways across EMT subtypes, with pathways hierarchically clustered by biological
+  functions, highlighting distinct enrichment patterns among different EMT subtypes.
+  (E) Developmental trajectories of PRAD cells: CytoTRACE (left) shows predicted differentiation
+  potential (red = low, blue = high), and the Monocle trajectory (right) depicts lineage
+  progression with annotated branch points, revealing a pseudo-temporal transition
+  from lEMT to hEMT states. Different arrows indicate distinct developmental trajectories,
+  and numbers mark key branch points. (F) Circular bar plot of differentiation potential
+  scores for EMT subgroups (lower scores indicate higher differentiation potential),
+  showing that hEMT cells possess greater stem-like plasticity. (G) Heatmap summarizing
+  2004 cancer-derived modules, integrated into 13 major programs using the Infomap
+  algorithm. (H) Dot plot showing AUCell scores of 13 NMF-defined programs across
+  EMT subgroups in different cancer types, highlighting the preferential functional
+  programs of each EMT subtype. Statistical significance was assessed using the Wilcoxon
+  rank-sum test (* p < 0.05, ** p < 0.01, *** p < 0.001, **** p < 0.0001, ns = not
+  significant). (I) Heatmap (left and right) depicting WGCNA module correlations,
+  with the Sankey diagram (middle) showing associations between WGCNA modules and
+  NMF functional program scores. Ribbon width indicates correlation strength, and
+  gray ribbons represent non-significant associations (p > 0.05 or |cor| < 0.1). (J)
+  Schematic workflow of the mapping-based differential gene analysis strategy'
+article_title: Construction of Metastasis Prediction Models and Screening of Anti-Metastatic
+  Drugs Based on Pan-Cancer Single-Cell EMT Features
+citation: Yingqi Xu, et al. Int J Mol Sci. 2025 Dec;26(23).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-29'
+doi: 10.3390/ijms262311582
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- epithelial–mesenchymal transition
+- single-cell RNA sequencing
+- metastasis prediction model
+- drug screening
+---

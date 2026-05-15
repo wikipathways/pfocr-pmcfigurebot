@@ -1,0 +1,41 @@
+---
+figid: PMC12741670__en-34-6-235-f2
+pmcid: PMC12741670
+image_filename: jpg
+figure_link: /pmc/articles/PMC12741670/figure/F2/
+number: Fig. 2
+figure_title: Mechanisms of microglia-targeted adjuvants.
+caption: 'Mechanisms of microglia-targeted adjuvants. Diagram illustrating the molecular
+  events following engagement of various microglial adjuvants. CpG ODNs (TLR9 agonists)
+  are internalized through scavenger receptor A1, undergo endolysosomal processing,
+  and activate MyD88→IRAK4/IRAK1→TRAF6 to induce NF-κB and IRF7 signaling, leading
+  to IL-12p70 production and M1 polarization. Poly-ICLC (TLR3/MDA5 agonist) transmits
+  signals via TRIF, recruiting TBK1 and RIP1 to phosphorylate IRF3 and activate NF-κB,
+  resulting in robust IFN-β and CXCL10 expression. Imidazoquinolines (TLR7/8 agonists)
+  assemble MyD88 myddosomes, driving NF-κB and MAPK activation, culminating in TNF-α
+  and IL-6 secretion. MPLA (TLR4 agonist) favors TRIF over MyD88, triggering TBK1→IRF3-dependent
+  IFN-β production with minimal TNF-α release. cGAMP analogs (STING agonists) bind
+  cytosolic STING, promote TBK1 recruitment, and induce IRF3 activation and IFN-β
+  secretion; STING activation also represses YAP/TAZ to inhibit protumorigenic transcription.
+  QS-21, alum, and chitosan nanofibers activate the NLRP3 inflammasome: QS-21 forms
+  membrane pores to induce K+ efflux, alum causes lysosomal rupture, and chitosan
+  generates mitochondrial ROS, all leading to caspase-1 activation and IL-1β maturation.
+  Quantitative preclinical metrics (e.g., fold changes in cytokine levels, survival
+  curves) accompany each pathway'
+article_title: Glioblastoma Immunotherapy Adjuvants for Glial Cell Polarization Regulation
+citation: Jun Seo Park, et al. Exp Neurobiol. 2025 Dec 31;34(6).
+year: '2025'
+pub_date: '2025-12-31'
+epub_date: 2025-11-4
+doi: 10.5607/en25026
+journal_title: Experimental Neurobiology
+journal_nlm_ta: Exp Neurobiol
+publisher_name: Korean Society for Brain and Neural Science
+keywords:
+- Glioblastoma
+- Adjuvant
+- Immunotherapy
+- Microglia
+- Astrocyte
+- Glial polarization reprogramming
+---

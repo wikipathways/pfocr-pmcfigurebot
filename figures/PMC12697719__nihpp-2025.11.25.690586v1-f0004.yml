@@ -1,0 +1,44 @@
+---
+figid: PMC12697719__nihpp-2025.11.25.690586v1-f0004
+pmcid: PMC12697719
+image_filename: jpg
+figure_link: /pmc/articles/PMC12697719/figure/F4/
+number: Figure 4.
+figure_title: Hypotonic stress partially inhibits VSV-eGFP–SARS-CoV-2 infection via
+  the late endosomal pathway but not early endosome–dependent entry
+caption: (A) Schematic of the infection assay. Vero cells stably expressing TMPRSS2
+  were pretreated for 1 h with 5 μM apilimod, 5 μM camostat, both, or DMSO vehicle.
+  Cells were then incubated with VSV-eGFP–SARS-CoV-2 for 30 min (MOI ~ 0.5) in the
+  continued presence of the same treatment solution. Unbound virus was removed by
+  three washes, each containing the same treatment. Cells were subsequently exposed
+  to 0% or 60% hypotonic medium for 30 min. After treatment, 5 μM apilimod and 5 μM
+  camostat were maintained in the culture medium for the remainder of the experiment
+  (Post apilimod +/− camostat). At 7.5 h postinfection, cells were fixed, and infection
+  was assessed by quantifying eGFP-positive cells relative to total nuclei (Hoechst
+  Janelia 646 stain). Automated analysis was performed using FIJI.(B) Representative
+  maximum intensity z-projections show cytosolic eGFP (green) and nuclear Hoechst
+  Janelia 646 (magenta) under the indicated treatment conditions with apilimod or
+  camostat during virion incubation and hypotonic treatment.(C) Quantification of
+  infection levels. Data are shown as the percentage of infected cells normalized
+  to untreated control for each biological replicate (n = 3; shown in distinct colors).
+  Technical triplicates are represented as same-colored dots. Approximately 16,000
+  cells were analyzed per condition. Bars represent mean ± SD. Statistical significance
+  was determined using one-way ANOVA; *P < 0.05, ****P < 0.0001. Comparisons with
+  P > 0.05 are not shown
+article_title: How endosomal PIKfyve inhibition prevents viral membrane fusion and
+  entry
+citation: Nicholas Chow, et al. bioRxiv. 2025 Nov 26;123(19).
+year: '2025'
+pub_date: '2025-11-26'
+epub_date: '2025-11-26'
+doi: 10.1101/2025.11.25.690586
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Viral Entry
+- PIKfyve Inhibition
+- Endosomal Fusion
+- Membrane Tension
+- Lattice Light-Sheet Microscopy
+---

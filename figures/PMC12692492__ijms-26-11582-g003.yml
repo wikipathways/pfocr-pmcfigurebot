@@ -1,0 +1,54 @@
+---
+figid: PMC12692492__ijms-26-11582-g003
+pmcid: PMC12692492
+image_filename: jpg
+figure_link: /pmc/articles/PMC12692492/figure/F3/
+number: Figure 3
+figure_title: Fibroblast subtype characteristics and their dynamic interactions with
+  malignant epithelial cells.
+caption: Fibroblast subtype characteristics and their dynamic interactions with malignant
+  epithelial cells. (A) UMAP visualization of fibroblast subtypes annotated based
+  on canonical marker genes, and classified into five distinct cell types. (B) Circular
+  stacked bar plot showing the proportions of fibroblast subtypes across metastatic
+  states in different cancers, highlighting the expansion of iCAFs and myCAFs with
+  tumor progression. (C) Circular boxplots depicting EMT gene scores across fibroblast
+  subtypes, showing myCAFs as the major EMT-enriched fibroblast population, with statistical
+  significance indicated (**** p < 0.0001). (D) Lollipop plots illustrating pathway
+  enrichment scores across eight metastasis-related pathways, revealing preferential
+  enrichment of myCAFs in pathways promoting invasion and metastasis. (E) Chord diagram
+  of intercellular interactions (excluding self- and intra-type interactions), indicating
+  strong communication between myCAFs and hEMT cells. (F) Dot plot showing intercellular
+  interactions within the THBS signaling pathway across different cancers (excluding
+  self- and intra-type interactions). (G) Heatmap of regulatory activity of key transcription
+  factors across EMT subtypes and CAF subtypes, with bars indicating subtype origin,
+  revealing convergence of transcriptional programs between myCAFs and hEMT cells.
+  (H) Slingshot trajectory of HNSCC fibroblasts, showing pseudotime progression (left),
+  subtype assignment (middle), and dynamic expression of CDH1 and VIM (right), indicating
+  a potential transition from hEMT cells toward myCAFs. (I) Leiden clustering of BC
+  into subclusters 0–14 (left), spatial expression patterns of hEMT cells (black circles)
+  and myCAFs (red squares) (middle), and the inferred spatial differentiation trajectory
+  from hEMT cells to myCAFs (right). (J) Integrative analysis using Diff, WGCNA, and
+  Slingshot across cancers to identify core gene sets, with the central circular heatmap
+  showing cancer-specific metastasis-signature genes and their regulation direction
+  and counts (red = up, blue = down), and peripheral Venn diagrams depicting method
+  overlaps. (K) Network visualization of representative GO terms and pathways enriched
+  in metastasis-related genes commonly upregulated (top) or downregulated (bottom)
+  across two or more cancer types, illustrating the functional programs of these genes.
+  Nodes represent significantly enriched GO terms (p < 0.05), and edges indicate similarity
+  between pathway-associated gene sets
+article_title: Construction of Metastasis Prediction Models and Screening of Anti-Metastatic
+  Drugs Based on Pan-Cancer Single-Cell EMT Features
+citation: Yingqi Xu, et al. Int J Mol Sci. 2025 Dec;26(23).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-29'
+doi: 10.3390/ijms262311582
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- epithelial–mesenchymal transition
+- single-cell RNA sequencing
+- metastasis prediction model
+- drug screening
+---

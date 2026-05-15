@@ -1,0 +1,37 @@
+---
+figid: PMC12676441__nihpp-rs8051602v1-f0003
+pmcid: PMC12676441
+image_filename: jpg
+figure_link: /pmc/articles/PMC12676441/figure/F3/
+number: Figure 3
+figure_title: Single Cell Sequencing Identifying Cell types in Healthy, Damaged, and
+  Therapy-Treated Lungs
+caption: A) Schematic illustration of experimental setup. B) Heatmap of highest expressed
+  genes used to label cell clusters. ‘Mo’ - monocytes, ‘Ma’ - macrophages, ‘B’ - B
+  cells, ‘NK’ - natural killer cells, ‘N’ - neutrophils, ‘T’ - T cells. Each row is
+  a different gene with purple color being more highly expressed and yellow less expressed.
+  C) UMAP of integrated single cell RNA sequencing data showing distribution of 8
+  cell clusters. Each dot is a single cell. D) Frequency distribution graph showing
+  the clusters in panel C. Each color is a different cell type. E)Bar graphs of macrophages,
+  monocytes, and ratio of monocytes to macrophages. F) Volcano plots as a comparison
+  of IL-10-treated rats vs LPS exposed rats of macrophages. Red dots are upregulated
+  genes, blue dots are downregulated genes, and gray dots are genes that are not statistically
+  different between conditions. Red genes labeled are significant anti-inflammatory
+  genes and blue labeled genes are significant inflammatory genes. G) Gene set enrichment
+  analysis for differential genes between IL-10 treated group and LPS control for
+  mTOR pathway H) Heatmap of mTOR genes found significant in GSEA in panel G. I) Heatmap
+  of inflammatory and anti-inflammatory genes found significant from volcano plot
+  in panel F. J) Schematic illustration of proposed mechanism of IL-10 on monocytes
+  and macrophages
+article_title: Airway Delivery of Encapsulated Cytokine-Secreting Cells for Local
+  Immunomodulation in Inflammatory Lung Diseases
+citation: Omid Veiseh, et al. Res Sq. 2025 Nov 27;NA(NA).
+year: '2025'
+pub_date: '2025-11-27'
+epub_date: '2025-11-27'
+doi: 10.21203/rs.3.rs-8051602/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords: []
+---

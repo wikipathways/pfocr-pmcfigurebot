@@ -1,0 +1,42 @@
+---
+figid: PMC12676431__nihpp-rs8062841v1-f0001
+pmcid: PMC12676431
+image_filename: jpg
+figure_link: /pmc/articles/PMC12676431/figure/F1/
+number: Figure 1.
+figure_title: The molecular signatures of human and ferret cortical oRGs, E-tRGs,
+  and T-tRGs
+caption: (A) UMAP projection of cross-species scRNA-seq data, colored by cell cluster
+  identity. CGE-IN, caudal ganglionic eminence interneuron; MGE-IN, medial ganglionic
+  eminence interneuron; EC, endothelial cell; EP, ependymal cells; MG, microglia.
+  (B) Enlarged region of (A) displaying RG and IPC subpopulations. (C, D) Heatmap
+  showing conserved gene expression patterns across homologous cortical populations
+  (oRGs, E-tRGs, T-tRGs) in human (GW22) and ferret (P3) cortices. (E) Model of cortical
+  RG differentiation hierarchy showing fRGs as progenitors generating oRGs, E-tRGs,
+  and T-tRGs populations during human and ferret corticogenesis. (F) Cortical oRGs
+  maintain elevated ERK and PKA pathway activity, whereas E-tRGs display enhanced
+  YAP signaling. T-tRGs progressively activate SHH signaling. These distinct cellular
+  states are stabilized through mutual inhibition among these signaling pathways
+article_title: Molecular signatures and lineage diversification of neurogenic and
+  gliogenic radial glia in the gyrencephalic ferret cortex
+citation: Jialin Li, et al. Res Sq. 2025 Nov 28;NA(NA).
+year: '2025'
+pub_date: '2025-11-28'
+epub_date: '2025-11-28'
+doi: 10.21203/rs.3.rs-8062841/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords:
+- cortical development
+- cortical evolution
+- gyrencephalic
+- ferret
+- neurogenesis
+- gliogenesis
+- ERK
+- PKA
+- YAP
+- SHH signaling
+- outer radial glia
+---

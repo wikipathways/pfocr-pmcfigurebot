@@ -1,0 +1,42 @@
+---
+figid: PMC12692204__ijms-26-11344-g001
+pmcid: PMC12692204
+image_filename: jpg
+figure_link: /pmc/articles/PMC12692204/figure/F1/
+number: Figure 1
+figure_title: '(A) A dot plot illustrating Gene Ontology (GO) pathway enrichment analysis
+  of the differentially expressed genes (DEGs; the established criteria: padjusted
+  < 0.'
+caption: '(A) A dot plot illustrating Gene Ontology (GO) pathway enrichment analysis
+  of the differentially expressed genes (DEGs; the established criteria: padjusted
+  < 0.05; log2 fold change (log2FC) ≥ 1.0/log2FC ≤ −1.0; determined by DESeq2 package
+  [version 1.42.0] within R statistical software (version 4.4.2) identified in equine
+  endometrial fibroblasts (n = 5) after 96 h of TNFα treatment (10 ng/mL). The dot
+  color depends on pathway enrichment significance, while the size of dots depends
+  on the number of target genes assigned to particular processes. BP: biological process;
+  CC: cellular components; MF: molecular function. (B) A dot plot illustrating Kyoto
+  Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analysis of the DEGs
+  identified in equine endometrial fibroblasts (n = 5) after 96 h of TNFα treatment
+  (10 ng/mL). The dot color depends on pathway enrichment significance, while the
+  size of dots depends on the number of target genes assigned to particular processes.
+  Please note that the numbers inside the dots indicate the number of DEGs assigned
+  to particular process'
+article_title: Transcriptomic Insights into Tumor Necrosis Factor α’s Role in the
+  Fibrosis-Related Processes of Equine Endometrial Fibroblasts
+citation: Agnieszka Sadowska, et al. Int J Mol Sci. 2025 Dec;26(23).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-24'
+doi: 10.3390/ijms262311344
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- TNFα
+- fibroblasts
+- mare
+- endometrosis
+- fibrosis
+- ECM
+- transcriptome
+---

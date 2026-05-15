@@ -1,0 +1,43 @@
+---
+figid: PMC12730802__biosensors-15-00782-g005
+pmcid: PMC12730802
+image_filename: jpg
+figure_link: /pmc/articles/PMC12730802/figure/F5/
+number: Figure 5
+figure_title: Functional enrichment analysis of DEGs across RA pathology and treatment
+  groups based on GO biological processes.
+caption: 'Functional enrichment analysis of DEGs across RA pathology and treatment
+  groups based on GO biological processes. (a) Heatmap summarizing the enrichment
+  significance (p-values) of GO biological processes among the RA Day 18, RA Day 28,
+  Tofacitinib-treated, and NAC-treated groups relative to the healthy control group.
+  Each column represents a group, and each row denotes a significantly enriched GO
+  term. Warmer colors indicate higher statistical significance. (b–e) Bar plots illustrating
+  the direction and magnitude of GO term enrichment in: (b) RA Day 18 vs. Control;
+  (c) RA Day 28 vs. Control; (d) Tofacitinib-treated vs. Control; (e) NAC-treated
+  vs. Control. Red bars indicate upregulated biological processes, while blue bars
+  represent downregulated ones. Across the RA progression and treatment comparisons,
+  upregulated GO terms predominantly involve immune response, innate/adaptive immune
+  activation, inflammatory cytokine production (e.g., IFN-γ, chemokine signaling),
+  and cellular responses to bacterial components (e.g., lipopolysaccharide). In contrast,
+  downregulated processes are mainly related to musculoskeletal development, such
+  as muscle contraction, cell adhesion, sarcomere organization, and axon guidance.
+  Treatment with Tofacitinib or NAC resulted in partial reversal of these immuno-inflammatory
+  enrichments and promoted restoration of developmental and tissue organization pathways,
+  indicating therapeutic modulation at the transcriptomic level'
+article_title: Transcriptomic Evaluation of Hollow Microneedles-Mediated Drug Delivery
+  for Rheumatoid Arthritis Therapy
+citation: Zhibo Liu, et al. Biosensors (Basel). 2025 Dec;15(12).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-27'
+doi: 10.3390/bios15120782
+journal_title: Biosensors
+journal_nlm_ta: Biosensors (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- hollow microneedle
+- drug delivery
+- rheumatoid arthritis
+- transcriptomic
+- targeted therapy
+---

@@ -1,0 +1,44 @@
+---
+figid: PMC12743485__nihms-2125837-f0003
+pmcid: PMC12743485
+image_filename: jpg
+figure_link: /pmc/articles/PMC12743485/figure/F3/
+number: Figure 3.
+figure_title: Treatment with VEGFC following TBI preserves synaptic and neuronal health-related
+  gene expression in PS19 mice
+caption: (A) Schematic of the experimental design where male 3-month-old PS19 tauopathy
+  mice received a mild TBI or sham treatment followed by i.c.m. administration of
+  either AAVVEGFC or control AAVGFP 24 h post-TBI. Five micro-dissected hippocampal
+  samples per experimental group were pooled at 9 months of age, and then single-nucleus
+  RNA sequencing (snRNA-seq) was conducted.(B) Uniform manifold approximation and
+  projection (UMAP) showing the distribution of isolated and sequenced neurons colored
+  by subtype, which included DG Glut, referring to dentate gyrus glutamatergic neurons;
+  CA1-ProS Glut, referring to CA1-prosubiculum glutamatergic neurons; CA3 Glut, referring
+  to CA3 glutamatergic neurons; Sst Gaba, referring to somatostatin GABAergic interneurons;
+  and Pvalb Gaba, referring to parvalbumin GABAergic interneurons.(C) Differentially
+  expressed genes (DEGs) downregulated (left) and upregulated (right) in the comparison
+  group (bottom row) versus the reference group (top row) for each of the neuronal
+  clusters identified.(D) Volcano plot illustrating DEGs in the CA1-ProS Glut population
+  comparing TBI AAVGFP to sham AAVGFP.(E) Pathway enrichment with Gene Ontology (GO)
+  terms that are depleted in TBI AAVGFP versus AAVGFP.(F) Volcano plot illustrating
+  DEGs in the CA1-ProS Glut comparing TBI AAVVEGFC to TBI AAVGFP.(G) GO terms enriched
+  in CA1 ProS Glut in TBI AAVVEGFC versus TBI AAVGFP.(H) Volcano plot illustrating
+  DEGs in the DG population between TBI AAVVEGFC and TBI AAVGFP.(I) GO terms enriched
+  in DG Glut in TBI AAVVEGFC relative to TBI AAVGFP.(J and K) Representative immunofluorescent
+  images (J) and quantification (K) of the synaptic marker synaptophysin (Syn; red)
+  and DAPI+ nuclei (blue) in the ipsilateral hippocampus. Each data point in (K) represents
+  an individual mouse, and the error bars represent mean ± SEM.Statistical significance
+  between experimental groups was calculated by linear mixed-effects modeling. *p
+  < 0.05 and **p < 0.01
+article_title: Therapeutic VEGFC treatment provides protection against traumatic-brain-injury-driven
+  tauopathy pathogenesis
+citation: Ana Royo Marco, et al. Cell Rep. 2025 Nov 25;44(11).
+year: '2025'
+pub_date: '2025-11-25'
+epub_date: '2025-11-07'
+doi: 10.1016/j.celrep.2025.116521
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

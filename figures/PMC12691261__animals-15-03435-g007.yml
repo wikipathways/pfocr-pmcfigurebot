@@ -1,0 +1,39 @@
+---
+figid: PMC12691261__animals-15-03435-g007
+pmcid: PMC12691261
+image_filename: jpg
+figure_link: /pmc/articles/PMC12691261/figure/F7/
+number: Figure 7
+figure_title: GO and KEGG enrichment analyses of differentially expressed genes.
+caption: 'GO and KEGG enrichment analyses of differentially expressed genes. (A) Scatter
+  plot of the top 20 GO terms, where dot size and color represent gene count and enrichment
+  significance, respectively. (B) Bar plot of the top 20 GO terms, categorized by
+  ontology (BP, CC, MF) and gene regulation direction. (C) Scatter plot of the top
+  20 KEGG pathways, with dot size and color indicating gene count and enrichment significance.
+  (D) Bar plot of the top 20 KEGG pathways, showing enrichment significance and the
+  number of DEGs for each pathway. Due to space constraints leading to label truncation
+  in the figure, the full names of the key enriched terms are listed below:GO:1903589:
+  positive regulation of blood vessel endothelial cell proliferation; GO:0007179:
+  transforming growth factor beta receptor signaling pathway; GO:0045944: positive
+  regulation of transcription by RNA polymerase II; GO:0000122: negative regulation
+  of transcription by RNA polymerase II; GO:0000981: DNA-binding transcription factor
+  activity, RNA polymerase II-specific; GO:0001228: DNA-binding transcription activator
+  activity, RNA polymerase II-specific; ecb04061: Viral protein interaction with cytokine
+  and cytokine receptor'
+article_title: The Impact of MEI1 Alternative Splicing Events on Spermatogenesis in
+  Mongolian Horses
+citation: Dailing Song, et al. Animals (Basel). 2025 Dec;15(23).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-28'
+doi: 10.3390/ani15233435
+journal_title: 'Animals : an Open Access Journal from MDPI'
+journal_nlm_ta: Animals (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- MEI1 gene
+- alternative splicing
+- skipped exons
+- mutually exclusive exons
+- spermatogenesis
+---

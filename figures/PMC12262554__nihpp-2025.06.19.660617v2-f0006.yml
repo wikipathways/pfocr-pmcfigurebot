@@ -1,0 +1,37 @@
+---
+figid: PMC12262554__nihpp-2025.06.19.660617v2-f0006
+pmcid: PMC12262554
+image_filename: jpg
+figure_link: /pmc/articles/PMC12262554/figure/F5/
+number: 'Figure 5:'
+figure_title: Residue-resolved analysis of pressure-induced conformational changes
+  in AsLOV2 using high-pressure 3D HNCO NMR.
+caption: 'Residue-resolved analysis of pressure-induced conformational changes in
+  AsLOV2 using high-pressure 3D HNCO NMR. (A) Representative two-dimensional 15N/1H
+  projections from high-pressure HNCO spectra collected across a pressure range up
+  to 2.5 kbar. Peak trajectories illustrate pressure-dependent chemical shift changes,
+  including both linear and nonlinear behaviors across different residues. (B) Quadratic
+  fitting of chemical shift changes for three backbone nuclei—1H, 15N, and 13C—was
+  used to extract nonlinear coefficients ci for each residue. Bar plots show the distribution
+  of absolute nonlinear coefficients Ci across the protein for each nucleus, with
+  horizontal lines indicating the statistical cutoffs (mean, and mean + 1.645 SD).
+  (C) A composite nonlinearity score was calculated by normalizing and summing the
+  nonlinear coefficients across all three nuclei (1Hi + 15Ni + 13Ci-1), yielding an
+  integrated metric for pressure sensitivity per peptide group. Structural mapping
+  of the top 10% of residues with the largest deviations from the mean onto the AsLOV2
+  crystal structure (PDB: 2V1A (62)) reveals that the most pressure-sensitive regions
+  are localized to the A′α and Jα helices and their adjacent segments. These helices
+  are also known to be functionally critical in the light activation mechanism of
+  AsLOV2, suggesting a shared structural pathway for both light- and pressure-induced
+  activation via hydration-mediated “hydraulic” coupling'
+article_title: Hydraulic Activation of the AsLOV2 Photoreceptor
+citation: Shiny Maity, et al. bioRxiv. 2025 Nov 14;NA(NA).
+year: '2025'
+pub_date: '2025-11-14'
+epub_date: '2025-11-14'
+doi: 10.1101/2025.06.19.660617
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

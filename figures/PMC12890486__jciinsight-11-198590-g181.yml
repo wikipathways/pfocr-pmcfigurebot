@@ -1,0 +1,46 @@
+---
+figid: PMC12890486__jciinsight-11-198590-g181
+pmcid: PMC12890486
+image_filename: jpg
+figure_link: /pmc/articles/PMC12890486/figure/F5/
+number: Figure 5
+figure_title: B CD70hi and proliferating T cell types
+caption: 'The R-L interactions, expression signature, and pathways of B CD70hi and
+  proliferating T cells were assessed pre-CBD and post-CBD. (A) B CD70hi and proliferating
+  T cells were analyzed as the source population sending signals to other immune cells
+  and themselves. R-L interactions that changed post-CBD included TNF-TNFRSF1B, TGFB1–(TGFBR1+TGFBR2),
+  and ICAM1–(ITGAL+ITGB2). R-L communication profiles were inferred using CellChat
+  for cells pre- and post-CBD treatment. Bubble plots show directional ligand-receptor
+  (L-R) signaling where post-CBD has inhibition or activation. (B and C) Gene expression
+  patterns in B CD70hi (B) and T (C) cells exhibited similarities across 2 comparisons:
+  No CD3/CD28 –CBD vs. CD3/CD28 –CBD (x axis) and CD3/CD28 +CBD vs. CD3/CD28 –CBD
+  (y axis). Scatterplots depict the log2 fold changes (log2FC) in gene expression.
+  Each point represents a gene with statistically significant differential expression
+  (adjusted P value < 0.05) in both comparisons. Genes exhibiting opposing directions
+  of regulation, up in one comparison and down in the other, are highlighted (green,
+  upregulated with CBD under stimulation; gold, downregulated with CBD under stimulation).
+  (D and E) The top 300 genes were ranked by Euclidean distance from the origin and
+  used for pathway analyses for B CD70hi cells (D) and T cells (E) via pathfindR.
+  Genes with FDR-adjusted P value less than 0.05 were input into pathfindR using the
+  BioGRID protein-protein interaction network and KEGG gene set. Enriched pathways
+  were subsequently filtered to retain only those containing known CBD receptors or
+  R-L interactions. The enrichment chart displays the filtered pathways, ranked by
+  –log10(P value), representing those most plausibly linked to CBD’s immunomodulatory
+  actions'
+article_title: Cannabidiol exerts antiinflammatory effects but maintains T effector
+  memory cell differentiation in humans
+citation: Debora L. Gisch, et al. JCI Insight. 2025 Nov 18;11(1).
+year: '2025'
+pub_date: '2025-11-18'
+epub_date: '2025-11-18'
+doi: 10.1172/jci.insight.198590
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Clinical Research
+- Immunology
+- Pharmacology
+- Transcriptomics
+- Transplantation
+---

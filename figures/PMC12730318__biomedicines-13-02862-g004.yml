@@ -1,0 +1,41 @@
+---
+figid: PMC12730318__biomedicines-13-02862-g004
+pmcid: PMC12730318
+image_filename: jpg
+figure_link: /pmc/articles/PMC12730318/figure/F4/
+number: Figure 4
+figure_title: Integration between Plan Classes, Health Indicators, and Strategic Objectives.
+caption: Integration between Plan Classes, Health Indicators, and Strategic Objectives.
+  The figure illustrates how the five classes of the Integrated Implementation Plan
+  in Precision Radiotherapy (IIPPR) connect across three levels. Blue nodes (left)
+  represent the operational classes. Green nodes (center) correspond to measurable
+  health indicators. Red nodes (right) denote broader public health objectives. The
+  network visualizes the translation pathway from technical and scientific actions
+  to clinical and societal outcomes. These actions include DNA repair characterization,
+  genomic and proteomic modeling, individualized radiosensitivity assessment, targeting
+  of radioresistance mechanisms, and the adoption of advanced radiotherapy technologies.
+  Together, these processes generate quantifiable outputs such as overall survival
+  (OS), progression-free survival (PFS), local and systemic control, incidence of
+  severe toxicity (G ≥ 3), and cost per controlled case. These indicators converge
+  toward collective health objectives within the Brazilian Unified Health System (SUS).
+  They support equitable access to care, reduced cancer mortality, and improved quality
+  of life. They also reinforce cost-effectiveness in oncology, data-driven decision-making,
+  technological innovation, and the reduction in regional disparities
+article_title: 'From Semantic Modeling to Precision Radiotherapy: An AI Framework
+  Linking Radiobiology, Oncology, and Public Health Integration'
+citation: Fernando Gomes de Souza Jr., et al. Biomedicines. 2025 Dec;13(12).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-24'
+doi: 10.3390/biomedicines13122862
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- AI-based semantic and temporal analysis
+- co-occurrence supergraph
+- clinical-anatomical axis
+- mechanistic-molecular axis
+- DNA repair and molecular response
+- advanced radiotherapy technologies (FLASH-RT, hadron therapy, voxel-level analytics)
+---

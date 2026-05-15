@@ -1,0 +1,37 @@
+---
+figid: PMC13089646__nihms-2159584-f0005
+pmcid: PMC13089646
+image_filename: jpg
+figure_link: /pmc/articles/PMC13089646/figure/F5/
+number: Fig. 5.
+figure_title: The ovarian tumor cell cycle can be driven by either cyclin E1 or cyclin
+  D1
+caption: '(A and B) Ovarian tumor cores #19 (A) and #208 (B) stained using a multispectral
+  immunofluorescent (mIF) staining process for p16, cyclin E1, cyclin D1, CDK2, total
+  Rb, geminin, cytokeratin AE1AE3 (to mark tumor cells), and DAPI (to mark nuclei).
+  Scale bars, 100 μm (top row) and 20 μm (bottom row). The white box marks the zoomed-in
+  region in the bottom row. (C) Single-cell distribution of the nuclear intensity
+  of each respective marker in tumor #19 versus tumor #208. (D) Cells (n = 423,881)
+  from all 225 tumors were pooled to generate a single-cell UMAP from 216 parameters
+  from the seven markers, colored by the scaled nuclear intensity of indicated marker.
+  (E) UMAP of cells from tumor cores #19 (blue) and #208 (pink), each residing in
+  different regions of the UMAP. (F) Schematic showing a cyclin D–driven and a cyclin
+  E–driven pathway into the ovarian cancer cell cycle. (G) Phenotyping of tumors from
+  patients with ovarian cancer (n = 225) by p16 and cyclin E1 abundance. Intensity
+  cutoffs (+, high; −, low) were made using phenoptr, and the most abundant cell phenotype
+  is used to determine tumor phenotype. (H to J) Kaplan-Meier plots of patients’ overall
+  survival (OS) by p16 median dichotomy in the tumor (H), by cyclin E1 median dichotomy
+  (I), and by dual-high versus dual-low abundance of p16 and cyclin E1 (J). HR, hazard
+  ratio'
+article_title: p16 expression confers sensitivity to CDK2 inhibitors in cyclin E1–driven
+  ovarian cancers
+citation: Chance C. Sine, et al. Sci Signal. 2025 Nov 25;18(914).
+year: '2025'
+pub_date: '2025-11-25'
+epub_date: '2025-11-25'
+doi: 10.1126/scisignal.adv0415
+journal_title: Science signaling
+journal_nlm_ta: Sci Signal
+publisher_name: .na.character
+keywords: []
+---

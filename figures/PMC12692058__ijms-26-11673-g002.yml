@@ -1,0 +1,34 @@
+---
+figid: PMC12692058__ijms-26-11673-g002
+pmcid: PMC12692058
+image_filename: jpg
+figure_link: /pmc/articles/PMC12692058/figure/F2/
+number: Figure 2
+figure_title: Overlaps across the predictive proteins included in the different models
+  developed, and functional assessment.
+caption: Overlaps across the predictive proteins included in the different models
+  developed, and functional assessment. (A) Venn diagram showing overlaps in predictive
+  proteins included in each of the classification models developed. The numbers show
+  the total number of overlapping proteins, and the colors correspond to the number,
+  with red being a higher count, as shown in the legend. (B) Gene ontology and (C)
+  KEGG pathway enrichment analysis result of the 13 proteins identified by at least
+  three of the six models developed, with (D) STRING PPI network analysis
+article_title: Development of Plasma Protein Classification Models for Alzheimer’s
+  Disease Using Multiple Machine Learning Approaches
+citation: Amy Tsurumi, et al. Int J Mol Sci. 2025 Dec;26(23).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-12-02'
+doi: 10.3390/ijms262311673
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- Alzheimer’s disease
+- neurodegeneration
+- aging
+- machine learning
+- biomarkers
+- proteomics
+- diagnosis
+---

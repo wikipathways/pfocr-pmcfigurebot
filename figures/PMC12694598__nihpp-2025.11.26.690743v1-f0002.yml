@@ -1,0 +1,40 @@
+---
+figid: PMC12694598__nihpp-2025.11.26.690743v1-f0002
+pmcid: PMC12694598
+image_filename: jpg
+figure_link: /pmc/articles/PMC12694598/figure/F2/
+number: 'Figure 2:'
+figure_title: Serum proteomic analysis of participants with and without endothelial
+  dysfunction
+caption: A) 2-dimensional PCA. Endothelial dysfunction is measured according to the
+  values of %CSA with stress. The PCA shows the distribution of individuals with normal
+  (blue) and abnormal (red) endothelial function along the first two principal components.
+  The centroids were calculated based on the PCA vectors. There is partial overlap
+  between the groups, indicating some separation in their underlying profiles but
+  also substantial shared variance. B) The volcano plot represents the differential
+  protein expression between participants with normal and abnormal endothelial function.
+  The volcano plot displays log2 Fold Change (x-axis) versus −log10 (p-value) (y-axis)
+  for each protein. Proteins with an unadjusted p value of less than 0.05 are labelled
+  red (upregulated) or blue (downregulated). The black dotted horizontal lines denote
+  unadjusted p-value thresholds of 0.05 and 0.005, respectively. The top 10 upregulated
+  and downregulated proteins are labeled. All proteins with differential expression
+  between the two groups with unadjusted p value < 0.005 were further analyzed via
+  Pathway Analysis
+article_title: Metabolic and Redox Pathway Dysregulation in HIV-Associated Coronary
+  Endothelial Dysfunction
+citation: Kshipra S. Keole, et al. bioRxiv. 2025 Dec 01;NA(NA).
+year: '2025'
+pub_date: '2025-12-01'
+epub_date: '2025-12-01'
+doi: 10.1101/2025.11.26.690743
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- People with HIV
+- coronary endothelial function
+- oxidative stress
+- metabolic dysregulation
+- redox pathway dysregulation
+- SomaScan proteomics
+---

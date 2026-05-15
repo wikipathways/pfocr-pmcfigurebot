@@ -1,0 +1,41 @@
+---
+figid: PMC12890509__jciinsight-10-194450-g148
+pmcid: PMC12890509
+image_filename: jpg
+figure_link: /pmc/articles/PMC12890509/figure/F4/
+number: Figure 4
+figure_title: Protection-associated hPCs are enriched for innate and adaptive immune
+  processes and pathways
+caption: (A) Bar graph demonstrating the total number of significantly enriched (Padj
+  < 0.1) Reactome terms along hPC5 and hPC12. (B) Heatmap showing enrichment scores
+  for select Reactome terms across hPC5 and hPC12. *Padj < 0.1. P values were estimated
+  using an adaptive multilevel split Monte-Carlo scheme implemented in the fgsea package
+  in R. (C) Bar graph as in A, with terms now separated into significant (black) or
+  nonsignificant (white) categories by how their leading-edge gene sets distinguished
+  NHP samples by challenge outcome (P values obtained by unpaired t test). hPC12-enriched
+  terms were evaluated for their ability to separate NHP samples collected 2 days
+  after vaccination by their challenge outcome, while hPC5-enriched terms were evaluated
+  using NHP samples collected 2 weeks after vaccination. (D) Normalized enrichment
+  scores (NESs) calculated using single-sample gene set enrichment analysis (ssGSEA)
+  for each sample in the NHP dose cohort. Gene sets for each pathway/process were
+  derived from the Reactome Pathway Database. Sample scores were lumped by post–M.
+  tuberculosis challenge protection outcome for visualization. Data are presented
+  as mean ± SEM. *P < 0.05, **P < 0.01, ***P < 0.001 by unpaired t test with Holm-Šídák’s
+  multiple comparison correction, as calculated in GraphPad
+article_title: Cross-species blood transcriptional correlates of BCG-mediated protection
+  against tuberculosis include innate and adaptive immune processes
+citation: Kate Bridges, et al. JCI Insight. 2025 Nov 11;10(24).
+year: '2025'
+pub_date: '2025-11-11'
+epub_date: '2025-11-11'
+doi: 10.1172/jci.insight.194450
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Immunology
+- Infectious disease
+- Bacterial vaccines
+- Cellular immune response
+- Tuberculosis
+---

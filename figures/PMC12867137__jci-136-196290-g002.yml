@@ -1,0 +1,38 @@
+---
+figid: PMC12867137__jci-136-196290-g002
+pmcid: PMC12867137
+image_filename: jpg
+figure_link: /pmc/articles/PMC12867137/figure/F2/
+number: Figure 2
+figure_title: Metabolic profiling of LCA phenotypes (N = 160 patients)
+caption: (A) Volcano plot showing differentially abundant metabolites between hyperinflammatory
+  and hypoinflammatory ARDS at day 0, determined by limma adjusted for covariates
+  (age, sex, BMI, medications, liver disease, and GFR). (B) Heatmap of differentially
+  abundant metabolites by LCA phenotype at day 0 as determined by limma with adjustment
+  for aforementioned covariates. Z-scaled log-transformed metabolite intensities are
+  grouped by phenotype. (C) Venn diagram showing overlap of differentially abundant
+  metabolites at day 0 and day 2 (day 2 also adjusted for randomization arm). (D)
+  Metabolite pathway enrichment analysis comparing hyperinflammatory vs. hypoinflammatory
+  groups at day 0 and day 2. X axis shows signed log10(P value), with positive values
+  indicating positive enrichment in hyperinflammatory group and negative values indicating
+  positive enrichment in hypoinflammatory group. Top 20 significant pathways are shown
+  (FDR < 0.05). AA, amino acid; Carn, carnitine; FA, fatty acid; LC, long chain; MUFA,
+  monounsaturated fatty acid; SAM, S-adenosylmethionine
+article_title: Longitudinal multiomic signatures of ARDS and sepsis inflammatory phenotypes
+  identify pathways associated with mortality
+citation: Narges Alipanah-Lechner, et al. J Clin Invest. 2025 Dec 2;136(3).
+year: '2025'
+pub_date: 2025-12-2
+epub_date: 2025-12-2
+doi: 10.1172/JCI196290
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Clinical Research
+- Inflammation
+- Pulmonology
+- Metabolomics
+- Mitochondria
+- Transcriptomics
+---

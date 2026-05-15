@@ -1,0 +1,44 @@
+---
+figid: PMC12697370__nihpp-2025.11.26.690503v1-f0001
+pmcid: PMC12697370
+image_filename: jpg
+figure_link: /pmc/articles/PMC12697370/figure/F1/
+number: Figure 1.
+figure_title: UHRF1 overexpression rapidly induces a DDR and SASP
+caption: A. Images of live hUHRF1 and control Tg(fabp10a:nls-mCherry) larvae at 80,
+  and 120 hpf. Numbers indicate the number of larvae with fluorescent livers at each
+  time point. B. EdU incorporation in hUHRF1 and control livers at 80, 96, and 120
+  hpf normalized to the total number of nuclei in each sample. *** p-value < 0.001,
+  ** p-value < 0.01 by unpaired t-test. C. EdU positive cells in 96 hpf livers were
+  scored as hepatocytes based on round nuclear morphology (green arrow in inset) and
+  non-hepatocytes with non-spherical nuclei (* in inset). ** p-value < 0.01 by unpaired
+  t-test. D. Volcano plot of differential expressed genes of hUHRF1 compared Controls
+  livers at 80 and 120 hpf. E. Crossplot of the Log2FC of differentially expressed
+  genes in hUHRF1 livers at 80 and 120 hpf. F. IPA of the top 10 most upregulated
+  (up) and downregulated pathways (down) in hUHRF1 livers at 80 hpf and their relative
+  changes in hUHRF1 livers at 120 hpf. G. Heatmap of Log2 fold change of a subset
+  of genes associated with SASP at 80 and 120 hpf and the Gene Set Enrichment plot
+  of the NFKB pathway identified from RNAseq analysis of 120 hpf livers from hUHRF1
+  compared to controls. H. Representative images of macrophages (purple) in Tg(mpeg1.1:dsRed2)
+  and neutrophils (purple) in Tg(lyz:dsRed) in hUHRF1 and control larvae at 120 hpf.
+  Liver is outlined in green. I. Quantification of macrophage area and number of neutrophils
+  recruited in the liver at 96 and 120 hpf. * p-value < 0.05 by unpaired t-test. L.
+  Heatmap of genes involved in DNA damage repair at 80 and 120 hpf
+article_title: UHRF1 Overexpression Generates Distinct Senescent States with Different
+  Tp53 Dependencies
+citation: Elena Magnani, et al. bioRxiv. 2025 Nov 30;NA(NA).
+year: '2025'
+pub_date: '2025-11-30'
+epub_date: '2025-11-30'
+doi: 10.1101/2025.11.26.690503
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Senescence
+- DNA methylation
+- tp53
+- zebrafish
+- preneoplastic
+- liver cancer
+---

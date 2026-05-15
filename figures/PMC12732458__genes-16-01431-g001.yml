@@ -1,0 +1,40 @@
+---
+figid: PMC12732458__genes-16-01431-g001
+pmcid: PMC12732458
+image_filename: jpg
+figure_link: /pmc/articles/PMC12732458/figure/F1/
+number: Figure 1
+figure_title: Workflow of the current study.
+caption: Workflow of the current study. Individuals of European ancestry were genetically
+  identified from the UK Biobank. Following imputation using a European reference
+  panel and quality control, gender- and age-matched cases and controls were defined
+  based on ICD-10 codes for both association analysis and polygenic risk score (PRS)
+  evaluation. Common variants and selected high-impact rare variants were analyzed
+  using genome-wide association study and variant collapsing analysis, respectively.
+  Subsequently, lead SNPs and tag genes associated with ulcerative colitis (UC) were
+  identified through gene function proximity analysis. The most significantly associated
+  pathway was then determined using Ingenuity Pathway Analysis (IPA, version 01-23-01)
+  on the resulting gene set. To develop a discriminative PRS, we applied multiple
+  filtering conditions to SNPs from a large-scale UC genome-wide association study
+  (GWAS), conducted by the International Inflammatory Bowel Disease Genetics Consortium
+  (IIBDGC). The PRS was then evaluated in our UC cohort. Using the Mount Sinai BioMe
+  Biobank, we further utilized significant variants and PRS results from our UC cohort
+  to conduct variant-based and PRS-based phenome-wide association studies (PheWASs),
+  aiming to identify potential comorbidities of UC. Finally, we assessed genetic correlations
+  between UC and co-occurring conditions with UC identified from PheWASs
+article_title: Unveiling Novel Traits Associated with Ulcerative Colitis via Phenome-Wide
+  Associations Enhanced by Polygenic Risk Statistics
+citation: Yiming Wu, et al. Genes (Basel). 2025 Dec;16(12).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-30'
+doi: 10.3390/genes16121431
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- ulcerative colitis
+- association analysis
+- risk prediction
+- PRS-PheWAS
+---

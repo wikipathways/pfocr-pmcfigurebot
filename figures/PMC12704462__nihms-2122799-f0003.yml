@@ -1,0 +1,31 @@
+---
+figid: PMC12704462__nihms-2122799-f0003
+pmcid: PMC12704462
+image_filename: jpg
+figure_link: /pmc/articles/PMC12704462/figure/F3/
+number: Figure 3.
+figure_title: Hierarchical gene clustering analysis suggested VEGF-induced pathway
+  changes in male and female mice.
+caption: Hierarchical gene clustering analysis suggested VEGF-induced pathway changes
+  in male and female mice. (A) RNA-seq analysis pipeline. (B) Heatmap of Log2 fold
+  change (VEGF vs saline) showing distinct expression pattern of nociceptive genes,
+  immune genes, ECM-related genes, and genes related to cell survival and growth.
+  (C) The numbers of male and female VEGF-induced enriched pathways identified by
+  gene set enrichment analysis (GSEA) in lumbosacral DRG. (D) A list of VEGF-induced
+  enriched signaling pathways in male and female DRG. Grey color boxes represent no
+  significance. Glial function related signaling pathways and lipid metabolism related
+  signaling pathways are enriched in male DRG from VEGF-instilled mice, whereas signaling
+  pathways related to immune system and ECM functions are enriched in VEGF-instilled
+  female mice DRG (P≤0.02, enrichment score >4.0)
+article_title: Transcriptome Profiling Suggests Molecular Sexual Dimorphism in Lumbosacral
+  Dorsal Root Ganglia and Sex-specific Mechanisms Underlying Visceral Pain
+citation: Sathish Kumar Yesupatham, et al. Physiol Genomics. 2026 Jan 01;58(1).
+year: '2026'
+pub_date: 2026-1-01
+epub_date: '2025-11-12'
+doi: 10.1152/physiolgenomics.00066.2025
+journal_title: Physiological genomics
+journal_nlm_ta: Physiol Genomics
+publisher_name: .na.character
+keywords: []
+---

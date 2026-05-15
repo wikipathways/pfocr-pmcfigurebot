@@ -1,0 +1,59 @@
+---
+figid: PMC12687810__nihpp-rs7924457v1-f0004
+pmcid: PMC12687810
+image_filename: jpg
+figure_link: /pmc/articles/PMC12687810/figure/F4/
+number: Figure 4
+figure_title: Effects in vivo of LPG(16:0) and LPG(18:0) administration after antibiotic
+  treatment
+caption: 'Control NOD mice were compared with those that received an early-life antibiotic
+  course (1P) and then one of the specified phospholipids or not (n=5 mice/group;
+  See Methods for details). A) Cecal microbiome a-diversity (Shannon index and Pielou
+  Evenness) showing the1P significant decrease compared to Control, while administration
+  of LPG(16:0) or LPG(18:0) trend to restore a-diversity. B) RT-qPCR-based mouse ileal
+  expression of T1D early markers (REG3g, NOS2). Mean (± SD) log10 relative expression
+  values shown. *p<0.05 compared with 1P group; Mann-Whitney Utest. C) Significantly
+  differentiated KEGG pathways based on RNAseq analysis comparing 1PAT treatment alone
+  or followed by administration of LPG(16:0) (Left) or LPG(18:0) (Right). indicates
+  the two pathways (phagosome and proteasome) downregulated by LPG(16:0) after 1PAT
+  that are closely linked to mitochondrial physiology and function. D) Volcano plots
+  of differential ileal genes in pairwise comparisons (n=5 mice/group): 1PAT vs Control
+  (Left); LPG(16:0) vs Control (Middle); and LPG(18:0) vs Control (Right). E) Venn
+  diagram of the differentially expressed genes (DEGs) in the Control ilea, compared
+  with the antibiotic-treatment (1PAT) alone (1PAT; n=307) or antibiotic treatment
+  followed by administration of LPG(16:0) (n=36), or LPG(18:0) (n=49). Numbers indicate
+  total DEGs for each comparison, with arrows indicating upregulated (T) and downregulated
+  (|) genes, respectively. The relatively small number of DEGs in the LPG(16:0) and
+  LPG(18:0) groups indicates that both treatments partially restored gene expression
+  toward baseline (Control) levels. F) Unsupervised hierarchical clustering of the
+  270 genes in which 1P was significantly differentiated from Control and restored
+  by LPG(16:0) and LPG(18:0) (Region I in Panel E). G) KEGG pathway enrichment analysis
+  of the 270 Region I genes, identifying pathways disrupted by 1P and restored toward
+  control expression by both LPG(16:0) and LPG(18:0). H) Expression of representative
+  genes modulated by treatment. Trim40, Sprr2a1, and Socs1 were significantly up-regulated
+  by antibiotic (1P) but returned to baseline with either lipid, whereas uncharacterized
+  transcript A930038B10Rik was down-regulated by 1P with partial restoration by both
+  LPG(16:0) and LPG(18:0). Data represent Mean ± SD; significance determined by Mann-Whitney
+  U-test. *p<0.05, **p<0.01. I) Experimental design for spectral flow cytometry analysis
+  of spleen and mesenteric lymph node (MLN) immune cells from C57BL/6N mice exposed
+  to 1PAT and subsequent lipid administration. Male C57BL/6N mice received an antibiotic
+  treatment course(1PAT) from postnatal day 28 to 33, followed by a 7-day administration
+  of PBS (Control = 1P alone), LPG(16:0), or LPG(18:0), and spleens collected for
+  flow cytometry. J) Representative flow cytometry gating strategy (Left) used to
+  identify FoxP3− effector T cells from total splenocytes across the four treatment
+  groups, and quantitation (right) of FoxP− effector cell percentages among total
+  lymphocytes. Data presented as mean ± SEM. Statistical analysis was performed using
+  one–way ANOVA followed by pairwise t-tests with Benjamini-Hochberg (BH) correction.
+  p < 0.05; p < 0.01'
+article_title: Gut microbiota phospholipids regulate intestinal gene expression and
+  can counteract the effects of antibiotic treatment
+citation: Martin Blaser, et al. Res Sq. 2025 Dec 02;NA(NA).
+year: '2025'
+pub_date: '2025-12-02'
+epub_date: '2025-12-02'
+doi: 10.21203/rs.3.rs-7924457/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords: []
+---

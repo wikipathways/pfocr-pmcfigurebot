@@ -1,0 +1,37 @@
+---
+figid: PMC12694598__nihpp-2025.11.26.690743v1-f0003
+pmcid: PMC12694598
+image_filename: jpg
+figure_link: /pmc/articles/PMC12694598/figure/F3/
+number: 'Figure 3:'
+figure_title: Pathway analysis - Pathway enrichment analysis of differentially expressed
+  proteins between normal and abnormal endothelial function groups with unadjusted
+  p value < 0.
+caption: Pathway analysis - Pathway enrichment analysis of differentially expressed
+  proteins between normal and abnormal endothelial function groups with unadjusted
+  p value < 0.005. The bar plot shows significantly enriched pathways according to
+  KEGG, Gene Ontology (GO) Molecular Function, Reactome, and Jensen Diseases Curated
+  databases. The x-axis represents the −log10 (adjusted p value) for each pathway,
+  with a higher value indicating stronger enrichment. Top pathways include drug metabolism
+  and xenobiotic metabolism (KEGG), glutathione transferase activity (GO), biological
+  oxidations (Reactome), and inherited or metabolic diseases (Jensen Diseases). The
+  black dashed line denotes the adjusted p-value threshold of 0.05 for statistical
+  significance
+article_title: Metabolic and Redox Pathway Dysregulation in HIV-Associated Coronary
+  Endothelial Dysfunction
+citation: Kshipra S. Keole, et al. bioRxiv. 2025 Dec 01;NA(NA).
+year: '2025'
+pub_date: '2025-12-01'
+epub_date: '2025-12-01'
+doi: 10.1101/2025.11.26.690743
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- People with HIV
+- coronary endothelial function
+- oxidative stress
+- metabolic dysregulation
+- redox pathway dysregulation
+- SomaScan proteomics
+---

@@ -1,0 +1,51 @@
+---
+figid: PMC12807476__jci-136-193153-g070
+pmcid: PMC12807476
+image_filename: jpg
+figure_link: /pmc/articles/PMC12807476/figure/F1/
+number: Figure 1
+figure_title: ER signaling is associated with immunotherapy resistance and reduced
+  immunogenic pathways in patients
+caption: '(A) GSEA of ranked transcripts for HR+HER2– BC patients classified as Rs
+  (pCRs) versus NRs to the neoadjuvant anti–PD-L1/olaparib/Nab-paclitaxel arm of the
+  ISPY-2 clinical trial (12). Data were ranked according to the normalized enrichment
+  score (NES). Bubble size represents signature gene size, and the color scale depicts
+  the nominal P value. Analysis of ESR1 mRNA levels in R and NR patients. Box plot
+  represents the IQR with individual points. The adjusted P value was determined by
+  Benjamini-Hochberg correction. αPD-L1, anti–PD-L1. (B) Analysis of scRNA-Seq of
+  tumor cells from HR+ patients treated with anti–PD-1 (n = 15) from the BioKey clinical
+  trial (45). Violin plot shows the estrogen response early signature (hallmarks,
+  M5906), calculated using the Seurat function for patients before (Pre) and after
+  (On) 1 cycle of anti–PD-1 monotherapy. Uniform manifold approximation and projection
+  (UMAP) representation of time points (On and Pre) and overlapping signature expression
+  with the color scale expression score. The P value shown was determined by Wilcoxon’s
+  paired test for Pre versus On. (C) GSEA of ranked transcripts comparing ESR1hi versus
+  ESR1lo HR+HER2– BC patients from the METABRIC BC public dataset. Data were ranked
+  according to the NES. Bubble size represents the signature gene size, and the color
+  scale depicts the nominal P value. (D) GSEA of APM (KEGG code: M16004) comparing
+  ESR1hi versus ESR1lo patients ranked from ESR1 mRNA median expression of HR+HER2–
+  group in METABRIC and TCGA datasets. Distribution of ESR1 mRNA levels across patients
+  is shown as a z score. (E) GSEA of hallmark transcripts (estrogen response early,
+  estrogen response late, E2F targets, IFN-γ response, and inflammatory response)
+  and KEGG legacy (APM) comparing transcriptomes of patients before treatment versus
+  2 weeks after letrozole therapy from specified datasets (46–48). Bubble size represents
+  the nominal P value, and color depicts the NES. (F) Heatmap of the expression (z
+  score) of genes related to an estrogen response and MHC-I pathways for patients
+  before treatment and 2 weeks after letrozole therapy'
+article_title: Estrogen receptor signaling drives immune evasion and immunotherapy
+  resistance in HR+ breast cancer
+citation: José Ángel Palomeque, et al. J Clin Invest. 2025 Nov 25;136(2).
+year: '2025'
+pub_date: '2025-11-25'
+epub_date: '2025-11-25'
+doi: 10.1172/JCI193153
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Immunology
+- Oncology
+- Breast cancer
+- Cancer immunotherapy
+- Molecular biology
+---

@@ -1,0 +1,33 @@
+---
+figid: PMC12880573__nihpp-2025.11.26.690783v1-f0003
+pmcid: PMC12880573
+image_filename: jpg
+figure_link: /pmc/articles/PMC12880573/figure/F3/
+number: Figure 3.
+figure_title: Diet-induced alterations in pancreatic signaling pathways and systemic
+  cytokine profiles in AcinarKrasG12V mice
+caption: 'A) Volcano plot illustrating differential protein expression in AcinarKrasG12V
+  mice fed LFD, KD, or HFD relative to SD. Proteins were analyzed using the limma
+  package. Significant proteins are highlighted (LFD vs. SD: red; KD vs. SD: green;
+  HFD vs. SD: yellow), and non-significant proteins are shown in grey. The x-axis
+  represents log2 fold change, and the y-axis shows −log10(p) values. Dotted lines
+  indicate p=0.01 and |log2FC|=0.2 thresholds. KEGG pathway enrichment analysis of
+  upregulated proteins identified in the (B) LFD vs. SD, (C) KD vs. SD, and (D) HFD
+  vs. SD comparisons. Bubble plots display the top enriched pathways ranked by fold
+  enrichment (x-axis). Bubble size corresponds to the number of upregulated proteins
+  contributing to each pathway, and bubble color reflects pathway significance (p-value).
+  (E) Heatmap depicting serum cytokine and chemokine expression across WT and AcinarKrasG12V
+  mice fed SD or KD. Cytokines/chemokines are hierarchically clustered by expression
+  pattern. Red indicates higher abundance, while blue indicates lower abundance'
+article_title: Dietary Fat Content Influences PanIN Progression and Pancreatic Cancer
+  Development in Mice
+citation: Urvinder Kaur Sardarni, et al. bioRxiv. 2025 Dec 01;6(5).
+year: '2025'
+pub_date: '2025-12-01'
+epub_date: '2025-12-01'
+doi: 10.1101/2025.11.26.690783
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

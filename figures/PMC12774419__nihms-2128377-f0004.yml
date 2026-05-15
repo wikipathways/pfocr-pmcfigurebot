@@ -1,0 +1,35 @@
+---
+figid: PMC12774419__nihms-2128377-f0004
+pmcid: PMC12774419
+image_filename: jpg
+figure_link: /pmc/articles/PMC12774419/figure/F4/
+number: Fig. 4.
+figure_title: Placental weighted gene co-expression network analysis (WGCNA)(A.
+caption: Placental weighted gene co-expression network analysis (WGCNA)(A.) Co-expressed
+  gene modules associated (p < 0.05) with birthweight adjusted for placental weight
+  (BWadj), BW:PW, and phthalate metabolites. Effect estimates represent the change
+  in standardized eigengene expression for each standard deviation increase in birthweight
+  or BW:PW ratio, or 1 unit increase in natural log transformed phthalate concentration
+  (ng/mL). The size and color of the dot highlight the strength and direction of the
+  association. (B.) Over-representation analysis identified KEGG pathways enriched
+  within WGCNA modules. Pathways are organized into themes based on the KEGG pathway
+  maps BRITE hierarchy. Point size corresponds to −log10(p-value). Modules are colored
+  based on their name, which was assigned by the WGCNA package
+article_title: The placental transcriptome serves as a mechanistic link between prenatal
+  phthalate exposure and placental efficiency
+citation: Mariana Parenti, et al. Environ Int. 2025 Dec;206(NA).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-20'
+doi: 10.1016/j.envint.2025.109949
+journal_title: Environment international
+journal_nlm_ta: Environ Int
+publisher_name: .na.character
+keywords:
+- Placental efficiency
+- Phthalates
+- Birthweight
+- Transcriptome
+- Mediation
+- WGCNA
+---

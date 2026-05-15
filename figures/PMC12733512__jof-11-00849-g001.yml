@@ -1,0 +1,37 @@
+---
+figid: PMC12733512__jof-11-00849-g001
+pmcid: PMC12733512
+image_filename: jpg
+figure_link: /pmc/articles/PMC12733512/figure/F1/
+number: Figure 1
+figure_title: Genomic features of Coprinus comatus.
+caption: 'Genomic features of Coprinus comatus. Length distribution of coding sequences
+  (CDSs) predicted from the assembled genome. Only CDSs ≥ 90 bp were included; bars
+  indicate the number of genes in each length interval, while the line represents
+  their proportion relative to the total gene set. The majority of CDSs cluster in
+  the 1–2 kb range, consistent with an average length of ~1.55 kb (A). KEGG Level-3
+  distribution of KO assignments derived from the C. comatus genome. Bars indicate
+  the number of genes annotated to each pathway; prominent categories include ribosome,
+  spliceosome, and protein processing in endoplasmic reticulum, together with broad
+  metabolism (amino acids and carbohydrates) and transporter modules. Note that these
+  counts report annotation coverage rather than differential or enriched activity;
+  functional enrichment is assessed separately using stage-specific DEGs/DAMs (see
+  Results Section 3.3 and Section 3.5). Source data: KO mapping files produced during
+  genome annotation (B)'
+article_title: Integrated Transcriptomic and Metabolomic Profiling Reveals Monotonic
+  Molecular Signatures During Fruiting Body Development of Coprinus comatus
+citation: Zhu Liu, et al. J Fungi (Basel). 2025 Dec;11(12).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-29'
+doi: 10.3390/jof11120849
+journal_title: Journal of Fungi
+journal_nlm_ta: J Fungi (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- Coprinus comatus
+- fruiting-body development
+- transcriptomics
+- metabolomics
+- differential expression
+---

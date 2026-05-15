@@ -1,0 +1,41 @@
+---
+figid: PMC12790806__nihms-2122560-f0002
+pmcid: PMC12790806
+image_filename: jpg
+figure_link: /pmc/articles/PMC12790806/figure/F2/
+number: 'Figure 2:'
+figure_title: Differentially expressed proteins and their distribution over biological
+  processes, cellular compartments, molecular functions, and KEGG pathways in HAECs
+  versus HDMVECs
+caption: HAECs and HDMVECs were cultured, and protein lysates were subjected to proteomic
+  analysis. Both HAECs and HDMVECS were from 5 donors. A. Volcano plot shows the overview
+  of all the proteins identified, with non-significant proteins in gray and 126 proteins
+  that met our selection criteria highlighted either in red (high abundance in HDMVECs)
+  or in blue (low abundance in HDMVECs). The best targets are above the horizontal
+  lines (set at p <0.05) and the outside of vertical lines (fold change > 1.5 or <
+  0.67). The proteins with gene names were the candidates that we further studied.
+  B-D. Proteins were analyzed for their distribution in biological processes (B),
+  cellular compartments (C), and molecular functions (D) revealed by DAVID analysis.
+  These enriched categories are shown on the Y-axis. The smaller the p-value (listed
+  top right), the more likely a pathway is significantly enriched. The size of the
+  dots indicates protein numbers (listed top right). E. KEGG pathways of the most
+  upregulated vs downregulated proteins. F. Selected KEGG pathways closely associated
+  with wound healing and diabetes. Proteins highlighted in red are higher in HDMVECs
+  and proteins highlighted in blue were low in HDMVECs, compared with HAECs
+article_title: Proteomic and Functional Analysis on Endothelial Cell Heterogeneity
+  Identifies Key Regulators in Hyperglycemia-Induced Dysfunction
+citation: Morgan Minjares, et al. Am J Physiol Cell Physiol. 2025 Dec 01;329(6).
+year: '2025'
+pub_date: '2025-12-01'
+epub_date: '2025-11-11'
+doi: 10.1152/ajpcell.00273.2025
+journal_title: American journal of physiology. Cell physiology
+journal_nlm_ta: Am J Physiol Cell Physiol
+publisher_name: .na.character
+keywords:
+- Endothelial cells
+- hyperglycemia
+- migration
+- proteomics
+- permeability
+---

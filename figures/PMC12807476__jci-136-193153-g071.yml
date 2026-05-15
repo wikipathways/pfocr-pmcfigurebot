@@ -1,0 +1,53 @@
+---
+figid: PMC12807476__jci-136-193153-g071
+pmcid: PMC12807476
+image_filename: jpg
+figure_link: /pmc/articles/PMC12807476/figure/F2/
+number: Figure 2
+figure_title: Preclinical modeling of ER-driven, immune-evasive BC cold tumors
+caption: '(A) Heatmap of unsupervised hierarchical clustering analysis from RNA-Seq
+  of AT3 vector control (Ctrl) and AT3-ER overexpression (ER). n = 2 independent biological
+  replicates. The Z row score represents read counts. Volcano plot shows transcriptomics
+  analysis from AT3-ER versus AT3 control RNA-Seq. Estrogen target genes are highlighted.
+  (B) GSEA analysis of upregulated (red) and downregulated (blue) pathways (MSigDB
+  hallmarks 2020) comparing AT3-ER versus AT3 control transcriptomes. Pathways are
+  ranked by the NES. (C) CTL assay of AT3-OVA control and ER-OE cells treated with
+  INF-γ (1 μg/mL) at different ratios of tumor (T) and effector (E) T cells isolated
+  from OT-I mice. (D) Flow cytometric analysis of cytotoxic (GZMB+ and IFN-γ+) and
+  activation (CD69+ and PD-1+) markers from CD8+OT-1+ T cells after coculturing with
+  AT3-OVA control or ER-OE cells. n = 5 independent biological replicates. (E) Growth
+  curves of AT3 and AT3-ER tumors in C57BL/6 mice. Once tumors reached 0.5 × 0.5 cm2
+  in size, mice were treated twice a week with vehicle or 7.5 mg/kg anti–PD-L1. n
+  = 12 tumors per condition. (F) Flow cytometric analysis of cytotoxic (IFN-γ+GZMB+)
+  or exhausted (PD-1+TIM3+) infiltrating CD8+ T cells from AT3 control or ER-OE tumors.
+  n = 4 independent biological replicates. (G) Survival curves for AT3 control tumor–
+  and ER tumor–bearing mice treated with vehicle or 7.5 mg/kg anti–PD-L1. (H) Representative
+  images of ERα staining of mixed AT3-OVA control plus AT3-OVA-ER–OE cells. Scale
+  bars: 50 μm. Box plot shows quantification of the ER+ percentage across different
+  conditions of tumor/effector ratios and represents the IQR with individual points.
+  (I) IHC images of ERα+ MCF-7 tumors from NSG mice transfused with human PBMCs (IH)
+  or PBS (ID). Scale bars: 100 μM. Quantification graph showing the percentage of
+  ERα positivity in the images. n = 5 biological replicates. RT-qPCR analysis of MCF-7
+  parental cells and MCF-7 tumors in ID and IH settings. n = 6 mice. Box plots represent
+  the IQR with individual points. The P value from statistical analysis of ID versus
+  IH is shown. Data represent the mean ± SEM (C–F). *P < 0.05, **P < 0.01, and ***P
+  < 0.001, by 2-way ANOVA (C, D, and F), 1-way ANOVA (H and I), mixed-design ANOVA
+  (E), and log-rank (Mantel-Cox) test (G). In D and F, cells were gated as shown in
+  Supplemental Figure 8C. Veh, vehicle'
+article_title: Estrogen receptor signaling drives immune evasion and immunotherapy
+  resistance in HR+ breast cancer
+citation: José Ángel Palomeque, et al. J Clin Invest. 2025 Nov 25;136(2).
+year: '2025'
+pub_date: '2025-11-25'
+epub_date: '2025-11-25'
+doi: 10.1172/JCI193153
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Immunology
+- Oncology
+- Breast cancer
+- Cancer immunotherapy
+- Molecular biology
+---

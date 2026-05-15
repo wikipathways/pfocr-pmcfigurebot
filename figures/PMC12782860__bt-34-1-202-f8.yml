@@ -1,0 +1,40 @@
+---
+figid: PMC12782860__bt-34-1-202-f8
+pmcid: PMC12782860
+image_filename: jpg
+figure_link: /pmc/articles/PMC12782860/figure/F8/
+number: Fig. 8
+figure_title: Network pharmacology and in silico prediction of chrysoeriol targets
+  associated with platelet activation.
+caption: Network pharmacology and in silico prediction of chrysoeriol targets associated
+  with platelet activation. (A) Venn diagram showing the overlap between predicted
+  chrysoeriol targets (22 proteins) and platelet activation-related genes (5218 genes
+  from GeneCards), revealing 17 common targets. (B) Protein–protein interaction (PPI)
+  network of the 17 overlapping genes constructed using the STRING database. Key hub
+  proteins such as AKT1, PIK3R1, EGFR, SRC, and PTK2 are highlighted due to their
+  central roles in platelet signaling. (C) Compound–target–pathway network generated
+  using Cytoscape, illustrating the connections between chrysoeriol overlapping protein
+  targets, and enriched KEGG pathways. Major pathways include platelet activation,
+  PI3K-Akt signaling, MAPK signaling, arachidonic acid metabolism, and focal adhesion.
+  (D) BOILED-Egg model from SwissADME, predicting chrysoeriol’s passive gastrointestinal
+  absorption and lack of blood–brain barrier permeability based on WLOGP and topological
+  polar surface area (tPSA). (E) Bioavailability radar plot showing chrysoeriol’s
+  physicochemical properties within the optimal range for drug-likeness across six
+  key descriptors (lipophilicity, size, polarity, solubility, saturation, and flexibility)
+article_title: Chrysoeriol Exerts Antiplatelet Effects by Regulating cAMP/cGMP and
+  PI3K/MAPK Pathway
+citation: Ga Hee Lee, et al. Biomol Ther (Seoul). 2026 Jan 1;34(1).
+year: '2026'
+pub_date: 2026-1-1
+epub_date: 2025-12-2
+doi: 10.4062/biomolther.2025.090
+journal_title: Biomolecules & Therapeutics
+journal_nlm_ta: Biomol Ther (Seoul)
+publisher_name: Korean Society of Applied Pharmacology
+keywords:
+- Chrysoeriol
+- Platelet
+- Cyclic nucleotides
+- Granule secretion
+- MAPK
+---

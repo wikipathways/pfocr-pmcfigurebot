@@ -1,0 +1,32 @@
+---
+figid: PMC12692531__ijms-26-11240-g002
+pmcid: PMC12692531
+image_filename: jpg
+figure_link: /pmc/articles/PMC12692531/figure/F2/
+number: Figure 2
+figure_title: Functional enrichment of carp-zebrafish orthologs (g:Profiler).
+caption: 'Functional enrichment of carp-zebrafish orthologs (g:Profiler). Bar plot
+  summarizing term enrichment for 614 C. carpio L. genes mapped to D. rerio orthologs.
+  The x-axis shows −log10(q), where q is the adjusted p-value; the vertical dashed
+  line marks the significance threshold (q = 0.05). Bars represent the top enriched
+  terms across annotation namespaces: GO:BP (green)-gene ontology, biological process;
+  GO:CC (orange)-cellular component; GO:MF (purple)-molecular function; pathways (olive)-curated
+  pathway resources (Reactome, KEGG); TF (magenta)-transcription factor motifs; miRNA
+  (brown)-microRNA families'
+article_title: 'Transcriptional Profiling of Common Carp: A Microarray-Based Framework
+  for Aquaculture Research'
+citation: Aneta Pluta, et al. Int J Mol Sci. 2025 Dec;26(23).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-21'
+doi: 10.3390/ijms262311240
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- common carp (C. carpio L.)
+- custom microarray
+- head kidney (pronephros)
+- gene expression profiling
+- aquaculture genomics
+---

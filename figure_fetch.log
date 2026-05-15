@@ -1358,3 +1358,81 @@
 
 2026-05-15 04:14:54 - ==========================================================
 
+2026-05-15 14:55:57 - Starting NCBI PMC Figure Fetcher
+
+2026-05-15 14:55:57 - Configuration loaded from query_config.yml
+
+2026-05-15 14:55:58 - PMC search query: (((((((((((signaling pathway[Figure/Table Caption]) OR signalling pathway[Figure/Table Caption]) OR regulatory pathway[Figure/Table Caption]) OR disease pathway[Figure/Table Caption]) OR drug pathway[Figure/Table Caption]) OR metabolic pathway[Figure/Table Caption]) OR biosynthetic pathway[Figure/Table Caption]) OR synthesis pathway[Figure/Table Caption]) OR cancer pathway[Figure/Table Caption]) OR response pathway[Figure/Table Caption]) OR cycle pathway[Figure/Table Caption])) AND (2025/11/03[PUBDATE] : 2025/12/03[PUBDATE])
+
+2026-05-15 14:56:40 - PMC search completed. Fetched 3000 results (max set to 3000).
+
+2026-05-15 14:57:17 - Extracted 4106 figures from XML content.
+
+2026-05-15 14:57:17 - Identified 1102 pathway figures.
+
+2026-05-15 14:57:17 - Skipped 14 figures previously processed.
+
+2026-05-15 14:57:17 - Processed 1088 pathway figures for download.
+
+2026-05-15 14:57:24 - Failed to download image for PMC13175048__ab-250560f5 after 3 attempts.
+
+2026-05-15 14:57:31 - Failed to download image for PMC13175048__ab-250560f7 after 3 attempts.
+
+2026-05-15 14:57:38 - Failed to download image for PMC13152683__nihms-2166677-f0003 after 3 attempts.
+
+2026-05-15 14:57:45 - Failed to download image for PMC12712850__nihms-2115595-f0001 after 3 attempts.
+
+2026-05-15 14:57:52 - Failed to download image for PMC13127300__nihms-2164659-f0003 after 3 attempts.
+
+2026-05-15 14:57:59 - Failed to download image for PMC13127300__nihms-2164659-f0005 after 3 attempts.
+
+2026-05-15 14:58:05 - Failed to download image for PMC13134761__pharmaceuticals-18-01820-g004 after 3 attempts.
+
+2026-05-15 14:58:12 - Failed to download image for PMC13122166__cpn-24-2-333-f1 after 3 attempts.
+
+2026-05-15 14:58:19 - Failed to download image for PMC13122166__cpn-24-2-333-f2 after 3 attempts.
+
+2026-05-15 14:58:26 - Failed to download image for PMC12327362__nihms-2094245-f0005 after 3 attempts.
+
+2026-05-15 14:58:33 - Failed to download image for PMC12327362__nihms-2094245-f0006 after 3 attempts.
+
+2026-05-15 14:58:40 - Failed to download image for PMC12616627__nihms-2118162-f0006 after 3 attempts.
+
+2026-05-15 14:58:48 - Failed to download image for PMC13150750__nihms-2152746-f0002 after 3 attempts.
+
+2026-05-15 14:58:55 - Failed to download image for PMC13150750__nihms-2152746-f0003 after 3 attempts.
+
+2026-05-15 14:59:02 - Failed to download image for PMC13150750__nihms-2152746-f0004 after 3 attempts.
+
+2026-05-15 14:59:09 - Failed to download image for PMC7618423__EMS209324-f001 after 3 attempts.
+
+2026-05-15 14:59:16 - Failed to download image for PMC13162521__nihms-2165848-f0001 after 3 attempts.
+
+2026-05-15 14:59:22 - Failed to download image for PMC12874352__nihms-2130724-f0001 after 3 attempts.
+
+2026-05-15 14:59:29 - Failed to download image for PMC13175069__ab-250112f2 after 3 attempts.
+
+2026-05-15 14:59:36 - Failed to download image for PMC13175069__ab-250112f4 after 3 attempts.
+
+2026-05-15 14:59:44 - Failed to download image for PMC13175069__ab-250112f5 after 3 attempts.
+
+2026-05-15 14:59:51 - Failed to download image for PMC13120776__nihms-2150011-f0003 after 3 attempts.
+
+2026-05-15 14:59:57 - Failed to download image for PMC13120776__nihms-2150011-f0004 after 3 attempts.
+
+2026-05-15 15:00:22 - Failed to download image for PMC13108688__nihms-2165760-f0003 after 3 attempts.
+
+2026-05-15 15:00:33 - Failed to download image for PMC13110559__nihms-2162050-f0007 after 3 attempts.
+
+2026-05-15 15:00:39 - Failed to download image for PMC13110559__nihms-2162050-f0008 after 3 attempts.
+
+2026-05-15 15:01:34 - Failed to download image for PMC12916253__NA after 3 attempts.
+
+2026-05-15 15:01:41 - Failed to download image for PMC12916253__NA after 3 attempts.
+
+2026-05-15 15:14:26 - New pathway figures downloaded: 1060
+
+2026-05-15 15:14:26 - NCBI PMC Figure Fetcher completed
+
+2026-05-15 15:14:26 - ==========================================================
+

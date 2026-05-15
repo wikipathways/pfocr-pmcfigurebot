@@ -1,0 +1,47 @@
+---
+figid: PMC12730708__biomedicines-13-02888-g004
+pmcid: PMC12730708
+image_filename: jpg
+figure_link: /pmc/articles/PMC12730708/figure/F4/
+number: Figure 4
+figure_title: Dasatinib exhibits high sensitivity in basal B breast cancer with high
+  ETS1 activity.
+caption: 'Dasatinib exhibits high sensitivity in basal B breast cancer with high ETS1
+  activity. (A) Cell viability of 10 in-house human breast cancer cell lines treated
+  with dasatinib. Breast cancer cell lines include luminal (BT474, T47D, MCF7), basal
+  A (MDA-MB-468, BT-20, HCC1937) and basal B (MDA-MB-231, Hs578T, SUM149PT). Data:
+  mean ± SD. Significance: one-way ANOVA. ns, not significant, * p < 0.05, ** p <
+  0.01. (B) IC50 value across 36 human breast cancer cell lines from the GDSC2 database
+  treated with dasatinib. Each dot represents the IC50 value for one cell line. Abbreviation:
+  LA, luminal A; LB, luminal B; H, HER2-enriched; BaA, basal A; BaB, basal B. Data:
+  mean ± SD. Significance: one-way ANOVA. * p < 0.05, ** p < 0.01, *** p < 0.001,
+  **** p < 0.0001. (C) IC50 value across 36 cell lines from the GDSC2 database treated
+  with bosutinib, cisplatin, paclitaxel, and docetaxel. A heatmap represents the cell
+  viability of the Z-score of IC50 in different cell lines. (D) Principal Component
+  Analysis (PCA) of breast cancer cell lines based on RNA-seq data from the DepMap
+  database, distinguishing two groups of dasatinib-sensitive (IC50 < 2.85 µM) and
+  non-sensitive (IC50 > 50 µM) cell lines. (E) Volcano plot showing differentially
+  expressed genes (DEGs) involved in enriched pathways between dasatinib-sensitive
+  versus non-sensitive cell lines. Downregulated genes (blue; n = 520) and upregulated
+  genes (red; n = 699) were identified using a fold change > 1.5, p-value < 0.05.
+  (F) Heatmap of DEGs associated with enriched pathways in different cell lines. (G)
+  Schematic summary of dasatinib sensitivity. Red arrow indicates the higher expression
+  of ETS1 in dasatinib sensitive cells when comared to the non-sensitive ones'
+article_title: Dasatinib Inhibits Basal B Breast Cancer Through ETS1-Mediated Extracellular
+  Matrix Remodeling
+citation: Xinyu Guo, et al. Biomedicines. 2025 Dec;13(12).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-26'
+doi: 10.3390/biomedicines13122888
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- triple-negative breast cancer (TNBC)
+- metastasis
+- dasatinib
+- extracellular matrix
+- ETS proto-oncogene 1 (ETS1)
+- matrix metalloproteinase-3 (MMP3)
+---

@@ -1,0 +1,37 @@
+---
+figid: PMC12729918__biology-14-01699-g004
+pmcid: PMC12729918
+image_filename: jpg
+figure_link: /pmc/articles/PMC12729918/figure/F4/
+number: Figure 4
+figure_title: STRING protein–protein interaction (PPI) networks of candidate genes
+  associated with carcass weight in Jeju Black-based cattle.
+caption: STRING protein–protein interaction (PPI) networks of candidate genes associated
+  with carcass weight in Jeju Black-based cattle. (a) High-confidence PPI network
+  (interaction score ≥0.7) of genes from the Rap1 signaling pathway, showing a compact
+  cluster of seven nodes (PIK3CB, EFNA5, FLT1, INSR, FGFR2, CDC42, MAGI1). PIK3CB
+  acted as the central hub linking receptor tyrosine kinases and downstream regulators.
+  (b) Broader PPI network (interaction score ≥0.4) including all positional candidate
+  genes from enriched KEGG pathways. The network revealed distinct modules, including
+  a signaling cluster (FGFR2, CDC42, PIK3CB, EFNA5, FLT1), an extracellular matrix
+  cluster (RELN, LAMC1, LAMB1, ITGA8, ITGB7, TNC), and a metabolic cluster (ALDH2,
+  ACAT2, MECR, ACSL1, DGKG, GPAM). The colors in the network represent different biological
+  modules, with each module assigned a distinct color for visual clarity
+article_title: A Multi-Breed GWAS for Carcass Weight in Jeju Black Cattle and Hanwoo
+  × Jeju Black Crossbreds
+citation: Miyoung Won, et al. Biology (Basel). 2025 Dec;14(12).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-28'
+doi: 10.3390/biology14121699
+journal_title: Biology
+journal_nlm_ta: Biology (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- carcass weight
+- Jeju Black cattle
+- Hanwoo × Jeju Black crossbreds
+- genome-wide association study
+- candidate genes
+- KEGG pathways
+---

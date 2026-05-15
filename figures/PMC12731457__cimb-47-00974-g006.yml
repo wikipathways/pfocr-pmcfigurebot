@@ -1,0 +1,39 @@
+---
+figid: PMC12731457__cimb-47-00974-g006
+pmcid: PMC12731457
+image_filename: jpg
+figure_link: /pmc/articles/PMC12731457/figure/F6/
+number: Figure 6
+figure_title: USP30-AS1 regulates WNT signaling via sponging miR-3646.
+caption: USP30-AS1 regulates WNT signaling via sponging miR-3646. (A) Gene Set Enrichment
+  Analysis (GSEA) of RNA-seq data from USP30-AS1-knockdown versus control cells. The
+  “MicroRNAs in Cancer” pathway was identified as the most significantly enriched
+  gene set. (B) Venn diagram analysis of predicted miRNAs targeting USP30-AS1, TCF4,
+  and FZD7 (based on miRDB predictions with score > 60). miR-3646 was identified as
+  the common miRNA targeting all four genes. (C) qPCR analysis of USP30-AS1 expression
+  in MDA-MB-231 and MCF-7 cells after transfection with miR-3646 mimics. (D) qPCR
+  detection of TCF4 and FZD7 mRNA expression in MDA-MB-231 cells transfected with
+  negative control (NC), miR-3646 mimics, or miR-3646 inhibitor. (E) Western blot
+  analysis of TCF4 and FZD7 protein levels in cells transfected with miR-3646 mimics
+  or inhibitor. (F) qPCR and (G) Western blotting analyses of TCF4 and FZD7 expression
+  in MDA-MB-231 cells transfected with vector, USP30-AS1 overexpression plasmid, or
+  USP30-AS1 plasmid together with miR-3646 inhibitor.* p < 0.05, ** p < 0.01, ***
+  p < 0.001, and **** p < 0.0001 versus miR-NC or Vector
+article_title: USP30-AS1 Dictates Breast Cancer Cell Fate and Chemoresistance via
+  a miR-3646/FZD7/Wnt/β-Catenin Circuit
+citation: Qian He, et al. Curr Issues Mol Biol. 2025 Dec;47(12).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-24'
+doi: 10.3390/cimb47120974
+journal_title: Current Issues in Molecular Biology
+journal_nlm_ta: Curr Issues Mol Biol
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- long non-coding RNA
+- breast cancer
+- stem cells
+- chemoresistance
+- MicroRNA
+- WNT pathway
+---

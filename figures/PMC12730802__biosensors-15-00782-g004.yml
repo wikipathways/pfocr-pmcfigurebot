@@ -1,0 +1,48 @@
+---
+figid: PMC12730802__biosensors-15-00782-g004
+pmcid: PMC12730802
+image_filename: jpg
+figure_link: /pmc/articles/PMC12730802/figure/F4/
+number: Figure 4
+figure_title: Transcriptomic profiling of RA progression and therapeutic intervention.
+caption: 'Transcriptomic profiling of RA progression and therapeutic intervention.
+  (a) Density distribution of FPKM values across all samples, illustrating global
+  expression patterns of protein−coing genes. The area under each curve equals 1,
+  representing the normalized probability distribution of gene abundance. (b) Boxplots
+  of log2(FPKM) values across groups, indicating gene expression distribution and
+  sample comparability. (c) Sample correlation heatmap showing pairwise expression
+  similarities; higher correlation coefficients denote stronger expression concordance.
+  (d) Principal component analysis (PCA) reveals intra−group reproducibility and inter−group
+  transcriptomic divergence. (e–h) Volcano plots illustrating DEGs between each experimental
+  group and the healthy control: (e) RA Day 18 vs. Control, (f) RA Day 28 vs. Control,
+  (g) Tofacitinib vs. Control, and (h) NAC vs. Control. Significantly upregulated
+  and downregulated genes are marked in red and blue, respectively. (i–l) Heatmaps
+  of DEGs in each comparison group, reflecting transcriptomic alterations under RA
+  pathology and therapeutic intervention: (i) RA Day 18, (j) RA Day 28, (k) Tofacitinib
+  treatment, and (l) NAC treatment. Transcriptome sequencing combined with bioinformatics
+  analysis enabled a comprehensive delineation of gene expression patterns associated
+  with RA pathogenesis. In addition to characterizing disease-related transcriptional
+  changes, these data provided mechanistic insights into the molecular effects of
+  Tofacitinib and NAC delivered via microneedlemediated systems. By examining treatment-induced
+  transcriptomic shifts, the study further evaluated how these interventions modulate
+  RA−associated signaling pathways, particularly those involved in inflammatory suppression,
+  immune regulation, and bone remodeling. Collectively, the findings offer new theoretical
+  foundations for precision medicine approaches to RA and support the broader application
+  of microneedle-based drug delivery in chronic inflammatory disease management'
+article_title: Transcriptomic Evaluation of Hollow Microneedles-Mediated Drug Delivery
+  for Rheumatoid Arthritis Therapy
+citation: Zhibo Liu, et al. Biosensors (Basel). 2025 Dec;15(12).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-27'
+doi: 10.3390/bios15120782
+journal_title: Biosensors
+journal_nlm_ta: Biosensors (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- hollow microneedle
+- drug delivery
+- rheumatoid arthritis
+- transcriptomic
+- targeted therapy
+---

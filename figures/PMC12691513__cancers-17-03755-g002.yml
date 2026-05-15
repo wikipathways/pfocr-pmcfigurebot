@@ -1,0 +1,82 @@
+---
+figid: PMC12691513__cancers-17-03755-g002
+pmcid: PMC12691513
+image_filename: jpg
+figure_link: /pmc/articles/PMC12691513/figure/F2/
+number: Figure 2
+figure_title: 'Mechanistic landscape of AR modulation: direct and indirect therapeutic
+  strategies targeting AR signalling.'
+caption: 'Mechanistic landscape of AR modulation: direct and indirect therapeutic
+  strategies targeting AR signalling. The structure of the AR consists of three primary
+  domains: the N-terminal domain (NTD), the DNA-binding domain (DBD), and the ligand-binding
+  domain (LBD), accompanied by a small hinge region situated between the DBD and LBD
+  (not depicted in the figure). In its inactive state, the AR resides in the cytoplasm,
+  where it is bound to chaperone proteins, primarily heat shock proteins (HSPs) 70
+  and 40 [10]. Choline kinase alpha (CHKA) acts as a protein chaperone for the AR,
+  thus stabilising it and preventing its degradation [62]. Upon ligand binding, such
+  as dihydrotestosterone (DHT) (which is synthesised from testosterone) to the ligand-binding
+  pocket of the LBD, the AR undergoes a conformational change. This change causes
+  the dissociation of HSPs and facilitates the formation of an interdomain interaction
+  between the NTD and the LBD, referred to as the N/C interdomain interaction. This
+  interaction exposes the nuclear localisation signal, enabling the AR to translocate
+  into the nucleus. Within the nucleus the AR dimerises and binds to androgen response
+  elements (AREs) within canonical AR target genes (TGs), such as KLK3 and TMPRSS2
+  in order to regulate transcription. Subsequently, the N/C interdomain interaction
+  is disrupted, allowing the AR to initiate transcription through interactions with
+  coactivators [10, 11, 12]. Niclosamide exhibits anticancer potential through inhibition
+  of the mTORC1, STAT3 and Wnt/β-catenin pathways. It may also act as a mitochondrial
+  uncoupler and has been shown to suppress the FOXM1-mediated DNA damage response,
+  indirectly increasing DNA damage and promoting apoptosis [57]. RIPTACs form a ternary
+  complex with the AR and an effector protein (EP), thereby inhibiting the function
+  of the EP, which is selective for cancer cells, ultimately leading to cell death
+  [43, 44]. Asc-J9 interrupts the interaction between the AR and two of its coregulators,
+  which results in an increase in inactive AR, which is then vulnerable to binding
+  with the E3 ubiquitin ligase MDM2, leading to proteasomal degradation. Additionally,
+  Asc-J9 inhibits the glutamate–cysteine ligase catalytic subunit (GCLC), reducing
+  glutathione activity and increasing ROS levels. Elevated ROS upregulates activating
+  transcription factor 3 (ATF3), which represses PTK2 transcription, inhibiting cell
+  proliferation and invasion [47, 48, 63]. PROTACs facilitate the formation of a ternary
+  complex upon simultaneous engagement of both the AR and the E3 ligase that brings
+  the two proteins into close proximity, thereby activating the ubiquitin–proteasome
+  degradation pathway. This results in polyubiquitination of the AR and subsequent
+  degradation by the 26S proteasome. TAS3681 binds to the LBD of the AR, inhibiting
+  androgens from binding and activating AR [35]. CC-94676 functions by degrading the
+  AR but also antagonising the AR by competitively binding to the LBD [39]. EPI compounds
+  bind to Tau-5, thereby preventing interactions between the AF-1 region and CREB-binding
+  protein (CBP), which acts as a co-activator, consequently inhibiting AR-mediated
+  transcriptional activity [20]. QWO7 inhibits AR by binding to the NTD, thereby inhibiting
+  AR transactivation and prevents interactions between the AR and CBP, thereby impairing
+  AR binding to AREs [26]. VPC compounds bind to the P-box of the DBD and prevent
+  the AR from interacting with chromatin, thereby reducing AR transcriptional activity
+  [29]. Pyrvinium pamoate functions as a non-competitive AR inhibitor by binding the
+  DBD at the interface of the DBD dimer and the ARE minor groove. This prevents transcription
+  by blocking RNA polymerase II binding at the transcription start sites [31]. ZEN-3694
+  binds to the acetyl-lysine recognition sites within bromodomains, such as BRD4,
+  thereby competitively inhibiting their interaction with acetylated histones. This
+  inhibition disrupts BET-mediated chromatin remodelling and consequently suppresses
+  AR transcriptional activity [64]. Hairpin pyrrole–imidazole polyamides bind the
+  minor groove of DNA, inducing conformational changes that affect protein–DNA interactions
+  and modulates transcription. The illustrations shown in this figure are not to scale.
+  The red arrows and inhibitors represent mode of action, whereas the black arrows
+  and inhibitors represent the downstream effects'
+article_title: Emerging Therapeutic Approaches to Engage the Androgen Receptor for
+  the Treatment of Castration-Resistant Prostate Cancer
+citation: Isla Henry, et al. Cancers (Basel). 2025 Dec;17(23).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-25'
+doi: 10.3390/cancers17233755
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- prostate cancer (PCa)
+- castration-resistant prostate cancer (CRPC)
+- metastatic castration-resistant prostate cancer (mCRPC)
+- androgen receptor (AR)
+- N-terminal domain (NTD)
+- DNA-binding domain (DBD)
+- ligand-binding domain (LBD)
+- full-length androgen receptor (AR-FL)
+- androgen receptor splice variants (AR-Vs)
+---

@@ -1,0 +1,44 @@
+---
+figid: PMC12734328__jof-11-00839-g006
+pmcid: PMC12734328
+image_filename: jpg
+figure_link: /pmc/articles/PMC12734328/figure/F6/
+number: Figure 6
+figure_title: Gene ontology functional classification and enriched KEGG pathways of
+  DEGs in WT and ∆BbHog1 strains under osmotic stress treatment.
+caption: Gene ontology functional classification and enriched KEGG pathways of DEGs
+  in WT and ∆BbHog1 strains under osmotic stress treatment. GO classification of DEGs
+  in ∆BbHog1 as compared to the WT parent under 30 min (A) or 12 h (B) osmotic stress
+  when normalized to non-stress conditions. Up/Down in gray box indicates relative
+  upregulation/downregulation in ∆BbHog1 relative to WT under sorbitol stress, both
+  normalized to non-stress treatment, and C-E indicates the relative expression of
+  DEGs in the MAPK signaling pathway (gene tagged as yeast homolog). (C) Ketone body
+  metabolism (D) and glycolysis pathway (E) under acute osmotic stress. (F,G) refers
+  DEGs in the glycolysis pathway and the chitosan biosynthesis pathway under 12 h
+  sorbitol stress, respectively. In (C–G), two rectangles beside the gene ID of DEGs
+  refer to upregulation (red), no change (black), or downregulation (green) in WT
+  and ∆BbHog1 as compared to strains under non-stress conditions. Gene IDs are indicated
+  in red with the omission of the “BBA_” prefix. Pathways were reconstructed according
+  to the KEGG pathway database and YeastPathways. (H) fluorometric glycolysis stress
+  assessment of WT and ∆BbHog1 strains treated with transient osmotic stress. ECAR
+  refers to the extracellular acidification rate, 2-DG refers to 2-Deoxy glucose as
+  a competitive hexokinase inhibitor, and ER refers to the efficiency of glycolysis.
+  * p < 0.05; ns for non-significance
+article_title: MAPK Pathways Coordinate Stress Adaptation by Mobilizing Specialized
+  Gene Modules in Entomopathogenic Fungus Beauveria bassiana
+citation: Shuaishuai Huang, et al. J Fungi (Basel). 2025 Dec;11(12).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-27'
+doi: 10.3390/jof11120839
+journal_title: Journal of Fungi
+journal_nlm_ta: J Fungi (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- entomopathogenic fungi
+- Beauveria bassiana
+- gene co-expression network
+- transcriptomics
+- fungal stress biology
+- ergosterol
+---

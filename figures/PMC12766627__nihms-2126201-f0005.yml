@@ -1,0 +1,40 @@
+---
+figid: PMC12766627__nihms-2126201-f0005
+pmcid: PMC12766627
+image_filename: jpg
+figure_link: /pmc/articles/PMC12766627/figure/F5/
+number: Fig. 5.
+figure_title: NFKB1highBACH2high CD4 T cells are detected in the PLNs during active
+  T1D
+caption: (A) Clinical and demographic information of the age-matched cohort. (B-C)
+  UMAP representing CD4 memory cells and Treg cells after re-clustering labeled with
+  cluster number (B), and tissue of origin (C). (D) Stacked bar chart indicating the
+  donor status composition in each cluster. (E) Violin plot shows NFKB1 expression
+  across clusters. (F-G) Circle plots depicting donor composition across non-disease
+  clusters (F) and disease-associated clusters (G). (H) Immunostaining validation
+  of NFKB1 expression in PLN sections from the triple autoantibody-positive AAb+ donor
+  7, representing active T1D, and a healthy control donor (not used in single cell
+  profiling). Cells were grouped into naïve and memory CD4 T cells based on the expression
+  of CD4 and CD45RO in the donors and the expression of NFKB1 protein across naïve
+  and memory CD4 T cells were evaluated. Mean values are shown within brackets. PLNs
+  near superior mesenteric artery on the pancreas are annotated as SMA. PLNT refers
+  to lymph nodes located at the pancreas tail. (I-L) Dot plot showing the expression
+  of cytokines (I), cell surface markers (J), transcription factors (K), and top differentially
+  expressed genes in cluster 2 and 3 compared with cluster 0 (L). (M) Pre-ranked GSEA
+  plots depicting pathway enrichment for clusters 3 and 2 versus cluster 0. (N) Seqlogo
+  depicting de novo motif analysis using Homer in gained accessible chromatin regions
+  in cluster 3 and cluster 2 compared with cluster 0. (O-P). SCENIC+-derived network
+  plots illustrating regulatory interactions between target regions and associated
+  genes within NFKB1 and BACH2 eRegulons in PLNs of T1D (O) and healthy donors (P)
+article_title: Joint Profiling of Gene Expression and Chromatin Accessibility in Pancreatic
+  Lymph Nodes and Spleens of Human Type 1 Diabetes
+citation: Maryam Abedi, et al. Sci Immunol. 2025 Nov 21;10(113).
+year: '2025'
+pub_date: '2025-11-21'
+epub_date: '2025-11-21'
+doi: 10.1126/sciimmunol.adz0472
+journal_title: Science immunology
+journal_nlm_ta: Sci Immunol
+publisher_name: .na.character
+keywords: []
+---

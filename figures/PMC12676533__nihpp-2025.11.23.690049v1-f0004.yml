@@ -1,0 +1,37 @@
+---
+figid: PMC12676533__nihpp-2025.11.23.690049v1-f0004
+pmcid: PMC12676533
+image_filename: jpg
+figure_link: /pmc/articles/PMC12676533/figure/F4/
+number: Fig. 4.
+figure_title: Q901 disrupts MYC-E2F-DNA damage repair transcriptional axis
+caption: '(A) GSEA of pan RNAPII ChIP-seq data following Q901 treatment (n = 2; fgsea
+  p-value ≤ 0.05). (B) Average MYC ChIP-seq signal plot of MYC targets V1 gene set.
+  (C) Average E2F1 ChIP-seq signal plot of E2F targets V1 gene set. (D) Heatmap showing
+  log2FC values of MYC and E2F1 expression from mRNA-seq data and western blot showing
+  MYC and E2F1 protein levels with or without Q901 treatment (right; n = 3; two-way
+  ANOVA followed by Šidák''s multiple comparison, data represent mean ± SD; ***: p
+  < 0.001). (E) Average plots and heatmaps showing MYC ChIP-seq signals for MYC-clustered
+  genes (left), and E2F1 ChIP-seq signals for E2F1-clustered genes (right). (F) Average
+  plots of MYC and E2F1 ChIP-seq signals for MYC cluster 1 and E2F1 cluster 1 genes.
+  (G) Venn diagram showing the overlap between MYC cluster 1 and E2F1 cluster 1 protein-coding
+  genes. (H) GO analysis of protein-coding genes commonly present in MYC cluster 1
+  and E2F1 cluster 1. (I) Volcano plot of mRNA-seq signals after Q901 24h treatment
+  (n = 3; blue dot indicates p-value ≤ 0.05 and log2FC ≤ −0.58; red dot indicates
+  p-value ≤ 0.05 and log2FC ≥ 0.58). DNA damage pathway genes indicated by a red dot
+  and labeled. (J) Western blot data of total H2AX and its phosphorylated form of
+  H2AX (γH2AX) after Q901 treatment for indicated times (n = 4; ordinary one-way ANOVA
+  followed by Šidák''s multiple comparison, data represent mean ± SD; **: p < 0.01,
+  ***: p < 0.001)'
+article_title: Sensitizing tumor response to topoisomerase I antibody drug conjugate
+  by selective CDK7 inhibition
+citation: Hyerim Jung, et al. bioRxiv. 2025 Nov 25;NA(NA).
+year: '2025'
+pub_date: '2025-11-25'
+epub_date: '2025-11-25'
+doi: 10.1101/2025.11.23.690049
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

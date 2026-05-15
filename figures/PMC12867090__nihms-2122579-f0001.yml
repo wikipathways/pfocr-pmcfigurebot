@@ -1,0 +1,45 @@
+---
+figid: PMC12867090__nihms-2122579-f0001
+pmcid: PMC12867090
+image_filename: jpg
+figure_link: /pmc/articles/PMC12867090/figure/F1/
+number: Figure 1.
+figure_title: Gene ontology and pathway analysis of differentially expressed genes
+  related to postnatal maturation in guinea pig right atrium (Top) and left ventricle
+  (Bottom).
+caption: Gene ontology and pathway analysis of differentially expressed genes related
+  to postnatal maturation in guinea pig right atrium (Top) and left ventricle (Bottom).
+  Principal component analysis between age groups. (A) The right atrial variation
+  values were 43.5% (PC1) and 22.6% (PC2), and (E) the left ventricular variation
+  values were 43.6% (PC1) and 20.7% (PC2). Subset of annotation clusters (identified
+  using DAVID) that were differentially expressed between neonates and adults in (B)
+  right atrial or (F) left ventricular samples. Number of genes per cluster is indicated
+  by the dot size, and Bonferroni-adjusted p-value <0.1 by the color. Differentially
+  expressed genes were identified for each chamber between neonatal and adult samples,
+  using one-way ANOVA with a 1.25-fold change cutoff and a 0.1 false discovery rate.
+  A total of (C) 2390 DEGs in the right atrium and (G) 3409 DEGs in the left ventricle
+  are shown in the heatmap (each row) for each sample (column); on a per gene basis,
+  the signal intensity was log10 transformed and Z-score normalized. (D,H) Subset
+  of gene ontologies (identified using Enrichr) that are significantly up- or down-regulated
+  between neonates and adults in right atrial or left ventricular samples. Heatmap
+  shows each gene (row) for each animal (column) within the specified gene ontology;
+  signal intensity was log10 transformed and Z-score normalized on a per gene basis.
+  n=5 neonates, n=5 juveniles, n=5 adults
+article_title: Chamber-Specific Transcriptomic Insight into Cardiac Development using
+  Guinea Pig and Human Heart Tissue
+citation: Shatha Salameh, et al. Physiol Genomics. 2026 Jan 01;58(1).
+year: '2026'
+pub_date: 2026-1-01
+epub_date: '2025-11-06'
+doi: 10.1152/physiolgenomics.00212.2025
+journal_title: Physiological genomics
+journal_nlm_ta: Physiol Genomics
+publisher_name: .na.character
+keywords:
+- Transcriptomics
+- Cardiac Maturation
+- Atria
+- Guinea pig
+- Human
+- Pediatrics
+---

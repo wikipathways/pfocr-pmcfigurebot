@@ -1,0 +1,49 @@
+---
+figid: PMC12890486__jciinsight-11-198590-g180
+pmcid: PMC12890486
+image_filename: jpg
+figure_link: /pmc/articles/PMC12890486/figure/F4/
+number: Figure 4
+figure_title: Receptor-ligand interactions and expression signature of TEM cells
+caption: Receptor-ligand (R-L) interactions, expression signature, and pathways of
+  TEM cells were explored pre-CBD and post-CBD. (A) Outgoing signals from TEM cells
+  (source) to all other immune cell types (targets) are displayed in the dot plot,
+  both pre-CBD (dark yellow) and post-CBD (dark green). Directional ligand-receptor
+  (L-R) signaling interactions involving TEM cells change before and after CBD titration.
+  Communication was lost from TEM cells to B CD70hi lymphocytes, proliferating T lymphocytes,
+  and naive CD4+ cells through the LTA-TNFRSF14 R-L, LTA-TNFRSF1B, and LTA-TNFRSF1A
+  R-L signals. (B) Incoming signals to TEM cells (target) from all other cell types
+  (sources) are displayed. LTA-TNFRSF1B signaling was lost in proliferating T lymphocytes
+  and TCM cells because of a loss of TNFRSF1B expression in TEM cells. Signaling through
+  TNF to TNFRSF1B was lost in B CD70hi, proliferating T, and TCM lymphocytes. IL-2
+  signaling through IL-2 receptors was lost between proliferative T lymphocytes and
+  TEM cells. (A and B) Communication probability (Commun. Prob.) was compared between
+  pre- and post-CBD conditions. Bubble size represents significance of the L-R pair
+  (P value, permutation test). Communication probability is indicated by colormap
+  maxima (red) and minima (blue). Axis labels indicate interacting cell types, with
+  TEM cells consistently involved as a source or target in each panel. The set R-L
+  on the plot was filtered to display R-L pairs activated or inhibited by the CBD
+  condition. (C) Enriched pathways were subsequently filtered to retain only those
+  containing known CBD receptors or R-L interactions, prioritizing biologically relevant
+  mechanistic processes. The enrichment chart displays the filtered pathways, ranked
+  by –log10(P), representing those most plausibly linked to CBD’s immunomodulatory
+  actions in the context of TEM cell regulation. (D) Graph-based network visualization
+  of enriched KEGG pathways from TEM cells displays the pathways (purple), adding
+  the DEGs on the pathways (post-CBD). KLF2 was the only upregulated gene
+article_title: Cannabidiol exerts antiinflammatory effects but maintains T effector
+  memory cell differentiation in humans
+citation: Debora L. Gisch, et al. JCI Insight. 2025 Nov 18;11(1).
+year: '2025'
+pub_date: '2025-11-18'
+epub_date: '2025-11-18'
+doi: 10.1172/jci.insight.198590
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Clinical Research
+- Immunology
+- Pharmacology
+- Transcriptomics
+- Transplantation
+---

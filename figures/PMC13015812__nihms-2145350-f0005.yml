@@ -1,0 +1,38 @@
+---
+figid: PMC13015812__nihms-2145350-f0005
+pmcid: PMC13015812
+image_filename: jpg
+figure_link: /pmc/articles/PMC13015812/figure/F5/
+number: Fig. 5.
+figure_title: Performance comparison of AI models for pathway information curation
+  using precision, recall, and F1-score across 200 images.
+caption: Performance comparison of AI models for pathway information curation using
+  precision, recall, and F1-score across 200 images. (a) T-I evaluates correct predictions
+  without considering the directionality of tumor signaling pathway images using the
+  first evaluation data (60 images). (b) T-II assesses correct predictions while considering
+  directionality using first evaluation data (60 images). (c) T-I evaluates correct
+  predictions without considering directionality using the second evaluation data
+  (140 images). (d) T-II assesses correct predictions while accounting for directionality
+  using second evaluation data (140 images). The performance metrics highlight the
+  predictive capabilities of GPT-4ov, Claude-3.5v, Gemini-1.5v, and Llama-3.2v across
+  first and second evaluation image scenarios
+article_title: Applications of Large Language Models and Prompt Optimization for Knowledge
+  Extraction from Biological Pathway Figures
+citation: Muhammad Azam, et al. IEEE J Biomed Health Inform. 2025 Nov 13;PP(NA).
+year: '2025'
+pub_date: '2025-11-13'
+epub_date: '2025-11-13'
+doi: 10.1109/JBHI.2025.3631538
+journal_title: IEEE journal of biomedical and health informatics
+journal_nlm_ta: IEEE J Biomed Health Inform
+publisher_name: .na.character
+keywords:
+- Large language model
+- multimodal AI
+- image understanding
+- gene interaction extraction
+- tumor signaling pathways
+- prompt optimization
+- genetic prompt vision
+- biocuration
+---

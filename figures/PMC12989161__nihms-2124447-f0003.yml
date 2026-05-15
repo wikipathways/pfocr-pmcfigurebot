@@ -1,0 +1,42 @@
+---
+figid: PMC12989161__nihms-2124447-f0003
+pmcid: PMC12989161
+image_filename: jpg
+figure_link: /pmc/articles/PMC12989161/figure/F2/
+number: Figure 2.
+figure_title: Developmental changes and cell-type specificity of astrocyte regional
+  heterogeneity over postnatal development in the marmoset
+caption: A, Integrated UMAP embeddings of 103,009 marmoset astrocytes colored by (i)
+  assigned brain region (one-hot color encoded in (iv)), (ii) developmental time point
+  (one-hot color encoded in (v), and (iii) Leiden cluster assignment. B, Expression
+  heatmaps (rows are cells, columns are genes) of regional differentially expressed
+  genes (rDEGs) between astrocytes from cortex, striatum, and thalamus at (i) GD135,
+  (ii) 7 month, and (iii) 30 month-old marmosets in log counts per million (logCPM).
+  The raster plots beneath each heatmap indicate the time point and region(s) of upregulation
+  for each rDEG. rDEGs are ordered (same order in (i-iii)) first by time point, then
+  by region of highest expression, and are plotted more than once if they are present
+  at more than one time point. Striatal astrocytes are ordered by subtype identity
+  (see Methods). C, UpSet plot showing the number of unique and overlapping cortex-thalamus
+  rDEGs between developmental time points. The colored dots below each vertical bar
+  indicate which age(s) share that set of rDEGs, while the colored horizontal bars
+  indicate the total number of cortex-thalamus rDEGs for each age. Overlap categories
+  with 0 rDEGs are not shown. D, UpSet plot (as in (C)) showing the number of overlapping
+  cortex-thalamus rDEGs between OPCs, astrocytes, excitatory neurons, and inhibitory
+  neurons for (i) neonate and (ii) adult marmoset. E, Gene ontology (GO) and pathway
+  analysis on cortex-thalamus (enriched in either region) astrocyte rDEGs via WebGestalt
+  2024 in (i) GD135, (ii) 7 month, and (iii) 30 month marmoset astrocytes. Lollipop
+  plots show the enrichment ratio of GO Biological Process and KEGG pathways from
+  an over-representation analysis, with tip size inversely proportional to the false
+  discovery rate (FDR). See also Figs. S7–9 and Fig. S12
+article_title: A transcriptomic atlas of astrocyte heterogeneity across space and
+  time in mouse and marmoset
+citation: Margaret E. Schroeder, et al. Neuron. 2025 Dec 03;113(23).
+year: '2025'
+pub_date: '2025-12-03'
+epub_date: '2025-11-20'
+doi: 10.1016/j.neuron.2025.09.011
+journal_title: Neuron
+journal_nlm_ta: Neuron
+publisher_name: .na.character
+keywords: []
+---

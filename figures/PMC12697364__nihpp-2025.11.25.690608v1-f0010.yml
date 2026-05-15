@@ -1,0 +1,45 @@
+---
+figid: PMC12697364__nihpp-2025.11.25.690608v1-f0010
+pmcid: PMC12697364
+image_filename: jpg
+figure_link: /pmc/articles/PMC12697364/figure/F9/
+number: Figure 9.
+figure_title: Proposed mechanism by which IL-1β regulates renal transporters in human
+  PTECs
+caption: IL-1β binds IL-1R1/IL-1RAcP and assembles a myddosome of MyD88, IRAK4, and
+  IRAK1. IRAK4 phosphorylates IRAK1, and together with TRAF6 builds K63-linked ubiquitin
+  scaffolds that activate TAK1-TAB1/2. TAK1 then phosphorylates (i) IKKβ, which phosphorylates
+  IκBα and targets it for degradation, freeing NF-κB to translocate to the nucleus;
+  (ii) MKK4/7, which then dual-phosphorylate JNK1/2; and (iii) MKK3/6, which then
+  dual-phosphorylate p38. Active JNK phosphorylates c-Jun, forming nuclear AP-1 complexes.
+  p38 phosphorylates ATF2 and downstream chromatin kinases, which complexes with c-Jun
+  to form AP-1. These transcription factors (AP-1, ATF2/AP-1, NF-κB) subsequently
+  regulate renal transporter expression (JNK-dependent OAT1/3 downregulation; p38-dependent
+  OAT2 downregulation; NF-κB-dependent OCTN1 upregulation). IL-1β also downregulates
+  OCT2 (mRNA and activity), OAT4 (mRNA and activity), MRP2 (mRNA only), MATE2-K (mRNA
+  only), and OATP4C1 (mRNA only). These effects were observed experimentally but the
+  precise upstream nodes remain to be fully resolved. Blue ↓ = IL-1β-mediated downregulation;
+  Red ↑ = IL-1β- mediated upregulation. Black solid arrows trace canonical signaling
+  pathways. Red-labeled nodes (JNK1/2, p38, NF-κB) highlight key mediators implicated
+  in this study. Downstream transcription factors (AP-1, ATF2/AP-1, NF-κB) indicate
+  the putative regulatory controller. The adjacent blue/red arrows show the net expression
+  change. Dashed arrows denote unresolved pathways that require further investigation.
+  White arrows inside transporters denote physiological substrate transport direction
+article_title: 'Regulation of Renal Transporters by Pro-inflammatory Cytokines in
+  Human Proximal Tubular Epithelial Cells: Identification of the Perpetrator and Mechanisms'
+citation: Yik Pui Tsang, et al. bioRxiv. 2025 Nov 29;NA(NA).
+year: '2025'
+pub_date: '2025-11-29'
+epub_date: '2025-11-29'
+doi: 10.1101/2025.11.25.690608
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- transcription regulation
+- proximal tubule
+- pharmacokinetics
+- inflammation
+- gene expression
+- cytokines
+---

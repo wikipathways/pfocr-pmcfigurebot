@@ -1,0 +1,61 @@
+---
+figid: PMC12730802__biosensors-15-00782-g008
+pmcid: PMC12730802
+image_filename: jpg
+figure_link: /pmc/articles/PMC12730802/figure/F8/
+number: Figure 8
+figure_title: Comprehensive correlation and machine learning-based feature importance
+  analysis reveals associations between RA-related gene expression and pathological
+  indicators.
+caption: 'Comprehensive correlation and machine learning-based feature importance
+  analysis reveals associations between RA-related gene expression and pathological
+  indicators. (a) Pearson correlation heatmap displaying linear associations between
+  gene expression profiles and eight key pathological features across five experimental
+  groups: healthy control, RA Day 18, RA Day 28, Tofacitinib-treated, and NAC-treated
+  groups. Pathological features include pro-inflammatory cytokines (TNF-α, IL-6, IL-1β),
+  oxidative stress marker (ROS), synovial immune cell infiltration (cell counts),
+  cartilage degradation index (cartilage thickness), and histological scores from
+  Safranin O staining (SO-200×, SO-100×). Positive correlations are represented by
+  warmer colors, while negative correlations are indicated by cooler shades. (b) Spearman
+  correlation heatmap evaluating the rank-based, non-linear associations between the
+  same pathological indicators and gene expression across all experimental conditions.
+  This analysis highlights robust monotonic trends, with strong positive correlations
+  observed between inflammatory gene signatures and elevated TNF-α, IL-6, ROS, and
+  IL-1β levels, whereas cartilage thickness shows consistent negative correlation
+  with pro-inflammatory markers and immune cell-related genes (e.g., Cxcl9, Tlr1,
+  Tlr7, Irf8, Lck, Nod2), suggesting their potential roles in joint tissue degeneration.
+  (c) Random forest-based feature importance analysis identifying the top-ranked genes
+  contributing to IL-1β expression across the dataset. Genes such as NFKBIE, CD83,
+  TNFAIP3, STAT4, and FADS1 show high importance scores, indicating potential regulatory
+  influence on IL-1β production and RA-associated inflammation. (d) Feature importance
+  analysis for TNF-α expression, highlighting key genes involved in its regulation.
+  Notably, IRAK1, FADS1, STAT4, IL2RA, and CTLA4 rank among the most influential features,
+  implicating both innate immunity and T cell co-stimulatory signaling in TNF-α-mediated
+  pathogenesis. (e) Gene importance scores for ROS (reactive oxygen species) levels,
+  identifying genes such as CXCR5, IRF5, ATM, CD40, TAGAP, and FCGR2B as major contributors.
+  These genes are associated with immune activation, redox regulation, and apoptotic
+  signaling, suggesting their relevance to oxidative stress and joint damage in RA.
+  (f) Feature importance for IL-6 expression, with genes including CD83, IL2RA, CEP57,
+  TNFRSF14, and CXCR5 showing high predictive contribution. The identified gene set
+  spans adaptive immune pathways, transcriptional regulators, and cytokine signaling,
+  offering insights into mechanisms of IL-6 dysregulation. This figure integrates
+  correlation metrics and machine learning-based variable importance to uncover candidate
+  regulatory genes that may serve as potential biomarkers or therapeutic targets in
+  RA progression and treatment response'
+article_title: Transcriptomic Evaluation of Hollow Microneedles-Mediated Drug Delivery
+  for Rheumatoid Arthritis Therapy
+citation: Zhibo Liu, et al. Biosensors (Basel). 2025 Dec;15(12).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-27'
+doi: 10.3390/bios15120782
+journal_title: Biosensors
+journal_nlm_ta: Biosensors (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- hollow microneedle
+- drug delivery
+- rheumatoid arthritis
+- transcriptomic
+- targeted therapy
+---

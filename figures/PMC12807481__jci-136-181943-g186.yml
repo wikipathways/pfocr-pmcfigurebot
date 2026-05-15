@@ -1,0 +1,44 @@
+---
+figid: PMC12807481__jci-136-181943-g186
+pmcid: PMC12807481
+image_filename: jpg
+figure_link: /pmc/articles/PMC12807481/figure/F3/
+number: Figure 3
+figure_title: Depletion of FBXO11 promotes the maintenance of HSPCs with myeloid bias
+caption: '(A) Heatmap arranged according to pairwise clustering based on the 25 most
+  upregulated and 25 most downregulated genes in FBXO11-depleted cells compared with
+  control in 3 CD34+ HSPC pools from independent participants expressing a nontargeting
+  control shRNA (shCTR) or targeting FBXO11 (shFBXO11#9 and #10). At the bottom of
+  the heatmap, the independent HSPC pool and experimental condition are labeled. (B)
+  GSEA plots in CD34+ HSPC comparing FBXO11 depletion (shFBXO11#9 and #10) to shCTR.
+  Normalized enrichment score (NES) and false discovery rate (FDR) are indicated.
+  All pathways passing FDR < 0.25 are recorded in Supplemental Table 4. (C) Shown
+  are percentages and (D) absolute cell counts of CD34+ HSPCs expressing shCTR or
+  shFBXO11 at day 7 of culture (N = 4). (E) Cell cycle state of CD34+ HSPC was measured
+  by Ki-67/DAPI staining (N = 3 (shCTR), N = 5 (shFBXO11)). (F) Percentages of CD45RA–
+  (corresponding to cultured HSC immunophenotype) and CD45RA+90– (corresponding to
+  cultured hematopoietic progenitor immunophenotype) cells within the CD34+ population
+  are shown (N = 4). (G) Shown are percentages of megakaryocytic (CD41+ CD61+), erythroid
+  (CD71+ CD235a+), and myeloid (CD15+) cells in CD34+ HSPCs expressing shCTR or shFBXO11
+  after 14 days of culture. (H) Primary CFC from CD34+ HSPC expressing shCTR or shFBXO11
+  were counted 12 days after plating (N = 5).). P values represent 2-way ANOVAs with
+  Tukey’s test. (I) Colony counts following secondary plating of 50,000 cells from
+  the primary CFC assay shown in panel H (N = 5). All other P values represent 2-tailed
+  t test, error bars represent SD'
+article_title: Loss of FBXO11 establishes a stem cell program in acute myeloid leukemia
+  by dysregulating LONP1
+citation: Hayle Kincross, et al. J Clin Invest. 2025 Nov 25;136(2).
+year: '2025'
+pub_date: '2025-11-25'
+epub_date: '2025-11-25'
+doi: 10.1172/JCI181943
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Hematology
+- Stem cells
+- Hematopoietic stem cells
+- Leukemias
+- Mitochondria
+---

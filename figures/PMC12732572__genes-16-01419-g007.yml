@@ -1,0 +1,34 @@
+---
+figid: PMC12732572__genes-16-01419-g007
+pmcid: PMC12732572
+image_filename: jpg
+figure_link: /pmc/articles/PMC12732572/figure/F7/
+number: Figure 7
+figure_title: Functional Enrichment Analysis of Identified Key Genes.
+caption: 'Functional Enrichment Analysis of Identified Key Genes. (A): Gene Ontology
+  (GO) enrichment analysis for biological processes (BP), highlighting significantly
+  enriched processes such as myeloid leukocyte migration and chemotaxis. (B): GO enrichment
+  analysis for molecular functions (MF), identifying functions such as glycosaminoglycan
+  binding and transporter activities. (C): GO enrichment analysis for cellular components
+  (CC), emphasizing the involvement of secretory granule lumen, azurophil granules,
+  and lysosomal components. (D): Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway
+  analysis, illustrating significantly enriched pathways including folate transport
+  and metabolism and acute myeloid leukemia pathways. The size of each dot represents
+  the count of genes involved, and the color intensity indicates the significance
+  level (–log10(p-value))'
+article_title: Integrated Multi-Omics and Independent Validation Reveal MPO and TREM2
+  as Secretory Biomarkers for Non-Healing Diabetic Foot Ulcers
+citation: Boya Li, et al. Genes (Basel). 2025 Dec;16(12).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-28'
+doi: 10.3390/genes16121419
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- diabetic foot ulcers
+- secretory protein-related biomarkers
+- machine learning
+- bioinformatics
+---

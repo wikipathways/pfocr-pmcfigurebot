@@ -1,0 +1,42 @@
+---
+figid: PMC12890506__jciinsight-11-183935-g246
+pmcid: PMC12890506
+image_filename: jpg
+figure_link: /pmc/articles/PMC12890506/figure/F4/
+number: Figure 4
+figure_title: Collagen pathway gene expression is elevated in Lair1 KO S. aureus–infected
+  skin and macrophages
+caption: '(A and C) BMDM from WT and Lair1-KO mice were treated with PBS or PAM3CSK4
+  for 6 hours and were then subjected to RNA-Seq. (B and D) Skin punch biopsies from
+  WT and Lair1-KO mouse S. aureus skin infections were taken at 2 dpi and were then
+  subjected to RNA-Seq. GSEA was used to define the top 20 mouse Reactome pathways
+  with enrichment scores and nominal P value in genes upregulated in Lair1 KO in BMDM
+  treated with PAM3CSK4 (A) and 2 dpi SSTI (B); collagen-related pathways common to
+  both analyses are bolded in teal. Genes from the 4 pathways, many of which overlapped,
+  were classified into 3 general categories: collagen genes, collagen synthesis genes,
+  and extracellular matrix (ECM) remodeling genes. Heatmaps show z-scored expression
+  for these genes for BMDM (C) and S. aureus SSTI (D). (E and F) BMDM from WT and
+  Lair1-KO mice were treated with PBS or PAM3CSK4 for 24 hours and were then fixed
+  and stained for Serpin H1. Representative images from 3 independent experiments
+  are shown (E). Scale bars: 50 μm. Images were analyzed in CellProfiler and mean
+  Serpin H1 cytoplasmic fluorescence intensity per cell was calculated (F). Mean ±
+  SEM are indicated by black bars. Statistical analysis was done by 2-way ANOVA with
+  multiple comparisons'
+article_title: LAIR1 prevents excess inflammatory tissue damage in Staphylococcus
+  aureus skin infection and cutaneous T cell lymphoma
+citation: Hannah K. Dorando, et al. JCI Insight. 2025 Nov 13;11(1).
+year: '2025'
+pub_date: '2025-11-13'
+epub_date: '2025-11-13'
+doi: 10.1172/jci.insight.183935
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Dermatology
+- Immunology
+- Oncology
+- Bacterial infections
+- Lymphomas
+- Skin
+---

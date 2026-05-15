@@ -1,0 +1,38 @@
+---
+figid: PMC12697370__nihpp-2025.11.26.690503v1-f0004
+pmcid: PMC12697370
+image_filename: jpg
+figure_link: /pmc/articles/PMC12697370/figure/F4/
+number: Figure 4.
+figure_title: UHRF1 overexpression in hepatocytes changes liver composition and hepatocytes
+  function
+caption: A. Scheme of the approach and representative images at 120 hpf of samples
+  used for scRNAseq analysis. B. UMAP plot of cells analyzed by scRNAseq of hUHRF1
+  and control livers. C. Heatmap of identity markers in hepatic cell populations pooled
+  for controls and hUHRF1 samples. D. Gene Ontology of enriched genes (p-value adjusted
+  < 0.05 & Log2FC > 0.5) in each cell population from the combined dataset. E. Number
+  of cells in each population in hUHRF1 and control livers. F. Number of DEGs (padj
+  < 0.05) in hUHRF1 compared to controls in each population. G. KEGG pathways analysis
+  of DEGs (padj < 0.05 & Log2FC > 1.5) in hUHRF1 compared to controls for each population
+  of hepatocytes. H. Chord diagram showing of cell-cell communication, with the width
+  of each chord representing the proportion of cells with that signal and the arrows
+  representing the direction of the signal. I. The top outgoing signaling molecules
+  are inferred based on the strength of the signaling in each population
+article_title: UHRF1 Overexpression Generates Distinct Senescent States with Different
+  Tp53 Dependencies
+citation: Elena Magnani, et al. bioRxiv. 2025 Nov 30;NA(NA).
+year: '2025'
+pub_date: '2025-11-30'
+epub_date: '2025-11-30'
+doi: 10.1101/2025.11.26.690503
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Senescence
+- DNA methylation
+- tp53
+- zebrafish
+- preneoplastic
+- liver cancer
+---

@@ -1,0 +1,44 @@
+---
+figid: PMC12890473__jciinsight-11-196619-g070
+pmcid: PMC12890473
+image_filename: jpg
+figure_link: /pmc/articles/PMC12890473/figure/F3/
+number: Figure 3
+figure_title: Autoantibody pathway, tissue expression, and localization analysis
+caption: '(A) Volcano plot of differential autoantibody reactivity (PhIP-Seq peptides)
+  between ARF cases and healthy controls. Significant peptides (using DESeq2, adjusted
+  P < 0.05) colored by average binding magnitude, nonsignificant by sample density.
+  Number of peptides significantly elevated in ARF cases compares with healthy controls
+  is indicated; 118 peptides mapping to 81 proteins. Dashed lines indicate thresholds
+  for significance and no change; enriched targets PPP1R12B and COL1A1 labeled. Total
+  magnitude indicated by red scale; ARF significantly elevated magnitude compared
+  with healthy controls by 1-sided Wilcoxon’s test. P = 0.018, r = 0.35. (B) GO pathway
+  enrichment for ARF-associated autoantigens (P < 0.01, 81 proteins represented by
+  118 peptides in A). Dot size reflects protein count per pathway; fill color indicates
+  enrichment strength. Outlines denote GO categories: Cellular Component (blue), Biological
+  Process (green). Highlighted pathways include Sarcomere and Heart Morphogenesis.
+  Full pathway analysis results with enrichment metrics for all GO terms are provided
+  in Supplemental Dataset 1. (C) Heart muscle expression of ARF-enriched targets (Human
+  Protein Atlas). Upper panel: RNA expression ordered from low to high; tile borders
+  indicate multiple (green) or single (gray) peptide hits. Lower panel: Protein expression
+  by immunohistochemistry; tile borders indicate staining reliability (enhanced, red;
+  supported, orange; approved, pink; uncertain, gray). Red arrows highlight PPP1R12B
+  and COL1A1. (D) Subcellular localization and secretion prediction (Human Protein
+  Atlas). Upper panel: Localization across cellular compartments (purple = presence);
+  borders show reliability. Lower panel: Secreted proteins prediction (violet = predicted
+  secreted). Main locations shaded if proteins predicted secreted as main location.
+  PPP1R12B and COL1A1 indicated by red arrows'
+article_title: PhIP-Seq uncovers marked heterogeneity in acute rheumatic fever autoantibodies
+citation: Reuben McGregor, et al. JCI Insight. 2025 Nov 18;11(1).
+year: '2025'
+pub_date: '2025-11-18'
+epub_date: '2025-11-18'
+doi: 10.1172/jci.insight.196619
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Autoimmunity
+- Cardiology
+- Antigen
+---

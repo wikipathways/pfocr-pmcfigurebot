@@ -1,0 +1,47 @@
+---
+figid: PMC11722313__nihpp-2024.12.30.630732v4-f0004
+pmcid: PMC11722313
+image_filename: jpg
+figure_link: /pmc/articles/PMC11722313/figure/F4/
+number: 'Figure 4:'
+figure_title: All-atom MD reveals a molecular basis for IDE conformational dynamics
+caption: (A) Measurements of the O subunit D1-D4 distance over the course of six separate
+  microsecond long all-atom MD simulations of WT IDE. Of which, the open subunit closed
+  in 5 of the 6 simulations. (B) Plot of the O subunit D1-D4 distance vs the D1-D2-D3-D4
+  COM dihedral angle over the course of the simulation of WT IDE. The open subunits
+  displayed a variety of closing pathways and did not close to a consensus structure.
+  Starting structure shown as black dot, pO structure shown as white dot. (C) R668
+  acts as a guidepost residue, rapidly interacting with D309 or E381. Formation of
+  this interaction is associated with rapid closing, as measured by a decrease in
+  D1-D4 distance (D). (E) Hydrogen-deuterium exchange mass spectrometry highlights
+  the importance of R668 in mediating the open-close transition. In the presence of
+  insulin (panel 1, red), Aβ (panel 2, red), and BDM-44768 (panel 3, red), all of
+  which promote IDE closing, the peptide containing R668 shows reduced deuterium exchange
+  relative to apo-IDE (black), yet in the presence of 6bk (panel 4, red), which does
+  not promote closing, there is no difference in the exchange rates for the R668 containing
+  peptide relative to apo-IDE (black). Helix containing R668 colored by red (increase)
+  – white (no change) – blue (decrease) gradient depicting the degree of deuterium
+  exchange relative to apo-IDE. (F) Measurements of the O subunit D1-D4 distance over
+  the course of six separate microsecond long all-atom MD simulations of IDE R668A.
+  (G) Plot of the O subunit D1-D4 distance vs the D1-D2-D3-D4 COM dihedral angle over
+  the course of the simulation of IDE R668A. The six separate microsecond long simulations
+  indicate that an R668A mutation significantly alters the closing dynamics of IDE
+  (F) and increases the rotational motion (G) relative to WT (panels A and B respectively).
+  Starting structure shown as black dot, pO structure shown as white dot
+article_title: Characterization and modulation of human insulin degrading enzyme conformational
+  dynamics to control enzyme activity
+citation: Jordan M. Mancl, et al. bioRxiv. 2025 Dec 03;NA(NA).
+year: '2025'
+pub_date: '2025-12-03'
+epub_date: '2025-12-03'
+doi: 10.1101/2024.12.30.630732
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- amyloid peptides
+- insulin degrading enzyme
+- proteostasis
+- diabetes
+- cryo-electron microscopy
+---

@@ -1,0 +1,37 @@
+---
+figid: PMC12692492__ijms-26-11582-g005
+pmcid: PMC12692492
+image_filename: jpg
+figure_link: /pmc/articles/PMC12692492/figure/F5/
+number: Figure 5
+figure_title: Screening and validation of anti-metastatic drugs.
+caption: 'Screening and validation of anti-metastatic drugs. (A) Schematic diagram
+  of the metastasis-related drug screening model, illustrating the overall workflow
+  from input data to drug screening model construction and subsequent drug scoring.
+  (B) Network diagram showing the top 10 ranked drugs and their corresponding targets
+  in each cancer type, highlighting both shared and cancer-specific drug-target relationships.
+  (C) Heatmap of the top 10 candidate drugs across cancers, showing Drug Score (color
+  intensity), regulatory effect on metastasis (red: inhibition; blue: promotion),
+  and overall drug ranking; Fostamatinib ranks highest in nine cancers, indicating
+  broad anti-metastatic potential. (D) Bar plots showing KEGG pathway enrichment of
+  targets for Fostamatinib, Mesalazine, Tamoxifen, and Minocycline, highlighting significant
+  enrichment in metastasis-related pathways. (E) Boxplots comparing MPS between drug-treated
+  (Drug) and control (Ctrl) groups in HNSCC and PRAD, demonstrating that Fostamatinib
+  treatment significantly reduces MPS, with statistical significance indicated (****
+  p < 0.0001)'
+article_title: Construction of Metastasis Prediction Models and Screening of Anti-Metastatic
+  Drugs Based on Pan-Cancer Single-Cell EMT Features
+citation: Yingqi Xu, et al. Int J Mol Sci. 2025 Dec;26(23).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-29'
+doi: 10.3390/ijms262311582
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- epithelial–mesenchymal transition
+- single-cell RNA sequencing
+- metastasis prediction model
+- drug screening
+---

@@ -1,0 +1,37 @@
+---
+figid: PMC13042082__nihms-2157563-f0003
+pmcid: PMC13042082
+image_filename: jpg
+figure_link: /pmc/articles/PMC13042082/figure/F3/
+number: Fig. 3.
+figure_title: Arrayed CRISPR/Cas9 screening revealed that the vesicle organization
+  pathway was important for the cell entry of CTSG.
+caption: Arrayed CRISPR/Cas9 screening revealed that the vesicle organization pathway
+  was important for the cell entry of CTSG. (A) Cas9-expressing HCT116 cells were
+  infected with 50 μL of arrayed gRNA lentivirus targeting 141 human membrane trafficking
+  genes, RAGE, and a NC. Infected cells were selected with puromycin for 3 days. The
+  cells were then reseeded and treated with 5 ng/μL of CTSG for 16 h. Cleaved PARP
+  and Actin were detected with Western blot assay. Cleaved PARP levels were normalized
+  with Actin, and the relative ratio of cleaved PARP in CTSG-treated wells against
+  vehicle control wells to NC was calculated and plotted. (B, C) The enrichment of
+  the top 40 genes was analyzed using Metascape (http://metascape.org/) [34]. The
+  pathway enrichment list is shown in B, and the relationships of the enriched pathways
+  are shown in C
+article_title: CRISPR/Cas9 Screenings Reveal the Role of STX1A and CDK1 in Cathepsin
+  G Entering and Killing Colorectal Cancer Cells
+citation: Yuxiang WANG, et al. Interdiscip Inf Sci. 2025;31(1).
+year: '2025'
+pub_date: 2025--
+epub_date: '2025-11-15'
+doi: 10.4036/iis.2025.A.11
+journal_title: Interdisciplinary information sciences
+journal_nlm_ta: Interdiscip Inf Sci
+publisher_name: .na.character
+keywords:
+- CTSG
+- RAGE
+- endocytosis
+- CRISPR/Cas9 screening
+- STX1A
+- CDK1
+---

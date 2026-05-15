@@ -1,0 +1,38 @@
+---
+figid: PMC12687814__nihpp-rs8219833v1-f0006
+pmcid: PMC12687814
+image_filename: jpg
+figure_link: /pmc/articles/PMC12687814/figure/F6/
+number: 'Figure 6:'
+figure_title: qTWAS discovery on disease-relevant gene and context-specific associations
+  for Alzheimer’s disease and telomere length
+caption: 'Analyses were performed across four Alzheimer’s disease (AD) GWAS studies
+  (Bellenguez 2022, EADB 2022, Kunkle 2019, Wightman 2021) and one telomere length
+  GWAS (telomere length PC1). Significance was defined as Bonferroni-adjusted p <
+  0.05 across molecular contexts. a–b, Counts of significant gene–context associations
+  (a) and significant genes (b) stratified by qTWAS-only (red), TWAS-shared (gold),
+  and TWAS-only (blue) in the four AD GWAS studies. c–d, Telomere length analyses
+  (analogous to AD panels): counts of significant gene–context associations (c) and
+  significant genes (d). e–f, Distribution of qTWAS-only genes across TWAS p-value
+  cutoffs for AD (e) and telomere length (f). g, Fold-change in statistical significance
+  for qTWAS-only associations relative to TWAS, shown as binned increases in −log10(P)
+  (light to dark orange indicates larger fold-change bins). h, Functional genomics
+  evidence for AD qTWAS-only genes, compared against multi-context colocalization,
+  multi-trait fine-mapping, and the complete TWAS catalog from the FunGen-xQTL resource
+  (a harmonized multi-context xQTL database). i–j, Pathway enrichment comparison using
+  all significant qTWAS genes versus all significant TWAS genes. Bubble plots show
+  the top five pathways where qTWAS has higher fold enrichment than TWAS for AD (i)
+  and telomere length (j). GO categories include Biological Process (BP), Cellular
+  Component (CC), and Molecular Function (MF); KEGG denotes curated pathway sets'
+article_title: Distributional genetic effects reveal context-dependent molecular regulation
+  in human brain aging and Alzheimer’s disease
+citation: Anjing Liu, et al. Res Sq. 2025 Dec 01;NA(NA).
+year: '2025'
+pub_date: '2025-12-01'
+epub_date: '2025-12-01'
+doi: 10.21203/rs.3.rs-8219833/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords: []
+---

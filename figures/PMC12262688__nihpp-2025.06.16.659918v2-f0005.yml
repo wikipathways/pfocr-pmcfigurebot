@@ -1,0 +1,31 @@
+---
+figid: PMC12262688__nihpp-2025.06.16.659918v2-f0005
+pmcid: PMC12262688
+image_filename: jpg
+figure_link: /pmc/articles/PMC12262688/figure/F4/
+number: Figure 4.
+figure_title: Pathway analysis of the differentially expressed EV miRNA after GPCR
+  activation
+caption: 'The bubble plots showed the top 25 significantly enriched KEGG pathways
+  for the miRNAs (≥ 1.5-fold change) of individual GPCR. (A) ADORA1, (B) HRH1, (C)
+  FZD4, (D) ACKR3. The dot size represents the number of enriched gene targets, and
+  the color shows the p-value of the enrichment. For the enrichment analysis, cut-off
+  criteria were p-value (FDR) < 0.05 and gene count > 2. KEGG terms: * Endocrine and
+  other factor-regulated calcium reabsorption, ^ Progesterone-mediated oocyte maturation'
+article_title: 'Specific GPCRs Elicit Unique Extracellular Vesicle MiRNA Array Signatures:
+  An Exploratory Study'
+citation: Xiao Shi, et al. bioRxiv. 2025 Nov 21;14(NA).
+year: '2025'
+pub_date: '2025-11-21'
+epub_date: '2025-11-21'
+doi: 10.1101/2025.06.16.659918
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- G protein-coupled receptor
+- receptor signaling
+- miRNA
+- extracellular vesicle
+- U2OS
+---

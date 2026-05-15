@@ -1,0 +1,36 @@
+---
+figid: PMC12828330__nihms-2132382-f0004
+pmcid: PMC12828330
+image_filename: jpg
+figure_link: /pmc/articles/PMC12828330/figure/F3/
+number: Fig. 3.
+figure_title: DOXO dysregulates many critical pathways linked with BBB
+caption: '(A) Volcano plot from RNA-seq using DeSeq2 represents the upregulated (red)
+  and downregulated (blue) genes after 24 hours of 500 nM DOXO treatment in hCMEC/D3
+  with a threshold of |log2Fold Change|= 0.5 and adjusted p-value < 0.05. Bar plot
+  represents the selected (B) upregulated and (C) downregulated pathways from Geno
+  Ontology: Biological Processes (GO:BP) pathway analysis, sorted by a −log10 (adjusted
+  p-value) threshold of 1.3. (D) Bar plot represents the selected IPA toxicology lists
+  impacted after 24 hours of DOXO treatment with a −log10(Benjamini-Hochberg (BH)
+  p-value) threshold of 1.3. (E) Representative bubble chart of the selected canonical
+  pathways impacted by DOXO treatment with the bubbles representing the number of
+  genes in that pathway and a positive z-score (orange color) or a negative z-score
+  (blue color) with a −log10(p-value) threshold of 1.3. Gene set enrichment analysis
+  (GSEA) barcode plot displaying the enrichment score (ES) with the p-adjusted value
+  for (F) cytokine-mediated signaling, (G) cell substrate junction, (H) angiogenesis.
+  n = 4 biological replicates per group'
+article_title: The effects of doxorubicin on blood-brain barrier integrity in hCMEC/D3
+citation: Chadni Patel, et al. Neurotoxicology. 2025 Dec;111(NA).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-19'
+doi: 10.1016/j.neuro.2025.103355
+journal_title: Neurotoxicology
+journal_nlm_ta: Neurotoxicology
+publisher_name: .na.character
+keywords:
+- Doxorubicin-induced cognitive impairment
+- Blood-brain barrier (BBB)
+- Chemobrain
+- Doxorubicin
+---

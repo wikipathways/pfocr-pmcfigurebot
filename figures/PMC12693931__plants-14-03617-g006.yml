@@ -1,0 +1,40 @@
+---
+figid: PMC12693931__plants-14-03617-g006
+pmcid: PMC12693931
+image_filename: jpg
+figure_link: /pmc/articles/PMC12693931/figure/F6/
+number: Figure 6
+figure_title: Genes of the GA pathway expression in overexpressing lines, Crispr lines
+  and wild type.
+caption: 'Genes of the GA pathway expression in overexpressing lines, Crispr lines
+  and wild type. (a) Venn diagram showing differentially expressed genes (DEGs) among
+  wild-type (AC), SlHsfC1-overexpressing lines (OE6, OE12), and CRISPR-Cas9 knockout
+  lines (CR16, CR41) based on RNA-Seq analysis. (b,c) Volcano plots showing differentially
+  expressed genes (DEGs) in transcriptome comparisons between wild-type (AC) and SlHsfC1-overexpressing
+  lines (OE6, OE12), as well as between wild-type and CRISPR-Cas9 knockout lines (CR16,
+  CR41). Significantly upregulated genes (|log2FC| > 1, FDR < 0.05) are highlighted
+  in red, downregulated genes in brown, and non-significant genes in blue. (d) Expression
+  of gibberellin biosynthesis genes of RNA-Seq suggest that key genes. (e) Expression
+  of gibberellin signal genes of RNA-Seq suggest that key genes. (f) RT–qPCR analysis
+  validated the RNA-Seq results, confirming the altered expression of key genes involved
+  in GA biosynthesis and GA signal transduction. Statistical significance was determined
+  by Student’s t-test (n = 3): * p  <  0.05, ** p  <  0.01, *** p  <  0.001, ****
+  p  <  0.0001'
+article_title: The SlHsfC1–SlGAI3 Module Controls Tomato Growth and Development via
+  the Gibberellin Signaling Pathway
+citation: Yafei Qin, et al. Plants (Basel). 2025 Dec;14(23).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-27'
+doi: 10.3390/plants14233617
+journal_title: Plants
+journal_nlm_ta: Plants (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- SlHsfC1
+- dwarf phenotype
+- gibberellins
+- exogenous GA3
+- GA signaling pathway
+- SlGAI3
+---

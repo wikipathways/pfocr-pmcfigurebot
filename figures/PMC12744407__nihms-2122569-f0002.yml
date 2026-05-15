@@ -1,0 +1,45 @@
+---
+figid: PMC12744407__nihms-2122569-f0002
+pmcid: PMC12744407
+image_filename: jpg
+figure_link: /pmc/articles/PMC12744407/figure/F2/
+number: 'Figure 2:'
+figure_title: Associations between canonical endocrine signals and downstream pathways
+caption: 'A. Dot plot showing the absolute correlation of heart (left ventricle) latent
+  variables with adiponectin (ADIPOQ) transcript level in the adipose tissue (subcutaneous).
+  Selected significant (adj.P ≤ 0.005) latent variables (L.var.) are numbered, in
+  red. Latent variables are ranked by descending absolute Pearson’s correlation coefficient
+  (r).B. Scatter plot showing the correlated expression (r: 0.34, adj.P: 9.7e–5) of
+  adipose ADIPOQ and heart (left ventricle) latent variable 57, which maps to the
+  REACTOME Innate Immune System term. Each data point is an individual donor sample
+  with both adipose and heart transcriptomes in GTEx v8. Red dashed line: best fit
+  linear fit. Ribbon: s.e.C. As in B, but for the association between adipose ADIPOQ
+  and heart latent variable 509 (KEGG Calcium Signaling Pathway) (r: 0.33, adj.P:
+  5.7e–4)D. As in A, but for adipose (visceral/omentum) latent variables associated
+  with insulin (INS) transcript levels in the pancreas.E. As in B, but for the association
+  between pancreas INS and adipose latent variable 27 (REACTOME Phospholipid Metabolism)
+  (r: 0.48, adj.P: 5.0e–8)F. As in B, but for the association between pancreas INS
+  and adipose latent variable 536 (REACTOME Metabolism of Lipids and Lipoproteins)
+  (r: 0.41, adj.P: 3.8e–4)G. As in A, but for adipose (subcutaneous) latent variables
+  associated with fetuin-A (AHSG) transcript levels in the liver.H. As in B, but for
+  the association between liver AHSG and adipose latent variable 536 (REACTOME Metabolism
+  of Lipids and Lipoproteins) (r: −0.50, adj.P: 2.6e–6)I. As in B, but for the association
+  between liver AHSG and adipose latent variable 550 (KEGG Calcium Signaling Pathway)
+  (r: 0.43, adj.P: 9.5e–4)'
+article_title: 'SALVE: prediction of interorgan communication with transcriptome latent
+  space representation'
+citation: Jay Pavelka, et al. Am J Physiol Heart Circ Physiol. 2025 Dec 01;329(6).
+year: '2025'
+pub_date: '2025-12-01'
+epub_date: '2025-11-05'
+doi: 10.1152/ajpheart.00637.2025
+journal_title: American journal of physiology. Heart and circulatory physiology
+journal_nlm_ta: Am J Physiol Heart Circ Physiol
+publisher_name: .na.character
+keywords:
+- Interorgan communication
+- secretome
+- latent space representation
+- cardiokine
+- adipokine
+---

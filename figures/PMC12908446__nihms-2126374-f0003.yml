@@ -1,0 +1,44 @@
+---
+figid: PMC12908446__nihms-2126374-f0003
+pmcid: PMC12908446
+image_filename: jpg
+figure_link: /pmc/articles/PMC12908446/figure/F3/
+number: Figure 3.
+figure_title: Endothelial REST silencing triggers endMT in human cells in vitro
+caption: A. Hallmark pathway analysis of RNA-seq data in HAEC treated with siRNA for
+  REST or siRNA scramble. The top 5 upregulated and downregulated pathways are shown.
+  P-values were calculated with a permutation test implemented in GSEA and all pathways
+  shown are significant at an FDR < 0.05. Each data point reflects a measurement obtained
+  from multiple cells in one biological replicate. B. Heatmap of expression of endMT
+  related genes in HAEC treated with siRNA for REST or siRNA scramble. Colors represent
+  the average log2 expression for each biological replicate normalized with the rlog
+  method based on DESeq2 in RNA-seq. For presentation purposes all genes are row normalized
+  by dividing with the average value in control samples. Groups were compared with
+  a Wald test as implemented in DESeq2 and all genes shown are significant at an FDR
+  < 0.005. C. Western blot with corresponding quantification data and D. Immunofluorescence
+  of endothelial (PECAM1, NOS3) and mesenchymal (ASMA, TAGLN) proteins in HAEC treated
+  with siRNA for REST or siRNA scramble. Each data point reflects a measurement obtained
+  from multiple cells in one biological replicate. E. Endothelial monolayer permeability
+  and endothelial cell migration in transwell assays in HAEC treated with siRNA for
+  REST or siRNA scramble. In C-E, linear mixed models were used to account for nesting
+  structure from 2-3 independent experiments with n=2-4 replicates each. Each data
+  point reflects a measurement obtained from multiple cells in one biological replicate
+article_title: Functional Genomics Link REST to Endothelial Plasticity and Atherosclerosis
+citation: Maria Viskadourou, et al. Circ Res. 2026 Jan 02;138(1).
+year: '2026'
+pub_date: 2026-1-02
+epub_date: '2025-11-26'
+doi: 10.1161/CIRCRESAHA.125.326628
+journal_title: Circulation research
+journal_nlm_ta: Circ Res
+publisher_name: .na.character
+keywords:
+- GWAS
+- NRSF/REST
+- endothelial to mesenchymal transition
+- L1CAM
+- atherosclerosis
+- Atherosclerosis
+- Gene Expression and Regulation
+- Vascular Biology
+---

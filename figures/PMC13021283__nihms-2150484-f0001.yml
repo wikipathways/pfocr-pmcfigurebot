@@ -1,0 +1,39 @@
+---
+figid: PMC13021283__nihms-2150484-f0001
+pmcid: PMC13021283
+image_filename: jpg
+figure_link: /pmc/articles/PMC13021283/figure/F1/
+number: Fig. 1.
+figure_title: SOS1i enhances EGFRi potency by inhibiting adaptive RAF/MEK/ERK pathway
+  reactivation
+caption: (A) Dose response curves for the indicated EGFR-mutated NSCLC cell lines
+  treated with increasing (semi-log) doses of the EGFRi osimertinib alone (black)
+  or in the presence of 300 nM SOS1i BI-3406 (red) under 3D spheroid culture conditions
+  for 72 hours. (B) Heat map of cell viability and excess over Bliss (EOB) for the
+  indicated EGFR-mutated NSCLC cell lines treated with increasing (semi-log) doses
+  of the EGFRi osimertinib (10−11 – 10−8)], the SOS1i BI-3406 (10−9.5 – 10−6.5)],
+  or the combination of EGFRi + SOS1i under 3D spheroid culture conditions for 72
+  hours. For A-B, data are the mean (± SD in A) from N=3 independent experiments;
+  each experiment had n=3 technical replicates. (C and D) The sum of excess over Bliss
+  values over the combination treatment matrix (C) and quantitation of the fold change
+  in EGFRi potency (log α2) versus % change in EGFRi efficacy (βobs) (D) for the indicated
+  cells treated with EGFRi + SOS1i. Data are mean ± SD from N=3 independent experiments;
+  ** p < 0.01 vs Bliss independence (EOB = 0). (E to G) Western blots (E-F) and quantitation
+  of pERK / total protein (G-H) of WCLs of H1975, HCC827, PC9, or PC9-TM cells treated
+  with increasing doses of EGFRi ± 300 nM SOS1i for 24 hours (E, G) or 100 nM EGFRi
+  ± 300 nM SOS1i for the indicated times (F, H). Western blots are for pERK, ERK,
+  and tubulin. Western blots are representative from N=3 independent experiments,
+  quantifications are mean ± SD (C, D) from N = 3 independent experiments. * p < 0.05,
+  ** p < 0.01, *** p < 0.001 by Student’s t-test
+article_title: SOS1 inhibition suppresses the emergence of osimertinib resistance
+  to generate a durable response in EGFR-mutant lung cancer
+citation: Brianna R Daley, et al. Sci Signal. 2025 Nov 25;18(914).
+year: '2025'
+pub_date: '2025-11-25'
+epub_date: '2025-11-25'
+doi: 10.1126/scisignal.aea2788
+journal_title: Science signaling
+journal_nlm_ta: Sci Signal
+publisher_name: .na.character
+keywords: []
+---

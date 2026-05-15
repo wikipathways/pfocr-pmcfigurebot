@@ -1,0 +1,43 @@
+---
+figid: PMC12692127__ijms-26-11486-g001
+pmcid: PMC12692127
+image_filename: jpg
+figure_link: /pmc/articles/PMC12692127/figure/F1/
+number: Figure 1
+figure_title: (A) Schematic of nitric oxide (NO) signaling and associated pathways.
+caption: (A) Schematic of nitric oxide (NO) signaling and associated pathways. NO
+  is produced via different pathways in mammals and plants. In mammals, it is generated
+  through an oxidative pathway by nitric oxide synthase (NOS), while in plants, a
+  reductive pathway involving nitrate reductase (NR) is a major source. NO reacts
+  with glutathione (GSH) in an O2-dependent manner to form S-nitrosoglutathione (GSNO).
+  GSNO functions as a stable NO reservoir and carrier, transferring its NO moiety
+  to the sulfhydryl (-SH) group of a cysteine residue on target proteins. This process
+  is called S-nitrosylation, a unique redox-based post-translational modification
+  that forms S-nitrosothiols (SNOs). In contrast, the conserved enzyme GSNO reductase
+  (GSNOR) facilitates de-nitrosylation by reducing GSNO to glutathione disulfide (GSSG)
+  and ammonium (NH4+) using an electron donor from NADH. The balance between S-nitrosylation
+  and de-nitrosylation is crucial for regulating diverse biological processes. Figure
+  was created with the software BioRender (https://www.biorender.com/). (B) An unrooted
+  phylogenetic tree was prepared using the neighbor-joining method with a bootstrap
+  value of 1000 in the Mega tool and iTOL (https://itol.embl.de/, accessed on 15 September
+  2025). The protein sequences were downloaded from the NCBI database (https://www.ncbi.nlm.nih.gov/,
+  accessed on 10 September 2025) and used to analyze the evolutionary relationships
+  among the GSNOR orthologs
+article_title: 'The Central Role of GSNOR: Decoding Nitric Oxide Signaling for Crop
+  Stress Tolerance'
+citation: Ashim Kumar Das, et al. Int J Mol Sci. 2025 Dec;26(23).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-11-27'
+doi: 10.3390/ijms262311486
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- nitric oxide
+- abiotic stress
+- biotic stress
+- GSNOR
+- nanoparticles
+- signaling mechanisms
+---

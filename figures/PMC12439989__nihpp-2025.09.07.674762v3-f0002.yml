@@ -1,0 +1,41 @@
+---
+figid: PMC12439989__nihpp-2025.09.07.674762v3-f0002
+pmcid: PMC12439989
+image_filename: jpg
+figure_link: /pmc/articles/PMC12439989/figure/F2/
+number: Figure 2 |
+figure_title: Construction and validation of directed connectomes across species
+caption: '(a) Allen Brain Atlas (ABA) regions of interest (ROIs) with tracer injection
+  sites (left) and distribution of ROI coverage by individual injections (right),
+  showing ~50% average coverage per region.(b) Representative viral tracer experiment
+  (EXP ID: 100140756), with tracer-labeled projections overlaid in yellow on structural
+  MRI slices.(c) Cross-modal validation of tracer–tractography correspondence. Tractography
+  seeded from injection sites reproduced >90% of seed-only tracts when constrained
+  with tracer-defined endpoints, far exceeding random controls (Wilcoxon signed-rank
+  test, one-tailed, “greater”: W = 680,071, p ≪ 0.0001, r = 0.80).(d) Connectivity
+  matrices of diffusion MRI tractography (streamline counts, left) and viral tracing
+  (projection densities, right) at the ABA ROI level, showing broadly consistent patterns
+  of inter-regional connectivity.(e) Whole-brain diffusion MRI tractography reconstructions
+  for mouse, marmoset, rhesus macaque, and human, illustrating species differences
+  in scale and complexity of reconstructed pathways.(f) Distribution of normalized
+  axonal lengths (left) and inverse projection densities (right), providing the inputs
+  to the effective connection cost metric.(g) Directed connectivity matrices of effective
+  connection cost for mouse, marmoset, rhesus macaque, and human, integrating tracer-defined
+  polarity with species-specific axonal lengths. Lower costs correspond to shorter,
+  stronger projections and form the basis for downstream path efficiency analyses'
+article_title: Directed connectomes across species reveal conserved and divergent
+  pathways of neural signaling
+citation: Siva Venkadesh, et al. bioRxiv. 2025 Dec 02;NA(NA).
+year: '2025'
+pub_date: '2025-12-02'
+epub_date: '2025-12-02'
+doi: 10.1101/2025.09.07.674762
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Directed connectome
+- Diffusion MRI
+- Viral tracing
+- Cross-species neuroscience
+---

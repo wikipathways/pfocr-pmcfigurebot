@@ -1,0 +1,42 @@
+---
+figid: PMC12890492__jciinsight-10-195242-g083
+pmcid: PMC12890492
+image_filename: jpg
+figure_link: /pmc/articles/PMC12890492/figure/F7/
+number: Figure 7
+figure_title: ETS1 regulates PPARγ via the CRTC2 pathway in human HSCs
+caption: (A) Schematic illustration of dsiRNA transfection and rosiglitazone treatment.
+  Human HSCs were transfected with dsiRNA for 48 hours and treated with recombinant
+  human TGF-β1 protein (5 ng/mL) with or without rosiglitazone (20 μM or vehicle)
+  for 24 hours. (B) The expression of fibrogenic genes was measured in ETS1-targeting
+  dsiRNA-transfected HSCs after rosiglitazone treatment by qRT-PCR. (C) ETS1 direct
+  target genes were overlapping with the genes downregulated in ETS1 knockdown HSCs
+  (vs. HSCs infected with nontargeting shRNA) in our RNA-Seq dataset. ETS1 target
+  genes were identified from the ENCODE and ChEA databases. (D) ETS1 locus-specific
+  ChIP-qPCR analysis was performed using human HSCs. (E and F) Human HSCs were transfected
+  with ETS1-targeting dsiRNA or dsiNC (dsi-negative control). (E) CRTC2 and (F) CRTC2
+  downstream genes were measured using Western blot analysis or qRT-PCR. (G) Human
+  HSCs were transfected with 3 different CRTC2-targeting dsiRNA or dsiNC (dsi-negative
+  control) for 48 hours, and the efficiency of gene knockdown was measured by qRT-PCR.
+  (H) mRNA expression of PPARGC1A and PPARG in CRTC2-targeting dsiRNA-transfected
+  HSCs. (I) mRNA expression of fibrogenic markers was measured in dsiCRTC2-transfected
+  HSCs. (J) Schematic illustration of the underlying mechanism by which ETS1 regulates
+  the HSC phenotype through CRTC2. Data are expressed as the mean ± SD; *P < 0.05,
+  **P < 0.01, and ***P < 0.001, 1-way ANOVA followed by Tukey’s test
+article_title: ETS1 suppresses hepatic stellate cell activation and liver fibrosis
+citation: Wonseok Lee, et al. JCI Insight. 2025 Nov 4;10(24).
+year: '2025'
+pub_date: 2025-11-4
+epub_date: 2025-11-4
+doi: 10.1172/jci.insight.195242
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Cell biology
+- Gastroenterology
+- Hepatology
+- Extracellular matrix
+- Fibrosis
+- Molecular pathology
+---

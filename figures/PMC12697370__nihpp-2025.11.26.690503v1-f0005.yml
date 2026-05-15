@@ -1,0 +1,51 @@
+---
+figid: PMC12697370__nihpp-2025.11.26.690503v1-f0005
+pmcid: PMC12697370
+image_filename: jpg
+figure_link: /pmc/articles/PMC12697370/figure/F5/
+number: Figure 5.
+figure_title: UHRF1 overexpression causes pleiotropic senescence phenotypes
+caption: A. Violin plot of the enrichment score calculated on all genes in the KEGG
+  Senescence pathway in hepatocytes. B. Heatmap of key genes involved in senescence
+  with Log2FC calculated from hUHRF1 compared Controls for each population. C. UMAP
+  of hepatocytes divided in high (top 10 % EGFP expressing cells), mid and low (bottom
+  10 % EGFP expressing cells) based on EGFP expression in hUHRF1 and control livers.
+  D. Percent of cells in each population that have high, mid or low expression of
+  EGFP. ** p-value < 0.01, *** p-value < 0.001, **** p-value < 0.0001 by Chi-square
+  test on percentage of high cells in hUHRF1 compared controls for each population.
+  E. Heatmap of a panel of genes involved in Senescence. Log2FC is calculated as enriched
+  genes in each category for hUHRF1 compared to Controls. F. Chord diagram of cell-cell
+  communication of Hep populations divided in high, mid low EGFP expression with mesenchymal
+  cells and macrophages. The width of each chord representing the proportion of cells
+  with that signal and the arrows representing the direction of the signal. G. Representative
+  images of hUHRF1-EGFP and nls-mCherry in controls and hUHRF1 at 120 hpf. Quantification
+  of cells positive for EGFP and mCherry, EGFP only and mCherry only in Tg(fabp10a:hUHRF1;nls-mCherry)
+  and controls (mCherry) livers. H. Quantification of scaled fluorescent intensity
+  normalized on maximum intensity for each channel for each liver of EGFP and mCherry
+  in hUHRF1;mCherry livers and controls across time points. I. EdU incorporation at
+  96 hpf in hUHRF1 and control livers in WT background or with tp53−/−, atm−/−, 10
+  μM of VE821 (iATR) alone or combination with atm−/−. n.s. p-value > 0.05 with unpaired
+  t-test. L. EdU incorporation in hUHRF1, WT control, tp53−/−;hUHRF1 and tp53−/− livers
+  at 5, and 10 dpf. * p-value < 0.05 by unpaired t-test. M. Percent of EdU positive
+  cells that are either EGFP positive or negative. **** p-value < 0.0001 by Chi-square
+  test. N. Relative intensity of EGFP in each cell, normalized for each liver on the
+  most EGFP expressing cells, in hUHRF1 (WT) and tp53−/−;hUHRF1(tp53−/−). For each
+  panel, number of biological replicates (clutches) is indicated
+article_title: UHRF1 Overexpression Generates Distinct Senescent States with Different
+  Tp53 Dependencies
+citation: Elena Magnani, et al. bioRxiv. 2025 Nov 30;NA(NA).
+year: '2025'
+pub_date: '2025-11-30'
+epub_date: '2025-11-30'
+doi: 10.1101/2025.11.26.690503
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Senescence
+- DNA methylation
+- tp53
+- zebrafish
+- preneoplastic
+- liver cancer
+---

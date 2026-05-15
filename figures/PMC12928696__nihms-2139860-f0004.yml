@@ -1,0 +1,33 @@
+---
+figid: PMC12928696__nihms-2139860-f0004
+pmcid: PMC12928696
+image_filename: jpg
+figure_link: /pmc/articles/PMC12928696/figure/F4/
+number: Fig. 4.
+figure_title: GO, KEGG, and PPI network analyses.
+caption: 'GO, KEGG, and PPI network analyses.A) Significant clusters in the PPI network
+  analysis using the STRING database. B) Schematic representation of hub genes screened
+  by the degree in the PPI network. The node size and colour are positively correlated
+  with degree: brown indicates a larger degree, and blue indicates the minimum degree.
+  C) KEGG pathway enrichment analysis without multiple testing adjustment. D) GO biological
+  function enrichment analysis after FDR correction. PPI, protein-protein interaction;
+  GO, Gene Ontology; KEGG, Kyoto Encyclopedia of Genes and Genomes; BP, biological
+  process; MF, molecular function. (For interpretation of the references to colour
+  in this figure legend, the reader is referred to the web version of this article.)'
+article_title: A comprehensive multi-layered analysis reveals genetic pleiotropy underlying
+  coronary artery calcification and bone mineral density
+citation: Tao Han, et al. Bone. 2026 Feb;203(NA).
+year: '2026'
+pub_date: 2026-2-
+epub_date: '2025-11-06'
+doi: 10.1016/j.bone.2025.117719
+journal_title: Bone
+journal_nlm_ta: Bone
+publisher_name: .na.character
+keywords:
+- Coronary artery calcification
+- Bone mineral density
+- Genetic correlation
+- Pleiotropic loci
+- Calcification paradox
+---
