@@ -1,0 +1,40 @@
+---
+figid: PMC12649271__antioxidants-14-01320-g004
+pmcid: PMC12649271
+image_filename: jpg
+figure_link: /pmc/articles/PMC12649271/figure/F4/
+number: Figure 4
+figure_title: Effects of CHA on skin metabolite profiles of a photoaged mouse model.
+caption: Effects of CHA on skin metabolite profiles of a photoaged mouse model. (A,B)
+  OPLS-DA score plots of NC vs. MC and CHA vs. MC comparisons. Data obtained in the
+  positive and negative ionization modes in the UPLC-MS/MS of each group were combined
+  for OPLS-DA. Model predictability and statistical validity were evaluated using
+  a permutation test, and the parameters are shown in Figure S5. The obtained R2Y
+  value and Q2 value demonstrate the goodness of fit and predictability of each model,
+  respectively. Data are obtained from six independent biological replicates. (C,D)
+  Function annotation of unambiguously identified DEMs in NC vs. MC and CHA vs. MC
+  comparisons based on KEGG pathway enrichment analysis. The corresponding categories
+  at Level 1 are labeled in green. Differential functional pathways at Level 2 are
+  labeled in black. (E,F) Visualization of differential lipids and amino acids in
+  NC vs. MC and CHA vs. MC comparisons. These metabolites were identified through
+  ion annotation and further confirmed by standards. The heatmaps display the Z-scored-normalized
+  abundance of differential metabolites. Red reflects a higher level of abundance,
+  and blue reflects a lower level of abundance. The VIP score is obtained from OPLS-DA
+  analysis. * p < 0.05, ** p < 0.01, *** p < 0.001
+article_title: 'Chamazulene Induces Metabolic Reprogramming and Mitigates Inflammation
+  in Photoaged Skin: PPARα/γ as Potential Regulators'
+citation: Ying Zhou, et al. Antioxidants (Basel). 2025 Nov;14(11).
+year: '2025'
+pub_date: 2025-11-
+epub_date: '2025-10-31'
+doi: 10.3390/antiox14111320
+journal_title: Antioxidants
+journal_nlm_ta: Antioxidants (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- chamazulene
+- photoaging
+- PPARα/γ
+- metabolic reprograming
+- inflammation
+---

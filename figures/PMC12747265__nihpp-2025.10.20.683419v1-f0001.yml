@@ -1,0 +1,35 @@
+---
+figid: PMC12747265__nihpp-2025.10.20.683419v1-f0001
+pmcid: PMC12747265
+image_filename: jpg
+figure_link: /pmc/articles/PMC12747265/figure/F1/
+number: Figure 1.
+figure_title: SUV420H1 is amplified and is associated with worse overall survival
+  in HPV-negative HNSCC
+caption: '(A) Violin plots comparing SUV420H1 mRNA expression between normal epithelium
+  (buccal mucosa or bronchial) and HPV-negative HNSCC (left) or lung SCC (LUSCC) tumors
+  (right) with or without SUV420H1 gain/amplification. Firehose Legacy, TCGA. Wilcoxon
+  rank-sum test; * p<0.05, ** p<0.01, *** p<0.001. (B) Correlation of copy number
+  gain and amplification with mRNA expression of SUV420H1 in HPV-negative HNSCC (left)
+  and LUSCC (right). Firehose Legacy, TCGA. Wilcoxon rank-sum test, * p<0.05, ** p<0.01,
+  *** p<0.001. (C) Gene Set Enrichment Analysis (GSEA) using the HPV-negative HNSCC
+  (left) and LUSCC (right) cohorts of the Firehose Legacy, TCGA. SUV420H1 mRNA expression
+  is associated with IFN-related, cell cycle and epithelial-mesenchymal transition
+  (EMT) gene signatures in patients with HPV-negative HSNCC and LUSCC. The GSEA was
+  performed on a ranked gene list. Genes were ranked by their Pearson correlation
+  with SUV420H1 mRNA. The top 15 pathways are presented here based on adjusted p-values.
+  (D) Kaplan-Meier overall survival curve of HPV-negative HNSCC patients dichotomized
+  by SUV420H1 mRNA expression levels (TCGA). Log-rank p-value. HR: hazard ratio. High
+  group was defined by the top 10% of SUV420H1 mRNA expression'
+article_title: Oncogenic and immunomodulatory functions of SUV420H1 in HPV-negative
+  head and neck squamous cell carcinoma
+citation: Arfa Moshiri, et al. bioRxiv. 2025 Oct 20;NA(NA).
+year: '2025'
+pub_date: '2025-10-20'
+epub_date: '2025-10-20'
+doi: 10.1101/2025.10.20.683419
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

@@ -1,0 +1,35 @@
+---
+figid: PMC12636739__nihpp-rs7670521v1-f0003
+pmcid: PMC12636739
+image_filename: jpg
+figure_link: /pmc/articles/PMC12636739/figure/F3/
+number: Figure 3
+figure_title: In vivo perturbation of the IRD, the ER and the UPS pathway genes
+caption: A-B. Sixty-three retina-expressed genes were perturbed in the primary screen,
+  employing six targeting gRNAs/gene and 100 non-targeting control gRNAs. Considering
+  a dropout rate of least 30% (i.e., Fold change 0.7) and more than one significant
+  gRNA/gene, 10 genes were significantly depleted in the Cas9+/− mice compared to
+  the controls. None of the gRNAs showed enrichment in the Cas9+/− mice, and only
+  one non-targeting guide showed depletion of 20%.Of the 10 most significantly depleted
+  genes, five were known non-syndromic IRD genes (Aipl1, Pde6a, Pde6b, Prpf8, Rho)
+  (A), while the other five were ER or UPS pathway genes (Hspa5, Ufd1, Hyou1, Eif2s1,
+  Nploc4) (B).C-D. Validation screen results. Validation was performed by perturbing
+  14 genes with 10 gRNAs/gene, corresponding to the most significant ER genes and
+  all eight control IRD genes. One hundred non-targeting control gRNAs were also included
+  in the library. The screen confirmed significant depletion of gRNAs targeting five
+  non-syndromic IRD genes (Aipl1, Pde6a, Pde6b, Prpf8, Rho) (C). Guide RNAs for six
+  ER genes (Hspa5, Nploc4, Eif2s1, Ufd1, Cul1, and Skp1) showed significant depletion,
+  with the strongest effect size and largest number of positive gRNAs detected for
+  Hspa5, Eif2s1, Nploc4, and Ufd1 (D)
+article_title: Elucidating photoreceptor gene function with in-vivo CRISPR knock-out
+  perturbation assay
+citation: Riccardo Sangermano, et al. Res Sq. 2025 Oct 27;NA(NA).
+year: '2025'
+pub_date: '2025-10-27'
+epub_date: '2025-10-27'
+doi: 10.21203/rs.3.rs-7670521/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords: []
+---

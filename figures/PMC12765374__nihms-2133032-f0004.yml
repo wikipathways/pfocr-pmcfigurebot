@@ -1,0 +1,41 @@
+---
+figid: PMC12765374__nihms-2133032-f0004
+pmcid: PMC12765374
+image_filename: jpg
+figure_link: /pmc/articles/PMC12765374/figure/F4/
+number: Figure 4.
+figure_title: Time specific alterations in Kupffer Cells transcript expression during
+  early exposure to EtOH
+caption: A. tSNE representation of clustering of the total cell populations in the
+  FACS sorted cells shown by time point. Chow, day 3 EtOH, and day 10 of EtOH show
+  altered abundance of clusters including both cluster loss (red cluster) and gain
+  (green cluster) after EtOH exposure. B. Expression map superimposed on the tSNE
+  representation showing expression of Timd4 at each time point. C. Timepoint-specific
+  heatmap representation of the top differentially expressed genes for each of the
+  myeloid clusters represented in Figure 3C as Chow (pink), day 3 EtOH (green), and
+  day 10 EtOH (blue). Selected genes with significant time point variation are noted
+  in the figure. The full list of genes names is available in Supplemental Table 3.
+  D. Heatmap representation of activated (red) and inhibited (blue) upstream regulators
+  based on comparative analysis using Ingenuity Pathway Analysis of cluster 0 differentially
+  expressed genes at chow vs day 3 EtOH (left column) and chow vs. day 10 EtOH (right
+  column). E. Violin plots for sentinel genes per cluster showing relative expression
+  each day for each cluster. Clec4f represents a Kupffer Cell identify gene, Tyrobp
+  represents a proinflammatory gene and Mrc1 is an anti-inflammatory gene. F. Schematic
+  diagram illustrating the experimental design of co-culture experiments in panel
+  G. Isolated, MACS-sorted CD11b-expressing total liver macrophages were co-cultured
+  with AML12 hepatocytes for 12 hours in a transwell coculture system. G. mRNA expression
+  of indicated genes from AML12 hepatocytes cocultured with primary macrophages from
+  Chow, Day 3 EtOH, and Day 10 EtOH mice. Data represent means ± SEM (G). n = 2 to
+  4 (G). *P < 0.05, **P < 0.01, ***P < 0.001 (t-test). Schematic diagram (F) was created
+  using BioRender.com (last accessed August 25th, 2025)
+article_title: Liver macrophage changes during early adaptation to alcohol exposure
+citation: Kyle Yuquimpo, et al. Am J Pathol. 2026 Jan;196(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-10-31'
+doi: 10.1016/j.ajpath.2025.10.004
+journal_title: The American journal of pathology
+journal_nlm_ta: Am J Pathol
+publisher_name: .na.character
+keywords: []
+---

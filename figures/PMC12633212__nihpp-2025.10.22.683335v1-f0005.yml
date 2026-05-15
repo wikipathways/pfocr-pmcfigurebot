@@ -1,0 +1,62 @@
+---
+figid: PMC12633212__nihpp-2025.10.22.683335v1-f0005
+pmcid: PMC12633212
+image_filename: jpg
+figure_link: /pmc/articles/PMC12633212/figure/F5/
+number: Figure 5 |
+figure_title: Single-cell modeling and analysis of mitophagy pathway dysregulation
+  in T2D β cell subtypes identifies PINK1/BNIP3/FUNDC1 as key mitophagy regulators
+caption: a, Receiver operating characteristic (ROC) curve illustrating performance
+  of the Algorithm Swan logic-based model trained on mitophagy pathway features, with
+  area under the curve (AUROC) as indicated. b, Heatmaps showing the top 30 ranked
+  mitophagy candidate genes (by mean module score) in female and male β cell subtypes
+  (ND and T2D), based on pathway module scoring. c, Dot plots depicting scaled average
+  expression (color) and percent of cells expressing (dot size) key mitophagy pathway
+  genes for β cell subtypes, stratified by sex and disease status. d, UMAP plots showing
+  single-cell expression of PINK1 for male and female β cells in ND (left) and T2D
+  (right) groups. e, Correlation between mean PINK1 expression per donor and mean
+  disease score, colored by sex and disease, with Pearson correlation coefficients
+  and p-values indicated. f, Interaction analysis linking PINK1 with mitophagy genes
+  identifies T2D-associated modifiers in male and female β cells (log-odds effects
+  shown). Dashed line of y-axis marks −log10FDR of 1.301 (~FDR=0.05). Genes in red
+  (FDR<0.05), yellow (p<0.05). g, Dot plots showing average expression (color) and
+  percentage (size) of candidate PINK1 regulatory genes in β cell subtypes, stratified
+  by sex and disease status. h, Distribution of PINK1+ cells based on raw RNA counts
+  in pseudo-perturbation analysis, stratified by sex. i, Sankey diagram showing upregulated
+  pathways (with FDR-adjusted p-values) in PINK1+ ND β cells versus PINK1+ T2D β cells,
+  colored by pathway category as indicated. j, Heatmap of curated mitophagy machinery
+  and receptor/adapter genes (grouped by function) showing scaled mean expression
+  for WT and Pink1−/− kidney at 4 and 24 months; columns are ordered to emphasize
+  blocks within core mitophagy, receptors/adapters, and QC/stress modules. k, Heatmap
+  for fusion/fission, biogenesis, OXPHOS, and detox/chaperone programs, highlighting
+  coordinated remodeling of mitochondrial dynamics and respiratory complexes in Pink1−/−
+  relative to WT over time. l, Down-regulated pathway landscape in Pink1−/− versus
+  WT at 4 and 24 months; dot size encodes −log10(FDR)+1 and colors denote pathway
+  families (e.g., mitophagy, apoptosis, mitochondrial dynamics/fission, OXPHOS, stress/ROS,
+  development/morphogenesis, localization/transport, ECM, PI3K-Akt), indicating broad
+  suppression of mitochondrial maintenance and oxidative metabolism. m, Patch-seq
+  electrophysiology summary for β1 cells and all β cells (ND and T2D), stratified
+  by PINK1 status (PINK1−, PINK1+). Scaled means are shown for capacitance, Na+ and
+  Ca2+ currents (peak/late), Na+ half-inactivation, cell size, and Ca2+ integral/size
+  for stimulus steps; asterisks mark significant differences (*p<0.05). Patterns are
+  consistent with altered excitability and calcium handling in PINK1-defined states.
+  All p-values are two-sided; multiple comparisons were controlled with Benjamini-Hochberg
+  FDR as detailed in methods. All p-values and FDR-adjusted values are shown as stated
+  in each panel; statistical methods are detailed in methods
+article_title: Supervised machine learning identifies impaired mitochondrial quality
+  control in β cells with development of type 2 diabetes
+citation: Mirza Muhammad Fahd Qadir, et al. bioRxiv. 2025 Oct 23;NA(NA).
+year: '2025'
+pub_date: '2025-10-23'
+epub_date: '2025-10-23'
+doi: 10.1101/2025.10.22.683335
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Type 2 diabetes
+- Mitophagy
+- Rule based classifier
+- Machine learning
+- Disease prediction
+---

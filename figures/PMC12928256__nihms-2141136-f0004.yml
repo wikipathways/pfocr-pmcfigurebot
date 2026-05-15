@@ -1,0 +1,35 @@
+---
+figid: PMC12928256__nihms-2141136-f0004
+pmcid: PMC12928256
+image_filename: jpg
+figure_link: /pmc/articles/PMC12928256/figure/F4/
+number: Figure 4.
+figure_title: Integration of metabolomic and transcriptomic datasets.
+caption: 'Integration of metabolomic and transcriptomic datasets. A: significantly
+  altered metabolites in the γ-irradiated HIOs were subjected to pathway enrichment
+  (MetaboAnalyst 6.0). Enriched pathways for either crypt HIOs or villi HIOs, which
+  have a P value < 0.05, are shown. B: a gene-metabolite interaction network was generated
+  (MetaboAnalyst 6.0) using the 25 DEGs of villi γ-irradiated HIOs, which are associated
+  with significantly changed metabolites. Red circles indicate genes upregulated with
+  γ irradiation, whereas green circles represent downregulated genes. Blue squares
+  are indicative of metabolites significantly altered in the HIOs. HIOs from five
+  individual donors were included, and pooled technical replicates for each donor
+  were subjected to analysis. DEGs, differentially expressed genes; HIOs, human intestinal
+  organoids'
+article_title: Distinct molecular responses of human intestinal organoids to proton
+  and photon radiation
+citation: Victoria Poplaski, et al. Am J Physiol Gastrointest Liver Physiol. 2025
+  Dec 01;329(6).
+year: '2025'
+pub_date: '2025-12-01'
+epub_date: '2025-10-30'
+doi: 10.1152/ajpgi.00186.2025
+journal_title: American journal of physiology. Gastrointestinal and liver physiology
+journal_nlm_ta: Am J Physiol Gastrointest Liver Physiol
+publisher_name: .na.character
+keywords:
+- intestine
+- organoids
+- radiation
+- stem cell reversion
+---

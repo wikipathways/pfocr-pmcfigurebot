@@ -1,0 +1,40 @@
+---
+figid: PMC12621679__nihpp-2025.10.03.680371v2-f0002
+pmcid: PMC12621679
+image_filename: jpg
+figure_link: /pmc/articles/PMC12621679/figure/F2/
+number: Fig. 2.
+figure_title: In vitro screening reveals that microbiome-associated metabolites perturb
+  genes and pathways linked to age-associated neurodegenerative disease.
+caption: 'In vitro screening reveals that microbiome-associated metabolites perturb
+  genes and pathways linked to age-associated neurodegenerative disease. (A) Schematic
+  illustrating the setup of the in vitro transcriptomic screen. The full panel of
+  30 metabolites was distributed across four sequencing batches, with each metabolite
+  included in one batch. Within each batch, at least n=3 wells were treated with each
+  assigned metabolite, its respective vehicle control, or the LPS control (see Methods
+  and Supplementary Table 3). (B) Top enriched KEGG pathways for the genes significantly
+  upregulated by the LPS control in the first sequencing batch. The analogous results
+  for batches #2–4 are presented in Fig. S2. The non-specific “KEGG root term” was
+  filtered out. (C) Number of differentially expressed genes (DEGs) per metabolite
+  in the KEGG pathways for Alzheimer’s Disease (AD) and Parkinson’s Disease (PD).
+  Metabolites impacting at least 5 unique AD/PD genes are shown. (D) Identity and
+  characteristics of the four metabolites chosen for subsequent in vivo validation
+  of their effects on the brain. IAA = indoleacetic acid, GDCA = glycodeoxycholic
+  acid, TMAO = trimethylamine N-oxide, PA = palmitic acid, AD = Alzheimer’s Disease,
+  PD = Parkinson’s Disease, GF = germ-free, CSF = cerebrospinal fluid. GUTSY refers
+  to the GUTSY Atlas22, which reports microbiome-attributable variance in blood levels
+  for 1,168 blood metabolites. Structure diagrams were produced with rdkit47. Relevant
+  studies (e.g., those reporting metabolite detection in CSF or brain) are cited in
+  the text'
+article_title: Age-related microbiome metabolites alter RNA splicing and chromatin
+  accessibility in the brain
+citation: Meenakshi Chakraborty, et al. bioRxiv. 2025 Nov 02;NA(NA).
+year: '2025'
+pub_date: '2025-11-02'
+epub_date: '2025-11-02'
+doi: 10.1101/2025.10.03.680371
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

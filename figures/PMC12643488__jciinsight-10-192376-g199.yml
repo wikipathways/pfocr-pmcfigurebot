@@ -1,0 +1,42 @@
+---
+figid: PMC12643488__jciinsight-10-192376-g199
+pmcid: PMC12643488
+image_filename: jpg
+figure_link: /pmc/articles/PMC12643488/figure/F8/
+number: Figure 8
+figure_title: CUT&RUN sequencing reveals RIP140 targets involved in mitochondrial
+  function, angiogenesis, and the NMJ
+caption: (A) GO Biological Process pathways and (B) Cellular Component pathways based
+  on analysis of genes near increased H3K27ac peaks in Nrip1–/– myotubes compared
+  to WT control primary myotubes. (C) Intersection analysis of upregulated H3K27ac
+  gene annotated peaks in Nrip1–/– myotubes and upregulated differentially expressed
+  genes (DEGs) in strKO gastrocnemius compared to their corresponding controls. GO
+  biological process pathways are represented from the intersected gene list. (D)
+  Representative CUT&RUN sequencing browser tracks from Dgat2, Fgfbp1, and Wnt16 comparing
+  Nrip1–/– and WT control. Browser tracks were obtained utilizing the Integrative
+  Genomics Viewer (https://igv.org/) displayed as sequence reads mapped to the reference
+  genome (mouse mm10). The gene locus is represented in the bottom segment of each
+  browser track and exon 1 (ex. 1) is labeled. Sequence read peaks are represented
+  on a log scale. (E) Gene expression of fatty acid metabolic and NMJ genes denoted
+  at the bottom comparing Nrip1–/– and WT control myotubes (n = 6–7 samples per group).
+  (F) ChIP-qPCR enrichment at Dgat2 and Wnt16 H3K27ac peaks identified by CUT&RUN
+  analyses and Hnfa (negative control) in 3x-HA-Nrip1–overexpressing (OE) and GFP
+  control C2C12 myotubes (n = 4 samples per group). Values are the mean ± SEM. *P
+  < 0.05 versus control by 2-tailed, unpaired Student’s t test (E and F)
+article_title: A role for the transcriptional coregulator RIP140 in the control of
+  muscle endurance fitness
+citation: Elizabeth Pruzinsky, et al. JCI Insight. 2025 Oct 21;10(22).
+year: '2025'
+pub_date: '2025-10-21'
+epub_date: '2025-10-21'
+doi: 10.1172/jci.insight.192376
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Metabolism
+- Muscle biology
+- Mitochondria
+- Skeletal muscle
+- Transcription
+---

@@ -1,0 +1,28 @@
+---
+figid: PMC12981656__nihms-2129196-f0010
+pmcid: PMC12981656
+image_filename: jpg
+figure_link: /pmc/articles/PMC12981656/figure/F10/
+number: Fig. 10.
+figure_title: Pathway Progression Index of select pathways.
+caption: Pathway Progression Index of select pathways. (a) and (b) show the maximum
+  PPI score for each tested pathway is Colon Cancer and COVID19 datasets respectively.
+  (c) show the PPI scored of each tested pathway per progression group in the Colon
+  Cancer dataset
+article_title: Inference of Tumor Progression Patterns in Colon Cancer Using Optimal
+  Cell Order Analysis in Single Cell Resolution
+citation: Marmar R. Moussa, et al. IEEE Trans Comput Biol Bioinform. 2025;22(6).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025--
+doi: 10.1109/TCBBIO.2025.3592571
+journal_title: IEEE transactions on computational biology and bioinformatics
+journal_nlm_ta: IEEE Trans Comput Biol Bioinform
+publisher_name: .na.character
+keywords:
+- Bioinformatics
+- clustering algorithms
+- genomics
+- RNA
+- tumors
+---

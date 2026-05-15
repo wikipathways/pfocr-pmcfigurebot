@@ -1,0 +1,33 @@
+---
+figid: PMC12664124__nihms-2119526-f0003
+pmcid: PMC12664124
+image_filename: jpg
+figure_link: /pmc/articles/PMC12664124/figure/F3/
+number: Fig. 3.
+figure_title: Schematic of the canonical and non-canonical NF-κB pathways
+caption: (Adapted from [20]). The canonical pathway (left) is induced by most physiological
+  NF-κB stimuli and is represented here by TNF, and IL-1 signaling. Stimulation of
+  the corresponding receptor activates the IKK complex (IKKα, IKKβ, and NEMO), leading
+  to IκBα phosphorylation in an IKK-dependent manner. This triggers IκBα polyubiquitination
+  and degradation, freeing RelA (p65):p50 heterodimer to translocate into nucleus
+  and activate target gene expression. The non-canonical pathway (right), induced
+  by selective cytokines such as CD40L and BAFF, depends on NIK-mediated activation
+  of IKKα. IKKα phosphorylates p100, promoting its partial processing into p52 and
+  forming transcriptionally active RelB:p52 complexes that translocate to the nucleus
+  to drive target gene expression
+article_title: 'Celebrating the 40-Year Milestone: NF-ĸB in Oncoimmunity'
+citation: Faranak Alipourgivi, et al. Cancer Lett. 2026 Jan 01;636(NA).
+year: '2026'
+pub_date: 2026-1-01
+epub_date: '2025-10-15'
+doi: 10.1016/j.canlet.2025.218087
+journal_title: Cancer letters
+journal_nlm_ta: Cancer Lett
+publisher_name: .na.character
+keywords:
+- cancer
+- immune checkpoint inhibitor
+- inflammation
+- NF-ĸB
+- tumor microenvironment
+---

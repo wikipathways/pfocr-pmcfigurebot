@@ -1,0 +1,41 @@
+---
+figid: PMC12632890__nihpp-2025.10.13.681937v2-f0007
+pmcid: PMC12632890
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632890/figure/F7/
+number: Figure 7.
+figure_title: Pharmacologic disruption of residual mSWI/SNF complex activities attenuates
+  DDEC tumor growth in vivo
+caption: A. Schematic depicting DDEC CDX and PDX tumor establishment and treatment
+  with vehicle, Cmp14, or dBRD9-A in NRG mice. B. Tumor volume (mm3) of XVOA14590
+  PDX model treated with either vehicle control, 20mg/kg IP Cmp14 (QD), or 50mg/kg
+  IP dBRD9-A (QD), p-values determined by two way ANOVA. C. Tumor burden measurements
+  for XVOA14590 PDX model treated with either vehicle control, Cmp14, or dBRD9-A.
+  D. GSEA C2 pathway analysis performed on RNA-seq profiles (merged; n=5) in each
+  treatment condition relative to vehicle control in XVOA14590 PDX model at day 16
+  (study endpoint). NES, normalized enrichment score. Selected pathways upregulated
+  (red) and downregulated (blue) are highlighted. E. Z-scored heatmap indicating concordantly
+  upregulated (red) and downregulated (blue) genes in two DDEC cell lines, VOA1066
+  and AN3CA, and in PDX model XVOA14590 in vivo. Selected genes are labeled. F. Tumor
+  burden measurements for VOA1066 CDX model treated with either vehicle or Cmp14.
+  G. Relative luciferase units for VOA1066 luciferase-GFP expressing CDX model treated
+  with either vehicle or FHD-286 over 25-day time course. H. Schematic representing
+  CDX and PDX tumor establishment and treatment with vehicle, FHD-286 (1.5mg.kg, oral,
+  QD), carboplatin (1.5mg/kg, IPl, weekly) and combination (FHD-286 and carboplatin)
+  in NRG mice. I. Kaplan-Meier curves performed on VOA1066 cell line CDX model (n=12
+  per condition) treated with either vehicle or FHD-286. J. Kaplan-Meier curve demonstrating
+  survival of n=12 per condition treated with conditions indicated. p-values determined
+  with two-tailed Students t-test for C, F and log rank test for G, I and J. Error
+  bars represent mean +/− S.E.M
+article_title: Shifted assembly and function of mSWI/SNF family subcomplexes underlie
+  targetable dependencies in dedifferentiated endometrial carcinomas
+citation: Jessica D. St. Laurent, et al. bioRxiv. 2025 Oct 15;NA(NA).
+year: '2025'
+pub_date: '2025-10-15'
+epub_date: '2025-10-15'
+doi: 10.1101/2025.10.13.681937
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

@@ -1,0 +1,61 @@
+---
+figid: PMC12963772__enm-2025-2448f5
+pmcid: PMC12963772
+image_filename: jpg
+figure_link: /pmc/articles/PMC12963772/figure/F5/
+number: Fig. 5.
+figure_title: Galectin-3-binding protein (LGALS3BP) activates toll-like receptor 2
+  (TLR2)-inhibitor of nuclear factor kappa-B kinase subunit alpha/beta (IKKα/β)-nuclear
+  factor kappa B (NF-κB) signaling to mediate inflammation-induced insulin resistance.
+caption: Galectin-3-binding protein (LGALS3BP) activates toll-like receptor 2 (TLR2)-inhibitor
+  of nuclear factor kappa-B kinase subunit alpha/beta (IKKα/β)-nuclear factor kappa
+  B (NF-κB) signaling to mediate inflammation-induced insulin resistance. (A, B) RNA
+  sequencing was performed on Hepa-1c1c7 cells treated with vehicle or recombinant
+  LGALS3BP (n=3). (A) Bubble diagram depicting significantly enriched Kyoto Encyclopedia
+  of Genes and Genomes (KEGG) pathways among upregulated differentially expressed
+  genes (DEGs). (B) Heatmap of KEGG pathway analysis illustrating NF-κB signaling
+  pathway target genes. (C) Relative mRNA expression of inflammatory markers, including
+  tumor necrosis factor alpha (Tnfα), interleukin 1 beta (Il1β), interleukin 6 (Il6),
+  and C-C motif chemokine ligand 2 (Ccl2), in Hepa-1c1c7 and HepG2 cells treated with
+  vehicle or recombinant LGALS3BP. (D) Immunoblot analyses showing phosphorylation
+  of IKKα/β, NF-κB p65, and insulin receptor substrate 1 (IRS1) at Ser307 in Hepa-1c1c7
+  and HepG2 cells treated with vehicle or recombinant LGALS3BP. (E) Immunoprecipitation
+  and Western blot analysis of Hepa-1c1c7 cell lysates expressing Flag-vector or Flag-LGALS3BP.
+  Protein complexes were immunoprecipitated using anti-Flag or control immunoglobulin
+  G (IgG) antibodies and analyzed via Western blotting with TLR2 and FLAG antibodies
+  to confirm the interaction between LGALS3BP and TLR2.(F) Predicted three-dimensional
+  (3D) structural model of the LGALS3BP (mouse)-TLR2 (mouse) complex generated using
+  AlphaFold-Multimer and visualized with PyMOL. The model depicts LGALS3BP (pink)
+  and TLR2 (cyan-green), with the Broad-complex, Tramtrack, and Bric-à-brac (BTB)
+  domain of LGALS3BP (red) predicted to interact with the leucine-rich repeat (LRR)
+  11-14 region of TLR2 (green). The right panel shows a magnified view of the boxed
+  interaction regions, highlighting the binding interface with key residues in the
+  BTB domain (yellow) and the LRR 11-14 region of TLR2 (green) indicated. (G, H) Western
+  blot analysis of phosphorylation levels of IKKα/β, NF-κB p65, and IRS1 (Ser307)
+  in (G) Hepa-1c1c7 cells treated with lipoteichoic acid (LTA) for various durations
+  (0, 1, 4, and 8 hours) and (H) LGALS3BP knockdown cells treated with LTA for 6 hours.
+  Statistical significance was determined using a two-tailed unpaired Student’s t
+  test. All quantitative data are presented as mean±standard error of the mean of
+  three independent experiments. AGE-RAGE, advanced glycation end-products–receptor
+  for advanced glycation end-products; FoxO, forkhead box protein O1; MAPK, mitogen-activated
+  protein kinase; PI3K, phosphatidylinositol 3-kinase; Akt, protein kinase B; rmLGALS3BP,
+  recombinant mouse LGALS3BP; rhLGALS3BP, recombinant human LGALS3BP; IP, immunoprecipitation;
+  IB, immunoblotting. aP<0.05, bP<0.01 compared to vehicle
+article_title: LGALS3BP Induces Insulin Resistance via TLR2-IKKα/β Pathway-Mediated
+  IRS1 Serine Phosphorylation
+citation: Minjeong Sung, et al. Endocrinol Metab (Seoul). 2026 Feb;41(1).
+year: '2026'
+pub_date: 2026-2-
+epub_date: '2025-10-21'
+doi: 10.3803/EnM.2025.2448
+journal_title: Endocrinology and Metabolism
+journal_nlm_ta: Endocrinol Metab (Seoul)
+publisher_name: Korean Endocrinology Society
+keywords:
+- LGALS3BP
+- Insulin resistance
+- Inflammation
+- Toll-like receptor 2
+- I-kappa B kinase
+- Insulin receptor substrate-1
+---

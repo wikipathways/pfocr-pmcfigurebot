@@ -1,0 +1,30 @@
+---
+figid: PMC12636590__nihpp-2025.10.27.684890v1-f0004
+pmcid: PMC12636590
+image_filename: jpg
+figure_link: /pmc/articles/PMC12636590/figure/F3/
+number: 'Figure 3:'
+figure_title: Sex-specific variations in pathway targeting scores with age in normal
+  thyroid.
+caption: Sex-specific variations in pathway targeting scores with age in normal thyroid.
+  The six plots show how the targeting scores change with age in each sex for six
+  groups of biological pathways (grouped according to KEGG hierarchy of pathways).
+  The pathway targeting score for a specific group of pathways is the sum of in-degrees
+  of all genes in that group of pathways. The x-axis represents age, and the y-axis
+  represents the gene targeting score of the corresponding group of pathways. Each
+  plot shows an aging trajectory curve computed for male samples (marked teal) and
+  a trajectory curve computed for female samples (marked reddish orange) in GTEx using
+  Locally Estimated Scatterplot Smoothing (LOESS). The grey shaded region around each
+  curve is the pointwise 95% confidence band
+article_title: 'Sex differences in thyroid aging and their implications in thyroid
+  disorders: insights from gene regulatory networks'
+citation: Enakshi Saha, et al. bioRxiv. 2025 Oct 28;NA(NA).
+year: '2025'
+pub_date: '2025-10-28'
+epub_date: '2025-10-28'
+doi: 10.1101/2025.10.27.684890
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

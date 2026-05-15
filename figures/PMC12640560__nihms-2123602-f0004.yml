@@ -1,0 +1,34 @@
+---
+figid: PMC12640560__nihms-2123602-f0004
+pmcid: PMC12640560
+image_filename: jpg
+figure_link: /pmc/articles/PMC12640560/figure/F4/
+number: Fig. 4.
+figure_title: Example of modeling in different imaging spaces for one patient (P06).
+caption: Example of modeling in different imaging spaces for one patient (P06). The
+  normative space used here is MNI2009b. All images are generated in StimVision. The
+  lead type is ABT6172, and STN, HDP, and CSBT are shown in orange, green, and blue,
+  respectively. Transformation into normative space introduces visually subtle warping
+  of the anatomical structures and the lead shaft. A) Illustration of the STN, lead,
+  and pathways in native space, B) Warped image in normative space before fitting
+  a lead shaft to a straight line between the contacts and tip. C) Warped image in
+  normative space after fitting a lead shaft to a straight line between the contacts
+  and tip
+article_title: Evaluation of DBS computational modeling methodologies using in-vivo
+  electrophysiology in Parkinson’s disease☆
+citation: Seyyed Bahram Borgheai, et al. Brain Stimul. 2025;18(6).
+year: '2025'
+pub_date: 2025--
+epub_date: '2025-10-27'
+doi: 10.1016/j.brs.2025.10.022
+journal_title: Brain stimulation
+journal_nlm_ta: Brain Stimul
+publisher_name: .na.character
+keywords:
+- Hyperdirect pathway
+- Corticospinal tract
+- Cortical evoked potential
+- Driving force
+- Volume of tissue activated
+- Normative space
+---

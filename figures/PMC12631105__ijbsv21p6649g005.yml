@@ -1,0 +1,42 @@
+---
+figid: PMC12631105__ijbsv21p6649g005
+pmcid: PMC12631105
+image_filename: jpg
+figure_link: /pmc/articles/PMC12631105/figure/F5/
+number: Figure 5
+figure_title: Cellular heterogeneity of stromal cells.
+caption: Cellular heterogeneity of stromal cells. (A) UMAP showing the COL1A1+ stromal
+  cells, colored by nine subclusters. (B) Heatmap of Ro/e values for fibroblast subclusters
+  across pathological and molecular subtypes. (C) Heatmap showing the GSVA enrichment
+  scores for hallmark pathways across COL1A1+ stromal cell subclusters. (D) UMAP illustrating
+  the developmental trajectories of fibroblasts across subclusters. (E) Volcano plot
+  showing differentially expressed genes in fibroblasts between muscle-invasive (MI)
+  and non-muscle-invasive (NMI) samples. (F) Lollipop chart showing area under the
+  curve (AUC) scores from the Augur analysis, highlighting cell type prioritization
+  among fibroblast subclusters between MI and NMI samples. (G) Kaplan-Meier survival
+  curves for overall survival (OS) in the TCGA-BLCA cohort, stratified by high versus
+  low infiltration of fib-GREM1. Statistical significance was determined using the
+  log-rank test. (H) UMAP plot showing endothelial cells, colored by six subclusters.
+  (I) Heatmap of Ro/e values for endothelial clusters across pathological and molecular
+  subtypes. (J) UMAP showing endothelial cells, colored by tip-like and stalk-like
+  scores. (K, L) Violin plots showing the tip-like (K) and stalk-like (L) scores across
+  the normal, NMI and MI samples
+article_title: Single-cell and spatial transcriptomic analysis reveal cellular heterogeneity
+  and cancer cell-intrinsic major histocompatibility complex II expression in urothelial
+  carcinoma
+citation: Shengwei Xiong, et al. Int J Biol Sci. 2025;21(15).
+year: '2025'
+pub_date: 2025--
+epub_date: '2025-10-20'
+doi: 10.7150/ijbs.114618
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- Urothelial carcinoma
+- Single-cell RNA sequencing
+- Cellular heterogeneity
+- MHC-II molecules
+- Muscle invasion
+- Immunosuppressive microenvironment
+---

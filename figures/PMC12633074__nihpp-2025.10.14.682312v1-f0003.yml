@@ -1,0 +1,45 @@
+---
+figid: PMC12633074__nihpp-2025.10.14.682312v1-f0003
+pmcid: PMC12633074
+image_filename: jpg
+figure_link: /pmc/articles/PMC12633074/figure/F3/
+number: Fig. 3.
+figure_title: IRG1/Itaconate rewires mitochondrial metabolism and promotes GSH synthesis
+  in TAMs
+caption: a, GSEA of RNA-seq data from BMDMs and BP-TAMs, with or without olaparib
+  treatment. b, Western blot analysis of IRG1 protein expression in THP-1-derived
+  macrophages. c,d, Seahorse assays measuring mitochondrial respiration in wild-type
+  and IRG1-knockdown 436-TAMs. Data are presented as mean ± s.d.; n = 5. Oligo, oligomycin;
+  FCCP, carbonyl cyanide p-trifluoromethoxyphenylhydrazone; Rot/AA, rotenone and antimycin
+  A; OCR, oxygen consumption rate. e,f, Seahorse assays detecting glycolysis in wild-type
+  and IRG1-knockdown 436-TAMs. Data are presented as mean ± s.d.; n = 5. Glu, glucose;
+  Oligo, oligomycin; 2-DG, 2-deoxy-D-glucose; ECAR, extracellular acidification rate.
+  g, Schematic illustration of the GSH synthesis pathway and key enzymes involved.
+  h, mRNA expression levels of Gclm, Gstm2, and Gsr in BMDMs and BP-TAMs, determined
+  by RNA-seq analysis. Data are presented as mean ± s.e.m.; unpaired Student’s t-test;
+  n = 4. i, RT-qPCR analysis of GCLM, GSTM2, and GSR mRNA levels in THP-1-Mφ and 436-TAMs.
+  Data are presented as mean ± s.d.; unpaired Student’s t-test; n = 3. j, Western
+  blot analysis of IRG1 and NRF2 protein expression in wild-type and IRG1-knockdown
+  436-TAMs, with or without itaconate (200 μM) or 4-octyl itaconate (4-OI, 200 μM)
+  treatment for 12 hours. k, RT-qPCR analysis of GCLM, GSTM2, and GSR mRNA expression
+  in wild-type and IRG1-knockdown 436-TAMs, with or without itaconate (200 μM) or
+  4-OI (200 μM) treatment for 12 hours. Fold changes and P values of TAMs relative
+  to control macrophages are shown. l, Relative GSH levels in wild-type and IRG1-knockdown
+  436-TAMs, with or without itaconate (200 μM) or 4-OI (200 μM) treatment for 12 hours.
+  Data are presented as mean ± s.d.; unpaired Student’s t-test; n = 3. m, Schematic
+  model depicting the IRG1/itaconate-mediated metabolic reprogramming in TAMs. Itaconate
+  suppresses mitochondrial oxidative phosphorylation while enhancing glycolysis. Additionally,
+  itaconate stabilizes NRF2 protein expression, leading to the transcriptional activation
+  of key enzymes involved in GSH synthesis, ultimately promoting GSH production
+article_title: IRG1/itaconate/NRF2/GSH axis in tumor-associated macrophages drives
+  therapy resistance and immune evasion in BRCA1-deficient breast cancer
+citation: Yabing Nan, et al. bioRxiv. 2025 Oct 15;NA(NA).
+year: '2025'
+pub_date: '2025-10-15'
+epub_date: '2025-10-15'
+doi: 10.1101/2025.10.14.682312
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

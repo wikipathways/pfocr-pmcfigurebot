@@ -1,0 +1,39 @@
+---
+figid: PMC12632299__nihpp-2025.10.09.681415v1-f0003
+pmcid: PMC12632299
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632299/figure/F3/
+number: 'Figure 3:'
+figure_title: Liver versus muscle proteomic responses to chronic alcohol
+caption: 'Panel A: Volcano plots for differential protein abundance analysis (Alcohol
+  versus Control) in the liver and muscle. Red and blue shading denote significant
+  upregulation and downregulation, respectively (adjusted P ≤ 0.1). Annotated proteins
+  are those significant proteins ranked in top 10 upregulated/downregulated based
+  on t-score. Panel B: Venn diagrams showing degree of overlap between proteins upregulated/downregulated
+  by chronic alcohol use in the liver and muscle. Panel C: Bubble plot depicting results
+  from over-representation analysis of MSigDB Molecular Hallmark and Reactome Pathways
+  gene sets for proteins commonly/uniquely dysregulated by chronic alcohol use in
+  the liver and muscle (as per panel B). Circle size is proportional to the number
+  of hits as a % of the total number of annotated genes for a given overlap. Red and
+  blue shading denote significant over-representation in upregulated and downregulated
+  proteins, respectively (adjusted P ≤ 0.05, enriched for ≥ 2 features)'
+article_title: Chronic alcohol intake elicits distinct multi-omic profiles in the
+  liver versus skeletal muscle of mice
+citation: Craig R. G. Willis, et al. bioRxiv. 2025 Oct 10;50(2).
+year: '2025'
+pub_date: '2025-10-10'
+epub_date: '2025-10-10'
+doi: 10.1101/2025.10.09.681415
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- alcohol
+- liver
+- skeletal muscle
+- multi-omics
+- transcriptomics
+- proteomics
+- metabolomics
+- lipidomics
+---

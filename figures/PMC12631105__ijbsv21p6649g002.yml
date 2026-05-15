@@ -1,0 +1,45 @@
+---
+figid: PMC12631105__ijbsv21p6649g002
+pmcid: PMC12631105
+image_filename: jpg
+figure_link: /pmc/articles/PMC12631105/figure/F2/
+number: Figure 2
+figure_title: Identification and functional analysis of intratumoral malignant meta-programs
+  in UC.
+caption: 'Identification and functional analysis of intratumoral malignant meta-programs
+  in UC. (A) UMAP plot showing nine cell types identified from tumor samples. (B)
+  UMAP plot highlighting copy number variation (CNV) scores across all cells. (C)
+  UMAP visualization of CNV status across all cells. (D) Heatmap showing the Jaccard
+  similarity index of robust NMF programs, hierarchically clustered into seven meta-programs
+  (MPs). (E) Heatmap illustrating biological pathway enrichment of the seven MPs.
+  (F) Bubble plot displaying the expression levels of 30 signature genes associated
+  with MP5. (G) Bar plots comparing the scores of the seven MPs across different groups.
+  Colored dots represent individual samples. Statistical significance is indicated
+  by asterisks (*P ≤ 0.05, **P ≤ 0.01, ***P ≤ 0.001), and “ns” indicates no statistical
+  difference. (H) Spearman correlations between MP5 scores and T-cell proportions
+  in tumor samples. (I, J) Spearman correlations between MP5 scores and phenotype
+  signature scores in tumor samples: (I) luminal scores; (J) basal scores. (K) Bar
+  plot comparing MP5 scores across three immune subtypes (Inflamed, Excluded, and
+  Desert) in the IMvigor210 cohort. (L) Spatial feature plots showing H&E-staining
+  images (top) and MP5 signature scores (bottom) in tumor tissue sections across molecular
+  subtype. Specifically, the UCB01 sample was obtained from the publicly available
+  dataset (GSE171351)'
+article_title: Single-cell and spatial transcriptomic analysis reveal cellular heterogeneity
+  and cancer cell-intrinsic major histocompatibility complex II expression in urothelial
+  carcinoma
+citation: Shengwei Xiong, et al. Int J Biol Sci. 2025;21(15).
+year: '2025'
+pub_date: 2025--
+epub_date: '2025-10-20'
+doi: 10.7150/ijbs.114618
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- Urothelial carcinoma
+- Single-cell RNA sequencing
+- Cellular heterogeneity
+- MHC-II molecules
+- Muscle invasion
+- Immunosuppressive microenvironment
+---

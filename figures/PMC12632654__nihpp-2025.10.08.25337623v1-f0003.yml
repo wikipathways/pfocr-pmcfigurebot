@@ -1,0 +1,49 @@
+---
+figid: PMC12632654__nihpp-2025.10.08.25337623v1-f0003
+pmcid: PMC12632654
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632654/figure/F3/
+number: Figure 3.
+figure_title: Genetic risk in more pathways confers higher AN risk
+caption: '(A) A toy figure to illustrate how we calculate top pathways. We first converted
+  pathway PRS into deciles and then counted the number of pathway PRS in the top 10%
+  (i.e., decile 10) for each individual. Correlation was then examined between Top10%
+  pathway count and AN case proportion. This figure was created using BioRender software
+  (www.biorender.com).(B) 497 pathways: Correlation between number of pathways with
+  top 10% risk (x axis) and AN case proportion (y axis) for 497 significant pathways
+  identified from the univariate models. Pearson correlation and its associated p-value
+  are shown in blue. The baseline AN proportion in the dataset is plotted as a dotted
+  line (y=24.67%).(C) 41 pathways: Correlation between number of pathways with top
+  10% risk (x axis) and AN case proportion (y axis) for 41 significant pathways identified
+  from the joint model.(D) 497 pathway residuals: Correlation between number of pathways
+  with top 10% risk (x axis) and AN case proportion (y axis) for residuals of 497
+  significant pathways adjusted for AN PRS, cohort, and 6 genetic PCs.(E) 41 pathway
+  residuals: Correlation between number of pathways with top 10% risk (x axis) and
+  AN case proportion (y axis) for residuals of 41 significant pathways adjusted for
+  AN PRS, cohort, and 6 genetic PCs.(F) Relationship between AN PRS decile (x axis)
+  and AN case proportion (y axis) is plotted to serve as a positive control and reference
+  for pathway PRS in terms of the correlation strength with AN risk.(G) AN case proportion
+  is plotted for individuals that fell in certain pathway risk level for certain numbers
+  of pathways. We first calculated the number of pathways each individual had at each
+  decile. We then summed all the individuals at certain decile for certain number
+  of pathways and calculated how many AN cases were present in that category. Overall,
+  individuals with more pathways at top 10% had greater AN risk, and those with more
+  pathways at bottom 10% had lower AN risk. Through this, we can also examine concentrated
+  versus diffused genetic risks. For example, (1) individuals at the top decile for
+  0–19 pathways had 18.04% AN, (2) individuals at the top 5th decile for 60–79 pathways
+  had 24.84% AN, and (3) individuals at the top 3rd decile for 80–99 pathways had
+  38.40% AN. Individuals in each tile are not mutually exclusive from each other.
+  Supplementary Figure 12 has more details on the extent of individual overlap for
+  different tiles. Tiles with a total head count less than 10 are not plotted.Abbreviations:
+  AN=anorexia nervosa, PC=principal component, PRS=polygenic risk score'
+article_title: Polygenicity at the pathway level for anorexia nervosa
+citation: Jiayi Xu, et al. medRxiv. 2025 Oct 09;NA(NA).
+year: '2025'
+pub_date: '2025-10-09'
+epub_date: '2025-10-09'
+doi: 10.1101/2025.10.08.25337623
+journal_title: medRxiv
+journal_nlm_ta: medRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

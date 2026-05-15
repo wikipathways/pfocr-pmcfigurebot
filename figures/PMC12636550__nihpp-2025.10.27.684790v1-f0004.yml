@@ -1,0 +1,45 @@
+---
+figid: PMC12636550__nihpp-2025.10.27.684790v1-f0004
+pmcid: PMC12636550
+image_filename: jpg
+figure_link: /pmc/articles/PMC12636550/figure/F4/
+number: 'Figure 4:'
+figure_title: ATP5IF1 KO rescues proliferation and the mitochondrial proteome, including
+  essential processes such as Fe-S cluster biosynthesis, in mtDNA-depleted cells
+caption: '(A) Z score of ATP5IF1 KO in pooled genome-wide CRISPR KO growth screens
+  in the presence of EtBr or AO over 15 days (To et. al.) (B) Growth rate and mtDNA
+  copy number of control or polyclonal ATP5IF1 KO K562 cells in the presence of EtBr
+  or AO. Growth assessed between days 2–5 (AO) and days 13–15 (EtBr). (C) Analysis
+  of mitochondrial genes vs all genes analyzed in a 14-day CRISPR KO growth screen.
+  Essential genes in K562 were defined as those with a Z<−3.5 based on sgRNA abundance
+  between day 14 vs day 0, which includes 75% common essential genes defined by [Hart
+  et al. 2015]. (D) Scatter plot shows fold change in protein abundance upon mtDNA
+  depletion in each genotype vs that gene’s essentiality (Z score defined in C). Fraction
+  of essential or mitochondrial genes depleted by EtBr and rescued by IF1 KO are shown
+  in bar plots below. (E) Western blot for LC3B and ubiquitin phosphorylated at serine
+  65 on whole cell lysates of control or ATP5IF1 KO cells treated with EtBr for 12
+  days. Coomassie stain of total protein is shown as a loading control. (F) Fold change
+  in protein abundance of all proteins in each indicated category, measured by TMT
+  proteomics. (G) Relative levels of proteins in the early, essential mitochondrial
+  Fe-S cluster biosynthesis pathway and nuclear and cytosolic Fe-S cluster-containing
+  proteins. All measurements are made with TMT proteomics. Comparison groups for t-test:
+  sgGFP vs sgGFP+EtBr and sgGFP+EtBr vs sgATP5IF1+EtBr. An asterisk is used to denote
+  all significant (p value <0.05) differences. (H) Western blot for the 4Fe-4S cluster-containing
+  protein POLD1 and beta tubulin for loading control. Samples are whole cell lysates
+  of control or ATP5IF1 KO treated with EtBr for 12 days. Bar plot shows quantification
+  of the western blots. For B, E, and H, all error bars show standard error from three
+  biological replicates and asterisks indicate p value from a two-tailed Students
+  t-test *<0.05, **<0.01, ***<0.001. Abbreviations: WT: wildtype, KO: knockout, EtBr:
+  ethidium bromide, AO: antimycin and oligomycin'
+article_title: The proton motive force maintains mtDNA euploidy by balancing mtDNA
+  replication with cell proliferation
+citation: Sneha P. Rath, et al. bioRxiv. 2025 Oct 27;NA(NA).
+year: '2025'
+pub_date: '2025-10-27'
+epub_date: '2025-10-27'
+doi: 10.1101/2025.10.27.684790
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

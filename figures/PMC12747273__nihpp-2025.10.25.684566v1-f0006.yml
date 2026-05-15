@@ -1,0 +1,51 @@
+---
+figid: PMC12747273__nihpp-2025.10.25.684566v1-f0006
+pmcid: PMC12747273
+image_filename: jpg
+figure_link: /pmc/articles/PMC12747273/figure/F6/
+number: 'Fig 6:'
+figure_title: 'Transcriptomics-to-Image search: HERE returns image features given
+  an input gene'
+caption: 'a, Associations between gene expression and image features. Hierarchical
+  clustering was applied to Spatial transcriptomics (ST) data from a human lung tumor
+  to organize image patches around ST detection spots into eight clusters (left panel;
+  each cluster is a different color). For a given query gene (e.g., C1R and SERPING1,
+  center panel) and each image cluster (for example, cluster #2 (blue) in left panel),
+  the expression difference among ST detection spots within the image cluster region
+  and spots outside the cluster region is quantified using the Cohen’s d value (right
+  panel). Testing each of all possible query genes against each of every ST profile
+  cluster will generate the result matrix (bottom panel).b, Complement Activation
+  gene set enrichment. Along the x-axis, all genes are ranked from high to low by
+  Cohen’s d values (bottom Y-axis) computed for cluster #2 of the ST profile in panel
+  a. Members of the “complement activation” pathway from Gene Ontology biological
+  processes (GO_BP)45 are indicated by horizontal blue lines in the middle of the
+  plot. The top y-axis plots “complement activation” enrichment scores at each gene
+  rank. The P-value is computed through the one-sided permutation test (1000 randomizations).c,
+  Top 20 GO_BP terms associated with image features. For each term, the Y-axis presents
+  the fraction of ST profile clusters whose Cohen’s d gene scores are significantly
+  enriched (False Discovery Rate < 0.05). Multiple GO_BP terms related to similar
+  biological processes are grouped with the y-axis presenting mean values across all
+  merged terms. The star marks the complement activation pathway discussed in the
+  main text.d, Cohen’s d heatmap of complement activation genes. Columns are labeled
+  with each ST profile’s cancer type and the cluster index.e, In-vivo effects of Serping1
+  overexpression on tumor volume. Left panel: B16-mhgp100 cells with Serping1 and
+  vector-only overexpression were inoculated subcutaneously into mice treated by immune
+  checkpoint blockade. Right panel: The tumor sizes on day 28, the day before the
+  first tumor reached an endpoint (tumor volume ≥ 2000 mm3 or length ≥ 2 cm). Box
+  plots are shown as in Fig. 4b. Group values were compared through the two-sided
+  Wilcoxon rank-sum test.f, Serping1 overexpression in tumors extended survival. B16-mhgp100
+  cells express immunogenic antigen hgp100, while the B16F10 cell line is less immunogenic.
+  On the Y-axis, the fraction of mice with endpoint-free survival is plotted against
+  days since tumor inoculation (X-axis). The two-sided log-rank test compared group
+  survival differences'
+article_title: Web engine for tumor pathology image retrievals on massive scales
+citation: Zisha Zhong, et al. bioRxiv. 2025 Oct 26;NA(NA).
+year: '2025'
+pub_date: '2025-10-26'
+epub_date: '2025-10-26'
+doi: 10.1101/2025.10.25.684566
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

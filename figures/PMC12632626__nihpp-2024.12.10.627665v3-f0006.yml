@@ -1,0 +1,34 @@
+---
+figid: PMC12632626__nihpp-2024.12.10.627665v3-f0006
+pmcid: PMC12632626
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632626/figure/F6/
+number: 'Figure 6:'
+figure_title: Experimental validation in multiple sclerosis using post-mortem brain
+  RNA-seq with mechanistic characterization by ProCyon
+caption: 'a) MS brain tissue was dissected, stained, and RNA-sequenced. b) Blocks
+  from the superior frontal gyrus (SFG) were sampled. c) Luxol fast blue/cresyl violet
+  distinguished grey and white matter. d) MOG staining identified activated microglia/macrophages.
+  e) HLA-D+ areas were masked in red. f) Neurons were labeled with HuC/D. g) Differential
+  expression analysis identified HLA+-associated genes (FDR < 0.05, shown in red).
+  h) Validation of ProCyon rankings across five MS hallmarks. Left: retrieval prompts.
+  Right: DEG percentiles for each hallmark. Boxplots show interquartile range and
+  median. i) ProCyon-assigned ranks for HLA+ DEGs (red) compared to 2000 random non-DEGs.
+  j) ProCyon retrieval percentiles for ‘unexpected’ proteins (Methods Sec. 4.13) across
+  control diseases versus MS. Control diseases vary in similarity to MS (bottom legend).
+  X markers denote known protein–disease associations. MS is marked by a vertical
+  purple bar. * = significant compared to MS control group; ** = significant across
+  three control groups (Methods Sec. 4.13). k) Top 15 ProCyon-predicted pathways for
+  ZNF727, EVI2B, and MS4A7. Highlighted by the percentage of MS-associated proteins
+  (per GO) in each pathway'
+article_title: 'ProCyon: A multimodal foundation model for protein phenotypes'
+citation: Owen Queen, et al. bioRxiv. 2025 Nov 03;NA(NA).
+year: '2025'
+pub_date: '2025-11-03'
+epub_date: '2025-11-03'
+doi: 10.1101/2024.12.10.627665
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

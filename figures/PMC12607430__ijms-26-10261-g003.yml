@@ -1,0 +1,37 @@
+---
+figid: PMC12607430__ijms-26-10261-g003
+pmcid: PMC12607430
+image_filename: jpg
+figure_link: /pmc/articles/PMC12607430/figure/F3/
+number: Figure 3
+figure_title: Gene set enrichment analysis on the genes showing differentially methylated
+  CpGs between ALL patients and controls using ingenuity pathway analysis (IPA).
+caption: 'Gene set enrichment analysis on the genes showing differentially methylated
+  CpGs between ALL patients and controls using ingenuity pathway analysis (IPA). Plot
+  shows the most significant terms for cellular components, biological processes,
+  and molecular functions from the IPAs of DMC-annotated genes (p-values  <  0.05).
+  X-axis: Statistical significance (−log10(p)), where higher values indicate greater
+  relevance. Bubble size represents the number of genes involved in each pathway.
+  Color indicates the IPA z-score, which predicts the direction of regulation. Orange:
+  significant activation (z-score > 2). Blue: significant inhibition (z-score < −2).
+  Gray: statistically significant pathways (p < 0.05) with no predicted direction
+  of change'
+article_title: Comprehensive Epigenome-Wide Profiling Reveals Distinctive DNA Methylation
+  Signatures and Potential Prognostic Biomarkers in Mexican Pediatric B-ALL
+citation: Alan Alberto Fong-López, et al. Int J Mol Sci. 2025 Nov;26(21).
+year: '2025'
+pub_date: 2025-11-
+epub_date: '2025-10-22'
+doi: 10.3390/ijms262110261
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- acute lymphoblastic leukemia
+- DNA methylation
+- relapse
+- MAD1L1
+- RNH1
+- FBXL22
+- Mexican pediatric population
+---

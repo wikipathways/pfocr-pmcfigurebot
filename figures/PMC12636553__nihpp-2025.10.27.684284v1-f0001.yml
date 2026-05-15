@@ -1,0 +1,35 @@
+---
+figid: PMC12636553__nihpp-2025.10.27.684284v1-f0001
+pmcid: PMC12636553
+image_filename: jpg
+figure_link: /pmc/articles/PMC12636553/figure/F1/
+number: 'Fig 1:'
+figure_title: DAF-16/FOXO regulates DNA damage repair pathway gene expression
+caption: (A) Heat map representation of the levels of DNA damage repair (DDR) genes
+  from transcriptomics data comparing daf-2(1370) and daf-16(mgdf50);daf-2(e1370)
+  late-L4 staged worms grown on control RNAi.(B) Quantitative RT-PCR analysis showing
+  mRNA fold change in DDR gene expression in daf-2(1370) and daf-16(mgdf50);daf-2(e1370)
+  late-L4 staged worms grown on control RNAi. Expression levels were normalized to
+  actin. The average of three biological replicates is shown. Unpaired t-test with
+  Welch’s correction.(C) UCSC browser view of DAF-16/FOXO peaks on the DDR gene (rad-51,
+  rad-50, wee-1.3, mrt-2, brc-1 or pch-2) promoters as determined by ChIP-seq using
+  an anti-DAF-16 antibody [29]. Red boxes indicate the binding on promoter regions
+  of DDR genes. The upper panel shows daf-2(e1370), where DAF-16 peaks are observed,
+  while lower panel shows daf-16(mgDf50);daf-2(e1370) (that lacks specific DAF-16
+  peaks).Experiments were performed at 20°C. Source data are provided in Table 1
+article_title: DAF-16/FOXO maintains genome integrity following genotoxic stress
+citation: Umanshi Rautela, et al. bioRxiv. 2025 Oct 28;NA(NA).
+year: '2025'
+pub_date: '2025-10-28'
+epub_date: '2025-10-28'
+doi: 10.1101/2025.10.27.684284
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- FOXO/DAF-16
+- insulin signaling
+- germ line
+- soma
+- DNA Damage Response
+---

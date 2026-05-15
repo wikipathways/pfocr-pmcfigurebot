@@ -1,0 +1,31 @@
+---
+figid: PMC12636648__nihpp-2025.10.28.25339000v1-f0001
+pmcid: PMC12636648
+image_filename: jpg
+figure_link: /pmc/articles/PMC12636648/figure/F1/
+number: 'Figure 1:'
+figure_title: 'Data pipeline flowchart:'
+caption: Ventilator waveform data travels through the Capsule Neuron in-room devices
+  to a management server (Virtual Machine 1). This pathway shares infrastructure with
+  the production EHR pipeline. The data are then sent to Virtual Machine 2, where
+  they are aggregated and uploaded to an Azure Cloud Storage instance. This infrastructure
+  is hospital-managed but not part of the production EHR pipeline. Our research server
+  downloads those waveforms once daily for the Azure Cloud. EHR data is provided by
+  Health Data Compass on request and linked to the waveforms using bed occupancy
+article_title: Developing A Data Pipeline to Quantify Ventilator Waveforms
+citation: Peter D Sottile, et al. medRxiv. 2025 Oct 30;NA(NA).
+year: '2025'
+pub_date: '2025-10-30'
+epub_date: '2025-10-30'
+doi: 10.1101/2025.10.28.25339000
+journal_title: medRxiv
+journal_nlm_ta: medRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Ventilator
+- Mechanical
+- Ventilator-Induced Lung Injury
+- Data Collection
+- Electronic Health Records
+- Database
+---

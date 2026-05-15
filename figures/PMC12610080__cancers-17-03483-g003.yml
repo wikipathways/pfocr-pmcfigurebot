@@ -1,0 +1,35 @@
+---
+figid: PMC12610080__cancers-17-03483-g003
+pmcid: PMC12610080
+image_filename: jpg
+figure_link: /pmc/articles/PMC12610080/figure/F3/
+number: Figure 3
+figure_title: Stratification and functional characterization of epithelial subpopulations.
+caption: Stratification and functional characterization of epithelial subpopulations.
+  (A) Epithelial cells colored by single-cell copy number variation (CNV) score. (B)
+  CNV score distributions of epithelial clusters defined by k-means. (C) Normal and
+  malignant epithelial subsets defined by per-cell CNV scores. (D) Malignant epithelial
+  cells reclustered into six malignant subpopulations (C0–C5). (E) Volcano plot of
+  differentially expressed genes in malignant epithelial cells. (F) Heatmap of pathway
+  activity scores across malignant subclusters. (G) Kaplan–Meier survival curves showing
+  that high abundance of subcluster C5 correlates with worse overall survival in four
+  cohorts. (H) Monocle pseudotime trajectory of malignant epithelial cells, colored
+  by subcluster identity (left) and inferred differentiation pseudotime (middle).
+  (I) Boxplot of CytoTRACE potency scores for each malignant subcluster
+article_title: Integrated Multi-Omics Analysis Identifies SRI as a Critical Target
+  Promoting Gastric Cancer Progression and Associated with Poor Prognosis
+citation: Zhijie Gong, et al. Cancers (Basel). 2025 Nov;17(21).
+year: '2025'
+pub_date: 2025-11-
+epub_date: '2025-10-29'
+doi: 10.3390/cancers17213483
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- gastric cancer
+- multi-omics analysis
+- prognosis
+- SRI
+- proliferation and invasion
+---

@@ -1,0 +1,51 @@
+---
+figid: PMC12632529__nihpp-2025.10.06.680655v1-f0005
+pmcid: PMC12632529
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632529/figure/F5/
+number: Figure 5|
+figure_title: Pre-division TCF1 drop induces chromatin and transcriptional remodeling
+caption: 'A. Experimental/sorting scheme: CFSE-labeled naive TCRTAG(Thy1.1) were adoptively
+  transferred into LMTAG-infected B6 mice; spleens were harvested at indicated time
+  points and sorted as shown in Extended Data Fig. 3B. Time points labeled with the
+  “*” (naive, 6h, 12h, 24h and 5d, 30+d) indicate that data was obtained from previously
+  published studies (GSE209712)( GSE89308)12,38. Time points labeled with “‡” indicate
+  samples that were sorted in the current study and also represented in published
+  data sets. B. Number of differentially accessible chromatin peaks (DAC) changing
+  during each transition (opening peaks, red; closing peaks, blue; false discovery
+  rate (FDR)<0.05; absolute log2foldchange > 1). C. PCA comparing chromatin accessibility
+  of TCF1 ChIP+ motif+ peaks in naive and differentiated CD8 T cells. D. Heatmap of
+  TCF1 ChIP+ motif+ peaks clustered based on supervised k-Means (k=5) by the direction
+  of peak change between N to the pre-division time points and z-score normalized
+  across rows. E. Chromatin accessibility profile across the Tcf7 locus. Purple bars
+  at the top indicate TCF1 ChIP binding sites34 (GSE164670). +20kb peak (red star)
+  and quantified (right) indicates a negative regulatory site shown to be a binding
+  site for transcription factors NFAT, IRF4 and BATF. −30kb peak (blue star) and quantified
+  (right) indicates positive regulatory site bound by TCF1. FDR values as determined
+  by DEseq2 shown for sequential time points. F. EnrichKG pathway analysis of TCF1-regulated
+  closing peaks (left) and opening peaks (right). G. Heatmap showing cytokine/chemokine
+  receptor genes (KEGG map04060) containing TCF1-regulated peaks that were differentially-expressed
+  by LRT analysis (P<0.0001), z-score normalization across rows. H. Left, number of
+  differentially accessible chromatin peaks (DAC) changing during P1–3->P4–6 CD25hi
+  (yellow box) and P1–3->P4–6 CD25lo (blue box) transitions. Right upper, DAC during
+  naive (N) → early (E6h) transition (log2FC E6h/N) versus P1–3 → P4–6 CD25hi (E5
+  d) transition (log2FC P1–3/P4–6CD25hi). Lower, DAC during N → early (E6h) transition
+  (log2FC E6h/N) versus P1–3 → P4–6 CD25lo transition (log2FC P1–3/P4–6 CD25lo). Each
+  point represents an individual peak colored as in legend (grey=stable (unchanging
+  in P1–3->P4–6 transition), red=de novo (changing only during P1–3->P4–6 transition),
+  dark red=reinforced (changes during N->E6h transition and change in the same direction
+  during P1–3->P4–6 transition), blue=reset (changes during N->E6h transition changes
+  in the opposite direction during P1–3->P4–6 transition). FC determined by DESeq2
+  analysis, FDR<0.05. Right, bar plots show the number of de novo peaks in the reset,
+  reinforced, and de novo categories, FDR < 0.05 for each comparison'
+article_title: Pre-division TCF1 drop determines long-term CD8 T cell fates
+citation: Natalie R. Favret, et al. bioRxiv. 2025 Oct 06;NA(NA).
+year: '2025'
+pub_date: '2025-10-06'
+epub_date: '2025-10-06'
+doi: 10.1101/2025.10.06.680655
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

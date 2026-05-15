@@ -1,0 +1,58 @@
+---
+figid: PMC12636625__nihpp-2025.10.29.680858v1-f0004
+pmcid: PMC12636625
+image_filename: jpg
+figure_link: /pmc/articles/PMC12636625/figure/F3/
+number: Figure 3.
+figure_title: Myeloid Gq activation impairs β-cell function via macrophage-derived
+  paracrine lipid signals
+caption: (A) Schematic representation of the indirect co-culture strategy in which
+  supernatants from BMDMs stimulated with DCZ (45 min) were transferred to INS-1 β-cells.
+  (B–C) Insulin secretion from INS-1 cells cocultured with control or LysM-GqD BMDM
+  supernatants in response to DCZ (30 nM) under low (2.8 mM) and high (16.8 mM) glucose
+  (n = 9) (B), or under exendin-4 (12 nM; n = 4), glyburide (100 nM; n = 5), L-arginine
+  (30 mM; n = 4–5), or FPL64176 (0.1 μM; n=7)(C). (D) Workflow for lipid extraction
+  from BMDM cell pellets for untargeted lipidomics. (E) Differentially abundant lipid
+  species in control and LysM-GqD BMDMs under basal conditions and after 1 hour DCZ
+  stimulation (n = 3). (F) Proportional increase in lipid species after 1 hour GqD
+  activation with DCZ compared to unstimulated BMDMs (n = 3). (G) Heatmaps of lipid
+  species in untreated (left) and DCZ-treated (1 hour, right) BMDMs (n = 3) from control
+  and LysM-GqD mice. (H) Pathway enrichment analysis depicting upregulated pathways
+  in LysM-GqD BMDMs compared to control BMDMs under untreated conditions (top) and
+  following 1 hour DCZ treatment (bottom; n = 3). (I) Workflow for lipid extraction
+  from BMDM supernatants for untargeted lipidomics. (J) Heatmaps showing lipid species
+  in the supernatant of BMDMs from control and LysM-GqD mice after 1 hour DCZ treatment
+  (n = 3) (K) Pathway enrichment analysis showing upregulated pathways in the supernatant
+  of LysM-GqD BMDMs compared to control BMDMs following 1 hour DCZ treatment (n =
+  3). (L) Immunoblot of INS-1 cells showing AKT and GSK-β phosphorylation after exposure
+  to supernatants from DCZ-stimulated BMDMs under high-glucose (16.8 mM) conditions
+  for 5 and 15 min (n = 3). (M) Insulin secretion in INS-1 cells after transfer of
+  supernatants from control or LysM-GqD BMDMs stimulated with DCZ (30 nM) at 2.8 or
+  16.8 mM glucose, with or without the CD36 inhibitor sulfosuccinimidyl-oleate (SSO;
+  0.5 mmol/l). (N) Immunoblot showing AMPK phosphorylation in BMDMs after acute GqD
+  activation with DCZ (0, 5, and 15 min). (O) Heatmaps showing lipid species in BMDMs
+  from control or LysM-GqD BMDMs treated with the ampk inhibitor compound C (10 μM)
+  during DCZ stimulation (n = 3). (P) Pathway enrichment analysis showing enriched
+  pathways in BMDMs treated with compound C during DCZ stimulation from control or
+  LysM-GqD (n = 3). Data are presented as mean ± s.e.m. One-tailed unpaired t-test
+  (B–C); two-tailed unpaired t-test (N–O). *p < 0.05, **p < 0.01, ***p < 0.001, NS
+  = not significant. SP, sphingolipids; FA, fatty acids; GP, glycerophospholipids;
+  GL, glycerolipids
+article_title: Acute activation of Gq-signaling in islet macrophages inhibits β-cell
+  insulin secretion through AMPK-sphingolipid axis
+citation: Simran Singh, et al. bioRxiv. 2025 Oct 30;NA(NA).
+year: '2025'
+pub_date: '2025-10-30'
+epub_date: '2025-10-30'
+doi: 10.1101/2025.10.29.680858
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Obesity
+- T2D
+- GPCRs
+- Islet Macrophages
+- Sphingolipids
+- Insulin Secretion
+---

@@ -1,0 +1,32 @@
+---
+figid: PMC12952533__nihms-2150392-f0006
+pmcid: PMC12952533
+image_filename: jpg
+figure_link: /pmc/articles/PMC12952533/figure/F6/
+number: Fig. 6.
+figure_title: Correspondence between gene expression changes and KDM6A protein binding
+caption: '(A) Specificity of nuclear tag was examined in Tmem119-Cre/ERT2-CAG-Sun1/sfGFP
+  mice. Spinal cord sections were costained with anti-GFP (tagged nuclei; yellow),
+  anti-P2RY12 (red), and anti-Iba1 (green). Arrowheads indicate tagged microglial
+  nuclei. Nuclei, DAPI (blue). Scale bar, 20 μm. (B and C) CUT&RUN-seq with anti-KDM6A
+  antibody was performed using microglial nuclei immunoprecipitated by the INTACT
+  method. Peaks enriched more than four times higher than immunoglobulin G background
+  were identified as KDM6A-binding loci. The volcano plot depicts differentially translated
+  genes in healthy normal control cKO versus WT female mice (B) or EAE cKO versus
+  WT female mice (C). Black dots show genes with KDM6A binding, and yellow dots show
+  genes without KDM6A binding. (D and E) Heatmaps of inflammatory response genes (top
+  pathway shown in Fig. 2I): (D) EAE and (E) healthy control. Arrows indicate the
+  genes with KDM6A binding (Adgre5, Chst1, Chst2, Pld3, Serpine1, Tnip1, and Zc3h12a).
+  Unit = z-score'
+article_title: Deletion of the X-chromosomal gene Kdm6a in microglia of female mice
+  ameliorates neuroinflammation and restores translatome profiles
+citation: Yuichiro Itoh, et al. Sci Transl Med. 2025 Oct 15;17(820).
+year: '2025'
+pub_date: '2025-10-15'
+epub_date: '2025-10-15'
+doi: 10.1126/scitranslmed.adq3401
+journal_title: Science translational medicine
+journal_nlm_ta: Sci Transl Med
+publisher_name: .na.character
+keywords: []
+---

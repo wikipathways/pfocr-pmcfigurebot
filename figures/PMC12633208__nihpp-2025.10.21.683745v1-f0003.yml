@@ -1,0 +1,46 @@
+---
+figid: PMC12633208__nihpp-2025.10.21.683745v1-f0003
+pmcid: PMC12633208
+image_filename: jpg
+figure_link: /pmc/articles/PMC12633208/figure/F3/
+number: Figure 3.
+figure_title: Spatial analysis of MHC-II positive malignant cells and their immune
+  contexture in PDAC
+caption: 'A. UMAP of over 1 million single cells from the PDAC Atlas, categorized
+  into epithelial, stromal, and immune compartments. B. Correlation between MHC-II
+  pathway activity and immune cell combinations: scatter plots showing positive correlations
+  between MHC-II pathway activity in malignant cells and the proportions of CD8+ T
+  cells and CD4+ T cells (left), CD8+ T cells and NK cells (middle), and combined
+  CD8+ T cells, CD4+ T cells, and NK cells (right). C. Illustration of spatial neighborhoods
+  around malignant cells: defining a specified radius around each seed cell (orange)
+  to assess the surrounding cellular composition. D-E. Quantification of immune cells
+  within malignant cell neighborhoods with differential MHC-II expression (Xenium).
+  Bar plots comparing the average number of T cells (D) and B cells (E) per core in
+  MHC-IIhigh versus MHC-IIlow malignant regions across two tumor samples: Stage IIB,
+  Grade 3 (left) and Grade I–II with ~50% tumor content (right). F. Quantification
+  of CD4+ T helper cells and CD8+ T cells per neighborhood mIHC ROIs, demonstrating
+  significant differences in cell-type abundance between the two groups. G. Visium
+  spatial transcriptomics from the HTAN-WUSTL cohort shows malignant cell spots colocalized
+  with T cells are enriched for high MHC-II pathway activity. H. Feature-plot of MHC-II
+  pathway activation scores across malignant cell spots further highlights spatial
+  heterogeneity and preferential immune proximity to MHC-IIhigh malignant cell regions.
+  *: p < 0.05, **: p < 0.01 and ***: p < 0.001. The same significance thresholds apply
+  to all subsequent figures unless otherwise specified'
+article_title: Tumor-intrinsic MHC-II activation in pancreatic ductal adenocarcinoma
+  enhances immune response and treatment efficacy
+citation: Canping Chen, et al. bioRxiv. 2025 Oct 22;NA(NA).
+year: '2025'
+pub_date: '2025-10-22'
+epub_date: '2025-10-22'
+doi: 10.1101/2025.10.21.683745
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Pancreatic cancer
+- Single-cell sequencing
+- Spatial transcriptomics
+- Immunomodulatory therapies
+- Bioinformatics
+- Tumor heterogeneity
+---

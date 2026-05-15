@@ -1,0 +1,37 @@
+---
+figid: PMC12578405__jci-135-190635-g206
+pmcid: PMC12578405
+image_filename: jpg
+figure_link: /pmc/articles/PMC12578405/figure/F4/
+number: Figure 4
+figure_title: RNA-Seq analysis shows that BCL2 overexpression in adipocytes reverses
+  gene changes in the liver of WT mice fed a high-fat diet
+caption: Male Bcl2AdTG mice and WT littermates were fed a chow diet or high-fat diet
+  (HFD) for 3 months, and liver tissues were subjected to RNA-Seq analysis. (A) Principal
+  component analysis plot shows different gene expression pattern in chow- and HFD-fed
+  Bcl2AdTG mice and WT littermates. (B) Volcano plot of differentially expressed genes
+  in the livers of HFD-fed Bcl2AdTG and WT mice. The x axis represents the log2 fold
+  change (Bcl2AdTG versus WT), and the y axis represents the −log10 P value. Blue
+  dots indicate downregulated genes (log2[fold change] < −1, P < 0.05); red dots indicate
+  upregulated genes (log2[fold change] > 1, P < 0.05). (C) Heatmap of differentially
+  expressed genes in the livers of Bcl2AdTG and WT mice (|log2[fold change]| > 1,
+  P < 0.05). (D) Reactome pathway analysis of differentially expressed genes in the
+  livers of Bcl2AdTG and WT mice (|log2[fold change]| > 1, P < 0.05). (E) Gene set
+  enrichment analysis of collagen- and inflammation-related pathways in the livers
+  of HFD-fed Bcl2AdTG versus WT mice
+article_title: Adipocyte death promotes hepatic infiltration of S100A8+ macrophages
+  and steatotic liver disease progression in mice
+citation: Yukun Guan, et al. J Clin Invest. 2025 Nov 3;135(21).
+year: '2025'
+pub_date: 2025-11-3
+epub_date: 2025-11-3
+doi: 10.1172/JCI190635
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Gastroenterology
+- Hepatology
+- Adipose tissue
+- Macrophages
+---

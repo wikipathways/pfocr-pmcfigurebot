@@ -1,0 +1,43 @@
+---
+figid: PMC12574698__ol-30-06-15350-g00
+pmcid: PMC12574698
+image_filename: jpg
+figure_link: /pmc/articles/PMC12574698/figure/F1/
+number: Figure 1.
+figure_title: Critical SKCM metastasis-related genes and signaling pathways in the
+  GEO SKCM cohort.
+caption: 'Critical SKCM metastasis-related genes and signaling pathways in the GEO
+  SKCM cohort. (A) Identification of DEGs in 4 GEO datasets using the RobustRankAggreg
+  package. A heatmap of the top 20 upregulated and 10 downregulated DEGs in the integrated
+  GEO datasets analysis is presented: The rows represent the genes, and the columns
+  represent the GEO dataset. Each cell contains the log2FoldChange value. Red represents
+  upregulated genes and blue represents downregulated genes. GO analysis based on
+  DEGs between metastatic and primary SKCM. (B) GO enrichment analysis was performed
+  using the clusterProfiler package to evaluate the related biological processes.
+  (C) The line color of the ring graph represents the GO terms, the points represent
+  the genes and the size of the points represents the count number. (D) Heatmap illustrating
+  Pearson correlation coefficients between metastasis-associated genes and N6-methyladenosine
+  regulators in SKCM, with color intensity indicating the correlation coefficient
+  (blue, negative; yellow, neutral; and orange/red, positive). **P<0.01. SKCM, skin
+  cutaneous melanoma; GEO, Gene Expression Omnibus; DEGs, differentially expressed
+  genes; GO, Gene Ontology'
+article_title: m6A RNA methylation regulator-associated genes drive metastasis and
+  immune cell infiltration in skin cutaneous melanoma
+citation: Yi Geng, et al. Oncol Lett. 2025 Dec;30(6).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-10-21'
+doi: 10.3892/ol.2025.15350
+journal_title: Oncology Letters
+journal_nlm_ta: Oncol Lett
+publisher_name: Spandidos Publications
+keywords:
+- skin cutaneous melanoma
+- N6-methyladenosine RNA modification
+- metastasis
+- immune microenvironment
+- competing endogenous RNA network
+- least absolute shrinkage and selection operator-Cox regression
+- prognosis
+- biomarkers
+---

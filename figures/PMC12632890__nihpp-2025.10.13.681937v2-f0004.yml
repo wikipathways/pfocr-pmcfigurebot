@@ -1,0 +1,36 @@
+---
+figid: PMC12632890__nihpp-2025.10.13.681937v2-f0004
+pmcid: PMC12632890
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632890/figure/F4/
+number: Figure 4.
+figure_title: ARID1A and ARID1B paralogs mediate shared and distinct gene regulatory
+  pathways in human DDEC cell lines and primary tumors
+caption: A. Schematic of experiments in AN3CA cells with rescue of either HA-tagged
+  ARID1A or ARID1B (+Dox). B. Immunoblot for ARID1A, ARID1B and GAPDH performed on
+  whole cell lysates from AN3CA cells in indicated conditions, n=3 (one replicate
+  shown). C. Volcano plot indicating ARID1A- and ARID1B- specific upregulated genes.
+  D. Venn diagrams indicating overlap of upregulated genes (left) and sites with increased
+  accessibility (right) following ARID1A, ARID1B or ARID1A/B dual rescue (+Dox). E.
+  Heatmaps depicting k-means clustered sites with ATAC-seq signal and RNA-seq signal
+  shown as z-scores. Representative genes are labeled. F. Schematic depicting laser
+  capture microdissection (LCM) performed on undifferentiated (UD) and well-differentiated
+  (WD) sections of primary human endometrial tumors. Created in BioRender. G. Genes
+  significantly enriched in UD and WD primary tumor components. H. Hallmark GSEA performed
+  on UD- and WD-specific genes. Selected pathways upregulated (red) and downregulated
+  (blue) are highlighted. I. GSEA (C2 gene set) performed on AN3CA and VOA1066 cells
+  with +Dox ARID1A rescue (relative to control), WD compared to UD, and normal endometrium
+  compared to UD. Adjusted p-values calculated from DESeq2 in (C) and (G). Selected
+  pathways upregulated (red) and downregulated (blue) are highlighted
+article_title: Shifted assembly and function of mSWI/SNF family subcomplexes underlie
+  targetable dependencies in dedifferentiated endometrial carcinomas
+citation: Jessica D. St. Laurent, et al. bioRxiv. 2025 Oct 15;NA(NA).
+year: '2025'
+pub_date: '2025-10-15'
+epub_date: '2025-10-15'
+doi: 10.1101/2025.10.13.681937
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

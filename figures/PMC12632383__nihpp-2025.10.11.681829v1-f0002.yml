@@ -1,0 +1,39 @@
+---
+figid: PMC12632383__nihpp-2025.10.11.681829v1-f0002
+pmcid: PMC12632383
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632383/figure/F2/
+number: 'Fig. 2:'
+figure_title: RELB maintains TCR repertoire diversity, pushes DP TILs to a more memory/costimulatory-like
+  state, and partially reverses exhaustion
+caption: A) Experimental layout describing transcriptomic and T cell receptor diversity
+  profiling via bulk RNA-seq and TCR-seq on CD4+, CD8+, and CD8+ DP NSCLC TIL subsets.
+  B) Effective TCR clone number in initial (day 0) and expanded (day 19). Expanded
+  conditions were either not transduced with lentivirus or transduced with corresponding
+  GFP+ORF (Thy1.1 or RELB) lentivirus 24 hours post-activation. P values were calculated
+  using paired t-tests. (C) Principal component analysis (PCA) plots for all RNA-seq
+  samples analyzed with DESeq2. (D) Significance (padj) versus fold change between
+  RELB and Thy1.1 samples in different TIL subtypes. Gene enrichment was defined using
+  a paired two-tailed DESeq2 test with Benjamini–Hochberg correction and a padj cutoff
+  of <0.05. (E) Heatmap of relevant genes related to T cell memory, exhaustion, and
+  costimulation. Each column represents a different patient sample within a specified
+  perturbation. Genes asterisked in red are differentially enriched in DP TILs overexpressing
+  RELB when compared to Thy1.1, while genes asterisked in blue are differentially
+  depleted in DP TILs overexpressing RELB when compared to Thy1.1. (F) GO Biological
+  pathway enrichment analysis on differentially enriched pathways (p < 0.05) in DP
+  TILs. (G) Relevant GSEA enriched and depleted gene sets in CD4+, CD8+, and DP TILs
+  for RELB vs Thy1.1 comparison (padj < 0.05). Positive Normalized Enrichment Score
+  (NES) corresponds to enrichment of pathway in RELB-overexpressing conditions while
+  a negative NES corresponds to depletion
+article_title: RELB Reprograms Exhausted Tumor-Infiltrating Lymphocytes for Improved
+  Adoptive Cell Therapy
+citation: Christian D. McRoberts Amador, et al. bioRxiv. 2025 Oct 12;NA(NA).
+year: '2025'
+pub_date: '2025-10-12'
+epub_date: '2025-10-12'
+doi: 10.1101/2025.10.11.681829
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

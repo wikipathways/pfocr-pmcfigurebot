@@ -1,0 +1,53 @@
+---
+figid: PMC12633054__nihpp-2025.10.19.683298v1-f0001
+pmcid: PMC12633054
+image_filename: jpg
+figure_link: /pmc/articles/PMC12633054/figure/F1/
+number: Figure 1.
+figure_title: BECs from children with severe asthma exacerbations show enhanced RV
+  replication and sustained upregulation of IFN and inflammatory and dysregulated
+  metabolic pathways
+caption: (A) Immunofluorescence image of an asthma donor BEC culture 2 days after
+  RV infection, stained with antibodies against e-cadherin (green), TubA4A (yellow),
+  dsRNA (red). Nuclei stained with DAPI (blue). Arrows indicate replicating virus.
+  Scale bar = 10 μm. (B) GAMM plot showing the non-linear changes in viral load over
+  time differing among clinical exacerbation groups and HC. (C) The heat map shows
+  the 19 significantly differentially expressed modules identified comparing the SE,
+  NSE, and HC groups as determined by the GAMM. Module expression levels are shown
+  as row normalized Z-scores of the mean expression for each group and timepoint (columns)
+  with red representing higher relative expression and blue representing lower relative
+  expression. Module row ordering is by hierarchical clustering. The five modules
+  of highest interest and presented in the main results section are italicized. Those
+  modules are named according to their annotation summary. The other modules are labeled
+  by their top pathway enrichment score. The number in parentheses indicates the module
+  number as defined by WGCNA. (D) Scatterplot showing the non-linear changes in expression
+  of the “Interferon Response” module over time by donor group. Linear regression
+  plot showing association between the “Interferon Response” module and viral load
+  by donor group and time post infection (d2–10). There was a significant relationship
+  between these two variables. (E) Analogous plots of the “Epithelial Remodeling and
+  Inflammation” module demonstrating a linear relationship between module expression
+  and viral load. (F) Analogous plots of the “Stress Response” module demonstrating
+  a significant linear relationship between module expression and viral load. (G)
+  Scatterplot showing the non-linear changes in expression of the “Cellular Metabolism”
+  module over time differing by clinical exacerbation group. Regression plot showing
+  association between the “Cellular Metabolism” module and viral load by donor group
+  and time in the post infection timepoints (d2–10). (H) Analogous plots of the “Cellular
+  Transcriptional Activity” module demonstrating a significant relationship between
+  module expression and viral load. HC=15 samples from 3 donors, NSE=70 samples from
+  14 donors, SE=113 samples from 23 donors. Statistics shown indicate the SE vs NSE
+  GAMM Shape FDR value, SE vs NSE GAMM Avg Estimate and FDR values and the all timepoint
+  linear estimate and FDR values. Fit lines are based on a generalized additive mixed
+  model including 95% confidence intervals
+article_title: Transcriptomic Profiling of Bronchial Epithelium Reveals Dysregulated
+  Interferon and Inflammatory Responses to Rhinovirus in Exacerbation-Prone Pediatric
+  Asthma
+citation: Naresh Doni Jayavelu, et al. bioRxiv. 2025 Oct 19;10(24).
+year: '2025'
+pub_date: '2025-10-19'
+epub_date: '2025-10-19'
+doi: 10.1101/2025.10.19.683298
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

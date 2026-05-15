@@ -1,0 +1,39 @@
+---
+figid: PMC12835808__cmh-2025-0792f4
+pmcid: PMC12835808
+image_filename: jpg
+figure_link: /pmc/articles/PMC12835808/figure/F4/
+number: Figure 4.
+figure_title: Transcriptomic characteristics according to gross types.
+caption: Transcriptomic characteristics according to gross types. (A) Volcano plot
+  showing differentially expressed genes between infiltrative (type IV) and non-infiltrative
+  (types I, II, and III) types in patients with advanced HCC. (B) Heatmap illustrating
+  distinct hallmark gene sets and cell cycle-related Reactome pathways identified
+  by gene set variation analysis (GSVA), with colors representing scaled mean enrichment
+  scores for each gross type. (C) Box plots showing immune scores of effector T cells
+  (Teffs) and regulatory T cells (Tregs) across gross types. Statistical significance
+  in panel B was calculated using the Student’s t-test comparing each type to all
+  others, whereas panel C was analyzed using limma; *P<0.05. (D) Box plots comparing
+  representative genes associated with tumor proliferation, pro-tumor cytokines, T
+  cell/Tregs/M2-like, immune checkpoints and metabolism across gross types. (E) Immunohistochemical
+  analysis of tumor tissues across gross types. Representative images and comparisons
+  of CD8 and FOXP3 within tumor tissues. P-values were calculated using the Student’s
+  t-test in infiltrative (type IV) vs. non-infiltrative (types I–III) types; *P<0.05,
+  **P<0.01, ***P<0.001, ****P<0.0001. Scale bars=60 μm
+article_title: Integrative multi-omics profiling identifies infiltrative hepatocellular
+  carcinoma as an immunotherapy-resistant subtype with distinct molecular features
+citation: Won Suk Lee, et al. Clin Mol Hepatol. 2026 Jan;32(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-10-27'
+doi: 10.3350/cmh.2025.0792
+journal_title: Clinical and Molecular Hepatology
+journal_nlm_ta: Clin Mol Hepatol
+publisher_name: Korean Association for the Study of the Liver
+keywords:
+- Advanced hepatocellular carcinoma
+- Immunotherapy
+- Gross classification
+- Infiltrative morphology
+- Multiomics analysis
+---

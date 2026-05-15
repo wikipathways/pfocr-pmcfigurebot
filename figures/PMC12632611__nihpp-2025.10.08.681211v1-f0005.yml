@@ -1,0 +1,39 @@
+---
+figid: PMC12632611__nihpp-2025.10.08.681211v1-f0005
+pmcid: PMC12632611
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632611/figure/F5/
+number: Figure 5.
+figure_title: Molecular determinants of E/I ratios and enriched biological pathways
+caption: a) Summary of the transcriptomic and proteomic markers associated with E/I
+  ratios in the superior frontal gyrus and inferior temporal gyrus, including the
+  number of genes and proteins with positive and negative relationships to E/I imbalance,
+  as well as the top predictors consistently identified across cross-validation folds.
+  b) Pathway enrichment analysis of the identified predictors, displayed in a dendrogram.
+  Heatmap cells are colored by their p-values, with white cells indicating no enrichment
+  for that term in the corresponding list. The network visualization illustrates the
+  interconnectedness of the molecular processes involved, with node size representing
+  the number of genes in each pathway and edge thickness indicating pathway similarity.
+  c) Receiver operating characteristic curves for classification performance in independent
+  transcriptomic and proteomic datasets. Multiclass classification was performed on
+  the Mount Sinai Brain Bank cohort using data from the parahippocampal gyrus to predict
+  Braak stages (0–II, III–IV, V–VI). Data from the dorsolateral prefrontal cortex
+  of an independent subset of ROSMAP participants were used to evaluate the predictive
+  value of selected genes and proteins in distinguishing AD from NCI. Results shown
+  correspond to a linear support vector machine classifier. These analyses assess
+  the generalizability of selected molecular features across cohorts and brain regions.
+  ROSMAP, Religious Orders Study and Memory and Aging Project; MSBB, Mount Sinai Brain
+  Bank; AUC, area under receiver operating characteristic curve; AD, Alzheimer’s disease;
+  NCI, no cognitive impairment
+article_title: Molecular and neuropathological determinants of neuronal dysfunction
+  in Alzheimer’s disease
+citation: Lazaro M. Sanchez-Rodriguez, et al. bioRxiv. 2025 Oct 09;NA(NA).
+year: '2025'
+pub_date: '2025-10-09'
+epub_date: '2025-10-09'
+doi: 10.1101/2025.10.08.681211
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

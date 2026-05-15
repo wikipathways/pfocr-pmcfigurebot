@@ -1,0 +1,32 @@
+---
+figid: PMC13018717__nihms-2121887-f0003
+pmcid: PMC13018717
+image_filename: jpg
+figure_link: /pmc/articles/PMC13018717/figure/F3/
+number: Figure 3.
+figure_title: Identification of G1/S cell cycle genes upregulated in LMOD1-deficient
+  SMCs
+caption: (A) Heatmap of mean-centered expression values (Row Z-score) for KEGG Cell
+  Cycle (hsa04110) genes in siCON and siLMOD1-transfected SMCs. The -log₁₀(p-value)
+  from differential expression analysis is shown as a grayscale side annotation. (B)
+  Bipartite gene-pathway network depicting enriched functional terms (right) and selected
+  cell cycle genes with log2FC > 0.3 (left). Node size represents statistical significance
+  (-log₁₀(p-value)), and edges represent gene-term associations
+article_title: Leiomodin 1 Haploinsufficiency Promotes Smooth Muscle Cell Proliferation
+  and Increases Neointimal Lesion Size
+citation: Sara A. Wennersten, et al. Vascul Pharmacol. 2025 Dec;161(NA).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-10-24'
+doi: 10.1016/j.vph.2025.107555
+journal_title: Vascular pharmacology
+journal_nlm_ta: Vascul Pharmacol
+publisher_name: .na.character
+keywords:
+- cyclin dependent kinase 6
+- cell cycle
+- Leiomodin 1
+- phenotypic modulation
+- smooth muscle cell proliferation
+- smooth muscle cells
+---

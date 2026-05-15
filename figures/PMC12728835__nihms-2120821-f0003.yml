@@ -1,0 +1,47 @@
+---
+figid: PMC12728835__nihms-2120821-f0003
+pmcid: PMC12728835
+image_filename: jpg
+figure_link: /pmc/articles/PMC12728835/figure/F3/
+number: Figure 3.
+figure_title: RNA sequestration in P-bodies safeguards mouse ES cell identity
+caption: '(a) Schematic of the conversion from naïve to primed state mouse ES cells
+  (left panel). Representative bright field images of naïve and primed mouse ES cells
+  (scale: 50μm) (right panel). n=3 independent experiments. (b) Heatmap showing expression
+  levels of naïve-specific and primed-specific transcripts. (n=2 biological independent
+  samples per group). (c) Representative IF imaging of EDC4 puncta (green) in naïve
+  and primed mouse ES cells. Cell membranes were labeled with Phalloidin (red) and
+  nuclei were counterstained with DAPI (blue) (scale: 10μm) (left panel). P-body number
+  in naïve (n=60 cells) and primed (n=60 cells) mouse ES cells (right panel). Unpaired
+  two-sided Student’s t-test, mean ± s.d., n.s.: p >0.05, p=0.0843. (d) Representative
+  flow cytometry plots showing gating for GFP-LSM14A+ P-bodies in naïve and primed
+  mouse ES cells. (e) Heatmap showing expression levels of differentially enriched
+  mRNAs between purified P-body fractions of naïve and primed mouse ES cells, with
+  GO pathway analysis using expressed genes as a background for P-body-enriched transcripts
+  for the indicated clusters. Clusters were generated manually to represent genes
+  that are P-body enriched in both naive and primed mouse ES cells, or specifically
+  enriched in one cell type. Gene number in each transcript cluster is indicated in
+  the figure (n=2 biological independent samples per group, p<0.05). (f) GSEA analysis
+  of blastomere-related genes64 in purified P-body fraction vs. cytoplasmic fraction
+  from naïve mouse ES cells, NES=1.28, p=0.03. Enrichment significance was calculated
+  by permutation test (two-sided), with multiple testing correction using the Benjamini–Hochberg
+  method. (g) A schematic of the strategy for P-body dissolution in mouse naïve ES
+  cells carrying blastomere-specific reporters (MERVL-tdTomato and ZSCAN4-GFP). (h,
+  i) Flow cytometric quantification of MERVL-tdTomato+ and ZSCAN4-GFP+ cells upon
+  Lsm14a, Ddx6, and Eif4enif1 KO in mouse naïve ES cells. Control, Lsm14a, Ddx6 KO
+  and Eif4enif1 KO (n=3 biological independent samples per group). (j, k) RNA-seq
+  data from sorted MERVL/ZSCAN4-negative and -positive mouse ES cells after Ddx6 KD,
+  showing expression levels of pluripotency- and totipotency-related transcripts (j)
+  and transposable elements (k)'
+article_title: Selective RNA sequestration in biomolecular condensates directs cell
+  fate transitions
+citation: Patrizia Pessina, et al. Nat Biotechnol. 2025 Oct 28;NA(NA).
+year: '2025'
+pub_date: '2025-10-28'
+epub_date: '2025-10-28'
+doi: 10.1038/s41587-025-02853-z
+journal_title: Nature biotechnology
+journal_nlm_ta: Nat Biotechnol
+publisher_name: .na.character
+keywords: []
+---

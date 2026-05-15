@@ -1,0 +1,42 @@
+---
+figid: PMC12709516__nihms-2124499-f0001
+pmcid: PMC12709516
+image_filename: jpg
+figure_link: /pmc/articles/PMC12709516/figure/F1/
+number: Figure 1.
+figure_title: Analytic workflow of the study
+caption: In a multicenter prospective cohort study—the 35th Multicenter Airway Research
+  Collaboration (MARC-35), the current study investigated 504 infants hospitalized
+  for bronchiolitis (i.e., severe bronchiolitis) with nasopharyngeal airway (NPA)
+  microbiome and blood DNA methylation (DNAm) data. NPA microbiome data was measured
+  by shotgun metagenomic sequencing, and 23 common taxa were used for the downstream
+  analyzes. Blood DNAm data was measured by Infinium MethylationEPIC array (850 K),
+  and a total of 776,307 CpGs were used for the downstream analyzes. First, we examined
+  associations of NPA microbiota with blood DNAm by using the epigenome-wide association
+  study (EWAS) approach. The microbiome-EWAS (mbEWAS) identified microbiota-associated
+  differentially methylated CpGs (mbDMCs) and regions (mbDMRs). We also examined associations
+  of NPA microbiota with DNAm age and associations of DNAm age with the risk of developing
+  outcomes—recurrent wheeze by age 3 years and asthma by age 6 years. Second, we characterized
+  the mbDMRs in 3 asthma-related pathogenic NPA bacteria—Haemophilus influenzae, Moraxella
+  catarrhalis, and Streptococcus pneumoniae. We determined the 7 blood immune cell
+  type-specific differential DNAm within the mbDMRs. The cell types were inferred
+  by a deconvolution analysis using the DNAm data. In the 112 infants with serum proteome
+  data, including 1,076 proteins measured by using 13 Olink panels, we identified
+  mbDMR-related proteins and examined the pathway enrichment
+article_title: Nasopharyngeal microbiome-epigenome-wide association analysis in infants
+  with severe bronchiolitis
+citation: Ryohei Shibata, et al. Allergy. 2026 Mar;81(3).
+year: '2026'
+pub_date: 2026-3-
+epub_date: '2025-10-13'
+doi: 10.1111/all.70102
+journal_title: Allergy
+journal_nlm_ta: Allergy
+publisher_name: .na.character
+keywords:
+- Airway microbiota
+- bronchiolitis
+- DNA methylation
+- DNA methylation age
+- EWAS
+---

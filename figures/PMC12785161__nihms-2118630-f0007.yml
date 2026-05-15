@@ -1,0 +1,26 @@
+---
+figid: PMC12785161__nihms-2118630-f0007
+pmcid: PMC12785161
+image_filename: jpg
+figure_link: /pmc/articles/PMC12785161/figure/F6/
+number: Figure 6.
+figure_title: Differential gene expression analysis of naïve ECs treated with CEM
+  from control or SR-BI knockdown ECs, highlighting attenuated inflammation
+caption: (A–B) Heatmaps of differentially expressed genes, identified using DESeq2
+  analysis (absolute log2 fold change > 1, adjusted p < 0.05), that are highly enriched
+  in immune-related KEGG pathways and inflammatory signatures. Hierarchical clustering
+  was performed using Euclidean distance and average linkage. Colors represent z-scored
+  expression values, with red indicating higher expression and blue indicating lower
+  expression
+article_title: Extracellular vesicles from chylomicron-treated endothelial cells drive
+  macrophage inflammation
+citation: Anna Tilp, et al. Arterioscler Thromb Vasc Biol. 2025 Dec;45(12).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-10-16'
+doi: 10.1161/ATVBAHA.125.322712
+journal_title: Arteriosclerosis, thrombosis, and vascular biology
+journal_nlm_ta: Arterioscler Thromb Vasc Biol
+publisher_name: .na.character
+keywords: []
+---

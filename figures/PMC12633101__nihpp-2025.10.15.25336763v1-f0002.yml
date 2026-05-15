@@ -1,0 +1,46 @@
+---
+figid: PMC12633101__nihpp-2025.10.15.25336763v1-f0002
+pmcid: PMC12633101
+image_filename: jpg
+figure_link: /pmc/articles/PMC12633101/figure/F2/
+number: 'Figure 2:'
+figure_title: (A) Gene set enrichment scores to the 50 MSigDB Hallmark Gene Sets were
+  calculated for BAL and nasal swabs together (gsva).
+caption: '(A) Gene set enrichment scores to the 50 MSigDB Hallmark Gene Sets were
+  calculated for BAL and nasal swabs together (gsva). Enrichment scores for each gene
+  set pair were then correlated within BAL and within nasal swabs using Spearman rank-based
+  correlation and plotted on the y- and x-axes, respectively. To contrast BAL and
+  nasal correlations, correlation values were transformed to Z-scores (Fisher transformation)
+  and the difference in Z-scores divided by the standard error of the difference is
+  reported as ΔZ-score (dot shading, ddcor). Blue shaded dots indicate greater correlation
+  in BAL than nasal; purple shaded dots indicate similar correlation in BAL and nasal;
+  pink shaded dots indicate greater correlation in nasal than BAL. (B) Top: An example
+  of similarly correlated gene sets in both BAL and nasal is depicted. Enrichment
+  scores to Hallmark Inflammatory Response and Hallmark Hypoxia are positively correlated
+  in both BAL and in nasal swabs. Bottom: An example of differently correlated gene
+  sets in BAL and nasal swabs is depicted. Enrichment scores to Hallmark IL6/JAK/STAT3
+  signaling and Hallmark DNA Repair are positively correlated in BAL but not correlated
+  in nasal swabs. (C) Top left: For each gene detected in both body sites (n=15,114),
+  Spearman rank-based correlation was calculated for normalized gene expression between
+  BAL and nasal swab pairs. A density distribution is plotted showing the distribution
+  of Spearman rho values. Top right, Bottom left, Bottom right: Normalized expression
+  of CXCL8, gene set enrichment score to the Hallmark Hypoxia Pathway, and imputed
+  Neutrophil Fractions are plotted for BAL (y-axis) and nasal swabs (x-axis) with
+  Spearman correlation listed in gray'
+article_title: Upper and Lower Respiratory Tract Compartmentalization in Pediatric
+  Stem Cell Transplantation
+citation: Erica M. Evans, et al. medRxiv. 2025 Oct 17;NA(NA).
+year: '2025'
+pub_date: '2025-10-17'
+epub_date: '2025-10-17'
+doi: 10.1101/2025.10.15.25336763
+journal_title: medRxiv
+journal_nlm_ta: medRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Hematopoietic Stem Cell Transplantation
+- Intensive Care Units, Pediatric
+- Immunocompromised Host
+- Bronchoalveolar Lavage
+- Transcriptome
+---

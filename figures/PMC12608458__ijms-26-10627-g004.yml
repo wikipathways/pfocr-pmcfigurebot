@@ -1,0 +1,44 @@
+---
+figid: PMC12608458__ijms-26-10627-g004
+pmcid: PMC12608458
+image_filename: jpg
+figure_link: /pmc/articles/PMC12608458/figure/F4/
+number: Figure 4
+figure_title: EV miRNA expression and target gene networks in inner ear organoid differentiation.
+caption: EV miRNA expression and target gene networks in inner ear organoid differentiation.
+  (A) Heatmap showing 35 differentially expressed miRNAs in extracellular vesicles
+  isolated from differentiation-stage organoids (case) compared to proliferation-stage
+  organoids (control). (B) Heatmap displaying the number of significant pathways in
+  five major categories (morphogenesis, differentiation, axon/projection guidance,
+  neurogenesis, and development) regulated by 21 differentially expressed EV miRNAs.
+  Pink and blue colors indicate up and downregulation in the case group, respectively.
+  (C) Protein–protein interaction network of target genes regulated by differentially
+  expressed EV miRNAs. The network is centered around TP53 (highest connectivity degree
+  ~480) and shows key interaction partners including EZH2, ZBTB4, and other regulatory
+  proteins, with node colors indicating log2 fold-change. (D) Dot plot showing enriched
+  biological processes (GO terms) in the protein interaction network, including cell
+  population proliferation, stem cell differentiation, and Wnt receptor catabolic
+  process. Dot size represents gene count and color intensity indicates FDR significance.
+  (E) Box plots showing expression levels of 18 differentially expressed genes between
+  early differentiation (ED) and late differentiation (LD) stages from bulk gene expression
+  datasets, including downregulated genes (Trp53 and Ezh2) and upregulated genes (Zbtb4,
+  Sox4, and Ctnnb1). Significance levels are indicated by asterisks (* p < 0.05, **
+  p < 0.01, *** p < 0.001, and **** p < 0.0001)
+article_title: Identification of microRNA-Related Target Genes for the Development
+  of Otic Organoids
+citation: Sehee Lee, et al. Int J Mol Sci. 2025 Nov;26(21).
+year: '2025'
+pub_date: 2025-11-
+epub_date: '2025-10-31'
+doi: 10.3390/ijms262110627
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- inner ear organoid
+- differentiation
+- development
+- regeneration
+- extracellular vesicles
+- miRNAs
+---

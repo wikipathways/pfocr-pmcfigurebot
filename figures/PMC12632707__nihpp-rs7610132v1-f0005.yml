@@ -1,0 +1,40 @@
+---
+figid: PMC12632707__nihpp-rs7610132v1-f0005
+pmcid: PMC12632707
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632707/figure/F5/
+number: Figure 5
+figure_title: Environmental exposures induce shared KEGG pathway alterations in both
+  blood and liver
+caption: a)KEGG pathways enriched by exposure-responsive DEGs in both blood and liver
+  across multiple exposures. Each circle represents a KEGG pathway enriched in either
+  tissue, with colors indicating different exposures. Squares mark KEGG pathways enriched
+  in both blood and liver. Red and blue lines trace KEGG pathways identified in female
+  and male samples, respectively. b) Shared enrichment of the Coronavirus disease–COVID-19
+  KEGG pathway in both blood and liver, observed across four distinct exposures. The
+  left heatmap displays the log2fold-change of DEGs encoding ribosomal proteins in
+  these exposures. The right panel shows the protein–protein interaction (PPI) network
+  of non-ribosomal DEGs within the same KEGG pathway. Red and blue denote up- and
+  down-regulated DEGs, respectively. Each row in the heatmap and each node in the
+  network corresponds to a DEG. In the network diagram, the left half of each circle
+  represents gene expression in the liver, and the right half represents blood, in
+  response to exposure to BPA10mg in females, PM2.5-CHI in males, PM2.5-JHU in males,
+  and As in females (top-down order)
+article_title: Cross-tissue molecular responses in the liver and blood after toxicant
+  exposures
+citation: Bo Zhang, et al. Res Sq. 2025 Oct 10;NA(NA).
+year: '2025'
+pub_date: '2025-10-10'
+epub_date: '2025-10-10'
+doi: 10.21203/rs.3.rs-7610132/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords:
+- Environmental epigenetics
+- surrogate and target tissue
+- transcriptome
+- epigenetic biomarkers
+- TaRGET II Consortium
+- early-life exposure
+---

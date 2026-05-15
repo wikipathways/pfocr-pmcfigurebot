@@ -1,0 +1,50 @@
+---
+figid: PMC12636343__nihpp-2025.10.27.684948v1-f0004
+pmcid: PMC12636343
+image_filename: jpg
+figure_link: /pmc/articles/PMC12636343/figure/F4/
+number: Figure 4.
+figure_title: WSP-1 and WAVE complex components regulate PLM branching
+caption: '(A) Schematic of WSP-1 protein domains and mutant alleles. WSP-1 contains
+  multiple conserved functional domains with Hs. N-WASP including the C-terminal VCA
+  region. Two alleles target specific regions: ΔWSD, affecting only the acidic domain,
+  and ΔCA, affecting both the central and acidic domains. The conserved residues in
+  are highlighted in yellow. R=Arg, W=Trp, X=any residue, Φ=long chain aliphatic residue.
+  The gm324 allele only targets one the wsp-1a isoform. Adapted from (Panchal et al.,
+  2003) and (Kurisu and Takenawa, 2009) .(B) Quantification of PLM branching in actin
+  regulatory mutants. Bar graph shows mean number of PLM branches per animal. Animals
+  were grown at 25°C and scored as L4 larvae using florescence microscopy. Analysis
+  of WASP function reveals that wsp-1 shows substantially reduced branching. Domain-specific
+  deletions demonstrate that ΔCA causes the most severe defect, more severe than both
+  wsp-1 and ΔWSD, indicating the critical importance of the complete CA region for
+  robust WASP function in branching. WAVE complex involvement is demonstrated by severe
+  branching reduction following GEX-3 AID depletion. unc-34 mutants show moderate
+  branching reduction, indicating the importance of VASP. Statistical significance
+  determined by Mann-Whitney U test. n=25–66 animals per condition. Error bars represent
+  SEM. ***p<0.001, n.s.=not significant.(C) Double mutant analysis reveals genetic
+  relationships. Animals were grown at 25°C and scored as L4 larvae. wsp-1; toca-1
+  and unc-34; toca-1 double mutants show branching defects indistinguishable from
+  toca-1 single mutants. By contrast, toca-1; gex-3(av259[L353F]) hypomorph double
+  mutants show a reduction compared to either single mutant suggesting the WAVE complex
+  acts in parallel to toca-1. Statistical significance determined by Mann-Whitney
+  U test. n=25–66 animals per condition. Error bars represent SEM. ***p<0.001, **p<0.01,
+  n.s.=not significant.(D) Representative maximum intensity projections fluorescent
+  images of PLM neurons in single mutants in the actin regulatory proteins [wsp-1(gm324),
+  unc-34(e315), gex-3(av259)] and toca-1(tm3334) double mutants probing the genetic
+  relationships between actin regulatory pathways and TOCA-1 in PLM branching. Asterisks
+  indicate synaptic puncta. Scale bar=10 μm'
+article_title: The actin assembly regulator toca-1 regulates collateral branching
+  in C. elegans
+citation: Anna Brinck, et al. bioRxiv. 2025 Oct 28;NA(NA).
+year: '2025'
+pub_date: '2025-10-28'
+epub_date: '2025-10-28'
+doi: 10.1101/2025.10.27.684948
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- actin
+- synaptogenesis
+- filopodia
+---

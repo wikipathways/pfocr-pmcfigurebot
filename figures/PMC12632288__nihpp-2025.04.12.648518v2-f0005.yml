@@ -1,0 +1,27 @@
+---
+figid: PMC12632288__nihpp-2025.04.12.648518v2-f0005
+pmcid: PMC12632288
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632288/figure/F5/
+number: Figure 5.
+figure_title: BqsR regulates a significant portion of the PAO1 genome.
+caption: |-
+  BqsR regulates a significant portion of the PAO1 genome. a. Volcano plot depicting the differentially expressed genes (DEGs) in ΔbqsR vs PAO1. DEGs (Log2FC ≥ |1|, p < 0.05) were stratified based on their log2 fold change (LFC) into three categories: low response with the expression changed by LFC |1–2| (light red/blue); moderate response with LFC |2–3| (medium red/blue); and top responders with LFC ≥ |3| (dark red/blue). Genes that showed no change in expression are shown in gray. False discovery rate (p-value) is plotted as –Log10
+  p-value with a cutoff of 1.3 (p = 0.05) indicated by a horizontal dashed line. Genes with LFCs ≥ 10 and/or –log10p-values ≥ 100 are depicted along the outermost dashed lines for a clear visual. Genes encoding the most significantly altered pathways are labeled with their gene name or PA number (as annotated in pseudomonas.com). RNAseq-based heat map showing LFC of expression comparisons of feoABC and bqsS in ΔbqsR vs WT PAO1 (inset). Graph was generated in RStudio. b. Violin plots showing the functional categories impacted by BqsR in PAO1. The PAO1 functional categories were assigned based on hand-curated analysis. The vertical lines indicate the LFC 1 (red) and −1 (blue). c. The top BqsR-dependent pathways within the top differently regulated functional categories shown in b
+article_title: The response regulator BqsR/CarR controls ferrous iron (Fe2+) acquisition
+  in Pseudomonas aeruginosa
+citation: Alexander Paredes, et al. bioRxiv. 2025 Oct 11;NA(NA).
+year: '2025'
+pub_date: '2025-10-11'
+epub_date: '2025-10-11'
+doi: 10.1101/2025.04.12.648518
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- biofilms
+- two-component system
+- signal transduction
+- iron
+- Feo
+---

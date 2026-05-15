@@ -1,0 +1,36 @@
+---
+figid: PMC12607470__cancers-17-03509-g006
+pmcid: PMC12607470
+image_filename: jpg
+figure_link: /pmc/articles/PMC12607470/figure/F6/
+number: Figure 6
+figure_title: Mutations across ovarian cancer cell lines.
+caption: 'Mutations across ovarian cancer cell lines. The figure summarizes the mutation
+  landscape of the seven ovarian cancer cell lines represented in this study. Rows
+  correspond to genes, and columns represent cell lines, ordered into four biologically
+  defined groups: Group 1 (COV362.4, OVCAR-5, OVCAR-8), Group 2 (SKOV3, TOV21G), Group
+  3 (OVCAR-3), and Group 4 (IGROV-1). Each filled cell (yellow) indicates the presence
+  of a mutation in the corresponding gene, while empty cells (red) represent wild-type
+  status. Genes are ordered by overall mutation frequency across cell lines to highlight
+  recurrently altered pathways. This visualization underscores the predominance of
+  TP53 mutations across most models, alterations in BRCA1/2 and DNA damage repair
+  genes in Group 1 and Group 3, enrichment of ARID1A, PIK3CA, and PTEN in Group 2,
+  and distinct MYC and SMARCA4 alterations in OVCAR-3 and IGROV-1, respectively'
+article_title: 'Subtype Characterization of Ovarian Cancer Cell Lines Using Machine
+  Learning and Network Analysis: A Pilot Study'
+citation: Rama Krishna Thelagathoti, et al. Cancers (Basel). 2025 Nov;17(21).
+year: '2025'
+pub_date: 2025-11-
+epub_date: '2025-10-31'
+doi: 10.3390/cancers17213509
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- cancer informatics
+- dimensionality reduction
+- machine learning
+- transcriptome profiling
+- network analysis
+- cancer biomarkers
+---

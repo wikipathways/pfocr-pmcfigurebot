@@ -1,0 +1,32 @@
+---
+figid: PMC12633135__nihpp-2025.10.14.25338041v1-f0004
+pmcid: PMC12633135
+image_filename: jpg
+figure_link: /pmc/articles/PMC12633135/figure/F4/
+number: Figure 4.
+figure_title: Discovered uEV mRNAs detail distinctly altered functional pathways between
+  MIBC and NMIBC
+caption: A. Functional enrichment analysis was performed using HumanBase’s28 Bladder
+  Tissue network to determine gene connectivity connections specific to MIBC and NMIBC.
+  Utilizing a 0.7 confidence cutoff and removing non-connected genes, we visualized
+  the network using Cytoscape41. Each node’s color corresponds to its association
+  to MIBC, NMIBC, if the genes are shared, and discovered signaling. B. Functional
+  gene ontology analysis was performed with gProfiler242 (FDR < 0.05) on each gene
+  set specific to MIBC and NMIBC, visualized as a chord plot. Each edge corresponds
+  to the number of genes associated with the identified pathway
+article_title: Urinary extracellular vesicles for high-precision bladder cancer subtyping
+  and prognosis
+citation: Zachary F. Greenberg, et al. medRxiv. 2025 Oct 17;5(NA).
+year: '2025'
+pub_date: '2025-10-17'
+epub_date: '2025-10-17'
+doi: 10.1101/2025.10.14.25338041
+journal_title: medRxiv
+journal_nlm_ta: medRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Urinary Extracellular Vesicles
+- Bladder Cancer
+- Subtype
+- Liquid Biopsy
+---

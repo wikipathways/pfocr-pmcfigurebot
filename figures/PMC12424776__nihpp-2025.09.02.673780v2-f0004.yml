@@ -1,0 +1,33 @@
+---
+figid: PMC12424776__nihpp-2025.09.02.673780v2-f0004
+pmcid: PMC12424776
+image_filename: jpg
+figure_link: /pmc/articles/PMC12424776/figure/F3/
+number: Figure 3.
+figure_title: Comprehensive Systems Analysis of Drug Response Screening Highlighting
+  BCL2-Associated Functional Pathways
+caption: '(A) UMAP plot of ORF perturbation profiles for 16 chemotherapeutic agents,
+  color-coded by one of four drug mechanisms of action. (B) Functional enrichment
+  network from drug-ORF correlations, showing ORF as node and Pearson correlation
+  (cut-off: < 0.9) as edge (left), functional clusters using SAFE (right). (C) STRING
+  protein-protein interaction (PPI) network of two BCL2-related SAFE clusters (“BH
+  domain binding” and “Autophagy & Apoptosis”), highlighting genes involved in vesicular
+  transport, apoptotic signaling, histone modification, and Notch receptor pathways.
+  The network is based on high-confidence experimental interactions (score > 0.9),
+  <50 interactors in the first and second shells. 12 diamond-shaped nodes highlight
+  ORFs originating from the SAFE network clusters. (D) UMAP plots showing Single-cell
+  RNA-seq treatment-specific ORF-expressing cell population changes for four different
+  chemotherapeutics (left) and enriched pathways in distinct cell clusters identified
+  by the Leiden algorithm and analyzed using DAVID (right)'
+article_title: 'BOGO: A Proteome-Wide Gene Overexpression Platform for Discovering
+  Rational Cancer Combination Therapies'
+citation: Kyeong Beom Jo, et al. bioRxiv. 2025 Nov 01;NA(NA).
+year: '2025'
+pub_date: '2025-11-01'
+epub_date: '2025-11-01'
+doi: 10.1101/2025.09.02.673780
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

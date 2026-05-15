@@ -1,0 +1,46 @@
+---
+figid: PMC12633212__nihpp-2025.10.22.683335v1-f0001
+pmcid: PMC12633212
+image_filename: jpg
+figure_link: /pmc/articles/PMC12633212/figure/F1/
+number: Figure 1 |
+figure_title: Schematic overview of cell-level disease state modeling and analysis
+caption: a, Overview of the analytical pipeline. Single-cell RNA-seq data from 52
+  human pancreatic islet donors (GSE266291, n=141,739 cells); non-diabetic [ND] and
+  type 2 diabetic [T2D]) were used for model development. Less than 3% of the dataset
+  was employed for self-supervised training of multiple machine learning classifiers,
+  including Gradient Boosting, Random Forest, and the logic-based interpretable SnakeClassifier
+  model. The trained models generated cell-level disease risk scores for the entire
+  dataset, followed by re-clustering and annotation for analysis of cellular disease
+  states. b, Schematic of the logic-based machine learning approach. Expression profiles
+  for 53 features (including 50 genes) and 5,000 single cells were input into the
+  SnakeClassifier model, generating cell and gene level embeddings that culminate
+  in quantitative cell-level disease risk scores. c, Downstream analysis framework.
+  Clustered β cells were subject to SnakeClassifier model to rank cells based on risk
+  score. Clusters were subject to ORA using disease, cluster and sex as variables.
+  The full dataset was classified by disease status, sex, and cell type. The SnakeClassifier
+  model was applied to all cells (n=141,739), enabling disease scoring and the identification
+  of disease and sex-specific states. β cell subsets with distinct disease states
+  were isolated and subjected to pathway over-representation analysis (ORA) to reveal
+  biological mechanisms associated with disease progression and heterogeneity. Pathways
+  were subjected to BlackSwanClassifier for gene importance ranking. Complex cellular
+  pathways modelling challenges 9termed integrated pathway cellular complexity problem)
+  was interpreted using a Kolmogorov-Arnold Neural Network to model complex biological
+  function in β cells
+article_title: Supervised machine learning identifies impaired mitochondrial quality
+  control in β cells with development of type 2 diabetes
+citation: Mirza Muhammad Fahd Qadir, et al. bioRxiv. 2025 Oct 23;NA(NA).
+year: '2025'
+pub_date: '2025-10-23'
+epub_date: '2025-10-23'
+doi: 10.1101/2025.10.22.683335
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Type 2 diabetes
+- Mitophagy
+- Rule based classifier
+- Machine learning
+- Disease prediction
+---

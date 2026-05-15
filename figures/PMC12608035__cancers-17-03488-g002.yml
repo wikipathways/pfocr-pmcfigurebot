@@ -1,0 +1,38 @@
+---
+figid: PMC12608035__cancers-17-03488-g002
+pmcid: PMC12608035
+image_filename: jpg
+figure_link: /pmc/articles/PMC12608035/figure/F2/
+number: Figure 2
+figure_title: Gene expression and metabolite profiling reveal distinct metabolic and
+  signaling programs in HSP90AB1-dependent and -resistant cells.
+caption: Gene expression and metabolite profiling reveal distinct metabolic and signaling
+  programs in HSP90AB1-dependent and -resistant cells. (A,B) Enrichment analysis of
+  differentially expressed genes (DEGs) showing Reactome (A) and KEGG (B) pathways
+  significantly altered between dependent and resistant cell lines. (C) Joint pathway
+  analysis integrating DEGs and differentially abundant metabolites. Individual pathways
+  scored by significance and pathway impact with point sizes scaled to pathway impact
+  (x axis) and color scaled to significance (y axis). Kegg Pathview maps shown to
+  illustrate broad differences. See Supplemental Tables S7 and S8 for individual genes/metabolites.
+  Significantly altered genes and metabolites in dependent and resistant populations
+  related to pyrimidine metabolism (D) and DEGs in signaling and structural pathways
+  including Rap1, and actin cytoskeleton organization (E,F)
+article_title: Integrative Multi-Omics Analyses Reveal Mechanisms of Resistance to
+  Hsp90β-Selective Inhibition
+citation: Ian Mersich, et al. Cancers (Basel). 2025 Nov;17(21).
+year: '2025'
+pub_date: 2025-11-
+epub_date: '2025-10-30'
+doi: 10.3390/cancers17213488
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- Hsp90
+- HSP90AB1
+- multi-omics
+- network analysis
+- pharmacologic resistance
+- kynurenine
+- dependency
+---

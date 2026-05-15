@@ -1,0 +1,35 @@
+---
+figid: PMC12785161__nihms-2118630-f0002
+pmcid: PMC12785161
+image_filename: jpg
+figure_link: /pmc/articles/PMC12785161/figure/F1/
+number: Figure 1.
+figure_title: Differential expression analysis of chylomicron-treated versus control
+  endothelial cells (EC)
+caption: (A) Volcano plot illustrating significantly altered gene expression, determined
+  by DESeq2 analysis and threshold values (absolute log2 fold change > 1 and adjusted
+  p < 0.05). Dashed lines and shaded regions indicate these thresholds, with red showing
+  upregulated genes, blue indicating downregulated genes, and gray showing non-significant
+  changes. Adjusted p-values are shown on a −log10 scale. (B) Violin plots of log2-transformed
+  expression levels for representative inflammatory and adhesion-related genes in
+  control (gray) versus chylomicron-treated (red) cells. Data represents three independent
+  biological replicates (n = 3). (C) KEGG pathway enrichment analysis (adjusted p
+  < 0.05) highlighting immune-related pathways among the upregulated genes. KEGG pathways
+  were ranked by statistical significance, with the bar length representing the adjusted
+  p-value score on a −log10 scale. Longer bars indicate higher significance. (D) Heatmap
+  of genes enriched in immune-related KEGG pathways (adjusted p < 0.05). Hierarchical
+  clustering was performed using Euclidean distance and average linkage. Colors represent
+  z-scored expression values, with red indicating higher expression and blue indicating
+  lower expression
+article_title: Extracellular vesicles from chylomicron-treated endothelial cells drive
+  macrophage inflammation
+citation: Anna Tilp, et al. Arterioscler Thromb Vasc Biol. 2025 Dec;45(12).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-10-16'
+doi: 10.1161/ATVBAHA.125.322712
+journal_title: Arteriosclerosis, thrombosis, and vascular biology
+journal_nlm_ta: Arterioscler Thromb Vasc Biol
+publisher_name: .na.character
+keywords: []
+---

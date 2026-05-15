@@ -1,0 +1,38 @@
+---
+figid: PMC12640560__nihms-2123602-f0001
+pmcid: PMC12640560
+image_filename: jpg
+figure_link: /pmc/articles/PMC12640560/figure/F1/
+number: Fig. 1.
+figure_title: Experimental Setup and Target Pathways.
+caption: 'Experimental Setup and Target Pathways. A) Top: Sagittal view of a temporary
+  28-contact subdural electrocorticography (ECoG) strip placed over the M1 region.
+  Bottom: Top-down view of the ECoG placement visualized by Slicer 5.2. B) Modeling
+  of the DBS electrode implanted in the subthalamic nucleus (STN) (orange), shown
+  in relation to the thalamus (yellow), the hyperdirect pathway (HDP, green), and
+  the cortico-spinal bulbar tract (CSBT, blue), visualized by StimVision. C) Top:
+  Schematic representation of HDP and CSBT antidromic activation in response to STN
+  stimulation. Bottom: Example of a cortical evoked potential (cEP) recorded from
+  one of the ECoG strip contacts in response to STN stimulation. The first and second
+  peak amplitudes, referred to as very short-latency evoked potential (EP0) and short-latency
+  evoked potential (EP1) [42], are used here as measures of HDP and CSBT activation.
+  STN = subthalamic nucleus; HDP = hyperdirect pathway; and CSBT = corticospinal/bulbar
+  tract'
+article_title: Evaluation of DBS computational modeling methodologies using in-vivo
+  electrophysiology in Parkinson’s disease☆
+citation: Seyyed Bahram Borgheai, et al. Brain Stimul. 2025;18(6).
+year: '2025'
+pub_date: 2025--
+epub_date: '2025-10-27'
+doi: 10.1016/j.brs.2025.10.022
+journal_title: Brain stimulation
+journal_nlm_ta: Brain Stimul
+publisher_name: .na.character
+keywords:
+- Hyperdirect pathway
+- Corticospinal tract
+- Cortical evoked potential
+- Driving force
+- Volume of tissue activated
+- Normative space
+---

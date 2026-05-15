@@ -1,0 +1,28 @@
+---
+figid: PMC12652543__genes-16-01246-g009
+pmcid: PMC12652543
+image_filename: jpg
+figure_link: /pmc/articles/PMC12652543/figure/F9/
+number: Figure 9
+figure_title: Functional annotation analysis of LGG.
+caption: Functional annotation analysis of LGG. (a) The number of differentially deregulated
+  mRNAs, mRNAs targeted by miRNAs, and genes with DNA methylation across the three
+  subtypes. (b) The top 10 enriched KEGG pathways of genes in LGG. (c) The top 10
+  enriched GO terms of genes in LGG
+article_title: Multi-Omics Data Integration for Improved Cancer Subtyping via Denoising
+  Autoencoder-Based Multi-Kernel Learning
+citation: Xiukun Yao, et al. Genes (Basel). 2025 Nov;16(11).
+year: '2025'
+pub_date: 2025-11-
+epub_date: '2025-10-22'
+doi: 10.3390/genes16111246
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- multi-omics data integration
+- subtypes identification
+- denoising autoencoder
+- hierarchical multi-kernel learning
+- deep learning
+---

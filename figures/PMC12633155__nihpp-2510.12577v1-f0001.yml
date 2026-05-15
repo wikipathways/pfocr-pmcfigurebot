@@ -1,0 +1,39 @@
+---
+figid: PMC12633155__nihpp-2510.12577v1-f0001
+pmcid: PMC12633155
+image_filename: jpg
+figure_link: /pmc/articles/PMC12633155/figure/F1/
+number: 'Figure 1:'
+figure_title: Comprehensive cardiac fibroblast signaling network
+caption: Network architecture of the cardiac fibroblast signaling model implemented
+  in ECMSim. The network integrates ten input molecules (E2, IL6, NP, TGF-β, IL1,
+  TNF-α, NE, PDGF, ET1, AngII, and tension) that activate membrane receptors and trigger
+  intracellular signaling cascades. Key signaling modules include MAPK pathways (ERK,
+  p38, JNK), PI3K-Akt-mTORC signaling, Rho GTPase mechanotransduction, and calcium-dependent
+  pathways. These converge on transcription factors (STAT, Smad3, CREB, AP1, NFAT,
+  SRF, YAP, NF-κB) that regulate expression of ECM molecules including collagens (proCI,
+  proCIII), matrix metalloproteinases (proMMP1, 2, 3, 8, 9, 12, 14), tissue inhibitors
+  (TIMP1, TIMP2), matricellular proteins (CTGF, periostin, fibronectin, tenascin-C,
+  thrombospondin-4, osteopontin), and other ECM regulators (αSMA, PAI1, EDAFN). Feedback
+  molecules (TGF-βfb, AngIIfb, IL6fb, ET1fb, tensionfb) enable autocrine and paracrine
+  signaling. Arrows indicate activation, bar-headed lines indicate inhibition, and
+  “AND” gates represent cooperative regulatory interactions requiring multiple inputs
+  for activation
+article_title: 'ECMSim: A high-performance web simulation of cardiac ECM remodeling
+  through integrated ODE-based signaling and diffusion'
+citation: Hasi Hays, et al. ArXiv. 2025 Oct 14;NA(NA).
+year: '2025'
+pub_date: '2025-10-14'
+epub_date: '2025-10-14'
+doi: .na.character
+journal_title: ArXiv
+journal_nlm_ta: ArXiv
+publisher_name: arXiv
+keywords:
+- Matrix remodeling
+- Heart failure
+- Cardiac fibrosis
+- ODEs
+- Extracellular matrix
+- Spatial heterogeneity
+---

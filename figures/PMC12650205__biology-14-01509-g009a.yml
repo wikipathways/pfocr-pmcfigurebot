@@ -1,0 +1,60 @@
+---
+figid: PMC12650205__biology-14-01509-g009a
+pmcid: PMC12650205
+image_filename: jpg
+figure_link: /pmc/articles/PMC12650205/figure/F9/
+number: Figure 9
+figure_title: RNAseq analysis was performed using wound samples from the in vivo rat
+  model to compare om-hASCexo-treated wounds vs.
+caption: 'RNAseq analysis was performed using wound samples from the in vivo rat model
+  to compare om-hASCexo-treated wounds vs. control wounds (n = 2). (A) To evaluate
+  the variance and similarity between treatment groups and samples within a group,
+  a PCA plot and (B) heatmap of sample similarity were created. (C) A differentially
+  expressed gene (DEG) heatmap and (D) volcano plot were created to evaluate significant
+  DEGs between om-hASCexo-treated wounds and control wounds. Genes labeled in blue
+  are downregulated and those labeled in red are upregulated in om-hASCexo wounds
+  compared to control wounds. (E) To evaluate the enriched pathways in om-hASCexo
+  wounds compared to control wounds, a Gene Set Enrichment Analysis (GSEA) Gene Ontology
+  (GO) was conducted on Biological Processes (BP) pathways. The GSEA GO-enriched pathways
+  of interest are depicted. Red bars indicate pathways that are downregulated and
+  blue bars indicate pathways that are upregulated in wounds treated with om-hASCexos
+  compared to control wounds. The numbers at the ends of bars indicate the number
+  of significant genes present in that pathway. Bar length is determined by the −Log10(p
+  value) to show the significance of each pathway. (F) To visualize the relationship
+  between each pathway, a network plot of all GSEA GO pathways of interest was created.
+  The tan dots indicate each pathway of interest while the connected red and blue
+  dots indicate the genes included in those pathways. The size of each tan (pathway)
+  dot indicates the number of significant genes enriched in these samples included
+  in these pathways. The color of the red/blue (gene) dots indicates the fold change,
+  or whether the gene is up- or downregulated in that pathway. (G) From the 16 enriched
+  pathways of interest, 4 overall pathway groups were created: Apoptosis, Fatty Acid
+  and Lipid Biosynthesis, Cell Development/Differentiation, and Immune Response. Pathways
+  were grouped into these categories, and heatmaps of gene expression were created
+  for each pathway group to evaluate which significant genes are enriched in the related
+  pathways. Positive Z values (red) indicate gene upregulation while negative Z values
+  (blue) indicate gene downregulation. (H) Network plot was created for each pathway
+  group to visualize how the genes enriched in these pathways are expressed. The tan
+  dots indicate each pathway of interest, while the connected red and blue dots indicate
+  the genes included in those pathways. The size of each tan (pathway) dot indicates
+  the number of significant genes enriched in these samples included in these pathways.
+  The color of the red/blue (gene) dots indicates the fold change, or whether the
+  gene is up- or downregulated in that pathway'
+article_title: The Human Omental Adipose Depot Mitigates Inflammation, Immune Response,
+  and Oxidative Stress Pathways in Response to Injury via Its Secretome
+citation: Meredith Krause-Hauch, et al. Biology (Basel). 2025 Nov;14(11).
+year: '2025'
+pub_date: 2025-11-
+epub_date: '2025-10-28'
+doi: 10.3390/biology14111509
+journal_title: Biology
+journal_nlm_ta: Biology (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- exosomes
+- omentum
+- adipose stem cells
+- RNAseq
+- inflammation
+- oxidative stress
+- immune response
+---

@@ -1,0 +1,44 @@
+---
+figid: PMC12632783__nihpp-2025.10.16.682921v1-f0002
+pmcid: PMC12632783
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632783/figure/F2/
+number: Figure 2.
+figure_title: Properties of Biodomain-specific Networks
+caption: '(A) The number of nodes and edges in each biodomain graph (y-axis, log scale)
+  as a function of the number of input genes (x-axis, log scale). Each point represents
+  a different biodomain: Tau Homeostasis (TH), APP Metabolism (AM), Metal Binding
+  and Homeostasis (MB), Myelination (My), Autophagy (Au), Apoptosis (Ap), Oxidative
+  Stress (OS), Vasculature (Va), Cell Cycle (CC), Immune Response (IR), Endolysosome
+  (En), Lipid Metabolism (LM), Proteostasis (Pr), Mitochondrial Metabolism (MM), Structural
+  Stabilization (SS), and Synapse (Sy). (B) Percentage of biodomain genes present
+  within graphs across different stages of graph generation: the overall Pathway Commons
+  graph, the node and edge filtered graph, and the final biodomain-specific graph.
+  The total number of genes in each domain is shown parenthetically on the y-axis
+  and the dashed line represents the average percent of domain genes present in the
+  final graphs across domains. (C) Proportion of network nodes in final biodomain
+  graphs that were used as input versus those that were added during reconstruction.
+  Nodes that were added were further subdivided into those annotated to the domain
+  and those that are not annotated to the domain. (D) Distribution of composite AD
+  Target Risk Scores biodomain graph nodes, subdivided into input nodes and added
+  nodes, as well as the background of all scored targets. (E) Overlap of nodes across
+  biodomain graphs. The heatmaps show the percentage overlap of input and added nodes
+  between biodomain graphs. The total number of nodes in each graph is shown on the
+  right. The order of biodomains along the x-axis is the same as the order along the
+  y-axis'
+article_title: Mapping cross-domain drivers of Alzheimer’s disease risk through integrated
+  network analysis
+citation: Gregory A Cary, et al. bioRxiv. 2025 Oct 16;NA(NA).
+year: '2025'
+pub_date: '2025-10-16'
+epub_date: '2025-10-16'
+doi: 10.1101/2025.10.16.682921
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Alzheimer’s Disease
+- Biological Domain
+- Network
+- Key Driver
+---

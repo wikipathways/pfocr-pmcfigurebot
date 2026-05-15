@@ -1,0 +1,46 @@
+---
+figid: PMC12768388__nihms-2131292-f0006
+pmcid: PMC12768388
+image_filename: jpg
+figure_link: /pmc/articles/PMC12768388/figure/F6/
+number: Figure 6.
+figure_title: (a) Scatter plot of the MSP and the CI of dodecanol under uncertainty
+  for the acetate (blue), acetate/glucose-seed (red), and glucose (yellow) configurations.
+caption: (a) Scatter plot of the MSP and the CI of dodecanol under uncertainty for
+  the acetate (blue), acetate/glucose-seed (red), and glucose (yellow) configurations.
+  Experimental performance scenarios are represented as stars. The box and whisker
+  plots of the dodecanol yield and the carbon intensity represent median values (dark,
+  solid lines), 25th–75th percentiles (shaded region), 5th and 95th percentiles (whiskers),
+  and minimum and maximum values (triangles). The horizontal line represents the upper
+  bound of the market price for dodecanol (5 USD·kg−1). Thus, relative to the market
+  price of dodecanol, simulated scenarios below the horizontal line can be market
+  competitive. The vertical line represents the estimated CI for dodecanol produced
+  from fossil fuel pathways (2.97 kg·CO2eq·kg−1). Simulated scenarios to the left
+  of the vertical line achieved a lower environmental impact. (b) Sensitivity of the
+  MSP of the glucose-fed and acetate-fed seed train configurations to parameters varied
+  in the Monte Carlo simulations, as determined by Spearman’s rank correlation coefficients
+  (ρ). (c) Contours of the MSP across H2 price (x-axis) and oleochemical yield (y-axis)
+  for the acetate/glucose-seed configuration under baseline assumptions shows how
+  bioreactor yields above 48% are needed to meet the market price. (d) Sensitivity
+  of the CI to parameters varied in the Monte Carlo simulations, as determined by
+  Spearman’s rank correlation coefficients (ρ). For both MSP and CI sensitivities,
+  only parameters with |ρ| > 0.01 are shown. Each parameter is modeled as uniform
+  distributions. The minimum and maximum values for each parameter are listed in brackets
+article_title: Demonstration and technoeconomic analysis of dodecanol production from
+  acetate using metabolically engineered Escherichia coli
+citation: Paul M. Perkovich, et al. Metab Eng. 2026 Jan;93(NA).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-10-27'
+doi: 10.1016/j.ymben.2025.10.007
+journal_title: Metabolic engineering
+journal_nlm_ta: Metab Eng
+publisher_name: .na.character
+keywords:
+- Metabolic engineering
+- acetate
+- oleochemicals
+- dodecanol
+- techno-economic analysis
+- life cycle analysis
+---

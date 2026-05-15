@@ -1,0 +1,41 @@
+---
+figid: PMC12928256__nihms-2141136-f0002
+pmcid: PMC12928256
+image_filename: jpg
+figure_link: /pmc/articles/PMC12928256/figure/F2/
+number: Figure 2.
+figure_title: Transcriptional response in jejunal HIOs following proton and photon
+  exposure.
+caption: 'Transcriptional response in jejunal HIOs following proton and photon exposure.
+  Differential gene expression analysis was performed in both crypt (C) and villus
+  (V) HIOs from five individual donor HIOs to analyze the response to either γ (g)
+  or proton (p) irradiation 48 h following exposure. Duplicate wells (technical replicates)
+  were pooled for analysis. A: PCA plots of the control samples (blue) or irradiated
+  samples (red) for each individual comparison are shown. B: volcano plots for C-g,
+  V-g, C-p, and V-p DEGs with the topmost significantly altered genes labeled. C:
+  heatmap of normalized enrichment scores (NES) with an FDR < 0.25 from GSEA using
+  Hallmark pathway compendia of V-g, C-g, V-p, and C-p DEGs along with DEGs of previously
+  published γ-irradiated murine SIO (GSE141515), murine abdominal X-ray irradiated
+  FACS sorted cells (GSE32227), and human iPSCs either photon or proton irradiated
+  (44). The experiment was repeated twice. C-g, crypt HIOs exposed to γ radiation;
+  C-p, crypt HIOs exposed to proton radiation; DEGs, differentially expressed genes;
+  FDR, false discovery rate; GSEA, Gene Set Enrichment Analysis; HIOs, human intestinal
+  organoids; PCA, principal component analysis; V-g, villus HIOs exposed to γ radiation;
+  V-p, villus HIOs exposed to proton radiation'
+article_title: Distinct molecular responses of human intestinal organoids to proton
+  and photon radiation
+citation: Victoria Poplaski, et al. Am J Physiol Gastrointest Liver Physiol. 2025
+  Dec 01;329(6).
+year: '2025'
+pub_date: '2025-12-01'
+epub_date: '2025-10-30'
+doi: 10.1152/ajpgi.00186.2025
+journal_title: American journal of physiology. Gastrointestinal and liver physiology
+journal_nlm_ta: Am J Physiol Gastrointest Liver Physiol
+publisher_name: .na.character
+keywords:
+- intestine
+- organoids
+- radiation
+- stem cell reversion
+---

@@ -1,0 +1,57 @@
+---
+figid: PMC12654689__microorganisms-13-02422-g004
+pmcid: PMC12654689
+image_filename: jpg
+figure_link: /pmc/articles/PMC12654689/figure/F4/
+number: Figure 4
+figure_title: Metabolic engineering strategies for the biosynthesis of squalene in
+  yeast [48,58,68,72,73,74,75,76,77].
+caption: 'Metabolic engineering strategies for the biosynthesis of squalene in yeast
+  [48,58,68,72,73,74,75,76,77]. This figure was created using Biorender.com. (A) Enhancing
+  precursor supply. The glycolytic pathway generates acetyl-CoA, which enters the
+  mevalonate (MVA) pathway. The supply of key precursors (acetyl-CoA, IPP, and DMAPP)
+  is enhanced through endogenous gene overexpression, heterologous gene introduction,
+  and organelle engineering. Glucose and isoprenol/prenol substrates are represented
+  by red and purple spheres, respectively. (B) Knocking out competitive pathways.
+  Byproduct formation is reduced by knocking out key genes in competing pathways (ethanol,
+  glycerol, and glyoxylate cycle), thereby optimizing acetyl-CoA utilization. Squalene
+  accumulation is further enhanced through regulation of transcription factors or
+  knockdown of competing pathway genes. (C) Alleviating consumption. The consumption
+  of squalene is limited by down-regulating or knocking down the related gene via
+  weak promoters or mutations. Red arrow represents yield improvement (D) Cofactor
+  engineering. The supply of cofactors, such as NADPH and ATP, can be ameliorated
+  via overexpression of genes, such as YIPGD or YIG6PD, associated with cofactor production.
+  (E) Enhancing strain tolerance. High-tolerance, high-yield strains are developed
+  through adaptive laboratory evolution, involving random mutagenesis, domestication,
+  high-throughput screening, and omics-assisted phenotypic optimization. (F) Extracellular
+  secretion. Abbreviations: tSPF refers to the lipid-binding domain (amino acids 1–278)
+  of transcription factor SPF, which participates in intracellular lipid transport
+  and storage; OSH3ORD denotes a fusion of OSH3 (an oxysterol-binding protein involved
+  in lipid transport and ER membrane stability) and the ORD domain (which binds oxidized
+  steroids and aids in cholesterol metabolism regulation); ABC transporters are transmembrane
+  proteins that utilize ATP to transport substrates across membranes, with Pdr5 being
+  a prominent plasma membrane ABC transporter in Saccharomyces cerevisiae known for
+  drug efflux, and SNQ2 representing a potential endogenous ABC transporter in Yarrowia
+  lipolytica involved in the efflux of lipids, metabolites, drugs, and toxic compounds.
+  (G) Computer-aided strategies encompass computer simulation and AI tools to optimize
+  metabolic engineering design. Tools include sequencing for genome and metabolic
+  pathway profiling, Metabolic network modeling to help predict the optimal path,
+  and ML (e.g., AlphaFold3) to predict protein structure or CRISPR-assisted gene editing'
+article_title: 'Metabolic Engineering of Yeasts for the Production of the Triterpene
+  Squalene: Current Status and Future Prospective'
+citation: Shasha Zuo, et al. Microorganisms. 2025 Nov;13(11).
+year: '2025'
+pub_date: 2025-11-
+epub_date: '2025-10-22'
+doi: 10.3390/microorganisms13112422
+journal_title: Microorganisms
+journal_nlm_ta: Microorganisms
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- squalene
+- microbial synthesis
+- metabolic engineering
+- Saccharomyces cerevisiae
+- Yarrowia lipolytica
+- application
+---

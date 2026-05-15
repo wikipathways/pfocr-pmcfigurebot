@@ -1,0 +1,39 @@
+---
+figid: PMC12633242__nihpp-2025.10.26.683539v1-f0004
+pmcid: PMC12633242
+image_filename: jpg
+figure_link: /pmc/articles/PMC12633242/figure/F4/
+number: FIGURE 4
+figure_title: A-D Associations between host lifestyle, microbe abundance, and host
+  gene expression.
+caption: 'A-D Associations between host lifestyle, microbe abundance, and host gene
+  expression. A Left: Association of lifestyle features (x axis left; grouped by diet,
+  medication use, general lifestyle, and blood markers) with the abundance of microbes
+  (y axis). Far right: number of host genes (x axis) that associate with each microbe
+  (y axis) per lasso analysis. For simplicity, microbes are only shown if >= 1 association
+  with a host lifestyle feature and >=2 associations with host genes. Circle indicates
+  a significant (FDR < 10%) association between microbe and lifestyle. Dot size corresponds
+  to absolute effect size of coefficient. Blue dots represent positive associations,
+  orange dots represent negative associations. B, C, D Rectangles represent lifestyle
+  features collected from survey data of stool donor participants. Circles represent
+  microbe taxonomy. Triangles represent individual host genes and host pathways that
+  are enriched from host genes. Lines between rectangles and circles represent significant
+  (Holm-corrected p < 1×10−1) associations via differential abundance testing. Blue
+  lines indicate positive associations, orange lines indicate negative associations.
+  Arrows between circles and triangles represent significant (FDR < 10%) associations
+  via lasso analysis. E-G Associations between host lifestyle, microbe function, and
+  host gene expression. E Similar to A; microbe functions instead of microbe taxonomy
+  on y axis. F, G similar to B, C, D; circles represent microbe function instead of
+  microbe taxonomy'
+article_title: Host transcriptional responses to gut microbiome variation arising
+  from urbanism
+citation: Sabrina Arif, et al. bioRxiv. 2025 Oct 26;NA(NA).
+year: '2025'
+pub_date: '2025-10-26'
+epub_date: '2025-10-26'
+doi: 10.1101/2025.10.26.683539
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

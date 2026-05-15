@@ -1,0 +1,37 @@
+---
+figid: PMC12622149__nihpp-rs7724642v1-f0003
+pmcid: PMC12622149
+image_filename: jpg
+figure_link: /pmc/articles/PMC12622149/figure/F3/
+number: Figure 3
+figure_title: Baseline transcriptomic characteristics in patients with clinical benefit
+  and exceptional response
+caption: 'a-b. Gene set enrichment analysis of bulk RNAseq data indicates pathways
+  that may have contributed to clinical benefit (CB; PR or SD ≥ 4 months) (a) or exceptional
+  response (PR or SD ≥ 12 months) (b) versus no clinical benefit (NCB; PD or SD <
+  4 months). Dot plot shows the enriched pathways associated with CB or exceptional
+  response. Pathways with |NES| > 1.5, and padj < 0.05 are shown. Gene count represents
+  the number of leading-edge genes contributing to each pathway. Circle size reflects
+  gene count, with larger circles indicating more genes. Overlapping genes in selected
+  pathways for NCB signature scoring are indicated by black outlined squares. c-h.
+  Immune and metabolic signature scores in CB vs. NCB tumors within D+O+C (c-d), D+C
+  (e-f), and a public dataset (GSE206422) in recurrent ovarian cancers with pembrolizumab,
+  bevacizumab, and metronomic cyclophosphamide treatment (g-h) calculated using singscore
+  and scores correlating with PFS. Two-sided Wilcoxon rank-sum test was used for comparing
+  signature scores between CB and NCB. Spearman correlation test was used for correlation
+  between signatures and PFS.Abbreviations: padj, adjusted p value; CB, clinical benefit;
+  D+O+C, durvalumab, cediranib, and olaparib; D+C, durvalumab plus cediranib; NCB,
+  no clinical benefit; NES, normalized enrichment score; PFS, progression-free survival;
+  PD, progression disease; PR, partial response; SD, stable disease'
+article_title: Phase II proof-of-concept study of durvalumab and cediranib with and
+  without olaparib in recurrent ovarian cancer
+citation: Jung-Min Lee, et al. Res Sq. 2025 Oct 05;17(NA).
+year: '2025'
+pub_date: '2025-10-05'
+epub_date: '2025-10-05'
+doi: 10.21203/rs.3.rs-7724642/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords: []
+---

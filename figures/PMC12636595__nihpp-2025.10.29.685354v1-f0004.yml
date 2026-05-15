@@ -1,0 +1,32 @@
+---
+figid: PMC12636595__nihpp-2025.10.29.685354v1-f0004
+pmcid: PMC12636595
+image_filename: jpg
+figure_link: /pmc/articles/PMC12636595/figure/F4/
+number: Figure 4.
+figure_title: Sex DE in LC, surrounding neurons, and astrocytes
+caption: A) Volcano plot illustrating sex DE in the LC domain. Red line indicates
+  an FDR threshold of 0.05. B) Volcano plot illustrating sex DE in the Astro domain.
+  Red line indicates an FDR threshold of 0.05. C) Volcano plot illustrating sex DE
+  in the ACHE, SERT, LC, and WM mixed domain. Red line indicates an FDR threshold
+  of 0.05. D) GSEA results for sex-DEGs in the LC, with the sign of the enrichment
+  score (NES, normalized enrichment score) indicating enrichment among male-upregulated
+  (blue) or female-upregulated (red) genes. GSEA results for all domains are available
+  in Table S11. E) Pseudobulk expression per sample of selected cholesterol synthesis
+  pathway genes in the LC domain and Astro domain, stratified by sex. * denotes FDR<0.05.
+  F-G) As cholesterol synthesis genes are generally astrocyte-expressed, we visualized
+  expression in the Astro (yellow) and LC (blue) domains to compare expression patterns
+  of a canonical astrocyte-specific gene, AQP4 (F), alongside cholesterol synthesis
+  gene HMGCS1 (G) in 2 representative donors (Br1884 and Br5426)
+article_title: Impact of Alzheimer’s disease risk factors and local neuromelanin content
+  on the transcriptomic landscape of the human locus coeruleus
+citation: Bernard Mulvey, et al. bioRxiv. 2025 Oct 29;NA(NA).
+year: '2025'
+pub_date: '2025-10-29'
+epub_date: '2025-10-29'
+doi: 10.1101/2025.10.29.685354
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

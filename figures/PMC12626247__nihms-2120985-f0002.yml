@@ -1,0 +1,39 @@
+---
+figid: PMC12626247__nihms-2120985-f0002
+pmcid: PMC12626247
+image_filename: jpg
+figure_link: /pmc/articles/PMC12626247/figure/F2/
+number: FIGURE 2 |
+figure_title: p53 regulates gene expression in the presence of HPV.
+caption: p53 regulates gene expression in the presence of HPV. (A) Volcano plot shows
+  significant differentially expressed genes (DEGs, blue = downregulated, red = upregulated,
+  p < 0.01) in UM-SCC-47 upon p53 knockdown. (B) Volcano plot for DEGs in UPCI-SCC-090
+  upon p53 knockdown. (C) Heatmap illustrates average expression levels of shared
+  DEGs in both cell lines. Green shades indicate downregulated genes, while red shades
+  indicate upregulated genes. Values are represented as log2 fold-change (log2FC),
+  with those exceeding |1| capped at +1 or −1 for illustrative clarity. Rows are genes
+  and columns are experimental conditions. The cellular processes related to each
+  gene are shown on the left. Pwy = pathway, Metab = metabolism. TCEA1P2 is a pseudo-gene
+  with no known function. (D) mRNA expression levels of p53 target genes CDKN1A and
+  INPP5D decrease upon p53 knockdown and are restored (and elevated) following E6
+  knockdown in UM-SCC-47 HPV+ HNSCC cells. (E) Normalized RNA-sequencing read counts
+  for CDKN1A, INPP5D, GDF15, ACLY, RNF128, TM7SF3 in isogenic HPV-negative PCI-13
+  HNSCC cell lines with either p53-WT or p53G245D (loss-of-function mutant) expression.
+  [Color figure can be viewed at wileyonlinelibrary.com]
+article_title: Human Papilloma Virus Does Not Fully Inactivate p53 Cellular Activity
+  in HNSCC
+citation: Jovanka Gencel-Augusto, et al. Head Neck. 2026 Mar;48(3).
+year: '2026'
+pub_date: 2026-3-
+epub_date: '2025-10-30'
+doi: 10.1002/hed.70085
+journal_title: Head & neck
+journal_nlm_ta: Head Neck
+publisher_name: .na.character
+keywords:
+- HNSCC
+- HPV
+- p53
+- PI3K
+- tumor suppression
+---

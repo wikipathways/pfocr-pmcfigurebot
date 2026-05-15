@@ -1,0 +1,39 @@
+---
+figid: PMC12691569__nihms-2116815-f0002
+pmcid: PMC12691569
+image_filename: jpg
+figure_link: /pmc/articles/PMC12691569/figure/F2/
+number: Figure 2.
+figure_title: m6A mRNA methylation landscape in wild-type mice after a 70% hepatectomy
+  reveal enrichment for response to stress, hepatobiliary system development and response
+  to wounding.
+caption: m6A mRNA methylation landscape in wild-type mice after a 70% hepatectomy
+  reveal enrichment for response to stress, hepatobiliary system development and response
+  to wounding.(A) Histogram of log2 fold changes in input-corrected m6A across genes
+  in hepatectomy (HEPA3) versus SHAM in WT mice. (B) m6A coverage plot across significant
+  hypermethylated genes in HEPA3 vs. SHAM that had fold change magnitude above 1.5
+  plotted against RNA landmarks, whose borders are demarcated by vertical dotted lines.
+  (C) m6A coverage plot across significant hypomethylated genes in HEPA3 vs. SHAM
+  that had fold change magnitude above 1.5 plotted against RNA landmarks, whose borders
+  are demarcated by vertical dotted lines. (D) Venn diagram of m6A tagged genes classified
+  as hypermethylated or hypomethylated (FDR<0.05). (E) Enriched gene ontology analyses
+  of differentially m6A methylated genes. (F) Enriched pathway analyses of differentially
+  methylated genes. N=4 in all groups
+article_title: m6A mRNA Methylation Decorates Genes Involved in Fibrinogen Synthesis
+  to Regulate Liver Regeneration in Mice
+citation: Tomohiko Kimura, et al. Am J Physiol Gastrointest Liver Physiol. 2025 Nov
+  01;329(5).
+year: '2025'
+pub_date: '2025-11-01'
+epub_date: '2025-10-07'
+doi: 10.1152/ajpgi.00108.2025
+journal_title: American journal of physiology. Gastrointestinal and liver physiology
+journal_nlm_ta: Am J Physiol Gastrointest Liver Physiol
+publisher_name: .na.character
+keywords:
+- m6A RNA methylation
+- Mettl14
+- Methyl transferase
+- Liver regeneration
+- Fibrinogen
+---

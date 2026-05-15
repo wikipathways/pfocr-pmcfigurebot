@@ -1,0 +1,49 @@
+---
+figid: PMC12643516__jciinsight-10-191274-g226
+pmcid: PMC12643516
+image_filename: jpg
+figure_link: /pmc/articles/PMC12643516/figure/F4/
+number: Figure 4
+figure_title: Global transcriptomics and proteomics of SPANXA2-OT1–silenced human
+  primary macrophages found in enrichment of chemotaxis signatures
+caption: (A) Schematics of global omics on SPANXA2-OT1–silenced human primary macrophages.
+  (B–E) RNA-Seq data. n = 4 PBMC donors. (B) Volcano plot, in which red dots denote
+  the statistically significant overexpressed and underexpressed mRNAs (adjusted P
+  value and log fold change), while the gray dots denote statistically nonsignificant
+  mRNAs. Scr_ASO (scrambled) and SPAN_ASO (SPANXA2-OT1). (C) Bubble plot of KEGG pathway
+  enrichment analysis of DEGs; x axis represents enrichment score. Count indicates
+  the number of DEGs enriched in pathway; P values were corrected by Benjamini-Hochberg
+  method. (D) Heatmap representation of DEGs. Clustering analysis resulted in 2 important
+  clusters that have decreased gene expression in SPANXA2-OT1–silenced group (yellow
+  and green boxes). (E) The clusters were used for STRING database protein-protein
+  interaction (PPI) and pathway analysis and resulted in enrichment of chemokine receptor/ligand
+  (yellow cluster) and chemokine downstream signaling (green cluster), both of which
+  were decreased after SPANXA2-OT1 silencing in human primary macrophages. (F–H) Proteomics
+  data. n = 5 PBMC donors. (F) Heatmap representing the unbiased global proteomics
+  changes after silencing SPANXA2-OT1 in human primary macrophages. Groups included
+  negative control anti-sense oligo– (NC_ASO–) and SPANXA2-OT1 anti-sense oligo–treated
+  (SPAN_ASO–treated) macrophages. (G) Protein abundance clusters showing sum-normalized
+  quantified data on the y axis and macrophage treatment groups on the x axis (average
+  of 5 donors/group). Cluster#6 (n = 37 proteins, highlighted in red) was selected
+  as the important cluster based on the pattern of expression, in which the expression
+  of proteins increased with IL-1β treatment and was maintained in IL-1β+NC ASO, while
+  the expression decreased in IL-1β+SPANXA2-OT1 ASO. (H) Gene ontology biological
+  process analysis of cluster#6 resulted in enrichment of pathways related to monocyte
+  chemotaxis
+article_title: A systems approach to target discovery identifies the role of lncRNA-SPANXA2-OT1
+  in macrophage chemotaxis
+citation: Prabhash K. Jha, et al. JCI Insight. 2025 Oct 9;10(21).
+year: '2025'
+pub_date: 2025-10-9
+epub_date: 2025-10-9
+doi: 10.1172/jci.insight.191274
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Cell biology
+- Inflammation
+- Vascular biology
+- Macrophages
+- Noncoding RNAs
+---

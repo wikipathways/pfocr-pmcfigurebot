@@ -1,0 +1,40 @@
+---
+figid: PMC12651230__cimb-47-00883-g006
+pmcid: PMC12651230
+image_filename: jpg
+figure_link: /pmc/articles/PMC12651230/figure/F6/
+number: Figure 6
+figure_title: CNPY3 and GRP94 alterations regulate UPR pathway and immune-related
+  genes in the tumor microenvironment.
+caption: CNPY3 and GRP94 alterations regulate UPR pathway and immune-related genes
+  in the tumor microenvironment. (A) cBioportal data show the gene alternation of
+  enrichment genes based on the HSP90B1 alternation, including the UPR pathway ATF4,
+  CHOP, XBP1 and PDI genes; Th17 and Th2 cell markers RORC and GATA3; and cytokines
+  CCL20, CCR6, CXCL12, IL2 and TNF. Red solid bars indicate gene amplifications, blue
+  solid bars are deletions, and red blank bars indicate upregulation, and blue blank
+  bars indicate downregulation. (B) Pair wise association plot for HSP90B1, CNPY3,
+  the UPR pathway and immune-related genes based on the Curtis breast cancer dataset.
+  This map provides summary statistics on mutual exclusivity and co-occurrence of
+  genomic alterations in each pair of genes. The color scale represents the magnitude
+  of the association (log odds). (C) Kaplan–Meier plotter data (http://kmplot.com,
+  accessed on 15 October 2025) show the prognostic correlation of enrichment genes
+  in breast cancer. Red dot (hazard ratio, HR > 1, p < 0.05), high expression is an
+  unfavorable factor; blue dot (hazard ratio, HR < 1, p < 0.05), high expression is
+  a favorable factor. OS, overall survival; PFS, progression-free survival
+article_title: CNPY3 Promotes Human Breast Cancer Progression and Metastasis via Modulation
+  of the Tumor Microenvironment
+citation: Xiaofeng Duan, et al. Curr Issues Mol Biol. 2025 Nov;47(11).
+year: '2025'
+pub_date: 2025-11-
+epub_date: '2025-10-24'
+doi: 10.3390/cimb47110883
+journal_title: Current Issues in Molecular Biology
+journal_nlm_ta: Curr Issues Mol Biol
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- CNPY3
+- molecular chaperone
+- therapeutic target
+- unfolded protein response
+- tumor microenvironment
+---

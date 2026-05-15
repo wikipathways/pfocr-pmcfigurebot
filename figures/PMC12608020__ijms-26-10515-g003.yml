@@ -1,0 +1,43 @@
+---
+figid: PMC12608020__ijms-26-10515-g003
+pmcid: PMC12608020
+image_filename: jpg
+figure_link: /pmc/articles/PMC12608020/figure/F3/
+number: Figure 3
+figure_title: HER2 expression maintained in T-DXd-resistant DSR4 cells.
+caption: HER2 expression maintained in T-DXd-resistant DSR4 cells. (A) HER2 copy numbers
+  of N87 and DSR4 cells, determined by NGS, are shown. (B) HER2 expression on the
+  cell surfaces of N87 and DSR4 cells was measured by flow cytometry. Mean HER2 molecule
+  count per cell with SD of three independent experiments is shown. t-test; * p =
+  0.003, (C) A ranked pathway with significance scores for DSR4 vs. N87 cells is shown.
+  Significance score was calculated by the Affymetrix Transcriptome Analysis Console
+  software version 4.0.3. (D) Volcano plot of differential gene expression of DSR4
+  versus N87 cells. Each point represents the average value of one transcript in two
+  replicate experiments as revealed by microarray analysis. The X axis represents
+  the linear fold change; Y axis represents −log10 p-values from the ANOVA. The expression
+  difference is considered significant for a 2-fold change and a p-value of 0.05.
+  Red colored points are significantly enriched genes in DSR4 cells, and green colored
+  points are in N87 cells. Gray-colored points indicate no significant difference.
+  (E) N87 and its clone DSR4 cells were treated with various concentrations of DXd.
+  The percentage of viable cells is shown relative to untreated controls (median with
+  95% CI of six independent experiments). (F) N87 and DSR4 cells were treated with
+  varying concentrations of T-DM1. The percentage of viable cells is shown relative
+  to untreated controls (median with 95% CI of six independent experiments). (G) Clonogenic
+  assay for N87 and DSR4 cells treated with/without T-DXd, or T-DM1 at indicated concentrations
+  for 10 days The colony-formation area was measured and quantified using ImageJ,
+  and the measurement is shown
+article_title: Zongertinib, a Novel HER2 Tyrosine Kinase Inhibitor, Maintains an Anticancer
+  Activity for Trastuzumab Deruxtecan-Resistant Cancers Harboring HER2-Overexpression
+citation: Takashi Kurosaki, et al. Int J Mol Sci. 2025 Nov;26(21).
+year: '2025'
+pub_date: 2025-11-
+epub_date: '2025-10-29'
+doi: 10.3390/ijms262110515
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- trastuzumab deruxtecan
+- HER2
+- tyrosine kinase inhibitor
+---

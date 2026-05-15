@@ -1,0 +1,34 @@
+---
+figid: PMC13067291__nihms-2118884-f0007
+pmcid: PMC13067291
+image_filename: jpg
+figure_link: /pmc/articles/PMC13067291/figure/F7/
+number: Figure 7.
+figure_title: Pediatric and adult hypertrophic cardiomyopathy (HCM) comparisons
+caption: 'A, Uniform manifold approximation and projection (UMAP) embedding of integrated
+  data. B, Left: Network diagrams for gene ontology (GO)pathways enriched in pediatric
+  hypertrophic cardiomyopathy (HCM). Right: Enriched Kyoto Encyclopedia of Genes and
+  Genomes (KEGG) pathways with adjusted P<0.05 with common genes annotated. C, Violin
+  plots illustrating collagen and laminin module expression in adult (red) and pediatric
+  (blue) HCM. D, Left: UMAP embedding of integrated data stratified by cluster. Violin
+  plot illustrating activated fibroblast module expression in clusters. Right: Pediatric-specific
+  re-embedded UMAP, labeled by original clusters. Bar plots illustrating enriched
+  GO and KEGG pathways with adjusted P<0.05. * indicates a Wilcoxon rank-sum test
+  P<0.001. ** indicates a Kruskal-Wallis test P< 0.001'
+article_title: Fibroblasts Are the Primary Contributors to a Disrupted Micro-Environment
+  in End-Stage Pediatric Hypertrophic Cardiomyopathy
+citation: Hanna J. Tadros, et al. Circ Genom Precis Med. 2025 Dec;18(6).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-10-06'
+doi: 10.1161/CIRCGEN.125.005192
+journal_title: Circulation. Genomic and precision medicine
+journal_nlm_ta: Circ Genom Precis Med
+publisher_name: .na.character
+keywords:
+- pediatric
+- hypertrophic cardiomyopathy
+- single nucleus RNA sequencing
+- co-expression network
+- heart transplantation
+---

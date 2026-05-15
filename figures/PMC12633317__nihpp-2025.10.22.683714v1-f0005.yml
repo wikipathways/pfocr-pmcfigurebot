@@ -1,0 +1,33 @@
+---
+figid: PMC12633317__nihpp-2025.10.22.683714v1-f0005
+pmcid: PMC12633317
+image_filename: jpg
+figure_link: /pmc/articles/PMC12633317/figure/F5/
+number: 'Figure 5:'
+figure_title: EMT-associated alterations in B cell and NK cell populations in the
+  tumor microenvironment
+caption: 'A UMAP plot of B cells derived from CD45+ cell enriched samples across tumors
+  with different EMT states, four distinct B cell subpopulations were identified:
+  Cd44− MHCIIhi B cells, plasma cells, Cd25+Cd69+ B cells, and Cd44+Cd69+ B cells.
+  B Violin plots showing expression of representative marker genes across B cell subtypes.
+  C Feature plots displaying expression of immunoglobulin isotypes (Ighg1, Igha, Ighd,
+  Ighe) in B cells. D Stacked bar plot illustrating the relative proportions of B
+  cell subtypes in tumors with different EMT states. E Dot plot showing average expression
+  of Gzma, Gzmb, Prf1, and Cxcr6 in NK cells across different samples. F Feature plots
+  displaying expression of Nkg7, Gzmb, Pfr1, and Cxcr6 in NK cells. G Heatmap of Z-scores
+  representing pathway enrichment in NK cells based on scRNA-seq data. Hallmark gene
+  sets from the MSigDB database were used for gene set enrichment analysis (GSEA),
+  with enrichment calculated using the Wilcoxon–Mann–Whitney. Z-scores reflect the
+  relative enrichment of each pathway across samples'
+article_title: Epithelial-Mesenchymal Transition is Associated with Altered Immune
+  Composition and Cytotoxic Function in Triple-Negative Breast Cancer
+citation: Hanxu Lu, et al. bioRxiv. 2025 Oct 23;NA(NA).
+year: '2025'
+pub_date: '2025-10-23'
+epub_date: '2025-10-23'
+doi: 10.1101/2025.10.22.683714
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

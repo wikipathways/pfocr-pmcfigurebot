@@ -1,0 +1,59 @@
+---
+figid: PMC12632654__nihpp-2025.10.08.25337623v1-f0001
+pmcid: PMC12632654
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632654/figure/F1/
+number: Figure 1.
+figure_title: Identification of genetic pathways associated with anorexia nervosa
+caption: '(A) A toy figure to illustrate the concept of pathway PRS and how we identified
+  AN-related pathways. In contrast to the standard genome-wide PRS where all risk
+  variants are counted, pathway PRS counts risk variants in each pathway, weighted
+  by their effect sizes, for each individual. To identify pathways associated with
+  AN, a total of 7,240 pathways from Gene Ontology Biological Process (GOBP) and 421
+  in-house collection of psychiatric-related pathways were examined. A total of 14,944
+  individuals in 10 cohorts from the Psychiatric Genomics Consortium Eating Disorders
+  Working Group were included in this study. Pathway-based polygenetic risk scores
+  (pathway PRS) were calculated using the PRSet function in PRSice-2. All pathway
+  PRS calculated based on the leave-one-out analyses were then pooled into one dataset
+  across 10 cohorts for the univariate and joint association analyses. A total of
+  497 pathway PRS were associated with AN in the univariate model after Bonferroni
+  correction, of which 41 pathway PRS were also significantly associated with AN in
+  the joint model, adjusting for cohorts and six genetic principal components. This
+  figure was created using BioRender software (www.biorender.com).(B) Correlation
+  plot of the 41 pathways PRS. The mean correlation across all 41 pathway PRS is 0.16,
+  same as the mean correlation across 497 pathway PRS. See Table 1 for the corresponding
+  pathway names.(C) No single pathway PRS drives AN status. The mean pathway PRS for
+  each of 41 pathway PRS is plotted, stratified by overall genetic risk (high, middle,
+  low tertiles of AN PRS) and AN status (case/control). See Table 1 for the corresponding
+  pathway names.(D) Pathway PRS further explains AN risk compared to standard genome-wide
+  PRS. The highest PR AUC was achieved by 497 pathway PRS, while the highest PR AUC
+  per SNP was achieved by 41 pathway PRS. The number of SNPs included for AN PRS,
+  41 pathway PRS and 497 pathway PRS were estimated based on the largest included
+  cohort (chop, Supplementary Table 7. The baseline line is y=24.67% as this equals
+  the AN case proportion in the whole dataset. Here precision is defined as true positives
+  over the sum of true positives and false positives, whereas recall (i.e., sensitivity)
+  is defined as true positives over the sum of true positives and false negatives.
+  A perfect prediction model would have a straight line at y=100% connected with x=100%
+  at the top right corner.(E) The highest ROC AUC was achieved by 497 pathway PRS,
+  while the highest ROC AUC per SNP was achieved by 41 pathway PRS. Here sensitivity
+  (i.e., recall) is defined as true positives over the sum of true positives and false
+  negatives, whereas specificity is defined as true negatives over the sum of true
+  negatives and false positives. Therefore, 1 – specificity equals false positives
+  over the sum of true negatives and false positives. A perfect prediction model would
+  have a straight line at y=100% connected with x=0% at the top left corner. A random
+  predictor with no discriminatory power would have an AUC of 50%.Abbreviations: AN=anorexia
+  nervosa, AUC=area under the curve, BP=bipolar disorder, GOBP=Gene Ontology Biological
+  Process, PC=principal component; PGC-ED=Psychiatric Genomics Consortium Eating Disorders
+  Working Group, PR=precision-recall, PRS=polygenic risk score, ROC=receiver operating
+  characteristic, SCZ=schizophrenia, SNP=single nucleotide polymorphism'
+article_title: Polygenicity at the pathway level for anorexia nervosa
+citation: Jiayi Xu, et al. medRxiv. 2025 Oct 09;NA(NA).
+year: '2025'
+pub_date: '2025-10-09'
+epub_date: '2025-10-09'
+doi: 10.1101/2025.10.08.25337623
+journal_title: medRxiv
+journal_nlm_ta: medRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

@@ -1,0 +1,29 @@
+---
+figid: PMC12636750__nihpp-rs7636879v1-f0007
+pmcid: PMC12636750
+image_filename: jpg
+figure_link: /pmc/articles/PMC12636750/figure/F7/
+number: 'Figure-7:'
+figure_title: Summary of glial dysregulation in HIV.
+caption: Summary of glial dysregulation in HIV. (a, b) Selected statistically significant
+  (filtered at FDR corrected p-value of 0.05) up (a) and down (b) regulated GSEA pathways
+  in glial cells; (c, d) Selected differentially regulated pathways in glial cells
+  that are exclusive to glial cell-types. (e, f) Two significant microglial clusters
+  in RNA-seq (e) data and ATAC-seq (f) data. (g) DEGs significantly dysregulated in
+  at least one of the two RNA-seq clusters that also drive the most significantly
+  perturbed pathways in the two RNA-seq clusters, * denotes that the gene is significantly
+  differentially expressed in the corresponding cluster. ‘Cluster 0’ in RNA-seq data
+  has more inflammatory pathways and ‘Cluster 1’ has more cell-death related pathways.
+  (h) Genes that encompass at least one DAR in one of the two ATAC-seq clusters
+article_title: Single-Cell Multi-Modal Differential Analysis of the Human Neo-Cortex
+  in HIV Infection Reveals Similarities with Hallmarks of Alzheimer’s Disease
+citation: Arpita Joshi, et al. Res Sq. 2025 Nov 01;NA(NA).
+year: '2025'
+pub_date: '2025-11-01'
+epub_date: '2025-11-01'
+doi: 10.21203/rs.3.rs-7636879/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords: []
+---

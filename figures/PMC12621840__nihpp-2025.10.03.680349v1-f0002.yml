@@ -1,0 +1,60 @@
+---
+figid: PMC12621840__nihpp-2025.10.03.680349v1-f0002
+pmcid: PMC12621840
+image_filename: jpg
+figure_link: /pmc/articles/PMC12621840/figure/F2/
+number: 'Figure 2:'
+figure_title: Mapping the differential phosphoproteomics of GSIS with and without
+  co-stimulation with GPCR agonists
+caption: '(A) Normalized relative insulin secretion levels were determined via luciferase
+  assay was measured in mouse pancreatic β cell line MIN6 either at low glucose (2.8mM)
+  or treatment with combinations of high glucose (17.8mM), TUG891 (100μM), or Exendin4
+  (20nM). Cells were serum and glucose starved for 1hr before treatment, and samples
+  were collected at 30 min after treatment. N=3. Error bars= SEM. Statistical significance
+  was assessed via One-Way ANOVA, with *P = 0.05; **P = 0.01; ****P = 0.00001. Plots
+  were generated using GraphPad Prism software.(B-F) UMAP analysis reveals the differential
+  effects of glucose and GPCR stimulation (FFAR4 vs GLP1-R) upon the cellular phosphoproteomic
+  landscape. Size of circle indicates log2 fold change, color of circle represents
+  the known subcellular compartment where that protein functions. The first panel
+  indicates the baseline of all the possible phosphorylations detected, while the
+  subsequent panels show increased circle sizes for the phosphorylations detected
+  that show marked changes in abundance in that stimulation condition.(G) Phosphorylated
+  proteins are known to be important for the integrity and function of multiple subcellular
+  compartments. These include cilia and centriole (blue), microtubule and kinesins
+  (orange), Golgi and ER (green), secretory machinery (yellow). In addition, some
+  proteins were previously associated with regulatory machinery of GPCR signaling
+  (navy) and glucose metabolism (grey). Example phosphorylations are shown here in
+  a model figure of a β cell, with key cellular compartments marked. Arrowheads indicate
+  whether it is an increase or a decrease in abundance and which GPCRs/stimulations
+  induce change (black: GLP1-R; white: FFAR4).(H) Examples of changes in abundance
+  of pathway-specific phosphorylations during GSIS. Differences are reported as log2
+  fold change compared to low glucose conditions, and the putative kinase based on
+  the Cantley algorithm are listed for each phosphorylation'
+article_title: Metabolic STAMP for deciphering GPCR-regulated insulin secretion by
+  pancreatic β cells
+citation: Mohammad Ovais Aziz-Zanjani, et al. bioRxiv. 2025 Oct 04;NA(NA).
+year: '2025'
+pub_date: '2025-10-04'
+epub_date: '2025-10-04'
+doi: 10.1101/2025.10.03.680349
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- GSIS (glucose-stimulated insulin secretion)
+- GPCRs (G protein-coupled receptors)
+- PTMs (post-translational modifications)
+- MIN6 (mouse β-cell line)
+- primary human islets
+- Metabolic-STAMP (Synchronized Temporal-Spatial Analysis via Microscopy and Phosphoproteomics)
+- T2D (Type 2 Diabetes)
+- FFAR4 (Free Fatty Acid Receptor 4)
+- GLP1-R (Glucagon-Like Peptide-1 Receptor)
+- ATAT1
+- HDAC6 (Histone De-Acetylase 6)
+- ERK
+- PKA (Protein Kinase A)
+- microtubules
+- acetylation
+- inter-organellar contacts
+---

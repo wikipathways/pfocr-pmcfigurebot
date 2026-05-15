@@ -1,0 +1,34 @@
+---
+figid: PMC12697219__nihms-2118908-f0003
+pmcid: PMC12697219
+image_filename: jpg
+figure_link: /pmc/articles/PMC12697219/figure/F3/
+number: Figure 3.
+figure_title: Multiome analysis of ISO-treated hearts
+caption: (A) Mice were injected i.p. with 300 mg/kg isoproterenol (ISO) or diluent
+  (PBS/CTRL). Whole hearts were collected at baseline (day 0) and on day 7 for multiome
+  single-nuclei RNA+ATAC sequencing. (pooled n=3/group) (B) UMAP showing the identified
+  cell clusters from sequencing. (C) Frequencies of the identified cell types in ISO
+  and CTRL hearts. (D) Number of differentially expressed genes (adjusted P<0.05,
+  log2 fold change >0.25/<−0.25) and (E) differentially accessible peaks across different
+  cell types in the ISO group, relative to control (P<0.005, log2 fold change >0.25/<−0.25).
+  Pathway enrichment analysis on lists of genes linked to accessible chromatin regions
+  in (F) fibroblast, (G) endocardium, (H) TNK cell, (I) cardiac myocyte, (J) myeloid,
+  (K) pericyte, and (L) endothelium cell types; the top 5 pathways are shown
+article_title: Comparative Analysis of Isoproterenol and Lipopolysaccharide Mediated
+  Cytoprotective Responses in the Heart
+citation: Kenji Rowel Q. Lim, et al. Am J Physiol Heart Circ Physiol. 2025 Nov 01;329(5).
+year: '2025'
+pub_date: '2025-11-01'
+epub_date: '2025-10-16'
+doi: 10.1152/ajpheart.00594.2025
+journal_title: American journal of physiology. Heart and circulatory physiology
+journal_nlm_ta: Am J Physiol Heart Circ Physiol
+publisher_name: .na.character
+keywords:
+- isoproterenol
+- lipopolysaccharide
+- cardiac protection
+- interferon signaling
+- biological robustness
+---

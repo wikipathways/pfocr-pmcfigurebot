@@ -1,0 +1,36 @@
+---
+figid: PMC12603948__nihms-2104121-f0002
+pmcid: PMC12603948
+image_filename: jpg
+figure_link: /pmc/articles/PMC12603948/figure/F2/
+number: 'Figure 2:'
+figure_title: Analysis of tumor-subset “Core” and “Margin” snRNA-seq data in GBM models
+caption: a. UMAP of snRNA-seq HGG data from region-confirmed “Core” and “Margin” dissections,
+  colored by region (left) and by tumor status (right). See also Supplementary Fig.
+  6a-b.b. UMAP of snATAC-seq HGG data from region-confirmed “Core” and “Margin” dissections,
+  colored by region. See also Supplementary Fig. 6c-e.c. UMAP of tumor-subset snRNA-seq
+  data from a, colored by cluster number.d. UMAP of tumor-subset snRNA-seq data from
+  a, colored by region.e. Heatmap of enrichment scores for select Hallmark terms in
+  tumor-subset clusters.f. Stacked bar plot of nuclei proportions (% of total) in
+  “Core” and “Margin” for each tumor-subset cluster.g. UMAP of G1, G2M and S cell
+  cycle phase in tumor-subset analysis.h. Violin plots (left) and two-dimensional
+  representation (right) of Neftel et al [10] cellular state GBM model showing module
+  scores in tumor-Core and tumor-Margin populations (* = p.adj < e−100, ** = p.adj
+  < e−200, *** = p.adj < e−300,**** = p.adj < e−400, unpaired Wilcoxon rank test).i.
+  Violin plots showing module scores of Garofano et al [12] pathway-based GBM model
+  in tumor-Core and tumor-Margin populations. Glycolytic/plurimetabolic (GPM) and
+  Mitochondrial (MTC) in the top panel, Neuronal (NEU) and Proliferative/progenitor
+  (PPR) in the bottom panel. (* = p.adj < e−100, ** = p.adj < e−200, *** = p.adj <
+  e−300, **** = p.adj < e−400, unpaired Wilcoxon rank test)
+article_title: Spatial Multi-omics Defines a Shared Tumor Infiltrative Signature at
+  the Resection Margin in High-Grade Gliomas
+citation: Balagopal Pai, et al. Cancer Res. 2025 Nov 03;85(21).
+year: '2025'
+pub_date: '2025-11-03'
+epub_date: '2025-11-03'
+doi: 10.1158/0008-5472.CAN-24-4708
+journal_title: Cancer research
+journal_nlm_ta: Cancer Res
+publisher_name: .na.character
+keywords: []
+---

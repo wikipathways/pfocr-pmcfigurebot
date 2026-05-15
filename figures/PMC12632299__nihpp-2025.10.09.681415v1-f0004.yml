@@ -1,0 +1,44 @@
+---
+figid: PMC12632299__nihpp-2025.10.09.681415v1-f0004
+pmcid: PMC12632299
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632299/figure/F4/
+number: 'Figure 4:'
+figure_title: Global comparison between transcriptomic and proteomic responses to
+  chronic alcohol in the liver and muscle
+caption: 'Panel A: Rank-rank hypergeometric overlap (RRHO) plots illustrating the
+  degree of correspondence between gene level and protein level responses to chronic
+  alcohol use in the liver and in muscle. The lighter the colouring in the lower-left
+  quadrant, the stronger the concordance in upregulation between genes and proteins.
+  The lighter the colouring in the upper-right quadrant, the stronger the concordance
+  in downregulation between genes and proteins. For RRHO analysis, only unique features
+  present at both the gene level and protein level were included (n = 3303 gene/proteins),
+  with features ranked on t-score. Panel B: Heatmap comparing global pathway regulation
+  by chronic alcohol use in liver and muscle at gene and protein levels. Shown are
+  those MSigDB mouse Molecular Hallmarks and Reactome Pathways that are similarly
+  regulated at gene and protein levels in at least one of the two tissues. Results
+  were derived via gene set enrichment analysis applied to unique features present
+  at both the gene level and protein level (n = 3303 gene/proteins), with features
+  ranked on t-score. Red and blue shading denote significant upregulation (adjusted
+  P ≤ 0.1, normalised enrichment score > 0) and downregulation (adjusted P ≤ 0.1,
+  normalised enrichment score < 0), respectively. G = gene, P = protein'
+article_title: Chronic alcohol intake elicits distinct multi-omic profiles in the
+  liver versus skeletal muscle of mice
+citation: Craig R. G. Willis, et al. bioRxiv. 2025 Oct 10;50(2).
+year: '2025'
+pub_date: '2025-10-10'
+epub_date: '2025-10-10'
+doi: 10.1101/2025.10.09.681415
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- alcohol
+- liver
+- skeletal muscle
+- multi-omics
+- transcriptomics
+- proteomics
+- metabolomics
+- lipidomics
+---

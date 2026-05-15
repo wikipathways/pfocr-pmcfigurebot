@@ -1,0 +1,43 @@
+---
+figid: PMC12633377__nihpp-2025.10.19.683261v1-f0004
+pmcid: PMC12633377
+image_filename: jpg
+figure_link: /pmc/articles/PMC12633377/figure/F4/
+number: Figure 4.
+figure_title: Butyrate partially rescued sustained downregulation of neuronal genes
+  induced by early exposure to CPF
+caption: '(A) Gene Set Enrichment Analysis (GSEA) of RNA-seq data using Gene Ontology’s
+  (GO) Biological Process (BP) terms identified 13 pathways (red arrows) related to
+  neuronal projection, synaptogenesis, and learning among the top 20 downregulated
+  pathways in CPF-treated samples as compared to the DMSO control samples. Significantly
+  downregulated pathways (p < 0.05) are ranked by Normalized Enrichment Score (NES).
+  (B) Hub genes were identified by network topology analysis of a protein-protein
+  interaction network formed by protein products of significantly downregulated neuronal
+  genes found in the CPF samples compared to the control samples. All genes belong
+  to the 13 neuronal pathways shown in (A). The top 30 hub genes were ranked by node
+  degree values. Colors represent hub gene rankings, with red denoting the top-ranking
+  genes. The size of each colored circle represents the degree centrality (number
+  of connections in the network). Blue underlines mark the SFARI ASD risk genes. (C)
+  Gene expression heatmap shows butyrate (SB) partially reversing the downregulation
+  of 30 neuronal hub genes induced by CPF-exposure (CPF+SB vs. CPF). (D) Comparing
+  the average normalized expressions of 30 neuronal hub genes. Neuronal hub genes
+  are significantly downregulated in CPF:No-SB samples compared to the DMSO:No-SB
+  controls. Butyrate (SB) significantly upregulated the expression of neuronal hub
+  genes in CPF-treated fish (CPF:SB), although not enough to match the level of expression
+  in DMSO:No-SB control samples. Gene expression levels are not significantly different
+  in CPF:SB samples as compared to DMSO:SB samples. Lines between treatment groups
+  connect expression levels of the same gene. Significance was calculated by two-way
+  ANOVA with Tukey’s multiple comparison test. ns: not significant, *p<0.05, **p<0.01,
+  ***p<0.001, ****p<0.0001'
+article_title: Butyrate rescues chlorpyrifos-induced social deficits through inhibition
+  of class I histone deacetylases
+citation: Leonardo Diaz, et al. bioRxiv. 2025 Oct 20;NA(NA).
+year: '2025'
+pub_date: '2025-10-20'
+epub_date: '2025-10-20'
+doi: 10.1101/2025.10.19.683261
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

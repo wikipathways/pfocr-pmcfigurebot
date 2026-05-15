@@ -1,0 +1,36 @@
+---
+figid: PMC12636766__nihpp-2510.26949v1-f0001
+pmcid: PMC12636766
+image_filename: jpg
+figure_link: /pmc/articles/PMC12636766/figure/F1/
+number: 'Figure 1:'
+figure_title: Effective reaction rates between components depend on solvent’s distance
+  to the critical point
+caption: 'A: Signal components are disks of spins that diffuse in the 2D Ising Model.
+  At time t0, an activator (black) comes in contact with an inactive target (pink).
+  In the same time step, the target is activated (blue) at some fixed rate. During
+  the next sweep, the activated target diffuses away. Because of coupling to Ising
+  degrees of freedom, the effective rate of these reactions depends on the state of
+  the surrounding membrane through their rate of coming into contact. B: Cascade diagram
+  with component partitioning. Sign above reaction arrow (purple +/−) indicates that
+  the pathway increases/decreases target activity. Sign below reaction arrow (orange
+  +/−) indicates whether interaction rate increases or decreases with rescaled temperature.
+  The product of these two signs (here positive in both cases) predicts how increasing
+  temperature changes the target’s activity. C: In this PPI the product of the upper
+  and lower signs is positive for all reactions, indicating target activity should
+  increase monotonically with respect to temperature, as sketched. While the explicit
+  reaction rates do not change with temperature, the effective rate of the activating
+  reaction increases while the deactivating reaction decreases as unlike components
+  interact more at higher temperature and like components interact less'
+article_title: Protein-protein interaction networks can be highly sensitive to the
+  membrane phase transition
+citation: Taylor Schaffner, et al. ArXiv. 2025 Oct 30;NA(NA).
+year: '2025'
+pub_date: '2025-10-30'
+epub_date: '2025-10-30'
+doi: .na.character
+journal_title: ArXiv
+journal_nlm_ta: ArXiv
+publisher_name: arXiv
+keywords: []
+---

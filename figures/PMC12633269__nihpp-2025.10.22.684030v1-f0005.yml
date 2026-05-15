@@ -1,0 +1,39 @@
+---
+figid: PMC12633269__nihpp-2025.10.22.684030v1-f0005
+pmcid: PMC12633269
+image_filename: jpg
+figure_link: /pmc/articles/PMC12633269/figure/F5/
+number: Figure 5.
+figure_title: Mitochondrial complex I function regulates the transcriptional landscape
+  in adipocytes
+caption: a, Single-nuclei RNA-sequencing was performed on visceral WAT from Control
+  (Bmal1fx/fx; NDI1LSL), Bmal1-KO (Adiponectin-Cre; Bmal1fx/fx), and Bmal1-KO + NDI1
+  (Adiponectin-Cre; Bmal1fx/fx; NDI1LSL) mice. Uniform manifold approximation and
+  projection (UMAP) plot showing WAT adipocyte nuclei from Control, Bmal1-KO, and
+  Bmal1-KO + NDI1 mice (WAT from 4 mice was pooled for each sample). b, KEGG pathway
+  analysis of downregulated genes in Bmal1-KO vs. Control adipocytes (upper panel)
+  and upregulated genes in Bmal1-KO + NDI1 vs. Bmal1-KO adipocytes (lower panel).
+  c, Heatmap of differentially abundant genes in adipocyte clusters between Control,
+  Bmal1-KO, and Bmal1-KO + NDI1 mice. d, qPCR analysis of indicated genes in visceral
+  WAT from Control, Bmal1-KO, and Bmal1-KO + NDI1 mice (Control n = 12, Bmal1-KO n=12,
+  Bmal1-KO + NDI1 n=7).Data are represented as mean ± SEM. Statistical significance
+  was calculated by one-way ANOVA followed by multiple comparisons in d. *p < 0.05,
+  **p < 0.01, ***p < 0.001
+article_title: NADH dehydrogenase reverses dietary and clock metabolic syndrome
+citation: Chelsea Hepler, et al. bioRxiv. 2025 Oct 23;8(3).
+year: '2025'
+pub_date: '2025-10-23'
+epub_date: '2025-10-23'
+doi: 10.1101/2025.10.22.684030
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Circadian clock
+- BMAL1
+- mitochondria
+- complex I
+- metabolism
+- NDI1
+- adipocytes
+---

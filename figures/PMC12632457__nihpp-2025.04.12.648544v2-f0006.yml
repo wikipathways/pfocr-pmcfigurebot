@@ -1,0 +1,34 @@
+---
+figid: PMC12632457__nihpp-2025.04.12.648544v2-f0006
+pmcid: PMC12632457
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632457/figure/F6/
+number: Figure 6.
+figure_title: Disrupting kms1 upregulates mutagenic DSB repair
+caption: A) Analysis of Rad52-GFP foci. ~50% of rad51Δ cells have a Rad52-GFP focus.
+  When kms1 is also lost from a rad51Δ background, the number of foci decreases to
+  ~25–30% (p=0.0158 by one way ANOVA with Tukey correction for multiple comparisons).
+  B) Representative micrographs of Rad52-GFP foci in WT, kms1Δ, rad51Δ, and kms1Δrad51Δ
+  cells. C) The assay to measure the rate of alternative repair pathway usage. D)
+  Loss of the cNHEJ ligase Lig4 causes a trend of a decrease in the rate of loss of
+  ura4, suggesting Lig4 is involved in this pathway. Although this finding approached
+  statistical significance on an ANOVA with a Dunnett correction for multiple comparisons
+  (p=0.053), a pairwise t-test revealed a p value of p=0.0151. Loss of pku70 has no
+  effect, indicating that protection of DSB ends is dispensable in this context. However,
+  loss of kms1 leads to an increase in the rate of loss of ura4 (p<0.0001 by one-way
+  ANOVA with Dunnett correction for multiple comparisons), indicating that Kms1 restrains
+  the use of this alternative pathway. Data points are the natural log of the fold
+  change in rate. ). * indicates p < .05; ** indicates p < .01; *** indicates p <
+  .001; **** indicates p<.0001
+article_title: The LINC complex component Kms1 and CENP-B protein Cbp1 cooperate to
+  enforce faithful homology-directed DNA repair at the nuclear periphery in S. pombe
+citation: Alyssa Laffitte, et al. bioRxiv. 2025 Oct 09;40(7-8).
+year: '2025'
+pub_date: '2025-10-09'
+epub_date: '2025-10-09'
+doi: 10.1101/2025.04.12.648544
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

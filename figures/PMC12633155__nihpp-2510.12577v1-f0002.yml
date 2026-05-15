@@ -1,0 +1,34 @@
+---
+figid: PMC12633155__nihpp-2510.12577v1-f0002
+pmcid: PMC12633155
+image_filename: jpg
+figure_link: /pmc/articles/PMC12633155/figure/F2/
+number: 'Figure 2:'
+figure_title: ECMSim network architecture and diffusion model
+caption: 'Representation of the integrated cardiac fibroblast signaling model implemented
+  in ECMSim, illustrating the key components and their interactions. The model encompasses;
+  (A) Single feedback loop: representation of how feedback loops connected in ODE
+  system; (B) ODE-based signaling pathway: crosstalk between signaling modules including
+  MAPK cascades (ERK, p38, JNK), PI3K-Akt-mTOR, Rho GTPase, and mechanotransduction
+  pathways; (C) Matrix remodeling: include cell-cell crosstalk with feedback molecules
+  and ECM molecule diffusion; (D) Diffusion dynamics: spatial diffusion to neighboring
+  cells, demonstrating the multi-scale integration from molecular interactions to
+  tissue-level coordination according to the given conditions in the ECMSim platform'
+article_title: 'ECMSim: A high-performance web simulation of cardiac ECM remodeling
+  through integrated ODE-based signaling and diffusion'
+citation: Hasi Hays, et al. ArXiv. 2025 Oct 14;NA(NA).
+year: '2025'
+pub_date: '2025-10-14'
+epub_date: '2025-10-14'
+doi: .na.character
+journal_title: ArXiv
+journal_nlm_ta: ArXiv
+publisher_name: arXiv
+keywords:
+- Matrix remodeling
+- Heart failure
+- Cardiac fibrosis
+- ODEs
+- Extracellular matrix
+- Spatial heterogeneity
+---

@@ -1,0 +1,42 @@
+---
+figid: PMC12633242__nihpp-2025.10.26.683539v1-f0002
+pmcid: PMC12633242
+image_filename: jpg
+figure_link: /pmc/articles/PMC12633242/figure/F2/
+number: FIGURE 2
+figure_title: A–C Host transcriptional response to urban and rural microbiomes.
+caption: 'A–C Host transcriptional response to urban and rural microbiomes. A Differentially
+  expressed host genes (DEGs) compared to control condition. Log2 fold change values
+  shown for DEGs significant at FDR < 10%. Dots indicate DEGs specific to urban (purple),
+  rural (green), or shared between both (black) microbiome conditions. B, C Enriched
+  host gene pathways (FDR < 10%, gene count ≥ 3) in response to urban (B) and rural
+  (C) microbiomes. Upregulated and downregulated pathways shown in bottom and top
+  panels, respectively. Dot size reflects −log(p-value). D–G Microbiome alpha diversity
+  associated with distinct host transcriptional responses. D Density plot of Shannon
+  diversity values across microbiome samples. Median (3.62) indicated by black dotted
+  line. Samples below the median (light blue) are classified as “low diversity”; those
+  above (dark blue) as “high diversity.” Pie charts indicate the proportion of urban
+  (purple) and rural (green) samples in each group. Rug plot shows individual sample
+  distribution: purple and green ticks correspond to urban and rural communities,
+  respectively. E Number of host DEGs in response to low diversity microbiomes vs.
+  control (light blue) and high diversity microbiomes vs. control (dark blue). F Volcano
+  plot depicting host genes that respond to low diversity vs. high diversity microbiomes.
+  Genes significantly (FDR < 10%) upregulated in low diversity microbiomes shown in
+  light blue, high diversity shown in dark blue, and NS shown in grey. G Enriched
+  host gene pathways (FDR < 10%, gene count ≥ 3) in response to low (light blue) vs.
+  high (dark blue) diversity microbiomes. Observed values (y-axis) represent the number
+  of input genes annotated to each pathway. Expected values (x-axis) were calculated
+  as the input list size multiplied by the proportion of background genes annotated
+  to the pathway; 1:1 shown by black dashed line'
+article_title: Host transcriptional responses to gut microbiome variation arising
+  from urbanism
+citation: Sabrina Arif, et al. bioRxiv. 2025 Oct 26;NA(NA).
+year: '2025'
+pub_date: '2025-10-26'
+epub_date: '2025-10-26'
+doi: 10.1101/2025.10.26.683539
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

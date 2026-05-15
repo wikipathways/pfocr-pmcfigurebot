@@ -1,0 +1,34 @@
+---
+figid: PMC12652065__genes-16-01277-g001
+pmcid: PMC12652065
+image_filename: jpg
+figure_link: /pmc/articles/PMC12652065/figure/F1/
+number: Figure 1
+figure_title: A volcano plot illustrating differential gene expression associated
+  with neck disability.
+caption: A volcano plot illustrating differential gene expression associated with
+  neck disability. Each point represents a gene, plotted by it log2 fold change (x-axis)
+  and −log10 adjusted p-value (y-axis). Genes with both statistically significant
+  expression changes and substantial fold changes are highlighted in red, while those
+  with either significant p-values (blue) or fold changes (green) alone are also marked.
+  Non-significant genes are shown in grey. Notable genes such as KLRF1, ZNF600, PRICKLE2,
+  and NEFL are labeled for emphasis. This visualization enables rapid identification
+  of genes most affected by neck disability, supporting downstream pathway and functional
+  enrichment analysis
+article_title: Transcriptomic Differences Related to Neck Pain in Patients with Oropharyngeal
+  Squamous Cell Carcinoma
+citation: Monica A. Wagner, et al. Genes (Basel). 2025 Nov;16(11).
+year: '2025'
+pub_date: 2025-11-
+epub_date: '2025-10-28'
+doi: 10.3390/genes16111277
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- pain
+- transcriptomics
+- patient-reported outcomes
+- oropharyngeal squamous cell carcinoma
+- head and neck cancer
+---

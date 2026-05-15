@@ -1,0 +1,33 @@
+---
+figid: PMC12812832__can-19-2017fig4
+pmcid: PMC12812832
+image_filename: jpg
+figure_link: /pmc/articles/PMC12812832/figure/F4/
+number: Figure 4.
+figure_title: KEGG pathway enrichment analysis. Bubble plot showing the top enriched
+  GO BP terms. The x-axis represents the combined enrichment score, and the y-axis
+  lists the GO terms. Bubble size corresponds to the overlap ratio (proportion of
+  query genes overlapping with genes in each GO term), and bubble color intensity
+  reflects the statistical significance as –log₁₀ (adjusted p-value)
+caption: KEGG pathway enrichment analysis. Bubble plot showing the top enriched GO
+  BP terms. The x-axis represents the combined enrichment score, and the y-axis lists
+  the GO terms. Bubble size corresponds to the overlap ratio (proportion of query
+  genes overlapping with genes in each GO term), and bubble color intensity reflects
+  the statistical significance as –log₁₀ (adjusted p-value)
+article_title: Clustering-based identification of immune-related gene signatures in
+  hepatocellular carcinoma
+citation: Jyoti Brahmaiah, et al. Ecancermedicalscience. 2025;19(NA).
+year: '2025'
+pub_date: 2025--
+epub_date: '2025-10-17'
+doi: 10.3332/ecancer.2025.2017
+journal_title: ecancermedicalscience
+journal_nlm_ta: Ecancermedicalscience
+publisher_name: ecancer Global Foundation
+keywords:
+- hepatocellular carcinoma
+- immune clustering
+- MHC genes
+- antigen presentation
+- immunotherapy
+---

@@ -1,0 +1,50 @@
+---
+figid: PMC12632782__nihpp-2025.10.18.683230v1-f0008
+pmcid: PMC12632782
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632782/figure/F8/
+number: Figure 8.
+figure_title: Spatial-Temporal Dynamics of Excitation/Inhibition Balance Mediate Homogeneity
+  Preference in the Retina
+caption: '(A) Schematic of the two-stream spatial-temporal model. Image patches (top)
+  are processed through parallel excitatory and inhibitory pathways with distinct
+  spatial receptive fields (middle row). Both streams then pass through temporal filters.
+  The inhibitory pathway modulates the excitatory pathway through presynaptic inhibition,
+  which operates via a dynamic synapse with depression (blue feedback arrow). The
+  final output integrates these pathways to form the retinal ganglion cell response.(B)
+  Dynamic simulations of the temporal-only model (dashed rectangle in A) showing vesicle
+  occupancy rate and excitatory output under different parameter conditions in response
+  to a flashed grating (as in Figure 3). Left panel: Vesicle occupancy dynamics (n(t))
+  with varying presynaptic inhibition strengths (α=0.1,0.4,0.8). Right panel: Vesicle
+  occupancy dynamics with varying inhibition sensitivity values (β=1,4,8). Corresponding
+  excitatory outputs and inhibitory traces are shown below each condition.(C) Example
+  conductance response traces showing excitatory conductance trace (left), inhibitory
+  conductance trace (middle), and spike responses (3Exc-Inh, right) to two natural
+  image patches (solid lines) and their equivalent homogeneous discs (dotted lines).
+  The spatial structure in patch 1 (blue) and patch 2 (red) evokes distinct patterns
+  of excitation and inhibition.(D) Comparison of onset responses to natural image
+  patches versus their equivalent discs for excitation (left), inhibition (middle),
+  and spike output (right). Inhibition strongly prefers structured images (points
+  below unity line) while excitation prefers homogeneous discs (points above unity
+  line).(E) Similar to C, but showing offset responses after stimulus termination.(F)
+  Simulation results showing how inhibitory strength modulates spatial integration.
+  Scatter plots compare image versus disc responses at stimulus onset (left) and offset
+  (right) with different inhibitory strengths (0.1, 0.4, 0.8). Responses represent
+  area sums (unitless) normalized to the maximal response during stimulus onset across
+  all conditions. Semi-transparent points represent individual image patches, while
+  thick colored lines show responses for a few example patches. Insets show how the
+  mean nonlinearity index (NLI) changes with inhibitory strength.(G) Same as F, but
+  for inhibitory/excitatory subunit size ratio (0.8, 2, 4). Insets show how the mean
+  NLI changes with the subunit size ratio'
+article_title: Spatially-local inhibition and synaptic plasticity together enable
+  dynamic, context-dependent integration of parallel sensory pathways
+citation: Qiang Chen, et al. bioRxiv. 2025 Oct 19;45(5).
+year: '2025'
+pub_date: '2025-10-19'
+epub_date: '2025-10-19'
+doi: 10.1101/2025.10.18.683230
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

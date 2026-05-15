@@ -1,0 +1,38 @@
+---
+figid: PMC12784297__nihms-2124347-f0001
+pmcid: PMC12784297
+image_filename: jpg
+figure_link: /pmc/articles/PMC12784297/figure/F1/
+number: 'Figure 1:'
+figure_title: Overview of myddosome and IRAK signaling in cancer
+caption: In normal cells, inflammatory signaling via TLR or IL-1R recruits MyD88 and
+  promotes IRAK4 activation, though only the long isoform (IRAK4-L) is signaling-competent.
+  IRAK4-L phosphorylates IRAK1, which activates TRAF6, leading to downstream pathway
+  activation. In malignant cells, the inflammatory milieu enhances TLR/IL-1R signaling
+  and receptor expression. Malignant cells show increased MyD88 and preferential expression
+  of IRAK4-L, particularly in spliceosome-mutant and PRMT5-expressing cancers, along
+  with elevated IRAK1 and TRAF6 (the latter often indirectly due to TET2 or DNMT3A
+  mutations), driving downstream cancer cell pathways, such as proliferation, survival,
+  increased cancer stem cell function, and inflammation. Negative regulators such
+  as miR-145, miR-146a and TIFAB, genes within the deleted region on chromosome 5q,
+  are often downregulated. Figure was adapted and modified from Trowbridge and Starczynowski,
+  Journal of Experimental Medicine (2021)
+article_title: 'IRAK signaling in cancers: mechanisms, targeting, and clinical implications'
+citation: Eric J. Vick, et al. Expert Opin Investig Drugs. 2025 Oct;34(10).
+year: '2025'
+pub_date: 2025-10-
+epub_date: '2025-10-15'
+doi: 10.1080/13543784.2025.2573646
+journal_title: Expert opinion on investigational drugs
+journal_nlm_ta: Expert Opin Investig Drugs
+publisher_name: .na.character
+keywords:
+- IRAK1
+- IRAK4
+- Myddosome
+- inflammation
+- innate immune
+- targeted therapy
+- precision medicine
+- oncology
+---

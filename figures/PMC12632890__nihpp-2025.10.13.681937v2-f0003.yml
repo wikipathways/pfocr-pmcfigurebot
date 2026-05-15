@@ -1,0 +1,35 @@
+---
+figid: PMC12632890__nihpp-2025.10.13.681937v2-f0003
+pmcid: PMC12632890
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632890/figure/F3/
+number: Figure 3.
+figure_title: ARID1A/ARID1B-mediated mSWI/SNF complex reshuffling underlies altered
+  gene regulation in DDEC cell lines and primary tumors
+caption: A. Volcano plots showing up- (red) and down- (blue) regulated genes following
+  72 hours of +Dox (ARID1A restoration) in AN3CA and VOA1066 DDEC cell lines. Adjusted
+  p-values calculated from DESeq2. B. Hallmark GSEA showing ARID1A rescue-mediated
+  gene expression pathway changes in AN3CA and VOA1066 cells. Genes labeled in black
+  indicate concordantly up- and down-regulated genes. NES, normalized enrichment score.
+  C. Scatter plot depicting significantly changed proteins (x-axis, TMT mass-spec)
+  and RNA levels (RNA-seq) following ARID1A rescue in AN3CA and VOA1066 cells (merged
+  datasets). D. Pie charts reflecting downregulated genes that are primary targets
+  (defined as BRD9/GLTSCR1 co-targeted genes) and secondary targets (not ncBAF-targeted)
+  and upregulated genes that are targeted by cBAF (defined as HA/ARID1A co-targeted
+  site) upon rescue of ARID1A in AN3CA and VOA1066 cells. E. (Left) Log2FC of cBAF
+  occupancy, ATAC-seq, and RNA-seq signals upon ARID1A rescue; (right) Log2FC of ncBAF
+  occupancy, ATAC-seq, and RNA-seq. F. Representative ChIP-seq and ATAC-seq tracks
+  at the KRT7 and E2F2 loci with corresponding bar graphs depicting gene expression
+  (RNA-seq)
+article_title: Shifted assembly and function of mSWI/SNF family subcomplexes underlie
+  targetable dependencies in dedifferentiated endometrial carcinomas
+citation: Jessica D. St. Laurent, et al. bioRxiv. 2025 Oct 15;NA(NA).
+year: '2025'
+pub_date: '2025-10-15'
+epub_date: '2025-10-15'
+doi: 10.1101/2025.10.13.681937
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

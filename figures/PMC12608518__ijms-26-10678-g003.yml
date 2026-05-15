@@ -1,0 +1,31 @@
+---
+figid: PMC12608518__ijms-26-10678-g003
+pmcid: PMC12608518
+image_filename: jpg
+figure_link: /pmc/articles/PMC12608518/figure/F3/
+number: Figure 3
+figure_title: Gene set enrichment analysis (GSEA) based on the preranked gene list
+  after ART.
+caption: Gene set enrichment analysis (GSEA) based on the preranked gene list after
+  ART. (A) Gene Ontology Biological Processes (GO BP) enriched after ART; (B) Reactome
+  pathway enrichment analysis enriched after ART. Circle size reflects the proportion
+  of genes in each gene set, and color corresponds to the statistical significance
+  (−log10 FDR). Negative normalized enrichment scores (NES) indicate suppression of
+  these pathways in post-ART samples relative to baseline
+article_title: Early Transcriptomic Signatures of Immune Response Modulation Following
+  Antiretroviral Therapy in HIV-Infected Patients
+citation: Ekaterina A. Stolbova, et al. Int J Mol Sci. 2025 Nov;26(21).
+year: '2025'
+pub_date: 2025-11-
+epub_date: '2025-11-02'
+doi: 10.3390/ijms262110678
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- antiretroviral therapy
+- HIV
+- RNA seq
+- paired analysis
+- gene expression
+---

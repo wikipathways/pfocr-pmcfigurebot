@@ -1,0 +1,37 @@
+---
+figid: PMC12636496__nihpp-2025.10.26.684319v1-f0003
+pmcid: PMC12636496
+image_filename: jpg
+figure_link: /pmc/articles/PMC12636496/figure/F3/
+number: Figure 3.
+figure_title: Blood transcriptome perturbations increase progressively along the TB
+  spectrum
+caption: Analysis of RNA-seq data from individuals categorised and ranked along the
+  TB spectrum, from healthy controls, asymptomatic TB, symptomatic TB in Community
+  Screening participants and symptomatic TB in Clinic Triage participants, by weighted
+  gene co-expression network analysis using CEMiTool. For these analyses, data from
+  the HHC Screening (RePORT SA) and Community Screening (CORTIS) cohorts were combined.
+  (A) M1 through M6 represent six modules of co-expressed gene networks identified
+  by CEMiTool. Dots denote the mean enrichment score estimate and error bars the 95%
+  confidence interval. (B) Gene set overrepresentation analysis for the identified
+  gene modules. Displayed are the top five significantly enriched pathways and processes
+  for each of the six modules, ranked within each module according to Benjamini-Hochberg-adjusted
+  p-value. The colour intensity for each module corresponds to the magnitude of the
+  FDR p -value. Expression levels of representative top regulated genes within each
+  module and pathway along the TB spectrum is shown in Supplementary Figure 3
+article_title: Inflammatory Biomarkers of Asymptomatic and Symptomatic Tuberculosis
+citation: Denis Awany, et al. bioRxiv. 2025 Oct 29;NA(NA).
+year: '2025'
+pub_date: '2025-10-29'
+epub_date: '2025-10-29'
+doi: 10.1101/2025.10.26.684319
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- asymptomatic
+- tuberculosis
+- transcriptomic
+- proteomic
+- biomarker
+---

@@ -1,0 +1,43 @@
+---
+figid: PMC12608856__ijms-26-10596-g003
+pmcid: PMC12608856
+image_filename: jpg
+figure_link: /pmc/articles/PMC12608856/figure/F3/
+number: Figure 3
+figure_title: Canonical pathway overlay analysis of differentially expressed proteins
+  identified by quantitative proteomics in HIV-infected macrophages.
+caption: Canonical pathway overlay analysis of differentially expressed proteins identified
+  by quantitative proteomics in HIV-infected macrophages. Canonical pathway maps were
+  generated using Ingenuity Pathway Analysis (IPA; QIAGEN Inc., Redwood City, CA,
+  USA). (A) Comparison of HIV+MDM-vehicle vs. control. (B) Comparison of HIV+MDM-
+  JWH-133 vs. HIV+MDM-vehicle macrophages. Networks highlight molecular interactions
+  and biological pathways affected by HIV infection and CB2R agonist treatment, including
+  NF-κB inhibitor epsilon (NFKBIE) signaling, GABAergic and glutamatergic receptor
+  signaling, class I MHC-mediated antigen processing and presentation, and the neurotransmitter
+  release cycle. Box plots next to each node display the log2 fold change (FC) values
+  for individual proteins, with p-values shown below the symbols for significant results.
+  The black bars labeled “1” or “2” within the fold change boxes denote the dataset
+  used for the overlay, corresponding to Dataset 1 (HIV+MDM-vehicle vs. control) and
+  Dataset 2 (HIV+MDM JWH-133 vs. HIV+MDM-vehicle), respectively. Orange and red nodes
+  indicate upregulated proteins or pathways, while green and blue nodes represent
+  downregulation relative to the comparison group
+article_title: Cannabinoid Receptor Type 2 Agonist JWH-133 Stimulates Antiviral Factors
+  and Decreases Proviral, Inflammatory, and Neurotoxic Proteins in HIV-Infected Macrophage
+  Secretome
+citation: Lester J. Rosario-Rodríguez, et al. Int J Mol Sci. 2025 Nov;26(21).
+year: '2025'
+pub_date: 2025-11-
+epub_date: '2025-10-30'
+doi: 10.3390/ijms262110596
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- HIV-associated neurocognitive disorders
+- CB2R
+- JWH-133
+- secretome
+- LC/MS/MS
+- TMT
+- proteomics
+---

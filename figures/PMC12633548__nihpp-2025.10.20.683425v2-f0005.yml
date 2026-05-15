@@ -1,0 +1,49 @@
+---
+figid: PMC12633548__nihpp-2025.10.20.683425v2-f0005
+pmcid: PMC12633548
+image_filename: jpg
+figure_link: /pmc/articles/PMC12633548/figure/F5/
+number: 'Figure 5:'
+figure_title: Acute PEM drastically alters microbiome composition and function
+caption: 'A) Stool sample collection scheme for microbiome analyses. Stool samples
+  were collected weekly during the 10 weeks of diet experiment (normal or reduced
+  protein diet) and used for 16S amplicon sequencing analysis and taxonomy characterization.
+  Shot-gun metagenomic sequencing and functional potential analysis was performed
+  only on stool samples from weeks 4 and 10 (Ctrl_4w, PEM_4w, Ctrl_10w and Rec_10w,
+  each n=10 per group). B) Longitudinal alpha diversity of stool samples from mice
+  under normal and reduced protein chow. Shannon index was computed at ASV level.
+  Longitudinal cross-sectional comparisons were performed using Wilcoxon signed rank
+  test. ns: not significant, *: p < 0.05, **: p < 0.01, ***: p < 0.001, ****: p <
+  0.0001. C) Principal Coordinate Analysis based on Bray-Curtis’s distances of stool
+  fecal microbiomes of mice during PEM and recovery to explore further differences
+  in microbiome composition. Differences in the centroids of groups were tested with
+  PERMANOVA with 10000 permutations. D) Linear discriminant analysis (LDA) effect
+  size (Lefse) of the fecal microbiomes at peak acute PEM (day 28, PEM_4w versus Ctrl_4w).
+  The cladogram depicts the phylogenetic distribution of differential taxa and the
+  bar plot depicts differential taxa ranked by LDA. Differences are shown by the color
+  of the most abundant class, with red indicating PEM_4w and blue indicating Ctrl_4w.
+  The diameter of each circle corresponds to the abundance of the taxon. This analysis
+  uses the SILVA v138 taxonomy. The bar plot represents the top 30 taxa based on LDA
+  scores. The letters in brackets denote the abbreviation of the taxon shown in the
+  cladogram. E) Differential amino acid and fatty acid metabolic microbiome pathways
+  (PEM_4w vs Ctrl_4w and Rec_10w vs Ctrl_10w). The triangles show the hues and direction
+  of the effect size (b coefficient). Color intensity and size represent the magnitude
+  of the effect size and FDR significance of the specific pathway, respectively'
+article_title: Long-Term Intestinal Epithelial Remodeling Induced by Acute Protein-Energy
+  Malnutrition
+citation: Fenja A. Schuran, et al. bioRxiv. 2025 Oct 22;NA(NA).
+year: '2025'
+pub_date: '2025-10-22'
+epub_date: '2025-10-22'
+doi: 10.1101/2025.10.20.683425
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Protein energy malnutrition
+- intestinal inflammation
+- Paneth cell
+- microbiome
+- GDF15
+- intestinal epithelium
+---

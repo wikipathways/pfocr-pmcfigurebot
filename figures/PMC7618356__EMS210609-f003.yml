@@ -1,0 +1,44 @@
+---
+figid: PMC7618356__EMS210609-f003
+pmcid: PMC7618356
+image_filename: jpg
+figure_link: /pmc/articles/PMC7618356/figure/F3/
+number: Figure 3
+figure_title: The HIF pathway is activated in hypoxic lung organoids
+caption: '(A) Diagram of HRE-ODD-GFP reporter.(B) Microscope images of merged bright-field
+  and GFP channels. The progenitors with HRE-ODD-GFP reporter were cultured under
+  normoxia for 6 days to form organoids, then treated with normoxia or hypoxia for
+  10 days without passaging. Control cells were cultured under normoxia with routine
+  passaging. Scale bars, 600 μm.(C) The percentage of organoids containing ≥1 GFP+
+  cell(s). Data shown as mean ± SD, n = 7 (normoxia), and 8 (hypoxia) experimental
+  replicates from 2 biological donors.(D) Roxadustat (FG-4592) inhibits PHD enzymes
+  under normoxia and stabilizes HIFα subunits.(E) HIF1α and HIF2α were stabilized
+  under normoxia by Roxadustat in 4 organoid lines with β-actin as loading control.(F)
+  Roxadustat treatment activated the HIF pathway under normoxia and recapitulated
+  hypoxia-induced airway differentiation. RT-qPCR detection of organoids cultured
+  in SRM ± Roxadustat for 30 days. Fold changes were normalized to the mean of SRM
+  - Roxadustat (with DMSO) condition. Data shown as log2(fold change), n = 6 biological
+  donors. Statistical test: two-way ANOVA with Bonferroni’s multiple comparisons test.(G)
+  Design of targeted DamID-seq for HIF1α and HIF2α. Dam-HIFα fusion proteins are expressed
+  at a low level due to rare translation reinitiation events. The fusion proteins
+  methylate adenines in the GATC sequences near their DNA-binding sites.(H) Global
+  distribution of HIF1α- and HIF2α-binding sites relative to the transcription start
+  site (TSS).(I) Quantification of HIF1α- and HIF2α-binding signals surrounding the
+  TSS. HIF1α and HIF2α signals were normalized to Dam-only control.(J) Gene ontology
+  analysis of HIF1a and HIF2a common target genes.(K) Venn diagram comparing HIF1α
+  and HIF2α target genes with highlighted gene lists. Complete gene lists in Tables
+  S1 and S2.(L) Gene track views showing averaged DamID signals and consensus peaks
+  from three biological replicates over representative genes.Gene expression was normalized
+  to ACTB in RT-qPCR. Significance levels: *p < 0.05, **p < 0.01, ***p < 0.001, ****p
+  < 0.0001. See also Figure S4 and Tables S1 and S2'
+article_title: Hypoxia promotes airway differentiation in the human lung epithelium
+citation: Ziqi Dong, et al. Cell Stem Cell. 2025 Nov 06;32(11).
+year: '2025'
+pub_date: '2025-11-06'
+epub_date: '2025-10-10'
+doi: 10.1016/j.stem.2025.09.007
+journal_title: Cell stem cell
+journal_nlm_ta: Cell Stem Cell
+publisher_name: .na.character
+keywords: []
+---

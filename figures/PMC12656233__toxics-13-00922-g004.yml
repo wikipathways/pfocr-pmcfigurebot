@@ -1,0 +1,41 @@
+---
+figid: PMC12656233__toxics-13-00922-g004
+pmcid: PMC12656233
+image_filename: jpg
+figure_link: /pmc/articles/PMC12656233/figure/F4/
+number: Figure 4
+figure_title: Bioinformatic and Machine Learning Analysis of Gene Expression in Autism
+  Spectrum Disorder (ASD) Based on the GEO database.
+caption: Bioinformatic and Machine Learning Analysis of Gene Expression in Autism
+  Spectrum Disorder (ASD) Based on the GEO database. (A) Principal Component Analysis
+  (PCA) of gene expression profiles from ASD patients (n = 170, red) and control subjects
+  (n = 115, blue), demonstrating clear separation between the two groups. (B) Volcano
+  plot depicting differentially expressed genes (DEGs) between ASD and control groups.
+  Genes significantly upregulated in ASD are highlighted in red, while significantly
+  downregulated genes are shown in blue. (C) GO enrichment analysis of DEGs, highlighting
+  biological processes of the ATP hydrolysis in ASD. (D) KEGG pathway enrichment analysis
+  of DEGs, indicating involvement of key pathways such as cAMP signaling and cell
+  cycle regulation in ASD. (E) Architecture of the multi-layer perceptron neural network
+  model for classifying ASD and control samples. The input layer includes selected
+  gene features, with the top 10 most influential genes (including CTNNB1, PTEN, CCR2,
+  AKT1, and mTOR) highlighted. (F) Boxplots comparing the relative expression levels
+  of five key genes (CTNNB1, PTEN, CCR2, AKT1, and mTOR) between ASD and control groups.
+  Each dot represents an individual sample, confirming significant differential expression
+  of these genes in ASD. * p < 0.05, ** p < 0.01
+article_title: 'Investigating the Effects of Long-Term Fine Particulate Matter Exposure
+  on Autism Spectrum Disorder Severity: Evidence from Multiple Analytical Approaches'
+citation: Jianrui Dou, et al. Toxics. 2025 Nov;13(11).
+year: '2025'
+pub_date: 2025-11-
+epub_date: '2025-10-28'
+doi: 10.3390/toxics13110922
+journal_title: Toxics
+journal_nlm_ta: Toxics
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- neurotoxicity
+- co-exposure
+- PM2.5
+- network toxicology
+- autism
+---

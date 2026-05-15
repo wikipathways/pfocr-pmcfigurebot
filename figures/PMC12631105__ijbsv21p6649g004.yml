@@ -1,0 +1,44 @@
+---
+figid: PMC12631105__ijbsv21p6649g004
+pmcid: PMC12631105
+image_filename: jpg
+figure_link: /pmc/articles/PMC12631105/figure/F4/
+number: Figure 4
+figure_title: Characterization of subclusters and function profiles of myeloid cells
+  in UC.
+caption: Characterization of subclusters and function profiles of myeloid cells in
+  UC. (A) UMAP plot of myeloid cells, colored by ten subclusters. (B) Bubble plot
+  showing differentially expressed genes across myeloid subsets. Dot size represents
+  the proportion of cells expressing the gene, and color indicates the average normalized
+  expression level. (C) Bar plot showing proportional abundances (percentages) of
+  myeloid cell subsets across pathological and molecular subtypes. (D) Heatmap of
+  Ro/e values for myeloid clusters across molecular subtypes. (E) Cumulative distribution
+  plots of M1 and M2 polarization scores across four macrophage clusters, accompanying
+  box plots show the score distributions per cluster. Statistically significant p-values
+  are indicated by asterisks (**P ≤ 0.01, ***P ≤ 0.001). (F) Gene set enrichment analysis
+  (GSEA) of pathways enriched in macro-C3-SPP1 cells compared to macro-C2-ILB cells.
+  (G) Lollipop chart of the area under the curve (AUC) scores from Augur analysis
+  across four macrophage subclusters, highlighting cell type prioritization between
+  muscle-invasive (MI) and non-muscle-invasive (NMI) groups. (H) Kaplan-Meier survival
+  curves for overall survival (OS) of patients in the TCGA-BLCA cohort, stratified
+  by high versus low infiltration of macro-C2-MRC1 (left) and macro-C3-SPP1 (right).
+  Statistical significance was determined using the log-rank test
+article_title: Single-cell and spatial transcriptomic analysis reveal cellular heterogeneity
+  and cancer cell-intrinsic major histocompatibility complex II expression in urothelial
+  carcinoma
+citation: Shengwei Xiong, et al. Int J Biol Sci. 2025;21(15).
+year: '2025'
+pub_date: 2025--
+epub_date: '2025-10-20'
+doi: 10.7150/ijbs.114618
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- Urothelial carcinoma
+- Single-cell RNA sequencing
+- Cellular heterogeneity
+- MHC-II molecules
+- Muscle invasion
+- Immunosuppressive microenvironment
+---

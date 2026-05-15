@@ -1,0 +1,33 @@
+---
+figid: PMC12621991__nihpp-2025.10.02.680066v1-f0003
+pmcid: PMC12621991
+image_filename: jpg
+figure_link: /pmc/articles/PMC12621991/figure/F3/
+number: Figure 3.
+figure_title: Solute carrier transcriptome remodeling underscores increased GSH biosynthesis
+  under glutamine limitation
+caption: (A) UMAP analysis of KEGG pathways upregulated in C2C12 cells cultured under
+  −Q conditions compared to +Q. (B) Cluster plot from GSEA comparing gene expression
+  profiles of cells in −Q versus +Q media, highlighting significantly enriched gene
+  sets. (C) Heatmap displaying expression levels of amino acid transporter genes under
+  −Q and +Q conditions, generated using k-means clustering. (D) Highlighted expression
+  levels of specific solute carrier (SLC) transcripts involved in glutathione synthesis,
+  including Slc7a11 and Slc25a39, under −Q and +Q conditions. (E) Volcano plot showing
+  differential expression of SLC gene family mRNAs under −Q conditions compared to
+  +Q, indicating upregulated and downregulated genes. (F) qRT-PCR analysis of Slc7a11
+  and Slc25a39 mRNA expression levels in cells cultured under −Q or glucose-free (−Gluc)
+  conditions. Data represent mean ± SD from n = 3 independent experiments. Statistical
+  significance was determined using Student’s t-test. Statistical significance is
+  indicated as P<0.05(*) and P<0.05(#). Data presented as mean ± SD
+article_title: Glutamine-Dependent Slc25a39–Nrf2 Axis Couples Mitochondrial Dynamics
+  with Metabolic Reprogramming to Establish Myogenic Commitment
+citation: Brian Kelly, et al. bioRxiv. 2025 Oct 04;NA(NA).
+year: '2025'
+pub_date: '2025-10-04'
+epub_date: '2025-10-04'
+doi: 10.1101/2025.10.02.680066
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

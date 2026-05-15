@@ -1,0 +1,41 @@
+---
+figid: PMC12753004__nihms-2129413-f0005
+pmcid: PMC12753004
+image_filename: jpg
+figure_link: /pmc/articles/PMC12753004/figure/F5/
+number: Fig. 5.
+figure_title: Co-expression analysis reveals intoxication-related hub genes and transcriptional
+  signatures linked to addiction behavior
+caption: 'Enriched pathways for each identified module: (A) black, (C) red, and (E)
+  green modules, with the x-axis representing the −log10 p-value to indicate statistical
+  significance. Hub gene analysis for each module, identifying hub genes based on
+  their high degree (number of connections to other genes) and betweenness centrality
+  (extent to which a gene lies on the shortest paths between other genes) for (B)
+  black, (D) red, and (F) yellow modules, respectively. Principal component analysis
+  (PCA) was performed on gene expression data from the (G) black and (H) red modules,
+  extracting PC1 as a summary measure, which was then correlated with behavioral indices
+  to assess sex-specific relationships between gene expression and behavior across
+  drug exposure states. (I) Scaled bar graph depicting module differential connectivity
+  across drug states, analyzed in females, males, and sex specific. Bar height reflects
+  the magnitude of connectivity change; solid bars indicate significant gain, while
+  striped bars indicate significant loss of transcriptional connectivity'
+article_title: Sex-specific transcriptional signatures of oxycodone persist during
+  withdrawal and abstinence in the suprachiasmatic nucleus of heterogeneous stock
+  rats
+citation: Tara C. Delorme, et al. Addict Neurosci. 2025 Dec;17(NA).
+year: '2025'
+pub_date: 2025-12-
+epub_date: '2025-10-11'
+doi: 10.1016/j.addicn.2025.100240
+journal_title: Addiction neuroscience
+journal_nlm_ta: Addict Neurosci
+publisher_name: .na.character
+keywords:
+- Opioid use disorder
+- Circadian rhythms
+- Suprachiasmatic nucleus
+- RNA sequencing
+- Sex differences
+- Heterogeneous stock rats
+- Intravenous self-administration
+---

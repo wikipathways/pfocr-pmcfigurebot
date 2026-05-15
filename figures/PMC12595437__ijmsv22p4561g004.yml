@@ -1,0 +1,40 @@
+---
+figid: PMC12595437__ijmsv22p4561g004
+pmcid: PMC12595437
+image_filename: jpg
+figure_link: /pmc/articles/PMC12595437/figure/F4/
+number: Figure 4
+figure_title: ER stress in TME remodeling.
+caption: ER stress in TME remodeling. ER stress plays a pivotal role in shaping the
+  TME by modulating the behavior of both cancer cells and immune cells, ultimately
+  promoting immune evasion and tumor progression. In cancer cells, ER stress activates
+  specific signaling pathways, such as IRE1α-XBP1s and ATF6, which downregulate MHC-I
+  and MICA. This downregulation hinders recognition by CD8⁺ T cells and natural killer
+  (NK) cells, respectively, enabling cancer cells to escape immune surveillance. Within
+  the TME, ER stress impacts CD8⁺ T cells through the PERK and IRE1α-XBP1s pathways,
+  suppressing the production of T-bet and IFNγ while impairing mitochondrial function,
+  thus weakening their antitumor activity. Meanwhile, Tregs bolster their immunosuppressive
+  effects via the PERK-eIF2α pathway, which upregulates Foxp3, IL-10, and TGF-β. Similarly,
+  MDSCs enhance their immune-suppressive capacity by increasing IL-6 and ARG1 expression
+  through the PERK-CHOP-NRF2 axis. In macrophages, activation of the IRE1α-XBP1s pathway
+  drives the upregulation of PD-L1, IL-6, and IL-23, fostering a pro-tumorigenic milieu.
+  DCs under ER stress, particularly via IRE1α-XBP1s signaling, accumulate lipid droplets
+  and produce PGE2, compromising their antigen presentation capabilities. Additionally,
+  NK cells rely on the IRE1α-XBP1s pathway to support MYC-mediated mitochondrial function,
+  which is critical for their antitumor efficacy
+article_title: 'Endoplasmic Reticulum Stress in Cancer Progression: A Comprehensive
+  Review of Its Role and Mechanisms'
+citation: Xin Yu, et al. Int J Med Sci. 2025;22(16).
+year: '2025'
+pub_date: 2025--
+epub_date: '2025-10-27'
+doi: 10.7150/ijms.120874
+journal_title: International Journal of Medical Sciences
+journal_nlm_ta: Int J Med Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- endoplasmic reticulum stress
+- cancer
+- tumor microenvironment
+- unfolded protein response
+---

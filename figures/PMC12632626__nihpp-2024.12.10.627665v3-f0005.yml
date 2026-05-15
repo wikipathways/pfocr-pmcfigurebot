@@ -1,0 +1,37 @@
+---
+figid: PMC12632626__nihpp-2024.12.10.627665v3-f0005
+pmcid: PMC12632626
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632626/figure/F5/
+number: 'Figure 5:'
+figure_title: ProCyon characterizes poorly-annotated proteins and their functions
+caption: a) ProCyon generates phenotype predictions for AKNAD1. QA filtering selects
+  the highest-confidence outputs; two of the three predicted phenotypes are experimentally
+  supported. b) Additional ProCyon-generated phenotypes for other poorly characterized
+  proteins. All proteins either have no UniProt-annotated function or have no UniProt
+  function as of the ProCyon knowledge cutoff date. c) External evaluation of ProCyon
+  using perturbation datasets. Parallel pathway analysis on genetic perturbation data
+  is used to validate ProCyon-predicted functions for uncharacterized proteins. d)
+  Top 100 functions prioritized by ProCyon for each protein. Percentile refers to
+  the percentile of that protein among all 18,174 human proteins in our database for
+  the specific function query. Green dots indicate overlap with perturbation-derived
+  pathways; grey dots indicate other predictions. ** p < 0.005, * p < 0.05; hypergeometric
+  test. e) ProCyon-generated pathways for poorly characterized proteins associated
+  with Parkinson’s disease (PD). Left, heatmap of enrichment scores for each pathway
+  compared to established PD-related proteins (“PD assoc.”), proteins expressed in
+  the nervous system but not in PD or other neurodegenerative conditions (“Neuro control”),
+  and proteins not expressed in brain tissues (“General control”), respectively. Right,
+  differences in enrichment scores between “PD assoc.” and “Neuro control” and “General
+  control”. Statistically significant differences shown in green. Pathways are grouped
+  by PD association score provided by human experts (right)
+article_title: 'ProCyon: A multimodal foundation model for protein phenotypes'
+citation: Owen Queen, et al. bioRxiv. 2025 Nov 03;NA(NA).
+year: '2025'
+pub_date: '2025-11-03'
+epub_date: '2025-11-03'
+doi: 10.1101/2024.12.10.627665
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

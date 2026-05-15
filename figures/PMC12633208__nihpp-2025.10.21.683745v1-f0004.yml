@@ -1,0 +1,73 @@
+---
+figid: PMC12633208__nihpp-2025.10.21.683745v1-f0004
+pmcid: PMC12633208
+image_filename: jpg
+figure_link: /pmc/articles/PMC12633208/figure/F4/
+number: Figure 4.
+figure_title: Malignant cell-intrinsic MHC-II expression correlates with immune infiltration
+  and predicts immunotherapy responsiveness
+caption: 'A. Single-cell analysis of MHC-II pathway activity in malignant cells. Bar
+  plot depicting predicted response status based on MHC-II expression levels across
+  different PDAC tumor samples. B. Correlation of MHC-IIhigh malignant cells with
+  immune cell infiltration: scatter plots illustrating positive correlations between
+  the proportion of MHC-IIhigh malignant cells and immune cell combinations, including
+  left: CD8+ and CD4+ T cells and right: CD8+ T cells, CD4+ T cells, and NK cells
+  combined. C. Experimental design for in vivo flow cytometric profiling of the tumor
+  microenvironment using syngeneic MHC-IIlow (6419c5) and MHC-IIhigh (7160c2) PDAC
+  clones. D. Percentage of MHC-II+ malignant cells (left) and mean fluorescence intensity
+  (MFI) of MHC-II on malignant cells (right) in MHC-IIlow (6419c5) versus MHC-IIhigh
+  (7160c2) tumor clones. Data are shown as box-and-whisker plots, with boxes indicating
+  the interquartile range, the line marking the median, and whiskers representing
+  the full range. E. Frequency of CD3+ T cells among CD45+ immune cells in 6419c5
+  and 7160c2 tumor clones. F. Schematic of in vitro stimulation with IFN-γ and cobimetinib
+  to induce MHC-II expression, followed by flow cytometric analysis. G. MHC-II expression
+  on tumor cells with varying T cell levels following treatment with IFN-γ and cobimetinib
+  in vitro. Histogram overlays showing MHC-II expression in tumor cells categorized
+  as T cell-low (6419c5) and T cell-high (7160c2, 6555c3, 7160c5), also shown above
+  and in right hand corner. Tumor cells were treated with IFN-γ (blue), cobimetinib
+  (Cobi, red), or a combination of both (Cobi/IFN-γ, purple), with untreated control
+  cells shown in gray. Data are normalized to mode to illustrate the shift in MHC-II
+  expression across conditions. H. Experimental design for evaluating the impact of
+  cobimetinib on MHC-II expression in orthotopic PDAC tumors. Mice were orthotopically
+  implanted with either MHC-IIlow or MHC-IIhigh PDAC clones and allowed to establish
+  tumors for 7–14 days. Mice were then treated with either vehicle or cobimetinib
+  for 7 days. I. Effect of cobimetinib treatment on MHC-II expression in vivo on malignant
+  clonal cells. Bar graphs showing the percentage of MHC-II+ tumor cells (left) and
+  the MFI of MHC-II (right) on tumor cells in control and cobimetinib-treated tumors
+  from mice bearing indicated tumors. The left-hand side represents data from MHC-IIlow
+  tumors (6419c5, blue), while the right-hand side represents data from MHC-IIhigh
+  tumors (7160c2, red). Data are displayed as mean ± SEM, with individual data points
+  shown. J. Tumor volume changes following cobimetinib treatment: Waterfall plots
+  show the percentage change in tumor volume relative after 14 days of treatment as
+  compared to baseline in individual mice treated with either control or cobimetinib
+  in MHC-IIlow (6419c5, blue) tumors as shown. Each bar represents an individual mouse.
+  K. Experimental design: Mice were subcutaneously implanted with MHC-IIlow PDAC clones
+  (6419c5 or 7160c2) and allowed to establish tumors (~50 mm2) over 7–14 days. Mice
+  were then treated with cobimetinib in combination with either dual isotype controls
+  or dual immune checkpoint blockade (ICB; anti-PD-1 and anti-CTLA-4) and monitored
+  for tumor growth. L. Tumor volume (mm3) over time in mice bearing 6419c5 or 7160c2
+  tumors, treated with either control or Cobi/ICB treatment. Data are represented
+  as mean ± SEM. M. Tumor growth in subcutaneous 6419c5 tumors. Tumor volume (mm3)
+  over time in mice treated with control, immune checkpoint blockade (ICB; anti-PD-1
+  and anti-CTLA-4), or a combination treatment of cobimetinib and ICB. Data are presented
+  as mean ± SEM. N. Survival analysis in orthotopic 6419c5 MHC-IIlow tumors (injected
+  and monitored as in H), with indicated treatments (as in M), with Kaplan-Meier survival
+  curves shown'
+article_title: Tumor-intrinsic MHC-II activation in pancreatic ductal adenocarcinoma
+  enhances immune response and treatment efficacy
+citation: Canping Chen, et al. bioRxiv. 2025 Oct 22;NA(NA).
+year: '2025'
+pub_date: '2025-10-22'
+epub_date: '2025-10-22'
+doi: 10.1101/2025.10.21.683745
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Pancreatic cancer
+- Single-cell sequencing
+- Spatial transcriptomics
+- Immunomodulatory therapies
+- Bioinformatics
+- Tumor heterogeneity
+---

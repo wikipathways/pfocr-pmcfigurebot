@@ -1,0 +1,39 @@
+---
+figid: PMC12641601__nihms-2105216-f0001
+pmcid: PMC12641601
+image_filename: jpg
+figure_link: /pmc/articles/PMC12641601/figure/F1/
+number: 'Figure 1:'
+figure_title: Integration of proteo-genomics and forward genetics to reveal novel
+  vulnerabilities in TNBC
+caption: To identify selective vulnerabilities of PTPN12-deficient TNBC, we integrated
+  information from two orthogonal datasets. (A) First, we performed proteogenomic
+  characterization of a cohort of TNBC PDX models that were classified into two groups
+  based on their PTPN12 expression status. This allowed for the identification of
+  pathways that are specifically dysregulated in PTPN12-deficient TNBC. (B) Second,
+  we performed a genetic screen to identify genes that are selectively essential in
+  PTPN12-deficient cells. Immortalized human mammary epithelial cells (HMECs) engineered
+  with a doxycycline-inducible PTPN12 shRNA were transduced with an shRNA library
+  targeting 2,569 genes. Genes that are selectively lethal in the PTPN12-deficient
+  state represent candidate tumor-selective vulnerabilities of PTPN12-deficient TNBC.
+  (C) These two datasets were integrated using geneset enrichment analysis (GSEA)
+  to identify genesets that are mutually enriched and represent pathways that are
+  both selectively dysregulated in PTPN12-deficient TNBC models and selective vulnerabilities
+  of PTPN12-deficient cells
+article_title: Integrative proteogenomics and forward genetics reveals a novel mitotic
+  vulnerability in triple-negative breast cancer
+citation: Nicholas J. Neill, et al. Cancer Discov. 2025 Nov 03;15(11).
+year: '2025'
+pub_date: '2025-11-03'
+epub_date: '2025-11-03'
+doi: 10.1158/2159-8290.CD-23-1173
+journal_title: Cancer discovery
+journal_nlm_ta: Cancer Discov
+publisher_name: .na.character
+keywords:
+- proteogenomics
+- breast cancer
+- mitosis
+- taxane chemotherapy
+- PTPN12
+---

@@ -1,0 +1,51 @@
+---
+figid: PMC12632917__nihpp-2025.10.16.682975v1-f0006
+pmcid: PMC12632917
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632917/figure/F5/
+number: Fig. 5.
+figure_title: Mechanism of allosteric modulation by disrupting the sodium binding
+  site
+caption: (a) Structural comparison of the conserved sodium binding site between inactive
+  δOR (δOR:naltrindole, grey; PDB:4N6H) and active MIPS3614-bound δOR (δOR:DADLE:MIPS3614,
+  teal/orange). The overlay shows a 5.5 Å outward conformational change of N1313.35
+  away from the sodium binding site (Na+ shown as a purple sphere) in the active state.
+  Key sodium site residues D952.50 and S1353.39 are labelled. The carbonyl oxygen
+  from MIPS3614 forms a hydrogen bond with N1313.35, stabilizing the outward rotamer
+  conformation associated with receptor activation. (b) Occupancy of inward- or outward-pointing
+  rotamers of N1313.35 in MD simulations based on the MIPS3614-bound cryo-EM structure.
+  Presence of the PAM, agonist, or Gα protein results in an increase in the occurrence
+  of the outward rotamer compared to the apo state. (c) Frequency of D952.50-sodium
+  distances in the simulations of the inactive receptor conformation. The inward conformation
+  of N1313.35 stabilizes the sodium ion in the vicinity of D952.50 in nearly all simulation
+  frames (black outlined bars and black mesh). In simulations with N1313.35 restrained
+  in the outward conformation, the distribution of distances is altered, with frequent
+  occurrences of sodium near D1283.32 in the orthosteric site (blue bars and blue
+  surface). (d) Comparison of the pKa value of D952.50 calculated for the simulations
+  of the DADLE-bound receptor in the presence (purple bars) or absence (red-outlined
+  bars) of MIPS3614. In the presence of MIPS3614, the pKa of D952.50 is shifted towards
+  higher values, favouring protonation of the side chain carboxylate. (e) Heatmaps
+  of the distribution of the TM2 and TM3 rotation angle values, measured as depicted
+  on the cartoon receptor representation, from the set of simulations based on the
+  MIPS3614 cryo-EM structure. The presence of PAM, agonist, or Gα protein, as well
+  as D952.50 protonation, induces a concerted rotation of TM2 and TM3. The light-gray
+  lines were added to facilitate comparison between the panels. (f) Chemical structure
+  of MIPS3878 (5), a deoxygenated analogue of MIPS3614. The red circle highlights
+  the absence of the carbonyl oxygen in the tricyclic heterocyclic core. (g) Pharmacological
+  characterisation of MIPS3878 across multiple signaling pathways showing complete
+  loss of positive allosteric modulation. Data are presented as mean ± SEM with n=4
+  experiments performed for all assays except cAMP inhibition (n=5). (h) A PAM competition
+  assay using MIPS3614 as an allosteric agonist in a cAMP inhibition assay (see Fig.
+  2c). Addition of 10 μM MIPS3878 did not alter the potency of MIPS3614, suggesting
+  no measurable binding of MIPS3878 at 10 μM in this assay. Data are from n=4 experiments
+article_title: Structure-guided allosteric modulation of the delta opioid receptor
+citation: Jesse I. Mobbs, et al. bioRxiv. 2025 Oct 17;NA(NA).
+year: '2025'
+pub_date: '2025-10-17'
+epub_date: '2025-10-17'
+doi: 10.1101/2025.10.16.682975
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

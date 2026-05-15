@@ -1,0 +1,46 @@
+---
+figid: PMC12632404__nihpp-2025.10.08.681266v1-f0002
+pmcid: PMC12632404
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632404/figure/F2/
+number: Figure 2.
+figure_title: Transcriptomic differences between naïve and persistent populations
+  indicate persistence dependence towards the glutamine metabolism
+caption: A, Velocity graph using the scVelo pipeline on the entire dataset (naïve
+  and persistent populations combined) showed RNA velocities pointing towards cluster
+  1 which has a higher proportion of persistent cells. B, Clusters ordered based on
+  the velocity-derived latent time obtained from the RNA velocity of each cell suggests
+  that cells in cluster 3 (highest in naïve cell proportion) would be the starting
+  point of persistence development moving towards a transcriptomic state similar to
+  cells in cluster 1. C, Velocity graph using the DeepVelo algorithm by training a
+  variational autoencoder predicted that the RNA velocity for the dataset were directed
+  towards cluster 1. D, Differentially expressed genes for each cluster were obtained
+  (min.pct=0.25, logfc.threshold=0.25). These were input into Enrichr to obtain the
+  pathways primarily naïve (clusters 0, 3, 4) and persistent (cluster 1) clusters
+  under the Reactome database. The p-values given for these Reactome pathways were
+  determined using the Fisher’s exact test. For both naïve and persistent clusters,
+  cell cycle check points resulted in a top pathway (p<0.05). However, glutamate and
+  glutamine metabolism were more highly expressed in the resistant cluster (p<0.05)
+  compared to naïve clusters (p>0.05). E, After evaluating 42 unique metabolic pathways
+  and calculating a pathway score for each cell in the dataset, the glutamine metabolism
+  expressed significant difference between naïve and persistent populations (p<0.0001),
+  using the Mann-Whitney test. F, Heatmap of the expression of the glutamine metabolism
+  genes studied throughout the DeepVelo latent time. The GLS gene which catalyzes
+  the conversion of glutamine into glutamate, is expressed at the end of the latent
+  time
+article_title: Metabolic plasticity drives mechanisms of PARP inhibitor persistence
+  in ovarian cancer
+citation: Adriana Del Pino Herrera, et al. bioRxiv. 2025 Oct 09;NA(NA).
+year: '2025'
+pub_date: '2025-10-09'
+epub_date: '2025-10-09'
+doi: 10.1101/2025.10.08.681266
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Ovarian cancer
+- PARP inhibitor resistance
+- metabolic plasticity
+- glutamine and glucose metabolism
+---

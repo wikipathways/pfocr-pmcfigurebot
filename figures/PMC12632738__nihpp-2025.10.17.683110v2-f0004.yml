@@ -1,0 +1,31 @@
+---
+figid: PMC12632738__nihpp-2025.10.17.683110v2-f0004
+pmcid: PMC12632738
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632738/figure/F4/
+number: Figure 4.
+figure_title: CT specific pathway and LR analysis
+caption: (A) One-vs-all testing of MEs in CT relative to the rest of the tumor. Circles
+  marked “x” where FDR > 0.05. (B) Coefficients from mixed effect modeling of ME against
+  IVY region assignment, ME change shown in relation to CT level. “*” where FDR <
+  0.05. (C) Top pathway terms for 5 most upregulated modules in the CT. (D) Top drugs
+  by significance of gene target enrichment for 5 most upregulated modules in CT.
+  (E) CellChat communication scores for top LR pairs whose spatial co-expression is
+  associated with CT. Note, as score is dependent on expression values, scoring is
+  relative across cell type combinations and LR pairs. (F) T-values from lr-module
+  regression specific to CT LR pairs. Modules shown are differentially expressed in
+  CT. (G) Spatial plots of IVY region assignment and select LR coexpression and ME
+  scores. (H) Network visualization of top 10 hub genes for the 5 most upregulated
+  modules in CT
+article_title: Spatial transcriptomics of glioblastoma defines biologically and clinically
+  significant reprogramming patterns across unique spatial microenvironments
+citation: Visweswaran Ravikumar, et al. bioRxiv. 2025 Oct 26;NA(NA).
+year: '2025'
+pub_date: '2025-10-26'
+epub_date: '2025-10-26'
+doi: 10.1101/2025.10.17.683110
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

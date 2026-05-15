@@ -1,0 +1,38 @@
+---
+figid: PMC12632788__nihpp-2025.10.13.681683v1-f0002
+pmcid: PMC12632788
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632788/figure/F2/
+number: Figure 2.
+figure_title: Transcriptomic reprogramming induced by combined menin and LSD1 inhibition
+caption: (A) Volcano plots of differentially expressed genes (DEGs) in MOLM-13 and
+  (B) MV4-11 after 24 h treatment with DMSO, ORY-1001 (0.2 μM), SNDX-5613 (0.2 μM),
+  or the combination. (C) Venn diagram showing unique and shared DEGs across treatment
+  groups in MOLM-13 and (D) MV4-11. (E) Heatmap illustrating synergistic up- and downregulation
+  of genes, with combination treatment amplifying transcriptional changes observed
+  with single agents in MOLM-13 and (F) MV4-11. (G) Overlap of up- and downregulated
+  genes in MOLM-13 and (H) MV4-11 following combination treatment. (I-J) Induction
+  of differentiation markers (CD11b, CD86) in MOLM-13 and MV4-11 cells. (K-L) Downregulation
+  of MLL target oncogenes MYC, CDK6 and FLT3, in both cell lines. (M) Pathway enrichment
+  analysis showing strong induction of innate and adaptive immune activation, cell
+  cycle regulation, and metabolic processes with the combination. (N) ATAC-seq analysis
+  demonstrating synergistic increased or decreased chromatin accessibility with combination
+  treatment compared to either single agent
+article_title: Co-targeting menin and LSD1 dismantles oncogenic programs and restores
+  differentiation in MLL-rearranged AML
+citation: Mina M. Tayari, et al. bioRxiv. 2025 Oct 15;NA(NA).
+year: '2025'
+pub_date: '2025-10-15'
+epub_date: '2025-10-15'
+doi: 10.1101/2025.10.13.681683
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- MLL fusion
+- Menin inhibitor
+- LSD1 inhibitor
+- chromatin remodeling
+- LEDGF
+- acute myeloid leukemia (AML)
+---

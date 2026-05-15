@@ -1,0 +1,31 @@
+---
+figid: PMC12632546__nihpp-2025.10.09.681362v1-f0007
+pmcid: PMC12632546
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632546/figure/F7/
+number: Fig 7.
+figure_title: scRNA-seq and CellChat analysis reveal CD137 signaling as a potential
+  pathway driving the abortive lytic phenotype
+caption: (A) Hierarchy plot of the CD137 signaling pathway that depicts predicted
+  signaling to and from each cluster. Loops denote signaling within the same cluster.
+  Thicker bands correspond to stronger predicted overall signaling. (B) UMAP expression
+  of CD137 (left) and corresponding validation by protein flow cytometry for CD137
+  and gp350 in resting cells and cells treated with panobinostat +/− PAA (right).
+  (C) UMAP expression of CD137L (left) and corresponding validation by protein flow
+  cytometry for CD137L and gp350 in resting cells and cells treated with panobinostat
+  +/− PAA (right). (D) Network centrality scores were computed to visualize which
+  clusters were dominant senders (sources) and receivers (targets) in the CD137 signaling
+  pathway. (E) Flow cytometry plots of resting cells and cells treated with panobinostat
+  for expression of both CD137 and CD137L
+article_title: Single-Cell Profiling of HDAC Inhibitor-Induced EBV Lytic Heterogeneity
+  Defines Abortive and Refractory States in B Lymphoblasts
+citation: Lauren E. Haynes, et al. bioRxiv. 2025 Oct 09;22(3).
+year: '2025'
+pub_date: '2025-10-09'
+epub_date: '2025-10-09'
+doi: 10.1101/2025.10.09.681362
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

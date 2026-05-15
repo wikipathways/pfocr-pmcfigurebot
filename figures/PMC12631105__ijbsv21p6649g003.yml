@@ -1,0 +1,45 @@
+---
+figid: PMC12631105__ijbsv21p6649g003
+pmcid: PMC12631105
+image_filename: jpg
+figure_link: /pmc/articles/PMC12631105/figure/F3/
+number: Figure 3
+figure_title: Diversity and dynamics of T and NK cells during UC progression.
+caption: Diversity and dynamics of T and NK cells during UC progression. (A) UMAP
+  plot of all T and NK cells, colored by ten distinct cell subsets. (B) Heatmap depicting
+  the expression of function-associated signature genes used to define T and NK cells,
+  with color intensity indicating normalized expression levels. (C) Cell fractions
+  (as percentages) and cell numbers of T and NK cell subsets stratified by molecular
+  subtypes. (D) Heatmap of Ro/e values for T and NK cell subsets across molecular
+  subtypes. (E, F) Heatmaps displaying dynamic changes in gene expression of CD8+
+  T cells (E) and CD4+ T cells subsets (F). Normalized gene expression levels and
+  pseudotimes were indicated by color gradients (upper). Gene expression profiles
+  were hierarchically clustered (left), with enriched GO and KEGG pathway terms shown
+  on the right. (G) Heatmap illustrating Spearman correlations among the relative
+  abundances of T and NK cell subsets across the TCGA-BLCA, UROMOL2020, and in-house
+  IUPU-UC cohorts. Cell abundances were inferred using the deconvolution algorithm
+  BayesPrism. Correlation coefficients are represented by the color scale. (H, I)
+  Box plots comparing the estimated infiltration proportions of CD8T-C3-LAG3 (H) and
+  Treg-C2-TNFRSF9 (I) across the molecular subtypes. Colored dots represent individual
+  samples. (J, K) Kaplan-Meier survival analysis of the overall survival (OS) of patients
+  in the TCGA-BLCA (J) and in-house IUPU-UC (K) cohorts, stratified by high versus
+  low signature scores of CD8T-C3-LAG3
+article_title: Single-cell and spatial transcriptomic analysis reveal cellular heterogeneity
+  and cancer cell-intrinsic major histocompatibility complex II expression in urothelial
+  carcinoma
+citation: Shengwei Xiong, et al. Int J Biol Sci. 2025;21(15).
+year: '2025'
+pub_date: 2025--
+epub_date: '2025-10-20'
+doi: 10.7150/ijbs.114618
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- Urothelial carcinoma
+- Single-cell RNA sequencing
+- Cellular heterogeneity
+- MHC-II molecules
+- Muscle invasion
+- Immunosuppressive microenvironment
+---

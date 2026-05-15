@@ -1,0 +1,37 @@
+---
+figid: PMC12632689__nihpp-2025.10.03.25337209v1-f0005
+pmcid: PMC12632689
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632689/figure/F5/
+number: Figure 5.
+figure_title: Chord diagrams and Reactome pathway enrichment for Bisphenol A (BPA)
+  and Benzo[a]pyrene (B[a]P)
+caption: Chord diagrams (A, B) show chemical–gene interactions for five RPL-associated
+  genes (AURKB, F2, F5, FOXD1, and PADI6), with ribbons connecting each specific molecular
+  action (e.g., “increases methylation,” “decreases expression”) to its respective
+  gene target. Interaction data was obtained from merging the Intolerome and CTD datasets.
+  BPA exhibited diverse regulatory interactions, especially increasing methylation
+  and gene expression, while B[a]P mainly caused repressive changes, such as decreased
+  methylation and reduced gene expression. Barplots (C) present Reactome pathway enrichment
+  analyses of targeted genes with significant enrichment (FDR-adjusted p < 0.05) primarily
+  in pathways related to hemostasis, including “Common Pathway of Fibrin Clot Formation,”
+  “Formation of Fibrin Clot (Clotting Cascade),” and “Platelet Activation, Signaling,
+  and Aggregation.” P-values were calculated using a hypergeometric test and adjusted
+  for multiple comparisons using the Benjamini–Hochberg method
+article_title: Mapping Chemical-Gene Interactions for Developmental Lethality and
+  Pregnancy Loss
+citation: Syed Hassan Bukhari, et al. medRxiv. 2025 Oct 07;NA(NA).
+year: '2025'
+pub_date: '2025-10-07'
+epub_date: '2025-10-07'
+doi: 10.1101/2025.10.03.25337209
+journal_title: medRxiv
+journal_nlm_ta: medRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Pregnancy Loss
+- Recurrent Pregnancy Loss (RPL)
+- Chemical-Gene Interactions
+- Developmental Lethality
+- Exposomics
+---

@@ -1,0 +1,23 @@
+---
+figid: PMC12755121__nihms-2109491-f0004
+pmcid: PMC12755121
+image_filename: jpg
+figure_link: /pmc/articles/PMC12755121/figure/F4/
+number: Figure 4.
+figure_title: Chronically stimulated CD8+ T cells develop a stable dysfunctional program
+  under prolonged ISG15 exposure despite minimal transcriptional remodeling
+caption: |-
+  (a) Schematic for RNA-seq of human CD8+ T cells sorted on day 28 following the experimental design as described in Fig. 2c. (b-c) Volcano plots showing the distribution of gene expression changes in two comparisons. Genes highlighted in red represent those meeting the threshold for significance (e.g., adjusted p-value < 0.05 and fold-change > 1.5). (d-f) Pathway analysis was performed on the top 10 enriched pathways comparing ISG15hi
+  versus ChTCR (D), and the upregulation (E) and downregulation (F) of Dysf. + ISG15hi versus Dysf. using Enrichr and gene set enrichment analysis methods, respectively. (g) A schematic depicts the cessation of treatments on day 28, followed by maintenance of the cells in IL-15-containing complete medium until day 35. (h-j) The percentage of total IFNγ+, CD107a+ IFNγ+, and TNF+ IFNγ+ CD8+ T cells from the indicated treatment groups. (k) Bar graphs show the quantity of dead human CD8+ T cells on day 35. (l-m) The MFI of ISG15 and PD-1 in CD8+ T cells under the indicated treatments. Data in (h-m) are from n = 3–4 biological replicates and are representative of two independent experiments. Statistical significance is indicated as *P < 0.05, **P < 0.01, ***P < 0.001, ****P < 0.0001. Comparisons were performed using an unpaired t-test with Welch’s correction. Error bars indicate mean ± SD
+article_title: Chronic ISG15 Exposure Accelerates CD8+ T-cell Dysfunction while Increasing
+  PD-1 Blockade Sensitivity in Oral Squamous Cell Carcinoma
+citation: Yu-Lin Chen, et al. Cancer Immunol Res. 2025 Nov 03;13(11).
+year: '2025'
+pub_date: '2025-11-03'
+epub_date: '2025-11-03'
+doi: 10.1158/2326-6066.CIR-25-0047
+journal_title: Cancer immunology research
+journal_nlm_ta: Cancer Immunol Res
+publisher_name: .na.character
+keywords: []
+---

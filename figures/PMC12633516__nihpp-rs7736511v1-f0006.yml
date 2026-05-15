@@ -1,0 +1,38 @@
+---
+figid: PMC12633516__nihpp-rs7736511v1-f0006
+pmcid: PMC12633516
+image_filename: jpg
+figure_link: /pmc/articles/PMC12633516/figure/F6/
+number: Figure 6
+figure_title: Ingenuity pathway analysis (IPA) identifying significant canonical pathways
+  in HIV-1 Tat-treated mouse ECs.
+caption: Ingenuity pathway analysis (IPA) identifying significant canonical pathways
+  in HIV-1 Tat-treated mouse ECs. (A) Enriched canonical pathways in the IPA (p <
+  0.1). Orange bars represent activated pathways with positive z-scores, while blue
+  bars represent inhibited pathways with negative z-scores. The ratio (depicted by
+  orange dots connected by an orange line) indicates the proportion of genes from
+  the dataset that map to a given pathway relative to the total number of genes associated
+  with that pathway. (B) Graphical summary of the network diagram in IPA, illustrating
+  the significant regulatory effects after HIV-1 Tat treatment in mouse ECs. Orange
+  nodes indicate predicted activation, blue nodes indicate predicted inhibition, and
+  gray nodes indicate neutral or no prediction
+article_title: HIV-1 Tat protein exposure alters the morphological characteristics
+  and gene expression in the primary mouse cortex endothelial cells and human brain
+  microvascular endothelial cells
+citation: Lili Quan, et al. Res Sq. 2025 Oct 20;46(NA).
+year: '2025'
+pub_date: '2025-10-20'
+epub_date: '2025-10-20'
+doi: 10.21203/rs.3.rs-7736511/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords:
+- blood-brain barrier
+- endothelial cell
+- HIV
+- Tat
+- phalloidin
+- gene
+- inflammation
+---

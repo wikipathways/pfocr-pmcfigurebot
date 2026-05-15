@@ -1,0 +1,33 @@
+---
+figid: PMC12981656__nihms-2129196-f0012
+pmcid: PMC12981656
+image_filename: jpg
+figure_link: /pmc/articles/PMC12981656/figure/F12/
+number: Fig. 12.
+figure_title: Pathway Progression Analysis in Combined Colon Cancer Data.
+caption: 'Pathway Progression Analysis in Combined Colon Cancer Data. (a) PCA showing
+  (Normal Adjacent Colon Tissue (N: Library/Sample 1), Precancerous Hyperplastic Polyp
+  Tissue (HP: Sample 2), Pre-cancerous Sessile Serrated Lesion (SSL: Sample 3) and
+  Advanced (AD: invasive adenocarcinoma sample 4). (b) Cell types in combined set.
+  (c) Heatmap showing reconstructed order and progression groups, cell types and libraries/sample
+  IDs. (d) PPI boxplots of three progression groups, showing group 3 most active.
+  (e) Composition plot showing the share of each sample in the three identified progression
+  groups. (f) Composition plot showing the cell types distribution within each of
+  the progression groups'
+article_title: Inference of Tumor Progression Patterns in Colon Cancer Using Optimal
+  Cell Order Analysis in Single Cell Resolution
+citation: Marmar R. Moussa, et al. IEEE Trans Comput Biol Bioinform. 2025;22(6).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025--
+doi: 10.1109/TCBBIO.2025.3592571
+journal_title: IEEE transactions on computational biology and bioinformatics
+journal_nlm_ta: IEEE Trans Comput Biol Bioinform
+publisher_name: .na.character
+keywords:
+- Bioinformatics
+- clustering algorithms
+- genomics
+- RNA
+- tumors
+---

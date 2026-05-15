@@ -1,0 +1,33 @@
+---
+figid: PMC12632783__nihpp-2025.10.16.682921v1-f0001
+pmcid: PMC12632783
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632783/figure/F1/
+number: Figure 1.
+figure_title: Methodological overview and Pathway Commons network filtering
+caption: (A) Overview of the methodology employed to generate biodomain specific networks
+  and identify key driver hub nodes. The Pathway Commons network was filtered based
+  on literature evidence and brain expression (top), and leading edge genes from enriched
+  biodomain terms (here for the Synapse domain) were used to seed biodomain network
+  generation. Finally, weighted key driver analysis was performed on each biodomain
+  graph to identify influential hub nodes. (B) Venn diagram showing the Pathway Commons
+  network nodes with support for brain expression from the Human Protein Atlas, AMP-AD
+  differential expression analysis, and SEA-AD single cell analysis workflows. (C)
+  Network statistics under various filtering conditions; the final category (“NODE
+  + EDGE”) was used for biodomain network generation
+article_title: Mapping cross-domain drivers of Alzheimer’s disease risk through integrated
+  network analysis
+citation: Gregory A Cary, et al. bioRxiv. 2025 Oct 16;NA(NA).
+year: '2025'
+pub_date: '2025-10-16'
+epub_date: '2025-10-16'
+doi: 10.1101/2025.10.16.682921
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Alzheimer’s Disease
+- Biological Domain
+- Network
+- Key Driver
+---

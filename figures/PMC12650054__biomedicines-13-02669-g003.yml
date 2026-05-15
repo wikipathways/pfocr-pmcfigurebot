@@ -1,0 +1,33 @@
+---
+figid: PMC12650054__biomedicines-13-02669-g003
+pmcid: PMC12650054
+image_filename: jpg
+figure_link: /pmc/articles/PMC12650054/figure/F3/
+number: Figure 3
+figure_title: Step two of the methodology was performed after investigating genes
+  using Gene Database and Malacards, the DAVID and GSEA databases were used to find
+  relevant genes and biological pathways.
+caption: Step two of the methodology was performed after investigating genes using
+  Gene Database and Malacards, the DAVID and GSEA databases were used to find relevant
+  genes and biological pathways. Based on the enrichment analysis, 11 genes out of
+  129 exhibited a significant relationship with mTBI outcomes in both datasets. Protein–protein
+  interaction and network analyse were performed utilizing string databases, while
+  10 Hub genes were identified using Cytohubba. Multiple miRNA databases were used
+  to predict miRNAs linked to mTBI candidate genes and key pathways tied to mTBI changes
+article_title: A Bioinformatic Study of Genetics Involved in Determining Mild Traumatic
+  Brain Injury Severity and Recovery
+citation: Mahnaz Tajik, et al. Biomedicines. 2025 Nov;13(11).
+year: '2025'
+pub_date: 2025-11-
+epub_date: '2025-10-30'
+doi: 10.3390/biomedicines13112669
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- mild traumatic brain injury (mTBI)
+- genomics
+- microRNA
+- bioinformatics
+- RNA sequencing analysis
+---

@@ -1,0 +1,24 @@
+---
+figid: PMC12632730__nihpp-rs5135027v1-f0006
+pmcid: PMC12632730
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632730/figure/F6/
+number: Figure 6.
+figure_title: Exarafenib and MAPK pathway inhibitor combinations demonstrate synergistic
+  anti-tumor effects in BRAF-mutant NSCLC models
+caption: |-
+  a, Heatmap of IC50 values for exarafenib combined with binimetinib, ASTX029, RMC-4550, RMC-6236 or ipatasertib across parental and resistant NSCLC cell lines. Lighter shades indicate lower IC50 values and greater sensitivity. Full heatmap of cell viability is shown in Supplementary Fig. 9a. b, Dose-response matrix (top) and synergy scores (bottom) for exarafenib combinations in the vemurafenib-resistant HCC364-VR1 cells. Shades represent percent inhibition of cell viability. Synergy scores were calculated using the Loewe model; positive scores indicate synergy. c, Western blot analysis of MAPK pathway and apoptotic markers in NCI-H2405 parental and resistant cells treated with exarafenib (500 nM), binimetinib (50 nM), ASTX029 (100 nM), or their combinations for 48 hours. d, Time-course western blot analysis demonstrating MAPK pathway reactivation in NCI-H2405-ER resistant cells and the effect of combination therapy. Cells were treated with 500 nM exarafenib alone or in combination with 50 nM binimetinib for the indicated time points (0, 4, 24, 48 hours). While exarafenib monotherapy leads to MAPK pathway reactivation over 48 hours, combination treatment with binimetinib effectively suppresses this reactivation and maintains pathway inhibition throughout the treatment period. e,
+  In vivo efficacy of exarafenib and binimetinib combination in BRAF-mutant NSCLC xenograft models NCI-H1755 (BRAF G469A), CTG-3703 (AGK-BRAF), and ST5570 (TRIM24-BRAF). Mice were treated with vehicle, exarafenib (10, 20, or 30 mg/kg BID), binimetinib (2 or 3 mg/kg BID), or their combination. Tumor volumes were measured over time. Tumor growth inhibition (TGI) values are shown as percentages next to each dosage curve. Data represent mean ± s.e.m. (n = 9 mice per group for NCI-H1755; n = 6 mice per group for CTG-3703 and ST5570). P-values were calculated by one-way ANOVA followed by Bonferroni correction for multiple comparisons. In NCI-H1755 tumors, significant tumor growth inhibition was observed with the combination treatment compared to vehicle (****P < 0.0001) and exarafenib 10 mg/kg BID monotherapy (****P < 0.0001). In CTG-3703 tumors, the combination treatment significantly inhibited tumor growth compared to vehicle (**P = 0.0043) but not exarafenib 10 mg/kg BID monotherapy (P = 0.1151). In ST5570 tumors, the combination treatment significantly inhibited tumor growth compared to vehicle (**P = 0.0012) and exarafenib 10 mg/kg BID monotherapy (*P = 0.0279). *P < 0.05, **P < 0.01, ***P < 0.001, ****P < 0.0001. f, Heatmaps showing drug sensitivity analysis in NCI-H2405-EBR cells under scrambled control (SCR) or ARAF siRNA knockdown (siARAF) conditions. Left: Cell viability IC50 values (nM) for exarafenib in cells treated with varying concentrations of binimetinib (up to 100 nM). Right: Cell viability measurements showing the effects of exarafenib (up to 10 μM) in combination with binimetinib. The IC50 values shown in the left panel were calculated from the dose-response data depicted in the right panel
+article_title: Targeting BRAF Class II and III Mutations in NSCLC with the pan-RAF
+  inhibitor Exarafenib Reveals ARAF-KSR1-Mediated Resistance and Rational Combination
+  Strategies
+citation: Tadashi Manabe, et al. Res Sq. 2025 Oct 09;17(NA).
+year: '2025'
+pub_date: '2025-10-09'
+epub_date: '2025-10-09'
+doi: 10.21203/rs.3.rs-5135027/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords: []
+---

@@ -1,0 +1,39 @@
+---
+figid: PMC12338678__nihpp-2025.07.11.664466v2-f0006
+pmcid: PMC12338678
+image_filename: jpg
+figure_link: /pmc/articles/PMC12338678/figure/F6/
+number: Figure 6.
+figure_title: Multi-omics integration highlights alterations in extracellular, proteostasis,
+  and metabolic pathways
+caption: (A) A diagram illustrating how transcriptome, proteome, and secretome changes
+  were integrated via multi-contrast gene set enrichment analysis. (B) Venn diagram
+  comparing individual genes and proteins that significantly changed in each “-omics”
+  analysis. Highlighted are four genes and corresponding protein products—DCN, NES,
+  POSTN, and DBI—that were altered in all three “-omics” layers. The top 25 multi-contrast
+  gene set enrichment results using (C) GO Biological Process and (E) Reactome pathway
+  gene sets. Gene sets with an adjusted MANOVA p-value < 0.05 were considered significant.
+  Violin plots for select (D) GO Biological Process and (F) Reactome pathway gene
+  sets related to recurring pathway themes are shown. See also Figure S6
+article_title: A multi-omics analysis of human fibroblasts overexpressing an Alu transposon
+  reveals widespread disruptions in aging-associated pathways
+citation: Juan I. Bravo, et al. bioRxiv. 2025 Oct 15;NA(NA).
+year: '2025'
+pub_date: '2025-10-15'
+epub_date: '2025-10-15'
+doi: 10.1101/2025.07.11.664466
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Aging
+- Retrotransposons
+- Alu
+- Fibroblasts
+- Mitochondria
+- Cell Cycle
+- Proteostasis
+- Transcriptomics
+- Proteomics
+- Secretome
+---

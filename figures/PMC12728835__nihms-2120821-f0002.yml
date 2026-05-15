@@ -1,0 +1,56 @@
+---
+figid: PMC12728835__nihms-2120821-f0002
+pmcid: PMC12728835
+image_filename: jpg
+figure_link: /pmc/articles/PMC12728835/figure/F2/
+number: Figure 2.
+figure_title: RNA sequestration in P-bodies is cell-type specific
+caption: (a) A schematic highlighting developmental stages profiled by P-body-seq.
+  (b) Representative flow cytometry plots showing gating for GFP-LSM14A+ P-bodies
+  in the indicated samples. (c) Principal component analysis of RNA-seq data for the
+  indicated samples. (d) Heatmap showing expression levels of differentially enriched
+  mRNAs between purified P-body fractions of the indicated samples, with manual clustering
+  based on P-body enriched genes (log2FC>0, pval<0.05) that are specific to each cell
+  type, or enriched in all cell types (cluster I). Gene number in each cluster is
+  indicated in the Fig. Differential enrichment was assessed using DESeq2 (two-sided
+  Wald test, Benjamini–Hochberg adjusted p-values, p<0.05). n=2 biologically independent
+  samples per group). (e) GO pathway analysis using expressed genes as a background
+  for P-body enriched mRNAs in the indicated samples. Enrichment was tested by two-sided
+  Fisher’s exact test with multiple testing correction (Benjamini–Hochberg FDR). (f)
+  Gene tracks showing 8C-related genes from RNA-seq data of P-bodies and cytoplasm
+  fractions of naïve ES cells. (g) Log2 fold change of current cell fate markers in
+  the current and downstream cell fate, where log2FC>0 indicates P-body enrichment
+  and log2FC<0 indicates P-body depletion. (h) Venn diagrams showing the overlap of
+  P-body enriched genes in the downstream cell type (log2FC>0, p<0.05) with genes
+  that are more highly expressed in the current cell type compared to the downstream
+  cell type (current/downstream log2FC>0, p<0.05). Differential enrichment was assessed
+  using DESeq2 (two-sided Wald test, Benjamini–Hochberg adjusted p-values, p<0.05).
+  n=2 biologically independent samples per group. (i) Odds ratio of the overlap between
+  the comparisons in (h). Center points represent the odds ratio, and error bars represent
+  95% confidence intervals (CI), n of gene sets is reflected in (h). (j) Log2 fold
+  change of current fate lineage-specific genes (current/downstream log2FC>2.5, p<0.05)
+  in the current and downstream cell state, box plots show the median (center line),
+  interquartile range (box = 25th–75th percentile), and whiskers extending to 1.5x
+  of the interquartile range). Differential enrichment was assessed using DESeq2 (two-sided
+  Wald test, Benjamini–Hochberg adjusted p-values, p=3.9e-23, p=6.4e-54, p=2.3e-29,
+  p=1.1e-37). n=2 biologically independent samples per group. (n of gene sets is reflected
+  in h). (k) GSEA performed on P-body vs cytoplasm differential expression in neurons
+  for neural progenitor-related gene expression signature and neuron-related gene
+  expression signature. Enrichment significance was calculated by permutation test
+  (two-sided), with multiple testing correction using the Benjamini–Hochberg method
+  (FDR<0.05). (l) GSEA performed on P-body vs cytoplasm differential expression in
+  human naïve ES cells for human blastomere and naive ES cell related gene sets from59,
+  104. Enrichment significance was calculated by permutation test (two-sided), with
+  multiple testing correction using the Benjamini–Hochberg method (FDR<0.05)
+article_title: Selective RNA sequestration in biomolecular condensates directs cell
+  fate transitions
+citation: Patrizia Pessina, et al. Nat Biotechnol. 2025 Oct 28;NA(NA).
+year: '2025'
+pub_date: '2025-10-28'
+epub_date: '2025-10-28'
+doi: 10.1038/s41587-025-02853-z
+journal_title: Nature biotechnology
+journal_nlm_ta: Nat Biotechnol
+publisher_name: .na.character
+keywords: []
+---

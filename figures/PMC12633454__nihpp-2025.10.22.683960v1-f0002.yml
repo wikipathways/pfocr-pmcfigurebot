@@ -1,0 +1,36 @@
+---
+figid: PMC12633454__nihpp-2025.10.22.683960v1-f0002
+pmcid: PMC12633454
+image_filename: jpg
+figure_link: /pmc/articles/PMC12633454/figure/F2/
+number: Figure 2.
+figure_title: T1-T4 DRG transcriptional changes 8 weeks post-MI
+caption: '(A) Volcano plot of differentially expressed genes (DEGs) in T1-T4 DRGs
+  from rats 8 weeks post-MI versus sham (MI n =5; sham n =4). Thresholds: FDR≤0.15
+  and |log2FC|≥0.5. Upregulated (red) and downregulated (blue) genes are shown with
+  Irf7 highlighted. (B) Gene Ontology enrichment for DEGs. Enrichment includes clusters
+  for immune/defense responses, extracellular/ECM, and cytoskeleton/motor activity.
+  (C) KEGG pathway enrichment. Immune/inflammatory pathways (phagosome, viral myocarditis)
+  and cytoskeleton/vascular-smooth muscle contraction are prominent. (D) Heatmap of
+  representative DEGs groups by functional category. Values are gene-wise Z-scores
+  across samples; columns are individual DRGs (MI, left block; sham, right block).
+  Immune/Inflammation genes (Cst3, Ifit1, Slfn4, Irf7, C4b, Pla2g2a, RT1-T24-3, Prg2)
+  and smooth-muscle/contractile genes (Myl9, Actg2, Acta2, Myh11, Cnn1) are increased
+  in MI. Adhesion genes (Thbs4, Fndc7, Pcdhga3) are upregulated in the sham group'
+article_title: Neural Inflammation in Thoracic Dorsal Root Ganglia Mediates Cardiopulmonary
+  Spinal Afferent Sensitization in Chronic Heart Failure
+citation: Juan Hong, et al. bioRxiv. 2025 Oct 23;NA(NA).
+year: '2025'
+pub_date: '2025-10-23'
+epub_date: '2025-10-23'
+doi: 10.1101/2025.10.22.683960
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- myocardial infarction
+- ganglia inflammation
+- cardiac sympathetic afferent reflex (CSAR)
+- pulmonary sympathetic afferent reflex (PSAR)
+- cytokine transport
+---

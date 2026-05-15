@@ -1,0 +1,32 @@
+---
+figid: PMC12595226__MI2025-4068444.004
+pmcid: PMC12595226
+image_filename: jpg
+figure_link: /pmc/articles/PMC12595226/figure/F4/
+number: Figure 4
+figure_title: Functional annotation and pathway analysis of PCD signature-defined
+  risk groups.
+caption: Functional annotation and pathway analysis of PCD signature-defined risk
+  groups. (A) GSVA-derived heatmap illustrating differential pathway activities between
+  high- and low-risk groups using MSigDB gene sets. (B) t-SNE visualization of KEGG
+  and reactome pathway activities in risk-stratified groups. (C) Metascape-generated
+  enrichment network of differentially expressed genes between risk groups. (D) GSEA
+  plots highlighting significantly enriched KEGG pathways associated with PCD signature.
+  ⁣∗∗∗p  < 0.001
+article_title: 'Novel Machine Learning Approaches Revolutionize Pancreatic Malignancy
+  Prognosis: Exploring Programed Cell Death'
+citation: Na Xu, et al. Mediators Inflamm. 2025;2025(NA).
+year: '2025'
+pub_date: 2025--
+epub_date: '2025-10-31'
+doi: 10.1155/mi/4068444
+journal_title: Mediators of Inflammation
+journal_nlm_ta: Mediators Inflamm
+publisher_name: Wiley
+keywords:
+- machine learning
+- pancreatic ductal adenocarcinoma
+- prognostication
+- programed cell demise
+- tumor microenvironment
+---

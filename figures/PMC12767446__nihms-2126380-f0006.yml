@@ -1,0 +1,37 @@
+---
+figid: PMC12767446__nihms-2126380-f0006
+pmcid: PMC12767446
+image_filename: jpg
+figure_link: /pmc/articles/PMC12767446/figure/F6/
+number: Figure 6.
+figure_title: miRNAs enriched in hCKD-EVs impaired the contractility and calcium handling
+  gene expression in human iPSC-derived cardiomyocytes
+caption: A, Schematic of study design for mRNA sequencing of hiPSC-CMs transfected
+  with miRNA mimics. B, Heatmap showing expression of differentially expressed genes
+  in hiPSC-CMs transfected with miRNA mimics (miR-NC, miR-2110, miR-320b, miR-484);
+  the top 50 significantly differential expressed genes are listed in Tables S5–S7.
+  C, Gene Set Enrichment Analysis (GSEA) of GO Biological Process pathways in hiPSC-CMs
+  transfected with miR-2110, miR-320b (D), and miR-484 (E). The plot displays significantly
+  enriched pathways grouped by activation or suppression. Dot size represents the
+  number of genes involved (Count), and the x-axis shows the Gene Ratio. F, Expression
+  of the calcium handling and contractile function-associated genes was assessed by
+  qPCR in hiPSC-CMs treated with miR-2110, miR-320b, or miR-484 mimics every three
+  days for a total of three doses (n=6). Data in panel F are presented as median with
+  interquartile range and were analyzed with Mann-Whitney U test
+article_title: Circulating Extracellular Vesicles in the Pathogenesis of Heart Failure
+  in Patients with Chronic Kidney Disease
+citation: Xisheng Li, et al. Circulation. 2026 Jan 13;153(2).
+year: '2026'
+pub_date: 2026-1-13
+epub_date: '2025-11-03'
+doi: 10.1161/CIRCULATIONAHA.125.075579
+journal_title: Circulation
+journal_nlm_ta: Circulation
+publisher_name: .na.character
+keywords:
+- extracellular vesicle
+- chronic kidney disease
+- heart failure
+- microRNA
+- contractility
+---

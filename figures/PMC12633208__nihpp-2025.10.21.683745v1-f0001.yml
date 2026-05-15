@@ -1,0 +1,42 @@
+---
+figid: PMC12633208__nihpp-2025.10.21.683745v1-f0001
+pmcid: PMC12633208
+image_filename: jpg
+figure_link: /pmc/articles/PMC12633208/figure/F1/
+number: Figure 1.
+figure_title: Properties of the cellular TME of pancreatic cancer metastases to the
+  liver
+caption: 'A. Study design and datasets overview. B. UMAP plot of pre- and on-treatment
+  cell populations with distinct cell types annotated: cells were classified into
+  epithelial (malignant) cells and hepatocytes, stromal cells (fibroblasts, endothelial
+  cells), and immune cell types (CD4+ and CD8+ T cells, Tregs, natural killer (NK)
+  cells, monocytes/macrophages (Mono/Mph), B cells, mast cells and neutrophils). Each
+  cluster is annotated based on specific marker genes, with the number of cells per
+  cell type indicated. C. Dot plot showing average expression levels and percent expression
+  of key marker genes across different cell populations: the dot size represents the
+  percentage of cells expressing a specific gene within a given cell type, while color
+  intensity indicates the average expression level. D. Pathway enrichment analysis
+  of on- vs pre-treatment malignant PDAC cells: ClusterProfiler analysis of differentially
+  expressed genes showed significant enrichment of MHC-II-related pathways, particularly
+  those involved in antigen processing and presentation. E. Expression of MHC-II pathway
+  genes pre- and on-treatment: dot plot showing key MHC-II-related genes (CD74, HLA-DRA,
+  HLA-DPB1, HLA-DPA1, HLA-DRB1 and HLA-DMB) in malignant cells pre- and on-cobimetinib
+  treatment'
+article_title: Tumor-intrinsic MHC-II activation in pancreatic ductal adenocarcinoma
+  enhances immune response and treatment efficacy
+citation: Canping Chen, et al. bioRxiv. 2025 Oct 22;NA(NA).
+year: '2025'
+pub_date: '2025-10-22'
+epub_date: '2025-10-22'
+doi: 10.1101/2025.10.21.683745
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Pancreatic cancer
+- Single-cell sequencing
+- Spatial transcriptomics
+- Immunomodulatory therapies
+- Bioinformatics
+- Tumor heterogeneity
+---

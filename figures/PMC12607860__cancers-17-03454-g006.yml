@@ -1,0 +1,31 @@
+---
+figid: PMC12607860__cancers-17-03454-g006
+pmcid: PMC12607860
+image_filename: jpg
+figure_link: /pmc/articles/PMC12607860/figure/F6/
+number: Figure 6
+figure_title: Health Disparity in Breast Cancer (BRCA).
+caption: 'Health Disparity in Breast Cancer (BRCA). Disparity at (a) gene level and
+  (b) pathway level. Unique (c) AA-specific and (d) EA-specific enriched pathways.
+  AA: African American; EA: European American. The Venn diagrams in (a,b) show that
+  while most genes and pathways are shared between AA and EA cohorts, a subset remains
+  unique to each group, reflecting sub-cohort-specific molecular features. The bar
+  plots in (c,d) highlight distinct enriched pathways in AA and EA patients, suggesting
+  ancestry-related biological variation'
+article_title: 'TILDA-X: Transcriptome-Informed Lung Cancer Disparities via Explainable
+  AI'
+citation: Masrur Sobhan, et al. Cancers (Basel). 2025 Nov;17(21).
+year: '2025'
+pub_date: 2025-11-
+epub_date: '2025-10-28'
+doi: 10.3390/cancers17213454
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- explainable AI
+- health disparity
+- lung cancer
+- patient-specific biomarker
+- SHAP
+---

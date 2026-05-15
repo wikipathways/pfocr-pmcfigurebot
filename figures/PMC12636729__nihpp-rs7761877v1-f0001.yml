@@ -1,0 +1,37 @@
+---
+figid: PMC12636729__nihpp-rs7761877v1-f0001
+pmcid: PMC12636729
+image_filename: jpg
+figure_link: /pmc/articles/PMC12636729/figure/F1/
+number: Figure1.
+figure_title: Candidate drug inhibitors and expression of their targets from HSP90
+  and PI3K pathway in adrenocortical carcinoma
+caption: 'A. Pairwise combinations of the test inhibitors using a wide range of concentrations
+  (nM) in NCI-H295R cells, from low (right lower corner) to high (right upper and
+  left lower corners), to measure the drugs synergy by using a 10×10 matrix for STA-9090
+  and PIK-75, HSP990 and PIK-75 and NVP-AUY922 and PIK-75. Black represents higher
+  cell viability and red represents lower cell viability in percentage compared to
+  controls. B. Kaplan Meyers plots showing ACC patients overall survival (OS) or disease-free
+  survival (DFS) with high and low mRNA expression of HSP90B1 (OS: P =0.007, DFS:
+  P <0.001), and AKT2 (OS: P=0.002, DFS: P <0.001). Graphs showing mRNA expression
+  for key members of HSP90 (HSPAA1, HSP90AB1 and HSP90B1) and PI3K (AKT2, CDK4 and
+  CDK1) family in GEO datasets C. GSE10927 Normal Adrenal (n=10), ACA (n= 22), ACC
+  (n=33) and D. GSE75415; Normal Adrenal (n=7), ACA (n= 5), ACC (n=18). * P≤ 0.05,
+  ** P≤ 0.01, *** P≤ 0.001. ACA; Adrenocortical Adenoma. ACC; Adrenocortical Carcinoma'
+article_title: Synergistic Inhibition of PI3K and HSP90 Enhanced Antitumorigenic Efficacy
+  in Adrenocortical Carcinoma
+citation: Prachi Mishra, et al. Res Sq. 2025 Nov 01;NA(NA).
+year: '2025'
+pub_date: '2025-11-01'
+epub_date: '2025-11-01'
+doi: 10.21203/rs.3.rs-7761877/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+keywords:
+- Adrenocortical cancer
+- Heat shock protein 90
+- PI3K
+- combination therapy
+- quantitative high-throughput drug screening
+---

@@ -1,0 +1,56 @@
+---
+figid: PMC12614771__nihms-2115171-f0004
+pmcid: PMC12614771
+image_filename: jpg
+figure_link: /pmc/articles/PMC12614771/figure/F4/
+number: 'Figure 4:'
+figure_title: Differential gene expression from concentric/eccentric conditions identify
+  increased microtubule subunit expression with eccentric growth
+caption: (A) Comparative results from gene expression arrays evaluating fold changes
+  (log2) from qv3J and WT 6wk TAC hearts (x-axis) and STAT3 S727A and WT 4wk TAC hearts
+  (y-axis), illustrating differential gene expression during concentric and eccentric
+  remodeling, respectively. Data point colors reflect the relative difference in gene
+  fold changes compared between STAT3 S727A:WT and qv3J:WT datasets. Datapoints with
+  black outlines highlight genes recognized within the Microtubule Dynamics and Organization
+  of Cytoskeleton pathways as defined by Ingenuity Pathway Analysis (IPA) Diseases
+  and Biological Functions database (n = 3 and 4 for qv3J:WT and STAT3 S727A:WT datasets
+  respectively. (B) Heatmap showing comparative activation scores and corresponding
+  −log10(p-values) from STAT3 S727A:WT and qv3J:WT datasets using the Diseases and
+  Biological Functions comparative analysis performed within IPA. Results illustrate
+  marked significance and differential regulation surrounding cytoskeletal and microtubule
+  remodeling (region highlighted by black outline). (C) Select microtubule subunit
+  genes from gene array results. (D) qPCR summary data for expression of select microtubule
+  associated genes from baseline mouse WT and qv4J whole heart samples (n = 4). Data
+  analyzed using unpaired t-test. (E) Representative epifluorescence images of adult
+  mouse cardiac myocytes with GFP excitation following 24 hrs culture with Ad.GPF
+  (control) or Ad.aMEK (GFP co-expression to indicate transduced cells, scale bar
+  = 100 μm). Treated myocytes taken from WT, STAT3 S727A, or qv4J backgrounds. Corresponding
+  myocyte length, width, and aspect ratio (length/width) presented as violin plots.
+  N=5; n=422 for WT+Ad.GFP, N=5; n=380 for WT+Ad.aMEK, N=3, n=332 for STAT3 S727A+Ad.GFP,
+  N=3, n=189 for STAT3 S727A+Ad.aMEK, N=7, n=696 for qv4J+Ad.GFP, and N=7, n=681 for
+  qv4J+Ad.aMEK, where N is the number of hearts and n is the number of myocytes. Data
+  distribution is shown for all myocytes with statistics reported using the average
+  values for each heart (indicated by filled circles). Data analyzed using a correlated
+  two-way ANOVA with Tukey post hoc testing
+article_title: The βIV-Spectrin/STAT3 Complex Regulates the Orientation of Cardiac
+  Hypertrophic Growth
+citation: Drew M. Nassal, et al. Circ Res. 2025 Nov 07;137(11).
+year: '2025'
+pub_date: '2025-11-07'
+epub_date: '2025-10-15'
+doi: 10.1161/CIRCRESAHA.125.326378
+journal_title: Circulation research
+journal_nlm_ta: Circ Res
+publisher_name: .na.character
+keywords:
+- Hypertrophy
+- cardiac remodeling
+- STAT3
+- spectrin
+- microtubules
+- kinesin
+- KIF20A
+- Basic Science Research
+- Heart Failure
+- Hypertrophy
+---

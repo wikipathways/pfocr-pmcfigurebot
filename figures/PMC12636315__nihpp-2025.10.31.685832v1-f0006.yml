@@ -1,0 +1,48 @@
+---
+figid: PMC12636315__nihpp-2025.10.31.685832v1-f0006
+pmcid: PMC12636315
+image_filename: jpg
+figure_link: /pmc/articles/PMC12636315/figure/F6/
+number: Fig. 6.
+figure_title: Genome mining for other RiPP-lipoproteins
+caption: 'a Diagram for RiPP-lipoprotein maturation. Shown here is an example of the
+  triacylated form of the lipoprotein [C16:0, C16:0, C16:0]. b Bioinformatic pipeline
+  for RiPP modifying enzyme directed discovery of RiPP-lipoproteins. During the SSN
+  generation process, similar sequences can be filtered out using Uniref90 database
+  or using a representative node network. c SSN of MNIO-associated lipoproteins (Cytoscape
+  file provided as Dataset 2). Ten of the largest clusters are annotated I-X. Clusters
+  V-IX correspond to putative non-RiPP lipoproteins that are found in (or adjacent
+  to) MNIO-containing gene clusters. V: BON-domain containing protein in bufferin
+  BGC. VI: LPS translocon maturation chaperone LptM in bufferin BGC. VII: Glycine
+  zipper two transmembrane domain-containing protein in bufferin BGC. VIII: TssQ family
+  T6SS-associated lipoprotein in bufferin BGC. IX: Hypothetical protein in bufferin
+  BGC. The full list of sequences can be found in Supplementary Table 6. d Representative
+  examples of predicted BGCs encoding RiPP-lipoproteins from the different precursor
+  peptide clusters. The characterized RiPP families corresponding to chryseobasins,
+  bufferins, and oxazolins all show examples of lipidation via the SPII pathway'
+article_title: Co-opting the bacterial lipoprotein pathway in the biosynthesis of
+  a lipidated macrocyclic peptide
+citation: Jeff Y. Chen, et al. bioRxiv. 2025 Nov 01;123(14).
+year: '2025'
+pub_date: '2025-11-01'
+epub_date: '2025-11-01'
+doi: 10.1101/2025.10.31.685832
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Lipopeptide
+- acylation
+- metalloenzyme
+- biocatalysis
+- Bacteroidetes
+- secondary metabolites
+- RiPPs
+- DUF692
+- UPF0276
+- Biochemistry
+- Biosynthesis
+- Natural Products
+- Peptides
+- Lipids
+---

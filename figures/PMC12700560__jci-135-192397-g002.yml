@@ -1,0 +1,44 @@
+---
+figid: PMC12700560__jci-135-192397-g002
+pmcid: PMC12700560
+image_filename: jpg
+figure_link: /pmc/articles/PMC12700560/figure/F2/
+number: Figure 2
+figure_title: STING pathway activation upregulates the expression of Ido1
+caption: '(A) Venn diagram showing the intersection of DEGs from the 3 GEO databases
+  (GSE204825, GSE159825, and GSE134129). (B) Volcano plot illustrating changes in
+  gene expression after the administration of STING agonist, with the Ido1 gene marked
+  by an arrow. (C) Heatmap of DEGs, excluding some genes with unclear functions. The
+  DEGs were divided into 2 clusters of antitumor and protumor genes. (D) GSEA analysis
+  demonstrating the enrichment of DEGs in various pathways. (E and F) Analysis of
+  the correlation between the expression of IDO1 and that of the genes (IFNG or FOXP3
+  in patients with colon adenocarcinoma [COAD]) using the TCGA database. (G) Expression
+  of Ifng across all types of immune cells. (H) Feature plot of Ido1 showing inducible
+  patterns of expression upon MSA-2 administration. Red indicates Ido1hi cells. (I)
+  Expression of signature genes of the IDO pathway (Ido1, Ido2, and Tdo2) in various
+  immune cells. (J) Alterations in Ido1 gene expression following stimulation with
+  IFN-α and IFN-γ. (K) Quantitative real-time PCR analysis of Ido1 and Western blot
+  analysis of the protein IDO1 in IFN-γ–treated MC38 tumor cells (n = 3). β-Actin
+  was used as internal control. (L) IHC staining of Ido1 at the tumor site with or
+  without MSA-2 administration. Early-stage and advanced tumors represent tumor volumes
+  of approximately 500 and 1,500 mm3, respectively. Scale bar: 50 μm. (M) IFN-γ secretion
+  was assessed using ELISA (n = 3). (N) Western blot analysis of IDO1 protein expression
+  in MSA-2–treated or untreated BMDCs. Data are depicted as the mean ± SD. *P < 0.05,
+  **P < 0.01, as determined by Student’s t test'
+article_title: Targeting STING-induced immune evasion with nanoparticulate binary
+  pharmacology improves tumor control in mice
+citation: Fanchao Meng, et al. J Clin Invest. 2025 Oct 23;135(24).
+year: '2025'
+pub_date: '2025-10-23'
+epub_date: '2025-10-23'
+doi: 10.1172/JCI192397
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Immunology
+- Oncology
+- Cancer immunotherapy
+- Drug therapy
+- Nanotechnology
+---

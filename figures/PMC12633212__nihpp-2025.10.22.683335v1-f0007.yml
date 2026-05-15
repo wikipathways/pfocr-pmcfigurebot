@@ -1,0 +1,50 @@
+---
+figid: PMC12633212__nihpp-2025.10.22.683335v1-f0007
+pmcid: PMC12633212
+image_filename: jpg
+figure_link: /pmc/articles/PMC12633212/figure/F7/
+number: Figure 7 |
+figure_title: Interpretable KANN-derived mitochondrial fitness (MQI/MFI) captures
+  β cell heterogeneity, regulators, and clinical links
+caption: 'a, Performance of the Kolmogorov-Arnold Neural Network (KANN) model predicting
+  the mitochondrial fitness index (MFI) from single-cell gene expression. Scatter
+  shows observed MQI versus KANN-predicted score; line is identity (R2 = 0.934; RMSE
+  = 0.436). b, Correlation structure between the KANN score (MFI/MQI) and pathway
+  module scores (mitophagy, OXPHOS, OXPHOS:TCA ratio, glycolysis, TCA, mitochondrial
+  content, mtUPR). c, Permutation importance of candidate regulators. Bars indicate
+  % increase in prediction MSE when a regulator is permuted; colors group functional
+  classes (mitophagy machinery, fission/fusion, mtUPR/proteostasis, autophagy/lysosome,
+  TFs/signaling, ER-phagy, antioxidant). Insets show pairwise partial-dependence surfaces
+  for exemplar genes. d, UMAP view of β-cells colored by KANN-predicted MFI for non-diabetic
+  (ND) and T2D donors, split by sex. e, Fraction of cells per β-cell subcluster (β1–4)
+  with high versus low MFI in ND and T2D, stratified by sex. Thresholds: High (>1)
+  and Low (<1). f, Distribution of KANN-predicted MFI by β cell subcluster for ND
+  vs T2D (combined and stratified by sex). Violins show per-cell distributions with
+  embedded boxplots (median and IQR). g, Donor-level association between HbA1c and
+  the proportion of β1 cells in high or low MFI groups, stratified by sex. Lines show
+  linear fits; annotations report Pearson R. h, Differential expression in β1 (Untreated)
+  comparing MFI-High (>1) vs MFI-Low (<1). Volcano plot highlights representative
+  down (blue) and upregulated (red) genes. i, Enriched pathways among genes down-regulated
+  in β1 MFI-High vs MFI-Low. Chord diagram links genes to pathway terms; segments
+  are colored by log2 fold-change. j, Enriched pathways among genes up-regulated in
+  β1 MFI-High vs MFI-Low, emphasizing OXPHOS/ETC, ATP biosynthesis, mitochondrial
+  organization, mtUPR, and amylin-receptor signaling. k, HbA1c versus fraction of
+  β1 cells in high-MFI per donor, stratified by sex and SQSTM1 expression status (SQSTM1+/SQSTM1−).
+  Lines denote linear fits; Pearson R and two-sided P values are shown'
+article_title: Supervised machine learning identifies impaired mitochondrial quality
+  control in β cells with development of type 2 diabetes
+citation: Mirza Muhammad Fahd Qadir, et al. bioRxiv. 2025 Oct 23;NA(NA).
+year: '2025'
+pub_date: '2025-10-23'
+epub_date: '2025-10-23'
+doi: 10.1101/2025.10.22.683335
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Type 2 diabetes
+- Mitophagy
+- Rule based classifier
+- Machine learning
+- Disease prediction
+---

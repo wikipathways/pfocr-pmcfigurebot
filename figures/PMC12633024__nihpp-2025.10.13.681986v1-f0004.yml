@@ -1,0 +1,39 @@
+---
+figid: PMC12633024__nihpp-2025.10.13.681986v1-f0004
+pmcid: PMC12633024
+image_filename: jpg
+figure_link: /pmc/articles/PMC12633024/figure/F4/
+number: Figure 4.
+figure_title: Immunomodulatory alterations in HRD tumors contribute to the tumor type-specificity
+  of inflammatory responses
+caption: '(A) Fraction of LOH (top) and average amplification profile (bottom) in
+  HRD samples of the dHpC and dCpH categories are shown. Amplifications are determined
+  as average values across samples after subtracting the copy-number baseline (mean
+  chromosome-level major allele copy number in each sample). The genome was binned
+  into 100 kb intervals; 95% confidence intervals for both variables were calculated
+  by one-sample t-tests against the null hypothesis of zero mean difference. Selected
+  genes in regions of interest are marked; large regions with significant differences
+  are shaded, with colors indicating the group with higher alteration prevalence.
+  X chromosome LOH is calculated using only the samples from female patients.(B) Reactome
+  pathway enrichment analysis of genes in LOH regions differentially enriched in dHpC
+  or dCpH; only pathways with adjusted p < 0.05 are shown.(C) Top: β-coefficients
+  for covariates (LOH and oncogene amplification status) used in the multiple linear
+  regression of Z-normalized IS. Oncogene amplification is defined as amplification
+  in any of BCL11A, BCL6, CCND1, CDK6, EGFR, FGFR1, KRAS, or TERT. LOH status is defined
+  as the fraction of LOH in regions marked in panel A (Table S5). Bottom: Number of
+  genes per LOH region in the Interferon Signaling pathway enriched in dCpH LOH regions;
+  antigen-presentation–related genes are highlighted in light blue.(D) Prevalence
+  and co-occurrence of oncogene amplifications and LOH across tumor types, ordered
+  as in Figure 2A'
+article_title: Tissue specificity and chromosomal alterations shape divergent immune
+  programs in HRD tumors
+citation: Doga C. Gulhan, et al. bioRxiv. 2025 Oct 14;NA(NA).
+year: '2025'
+pub_date: '2025-10-14'
+epub_date: '2025-10-14'
+doi: 10.1101/2025.10.13.681986
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

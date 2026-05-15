@@ -1,0 +1,37 @@
+---
+figid: PMC12723418__kjpp-30-1-19-f4
+pmcid: PMC12723418
+image_filename: jpg
+figure_link: /pmc/articles/PMC12723418/figure/F4/
+number: Fig. 4
+figure_title: Sesn2 affects pathways associated with muscle regeneration under immobilized
+  conditions
+caption: (A) GSEA results for TgSesn2 mice. Comparison of GSEA for Sesn2 Tg mice between
+  basal and immobilized conditions using gene sets related to mitochondrial functions
+  and myogenesis (left). Enrichment plots for the genes involved in mitochondrial
+  biogenesis and remodeling, and the differentiation process to skeletal muscle cells
+  (“Reactome Mitochondrial biogenesis; M26973” and “GOBP Skeletal muscle cell differentiation;
+  M15486”) (right). (B) Network analysis of GSEA for Sesn2 Tg mice under immobilized
+  condition using the Gene Ontology (GO) gene set. Among the statistically significant
+  GO terms (false discovery rate [FDR] < 0.05), those that share many common genes
+  were clustered and annotated as representative biological functions of that cluster.
+  Unconnected clusters with three or fewer terms were excluded for simplicity. Sesn2,
+  sestrin2; GSEA, gene set enrichment analysis; Tg, transgenic; WT, wild type; NES,
+  normalized enrchiment score
+article_title: The role of sestrin2 in skeletal muscle regeneration after injury
+citation: Chae Young Hwang, et al. Korean J Physiol Pharmacol. 2026 Jan 1;30(1).
+year: '2026'
+pub_date: 2026-1-1
+epub_date: 2026-1-1
+doi: 10.4196/kjpp.25.173
+journal_title: 'The Korean Journal of Physiology & Pharmacology : Official Journal
+  of the Korean Physiological Society and the Korean Society of Pharmacology'
+journal_nlm_ta: Korean J Physiol Pharmacol
+publisher_name: Korean Physiological Society and Korean Society of Pharmacology
+keywords:
+- Myogenesis
+- Oxidative stress
+- Regeneration
+- Sestrins
+- Skeletal muscle
+---

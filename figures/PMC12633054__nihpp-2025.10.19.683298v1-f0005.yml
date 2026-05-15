@@ -1,0 +1,44 @@
+---
+figid: PMC12633054__nihpp-2025.10.19.683298v1-f0005
+pmcid: PMC12633054
+image_filename: jpg
+figure_link: /pmc/articles/PMC12633054/figure/F5/
+number: Figure 5.
+figure_title: Global gene expression analysis identifies severity-associated transcriptional
+  programs across epithelial cell types following RV infection
+caption: (A) The count of genes with ascending (SE > NSE > HC) and descending (SE
+  < NSE < HC) expression trend across donor groups (SE = 7 donors, NSE = 4 donors,
+  healthy controls = 3 donors) in each cell type. (B) The volcano plots show the genes
+  with an ascending and descending trend across donor groups in basal cells, secretory
+  cells, goblet cells, ciliated cells, and secretory immune response cells. Significant
+  (FDR < 0.01) genes with an ascending trend (estimate > 0.2) and descending trend
+  (estimate < −0.2) that are expressed in at least 10% of cells are denoted by red
+  and blue color points, respectively. Select top ranked genes by estimate are highlighted.
+  (C) Dot plot showing enriched GO terms and pathways on significant genes with an
+  ascending trend. The size of each dot denotes the percentage of genes, and the intensity
+  of color denotes statistical significance as −log10(adj.P). (D) Dot plot showing
+  enriched GO terms and pathways on significant genes with descending trend. The size
+  of each dot denotes the percentage of genes, and the intensity of color denotes
+  statistical significance as −log10(adj.P). (E) Upset plot showing the count of overlapping
+  genes with an ascending trend across five cell types, basal, secretory, goblet,
+  ciliated and secretory immune response cells. (F) Heatmap showing relative expression
+  of 84 core signature genes (shared across all five cell types) with an ascending
+  expression trend at 5 cell types. Gene expression levels are shown as row normalized
+  Z-scores of the mean expression for each group with red representing higher relative
+  expression and blue representing lower relative expression. (G) Violin plot showing
+  the distribution of gene expression for select genes with an ascending trend across
+  donor groups by individual cell types. The black horizontal line in each violin
+  denotes a mean expression
+article_title: Transcriptomic Profiling of Bronchial Epithelium Reveals Dysregulated
+  Interferon and Inflammatory Responses to Rhinovirus in Exacerbation-Prone Pediatric
+  Asthma
+citation: Naresh Doni Jayavelu, et al. bioRxiv. 2025 Oct 19;10(24).
+year: '2025'
+pub_date: '2025-10-19'
+epub_date: '2025-10-19'
+doi: 10.1101/2025.10.19.683298
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

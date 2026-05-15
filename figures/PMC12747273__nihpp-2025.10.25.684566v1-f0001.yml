@@ -1,0 +1,33 @@
+---
+figid: PMC12747273__nihpp-2025.10.25.684566v1-f0001
+pmcid: PMC12747273
+image_filename: jpg
+figure_link: /pmc/articles/PMC12747273/figure/F1/
+number: 'Fig 1:'
+figure_title: The H&E Retrieval Engine (HERE)
+caption: 'The framework comprises two modules: Development and Retrieval.a, The engine
+  development has two stages: model training and index generation. Stage 1 trains
+  a prediction model composed of an image encoder, attention map, and decoder using
+  TCGA data from 32 tumor types. The input to the image encoder is H&E whole-slide
+  images, and the decoder output includes a binary indication of gene mutation functions
+  in cancer progression and average expression of pathway gene sets. Stage 2 indexes
+  patch vectors encoded from the whole slide images from the NCI Lab of Pathology,
+  TCGA, CPTAC, and spatial transcriptomics studies.b, Two retrieval applications.
+  For a query H&E image patch or region, the Image-to-Image retrieval returns similar
+  image patches and associated whole slides from the indexed database. If users select
+  images with spatial transcriptomics (ST) data, HERE returns images that closely
+  match the query and the corresponding gene expression profiles from ST detection
+  spots. The Transcriptomics-to-Image retrieval finds H&E slides with paired ST data
+  where the query gene has high expression levels in ST detection spots associated
+  with specific image feature clusters from those slides'
+article_title: Web engine for tumor pathology image retrievals on massive scales
+citation: Zisha Zhong, et al. bioRxiv. 2025 Oct 26;NA(NA).
+year: '2025'
+pub_date: '2025-10-26'
+epub_date: '2025-10-26'
+doi: 10.1101/2025.10.25.684566
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

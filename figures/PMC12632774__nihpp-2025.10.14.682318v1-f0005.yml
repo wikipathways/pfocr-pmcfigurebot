@@ -1,0 +1,30 @@
+---
+figid: PMC12632774__nihpp-2025.10.14.682318v1-f0005
+pmcid: PMC12632774
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632774/figure/F5/
+number: Figure 5.
+figure_title: TF motifs in DEGs.
+caption: TF motifs in DEGs. Here, we defined a gene with the binding of TF to be that
+  annotated in a peak containing a TF motif. Asterisks highlight DEGs. (A) Z score
+  of TF activity associated with psychosocial factors (DAMs, 10% FDR). TFs clustering
+  into 4 groups using a hierarchical method with complete linkage and Euclidean distance.
+  Asterisk denotes TF genes that are DEGs in the corresponding cell type (B) Log odds
+  ratio of the enrichment of individual TF motifs in DEGs in the corresponding cell
+  type and psychosocial variables. (C) schematic overview of the underlying mechanism
+  of TF genes driving target gene expression changes (D) IRF4 gene expression (to
+  row), motif activity (middle row), and pathway score of the IFN--γ signaling pathways
+  belong to the IRF4 TF (bottom row) associated with psychological stress levels (left)
+  and social support (right)
+article_title: Psychological stress and social support are associated with opposing
+  single-cell pro-inflammatory gene regulatory mechanisms in adults
+citation: Ali Ranjbaran, et al. bioRxiv. 2025 Oct 15;NA(NA).
+year: '2025'
+pub_date: '2025-10-15'
+epub_date: '2025-10-15'
+doi: 10.1101/2025.10.14.682318
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

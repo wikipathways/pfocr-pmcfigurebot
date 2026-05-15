@@ -1,0 +1,57 @@
+---
+figid: PMC12621840__nihpp-2025.10.03.680349v1-f0003
+pmcid: PMC12621840
+image_filename: jpg
+figure_link: /pmc/articles/PMC12621840/figure/F3/
+number: 'Figure 3:'
+figure_title: Map of the ERK pathway phosphoproteomic signatures of MIN6 cells in
+  different GSIS regulatory conditions
+caption: Here, we highlight the value of our approach for mapping key phosphorylations
+  in known signaling pathways and how they are differentially regulated in the context
+  of GSIS with and without GPCR stimulation.(A) Heat map showing the log2 fold change
+  in abundance of ERK pathway (and other key signaling regulators) phosphorylations
+  upon stimulation with high glucose and different GPCR agonists at 15min post-treatment.
+  Phosphorylations are sorted based on protein family, as indicated on the right.
+  Dots are colored as a heat map, with increased abundance being red and decreased
+  abundance being blue. in the schematics on the right, showing(B-E) Schematics of
+  the ERK phosphosignaling pathway, indicating which pathways are stimulated under
+  which conditions and how the phospho-signatures vary depending on treatment conditions.
+  Note that high glucose (HG) (B), HG+Exendin-4 (C), HG+TUG891 (D), and HG+TUG891+Exendin-4
+  combined treatment (E) pathway specificity are highlighted in bright color to show
+  which pathways activate which factors. Phosphorylations are shown with heat-map
+  coloration corresponding with the heat-map abundance shown in (A). In the box on
+  the bottom left of each panel is a table summarizing the key phosphorylations shown
+  here and the changes in abundances.(F) Chart summarizing key major changes in key
+  regulators of the ERK pathway based upon HG versus Exendin4 versus TUG891 stimulations,
+  with up and down arrows indicating either significant increase or decreased levels
+  versus LG for HG or HG for the GPCR stimulations. The second column lists what compartments
+  these different factors localize to, providing spatial context for compartmentalized
+  ERK pathway signaling
+article_title: Metabolic STAMP for deciphering GPCR-regulated insulin secretion by
+  pancreatic β cells
+citation: Mohammad Ovais Aziz-Zanjani, et al. bioRxiv. 2025 Oct 04;NA(NA).
+year: '2025'
+pub_date: '2025-10-04'
+epub_date: '2025-10-04'
+doi: 10.1101/2025.10.03.680349
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- GSIS (glucose-stimulated insulin secretion)
+- GPCRs (G protein-coupled receptors)
+- PTMs (post-translational modifications)
+- MIN6 (mouse β-cell line)
+- primary human islets
+- Metabolic-STAMP (Synchronized Temporal-Spatial Analysis via Microscopy and Phosphoproteomics)
+- T2D (Type 2 Diabetes)
+- FFAR4 (Free Fatty Acid Receptor 4)
+- GLP1-R (Glucagon-Like Peptide-1 Receptor)
+- ATAT1
+- HDAC6 (Histone De-Acetylase 6)
+- ERK
+- PKA (Protein Kinase A)
+- microtubules
+- acetylation
+- inter-organellar contacts
+---

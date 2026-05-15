@@ -1,0 +1,44 @@
+---
+figid: PMC12772951__rpor-30-5-675f2
+pmcid: PMC12772951
+image_filename: jpg
+figure_link: /pmc/articles/PMC12772951/figure/F2/
+number: Figure 2
+figure_title: Small RNA sequencing of formalin-fixed paraffin embedded human skin
+  biopsies reveals miRNA signatures for actinic keratosis and squamous cell carcinoma
+caption: A. Principal component analysis of micrRNA (miRNA) expression profiles across
+  all samples. Each point represents an individual sample, colored by experimental
+  group. Principal component analysis (PCA) reveals clustering based on disease status,
+  suggesting underlying group-specific miRNA expression patterns; B. Heatmap showing
+  log2FCs of differentially expressed miRNAs across experimental groups. Rows represent
+  comparisons against healthy controls (CTL) and columns represent miRNAs. Z-score
+  scaling was applied to highlight relative upregulation (red) and downregulation
+  (blue); C. Barplot of the top enriched Kyoto Encyclopedia of Genes and Genomes (KEGG)
+  pathways [false discovery rate (FDR) < 0.05] based on validated targets of differentially
+  expressed miRNAs. Pathways are ranked by statistical significance [−log10(FDR)];
+  D. Chord diagram showing connections between differentially expressed miRNAs and
+  significantly enriched KEGG pathways. Ribbons represent validated target gene overlap
+  between each miRNA and pathway. Only the top three pathway associations per miRNA
+  are shown; E. Network visualization of miRNA–messenger RNA (mRNA) interactions filtered
+  for validated targets overlapping with enriched KEGG pathways. miRNAs (blue nodes)
+  are connected to their downstream gene targets (green nodes). Only the top five
+  targets per miRNA are displayed
+article_title: Small RNA sequencing of formalin-fixed paraffin embedded human skin
+  biopsies reveals miRNA signatures for actinic keratosis and squamous cell carcinoma
+citation: Pawel Pazdrowski, et al. Rep Pract Oncol Radiother. 2025;30(5).
+year: '2025'
+pub_date: 2025--
+epub_date: '2025-10-31'
+doi: 10.5603/rpor.108279
+journal_title: Reports of Practical Oncology and Radiotherapy
+journal_nlm_ta: Rep Pract Oncol Radiother
+publisher_name: Via Medica sp. z o.o. sp. k.
+keywords:
+- miRNAs
+- epigenetics
+- cancer
+- skin
+- transcriptome
+- FFPE
+- sequencing
+---

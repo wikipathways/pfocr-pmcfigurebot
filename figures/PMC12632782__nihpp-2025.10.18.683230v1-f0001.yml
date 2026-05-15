@@ -1,0 +1,45 @@
+---
+figid: PMC12632782__nihpp-2025.10.18.683230v1-f0001
+pmcid: PMC12632782
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632782/figure/F1/
+number: Figure 1.
+figure_title: Nonlinear Spatial Integration Across αRGCs
+caption: '(A) Schematics for parallel rod signaling pathways. The primary pathway
+  (blue arrows) routes rod signals through rod bipolar cells and AII amacrine cells
+  to ganglion cells. The secondary pathway (pink arrows) utilizes rod-cone gap junctions,
+  allowing rod signals to flow through cone bipolar cells to ganglion cells. The tertiary
+  pathway (green arrows) directly connects rods to OFF cone bipolar cells, activating
+  OFF ganglion cells.(B) Spatial integration in Off-sustained (OffS) alpha retinal
+  ganglion cells. Top: Example spike responses to two image patches and their corresponding
+  equivalent discs. Bottom: Scatter plot for onset response, indicating preference
+  for spatially structured stimuli. Error bars represent SEM.(C) Spatial integration
+  in Off-transient (OffT) alpha retinal ganglion cells. Top: Example spike responses
+  to two image patches (black traces) and their corresponding linear-equivalent discs
+  (red traces) during stimulus presentation (blue shading). Bottom: Scatter plots
+  comparing spike counts for image patches versus equivalent discs for onset (left)
+  and offset (right) responses. Error bars represent SEM.(D) Onset response summary.
+  Left: Cumulative distribution of onset nonlinearity indices across all image-patch/disc
+  pairs for OffS (blue) and OffT (orange) cells. Note that OffT cells predominantly
+  show negative NLIs. Right: Summary of mean onset NLIs for individual cells (gray
+  circles) and population means+S.E.M. (red circles) for OffS and OffT types.(E) Offset
+  response summary. Left: offset responses normalized to the mean of onset responses,
+  comparing responses to linear-equivalent discs versus natural image patches for
+  all alpha RGC subtypes. This normalization reveals that OffT cells (orange) exhibit
+  substantially stronger offset responses relative to other cell types. Middle: Cumulative
+  distribution of offset nonlinearity indices for OffS and OffT cells. Right: summary
+  of mean offset NLIs for individual cells (gray circles) and population means (red
+  circles) for OffS and OffT types. Note: when offset response is <3 spikes for both
+  disc and image, the offset NLI is set to 0'
+article_title: Spatially-local inhibition and synaptic plasticity together enable
+  dynamic, context-dependent integration of parallel sensory pathways
+citation: Qiang Chen, et al. bioRxiv. 2025 Oct 19;45(5).
+year: '2025'
+pub_date: '2025-10-19'
+epub_date: '2025-10-19'
+doi: 10.1101/2025.10.18.683230
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

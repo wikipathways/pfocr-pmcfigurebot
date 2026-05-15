@@ -1,0 +1,27 @@
+---
+figid: PMC12633620__nihpp-2025.08.09.25333297v2-f0005
+pmcid: PMC12633620
+image_filename: jpg
+figure_link: /pmc/articles/PMC12633620/figure/F5/
+number: 'Figure 5:'
+figure_title: Application of BSNmani of oligodendrocyte cell type specific SEA-AD
+  MERFISH data
+caption: 'a-e) Heatmaps and pathway enrichment bubble plots for each of the five latent
+  co-expression subnetworks (q = 5) extracted by BSNMani from the oligodendrocyte
+  subset of single-cell spatial and expression data in the SEA-AD study. f) Network
+  visualization of key gene hubs and their connections across subnetworks (red edge:
+  activated; blue edge: suppressed). g) Heatmap integrating clinical covariates and
+  λ-subnetwork covariates, with individuals organized by dementia versus non-dementia
+  status'
+article_title: 'Linking spatial omics to patient phenotypes at the population scale
+  by BSNMani: Bayesian scalar-on-network regression with manifold learning'
+citation: Tong Liu, et al. medRxiv. 2025 Oct 20;NA(NA).
+year: '2025'
+pub_date: '2025-10-20'
+epub_date: '2025-10-20'
+doi: 10.1101/2025.08.09.25333297
+journal_title: medRxiv
+journal_nlm_ta: medRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

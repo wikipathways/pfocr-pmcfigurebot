@@ -1,0 +1,38 @@
+---
+figid: PMC12981656__nihms-2129196-f0003
+pmcid: PMC12981656
+image_filename: jpg
+figure_link: /pmc/articles/PMC12981656/figure/F3/
+number: Fig. 3.
+figure_title: Ordered transcripomics data form the scRNA-Seq data from Colon Cancer
+  sample of FFPE human specimen (adenocarcinoma stage IIA).
+caption: Ordered transcripomics data form the scRNA-Seq data from Colon Cancer sample
+  of FFPE human specimen (adenocarcinoma stage IIA). a) Typical cell type clustering
+  analysis of the data shows 6 cell types/custers. Figure panels (b) i) and ii) show
+  the GO-term enrichment of Cell Types 5 (yellow, ECM) and 2 (light blue, Goblet Cells)
+  respectively. (c) The heatmap’s dendrogram reflects the order reconstruction by
+  our algorithm using the gene programs from the colon cancer progression pathway
+  as defined by KEGG pathways database. Two top color bars show the Progression Groups
+  in the first/top color bar - 3 progression groups (orange, light blue and red) -
+  followed by cell type clusters (Cluster 1 to 7) in the second color bar of the heatmap.
+  (d) shows the composition of the identified progression groups and how they map
+  to the cell types identified in the upstream analysis, Cell Types 5 (yellow, ECM)
+  and 2 (light blue, Goblet Cells) are mostly found in the most activated progression
+  groups (groups 2 and 3)
+article_title: Inference of Tumor Progression Patterns in Colon Cancer Using Optimal
+  Cell Order Analysis in Single Cell Resolution
+citation: Marmar R. Moussa, et al. IEEE Trans Comput Biol Bioinform. 2025;22(6).
+year: '2025'
+pub_date: 2025--
+epub_date: 2025--
+doi: 10.1109/TCBBIO.2025.3592571
+journal_title: IEEE transactions on computational biology and bioinformatics
+journal_nlm_ta: IEEE Trans Comput Biol Bioinform
+publisher_name: .na.character
+keywords:
+- Bioinformatics
+- clustering algorithms
+- genomics
+- RNA
+- tumors
+---

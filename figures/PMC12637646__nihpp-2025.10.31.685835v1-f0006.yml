@@ -1,0 +1,55 @@
+---
+figid: PMC12637646__nihpp-2025.10.31.685835v1-f0006
+pmcid: PMC12637646
+image_filename: jpg
+figure_link: /pmc/articles/PMC12637646/figure/F6/
+number: Figure 6.
+figure_title: Tgfb activating cells are key determinants of the distinct response
+  of AJ and B6 to prenatal disruption of RA signaling
+caption: '(A) Tgfb pathway components expression across mesenchymal clusters. Tgfb2,
+  Tgfbr2, and Tgfbr3 enrichment in cluster 2 visualized by dot plots and violin plots.
+  In situ hybridization (ISH): Tgfbr3 signals at prospective sites of airway SM initiation
+  in distal mesenchyme (arrows).(B)Tgfbi identifies sites of Tgfb signaling activation
+  in distal mesenchymal progenitors during lung morphogenesis. Violin plot: Tgfbi
+  enrichment in clusters 2 and 7. Graph: Tgfbi expression in lung explants cultured
+  under control or SB431542 (SB4)-containing media for 48h. Marked downregulation
+  by disruption of endogenous Tgfb signaling. qPCR: mean + SE, Ctr (n=7), SB4 (n=8).
+  Panels: left: Tgfbi transcript distribution in distal E14.5 mesenchyme (RNAscope),
+  and phosphorylated Smad2–3 IF signals in the stalk mesenchyme associated with the
+  emergence of Sox2+ airway epithelial progenitors, where Tgfbi and other cluster
+  2 components are expressed, and the SM program initiates (see also Figure 4A).(C)
+  UMAP representation of the Tgfbi+ cell population in AJ and B6 control and BMS-exposed
+  lungs. The Tgfbi+ cell proportion differs between AJ and B6 controls, but remains
+  largely unchanged by BMS in both strains (FDR < 0.05 in permutation testing, n=10,000).
+  Violin Plot: Tgfbi expression in mesenchymal cells from all groups.(D) Differential
+  gene expression analysis of BMS vs Control Tgfbi+ cells from AJ and B6 lungs. Table
+  depicts top 40 of the 79 differentially upregulated genes in AJ contrasting with
+  only 3 genes upregulated in B6. Cluster 2 genes are highlighted in red.(E) Markers
+  of RA activation (Rarb and Cyp7b1) in Tgfbi+ cells showing downregulation by BMS
+  in AJ but not in B6 (padj <0.05).(F) Quantitative analysis of the Tgfbi+ cell proportion
+  in cluster 2 compared to all other clusters and effect of BMS. Highest Tgfbi expression
+  in cluster 2 and 7.(G) Graph depicting cluster 2-enriched genes among the DEGs upregulated
+  by BMS in Tgfbi+ cells of AJ lungs (adjusted p-value <0.05 and log2 Fold Change
+  > 0). Differences in gene expression in BMS vs control Tgfbi+ cells (log2fold change;
+  x-axis) against the log2(fold change) of genes selectively enriched in cluster 2
+  (y-axis). Genes carrying Smad2, Smad3, or Smad4 binding sites (marked in red) found
+  upregulated by BMS in Tgfbi+ cells from AJ lungs'
+article_title: Genetic background and transient prenatal disruption of vitamin A signaling
+  determine susceptibility to airway hyperresponsiveness in mice
+citation: Takehiro Otoshi, et al. bioRxiv. 2025 Nov 03;NA(NA).
+year: '2025'
+pub_date: '2025-11-03'
+epub_date: '2025-11-03'
+doi: 10.1101/2025.10.31.685835
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Lung development
+- maternal-fetal interactions
+- genetic background
+- vitamin A
+- retinoic acid
+- airway hyperresponsiveness
+- smooth muscle differentiation
+---

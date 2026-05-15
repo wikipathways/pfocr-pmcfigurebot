@@ -1,0 +1,42 @@
+---
+figid: PMC12626247__nihms-2120985-f0003
+pmcid: PMC12626247
+image_filename: jpg
+figure_link: /pmc/articles/PMC12626247/figure/F3/
+number: FIGURE 3 |
+figure_title: HPV+ TP53-WT HNSCC tumors exhibit higher gene methylation levels and
+  fewer chromosomal abnormalities compared to HPV+ TP53-mutant tumors.
+caption: 'HPV+ TP53-WT HNSCC tumors exhibit higher gene methylation levels and fewer
+  chromosomal abnormalities compared to HPV+ TP53-mutant tumors. (A) Differential
+  gene methylation is presented as log2 fold change (log2Ratio). In the volcano plot,
+  significantly differentially methylated genes are highlighted in light blue. Genes
+  with significantly higher methylation in TP53-WT tumors that were used for pathway
+  enrichment analysis (500 genes) are outlined in red, while those with significantly
+  higher methylation in TP53-mutant tumors used for pathway analysis are outlined
+  in blue (23 genes). Right panels display pathway enrichment analysis of differentially
+  methylated genes for each tumor type, based on the Gene Ontology Biological Process
+  (GOBP) dataset. (B) Normalized methylation levels (top row) and RNA-seq read counts
+  (RSEM) (bottom row) for MET, VHL, and PIK3R1 in HPV+ TP53-WT and HPV+ TP53-mutant
+  HNSCC tumors. (C) Chromosomal alterations (gains and losses) across specified loci.
+  The Y-axis represents the percentage of tumors with chromosomal alterations, while
+  the X-axis denotes the specific genomic loci analyzed. Summary results (all loci)
+  are shown to the right end of the plot (orange bars). Statistical significance is
+  indicated as follows: *p < 0.05, **p < 0.005, ***p < 0.0005, ****p < 0.00005, ns
+  = not significant. [Color figure can be viewed at wileyonlinelibrary.com]'
+article_title: Human Papilloma Virus Does Not Fully Inactivate p53 Cellular Activity
+  in HNSCC
+citation: Jovanka Gencel-Augusto, et al. Head Neck. 2026 Mar;48(3).
+year: '2026'
+pub_date: 2026-3-
+epub_date: '2025-10-30'
+doi: 10.1002/hed.70085
+journal_title: Head & neck
+journal_nlm_ta: Head Neck
+publisher_name: .na.character
+keywords:
+- HNSCC
+- HPV
+- p53
+- PI3K
+- tumor suppression
+---

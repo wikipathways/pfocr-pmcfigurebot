@@ -1,0 +1,51 @@
+---
+figid: PMC12632309__nihpp-2025.10.06.680429v1-f0002
+pmcid: PMC12632309
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632309/figure/F2/
+number: 'Figure 2:'
+figure_title: A validation dataset confirmed sexually dimorphic human islet responses
+  to proinflammatory cytokines
+caption: 'Human islets were treated with proinflammatory cytokines (PIC: IL1-β and
+  IFN-γ) and subjected to RNA-sequencing and proteomics. (A) Experimental design.
+  (B) Principal component analysis plot. (C) Volcano plot of differentially expressed
+  genes in male islets treated with PIC compared to vehicle. Labeled genes highlighted
+  in red. (D) Volcano plot of differentially expressed genes in female islets treated
+  with PIC compared to vehicle. Labeled genes highlighted in blue. (E) Shared and
+  unique differentially expressed genes identified in male and female islets treated
+  with and without PIC. (F) GSEA comparing PIC-treated male islets and PIC-treated
+  female islets. (G) GSEA of Hallmarks: Interferon Alpha Response (top panel) and
+  Hallmarks: WNT Beta Catenin Signaling (bottom panel). (H) Heatmaps depicting expression
+  of leading edge genes in PIC-treated male and female islets for Interferon Alpha
+  Response GSEA (left panel) and WNT Beta Catenin Signaling GSEA (right panel). (I)
+  GSEA of Hallmarks: Interferon Alpha Response (left panel) and Hallmarks: Epithelial-Mesenchymal
+  Transition (right panel) in β cells from Control, AAB+, and T1D cadaveric donors
+  from the Human Pancreas Analysis Program’s PancDB database. Control: non-diabetic
+  donors, N=15; AAB+: single and double autoantibody positive donors, N=10; T1D: donors
+  with T1D, N=9. (J) Shared and unique differentially abundant proteins (DAPs) identified
+  in male and female islets from the validation cohort treated with and without PIC.
+  (K) Venn diagram depicting overlap between differentially expressed genes and differentially
+  abundant proteins identified in response to PIC in islets from male and female donors.
+  (L) GO: Biological Pathways analysis of sex-specific differentially abundant proteins
+  in response to PIC. (M) Heatmaps of fold-change (log2) in protein abundance of proteins
+  in the Interferon Alpha Response (left panel) and Interferon Gamma Response pathways
+  (right panel) in response to PIC. Islets from human donors: N=10 males and N=10
+  females'
+article_title: Islet-intrinsic sex differences in inflammatory signaling contribute
+  to autoimmune diabetes susceptibility
+citation: Kierstin L. Webster, et al. bioRxiv. 2025 Oct 07;NA(NA).
+year: '2025'
+pub_date: '2025-10-07'
+epub_date: '2025-10-07'
+doi: 10.1101/2025.10.06.680429
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Sex differences
+- estradiol
+- type 1 diabetes
+- islet
+- inflammation
+- autoimmunity
+---

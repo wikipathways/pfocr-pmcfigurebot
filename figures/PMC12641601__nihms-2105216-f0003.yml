@@ -1,0 +1,56 @@
+---
+figid: PMC12641601__nihms-2105216-f0003
+pmcid: PMC12641601
+image_filename: jpg
+figure_link: /pmc/articles/PMC12641601/figure/F3/
+number: 'Figure 3:'
+figure_title: PTPN12-deficient cells are vulnerable to perturbation of mitotic regulators
+caption: (A) Volcano plot illustrating results of synthetic lethal screen to identify
+  PTPN12-selective growth modifiers. Combined PTPN12-selective growth effect (log2)
+  of each gene is plotted on the x-axis, and Fisher-transformed P value of each gene
+  is plotted on the y-axis. Genes with at least three significant shRNAs (P value
+  < 0.1 and abs(log2 FC) > 0.5) are colored red. The size of each point represents
+  the fraction of shRNAs targeting that gene that were significant. (B) PLK1 and BUB1
+  knockdown is PTPN12-synthetic lethal, while knockdown of multiple APC components
+  is PTPN12-synthetic beneficial. PTPN12-selective growth effect of two-independent
+  shRNAs from the genetic screen are plotted for each gene. shRNAs targeting PGK2,
+  a non-essential testis-specific isoform of phosphoglycerate kinase, are shown as
+  a negative control. (C) Network analysis of significant hits from the shRNA screen
+  and proteomics. Nodes represent genes that are both PTPN12-selective growth modifiers
+  and dysregulated in PTPN12-deficient PDX models, whereas edges indicate protein-protein
+  or text-mining interactions between these genes obtained from STRING22. The PTPN12-selective
+  growth effect of each gene is indicated by the color of the node border (blue =
+  lethal, red = beneficial), the difference in average protein abundance between PTPN12-normal
+  and -deficient models is indicated by the fill color of the node (blue = down in
+  PTPN12-deficient models, red = up in PTPN12-deficient models), and the size of each
+  node represents the betweenness centrality as calculated by Cytoscape60. A sub-network
+  of genes involved in mitotic regulation are indicated by a black box. (D) Comparison
+  of GSEA analysis of proteomic and genetic screen datasets showing enrichment of
+  cell cycle- and mitosis-related pathways in both datasets. Transformed enrichment
+  scores for gene sets in the genetic screen are plotted along the x-axis, whereas
+  scores in the proteomic analysis are plotted on the y-axis. Transformed enrichment
+  scores were calculated by taking the product of the log2[abs(NES)] and abs[log10(FDR)]
+  for a given pathway. Pathways with a transformed enrichment score > 8 are not plotted.
+  (E) REACTOME pathways related to regulation of cell-cycle progression and mitotic
+  checkpoint signaling are enriched in both the genetic screen and proteomic datasets.
+  The combined enrichment score of the top 20 mutually enriched pathways is plotted;
+  9 of the top 20 are related to cell cycle and mitotic regulation. Combined enrichment
+  scores were calculated by taking the sum of the transformed enrichment scores in
+  the genetic screen and proteomics from (D)
+article_title: Integrative proteogenomics and forward genetics reveals a novel mitotic
+  vulnerability in triple-negative breast cancer
+citation: Nicholas J. Neill, et al. Cancer Discov. 2025 Nov 03;15(11).
+year: '2025'
+pub_date: '2025-11-03'
+epub_date: '2025-11-03'
+doi: 10.1158/2159-8290.CD-23-1173
+journal_title: Cancer discovery
+journal_nlm_ta: Cancer Discov
+publisher_name: .na.character
+keywords:
+- proteogenomics
+- breast cancer
+- mitosis
+- taxane chemotherapy
+- PTPN12
+---

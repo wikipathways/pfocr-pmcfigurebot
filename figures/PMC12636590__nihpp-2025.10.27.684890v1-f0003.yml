@@ -1,0 +1,33 @@
+---
+figid: PMC12636590__nihpp-2025.10.27.684890v1-f0003
+pmcid: PMC12636590
+image_filename: jpg
+figure_link: /pmc/articles/PMC12636590/figure/F2/
+number: 'Figure 2:'
+figure_title: Gene regulatory changes associated with age.
+caption: Gene regulatory changes associated with age. (A) Volcano plot of genes that
+  are differentially (increasingly or decreasingly) targeted by transcription factors
+  (TFs) over varying age in normal thyroid tissue samples from GTEx. The x-axis represents
+  log fold change (logFC), defined as the change in gene in-degree with a unit change
+  in age. The y-axis represents negative logarithm of p-values (−log10(P.Value)).
+  (B) Boxplot of the t-statistics of the age coefficients associated with the oncogenes
+  and tumor suppressor genes (COSMIC database) from limma models in GTEx. Genes with
+  positive (and negative) values of t-statistics are targeted more (and less) by TFs
+  with age. (C) Bubble plot showing the normalized enrichment scores (NES) of biological
+  pathways that are significantly (false discovery rate-adjusted p-value < 0.05) increasingly
+  (marked red) or decreasingly (marked blue) targeted by TFs with age. NES are obtained
+  from ranked gene set enrichment analysis. The x-axis shows the adjusted p-values,
+  and the y axis shows the names of the pathways. Bubble size is proportional to the
+  number of genes in specific pathways
+article_title: 'Sex differences in thyroid aging and their implications in thyroid
+  disorders: insights from gene regulatory networks'
+citation: Enakshi Saha, et al. bioRxiv. 2025 Oct 28;NA(NA).
+year: '2025'
+pub_date: '2025-10-28'
+epub_date: '2025-10-28'
+doi: 10.1101/2025.10.27.684890
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

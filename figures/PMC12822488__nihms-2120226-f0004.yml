@@ -1,0 +1,49 @@
+---
+figid: PMC12822488__nihms-2120226-f0004
+pmcid: PMC12822488
+image_filename: jpg
+figure_link: /pmc/articles/PMC12822488/figure/F3/
+number: Figure 3.
+figure_title: Comparative analyses of single cell RNA-seq data of adult healthy vs.
+caption: 'Comparative analyses of single cell RNA-seq data of adult healthy vs. diseased
+  gingiva fibroblasts. (A) UMAP plot of single-cell RNA-seq samples including healthy
+  and periodontitis-affected gingival cells, colored according to cell types. Erythrocytes
+  and immune cells were excluded from the analyses. The number of cells analyzed was
+  as follows: Endothelial, 19,005. Fibroblasts, 14,241. Epithelial, 6,085. Pericytes,
+  4,198. Lymphatic endothelial, 1,194. (B) UMAP plot of healthy and periodontitis-affected
+  gingival cells, colored by health or disease state: healthy (blue) and periodontitis
+  (magenta). (C) Selected genes differentially expressed between healthy and periodontitis-affected
+  gingival cells. Genes were selected based on p-values (p <0.001) and high percentage
+  of cells expressing the given gene. (D) Inflammation-associated genes upregulated
+  in periodontitis-affected fibroblasts. (E) Expression of integrin pathway-related
+  genes upregulated in healthy or periodontitis-affected gingival fibroblasts. (F)
+  Ligand-receptor analyses without immune cells: Circos plot with gingival stromal
+  cells as senders of ligands and epithelial cells as receivers. Genes upregulated
+  in healthy gingiva are in blue, whereas genes upregulated in periodontitis are in
+  magenta. (G) Ligands-receptors upstream of genes differentially expressed between
+  healthy vs. diseased gingival epithelial cells. Ligands on the y-axis are predicted
+  to interact with the target genes listed along the x-axis. The interactions are
+  predicted to have biological effects accounting for the differences in gene expression
+  of healthy vs. diseased epithelial cells. (H) Circos plot with gingival fibroblasts
+  as receivers of ligands from non-fibroblasts. (I) Ligands-receptors upstream of
+  genes differentially expressed between healthy vs. diseased gingival fibroblasts.
+  Ligands on the y-axis are predicted to interact with the target genes listed along
+  the x-axis. The interactions are predicted to have biological effects accounting
+  for the differences in gene expression of healthy vs. diseased gingival fibroblasts'
+article_title: Single-cell RNA sequencing reveals genes relevant to periodontal therapy
+  and periodontitis
+citation: Rei Sekiguchi, et al. Physiol Genomics. 2025 Dec 01;57(12).
+year: '2025'
+pub_date: '2025-12-01'
+epub_date: '2025-10-27'
+doi: 10.1152/physiolgenomics.00002.2025
+journal_title: Physiological genomics
+journal_nlm_ta: Physiol Genomics
+publisher_name: .na.character
+keywords:
+- periodontal disease
+- chronic periodontitis
+- connective tissue
+- fibroblast
+- epithelium
+---

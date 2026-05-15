@@ -1,0 +1,34 @@
+---
+figid: PMC13084543__nihms-2160196-f0005
+pmcid: PMC13084543
+image_filename: jpg
+figure_link: /pmc/articles/PMC13084543/figure/F4/
+number: Figure 4.
+figure_title: snRNA-seq captures the full diversity of trophoblast cellular and transcriptional
+  profiles of rhesus macaque and human trophoblast organoids
+caption: '(A) UMAP of integrated datasets of rTO scRNA-seq and snRNA-seq (n = 32,093
+  total cells/nuclei). Single-cell dataset generated from four rTO samples (SC, left)
+  and single-nucleus generated from three rTO samples (SN, right).(B) Enrichment of
+  cell clusters in SC (left) and SN (right).(C) UMAP of rTO SN dataset (n = 20,177
+  nuclei) created from three unique rTO lines. Seven clusters were identified, and
+  cell types were indicated as follows: proliferative cytotrophoblasts (CTBp), CTBs,
+  invasive CTBs (iCTBs), and syncytiotrophoblasts (STBs).(D) Enrichment of cell clusters
+  in the rTO SN dataset depicted as a bar plot.(E) Dot plot depicting the expression
+  levels of trophoblast markers shown in each cluster. Key at right.(F) Dot plot of
+  rhesus CGBs and PSGs expression in each cluster. Key at right.(G) Dot plot of top
+  DEGs in STB clusters. Key at the bottom.(H) Dot plot of pathways from GO enrichment
+  in STB clusters. Key at right.(I and J) Bar plots illustrating average expression
+  of genes associated with positive regulation of cell secretion pathway (I) and Fc
+  receptor mediated stimulatory signaling pathway (J) in STB clusters'
+article_title: Comparative analysis of rhesus macaque and human placental organoids
+  highlights evolutionary differences in placentation
+citation: Allyson Caldwell, et al. Dev Cell. 2026 Feb 11;61(2).
+year: '2026'
+pub_date: 2026-2-11
+epub_date: '2025-10-30'
+doi: 10.1016/j.devcel.2025.10.002
+journal_title: Developmental cell
+journal_nlm_ta: Dev Cell
+publisher_name: .na.character
+keywords: []
+---

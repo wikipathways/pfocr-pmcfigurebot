@@ -1,0 +1,41 @@
+---
+figid: PMC12632602__nihpp-2025.10.08.681053v1-f0001
+pmcid: PMC12632602
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632602/figure/F1/
+number: Figure 1.
+figure_title: 'Loss of CYB5R3 altered endothelial Ca2+ signaling:'
+caption: 'A) RNAseq experimental design and siRNA knockdown efficacy (±SEM; n=3) with
+  pathway analysis of differentially expressed genes in siNT (NT) and siCYB5R3-treated
+  (R3KD) HAECs. B) Schematic describing the protocol used to study store-operated
+  Ca2+ entry (SOCE): (1) bathing the cell in Ca2+-free extracellular media (ECM),
+  (2) emptying the ER Ca2+ stores using Thapsigargin (Tg), (3) Ca2+ restoration to
+  the bath solution to trigger SOCE, (4) blocking SOCE with 5μM Gd3+. C) Time courses
+  (represented as mean [Ca2+]cyto (F340/F380 Ratio) (± S.E.M.) showing the changes
+  in [Ca2+]cyto during the SOCE protocol in NT (n=230) control and R3KD (n=176) HAECs.
+  D) Calculated baseline F340/F380 Ratio values of the individual traces. E) Individual
+  Δpeak [Ca2+]cyto values after Ca2+ re-addition to the ECM in NT and R3KD HAECs.
+  F) Exponential decay fits showing the y0 and b (time constant) after Gd3+-induced
+  inhibition of SOCE (calculated from the first 2 minutes of the inhibition). Statistics:
+  Differential expression was analyzed using DESeq2 (Wald test with Benjamini–Hochberg
+  FDR correction, FDR<0.05) ***p<0.0001. (A). Welch’s unpaired two-tailed t-test;
+  NT vs R3KD, (D) ns (p=0.45), (E) ****p<0.0001, (F) y0 ****p<0.0001, b (Time Constant)
+  *p=0.042'
+article_title: Endothelial CYB5R3 couples store-operated calcium entry to TRPV2 activation
+  and vascular fitness
+citation: Mate Katona, et al. bioRxiv. 2025 Oct 08;NA(NA).
+year: '2025'
+pub_date: '2025-10-08'
+epub_date: '2025-10-08'
+doi: 10.1101/2025.10.08.681053
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- CYB5R3
+- Calcium
+- endothelial
+- TRPV2
+- SOCE
+- PTPN1
+---

@@ -1,0 +1,33 @@
+---
+figid: PMC12707585__nihms-2117926-f0004
+pmcid: PMC12707585
+image_filename: jpg
+figure_link: /pmc/articles/PMC12707585/figure/F3/
+number: 'Figure 3:'
+figure_title: Peak enrichment analysis reveals regulation of atypical ECM genes under
+  FA-rich conditions
+caption: (A) Pathway enrichment analysis of differential peak-associated genes using
+  the Reactome database (Benjamini-Hochberg multiple testing correction and adjusted
+  p-value cutoff of 0.01). Note that pathways with more than three gene differences
+  between FA and vehicle are included. (B) Schematic depiction of the gene expression
+  assay using qRT-PCR. (C-D) mRNA abundance was determined using qRT-PCR. Data were
+  normalized to 18s and gene expression calculated using the 2−ΔΔCt method. Data are
+  presented as mean±SEM, n=3–6; *p<0.05, **p<0.01, ****p<0.0001 vs. respective groups
+  (as shown in the plots) as determined by one-way ANOVA with Tukey’s multiple comparisons
+  test
+article_title: 3D Biomechanics and Epigenomics Reveal Atypical Fibroblast Responses
+  in Cardiometabolic Disease
+citation: Somaya Y. Ibrahim, et al. Am J Physiol Heart Circ Physiol. 2025 Nov 01;329(5).
+year: '2025'
+pub_date: '2025-11-01'
+epub_date: '2025-10-10'
+doi: 10.1152/ajpheart.00602.2025
+journal_title: American journal of physiology. Heart and circulatory physiology
+journal_nlm_ta: Am J Physiol Heart Circ Physiol
+publisher_name: .na.character
+keywords:
+- 3D bioprinting
+- chromatin accessibility
+- ECM
+- human iPSCs
+---

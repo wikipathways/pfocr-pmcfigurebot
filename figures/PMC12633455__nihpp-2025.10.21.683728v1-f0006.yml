@@ -1,0 +1,50 @@
+---
+figid: PMC12633455__nihpp-2025.10.21.683728v1-f0006
+pmcid: PMC12633455
+image_filename: jpg
+figure_link: /pmc/articles/PMC12633455/figure/F6/
+number: Figure 6.
+figure_title: CFIm loss and CPSF3 inhibition together induce HDR defects and the BRCAness
+  phenotype
+caption: '(A) Heatmaps showing relative expression of core DDR genes from different
+  DDR pathways between DMSO treated (CFIm intact) and dTAGV-1 treated (CFIm loss)
+  dTAG-NUDT21 HCT116 cells in the presence of 10μM JTE-607 measured by RNA-seq from
+  4 independent experiments (n=4). (B) Radar plots showing relative enrichment of
+  different DDR pathways in dTAGV-1 treated (CFIm loss) dTAG-NUDT21 HCT116 cells in
+  the presence of 10μM JTE-607. (C) Bar graphs showing the expression of genes in
+  the FA and HDR pathways measured by RT-qPCR from the same experiments in (A) (n=4).
+  EZH2: negative control. (D) Bar graphs showing the relative number of live dTAG-NUDT21
+  HCT116 cells treated with 10μM Olaparib in combination with DMSO, dTAGV-1, DMSO
+  plus 1μM JTE-607 or dTAGV-1 pllus 1μM JTE-607 for 24 h from 4 independent experiments
+  (n=4). (E and F) Bar graphs showing the DNA repair efficiency of (E) the HDR pathway
+  and (F) the NHEJ pathway measured using reporters in dTAG-NUDT21 HCT116 cells receiving
+  either DMSO or dTAGV-1 plus 10μM JTE-607 from 4 independent experiments (n=4). VE-821,
+  an ATR inhibitor that inhibits HDR, serves as a positive control in (E) and a negative
+  control in (F). (G) Western blots showing elevated γH2AX abundance in dTAG-NUDT21
+  HCT116 cells treated with increasing concentrations of Olaparib (left panel) or
+  with 100nM mitomycin C (MMC) (right panel) in the presence of 1μM JTE-607 and dTAGV-1
+  for 24 h. Tubulin: loading control. (H) Illustrations summarizing the cellular effects
+  from CFIm loss. Error bars indicate SEM. Statistical significance is determined
+  by two-tailed t-test. NS: not significant, *: p<0.05, **: p<0.01'
+article_title: Loss of CFIm activates YAP/TAZ and connects mRNA cleavage and polyadenylation
+  inhibition to BRCAness
+citation: Madeleine Goldthorpe, et al. bioRxiv. 2025 Oct 21;NA(NA).
+year: '2025'
+pub_date: '2025-10-21'
+epub_date: '2025-10-21'
+doi: 10.1101/2025.10.21.683728
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- Alternative polyadenylation
+- cancer
+- YAP
+- TAZ
+- DNA damage
+- BRCAness
+- NUDT21
+- CPSF6
+- CFIm
+- LATS1/2
+---

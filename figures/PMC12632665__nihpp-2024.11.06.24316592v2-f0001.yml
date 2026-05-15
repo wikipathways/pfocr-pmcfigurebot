@@ -1,0 +1,43 @@
+---
+figid: PMC12632665__nihpp-2024.11.06.24316592v2-f0001
+pmcid: PMC12632665
+image_filename: jpg
+figure_link: /pmc/articles/PMC12632665/figure/F1/
+number: Figure 1.
+figure_title: Human lifespan DLPFC transcriptomic atlas
+caption: 'a, Study design illustrating age distribution and total nuclei profiled
+  across six age groups, grouped into four broad life stages: development (infancy,
+  childhood, adolescence), young adulthood, middle adulthood, and late adulthood.
+  The study is focussed on DLPFC region collected from 284 postmortem human control
+  donors and profiled using snRNA-seq. UMAP representation of the dataset colored
+  by eight classes and 27 defined subclasses. b, Overview of major data analysis conducted
+  in the study, including lifespan changes in cell composition, gene expression, lineage-specific
+  cellular dynamics, and age-related alterations in circadian rhythmicity. c, Stacked
+  barplot showing age-associated gene expression variance across four life stages,
+  with subclasses color-coded from beige to brown to indicate age groups. d, Stacked
+  barplot representing fraction of nuclei across six age groups, colored by subclass
+  level of taxonomy. e, Violin plot to show variance explained by age in nuclei abundance
+  separately for each life stage. f, Estimated effect size of age-associated changes
+  in nuclei counts across four age groups. * and # indicate nominal p-value < 0.05
+  and FDR < 0.05, respectively. g, RNAscope images showing IN_SST (green), OLIGO (red),
+  and DAPI nuclei (blue) at four representative ages (9 months, 38 years, 53 years,
+  and 86 years). White scale bars represent 20 μm. h, Counts of aDEGs colored by directionality,
+  where red indicates genes increasing with age (Up-aDEGs) and navy indicates genes
+  decreasing with age (Down-aDEGs), shown for development (top) and late adulthood
+  (bottom) life stages. i, Functional pathway analysis of Up (in red) and Down-aDEGs
+  (in navy) during development, highlighting subclasses significantly enriched for
+  GO biological processes with an adjusted p-value < 0.05. j, Association of Up and
+  Down-aDEGs with risk genes for a subset of brain related traits using MAGMA. * and
+  # indicate nominal p-value < 0.05 and FDR < 0.05'
+article_title: A lifespan transcriptomic atlas of the human prefrontal cortex at single-cell
+  resolution
+citation: Hui Yang, et al. medRxiv. 2025 Oct 06;NA(NA).
+year: '2025'
+pub_date: '2025-10-06'
+epub_date: '2025-10-06'
+doi: 10.1101/2024.11.06.24316592
+journal_title: medRxiv
+journal_nlm_ta: medRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

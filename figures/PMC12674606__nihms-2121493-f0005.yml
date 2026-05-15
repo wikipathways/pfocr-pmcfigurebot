@@ -1,0 +1,36 @@
+---
+figid: PMC12674606__nihms-2121493-f0005
+pmcid: PMC12674606
+image_filename: jpg
+figure_link: /pmc/articles/PMC12674606/figure/F5/
+number: Figure 5.
+figure_title: |-
+  NSCLC subtype-specific marker genes characterization by pathway analysis
+  and gene-drug-disease network studies.
+caption: |-
+  NSCLC subtype-specific marker genes characterization by pathway analysis
+  and gene-drug-disease network studies. A,B) GO pathway enrichment analysis of
+  marker genes for LUAD (A) and LUSC (B), as identified by RPSLearner, revealing
+  subtype-specific biological processes. Rich Factor represented the percentage of
+  genes in the specific GO terms that were identified as DEGs. C,D) Network
+  diagrams illustrated potential drugs repurposing for LUAD (A) and LUSC (B),
+  suggesting their possible application in cancer therapy. Red: Target gene, Blue:
+  Drug, Green: Disease
+article_title: |-
+  RPSLearner: A Novel Approach Based on Random Projection and Deep
+  Stacking Learning for Categorizing Non-Small Cell Lung Cancer
+citation: Xinchao Wu, et al. Adv Intell Syst. 2025 Oct 05;NA(NA).
+year: '2025'
+pub_date: '2025-10-05'
+epub_date: '2025-10-05'
+doi: 10.1002/aisy.202500635
+journal_title: Advanced intelligent systems (Weinheim an der Bergstrasse, Germany)
+journal_nlm_ta: Adv Intell Syst
+publisher_name: .na.character
+keywords:
+- lung cancer subtype prediction
+- machine learning
+- random projection
+- stacking learning
+- transcriptomics
+---
