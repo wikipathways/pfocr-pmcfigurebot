@@ -1,0 +1,35 @@
+---
+figid: PMC12784860__cancers-18-00052-g001
+pmcid: PMC12784860
+image_filename: jpg
+figure_link: /pmc/articles/PMC12784860/figure/F1/
+number: Figure 1
+figure_title: Study cohort selection and stratification workflow.
+caption: 'Study cohort selection and stratification workflow. RNA sequencing data
+  were obtained from the Chinese Glioma Genome Atlas (CGGA) (mRNAseq_693 and mRNAseq_325
+  cohorts), yielding 1018 glioma samples with complete transcriptomic data. Samples
+  were stratified first by sex (male, n = 601; female, n = 417). Four male and one
+  female sample were excluded due to unavailable tumor grade information (*). Remaining
+  cases were sorted by glioma grade: low-grade glioma (LGG, WHO Grade II) and high-grade
+  glioma (HGG, WHO Grade III-IV). Subgroups included male LGG (n = 78), male HGG (n
+  = 419), female LGG (n = 113), and female HGG (n = 303). HGG was further subdivided
+  into Grade III (male n = 184; female n = 150) and Grade IV (male n = 235; female
+  n = 153). These stratified groups were used for sex-specific differential expression
+  and pathway analyses'
+article_title: Integrative Transcriptomic and Perturbagen Analyses Reveal Sex-Specific
+  Molecular Signatures Across Glioma Subtypes
+citation: Madhu Vishnu Sankar Reddy Rami Reddy, et al. Cancers (Basel). 2026 Jan;18(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-24'
+doi: 10.3390/cancers18010052
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- glioblastoma
+- GBM
+- bioinformatics
+- drug identification
+- transcriptomics
+---

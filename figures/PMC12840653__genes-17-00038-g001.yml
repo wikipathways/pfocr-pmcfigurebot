@@ -1,0 +1,47 @@
+---
+figid: PMC12840653__genes-17-00038-g001
+pmcid: PMC12840653
+image_filename: jpg
+figure_link: /pmc/articles/PMC12840653/figure/F1/
+number: Figure 1
+figure_title: Identification of TNBC-Specific Gene Signatures and Pathway Enrichment
+  in Cancer Epithelial Cells.
+caption: Identification of TNBC-Specific Gene Signatures and Pathway Enrichment in
+  Cancer Epithelial Cells. (A) Bi-volcano plot comparing gene expression differences
+  between TNBC and other breast cancer subtypes (HER2+ and ER+) in cancer epithelial
+  cells, using single-cell RNA-sequencing (scRNA-seq) data from human primary breast
+  cancer tumors [6]. Each dot represents a gene; those upregulated in TNBC (log2FC
+  > 0.5, adjusted p < 0.05 in both comparisons) are colored red. The x-axis shows
+  average log2 fold change (log2FC) between TNBC and ER+ tumors, while the y-axis
+  shows log2FC between TNBC and HER2+ tumors. Genes in the upper right quadrant are
+  significantly upregulated in TNBC compared to both HER2+ and ER+ tumors, highlighting
+  TNBC-specific gene expression programs. In contrast, genes in the lower left quadrant
+  are significantly downregulated in TNBC compared to both HER2+ and ER+, indicating
+  genes specifically suppressed in TNBC. (B) Boxplot of SERPINB3 expression levels
+  in cancer epithelial cells across subtypes. TNBC exhibits significantly higher expression
+  compared to HER2+ and ER+ (t-test, p < 2.22 × 10−16) (C) Gene Ontology (GO) enrichment
+  of TNBC-upregulated genes, showing biological processes. Color indicates adjusted
+  p-value; dot size reflects gene count per term. (D) cnetplot of upregulated TNBC
+  gene sets and their pathway associations. Only pathways with an adjusted p-value
+  (FDR) < 0.05 were retained. (E) GO enrichment of TNBC-downregulated genes, highlighting
+  suppressed processes including autophagy and exocytosis. (F) cnetplot of TNBC-downregulated
+  genes showing network-level relationships among enriched pathways
+article_title: Multi-Modal Profiling Reveals SERPINB3-Driven Immune Evasion and Stromal
+  Immune Mimicry in Triple-Negative Breast Cancer
+citation: Zinab O. Doha, et al. Genes (Basel). 2026 Jan;17(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-31'
+doi: 10.3390/genes17010038
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- triple-negative breast cancer
+- tumor microenvironment
+- single-cell RNA sequencing
+- immune evasion
+- SER-PINB3
+- immune mimicry
+- multiplex tissue imaging
+---

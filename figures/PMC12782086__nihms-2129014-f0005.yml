@@ -1,0 +1,34 @@
+---
+figid: PMC12782086__nihms-2129014-f0005
+pmcid: PMC12782086
+image_filename: jpg
+figure_link: /pmc/articles/PMC12782086/figure/F4/
+number: Figure 4.
+figure_title: Force tunes protein synthesis to increase mitochondrial respiration
+  and restrict glycolysis
+caption: |-
+  Differentially expressed genes in the Ribosome pathway are labeled for (A) the 6 hr WSS dataset and (B) the HE from the Ncx1 dataset. The majority of significantly increased genes encode large (Mrpl) and small (Mrps) subunits of mitochondrial ribosomes. (C) Synthesis of nascent peptides was quantified by incorporation of the HPG methionine analog, followed by click-conjugation of fluorescent dye. (D) Methionine-free media containing HPG was applied for the last 3 hr of 18 hr static or WSS culture, after an initial 8-hr seeding period of E10.5 AGM. Cells were labeled with surface markers, fixed, and permeabilized, then azide was added via click labeling to prepare the samples for flow cytometry. Gates for HPG+ were established in comparison to samples that were not cultured with HPG. n=3, T-test, *p<0.05. (E) Mitochondrial or cytosolic ribosomes were inhibited during HPG incorporation by chloramphenicol (CAP) or anisomycin (ANS), respectively. (F) Peptide synthesis was quantified within singlets of the live gate. Dashed horizontal line indicates mean of HPG incorporation for AGM cells cultured under static conditions. Six independent experiments were conducted on different days. Aligned ranks transformation ANOVA with two-way factorial design, Force: p<2.22e-16, Compound: p<2.22e-16. (G) TOM20 protein abundance was measured as a surrogate for mitochondrial mass alongside HPG detection. Dashed horizontal line indicates mean of TOM20 under static conditions that received HPG. Aligned ranks transformation ANOVA, Force: p<2.22e-16, Compound: p<2.22e-16. (H) Seahorse assays of cultured E11.5 AGM show that inhibiting protein translation significantly diminishes the bioenergetic adaptations stimulated by 18 hr WSS. AGM were seeded for 8 hr prior to treatment with WSS. Vehicle static and vehicle WSS were compared directly. Static CAP and ANS cultures were compared to vehicle static. WSS CAP and ANS were compared to vehicle WSS. n=3 to 6 samples prepared across different days. Two-way ANOVA, Fisher’s LSD, *p<0.05, **p<0.01, ***p<0.001, ****p<0.0001. (I) Two reporters were used to determine the influence of the 5’ UTR of mRNAs on rates of protein synthesis. Translation of Renilla luciferase is under the control of the Eef2 5’ UTR, and translation of Firefly luciferase is independent of the 5’ UTR, instead relying on IRES-dependent initiation of translation, thereby serving as an internal control for efficiency of transfection and transcription. (J) Rotational rheometer-style flow devices with smooth cones were used to produce laminar flow (WSS), as presented throughout this study, while grooved cones generated disturbed flow (DF). (K)
+  Renilla luciferase luminescence was first normalized to Firefly luciferase, then relative luminescence was calculated as the ratio of normalized Renilla activity from the TOP reporter to the TOPm reporter. n=11 replicates generated across three different days. One-way ANOVA, Holm-Sidak, *p<0.05, ****p<0.0001
+article_title: Mechanometabolism instructs hematopoietic stem cell specification
+citation: Paulina D. Horton, et al. J Exp Med. 2026 Mar 02;223(3).
+year: '2026'
+pub_date: 2026-3-02
+epub_date: '2025-12-09'
+doi: 10.1084/jem.20250607
+journal_title: The Journal of experimental medicine
+journal_nlm_ta: J Exp Med
+publisher_name: .na.character
+keywords:
+- biomechanical force
+- blood flow
+- fate determination
+- hematopoietic stem cell
+- hemogenic endothelium
+- mechanometabolism
+- mitochondria
+- mTORC1
+- protein translation
+- ribosomes
+- 5’terminal polypyrimidine (TOP) motif
+- wall shear stress
+---

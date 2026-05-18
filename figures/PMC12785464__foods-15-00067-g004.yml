@@ -1,0 +1,40 @@
+---
+figid: PMC12785464__foods-15-00067-g004
+pmcid: PMC12785464
+image_filename: jpg
+figure_link: /pmc/articles/PMC12785464/figure/F4/
+number: Figure 4
+figure_title: Significant differential metabolites (SDMs) between Lushan Russet potato
+  tubers (LsM/LS) and Zhongshu 5 (Zs) samples.
+caption: 'Significant differential metabolites (SDMs) between Lushan Russet potato
+  tubers (LsM/LS) and Zhongshu 5 (Zs) samples. (A) Heatmap showing the relative abundance
+  of SDMs in LsM and Zs samples. Rows represent individual SDMs, and columns represent
+  samples (LsM1–LsM6, LS1–LS6, Zs1–Zs6); color intensity indicates the normalized
+  abundance of metabolites (blue to red represents low to high abundance), reflecting
+  the distinct accumulation patterns of SDMs between the two potato cultivars; (B)
+  Venn diagram of SDMs across the three pairwise comparisons (Zs_vs._LsM, LsM_vs._LS,
+  Zs_vs._LS) in positive (upper panel) and negative (lower panel) ion mode. The diagram
+  quantifies the overlap and uniqueness of SDMs: numbers in overlapping regions indicate
+  shared SDMs between comparisons, and non-overlapping regions represent SDMs specific
+  to a single comparison; (C–E), Machine learning predictions of the key SDMs between
+  LsM, LS, and Zs. Each panel lists the top 20 metabolites, color intensity indicating
+  relative abundance; (F–H) Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway
+  enrichment analysis of DAMs of LsM vs. LS vs. Zs (F), LsM vs. Zs (G), and LsM vs.
+  LS (H) comparisons. The x-axis represents -log10(p-value) (higher values = more
+  significant enrichment)'
+article_title: Integrative Analysis of Nutritional Components, Differential Metabolites,
+  and Endophytic Microbiota Reveals Flavor Determinants of Lushan Russet Potato
+citation: Libing Liao, et al. Foods. 2026 Jan;15(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-25'
+doi: 10.3390/foods15010067
+journal_title: Foods
+journal_nlm_ta: Foods
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- Lushan russet potato
+- nutritional compounds
+- metabolites
+- endophytic microbiome
+---

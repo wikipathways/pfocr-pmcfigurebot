@@ -1,0 +1,52 @@
+---
+figid: PMC12893110__jciinsight-11-198954-g201
+pmcid: PMC12893110
+image_filename: jpg
+figure_link: /pmc/articles/PMC12893110/figure/F7/
+number: Figure 7
+figure_title: Single-cell spatial analysis demonstrates distinct, cytokine-rich neighborhoods
+  near vasculature in SSc skin
+caption: '(A) Representative Xenium images of fibroblasts (orange), myeloid cells
+  (green), and endothelial cells (yellow). Fibroblasts express PDGF receptors; myeloid
+  cells were more likely to have PDGF ligand expression. PDGF receptors (PDGFR; orange
+  dots), all PDGF ligands (PDGFL; green dots); scale bars: 1,000 μm, 200 μm, and 200
+  μm (left to right); arrows: infiltrating myeloid cells near fibroblasts. (B) Neighborhood
+  enrichment analysis quantifies likelihood of spatial proximity between cell types;10
+  most common cell neighbors, disregarding self, shown in table; z scores indicate
+  strength of overrepresented neighbor (z score and P values from z test from randomized
+  cell spatial distribution). (C) Representative images with manually annotated vasculature
+  regions overlaid on histology sections and cellular density with region identification.
+  (D) Odds ratio calculations across all sections show in most sections, myeloid cells
+  more likely to be found in annotated vasculature regions. (E) Differential expression
+  analysis shows top 25 genes (sorted by LogFC, Wilcoxon’s rank-sum test, adjusted
+  P values < 0.05) overexpressed in vasculature regions compared with other sections.
+  Expected genes (e.g., EPAS1 and PECAM1) demonstrate specificity of endothelial cells
+  in these regions. Other genes of interest (e.g., CXCL12, TGFBR2, and CCL14) indicate
+  distinct proinflammatory environment. (F) GO term analysis indicates pathway-level
+  enrichment of key terms: cytokine-mediated signaling, cellular response to cytokine
+  stimulus, and regulation of immune response (sorted by adjusted P value, GSEA, permutation
+  test). (G) Immunofluorescence showing neighboring of CD163-positive cells and α-SMA–positive
+  cells in SSc skin compared with HC tissues. Images represent n = 2 for HC and n
+  = 3 for SSc. Scale bar: 20 μm. (H) Xenium overlay of selected sections. PECAM and
+  CDH5 pseudo-colored yellow to identify endothelial cells; CD163, MRC1, and C5AR1
+  are combined and pseudo-colored red to identify macrophages; and THY1 pseudo-colored
+  green to identify fibroblasts. H&E overview and inlay displayed alongside DAPI (blue)
+  counterstain overlay and inlay of same regions. Scale bars: 2,000 μm (overview)
+  and 200 μm (inlay)'
+article_title: Multimodal analyses of early, untreated systemic sclerosis skin identify
+  a proinflammatory vascular niche of macrophage-fibroblast signaling
+citation: Helen C. Jarnagin, et al. JCI Insight. 2025 Dec 18;11(3).
+year: '2025'
+pub_date: '2025-12-18'
+epub_date: '2025-12-18'
+doi: 10.1172/jci.insight.198954
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Autoimmunity
+- Dermatology
+- Fibrosis
+- Skin
+- Transcriptomics
+---

@@ -1,0 +1,46 @@
+---
+figid: PMC12969718__nihms-2148908-f0003
+pmcid: PMC12969718
+image_filename: jpg
+figure_link: /pmc/articles/PMC12969718/figure/F3/
+number: Figure 3.
+figure_title: TGF-β1 increases the RUNX1 expression in SSc fibroblasts and inhibition
+  of RUNX1 reduces ECM markers.
+caption: 'TGF-β1 increases the RUNX1 expression in SSc fibroblasts and inhibition
+  of RUNX1 reduces ECM markers. (A) Western blot of 3 isolated fibroblasts lines treated
+  with TGF-β1. The blot shows all isoforms of RUNX1a, b, and c that are overexpressed
+  under the TGF-β1 stimulation. (B) Schematic graph illustrating the timeline for
+  the culture and TGF-β1 treatment of dcSSc-isolated fibroblasts, matched healthy-isolated
+  fibroblasts, and normal human dermal (NHD) fibroblast cells. RUNX1 expression rate
+  in samples treated with TGF-β1 (in red) vs control (in blue) for the 24 hours after
+  exposure. (C) Volcano plot of differentially expressed analysis of the 2 SSc-isolated
+  fibroblast lines at 12 hours after exposure vs the baseline. (D) The pathway analysis
+  of Reactome gene sets shows the biological pathways and processes that are significantly
+  represented within top DEG genes of SSc-isolated fibroblast lines 12 hours after
+  TGF-β1 treatment vs the baseline. Data from B to D were obtained through publicly
+  available data of GSE12493. (E) Schematic graph showing 2 lines of SSc-isolated
+  fibroblasts treated with siRNA against RUNX1 (siRUNX1) and nontargeting control
+  siRNA (siNC). (F) UMAP projection and dot plot of RUNX1 and CBFB of the single-cell
+  RNA-seq data. (G) UMAP of 10 fibroblast clusters (0–9) for siR-UNX1 and siNC. (H)
+  Cell proportion of siRUNX1 and siNC per cluster. (I) Top 4 upregulated and downregulated
+  marker genes per cluster. (J) Top 15 enriched pathways that are significantly represented
+  across siRUNX1 and siNC (K) Bar plots showing the percentage of cells expressing
+  COL1A1, FN1, COL4A1, LUM, ACTA2, LGR5, COL8A1, COMP, and THBS1 per condition (red:
+  siRUNX1, green: siNC) or per cluster. (L) Module score for extracellular matrix
+  organisation pathway per cluster and per condition. (M) Feature plot of the ECM
+  module score. dcSSc, diffuse cutaneous SSc; DEG, differentially expressed gene;
+  ECM, extracellular matrix; RUNX1, runt-related transcription factor 1; siRUNX1,
+  siRNA targeting RUNX1; SSc, systemic sclerosis; TGF-β, transforming growth factor-β;
+  UMAP, uniform manifold approximation and projection'
+article_title: RUNX1 is expressed in a subpopulation of dermal fibroblasts and is
+  associated with disease severity of systemic sclerosis
+citation: Rezvan Parvizi, et al. Ann Rheum Dis. 2026 Mar;85(3).
+year: '2026'
+pub_date: 2026-3-
+epub_date: '2025-12-11'
+doi: 10.1016/j.ard.2025.10.033
+journal_title: Annals of the rheumatic diseases
+journal_nlm_ta: Ann Rheum Dis
+publisher_name: .na.character
+keywords: []
+---

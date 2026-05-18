@@ -1,0 +1,40 @@
+---
+figid: PMC12840653__genes-17-00038-g003
+pmcid: PMC12840653
+image_filename: jpg
+figure_link: /pmc/articles/PMC12840653/figure/F3/
+number: Figure 3
+figure_title: Ectopic Expression of Immunoglobulin Genes in Non-B Cells Reveals TNBC-Specific
+  Immune Mimicry Signatures.
+caption: Ectopic Expression of Immunoglobulin Genes in Non-B Cells Reveals TNBC-Specific
+  Immune Mimicry Signatures. (A) Bi-volcano plot showing differentially expressed
+  genes (DEGs) in plasmablasts comparing TNBC to ER+ (x-axis) and TNBC to HER2+ (y-axis).
+  Genes upregulated in TNBC compared to both subtypes are highlighted in red. (B)
+  Dot plot displaying enriched biological processes (GO:BP) associated with the top
+  TNBC-upregulated genes in plasmablasts. Color indicates adjusted p-value; dot size
+  reflects gene count per term. (C) Corresponding cnetplot visualizing the top enriched
+  pathways and their associated genes in plasmablasts. Only pathways with an adjusted
+  p-value (FDR) < 0.05 were retained. (D), Bi-volcano plot showing differentially
+  expressed genes (DEGs) in B-Cells comparing TNBC to ER+ (x-axis) and TNBC to HER2+
+  (y-axis). Genes upregulated in TNBC compared to both subtypes are highlighted in
+  red. (E) GO enrichment of upregulated DEGs, and (F) cnetplot showing enriched immunoglobulin-related
+  immune processes
+article_title: Multi-Modal Profiling Reveals SERPINB3-Driven Immune Evasion and Stromal
+  Immune Mimicry in Triple-Negative Breast Cancer
+citation: Zinab O. Doha, et al. Genes (Basel). 2026 Jan;17(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-31'
+doi: 10.3390/genes17010038
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- triple-negative breast cancer
+- tumor microenvironment
+- single-cell RNA sequencing
+- immune evasion
+- SER-PINB3
+- immune mimicry
+- multiplex tissue imaging
+---

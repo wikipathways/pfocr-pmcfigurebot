@@ -1,0 +1,31 @@
+---
+figid: PMC12795325__nihms-2131440-f0005
+pmcid: PMC12795325
+image_filename: jpg
+figure_link: /pmc/articles/PMC12795325/figure/F5/
+number: 'Figure 5:'
+figure_title: Chronic metabolic stress drives altered epigenetic trajectories and
+  WNT pathway priming
+caption: (A) Chromatin accessibility deviation of TF motifs across age and diet (N=13
+  mice, 48,010 hepatocytes). (B) Epigenetic gene activity trajectories of HFD hepatocytes
+  ordered by pseudotime progression. (C) Chromatin accessibility gene activity at
+  Hmgcs2 genomic locus log2(high-fat vs. control diet fold-change). (D) Coverage plot
+  of epigenetic accessibility at Axin2 gene locus across age and diet. (E) Accessibility
+  changes of gene-linked peaks at 6-month timepoint, between actual observed HFD-vs-CD
+  fold-changes (red) and GC-and-background-matched null distribution (gray). (F) Expression
+  changes of genes at 6-month HFD-vs-CD (red) or 15-month tumor-vs-adjacent-normal
+  (brown) comparisons. (G) MATCHA-inferred network of TFs predicted to regulate MASLD-relevant
+  gene programs. All p-values calculated using Mann-Whitney U test with Benjamini-Hochberg
+  correction; effect size quantified through Cohen’s D. See also Fig. S4–5 and Table
+  S2
+article_title: Hepatic adaptation to chronic metabolic stress primes tumorigenesis
+citation: Constantine N. Tzouanas, et al. Cell. 2026 Jan 22;189(2).
+year: '2026'
+pub_date: 2026-1-22
+epub_date: '2025-12-22'
+doi: 10.1016/j.cell.2025.11.031
+journal_title: Cell
+journal_nlm_ta: Cell
+publisher_name: .na.character
+keywords: []
+---

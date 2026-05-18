@@ -1,0 +1,40 @@
+---
+figid: PMC12840806__genes-17-00021-g002
+pmcid: PMC12840806
+image_filename: jpg
+figure_link: /pmc/articles/PMC12840806/figure/F2/
+number: Figure 2
+figure_title: Differential expression characteristics and functional enrichment analysis
+  of porcine mRNA before and after sexual maturity.
+caption: 'Differential expression characteristics and functional enrichment analysis
+  of porcine mRNA before and after sexual maturity. (A): Principal component analysis
+  (PCA) plot of transcripts from PSM and SM groups; (B): Volcano plot of differentially
+  expressed transcripts, green represents downregulation, purple represents upregulation,
+  and gray represents no significant difference; (C): Top 25 KEGG pathways enriched
+  by differentially expressed transcripts; (D): GO functional enrichment bubble plot
+  of differentially expressed transcripts, with functional classification including
+  cellular components, molecular functions, and biological processes; (E): KEGG pathway
+  association network diagram of differentially expressed transcripts, with nodes
+  representing pathways and node size corresponding to the number of enriched genes;
+  (F–J): GSEA enrichment analysis curves, showing the enrichment results of Notch
+  signaling pathway, Wnt signaling pathway, steroid hormone synthesis, antifolate
+  resistance, and cholesterol metabolism pathway in sequence (NES is the standardized
+  enrichment score, and the color corresponds to the score)'
+article_title: Nanopore Sequencing Technology Reveals the Transcriptional Expression
+  Characteristics of Male Pig’s Testes Before and After Sexual Maturity
+citation: Yiting Yang, et al. Genes (Basel). 2026 Jan;17(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-26'
+doi: 10.3390/genes17010021
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- nanopore sequencing
+- pig testis
+- sexual maturity
+- spermatogenesis
+- lncRNA
+- circRNA
+---

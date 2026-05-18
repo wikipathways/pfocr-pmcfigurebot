@@ -1,0 +1,44 @@
+---
+figid: PMC12893110__jciinsight-11-198954-g200
+pmcid: PMC12893110
+image_filename: jpg
+figure_link: /pmc/articles/PMC12893110/figure/F6/
+number: Figure 6
+figure_title: In vitro studies highlight the fibroblast PDGF response and demonstrate
+  the efficacy of PDGFR and PI3K inhibitors
+caption: (A) Experimental design of PDGF exposure to the SSc-isolated dermal fibroblasts.
+  (B) Box-and-whisker plots of enrichment scores for Hallmark PI3K/AKT/mTOR pathway.
+  Comparison to baseline shows a significant increase in GSVA score for most time
+  points, with the largest differences after 2 and 8 hours of PDGF exposure (Wilcoxon’s
+  rank-sum test, P value = 0.0091). The center line of the box plot indicates the
+  median value; the box spans the first and third quartiles; whiskers show the range,
+  excluding outliers. (C) GO term analysis of gene sets shows the molecular functions
+  overrepresented in fibroblast lines 8 hours after PDGF treatment versus the baseline.
+  Sorted by adjusted P value (GSEA, permutation test). (D) Experimental design of
+  dermal fibroblasts treated with wortmannin. (E) Volcano plot with differentially
+  expressed genes comparing 3,000 nM wortmannin treatment with DMSO-treated dermal
+  fibroblasts. The most downregulated and upregulated genes by LogFC and adjusted
+  P value are listed (Wald’s test). (F) Experimental design of 3D skin-like tissues
+  treated with nintedanib from GEO GSE289407. (G) Volcano plot with differentially
+  expressed genes comparing all nintedanib-treated tissues with control (vehicle-treated).
+  The top most downregulated and upregulated genes by LogFC and adjusted P value are
+  listed (Wald’s test). (H) Reactome gene sets enriched compared by sample of origin
+  and 3D skin-like tissue treatment. Only gene sets with significant differences by
+  ANOVA are displayed
+article_title: Multimodal analyses of early, untreated systemic sclerosis skin identify
+  a proinflammatory vascular niche of macrophage-fibroblast signaling
+citation: Helen C. Jarnagin, et al. JCI Insight. 2025 Dec 18;11(3).
+year: '2025'
+pub_date: '2025-12-18'
+epub_date: '2025-12-18'
+doi: 10.1172/jci.insight.198954
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Autoimmunity
+- Dermatology
+- Fibrosis
+- Skin
+- Transcriptomics
+---

@@ -1,0 +1,36 @@
+---
+figid: PMC12793829__or-55-02-09042-g01
+pmcid: PMC12793829
+image_filename: jpg
+figure_link: /pmc/articles/PMC12793829/figure/F2/
+number: Figure 2.
+figure_title: Disulfidptosis-regulated clusters and characteristics in cholangiocarcinoma.
+caption: Disulfidptosis-regulated clusters and characteristics in cholangiocarcinoma.
+  (A) Box plots of the top 20 differentially expressed DRGs in cholangiocarcinoma
+  vs. normal samples; (B) heatmap of 74 DRGs in cholangiocarcinoma; (C) correlation
+  matrix heatmap of the top 20 DRGs; (D) waterfall plot of mutations in 74 DRGs; (E)
+  CDF curves for consensus clustering (k=2-10); (F) consensus matrix heatmap at k=2;
+  (G) relative change in CDF Δ area for k values; (H) Kaplan-Meier survival curves
+  for two molecular subtypes (P=0.038; HR=1.81; 95% CI, 1.03–3.2); (I) Violin plots
+  of pathway enrichment score differences between subtypes. ***P<0.001, ****P<0.0001.
+  DRGs, disulfidptosis-related genes; CDF, cumulative distribution function; MutCount,
+  mutation count
+article_title: Exploring the role of disulfidptosis-related signatures in immune microenvironment,
+  prognosis and therapeutic strategies of cholangiocarcinoma
+citation: Yue Chen, et al. Oncol Rep. 2026 Feb;55(2).
+year: '2026'
+pub_date: 2026-2-
+epub_date: 2026-1-02
+doi: 10.3892/or.2026.9042
+journal_title: Oncology Reports
+journal_nlm_ta: Oncol Rep
+publisher_name: Spandidos Publications
+keywords:
+- disulfidptosis
+- cholangiocarcinoma
+- immune microenvironment
+- bioinformatics
+- prognosis signature
+- CD109
+- EFNB2
+---

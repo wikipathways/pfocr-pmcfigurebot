@@ -1,0 +1,39 @@
+---
+figid: PMC12825009__ijmsv23p0389g001
+pmcid: PMC12825009
+image_filename: jpg
+figure_link: /pmc/articles/PMC12825009/figure/F1/
+number: Figure 1
+figure_title: Identification of differentially expressed genes (DEGs) between RA and
+  HC.
+caption: 'Identification of differentially expressed genes (DEGs) between RA and HC.
+  (A, B) Volcano map and heatmap of DEGs. The top twenty significantly up-regulated
+  DEGs (logFC > 1 and adj.p-value < 0.05) were labeled in red, and the top twenty
+  significantly down-regulated DEGs (logFC < -1 and adj.p-value < 0.05) were labeled
+  in blue. The color degree of the heatmap grid represents the gene expression. (C,
+  D) GO and KEGG enrichment analysis of DEGs. GO ONTOLOGY displayed the top ten enrichment
+  items. The top twenty enriched KEGG pathways were displayed. (E) Venn diagram of
+  intersection of fatty acid metabolism-related (FAM-) genes and DEGs. (F) PPI network
+  of DEGs related to fatty acid metabolic pathway. (G) Calculation of Hub candidate
+  gene network based on CytoHubba method in Cytoscape. Node size represented connection
+  number (degree) and node color represented mediated number centrality (blue: low
+  mediated number centrality, red: high mediated number centrality)'
+article_title: Identification and Immune Landscape Analysis of Fatty Acid Metabolism-related
+  Genes Associated with Rheumatoid Arthritis
+citation: Zhongyang Zhou, et al. Int J Med Sci. 2026;23(2).
+year: '2026'
+pub_date: 2026--
+epub_date: 2026-1-1
+doi: 10.7150/ijms.121972
+journal_title: International Journal of Medical Sciences
+journal_nlm_ta: Int J Med Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- bioinformatic analysis
+- rheumatoid arthritis
+- synovial
+- fatty acid metabolism
+- PDK1
+- XBP1
+- ACACB
+---

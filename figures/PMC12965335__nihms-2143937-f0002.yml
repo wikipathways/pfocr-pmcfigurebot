@@ -1,0 +1,38 @@
+---
+figid: PMC12965335__nihms-2143937-f0002
+pmcid: PMC12965335
+image_filename: jpg
+figure_link: /pmc/articles/PMC12965335/figure/F2/
+number: Fig. 2.
+figure_title: A biophysically-realistic model predicts short-term synaptic depletion
+  (STSD) of hyper-direct pathway mediates the DBS local evoked potential (DLEP) time
+  dynamics observed empirically
+caption: A. STSD as described by the Tsodyks-Markram model includes the fraction of
+  synaptic resources readily available for release (x), the resources actively in
+  the synaptic cleft (y), and the inactive resources (z) in the process of being recycled
+  back into the readily available resources. This figure (left) was created with BioRender.com.
+  B. Sobol sensitivity analysis suggests hyperdirect pathway STSD is the most critical
+  synapse for recapitulating DLEP time dynamics. The error bars represent the 95 %
+  confidence intervals. C. Simulation-based inference suggests that there is a tight
+  combination of STSD parameters that recapitulate empirical DLEP dynamics. D. The
+  inclusion of STSD at the hyper-direct pathway synapses recapitulate the increasing
+  latency and decreasing amplitude of DLEPs observed empirically. E-G. The addition
+  of STSD at the STN projection to GPE (E), GPE projection to STN (F), and intrapallidal
+  projection (G) do not reproduce the DLEP time dynamics. Line and dot colors for
+  E-G follow the colorbar at the bottom of the figure
+article_title: Mechanisms mediating dynamic changes in neural responses during deep
+  brain stimulation
+citation: Jahrane A. Dale, et al. Brain Stimul. 2026;19(1).
+year: '2026'
+pub_date: 2026--
+epub_date: '2025-12-10'
+doi: 10.1016/j.brs.2025.103002
+journal_title: Brain stimulation
+journal_nlm_ta: Brain Stimul
+publisher_name: .na.character
+keywords:
+- Parkinson’s disease
+- Synaptic plasticity
+- Deep brain stimulation
+- Evoked potentials
+---

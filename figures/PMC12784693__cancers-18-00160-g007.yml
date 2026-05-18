@@ -1,0 +1,37 @@
+---
+figid: PMC12784693__cancers-18-00160-g007
+pmcid: PMC12784693
+image_filename: jpg
+figure_link: /pmc/articles/PMC12784693/figure/F7/
+number: Figure 7
+figure_title: Immune infiltration patterns and immune-regulatory gene landscapes across
+  NMRS risk groups.
+caption: Immune infiltration patterns and immune-regulatory gene landscapes across
+  NMRS risk groups. (A) Integrated heatmap illustrating multiple immune cell infiltration
+  signatures, immune-related functional pathways, and immune activity scores between
+  high- and low-NMRS-risk groups, derived using ssGSEA, GSVA, and additional immune-profiling
+  approaches. (B) Correlation of NMRS risk scores with ESTIMATE-derived stromal, immune,
+  ESTIMATE, and tumor purity indices, highlighting differences in tumor microenvironment
+  composition between the two risk groups. (C) Expression patterns of diverse immune-regulatory
+  gene categories—including immunostimulatory factors, immunosuppressive molecules,
+  chemokines, chemokine receptors, and antigen presentation-related genes—shown for
+  high- and low-NMRS groups
+article_title: Integrative Single-Cell and Machine Learning Analysis Identifies a
+  Nucleotide Metabolism-Related Signature Predicting Prognosis and Immunotherapy Response
+  in LUAD
+citation: Shuai Zhao, et al. Cancers (Basel). 2026 Jan;18(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: 2026-1-02
+doi: 10.3390/cancers18010160
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- LUAD
+- scRNA-seq
+- nucleotide
+- machine learning
+- immunotherapy
+- ENO1
+---

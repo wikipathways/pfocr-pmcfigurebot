@@ -1,0 +1,38 @@
+---
+figid: PMC12846730__thnov16p3426g007
+pmcid: PMC12846730
+image_filename: jpg
+figure_link: /pmc/articles/PMC12846730/figure/F7/
+number: Figure 7
+figure_title: Effect of paracancerous tissue (PT)-resident Prevotella on clinical
+  prognosis of NSCLC.
+caption: Effect of paracancerous tissue (PT)-resident Prevotella on clinical prognosis
+  of NSCLC. (A) Heatmap showing the distribution of clinical parameters across samples
+  and their association with the PT-resident Prevotella. (B) Kaplan-Meier curves show
+  a longer OS in the high PT-resident Prevotella group than in the low Prevotella
+  group in both LUAD and LUSC. Survival differences were assessed using the two-sided
+  log-rank test, with P < 0.05 considered statistically significant. (C) Forest plot
+  illustrating hazard ratios (HR) of PT-resident Prevotella and other clinical parameters
+  based on multivariable Cox regression analysis. (D) Volcano plot showing differential
+  gene expression between the Prevotella high- and low-abundance groups, as determined
+  by edgeR. Genes with P < 0.05 were considered significantly differentially expressed.
+  (E) Functional enrichment analysis of highly expressed genes in high abundance group
+  of Prevotella. (F) GSEA analysis showed that the inflammatory response pathway was
+  significantly enriched in the high abundance group of Prevotella
+article_title: Tumor microbiome-transcriptome crosstalk identifies Prevotella as an
+  immunotherapeutic predictor in NSCLC
+citation: Na Wang, et al. Theranostics. 2026;16(7).
+year: '2026'
+pub_date: 2026--
+epub_date: 2026-1-1
+doi: 10.7150/thno.126091
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+keywords:
+- NSCLC
+- microbiome
+- transcriptome
+- Prevotella
+- immunotherapy response
+---

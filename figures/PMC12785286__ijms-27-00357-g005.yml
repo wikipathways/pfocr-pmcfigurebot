@@ -1,0 +1,42 @@
+---
+figid: PMC12785286__ijms-27-00357-g005
+pmcid: PMC12785286
+image_filename: jpg
+figure_link: /pmc/articles/PMC12785286/figure/F5/
+number: Figure 5
+figure_title: A hierarchical therapeutic decision tree based on p53 functional status.
+caption: 'A hierarchical therapeutic decision tree based on p53 functional status.
+  (Level 1: Induction & Decision) Upon stress induction by chemotherapy or radiation,
+  the functional status of p53 (Wild-Type vs. Mutant/Null/MDM2 Overexpression) serves
+  as the critical binary switch determining cell fate. (Level 2: Phenotype & SASP)
+  Functional p53 drives a phenotype of stable growth arrest accompanied by an immunogenic
+  SASP (IFN-g, CXCLs), facilitating immune clearance by NK and T cells. Conversely,
+  dysfunctional p53 leads to genomic instability and a malignant SASP (IL-6, MMPs,
+  NF-kB-driven). This creates an immunosuppressive microenvironment by recruiting
+  MDSCs and Tregs, promoting tumor escape mechanisms such as polyploidy and stemness.
+  (Level 3: Strategic Therapeutic Mapping) Therapeutic interventions are tailored
+  to the specific senescence pathway. For p53-WT tumors, the strategy is to boost
+  the clearance using MDM2 inhibitors (e.g., Nutlin-3) to enhance p53 activity or
+  immunotherapy (PD-1/PD-L1 blockade) to accelerate elimination. For p53-Mutant tumors,
+  the strategy is to kill the escapers utilizing synthetic lethality (e.g., KDM4C
+  inhibitors/QC6352), a one-two punch senolytic approach (e.g., BCL-2/xL inhibitors/Navitoclax),
+  or ferroptosis inducers targeting metabolic vulnerabilities (SLC7A11 inhibition)'
+article_title: 'Therapy-Induced Senescence (TIS) and SASP: The p53-Mediated Interplay
+  in Cancer Progression and Treatment'
+citation: Chang Hoon Lee, et al. Int J Mol Sci. 2026 Jan;27(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-29'
+doi: 10.3390/ijms27010357
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- cellular senescence
+- p53
+- therapy-induced senescence (TIS)
+- senescence-associated secretory phenotype (SASP)
+- senolytics
+- senomorphics
+- cancer immunotherapy
+---

@@ -1,0 +1,43 @@
+---
+figid: PMC12784882__animals-16-00104-g008
+pmcid: PMC12784882
+image_filename: jpg
+figure_link: /pmc/articles/PMC12784882/figure/F8/
+number: Figure 8
+figure_title: Weighted Gene Co-Expression Network Analysis Reveals Functional Modules
+  and Hub Genes Associated with Immune Regulation in Lamb Liver.
+caption: 'Weighted Gene Co-Expression Network Analysis Reveals Functional Modules
+  and Hub Genes Associated with Immune Regulation in Lamb Liver. (A) Hierarchical
+  clustering dendrogram of all expressed genes. Each leaf represents a gene, and the
+  colored bar below the dendrogram (Module colors) indicates the identified co-expression
+  modules. (B) Module-trait relationship heatmap. Each row corresponds to a module
+  eigengene (ME), and each column corresponds to a trait (immune markers or experimental
+  group). In each cell, the top number represents the Pearson correlation coefficient
+  (r), and the bottom number in parentheses is the corresponding p-value. The color
+  scale on the right indicates correlation from strongly positive (red, r = 1) to
+  strongly negative (blue, r = −1). (C) GO enrichment analysis for the MEblue module.
+  The y-axis represents statistical significance as −log10 (p-value). Bars are color-coded
+  by GO category: Biological Process (red), Cellular Component (blue), and Molecular
+  Function (orange). (D) KEGG pathway enrichment analysis for the MEblue module. The
+  x-axis (Gene Ratio) represents the proportion of module genes annotated to each
+  pathway. Bubble size indicates the gene count, and bubble color represents the p-value,
+  with red indicating higher significance. (E) Network visualization of the top hub
+  genes within the MEblue module. Nodes represent genes, and the color gradient (red
+  to orange) reflects high connectivity (kME) within the module. * p-value < 0.05,
+  ** p-value < 0.01, *** p-value < 0.001'
+article_title: Immune-Modulatory Mechanism of Compound Yeast Culture in the Liver
+  of Weaned Lambs
+citation: Chenlu Li, et al. Animals (Basel). 2026 Jan;16(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-30'
+doi: 10.3390/ani16010104
+journal_title: 'Animals : an Open Access Journal from MDPI'
+journal_nlm_ta: Animals (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- compound yeast culture
+- weaned lambs
+- hepatic immune function
+- transcriptomics
+---

@@ -1,0 +1,31 @@
+---
+figid: PMC12784724__cancers-18-00018-g005
+pmcid: PMC12784724
+image_filename: jpg
+figure_link: /pmc/articles/PMC12784724/figure/F5/
+number: Figure 5
+figure_title: Gene Set Enrichment Analysis (GSEA) of the four immune subgroups.
+caption: Gene Set Enrichment Analysis (GSEA) of the four immune subgroups. (A–D) Hallmark
+  gene sets were analyzed with fgsea for (A) HotHigh, (B) HotLow, (C) ColdHigh, and
+  (D) ColdLow subgroups. Each plot shows the top five significantly enriched pathways
+  ranked by adjusted p-value. Dot color indicates the normalized enrichment score
+  (NES; blue = negative, red = positive), and dot size represents gene-set size
+article_title: 'Finding the True Responders: Stratifying dMMR/MSI-H Tumors for ICI
+  Response'
+citation: Nari Kim, et al. Cancers (Basel). 2026 Jan;18(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-19'
+doi: 10.3390/cancers18010018
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- dMMR
+- MSI-H
+- immune checkpoint inhibitors
+- immunogenomic stratification
+- biomarker
+- transcriptomic signature
+- precision immunotherapy
+---

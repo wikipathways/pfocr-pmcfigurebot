@@ -1,0 +1,44 @@
+---
+figid: PMC12867150__jci-136-196907-g127
+pmcid: PMC12867150
+image_filename: jpg
+figure_link: /pmc/articles/PMC12867150/figure/F5/
+number: Figure 5
+figure_title: EpA promotes Th9 effector function by binding and activating ZAP70 in
+  a MEK-ERK–dependent manner
+caption: (A) Identification and ranking of EpA-interacting proteins by affinity pulldown
+  and LC-MS/MS, ordered by in silico binding energy predictions. The line graph shows
+  proteins with binding energy scores of less than 0. (B) Predicted binding model
+  of EpA (pink) within the kinase domain of murine ZAP70 (blue), with hydrogen bonding
+  interactions shown as yellow dashed lines. (C and D) Cellular thermal shift assay
+  (CETSA) of ZAP70 in Jurkat cell lysates treated with control or EpA, showing representative
+  immunoblots (C) and quantification of normalized band intensities across the temperature
+  gradient (D). (E) Flow-cytometric analysis of phosphorylated ZAP70 in Th9 cells
+  10 minutes after TCR activation (mean ± SEM, n = 3). (F) Pathway enrichment analysis
+  of RNA-seq data showing MAPK/ERK-related pathways in EpA-treated Th9 cells. (G)
+  Immunoblot analysis of total and phosphorylated MEK1/2 and ERK1/2 in control and
+  EpA-treated Th9 cells. (H–L) Functional consequences of MEK or ERK inhibition in
+  EpA-treated Th9 cells. Flow-cytometric quantification of IL-9 (H), TNF-α (I), CD69
+  (J), PD-1 (K), and mitochondrial membrane potential measured by MitoTracker (L)
+  following treatment with EpA with or without MEK inhibitor (trametinib, 10 nM) or
+  ERK inhibitor (temuterkib, 100 nM). Data in H–K are shown as mean ± SEM (n = 5)
+  and in L as mean ± SEM (n = 3). Statistical significance was determined using 1-way
+  ANOVA followed by Tukey’s test (E, H–L). *P < 0.05, **P < 0.01, ***P < 0.001, ****P
+  < 0.0001
+article_title: A fungi-derived cyclic peptide enhances Th9-mediated antitumor immunity
+  by targeting ZAP70 and SREBP1
+citation: Wenli Zhao, et al. J Clin Invest. 2025 Dec 9;136(3).
+year: '2025'
+pub_date: 2025-12-9
+epub_date: 2025-12-9
+doi: 10.1172/JCI196907
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Immunology
+- Oncology
+- Cancer immunotherapy
+- Peptides
+- T cells
+---

@@ -1,0 +1,42 @@
+---
+figid: PMC12807465__jci-136-196495-g110
+pmcid: PMC12807465
+image_filename: jpg
+figure_link: /pmc/articles/PMC12807465/figure/F2/
+number: Figure 2
+figure_title: UGT2B17 regulates UPR in PCa cells
+caption: (A) LNCaP cells transfected with Flag-tagged control, UGT2B17, C1, or C2
+  constructs were subjected to co-IP with a Flag antibody, followed by MS analysis
+  (n = 4 repeats/co-IP plus MS). Proteins bound to Flag-UGT2B17, Flag-C1, and Flag-C2,
+  compared with Flag-control (with unique peptides > 3 and abundance > 100,000), were
+  analyzed using Metascape. The top ranked gene annotations were ranked by –log10(q
+  value) and plotted. (B) Selected proteins within the annotation groups from A are
+  listed. (C) Co-IP of Flag-tagged UGT2B17 or UGTm with proteins identified from A.
+  (D) LN95 and LN95(KO) cells were treated with increasing doses of TG and MG for
+  0–96 hours as indicated. Cell viability was measured by Incucyte and plotted over
+  control at day 0. (E) A diagram summarizes 3 UPR pathways and their downstream effectors.
+  (F) LNCaP95 and LN95(KO) cells were treated with increasing doses of TG for 24 hours,
+  and mRNA levels of UPR genes were measured by real-time qPCR. (G) LNCaP95 and LN95(KO)
+  cells were treated with increasing doses of TG for 24 hours, and protein levels
+  of PERK and EIF2a and their phosphorylated forms were measured by immunoblotting.
+  Densitometry of protein bands were quantified by ImageJ and normalized to that from
+  vehicle treatment conditions. Experiments in C, D, F, and G were performed 3 times
+  with similar results obtained. Data are shown as the mean ± SEM. Statistical tests
+  performed by 2-way ANOVA test. *P < 0.05, **P < 0.01, ***P < 0.001
+article_title: Noncanonical functions of UGT2B17 promote castration-resistant prostate
+  cancer progression
+citation: Tingting Feng, et al. J Clin Invest. 2025 Dec 4;136(2).
+year: '2025'
+pub_date: 2025-12-4
+epub_date: 2025-12-4
+doi: 10.1172/JCI196495
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Clinical Research
+- Oncology
+- Cell stress
+- Prostate cancer
+- Protein misfolding
+---

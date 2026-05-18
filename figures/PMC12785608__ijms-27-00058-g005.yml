@@ -1,0 +1,40 @@
+---
+figid: PMC12785608__ijms-27-00058-g005
+pmcid: PMC12785608
+image_filename: jpg
+figure_link: /pmc/articles/PMC12785608/figure/F5/
+number: Figure 5
+figure_title: Ivy GAP anatomy shows MS4A6A enrichment in vascular niches of GBM and
+  nominates pathway-targeted vulnerabilities.
+caption: 'Ivy GAP anatomy shows MS4A6A enrichment in vascular niches of GBM and nominates
+  pathway-targeted vulnerabilities. (A) Principal Component Analysis (PCA) of Ivy
+  GAP micro-dissected GBM regions (PC1 = 27.2%, PC2 = 17.3%). Samples are annotated
+  by anatomic compartment: CT (Cellular Tumor), CT.hbv (CT—Hyperplastic Blood Vessels),
+  CT.mvp (CT—Microvascular Proliferation), CT.pan (CT—Pseudopalisading cells around
+  Necrosis), CT.pnz (CT—Peri-necrotic Zone), IT (Infiltrating Tumor), and LE (Leading
+  Edge). Reproduced from ref. [16], Cancers 2025, 17(19), 3271; https://doi.org/10.3390/cancers17193271
+  (Figure 5F). (B) MS4A6A is highly expressed in CT.mvp and CT.hbv, which indicates
+  that MS4A6A preferentially marks angiogenic/perivascular microenvironments in GBM.
+  (C) Predicted drug sensitivity profiles (OncoPredict) for patients stratified by
+  the MS4A6A-based risk group (HighRisk = MS4A6A-high; LowRisk = MS4A6A-low). The
+  y-axis represents the predicted IC50, with lower values indicating greater sensitivity.
+  The HighRisk group shows significantly lower predicted IC50 for AZD8055 (mTORC1/2
+  inhibitor), SCH772984 (ERK1/2 inhibitor), and Ribociclib (CDK4/6 inhibitor), highlighted
+  with boxed annotations'
+article_title: The Myeloid Biomarker MS4A6A Drives an Immunosuppressive Microenvironment
+  in Glioblastoma via Activation of the PGE2 Signaling Axis
+citation: Jianan Chen, et al. Int J Mol Sci. 2026 Jan;27(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-20'
+doi: 10.3390/ijms27010058
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- Glioblastoma
+- tumor-associated macrophages
+- MS4A6A
+- single-cell transcriptomics
+- immunosuppressive tumor microenvironment
+---

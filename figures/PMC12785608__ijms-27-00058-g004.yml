@@ -1,0 +1,53 @@
+---
+figid: PMC12785608__ijms-27-00058-g004
+pmcid: PMC12785608
+image_filename: jpg
+figure_link: /pmc/articles/PMC12785608/figure/F4/
+number: Figure 4
+figure_title: T-cell atlas and CellChat comparison of MS4A6A-high vs.
+caption: T-cell atlas and CellChat comparison of MS4A6A-high vs. MS4A6A-low TAMs reveal
+  strengthened myeloid–T-cell communications. (A) Heatmap of canonical marker genes
+  used to define major T-cell states in the single-cell RNA-seq dataset. (B) UMAP
+  visualization showing seven T-cell states, including Activated, CD4, CD8, Proliferating,
+  NK-like, and Regulatory (Treg) cells. (C) Distribution of MS4A6A expression in TAMs.
+  The dashed line marks the median expression level used to stratify TAMs into MS4A6A-high
+  and MS4A6A-low groups. (D) Summary of CellChat analysis comparing interactions between
+  T cells and TAMs under MS4A6A-high and MS4A6A-low conditions. Both the total number
+  of interactions (3903 vs. 3005) and overall interaction strength (158.3 vs. 118.4)
+  were higher in the MS4A6A-high group. (E) Differential interaction network (circle
+  plot) between T-cell states and TAM states comparing MS4A6A-high vs. MS4A6A-low
+  groups. Red and blue edges denote interactions increased (red) or decreased (blue)
+  in the MS4A6A-high group, respectively. The increases are concentrated between MS4A6A-high
+  TAM states and CD4 T cells and Treg. (F) Heatmap of weight-based pathway activity
+  illustrating the relative strength of ligand–receptor signaling between TAM subtypes
+  and T-cell populations in the MS4A6A-high condition. Warmer colors represent higher
+  signaling weights. Regulatory-, Phago/AP-, and IFN-TAMs emerge as major signal senders,
+  whereas CD4 T cells and Treg act as dominant receivers. (G) Volcano plot showing
+  differential ligand–receptor (L–R) interactions between MS4A6A-high and MS4A6A-low
+  TAM groups. Notably upregulated interactions include PGE2–PTGES2–PTGER2/PTGER4,
+  PECAM1–CD38, and THBS1–CD36, whereas downregulated pairs such as FN1–(ITGA4/ITGB1)
+  and LT4–LTC4S are enriched in the MS4A6A-low condition. (H–K) Network centrality
+  analyses highlighting key signaling pathways upregulated in MS4A6A-high TAM–T-cell
+  communication. (H) MPZ signaling exhibits strong interactions in Regulatory-, Phago/AP-,
+  Proliferation-, and Transitory-TAMs. (I) Prostaglandin (PGE2) signaling is broadly
+  distributed, with Proliferating T cells, IFN-, Proliferation-TAMs serving as major
+  senders, and CD4 T cells as primary receivers. (J) PECAM1 signaling displays high
+  centrality in IFN-TAMs and Chemo-TAMs. (K) THBS (Thrombospondin) signaling is mainly
+  mediated by Chemo-TAMs as senders and Proliferating T cells as receivers
+article_title: The Myeloid Biomarker MS4A6A Drives an Immunosuppressive Microenvironment
+  in Glioblastoma via Activation of the PGE2 Signaling Axis
+citation: Jianan Chen, et al. Int J Mol Sci. 2026 Jan;27(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-20'
+doi: 10.3390/ijms27010058
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- Glioblastoma
+- tumor-associated macrophages
+- MS4A6A
+- single-cell transcriptomics
+- immunosuppressive tumor microenvironment
+---

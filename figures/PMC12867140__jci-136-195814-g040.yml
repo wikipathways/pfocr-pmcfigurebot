@@ -1,0 +1,42 @@
+---
+figid: PMC12867140__jci-136-195814-g040
+pmcid: PMC12867140
+image_filename: jpg
+figure_link: /pmc/articles/PMC12867140/figure/F3/
+number: Figure 3
+figure_title: Loss of HDAC5 upregulates MAPK signaling via c-Myc
+caption: (A) Venn diagram showing the overlap of genes upregulated in KPCHdac5-KO
+  mice (n = 5 per genotype; log2[fold-change] > 1, P < 0.05, 2,410 genes) identified
+  via RNA-Seq and genes upregulated in shHDAC5-treated PANC-1 cells (n = 3 per condition;
+  log2[fold-change] > 1, P < 0.05, 2,683 genes), revealing a shared subset of 378
+  genes. (B) Bar graph showing the top 10 enriched transcription factors from transcription
+  factor analysis of 378 genes in A using Enrichr. ATF2, activating transcription
+  factor 2. (C) Dual-luciferase reporter assays were performed to assess the transcriptional
+  activity of c-Myc in HDAC5-depleted PANC-1 and AsPC-1 cells. Data are presented
+  as mean ± SD (n = 5). Statistical significance was determined by 1-way ANOVA followed
+  by Dunnett’s multiple comparisons test. ***P < 0.001. (D) Heatmap of MYC ChIP-Seq
+  signal intensity (±3 kb around MYC binding sites) in control vs. HDAC5-knockdown
+  PANC-1 cells. (E) The average ChIP signal of MYC centered at transcription start
+  site (±3 kb) in indicated groups. (F) Venn diagram depicting the overlap between
+  genes with enhanced MYC promoter occupancy after shHDAC5 knockdown, as identified
+  by ChIP-Seq, and genes upregulated in PANC-1 cells following shHDAC5 knockdown,
+  as determined by RNA-Seq. P = 6 × 10–71. (G) KEGG pathway enrichment analysis of
+  821 intersecting genes in F. (H and I) Western blot analysis of canonical MAPK pathway
+  protein expression under indicated conditions
+article_title: HDAC5 deficiency induces intrinsic resistance to KRAS inhibition by
+  disrupting c-Myc acetylation-ubiquitination homeostasis
+citation: Taoyu Chen, et al. J Clin Invest. 2025 Dec 11;136(3).
+year: '2025'
+pub_date: '2025-12-11'
+epub_date: '2025-12-11'
+doi: 10.1172/JCI195814
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Cell biology
+- Oncology
+- Cancer
+- Drug therapy
+- Epigenetics
+---

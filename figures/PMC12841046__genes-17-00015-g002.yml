@@ -1,0 +1,29 @@
+---
+figid: PMC12841046__genes-17-00015-g002
+pmcid: PMC12841046
+image_filename: jpg
+figure_link: /pmc/articles/PMC12841046/figure/F2/
+number: Figure 2
+figure_title: Functional enrichment analysis of DEGs.
+caption: Functional enrichment analysis of DEGs. (A) GO enrichment analysis results
+  for BP, CC, and MF categories. The top 10 significantly enriched terms (based on
+  false discovery rate, FDR) per category are shown. (B) GSEA for inflammation-related
+  GO pathways. (C) KEGG pathway enrichment analysis. The top 10 significantly enriched
+  pathways (FDR < 0.05) are displayed
+article_title: Transcriptome Profiling of the Anterior Cingulate Cortex in a CFA-Induced
+  Inflammatory Pain Model Identifies ECM-Related Genes in a Model of Rheumatoid Arthritis
+citation: Guang-Xin Xie, et al. Genes (Basel). 2026 Jan;17(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-25'
+doi: 10.3390/genes17010015
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- CFA
+- whole transcriptome
+- rheumatoid arthritis
+- random forest
+- hub genes
+---

@@ -1,0 +1,40 @@
+---
+figid: PMC12785128__cells-15-00029-g004
+pmcid: PMC12785128
+image_filename: jpg
+figure_link: /pmc/articles/PMC12785128/figure/F4/
+number: Figure 4
+figure_title: TIMP1 stimulation reprograms liver macrophage gene expression.
+caption: 'TIMP1 stimulation reprograms liver macrophage gene expression. (A) Schematic
+  of the experimental design: Liver macrophages isolated from BALB/c mice were treated
+  with recombinant TIMP1 (rTIMP1, 100 ng/mL) for 48 h, followed by RNA sequencing.
+  (B) Volcano plot showing differentially expressed genes between rTIMP1-treated and
+  control macrophages (fold change > 1.5, adjusted p < 0.05). Red: upregulated genes
+  (n = 308); green: downregulated genes (n = 230); gray: non-significant. Selected
+  genes are labeled. (C) qPCR validation of representative genes in RAW264.7 and THP-1-derived
+  macrophages treated with rTIMP1 or vehicle (PBS). Data represent mean ± SEM (n =
+  3). *** p < 0.001, unpaired two-tailed Student’s t-test. (D) Heatmap showing hierarchical
+  clustering of differentially expressed genes in rTIMP1-treated and control groups.
+  (E) Gene Ontology (GO) enrichment analysis of upregulated (red) and downregulated
+  (green) genes in the categories of molecular function, cellular component, and biological
+  process. (F) KEGG pathway enrichment analysis of differentially expressed genes.
+  Size of the bubbles represents gene count; color indicates adjusted p-value. Key
+  pathways including PI3K-Akt, cytokine–cytokine receptor interaction, and JAK-STAT
+  signaling are enriched in the rTIMP1-treated group'
+article_title: Integrin-Mediated TIMP1 Signaling Reprograms Liver Macrophages and
+  Accelerates Colorectal Cancer Metastasis
+citation: Jialiang Liu, et al. Cells. 2026 Jan;15(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-23'
+doi: 10.3390/cells15010029
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- colorectal cancer
+- liver metastasis
+- TIMP1
+- M2 macrophage polarization
+- pre-metastatic niche
+---

@@ -1,0 +1,32 @@
+---
+figid: PMC12841334__genes-17-00028-g001
+pmcid: PMC12841334
+image_filename: jpg
+figure_link: /pmc/articles/PMC12841334/figure/F1/
+number: Figure 1
+figure_title: Scientific data analysis pipeline used in this study.
+caption: Scientific data analysis pipeline used in this study. Overview of the end-to-end
+  workflow starting from GEO dataset acquisition (GSE8157), followed by preprocessing/quality
+  control, differential expression analysis with pathway interrogation (IPA), machine-learning
+  (ML) classification, gene-network construction, and final integration into a unified
+  analytical framework
+article_title: Integrative Machine Learning and Network Analysis of Skeletal Muscle
+  Transcriptomes Identifies Candidate Pioglitazone-Responsive Biomarkers in Polycystic
+  Ovary Syndrome
+citation: Ahmad Al Athamneh, et al. Genes (Basel). 2026 Jan;17(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-29'
+doi: 10.3390/genes17010028
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- polycystic ovary syndrome
+- skeletal muscle
+- gene expression profiling
+- machine learning
+- co-expression networks
+- pioglitazone
+- biomarkers
+---

@@ -1,0 +1,57 @@
+---
+figid: PMC12785335__ijms-27-00279-g007
+pmcid: PMC12785335
+image_filename: jpg
+figure_link: /pmc/articles/PMC12785335/figure/F7/
+number: Figure 7
+figure_title: 'Multi-omics integration identifies TNFRSF1A as a causal mediator of
+  DKD and validates findings in a zebrafish model: (A) Circular heatmap displaying
+  p-values of MR-identified plasma proteins associated with DKD risk.'
+caption: 'Multi-omics integration identifies TNFRSF1A as a causal mediator of DKD
+  and validates findings in a zebrafish model: (A) Circular heatmap displaying p-values
+  of MR-identified plasma proteins associated with DKD risk. Each ring represents
+  a method. Color scale denotes statistical significance. (B) Gene Ontology (GO) enrichment
+  analysis of significant genes identified from the MR. The bar plot shows enriched
+  GO terms across three categories: Biological Process (BP), Cellular Component (CC),
+  and Molecular Function (MF). The x-axis represents gene ratio, and color indicates
+  adjusted p-value. (C) KEGG pathway enrichment analysis of hub genes. The bubble
+  plot displays significantly enriched KEGG pathways, with bubble size indicating
+  the number of genes involved and color representing adjusted p-value (D) Hub protein
+  network centered on TNFRSF1A. TNFRSF1A emerges as a central protein with extensive
+  connections to inflammatory mediators including IL1RL1, TNFRSF1B, and ANGPT1. (E)
+  Representative brightfield and fluorescence microscopy images comparing control
+  morpholino oligonucleotide (CoMo)-injected and pdx1 knockdown (pdx1 KD) zebrafish
+  larvae at 2 days post-fertilization (dpf). Fluorescent transgenic markers (cdh17:GFP,
+  wt1b:GFP) label proximal tubules and podocytes, respectively. pdx1 KD larvae exhibit
+  yolk retention (blue arrow), shortened neck segments (yellow arrows), and dilated
+  glomeruli (red arrow), recapitulating previously described phenotypes [18]. Representative
+  images were selected from three independent biological replicates (n = 3), with
+  50–60 larvae examined per group in each replicate. The described phenotypes were
+  consistently observed across all replicates. Scale bar = 200 μm. (F,G) Quantification
+  of TNFRSF1A mRNA expression in CoMo and pdx1 KD larvae by RT-PCR. For each biological
+  replicate, 45–50 embryos were pooled. Three biological replicates (n = 3) were performed.
+  Relative expression levels normalized to ef1a show significant upregulation of TNFRSF1A
+  in pdx1 KD larvae. (H) Quantification of TNFRSF1A mRNA expression in CoMo and pdx1
+  KD larvae by qPCR (2−ΔΔCt method). Each group included three biological replicates
+  (n = 3), and each biological replicate was measured in duplicate (two technical
+  replicates), resulting in six data points per group'
+article_title: Multi-Omics Integration Identifies TNFRSF1A as a Causal Mediator of
+  Immune Microenvironment Reprogramming in Diabetic Kidney Disease
+citation: Wanqiu Xie, et al. Int J Mol Sci. 2026 Jan;27(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-26'
+doi: 10.3390/ijms27010279
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- diabetic kidney disease
+- TNFRSF1A
+- single-cell transcriptomics
+- Mendelian randomization
+- immune microenvironment
+- zebrafish model
+- inflammation
+- NF-κB signaling
+---

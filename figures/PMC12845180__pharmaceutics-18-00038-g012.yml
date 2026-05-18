@@ -1,0 +1,35 @@
+---
+figid: PMC12845180__pharmaceutics-18-00038-g012
+pmcid: PMC12845180
+image_filename: jpg
+figure_link: /pmc/articles/PMC12845180/figure/F12/
+number: Figure 12
+figure_title: Bioinformatic enrichment analysis of Sitagliptin and Doxorubicin targets.
+caption: Bioinformatic enrichment analysis of Sitagliptin and Doxorubicin targets.
+  (A) GO Biological Process enrichment of shared Sitagliptin–Doxorubicin target genes,
+  demonstrating significant enrichment in apoptosis, cell migration, invasion, and
+  oxidative stress processes. Dot size represents the number of genes associated with
+  each term, and the x-axis indicates −log10(p-value). (B) KEGG pathway enrichment
+  analysis showing PI3K/Akt, MAPK, and ECM–receptor interaction as major pathways
+  regulated by both drugs. Dot size corresponds to gene count within each pathway.
+  These analyses support that Sitagliptin and Doxorubicin synergistically modulate
+  key signaling networks involved in proliferation, survival, and metastasis. In both
+  panels (A,B), the x-axis represents the −log10-transformed p-values, where higher
+  values indicate greater statistical significance
+article_title: Sitagliptin Potentiates the Anticancer Activity of Doxorubicin Through
+  ROS-Driven Apoptosis and MMP/TIMP Regulation in HeLa Cells
+citation: Aşkın Evren Güler, et al. Pharmaceutics. 2026 Jan;18(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-26'
+doi: 10.3390/pharmaceutics18010038
+journal_title: Pharmaceutics
+journal_nlm_ta: Pharmaceutics
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- sitagliptin
+- doxorubicin
+- cervical cancer
+- apoptosis
+- PI3K/Akt pathway
+---

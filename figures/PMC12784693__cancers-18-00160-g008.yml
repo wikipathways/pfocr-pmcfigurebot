@@ -1,0 +1,44 @@
+---
+figid: PMC12784693__cancers-18-00160-g008
+pmcid: PMC12784693
+image_filename: jpg
+figure_link: /pmc/articles/PMC12784693/figure/F8/
+number: Figure 8
+figure_title: Integrative profiling of therapeutic vulnerability, pathway activity,
+  and immune features across NMRS score groups.
+caption: 'Integrative profiling of therapeutic vulnerability, pathway activity, and
+  immune features across NMRS score groups. (A) Predicted drug sensitivity assessed
+  using oncoPredict. Lower predicted IC50 values indicate higher drug sensitivity;
+  thus, differences in IC50 distributions between high- and low-NMRS score groups
+  reflect distinct therapeutic vulnerabilities across a broad spectrum of anticancer
+  agents. (B) GSVA-based pathway activity comparison, ranking pathways by t statistics
+  to highlight transcriptional programs differentially activated between NMRS score
+  groups. (C) Immune cell infiltration landscape inferred by ssGSEA, showing distinct
+  distributions of innate and adaptive immune cell subsets across NMRS risk stratifications.
+  (D) ssGSEA-derived immune functional signatures—including antigen presentation,
+  inflammatory responses, cytolytic activity, and interferon-related pathways—demonstrating
+  functional immune divergence associated with NMRS scores. (E) GSEA results depicting
+  KEGG pathways significantly enriched in the high NMRS score group, reflecting enhanced
+  oncogenic and metabolic programs. (F) GSEA results showing KEGG pathways preferentially
+  enriched in the low-NMRS-score group, indicative of more active immune-related and
+  tumor-suppressive processes. Statistical significance is indicated as follows: *
+  p < 0.05, ** p < 0.01, *** p < 0.001'
+article_title: Integrative Single-Cell and Machine Learning Analysis Identifies a
+  Nucleotide Metabolism-Related Signature Predicting Prognosis and Immunotherapy Response
+  in LUAD
+citation: Shuai Zhao, et al. Cancers (Basel). 2026 Jan;18(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: 2026-1-02
+doi: 10.3390/cancers18010160
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- LUAD
+- scRNA-seq
+- nucleotide
+- machine learning
+- immunotherapy
+- ENO1
+---

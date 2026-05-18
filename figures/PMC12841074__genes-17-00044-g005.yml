@@ -1,0 +1,52 @@
+---
+figid: PMC12841074__genes-17-00044-g005
+pmcid: PMC12841074
+image_filename: jpg
+figure_link: /pmc/articles/PMC12841074/figure/F5/
+number: Figure 5
+figure_title: Model showing REV1’s role in regulating the G2/M transition and specifically
+  the completion of M-phase.
+caption: Model showing REV1’s role in regulating the G2/M transition and specifically
+  the completion of M-phase. (Left) The sequence of events that enables wild-type
+  cells to move from G2 to M phase is shown in the blue circle on the left (which
+  serves as an inlet from the cell cycle depicted in green, showing the G1, S, G2,
+  and M phases). During the G2 phase, upregulation of Cyclin B1 transcription and
+  translation allows it to form a complex with CDK1, creating the Maturation Promoting
+  Factor (MPF), which remains inactive due to phosphorylation (shown as a red P) by
+  G2/M-specific kinases—MYT1 and WEE1—along with PLK1, and the phosphatase CDC25.
+  Here, PLK1 inhibits MYT1, which in turn inhibits the MPF complex. PLK1, through
+  CDC25C, also helps maintain the negative phosphorylation on the MPF complex. At
+  the end of G2, MPF, through positive feedback, phosphorylates and inhibits the G2/M
+  biomarkers to initiate mitosis, after which they are rapidly degraded during M phase.
+  Also shown in the rectangle is an inlet from the M phase of the cell cycle, where
+  tubulin proteins control the normal segregation of chromosomes. (Right) In the absence
+  of REV1, a G2/M cell cycle arrest occurs (represented as a red rectangle blocking
+  the G2/M phase in the green circle representing the cell cycle), characterized by
+  repression of gene expression of the G2/M biomarkers (PKMYT1, CCNB1, PLK1, and CDC25
+  phosphatase), with minimal, but evident increased protein accumulation of Cyclin
+  B1, decreased histone expression and histone variant PTMs, and dysregulated expression
+  of tubulin genes. Downregulation of H3S28 phosphorylation, along with possibly disrupted
+  chromosomal segregation, due to REV1 limitation, is shown in the rectangle, an inlet
+  from the cell cycle represented as a green circle. Arrows indicate the next step
+  in the pathway; inhibitory arrows indicate negative suppression of the downstream
+  molecules; red arrows indicate suppression; green arrows indicate increased expression;
+  PLK1 is in orange; PKMYT1 (gene) and MYT1 (the corresponding protein) is shown in
+  purple; CDC25C is in blue; CCNB1 (gene) and Cyclin B1 (protein) is in green
+article_title: REV1 Loss Triggers a G2/M Cell-Cycle Arrest Through Dysregulation of
+  Mitotic Regulators
+citation: Brailey Buntin, et al. Genes (Basel). 2026 Jan;17(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-31'
+doi: 10.3390/genes17010044
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- translesion synthesis (TLS)
+- G2/M arrest
+- JH-RE-06
+- REV1
+- Cyclin B1
+- tubulins
+---

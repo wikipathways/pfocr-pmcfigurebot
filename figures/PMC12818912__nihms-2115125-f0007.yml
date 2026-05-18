@@ -1,0 +1,46 @@
+---
+figid: PMC12818912__nihms-2115125-f0007
+pmcid: PMC12818912
+image_filename: jpg
+figure_link: /pmc/articles/PMC12818912/figure/F7/
+number: FIGURE 7.
+figure_title: C5aR1 inhibition downregulates neuroinflammatory gene expression in
+  the glioblastoma-bearing irradiated brain
+caption: (A) Volcano plots of differentially expressed genes (DEGs) comparing WT+GL261+9
+  Gy+PMX205 to the WT+GL261+9 Gy group as a baseline. 8–9 weeks post-RT, gene expression
+  was analyzed using the NanoString Neuroinflammation panel. The log2 fold change
+  (logFC) is plotted against the −log10 (adjusted P value) for each gene that meets
+  the minimum count threshold. Among 757 genes, 612 met count thresholds in animal
+  groups. (B) The list of top 40 DEGs for WT+GL261+9 Gy+PMX205 group showed a trend
+  of differential expression (adjusted P<0.1). The bold-faced (**) genes had adjusted
+  P-values <0.05. Yellow highlights upregulated (logFC>0) genes, and blue indicates
+  downregulated (logFC<0) genes. See Suppl. Table T2 for gene function details. (C)
+  Description of affiliated gene sets for the bold-faced (**) genes from Fig 7B (Suppl.
+  Table T2). (D) Line plot of pathway signature scores showing the variation in expression
+  of gene sets across experimental groups. 757 genes analyzed were organized into
+  23 separate functional pathways. Signature scores represent a weighted average of
+  gene expression values in a given pathway, where a positive value indicates upregulation
+  and a negative value indicates downregulation. (E) Boxplot pathway scores of 6 of
+  the 23 unique gene sets comparing gene expression across experimental groups. See
+  Suppl. Fig. S8 for the completed set of boxplots. Adjusted p-values were derived
+  from the Benjamini-Yekutieli False Discovery Rate (FDR) method (N=3 mice/group)
+article_title: C5aR1 Inhibition Alleviates Cranial Radiation-Induced Cognitive Decline
+citation: Robert P. Krattli, et al. Cancer Res. 2026 Jan 02;86(1).
+year: '2026'
+pub_date: 2026-1-02
+epub_date: 2026-1-02
+doi: 10.1158/0008-5472.CAN-24-4869
+journal_title: Cancer research
+journal_nlm_ta: Cancer Res
+publisher_name: .na.character
+keywords:
+- Complement cascade
+- C5a
+- C5aR1
+- PMX205
+- cognitive function
+- radiation therapy
+- glioma
+- brain cancer
+- neuroinflammation
+---

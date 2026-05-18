@@ -1,0 +1,34 @@
+---
+figid: PMC12838215__bioengineering-13-00047-g005
+pmcid: PMC12838215
+image_filename: jpg
+figure_link: /pmc/articles/PMC12838215/figure/F5/
+number: Figure 5
+figure_title: MFAP2 enhances an epithelial-to-mesenchymal gene signature in metaplastic
+  TNBC cells.
+caption: MFAP2 enhances an epithelial-to-mesenchymal gene signature in metaplastic
+  TNBC cells. RNA sequencing was performed on TU-BcX-4IC and MDA-MB-231-vector and
+  -MFAP2 overexpressing cell lines. Total gene changes were identified in OE cell
+  lines normalized to vector controls. Pathway analysis of RNA sequencing for pathways
+  associated with significant upregulated genes in (A) TU-BcX-4IC-MFAP2 and (B) MDA-MB-231-MFAP2
+  cells. Pathway analysis was obtained from Enrichr database utilizing MSigDB Hallmark
+  2020 pathway. Gene changes in EMT-associated genes in (C) TU-BcX-4IC-MFAP2 and (D)
+  MDA-MB-231-MFAP2 cell lines. Results represent gene expression as TPMs. n = 3 biological
+  replicates. Error bars represent SEM. * Significant difference padj < 0.05, ** significant
+  difference padj < 0.01, *** significant difference padj < 0.001. Differentially
+  expressed genes determined by DESeq2
+article_title: Evaluation of Metaplastic Triple-Negative Breast Cancer Extracellular
+  Matrix Structure and Protein Composition
+citation: Jonathan J. Savoie, et al. Bioengineering (Basel). 2026 Jan;13(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-31'
+doi: 10.3390/bioengineering13010047
+journal_title: Bioengineering
+journal_nlm_ta: Bioengineering (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- metaplastic breast cancer
+- extracellular matrix
+- MFAP2
+---

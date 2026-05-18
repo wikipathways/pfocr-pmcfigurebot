@@ -1,0 +1,34 @@
+---
+figid: PMC12821640__medsci-14-00021-g003
+pmcid: PMC12821640
+image_filename: jpg
+figure_link: /pmc/articles/PMC12821640/figure/F3/
+number: Figure 3
+figure_title: Functional meta-synthesis network illustrating the major stemness-related
+  biological programs identified across computational and immunohistochemical studies.
+caption: Functional meta-synthesis network illustrating the major stemness-related
+  biological programs identified across computational and immunohistochemical studies.
+  Each labeled domain (EMT/ECM remodeling, hypoxia/glycolysis, redox/ferroptosis,
+  ribosome/transcription, and therapy resistance) represents a recurrent pathway cluster.
+  Colored connecting lines depict conceptual relationships among these biological
+  domains based on co-occurrence patterns in the included gene signatures. The layout
+  reflects an abstracted, integrative overview rather than a mechanistic pathway map.
+  Network visualization was generated using R igraph with force-directed layout optimization
+article_title: 'Computational Stemness and Cancer Stem Cell Markers in Oral Squamous
+  Cell Carcinoma: A Systematic Review, Dual Meta-Analysis, and Functional Meta-Synthesis'
+citation: Carlos M. Ardila, et al. Med Sci (Basel). 2026 Mar;14(1).
+year: '2026'
+pub_date: 2026-3-
+epub_date: '2025-12-31'
+doi: 10.3390/medsci14010021
+journal_title: Medical Sciences
+journal_nlm_ta: Med Sci (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- mouth neoplasms
+- carcinoma
+- squamous cell
+- neoplastic stem cells
+- immunohistochemistry
+- transcriptome
+---

@@ -1,0 +1,46 @@
+---
+figid: PMC13051515__nihms-2155532-f0006
+pmcid: PMC13051515
+image_filename: jpg
+figure_link: /pmc/articles/PMC13051515/figure/F6/
+number: Figure 6.
+figure_title: SPP1hi macrophage ChromBPNet analysis of 3968 control and 3902 SSc nuclei.
+caption: SPP1hi macrophage ChromBPNet analysis of 3968 control and 3902 SSc nuclei.(A)
+  Number of seqlets detected by transcription factor family (largest number for each
+  family depicted) in SSc and control SPP1hi macrophages by TF-MoDISco genome sampling.
+  (B) Number of AP-1 seqlets unique to and shared by SSc and control SPP1hiMacrophages.
+  Heatmap of AP-1 contribution score dot product for each seqlet/chromatin region
+  divided by SSc and control SPP1hi Macrophages into 10 clusters. Darker blue indicates
+  a higher contribution score. (C) Pathways enriched by gene ontology for the AP-1
+  cluster 7 chromatin regions. (D) Contribution score track depictions for SSc and
+  control SPP1hi macrophages of 3 chromatin regions (annotated to ACVR1, LOXL2, and
+  FOXP1) enriched in the cell migration pathway, from AP-1 cluster 7. (E) Number of
+  bHLH-ZIP seqlets unique to and shared by SSc and control SPP1hi Macrophages. Heatmap
+  of bHLH-ZIP contribution score dot product for each seqlet/chromatin region divided
+  by SSc and control SPP1hi Macrophages into 10 clusters. Darker blue indicates a
+  higher contribution score. (F) Relative luciferase activity (ratio of firefly to
+  renilla luminescence) for control plasmid (empty vector), LOX2 OCR wild type, and
+  mutant (point mutation disrupting the listed AP-1 TF binding site) plasmids in transfected
+  THP-1 cells. (G) Pathways enriched by gene ontology for the bHLH-ZIP cluster 9 chromatin
+  regions. (H) Contribution score track depictions for SSc and control SPP1hi macrophages
+  of 2 chromatin regions (annotated to TFEB and ROCK1) enriched in the regulation
+  of autophagy pathway, from bHLH-ZIP cluster 9. (I) Relative luciferase activity
+  (ratio of firefly to renilla luminescence) for control plasmid (empty vector), CCL18
+  OCR wild type, and mutant (point mutation disrupting the listed bHLH-ZIP TFbinding
+  site) plasmids in transfected THP-1 cells. (J) Pseudobulk bias removed signal and
+  contribution score tracks for CCL18 region with duplicate bHLH-ZIP footprinting
+  in SSc and control SPP1hi macrophages. bHLH, basic helix-loop-helix; CS, contribution
+  score; DAR, differentially accessible chromatin region; OCR, open chromatin region;
+  SSc, systemic sclerosis-associated; TF, transcription factor
+article_title: Altered AP-1, RUNX, and EGR chromatin dynamics drive human fibrotic
+  lung disease
+citation: Eleanor Valenzi, et al. Ann Rheum Dis. 2025 Dec 31;NA(NA).
+year: '2025'
+pub_date: '2025-12-31'
+epub_date: '2025-12-31'
+doi: 10.1016/j.ard.2025.12.003
+journal_title: Annals of the rheumatic diseases
+journal_nlm_ta: Ann Rheum Dis
+publisher_name: .na.character
+keywords: []
+---

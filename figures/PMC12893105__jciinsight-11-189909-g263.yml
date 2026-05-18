@@ -1,0 +1,38 @@
+---
+figid: PMC12893105__jciinsight-11-189909-g263
+pmcid: PMC12893105
+image_filename: jpg
+figure_link: /pmc/articles/PMC12893105/figure/F6/
+number: Figure 6
+figure_title: IL-15 vaccine response signature observed in an E03/B57 dually restricted
+  cluster
+caption: (A) UMAP of Seurat clusters for antigen-specific subset of 10x Genomics dataset.
+  (B and C) Metadata distribution of HLA (B) and controller status (C). (D) Metadata
+  membership table of each Seurat cluster based on highest relative metadata-labeled
+  cell number in each cluster. Control and activation status were assigned by cell
+  using percentile cutoffs as indicated in Methods. Dual or tri-membership indicates
+  that a similar number of cells from those conditions were represented in the indicated
+  cluster. (E) Venn diagram of marker overlap by MAST between B57-, E01-, E03- and
+  null-CD8s. (F) Bubble plot showing top Gene Ontology enrichment terms organized
+  as, first, unique to given clusters, then top terms shared by all clusters, colored
+  by marker gene count and sized by FDR [absolute log(Q)] value of term. (G) Heatmap
+  of top genes included in each term organized by term and cluster. (H) Violin plot
+  of top genes within vaccine response signature IL-15 signaling pathway. **P < 0.01,
+  ***P < 0.001, ****P < 0.0001
+article_title: CD8+ T cells cross-restricted by HLA-B*57 and HLA-E*01 recognize HIV
+  Gag with different functional profiles
+citation: Kevin J. Maroney, et al. JCI Insight. 2025 Dec 18;11(3).
+year: '2025'
+pub_date: '2025-12-18'
+epub_date: '2025-12-18'
+doi: 10.1172/jci.insight.189909
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- AIDS/HIV
+- Infectious disease
+- Adaptive immunity
+- Antigen
+- T cell receptor
+---

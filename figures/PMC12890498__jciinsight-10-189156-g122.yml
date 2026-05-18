@@ -1,0 +1,42 @@
+---
+figid: PMC12890498__jciinsight-10-189156-g122
+pmcid: PMC12890498
+image_filename: jpg
+figure_link: /pmc/articles/PMC12890498/figure/F6/
+number: Figure 6
+figure_title: snRNA-Seq profiling of mouse lungs
+caption: (A) UMAP projection of distinct cell populations identified in mouse lung
+  tissue. (B) Dot plot showing expression of canonical markers used to annotate the
+  identified cell clusters. The identity of each cell cluster was assigned by matching
+  the cluster expression profile with established cell-specific marker genes. Dot
+  color represents average expression, and dot size represents the fraction of expressing
+  cells. (C) UMAP projection of fibroblast subclusters from all treatment groups and
+  the proportion of cells that contributed to each cluster by treatment group (veh,
+  vehicle; Inh, NVP-BHG712). (D) Dot plot showing the expression of marker genes used
+  to annotate the fibroblast subclusters (23–25). (E) Pathway analysis of upregulated
+  and downregulated genes in bleomycin mice treated with NVP-BHG712 compared with
+  vehicle. (F) Bar plots show total number of interactions and strength of interactions
+  in fibroblasts in collagen signaling pathways in bleomycin mice treated with NVP-BHG712
+  (Inh) compared with vehicle; left panel). Circle plots showing cell-cell communication
+  between fibroblast subclusters associated with collagen signaling in bleomycin mice
+  treated with vehicle or NVP-BHG712. The plot shows interaction between ligands from
+  sender and receptors from receiver. Each plot has fibroblast subcluster 0, 1, 2,
+  and 3 as receiver and ligands from all other subclusters as senders. (G) Differential
+  expression of 11 ECM genes in bleomycin-treated groups in all 4 fibroblast subclusters
+  in NVP-BHG712 compared with vehicle (left panel). Violin plots showing the expression
+  of Eln in fibroblast subclusters 1 and 2 (right panel)
+article_title: Identification of Ephrin type-B receptor 4 as a critical mediator of
+  tissue fibrosis
+citation: Brian Wu, et al. JCI Insight. 2025 Dec 22;10(24).
+year: '2025'
+pub_date: '2025-12-22'
+epub_date: '2025-12-22'
+doi: 10.1172/jci.insight.189156
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Cell biology
+- Pulmonology
+- Fibrosis
+---

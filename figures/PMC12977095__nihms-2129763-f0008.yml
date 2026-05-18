@@ -1,0 +1,70 @@
+---
+figid: PMC12977095__nihms-2129763-f0008
+pmcid: PMC12977095
+image_filename: jpg
+figure_link: /pmc/articles/PMC12977095/figure/F7/
+number: Figure 7.
+figure_title: DNp03 serves to maintain a differential between wingbeat amplitudes
+  in response to frontal looming stimuli and competes with landing DNs
+caption: '(A) Experimental set up for frontal looming stimulus presentations to tethered
+  flies.(B) Left: Sample frames showing a control fly response to a looming stimulus
+  (r/v = 40 ms) at the timepoints shown on the stimulus trace. Right: Same as left,
+  but for a DNp03 silenced fly. See also Videos S6 and S7.(C) Averaged behavioral
+  responses to r/v =10 ms looming stimuli in control (black) and DNp03 silenced (red)
+  flies. From top to bottom: Δ Right minus Left WBA, Δ Right WBA, Δ Left WBA, and
+  stimulus trace. Arrow indicates initial decrease in the left WBA that is not present
+  in DNp03 silenced flies. Insets: quantification of average behavioral responses
+  from loom expansion (control n = 36 (18), DNp03 silenced n = 36 (18) trials (flies);
+  Mann-Whitney U test, *p < 0.05, **p < 0.01, ***p < 0.01). See also Figures S2 and
+  S3.(D) Averaged behavioral responses to r/v = 20 ms looming stimuli and quantification,
+  as described in C (control n = 38 (19), DNp03 silenced n = 40 (20) trials (flies);
+  Mann-Whitney U test, **p < 0.01). See also Figures S2 and S3.(E) Averaged behavioral
+  responses to r/v = 40 ms looming stimuli and quantification, as described in C (control
+  n = 38 (19), DNp03 silenced n = 36 (18) trials (flies); Mann-Whitney U test, *p
+  < 0.05, ***p < 0.01). See also Figures S2 and S3.(F) Averaged behavioral responses
+  to r/v = 80 ms looming stimuli and quantification, as described in C (Control n
+  = 40 (20), DNp03 silenced n = 38 (19) trials (flies); Mann-Whitney U test, *p <
+  0.05). See also Figures S2 and S3.(G) Left: Example of leg extension behavior in
+  response to r/v = 80 ms loom in a control fly. Right: Probability of leg extension
+  as a function of r/v (log scale) for control and DNp03 silenced flies. Data points
+  represent experimental data and lines represent logistic regression fit (Control:
+  logit(p) = −9.99 + 2.10(log(r/v)), DNp03 Silenced: logit(p) = −5.52 +1.25(log(r/v)),
+  McFadden R2 = 0.69). The probability of leg extension increased with slower looms
+  speeds (Control p = 0.0003, DNp03 Silenced p = 0.00003). Including group-specific
+  terms significantly improved the model fit (LRT, p = 0.0011), indicating a difference
+  between the control and DNp03 silenced conditions. See also Video S8.(H) Left: Control
+  fly averaged behavior responses to r/v = 80 ms loom separated by trials when flies
+  extended their legs (blue) or did not extend their legs (black). Right: quantification
+  of average behavioral response from loom expansion (leg extension n = 12 (10), no
+  leg extension n = 28 (18) trials (flies); Mann-Whitney U test, **p < 0.01). See
+  also Figure S3.(I) Control (black) and DNp03 silenced (red) responses to r/v = 80
+  ms loom when flies do not extend their legs, presented and quantified as described
+  in H (control n = 28 (18), DNp03 silenced n = 19 (14) trials (flies); Mann-Whitney
+  U test, *p < 0.05). See also Figure S3.(J) Control (blue) and DNp03 silenced (red)
+  responses to r/v = 80 ms loom when flies do extend their legs, presented and quantified
+  as described in H (control n = 12 (10), DNp03 silenced n = 19 (14) trials (flies);
+  Mann-Whitney U test). See also Figure S3.(K) Proposed inhibitory pathway from DNp03
+  to landing neurons, DNp07 and DNp10. Synapse counts are from FAFB as annotated in
+  Flywire17 from the left DNp03 to the right DNp07 and left DNp10'
+article_title: Drosophila DNp03 descending neurons serve as a hub within a flight
+  saccade network
+citation: Haley Croke, et al. Curr Biol. 2026 Jan 05;36(1).
+year: '2026'
+pub_date: 2026-1-05
+epub_date: '2025-12-12'
+doi: 10.1016/j.cub.2025.11.035
+journal_title: 'Current biology : CB'
+journal_nlm_ta: Curr Biol
+publisher_name: .na.character
+keywords:
+- Drosophila
+- saccades
+- networks
+- sensorimotor transformation
+- aerodynamics
+- descending neuron
+- flight control
+- motor control
+- visual projection neuron
+- command neuron
+---

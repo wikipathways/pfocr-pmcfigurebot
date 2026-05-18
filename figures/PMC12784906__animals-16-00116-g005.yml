@@ -1,0 +1,37 @@
+---
+figid: PMC12784906__animals-16-00116-g005
+pmcid: PMC12784906
+image_filename: jpg
+figure_link: /pmc/articles/PMC12784906/figure/F5/
+number: Figure 5
+figure_title: WGCNA identifying associations between blood DEGs and serum biochemical
+  parameters.
+caption: 'WGCNA identifying associations between blood DEGs and serum biochemical
+  parameters. (A) Heatmap displaying correlation coefficients between 25 co-expression
+  modules (rows) and 13 serum biochemical parameters (columns). In each cell, the
+  upper value represents the correlation coefficient, and the lower value represents
+  the corresponding significance level (p-value). The color gradient ranges from blue
+  (negative correlation) to red (positive correlation), with intensity reflecting
+  the strength of the correlation. (B) GO enrichment analysis of genes within Modules
+  3 and 8. Dot size is proportional to the number of genes annotated to each GO term,
+  while dot color denotes the GO category: Biological Process (BP, purple), Cellular
+  Component (CC, grey), and Molecular Function (MF, blue). (C) KEGG pathway enrichment
+  analysis for Modules 3 and 8. Dot size reflects the number of genes enriched in
+  each pathway. Dot color indicates statistical significance, ranging from yellow
+  (lower significance) to dark purple (higher significance)'
+article_title: Distinct Rumen Microbial Features and Host Metabolic Responses in Three
+  Cervid Species
+citation: Yuhang Zhu, et al. Animals (Basel). 2026 Jan;16(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-31'
+doi: 10.3390/ani16010116
+journal_title: 'Animals : an Open Access Journal from MDPI'
+journal_nlm_ta: Animals (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- Cervid
+- rumen microbiota
+- fermentation pattern
+- lipid metabolism
+---

@@ -1,0 +1,50 @@
+---
+figid: PMC12846758__thnov16p3577g002
+pmcid: PMC12846758
+image_filename: jpg
+figure_link: /pmc/articles/PMC12846758/figure/F2/
+number: Figure 2
+figure_title: Endothelial cell glycolysis is upregulated after stroke in tMCAO mice.
+caption: Endothelial cell glycolysis is upregulated after stroke in tMCAO mice. A,
+  Clustering of scRNA-seq data was performed. Cell types were annotated based on the
+  expression levels of known marker genes. B, The expression profiles of marker genes
+  for each cell type were analyzed. C, UMAP plot showing populations of re-clustered
+  ECs. D-E, Pseudo-time analysis illustrating the developmental trajectory of spots
+  derived from ECs, distinguished by clusters, states, and pseudo-time. F, The percentage
+  accumulation bar chart illustrates the relative distribution of each subcluster
+  within disease models involving aged and young mice. G, Dot plot showing glycolytic
+  metabolic pathways in each cluster of ECs. H, Sankey bubble chart of energy metabolomics
+  analysis of microvascular tissues in tMCAO mice. I, Schematic of endothelial cell
+  isolated from adult brains of 8-week-old mice and 20-month-old mice. J, The ECs
+  isolated from the brains of aged and young mice were treated with OGDR, after which
+  the ECAR was measured to quantify the glycolysis rate (n = 5 mice per group). K,
+  The ECs isolated from the brains of aged and young mice were treated with OGDR.
+  Subsequently, the OCR was measured to quantify basal respiration, ATP-linked respiration,
+  and maximal respiration (n = 5 mice per group). L. The schematic diagram showing
+  the breeding strategy for generating mice which were specifically lacking LDHA expression
+  in endothelial cell (LDHAflox/flox; CDH5-CreERT). M. Representative images of immunofluorescence
+  staining of FITC-Dextran and endothelial marker CD31 in ischemia-reperfusion cortex
+  and quantification of relative extravasation of FITC-dextran in the cortex of LDHAflox/flox
+  or LDHAflox/flox; CDH5-CreERT mice following ischemia-reperfusion (n = 8 per group).
+  N. Representative images and statistical analysis results of immunofluorescence
+  staining for TUNEL (green, indicating apoptosis) and PI (red, indicating necrosis)
+  in ECs within the cortical area of LDHAflox/flox or LDHAflox/flox; CDH5-CreERT mice
+  (n = 3 per group). Data were used the two-factor ANOVA of statistical methods (j,
+  k). Data are mean ± SEM
+article_title: Microvascular endothelial metabolic dysfunction drives cerebral edema
+  through bioenergetic failure after ischemia-reperfusion
+citation: Yi-Fan Zhou, et al. Theranostics. 2026;16(7).
+year: '2026'
+pub_date: 2026--
+epub_date: 2026-1-1
+doi: 10.7150/thno.127083
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+keywords:
+- lactate metabolism
+- histone lactylation
+- endothelial bioenergetic failure
+- necroptosis
+- cerebral edema after endovascular recanalization therapy
+---

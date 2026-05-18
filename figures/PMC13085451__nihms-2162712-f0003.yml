@@ -1,0 +1,38 @@
+---
+figid: PMC13085451__nihms-2162712-f0003
+pmcid: PMC13085451
+image_filename: jpg
+figure_link: /pmc/articles/PMC13085451/figure/F3/
+number: Figure 3.
+figure_title: TFEB restricts DOX-induced IL-6 and IL-1β release from ECs
+caption: (A) Volcano plot showing log2 fold change (y-axis) and −log10 adjusted P-value
+  (x-axis). Genes with P < 0.05 are shown in blue, those with an absolute log2 fold
+  change > 1 in green, and genes meeting both criteria (P < 0.05 and absolute log2
+  fold change > 1) are shown in red. P-values were adjusted for multiple comparisons
+  using the False Discovery Rate (FDR) method in the DESeq2 package. Inflammation-related
+  genes are highlighted. (B) The NABA_SECRETED_FACTORS gene set was enriched in the
+  DOX group and attenuated in the TFEB_DOX group compared to the Ctrl_DOX group. (C-D)
+  Multiple cytokine signaling pathways were enriched in DOX group (C), and a heatmap
+  shows secreted cytokines that were downregulated in the TFEB_DOX group (D). N =
+  5 per group in A-D. (E) The top-regulated proinflammatory genes were validated by
+  qPCR in HUVECs stably expressing TFEB or control ECs treated with vehicle or DOX
+  (1 μM) for 24 hours (n = 5–6). Data in panel E were analyzed by two-way ANOVA followed
+  by Tukey’s post hoc test. Data are presented as mean ± SEM, *P < 0.05, **P < 0.01,
+  ***P < 0.001
+article_title: Endothelial transcription factor EB protects against doxorubicin-induced
+  endothelial toxicity and cardiac dysfunction
+citation: Wa Du, et al. Circulation. 2026 Mar 03;153(9).
+year: '2026'
+pub_date: 2026-3-03
+epub_date: '2025-12-18'
+doi: 10.1161/CIRCULATIONAHA.124.071774
+journal_title: Circulation
+journal_nlm_ta: Circulation
+publisher_name: .na.character
+keywords:
+- Cardiotoxicity
+- endothelial toxicity
+- transcription factor EB
+- chemotherapy
+- DAB2
+---

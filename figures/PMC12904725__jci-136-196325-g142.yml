@@ -1,0 +1,35 @@
+---
+figid: PMC12904725__jci-136-196325-g142
+pmcid: PMC12904725
+image_filename: jpg
+figure_link: /pmc/articles/PMC12904725/figure/F4/
+number: Figure 4
+figure_title: UTX controls chromatin accessibility at progenitor and effector gene
+  loci in antigen-specific pLN Tprog cells
+caption: (A) PCA analysis of ATAC-seq (top) and RNA-seq (bottom) profiles of sorted
+  Tprog (CD8+ Ly108+ CD39–) cells from pLNs of NOD-TCR 8.3 WT and NOD-TCR 8.3 UTXTCD
+  mice (n = 3/group). (B) Heatmaps of the expression (left, RNA-seq) and chromatin
+  accessibility (right, ATAC-seq) of selected differentially expressed and accessible
+  genes involved in immune function. The color scale indicates the relative expression
+  or accessibility, with red representing higher values and blue representing lower
+  values. (C and D) Gene set enrichment analysis (GSEA) for progenitor signature (Supplemental
+  Data File 4) (C) and effector signature (D) genes in the RNA-seq dataset of Tprog
+  cells from NOD-TCR 8.3 WT and NOD-TCR 8.3 UTXTCD mice. (E) Pathway analysis of differentially
+  accessible genes by ATAC-seq using Enrichr (P value by Fisher’s exact test)
+article_title: UTX coordinates TCF1 and STAT3 to control progenitor CD8+ T cell fate
+  in autoimmune diabetes
+citation: Ho-Chung Chen, et al. J Clin Invest. 2025 Dec 16;136(4).
+year: '2025'
+pub_date: '2025-12-16'
+epub_date: '2025-12-16'
+doi: 10.1172/JCI196325
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Autoimmunity
+- Immunology
+- Autoimmune diseases
+- Diabetes
+- Epigenetics
+---

@@ -1,0 +1,30 @@
+---
+figid: PMC12840951__genes-17-00010-g004
+pmcid: PMC12840951
+image_filename: jpg
+figure_link: /pmc/articles/PMC12840951/figure/F4/
+number: Figure 4
+figure_title: KEGG pathway enrichment analysis of DEGs.
+caption: KEGG pathway enrichment analysis of DEGs. Bubble plots (a,b) show the most
+  significantly enriched KEGG pathways for up- and downregulated genes, with bubble
+  size representing gene count and color indicating the −log10 (p-value). Chord diagrams
+  (c,d) depict the gene–pathway association network for the top 10 enriched terms,
+  where ribbons link pathways to their constituent DEGs, and ribbon width is proportional
+  to the number of connected genes
+article_title: Identification of Differentially Expressed Genes and Molecular Pathways
+  Involved in Primary Biliary Cholangitis Using RNA-Seq
+citation: Min Yang, et al. Genes (Basel). 2026 Jan;17(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-22'
+doi: 10.3390/genes17010010
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- PBC
+- RNA-Seq
+- STX17-DT
+- proliferation
+- apoptosis
+---

@@ -1,0 +1,34 @@
+---
+figid: PMC12781032__nihms-2110401-f0002
+pmcid: PMC12781032
+image_filename: jpg
+figure_link: /pmc/articles/PMC12781032/figure/F2/
+number: Fig. 2.
+figure_title: TRPV4 negatively regulates cytokine transcription in response to TLR
+  agonists in a specific cluster of BMDMs with high expression of NF-κB dependent
+  genes
+caption: 'A. The mRNA expression of NF-κB genes, including IL-1β and Cxcl1, were measured
+  in BMDMs from WT and Trpv4 KO mice ± TLR agonists: TLR1/2 (Pam3CSK4, 100 ng/ml),
+  TLR4 (LPS 100 ng/ml), TLR3 (Poly I:C 10 μg/ml), and TLR9 (CpGDNA 5 μg/ml) at 1 hour.
+  n=3–4 biological replicates per group, *p ≤ 0.05, **p ≤ 0.01 denotes WT vs KO ±
+  TLR agonist. Student’s t-test comparing Trpv4 KO vs WT BMDMs within a TLR group.
+  B. The same NF-κB genes in response to the TLR agonists were measured at 6 hours.
+  n=3–4 biological replicates per group, *p ≤ 0.05, **p ≤ 0.01 denotes WT vs KO ±
+  TLR agonist. Student’s t-test comparing Trpv4 KO vs WT BMDMs within a TLR group.
+  C. UMAP cluster plot shows 9 clusters in WT and Trpv4 KO BMDMs ± LPS after 10X genomics.
+  D. Within the Il1β+_Cxcl2+ cluster, the GO BP gene pathway analysis comparing either
+  LPS-stimulated WT or KO represented significant pathways as measured by −Log10 transformed
+  p-value (x-axis; light green: increased KO vs WT, dark green: decreased KO vs WT).
+  n=3 biological replicates per group'
+article_title: The mechanosensitive channel TRPV4 inhibits pulmonary inflammation
+  by limiting NF-KB signaling in alveolar macrophages
+citation: Adam M. Boulton, et al. Sci Signal. 2025 Dec 23;18(918).
+year: '2025'
+pub_date: '2025-12-23'
+epub_date: '2025-12-23'
+doi: 10.1126/scisignal.adt1539
+journal_title: Science signaling
+journal_nlm_ta: Sci Signal
+publisher_name: .na.character
+keywords: []
+---

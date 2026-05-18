@@ -1,0 +1,34 @@
+---
+figid: PMC12845156__pharmaceutics-18-00061-g005
+pmcid: PMC12845156
+image_filename: jpg
+figure_link: /pmc/articles/PMC12845156/figure/F5/
+number: Figure 5
+figure_title: Biological Process (BP) and KEGG pathway charts derived from GO and
+  KEGG analyses of clusters identified via PPI analysis in STRING.
+caption: Biological Process (BP) and KEGG pathway charts derived from GO and KEGG
+  analyses of clusters identified via PPI analysis in STRING. Specifically, panels
+  (A,B) pertain to Cluster 1; panels (C,D) illustrate Cluster 2; and panels (E,F)
+  show Cluster 3. Panel (G) displays the BP of Cluster 4, and panel (H) presents the
+  KEGG analysis of Cluster 9. For clarity and consistency, the color associated with
+  each cluster corresponds to the color assigned by the STRING software, as indicated
+  in Supplementary Table S3. All data were filtered using a Benjamini–Hochberg adjusted
+  p-value ≤ 0.01. The dots in the legend represent the gene count for each specific
+  term identified
+article_title: 'Citicoline Triggers Proteome Remodeling and Proteostatic Adaptation:
+  Evidence from Shotgun Proteomics'
+citation: Dario Cavaterra, et al. Pharmaceutics. 2026 Jan;18(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: 2026-1-01
+doi: 10.3390/pharmaceutics18010061
+journal_title: Pharmaceutics
+journal_nlm_ta: Pharmaceutics
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- citicoline
+- glaucoma
+- proteomics
+- proteostasis
+- proteasome
+---

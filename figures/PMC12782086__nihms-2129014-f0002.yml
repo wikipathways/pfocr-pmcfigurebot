@@ -1,0 +1,48 @@
+---
+figid: PMC12782086__nihms-2129014-f0002
+pmcid: PMC12782086
+image_filename: jpg
+figure_link: /pmc/articles/PMC12782086/figure/F1/
+number: Figure 1.
+figure_title: Mitochondrial maturation and respiration are amplified by fluid shear
+  stress
+caption: '(A) The top 20 KEGG pathways were identified from genes that were significantly
+  up- and down-regulated by 6 hr of WSS in cultured E10.5 AGM cells. (B) Genes with
+  executive roles in electron transport chain (ETC) and mitochondrial protein import
+  are upregulated by WSS (NES>1.5, FDR Q-value <0.25, P<0.0001). (C) RT-qPCR from
+  eight independent experiments, not included in panel a, shows that 6-hr WSS increases
+  ETC and mitobiogenesis mRNAs in E10.5 and E11.5 AGM. (D) Mitochondrial mass (MitoTracker
+  in magenta) and MMP (MitoTracker Red CMXRos in red) were imaged by confocal microscopy
+  in AGM cells collected from the Ly6a-eGFP reporter strain at E10.5. Scale bar represents
+  25 μm. (E) Abundance of ATP5I inner mitochondrial membrane protein in cultured E11.5
+  AGM is amplified by 22-hr WSS in VEC+ cells, as determined by STED nanoscopy. Scale
+  bar represents 50 μm in upper panels and 2 μm in lower panels. (F) ATP5I puncta
+  were counted in 5 μm volumetric STED images. Three independent samples were prepared
+  from separate embryos. T-test, ***p<0.001. (G) Flow cytometric quantification shows
+  increase in mitochondrial mass (TOM20) in endothelial cells. Three independent experiments
+  were conducted on different days. T-test, *p<0.05. (H) Seahorse assays from E10.5
+  (n=3) and E11.5 (n=5) show elevated OXPHOS (OCR: oxygen consumption rate) with force.
+  T-test or Mann Whitney U, *p<0.05, **p<0.01'
+article_title: Mechanometabolism instructs hematopoietic stem cell specification
+citation: Paulina D. Horton, et al. J Exp Med. 2026 Mar 02;223(3).
+year: '2026'
+pub_date: 2026-3-02
+epub_date: '2025-12-09'
+doi: 10.1084/jem.20250607
+journal_title: The Journal of experimental medicine
+journal_nlm_ta: J Exp Med
+publisher_name: .na.character
+keywords:
+- biomechanical force
+- blood flow
+- fate determination
+- hematopoietic stem cell
+- hemogenic endothelium
+- mechanometabolism
+- mitochondria
+- mTORC1
+- protein translation
+- ribosomes
+- 5’terminal polypyrimidine (TOP) motif
+- wall shear stress
+---

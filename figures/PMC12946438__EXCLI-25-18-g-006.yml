@@ -1,0 +1,85 @@
+---
+figid: PMC12946438__EXCLI-25-18-g-006
+pmcid: PMC12946438
+image_filename: jpg
+figure_link: /pmc/articles/PMC12946438/figure/F6/
+number: Figure 6
+figure_title: 'Interaction and pathway analyses of candidate sarcopenia genes and
+  GSEA and key PPI analysis in Sarcopenia GSE226151. (A) STRING analysis results of
+  46 candidate genes: This analysis included 40 candidate genes identified from the
+  GSE226151 dataset, along with six additional genes (MYH8, PDK4, METTL21C, IGFN1,
+  SRC, and EP300) to examine protein-protein interaction (PPI) regulation. (B) PPI
+  results of selected candidate genes: Out of 19,350 genes, 46 were initially extracted
+  for PPI analysis, and 13 candidate genes were further selected based on PCA analysis.
+  The selected genes included SNAP25, BNDF, KLF4, IL6, BECN1, EP300, SRC, ADAM8, GDF15,
+  PDK4, IGFN1, MYH8, and METTL21C. KLF4, EP300, SRC, and ADAM8 are identified as central
+  nodes of interaction. (C) Intracellular pathway analysis and Cytoscape analysis
+  of candidate genes: In the neutrophil chemotaxis pathway, JAML is the closest gene
+  to other candidates, while CSF2RB is the most distantly related. The platelet-derived
+  growth factor receptor signaling pathways include NR4A3, ARID5B, and CSRNP1. (D)
+  Three primary signaling pathways identified through GSEA and their respective top
+  candidate genes based on enrichment scores. The main biological pathways involved
+  in sarcopenia regulation are (i) cytokine production involved in the inflammatory
+  response, (ii) phosphatidylinositol 3-kinase binding, and (iii) negative regulation
+  of the activin receptor signaling pathway. The top five candidate genes with the
+  highest enrichment scores in each pathway were selected as the top five genes with
+  the highest weights based on their enrichment scores within each of the three pathways:
+  (i) GBP5, SIRPA, CLEC7A, TICAM1, and MEFV; (ii) INSRR, PI3KR1, IRD1, DAB2IP, and
+  BECN1; and (iii) SMAD7, ACVR1, SMURF1, SKI, and NOMO3. (E) Cytoscape analysis of
+  key pathways for GSEA candidate genes. PPI signaling relationships and biological
+  functions were inferred for each of the 15 candidate genes ranked high in the GSEA
+  enrichment score (GBP5, SIRPA, CLEC7A, TICAM1, MEFV, INSRR, PI3KR1, IRD1, DAB2IP,
+  BECN1, SMAD7, ACVR1, SMURF1, SKI, and NOMO3). Using the GO app in Cytoscape, a relational
+  graph of gene associations was created, with nodes of varying sizes and colors representing
+  gene significance and function. In the cytokine production pathway related to the
+  inflammatory response, KLF4, CLEC7A, and MEFV appeared as central genes, whereas
+  TICAM1 and SIRPA were less prominent. Black arrows indicate the forward activation
+  of the signaling pathway'
+caption: 'Interaction and pathway analyses of candidate sarcopenia genes and GSEA
+  and key PPI analysis in Sarcopenia GSE226151. (A) STRING analysis results of 46
+  candidate genes: This analysis included 40 candidate genes identified from the GSE226151
+  dataset, along with six additional genes (MYH8, PDK4, METTL21C, IGFN1, SRC, and
+  EP300) to examine protein-protein interaction (PPI) regulation. (B) PPI results
+  of selected candidate genes: Out of 19,350 genes, 46 were initially extracted for
+  PPI analysis, and 13 candidate genes were further selected based on PCA analysis.
+  The selected genes included SNAP25, BNDF, KLF4, IL6, BECN1, EP300, SRC, ADAM8, GDF15,
+  PDK4, IGFN1, MYH8, and METTL21C. KLF4, EP300, SRC, and ADAM8 are identified as central
+  nodes of interaction. (C) Intracellular pathway analysis and Cytoscape analysis
+  of candidate genes: In the neutrophil chemotaxis pathway, JAML is the closest gene
+  to other candidates, while CSF2RB is the most distantly related. The platelet-derived
+  growth factor receptor signaling pathways include NR4A3, ARID5B, and CSRNP1. (D)
+  Three primary signaling pathways identified through GSEA and their respective top
+  candidate genes based on enrichment scores. The main biological pathways involved
+  in sarcopenia regulation are (i) cytokine production involved in the inflammatory
+  response, (ii) phosphatidylinositol 3-kinase binding, and (iii) negative regulation
+  of the activin receptor signaling pathway. The top five candidate genes with the
+  highest enrichment scores in each pathway were selected as the top five genes with
+  the highest weights based on their enrichment scores within each of the three pathways:
+  (i) GBP5, SIRPA, CLEC7A, TICAM1, and MEFV; (ii) INSRR, PI3KR1, IRD1, DAB2IP, and
+  BECN1; and (iii) SMAD7, ACVR1, SMURF1, SKI, and NOMO3. (E) Cytoscape analysis of
+  key pathways for GSEA candidate genes. PPI signaling relationships and biological
+  functions were inferred for each of the 15 candidate genes ranked high in the GSEA
+  enrichment score (GBP5, SIRPA, CLEC7A, TICAM1, MEFV, INSRR, PI3KR1, IRD1, DAB2IP,
+  BECN1, SMAD7, ACVR1, SMURF1, SKI, and NOMO3). Using the GO app in Cytoscape, a relational
+  graph of gene associations was created, with nodes of varying sizes and colors representing
+  gene significance and function. In the cytokine production pathway related to the
+  inflammatory response, KLF4, CLEC7A, and MEFV appeared as central genes, whereas
+  TICAM1 and SIRPA were less prominent. Black arrows indicate the forward activation
+  of the signaling pathway'
+article_title: 'Computational analysis of hub genes associated with sarcopenia: integrative
+  transcriptome insights from an Asian cohort'
+citation: Jae Gyu Kim, et al. EXCLI J. 2026;25(NA).
+year: '2026'
+pub_date: 2026--
+epub_date: 2026-1-02
+doi: 10.17179/excli2025-9087
+journal_title: EXCLI Journal
+journal_nlm_ta: EXCLI J
+publisher_name: Leibniz Research Centre for Working Environment and Human Factors
+keywords:
+- osteosarcopenia
+- biomarkers
+- transcriptomics
+- autophagy
+- inflammation
+---

@@ -1,0 +1,32 @@
+---
+figid: PMC12784724__cancers-18-00018-g003
+pmcid: PMC12784724
+image_filename: jpg
+figure_link: /pmc/articles/PMC12784724/figure/F3/
+number: Figure 3
+figure_title: Multi-group functional enrichment analysis of intersecting DEGs and
+  RF-selected genes.
+caption: Multi-group functional enrichment analysis of intersecting DEGs and RF-selected
+  genes. Dot plots show enriched pathways across four subgroups (HotHigh, HotLow,
+  ColdHigh, ColdLow). Colors indicate the database source (blue = GO, orange = KEGG,
+  green = Reactome), and dot size represents the number of genes involved in each
+  pathway
+article_title: 'Finding the True Responders: Stratifying dMMR/MSI-H Tumors for ICI
+  Response'
+citation: Nari Kim, et al. Cancers (Basel). 2026 Jan;18(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-19'
+doi: 10.3390/cancers18010018
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- dMMR
+- MSI-H
+- immune checkpoint inhibitors
+- immunogenomic stratification
+- biomarker
+- transcriptomic signature
+- precision immunotherapy
+---

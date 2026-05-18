@@ -1,0 +1,29 @@
+---
+figid: PMC12841238__genes-17-00004-g005
+pmcid: PMC12841238
+image_filename: jpg
+figure_link: /pmc/articles/PMC12841238/figure/F5/
+number: Figure 5
+figure_title: Single-cell sequencing analysis of CASP1 in CD.
+caption: Single-cell sequencing analysis of CASP1 in CD. (A) Cell-type annotation.
+  (B) Heatmap showing the distribution of the 47 DE-FRGs across cell types. (C) Bar
+  plot illustrating the proportions of CASP1+ and CASP1− cells within each cell type.
+  (D) Scatter plot of differential expression analysis between CASP1+ and CASP1− cells.
+  (E,F) KEGG pathway enrichment of (E) upregulated DEGs and (F) downregulated DEGs
+article_title: Machine Learning Reveals Common Regulatory Mechanisms Mediated by Autophagy-Related
+  Genes in the Development of Inflammatory Bowel Disease and Major Depressive Disorder
+citation: Gengxian Wang, et al. Genes (Basel). 2026 Jan;17(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-19'
+doi: 10.3390/genes17010004
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- autophagy
+- inflammatory bowel disease
+- major depressive disorder
+- machine learning algorithm
+- molecular docking and dynamics analysis
+---

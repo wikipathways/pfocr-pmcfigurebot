@@ -1,0 +1,40 @@
+---
+figid: PMC12840653__genes-17-00038-g002
+pmcid: PMC12840653
+image_filename: jpg
+figure_link: /pmc/articles/PMC12840653/figure/F2/
+number: Figure 2
+figure_title: Independent clinical validation of SERPINB3 overexpression and TNBC-specific
+  pathway activation using the METABRIC cohort.
+caption: 'Independent clinical validation of SERPINB3 overexpression and TNBC-specific
+  pathway activation using the METABRIC cohort. (A–C) SERPINB3 expression across >2400
+  primary breast cancers in the METABRIC dataset, stratified by molecular subtype.
+  Heatmap-style tracks demonstrate that SERPINB3 is overexpressed almost exclusively
+  in TNBC tumors (4% of 335 TNBC cases), with minimal expression in ER+ tumors (1.1%
+  of 1825 cases) and no detectable expression in HER2+ tumors (0% of 247 cases) *:
+  p < 0.05. (D) Pathway analysis of SERPINB3 was performed using the cBioPortal “Enrichment”
+  and “Pathway Analysis” modules, restricted to TNBC samples and ranked by p-value
+  significance. The top enriched pathways, “virus receptor activity”, emerged prominently.
+  (E) The second top enriched pathways enriched in SERPINB3-altered TNBC tumors is
+  epithelial–mesenchymal transition (EMT). The clustering of SERPINB3 within these
+  biologically coherent modules supports its mechanistic role in TNBC epithelial remodeling
+  and immune escape'
+article_title: Multi-Modal Profiling Reveals SERPINB3-Driven Immune Evasion and Stromal
+  Immune Mimicry in Triple-Negative Breast Cancer
+citation: Zinab O. Doha, et al. Genes (Basel). 2026 Jan;17(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-31'
+doi: 10.3390/genes17010038
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- triple-negative breast cancer
+- tumor microenvironment
+- single-cell RNA sequencing
+- immune evasion
+- SER-PINB3
+- immune mimicry
+- multiplex tissue imaging
+---

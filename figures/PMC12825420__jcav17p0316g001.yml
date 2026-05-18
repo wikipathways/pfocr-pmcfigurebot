@@ -1,0 +1,37 @@
+---
+figid: PMC12825420__jcav17p0316g001
+pmcid: PMC12825420
+image_filename: jpg
+figure_link: /pmc/articles/PMC12825420/figure/F1/
+number: Figure 1
+figure_title: Study workflow and integrative analyses for OSA-associated lung cancer.
+caption: Study workflow and integrative analyses for OSA-associated lung cancer. Study
+  workflow and integrative analyses for OSA-associated lung cancer. Overview of the
+  computational and experimental strategy. Multi-omics data (TCGA-LUAD, GSE301350,
+  GSE31210, GSE78820) and single-cell RNA-seq datasets were integrated to quantify
+  stemness (CytoTRACE, stemness scores), characterize immune infiltration (CIBERSORT,
+  ESTIMATE), and assess functional pathways (GO ontology, and KEGG,). Prognostic modeling
+  was performed using LASSO Cox regression and validated in independent cohorts. Immunotherapy
+  response was evaluated using TIDE and IMvigor210 datasets, and drug sensitivity
+  was predicted using GDSC data. The pipeline highlights the integration of stemness
+  quantification, immune landscape profiling, and therapeutic prediction in OSA-associated
+  lung cancer
+article_title: Single-cell and transcriptomic profiling reveal stemness-driven immune
+  evasion in obstructive sleep apnea (OSA) associated lung cancer
+citation: Yu-Wei Liu, et al. J Cancer. 2026;17(2).
+year: '2026'
+pub_date: 2026--
+epub_date: 2026-1-1
+doi: 10.7150/jca.126708
+journal_title: Journal of Cancer
+journal_nlm_ta: J Cancer
+publisher_name: Ivyspring International Publisher
+keywords:
+- obstructive sleep apnea
+- intermittent hypoxia
+- lung cancer
+- stemness
+- immune evasion
+- prognostic model
+- immunotherapy
+---

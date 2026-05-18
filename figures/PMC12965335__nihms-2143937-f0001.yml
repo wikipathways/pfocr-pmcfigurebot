@@ -1,0 +1,35 @@
+---
+figid: PMC12965335__nihms-2143937-f0001
+pmcid: PMC12965335
+image_filename: jpg
+figure_link: /pmc/articles/PMC12965335/figure/F1/
+number: Fig. 1.
+figure_title: Manipulation of hyperdirect pathway synaptic weights affects DLEP latency
+  and amplitude dynamics
+caption: A. DLEPs decrease in amplitude and increase in latency over the course of
+  minutes during continuous 130 Hz DBS in participants with PD. B. The model includes
+  excitatory subthalamic nucleus (STN), inhibitory globus pallidus pars externus (GPe),
+  and excitatory cortical axons (CTX) representing the hyper-direct pathway. Reprinted
+  from Schmidt et al., 2020. C. The original model simulated over 120 s of 130 Hz
+  DBS yields DLEPs (above) that do not change over time (below). Each DLEP waveform
+  line (above) is a 10-s average, and each dot on the scatter plot (below) represents
+  the DLEP peak-to-peak amplitude and latency for each 1-s bin over 120 s. D. When
+  hyperdirect pathway synapse weights are incrementally decreased each second over
+  120 s of DBS, DLEP parameters change similar to empirical DLEPs. Line and dot colors
+  for A, C, and D follow the colorbar at the bottom of the figure
+article_title: Mechanisms mediating dynamic changes in neural responses during deep
+  brain stimulation
+citation: Jahrane A. Dale, et al. Brain Stimul. 2026;19(1).
+year: '2026'
+pub_date: 2026--
+epub_date: '2025-12-10'
+doi: 10.1016/j.brs.2025.103002
+journal_title: Brain stimulation
+journal_nlm_ta: Brain Stimul
+publisher_name: .na.character
+keywords:
+- Parkinson’s disease
+- Synaptic plasticity
+- Deep brain stimulation
+- Evoked potentials
+---

@@ -1,0 +1,43 @@
+---
+figid: PMC12846728__thnov16p3408g005
+pmcid: PMC12846728
+image_filename: jpg
+figure_link: /pmc/articles/PMC12846728/figure/F5/
+number: Figure 5
+figure_title: PFKM-p53 interaction induces PD-1.
+caption: 'PFKM-p53 interaction induces PD-1. (A) Heatmap analysis of genes in the
+  Integrin-mediated signaling pathway. (B) A Venn diagram shows the intersection of
+  two gene sets: List1 (yellow) represents genes associated with the p53 signaling
+  pathway; List2 (pink) includes genes related to macrophage phagocytosis. (C) Real-time
+  RT-PCR shows mRNA expression levels of the 8 indicated genes. (D) Co-IP combined
+  with Western Blotting shows the acetylation level of lysine 120 on p53. (E) HEK-293T
+  cells were transfected with p53-targeting shRNA (shp53) for 24 h. The p53 level
+  was determined by Western blotting. (F) Luciferase assay evaluates the transcriptional
+  activity of Pdcd1 following nuclear PFKM overexpression and p53 knockdown. (G) Schematic
+  diagram of the mouse Pdcd1 gene locus with four potential p53-binding regions. TSS,
+  transcription start site. (H) RAW264.7 cells were transfected with p53-targeting
+  siRNA (sip53) or negative control siRNA (NC) for 24 h. The p53 level was determined
+  by Western blotting. (I-M) ChIP analysis of p53 occupancy on Pdcd1 promoter region
+  in RAW-OE-nPFKM cells treated with or without DOX (600 ng/mL) for 48 h. Enrichment
+  of the Pdcd1 promoter region was quantified by real-time PCR. (I-L) ChIP was performed
+  with an anti-Flag antibody. (M) ChIP was performed with an anti-p53 antibody. Data
+  are expressed as mean ± SD. Statistical significance was determined by unpaired
+  t-test for (C), by one-way ANOVA for (F), and by two-way ANOVA for (I, J, K, L,
+  and M). *P < 0.05, ***P < 0.001'
+article_title: Nanobody Nb07 mitigates sepsis by blocking the PFKM-p53-PD-1 axis to
+  enhance macrophage phagocytosis
+citation: Binbin Ji, et al. Theranostics. 2026;16(7).
+year: '2026'
+pub_date: 2026--
+epub_date: 2026-1-1
+doi: 10.7150/thno.124303
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+keywords:
+- sepsis
+- PFKM
+- moonlighting function
+- macrophage
+- phagocytosis
+---

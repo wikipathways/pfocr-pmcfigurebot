@@ -1,0 +1,48 @@
+---
+figid: PMC12786111__ijms-27-00077-g003
+pmcid: PMC12786111
+image_filename: jpg
+figure_link: /pmc/articles/PMC12786111/figure/F3/
+number: Figure 3
+figure_title: 'GO and KEGG enrichment analyses were conducted on intersecting target
+  genes: (A) The GO bubble diagram illustrates the annotation of these intersecting
+  genes across BP, CC, and MF.'
+caption: 'GO and KEGG enrichment analyses were conducted on intersecting target genes:
+  (A) The GO bubble diagram illustrates the annotation of these intersecting genes
+  across BP, CC, and MF. The x-axis represents the gene ratio, which is calculated
+  as the number of genes from the target gene set belonging to a specific GO term
+  divided by the total number of genes in that GO term. The y-axis displays the names
+  of the GO functional entries. The color gradient indicates the corrected p-value,
+  with a deeper red signifying greater significance. The size of the bubbles corresponds
+  to the number of enriched genes, with larger bubbles indicating a higher gene count.
+  (B) The GO circle diagram provides a detailed view of gene enrichment across various
+  GO entries. The outermost circle scale represents the total number of genes, expressed
+  as a power of 10. The first circle denotes the pathway number and classification.
+  The length of the rectangles in the second circle reflects the number of genes associated
+  with each term, with darker colors indicating higher enrichment significance. The
+  length of the rectangles in the third circle represents the number of genes overlapping
+  with the GO entry in the input gene set. The fourth circle illustrates the ratio
+  of the number of genes in the third circle to the corresponding number of genes
+  in the second circle. (C) The KEGG histogram illustrates the enriched pathways of
+  the intersecting genes. The x-axis denotes the number of genes within each pathway,
+  while the y-axis lists the names of the pathways. The color gradient of the bars
+  indicates the corrected p-value, with a deeper red signifying greater significance'
+article_title: Molecular Mechanisms of Aspartame-Induced Kidney Renal Papillary Cell
+  Carcinoma Revealed by Network Toxicology and Molecular Docking Techniques
+citation: Chenjie Huang, et al. Int J Mol Sci. 2026 Jan;27(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-21'
+doi: 10.3390/ijms27010077
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- kidney renal papillary cell carcinoma
+- aspartame
+- network toxicology
+- molecular docking
+- SHAP analysis
+- survival analysis
+- molecular mechanism
+---

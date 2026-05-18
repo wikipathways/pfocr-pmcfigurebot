@@ -1,0 +1,53 @@
+---
+figid: PMC12782086__nihms-2129014-f0003
+pmcid: PMC12782086
+image_filename: jpg
+figure_link: /pmc/articles/PMC12782086/figure/F2/
+number: Figure 2.
+figure_title: Mitochondria are remodeled by the embryonic heartbeat in hematopoietic
+  precursors
+caption: (A) scRNA-seq of E9.5 Ncx1 heartbeat mutant and wild type 7-AAD− Ter119−
+  VE-Cad+ 23GFP+ cells from para-aortic splanchnopleura segregates endothelial cell
+  subsets undergoing endothelial-to-hematopoietic transition (EHT). Clustering, pseudotime
+  analysis, and classification of cell types were conducted using the Monocle 3 toolkit.
+  Populations were classified as early arterial endothelium (eAE), mature arterial
+  endothelium (mAE), hemogenic endothelium (HE), hematopoietic progenitor cells (HPC),
+  venous or unspecified vascular endothelium (VE), neurovascular cells (NV), or cardiomyocytes
+  (Card). Unknown cells failed to meet strict classification criteria and were not
+  analyzed. (B) The top 20 KEGG pathways from up- and down-regulated genes comparing
+  Ncx1 wild-type (wt) and mutant (ko) genotypes identified enrichment in OXPHOS, ribosome,
+  proteasome, and mTOR signaling genes at multiple stages of EHT. (C) Mitochondrial
+  gene expression is reduced in Ncx1 knockout cells. Kruskall-Wallis p-values represent
+  comparison across all groups. (D) Transmission electron microscopy (TEM) reveals
+  that mitochondrial cristae are poorly developed in endothelial cells lining the
+  Ncx1 mutant dorsal aorta. Insets depict a dashed line demarcating the orientation
+  of sectioning of the embryo and the transverse section of the embryo stained by
+  Toluidine Blue, where the neural tube is visible as an intensely stained region
+  just above the aorta. Purple pseudo-color highlights each mitochondrion for ease
+  of visualizing cristae. Wild-type cristae are denser (darker with little white space),
+  whereas mutant cristae are sparse (lighter cristae with greater white space). Scale
+  bar represents 50 nm. (E) Ncx1 mutant aortas have reduced mitochondrial numbers
+  and fewer cristae. n= 4 wild type, 3 mutant; T-test *p<0.05
+article_title: Mechanometabolism instructs hematopoietic stem cell specification
+citation: Paulina D. Horton, et al. J Exp Med. 2026 Mar 02;223(3).
+year: '2026'
+pub_date: 2026-3-02
+epub_date: '2025-12-09'
+doi: 10.1084/jem.20250607
+journal_title: The Journal of experimental medicine
+journal_nlm_ta: J Exp Med
+publisher_name: .na.character
+keywords:
+- biomechanical force
+- blood flow
+- fate determination
+- hematopoietic stem cell
+- hemogenic endothelium
+- mechanometabolism
+- mitochondria
+- mTORC1
+- protein translation
+- ribosomes
+- 5’terminal polypyrimidine (TOP) motif
+- wall shear stress
+---

@@ -1,0 +1,32 @@
+---
+figid: PMC12990825__nihms-2132827-f0002
+pmcid: PMC12990825
+image_filename: jpg
+figure_link: /pmc/articles/PMC12990825/figure/F2/
+number: Figure 2.
+figure_title: Response of hHiPC proteomes to RA
+caption: (A) Heatmap of 50 most significantly up- and down-regulated proteins by RA
+  across four clones from different donors (mean of 3 measurements/treatment/clone,
+  all FDR<0.05). (B) PCA of all proteins quantified in hHiPC (3 measurements/treatment/clone).
+  Proportion of total variance is depicted on each PC axis. (C) Protein expression
+  from a single clone (LV14) mapped onto Ingenuity Pathway Analysis prediction of
+  molecule-disease interactions. Orange/blue denote increased/decreased predicted
+  disease mechanisms. Red/green denote measured increase/decrease in protein expression
+  in RA-treated hHiPC
+article_title: Retinoic acid promotes expression of inflammatory factors in proliferative
+  adult human heart cells
+citation: Ian M. Gans, et al. Am J Physiol Cell Physiol. 2026 Feb 01;330(2).
+year: '2026'
+pub_date: 2026-2-01
+epub_date: '2025-12-18'
+doi: 10.1152/ajpcell.00696.2025
+journal_title: American journal of physiology. Cell physiology
+journal_nlm_ta: Am J Physiol Cell Physiol
+publisher_name: .na.character
+keywords:
+- retinoic acid
+- heart failure
+- inflammation
+- cardiac remodeling
+- cell therapeutics
+---

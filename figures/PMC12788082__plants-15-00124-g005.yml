@@ -1,0 +1,53 @@
+---
+figid: PMC12788082__plants-15-00124-g005
+pmcid: PMC12788082
+image_filename: jpg
+figure_link: /pmc/articles/PMC12788082/figure/F5/
+number: Figure 5
+figure_title: A model for growth induction by S.
+caption: A model for growth induction by S. coelicolor volatiles via KMD proteins
+  active at the auxin-cytokinin signaling intersection. Components induced by S. coelicolor
+  (S.c.) volatiles are colored in red, auxin pathway components in yellow, and cytokinin
+  response pathway components are blue. Connectors ending in arrows or blocks indicate
+  activation and suppression, respectively, and dotted lines represent movement of
+  the compounds to the activation sites. The A. thaliana volatile response is caused
+  by S.c. volatile perception by the plant cell. This leads to the upregulation of
+  the KISS ME DEADLY (KMD) protein family that suppresses cytokinin signaling through
+  the degradation of Type-B ARR proteins [23], as well as inhibiting phenylpropanoid
+  metabolism [38]. Auxiliary to this, pectinolytic cell-wall-modifying enzymes are
+  enhanced. The reduction in Type-B ARR proteins would lead to decreased expression
+  of SHY2, decreasing its suppression of the auxin efflux transporters PINs, leading
+  to increased auxin transport and signaling [12]. Auxin is transported into the plant
+  cell via the influx transporter AUX1/LAX family [12]. Auxin then becomes a ligand
+  of the F-box receptor protein TIR1 that binds and inhibits the AUX/IAAs transcriptional
+  repressors, preventing their interaction with promoter elements in auxin-inducible
+  genes [39]. ARF transcription factors are instead attracted to these promoters and
+  activate the transcription of auxin-responsive genes, such as the SMALL AUXIN UP
+  RNAs (SAURs) that promote cell expansion [12]. Also induced by ARFs are the AUX/IAA
+  repressing transcription factors, which then act as a close valve for the system
+  [12]. ARF5 has an additive response to promote the cytokinin signaling suppressor
+  AHP6, which inhibits the cytokinin receptor AHK/CRE1 phospho-transfer to AHP1-5
+  proteins [12]. The reduced phosphorylation of AHP1-5 leads to inactivation of Type-B
+  ARR proteins and enhanced suppression by ambient Type-A ARRs proteins [12]
+article_title: Streptomyces Volatiles Alter Auxin/Cytokinin Signaling, Root Architecture,
+  and Growth Rate in Arabidopsis thaliana via Signaling Through the KISS ME DEADLY
+  Gene Family
+citation: Bradley R. Dotson, et al. Plants (Basel). 2026 Jan;15(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: 2026-1-01
+doi: 10.3390/plants15010124
+journal_title: Plants
+journal_nlm_ta: Plants (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- 3-octanone
+- Streptomyces coelicolor
+- Streptomyces venezuelae
+- KISS ME DEADLY
+- plant–microbe interactions
+- biostimulation
+- microbial volatile organic compounds
+- auxin-cytokinin crosstalk
+- C8 volatiles
+---

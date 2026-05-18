@@ -1,0 +1,43 @@
+---
+figid: PMC12785028__cells-15-00025-g002
+pmcid: PMC12785028
+image_filename: jpg
+figure_link: /pmc/articles/PMC12785028/figure/F2/
+number: Figure 2
+figure_title: Arginine deprivation activates IFNγ/JAK-STAT in vivo despite in vitro
+  suppression.
+caption: Arginine deprivation activates IFNγ/JAK-STAT in vivo despite in vitro suppression.
+  (A–C) Pathway enrichment of Hallmark gene sets of KD + AFD vs. Ctrl (A), AFD vs.
+  Ctrl (B), and KD vs. Ctrl. (C) Shows upregulation of unfolded protein response (green)
+  and IFNγ/JAK-STAT signaling (light orange) in cancer cells from the single-cell
+  RNA sequencing following different modes of arginine restriction (scArg-screen).
+  BALB/c female mice were inoculated with 4T1-shGfp or 4T1-shAss1 cells and fed with
+  a standard diet or an AFD. Tumors of 4–5 mice from each group were pooled together.
+  Red line = FDR q-value threshold of 0.25. (D) Western blot (left) and its quantification
+  (right) of pJAK2 and JAK2 expression in tumors from mice fed with a standard diet
+  (n = 4) or an AFD (n = 7) on day 7 after tumor inoculation. Student’s t-test. ***
+  p-value < 0.001. (E) Spearman correlations in TCGA-TNBC tumors show a correlation
+  between ASS1 and IFNγ/JAK-STAT genes. Red = positive correlation; blue = negative
+  correlation. Significant genes (FDR < 0.05) are colored; “all” and “activity” reflect
+  gene average and estimated activity by single-sample gene set enrichment analysis
+  (ssGSEA), respectively. Full data are provided in Table S2. (F) Western blot (upper)
+  and its quantification (lower) show IFNγ-induced JAK-STAT-PSMB9-10 expression in
+  4T1 spheroids only in the presence of arginine. n = 2 replicates. The experiment
+  was repeated 3 times. Student’s t-test. ns—not significant, * p < 0.05; ** p < 0.01;
+  *** p < 0.001
+article_title: Inhibition of Tumor Microenvironment-Driven JAK-STAT Signaling Enhances
+  Response to Arginine Deprivation Therapy in Triple-Negative Breast Cancer
+citation: Hila Tishler, et al. Cells. 2026 Jan;15(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-23'
+doi: 10.3390/cells15010025
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- ASS1
+- arginine
+- tumor microenvironment
+- JAK-STAT
+---

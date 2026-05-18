@@ -1,0 +1,29 @@
+---
+figid: PMC12837847__ijbsv22p1247g001
+pmcid: PMC12837847
+image_filename: jpg
+figure_link: /pmc/articles/PMC12837847/figure/F1/
+number: Figure 1
+figure_title: CDC42 was upregulated in the kidneys of AKI patients, CP-AKI mice and
+  I/R-AKI mice.
+caption: |-
+  CDC42 was upregulated in the kidneys of AKI patients, CP-AKI mice and I/R-AKI mice. (A) Uniform manifold approximation and projection (UMAP) of 96527 cells from individuals with controls (left) and AKI (right). Data were originated from the scRNA-seq dataset reported by Christian et al.
+  24. (Podo, podocytes; PT, proximal tubule; tL, thin limb; TAL, thick ascending limb; DCT, distal convoluted tubule; CNT, connecting tubule; CD-PC/IC-A/IC-B, collecting duct principal/intercalated cells type A and B; Leuk, leukocytes; IntC, interstitial cells); (B) Dot plot showing the representative maker genes of each cell cluster; (C) KEGG pathway enrichment analysis of PT cells from control and AKI group; (D) Volcano plot of PT cells in the control and AKI group; (E) Violin plot indicated significantly upregulation of CDC42 in PT cells from AKI group; (F) BUN and blood Cr (G) concentrations in mice were increased upon CP-challenge time-dependently (n = 5, means ± SEM); (H) Representative H&E-stained kidney sections from CP-treated mice showed tubular injury features such as cast formation (black arrows), brush border loss (red arrows), epithelial cell necrosis (yellow arrows), and tubular dilation (blue pentagram). n = 5, scale bars: 100 μm (overview), 20 μm (magnified); (I) Renal tubular injury scores of (H); (J-K) Immunohistochemical staining revealed elevated Cdc42 expression (brown signal, red arrows) in renal tubules of CP-AKI mice (n = 5). Scale bars: 50 μm (overview), 20 μm (magnified); (L) Renal Cdc42 mRNA levels were significantly increased in CP-induced AKI mice (n = 5); (M) BUN and Cr (N) concentrations were increased in I/R-induced AKI mice (n = 3); (O) H&E staining demonstrated severe kidney injury in I/R mice (n = 3). Scale bars: 50 μm (overview), 20 μm (magnified); (P) Renal tubular injury scores of (O); (Q-R) IHC staining implied increased Cdc42 expression in I/R-AKI mice (n = 3). Scale bars: 50 μm (overview), 20 μm (magnified); (S) Renal Cdc42 mRNA levels were increased in I/R-AKI mice (n = 3); Data were presented as means ± SD unless other noted. * 0.01 < p ≤ 0.05, ** 0.001< p ≤ 0.01, *** 0.0001 <p ≤ 0.001, **** p ≤ 0.0001
+article_title: Targeting CDC42 Protects Mitochondrial Function through KLF2/HIF-1α/PINK1
+  Signaling in Acute Kidney Injury
+citation: Xue Zhou, et al. Int J Biol Sci. 2026;22(3).
+year: '2026'
+pub_date: 2026--
+epub_date: 2026-1-1
+doi: 10.7150/ijbs.125930
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- acute kidney injury
+- cell division cycle 42
+- mitochondrial dysfunction
+- kruppel-like factor 2
+- hypoxia-inducible factor-1alpha
+- oxidative stress
+---

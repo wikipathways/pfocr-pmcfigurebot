@@ -1,0 +1,57 @@
+---
+figid: PMC12785273__ijms-27-00295-g004
+pmcid: PMC12785273
+image_filename: jpg
+figure_link: /pmc/articles/PMC12785273/figure/F4/
+number: Figure 4
+figure_title: Prediction workflow of key epigenetic regulator-based optimal ML models.
+caption: 'Prediction workflow of key epigenetic regulator-based optimal ML models.
+  (A) Heatmaps (left) display the predictions for 216 candidate dietary supplements
+  or nutrients. Red indicates that the dietary supplement or nutrient is predicted
+  to have a mitigating effect through a given epigenetic regulator, while green denotes
+  that the dietary supplement or nutrient is predicted to have no mitigating effects.
+  The bar chart (right) illustrates the proportion of candidate dietary supplements
+  or nutrients predicted to target each epigenetic pathway. Among these, DNMT3a-related
+  regulation accounted for the largest proportion (60.65%), followed by HDAC (43.06%)
+  and microRNAs (25.30%). Within the microRNA category, individual regulatory coverage
+  was observed for miR-34a (9.26%), miR-125b (20.83%), and miR-135a (0.93%). Percentages
+  were calculated separately for each regulator, and overlapping targets were included.
+  (B) Ranking of dietary supplements or nutrients based on predicted mitigating potential
+  against ethanol-induced adverse effects. The Y-axis shows the rank score, and the
+  X-axis lists the 216 dietary supplements or nutrients. Dot colors represent the
+  associated epigenetic regulator. Red: miR-34a; Green: DNMT3a; Blue: HDAC; Orange:
+  miR-125b; Purple: miR-135a. White dots denote that dietary supplements or nutrients
+  were predicted to have an insignificant mitigation effect on alcohol-induced effects
+  by modulating the regulatory factors. Single-colored dots indicate that dietary
+  supplements/nutrients are predicted to exert a mitigation effect through modulating
+  a single epigenetic regulator (miR-34a, DNMT3a, HDAC, miR-125b, or miR-135a), while
+  multi-colored dots reflect that the dietary supplements or nutrients are predicted
+  to have a mitigation effect by modulating multiple epigenetic regulators. (C) The
+  radar chart illustrates the epigenetic targets of selected high-potential compounds
+  for mitigation. Each axis corresponds to one of the five key epigenetic regulators
+  (e.g., miR-34a, DNMT3a, HDAC, miR-125b, or miR-135a). Each data point represents
+  the prediction of each dietary supplement or nutrient with the corresponding epigenetic
+  regulator. The orange lines indicate epigenetic regulatory targets that are predicted
+  to be modulated by dietary supplements or nutrients. The blue text represents dietary
+  supplements or nutrients that are predicted to exert mitigating effects through
+  the indicated epigenetic regulators. An ellipsis indicates the presence of additional
+  dietary supplements or nutrients beyond those explicitly labeled. The revised figure
+  has been added'
+article_title: Biologically Informed Machine Learning Prioritizes Dietary Supplements
+  That Protect Neural Crest Cells from Ethanol-Induced Epigenetic Dysregulation and
+  Developmental Impairment
+citation: Xiaoqing Wang, et al. Int J Mol Sci. 2026 Jan;27(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-27'
+doi: 10.3390/ijms27010295
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- artificial intelligence
+- biologically informed machine learning models
+- epigenetics
+- neural crest cells
+- fetal alcohol spectrum disorders (FASD)
+---

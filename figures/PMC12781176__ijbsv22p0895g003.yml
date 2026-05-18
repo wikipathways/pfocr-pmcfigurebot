@@ -1,0 +1,48 @@
+---
+figid: PMC12781176__ijbsv22p0895g003
+pmcid: PMC12781176
+image_filename: jpg
+figure_link: /pmc/articles/PMC12781176/figure/F3/
+number: Figure 3
+figure_title: The KYN-AHR Axis regulates cytokine secretion and activates the cGAS-STING
+  pathway in macrophages.
+caption: 'The KYN-AHR Axis regulates cytokine secretion and activates the cGAS-STING
+  pathway in macrophages. (A) Multiplex analysis of cytokine secretion profiles in
+  dMφs from URPL and normal pregnancies (n = 6 per group). (B) Cytokine secretion
+  profiles of THP-1 derived macrophages cells (THP-1-Mφs) treated with or without
+  KYN (25 μM), assessed using a multiplex assay (n = 3 per group). (C) RNA-seq analysis
+  comparing gene expression profiles between THP-1-Mφs overexpressing AHR (OE-AHR)
+  and negative control cells (OE-NC). The volcano plot displays significantly differentially
+  expressed genes (n = 3 per group). (D) Chord plot showing the top five most significantly
+  enriched GO terms and their associated differentially expressed genes. (E) Bar plot
+  presenting the top 20 most significantly enriched pathways from KEGG analysis using
+  GSEA analysis. (F) Heatmap and adjacent bar chart depicting the differential expression
+  of genes involved in the “cytosolic DNA-sensing pathway” between OE-AHR and OE-NC
+  cells. (G) Western blot analysis of proteins related to the cGAS-STING pathway,
+  including cGAS, p-STING, STING, p-TBK1, TBK1, p-IRF3, and IRF3 in OE-AHR and OE-NC
+  THP-1 cells (n = 3 per group). (H) UMAP plot showing cGAS expression levels in dMφs
+  subsets using scRNA-seq data from URPL and normal pregnancies. (I) Representative
+  immunofluorescence images showing co-localization of cGAS and CD68 in decidual tissue
+  from URPL and normal pregnancies (n = 5 per group). (J) Representative immunofluorescence
+  images of cGAS and F4/80 co-staining in the decidual tissues from NP and AP mice
+  (n = 6 per group). Data are presented as mean ± SD. Statistical significance was
+  determined using the Student''s t-test; ns: not significant, *p < 0.05, **p < 0.01,
+  *** p < 0.001'
+article_title: Excessive Kynurenine Metabolism Impairs Lysosomal acidification and
+  Triggers mtDNA Release via the AHR/CISH/ATP6V1A Axis in Decidual Macrophages Associated
+  with Unexplained Recurrent Pregnancy Loss
+citation: Guangmin Song, et al. Int J Biol Sci. 2026;22(2).
+year: '2026'
+pub_date: 2026--
+epub_date: 2026-1-1
+doi: 10.7150/ijbs.121947
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- recurrent pregnancy loss
+- decidual macrophages
+- aryl hydrocarbon receptor
+- extravillous trophoblasts
+- mitochondrial DNA
+---

@@ -1,0 +1,47 @@
+---
+figid: PMC12930254__nihms-2142789-f0002
+pmcid: PMC12930254
+image_filename: jpg
+figure_link: /pmc/articles/PMC12930254/figure/F2/
+number: 'Figure 2:'
+figure_title: 'Genes regulated by CHK2-YBX1&YBX3 interaction: integration of RNA-seq
+  and ChIP-seq data'
+caption: (A) Volcano plot showing differentially expressed genes (upregulated and
+  downregulated) in CHK2 knockout U87 cells. Upregulated genes are highlighted in
+  the right half, and downregulated genes are in the left half. (B) Volcano plot showing
+  differentially expressed genes in YBX1 knockout U87 cells. (C) Volcano plot showing
+  differentially expressed genes in YBX3 knockout U87 cells. (D) Venn diagram illustrating
+  the overlap of downregulated genes among CHK2, YBX1, and YBX3 knockout U87 cells,
+  with the central green-labeled region indicating the 244 shared genes. (E) Venn
+  diagram illustrating the overlap of upregulated genes among CHK2, YBX1, and YBX3
+  knockout U87 cells, with 462 red color shared genes in the center. (F) KEGG pathway
+  enrichment analysis of the 462 overlapping upregulated genes, visualized as a bar
+  graph. The x-axis represents the −log10 (p-value), while the y-axis lists significantly
+  enriched pathways. Darker green bars indicate more significant pathways. (G) Venn
+  diagram showing ChIP-seq data from publicly available ENCODE datasets, illustrating
+  2,606 genes that are co-bound by YBX1 and YBX3. (H) Venn diagram depicting the overlap
+  between ChIP-seq peaks (YBX1&YBX3-bound regions) and genes upregulated in CHK2,
+  YBX1, and YBX3 knockout cells. The 32 identified genes are likely direct transcriptional
+  targets. (I) Heatmap showing the expression of 32 upregulated genes across CHK2,
+  YBX1, and YBX3 knockout conditions. The color scale represents Z-score normalized
+  expression, where red indicates upregulation and green indicates downregulation.
+  Hierarchical clustering was applied to group genes with similar expression patterns
+  across knockout conditions
+article_title: YBX1&YBX3 as novel targets to potentiate immune checkpoint blockade
+  response in gliomas
+citation: Heba Ali, et al. Neuro Oncol. 2026 Jan 01;28(1).
+year: '2026'
+pub_date: 2026-1-01
+epub_date: 2026-1-01
+doi: 10.1093/neuonc/noaf227
+journal_title: Neuro-oncology
+journal_nlm_ta: Neuro Oncol
+publisher_name: .na.character
+keywords:
+- Glioma
+- CHK2
+- Immunosuppression
+- YBX1/3
+- Immunotherapy
+- Biological Sciences
+---

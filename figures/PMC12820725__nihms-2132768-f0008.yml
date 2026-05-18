@@ -1,0 +1,46 @@
+---
+figid: PMC12820725__nihms-2132768-f0008
+pmcid: PMC12820725
+image_filename: jpg
+figure_link: /pmc/articles/PMC12820725/figure/F7/
+number: Figure 7.
+figure_title: Rpl22-deficient leukemia cells are dependent on elevated lipid synthesis
+caption: (A) Leukemia explants from MLL-AF9-knockin Rpl22+/+ (M82) and Rpl22−/− (M109)
+  mice were analyzed by RNA-seq. A heatmap of 2,671 differentially expressed genes
+  is displayed.(B) Top 20 upregulated essential genes in Rpl22−/− leukemias identified
+  using the CRISPR DEPMAP CERES dataset across human leukemia cell lines and displayed
+  as a bubble plot of the impact of their genetic disruption on leukemia survival.(C)
+  Differentially expressed genes were subjected to pathway analysis (Protein Analysis
+  Through Evolutionalary Relationships; PANTHER) with the top upregulated and downregulated
+  pathways displayed. The number of differentially expressed genes per pathway is
+  indicated. </p/>(D) Bubble plot of the top five Reactome pathways depicting the
+  most upregulated metabolic pathways in Rpl22−/− MLL-AF9 leukemias.(E) qPCR analysis
+  of Lin28b mRNA expression in Rpl22+/+ and Rpl22−/− MLL-AF9 leukemias. Statistical
+  significance was calculated using a two-tailed t test with Welch’s correction. Normalized
+  Lin28b expression is depicted graphically as the mean +/− SD.(F) Heatmap of 103
+  Lin28b gene targets induced in Rpl22−/− MLL-AF9 leukemias, subdivided based on whether
+  they are direct Lin28b targets or are indirectly regulated through Lin28b modulation
+  of Let7 micro-RNAs (mIRs).(G) Lipid content of Rpl22+/+ and Rpl22−/− leukemias as
+  measured by Nile red staining. Statistical significance was calculated using a two-tailed
+  t test with Welch’s correction. Normalized lipid content is depicted graphically
+  as mean +/− SD.(H) Triacylglycerol (TG) levels were measured on detergent extracts
+  of Rpl22+/+ and Rpl22−/− leukemias using a colorimetric assay quantifying oxidized
+  glycerol liberated by lipase digestion. Mean ± SD of triplicate measures of nMol
+  TG per ng of protein were expressed graphically. Statistical significance was determined
+  using one-way ANOVA.(I) The effect of inhibiting TG synthesis using DGAT1 inhibitor
+  (DGAT1-IN-1) at 25 μM on the growth of Rpl22+/+ and Rpl22−/− leukemias was assessed
+  by 3-(4,5 dimethylthiazol-2-yl)-2,5-diphenyltetrazoliumbromide (MTT) assay. Triplicate
+  measures were expressed graphically as mean ± SD for each different drug concentration.Statistical
+  significance was determined by two-way ANOVA
+article_title: Ribosomal protein control of hematopoietic stem cell transformation
+  through regulation of metabolism
+citation: Bryan Harris, et al. Cell Rep. 2025 Dec 23;44(12).
+year: '2025'
+pub_date: '2025-12-23'
+epub_date: '2025-12-12'
+doi: 10.1016/j.celrep.2025.116688
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

@@ -1,0 +1,43 @@
+---
+figid: PMC12785335__ijms-27-00279-g006
+pmcid: PMC12785335
+image_filename: jpg
+figure_link: /pmc/articles/PMC12785335/figure/F6/
+number: Figure 6
+figure_title: 'Expression-based TNF–TNFR signaling analysis and upstream NF-κB activation
+  patterns in control and DKD kidneys: (A) Bubble plot showing expression-based TNF–TNFR
+  signaling interactions in control group.'
+caption: 'Expression-based TNF–TNFR signaling analysis and upstream NF-κB activation
+  patterns in control and DKD kidneys: (A) Bubble plot showing expression-based TNF–TNFR
+  signaling interactions in control group. Each bubble represents a sender–receiver
+  cell pair, with TNF (ligand) expression used as a proxy for sender capacity and
+  TNFRSF1A/TNFRSF1B (receptor) expression indicating receiver capacity. Bubble color
+  indicates interaction strength (scaled by expression levels), and bubble size reflects
+  the proportion of participating cells. (B) Bubble plot displaying TNF–TNFR signaling
+  interactions in DKD kidneys. Format identical to panel A. TNF–TNFR communication
+  trends are more pronounced in DKD. (C) Heatmap comparing control versus DKD differences
+  in combined upstream NF-κB-related signaling pathways. Columns represent sender
+  cell populations, rows represent receiver cell populations, and color intensity
+  indicates relative changes in signaling strength (red = increased in DKD, blue =
+  decreased in DKD). In DKD, major NF-κB senders include not only immune cells (cDC)
+  but also renal resident populations'
+article_title: Multi-Omics Integration Identifies TNFRSF1A as a Causal Mediator of
+  Immune Microenvironment Reprogramming in Diabetic Kidney Disease
+citation: Wanqiu Xie, et al. Int J Mol Sci. 2026 Jan;27(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-26'
+doi: 10.3390/ijms27010279
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- diabetic kidney disease
+- TNFRSF1A
+- single-cell transcriptomics
+- Mendelian randomization
+- immune microenvironment
+- zebrafish model
+- inflammation
+- NF-κB signaling
+---

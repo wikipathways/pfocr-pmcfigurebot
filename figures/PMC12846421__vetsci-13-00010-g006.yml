@@ -1,0 +1,32 @@
+---
+figid: PMC12846421__vetsci-13-00010-g006
+pmcid: PMC12846421
+image_filename: jpg
+figure_link: /pmc/articles/PMC12846421/figure/F6/
+number: Figure 6
+figure_title: Conjoint analysis of m6A-RIP-seq and RNA-seq data.
+caption: Conjoint analysis of m6A-RIP-seq and RNA-seq data. (a) A four-quadrant graph
+  highlighting DEGs containing differentially methylated m6A peaks. (b) PPI network
+  constructed with dysregulated m6A-modified genes. Cytoscape was used to visualize
+  a network incorporating m6A-modified genes/proteins based on the conjoint analysis
+  of m6A-RIP-seq and RNA-seq data. (c) KEGG pathway analysis of 105 m6A-modified genes.
+  (d) qPCR validation of dysregulated m6A-modified genes. Relative mRNA expression
+  levels of 10 representative genes were assessed using qPCR. Data represent mean
+  ± standard deviation (SD) from three independent experiments. * p < 0.05, ** p <
+  0.01
+article_title: Transcriptome-Wide Identification and Analysis Reveals m6A Regulation
+  of Porcine Intestinal Epithelial Cells Under TGEV Infection
+citation: Ying Liu, et al. Vet Sci. 2026 Jan;13(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: '2025-12-21'
+doi: 10.3390/vetsci13010010
+journal_title: Veterinary Sciences
+journal_nlm_ta: Vet Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- transmissible gastroenteritis virus
+- N6-methyladenine
+- IPEC-J2
+- MeRIP-seq
+---

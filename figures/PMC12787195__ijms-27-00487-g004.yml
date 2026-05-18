@@ -1,0 +1,41 @@
+---
+figid: PMC12787195__ijms-27-00487-g004
+pmcid: PMC12787195
+image_filename: jpg
+figure_link: /pmc/articles/PMC12787195/figure/F4/
+number: Figure 4
+figure_title: Functional enrichment analysis of gDTUs in 293T and A549 cells.
+caption: 'Functional enrichment analysis of gDTUs in 293T and A549 cells. (A) Distribution
+  of alternative splicing (AS) events by type in 293T and A549 cells under baseline
+  conditions. (B) Distribution of AS events in 293T cells overexpressing ADORA3 and
+  A549 cells overexpressing P2RY12. (C) Blue dots show genes with down-regulated expression,
+  and red dots show genes with up-regulated expression; GO enrichment analysis of
+  gDTUs between 293T and A549 cells under baseline conditions. (D) GO enrichment analysis
+  of gDTUs in 293T cells overexpressing ADORA3 and A549 cells overexpressing P2RY12.
+  (E) KEGG pathway enrichment analysis of gDTUs in 293T and A549 cells. (F) KEGG pathway
+  enrichment analysis of gDTUs in cells overexpressing ADORA3 and P2RY12. (G) Overlap
+  of gDEGs and gDTUs by splicing event type in baseline 293T and A549 cells. (H) Distribution
+  of overlapping gDEG-gDTUs by splicing type in cells overexpressing GPCRs. (Gene
+  ratio: The color gradient indicates different ranges of p.adjust values, reflecting
+  the significance of enrichment. Count: The range of counts displayed is 50 to 200,
+  representing the number of genes enriched in each pathway; larger circles indicate
+  a higher number of enriched genes.)'
+article_title: Long-Read Sequencing Reveals Cell- and State-Specific Alternative Splicing
+  in 293T and A549 Cell Transcriptomes
+citation: Xin Li, et al. Int J Mol Sci. 2026 Jan;27(1).
+year: '2026'
+pub_date: 2026-1-
+epub_date: 2026-1-03
+doi: 10.3390/ijms27010487
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- 293T
+- A549
+- RNA-seq
+- differentially expressed genes (DEGs)
+- genes with differential transcript usage (gDTUs)
+- FLAIR
+- SQANTI3
+---

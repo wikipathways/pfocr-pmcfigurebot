@@ -1,0 +1,21 @@
+---
+figid: PMC13001730__nihms-2147205-f0006
+pmcid: PMC13001730
+image_filename: jpg
+figure_link: /pmc/articles/PMC13001730/figure/F6/
+number: Fig. 6 |
+figure_title: Mapping active signal pathways by LCM in lysed tissue
+caption: |-
+  The FAIRLANE trial used laser capture microdissection (LCM) deep phosphoproteomics to compare the association of PI3K–AKT–mTOR functional protein activation/signalling with the matched underlying PI3K–PTEN–AKT genomic alteration status in 151 patients with triple-negative breast cancer treated with the AKT kinase inhibitor ipatisertib. Enriched carcinoma cell populations were isolated from 8-μm cryosections (>95% purity) of tissue using LCM capture. A total of 110 proteins and phosphoproteins were measured in triplicate in each LCM sample lysate by reverse-phase protein array (RPPA) multiplex proteomics. a, A workflow used in the FAIRLANE trial74
+  b, A correlation plot showing the pair-wise correlation between all endpoints measured by RPPA at baseline. The AKT upstream and the mTORC1 downstream components cluster tightly together, as shown in the zoomed plot. The data are from ref. 74. c, An analysis showing the overall response rate (MRI), among the genomic and proteomic biomarker subgroups. High pAKT levels (activate pathway) were associated with enriched benefit of ipatasertib treatment. Genomic biomarker negative indicates PIK3CA/AKT1/PTEN non-altered and PTEN intact via next-generation genomic sequencing/immunohistochemistry; genomic biomarker positive indicates PIK3CA, AKT1 or PTEN altered and/or PTEN low via next-generation genomic sequencing/immunohistochemistry. Oncogenic signalling negative indicates pAKT-low via LCM/RPPA; oncogenic signalling positive indicates pAKT-high via LCM/RPPA. Positive phosphorylation of AKT (oncogenic signalling positive) was associated with treatment response even when the specific genomic alterations tested were negative (genomic biomarker negative). The data are from ref. 74. PAC, paclitaxel; PBO, placebo; IPAT, ipatasertib
+article_title: Laser capture microdissection
+citation: Lance A. Liotta, et al. Nat Rev Methods Primers. 2025;5(NA).
+year: '2025'
+pub_date: 2025--
+epub_date: '2025-12-24'
+doi: 10.1038/s43586-025-00453-4
+journal_title: Nature reviews. Methods primers
+journal_nlm_ta: Nat Rev Methods Primers
+publisher_name: .na.character
+keywords: []
+---

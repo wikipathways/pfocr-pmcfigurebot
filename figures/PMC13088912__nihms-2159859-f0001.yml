@@ -1,0 +1,38 @@
+---
+figid: PMC13088912__nihms-2159859-f0001
+pmcid: PMC13088912
+image_filename: jpg
+figure_link: /pmc/articles/PMC13088912/figure/F1/
+number: Fig. 1.
+figure_title: FIPV RNA is detected via scRNA-seq in myeloid and lymphoid immune cell
+  subsets in lymph nodes of cats with naturally occurring effusive FIP.
+caption: 'FIPV RNA is detected via scRNA-seq in myeloid and lymphoid immune cell subsets
+  in lymph nodes of cats with naturally occurring effusive FIP. (A) UMAP visualization
+  of 14,029 high-quality single-cell transcriptomes from mesenteric lymph node aspirates
+  of cats with effusive FIP (pre-treatment samples), showing three major immune cell
+  compartments: T/NK cells, B/plasma cells, and myeloid leukocytes. (B) UMAP plot
+  of the same dataset highlighting cells with detectable FIPV RNA (red), demonstrating
+  that viral RNA–positive cells are present across all three major immune compartments.
+  (C) Violin plots displaying the distribution of FIPV RNA reads across each immune
+  cell compartment, confirming that while myeloid cells contain the highest viral
+  load, both T/NK and B/plasma cell clusters also harbor FIPV RNA sequences. (D) Volcano
+  plot showing differentially expressed genes in FIPV RNA–positive versus FIPV RNA–negative
+  cells. Upregulated antiviral and innate immune response genes, including DDX60,
+  MX1, RNF213, and RBM47, are prominently represented. (E) Pathway enrichment analysis
+  of differentially expressed genes in FIPV RNA–positive cells, demonstrating significant
+  enrichment of pathways related to defense response to virus, innate immune response,
+  and interferon signaling'
+article_title: 'Beyond macrophages: FIPV tropism includes T and B lymphocytes'
+citation: Aadhavan Balakumar, et al. Vet Microbiol. 2026 Feb;313(NA).
+year: '2026'
+pub_date: 2026-2-
+epub_date: '2025-12-31'
+doi: 10.1016/j.vetmic.2025.110864
+journal_title: Veterinary microbiology
+journal_nlm_ta: Vet Microbiol
+publisher_name: .na.character
+keywords:
+- Viral tropism
+- Feline infectious peritonitis virus
+- Lymphocyte infection
+---

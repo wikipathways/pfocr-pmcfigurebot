@@ -1,0 +1,38 @@
+---
+figid: PMC13085451__nihms-2162712-f0006
+pmcid: PMC13085451
+image_filename: jpg
+figure_link: /pmc/articles/PMC13085451/figure/F6/
+number: Figure 6.
+figure_title: Single-cell RNA sequencing (scRNA-seq) analysis indicates that EC TFEB
+  enhances autophagy, lysosomal function, and endocytosis in MCMECs in EC-Tfeb Tg
+  mice treated with DOX
+caption: (A) Flowchart of scRNA-seq analysis of mouse heart tissues from male EC-Tfeb
+  Tg mice and WT mice treated with DOX (5 mg/kg, i.v., once a week) or vehicle for
+  2 weeks (n = 4–5 per group). Single cells were isolated from mice and subjected
+  to scRNA-seq analysis. (B) Twenty cell clusters were identified after PCA. (C) Proportions
+  of the cell clusters detected by scRNA-seq. Cell types were assigned using both
+  automatic annotation software scCATCH (v3.2.2) and manual curation. (D) Differential
+  expression of Kdr, Tfeb, and Dab2 in ECs was analyzed using MAST and visualized
+  with volcano plot. (E) The Single Cell Pathway Analysis (SCPA) package was used
+  to compare pathway analysis in scRNA-seq data to compare EC subpopulations in EC-Tfeb
+  Tg and WT mice treated with DOX. Q-value (Qval) was used as the primary statistic
+  for evaluating biological relevance, with pathway fold change serving as a secondary
+  informative metric. A larger Qval reflects a greater change in pathway “activity”
+article_title: Endothelial transcription factor EB protects against doxorubicin-induced
+  endothelial toxicity and cardiac dysfunction
+citation: Wa Du, et al. Circulation. 2026 Mar 03;153(9).
+year: '2026'
+pub_date: 2026-3-03
+epub_date: '2025-12-18'
+doi: 10.1161/CIRCULATIONAHA.124.071774
+journal_title: Circulation
+journal_nlm_ta: Circulation
+publisher_name: .na.character
+keywords:
+- Cardiotoxicity
+- endothelial toxicity
+- transcription factor EB
+- chemotherapy
+- DAB2
+---

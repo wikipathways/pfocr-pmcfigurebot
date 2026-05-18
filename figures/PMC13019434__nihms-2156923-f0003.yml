@@ -1,0 +1,34 @@
+---
+figid: PMC13019434__nihms-2156923-f0003
+pmcid: PMC13019434
+image_filename: jpg
+figure_link: /pmc/articles/PMC13019434/figure/F3/
+number: Figure 3.
+figure_title: An inflammatory response gene expression pattern in alveolar macrophages
+  is elevated with increasing microbial community disruption
+caption: (A) Volcano plot showing results of host differential expression analysis
+  using DESeq2 (N total = 106 samples). Red points indicate genes with FDR P < 0.05
+  and log2 fold change with an absolute value greater than 0.5 (n=66 differentially
+  expressed host genes). Full table of results available in Table S4.(B) Relationship
+  between NINJ, PFKFB3, IL1B, and NFKB2 host gene expression with MDNP score (genes
+  also in C). Shaded region represents 95% confidence interval.(C) Heatmap showcasing
+  the top 20 most significant differentially expressed host genes. Annotation bar
+  is MDNP score; columns in heatmap distinguish samples that are greater than the
+  90th percentile of MDNP score. Heatmap values are the log2 of normalized expression
+  (total sum scale of RPKM counts with pseudocount of 1).(D) Gene ontology enrichment
+  analysis of host biological processes upregulated with increasing MDNP score. Top
+  15 enriched pathways selected by highest fold enrichment (FDR P < 0.05, count of
+  at least 5 differentially expressed host genes in that pathway). Full table of GO
+  term enrichment results available in Table S4
+article_title: Transitions in lung microbiota landscape associate with distinct patterns
+  of pneumonia progression
+citation: Jack T. Sumner, et al. Cell Host Microbe. 2025 Dec 10;33(12).
+year: '2025'
+pub_date: '2025-12-10'
+epub_date: '2025-12-10'
+doi: 10.1016/j.chom.2025.11.011
+journal_title: Cell host & microbe
+journal_nlm_ta: Cell Host Microbe
+publisher_name: .na.character
+keywords: []
+---
