@@ -1950,3 +1950,981 @@
 
 2026-05-19 07:32:27 - ==========================================================
 
+2026-05-19 15:26:40 - Starting NCBI PMC Figure Fetcher
+
+2026-05-19 15:26:40 - Configuration loaded from query_config.yml
+
+2026-05-19 15:26:41 - Final stretch, then deactivating cycle.
+
+2026-05-19 15:26:41 - PMC search query: (((((((((((signaling pathway[Figure/Table Caption]) OR signalling pathway[Figure/Table Caption]) OR regulatory pathway[Figure/Table Caption]) OR disease pathway[Figure/Table Caption]) OR drug pathway[Figure/Table Caption]) OR metabolic pathway[Figure/Table Caption]) OR biosynthetic pathway[Figure/Table Caption]) OR synthesis pathway[Figure/Table Caption]) OR cancer pathway[Figure/Table Caption]) OR response pathway[Figure/Table Caption]) OR cycle pathway[Figure/Table Caption])) AND (2026/04/03[PUBDATE] : 3000/01/01[PUBDATE])
+
+2026-05-19 15:27:24 - PMC search completed. Fetched 3000 results (max set to 3000).
+
+2026-05-19 15:28:08 - Extracted 5685 figures from XML content.
+
+2026-05-19 15:28:08 - Identified 1563 pathway figures.
+
+2026-05-19 15:28:08 - Skipped 16 figures previously processed.
+
+2026-05-19 15:28:08 - Processed 1547 pathway figures for download.
+
+2026-05-19 15:28:28 - Failed to download image for PMC13181101__41419_2026_8697_Figa_HTML after 3 attempts.
+
+2026-05-19 15:28:36 - Failed to download image for PMC13181748__nihms-2170793-f0002 after 3 attempts.
+
+2026-05-19 15:28:43 - Failed to download image for PMC13181748__nihms-2170793-f0006 after 3 attempts.
+
+2026-05-19 15:28:50 - Failed to download image for PMC13181017__41419_2026_8675_Figa_HTML after 3 attempts.
+
+2026-05-19 15:28:57 - Failed to download image for PMC13180421__nihms-2170638-f0001 after 3 attempts.
+
+2026-05-19 15:29:04 - Failed to download image for PMC13179828__nihms-2165291-f0001 after 3 attempts.
+
+2026-05-19 15:29:11 - Failed to download image for PMC13179517__nihms-2166989-f0002 after 3 attempts.
+
+2026-05-19 15:29:18 - Failed to download image for PMC13179517__nihms-2166989-f0004 after 3 attempts.
+
+2026-05-19 15:29:25 - Failed to download image for PMC13179517__nihms-2166989-f0006 after 3 attempts.
+
+2026-05-19 15:29:32 - Failed to download image for PMC13176232__fimmu-17-1772562-g000 after 3 attempts.
+
+2026-05-19 15:29:39 - Failed to download image for PMC13178722__ijmm-58-01-05855-g01 after 3 attempts.
+
+2026-05-19 15:29:46 - Failed to download image for PMC13178722__ijmm-58-01-05855-g07 after 3 attempts.
+
+2026-05-19 15:29:53 - Failed to download image for PMC13178722__ijmm-58-01-05855-g08 after 3 attempts.
+
+2026-05-19 15:29:59 - Failed to download image for PMC13178724__ijmm-58-01-05854-g01 after 3 attempts.
+
+2026-05-19 15:30:06 - Failed to download image for PMC13178724__ijmm-58-01-05854-g02 after 3 attempts.
+
+2026-05-19 15:30:13 - Failed to download image for PMC13178724__ijmm-58-01-05854-g04 after 3 attempts.
+
+2026-05-19 15:30:20 - Failed to download image for PMC13178661__jci-136-203401-g220 after 3 attempts.
+
+2026-05-19 15:30:27 - Failed to download image for PMC13178661__jci-136-203401-g223 after 3 attempts.
+
+2026-05-19 15:30:34 - Failed to download image for PMC13178501__nihms-2173659-f0001 after 3 attempts.
+
+2026-05-19 15:30:41 - Failed to download image for PMC13178725__ijmm-58-01-05853-g02 after 3 attempts.
+
+2026-05-19 15:30:48 - Failed to download image for PMC13178449__nihms-2168142-f0001 after 3 attempts.
+
+2026-05-19 15:30:55 - Failed to download image for PMC13178449__nihms-2168142-f0002 after 3 attempts.
+
+2026-05-19 15:31:02 - Failed to download image for PMC13178449__nihms-2168142-f0003 after 3 attempts.
+
+2026-05-19 15:31:09 - Failed to download image for PMC13178449__nihms-2168142-f0004 after 3 attempts.
+
+2026-05-19 15:31:16 - Failed to download image for PMC13178449__nihms-2168142-f0005 after 3 attempts.
+
+2026-05-19 15:31:23 - Failed to download image for PMC13178449__nihms-2168142-f0006 after 3 attempts.
+
+2026-05-19 15:31:30 - Failed to download image for PMC13179055__nihms-2162872-f0003 after 3 attempts.
+
+2026-05-19 15:31:37 - Failed to download image for PMC13179055__nihms-2162872-f0004 after 3 attempts.
+
+2026-05-19 15:31:44 - Failed to download image for PMC13178519__nihms-2174581-f0001 after 3 attempts.
+
+2026-05-19 15:31:53 - Failed to download image for PMC13175904__apm-26581f2 after 3 attempts.
+
+2026-05-19 15:32:00 - Failed to download image for PMC13178113__nihms-2168028-f0001 after 3 attempts.
+
+2026-05-19 15:32:07 - Failed to download image for PMC13178113__nihms-2168028-f0002 after 3 attempts.
+
+2026-05-19 15:32:14 - Failed to download image for PMC13172667__br-25-01-02153-g00 after 3 attempts.
+
+2026-05-19 15:32:21 - Failed to download image for PMC13172667__br-25-01-02153-g01 after 3 attempts.
+
+2026-05-19 15:32:28 - Failed to download image for PMC13173512__fmicb-17-1786701-g010 after 3 attempts.
+
+2026-05-19 15:32:35 - Failed to download image for PMC13172665__mco-25-01-02953-g02 after 3 attempts.
+
+2026-05-19 15:32:42 - Failed to download image for PMC13175590__nihms-2169194-f0003 after 3 attempts.
+
+2026-05-19 15:32:49 - Failed to download image for PMC13174188__nihms-2173561-f0005 after 3 attempts.
+
+2026-05-19 15:32:56 - Failed to download image for PMC13174188__nihms-2173561-f0006 after 3 attempts.
+
+2026-05-19 15:33:03 - Failed to download image for PMC13174188__nihms-2173561-f0009 after 3 attempts.
+
+2026-05-19 15:33:10 - Failed to download image for PMC13173924__12951_2026_4353_Figa_HTML after 3 attempts.
+
+2026-05-19 15:33:17 - Failed to download image for PMC13172513__41419_2026_8684_Figa_HTML after 3 attempts.
+
+2026-05-19 15:33:24 - Failed to download image for PMC13170779__ijmm-58-01-05849-g01 after 3 attempts.
+
+2026-05-19 15:33:31 - Failed to download image for PMC13170779__ijmm-58-01-05849-g04 after 3 attempts.
+
+2026-05-19 15:33:38 - Failed to download image for PMC13169231__ol-32-01-15628-g01 after 3 attempts.
+
+2026-05-19 15:33:45 - Failed to download image for PMC13169231__ol-32-01-15628-g04 after 3 attempts.
+
+2026-05-19 15:33:52 - Failed to download image for PMC13169478__ol-32-01-15631-g01 after 3 attempts.
+
+2026-05-19 15:33:59 - Failed to download image for PMC13167554__fimmu-17-1820504-g000 after 3 attempts.
+
+2026-05-19 15:34:06 - Failed to download image for PMC13170777__ijmm-58-01-05847-g00 after 3 attempts.
+
+2026-05-19 15:34:13 - Failed to download image for PMC13170777__ijmm-58-01-05847-g02 after 3 attempts.
+
+2026-05-19 15:34:20 - Failed to download image for PMC13170777__ijmm-58-01-05847-g03 after 3 attempts.
+
+2026-05-19 15:34:27 - Failed to download image for PMC13170777__ijmm-58-01-05847-g04 after 3 attempts.
+
+2026-05-19 15:34:34 - Failed to download image for PMC13170777__ijmm-58-01-05847-g05 after 3 attempts.
+
+2026-05-19 15:34:41 - Failed to download image for PMC13170777__ijmm-58-01-05847-g06 after 3 attempts.
+
+2026-05-19 15:34:47 - Failed to download image for PMC13170777__ijmm-58-01-05847-g07 after 3 attempts.
+
+2026-05-19 15:34:54 - Failed to download image for PMC13169232__mmr-34-01-13897-g00 after 3 attempts.
+
+2026-05-19 15:35:01 - Failed to download image for PMC13169232__mmr-34-01-13897-g01 after 3 attempts.
+
+2026-05-19 15:35:08 - Failed to download image for PMC13169232__mmr-34-01-13897-g02 after 3 attempts.
+
+2026-05-19 15:35:15 - Failed to download image for PMC13170776__ijmm-58-01-05845-g01 after 3 attempts.
+
+2026-05-19 15:35:22 - Failed to download image for PMC13170776__ijmm-58-01-05845-g02 after 3 attempts.
+
+2026-05-19 15:35:29 - Failed to download image for PMC13170776__ijmm-58-01-05845-g05 after 3 attempts.
+
+2026-05-19 15:35:36 - Failed to download image for PMC13170778__ijmm-58-01-05848-g02 after 3 attempts.
+
+2026-05-19 15:35:43 - Failed to download image for PMC13170778__ijmm-58-01-05848-g05 after 3 attempts.
+
+2026-05-19 15:35:50 - Failed to download image for PMC13170778__ijmm-58-01-05848-g08 after 3 attempts.
+
+2026-05-19 15:35:58 - Failed to download image for PMC13164810__nutrients-18-01393-g001 after 3 attempts.
+
+2026-05-19 15:36:05 - Failed to download image for PMC13164810__nutrients-18-01393-g006 after 3 attempts.
+
+2026-05-19 15:36:12 - Failed to download image for PMC13164821__nutrients-18-01437-g001 after 3 attempts.
+
+2026-05-19 15:36:19 - Failed to download image for PMC13164821__nutrients-18-01437-g002 after 3 attempts.
+
+2026-05-19 15:36:27 - Failed to download image for PMC13164821__nutrients-18-01437-g003 after 3 attempts.
+
+2026-05-19 15:36:34 - Failed to download image for PMC13164821__nutrients-18-01437-g005 after 3 attempts.
+
+2026-05-19 15:36:41 - Failed to download image for PMC13164821__nutrients-18-01437-g006 after 3 attempts.
+
+2026-05-19 15:36:48 - Failed to download image for PMC13165064__nutrients-18-01328-g002 after 3 attempts.
+
+2026-05-19 15:36:55 - Failed to download image for PMC13165079__molecules-31-01543-g003 after 3 attempts.
+
+2026-05-19 15:37:02 - Failed to download image for PMC13165079__molecules-31-01543-g004 after 3 attempts.
+
+2026-05-19 15:37:09 - Failed to download image for PMC13164613__nutrients-18-01462-g004 after 3 attempts.
+
+2026-05-19 15:37:17 - Failed to download image for PMC13165283__nutrients-18-01436-g006a after 3 attempts.
+
+2026-05-19 15:37:24 - Failed to download image for PMC13164943__nutrients-18-01360-g002 after 3 attempts.
+
+2026-05-19 15:37:31 - Failed to download image for PMC13161723__astr-110-331-g009 after 3 attempts.
+
+2026-05-19 15:37:38 - Failed to download image for PMC13164976__nutrients-18-01349-g010 after 3 attempts.
+
+2026-05-19 15:37:46 - Failed to download image for PMC13164976__nutrients-18-01349-g011 after 3 attempts.
+
+2026-05-19 15:37:52 - Failed to download image for PMC13164924__materials-19-01829-g006 after 3 attempts.
+
+2026-05-19 15:37:59 - Failed to download image for PMC13164772__nutrients-18-01465-g006a after 3 attempts.
+
+2026-05-19 15:38:06 - Failed to download image for PMC13164913__nutrients-18-01336-g001 after 3 attempts.
+
+2026-05-19 15:38:13 - Failed to download image for PMC13164913__nutrients-18-01336-g002 after 3 attempts.
+
+2026-05-19 15:38:20 - Failed to download image for PMC13165170__nutrients-18-01413-g001 after 3 attempts.
+
+2026-05-19 15:38:27 - Failed to download image for PMC13164630__molecules-31-01406-g002 after 3 attempts.
+
+2026-05-19 15:38:34 - Failed to download image for PMC13164374__ijms-27-03952-g002 after 3 attempts.
+
+2026-05-19 15:38:41 - Failed to download image for PMC13164561__ijms-27-03933-g003 after 3 attempts.
+
+2026-05-19 15:38:48 - Failed to download image for PMC13164561__ijms-27-03933-g004 after 3 attempts.
+
+2026-05-19 15:38:55 - Failed to download image for PMC13164561__ijms-27-03933-g005 after 3 attempts.
+
+2026-05-19 15:39:02 - Failed to download image for PMC13163740__ijms-27-03988-g001 after 3 attempts.
+
+2026-05-19 15:39:09 - Failed to download image for PMC13163840__ijms-27-04026-g001 after 3 attempts.
+
+2026-05-19 15:39:16 - Failed to download image for PMC13165385__molecules-31-01410-g006 after 3 attempts.
+
+2026-05-19 15:39:23 - Failed to download image for PMC13165385__molecules-31-01410-g007 after 3 attempts.
+
+2026-05-19 15:39:30 - Failed to download image for PMC13163271__ijms-27-04005-g003 after 3 attempts.
+
+2026-05-19 15:39:37 - Failed to download image for PMC13164178__ijms-27-04151-g002 after 3 attempts.
+
+2026-05-19 15:39:43 - Failed to download image for PMC13164178__ijms-27-04151-g004 after 3 attempts.
+
+2026-05-19 15:39:50 - Failed to download image for PMC13164329__ijms-27-03986-g001 after 3 attempts.
+
+2026-05-19 15:39:57 - Failed to download image for PMC13164329__ijms-27-03986-g002 after 3 attempts.
+
+2026-05-19 15:40:04 - Failed to download image for PMC13164329__ijms-27-03986-g003 after 3 attempts.
+
+2026-05-19 15:40:11 - Failed to download image for PMC13164329__ijms-27-03986-g004 after 3 attempts.
+
+2026-05-19 15:40:18 - Failed to download image for PMC13163265__ijms-27-04046-g011 after 3 attempts.
+
+2026-05-19 15:40:25 - Failed to download image for PMC13164251__ijms-27-04035-g005 after 3 attempts.
+
+2026-05-19 15:40:32 - Failed to download image for PMC13164251__ijms-27-04035-g006 after 3 attempts.
+
+2026-05-19 15:40:39 - Failed to download image for PMC13164251__ijms-27-04035-g007 after 3 attempts.
+
+2026-05-19 15:40:46 - Failed to download image for PMC13164251__ijms-27-04035-g008 after 3 attempts.
+
+2026-05-19 15:40:53 - Failed to download image for PMC13163810__ijms-27-04031-g006 after 3 attempts.
+
+2026-05-19 15:41:00 - Failed to download image for PMC13163810__ijms-27-04031-g007 after 3 attempts.
+
+2026-05-19 15:41:07 - Failed to download image for PMC13164019__ijms-27-03984-g001 after 3 attempts.
+
+2026-05-19 15:41:14 - Failed to download image for PMC13164019__ijms-27-03984-g003 after 3 attempts.
+
+2026-05-19 15:41:21 - Failed to download image for PMC13163260__ijms-27-04111-g001 after 3 attempts.
+
+2026-05-19 15:41:28 - Failed to download image for PMC13164813__molecules-31-01504-g003 after 3 attempts.
+
+2026-05-19 15:41:35 - Failed to download image for PMC13163822__ijms-27-03928-g003 after 3 attempts.
+
+2026-05-19 15:41:42 - Failed to download image for PMC13163822__ijms-27-03928-g010 after 3 attempts.
+
+2026-05-19 15:41:49 - Failed to download image for PMC13163347__ijms-27-03997-g001 after 3 attempts.
+
+2026-05-19 15:41:57 - Failed to download image for PMC13163347__ijms-27-03997-g002 after 3 attempts.
+
+2026-05-19 15:42:04 - Failed to download image for PMC13163347__ijms-27-03997-g004 after 3 attempts.
+
+2026-05-19 15:42:10 - Failed to download image for PMC13164341__ijms-27-04085-g002 after 3 attempts.
+
+2026-05-19 15:42:17 - Failed to download image for PMC13164341__ijms-27-04085-g003 after 3 attempts.
+
+2026-05-19 15:42:24 - Failed to download image for PMC13164341__ijms-27-04085-g004 after 3 attempts.
+
+2026-05-19 15:42:31 - Failed to download image for PMC13164341__ijms-27-04085-g005 after 3 attempts.
+
+2026-05-19 15:42:38 - Failed to download image for PMC13164341__ijms-27-04085-g006 after 3 attempts.
+
+2026-05-19 15:42:45 - Failed to download image for PMC13164341__ijms-27-04085-g008 after 3 attempts.
+
+2026-05-19 15:42:52 - Failed to download image for PMC13163336__ijms-27-04037-g002 after 3 attempts.
+
+2026-05-19 15:42:59 - Failed to download image for PMC13163336__ijms-27-04037-g003 after 3 attempts.
+
+2026-05-19 15:43:06 - Failed to download image for PMC13163336__ijms-27-04037-g004 after 3 attempts.
+
+2026-05-19 15:43:13 - Failed to download image for PMC13163706__ijms-27-04135-g006 after 3 attempts.
+
+2026-05-19 15:43:20 - Failed to download image for PMC13164093__ijms-27-03971-g004 after 3 attempts.
+
+2026-05-19 15:43:27 - Failed to download image for PMC13163638__ijms-27-04115-g002 after 3 attempts.
+
+2026-05-19 15:43:34 - Failed to download image for PMC13163638__ijms-27-04115-g003 after 3 attempts.
+
+2026-05-19 15:43:41 - Failed to download image for PMC13165267__molecules-31-01517-g008 after 3 attempts.
+
+2026-05-19 15:43:48 - Failed to download image for PMC13164865__molecules-31-01492-g004 after 3 attempts.
+
+2026-05-19 15:43:55 - Failed to download image for PMC13164408__ijms-27-04105-g001 after 3 attempts.
+
+2026-05-19 15:44:02 - Failed to download image for PMC13163564__ijms-27-04014-g012 after 3 attempts.
+
+2026-05-19 15:44:09 - Failed to download image for PMC13163298__ijms-27-04033-g001 after 3 attempts.
+
+2026-05-19 15:44:15 - Failed to download image for PMC13163298__ijms-27-04033-g002 after 3 attempts.
+
+2026-05-19 15:44:22 - Failed to download image for PMC13163298__ijms-27-04033-g004 after 3 attempts.
+
+2026-05-19 15:44:29 - Failed to download image for PMC13163298__ijms-27-04033-g005 after 3 attempts.
+
+2026-05-19 15:44:36 - Failed to download image for PMC13163720__ijms-27-04153-g003 after 3 attempts.
+
+2026-05-19 15:44:43 - Failed to download image for PMC13163720__ijms-27-04153-g005 after 3 attempts.
+
+2026-05-19 15:44:50 - Failed to download image for PMC13163720__ijms-27-04153-g008 after 3 attempts.
+
+2026-05-19 15:44:57 - Failed to download image for PMC13163407__ijms-27-03969-g002 after 3 attempts.
+
+2026-05-19 15:45:04 - Failed to download image for PMC13164287__ijms-27-03948-g002 after 3 attempts.
+
+2026-05-19 15:45:11 - Failed to download image for PMC13164287__ijms-27-03948-g008 after 3 attempts.
+
+2026-05-19 15:45:18 - Failed to download image for PMC13165046__molecules-31-01394-g004 after 3 attempts.
+
+2026-05-19 15:45:25 - Failed to download image for PMC13165046__molecules-31-01394-g005 after 3 attempts.
+
+2026-05-19 15:45:32 - Failed to download image for PMC13164996__molecules-31-01375-g003a after 3 attempts.
+
+2026-05-19 15:45:39 - Failed to download image for PMC13163543__ijms-27-03958-g003 after 3 attempts.
+
+2026-05-19 15:45:46 - Failed to download image for PMC13163543__ijms-27-03958-g004 after 3 attempts.
+
+2026-05-19 15:45:53 - Failed to download image for PMC13163543__ijms-27-03958-g005 after 3 attempts.
+
+2026-05-19 15:46:00 - Failed to download image for PMC13163543__ijms-27-03958-g006 after 3 attempts.
+
+2026-05-19 15:46:07 - Failed to download image for PMC13163408__ijms-27-04016-g004 after 3 attempts.
+
+2026-05-19 15:46:14 - Failed to download image for PMC13163408__ijms-27-04016-g008 after 3 attempts.
+
+2026-05-19 15:46:20 - Failed to download image for PMC13163408__ijms-27-04016-g009 after 3 attempts.
+
+2026-05-19 15:46:27 - Failed to download image for PMC13164314__ijms-27-04071-g005 after 3 attempts.
+
+2026-05-19 15:46:34 - Failed to download image for PMC13164314__ijms-27-04071-g006 after 3 attempts.
+
+2026-05-19 15:46:41 - Failed to download image for PMC13164874__molecules-31-01468-g001 after 3 attempts.
+
+2026-05-19 15:46:48 - Failed to download image for PMC13165299__molecules-31-01387-g007 after 3 attempts.
+
+2026-05-19 15:46:55 - Failed to download image for PMC13164078__ijms-27-03989-g001 after 3 attempts.
+
+2026-05-19 15:47:02 - Failed to download image for PMC13164078__ijms-27-03989-g002 after 3 attempts.
+
+2026-05-19 15:47:09 - Failed to download image for PMC13163868__ijms-27-04123-g003 after 3 attempts.
+
+2026-05-19 15:47:16 - Failed to download image for PMC13163813__ijms-27-03959-g005 after 3 attempts.
+
+2026-05-19 15:47:23 - Failed to download image for PMC13164369__ijms-27-04136-g001 after 3 attempts.
+
+2026-05-19 15:47:30 - Failed to download image for PMC13164369__ijms-27-04136-g004 after 3 attempts.
+
+2026-05-19 15:47:37 - Failed to download image for PMC13164369__ijms-27-04136-g005 after 3 attempts.
+
+2026-05-19 15:47:44 - Failed to download image for PMC13164369__ijms-27-04136-g006 after 3 attempts.
+
+2026-05-19 15:47:51 - Failed to download image for PMC13164369__ijms-27-04136-g007 after 3 attempts.
+
+2026-05-19 15:47:58 - Failed to download image for PMC13164369__ijms-27-04136-g009 after 3 attempts.
+
+2026-05-19 15:48:05 - Failed to download image for PMC13163997__ijms-27-03987-g009 after 3 attempts.
+
+2026-05-19 15:48:11 - Failed to download image for PMC13163989__ijms-27-03973-g011 after 3 attempts.
+
+2026-05-19 15:48:19 - Failed to download image for PMC13165223__molecules-31-01446-g010 after 3 attempts.
+
+2026-05-19 15:48:26 - Failed to download image for PMC13165223__molecules-31-01446-g012 after 3 attempts.
+
+2026-05-19 15:48:33 - Failed to download image for PMC13165223__molecules-31-01446-g013 after 3 attempts.
+
+2026-05-19 15:48:40 - Failed to download image for PMC13163323__ijms-27-04132-g006 after 3 attempts.
+
+2026-05-19 15:48:48 - Failed to download image for PMC13163349__ijms-27-04055-g001 after 3 attempts.
+
+2026-05-19 15:48:55 - Failed to download image for PMC13163570__ijms-27-04032-g003 after 3 attempts.
+
+2026-05-19 15:49:02 - Failed to download image for PMC13163566__ijms-27-04020-g001 after 3 attempts.
+
+2026-05-19 15:49:09 - Failed to download image for PMC13163566__ijms-27-04020-g003 after 3 attempts.
+
+2026-05-19 15:49:16 - Failed to download image for PMC13163566__ijms-27-04020-g004 after 3 attempts.
+
+2026-05-19 15:49:23 - Failed to download image for PMC13163299__ijms-27-04134-g002 after 3 attempts.
+
+2026-05-19 15:49:30 - Failed to download image for PMC13164317__ijms-27-04106-g002 after 3 attempts.
+
+2026-05-19 15:49:37 - Failed to download image for PMC13164317__ijms-27-04106-g003 after 3 attempts.
+
+2026-05-19 15:49:44 - Failed to download image for PMC13164317__ijms-27-04106-g008 after 3 attempts.
+
+2026-05-19 15:49:51 - Failed to download image for PMC13163876__ijms-27-03974-g003 after 3 attempts.
+
+2026-05-19 15:49:58 - Failed to download image for PMC13163876__ijms-27-03974-g004 after 3 attempts.
+
+2026-05-19 15:50:05 - Failed to download image for PMC13163876__ijms-27-03974-g005 after 3 attempts.
+
+2026-05-19 15:50:12 - Failed to download image for PMC13164716__molecules-31-01411-g005 after 3 attempts.
+
+2026-05-19 15:50:19 - Failed to download image for PMC13163291__ijms-27-04100-g001 after 3 attempts.
+
+2026-05-19 15:50:26 - Failed to download image for PMC13164169__ijms-27-04124-g003 after 3 attempts.
+
+2026-05-19 15:50:33 - Failed to download image for PMC13164169__ijms-27-04124-g004 after 3 attempts.
+
+2026-05-19 15:50:40 - Failed to download image for PMC13164169__ijms-27-04124-g005 after 3 attempts.
+
+2026-05-19 15:50:46 - Failed to download image for PMC13163951__ijms-27-03824-g004 after 3 attempts.
+
+2026-05-19 15:50:53 - Failed to download image for PMC13164271__ijms-27-03860-g009 after 3 attempts.
+
+2026-05-19 15:51:00 - Failed to download image for PMC13165157__plants-15-01417-g003 after 3 attempts.
+
+2026-05-19 15:51:07 - Failed to download image for PMC13165157__plants-15-01417-g005 after 3 attempts.
+
+2026-05-19 15:51:14 - Failed to download image for PMC13165157__plants-15-01417-g006 after 3 attempts.
+
+2026-05-19 15:51:21 - Failed to download image for PMC13164708__plants-15-01398-g009 after 3 attempts.
+
+2026-05-19 15:51:29 - Failed to download image for PMC13165056__plants-15-01360-g003 after 3 attempts.
+
+2026-05-19 15:51:36 - Failed to download image for PMC13165056__plants-15-01360-g005 after 3 attempts.
+
+2026-05-19 15:51:43 - Failed to download image for PMC13165056__plants-15-01360-g007 after 3 attempts.
+
+2026-05-19 15:51:50 - Failed to download image for PMC13163259__ijms-27-03707-g002 after 3 attempts.
+
+2026-05-19 15:51:57 - Failed to download image for PMC13165196__plants-15-01396-g002 after 3 attempts.
+
+2026-05-19 15:52:04 - Failed to download image for PMC13164970__plants-15-01370-g001 after 3 attempts.
+
+2026-05-19 15:52:11 - Failed to download image for PMC13163484__ijms-27-03862-g002 after 3 attempts.
+
+2026-05-19 15:52:18 - Failed to download image for PMC13163484__ijms-27-03862-g003 after 3 attempts.
+
+2026-05-19 15:52:25 - Failed to download image for PMC13163910__ijms-27-03734-g001 after 3 attempts.
+
+2026-05-19 15:52:32 - Failed to download image for PMC13163910__ijms-27-03734-g004 after 3 attempts.
+
+2026-05-19 15:52:39 - Failed to download image for PMC13163910__ijms-27-03734-g010 after 3 attempts.
+
+2026-05-19 15:52:46 - Failed to download image for PMC13163910__ijms-27-03734-g011 after 3 attempts.
+
+2026-05-19 15:52:53 - Failed to download image for PMC13163334__ijms-27-03789-g005 after 3 attempts.
+
+2026-05-19 15:53:00 - Failed to download image for PMC13163334__ijms-27-03789-g006 after 3 attempts.
+
+2026-05-19 15:53:07 - Failed to download image for PMC13163334__ijms-27-03789-g007 after 3 attempts.
+
+2026-05-19 15:53:14 - Failed to download image for PMC13164505__ijms-27-03725-g002 after 3 attempts.
+
+2026-05-19 15:53:21 - Failed to download image for PMC13164505__ijms-27-03725-g007 after 3 attempts.
+
+2026-05-19 15:53:28 - Failed to download image for PMC13165216__jcm-15-03555-g001 after 3 attempts.
+
+2026-05-19 15:53:35 - Failed to download image for PMC13164503__ijms-27-03772-g002 after 3 attempts.
+
+2026-05-19 15:53:42 - Failed to download image for PMC13164503__ijms-27-03772-g003 after 3 attempts.
+
+2026-05-19 15:53:49 - Failed to download image for PMC13164503__ijms-27-03772-g004 after 3 attempts.
+
+2026-05-19 15:53:56 - Failed to download image for PMC13165268__plants-15-01368-g002 after 3 attempts.
+
+2026-05-19 15:54:03 - Failed to download image for PMC13165268__plants-15-01368-g003 after 3 attempts.
+
+2026-05-19 15:54:10 - Failed to download image for PMC13163311__ijms-27-03791-g001 after 3 attempts.
+
+2026-05-19 15:54:17 - Failed to download image for PMC13163581__ijms-27-03901-g003 after 3 attempts.
+
+2026-05-19 15:54:24 - Failed to download image for PMC13163581__ijms-27-03901-g006 after 3 attempts.
+
+2026-05-19 15:54:31 - Failed to download image for PMC13163285__ijms-27-03880-g005 after 3 attempts.
+
+2026-05-19 15:54:38 - Failed to download image for PMC13164363__ijms-27-03814-g003 after 3 attempts.
+
+2026-05-19 15:54:45 - Failed to download image for PMC13164363__ijms-27-03814-g004 after 3 attempts.
+
+2026-05-19 15:54:52 - Failed to download image for PMC13164259__jcm-15-03550-g001 after 3 attempts.
+
+2026-05-19 15:54:59 - Failed to download image for PMC13164255__ijms-27-03884-g004 after 3 attempts.
+
+2026-05-19 15:55:06 - Failed to download image for PMC13164255__ijms-27-03884-g005 after 3 attempts.
+
+2026-05-19 15:55:12 - Failed to download image for PMC13164389__ijms-27-03747-g004 after 3 attempts.
+
+2026-05-19 15:55:19 - Failed to download image for PMC13164389__ijms-27-03747-g005 after 3 attempts.
+
+2026-05-19 15:55:26 - Failed to download image for PMC13164448__ijms-27-03766-g003 after 3 attempts.
+
+2026-05-19 15:55:33 - Failed to download image for PMC13164448__ijms-27-03766-g004 after 3 attempts.
+
+2026-05-19 15:55:40 - Failed to download image for PMC13164448__ijms-27-03766-g005 after 3 attempts.
+
+2026-05-19 15:55:47 - Failed to download image for PMC13164059__ijms-27-03792-g002 after 3 attempts.
+
+2026-05-19 15:55:54 - Failed to download image for PMC13164059__ijms-27-03792-g003 after 3 attempts.
+
+2026-05-19 15:56:01 - Failed to download image for PMC13164064__ijms-27-03798-g001 after 3 attempts.
+
+2026-05-19 15:56:08 - Failed to download image for PMC13164253__ijms-27-03793-g003 after 3 attempts.
+
+2026-05-19 15:56:15 - Failed to download image for PMC13164253__ijms-27-03793-g004 after 3 attempts.
+
+2026-05-19 15:56:22 - Failed to download image for PMC13163652__ijms-27-03710-g002 after 3 attempts.
+
+2026-05-19 15:56:29 - Failed to download image for PMC13163652__ijms-27-03710-g003 after 3 attempts.
+
+2026-05-19 15:56:36 - Failed to download image for PMC13163468__ijms-27-03874-g002 after 3 attempts.
+
+2026-05-19 15:56:43 - Failed to download image for PMC13163468__ijms-27-03874-g003 after 3 attempts.
+
+2026-05-19 15:56:50 - Failed to download image for PMC13163401__ijms-27-03767-g003 after 3 attempts.
+
+2026-05-19 15:56:57 - Failed to download image for PMC13164901__plants-15-01335-g005 after 3 attempts.
+
+2026-05-19 15:57:04 - Failed to download image for PMC13164901__plants-15-01335-g006 after 3 attempts.
+
+2026-05-19 15:57:10 - Failed to download image for PMC13164901__plants-15-01335-g007 after 3 attempts.
+
+2026-05-19 15:57:17 - Failed to download image for PMC13164901__plants-15-01335-g009 after 3 attempts.
+
+2026-05-19 15:57:24 - Failed to download image for PMC13165205__plants-15-01328-g004 after 3 attempts.
+
+2026-05-19 15:57:31 - Failed to download image for PMC13165205__plants-15-01328-g005 after 3 attempts.
+
+2026-05-19 15:57:38 - Failed to download image for PMC13165205__plants-15-01328-g008 after 3 attempts.
+
+2026-05-19 15:57:45 - Failed to download image for PMC13163241__ijms-27-03717-g008 after 3 attempts.
+
+2026-05-19 15:57:52 - Failed to download image for PMC13163261__ijms-27-03836-g001 after 3 attempts.
+
+2026-05-19 15:57:59 - Failed to download image for PMC13163261__ijms-27-03836-g002 after 3 attempts.
+
+2026-05-19 15:58:06 - Failed to download image for PMC13163261__ijms-27-03836-g004 after 3 attempts.
+
+2026-05-19 15:58:13 - Failed to download image for PMC13163497__jcm-15-03477-g003 after 3 attempts.
+
+2026-05-19 15:58:20 - Failed to download image for PMC13164436__ijms-27-03849-g007 after 3 attempts.
+
+2026-05-19 15:58:27 - Failed to download image for PMC13163309__ijms-27-03739-g010 after 3 attempts.
+
+2026-05-19 15:58:34 - Failed to download image for PMC13164614__plants-15-01410-g001 after 3 attempts.
+
+2026-05-19 15:58:41 - Failed to download image for PMC13164614__plants-15-01410-g003 after 3 attempts.
+
+2026-05-19 15:58:49 - Failed to download image for PMC13165257__plants-15-01382-g009 after 3 attempts.
+
+2026-05-19 15:58:57 - Failed to download image for PMC13164403__jcm-15-03480-g001 after 3 attempts.
+
+2026-05-19 15:59:11 - Failed to download image for PMC13163381__jcm-15-03396-g001 after 3 attempts.
+
+2026-05-19 15:59:18 - Failed to download image for PMC13164476__ijms-27-03825-g002 after 3 attempts.
+
+2026-05-19 15:59:25 - Failed to download image for PMC13164476__ijms-27-03825-g003 after 3 attempts.
+
+2026-05-19 15:59:32 - Failed to download image for PMC13164476__ijms-27-03825-g004 after 3 attempts.
+
+2026-05-19 15:59:39 - Failed to download image for PMC13164476__ijms-27-03825-g005 after 3 attempts.
+
+2026-05-19 15:59:46 - Failed to download image for PMC13164425__jcm-15-03436-g004 after 3 attempts.
+
+2026-05-19 15:59:53 - Failed to download image for PMC13163921__ijms-27-03821-g001 after 3 attempts.
+
+2026-05-19 16:00:00 - Failed to download image for PMC13163921__ijms-27-03821-g003 after 3 attempts.
+
+2026-05-19 16:00:07 - Failed to download image for PMC13164054__ijms-27-03795-g003 after 3 attempts.
+
+2026-05-19 16:00:14 - Failed to download image for PMC13164054__ijms-27-03795-g006 after 3 attempts.
+
+2026-05-19 16:00:21 - Failed to download image for PMC13163416__ijms-27-03868-g004 after 3 attempts.
+
+2026-05-19 16:00:28 - Failed to download image for PMC13163416__ijms-27-03868-g007 after 3 attempts.
+
+2026-05-19 16:00:35 - Failed to download image for PMC13163416__ijms-27-03868-g008 after 3 attempts.
+
+2026-05-19 16:00:42 - Failed to download image for PMC13163952__ijms-27-03886-g006 after 3 attempts.
+
+2026-05-19 16:00:49 - Failed to download image for PMC13164365__ijms-27-03909-g002 after 3 attempts.
+
+2026-05-19 16:00:56 - Failed to download image for PMC13164365__ijms-27-03909-g005 after 3 attempts.
+
+2026-05-19 16:01:03 - Failed to download image for PMC13164553__jcm-15-03395-g001 after 3 attempts.
+
+2026-05-19 16:01:10 - Failed to download image for PMC13164553__jcm-15-03395-g002 after 3 attempts.
+
+2026-05-19 16:01:16 - Failed to download image for PMC13163784__ijms-27-03893-g002 after 3 attempts.
+
+2026-05-19 16:01:23 - Failed to download image for PMC13164380__ijms-27-03731-g002 after 3 attempts.
+
+2026-05-19 16:01:30 - Failed to download image for PMC13164380__ijms-27-03731-g003 after 3 attempts.
+
+2026-05-19 16:01:37 - Failed to download image for PMC13163654__ijms-27-03733-g002 after 3 attempts.
+
+2026-05-19 16:01:44 - Failed to download image for PMC13163654__ijms-27-03733-g009 after 3 attempts.
+
+2026-05-19 16:01:51 - Failed to download image for PMC13164469__jcm-15-03510-g001 after 3 attempts.
+
+2026-05-19 16:01:58 - Failed to download image for PMC13164469__jcm-15-03510-g002 after 3 attempts.
+
+2026-05-19 16:02:05 - Failed to download image for PMC13164657__plants-15-01411-g004 after 3 attempts.
+
+2026-05-19 16:02:12 - Failed to download image for PMC13164657__plants-15-01411-g006 after 3 attempts.
+
+2026-05-19 16:02:19 - Failed to download image for PMC13164227__ijms-27-03749-g001 after 3 attempts.
+
+2026-05-19 16:02:26 - Failed to download image for PMC13164227__ijms-27-03749-g002 after 3 attempts.
+
+2026-05-19 16:02:33 - Failed to download image for PMC13164227__ijms-27-03749-g004 after 3 attempts.
+
+2026-05-19 16:02:40 - Failed to download image for PMC13164283__ijms-27-03790-g001 after 3 attempts.
+
+2026-05-19 16:02:47 - Failed to download image for PMC13164283__ijms-27-03790-g003 after 3 attempts.
+
+2026-05-19 16:02:54 - Failed to download image for PMC13164041__ijms-27-03744-g003 after 3 attempts.
+
+2026-05-19 16:03:01 - Failed to download image for PMC13164041__ijms-27-03744-g004 after 3 attempts.
+
+2026-05-19 16:03:08 - Failed to download image for PMC13164400__ijms-27-03736-g005 after 3 attempts.
+
+2026-05-19 16:03:15 - Failed to download image for PMC13164400__ijms-27-03736-g008 after 3 attempts.
+
+2026-05-19 16:03:22 - Failed to download image for PMC13164956__plants-15-01356-g002 after 3 attempts.
+
+2026-05-19 16:03:29 - Failed to download image for PMC13162679__cancers-18-01419-g005a after 3 attempts.
+
+2026-05-19 16:03:36 - Failed to download image for PMC13163069__cancers-18-01384-g003 after 3 attempts.
+
+2026-05-19 16:03:42 - Failed to download image for PMC13162726__cancers-18-01410-g002 after 3 attempts.
+
+2026-05-19 16:03:50 - Failed to download image for PMC13165237__plants-15-01286-g003 after 3 attempts.
+
+2026-05-19 16:03:57 - Failed to download image for PMC13162994__cancers-18-01395-g007 after 3 attempts.
+
+2026-05-19 16:04:04 - Failed to download image for PMC13162994__cancers-18-01395-g008 after 3 attempts.
+
+2026-05-19 16:04:11 - Failed to download image for PMC13163107__diagnostics-16-01305-g002 after 3 attempts.
+
+2026-05-19 16:04:18 - Failed to download image for PMC13162911__diagnostics-16-01310-g001 after 3 attempts.
+
+2026-05-19 16:04:25 - Failed to download image for PMC13162874__cancers-18-01360-g001 after 3 attempts.
+
+2026-05-19 16:04:32 - Failed to download image for PMC13162874__cancers-18-01360-g002 after 3 attempts.
+
+2026-05-19 16:04:39 - Failed to download image for PMC13162874__cancers-18-01360-g004 after 3 attempts.
+
+2026-05-19 16:04:46 - Failed to download image for PMC13162874__cancers-18-01360-g005 after 3 attempts.
+
+2026-05-19 16:04:53 - Failed to download image for PMC13163058__cancers-18-01359-g001 after 3 attempts.
+
+2026-05-19 16:05:00 - Failed to download image for PMC13163058__cancers-18-01359-g002 after 3 attempts.
+
+2026-05-19 16:05:07 - Failed to download image for PMC13163058__cancers-18-01359-g004 after 3 attempts.
+
+2026-05-19 16:05:14 - Failed to download image for PMC13163058__cancers-18-01359-g005 after 3 attempts.
+
+2026-05-19 16:05:21 - Failed to download image for PMC13163058__cancers-18-01359-g006 after 3 attempts.
+
+2026-05-19 16:05:27 - Failed to download image for PMC13163058__cancers-18-01359-g007 after 3 attempts.
+
+2026-05-19 16:05:34 - Failed to download image for PMC13162856__cancers-18-01486-g002 after 3 attempts.
+
+2026-05-19 16:05:41 - Failed to download image for PMC13162856__cancers-18-01486-g003 after 3 attempts.
+
+2026-05-19 16:05:48 - Failed to download image for PMC13162710__cancers-18-01364-g002 after 3 attempts.
+
+2026-05-19 16:05:55 - Failed to download image for PMC13162940__cells-15-00848-g007 after 3 attempts.
+
+2026-05-19 16:06:02 - Failed to download image for PMC13162719__cells-15-00820-g004 after 3 attempts.
+
+2026-05-19 16:06:09 - Failed to download image for PMC13164918__plants-15-01293-g001 after 3 attempts.
+
+2026-05-19 16:06:16 - Failed to download image for PMC13165618__sensors-26-02587-g002 after 3 attempts.
+
+2026-05-19 16:06:23 - Failed to download image for PMC13162814__cancers-18-01463-g001 after 3 attempts.
+
+2026-05-19 16:06:30 - Failed to download image for PMC13162814__cancers-18-01463-g002 after 3 attempts.
+
+2026-05-19 16:06:37 - Failed to download image for PMC13163016__cancers-18-01373-g002 after 3 attempts.
+
+2026-05-19 16:06:44 - Failed to download image for PMC13162841__cancers-18-01372-g001 after 3 attempts.
+
+2026-05-19 16:06:51 - Failed to download image for PMC13162841__cancers-18-01372-g002 after 3 attempts.
+
+2026-05-19 16:06:57 - Failed to download image for PMC13163060__cancers-18-01335-g005 after 3 attempts.
+
+2026-05-19 16:07:04 - Failed to download image for PMC13162702__cells-15-00847-g002 after 3 attempts.
+
+2026-05-19 16:07:11 - Failed to download image for PMC13162797__cells-15-00841-g005 after 3 attempts.
+
+2026-05-19 16:07:18 - Failed to download image for PMC13163066__cells-15-00834-g001 after 3 attempts.
+
+2026-05-19 16:07:25 - Failed to download image for PMC13163066__cells-15-00834-g003 after 3 attempts.
+
+2026-05-19 16:07:32 - Failed to download image for PMC13162718__cancers-18-01353-g002 after 3 attempts.
+
+2026-05-19 16:07:39 - Failed to download image for PMC13162718__cancers-18-01353-g003 after 3 attempts.
+
+2026-05-19 16:07:46 - Failed to download image for PMC13162718__cancers-18-01353-g004 after 3 attempts.
+
+2026-05-19 16:07:53 - Failed to download image for PMC13162688__cells-15-00823-g004 after 3 attempts.
+
+2026-05-19 16:08:00 - Failed to download image for PMC13162688__cells-15-00823-g006 after 3 attempts.
+
+2026-05-19 16:08:07 - Failed to download image for PMC13162688__cells-15-00823-g007 after 3 attempts.
+
+2026-05-19 16:08:14 - Failed to download image for PMC13165453__plants-15-01283-g006 after 3 attempts.
+
+2026-05-19 16:08:21 - Failed to download image for PMC13162798__cancers-18-01392-g001 after 3 attempts.
+
+2026-05-19 16:08:28 - Failed to download image for PMC13162798__cancers-18-01392-g003 after 3 attempts.
+
+2026-05-19 16:08:35 - Failed to download image for PMC13162798__cancers-18-01392-g004 after 3 attempts.
+
+2026-05-19 16:08:42 - Failed to download image for PMC13162798__cancers-18-01392-g005 after 3 attempts.
+
+2026-05-19 16:08:49 - Failed to download image for PMC13162725__diagnostics-16-01278-g004 after 3 attempts.
+
+2026-05-19 16:08:56 - Failed to download image for PMC13162739__cancers-18-01385-g001 after 3 attempts.
+
+2026-05-19 16:09:03 - Failed to download image for PMC13162739__cancers-18-01385-g002 after 3 attempts.
+
+2026-05-19 16:09:10 - Failed to download image for PMC13162958__cells-15-00836-g005 after 3 attempts.
+
+2026-05-19 16:09:17 - Failed to download image for PMC13162958__cells-15-00836-g006 after 3 attempts.
+
+2026-05-19 16:09:24 - Failed to download image for PMC13162870__cancers-18-01436-g002 after 3 attempts.
+
+2026-05-19 16:09:31 - Failed to download image for PMC13162888__cancers-18-01327-g007 after 3 attempts.
+
+2026-05-19 16:09:38 - Failed to download image for PMC13162669__cancers-18-01422-g006 after 3 attempts.
+
+2026-05-19 16:09:44 - Failed to download image for PMC13164048__diagnostics-16-01262-g001 after 3 attempts.
+
+2026-05-19 16:09:51 - Failed to download image for PMC13164625__plants-15-01312-g001 after 3 attempts.
+
+2026-05-19 16:09:58 - Failed to download image for PMC13164625__plants-15-01312-g004 after 3 attempts.
+
+2026-05-19 16:10:05 - Failed to download image for PMC13163126__cancers-18-01439-g001 after 3 attempts.
+
+2026-05-19 16:10:12 - Failed to download image for PMC13165945__polymers-18-01074-g006 after 3 attempts.
+
+2026-05-19 16:10:19 - Failed to download image for PMC13165945__polymers-18-01074-g007 after 3 attempts.
+
+2026-05-19 16:10:26 - Failed to download image for PMC13163129__cells-15-00827-g001 after 3 attempts.
+
+2026-05-19 16:10:33 - Failed to download image for PMC13163129__cells-15-00827-g002 after 3 attempts.
+
+2026-05-19 16:10:40 - Failed to download image for PMC13162879__cancers-18-01491-g004 after 3 attempts.
+
+2026-05-19 16:10:47 - Failed to download image for PMC13162879__cancers-18-01491-g005 after 3 attempts.
+
+2026-05-19 16:10:54 - Failed to download image for PMC13162879__cancers-18-01491-g006 after 3 attempts.
+
+2026-05-19 16:11:01 - Failed to download image for PMC13162879__cancers-18-01491-g007 after 3 attempts.
+
+2026-05-19 16:11:08 - Failed to download image for PMC13163105__cancers-18-01375-g002 after 3 attempts.
+
+2026-05-19 16:11:15 - Failed to download image for PMC13163105__cancers-18-01375-g003 after 3 attempts.
+
+2026-05-19 16:11:22 - Failed to download image for PMC13163370__diagnostics-16-01259-g003 after 3 attempts.
+
+2026-05-19 16:11:29 - Failed to download image for PMC13163370__diagnostics-16-01259-g004 after 3 attempts.
+
+2026-05-19 16:11:36 - Failed to download image for PMC13164806__plants-15-01327-g003 after 3 attempts.
+
+2026-05-19 16:11:42 - Failed to download image for PMC13164806__plants-15-01327-g004 after 3 attempts.
+
+2026-05-19 16:11:49 - Failed to download image for PMC13164806__plants-15-01327-g005 after 3 attempts.
+
+2026-05-19 16:11:56 - Failed to download image for PMC13164806__plants-15-01327-g006 after 3 attempts.
+
+2026-05-19 16:12:03 - Failed to download image for PMC13164806__plants-15-01327-g007 after 3 attempts.
+
+2026-05-19 16:12:10 - Failed to download image for PMC13162703__cells-15-00809-g001 after 3 attempts.
+
+2026-05-19 16:12:17 - Failed to download image for PMC13162703__cells-15-00809-g002 after 3 attempts.
+
+2026-05-19 16:12:25 - Failed to download image for PMC13163015__cancers-18-01451-g002 after 3 attempts.
+
+2026-05-19 16:12:32 - Failed to download image for PMC13163015__cancers-18-01451-g005 after 3 attempts.
+
+2026-05-19 16:12:39 - Failed to download image for PMC13162693__cancers-18-01330-g003 after 3 attempts.
+
+2026-05-19 16:12:46 - Failed to download image for PMC13162685__cells-15-00814-g007 after 3 attempts.
+
+2026-05-19 16:12:53 - Failed to download image for PMC13164735__plants-15-01281-g015 after 3 attempts.
+
+2026-05-19 16:13:00 - Failed to download image for PMC13162624__cancers-18-01358-g001 after 3 attempts.
+
+2026-05-19 16:13:07 - Failed to download image for PMC13162624__cancers-18-01358-g002 after 3 attempts.
+
+2026-05-19 16:13:14 - Failed to download image for PMC13162999__cells-15-00843-g004 after 3 attempts.
+
+2026-05-19 16:13:21 - Failed to download image for PMC13162611__cells-15-00824-g005 after 3 attempts.
+
+2026-05-19 16:13:28 - Failed to download image for PMC13165436__plants-15-01290-g003 after 3 attempts.
+
+2026-05-19 16:13:35 - Failed to download image for PMC13165436__plants-15-01290-g005 after 3 attempts.
+
+2026-05-19 16:13:42 - Failed to download image for PMC13162645__cancers-18-01442-g004 after 3 attempts.
+
+2026-05-19 16:13:49 - Failed to download image for PMC13163059__cancers-18-01342-g009 after 3 attempts.
+
+2026-05-19 16:13:56 - Failed to download image for PMC13162733__cells-15-00833-g001 after 3 attempts.
+
+2026-05-19 16:14:02 - Failed to download image for PMC13162733__cells-15-00833-g002 after 3 attempts.
+
+2026-05-19 16:14:09 - Failed to download image for PMC13162733__cells-15-00833-g003 after 3 attempts.
+
+2026-05-19 16:14:16 - Failed to download image for PMC13163012__cells-15-00822-g001 after 3 attempts.
+
+2026-05-19 16:14:23 - Failed to download image for PMC13163072__cancers-18-01449-g002 after 3 attempts.
+
+2026-05-19 16:14:31 - Failed to download image for PMC13162717__cancers-18-01474-g001 after 3 attempts.
+
+2026-05-19 16:14:37 - Failed to download image for PMC13162717__cancers-18-01474-g002 after 3 attempts.
+
+2026-05-19 16:14:44 - Failed to download image for PMC13162717__cancers-18-01474-g003 after 3 attempts.
+
+2026-05-19 16:14:51 - Failed to download image for PMC13162745__cancers-18-01453-g003 after 3 attempts.
+
+2026-05-19 16:14:58 - Failed to download image for PMC13163050__animals-16-01348-g003 after 3 attempts.
+
+2026-05-19 16:15:05 - Failed to download image for PMC13163050__animals-16-01348-g004 after 3 attempts.
+
+2026-05-19 16:15:12 - Failed to download image for PMC13163050__animals-16-01348-g006 after 3 attempts.
+
+2026-05-19 16:15:19 - Failed to download image for PMC13163050__animals-16-01348-g007 after 3 attempts.
+
+2026-05-19 16:15:26 - Failed to download image for PMC13163050__animals-16-01348-g008 after 3 attempts.
+
+2026-05-19 16:15:33 - Failed to download image for PMC13163050__animals-16-01348-g010 after 3 attempts.
+
+2026-05-19 16:15:40 - Failed to download image for PMC13163050__animals-16-01348-g011 after 3 attempts.
+
+2026-05-19 16:15:48 - Failed to download image for PMC13163052__animals-16-01357-g006 after 3 attempts.
+
+2026-05-19 16:15:55 - Failed to download image for PMC13162840__animals-16-01327-g006 after 3 attempts.
+
+2026-05-19 16:16:02 - Failed to download image for PMC13162946__cells-15-00771-g001 after 3 attempts.
+
+2026-05-19 16:16:10 - Failed to download image for PMC13162946__cells-15-00771-g004 after 3 attempts.
+
+2026-05-19 16:16:17 - Failed to download image for PMC13162955__animals-16-01312-g004 after 3 attempts.
+
+2026-05-19 16:16:24 - Failed to download image for PMC13162955__animals-16-01312-g006 after 3 attempts.
+
+2026-05-19 16:16:31 - Failed to download image for PMC13163642__foods-15-01608-g004 after 3 attempts.
+
+2026-05-19 16:16:38 - Failed to download image for PMC13163272__foods-15-01576-g009 after 3 attempts.
+
+2026-05-19 16:16:44 - Failed to download image for PMC13163272__foods-15-01576-g010 after 3 attempts.
+
+2026-05-19 16:16:51 - Failed to download image for PMC13164437__foods-15-01469-g001 after 3 attempts.
+
+2026-05-19 16:16:59 - Failed to download image for PMC13164437__foods-15-01469-g002 after 3 attempts.
+
+2026-05-19 16:17:10 - Failed to download image for PMC13164437__foods-15-01469-g003 after 3 attempts.
+
+2026-05-19 16:17:22 - Failed to download image for PMC13164437__foods-15-01469-g005 after 3 attempts.
+
+2026-05-19 16:17:43 - Failed to download image for PMC13164437__foods-15-01469-g007 after 3 attempts.
+
+2026-05-19 16:18:18 - Failed to download image for PMC13162861__animals-16-01336-g003 after 3 attempts.
+
+2026-05-19 16:18:28 - Failed to download image for PMC13162959__animals-16-01311-g007 after 3 attempts.
+
+2026-05-19 16:18:36 - Failed to download image for PMC13162778__cells-15-00744-g001 after 3 attempts.
+
+2026-05-19 16:18:43 - Failed to download image for PMC13162778__cells-15-00744-g002 after 3 attempts.
+
+2026-05-19 16:18:53 - Failed to download image for PMC13162778__cells-15-00744-g004 after 3 attempts.
+
+2026-05-19 16:19:02 - Failed to download image for PMC13162778__cells-15-00744-g005 after 3 attempts.
+
+2026-05-19 16:19:14 - Failed to download image for PMC13162778__cells-15-00744-g006 after 3 attempts.
+
+2026-05-19 16:19:24 - Failed to download image for PMC13162778__cells-15-00744-g007 after 3 attempts.
+
+2026-05-19 16:19:41 - Failed to download image for PMC13162607__animals-16-01286-g004 after 3 attempts.
+
+2026-05-19 16:19:49 - Failed to download image for PMC13162736__cells-15-00788-g001 after 3 attempts.
+
+2026-05-19 16:19:59 - Failed to download image for PMC13162736__cells-15-00788-g002 after 3 attempts.
+
+2026-05-19 16:20:09 - Failed to download image for PMC13162716__cells-15-00776-g004 after 3 attempts.
+
+2026-05-19 16:20:36 - Failed to download image for PMC13162716__cells-15-00776-g005 after 3 attempts.
+
+2026-05-19 16:20:48 - Failed to download image for PMC13162716__cells-15-00776-g008 after 3 attempts.
+
+2026-05-19 16:20:58 - Failed to download image for PMC13162690__animals-16-01368-g006 after 3 attempts.
+
+2026-05-19 16:21:06 - Failed to download image for PMC13162690__animals-16-01368-g007 after 3 attempts.
+
+2026-05-19 16:21:14 - Failed to download image for PMC13162936__cells-15-00781-g001 after 3 attempts.
+
+2026-05-19 16:21:21 - Failed to download image for PMC13162936__cells-15-00781-g002 after 3 attempts.
+
+2026-05-19 16:21:31 - Failed to download image for PMC13163099__cells-15-00770-g006 after 3 attempts.
+
+2026-05-19 16:21:38 - Failed to download image for PMC13163558__foods-15-01532-g009 after 3 attempts.
+
+2026-05-19 16:21:45 - Failed to download image for PMC13162649__animals-16-01351-g004 after 3 attempts.
+
+2026-05-19 16:21:52 - Failed to download image for PMC13162862__cells-15-00780-g001 after 3 attempts.
+
+2026-05-19 16:21:59 - Failed to download image for PMC13163013__animals-16-01310-g005 after 3 attempts.
+
+2026-05-19 16:22:06 - Failed to download image for PMC13163013__animals-16-01310-g006 after 3 attempts.
+
+2026-05-19 16:22:13 - Failed to download image for PMC13163565__foods-15-01587-g005 after 3 attempts.
+
+2026-05-19 16:22:20 - Failed to download image for PMC13163565__foods-15-01587-g006 after 3 attempts.
+
+2026-05-19 16:22:27 - Failed to download image for PMC13162933__animals-16-01334-g003 after 3 attempts.
+
+2026-05-19 16:22:34 - Failed to download image for PMC13162933__animals-16-01334-g006 after 3 attempts.
+
+2026-05-19 16:22:41 - Failed to download image for PMC13162619__animals-16-01408-g008 after 3 attempts.
+
+2026-05-19 16:22:48 - Failed to download image for PMC13162625__cells-15-00762-g007 after 3 attempts.
+
+2026-05-19 16:22:55 - Failed to download image for PMC13163002__animals-16-01338-g006 after 3 attempts.
+
+2026-05-19 16:23:01 - Failed to download image for PMC13163000__cells-15-00786-g005 after 3 attempts.
+
+2026-05-19 16:23:08 - Failed to download image for PMC13163000__cells-15-00786-g007 after 3 attempts.
+
+2026-05-19 16:23:15 - Failed to download image for PMC13163062__animals-16-01402-g003 after 3 attempts.
+
+2026-05-19 16:23:22 - Failed to download image for PMC13162674__cells-15-00801-g006 after 3 attempts.
+
+2026-05-19 16:23:29 - Failed to download image for PMC13162980__animals-16-01290-g007 after 3 attempts.
+
+2026-05-19 16:23:36 - Failed to download image for PMC13163970__healthcare-14-01212-g001 after 3 attempts.
+
+2026-05-19 16:23:43 - Failed to download image for PMC13162863__cells-15-00792-g008a after 3 attempts.
+
+2026-05-19 16:23:50 - Failed to download image for PMC13162863__cells-15-00792-g009 after 3 attempts.
+
+2026-05-19 16:23:57 - Failed to download image for PMC13163263__foods-15-01585-g005 after 3 attempts.
+
+2026-05-19 16:24:04 - Failed to download image for PMC13162681__animals-16-01387-g004 after 3 attempts.
+
+2026-05-19 16:24:11 - Failed to download image for PMC13162848__animals-16-01360-g002 after 3 attempts.
+
+2026-05-19 16:24:18 - Failed to download image for PMC13162848__animals-16-01360-g006 after 3 attempts.
+
+2026-05-19 16:24:26 - Failed to download image for PMC13162707__animals-16-01378-g005 after 3 attempts.
+
+2026-05-19 16:24:36 - Failed to download image for PMC13162588__animals-16-01321-g005 after 3 attempts.
+
+2026-05-19 16:24:45 - Failed to download image for PMC13162588__animals-16-01321-g007 after 3 attempts.
+
+2026-05-19 16:24:55 - Failed to download image for PMC13162849__animals-16-01287-g004 after 3 attempts.
+
+2026-05-19 16:25:04 - Failed to download image for PMC13162849__animals-16-01287-g008 after 3 attempts.
+
+2026-05-19 16:25:11 - Failed to download image for PMC13163130__cells-15-00746-g003 after 3 attempts.
+
+2026-05-19 16:25:18 - Failed to download image for PMC13163130__cells-15-00746-g006 after 3 attempts.
+
+2026-05-19 16:25:27 - Failed to download image for PMC13163747__foods-15-01505-g006 after 3 attempts.
+
+2026-05-19 16:25:40 - Failed to download image for PMC13163747__foods-15-01505-g008 after 3 attempts.
+
+2026-05-19 16:25:53 - Failed to download image for PMC13162801__cells-15-00787-g001 after 3 attempts.
+
+2026-05-19 16:26:01 - Failed to download image for PMC13162801__cells-15-00787-g006 after 3 attempts.
+
+2026-05-19 16:26:12 - Failed to download image for PMC13164281__foods-15-01553-g003 after 3 attempts.
+
+2026-05-19 16:26:24 - Failed to download image for PMC13163314__foods-15-01537-g005 after 3 attempts.
+
+2026-05-19 16:26:32 - Failed to download image for PMC13163513__foods-15-01464-g007 after 3 attempts.
+
+2026-05-19 16:26:42 - Failed to download image for PMC13164191__foods-15-01467-g006 after 3 attempts.
+
+2026-05-19 16:26:42 - New pathway figures downloaded: 2
+
+2026-05-19 16:26:42 - NCBI PMC Figure Fetcher completed
+
+2026-05-19 16:26:42 - ==========================================================
+
