@@ -1,0 +1,60 @@
+---
+figid: PMC13080659__thnov16p5348g005
+pmcid: PMC13080659
+image_filename: jpg
+figure_link: /pmc/articles/PMC13080659/figure/F5/
+number: Figure 5
+figure_title: Acetate enhances IL-1β production in AMs via FFAR2-PKA-NF-κB axis.
+caption: Acetate enhances IL-1β production in AMs via FFAR2-PKA-NF-κB axis. A, C-E
+  Sorted AMs were pre-incubated with or without FFAR2 antagonist (10 μM) for 30 min,
+  followed by treatment with or without acetate (1 mM) for another 30 min. Subsequently,
+  the cells were stimulated with or without LPS (1 μg/ml) for 6 h (RT-qPCR and Western
+  blot (106 cells/ml)) or 24 h (ELISA (105 cells/ml)), with ATP (2 mM) added in the
+  last 30 min to induce inflammasome activation. The cell lysates and supernatants
+  were then collected for further analysis. (A) mRNA expression (left) and protein
+  level (right) of IL-1β in AMs cell lysates or supernatants (n = 3-4). (B) Bubble
+  plot of total WT naïve murine lung cells showing the expression levels of Il1b,
+  Casp1 and Ffar2 across annotated cell types. Bubble size represents the percentage
+  of cells expressing each gene; color intensity indicates mean expression level.
+  The scRNA-seq data was obtained and reanalyzed from GSE262927. (C) mRNA expression
+  of Casp1 in AMs cell lysates (n = 3-4). (D, E) Immunoblot analysis (D) and the quantification
+  of cleaved-caspase-1 (left) and mature-IL-1β (right) in protein extracted from AMs
+  (E) (n = 3). (F) Phosphorylation of NF-κB (p65) was determined by flow cytometry.
+  Sorted AMs (105 cells/ml) were pre-incubated with or without FFAR2 antagonist (10
+  μM) for 30 min, followed by treatment with or without acetate (1 mM) for another
+  30 min. Subsequently, the cells were stimulated with or without LPS (1 μg/ml) for
+  10 min. (G) Barcode plots from GSEA of adenylate cyclase-activating GPR signaling
+  pathway (left)-cAMP signaling pathway (middle)-protein kinase activity (right) in
+  AMs isolated from the BALF of Van-treated versus PBS-treated mice with LPS stimulation.
+  (H-J) Sorted AMs were pre-incubated for 30 minutes with or without FFAR2 antagonist
+  (10 μM), PKA inhibitor (10 μM) or NF-κB inhibitor (10 μM), followed by treatment
+  with or without acetate (1 mM) for an additional 30 min. Subsequently, the cells
+  were stimulated with or without LPS (1 μg/ml) for 6 h (Western blot (106 cells/ml))
+  or 24 h (ELISA (105 cells/ml)), with ATP (2 mM) added in the last 30 min to induce
+  inflammasome activation. The cell lysates and supernatants were then collected for
+  further analysis. (H) Protein level of IL-1β in AMs supernatants (n = 3). (I, J)
+  Immunoblot analysis (I) and the quantification of NF-κB (p65) phosphorylation in
+  protein extracted from AMs (J) (n = 3). (K) Phosphorylation of NF-κB (p65) was determined
+  by flow cytometry. Sorted AMs (105 cells/ml) were sequentially treated with or without
+  PKA inhibitor (10 μM), FFAR2 antagonist (10 μM), and acetate (1 mM), each for 30
+  min, as indicated. Subsequently, the cells were stimulated with or without LPS (1
+  μg/ml) for 10 min. Data are representative of 1-3 independent experiments and values
+  are shown as mean ± SEM; p-value were calculated by one-way ANOVA (A, C, E, H, J).
+  n.s. Not significant. *p < 0.05, **p < 0.01, ***p < 0.001, ****p < 0.0001
+article_title: Lung dysbiosis disrupts an FFAR2-mediated innate immune circuit against
+  Klebsiella pneumoniae
+citation: Ting-Chieh Huang, et al. Theranostics. 2026;16(10).
+year: '2026'
+pub_date: 2026--
+epub_date: 2026-3-12
+doi: 10.7150/thno.131136
+journal_title: Theranostics
+journal_nlm_ta: Theranostics
+publisher_name: Ivyspring International Publisher
+keywords:
+- lung microbiota
+- SCFA-FFAR2
+- alveolar macrophage
+- γδ T cell
+- K. pneumoniae
+---

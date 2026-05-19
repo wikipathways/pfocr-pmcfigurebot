@@ -1,0 +1,45 @@
+---
+figid: PMC13132386__jci-136-196578-g271
+pmcid: PMC13132386
+image_filename: jpg
+figure_link: /pmc/articles/PMC13132386/figure/F5/
+number: Figure 5
+figure_title: Integrated SLIM-seq/RNA-seq identified Mthfd1 as a Mettl3 target regulating
+  erythroid nucleotide biosynthesis
+caption: (A) Integrated analysis of downregulated m6A-modified mRNAs in control and
+  Mettl3-deficient CFU-EKit-lo cells. (B) GO enrichment analysis of the 129 overlapping
+  genes from (A). (C) Significance ranking of DEGs in purine-containing compound biosynthetic
+  processes. (D) Expression levels of Mthfd1 in BM CFU-E cells from RNA-seq by TPM
+  (n = 3/group). (E) Expression levels of Mthfd1 in BM ProEs from RNA-seq by TPM (n
+  = 3/group). (F) Integrative Genomics Viewer snapshots of SLIM-seq read coverage
+  for the Mthfd1 transcriptome in control CFU-E cells, comparing Input and IP groups.
+  (G) Measurement of m6A modification levels on Mthfd1 in control and Mettl3-deficient
+  CFU-E cells by MeRIP-qPCR (n = 3/group). (H) Schematic representation of mRNA half-life
+  measurements in actinomycin D–treated erythroid progenitor CFU-E cells. (I) mRNA
+  half-life of Mthfd1 in sorted CFU-E cells, measured after actinomycin D treatment
+  at 0, 1, 2, and 4 hours. (J) Dual-luciferase reporter assay identifying METTL3-regulated
+  Mthfd1 transcripts. The experiment used pMIR-firefly and TK–Renilla luciferase vectors,
+  with WT and Mut sequences inserted at the 3′UTR of Fluc (n = 4/group). (K) Schematic
+  diagram of MTHFD1-mediated biosynthesis pathway of dTMP and IMP. (L) Targeted liquid
+  chromatography–tandem mass spectroscopy quantification of dTMP and IMP levels in
+  erythroid cells (n = 3/group). Data are presented as the mean ± SD. Comparisons
+  between 2 groups were performed using an unpaired 2-tailed Student’s t test. A 2-way
+  ANOVA with Tukey’s post hoc test was used to calculate statistical significance
+  among multiple groups. **P < 0.01, ***P < 0.001. FC, fold change; PS, penicillin-streptomycin;
+  SCF, stem cell factor
+article_title: Methyltransferase complex subunit METTL3 maintains genome stability
+  of erythroid cells via MTHFD1-mediated nucleotide biosynthesis
+citation: Linlin Zhang, et al. J Clin Invest. 2026 Mar 10;136(9).
+year: '2026'
+pub_date: 2026-3-10
+epub_date: 2026-3-10
+doi: 10.1172/JCI196578
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Cell biology
+- Hematology
+- Epigenetics
+- Genetic instability
+---

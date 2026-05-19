@@ -1,0 +1,41 @@
+---
+figid: PMC13113072__biomedicines-14-00811-g007
+pmcid: PMC13113072
+image_filename: jpg
+figure_link: /pmc/articles/PMC13113072/figure/F7/
+number: Figure 7
+figure_title: 'Integrated heat map and interaction network analysis of radiation-responsive
+  transcriptional programs in irradiated human dermal fibroblasts: (a) Heat map summarizing
+  relative gene expression changes across all experimental conditions and timepoints
+  (24 h, 3 d, and 5 d post-irradiation).'
+caption: 'Integrated heat map and interaction network analysis of radiation-responsive
+  transcriptional programs in irradiated human dermal fibroblasts: (a) Heat map summarizing
+  relative gene expression changes across all experimental conditions and timepoints
+  (24 h, 3 d, and 5 d post-irradiation). Expression values represent mean log2-transformed
+  relative quantification (RQ) normalized to GAPDH and scaled per gene to highlight
+  temporal and treatment-associated expression patterns. (b) Functional interaction
+  network constructed using the ReactomeFI plugin in Cytoscape based on genes included
+  in the qPCR panel. Nodes represent individual genes (black text = genes in qPCR
+  panel; red text = linker genes not in qPCR panel). Edges indicate curated functional
+  interactions derived from Reactome pathway knowledge (solid edges = direct or well-established
+  interactions; dashed edges = predicted interactions)'
+article_title: Mesenchymal Stem Cell–Derived Exosomes Mitigate Cutaneous Radiation
+  Injury Through Coordinated Modulation of DNA Repair, Stress, and Inflammatory Gene
+  Programs
+citation: Amanda Ringwood, et al. Biomedicines. 2026 Apr;14(4).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-4-02
+doi: 10.3390/biomedicines14040811
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- mesenchymal stem cell (MSC)
+- exosome
+- extracellular vesicle
+- ionizing radiation
+- cutaneous radiation injury
+- skin
+- dermal fibroblast
+---

@@ -1,0 +1,39 @@
+---
+figid: PMC13113777__biomedicines-14-00739-g004
+pmcid: PMC13113777
+image_filename: jpg
+figure_link: /pmc/articles/PMC13113777/figure/F4/
+number: Figure 4
+figure_title: Chemical structures, predicted target class distribution, and network-based
+  analysis of major Mentha spicata essential oil constituents.
+caption: Chemical structures, predicted target class distribution, and network-based
+  analysis of major Mentha spicata essential oil constituents. Chemical structures
+  of carvone, limonene, and α-pinene are shown alongside the distribution of predicted
+  target protein classes derived from SwissTargetPrediction analysis. Target prediction
+  was performed for Rattus norvegicus. The workflow illustrates the integration of
+  target prediction, STRING-based protein–protein interaction (PPI) network construction,
+  Reactome pathway enrichment analysis, and hub protein identification using CytoHubba.
+  Color coding for chemical structures follows standard CPK rules, where red indicates
+  oxygen atoms
+article_title: Histological Evaluation of Mentha spicata Essential Oil in a Rat Excisional
+  Wound Model with Network-Based Mechanistic Insights
+citation: Cafer Yildirim, et al. Biomedicines. 2026 Apr;14(4).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-3-24
+doi: 10.3390/biomedicines14040739
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- Mentha spicata
+- wound healing
+- rat
+- essential oil
+- olive oil
+- inflammation
+- histology
+- GC–MS
+- network pharmacology
+- GPCR signaling
+---

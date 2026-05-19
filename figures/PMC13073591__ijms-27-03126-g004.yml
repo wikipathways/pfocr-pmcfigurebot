@@ -1,0 +1,35 @@
+---
+figid: PMC13073591__ijms-27-03126-g004
+pmcid: PMC13073591
+image_filename: jpg
+figure_link: /pmc/articles/PMC13073591/figure/F4/
+number: Figure 4
+figure_title: Integrated regulatory module of microRNAs (miRNAs), messenger RNAs (mRNAs),
+  and transcription factors (TFs).
+caption: Integrated regulatory module of microRNAs (miRNAs), messenger RNAs (mRNAs),
+  and transcription factors (TFs). (A) Complete regulatory module showing interactions
+  among differentially expressed miRNAs (blue squares), their target genes (purple
+  circles), and enriched transcription factors (yellow circles). The network was constructed
+  using miRNet 2.0 based on the GSE34120 dataset and KEGG enrichment of the neurotrophin
+  signaling pathway. (B) Simplified subnetwork highlighting transcription factors
+  (green circles), differentially expressed genes (yellow circles), and regulatory
+  miRNAs (blue squares) in the context of depression. Node size represents degree
+  centrality (number of connections). Edges represent experimentally validated regulatory
+  interactions and are unweighted
+article_title: Integrative In Silico Analysis of miRNA–mRNA Regulatory Networks in
+  the Prefrontal Cortex of Individuals with Psychiatric Disorders Who Died by Suicide
+citation: José Luis Cortéz-Sánchez, et al. Int J Mol Sci. 2026 Apr;27(7).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-3-30
+doi: 10.3390/ijms27073126
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- suicide
+- mRNA
+- miRNAs
+- regulatory network
+- biomarkers
+---

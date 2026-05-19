@@ -1,0 +1,39 @@
+---
+figid: PMC13072345__cells-15-00591-g003
+pmcid: PMC13072345
+image_filename: jpg
+figure_link: /pmc/articles/PMC13072345/figure/F3/
+number: Figure 3
+figure_title: Astrogliosis is blunted with ZBP1 deficiency in PS19 mice.
+caption: Astrogliosis is blunted with ZBP1 deficiency in PS19 mice. (A) Representative
+  coronal hippocampal sections from 9-month-old PS19 and PZKO mice stained for DAPI
+  (blue) and GFAP (white; scale bar = 200 µm). (B) Representative images of GFAP (white)
+  in CA1, CA2, CA3, and DG (scale bar = 40 µm). (C–F) Quantification of GFAP+ area
+  coverage per FOV in CA1, CA2, CA3, and DG. (G) snRNA-seq UMAP highlighting the astrocyte
+  cluster with canonical markers. (H) Volcano plot depicting differential gene expression
+  between PZKO astrocytes and PS19 astrocytes. (I) Reactome Pathway Database terms
+  enriched in downregulated DEGs in PZKO astrocytes. Plot shows the top significantly
+  enriched terms, ranked by ascending adjusted p-value. (J) GO Biological Process
+  Database terms most significantly enriched in downregulated DEGs in PZKO astrocytes.
+  Plot shows the top significantly enriched terms, ranked by ascending adjusted p-value.
+  Statistical significance between experimental groups was calculated by linear mixed
+  effects modeling. * p < 0.05, ** p < 0.01
+article_title: The Genotoxic Stress Sensor ZBP1 Drives Tau Pathology
+citation: Jessica M. Thanos, et al. Cells. 2026 Apr;15(7).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-3-26
+doi: 10.3390/cells15070591
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- Alzheimer’s disease
+- tauopathy
+- neuroinflammation
+- ZBP1
+- genotoxic stress
+- neurodegenerative disease
+- nucleic acid sensing
+- innate immunology
+---

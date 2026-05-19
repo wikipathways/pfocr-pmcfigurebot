@@ -1,0 +1,46 @@
+---
+figid: PMC13072194__cancers-18-01159-g005
+pmcid: PMC13072194
+image_filename: jpg
+figure_link: /pmc/articles/PMC13072194/figure/F5/
+number: Figure 5
+figure_title: TGFB1 is identified as a downstream effector of the NAS1-NR2F1 axis.
+caption: 'TGFB1 is identified as a downstream effector of the NAS1-NR2F1 axis. (A)
+  Heatmaps showing differentially expressed genes upon NR2F1 overexpression (OE_NR2F1)
+  or knockdown (sh_NR2F1) in gastric cancer cells (RNA-seq dataset GSE233167). Genes
+  upregulated upon NR2F1 knockdown and downregulated upon NR2F1 overexpression are
+  defined as NR2F1-repressed genes (NR2F1-neg); genes showing the opposite pattern
+  are defined as NR2F1-induced genes (NR2F1-pos). (B) GO enrichment analysis of NR2F1-repressed
+  genes (NR2F1-neg), showing significant enrichment in drug resistance-associated
+  signaling pathways (shown in red). (C) GO enrichment analysis of genes upregulated
+  in cisplatin-resistant NSCLC cell lines compared to parental controls, revealing
+  overlapping pathway enrichment with NR2F1-repressed genes. Drug resistance-associated
+  signaling pathways are colored in red. (D) Venn diagram identifying TGFB1 as the
+  only NR2F1-repressed gene common to three cisplatin resistance-related pathways:
+  NF-κB, PI3K/AKT, and ERK1/ERK2 cascade. (E–G) qPCR validation of TGFB1 expression
+  (n ≥ 3). TGFB1 is upregulated in (E) cisplatin-resistant NSCLC cell lines, (F) NAS1-knockdown
+  cells, and (G) NR2F1-knockdown cells, compared to their respective controls. (H–J)
+  Western blot validation of NR2F1 and TGFB1 protein expression in H226 and PC9 cells.
+  Consistent with the qPCR results, (H) cisplatin-resistant, (I) NAS1-knockdown, (J)
+  and NR2F1-knockdown cells show reduced NR2F1 and increased TGFB1 protein levels
+  relative to their respective controls. The data shown in the figure are presented
+  as the mean ± SEM unless otherwise indicated. p values were calculated using two-tailed
+  Student’s t test. * p < 0.05, ** p < 0.01. The uncropped blots are shown in File
+  S1'
+article_title: lncRNA NAS1 Deficiency Drives Cisplatin Resistance via NR2F1-Mediated
+  TGFB1/NF-κB Signaling Axis in NSCLC
+citation: Xianrong Lin, et al. Cancers (Basel). 2026 Apr;18(7).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-4-03
+doi: 10.3390/cancers18071159
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- cisplatin resistance
+- NAS1
+- NR2F1
+- TGFB1
+- NF-κB signaling
+---

@@ -1,0 +1,41 @@
+---
+figid: PMC13072290__cancers-18-01098-g005
+pmcid: PMC13072290
+image_filename: jpg
+figure_link: /pmc/articles/PMC13072290/figure/F5/
+number: Figure 5
+figure_title: 'Top significantly enriched pathways after combined treatment with EGCG
+  and resveratrol: (A) Dot-plot displays the top Reactome pathways enriched among
+  genes with p ≤ 1 × 10−16, where the x-axis shows the GeneRatio (i.'
+caption: 'Top significantly enriched pathways after combined treatment with EGCG and
+  resveratrol: (A) Dot-plot displays the top Reactome pathways enriched among genes
+  with p ≤ 1 × 10−16, where the x-axis shows the GeneRatio (i.e., the fraction of
+  input genes overlapping each pathway); each dot’s size corresponds to the number
+  of overlapping genes (“Count”), and the dot color indicates enrichment significance
+  as −log10(p-value) (darker red = more significant). (B) Re-plot of the same Reactome
+  pathways as a horizontal bar chart: the x-axis represents the gene count per pathway,
+  and bar color reflects −log10(p-value) (red → blue gradient, red = higher significance).
+  (C) Dot-plot of the top hallmark gene sets (MSigDB “H”) enriched in the identical
+  gene list using the same mapping of GeneRatio (x-axis), dot size (gene count), and
+  dot color (−log10[p-value]) as in (A). (D) Represents those top hallmark sets as
+  a horizontal bar-plot, with gene count on the x-axis and enrichment significance
+  (−log10[p-value]) encoded by bar color'
+article_title: 'Chemoprevention of 4-NQO-Induced Oral Cancer by the Combination of
+  Resveratrol and EGCG: In Vivo, In Silico and In Vitro Studies'
+citation: Adeoluwa Adeluola, et al. Cancers (Basel). 2026 Apr;18(7).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-3-28
+doi: 10.3390/cancers18071098
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- chemoprevention
+- oral cancer
+- 4-NQO
+- green tea
+- resveratrol
+- RNASeq
+- bioinformatics
+---

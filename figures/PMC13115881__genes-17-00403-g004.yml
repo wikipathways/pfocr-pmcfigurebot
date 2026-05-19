@@ -1,0 +1,46 @@
+---
+figid: PMC13115881__genes-17-00403-g004
+pmcid: PMC13115881
+image_filename: jpg
+figure_link: /pmc/articles/PMC13115881/figure/F4/
+number: Figure 4
+figure_title: Pathway enrichment and regulatory network analysis of the model genes.
+caption: 'Pathway enrichment and regulatory network analysis of the model genes. (A,B)
+  Gene set variation analysis (GSVA) showing differential pathway activity between
+  high- and low-expression groups of S100A2 (A) and S100A14 (B). Pathways are ranked
+  according to GSVA score differences, highlighting immune-, metabolic-, and hormone-related
+  signaling signatures. (C) Gene set enrichment analysis (GSEA) for the S100A2 gene.
+  This plot shows the running enrichment score for several KEGG pathways related to
+  S100A2. The pathways include KEGG Ribosome, Tyrosine Metabolism, Drug Metabolism
+  by Cytochrome P450, Metabolism of Xenobiotics, and Bladder Cancer. (D) Gene set
+  enrichment analysis (GSEA) for the S100A14 gene. This plot shows the running enrichment
+  score for several KEGG pathways related to S100A14, including Tyrosine Metabolism,
+  Ribosome, and Cytochrome P450-mediated Drug Metabolism. (E) Box plot showing the
+  expression levels of key genes in control and POAG tissues. The expression of genes
+  such as LTBP2 and PAX6 is significantly altered in POAG. Below the box plot, the
+  correlation between LTBP2 and S100A2, as well as between PAX6 and S100A2, is shown,
+  along with the statistical significance for each correlation. (F) Network showing
+  the interactions between transcription factors and genes. S100A2 and S100A14 are
+  central in the network, with numerous transcription factors (e.g., PAX9, RELA, JUN)
+  connected to them. The edges represent regulatory relationships between the nodes
+  (genes). Statistical significance is indicated as follows: ns, not significant;
+  * p < 0.05, ** p < 0.01, *** p < 0.001, **** p < 0.0001'
+article_title: 'Lactylation-Associated Immune Metabolic Reprogramming Identifies S100A2
+  and S100A14 as Candidate Diagnostic Biomarkers in Primary Open-Angle Glaucoma: An
+  Integrated Bulk and Single-Cell Transcriptomic Analysis'
+citation: Yu Xu, et al. Genes (Basel). 2026 Apr;17(4).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-3-31
+doi: 10.3390/genes17040403
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- primary open-angle glaucoma
+- lactylation
+- transcriptomics
+- machine learning
+- immune microenvironment
+- single-cell RNA sequencing
+---

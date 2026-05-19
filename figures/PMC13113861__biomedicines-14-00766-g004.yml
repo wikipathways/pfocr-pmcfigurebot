@@ -1,0 +1,39 @@
+---
+figid: PMC13113861__biomedicines-14-00766-g004
+pmcid: PMC13113861
+image_filename: jpg
+figure_link: /pmc/articles/PMC13113861/figure/F4/
+number: Figure 4
+figure_title: Co-expression profile, protein interaction network, and functional enrichment
+  analyses of ST3GAL4.
+caption: 'Co-expression profile, protein interaction network, and functional enrichment
+  analyses of ST3GAL4. (A) Heatmap showing the top five genes most strongly correlated
+  with ST3GAL4 mRNA expression across TCGA cancer types, accompanied by representative
+  scatter plots illustrating gene-level correlations. Red: positive correlation; light
+  blue: negative correlation; color intensity indicates correlation strength; boxes
+  with “×” denote no statistical significance (p > 0.05). (B) Protein–protein interaction
+  network for ST3GAL4, constructed using the STRING database, displaying experimentally
+  supported and predicted interacting proteins. (C) Gene Ontology (GO) enrichment
+  analysis of ST3GAL4-interacting proteins, including biological process (BP), cellular
+  component (CC), and molecular function (MF) categories. (D) Reference publication
+  enrichment (PubMed) of ST3GAL4-associated proteins, showing the top enriched publications
+  based on gene co-occurrence. (E) KEGG pathway enrichment and Reactome pathway enrichment
+  analyses of ST3GAL4-interacting proteins'
+article_title: Systematic Pan-Cancer Characterization of ST3GAL4 Reveals Its Prognostic
+  and Immunologic Associations
+citation: Fushu Luo, et al. Biomedicines. 2026 Apr;14(4).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-3-27
+doi: 10.3390/biomedicines14040766
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- ST3GAL4
+- pan-cancer
+- glycosylation
+- prognostic marker
+- TCGA
+- immune infiltration
+---

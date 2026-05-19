@@ -1,0 +1,32 @@
+---
+figid: PMC13084559__nihms-2157058-f0003
+pmcid: PMC13084559
+image_filename: jpg
+figure_link: /pmc/articles/PMC13084559/figure/F3/
+number: Figure 3.
+figure_title: Pathways identified via enrichment analysis of proteins significantly
+  (p < 0.
+caption: Pathways identified via enrichment analysis of proteins significantly (p
+  < 0.05) positively (n=106, right-hand side) or negatively (n=101, left-hand side)
+  associated with MWF. Bars indicate the log10 transformation of the p-value; larger
+  bars indicate a greater significance in the overlap between the MWF associated protein
+  list and the canonical pathway listed. For each annotation database the top 5 pathways
+  or all pathways with p < 0.05 are listed, whichever is fewer. Dashed line indicates
+  p = 0.05. Asterisks indicate pathways passing Benjamini-Hochberg FDR correction
+  (adjusted p < 0.05)
+article_title: Multi-Omics Validation of Myelin Water Fraction as a Myelin-Specific
+  MRI Biomarker
+citation: Jonghyun Bae, et al. Neuroimage. 2026 Apr 15;330(NA).
+year: '2026'
+pub_date: 2026-4-15
+epub_date: 2026-3-10
+doi: 10.1016/j.neuroimage.2026.121852
+journal_title: NeuroImage
+journal_nlm_ta: Neuroimage
+publisher_name: .na.character
+keywords:
+- Myelin Water Fraction
+- Plasma Proteomics
+- Spatial Transcriptomics
+- MRI biomarker
+---

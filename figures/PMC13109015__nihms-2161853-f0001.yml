@@ -1,0 +1,78 @@
+---
+figid: PMC13109015__nihms-2161853-f0001
+pmcid: PMC13109015
+image_filename: jpg
+figure_link: /pmc/articles/PMC13109015/figure/F1/
+number: Fig. 1.
+figure_title: OPA1 orchestrates discrete mitochondrial states of cDC1s and their function
+  in activation of antitumor CD8+ T cell responses
+caption: '(A) Flow cytometry plots (left) of TMRM (for mitochondrial membrane potential)
+  and MitoTracker™ Green (MG; for mitochondrial mass) staining in cDC1s isolated from
+  B16-OVA tumors at day 10–12 after tumor inoculation. Based upon TMRM and MG co-staining,
+  two subpopulations of cDC1s were labeled as [TMRM/MG]hi and [TMRM/MG]lo cells as
+  indicated. Quantification (right) of the percentage of each of subpopulation among
+  intratumoral cDC1s (n = 26 per group). (B to D) Sort-purified intratumoral cDC1
+  subpopulations from B16-OVA (B), EO771 (C) or HCC (D) tumors were pulsed with OVA
+  protein in complete IMDM medium for 2 hours, followed by their irradiation and coculture
+  with OT-I at a ratio of 1:10 for 72 hours. OT-I cell proliferation was measured
+  by thymidine incorporation (n = 5 per group in B; n = 5 for [TMRM/MG]lo cDC1s and
+  9 for [TMRM/MG]hi cDC1s in C; n = 4 for [TMRM/MG]lo cDC1s and 6 for [TMRM/MG]hi
+  cDC1s in D). (E) Uniform manifold approximation and project (UMAP) plot of cDC1s
+  from merged samples of published scRNA-seq datasets (E-MTAB-8107/6149/6653) of human
+  colorectal, ovarian and lung tumors. For the UMAP, the activity score of our in-house
+  generated cDC1 [TMRM/MG]hi UP signature (see Methods) is depicted. Each dot corresponds
+  to an individual cDC1 and is color-coded based on high (red) or low (blue) activity
+  score of the cDC1 [TMRM/MG]hi UP signature. Circles indicate discrete subpopulations
+  of human cDC1s from the datasets based on the activity of cDC1 [TMRM/MG]hi UP signature.
+  (F) WT mice were inoculated with B16-OVA melanoma cells. At day 12 after tumor challenge,
+  intratumoral and splenic cDC1s were isolated for proteomics analysis (n = 3 per
+  group). Pathway enrichment analysis was performed based on the differentially expressed
+  proteins (log2FC > 0.5 and false discovery rate (FDR) < 0.01) in cDC1s from the
+  tumor versus spleen using mitochondria-related pathways from the Mouse MitoCarta3.0
+  database. Cristae formation (labeled in red color) ranks as the second most upregulated
+  mitochondria-associated pathway. (G) Electron microscopy (EM) analysis (left) of
+  cristae (arrows) in intratumoral cDC1s derived from B16-OVA tumor-bearing mice at
+  12 days after tumor inoculation. Scale bars: 0.5 μm. Quantification (right) of cristae
+  number or length per mitochondrion (n = 50 mitochondria for splenic cDC1s; 40 mitochondria
+  for intratumoral cDC1s). (H) EM analysis of mitochondria in cDC1s derived from B16-OVA
+  tumors at day 12. The second and fourth panels are zoomed in inlets of the first
+  and third panels, respectively. Scale bars: 1 μm. (I) Flow cytometry plots (left)
+  of TMRM and MitoTracker Green™ (MG) staining in intratumoral cDC1s isolated from
+  B16-OVA tumor-bearing WT and Opa1ΔDC mice at 10 days after tumor inoculation. Quantification
+  (right) of the percentages of [TMRM/MG]hi and [TMRM/MG]lo cells (based on TMRM and
+  MG co-staining as indicated) among intratumoral cDC1s (n = 6 per group). (J) 0.5
+  × 106 B16-OVA cells were inoculated in WT and Opa1ΔDC mice (n = 8 per group). Tumor
+  growth was monitored. (K and L) WT (n = 8) and Opa1ΔDC (n = 5) mice received AKT
+  and NRASG12V oncogenic vectors via hydrodynamic tail-vein injection (HDI) to induce
+  liver tumorigenesis, and liver tumor burden was analyzed on day 29 after HDI. Representative
+  images of liver tissue (K, left), and quantification of liver weight (K, middle)
+  or the ratio of liver/body weight (K, right). Representative hematoxylin and eosin
+  staining of liver tissue (scale bars: 100 μm) (L). (M and N) WT and Opa1ΔDC mice
+  were inoculated with B16-OVA cells and euthanized at day 14 after tumor inoculation
+  (n = 7 per group). Quantification of the frequencies and numbers (normalized to
+  tumor weight) of intratumoral CD8+ T cells (CD8+TCRb+), non-Treg CD4+ T cells (CD4+TCRb+FOXP3−)
+  and Treg cells (CD4+TCRb+FOXP3+) (M). Quantification of the frequencies and numbers
+  (normalized to tumor weight) of IFNg+ (first and second panels) and granzyme B (GZMB)+
+  (third and fourth panels) cells among intratumoral CD8+ T cells, after stimulation
+  with phorbol myristate acetate (PMA) and ionomycin in the presence of GolgiSTOP
+  for 4 hours (N). (O) B16-OVA tumor growth curves in WT (n = 10) and Xcr1cre/+Opa1fl/fl
+  (n = 12) mice. (P) MC38 tumor growth curves in WT (n = 7) and Xcr1cre/+Opa1fl/fl
+  (n = 8) mice. (Q) LLC tumor growth curves in WT and Xcr1cre/+Opa1fl/fl (n = 6 per
+  group) mice. Data are shown as mean ± s.e.m. in (A to D, G, I to K, and M to Q).
+  Two-tailed unpaired Student’s t-test in (B to D, G, K and N), two-way ANOVA in (I,
+  J, M and O to Q). Data are representative of one (H), two (C, D, I, K, L and Q)
+  or at least three (B, J, and M to P), or pooled from four (A) independent experiments.
+  *P < 0.05, **P < 0.01, ***P < 0.001, ****P < 0.0001. NS, not significant. Numbers
+  indicate percentages of cells in gates (A and I)'
+article_title: Mitochondrial metabolism and signaling direct dendritic cell function
+  in antitumor immunity
+citation: Zhiyuan You, et al. Science. 2026 Apr 02;392(6793).
+year: '2026'
+pub_date: 2026-4-02
+epub_date: 2026-4-02
+doi: 10.1126/science.adv6582
+journal_title: Science (New York, N.Y.)
+journal_nlm_ta: Science
+publisher_name: .na.character
+keywords: []
+---

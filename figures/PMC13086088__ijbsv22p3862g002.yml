@@ -1,0 +1,37 @@
+---
+figid: PMC13086088__ijbsv22p3862g002
+pmcid: PMC13086088
+image_filename: jpg
+figure_link: /pmc/articles/PMC13086088/figure/F2/
+number: Figure 2
+figure_title: Characterization of fibroblasts during LSCC progression.
+caption: Characterization of fibroblasts during LSCC progression. A UMAP plot of fibroblast
+  subsets colored by cell type. B Dot plots showing the expression of canonical marker
+  genes across each fibroblast subset. C Bar plots showing the frequency (left) and
+  proportion (right) of each fibroblast subset in different tissues. D Changes in
+  infiltration proportion of POSTN+ fibroblasts (above) and CFD+ fibroblasts (below)
+  in different tissues. E Heatmap displaying pathway activities of each fibroblast
+  subset, quantified as normalized enrichment scores (NES) from Gene Set Enrichment
+  Analysis (GSEA). F Pathway enrichment in POSTN+ versus CFD+ fibroblasts, assessed
+  by GSVA score (two-sided unpaired limma-moderated t-test). G Kaplan-Meier curve
+  showing disease-free survival (DFS) in the GSE27020 cohort, stratified by the optimal
+  cut-off for POSTN+ fibroblast infiltration. H Representative immunofluorescence
+  (IF) staining images of POSTN+ fibroblasts (COL1A1+ POSTN+ double positive) in LSCC,
+  VCL, and non-malignant samples. Scale bar = 50 μm
+article_title: Single-cell Deciphering of the Progression Trajectories of the Tumor
+  Ecosystem in Laryngeal Squamous Cell Carcinoma
+citation: Zhimou Cai, et al. Int J Biol Sci. 2026;22(7).
+year: '2026'
+pub_date: 2026--
+epub_date: 2026-3-28
+doi: 10.7150/ijbs.129291
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- laryngeal squamous cell carcinoma
+- single-cell RNA sequencing
+- tumor microenvironment
+- POSTN+ fibroblast
+- macrophage migration inhibitory factor
+---

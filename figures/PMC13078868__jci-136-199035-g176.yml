@@ -1,0 +1,49 @@
+---
+figid: PMC13078868__jci-136-199035-g176
+pmcid: PMC13078868
+image_filename: jpg
+figure_link: /pmc/articles/PMC13078868/figure/F6/
+number: Figure 6
+figure_title: SPP1-mediated immunosuppression correlates with poor prognosis after
+  PARPi therapy
+caption: (A) Spearman correlation analysis between global SPP1 expression and proportion
+  of M2-TAMs in macrophages, myCAFs in fibroblasts, and Tregs in CD4+ T cells in HGSOC
+  using the GSE180661 scRNA-Seq dataset (n = 136). (B) Spearman correlation analysis
+  (as in panel A) in breast cancer using the GSE176078 scRNA-Seq data set (n = 26).
+  (C) Western blot analysis of the TCR signaling pathway activation in T cells stimulated
+  with or without TCR, recombinant SPP1 (rSPP1), or anti-CD44 antibody. (D) Flow cytometry
+  quantification of IFN-γ and TNF-α expression in CD4+ cells (upper) and CD8+ T cells
+  (lower) after stimulation with or without rSPP1 or macrophage-conditioned medium
+  (MCM), with or without anti-CD44 antibody (n = 4). Statistical significance was
+  determined by Wilcoxon test with Benjamini-Hochberg correction. (E) Flow cytometry
+  quantification of IFN-γ and TNF-α expression in CD4+ (upper) and CD8+ T cells (lower)
+  treated with or without tumor-conditioned medium (TCM) and SPP1 mAb (n = 4). Statistical
+  significance was determined by Wilcoxon test with Benjamini-Hochberg correction.
+  (F) Representative images of residual ovarian tumor cells following co-culture with
+  OT1 mouse-derived T cells (left). Lactate dehydrogenase (LDH) cytotoxicity assay
+  results for different tumor cell lines (n = 8, right). (G) Clinical response rate
+  (complete response, [CR] plus partial response [PR]) to niraparib monotherapy in
+  the NANT cohort, stratified by low (n = 21) versus high (n = 10) density of SPP1+
+  cell infiltration. Statistical significance was determined by 2-sided Fisher’s exact
+  test. (H) Kaplan-Meier estimates of progression-free survival (PFS) in the NANT
+  trial, stratified by low (n = 28) and high (n = 11) density of SPP1+ cell infiltration.
+  One patient was excluded from PFS analysis owing to loss of follow-up. Statistical
+  significance was determined by log-rank test. *P < 0.05, **P < 0.01, ***P < 0.001.
+  HR, hazard ratio
+article_title: Tumor cell–derived IFN spatially reprograms osteopontin-enriched macrophage
+  niches to promote PARP inhibitor resistance
+citation: Dan Liu, et al. J Clin Invest. 2026 Mar 6;136(8).
+year: '2026'
+pub_date: 2026-3-6
+epub_date: 2026-3-6
+doi: 10.1172/JCI199035
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Immunology
+- Oncology
+- Biomarkers
+- Cancer
+- Immunotherapy
+---

@@ -1,0 +1,51 @@
+---
+figid: PMC13072725__ijms-27-03123-g001
+pmcid: PMC13072725
+image_filename: jpg
+figure_link: /pmc/articles/PMC13072725/figure/F1/
+number: Figure 1
+figure_title: Characterization of the AAV-mediated microRNAs (miRNA) delivery system
+  and bioinformatic prediction of miRNA target functions.
+caption: Characterization of the AAV-mediated microRNAs (miRNA) delivery system and
+  bioinformatic prediction of miRNA target functions. (A) Schematic representation
+  of AAV2.7m8 vectors expressing miR-26a-5p (TagBFP), miR-122-5p (EGFP), and let-7a-5p
+  (mCherry) under the control of a U6 promoter. Black arrows indicate the transcriptional
+  orientation of each expression cassette, and colors indicate the corresponding reporter
+  genes for each miRNA construct. (B,D,F) Representative flow cytometry histograms
+  showing reporter fluorescence intensity in Human umbilical vein endothelial cells
+  (HUVEC) 24 h after AAV-mediated delivery. Cells were sequentially gated to exclude
+  debris and doublets (using FSC-A/SSC-A and FSC-A/FSC-H plots) to ensure the analysis
+  of a pure singlet population. Non-transduced cells (WO; without AAV treatment) are
+  shown as controls. (C,E,G) Quantification of transduction efficiency, expressed
+  as the percentage of reporter-positive cells within the singlet population. Fluorescence-positive
+  gates were established based on the corresponding non-transduced control. Data are
+  presented as mean ± SEM from three independent experiments (n = 3). Statistical
+  significance was determined using an unpaired Student’s t-test. (H–J) Gene Ontology
+  (GO) biological process (BP) enrichment analysis of experimentally validated miRNA
+  target genes retrieved from miRTarBase for miR-26a-5p, miR-122-5p, and let-7a-5p,
+  highlighting pathways related to cell cycle regulation, apoptosis, endothelial migration,
+  and transcriptional control. (K–M) GO molecular function (MF) enrichment analysis
+  of experimentally validated miRNA target genes retrieved from miRTarBase for miR-26a-5p,
+  miR-122-5p, and let-7a-5p, showing enrichment for protein kinase activity, kinase
+  binding, and DNA-binding-related functions. Statistical significance is indicated
+  as * p < 0.05, *** p < 0.005, and **** p < 0.001
+article_title: AAV2.7m8-Mediated MicroRNA Expression Suppresses VEGF-Induced Angiogenic
+  Responses in HUVEC
+citation: Jin Young Yang, et al. Int J Mol Sci. 2026 Apr;27(7).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-3-30
+doi: 10.3390/ijms27073123
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- angiogenesis
+- VEGF
+- AAV2.7m8
+- MicroRNA
+- MAPK signaling
+- HUVEC
+- ocular gene therapy
+- retinal neovascularization
+---

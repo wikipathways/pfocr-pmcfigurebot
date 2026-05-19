@@ -1,0 +1,39 @@
+---
+figid: PMC13082235__nihms-2160591-f0006
+pmcid: PMC13082235
+image_filename: jpg
+figure_link: /pmc/articles/PMC13082235/figure/F6/
+number: 'Figure 6:'
+figure_title: USP7 inhibition destabilizes noncanonical PRC1 complexes
+caption: A) Schematic representation of the proteomics and ubiquitinomics experiment.
+  NB-SD cells were plated in biological triplicate and treated with 1 μM XL177A or
+  vehicle for either 30 minutes, 6 hours, 24 hours, 6 days, or 10 days prior to lysis
+  and analysis. B) The number of differentially expressed proteins at each time point
+  as determined by proteomics (adjust P ≤ 0.10). Significance was determined by moderated
+  t-test and Benjamini-Hochberg method. C) Volcano plots depicting log2 fold-change
+  in protein expression by proteomics for each time point. Proteins specific to either
+  PRC1 components or neuronal differentiation pathways are indicated in red and orange,
+  respectively. Significance determined by a −log10(P) ≥ 1.0. D) Overlapping analysis
+  showing enriched gene sets for proteins that are significantly decreased at each
+  time point using the C5 Cellular Component MSigDB database. E) Heatmap depicting
+  log2 fold-change in protein levels for all PRC1 subunits across timepoints. Protein
+  subunits specific to the PRC1.1 complex are indicated in red. F) Line graphs showing
+  log2 fold-change protein levels with XL177A treatment over time for individual PRC1
+  protein subunits KDM2B, BCOR, PCGF1, and PCGF6. Significance determined by moderated
+  t-test with Benjamini-Hochberg method at each time point. G) Western blot analysis
+  showing the expression of PCGF1, PCGF6, MYCN, RING1A, RING1B, CBX2, EZH2, USP7,
+  and H2AK119Ub in neuroblastoma cell lines treated for 48 hours with 1μM XL177A.
+  GAPDH and Histone H2A are included as controls. **P.value ≤ 0.01, ***P. Value ≤
+  0.001
+article_title: Inhibition of USP7 destabilizes the noncanonical PRC1.1 complex and
+  induces neuroblastoma differentiation
+citation: Emily A. Cmarik, et al. Mol Cancer Res. 2026 Mar 19;NA(NA).
+year: '2026'
+pub_date: 2026-3-19
+epub_date: 2026-3-19
+doi: 10.1158/1541-7786.MCR-25-1153
+journal_title: 'Molecular cancer research : MCR'
+journal_nlm_ta: Mol Cancer Res
+publisher_name: .na.character
+keywords: []
+---

@@ -1,0 +1,34 @@
+---
+figid: PMC13072768__ijms-27-03264-g005
+pmcid: PMC13072768
+image_filename: jpg
+figure_link: /pmc/articles/PMC13072768/figure/F5/
+number: Figure 5
+figure_title: Enrichment analysis of DEGs between the predicted and experimental groups.
+caption: Enrichment analysis of DEGs between the predicted and experimental groups.
+  DEGs were identified by comparing predicted or experimental gene expression profiles
+  of erlotinib-treated versus untreated lung cancer cell lines. KEGG and Gene Ontology
+  (GO) enrichment analyses were performed to assess the biological pathways and processes
+  associated with these DEGs. (A) KEGG enrichment of GAN-predicted DEGs after erlotinib
+  treatment. (B) GO enrichment of GAN-predicted DEGs after erlotinib treatment. (C)
+  KEGG enrichment of actual DEGs after erlotinib treatment. (D) GO enrichment of actual
+  DEGs after erlotinib treatment. Both predicted and experimental DEGs show consistent
+  enrichment in cell-cycle-related pathways, cellular senescence, and p53 signaling
+  pathways, reflecting the known mechanism of erlotinib in inhibiting EGFR signaling,
+  inducing G1/S cell-cycle arrest, and suppressing proliferation. The comparison illustrates
+  that the model reliably captures the key biological effects of erlotinib treatment
+article_title: 'GRIP-Lung: Generative Model of Response to Drug-Induced Perturbation
+  in Lung Cancer'
+citation: Zhijin Fu, et al. Int J Mol Sci. 2026 Apr;27(7).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-4-03
+doi: 10.3390/ijms27073264
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- lung cancer
+- generative adversarial network
+- drug response
+---

@@ -1,0 +1,101 @@
+---
+figid: PMC13109015__nihms-2161853-f0002
+pmcid: PMC13109015
+image_filename: jpg
+figure_link: /pmc/articles/PMC13109015/figure/F2/
+number: Fig. 2.
+figure_title: OPA1–NRF1 axis-mediated OXPHOS promotes cDC1 antigen presentation
+caption: (A) B16-OVA tumor-bearing WT and Opa1DDC mice were euthanized at day 14 after
+  tumor inoculation (n = 6 each group). Quantification of the geometric mean fluorescence
+  intensity (gMFI) of H-2Kb-SIINFEKL complex in intratumoral cDC1s and cDC2s. (B)
+  CellTrace Violet™ (CTV)-labeled naïve OT-I cells were adoptively transferred intravenously
+  (i.v.) into WT or Opa1ΔDC mice, followed by i.v. immunization with 20 μg OVA protein
+  24 hours later. After 3 days, the frequency of CTVlo (proliferated) OT-I cells in
+  spleens was quantified by flow cytometry analysis (n = 8 for WT; 10 for Opa1ΔDC).
+  (C) Sort-purified splenic WT or OPA1-deficient cDC1s were pulsed with heat-inactivated
+  OVA-expressing Listeria monocytogenes (HKLM-OVA) in complete IMDM medium for 4 hours,
+  followed by their irradiation and coculture with OT-I cells at a ratio of 1:10.
+  Thymidine incorporation of OT-I cells was measured 72 hours later (n = 12 each group).
+  (D) Sort-purified splenic WT or OPA1-deficient cDC1s were pulsed with B16F10 tumor
+  cell lysate in complete IMDM medium for 4 hours, followed by their irradiation and
+  coculture with pmel cells at a ratio of 1:10. Thymidine incorporation of pmel cells
+  was measured 72 hours later (n = 4 for cDC1s; 6 for cDC2s). (E) ATAC-seq analysis
+  of sort-purified splenic cDC1s from WT and Opa1ΔDC mice (n = 4 per genotype). Transcription
+  factor footprinting analysis was performed by comparing Opa1ΔDC versus WT splenic
+  cDC1s, and the transcription factors with more 1,000 binding sites were selected
+  and then ranked by their Z-scores. Blue dots and red dots indicate transcription
+  factors predicted to have decreased and increased activity, respectively, and NRF1
+  is identified as the most downregulated transcription factor. (F) Immunoblot analysis
+  of NRF1 expression in cDC1s from WT and Opa1ΔDC mice. ACTB was used as loading control
+  (left). Quantification of the relative expression of NRF1 in cDC1s from WT and Opa1ΔDC
+  mice (right). (G) Venn diagram showing the significant overlap between downregulated
+  genes in OPA1-deficient cDC1s versus WT cDC1s compared to putative NRF1 target genes
+  (left). Functional enrichment analysis of the 188 overlapped genes, with the top
+  downregulated Hallmark OXPHOS pathway labeled in blue color (right). (H) Quantification
+  of the basal oxygen consumption rate (OCR) in splenic cDC1s expressing sgNTC or
+  sgNrf1, which were sort-purified from “retrogenic mice” bearing B16-Flt3L tumors
+  (for DC expansion) at day 9 after tumor inoculation, as measured by Seahorse metabolic
+  flux assay; see also fig. S7G (n = 9 for sgNTC; 6 for sgNrf1). (I) Thymidine incorporation
+  of OT-I cells cocultured with OVA protein-pulsed (left) or OVA257–264 peptide-pulsed
+  (right) splenic cDC1s expressing sgNTC or sgNrf1 (isolated from the B16-Flt3L tumor-bearing
+  “retrogenic” mice for DC expansion, see also fig. S7G) for 72 hours (n = 8 for sgNTC
+  for both OVA and OVA257–264 peptide; 5 for sgNrf1 in response to OVA; 4 for sgNrf1
+  in response to OVA257–264 peptide). (J) “Retrogenic” mice bearing WT or OPA1-deficient
+  cDC1s that overexpress empty vector or NRF1 protein were generated and injected
+  with B16-Flt3L tumors (for DC expansion), followed by sort purification of cDC1s
+  9 days later (see also fig. S7G). WT or OPA1-deficient cDC1s overexpressing empty
+  vector or NRF1 were treated for 2 hours (during OVA protein pulse) with or without
+  500 nM rotenone (ETC complex I inhibitor), 1 mM 3-NPA (ETC complex II inhibitor),
+  0.5 μM antimycin A (ETC complex III inhibitor) or 1 μM oligomycin (ETC complex V
+  inhibitor). OT-I cell proliferation was assessed after 72 hours (n = 3 for OPA1-deficient
+  cDC1 with antimycin A treatment; 4 for remaining groups). (K) Heatmap showing the
+  expression of putative NRF1 targets within in the Hallmark OXPHOS pathway that were
+  downregulated in OPA1-deficient cDC1s compared to WT cells [as shown in (G); ranked
+  by row z-score] (n = 3 for WT, 4 for Opa1ΔDC). (L) Immunoblot analysis of the expression
+  of NDUFB8 (ETC complex I; CI), SDHB (ETC complex II; CII), UQCRC2 (ETC complex III;
+  CIII), MTCO1 (ETC complex IV; CIV) and ATP5A (ETC complex V; CV) in splenic cDC1s
+  from WT and Opa1ΔDC mice. ACTB was used as loading control. Densitometric quantification
+  of NDUFB8 was performed and normalized to ACTB expression. The numbers show the
+  relative NDUFB8 values compared to WT cDC1s. (M) Thymidine incorporation of OT-I
+  cells cocultured with OVA protein-pulsed (left) or OVA257–264 peptide-pulsed (right)
+  splenic cDC1s expressing sgNTC or sgNdufaf1 (ETC complex I assembly factor; CI)
+  (isolated from B16-Flt3L tumor-bearing “retrogenic” mice for DC expansion, see also
+  fig. S7G) for 72 hours (n = 8 each group). (N) Thymidine incorporation of OT-I cells
+  cultured with OVA protein-pulsed (left) or OVA257–264 peptide-pulsed (right) splenic
+  cDC1s expressing sgNTC, sgSdhb (component of ETC complex II; CII), sgUqcrq (component
+  of ETC complex III; CIII) or sgAtpaf2 (ETC complex V assembly factor; CV) (isolated
+  from B16-Flt3L tumor-bearing “retrogenic mice” for DC expansion, see also fig. S7G)
+  for 72 hours (n = 5 for cDC1 with sgUqcrq or sgAtpaf2 cultured with OVA protein;
+  6 for all other groups). (O) Thymidine incorporation of OT-I cells cocultured with
+  OVA protein-pulsed splenic cDC1s from WT and Opa1ΔDC mice that were pretreated for
+  2 hours (during antigen pulse) with or without 500 nM rotenone, 1 mM 3-NPA, 0.5
+  μM antimycin A or 1 μM oligomycin. OT-I cell proliferation was assessed after 72
+  hours (n = 4 per group). (P) Thymidine incorporation of OT-I cells cocultured with
+  OVA protein-pulsed splenic WT or OPA1-deficient cDC1s expressing sgNTC or sgNdufaf1,
+  which were sort-purified from “retrogenic mice” bearing B16-Flt3L tumors (for DC
+  expansion) at day 9 after tumor inoculation (as described in fig. S7G) (n = 4 for
+  WT cDC1s expressing sgNdufaf1; 5 for WT cDC1s expressing sgNTC or OPA1-deficient
+  cDC1s expressing sgNdufaf1; 6 for OPA1-deficient cDC1s expressing sgNTC). (Q) Thymidine
+  incorporation of OT-I cells cocultured with OVA protein-pulsed splenic cDC1s expressing
+  sgNTC or sgNrf1 (isolated from B16-Flt3L tumor-bearing “retrogenic mice” for DC
+  expansion, see also fig. S7G) that were pretreated for 2 hours (during antigen pulse)
+  with or without 500 nM rotenone, 1 mM 3-NPA, 0.5 μM antimycin A or 1 μM oligomycin.
+  OT-I cell proliferation was assessed after 72 hours (n = 5 for sgNTC, 4 for sgNrf1).
+  Data are shown as mean ± s.e.m. in (A to D, F, H to J, and M to Q). Two-way ANOVA
+  in (A, C, D, J, O to Q), two-tailed unpaired Student’s t-test in (B, F, H, I and
+  M) or one-way ANOVA in (N). Data are representative of two (C, D, H, J, and L, N
+  to Q) or at least three (A, B, F, I and M) independent experiments. *P < 0.05, **P
+  < 0.01, ***P < 0.001, ****P < 0.0001. NS, not significant. Numbers in plots represent
+  percentages of cell in gates (B)
+article_title: Mitochondrial metabolism and signaling direct dendritic cell function
+  in antitumor immunity
+citation: Zhiyuan You, et al. Science. 2026 Apr 02;392(6793).
+year: '2026'
+pub_date: 2026-4-02
+epub_date: 2026-4-02
+doi: 10.1126/science.adv6582
+journal_title: Science (New York, N.Y.)
+journal_nlm_ta: Science
+publisher_name: .na.character
+keywords: []
+---

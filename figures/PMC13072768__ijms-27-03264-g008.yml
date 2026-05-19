@@ -1,0 +1,36 @@
+---
+figid: PMC13072768__ijms-27-03264-g008
+pmcid: PMC13072768
+image_filename: jpg
+figure_link: /pmc/articles/PMC13072768/figure/F8/
+number: Figure 8
+figure_title: Deciphering drug response through single-sample gene set enrichment
+  analysis (ssGSEA) of transcriptomic states.
+caption: Deciphering drug response through single-sample gene set enrichment analysis
+  (ssGSEA) of transcriptomic states. The heatmap illustrates the enrichment scores
+  of six predefined biological states across various cell line samples treated with
+  bortezomib. Rows represent the specific biological states, while columns represent
+  individual cell line samples (e.g., A549, NCI-H460, HOP-62, etc.). Color intensity
+  in the heatmap reflects the ssGSEA scores, where red indicates higher enrichment
+  (activation) and blue indicates lower enrichment (suppression) of the respective
+  pathway. The “RI” (resistance index) top bar shows the calculated index for each
+  sample, with red representing RI > 0 and blue representing RI ≤ 0. The “Predicted”
+  top bar categorizes samples into “effective” or “ineffective” based on the RI values,
+  demonstrating the model’s ability to classify drug sensitivity based on transcriptomic
+  signatures. Dendrograms on the top and left represent unsupervised hierarchical
+  clustering of samples and biological states, respectively
+article_title: 'GRIP-Lung: Generative Model of Response to Drug-Induced Perturbation
+  in Lung Cancer'
+citation: Zhijin Fu, et al. Int J Mol Sci. 2026 Apr;27(7).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-4-03
+doi: 10.3390/ijms27073264
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- lung cancer
+- generative adversarial network
+- drug response
+---

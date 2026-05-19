@@ -1,0 +1,36 @@
+---
+figid: PMC13113410__biomedicines-14-00745-g003
+pmcid: PMC13113410
+image_filename: jpg
+figure_link: /pmc/articles/PMC13113410/figure/F3/
+number: Figure 3
+figure_title: KEGG enrichment analysis and protein interaction network of the differentially
+  expressed proteins between HSIL tissues and paired adjacent normal tissues.
+caption: KEGG enrichment analysis and protein interaction network of the differentially
+  expressed proteins between HSIL tissues and paired adjacent normal tissues. (A)
+  The top 20 significantly enriched KEGG pathways of the differentially expressed
+  proteins (p < 0.05). (B) Protein–protein interaction network constructed from the
+  differentially expressed proteins. Red indicates upregulation and green indicates
+  downregulation. (C) Pathway–pathway relationship network based on the enriched KEGG
+  pathways. The thicker the line, the more elements they share. (D) Protein–protein
+  interaction network of the top 50 proteins ranked by PageRank, with corresponding
+  significantly enriched pathway information annotated. Red circles represent upregulated
+  proteins, green circles represent downregulated proteins, and yellow boxes represent
+  metabolic pathways
+article_title: Proteomic and Metabolomic Analyses of HPV-Positive High-Grade Squamous
+  Intraepithelial Lesions
+citation: Chengcheng Zhao, et al. Biomedicines. 2026 Apr;14(4).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-3-24
+doi: 10.3390/biomedicines14040745
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- proteomics
+- metabolomics
+- integrative pathway analysis
+- CPT1A
+- high-grade squamous intraepithelial lesion
+---

@@ -1,0 +1,40 @@
+---
+figid: PMC13073528__ijms-27-03027-g002
+pmcid: PMC13073528
+image_filename: jpg
+figure_link: /pmc/articles/PMC13073528/figure/F2/
+number: Figure 2
+figure_title: DHA induces UM cell death by modulating the heme oxygenase-1 (HO-1)
+  and SLC7A11 (xCT)/GPX4 signaling pathways.
+caption: DHA induces UM cell death by modulating the heme oxygenase-1 (HO-1) and SLC7A11
+  (xCT)/GPX4 signaling pathways. (A) Volcano plot showing genes whose expression differed
+  between Omm1 cells treated with DHA (15 μg/mL) and control cells, with thresholds
+  of |log2FC| > 1 and p < 0.05. (B) Heatmap illustrating the expression profiles of
+  selected ferroptosis-related genes in the DHA-treated samples versus the control
+  samples. (C) KEGG pathway enrichment analysis revealing significant involvement
+  of glutathione metabolism, mitochondrial, and apoptosis-related pathways. ✭ indicates
+  pathways that may be involved in the action of DHA. (D–G) Kaplan-Meier survival
+  curves from the TCGA datasets demonstrating that high expression of ferroptosis-related
+  genes (HMOX1, FTH1, PVT1, and SLC1A5) is correlated with poor survival in UM patients.
+  (H) qRT-PCR analysis of the gene expression of HMOX1, GPX4, TFR1, and NRF2. (I,J)
+  Western blot analysis of HO-1, xCT, and GPX4 protein expression levels. The protein
+  concentration was normalized to that of β-actin. **** indicates statistical significance,
+  p < 0.0001. *** indicates statistical significance, p < 0.001. ** indicates statistical
+  significance, p < 0.01. * indicates statistical significance, p < 0.05, ns means
+  not significant
+article_title: Dihydroartemisinin Induces Ferroptosis in Uveal Melanoma Cells Through
+  the HO-1 and xCT/GPX4 Signaling Pathways
+citation: Yuxuan Zhao, et al. Int J Mol Sci. 2026 Apr;27(7).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-3-26
+doi: 10.3390/ijms27073027
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- uveal melanoma
+- natural product
+- ferroptosis
+- heme oxygenase 1
+---

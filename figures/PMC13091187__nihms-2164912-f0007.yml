@@ -1,0 +1,55 @@
+---
+figid: PMC13091187__nihms-2164912-f0007
+pmcid: PMC13091187
+image_filename: jpg
+figure_link: /pmc/articles/PMC13091187/figure/F7/
+number: Figure 7.
+figure_title: EBV LMP1 marks tumor neighborhoods enriched for C1Q-associated macrophages
+  and IL-27-STAT3 signaling in EBV-positive DLBCL
+caption: '(A) Left: Schematic of the 1-hop analysis used to quantify the proportion
+  of C1Q-associated macrophages within 20μm of anchor tumor cells. Right: Representative
+  multiplexed images showing Pax5 (magenta), C1Q (yellow), and CD68 (cyan) in EBV-positive
+  and EBV-negative samples. Scale bar, 20μm. (B) Estimated log10 fold change in C1Q-associated
+  macrophage proportions for EBV-positive (LMP1-negative) vs EBV-negative and EBV-positive
+  (LMP1-positive) vs EBV-negative comparisons in the IN-DEPTH (left) and validation
+  (right) cohorts. Error bars indicate 95% confidence intervals. (C) Differential
+  gene expression (DEG) and GSEA comparing tumor cells with active LMP1 signaling
+  (LMP1-positive tumors) versus tumors lacking LMP1 signaling (LMP1-negative tumors)
+  in EBV-positive DLBCL. Enriched pathways are listed in Supp Table 9. (D) DEG and
+  GSEA comparing macrophages within 20μm of LMP1-positive tumors versus macrophages
+  within 20μm of LMP1-negative tumors. Enriched pathways are listed in Supp Table
+  9. (E) Squidpy-inferred ligand-receptor interactions between (i) LMP1-positive tumors
+  and nearby macrophages (within 20μm) and (ii) LMP1-negative tumors and nearby macrophages
+  (within 20μm). Significant interaction pairs are provided in Supp Table 10. (F)
+  Mean expression of ligand-receptor pair identified from LMP1-positive and LMP1-negative
+  tumor with their respective macrophages. (G) Representative FOV showing the spatial
+  mapping of LMP1-positive and LMP1-negative tumor–macrophage interactions at single-cell
+  resolution. Column 1: Spatial localization of LMP1-positive and LMP1-negative tumor
+  cells with their associated macrophages. Columns 2–4: EBI3–IL27RA, EBI3–IL6ST (gp130),
+  and CCN1–TLR4 interactions, respectively. For each ligand–receptor pair, the top
+  panels show mean ligand expression (red scale) and receptor expression (blue scale),
+  with lines indicating mean ligand–receptor expression, and the bottom panels show
+  accumulated ligand–receptor interaction intensity'
+article_title: Same-Slide Spatial Multi-Omics Integration With IN-DEPTH Reveals Tumor
+  Virus-Linked Spatial Reorganization of the Tumor Microenvironment
+citation: Stephanie Pei Tung Yiu, et al. Cancer Discov. 2026 Mar 24;NA(NA).
+year: '2026'
+pub_date: 2026-3-24
+epub_date: 2026-3-24
+doi: 10.1158/2159-8290.CD-25-0775
+journal_title: Cancer discovery
+journal_nlm_ta: Cancer Discov
+publisher_name: .na.character
+keywords:
+- Spatial Multi-Omics
+- Spatial Proteomics
+- Spatial Transcriptomics
+- Graph Signal Processing
+- Bioinformatics
+- Computational Biology
+- EBV
+- Tumor Virus
+- Tumor Microenvironment
+- DLBCL
+- Systems Immunology
+---

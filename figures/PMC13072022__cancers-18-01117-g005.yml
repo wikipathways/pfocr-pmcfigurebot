@@ -1,0 +1,41 @@
+---
+figid: PMC13072022__cancers-18-01117-g005
+pmcid: PMC13072022
+image_filename: jpg
+figure_link: /pmc/articles/PMC13072022/figure/F5/
+number: Figure 5
+figure_title: Immune infiltration characteristics associated with NLRC5 expression
+  in the TCGA and CancerCell cohorts.
+caption: Immune infiltration characteristics associated with NLRC5 expression in the
+  TCGA and CancerCell cohorts. (A–D) Box plots representing Tumor Purity, Stromal
+  Score, Immune Score, and ESTIMATE Score in the TCGA cohort (n = 80), stratified
+  by NLRC5 expression levels (Low vs. High). Statistical comparisons were performed
+  using unpaired Student’s t-tests. (E–H) Corresponding box plots for the CancerCell
+  cohort (n = 155), evaluating the same immune-related scores. The consistency between
+  the two cohorts underscores the robustness of NLRC5 as a potential immune modulator.
+  (I,J) CIBERSORT analysis showing the relative proportions of various immune cell
+  types between NLRC5 low and high expression groups in the TCGA (n = 80) and CancerCell
+  (n = 155) cohorts. The analysis reveals significant variations in immune cell infiltration,
+  particularly in subsets such as T cells and macrophages, where high NLRC5 expression
+  correlates with increased immune cell presence. (K,L) ssGSEA (single-sample Gene
+  Set Enrichment Analysis) showing enrichment patterns of immune-related gene signatures
+  in NLRC5-high versus NLRC5-low tumors in the TCGA and CancerCell cohorts. Elevated
+  NLRC5 expression was associated with increased activation of multiple immune-related
+  pathways (ns, p > 0.05, * p < 0.05, ** p < 0.01, *** p < 0.001)
+article_title: High NLRC5 Expression Is Associated with an Immunosuppressive Tumor
+  Microenvironment and Poor Prognosis in Esophageal Squamous Cell Carcinoma
+citation: Heng Xiao, et al. Cancers (Basel). 2026 Apr;18(7).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-3-30
+doi: 10.3390/cancers18071117
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- ESCC
+- NLRC5
+- T-cell exhaustion
+- PANoptosis
+- tumor microenvironment
+---

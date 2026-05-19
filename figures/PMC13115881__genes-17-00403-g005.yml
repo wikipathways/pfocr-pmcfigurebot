@@ -1,0 +1,54 @@
+---
+figid: PMC13115881__genes-17-00403-g005
+pmcid: PMC13115881
+image_filename: jpg
+figure_link: /pmc/articles/PMC13115881/figure/F5/
+number: Figure 5
+figure_title: Single-cell validation and drug prediction.
+caption: Single-cell validation and drug prediction. (A) Uniform Manifold Approximation
+  and Projection (UMAP) plot showing the clustering of cells based on RNA expression
+  profiles. Each cluster is labeled with a unique number, representing distinct cell
+  populations identified in the data. The corresponding biological cell-type annotations
+  are shown in panel (B). (B) UMAP plot showing cell type annotation. Cells are colored
+  according to their identified cell type, including smooth muscle cells (red), adipocytes
+  (orange), fibroblasts (green), amacrine cells (light green), monocytes (light blue),
+  melanocytes (purple), barrier-type endothelial cells (blue), hypoxia-responsive
+  endothelial cells (dark blue), T cells (yellow), mast cells (pink), B cells (light
+  red), ciliary body cells (gray), and neurons (dark green). (C) Dot plot showing
+  the expression of key marker genes for each identified cell type. The size of each
+  dot represents the percentage of cells expressing a specific gene, while the color
+  intensity represents the average expression level of that gene in the corresponding
+  cell type. (D) Stacked bar chart showing the cell type distribution across different
+  sample groups. The proportions of each cell type are displayed for the different
+  groups, showing the variation in cell type composition between the groups. (E) UMAP
+  plot showing the expression distribution of S100A2 and S100A14 across all cells.
+  The color gradient represents the expression level, with darker red indicating higher
+  expression. (F) Dot plot showing the expression of S100A2 and S100A14 across different
+  cell types. The size of the dots represents the percentage of cells expressing the
+  gene, and the color intensity indicates the average expression level in each cell
+  type. (G) Pathway enrichment analysis for S100A2 and S100A14. This plot shows the
+  top enriched pathways for both genes, with pathways categorized under immune response,
+  metabolism, signaling, and proliferation. The color gradient represents the log2
+  fold change, and the size of the dots corresponds to the significance of the enrichment
+  (FDR). (H) Drug interaction network of S100A2 and S100A14. The network displays
+  potential drug compounds (green nodes) that interact with these genes, including
+  drug classes and related targets, suggesting potential therapeutic applications
+article_title: 'Lactylation-Associated Immune Metabolic Reprogramming Identifies S100A2
+  and S100A14 as Candidate Diagnostic Biomarkers in Primary Open-Angle Glaucoma: An
+  Integrated Bulk and Single-Cell Transcriptomic Analysis'
+citation: Yu Xu, et al. Genes (Basel). 2026 Apr;17(4).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-3-31
+doi: 10.3390/genes17040403
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- primary open-angle glaucoma
+- lactylation
+- transcriptomics
+- machine learning
+- immune microenvironment
+- single-cell RNA sequencing
+---

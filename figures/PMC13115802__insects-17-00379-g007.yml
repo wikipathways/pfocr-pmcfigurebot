@@ -1,0 +1,36 @@
+---
+figid: PMC13115802__insects-17-00379-g007
+pmcid: PMC13115802
+image_filename: jpg
+figure_link: /pmc/articles/PMC13115802/figure/F7/
+number: Figure 7
+figure_title: KEGG pathway enrichment of differentially expressed genes under melatonin
+  and temperature treatments.
+caption: 'KEGG pathway enrichment of differentially expressed genes under melatonin
+  and temperature treatments. Adult Apis cerana workers were assigned to four treatment
+  groups: G-I, Bees without melatonin at 35 °C; G-II, Bees with melatonin at 35 °C
+  (20 µg/mL); G-III, Bees without melatonin at 37 °C; G-IV, Bees with melatonin at
+  37 °C (20 µg/mL). Bees were sampled on Day 4 (D4) and Day 11 (D11), and differentially
+  expressed genes (DEGs) were identified with DESeq2 (Benjamini–Hochberg FDR ≤ 0.05,
+  |log2FC| ≥ 1). Bars depict the top enriched KEGG pathways for each pairwise comparison;
+  bar length indicates the enrichment score (−log10FDR). (A) D4 G-I vs. G-II (melatonin
+  effect at 35 °C); (B) D11 G-I vs. G-II; (C) D4 G-III vs. G-IV (melatonin effect
+  at 37 °C); (D) D11 G-III vs. G-IV; (E) D4 G-I vs. G-III (temperature effect without
+  melatonin); (F) D11 G-I vs. G-III'
+article_title: Melatonin Enhances Thermal Resilience and Extends Worker Lifespan in
+  Apis cerana via Redox–Metabolic Reprogramming
+citation: Ke Wang, et al. Insects. 2026 Apr;17(4).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-4-01
+doi: 10.3390/insects17040379
+journal_title: Insects
+journal_nlm_ta: Insects
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- Apis cerana
+- over-summering
+- melatonin
+- redox homeostasis
+- detoxification enzymes
+---

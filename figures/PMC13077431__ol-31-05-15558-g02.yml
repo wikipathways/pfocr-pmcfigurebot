@@ -1,0 +1,41 @@
+---
+figid: PMC13077431__ol-31-05-15558-g02
+pmcid: PMC13077431
+image_filename: jpg
+figure_link: /pmc/articles/PMC13077431/figure/F3/
+number: Figure 3.
+figure_title: HP enrichment in LUSC suggests potential involvement in the ferroptosis
+  signaling pathway.
+caption: 'HP enrichment in LUSC suggests potential involvement in the ferroptosis
+  signaling pathway. (A) In TCGA samples from the LinkedOmics database, 3,763 HP-associated
+  genes were identified (FDR threshold <0.001), along with 481 genes interacting with
+  HP sourced from the STRING database. An intersection analysis of the 3,763 HP-associated
+  genes and the 481 HP-interacting genes yielded 191 overlapping genes. (B) The 191
+  genes associated with HP interactions were subjected to GO enrichment analysis and
+  KEGG pathway enrichment analysis using R, followed by the generation of enrichment
+  circle plots using OmicShare tools. The GO enrichment circle plot displayed seven
+  biological processes, six cellular components and seven molecular function entries
+  (upper); the KEGG enrichment circle plot showed a total of 20 entries (bottom).
+  (C) The keyword ‘Ferroptosis’ was used to search the KEGG database, resulting in
+  the retrieval of 33 genes relevant to ferroptosis. An intersection analysis of the
+  33 ferroptosis-related genes with the 191 genes from (A) identified four intersecting
+  genes: HMOX1, SLC40A1, CP and TF. HP, haptoglobin; LUSC, lung squamous cell carcinoma;
+  GO, Gene Ontology; KEGG, Kyoto Encyclopedia of Genes and Genomes; FDR, false-discovery
+  rate'
+article_title: Lung squamous cell carcinoma downregulates haptoglobin expression to
+  inhibit M2 macrophage ferroptosis via the hemoglobin-dependent CD163/HO-1 pathway
+citation: Weijing Xie, et al. Oncol Lett. 2026 May;31(5).
+year: '2026'
+pub_date: 2026-5-
+epub_date: 2026-3-30
+doi: 10.3892/ol.2026.15558
+journal_title: Oncology Letters
+journal_nlm_ta: Oncol Lett
+publisher_name: Spandidos Publications
+keywords:
+- lung squamous cell carcinoma
+- acute-phase proteins
+- haptoglobin
+- ferroptosis
+- M2 macrophages
+---

@@ -1,0 +1,61 @@
+---
+figid: PMC13112271__nihms-2163928-f0005
+pmcid: PMC13112271
+image_filename: jpg
+figure_link: /pmc/articles/PMC13112271/figure/F5/
+number: Figure 5.
+figure_title: TGM2 and NDRG1 act in the same pathway to influence DNA replication
+caption: 'A. Western blot showing NDRG1 KO and TGM2 knockdown efficiency of cells
+  used for fiber assays in B-C. GAPDH was used as a loading control. B. DNA fiber
+  assay measuring normal replication (reg) in U2OS AAV (control) or NDRG1 KO cells
+  treated with control or TGM2-targeted siRNA. IdU track lengths were quantified for
+  >200 double-labelled fibers. C. DNA fiber assay measuring stalled fork recovery
+  (HU) in U2OS AAV (control) or NDRG1 KO cells treated with control or TGM2-targeted
+  siRNA. IdU track lengths were quantified for ≥193 double-labelled fibers. D. Western
+  blot showing TGM2 KO and NDRG1 knockdown efficiency of cells used for fiber assay
+  in E-F. GAPDH was used as a loading control. E. DNA fiber assay measuring normal
+  replication (reg) in U2OS AAV (control) or TGM2 KO cells treated with control or
+  NDRG1-targeted siRNA. IdU track lengths were quantified for >200 double-labelled
+  fibers. F. DNA fiber assay measuring stalled fork recovery (HU) in U2OS AAV (control)
+  or TGM2 KO cells treated with control or NDRG1-targeted siRNA. IdU track lengths
+  were quantified for >200 double-labelled fibers. G. Western blot showing TGM2 KO
+  and NDRG1 knockdown efficiency of cells used for fiber assay in H-I. GAPDH was used
+  as a loading control. H. DNA fiber assay measuring normal replication (reg) in SW1990
+  AAV (control) or TGM2 KO cells treated with control or NDRG1-targeted siRNA. IdU
+  track lengths were quantified for ≥173 double-labelled fibers. I. DNA fiber assay
+  measuring stalled fork recovery (HU) in SW1990 AAV (control) or TGM2 KO cells treated
+  with control or NDRG1-targeted siRNA. IdU track lengths were quantified for ≥200
+  double-labelled fibers. J. Alphafold2 predicted multimer model generated using Cosmic2
+  for human TGM2 catalytic domain (residues 140-468) shown in green, and human NDRG1
+  full length protein shown in blue. Cosmic2 output models were visualized in PyMol.
+  Left: Zoomed out to visualize whole multimer with TGM2 catalytic triad colored in
+  red and white box highlighting NDRG1-TGM2 interaction site. Right: Zoomed in to
+  white box to focus on NDRG1-TGM2 interaction site. K. Endogenous co-immunoprecipitation
+  using NDRG1 antibody in U2OS cells expressing V5-tagged WT, Q117A, or Q117E NDRG1
+  constructs. N=2 biological replicates. L. Endogenous co-immunoprecipitation using
+  NDRG1 antibody in SW190 cells expressing V5-tagged WT, Q117A, or Q117E NDRG1 constructs.
+  M. DNA fiber assay measuring normal replication (reg) in U2OS NDRG1 Q117 mutant
+  rescue cells. IdU track lengths were quantified for ≥124 double-labelled fibers.
+  N. DNA fiber assay measuring normal replication (reg) in SW1990 NDRG1 Q117 mutant
+  rescue cells as in M. IdU track lengths were quantified for ≥177 double-labelled
+  fibers. For all DNA fiber experiments, Mann-Whitney test was applied to determine
+  significance. ****<0.0001, ***<0.001, **<0.01, n.s.: non-significant. Red line represents
+  median IdU track length. Pooled data from at least N=2 biological replicates are
+  shown. O. Representative immunofluorescence images of SW1990 cells expressing V5-tagged
+  WT, Q117A, or Q117E NDRG1 constructs. Cells were stained with anti-TGM2 (green),
+  anti-NDRG1 (red), and DAPI (blue). Scale bar: 10 μm. P. CellProfiler was used to
+  quantify the integrated intensity of TGM2 in the nucleus and cytoplasm, and the
+  ratio of nuclear:cytoplasmic TGM2 was calculated and plotted for each cell. N=2
+  biological replicates. >270 cells quantified per condition. ****<0.0001, **<0.01,
+  *<0.05, n.s.: non-significant. Red line represents median'
+article_title: Interaction of NDRG1 and TGM2 modulates DNA replication and repair
+citation: Hanna M. Doh, et al. Mol Cancer Res. 2026 Mar 31;NA(NA).
+year: '2026'
+pub_date: 2026-3-31
+epub_date: 2026-3-31
+doi: 10.1158/1541-7786.MCR-25-0743
+journal_title: 'Molecular cancer research : MCR'
+journal_nlm_ta: Mol Cancer Res
+publisher_name: .na.character
+keywords: []
+---

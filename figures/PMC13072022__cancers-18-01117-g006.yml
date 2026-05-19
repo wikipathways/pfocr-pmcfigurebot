@@ -1,0 +1,49 @@
+---
+figid: PMC13072022__cancers-18-01117-g006
+pmcid: PMC13072022
+image_filename: jpg
+figure_link: /pmc/articles/PMC13072022/figure/F6/
+number: Figure 6
+figure_title: NLRC5 high expression is associated with immune escape and T cell exhaustion
+  pathways in ESCC.
+caption: 'NLRC5 high expression is associated with immune escape and T cell exhaustion
+  pathways in ESCC. (A,B) Violin plots showing Tumor Immune Dysfunction and Exclusion
+  (TIDE) analysis in the TCGA cohort (A) and CancerCell cohort (B). Tumors with high
+  NLRC5 expression exhibited higher T-cell dysfunction scores and immune escape-related
+  signatures compared with the NLRC5-low group. (C) NLRC5 expression across four ESCC
+  molecular subtypes in the CancerCell cohort. Tumors were classified into four subtypes
+  as previously reported: CCA (cell cycle activation, n = 39), NRFA (NRF2 oncogenic
+  activation, n = 38), IS (immune suppression, n = 30), and IM (immune modulation,
+  n = 48). NLRC5 expression was significantly higher in the IS subtype compared with
+  the IM subtype, suggesting a potential association between NLRC5 expression and
+  an immunosuppressive tumor microenvironment. (D,E) Gene Set Enrichment Analysis
+  (GSEA) in the TCGA (D) and CancerCell (E) cohorts, showing significant upregulation
+  of T cell exhaustion pathways in the NLRC5 high expression group. (F) Venn diagram
+  illustrating overlapping differentially expressed genes (DEGs) between NLRC5 high
+  and low expression groups in the TCGA and CancerCell cohorts. (G) A protein–protein
+  interaction (PPI) network constructed from the overlapping DEGs, highlighting the
+  key gene interactions potentially driven by NLRC5 expression, with several immune-related
+  genes showing strong connectivity. (H–J) Representative flow cytometry histograms
+  showing the expression of exhaustion markers TIM-3 (H), LAG-3 (I), and PD-1 (J)
+  in control (CTRL) and NLRC5 knockout (KO) primary human T cells following co-culture
+  with tumor cells. The y-axis indicates normalized cell counts, and the x-axis represents
+  mean fluorescence intensity (MFI). Data shown are representative of three independent
+  biological replicates (n = 3) (ns, p > 0.05, * p < 0.05, *** p < 0.001, **** p <
+  0.0001)'
+article_title: High NLRC5 Expression Is Associated with an Immunosuppressive Tumor
+  Microenvironment and Poor Prognosis in Esophageal Squamous Cell Carcinoma
+citation: Heng Xiao, et al. Cancers (Basel). 2026 Apr;18(7).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-3-30
+doi: 10.3390/cancers18071117
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- ESCC
+- NLRC5
+- T-cell exhaustion
+- PANoptosis
+- tumor microenvironment
+---

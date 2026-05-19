@@ -1,0 +1,48 @@
+---
+figid: PMC13119190__pharmaceuticals-19-00547-g006
+pmcid: PMC13119190
+image_filename: jpg
+figure_link: /pmc/articles/PMC13119190/figure/F6/
+number: Figure 6
+figure_title: Molecular dynamics simulation analysis of the dynamic binding stability
+  of AS-IV to mitochondrial apoptotic pathway key proteins.
+caption: 'Molecular dynamics simulation analysis of the dynamic binding stability
+  of AS-IV to mitochondrial apoptotic pathway key proteins. (A–F) Conformational dynamics
+  and stability analysis of the complexes formed between AS-IV and CytC, Apaf-1, Bcl2,
+  BAX, Caspase-3, and Caspase-9 during 100 ns MD simulations. RMSD (nm): Time evolution
+  of root-mean-square deviation for the protein backbone (black), ligand (red), and
+  complex (blue). Hbonds Number: Temporal profile of hydrogen bonds (black) and close
+  contacts, reflecting persistent intermolecular interactions. Gyrate (nm): Radius
+  of gyration (Rg) and its components (Rgx, Rgγ, Rg_z), indicating minimal overall
+  protein compaction and structural integrity. RMSF (nm): Residue-wise root-mean-square
+  fluctuation, highlighting flexible regions upon ligand binding. SASA (nm2): Solvent-accessible
+  surface area over time, consistent with a stable hydrophobic core. 2D Gibbs Energy
+  Landscape: Free energy projection onto the first two principal components (PC1,
+  PC2), revealing a dominant, well-defined conformational basin. 3D Gibbs Energy Landscape:
+  Free energy surface as a function of Rg (y) and RMSD (x), confirming a single, deep
+  energy minimum corresponding to the stable complex conformation. (G) FEC analysis
+  results; polar interactions (PB) serve as the main favorable force for the stable
+  binding of AS-IV to target proteins. (H) Chemistic molecular dynamics simulation
+  of the binding mode between AS-IV and Apaf-1. The Apaf-1 protein surface is electrostatically
+  colored (red for negatively charged regions, blue for positively charged regions),
+  clearly demonstrating the electrostatic interaction characteristics between AS-IV
+  and the active pocket of Apaf-1. The AS-IV molecule is displayed as a ball-and-stick
+  model (green), positioned within the key binding region of Apaf-1, intuitively illustrating
+  its spatial binding pattern'
+article_title: 'Mechanism of Astragaloside IV Against Cerebral Ischemia–Reperfusion
+  Injury: Inhibiting Neuronal Apoptosis via the CytC/Apaf-1 Mitochondrial Pathway'
+citation: Tongtong He, et al. Pharmaceuticals (Basel). 2026 Apr;19(4).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-3-29
+doi: 10.3390/ph19040547
+journal_title: Pharmaceuticals
+journal_nlm_ta: Pharmaceuticals (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- astragaloside IV
+- cerebral ischemic reperfusion injury
+- CytC/Apaf-1 pathway
+- neuron apoptosis
+- molecular dynamics simulation
+---

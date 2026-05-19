@@ -1,0 +1,40 @@
+---
+figid: PMC13110125__nihms-2162730-f0005
+pmcid: PMC13110125
+image_filename: jpg
+figure_link: /pmc/articles/PMC13110125/figure/F5/
+number: Figure 5.
+figure_title: BRD8 activates ER, FOX, and ETS target genes through modulating H2AZac
+  deposition and chromatin accessibility
+caption: (A) Co-immunoprecipitation of BRD8 and ER in BT474 cell lysates using anti-BRD8
+  antibody (top) or an anti-ER antibody (bottom). (B) ChIP–qPCR analysis of BRD8 occupancy
+  at PGR and GREB1 in BT474 cells treated with 100 nM neratinib for 4 h. (C) ChIP–qPCR
+  analysis of ER occupancy at PGR and GREB1 in BT474 and BRD8-KO BT474 cells treated
+  with DMSO or 200 nM neratinib for 4 h. For panel B-C, Mean± SD, n=3, P values were
+  calculated using two-way ANOVA. (D) Co-immunoprecipitation of H2AZ, H2AZac, and
+  TIP 60 with BRD8 in BT474 cells using anti-BRD8 antibody. (E) ER immunoprecipitation
+  was performed in BT474 cells treated with DMSO or neratinib, followed by immunoblotting
+  for ER, BRD8, and TIP60. (F) Western blot of indicated proteins in BT474 or MDA-MB-361
+  parental and BRD8 KO cells. Average ChIP-seq signal (top) and density (bottom) plots
+  of H2AZ (G) and H2AZac (H) in BT474 wild-type (WT) and BRD8 KO cells with vehicle
+  or neratinib treatment. (I) H2AZ and H2AZac peak changes at neratinib-induced regions
+  following BRD8 knockout. (J) Box plots of the average ChIP-seq peak signals of panel
+  (I). (K) Average ChIP-seq signals of neratinib gained H2AZac peaks in BT474 wide-type
+  (WT) and BRD8 KO cells. (L) GO and Hallmark pathway analysis of BRD8-dependent neratinib-induced
+  intronic peaks. Averaged H2AZ (top) and H2AZac (bottom) ChIP-seq signal (n = 2)
+  at GREB1 (M) and SLITRK6 (N) in WT or BRD8 KO BT474 cells treated with DMSO or neratinib.
+  (O) Venn diagram showing BRD8-KO–sensitive H2AZac–associated TF motifs among neratinib-induced
+  sites. For all the test, n.s., not significant, *P < 0.05, **P < 0.01, and ***P
+  <0.001
+article_title: Integrated Multi-omic Profiling Identifies BRD8/EP400 as a Pivotal
+  Chromatin Module Mediating Anti-HER2 Response in HR+/HER2+ Breast Cancer
+citation: Ang Gao, et al. Cancer Res. 2026 Mar 26;NA(NA).
+year: '2026'
+pub_date: 2026-3-26
+epub_date: 2026-3-26
+doi: 10.1158/0008-5472.CAN-25-4701
+journal_title: Cancer research
+journal_nlm_ta: Cancer Res
+publisher_name: .na.character
+keywords: []
+---

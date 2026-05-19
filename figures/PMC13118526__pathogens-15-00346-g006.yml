@@ -1,0 +1,37 @@
+---
+figid: PMC13118526__pathogens-15-00346-g006
+pmcid: PMC13118526
+image_filename: jpg
+figure_link: /pmc/articles/PMC13118526/figure/F6/
+number: Figure 6
+figure_title: Spatiotemporal dynamics of the PRRSV-2 1C sub-lineage in North America.
+caption: Spatiotemporal dynamics of the PRRSV-2 1C sub-lineage in North America. (A)
+  The panel on the top left shows a maximum clade credibility (MCC) phylogenetic tree
+  reconstructed using a discrete-space diffusion model. (B) The heatmap panel on the
+  top right displays number of transition between different regions, represented by
+  color gradients and numerical values within each cell. Warm colors indicate high
+  transition counts, while cool colors indicate low transitions counts. The thickness
+  of the black boxes around the cells indicates the magnitude of the Bayes factor;
+  only Bayes factors above 3 were considered significant. (C) The bottom panel shows
+  spread pathway. Arrows indicate the direction of spread, and their thickness represents
+  the transition numbers. The USA regions shown correspond to swine-producing areas,
+  defined based on animal density according to SHIC. The abbreviations on the Canada
+  map refer to different provinces
+article_title: Phylogenetic Lineages of PRRSV-2 from Canada Reveal Patterns of Transboundary
+  Spread and Two Novel Sub-Lineages in North America
+citation: João P. Herrera da Silva, et al. Pathogens. 2026 Apr;15(4).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-3-24
+doi: 10.3390/pathogens15040346
+journal_title: Pathogens
+journal_nlm_ta: Pathogens
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- molecular epidemiology
+- phylogeography
+- transboundary
+- viral evolution
+- PRRSV-2
+- Arteriviridae
+---

@@ -1,0 +1,36 @@
+---
+figid: PMC13113361__biomedicines-14-00772-g003
+pmcid: PMC13113361
+image_filename: jpg
+figure_link: /pmc/articles/PMC13113361/figure/F3/
+number: Figure 3
+figure_title: Heatmap showing the 50 KO gene families exhibiting the largest mean
+  CPM differences between samples, grouped according to KEGG pathway annotations.
+caption: Heatmap showing the 50 KO gene families exhibiting the largest mean CPM differences
+  between samples, grouped according to KEGG pathway annotations. Each row represents
+  a KO gene family ordered by its associated pathway, and each column corresponds
+  to a metagenomic sample. Values are shown as row-wise Z-scores of log10(CPM+1),
+  allowing comparison of relative enrichment patterns across samples. Samples are
+  stratified by Source (nose vs. oropharyngeal, indicated by purple and orange bars,
+  respectively). The heatmap shows that Source (nose vs. oropharynx) is the dominant
+  factor shaping functional gene profiles, with asthma status exerting a weaker effect.
+  CPM, counts per million; KEGG, Kyoto Encyclopedia of Genes and Genomes; KO, KEGG
+  Orthology
+article_title: Functional and Resistome Profiling of Paediatric Airway Microbiota
+  in Asthma Using Shotgun Metagenomics
+citation: Aisha Alamri, et al. Biomedicines. 2026 Apr;14(4).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-3-28
+doi: 10.3390/biomedicines14040772
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- paediatric asthma
+- airway microbiota
+- antibiotic resistance gene
+- shotgun metagenomics
+- resistome
+- virulence factor
+---

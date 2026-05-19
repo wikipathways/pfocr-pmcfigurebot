@@ -1,0 +1,37 @@
+---
+figid: PMC13117069__life-16-00592-g003
+pmcid: PMC13117069
+image_filename: jpg
+figure_link: /pmc/articles/PMC13117069/figure/F3/
+number: Figure 3
+figure_title: Functional enrichment analysis of differentially expressed genes (adjusted
+  p-values < 0.
+caption: 'Functional enrichment analysis of differentially expressed genes (adjusted
+  p-values < 0.05 and fold enrichments > 1.5) identified in peripheral blood from
+  early iPD patients. (A) GO enrichment analysis, significantly enriched biological
+  process (BP), cellular component (CC), and molecular function (MF) categories are
+  shown. Symbol shapes denote GO classes, as indicated in the legend: circles represent
+  BP, triangles rep-resent CC, and squares represent MF. (B) KEGG pathway enrichment
+  analysis of the same gene set. The x-axis represents fold enrichment, dot size corresponds
+  to gene count per term, and color scale indicates statistical significance (−log10-adjusted
+  p-value). Enrichment analyses were performed using multiple testing correction,
+  and only significantly enriched terms and pathways (adjusted p-values < 0.05 and
+  fold enrichments > 1.5) are displayed. Analyses were performed using the AMP-PD
+  discovery cohort (n = 44 participants; 26 iPD patients and 18 controls), with one
+  RNA-seq library per individual included after quality filtering'
+article_title: Integrating Weighted Gene Co-Expression Network and Differential Expression
+  Analyses to Unveil the Role of RNA m6A Methylation Regulators in Idiopathic Parkinson’s
+  Disease in Latin America
+citation: Francisco Leiva, et al. Life (Basel). 2026 Apr;16(4).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-4-01
+doi: 10.3390/life16040592
+journal_title: Life
+journal_nlm_ta: Life (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- m6A methylation
+- m6A-related genes
+- Parkinson’s disease
+---

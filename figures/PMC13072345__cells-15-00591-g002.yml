@@ -1,0 +1,56 @@
+---
+figid: PMC13072345__cells-15-00591-g002
+pmcid: PMC13072345
+image_filename: jpg
+figure_link: /pmc/articles/PMC13072345/figure/F2/
+number: Figure 2
+figure_title: Tauopathy-driven microglial activation is dampened with ZBP1 deletion.
+caption: 'Tauopathy-driven microglial activation is dampened with ZBP1 deletion. (A)
+  Representative IF images of hippocampal DAPI (blue), IBA1 (green), CD68 (yellow),
+  and P2RY12 (magenta) staining (scale bar = 200 µm). (B) IBA1+ area as a percentage
+  of the total hippocampal region of interest (HP ROI). (C) CD68+ area as a percentage
+  of total HP ROI. (D) P2RY12+ area as a percentage of total HP ROI. (E) Uniform Manifold
+  Approximation and Projection (UMAP) plot depicting cell clusters identified by single-nucleus
+  RNA sequencing (snRNA-seq) of hippocampal tissue pooled from PS19 and PZKO mice
+  at 9 months of age. Downstream analysis was performed using the Seurat package following
+  standard preprocessing, normalization, dimensionality reduction, and clustering
+  pipelines. (Abbreviations: AS = astrocyte; OL = oligodendrocyte; MG = microglia;
+  OPC = oligodendrocyte precursor cells; EX = excitatory neuron; EC = endothelial
+  cell; IN = inhibitory neuron; PC = pericyte; VLMC = vascular leptomeningeal cell;
+  CP = choroid plexus [epithelial cell]; EP = ependymal [epithelial cell]). (F) UMAP
+  plot with highlighted microglial cluster (labeled ‘MG’) and canonical identity markers
+  curated from significantly enriched genes identified by ‘FindAllMarkers’ function
+  in Seurat (v5.2.0). (G) Volcano plot depicting differentially expressed genes (DEGs)
+  in the PZKO microglial cluster compared to that of the PS19 group. The combined
+  microglia cluster was subsetted and genotype comparisons were tested using the MAST
+  algorithm in Seurat. DEGs with –Log2 Fold Change (avg_log2FC) ± 0.25 and an adjusted
+  p-value less than 0.05 were plotted using the EnhancedVolcano package. Genes are
+  colored based on directionality of change (magenta: upregulated in PZKO; teal: downregulated
+  in PZKO) and genes of interest are labeled on the plot. (H) Reactome Pathway Database
+  terms enriched in downregulated DEGs in PZKO microglia. DEGs used in volcano plots
+  were used as inputs to the EnrichR website portal for pathway enrichment analysis.
+  Plot shows the top significantly enriched terms, ranked by ascending adjusted p-value.
+  (I) WikiPathway Database terms enriched in downregulated DEGs in PZKO microglia
+  using the same criteria and methods as for the Reactome Pathway Database. Plot shows
+  the top significantly enriched terms, ranked by ascending adjusted p-value. Statistical
+  significance between experimental groups was calculated by linear mixed effects
+  modeling. * p < 0.05, ** p < 0.01'
+article_title: The Genotoxic Stress Sensor ZBP1 Drives Tau Pathology
+citation: Jessica M. Thanos, et al. Cells. 2026 Apr;15(7).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-3-26
+doi: 10.3390/cells15070591
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- Alzheimer’s disease
+- tauopathy
+- neuroinflammation
+- ZBP1
+- genotoxic stress
+- neurodegenerative disease
+- nucleic acid sensing
+- innate immunology
+---

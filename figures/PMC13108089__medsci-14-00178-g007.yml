@@ -1,0 +1,35 @@
+---
+figid: PMC13108089__medsci-14-00178-g007
+pmcid: PMC13108089
+image_filename: jpg
+figure_link: /pmc/articles/PMC13108089/figure/F7/
+number: Figure 7
+figure_title: Functional characterization of CYP2R1-associated pathways in HCC.
+caption: Functional characterization of CYP2R1-associated pathways in HCC. (A) Bar
+  plot summarizing enriched pathways that remained significant after multiple-testing
+  correction (FDR-adjusted p < 0.05) across four databases (KEGG 2021 Human, Reactome
+  Pathways 2024, MSigDB Hallmark 2020, and WikiPathways 2024 Human). Bars represent
+  the combined enrichment score for each pathway, and colors indicate the FDR-adjusted
+  p value on a –log10 scale (yellow ≥ 1, orange ≥ 1.5, red ≥ 2). (B) Top 10 Hallmark
+  pathways identified by GSEA comparing CYP2R1-high (Q1) vs. CYP2R1-low (Q4) TCGA
+  HCC samples. (C) GSEA enrichment plot of the DNA repair program. The orange line
+  represents the enrichment score. (D) Correlation plots of CYP2R1 expression with
+  representative DNA repair genes (POLA2, LIG1, PCNA, RPA3, and RAD51). The dashed
+  lines represent fitted regression lines
+article_title: Comprehensive Multi-Omics Characterization of CYP2R1 as a Diagnostic
+  and Functional Biomarker in Hepatocellular Carcinoma
+citation: Hyun Sun Jung, et al. Med Sci (Basel). 2026 Jun;14(2).
+year: '2026'
+pub_date: 2026-6-
+epub_date: 2026-4-01
+doi: 10.3390/medsci14020178
+journal_title: Medical Sciences
+journal_nlm_ta: Med Sci (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- CYP2R1
+- cytochrome P450
+- diagnosis
+- hepatocellular carcinoma
+- prognostic biomarker
+---

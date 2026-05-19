@@ -1,0 +1,37 @@
+---
+figid: PMC13113329__antioxidants-15-00449-g005
+pmcid: PMC13113329
+image_filename: jpg
+figure_link: /pmc/articles/PMC13113329/figure/F5/
+number: Figure 5
+figure_title: Integrative network analysis reveals potential targets of Chi.
+caption: 'Integrative network analysis reveals potential targets of Chi. (A) Construction
+  of the drug–disease–target network based on public databases. Different colors represent
+  different levels of importance within the network, with highlighted targets indicating
+  the core components. (B) GO enrichment analysis of the 99 targets with degree values
+  above the mean. (C) KEGG pathway enrichment analysis of the 99 targets with degree
+  values above the mean. (D) Expression and distribution of the 99 overlapping DEGs
+  in the cornea. Upper: heatmap showing the 99 overlapped DEGs in alkali-burned corneas.
+  Lower: dot plot showing the gene expression level and distribution in different
+  corneal cells. The single-cell transcriptome data were downloaded from the GEO database:
+  GSE199013. The color scale shows the average expression of each gene in each cell
+  cluster, with darker colors indicating higher expression. Immune: Immune cells;
+  Epi-TA: Corneal epithelium transit amplifying cells; Endo: Corneal endothelium cells;
+  Epi-Sup: Corneal superficial epithelium cells; Fibro: Corneal fibroblasts; Epi-Wing:
+  Corneal wing epithelium cells; Epi-Basal: Corneal basal epithelium cells'
+article_title: Chiglitazar Activates PPAR-α/γ to Suppress Oxidative Stress and Angiogenesis
+  in Corneal Neovascularization
+citation: Tao Tao, et al. Antioxidants (Basel). 2026 Apr;15(4).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-4-02
+doi: 10.3390/antiox15040449
+journal_title: Antioxidants
+journal_nlm_ta: Antioxidants (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- chiglitazar
+- corneal neovascularization
+- PPAR
+- multi-omics
+---

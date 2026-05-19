@@ -1,0 +1,30 @@
+---
+figid: PMC13115594__genes-17-00383-g010
+pmcid: PMC13115594
+image_filename: jpg
+figure_link: /pmc/articles/PMC13115594/figure/F10/
+number: Figure 10
+figure_title: Functional characterization of STXBP1 in UC.
+caption: Functional characterization of STXBP1 in UC. (A) Venn diagram showing the
+  intersection of signature genes identified by LASSO, RF, and SVM-RFE algorithms.
+  (B,D,F) GSEA comparing the STXBP1 high-expression group versus low-expression group
+  (grouped by median expression) using (B) Hallmark gene sets, (D) GO, and (F) KEGG
+  pathways. (C,E) GSVA of (C) GO and (E) KEGG pathways between STXBP1 high- and low-expression
+  groups
+article_title: 'Unraveling Circadian Rhythm Disorder-Related Gene Signatures and Molecular
+  Subtypes in Ulcerative Colitis: An Analysis of Bulk and Single-Cell Transcriptomics'
+citation: Meng Sun, et al. Genes (Basel). 2026 Apr;17(4).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-3-27
+doi: 10.3390/genes17040383
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- circadian rhythm disorder
+- ulcerative colitis
+- gene signatures
+- molecular subtypes
+- single cell
+---

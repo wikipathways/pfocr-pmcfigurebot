@@ -1,0 +1,38 @@
+---
+figid: PMC13118034__metabolites-16-00236-g005
+pmcid: PMC13118034
+image_filename: jpg
+figure_link: /pmc/articles/PMC13118034/figure/F5/
+number: Figure 5
+figure_title: Positioning EHMN 2026 as an interoperable metabolic backbone for quantitative
+  systems pharmacology (QSP) and multi-layer modelling.
+caption: 'Positioning EHMN 2026 as an interoperable metabolic backbone for quantitative
+  systems pharmacology (QSP) and multi-layer modelling. The diagram shows EHMN 2026
+  at the centre, connected to: (left) upstream annotation resources that populate
+  the model (MetaNetX, ChEBI, Reactome, Human-GEM, KEGG, BRENDA); (right) downstream
+  integration targets in QSP and systems biology (CYTOCON/CYTOCON DB for immune cell
+  concentration calibration; SABIO-RK and BRENDA for selective kinetic augmentation;
+  TRANSFAC and TRANSPATH for regulatory and signalling layer coupling; COBRA/COBRApy/Tellurium
+  for constraint-based analysis). The uniform MetaNetX identifier namespace and embedded
+  Reactome pathway IDs provide the structural bridges for namespace-clean multi-layer
+  coupling. Arrows indicate data flow direction; bidirectional arrows indicate planned
+  bidirectional integration'
+article_title: 'EHMN 2026: A Thermodynamically Refined, SBML-Standardised Human Metabolic
+  Network for Genome-Scale Analysis and QSP Integration'
+citation: Igor Goryanin, et al. Metabolites. 2026 Apr;16(4).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-3-31
+doi: 10.3390/metabo16040236
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- genome-scale metabolic model (GEM)
+- human metabolic reconstruction
+- SBML standardisation
+- flux balance analysis (FBA)
+- thermodynamic refinement
+- quantitative systems pharmacology (QSP)
+- systems biology interoperability
+---

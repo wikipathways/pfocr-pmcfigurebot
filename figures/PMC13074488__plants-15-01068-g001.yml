@@ -1,0 +1,48 @@
+---
+figid: PMC13074488__plants-15-01068-g001
+pmcid: PMC13074488
+image_filename: jpg
+figure_link: /pmc/articles/PMC13074488/figure/F1/
+number: Figure 1
+figure_title: Differential expression, type distribution, functional enrichment, and
+  pathway association with homologous linear RNAs of HbcircRNAs in bronze-stage H.
+caption: 'Differential expression, type distribution, functional enrichment, and pathway
+  association with homologous linear RNAs of HbcircRNAs in bronze-stage H. brasiliensis
+  leaves during early E. quercicola infection. (a) Volcano plot analysis of differentially
+  expressed HbcircRNAs. The (left) panel corresponds to 1 d vs. 0 d, and the (right)
+  panel corresponds to 3 d vs. 0 d. Each dot represents one HbcircRNA; dot colors
+  indicate differential expression types (blue: down-regulated; gray: no significant
+  difference; red: up-regulated). The x-axis denotes the logarithm of fold change
+  (log2(Fold Change)), and the y-axis denotes the negative logarithm of the significance
+  level (−log10(Pvalue)). (b) KEGG functional enrichment bubble plot of differentially
+  expressed HbcircRNAs. The (left) sub-panel shows enrichment results for 1 d vs.
+  0 d, and the (right) sub-panel shows results for 3 d vs. 0 d. Bubble size represents
+  the number of HbcircRNAs enriched in the pathway, and bubble color intensity corresponds
+  to enrichment significance (−log10(Pvalue)). (c) Expression heatmap of 12 candidate
+  HbcircRNAs. The heatmap displays the fold change of candidate HbcircRNAs at 1 dpi
+  and 3 d relative to 0 d; the color gradient from blue to orange indicates expression
+  changes from down-regulation to up-regulation (the corresponding value is log2(Fold
+  Change)), which intuitively presents the expression dynamics of each candidate molecule
+  across different infection time points. (d) Sankey diagram analysis of the association
+  among HbcircRNAs, homologous HbLinearRNAs, and KEGG pathways. The (left) column
+  lists 12 HbcircRNAs, the (middle) column lists their corresponding homologous HbLinearRNAs,
+  and the (right) column lists associated KEGG pathways. Streamlines of different
+  colors represent the correspondence between molecules and pathways, visually illustrating
+  the functional pathway network involved in the HbcircRNA–HbLinearRNA module'
+article_title: Differential Roles of Circular RNAs and Their Homologous Linear RNAs
+  in Hevea brasiliensis Immunity Against Erysiphe quercicola
+citation: Changshu Li, et al. Plants (Basel). 2026 Apr;15(7).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-3-31
+doi: 10.3390/plants15071068
+journal_title: Plants
+journal_nlm_ta: Plants (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- Erysiphe quercicola
+- circular RNAs
+- plant immunity
+- disease resistance
+- differential expression
+---

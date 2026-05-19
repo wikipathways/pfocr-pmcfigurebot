@@ -1,0 +1,71 @@
+---
+figid: PMC13119299__nihpp-2026.03.23.713256v1-f0005
+pmcid: PMC13119299
+image_filename: jpg
+figure_link: /pmc/articles/PMC13119299/figure/F5/
+number: 'Fig 5:'
+figure_title: STING-driven enhancer remodeling targets GATA2/AP-1/SOX18 networks that
+  maintain endothelial stability
+caption: A. Workflow showing ATAC-seq, motif enrichment and pathway analyses. B. Heatmap
+  of differentially accessible regions in HC and SAVI iECs at P1 and P3 (ATAC-seq;
+  chi-square with Yates correction). C. Motif enrichment in regions differentially
+  accessible between SAVI P1 and SAVI P3. Motifs enriched in the 43,995 SAVI P1–open
+  regions appear on the left; motifs enriched in the 69 SAVI P3–open regions appear
+  on the right. Additional comparisons are in Figure S5B. D. ATAC-seq in HLMECs stimulated
+  with 2′3′-cGAMP or IFNβ for 8 h. Sankey plot shows the number of gained and lost
+  accessible regions relative to non-treated (NT) cells. E. The enrichment of transcription
+  factor binding motifs within the differentially accessible regions between the non-stimulated
+  (NT), 2′3′-cGAMP or IFNβ stimulated HLMEC ATAC-seq libraries. Motif enrichment in
+  regions more accessible after cGAMP stimulation in HLMECs (1,868 regions; none were
+  more open in NT cells). Motif enrichment within the 1025 regions with increased
+  accessibility in the IFNβ stimulated condition is shown on the right side of the
+  y = 0 line. Cloud color as in B grey cloud indicates IRF TF motifs that are becoming
+  increasingly accessible. F. These plots show the results of permutation tests from
+  the regioneR package for the overlap between SOX18 ChIP-seq peaks from the Overman
+  et al dataset and the SAVI P1 to SAVI P3 closing regions, or the HC P1 to HC P3
+  closing regions. A differential permutation test was also conducted to compare the
+  relative enrichment of SOX18 ChIP-seq peaks in these two sets of regions. The green
+  bar indicates the observed number of overlaps between the datasets. The black bar
+  indicates the mean value of overlaps between the transcription factor ChIP-seq peaks
+  and the random permuted regions. the distribution of overlaps from the permutations
+  are shown as the gray histogram). The red bar indicates the number of overlaps at
+  the threshold of significance p = 0.05. Differential enrichment analysis (bottom
+  plot) showed significant overrepresentation of SOX18 binding sites in SAVI closing
+  CRs at P3 (273 regions, z = 29.54 ; p < 0.001). G. The pathway enrichment of genes
+  annotated by GREAT to differentially accessible regions from the SAVI iEC P1 to
+  SAVI iEC P3 conditions that exhibited a decrease in accessibility in the P3 cells.
+  These regions (and annotated genes) were filtered by the regions that overlapped
+  SOX18, JUN, FOS, and GATA2 ChIP-seq peaks from the HUVEC ChIP-seq data sets listed
+  in the methods section. H. Gene expression changes of endothelial lineage transcription
+  factors across SAVI vs. iso-SAVI iECs (P1, P5) and cGAMP-treated vs. NT HLMECs (d1,
+  d5) by RNAseq analysis. Red points indicate higher expression in SAVI or cGAMP conditions;
+  endothelial TFs are starred. I. Reduced SOX18 protein in SAVI iECs at P5 compared
+  with HC and iso-SAVI lines (3 individual iEC lines for each group), and partial
+  restoration (~50%) following STING inhibitor treatment (IFM35883, 2.5 μM, P2–P5)
+  in SAVI iECs (SAVI1, n = 3). GAPDH served as loading control. Data are represented
+  as mean ± SEM; ***p < 0.001, **p < 0.01, two-tailed unpaired t-test. J. SOX18 downregulation
+  in HC iECs following 20 μg/ml 2′3′-cGAMP stimulation (30 min–24 h), peaking at 8
+  h (~50% reduction). Quantification from three HC donors (mean ±SEM, ***p < 0.001,
+  two-tailed unpaired t-test). K. SOX18 overexpression preserves endothelial surface
+  markers CD144 and CD31 in SAVI iECs at P5. SAVI iECs were transduced at P2 with
+  control or SOX18 cDNA; Flow cytometry analysis at P5 shows increased CD144+ and
+  CD31+cells in SOX18 overexpression group. Data are represented as mean ± SEM; ***p
+  < 0.001, **p < 0.01, two-tailed unpaired t-test. (n = 4, SAVI1 iEC line)
+article_title: STING–STAT3–SOX18 Axis Drives EndMT and Epigenetic Reprogramming in
+  SAVI Lung Fibrosis
+citation: Dan Yang, et al. bioRxiv. 2026 Mar 24;NA(NA).
+year: '2026'
+pub_date: 2026-3-24
+epub_date: 2026-3-24
+doi: 10.64898/2026.03.23.713256
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords:
+- STING1
+- fibrosis
+- endothelial-to-mesenchymal transition (EndMT)
+- STAT3
+- SOX18
+- in-vitro disease model
+---

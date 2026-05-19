@@ -1,0 +1,52 @@
+---
+figid: PMC13118069__metabolites-16-00240-g003
+pmcid: PMC13118069
+image_filename: jpg
+figure_link: /pmc/articles/PMC13118069/figure/F3/
+number: Figure 3
+figure_title: Metabolomic profiling reveals significant differences between ATAAD
+  and ATAAD-MMPS patients compared to healthy controls.
+caption: 'Metabolomic profiling reveals significant differences between ATAAD and
+  ATAAD-MMPS patients compared to healthy controls. (A) Venn diagram illustrates differentially
+  abundant metabolites in three comparisons: ATAAD vs. controls, ATAAD-MMPS vs. controls.
+  (B) Linear regression plot comparing log2(fold change) of IDMs between ATAAD vs.
+  controls (x-axis) and ATAAD-MMPS vs. controls (y-axis). Each point represents an
+  IDM, with color indicating metabolite subclass (only top five subclasses are shown;
+  others are categorized as “Other”). Circle outline color denotes differential status:
+  red indicates increased levels in ATAAD vs. Ctr; blue indicates decreased levels;
+  gray indicates no significant change. The top five upregulated and downregulated
+  metabolites for each comparison are listed. The regression line equation, coefficient
+  of determination (r2), and p-value are displayed. (C) KEGG pathway enrichment analysis
+  of IDMs. Enrichment significance was determined using nominal p < 0.05 with Benjamini–Hochberg
+  false discovery rate (FDR) correction for multiple testing. (D) Subcellular localization
+  analysis of IDMs. Red indicates increased metabolites; blue indicates decreased
+  metabolites. (E) Scatter plot of receiver operating characteristic (ROC) analysis
+  for IDMs. Each point represents an IDM, with the horizontal axis showing AUC for
+  ATAAD-MMPS vs. controls and the vertical axis showing AUC for ATAAD-MMPS vs. ATAAD.
+  Dashed lines indicate the 0.9 threshold on both axes; points exceeding 0.9 in both
+  comparisons are highlighted in red. (F,G) ROC curves for methylguanidine: F shows
+  ATAAD-MMPS vs. ATAAD; G shows ATAAD-MMPS vs. controls. (H) Bar plot showing methylguanidine
+  concentrations in controls, ATAAD, and ATAAD-MMPS groups. Data are presented as
+  mean ± SEM. Normality was assessed by Shapiro–Wilk test; homogeneity of variance
+  was evaluated by Bartlett’s test. Two-tailed unpaired Student’s t-test was used
+  for comparisons with equal variances, **** p < 0.0001'
+article_title: A Pilot Serum Metabolomics Reveals Mitochondrial Dysfunction and Identifies
+  Methylguanidine as a Potential Diagnostic Biomarker for ATAAD with Mesenteric Malperfusion
+  Syndrome
+citation: Junyi Wen, et al. Metabolites. 2026 Apr;16(4).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-4-01
+doi: 10.3390/metabo16040240
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- mesenteric malperfusion syndrome
+- metabolomics
+- lipidomics
+- mitochondria metabolism
+- methylguanidine
+- aortic dissection
+- biomarker
+---

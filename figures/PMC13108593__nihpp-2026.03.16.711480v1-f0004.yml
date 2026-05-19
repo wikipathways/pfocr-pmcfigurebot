@@ -1,0 +1,52 @@
+---
+figid: PMC13108593__nihpp-2026.03.16.711480v1-f0004
+pmcid: PMC13108593
+image_filename: jpg
+figure_link: /pmc/articles/PMC13108593/figure/F4/
+number: Figure 4.
+figure_title: Disease-associated genes produce cell-type-specific transcriptional
+  effects in vivo
+caption: '(A) Number of genetic perturbations overlapping with neurodevelopmental,
+  psychiatric, and neurodegenerative disease gene sets. (B) Heatmap showing DEG burden
+  (log10 total DEGs, FDR < 0.05) across neuronal cell types following perturbation
+  of disorder-associated genes, LoF constraint categories, and essential genes57.
+  (C) Distribution of total DEG counts (log10 scale) for perturbations of disorder-related
+  and functional gene categories. For Blomen HAP1 groups, differences between essential
+  and non-essential genes were assessed using two-sided Wilcoxon rank sum tests. For
+  LoF constraint groups, overall differences were evaluated using the Kruskal-Wallis
+  rank sum test (p = 4.06E-06), followed by pairwise Wilcoxon rank-sum tests comparing
+  against LoF-intermediate groups. (D) Total DEG counts stratified by inheritance
+  pattern among NDD genes. Genes were divided into top and bottom halves based on
+  dominant (dom_score > 20) and recessive (rec_score > 10) scores. X-linked scores
+  were evaluated for genes on the X chromosome. Differences were assessed using two-sided
+  t-tests. (E) Total DEG counts stratified by human genetic evidence strength (FDR
+  quantile) for ASD/NDD genes. Genes were grouped into five quantiles based on −log10
+  (FDR), and differences were evaluated using two-sided t-tests (**: p-value ≤ 0.01;
+  ***: p-value ≤ 0.001). (F) Heatmap showing DEG burden (FDR < 0.1) under NDD gene
+  perturbations with the largest transcriptional effects. DEG counts were normalized
+  per gene using min–max scaling to a 0–1 range across cell types. (G) Example cell-type-specific
+  volcano plots for selected NDD gene perturbations. (H) Gene set enrichment test
+  of DEGs per cell type (FDR < 0.05, absolute Log2 Fold Change > 0.5) with a full
+  list of disorder risk genes, LoF constraint categories, and essential genes57. One-sided
+  Fisher’s exact test was used to compute statistics with multiple comparisons by
+  Bonferroni correction. (I) Enrichment (log2 fold enrichment) of NDD risk genes among
+  DEGs induced by each perturbation, plotted against −log10(BH-adjusted p-value).
+  Point size indicates total DEG count for the target. Labeled points indicate top
+  10 perturbations by fold enrichment or p-value. (J) STRING protein-protein interaction
+  network of pooled DEGs from NDD-enriched perturbations, showing functional convergence
+  on RNA processing and synaptic pathways(minimum interaction confidence score 0.7).
+  Nodes represent proteins and edges represent known or predicted functional associations.
+  Clusters derived from MCL clustering with inflation parameter 1.3. Proteins in bold
+  font are encoded by NDD genes (N = 373)49'
+article_title: Genome-scale functional mapping of the mammalian whole brain with in
+  vivo Perturb-seq
+citation: Tuo Shi, et al. bioRxiv. 2026 Mar 18;NA(NA).
+year: '2026'
+pub_date: 2026-3-18
+epub_date: 2026-3-18
+doi: 10.64898/2026.03.16.711480
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

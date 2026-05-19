@@ -1676,3 +1676,277 @@
 
 2026-05-19 06:19:29 - ==========================================================
 
+2026-05-19 06:32:14 - Starting NCBI PMC Figure Fetcher
+
+2026-05-19 06:32:14 - Configuration loaded from query_config.yml
+
+2026-05-19 06:32:15 - PMC search query: (((((((((((signaling pathway[Figure/Table Caption]) OR signalling pathway[Figure/Table Caption]) OR regulatory pathway[Figure/Table Caption]) OR disease pathway[Figure/Table Caption]) OR drug pathway[Figure/Table Caption]) OR metabolic pathway[Figure/Table Caption]) OR biosynthetic pathway[Figure/Table Caption]) OR synthesis pathway[Figure/Table Caption]) OR cancer pathway[Figure/Table Caption]) OR response pathway[Figure/Table Caption]) OR cycle pathway[Figure/Table Caption])) AND (2026/03/03[PUBDATE] : 2026/04/03[PUBDATE])
+
+2026-05-19 06:33:00 - PMC search completed. Fetched 3000 results (max set to 3000).
+
+2026-05-19 06:33:35 - Extracted 3696 figures from XML content.
+
+2026-05-19 06:33:35 - Identified 1032 pathway figures.
+
+2026-05-19 06:33:35 - Skipped 3 figures previously processed.
+
+2026-05-19 06:33:35 - Processed 1029 pathway figures for download.
+
+2026-05-19 06:33:48 - Failed to download image for PMC13172513__41419_2026_8684_Figa_HTML after 3 attempts.
+
+2026-05-19 06:34:02 - Failed to download image for PMC13173924__12951_2026_4353_Figa_HTML after 3 attempts.
+
+2026-05-19 06:34:12 - Failed to download image for PMC13178650__jci-136-196622-g245 after 3 attempts.
+
+2026-05-19 06:34:25 - Failed to download image for PMC13178650__jci-136-196622-g250 after 3 attempts.
+
+2026-05-19 06:34:35 - Failed to download image for PMC13178650__jci-136-196622-g252 after 3 attempts.
+
+2026-05-19 06:34:47 - Failed to download image for PMC13178651__jci-136-182984-g077 after 3 attempts.
+
+2026-05-19 06:35:03 - Failed to download image for PMC13178659__jci-136-201639-g001 after 3 attempts.
+
+2026-05-19 06:35:17 - Failed to download image for PMC13178659__jci-136-201639-g006 after 3 attempts.
+
+2026-05-19 06:35:26 - Failed to download image for PMC13178654__jci-136-196636-g275 after 3 attempts.
+
+2026-05-19 06:35:40 - Failed to download image for PMC13178654__jci-136-196636-g276 after 3 attempts.
+
+2026-05-19 06:35:52 - Failed to download image for PMC13178647__jci-136-192074-g162 after 3 attempts.
+
+2026-05-19 06:36:02 - Failed to download image for PMC13178647__jci-136-192074-g163 after 3 attempts.
+
+2026-05-19 06:36:13 - Failed to download image for PMC13178647__jci-136-192074-g164 after 3 attempts.
+
+2026-05-19 06:36:36 - Failed to download image for PMC13178647__jci-136-192074-g165 after 3 attempts.
+
+2026-05-19 06:36:48 - Failed to download image for PMC13178647__jci-136-192074-g168 after 3 attempts.
+
+2026-05-19 06:37:04 - Failed to download image for PMC13178658__jci-136-200564-g258 after 3 attempts.
+
+2026-05-19 06:37:19 - Failed to download image for PMC13178658__jci-136-200564-g260 after 3 attempts.
+
+2026-05-19 06:37:39 - Failed to download image for PMC13178658__jci-136-200564-g262 after 3 attempts.
+
+2026-05-19 06:38:11 - Failed to download image for PMC13179595__nihms-2159144-f0002 after 3 attempts.
+
+2026-05-19 06:38:31 - Failed to download image for PMC13179595__nihms-2159144-f0003 after 3 attempts.
+
+2026-05-19 06:38:41 - Failed to download image for PMC13175684__btrt-14-91-g002 after 3 attempts.
+
+2026-05-19 06:38:55 - Failed to download image for PMC13175684__btrt-14-91-g003 after 3 attempts.
+
+2026-05-19 06:39:19 - Failed to download image for PMC13173509__nihms-2160133-f0002 after 3 attempts.
+
+2026-05-19 06:39:38 - Failed to download image for PMC13173509__nihms-2160133-f0004 after 3 attempts.
+
+2026-05-19 06:39:50 - Failed to download image for PMC13172792__jkns-2026-0046f1 after 3 attempts.
+
+2026-05-19 06:40:00 - Failed to download image for PMC13172641__enm-2025-2816f1 after 3 attempts.
+
+2026-05-19 06:40:11 - Failed to download image for PMC13160183__nihms-2163469-f0001 after 3 attempts.
+
+2026-05-19 06:40:22 - Failed to download image for PMC13160183__nihms-2163469-f0002 after 3 attempts.
+
+2026-05-19 06:40:45 - Failed to download image for PMC13153647__eaht-41-1-e2026008f12 after 3 attempts.
+
+2026-05-19 06:40:58 - Failed to download image for PMC13153738__cep-2025-02936f4 after 3 attempts.
+
+2026-05-19 06:41:07 - Failed to download image for PMC13160386__nihms-2155451-f0001 after 3 attempts.
+
+2026-05-19 06:41:15 - Failed to download image for PMC13151742__nihms-2169473-f0001 after 3 attempts.
+
+2026-05-19 06:41:25 - Failed to download image for PMC13151742__nihms-2169473-f0003 after 3 attempts.
+
+2026-05-19 06:41:34 - Failed to download image for PMC13151742__nihms-2169473-f0004 after 3 attempts.
+
+2026-05-19 06:41:43 - Failed to download image for PMC13151742__nihms-2169473-f0005 after 3 attempts.
+
+2026-05-19 06:41:53 - Failed to download image for PMC13149317__41375_2026_2912_Figa_HTML after 3 attempts.
+
+2026-05-19 06:42:10 - Failed to download image for PMC13151891__nihms-2166549-f0001 after 3 attempts.
+
+2026-05-19 06:42:20 - Failed to download image for PMC13147511__nihms-2161817-f0002 after 3 attempts.
+
+2026-05-19 06:42:29 - Failed to download image for PMC13148803__nihms-2156705-f0003 after 3 attempts.
+
+2026-05-19 06:42:39 - Failed to download image for PMC13147292__nihms-2160593-f0005 after 3 attempts.
+
+2026-05-19 06:42:48 - Failed to download image for PMC13151962__nihms-2158546-f0002 after 3 attempts.
+
+2026-05-19 06:42:57 - Failed to download image for PMC13151962__nihms-2158546-f0003 after 3 attempts.
+
+2026-05-19 06:43:16 - Failed to download image for PMC13151962__nihms-2158546-f0001 after 3 attempts.
+
+2026-05-19 06:43:25 - Failed to download image for PMC13148149__nihms-2161394-f0002 after 3 attempts.
+
+2026-05-19 06:43:33 - Failed to download image for PMC13148149__nihms-2161394-f0003 after 3 attempts.
+
+2026-05-19 06:43:41 - Failed to download image for PMC13144330__41420_2026_3032_Figa_HTML after 3 attempts.
+
+2026-05-19 06:43:50 - Failed to download image for PMC13148413__nihms-2160504-f0005 after 3 attempts.
+
+2026-05-19 06:43:58 - Failed to download image for PMC13141696__thnov16p5788g006 after 3 attempts.
+
+2026-05-19 06:44:11 - Failed to download image for PMC13141696__thnov16p5788g007 after 3 attempts.
+
+2026-05-19 06:44:20 - Failed to download image for PMC13141743__thnov16p5804g005 after 3 attempts.
+
+2026-05-19 06:44:39 - Failed to download image for PMC13147270__nihms-2164879-f0002 after 3 attempts.
+
+2026-05-19 06:44:48 - Failed to download image for PMC13137964__ijbsv22p4116g002 after 3 attempts.
+
+2026-05-19 06:44:57 - Failed to download image for PMC13137964__ijbsv22p4116g003 after 3 attempts.
+
+2026-05-19 06:45:06 - Failed to download image for PMC13137662__12964_2026_2836_Figa_HTML after 3 attempts.
+
+2026-05-19 06:45:15 - Failed to download image for PMC13137856__ijbsv22p4004g005 after 3 attempts.
+
+2026-05-19 06:45:27 - Failed to download image for PMC13137856__ijbsv22p4004g006 after 3 attempts.
+
+2026-05-19 06:45:37 - Failed to download image for PMC13137863__ijbsv22p4095g002 after 3 attempts.
+
+2026-05-19 06:45:51 - Failed to download image for PMC13137953__ijbsv22p4148g002 after 3 attempts.
+
+2026-05-19 06:46:02 - Failed to download image for PMC13137953__ijbsv22p4148g003 after 3 attempts.
+
+2026-05-19 06:46:11 - Failed to download image for PMC13137953__ijbsv22p4148g004 after 3 attempts.
+
+2026-05-19 06:46:22 - Failed to download image for PMC13137969__ijbsv22p4139g001 after 3 attempts.
+
+2026-05-19 06:46:33 - Failed to download image for PMC13138138__nihms-2163445-f0002 after 3 attempts.
+
+2026-05-19 06:46:46 - Failed to download image for PMC13138138__nihms-2163445-f0003 after 3 attempts.
+
+2026-05-19 06:46:58 - Failed to download image for PMC13138138__nihms-2163445-f0004 after 3 attempts.
+
+2026-05-19 06:47:09 - Failed to download image for PMC13138138__nihms-2163445-f0005 after 3 attempts.
+
+2026-05-19 06:47:18 - Failed to download image for PMC13137857__ijbsv22p4025g001 after 3 attempts.
+
+2026-05-19 06:47:28 - Failed to download image for PMC13137857__ijbsv22p4025g002 after 3 attempts.
+
+2026-05-19 06:47:36 - Failed to download image for PMC13137857__ijbsv22p4025g003 after 3 attempts.
+
+2026-05-19 06:47:47 - Failed to download image for PMC13138660__antioxidants-15-00427-g001 after 3 attempts.
+
+2026-05-19 06:47:56 - Failed to download image for PMC13138660__antioxidants-15-00427-g003 after 3 attempts.
+
+2026-05-19 06:48:07 - Failed to download image for PMC13138660__antioxidants-15-00427-g004 after 3 attempts.
+
+2026-05-19 06:48:22 - Failed to download image for PMC13138660__antioxidants-15-00427-g005 after 3 attempts.
+
+2026-05-19 06:48:35 - Failed to download image for PMC13138660__antioxidants-15-00427-g006 after 3 attempts.
+
+2026-05-19 06:48:44 - Failed to download image for PMC13135404__jciinsight-11-196521-g089 after 3 attempts.
+
+2026-05-19 06:49:00 - Failed to download image for PMC13135396__jciinsight-11-198227-g241 after 3 attempts.
+
+2026-05-19 06:49:10 - Failed to download image for PMC13135396__jciinsight-11-198227-g242 after 3 attempts.
+
+2026-05-19 06:49:18 - Failed to download image for PMC13135396__jciinsight-11-198227-g243 after 3 attempts.
+
+2026-05-19 06:49:27 - Failed to download image for PMC13135396__jciinsight-11-198227-g244 after 3 attempts.
+
+2026-05-19 06:49:36 - Failed to download image for PMC13135396__jciinsight-11-198227-g245 after 3 attempts.
+
+2026-05-19 06:49:43 - Failed to download image for PMC13138133__nihms-2157271-f0005 after 3 attempts.
+
+2026-05-19 06:49:51 - Failed to download image for PMC13138133__nihms-2157271-f0010 after 3 attempts.
+
+2026-05-19 06:50:02 - Failed to download image for PMC13133885__ijmsv23p1822g002 after 3 attempts.
+
+2026-05-19 06:50:12 - Failed to download image for PMC13133885__ijmsv23p1822g003 after 3 attempts.
+
+2026-05-19 06:50:19 - Failed to download image for PMC13137166__nihms-2155048-f0007 after 3 attempts.
+
+2026-05-19 06:50:26 - Failed to download image for PMC13137166__nihms-2155048-f0008 after 3 attempts.
+
+2026-05-19 06:50:34 - Failed to download image for PMC13135378__nihms-2162895-f0002 after 3 attempts.
+
+2026-05-19 06:50:42 - Failed to download image for PMC13135378__nihms-2162895-f0003 after 3 attempts.
+
+2026-05-19 06:50:50 - Failed to download image for PMC13135682__nihms-2166707-f0002 after 3 attempts.
+
+2026-05-19 06:50:57 - Failed to download image for PMC13135389__jciinsight-11-200912-g189 after 3 attempts.
+
+2026-05-19 06:51:06 - Failed to download image for PMC13135391__jciinsight-11-197126-g150 after 3 attempts.
+
+2026-05-19 06:51:20 - Failed to download image for PMC13136912__nihms-2166439-f0001 after 3 attempts.
+
+2026-05-19 06:51:29 - Failed to download image for PMC13136912__nihms-2166439-f0003 after 3 attempts.
+
+2026-05-19 06:51:39 - Failed to download image for PMC13134451__nihms-2163443-f0001 after 3 attempts.
+
+2026-05-19 06:51:50 - Failed to download image for PMC13134451__nihms-2163443-f0003 after 3 attempts.
+
+2026-05-19 06:51:58 - Failed to download image for PMC13134451__nihms-2163443-f0004 after 3 attempts.
+
+2026-05-19 06:52:15 - Failed to download image for PMC13134451__nihms-2163443-f0009 after 3 attempts.
+
+2026-05-19 06:52:25 - Failed to download image for PMC13134451__nihms-2163443-f0010 after 3 attempts.
+
+2026-05-19 06:52:36 - Failed to download image for PMC13134451__nihms-2163443-f0012 after 3 attempts.
+
+2026-05-19 06:52:51 - Failed to download image for PMC13138154__nihms-2156888-f0007 after 3 attempts.
+
+2026-05-19 06:53:00 - Failed to download image for PMC13135401__jciinsight-11-191475-g140 after 3 attempts.
+
+2026-05-19 06:53:08 - Failed to download image for PMC13134718__jciinsight-11-194171-g285 after 3 attempts.
+
+2026-05-19 06:53:20 - Failed to download image for PMC13134718__jciinsight-11-194171-g286 after 3 attempts.
+
+2026-05-19 06:53:33 - Failed to download image for PMC13134714__jciinsight-11-195989-g273 after 3 attempts.
+
+2026-05-19 07:10:36 - Failed to download image for PMC13075182__plants-15-01044-g005 after 3 attempts.
+
+2026-05-19 07:10:53 - Failed to download image for PMC13075201__nutrients-18-01105-g004a after 3 attempts.
+
+2026-05-19 07:11:18 - Failed to download image for PMC13075201__nutrients-18-01105-g005 after 3 attempts.
+
+2026-05-19 07:11:31 - Failed to download image for PMC13074454__nutrients-18-01081-g002 after 3 attempts.
+
+2026-05-19 07:11:55 - Failed to download image for PMC13074881__plants-15-01092-g007 after 3 attempts.
+
+2026-05-19 07:12:04 - Failed to download image for PMC13074881__plants-15-01092-g008 after 3 attempts.
+
+2026-05-19 07:12:28 - Failed to download image for PMC13073563__ijms-27-03125-g006 after 3 attempts.
+
+2026-05-19 07:12:41 - Failed to download image for PMC13073563__ijms-27-03125-g007 after 3 attempts.
+
+2026-05-19 07:12:49 - Failed to download image for PMC13073563__ijms-27-03125-g008 after 3 attempts.
+
+2026-05-19 07:13:32 - Failed to download image for PMC13074122__ijms-27-03167-g005a after 3 attempts.
+
+2026-05-19 07:13:42 - Failed to download image for PMC13074122__ijms-27-03167-g006 after 3 attempts.
+
+2026-05-19 07:13:54 - Failed to download image for PMC13074122__ijms-27-03167-g008 after 3 attempts.
+
+2026-05-19 07:14:55 - Failed to download image for PMC13072871__ijms-27-03162-g004 after 3 attempts.
+
+2026-05-19 07:15:40 - Failed to download image for PMC13074086__ijms-27-03072-g003 after 3 attempts.
+
+2026-05-19 07:18:49 - Failed to download image for PMC13075147__molecules-31-01111-g003 after 3 attempts.
+
+2026-05-19 07:20:34 - Failed to download image for PMC13074959__molecules-31-01120-g002 after 3 attempts.
+
+2026-05-19 07:20:44 - Failed to download image for PMC13074959__molecules-31-01120-g006 after 3 attempts.
+
+2026-05-19 07:22:20 - Failed to download image for PMC13074055__materials-19-01300-g014 after 3 attempts.
+
+2026-05-19 07:23:31 - Failed to download image for PMC13072240__animals-16-01085-g004 after 3 attempts.
+
+2026-05-19 07:26:47 - Failed to download image for PMC13072964__ijms-27-02970-g002 after 3 attempts.
+
+2026-05-19 07:28:02 - Failed to download image for PMC13072364__cells-15-00617-g001 after 3 attempts.
+
+2026-05-19 07:28:23 - Failed to download image for PMC13072364__cells-15-00617-g002 after 3 attempts.
+
+2026-05-19 07:28:51 - Failed to download image for PMC13072364__cells-15-00617-g003 after 3 attempts.
+
+2026-05-19 07:32:27 - New pathway figures downloaded: 730
+
+2026-05-19 07:32:27 - NCBI PMC Figure Fetcher completed
+
+2026-05-19 07:32:27 - ==========================================================
+

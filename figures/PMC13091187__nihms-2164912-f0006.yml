@@ -1,0 +1,55 @@
+---
+figid: PMC13091187__nihms-2164912-f0006
+pmcid: PMC13091187
+image_filename: jpg
+figure_link: /pmc/articles/PMC13091187/figure/F6/
+number: Figure 6.
+figure_title: Single-cell SGCC reveals finer details of EBV-driven tumor-macrophage-CD4
+  T cell coordinated functional changes
+caption: '(A) Schematic illustration of additional cohorts for single-cell SGCC using
+  CODEX-CosMx (22 EBV+ and 17 EBV− cores; 28 EBV+ and 28 EBV− FOVs) with the IN-DEPTH
+  workflow; and validation cohorts with CosMx-only (55 EBV+ and 41 EBV− FOVs) and
+  CODEX-only (4 EBV+ and 4 EBV− cores) experiments (Supp Table 11). (B) Top: Scatter
+  plots showing the correlations between C1Q macrophage signature with CD4 T cell
+  dysfunction (left) and C1Q macrophage signature with EBV burden (right) using the
+  single-cell IN-DEPTH dataset. Bottom: Scatter plots showing the correlations between
+  C1Q macrophage signature with T cell dysfunction (left) and C1Q macrophage signature
+  with EBV burden (right) using the CosMx-only validation cohort. Gene signatures
+  are in Supp Table 3. (C) Single-cell SGCC between tumor and macrophage association.
+  Low SGCC score corresponds to spatial organization where tumor-macrophage association
+  is dominated, whereas high SGCC score corresponds to spatial organization where
+  tumor-macrophage association is diluted by effects imposed by other interacting
+  cell types. Representative spatial organization of tumor and macrophage at different
+  SGCC scores are shown (top). Each column represents an individual FOV. Full pathway
+  names are in Supp Table 7. (D) SGCC between macrophage and CD4 T cell association
+  at single cell resolution. Low SGCC score corresponds to a spatial organization
+  where macrophage-CD4 T cell association is dominated, whereas a high SGCC score
+  corresponds to a spatial organization where macrophage-CD4 T cell association is
+  diluted by effects imposed by other interacting cell types. Representative spatial
+  organization of macrophage-CD4 T cell at different SGCC scores are shown (top).
+  Functional pathways for macrophage (middle) and CD4 T cells (bottom) are shown per
+  FOV. Each column represents an individual FOV. Full pathway names are in Supp Table
+  7'
+article_title: Same-Slide Spatial Multi-Omics Integration With IN-DEPTH Reveals Tumor
+  Virus-Linked Spatial Reorganization of the Tumor Microenvironment
+citation: Stephanie Pei Tung Yiu, et al. Cancer Discov. 2026 Mar 24;NA(NA).
+year: '2026'
+pub_date: 2026-3-24
+epub_date: 2026-3-24
+doi: 10.1158/2159-8290.CD-25-0775
+journal_title: Cancer discovery
+journal_nlm_ta: Cancer Discov
+publisher_name: .na.character
+keywords:
+- Spatial Multi-Omics
+- Spatial Proteomics
+- Spatial Transcriptomics
+- Graph Signal Processing
+- Bioinformatics
+- Computational Biology
+- EBV
+- Tumor Virus
+- Tumor Microenvironment
+- DLBCL
+- Systems Immunology
+---

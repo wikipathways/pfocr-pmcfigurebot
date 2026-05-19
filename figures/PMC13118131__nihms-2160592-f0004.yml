@@ -1,0 +1,56 @@
+---
+figid: PMC13118131__nihms-2160592-f0004
+pmcid: PMC13118131
+image_filename: jpg
+figure_link: /pmc/articles/PMC13118131/figure/F4/
+number: Figure 4.
+figure_title: Glutamate metabolism supports immunosuppressive signaling in macrophages
+  and invasive behavior in malignant cells
+caption: (a) Importance of different cell types (purple) in the signaling of glutamate
+  in the tumor microenvironment, with macrophages as the most important senders (top
+  row) and Malig-4 cells as the most important receivers (second row). Mediators (third
+  row) are cell types with the highest betweenness centrality and influencers (fourth
+  row) are the cell types with highest information centrality from CellChat network
+  analysis. (b) GLS expression (left) and SLC1A4 (glutamate transporter, right) in
+  macrophages from Malig-4-high samples (red) and Malig-4-low samples (teal). (c)
+  Dotplot of Cohen’s D comparing metabolic pathway activity scores calculated by Compass
+  for macrophages (top) and malignant cells (bottom). Red dots indicate the reaction
+  has a significant Cohen’s d (BH-adjusted p < 0.1) and is upregulated in Malig-4-high
+  cells; blue dots indicate the reaction has a significant Cohen’s D and is upregulated
+  in Malig-4-low cells. (d) Dotplot of scaled average gene expression of M2 and M1
+  macrophage marker genes (columns) comparing macrophages from Malig-4-high and -low
+  samples. (e) Dotplot of scaled average gene expression (columns) for malignant cells
+  in each GEP (rows). (f) Bar plots of RT-qPCR gene fold changes in parental, NT control,
+  and RELB-KO cell lines with respect to the parental QGP1 line. Performed in triplicate
+  and error bars represent standard deviation, with significance determined by an
+  unpaired Welch’s t-test. *p = 0.0337. (g) Bar plots of ssGSEA score of Malig-4,
+  angiogenesis, and glutamate receptor gene sets in parental, NT, and RELB-KO cell
+  lines from RNA-seq of each cell line. (h) Forest plot of Pearson correlation between
+  deconvoluted M2 macrophage proportion, malignant GEP score, and RELB expression
+  in external bulk RNA cohorts (n = 140) with FDR < 0.05 indicated by an opaque dot.
+  (i) Schematic of migration assay of BON1 and QGP1 cells in response to various chemoattractants
+  (10% FBS, 10% FBS with mouse-derived peritoneal macrophages, and 10% FBS with 1
+  mM L-glutamate) was determined using a transwell migration chamber. Bottom chambers
+  containing each chemoattractant were treated with 0.1% DMSO, 10 nM CB-839 (glutaminase
+  inhibitor), or 100 nM CB-839. After 48 hours, migrating cells on the bottom surface
+  of the insert were counted and averaged across 5 representative fields. (j) Results
+  of migration assay. Y-axis represents average number of cells across 5 fields of
+  view for each replicate. Two technical replicates and 3-5 biological replicates
+  were performed for all conditions. Error bars represent standard error, and significance
+  was derived from pairwise Mann-Whitney U test. *p < 0.05, **p < 0.01. If p-values
+  were in the same range for both QGP1 and BON1 only one p-value summary is shown;
+  if they differed, the first asterisk refers to QGP1 and the second asterisk refers
+  to BON1
+article_title: Distinct malignant cell states and myeloid glutamate signaling associated
+  with aggressive pancreatic neuroendocrine tumors
+citation: Jeanna M. Arbesfeld-Qiu, et al. Clin Cancer Res. 2026 Mar 18;NA(NA).
+year: '2026'
+pub_date: 2026-3-18
+epub_date: 2026-3-18
+doi: 10.1158/1078-0432.CCR-25-2565
+journal_title: 'Clinical cancer research : an official journal of the American Association
+  for Cancer Research'
+journal_nlm_ta: Clin Cancer Res
+publisher_name: .na.character
+keywords: []
+---

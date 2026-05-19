@@ -1,0 +1,46 @@
+---
+figid: PMC13091187__nihms-2164912-f0003
+pmcid: PMC13091187
+image_filename: jpg
+figure_link: /pmc/articles/PMC13091187/figure/F3/
+number: Figure 3.
+figure_title: SGCC reveals coordinated spatial transitions in cellular states and
+  tissue architecture
+caption: '(A) Schematic overview of the SGCC methodology showing: I) Pattern binning
+  of single-cells in spatial proteomics data, followed by II) Pattern encoding through
+  GFT to generate low-frequency FCs, and III) Cross-correlation analysis to identified
+  coordinated spatial patterns for downstream integration with transcriptomics. (B)
+  Integration framework for identifying genes covarying with spatial pattern across
+  the tissue, linking spatial factors to gene expressionfor functional analysis. (C)
+  Analysis of CD4 T cell and BCL6+ B cells via IN-DEPTH proteomics and transcriptomics
+  analysis, showing SGCC scores, total number of cells, CD4T cell proportion, BCL6+
+  and BCL6- B cell proportion, their associated spatial distribution of cells in bins,
+  and the coordinated gene expression programs reflecting intrinsic cell programs
+  and T-B cell crosstalk (bottom). Enriched genes are italicized, pathways are bolded
+  and myeloid subtypes are in purple. The full gene pathway names can be found in
+  Supp Table 4. (D) A schematic illustrating tissue-level organization derived from
+  SGCC analysis depicting the transitions in T-B cell interactions across the dark
+  zone (DZ) and light zone (LZ)'
+article_title: Same-Slide Spatial Multi-Omics Integration With IN-DEPTH Reveals Tumor
+  Virus-Linked Spatial Reorganization of the Tumor Microenvironment
+citation: Stephanie Pei Tung Yiu, et al. Cancer Discov. 2026 Mar 24;NA(NA).
+year: '2026'
+pub_date: 2026-3-24
+epub_date: 2026-3-24
+doi: 10.1158/2159-8290.CD-25-0775
+journal_title: Cancer discovery
+journal_nlm_ta: Cancer Discov
+publisher_name: .na.character
+keywords:
+- Spatial Multi-Omics
+- Spatial Proteomics
+- Spatial Transcriptomics
+- Graph Signal Processing
+- Bioinformatics
+- Computational Biology
+- EBV
+- Tumor Virus
+- Tumor Microenvironment
+- DLBCL
+- Systems Immunology
+---

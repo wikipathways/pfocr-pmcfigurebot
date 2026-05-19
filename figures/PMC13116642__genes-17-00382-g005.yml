@@ -1,0 +1,43 @@
+---
+figid: PMC13116642__genes-17-00382-g005
+pmcid: PMC13116642
+image_filename: jpg
+figure_link: /pmc/articles/PMC13116642/figure/F5/
+number: Figure 5
+figure_title: WGCNA of DEGs in the mesocotyls of rice cultivar Zhengdao 209 seedling
+  sown at different depths.
+caption: WGCNA of DEGs in the mesocotyls of rice cultivar Zhengdao 209 seedling sown
+  at different depths. (A) Cluster dendrogram of DEGs. The genes were clustered based
+  on their expression profiles, and co-expression modules (marked with distinct colors)
+  were identified via dynamic tree cutting. The “Merged dynamic” bar represents the
+  final integrated modules after merging highly similar ones. (B) Module–trait relationships
+  between module eigengenes (MEs) and ML. Each cell shows the r (top) and the corresponding
+  p-value (bottom) of the ME (of a color-labeled module) with ML. The color gradient
+  reflects the strength and direction of the correlation. (C) Scatter plots of module
+  membership (MM) vs. gene significance (GS) for the blue (left) and brown (right)
+  modules. GS denotes the correlation between individual gene expression and ML; MM
+  denotes the correlation between individual gene expression and the ME of the corresponding
+  module. High linear correlations (cor > 0.95) confirm that the genes in these modules
+  are closely associated with ML variation. (D) KEGG enrichment analysis of the blue
+  (top) and brown (bottom) modules. The bars represent the proportion of annotated
+  genes in each enriched pathway, with different colors classifying pathways into
+  functional categories; the numbers on the bars indicate the number of annotated
+  genes in each pathway. (E) Co-expression network for the blue (top) and brown (bottom)
+  modules. Nodes represent genes, and edges represent weighted co-expression relationships;
+  node size is positively correlated with gene connectivity (hub degree)
+article_title: Transcriptional Response of Rice Mesocotyl Elongation to Sowing Depth
+  and Identification of Key Regulatory Factors
+citation: Ya Wang, et al. Genes (Basel). 2026 Apr;17(4).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-3-27
+doi: 10.3390/genes17040382
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- rice
+- mesocotyl
+- transcriptome analysis
+- key gene
+---

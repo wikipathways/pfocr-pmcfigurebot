@@ -1,0 +1,42 @@
+---
+figid: PMC13086088__ijbsv22p3862g006
+pmcid: PMC13086088
+image_filename: jpg
+figure_link: /pmc/articles/PMC13086088/figure/F6/
+number: Figure 6
+figure_title: Role of monocytes/macrophages in the immune functions during LSCC progression.
+caption: Role of monocytes/macrophages in the immune functions during LSCC progression.
+  A UMAP plot of monocyte/macrophage cells colored by cell type. B Dot plots showing
+  the expression of canonical marker genes across each monocyte/macrophage subset.
+  C Bar plots showing the frequency (left) and proportion (right) of each monocyte/macrophage
+  subset in different tissues. D Heat map displaying pathway activities of each monocyte/macrophage
+  subset, quantified as NES from GSEA. E Dot plot depicting M1, M2, angiogenic, and
+  phagocytic gene signatures across monocyte/macrophage subsets, shown as Z-score
+  normalized log2(count + 1) values. F Pathway enrichment in LYVE1+ versus SPP1+ macrophages,
+  assessed by GSVA score (two-sided unpaired limma-moderated t-test). G Kaplan-Meier
+  curve showing DFS in the GSE27020 cohort, stratified by the optimal cut-off for
+  SPP1+ macrophage infiltration. H Representative IF staining images of SPP1+ macrophages
+  (CD68 and SPP1 double positive) within LSCC and LSCCP tissue sections. Scale bar
+  = 50 μm. I Representative images showing the angiogenic capacity of HUVECs following
+  4 h culture in different CM (n = 3 per group). Scale bar = 200 μm. J Representative
+  images of wound-healing in SNU899 or SNU1076 cells cultured with different CM at
+  0 and 24 h post-scratch (n = 3 per group). K Invasion of SNU899 or SNU1076 cells
+  after 48 h of culture in different CM. Images showing representative randomly selected
+  fields. (n = 3 per group). *p < 0.05; **p < 0.01; ***p < 0.001
+article_title: Single-cell Deciphering of the Progression Trajectories of the Tumor
+  Ecosystem in Laryngeal Squamous Cell Carcinoma
+citation: Zhimou Cai, et al. Int J Biol Sci. 2026;22(7).
+year: '2026'
+pub_date: 2026--
+epub_date: 2026-3-28
+doi: 10.7150/ijbs.129291
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- laryngeal squamous cell carcinoma
+- single-cell RNA sequencing
+- tumor microenvironment
+- POSTN+ fibroblast
+- macrophage migration inhibitory factor
+---

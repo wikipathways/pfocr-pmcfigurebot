@@ -1,0 +1,42 @@
+---
+figid: PMC13082235__nihms-2160591-f0003
+pmcid: PMC13082235
+image_filename: jpg
+figure_link: /pmc/articles/PMC13082235/figure/F3/
+number: 'Figure 3:'
+figure_title: PCGF1 knockout induces neuronal differentiation through de-repression
+  of polycomb-regulated chromatin domains
+caption: A) CUT&RUN and ChIP-sequencing heatmaps showing PCGF1, RING1B, EZH2, H2AK119Ub,
+  and H3K27me3 occupancy in parental NB-SD cells at peaks determined to be consensus
+  PRC1.1 (PCGF1/RING1B) binding sites and divided based on whether peaks overlap with
+  EZH2 binding. B) Pie charts presenting the genomic distribution of PRC1.1 binding
+  regions at either PRC2 co-bound or independent regions. The promoter region is defined
+  as ≤ 3 kb from the transcriptional start site. C) RNA-sequencing heatmap showing
+  log2 fold-change in gene transcription for neuroblastoma cell lines infected for
+  10 days with either control or sgRNAs targeting PCGF1. Heatmap is ordered based
+  on average log2 fold-change across all three cell lines. D) Bar plots depicting
+  the number of differentially expressed genes induced by PCGF1 knockout (adjusted
+  P.value ≤0.10, fold-change ≥ 2). E) Venn diagram showing the overlap of significantly
+  altered genes in each cell line from panel D. Representative genes that are shared
+  between all three cell lines are indicated. F) Bubble plot summarizing functional
+  enrichments using the C5 MSigDB gene set database for 165 PCGF1-regulated genes
+  in panel E. Genes were curated based on overlapping in at least 2 cell lines. G)
+  Volcano plots showing GSEA normalized enrichment scores for genome-wide expression
+  changes caused by PCGF1 knockout in all three cell lines in the MSigDB C5 gene set
+  collection as determined by RNA-sequencing. Neuronal differentiation pathways are
+  indicated. Significance determined by a log10(P) ≥ 1.0. H) Bar plot summarizing
+  the number of PCGF1-regulated genes as determined by RNA-sequencing that demonstrate
+  promoter binding of PRC1.1 + PRC2 (PCGF1/RING1B/EZH2), PRC1.1 only (PCGF1/RING1B),
+  PCGF1 only, or none
+article_title: Inhibition of USP7 destabilizes the noncanonical PRC1.1 complex and
+  induces neuroblastoma differentiation
+citation: Emily A. Cmarik, et al. Mol Cancer Res. 2026 Mar 19;NA(NA).
+year: '2026'
+pub_date: 2026-3-19
+epub_date: 2026-3-19
+doi: 10.1158/1541-7786.MCR-25-1153
+journal_title: 'Molecular cancer research : MCR'
+journal_nlm_ta: Mol Cancer Res
+publisher_name: .na.character
+keywords: []
+---

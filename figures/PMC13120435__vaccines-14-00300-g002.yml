@@ -1,0 +1,35 @@
+---
+figid: PMC13120435__vaccines-14-00300-g002
+pmcid: PMC13120435
+image_filename: jpg
+figure_link: /pmc/articles/PMC13120435/figure/F2/
+number: Figure 2
+figure_title: Transcriptomic profiling of BMDMs trained with HK Kp.
+caption: Transcriptomic profiling of BMDMs trained with HK Kp. (A) Volcano plot depicting
+  differentially expressed genes between HK Kp-trained and control BMDMs. Significantly
+  upregulated or downregulated genes were identified using DESeq2 with an adjusted
+  p value (Padj) < 0.05 and |log2 fold change| > 1. (B) KEGG pathway enrichment analysis
+  of differentially expressed genes, shown as a dot plot indicating enrichment score,
+  gene number, and p value for each pathway. (C) Heatmap of core enrichment genes
+  within the glycolysis/gluconeogenesis pathway. (D) Heatmap of core enrichment genes
+  within the hematopoietic cell lineage pathway. (E) GSEA plots for glycolysis/gluconeogenesis
+  and hematopoietic cell lineage pathways based on the ranked transcriptome. RNA-seq
+  was performed on n = 3 independent biological replicates per group, and KEGG and
+  GSEA analyses were conducted using standard enrichment settings
+article_title: Inactivated Klebsiella pneumoniae Induces Metabolic and Hematopoietic
+  Reprogramming to Promote Trained Immunity and Heterologous Antibacterial Protection
+citation: Xiang Cheng, et al. Vaccines (Basel). 2026 Apr;14(4).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-3-27
+doi: 10.3390/vaccines14040300
+journal_title: Vaccines
+journal_nlm_ta: Vaccines (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- trained immunity
+- Klebsiella pneumoniae
+- metabolic reprogramming
+- hematopoietic stem and progenitor cells
+- heterologous antibacterial protection
+---

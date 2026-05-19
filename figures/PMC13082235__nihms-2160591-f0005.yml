@@ -1,0 +1,51 @@
+---
+figid: PMC13082235__nihms-2160591-f0005
+pmcid: PMC13082235
+image_filename: jpg
+figure_link: /pmc/articles/PMC13082235/figure/F5/
+number: 'Figure 5:'
+figure_title: USP7 inhibition correlates with transcriptional and epigenetic consequences
+  of PCGF1 knockout
+caption: 'A) Bar plot depicting the number of differentially expressed genes (adjusted
+  P.value ≤0.10, fold-change ≥2) induced by 1 μM XL177A treatment for 10 days in three
+  neuroblastoma cell lines. B) Left: Heatmaps showing log2 fold-change in gene expression
+  changes induced by 1μM XL177A treatment for ten days. Center and right: Genes were
+  ranked by expression changes and GSEA analysis performed for each of the Hallmark,
+  C2, and C5 MSigDB gene set collections, in order. C) Gene set enrichment plots showing
+  enrichment for the 165 gene PCGF1-regulated gene set in three neuroblastoma cell
+  lines treated with 1 μM XL177A for ten days. Normalized enrichment scores and P-values
+  are indicated. D) Volcano plots for GSEA normalized enrichment scores for genome-wide
+  expression changes caused by 1 μM XL177A treatment for ten days in all three cell
+  lines using the MSigDB C5 gene set collection. Neuronal differentiation pathways
+  are indicated. E) Heatmaps showing ChIP-sequencing enrichment for 22,563 detected
+  H2AK119Ub peaks in NB-SD cells treated for 10 days with 1μM XL177A or vehicle and
+  separated based on whether H2AK119Ub decreased (log2(AUC) ≤ −0.5, n=10,469), increased
+  (log2(AUC) ≥ 0.5, n=835), or did not change (n=11,259). Read density metaplots show
+  global averaged RPKM normalized H2AK119Ub signal. F) Scatterplot showing the correlation
+  of log2 fold-change in gene expression to the log2 fold-change AUC of the nearest
+  H2AK119Ub peak in NB-SD cells. Indicated number of genes in each quadrant were determined
+  on whether they were significantly altered for H2AK119Ub enrichment (log2 AUC of
+  ≥ 0.5 or ≤ −0.5) and significantly altered by gene expression (log2 fold-change
+  ≥ 1 or ≤ −1). G) Integrated heatmap showing RNA expression for PCGF1 knockout or
+  XL177A treatment and the corresponding nearest H2AK119Ub peak in NB-SD cells treated
+  for ten days with 1 μM XL177A. Heatmaps were generated for all genes that demonstrate
+  co-binding of PRC1.1 and PRC2. Black bars indicate consensus genes for which there
+  was increased RNA expression in both PCGF1 knockout and XL177A treatment (P≤0.10,
+  log2 fold-change≥1), as well as decreased H2AK119Ub by ChIP-sequencing (log2 fold-change
+  ≤ 0.5). Above, read density metaplots showing averaged RPKM-normalized H2AK119Ub
+  signal across the universe of PRC1.1 and PRC2 co-bound binding sites. H) Bubble
+  plot showing the significantly enriched gene sets as determined by hypergeometric
+  overlapping analysis for the 108 consensus genes identified in panel G. Gene sets
+  were binned into indicated categories'
+article_title: Inhibition of USP7 destabilizes the noncanonical PRC1.1 complex and
+  induces neuroblastoma differentiation
+citation: Emily A. Cmarik, et al. Mol Cancer Res. 2026 Mar 19;NA(NA).
+year: '2026'
+pub_date: 2026-3-19
+epub_date: 2026-3-19
+doi: 10.1158/1541-7786.MCR-25-1153
+journal_title: 'Molecular cancer research : MCR'
+journal_nlm_ta: Mol Cancer Res
+publisher_name: .na.character
+keywords: []
+---

@@ -1,0 +1,43 @@
+---
+figid: PMC13072826__cells-15-00633-g004
+pmcid: PMC13072826
+image_filename: jpg
+figure_link: /pmc/articles/PMC13072826/figure/F4/
+number: Figure 4
+figure_title: BPGM silencing and HDAC inhibition elicit distinct transcriptional programs
+  in A498 ccRCC cells.
+caption: BPGM silencing and HDAC inhibition elicit distinct transcriptional programs
+  in A498 ccRCC cells. (a) Venn diagram showing the number of differentially expressed
+  genes following siRNA-mediated BPGM knockdown or Vorinostat treatment in A498 cells,
+  as well as the overlap between both conditions (n = 6 biological replicates per
+  condition). (b) Heatmap depicting the expression patterns of genes commonly regulated
+  by BPGM silencing and HDAC inhibition, illustrating predominantly inverse regulation
+  between the two perturbations. Genes associated with unfolded protein response and
+  ferroptosis-related pathways are highlighted in red. (c,d) Pathway-level analyses
+  based on gene set variance analyses showing differential regulation of biological
+  pathways following BPGM knockdown (c) or Vorinostat treatment (d). The differences
+  of the z-scores in relation to control conditions are plotted. Positive values indicate
+  a pathway activation, and negative values indicate a pathway suppression compared
+  to control conditions. Control conditions represent cells transfected with non-targeting
+  siRNA and treated with vehicle (DMSO). Vorinostat-treated cells were transfected
+  with non-targeting siRNA
+article_title: 2,3-Bisphosphoglycerate Mutase (BPGM), a Metabolic Player Shaping Stress-Adaptive
+  Transcriptional States in Clear Cell Renal Cell Carcinoma
+citation: Philipp N. Becker, et al. Cells. 2026 Apr;15(7).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-3-31
+doi: 10.3390/cells15070633
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- clear cell renal cell carcinoma (ccRCC)
+- BPGM
+- glycolytic flux
+- cancer metabolism
+- redox homeostasis
+- ferroptosis
+- stress tolerance
+- epigenetic perturbation
+---

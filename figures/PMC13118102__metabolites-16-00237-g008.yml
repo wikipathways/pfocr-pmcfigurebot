@@ -1,0 +1,31 @@
+---
+figid: PMC13118102__metabolites-16-00237-g008
+pmcid: PMC13118102
+image_filename: jpg
+figure_link: /pmc/articles/PMC13118102/figure/F8/
+number: Figure 8
+figure_title: Combined pathway topology and enrichment analyses.
+caption: Combined pathway topology and enrichment analyses. The central labels (1–15)
+  map to the respective nodes in the left panel (Pathway Impact and −log10 p-value)
+  and the right panel (Enrichment Ratio as bubble size and significance as color gradient).
+  This integrative view highlights core metabolic axes, such as branched-chain amino
+  acid and sphingolipid metabolism, targeted by the optimal predictive model
+article_title: Serum Untargeted Metabolomics Integrated with SHAP-Based Machine Learning
+  for Multiclass Stratification of Prostate Cancer, Prostatitis, and Benign Prostatic
+  Hyperplasia
+citation: Zijie Wang, et al. Metabolites. 2026 Apr;16(4).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-3-31
+doi: 10.3390/metabo16040237
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- prostate diseases
+- serum metabolomics
+- untargeted metabolomics
+- machine learning
+- multiclass models
+- SHAP analysis
+---

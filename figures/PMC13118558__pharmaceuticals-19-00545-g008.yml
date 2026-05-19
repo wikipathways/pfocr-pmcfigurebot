@@ -1,0 +1,35 @@
+---
+figid: PMC13118558__pharmaceuticals-19-00545-g008
+pmcid: PMC13118558
+image_filename: jpg
+figure_link: /pmc/articles/PMC13118558/figure/F8/
+number: Figure 8
+figure_title: KEGG Pathway Enrichment Analysis of Molecular Pathways Associated with
+  the MMC–Quercetin Combination.
+caption: KEGG Pathway Enrichment Analysis of Molecular Pathways Associated with the
+  MMC–Quercetin Combination. KEGG pathway enrichment analysis was conducted using
+  STRING-derived protein–protein interaction data to identify molecular pathways associated
+  with the combined effects of MMC and quercetin. Significantly enriched pathways
+  were determined based on false discovery rate (FDR) values. Among the most prominently
+  enriched categories were the p53 signaling pathway, apoptosis, and cell cycle-related
+  pathways. Bar plots depict the number of genes mapped to each pathway, whereas the
+  dashed line indicates −log10(FDR) values. Pathways with FDR < 0.05 were considered
+  statistically significant. These analyses were performed to support mechanistic
+  interpretation and do not constitute direct experimental validation
+article_title: 'Quercetin Sensitizes Retinoblastoma Cells to Mitomycin C Through Transcriptional
+  Modulation of p53-Regulated Apoptotic Genes: A Preclinical Study'
+citation: Erkan Duman, et al. Pharmaceuticals (Basel). 2026 Apr;19(4).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-3-28
+doi: 10.3390/ph19040545
+journal_title: Pharmaceuticals
+journal_nlm_ta: Pharmaceuticals (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- quercetin
+- mitomycin C
+- retinoblastoma cells
+- apoptosis induction
+- combination index
+---

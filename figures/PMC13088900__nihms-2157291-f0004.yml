@@ -1,0 +1,45 @@
+---
+figid: PMC13088900__nihms-2157291-f0004
+pmcid: PMC13088900
+image_filename: jpg
+figure_link: /pmc/articles/PMC13088900/figure/F3/
+number: Figure 3.
+figure_title: Temporal dynamics of the global proteome of LPS-treated PMNs
+caption: '(A) Volcano plots comparing 1 h vs 30 min (left), and 6 h vs 30 min (right)
+  within each treatment: CTRL (top), ECO (middle), and FT (bottom). (B) Top: K-means
+  clustering (K = 3) performed on all DEPs in at least one pairwise comparison within
+  ECO treatment. Bold lines represent cluster centroids; thin lines represent individual
+  DEPs. Bottom: Heatmap of DEPs in ECO treatment, separated by cluster. Red indicates
+  relative increase in abundance and blue indicates relative decrease. (C) Gene Ontology
+  Biological Process (GO-BP), Cellular Component (GO-CC), and Reactome pathway enrichment
+  analysis for proteins assigned to cluster 1 in ECO-treated PMNs. (D) GO-CC enrichment
+  analysis for proteins assigned to clusters 2 and 3, in ECO-treated PMNs. DEPs were
+  calculated using limma with donor as blocking factor, employing empirical Bayes
+  statistics; all p-values were two-sided. DEPs were considered at an FDR (q-value)
+  < 0.05, indicated by the horizontal dashed line in the volcano plots, with upregulated
+  proteins shown in red, downregulated proteins in blue, and non-significant proteins
+  in gray. For all GO enrichment and reactome analyses, terms were considered significant
+  at FDR < 0.05, n = 6'
+article_title: Structural Diversity of Lipid A Modulates Neutrophil Proteome and Secretome
+  Responses
+citation: Jose R. Pittaluga-Villarreal, et al. J Proteomics. 2026 Jun 15;328(NA).
+year: '2026'
+pub_date: 2026-6-15
+epub_date: 2026-3-10
+doi: 10.1016/j.jprot.2026.105643
+journal_title: Journal of proteomics
+journal_nlm_ta: J Proteomics
+publisher_name: .na.character
+keywords:
+- Neutrophils
+- Polymorphonuclear neutrophils (PMN)
+- Lipopolysaccharide (LPS)
+- Lipid A acylation
+- Escherichia coli
+- Francisella tularensis
+- Secretome
+- Degranulation
+- Data-independent acquisition (DIA)
+- Quantitative proteomics
+- Innate immune response
+---

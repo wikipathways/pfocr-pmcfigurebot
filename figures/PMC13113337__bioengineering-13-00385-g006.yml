@@ -1,0 +1,27 @@
+---
+figid: PMC13113337__bioengineering-13-00385-g006
+pmcid: PMC13113337
+image_filename: jpg
+figure_link: /pmc/articles/PMC13113337/figure/F6/
+number: Figure 6
+figure_title: Schematic of the maternal structured-metadata encoder (MAE).
+caption: Schematic of the maternal structured-metadata encoder (MAE). Solid lines
+  indicate the main embedding pathway used for multimodal fusion (x˜(m)→z(m)), whereas
+  dashed lines denote the auxiliary reconstruction pathway during training (z(m)→x^(m))
+article_title: 'MIRF-Net: A Multimodal Data Fusion Framework for Intrapartum Fetal
+  Risk Assessment'
+citation: Yaosheng Lu, et al. Bioengineering (Basel). 2026 Apr;13(4).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-3-27
+doi: 10.3390/bioengineering13040385
+journal_title: Bioengineering
+journal_nlm_ta: Bioengineering (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- intrapartum fetal risk assessment
+- multimodal fusion
+- cardiotocography (CTG)
+- maternal metadata
+- PatchTST
+---
