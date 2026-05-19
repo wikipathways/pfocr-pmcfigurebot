@@ -1,0 +1,34 @@
+---
+figid: PMC13048855__ijmsv23p1198g006
+pmcid: PMC13048855
+image_filename: jpg
+figure_link: /pmc/articles/PMC13048855/figure/F6/
+number: Figure 6
+figure_title: Functional enrichment and hub gene analysis of the red module.
+caption: Functional enrichment and hub gene analysis of the red module. (A) Gene Ontology
+  enrichment analysis of the red module categorized by biological process (BP), cellular
+  component (CC), and molecular function (MF). (B) Hallmark pathway enrichment analysis
+  for the red module genes; the top five enriched terms are shown. (C-H) Validation
+  of hub gene, SNRPD2, in the Cancer Genome Atlas kidney renal clear-cell carcinoma
+  dataset. SNRPD2 expression levels in (C) tumor vs. normal tissues, (D) across tumor
+  grades, and (E) across pathological stages. Kaplan-Meier survival curves comparing
+  low and high SNRPD2 expression for (F) progression-free survival, (G) overall survival,
+  and (H) disease-specific survival. ρ, Spearman's rank correlation coefficient. Numbers
+  in parentheses indicate sample size per subgroup
+article_title: Integrated analysis uncovers KCMF1 genetic susceptibility and the SNRPD2
+  axis in renal cell carcinoma
+citation: Jiunn-Bey Pao, et al. Int J Med Sci. 2026;23(4).
+year: '2026'
+pub_date: 2026--
+epub_date: 2026-2-18
+doi: 10.7150/ijms.129880
+journal_title: International Journal of Medical Sciences
+journal_nlm_ta: Int J Med Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- genetic variants
+- renal cell carcinoma
+- prognosis
+- weighted gene co-expression network analysis
+- ZZ-type zinc finger family
+---

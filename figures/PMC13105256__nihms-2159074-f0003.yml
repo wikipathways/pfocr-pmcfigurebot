@@ -1,0 +1,40 @@
+---
+figid: PMC13105256__nihms-2159074-f0003
+pmcid: PMC13105256
+image_filename: jpg
+figure_link: /pmc/articles/PMC13105256/figure/F3/
+number: Fig. 3.
+figure_title: Individual metabolites and metabolic pathways are associated with xenobiotic
+  mixtures in serum samples from first trimester (n = 100).
+caption: 'Individual metabolites and metabolic pathways are associated with xenobiotic
+  mixtures in serum samples from first trimester (n = 100). The total mixture represents
+  a mixture of 7 detected PFAS, 3 bisphenols, 5 phthalates, 3 organophosphate esters,
+  2 parabens, and 1 pesticide. Effect estimates were determined from quantile gcomputation
+  and can be interpreted as: for an simultaneous increase in each chemical in a mixture
+  by one quartile, peak areas of a select metabolite increase (values > 0; positive;
+  red) or decrease (values < 0; negative; blue). Effect estimates are indicated only
+  for metabolic features that are significantly associated with at least one chemical
+  mix of PFAS, bisphenols, phthalates, OPEs, parabens, or mixtures of these chemicals
+  together (total mix) in serum samples. One asterisk (*) indicates a significant
+  correlation using p < 0.05, while two asterisks (**) indicates significant correlations
+  using False discovery rate (FDR) correction of multiple comparisons performed using
+  the Benjamin-Hochberg procedure at FDR < 0.05'
+article_title: Nontargeted screening identifies mixtures of environmental pollutants
+  that are associated with perturbations to amino acid and fatty acid metabolic pathways
+  during early pregnancy
+citation: Adam F. Pedersen, et al. Environ Int. 2026 Mar;209(NA).
+year: '2026'
+pub_date: 2026-3-
+epub_date: 2026-2-25
+doi: 10.1016/j.envint.2026.110172
+journal_title: Environment international
+journal_nlm_ta: Environ Int
+publisher_name: .na.character
+keywords:
+- High-resolution metabolomics
+- High-resolution mass spectrometry
+- PFAS
+- Phthalates
+- Bisphenols
+- Quantile g-computation
+---

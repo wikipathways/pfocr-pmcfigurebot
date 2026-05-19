@@ -1,0 +1,35 @@
+---
+figid: PMC13025252__genes-17-00257-g004
+pmcid: PMC13025252
+image_filename: jpg
+figure_link: /pmc/articles/PMC13025252/figure/F4/
+number: Figure 4
+figure_title: Estrogen signaling-associated protein–protein interaction subnetworks.
+caption: Estrogen signaling-associated protein–protein interaction subnetworks. (A)
+  Estrogen receptor signaling pathway subnetwork. (B) Cellular response to estrogen
+  stimulus subnetwork. Protein–protein interaction networks were generated using the
+  corresponding Gene Ontology (GO) biological process terms as entry points. Edges
+  indicate STRING interactions (combined score ≥ 0.4), and node colors denote GO biological
+  process annotations
+article_title: Transcriptomic Responses of Zebrafish Embryos to Environmentally Relevant,
+  Low-Dose (2-Ethylhexyl) Phthalate Exposure at 96–120 hpf
+citation: Mariagiovanna Pais, et al. Genes (Basel). 2026 Mar;17(3).
+year: '2026'
+pub_date: 2026-3-
+epub_date: 2026-2-25
+doi: 10.3390/genes17030257
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- zebrafish
+- DEHP
+- endocrine disruptors
+- developmental exposure
+- RNA-seq
+- transcriptomics
+- pathway enrichment
+- protein–protein interaction networks
+- estrogen signaling
+- androgen signaling
+---

@@ -1596,3 +1596,83 @@
 
 2026-05-19 05:09:16 - ==========================================================
 
+2026-05-19 05:18:46 - Starting NCBI PMC Figure Fetcher
+
+2026-05-19 05:18:46 - Configuration loaded from query_config.yml
+
+2026-05-19 05:18:46 - PMC search query: (((((((((((signaling pathway[Figure/Table Caption]) OR signalling pathway[Figure/Table Caption]) OR regulatory pathway[Figure/Table Caption]) OR disease pathway[Figure/Table Caption]) OR drug pathway[Figure/Table Caption]) OR metabolic pathway[Figure/Table Caption]) OR biosynthetic pathway[Figure/Table Caption]) OR synthesis pathway[Figure/Table Caption]) OR cancer pathway[Figure/Table Caption]) OR response pathway[Figure/Table Caption]) OR cycle pathway[Figure/Table Caption])) AND (2026/02/03[PUBDATE] : 2026/03/03[PUBDATE])
+
+2026-05-19 05:19:48 - PMC search completed. Fetched 3000 results (max set to 3000).
+
+2026-05-19 05:20:20 - Extracted 3374 figures from XML content.
+
+2026-05-19 05:20:20 - Identified 852 pathway figures.
+
+2026-05-19 05:20:20 - Skipped 22 figures previously processed.
+
+2026-05-19 05:20:20 - Processed 830 pathway figures for download.
+
+2026-05-19 05:20:35 - Failed to download image for PMC13144983__nihms-2159296-f0002 after 3 attempts.
+
+2026-05-19 05:21:20 - Failed to download image for PMC13157980__nihms-2167696-f0002 after 3 attempts.
+
+2026-05-19 05:21:51 - Failed to download image for PMC13150177__973206300220610F2 after 3 attempts.
+
+2026-05-19 05:23:04 - Failed to download image for PMC13158852__nihms-2159105-f0001 after 3 attempts.
+
+2026-05-19 05:23:49 - Failed to download image for PMC13158852__nihms-2159105-f0004 after 3 attempts.
+
+2026-05-19 05:24:06 - Failed to download image for PMC12993829__nihms-2150971-f0003 after 3 attempts.
+
+2026-05-19 05:24:19 - Failed to download image for PMC12993829__nihms-2150971-f0005 after 3 attempts.
+
+2026-05-19 05:24:59 - Failed to download image for PMC13153741__cep-2025-02565f1 after 3 attempts.
+
+2026-05-19 05:25:11 - Failed to download image for PMC13153741__cep-2025-02565f2 after 3 attempts.
+
+2026-05-19 05:25:21 - Failed to download image for PMC13153741__cep-2025-02565f3 after 3 attempts.
+
+2026-05-19 05:26:27 - Failed to download image for PMC13153741__cep-2025-02565f4 after 3 attempts.
+
+2026-05-19 05:27:19 - Failed to download image for PMC13153741__cep-2025-02565f5 after 3 attempts.
+
+2026-05-19 05:27:51 - Failed to download image for PMC13157655__nihms-2167012-f0005 after 3 attempts.
+
+2026-05-19 05:28:26 - Failed to download image for PMC13133726__nihms-2163477-f0005 after 3 attempts.
+
+2026-05-19 05:28:58 - Failed to download image for PMC13135399__jciinsight-11-181427-g001 after 3 attempts.
+
+2026-05-19 05:29:14 - Failed to download image for PMC13134718__jciinsight-11-194171-g285 after 3 attempts.
+
+2026-05-19 05:29:50 - Failed to download image for PMC13134718__jciinsight-11-194171-g286 after 3 attempts.
+
+2026-05-19 05:30:01 - Failed to download image for PMC13134715__jciinsight-11-192010-g029 after 3 attempts.
+
+2026-05-19 05:30:11 - Failed to download image for PMC13134715__jciinsight-11-192010-g032 after 3 attempts.
+
+2026-05-19 05:31:02 - Failed to download image for PMC13134736__jciinsight-11-196246-g095 after 3 attempts.
+
+2026-05-19 05:31:33 - Failed to download image for PMC13135405__jciinsight-11-195410-g001 after 3 attempts.
+
+2026-05-19 05:31:46 - Failed to download image for PMC13134731__jciinsight-11-197555-g143 after 3 attempts.
+
+2026-05-19 05:32:14 - Failed to download image for PMC13138439__nihms-2158732-f0001 after 3 attempts.
+
+2026-05-19 05:32:38 - Failed to download image for PMC13134729__jciinsight-11-192126-g257 after 3 attempts.
+
+2026-05-19 05:32:57 - Failed to download image for PMC13135393__jciinsight-11-201033-g047 after 3 attempts.
+
+2026-05-19 05:33:30 - Failed to download image for PMC13135393__jciinsight-11-201033-g050 after 3 attempts.
+
+2026-05-19 05:34:04 - Failed to download image for PMC13135393__jciinsight-11-201033-g051 after 3 attempts.
+
+2026-05-19 06:02:49 - Failed to download image for PMC13025252__genes-17-00257-g006 after 3 attempts.
+
+2026-05-19 06:19:29 - Failed to download image for PMC13027536__metabolites-16-00152-g007 after 3 attempts.
+
+2026-05-19 06:19:29 - New pathway figures downloaded: 274
+
+2026-05-19 06:19:29 - NCBI PMC Figure Fetcher completed
+
+2026-05-19 06:19:29 - ==========================================================
+

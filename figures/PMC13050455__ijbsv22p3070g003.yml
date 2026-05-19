@@ -1,0 +1,66 @@
+---
+figid: PMC13050455__ijbsv22p3070g003
+pmcid: PMC13050455
+image_filename: jpg
+figure_link: /pmc/articles/PMC13050455/figure/F3/
+number: Figure 3
+figure_title: Multi-omics profiling of dose-dependent apigenin responses in bladder
+  cancer.
+caption: Multi-omics profiling of dose-dependent apigenin responses in bladder cancer.
+  (A) Results of MFuzz soft clustering analysis on differentially expressed proteins
+  from the proteomic data. A total of six clusters (Cluster 1-6) were identified.
+  Each subplot shows the average normalized abundance change curves of proteins within
+  the corresponding cluster under different treatment conditions (x-axis treatment
+  doses ranging from control T24+0 to various drug concentrations of 20, 40, and 100
+  µM; y-axis Z-score normalized expression values). The shaded area represents the
+  range of variation in protein expression within each cluster. (B) Gene Ontology
+  (GO) biological process (BP) enrichment analysis of differentially expressed proteins.
+  The bar chart displays the significantly enriched GO terms and their corresponding
+  enrichment statistics. The x-axis represents the significance score, and the y-axis
+  lists the names of the GO biological processes. (C) Domain enrichment analysis of
+  differentially expressed proteins. The InterProScan tool was used to identify protein
+  domains in the differentially expressed proteins, and the top 10 most significantly
+  enriched domains were selected. The chart lists these domain names along with their
+  enrichment statistics (x-axis enrichment factor or -Log10 p-values). (D) Heatmap
+  of GSEA KEGG pathway enrichment shared by both proteomic and transcriptomic datasets.
+  The rows represent KEGG pathway names, and the columns correspond to the proteomic
+  and transcriptomic datasets. The color indicates the normalized enrichment score
+  (NES) of each pathway in the corresponding dataset, with red representing positive
+  enrichment (upregulated pathways) and blue representing negative enrichment (downregulated
+  pathways). Color intensity reflects significance (only pathways with p<0.05 are
+  shown). (E) GSEA enrichment curves for the PPAR signaling pathway in both proteomic
+  and transcriptomic datasets. The upper graph shows the GSEA results for the proteomic
+  data, and the lower graph shows the results for the transcriptomic data. The x-axis
+  represents the rank of genes based on differential expression, and the y-axis shows
+  the cumulative enrichment score. The green curve represents the enrichment of the
+  PPAR pathway gene set within the sorted list. Both graphs show significant enrichment
+  of PPAR pathway genes in the upregulated region of the curve in the drug-treated
+  groups (with peak values towards the front, NES > 0, and p<0.05), indicating activation
+  of PPAR downstream target genes at both the protein and mRNA levels. (F) Venn diagram
+  comparing pathway enrichment between proteome and transcriptome. The left circle
+  represents transcriptome-specific pathways (66 total), the right circle proteome-specific
+  pathways (65 total), with 14 overlapping pathways significantly enriched in both
+  datasets. (G) Heatmap of gene expression trends shared by both proteomic and transcriptomic
+  datasets. The heatmap shows the expression levels of 53 differential genes in both
+  proteomics (left) and transcriptomics (right). Rows represent genes/proteins, and
+  columns represent biological replicates from different treatment groups. Color intensity
+  ranges from blue (low expression) to red (high expression), indicating Z-score normalized
+  expression values. (H) Venn diagram comparing DEGs and DEPs. The transcriptome identified
+  1,709 DEGs, the proteome identified 385 DEPs, and 24 genes were significantly changed
+  at both transcript and protein levels
+article_title: Apigenin Suppresses Bladder Cancer via the SIRT6-NCOA2-PPARα Axis
+citation: Ying Liu, et al. Int J Biol Sci. 2026;22(6).
+year: '2026'
+pub_date: 2026--
+epub_date: 2026-2-26
+doi: 10.7150/ijbs.128177
+journal_title: International Journal of Biological Sciences
+journal_nlm_ta: Int J Biol Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- bladder cancer
+- apigenin
+- SIRT6
+- NCOA2
+- metabolic reprogramming
+---

@@ -1,0 +1,39 @@
+---
+figid: PMC13078879__jci-136-198730-g256
+pmcid: PMC13078879
+image_filename: jpg
+figure_link: /pmc/articles/PMC13078879/figure/F2/
+number: Figure 2
+figure_title: Single-cell transcriptomics reveals disrupted immune coordination and
+  altered antiviral signaling in the brain following α4 blockade
+caption: '(A) Single-cell RNA-seq workflow. UMAP of brain and spleen CD45+ cells show
+  leukocyte enrichment by PTPRC expression. (B) Brain immune cluster annotation using
+  Blueprint and ENCODE references identifies CD4+/CD8+ T cells, NK cells, and myeloid
+  subsets. (C) ITGA4 expression across brain immune clusters. (D) Dot plots comparing
+  α4-treated, IgG-treated, and SIV– control (Ctrl) groups: (top) CD8+ Tem gene expression,
+  (middle) CD4+ Tcm gene expression, (bottom) Myeloid gene expression. (E) CellChat
+  shows preserved interaction number but reduced strength for secreted signaling between
+  CD8+ Tem and monocytes under α4-blockade. (F) Cytokine pathways enriched in IgG-treated
+  brains (IL-1, BAFF, APRIL, BAG) versus α4-treated brains (IL-2, TNF-α, CSF), with
+  altered CD8+ Tem-monocyte directionality. (G) Aggregate signaling shows reduced
+  cytokine output and increased receptor input in α4-treated monocytes. (H) Ligand-receptor
+  analysis shows increased NAMPT and reduced MIF-CD74/CD44 and TGFβ1-TGFβR1/TGFβR2
+  interactions with α4-blockade. (I and J) CD6 signaling is diminished in CD8+ Tem
+  cells while LCK signaling is preserved. CD80, SELPLG, NECTIN, and SEMA7 pathways
+  are maintained or increased. (K) SIV RNA+ cell frequencies in CD4+ T cell and monocyte
+  clusters'
+article_title: α4 Integrin blockade impairs CD8+ T cell neuroimmune surveillance following
+  SIV infection
+citation: Pabitra B. Pal, et al. J Clin Invest. 2026 Feb 24;136(8).
+year: '2026'
+pub_date: 2026-2-24
+epub_date: 2026-2-24
+doi: 10.1172/JCI198730
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- AIDS/HIV
+- Immunology
+- Adaptive immunity
+---

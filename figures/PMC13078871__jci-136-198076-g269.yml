@@ -1,0 +1,35 @@
+---
+figid: PMC13078871__jci-136-198076-g269
+pmcid: PMC13078871
+image_filename: jpg
+figure_link: /pmc/articles/PMC13078871/figure/F2/
+number: Figure 2
+figure_title: Time-series transcriptome analysis reveals that Gsdme deficiency enhances
+  intramuscular adipogenesis
+caption: (A) Experimental design for time-series RNA-seq analyses of injured skeletal
+  muscle tissue from WT and GSDME-KO mice with CTX-induced muscle injury at 3 postinjury
+  time points (n = 3 per group at each time point). (B) Principal component analysis
+  of transcriptome profiles in injured muscle of WT and KO mice. (C) Differentially
+  expressed genes (DEGs) between injured muscle tissues of WT and KO mice at each
+  time point. Cyan, adjusted P < 0.05; red, adjusted P < 0.01. (D) Time-series clustering
+  analysis of transcriptomes using the Mfuzz algorithm in R. Cluster 6 gene signature
+  (pink boxes) represents the most significant difference between WT and KO mice.
+  (E) GO enrichment analysis demonstrating enriched signaling pathways in cluster
+  6 gene signatures of WT and KO mice
+article_title: GSDME–IL-18 pyroptotic axis prevents myosteatosis by expanding tissue-resident
+  macrophages to promote muscle regeneration
+citation: Qi Cao, et al. J Clin Invest. 2026 Feb 17;136(8).
+year: '2026'
+pub_date: 2026-2-17
+epub_date: 2026-2-17
+doi: 10.1172/JCI198076
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Immunology
+- Inflammation
+- Metabolism
+- Macrophages
+- Signal transduction
+---

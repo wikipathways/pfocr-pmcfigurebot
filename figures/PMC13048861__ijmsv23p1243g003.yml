@@ -1,0 +1,42 @@
+---
+figid: PMC13048861__ijmsv23p1243g003
+pmcid: PMC13048861
+image_filename: jpg
+figure_link: /pmc/articles/PMC13048861/figure/F3/
+number: Figure 3
+figure_title: Transcriptomic profiling reveals that ES treatment downregulates global
+  lipid metabolism.
+caption: Transcriptomic profiling reveals that ES treatment downregulates global lipid
+  metabolism. (A) The principal component analysis (PCA) of the transcriptomics data
+  between the untreated grouP and the ES-treated grouP in HL-60 cells. (B) DEGs between
+  the ES-treated grouP and the untreated grouP of the HL-60 cells were visualized
+  using a MA plot (Blue dots represent genes downregulated in the ES-treated group;
+  Red dots indicate genes upregulated in the ES-treated group; Gray dots signify genes
+  with no significant expression differences.). (C) GSEA of DEGs comparing the ES-treated
+  grouP to the untreated grouP of the HL-60 cells, focusing on the enrichment of the
+  “CITRATE CYCLE (TCA CYCLE)” pathway. (D) GSEA of DEGs comparing the ES-treated grouP
+  to the untreated grouP of the HL-60 cells, focusing on the enrichment of the “OXIDATIVE
+  PHOSPHORYLATION” pathway. (E) ToP 20 enriched GO terms (Biological Process) for
+  DEGs. The enrichment significance is displayed as -log10(p-value). Bars are colored
+  to indicate the proportion of upregulated (red) and downregulated (blue) genes within
+  each term. The corresponding p-value and gene count are annotated for each bar.
+  (F) ToP 20 enriched KEGG pathways for DEGs. The enrichment significance is displayed
+  as -log10(p-value). Bars are colored to indicate the proportion of upregulated (red)
+  and downregulated (blue) genes within each term. The corresponding p-value and gene
+  count are annotated for each bar
+article_title: IDH1 mutation creates a dependency on fatty acid metabolism that underlies
+  sensitivity to cuproptosis in acute myeloid leukemia cells
+citation: Xuening Zhang, et al. Int J Med Sci. 2026;23(4).
+year: '2026'
+pub_date: 2026--
+epub_date: 2026-2-26
+doi: 10.7150/ijms.127886
+journal_title: International Journal of Medical Sciences
+journal_nlm_ta: Int J Med Sci
+publisher_name: Ivyspring International Publisher
+keywords:
+- isocitrate dehydrogenase 1 mutation
+- acute myeloid leukemia
+- cuproptosis
+- fatty acid
+---

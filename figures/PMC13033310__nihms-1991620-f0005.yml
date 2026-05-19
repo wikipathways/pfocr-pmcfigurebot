@@ -1,0 +1,39 @@
+---
+figid: PMC13033310__nihms-1991620-f0005
+pmcid: PMC13033310
+image_filename: jpg
+figure_link: /pmc/articles/PMC13033310/figure/F5/
+number: Figure 5.
+figure_title: Ribonucleotide salvage occurs during anaerobic survival on all conditions
+  irrespective of xfp, but Xfp is important for maintaining ribonucleotide homeostasis
+  under all nutrient conditions except pyruvate.
+caption: Ribonucleotide salvage occurs during anaerobic survival on all conditions
+  irrespective of xfp, but Xfp is important for maintaining ribonucleotide homeostasis
+  under all nutrient conditions except pyruvate. (A) Log2 transformed xanthine intensities
+  after 3 days of anaerobic survival on various carbon sources, normalized to the
+  mean xanthine level in Δphz strain before survival. Grey = Δphz, blue = ΔphzΔxfp.
+  (B, C) Log2 transformed ΔphzΔxfp metabolite intensities normalized to mean Δphz
+  metabolite intensities after 3 days of anaerobic survival on various carbon sources.
+  (A, B, C) Dashes/bars = mean. Dots = independent replicates, n = 3. * denotes p-value
+  < 0.05 from an independent two-tailed t-test comparing the means of each strain
+  per metabolite per condition. All carbon sources were at a final concentration for
+  120 mM of total carbon (ex. 20 mM glucose, 40 mM pyruvate, etc.) (D) Condensed metabolic
+  diagram of ribonucleotide salvage showing that ribonucleotide degradation produces
+  ribose-5P and nucleobases, the former enters the PPP where it can exit via ATP-costly
+  ribonucleotide biosynthesis, reducing equivalent-generating EDP/EMPP pathways, or
+  via PA14’s Xfp. Nucleobases can either be consumed via ribonucleotide biosynthesis
+  or be further degraded to form xanthine. Black arrows represent pathways that would
+  be uninhibited during energy-limited reductive stress survival while grey arrows/pathways
+  are those we believe would be inhibited during anaerobic survival
+article_title: Pseudomonas aeruginosa relies on a phosphoketolase to support anaerobic
+  survival under reductive stress
+citation: Richard D. Horak, et al. Mol Microbiol. 2026 May;125(5).
+year: '2026'
+pub_date: 2026-5-
+epub_date: 2026-2-26
+doi: 10.1111/mmi.70059
+journal_title: Molecular microbiology
+journal_nlm_ta: Mol Microbiol
+publisher_name: .na.character
+keywords: []
+---

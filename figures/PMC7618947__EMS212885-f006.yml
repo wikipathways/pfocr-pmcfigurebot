@@ -1,0 +1,65 @@
+---
+figid: PMC7618947__EMS212885-f006
+pmcid: PMC7618947
+image_filename: jpg
+figure_link: /pmc/articles/PMC7618947/figure/F6/
+number: Figure 6
+figure_title: Cell-cell interaction analysis reveals mechanisms underpinning niche
+  remodeling in myeloma potential therapeutic avenues
+caption: (A) CellChat analysis reveals MIF, CCL3, and SPP1 as major ligand-receptor
+  (LR) interactions originating from myeloma plasma cells (PCs), with MIF interactions
+  highlighted as the most significant.(B) Violin plots confirm the expression of MIF,
+  SPP1, and CCL3; however, while TNF is one of the major pathways disrupted in MM-engrafted
+  comBOs, this is not expressed in patient cells despite its upregulation in myeloid
+  cells (neutrophils, DCs, and Eo/Baso/Mast cells) in MM-comBOs.(C) Chord diagrams
+  identify and confirm myeloma PC-derived MIF signaling to cDC2 and macrophage clusters,
+  which in turn are responsible for the inflammatory TNF signals observed. (Chord
+  diagrams depicting source of signaling pathway and color coded by cluster).(D) Xenium
+  analysis of primary patient trephines captures a range of hematopoietic and stromal
+  cell types.(E) (i) A clustered heatmap of centrality scores (CellChat) identifies
+  PCs as the major source of MIF-mediated effects in the comBOs, confirmed by (ii)
+  primary Xenium analysis of patient bone marrow trephine. Full details shown in Figure
+  S6.(F) MIF inhibition was tested using patient engrafted MM-comBOs. Samples from
+  3 patients were engrafted for 5 days before treatment with ISO-1 (MIF inhibitor)
+  at low (7.5 μM) and high (15 μM) doses for a further 9 days with dosing performed
+  every 72 h. Un-engrafted (gray) controls were taken from un-engrafted samples from
+  two separate differentiations (n = 2). For myeloma-engrafted samples, each individual
+  data point represents supernatant pooled from 8 organoids engrafted with cells from
+  a single patient. MIF inhibition (ISO-1 treatment) significantly mitigated the upregulation
+  of TNFα, IL1Ra, FGF-basic, PDGF-AA, and PDGF-AB/BB. (Error bars are standard deviation.
+  Significance determined with a Kruskal-Wallis test with an uncorrected Dunn’s test,
+  alpha threshold and confidence level = 0.05).(G) (i) Representative CellTrace Violet
+  (CTV) traces following MIF inhibition (ISO-1) (ii) with a significant (p = 0.0164)
+  decrease in myeloma cell proliferation observed high dose of ISO-1 in 3 treated
+  patient samples. (iii) No significant change in cell death was observed in myeloma
+  cells (CTV+ cells) in ISO-1-treated samples, while a significant increase in cell
+  death was observed in bortezomib-treated positive controls (p = 0.0164). (iv and
+  v) Contour plots and quantification of total organoid cell death in treated samples
+  show minimal cytotoxicity in MIF-treated samples, while significant cell death is
+  observed in bortezomib-treated samples. (n = 3. Error bars are standard deviation.
+  Significance determined with a Brown-Forythe and Welch ANOVA test with two-stage
+  lineage step-up procedure of Benjamini, Krieger, and Yekutieli with individual variances
+  computed for each comparison. Alpha threshold and confidence level = 0.05.)(H) (i)
+  MIF knockout AMO-1 cell line clones were engrafted into comBOs at day 28 and assayed
+  after 7 days of engraftment. Schematic created on Biorender.com. (ii) Luminex analysis
+  of secreted IL6, IL1RA, and PDGF-AA confirmed a decrease in MIF KO when compared
+  to wild-type (WT) AMO-1s engrafted into comBOs. (n = 3. Error bars are standard
+  deviation. Significance determined with a Brown-Forythe and Welch ANOVA test with
+  two-stage lineage step-up procedure of Benjamini, Krieger, and Yekutieli with individual
+  variances computed for each comparison. Alpha threshold and confidence level = 0.05.)(l)
+  Schematic showing differential interactions that drive elements of the MM-mediated
+  pathological remodeling of comBOs, capturing hallmarks of disease and highlighting
+  MIF inhibition as a route toward mitigating MM-mediated inflammation. Created on
+  Biorender.com
+article_title: 'comBO: A combined human bone and lympho-myeloid bone marrow organoid
+  for preclinical modeling of hematopoietic disorders'
+citation: Yuqi Shen, et al. Cell Stem Cell. 2026 Mar 05;33(3).
+year: '2026'
+pub_date: 2026-3-05
+epub_date: 2026-2-23
+doi: 10.1016/j.stem.2026.01.010
+journal_title: Cell stem cell
+journal_nlm_ta: Cell Stem Cell
+publisher_name: .na.character
+keywords: []
+---

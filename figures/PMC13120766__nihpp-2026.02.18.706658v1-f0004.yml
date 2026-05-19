@@ -1,0 +1,30 @@
+---
+figid: PMC13120766__nihpp-2026.02.18.706658v1-f0004
+pmcid: PMC13120766
+image_filename: jpg
+figure_link: /pmc/articles/PMC13120766/figure/F4/
+number: 'Figure 4:'
+figure_title: Integration of OncoBERT subtypes with established biomarkers enhances
+  immunotherapy response stratification
+caption: (A) Schematic of Cox proportional hazards models incorporating Microsatellite
+  Instability (MSI) scores and overall Tumor Mutational Burden (B), gene/pathway-specific
+  TMB scores (C), and Mutation signatures (D) along with OncoBERT subtypes 2 and 7.
+  (B-D) Forest plots displaying Hazard Ratios (HR) and 95% Confidence Intervals (CI),
+  identifying OncoBERT subtype 7 and subtype 2 as the strongest independent predictors
+  of poor and favorable prognosis, respectively. (E-G) Kaplan-Meier survival curves
+  demonstrating the stratification power of OncoBERT subtypes across different clinically
+  defined patient subgroups. Subtype 2 consistently identifies a superior survival
+  group regardless of whether patients have (E) high/low TMB, (F) MSI-high/low status,
+  or (G) unknown MSI status, while subtype 7 consistently indicates the highest risk
+article_title: 'OncoBERT: Context-Aware Modeling of Somatic Mutations for Precision
+  Oncology'
+citation: Sushant Patkar, et al. bioRxiv. 2026 Feb 19;NA(NA).
+year: '2026'
+pub_date: 2026-2-19
+epub_date: 2026-2-19
+doi: 10.64898/2026.02.18.706658
+journal_title: bioRxiv
+journal_nlm_ta: bioRxiv
+publisher_name: Cold Spring Harbor Laboratory Preprints
+keywords: []
+---

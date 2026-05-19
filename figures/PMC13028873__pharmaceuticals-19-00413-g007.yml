@@ -1,0 +1,34 @@
+---
+figid: PMC13028873__pharmaceuticals-19-00413-g007
+pmcid: PMC13028873
+image_filename: jpg
+figure_link: /pmc/articles/PMC13028873/figure/F7/
+number: Figure 7
+figure_title: Network pharmacology diagram of Scutellaria baicalensis predicted by
+  NovelHTI.
+caption: 'Network pharmacology diagram of Scutellaria baicalensis predicted by NovelHTI.
+  The figure visualizes the mechanism of action from the herb to biological pathways.
+  Green diamond: The herb Scutellaria baicalensis. Yellow ovals: Key bioactive compounds
+  (e.g., Baicalin, Baicalein). Blue circles: Predicted molecular targets. Larger nodes
+  represent high-confidence targets highlighted in the case study (NLRP3, PTGS2, RELA,
+  MAPK1). Red rectangles: Significantly enriched signaling pathways (NF-κB and TNF).
+  Arrows indicate the regulatory relationships flowing from the herb components to
+  targets and downstream pathways'
+article_title: 'NovelHTI: An Interpretable Pathway-Enhanced Framework for De Novo
+  Target Prediction of Medicinal Herbs via Cross-Scale Heterogeneous Information Fusion'
+citation: Yuyam Cheung, et al. Pharmaceuticals (Basel). 2026 Mar;19(3).
+year: '2026'
+pub_date: 2026-3-
+epub_date: 2026-3-03
+doi: 10.3390/ph19030413
+journal_title: Pharmaceuticals
+journal_nlm_ta: Pharmaceuticals (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- systems pharmacology
+- target de-risking
+- herbal polypharmacology
+- phenotype-to-target
+- Mechanism of Action (MoA)
+- Traditional Chinese Medicine modernization
+---

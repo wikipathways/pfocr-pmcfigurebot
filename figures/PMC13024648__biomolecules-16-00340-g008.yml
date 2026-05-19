@@ -1,0 +1,37 @@
+---
+figid: PMC13024648__biomolecules-16-00340-g008
+pmcid: PMC13024648
+image_filename: jpg
+figure_link: /pmc/articles/PMC13024648/figure/F8/
+number: Figure 8
+figure_title: Functional enrichment and protein–protein interaction network analysis
+  of the selected ASD biomarker panel.
+caption: Functional enrichment and protein–protein interaction network analysis of
+  the selected ASD biomarker panel. (a) Bubble plot summarizing Gene Ontology (GO)
+  enrichment (biological processes [BP], cellular components [CC], molecular functions
+  [MF]) and KEGG pathway analyses for the 10 candidate biomarkers. Bubble size corresponds
+  to the number of proteins associated with each term, color indicates statistical
+  significance (p-value), and fold enrichment reflects the degree of overrepresentation.
+  Enriched pathways include synaptic signaling, immune response, cellular stress response,
+  and metabolic regulation. (b) Protein–protein interaction (PPI) network of the selected
+  biomarkers (COL1A1, ITIH4, CLU, NID1, C5, MASP1, PON1, PLTP, HSPA5, and FETUB) generated
+  using the STRING database. Nodes represent individual proteins and edges indicate
+  predicted functional associations. Distinct interaction modules are observed, with
+  CLU acting as a central hub linking multiple functional clusters
+article_title: 'Unveiling Diagnostic Biomarkers in Autism: A Comparative Proteome
+  Analysis of CNTNAP2 Knockout Mice and Human ASD Patients'
+citation: Andrew Kim, et al. Biomolecules. 2026 Mar;16(3).
+year: '2026'
+pub_date: 2026-3-
+epub_date: 2026-2-24
+doi: 10.3390/biom16030340
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- Autism Spectrum Disorder
+- proteomics
+- cross-species validation
+- machine learning
+- biomarkers
+---

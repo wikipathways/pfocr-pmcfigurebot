@@ -1,0 +1,29 @@
+---
+figid: PMC13025929__genes-17-00304-g002
+pmcid: PMC13025929
+image_filename: jpg
+figure_link: /pmc/articles/PMC13025929/figure/F2/
+number: Figure 2
+figure_title: Simulation results for the two pathways in Figure 1.
+caption: 'Simulation results for the two pathways in Figure 1. The system is started
+  at the steady state (all variables at 1). At time 5, Input is reduced from 1 to
+  0.8. Panel (A): Trajectories corresponding to Pathway A (unregulated) in Figure
+  1. Panels (B–D): Trajectories corresponding to Pathway B (regulated) in Figure 1,
+  with p = 0.4, p = 0.56, and p = 0.6, respectively. Credit: [60]'
+article_title: 'Non-Coding RNA: Architects of Cellular Complexity and Agents of Malignancy'
+citation: Amil Shah, et al. Genes (Basel). 2026 Mar;17(3).
+year: '2026'
+pub_date: 2026-3-
+epub_date: 2026-3-02
+doi: 10.3390/genes17030304
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- tumorigenesis
+- non-coding RNA
+- genome regulatory network
+- attractor state
+- systems biology
+- cancer gene
+---

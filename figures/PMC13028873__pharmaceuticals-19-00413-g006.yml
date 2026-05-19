@@ -1,0 +1,38 @@
+---
+figid: PMC13028873__pharmaceuticals-19-00413-g006
+pmcid: PMC13028873
+image_filename: jpg
+figure_link: /pmc/articles/PMC13028873/figure/F6/
+number: Figure 6
+figure_title: Ablation study of NovelHTI across Datasets 05, 03, and 01.
+caption: 'Ablation study of NovelHTI across Datasets 05, 03, and 01. The predictive
+  performance is compared between the full NovelHTI model (N) and three ablation variants:
+  removal of multi-protein interactions (N-M), exclusion of the heterogeneous architecture
+  (N-H), and removal of pathway constraints (N-P). Results are detailed as follows:
+  For Dataset 05, (A) ROC_AUC and (B) Accuracy of N vs. N-M; (C) ROC_AUC and (D) Accuracy
+  of N vs. N-H; (E) ROC_AUC and (F) Accuracy of N vs. N-P. For Dataset 03, (G) ROC_AUC
+  and (H) Accuracy of N vs. N-M; (I) ROC_AUC and (J) Accuracy of N vs. N-H; (K) ROC_AUC
+  and (L) Accuracy of N vs. N-P. For Dataset 01, (M) ROC_AUC and (N) Accuracy of N
+  vs. N-M; (O) ROC_AUC and (P) Accuracy of N vs. N-H; (Q) ROC_AUC and (R) Accuracy
+  of N vs. N-P. In all subplots, blue boxplots represent the full model, while green
+  boxplots denote the ablation variants. Statistical significance (p-values, annotated
+  top-right) was assessed via the paired t-test or Wilcoxon signed-rank test, contingent
+  upon data normality'
+article_title: 'NovelHTI: An Interpretable Pathway-Enhanced Framework for De Novo
+  Target Prediction of Medicinal Herbs via Cross-Scale Heterogeneous Information Fusion'
+citation: Yuyam Cheung, et al. Pharmaceuticals (Basel). 2026 Mar;19(3).
+year: '2026'
+pub_date: 2026-3-
+epub_date: 2026-3-03
+doi: 10.3390/ph19030413
+journal_title: Pharmaceuticals
+journal_nlm_ta: Pharmaceuticals (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- systems pharmacology
+- target de-risking
+- herbal polypharmacology
+- phenotype-to-target
+- Mechanism of Action (MoA)
+- Traditional Chinese Medicine modernization
+---

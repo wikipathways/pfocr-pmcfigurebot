@@ -1,0 +1,37 @@
+---
+figid: PMC13034722__nihms-2146646-f0004
+pmcid: PMC13034722
+image_filename: jpg
+figure_link: /pmc/articles/PMC13034722/figure/F3/
+number: Figure 3.
+figure_title: Cell fate change of Rnf2WT/R70H NPCs into glial and microglia cells
+caption: (A) Protocol to generate and differentiate NPCs.(B) Heatmap of DEG from ESCs
+  vs. NPCs vs. differentiated NPCs (log2fold > 4, q < 0.01) and between WT and two
+  clones of Rnf2WT/R70H ESCs, NPCs, and 12-day-old differentiated NPCs (log2fold >
+  2, q < 0.01). n = 2 independent experimental replicates.(C) IFs of neuronal markers
+  in WT and Rnf2WT/R70H differentiated NPCs. n = 3 independent experimental replicates.
+  Scale bar, 10 μm.(D) WBs of PRC1 subunits from WT ESCs and Pcgf2 KO and Rnf2WT/R70H
+  with and without Pcgf2.(E) Pictures of NPCs derived from cells in (D). n = 4 independent
+  experimental replicates. Scale bar, 400 μm.(F) Strategy to generate NPCs expressing
+  Ring1bWT, Ring1bR70H, or Ring1bI53A/D56K in PRC1CKO cells.(G) WBs of HA and Ring1b
+  in PRC1CKO cells expressing Ring1bWT, Ring1bR70H, or Ring1bI53A/D56K in the presence
+  and absence of OHT treatment for 48 h. Vinculin was used as a loading control.(H)
+  Pictures of NPCs derived from cells in (G) in a constant presence of OHT treatment.
+  n = 2. Scale bar, 400 μm.(I) WBs of Nanog, Pax6, and H2AK119ub in NPCs derived from
+  PRC1CKO cells expressing Ring1bWT, Ring1bR70H, or Ring1bI53A/D56K. Vinculin was
+  used as a loading control.(J) UMAP plots of scRNA-seq from 16-day-old WT and two
+  clones of Rnf2WT/R70H differentiated NPCs. n = 2 independent experimental replicates.(K)
+  Cell type proportions of cells from (E). *p < 0.05. ANOVA test.(L) KEGG pathway
+  of WT and two clones of Rnf2WT/R70H NPCs.See also Figure S4
+article_title: Unbalanced chromatin binding of Polycomb complexes drives neurodevelopmental
+  disorders
+citation: Rodrigo L. Borges, et al. Mol Cell. 2026 Feb 19;86(4).
+year: '2026'
+pub_date: 2026-2-19
+epub_date: 2026-2-06
+doi: 10.1016/j.molcel.2026.01.023
+journal_title: Molecular cell
+journal_nlm_ta: Mol Cell
+publisher_name: .na.character
+keywords: []
+---

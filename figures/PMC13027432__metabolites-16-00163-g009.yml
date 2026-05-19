@@ -1,0 +1,33 @@
+---
+figid: PMC13027432__metabolites-16-00163-g009
+pmcid: PMC13027432
+image_filename: jpg
+figure_link: /pmc/articles/PMC13027432/figure/F9/
+number: Figure 9
+figure_title: PTMs on rate-limiting enzymes and their corresponding metabolic pathway.
+caption: PTMs on rate-limiting enzymes and their corresponding metabolic pathway.
+  Each polygon represents a metabolic pathway and is labeled with its associated rate-limiting
+  enzyme(s). Polygon size is proportional to the total number of PTM sites identified
+  for that enzyme. Colors indicate the combination of PTM types regulating each rate-limiting
+  enzyme (e.g., phosphorylation, acetylation, ubiquitination). The triangular Voronoi
+  layout is used to maximize clarity and compact visualization of pathway–enzyme–PTM
+  relationships
+article_title: Integrative Analysis of Post-Translational Modifications Identifies
+  a PTM-Enriched Regulatory Core in Human Metabolic Enzymes
+citation: Susmi Varghese, et al. Metabolites. 2026 Mar;16(3).
+year: '2026'
+pub_date: 2026-3-
+epub_date: 2026-2-28
+doi: 10.3390/metabo16030163
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- metabolic enzymes
+- multiple-post-translational modifications
+- multi-omic regulation
+- metabolic pathways
+- metabolic signaling pathway integration
+- rate-limiting metabolic enzymes
+- unsupervised clustering
+---

@@ -1,0 +1,39 @@
+---
+figid: PMC13030293__viruses-18-00317-g001
+pmcid: PMC13030293
+image_filename: jpg
+figure_link: /pmc/articles/PMC13030293/figure/F1/
+number: Figure 1
+figure_title: Transcriptomic analysis reveals significant changes in host gene expression
+  following AIV infection.
+caption: 'Transcriptomic analysis reveals significant changes in host gene expression
+  following AIV infection. (a) Volcano plot showing the differentially expressed genes
+  (DEGs: |log2 fold change| ≥ 2, p ≤ 0.05) in A549 cells 8 h post-infection with highly
+  pathogenic avian influenza virus (AIV) compared to controls. Red dots indicate significantly
+  upregulated genes, blue dots indicate significantly downregulated genes, and gray
+  dots indicate genes with no significant change. (b) The heatmap of DEG hierarchical
+  clustering. A representative gene forms each row, and a separate sample forms each
+  column. After the normalization, there is red, meaning that it is highly expressed,
+  and blue, meaning that it is low. (c) GO enrichment analysis of upregulated DEGs
+  with BP, CC or MF groups. The sizes of bars represent the number of genes that are
+  enriched in a given term. (d) KEGG pathway enrichment analysis of DEGs that are
+  upregulated. The number of genes that are considered in every pathway is known as
+  the dot size; color is the statistical significance of enrichment. (e) Those are
+  downregulated DEGs in GO analysis. (f) Downregulated DEGs in KEGG pathway analysis'
+article_title: The Avian Influenza Virus PA Protein Recruits Host RPS27A to Support
+  Viral Replication
+citation: Ji Liu, et al. Viruses. 2026 Mar;18(3).
+year: '2026'
+pub_date: 2026-3-
+epub_date: 2026-3-03
+doi: 10.3390/v18030317
+journal_title: Viruses
+journal_nlm_ta: Viruses
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- avian influenza virus
+- PA protein
+- host–virus interactions
+- multi-omics integration
+- protein–protein interaction network
+---

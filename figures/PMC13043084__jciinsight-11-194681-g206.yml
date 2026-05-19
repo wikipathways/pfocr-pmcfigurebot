@@ -1,0 +1,33 @@
+---
+figid: PMC13043084__jciinsight-11-194681-g206
+pmcid: PMC13043084
+image_filename: jpg
+figure_link: /pmc/articles/PMC13043084/figure/F5/
+number: Figure 5
+figure_title: scRNA-seq reveals molecular changes in RPE of mice carrying C-terminal
+  Myrf Allele (MyrfhumdG/humdG)
+caption: (A) Schematic depicting optic cups and samples used for scRNA-seq including
+  control and variant mouse optic cups (n = 3 pooled per genotype). (B) UMAPs of control
+  versus Myrf C-terminal variant mouse optic cups demonstrating cell type distributions.
+  (C) Feature plot demonstrating expression of Myrf mRNA in both control and variant
+  mice within the RPE cluster. (D) Volcano plot of differentially expressed genes
+  in MyrfhumdG/humdG mice compared with control (MyrfhumWT/humWT). DEGs were defined
+  by a Bonferroni Padj < 0.1. (E) Top 10 Gene Ontology (GO) Biological Pathway terms
+  for upregulated and downregulated genes
+article_title: Splicing variants in MYRF cause partial loss of function in the retinal
+  pigment epithelium leading to nanophthalmos
+citation: Gabrielle M. Rozumek, et al. JCI Insight. 2026 Feb 26;11(6).
+year: '2026'
+pub_date: 2026-2-26
+epub_date: 2026-2-26
+doi: 10.1172/jci.insight.194681
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Genetics
+- Ophthalmology
+- Cytoskeleton
+- Embryonic development
+- Molecular genetics
+---

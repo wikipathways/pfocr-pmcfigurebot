@@ -1,0 +1,40 @@
+---
+figid: PMC13023443__biomedicines-14-00509-g012
+pmcid: PMC13023443
+image_filename: jpg
+figure_link: /pmc/articles/PMC13023443/figure/F12/
+number: Figure 12
+figure_title: GO enrichment analysis of common predicted target genes of etoposide
+  and curcumin.
+caption: GO enrichment analysis of common predicted target genes of etoposide and
+  curcumin. GO enrichment analysis was performed on the shared predicted target gene
+  set of etoposide and curcumin to identify statistically overrepresented functional
+  categories rather than experimentally validated pathway activation. Bar plots illustrate
+  the most significantly enriched terms in BP, CC, and MF categories based on FDR-adjusted
+  p-values (< 0.05). Enriched biological processes include positive regulation of
+  apoptotic process, negative regulation of cell proliferation, response to drug,
+  and cell cycle-related processes. Cellular component analysis revealed enrichment
+  in cytoplasm, nucleus, mitochondrion, and membrane-related compartments, while molecular
+  function analysis highlighted protein binding, kinase activity, transcription factor
+  binding, and enzyme binding. The x-axis represents the number of genes associated
+  with each GO term. These enrichment results reflect statistical overrepresentation
+  within a computationally predicted target set and should therefore be interpreted
+  as hypothesis-generating rather than as direct mechanistic evidence of pathway modulation
+article_title: Synergistic Antitumor Effects of Etoposide and Curcumin in Ovarian
+  Cancer Cells
+citation: Yunus Çavuş, et al. Biomedicines. 2026 Mar;14(3).
+year: '2026'
+pub_date: 2026-3-
+epub_date: 2026-2-25
+doi: 10.3390/biomedicines14030509
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- curcumin
+- etoposide
+- ovarian cancer
+- cell death
+- apoptosis
+- cancer
+---

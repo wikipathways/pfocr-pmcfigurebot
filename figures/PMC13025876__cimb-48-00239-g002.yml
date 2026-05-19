@@ -1,0 +1,34 @@
+---
+figid: PMC13025876__cimb-48-00239-g002
+pmcid: PMC13025876
+image_filename: jpg
+figure_link: /pmc/articles/PMC13025876/figure/F2/
+number: Figure 2
+figure_title: Integrated network pharmacology analysis of TN in AML therapy.
+caption: Integrated network pharmacology analysis of TN in AML therapy. (A) Structural
+  formula of TN from the PubChem database. (B) Integrated TN targets derived from
+  Swiss Target Prediction and PharmMapper. (C) Integrated AML targets derived from
+  GeneCards, OMIM, and CTD database. (D) Venn diagram illustrating the overlap of
+  candidate targets for TN and AML. (E) PPI network of the 198 overlapping genes constructed
+  using the STRING database and Cytoscape software. (F) GO enrichment analysis of
+  the 198 overlapping genes, illustrating BP, MF, and CC involved. Blue represents
+  the top 10 BP, Orange indicates the top 10 CC, and Purple denotes the top 10 MF.
+  (G) KEGG pathway enrichment analysis of the 198 overlapping targets, highlighting
+  relevant signaling pathways and mechanisms
+article_title: 'Triptonide Suppresses AML via PI3K/AKT Signaling: A Network Pharmacology
+  Approach Validated by Molecular Docking and Experimental Studies'
+citation: Lixia Song, et al. Curr Issues Mol Biol. 2026 Mar;48(3).
+year: '2026'
+pub_date: 2026-3-
+epub_date: 2026-2-24
+doi: 10.3390/cimb48030239
+journal_title: Current Issues in Molecular Biology
+journal_nlm_ta: Curr Issues Mol Biol
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- acute myeloid leukemia
+- triptonide
+- network pharmacology
+- molecular docking
+- molecular dynamics simulations
+---

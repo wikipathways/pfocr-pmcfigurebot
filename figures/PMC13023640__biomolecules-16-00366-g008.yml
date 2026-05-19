@@ -1,0 +1,36 @@
+---
+figid: PMC13023640__biomolecules-16-00366-g008
+pmcid: PMC13023640
+image_filename: jpg
+figure_link: /pmc/articles/PMC13023640/figure/F8/
+number: Figure 8
+figure_title: Analysis of KEGG pathway enrichment for genes with altered expression
+  in ESCC cells treated with apigenin.
+caption: Analysis of KEGG pathway enrichment for genes with altered expression in
+  ESCC cells treated with apigenin. Pathway enrichment analysis using KEGG was performed
+  to compare apigenin-treated and control (DMSO-treated) (A) TE-1 cells (B) Eca-109
+  cells. The bubble plots display the top enriched KEGG pathways, with the x-axis
+  representing the GeneRatio and the y-axis indicating pathway names. Bubble size
+  corresponds to the number of genes enriched in each pathway, while color reflects
+  the enrichment significance. Enrichment significance was calculated using a hypergeometric
+  test and adjusted for multiple comparisons using the Benjamini–Hochberg false discovery
+  rate (−log10 adjusted p-value). In both cell lines, apigenin treatment was mainly
+  associated with pathways related to cancer signaling, protein kinases, ubiquitin-mediated
+  processes, membrane trafficking, and cell adhesion signaling
+article_title: Apigenin Inhibits the Growth of Esophageal Squamous Cell Carcinoma
+  (ESCC) Cells by Harnessing the Expression of MicroRNAs
+citation: Nouman Amjad, et al. Biomolecules. 2026 Mar;16(3).
+year: '2026'
+pub_date: 2026-3-
+epub_date: 2026-2-28
+doi: 10.3390/biom16030366
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- apigenin
+- ESCC
+- miRNAs
+- transcriptome sequencing
+- pathway analysis
+---
