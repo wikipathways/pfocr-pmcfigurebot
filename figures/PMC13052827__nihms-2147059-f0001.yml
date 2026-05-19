@@ -1,0 +1,46 @@
+---
+figid: PMC13052827__nihms-2147059-f0001
+pmcid: PMC13052827
+image_filename: jpg
+figure_link: /pmc/articles/PMC13052827/figure/F1/
+number: Fig. 1.
+figure_title: Combo plot for differential analysis and functional enrichment analysis.
+caption: Combo plot for differential analysis and functional enrichment analysis.
+  A Volcano plot of DEMs comparing post-fire to pre-fire urine samples from female
+  firefighters participating in training fires. The slope term was from the main model
+  where exposure status (post-fire/pre-fire) was the main predictor and preprocessed
+  ion intensity was the response. Upregulation is marked in red whereas downregulation
+  in blue. The horizontal dashed line marked “p-value = 0.05″ is the boundary that
+  served as the threshold for differential status in this study. P-values were −log10
+  transformed. B Circular bar chart for fold changes of DEMs identified by DA. Unique
+  CID for each of the DEMs was used for visualization purposes and a reference to
+  metabolite name can be found in Table 2. Fold change is reflected by the sizes of
+  the circles and mode is indicated in 4 colors. C Enrichment plot for the comparison
+  between post-fire vs. pre-fire urine samples among female firefighters participating
+  in training fires, by four separation(ionization) modes. Statistical significance
+  was determined by MSEA. The vertical dashed line in black and grey marked “p-value
+  = 0.05″ and “p-value = 0.1”, respectively, is the boundaries that served as the
+  thresholds for enrichment status in this study. Multiple testing was adjusted with
+  a FDR threshold at 0.05 to avoid false positives. The enrichment ratio was defined
+  as the ratio of the number of significant hits from the user input list of differential
+  metabolites to the number of expected metabolites in each pathway. Separation-ionization
+  is marked in purple, blue, dark green, and light green. The enrichment ratio is
+  reflected by the size of the dot where large sizes indicate larger enrichment. The
+  p-values were −log10 transformed. (For interpretation of the references to color
+  in this figure legend, the reader is referred to the Web version of this article.)
+article_title: Differential metabolic profiles by training fire exposure in female
+  firefighters
+citation: Tuo Liu, et al. Int J Hyg Environ Health. 2026 Apr;273(NA).
+year: '2026'
+pub_date: 2026-4-
+epub_date: 2026-1-30
+doi: 10.1016/j.ijheh.2026.114746
+journal_title: International journal of hygiene and environmental health
+journal_nlm_ta: Int J Hyg Environ Health
+publisher_name: .na.character
+keywords:
+- Female firefighter
+- Fire exposure
+- Urinary metabolomics
+- Health risks
+---

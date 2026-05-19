@@ -1,0 +1,38 @@
+---
+figid: PMC12952234__nihms-2145341-f0004
+pmcid: PMC12952234
+image_filename: jpg
+figure_link: /pmc/articles/PMC12952234/figure/F4/
+number: Figure 4.
+figure_title: SPIN90 activates Arp2/3 complex via monomer collisions
+caption: (A) Pathways of SPIN90-mediated activation of Arp2/3 complex tested via mathematical
+  modeling. The filament nucleus is indicated by the dashed box in each pathway. Floated
+  rate constants are in red and fixed or constrained rate constants (see main text)
+  are in black.(B) Polymerization time courses (dashed lines) of 15 % 3 μM pyrene
+  labeled actin with 25 nM Bos taurus (Bt)Arp2/3 complex and the indicated concentrations
+  of SPIN90. Best fits from Model 1 (SPIN90 Arp2-Arp3 dimer nucleus model) simulations
+  are shown as solid lines.(C) Polymerization time courses as show in (B) with best
+  fits from Model B (SPIN90 Arp2-Arp3-actin trimer nucleus model) simulations shown
+  as solid lines.(D) Objective values of the best fits from dimer (Figure 4B), trimer
+  (Figure 4C), and tetramer models. Objective value is the result of minimization
+  of the normalized weighted sum of squares (see methods).(E) Plot of maximum polymerization
+  rates versus concentration of either SPIN90 or GST-N-WASP-VCA [NPF] for pyrene polymerization
+  assays containing either NPF plus 3 μM 15% pyrene labeled actin and 25 nM BtArp2/3
+  complex. Error bars indicate standard deviation (n=3)
+article_title: Direct actin monomer delivery is a WASP-specific requirement for Arp2/3
+  complex activation
+citation: Sofia R. Carlson, et al. J Mol Biol. 2026 Mar 15;438(6).
+year: '2026'
+pub_date: 2026-3-15
+epub_date: 2026-1-23
+doi: 10.1016/j.jmb.2026.169662
+journal_title: Journal of molecular biology
+journal_nlm_ta: J Mol Biol
+publisher_name: .na.character
+keywords:
+- Arp2/3
+- WASP
+- Actin
+- Filament
+- Nucleus
+---

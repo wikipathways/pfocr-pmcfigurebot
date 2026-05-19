@@ -1,0 +1,30 @@
+---
+figid: PMC12949489__nihms-2142959-f0001
+pmcid: PMC12949489
+image_filename: jpg
+figure_link: /pmc/articles/PMC12949489/figure/F1/
+number: Figure 1.
+figure_title: aa-mTORC1 signaling regulates global PDX1 DNA-binding activities in
+  pancreatic β cells
+caption: MIN6 cells were starved of aa for 24 h and restimulated with 1×aa for 3 h
+  in the absence or presence of 100 nM rapamycin (Rap). Profiling of PDX1’s global
+  DNA binding was carried out by anti-PDX1 ChIP-seq.(A) The most enriched motif discovered
+  by de novo motif analysis resembles the known PDX1 consensus binding motif.(B) Venn
+  diagram showing overlap in PDX1-bound regions between aa restimulation group (−aa
+  versus re+aa) and aa stimulation + Rap group (re+aa versus re+aa+Rap). Select PDX1-bound
+  target genes are annotated in the overlap groups.(C) Functional categories of PDX1
+  target genes as revealed by pathway enrichment analysis. The top 20 enriched pathways
+  in the overlapped PDX1 ChIP-seq targets are shown.(D) ChIP-seq signal tracks of
+  PDX1 on select target genes in MIN6 cells
+article_title: PDX1 phosphorylation at S61 by mTORC1 links nutrient signaling to β
+  cell function and metabolic disease
+citation: Jialin Fan, et al. Cell Rep. 2026 Jan 27;45(1).
+year: '2026'
+pub_date: 2026-1-27
+epub_date: 2026-1-12
+doi: 10.1016/j.celrep.2025.116811
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

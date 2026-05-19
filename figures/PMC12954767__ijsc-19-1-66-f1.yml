@@ -1,0 +1,41 @@
+---
+figid: PMC12954767__ijsc-19-1-66-f1
+pmcid: PMC12954767
+image_filename: jpg
+figure_link: /pmc/articles/PMC12954767/figure/F1/
+number: Fig. 1
+figure_title: Transcriptomic alterations in IPF lungs highlight EMT- and ECM-related
+  pathways.
+caption: 'Transcriptomic alterations in IPF lungs highlight EMT- and ECM-related pathways.
+  (A) Hallmark pathway over-representation analysis (ORA) of IPF lungs (n=40) vs.
+  controls (n=8) from the GSE53845 dataset, showing significant enrichment of EMT-related
+  signatures. (B) Heatmap of differentially expressed genes (DEGs) illustrating distinct
+  clustering of control (blue, n=8) and IPF (red, n=40) groups. (C) Volcano plot of
+  DEGs from GSE53845. Genes with |log2 fold change|>1 and adjusted p<0.05 are highlighted,
+  with selected EMT- and fibrosis-associated candidates (COL1A1, ACTA2, MMP2, MMP12,
+  MAPK family, SMAD family) annotated. (D) Protein–protein interaction (PPI) network
+  generated using STRING (confidence cutoff=0.4), showing connectivity among MAPK,
+  SMAD, and ECM-associated transcripts. (E) Log2 fold-change values for representative
+  EMT- and fibrosis-related genes in IPF vs. control (CTL) lungs. (F) Violin plots
+  of normalized transcript levels for 9 candidate genes (JUN, MMP2, MMP12, COL1A1,
+  ACTA2, VIM, SMAD2, SMAD3, SMAD4). Source data were obtained from the Gene Expression
+  Omnibus (GSE53845). EMT: epithelial-mesenchymal transition, IPF: idiopathic pulmonary
+  fibrosis, ECM: extracellular matrix'
+article_title: Exosomes from Human Embryonic Stem Cell-Derived Mesenchymal Stem Cells
+  Protect Lung Epithelium and Attenuate Fibrosis
+citation: Sangryul Cha, et al. Int J Stem Cells. 2026;19(1).
+year: '2026'
+pub_date: 2026--
+epub_date: 2026-1-23
+doi: 10.15283/ijsc25091
+journal_title: International Journal of Stem Cells
+journal_nlm_ta: Int J Stem Cells
+publisher_name: Korean Society for Stem Cell Research
+keywords:
+- Exosomes
+- Mesenchymal stem cells derived from embryonic stem cells
+- Idiopathic pulmonary fibrosis
+- Epithelial stress signaling
+- Transcription factor AP-1
+- Extracellular matrix remodeling
+---

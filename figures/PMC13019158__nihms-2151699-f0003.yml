@@ -1,0 +1,44 @@
+---
+figid: PMC13019158__nihms-2151699-f0003
+pmcid: PMC13019158
+image_filename: jpg
+figure_link: /pmc/articles/PMC13019158/figure/F2/
+number: Figure 2.
+figure_title: nsSNPs in PRR pathway genes are associated with diverse intrinsic interferon
+  activity in cancer cells
+caption: (A) Impact scores for the top-ranked nsSNPs (impact score >1) and their corresponding
+  genes. Each nsSNP is ranked based on its impact score. The size of the bubble denotes
+  the level of the impact score, and the color signifies its functional category.(B)
+  Bubble plot presents the top 24 nsSNPs across five super populations. The size of
+  each bubble indicates the frequency of alleles enriched for interferon signature,
+  and the intensity of red denotes the absolute value of the enrichment score obtained
+  from gene set enrichment analysis (GSEA). The top bar indicates the overall strength
+  of enrichment and allele frequency in each super population.(C) Enrichment plots
+  show the interferon signature in cancer cell lines carrying three nsSNPs in the
+  STING1 gene.(D) Illustration of the human STING1 protein structure.(E) Matrix of
+  pairwise linkage disequilibrium between four nsSNPs in the STING1 gene. Colored
+  bars represent R2 (red) and D′ (blue) statistics.(F) Phylogenetic tree illustrates
+  the evolutionary history of STING1 haplotypes in humans. Haplotypes in STING1 were
+  estimated using 1000 Genomes Project samples. The color of the circle represents
+  the major genotype in this haplotype; the size of the circle indicates the frequency
+  of each haplotype in human populations according to the 1000 Genomes Project.(G)
+  Alluvial plot illustrates the distribution of distinct STING1 haplotypes among five
+  super populations in the 1000 Genomes Project cohort. Colors represent the different
+  haplotypes for the STING1 gene.(H) Pie plots illustrate the distribution of four
+  major STING1 haplotype groups among five super populations in the 1000 Genomes Project
+  cohort. Colors represent the different haplotype groups for the STING1 gene.(I)
+  A worldwide map displays the distribution of STING1 haplotypes across 26 populations.
+  Each bar within the map represents the distribution of STING1 haplotypes within
+  a specific population group, with arrows indicating the paths of human evolution
+article_title: Immune gene diversity and STING1 variants in shaping cancer immunity
+  across different genetic ancestry populations
+citation: Xiaowen Hu, et al. Cell Rep. 2026 Feb 24;45(2).
+year: '2026'
+pub_date: 2026-2-24
+epub_date: 2026-1-21
+doi: 10.1016/j.celrep.2025.116882
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

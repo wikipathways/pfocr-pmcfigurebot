@@ -1,0 +1,36 @@
+---
+figid: PMC13008274__nihms-2136735-f0004
+pmcid: PMC13008274
+image_filename: jpg
+figure_link: /pmc/articles/PMC13008274/figure/F4/
+number: Figure 4.
+figure_title: Differential gene expression and enriched molecular pathways in the
+  Ad-TGFβ1 primary normal human lung fibroblast model with and without Rev-erbα agonist
+  (STL1267) treatment
+caption: '(A) Schematic overview of the experimental design. Primary normal human
+  lung fibroblasts (NHLF: Donor 1) were transduced with Ad-TGFβ1 (1 × 108 PFU) for
+  16 hours, followed by replacement with complete medium. After 24 hours, the cells
+  transitioned into a myofibroblast-like phenotype before treatment with the Rev-erbα
+  agonist, STL1267 (10 μM), for 48 hours. Total RNA was extracted, and RNA sequencing
+  (RNA-seq) was performed. (B-C) Differently expressed genes (DEGs) with a |log2FC|
+  ≥ 1.5 are shown in volcano plots for two different comparisons: Ad-TGFβ1 vs. control
+  (B) and Ad-TGFβ1+STL1267 vs. Ad-TGFβ1 (C). Upregulated genes are shown in red, and
+  downregulated genes are shown in blue. Pathway enrichment analysis reveals distinct
+  biological pathways associated with these DEGs in both comparisons'
+article_title: STL1267 Inhibits Myofibroblast Differentiation in a TGFβ1-Driven Human
+  Lung Fibroblast Model
+citation: Chandrashekhar Prasad, et al. Am J Physiol Cell Physiol. 2026 Mar 01;330(3).
+year: '2026'
+pub_date: 2026-3-01
+epub_date: 2026-1-09
+doi: 10.1152/ajpcell.00561.2025
+journal_title: American journal of physiology. Cell physiology
+journal_nlm_ta: Am J Physiol Cell Physiol
+publisher_name: .na.character
+keywords:
+- Antifibrotic therapy
+- Myofibroblast differentiation
+- Pulmonary fibrosis
+- Rev-erbα agonist
+- TGFβ1 signaling
+---

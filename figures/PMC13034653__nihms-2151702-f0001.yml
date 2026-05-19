@@ -1,0 +1,43 @@
+---
+figid: PMC13034653__nihms-2151702-f0001
+pmcid: PMC13034653
+image_filename: jpg
+figure_link: /pmc/articles/PMC13034653/figure/F1/
+number: Figure 1.
+figure_title: Profiling of snRNA-seq and snATAC-seq in neonatal patients who underwent
+  CPB
+caption: (A) Schematic of PBMC sampling from congenital neonatal patients who underwent
+  CPB. PBMC samples from four stages were collected from each patient. Pre represents
+  before heart surgery; Post represents after heart surgery; and 8 and 24 h represent
+  recovery stages.(B) Uniform manifold approximation and projection (UMAP) plot for
+  cell clustering and cell type annotation of 124,526 cells based on snRNA-seq. Thirteen
+  cell types were annotated.(C) Distribution of cell fractions of annotated cell types
+  based on snRNA-seq across four stages. The proportion of classical monocytes, CD8+
+  NKT-like cells, and naive CD4+ T cells are labeled, with values in parentheses representing
+  the percentage increase in classical monocytes.(D) UMAP plot for cell clustering
+  of 102,673 cells based on snATAC-seq and cell type annotation mapping from snATAC-seq.
+  Eleven cell types were annotated.(E–G) DEGs were identified at Post, 8 h, and 24
+  h time points as compared to the baseline stage (Pre), respectively. The topportion
+  represents the count of DEGs. The bottom portion represents the distribution of
+  average log2FoldChange of these DEGs in each cell type.(H) Functional enrichment
+  results of these DEGs detected at Post, 8 h, and 24 h sampling points. Gradient
+  yellow to blue color represent the value of −Log(P). The size of the dots represents
+  the count of genes in each pathway. Statistical significance was accepted at p <
+  0.01. Res, response; Immu, immune; Acti, activity; Pos, positive; and Reg, regulation.(I)
+  Heatmap showing the count of open and closed ATAC-seq peaks identified at Post,
+  8 h, and 24 h time points across all cell types in PBMCs from patients exposed to
+  CPB.(J) Structure annotation of snATAC-seq peaks detected in all cell types among
+  PBMCs from patients who underwent CPB. Over 60.07% peaks were located in promoter
+  regions
+article_title: A shear stress-responsive pathway in monocytes drives cardiopulmonary
+  bypass-induced inflammation via spectrin/RAF1/store-operated calcium entry
+citation: Weiming Li, et al. Cell Rep. 2026 Feb 24;45(2).
+year: '2026'
+pub_date: 2026-2-24
+epub_date: 2026-1-23
+doi: 10.1016/j.celrep.2025.116903
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

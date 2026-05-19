@@ -1,0 +1,32 @@
+---
+figid: PMC13033380__nihms-2141167-f0001
+pmcid: PMC13033380
+image_filename: jpg
+figure_link: /pmc/articles/PMC13033380/figure/F1/
+number: Fig. 1.
+figure_title: Hedgehog family members are expressed in developing NCCs
+caption: (A) Plots using an embryonic chick RNA-seq dataset showing expression of
+  neural crest induction genes, neural crest specification genes and HH pathway genes.
+  GLI3 expression is shown in both NCCs and whole embryos (WE). (B) Heatmap of RNA-seq
+  dataset from human ESCs during neural crest differentiation showing expression of
+  neural crest induction genes, neural crest specification genes and HH pathway genes.
+  (C) Reads per kilobase million (RPKM) of GLI TFs from the heatmap in B. (D) Dot
+  plot of a murine embryo scRNA-seq dataset re-analyzed to show expression of neural
+  crest induction genes, neural crest specification genes and HH pathway genes. Colors
+  of dashed boxes in B,D correspond to categories of genes as in the key in A. Animal
+  model schematics were created using Biorender.com
+article_title: A dual role for GLI3 signaling in neural crest development
+citation: Simon J. Y. Han, et al. Development. 2026 Jan 01;153(1).
+year: '2026'
+pub_date: 2026-1-01
+epub_date: 2026-1-13
+doi: 10.1242/dev.205209
+journal_title: Development (Cambridge, England)
+journal_nlm_ta: Development
+publisher_name: .na.character
+keywords:
+- Hedgehog
+- Neural crest
+- Craniofacial
+- Gli3
+---

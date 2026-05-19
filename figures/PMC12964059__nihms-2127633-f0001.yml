@@ -1,0 +1,74 @@
+---
+figid: PMC12964059__nihms-2127633-f0001
+pmcid: PMC12964059
+image_filename: jpg
+figure_link: /pmc/articles/PMC12964059/figure/FNA/
+number: .na.character
+figure_title: (A) Schematic of the ICI treatment on 2-D iPSC-CMs.
+caption: '(A) Schematic of the ICI treatment on 2-D iPSC-CMs. Three iPSC lines (2
+  females aged 42 and age 36; 1 male aged 77) were differentiated into iPSC-CMs and
+  treated with ICIs, Pembrolizumab (PEM), Atezolizumab (ATZ), or Isotype control antibody
+  (100 nM in Ca²⁺/Mg²⁺-free PBS) on days 1 and 3. At day 5, the iPSC-CMs were processed
+  for bulk-RNA sequencing and contractility analysis. (Ai) Heatmap of gene expression
+  from bulk RNA-seq show DEGs in PEM, ATZ and control groups (n=3 lines/group). (Aii-v)
+  Gene expression (TPM values) of selected genes MYH7, ACTC1, PLN, GJA1, CAMK2A, CACNA2D2,
+  ADAMTS1, ADAMTD6, TGFBR3, and IL-17RD. (Avi-vii) Pathway enrichment of DEGs associated
+  with cardiac muscle excitation-contraction, immune response and ECM remodeling.
+  Red: upregulation; Blue: downregulation. Curated bulk RNA-seq datasets were submitted
+  to GEO (GSE263840). (B) Schematic of the ICI treatment on 3-D COs derived from 3
+  patient lines, and UMAP of scRNA-seq data (PEM, ATZ and control; n=3 lines/group).
+  3-D COs comprised of differentiated iPSC-CMs, iPSC-ECs and iPSC-CFs (7:2:1 ratio).
+  3-D COs were subjected to the same ICI treatment protocol as shown in A. (Bi-Biii)
+  Heatmap of DEGs in all 3 cell-type clusters in COs. Curated scRNA-seq datasets were
+  submitted to GEO (GSE264319). (Biv-v) Each cluster showed enrichment of distinct
+  cell-specific pathways (●: CMs, ■: ECs, ▲: CFs) to ICI treatments. CMs show dysregulation
+  of cardiac contraction, metabolic and immune pathways, CFs show enrichment in pathways
+  related to ECM remodeling and inflammation, and EC cluster shows enrichment in genes
+  linked to endothelial activation. Yellow: upregulation; Dark blue: downregulation.
+  (Ci) PD-1/PD-L1 expression in the mouse heart tissues (Tabula Muris Senis) (Cii)
+  PD-1/PDL-1 iPSC cell types and PBMCs. (Ciii) Quantification of contractility in
+  iPSC-CMs acquired on SI8000C Analyzer Software (Sony) showed impaired contraction
+  and relaxation velocities with PEM. Measurements from 3 iPSC lines depicted in black,
+  cyan and orange colors. (Civ) Analysis of CO contractility using video microscopy-based
+  motion vector analysis showed a reduction in relaxation velocity, an increase in
+  beat rate, and increased Ca2+ decay time in after PEM treatment (n=20–25 COs/line/group).
+  (Cv) Extended 14-day culture of COs treated with PEM and ATZ resulted in a significant
+  decline in both contractility and calcium handling. (Cvi) MEA analyses showed beat-period
+  variability, and (Cvii) representative traces indicating conduction abnormalities
+  (arrows). (Cviii) Quantification of beat-period variability, reduction in amplitude,
+  and frequencies of arrhythmia-like events after PEM and ATZ treatments. (Di) Schematic
+  of the animal study design in NOD/SCID male mice (8–9 weeks, n=10 mice/group). Animal
+  procedures were conducted in compliance with Stanford University’s institutional
+  guidelines (APLAC protocol: 21580). (Dii) Bar graphs showing reduced left ventricular
+  fractional shortening (LVFS) in PEM (29.3±0.8%) and ATZ (31.3±1.0%), increased left
+  ventricular diastolic internal diameter (LVIDd) in PEM, and increased left ventricular
+  systolic internal diameter (LVIDs) in PEM and ATZ treatments. (Diii) Serum cardiac
+  troponin I (TNNI3) significantly elevated in PEM compared to control. (Div) Representative
+  H&E and immunofluorescence microscopy images showing ICAM-1 (green; mouse monoclonal
+  IgG1, clone 1A29, Invitrogen, Cat. # MA5407) and DAPI (blue) at 2 weeks. Higher
+  ICAM-1 expression observed in PEM and ATZ compared to control (scale bar = 200 μm).
+  (Dv) UMAP of snRNA-seq (pooled mice hearts, n=3/group, GSE300367). (Dvi-vii) Sankey
+  plot showing cell-type-specific gene regulation and pathway enrichment. Downregulation
+  of metabolism and cardiac contractility, and upregulation of immune and FcγR-mediated
+  endocytosis pathways. (Dviii) Higher endothelial gene expression of ICAM1 in PEM
+  compared to ATZ and Isotype. Statistical differential expression was assessed by
+  Wilcoxon rank-sum test (adjusted p < 0.05). Data points represent independent, pooled
+  biological replicates. Data are shown as mean ± s.e.m. *p < 0.05, One-way ANOVA
+  with post-hoc Tukey test'
+article_title: Profiling Immune-Independent Response to Immune Checkpoint Inhibitors
+  on Stem Cell-Derived Cardiomyocytes, Organoids, and Mouse Models
+citation: Dilip Thomas, et al. Circulation. 2026 Jan 13;153(2).
+year: '2026'
+pub_date: 2026-1-13
+epub_date: 2026-1-12
+doi: 10.1161/CIRCULATIONAHA.125.076926
+journal_title: Circulation
+journal_nlm_ta: Circulation
+publisher_name: .na.character
+keywords:
+- immune checkpoint inhibitors
+- immunotherapy
+- cardiotoxicity
+- cardiac organoids
+- induced pluripotent stem cells
+---

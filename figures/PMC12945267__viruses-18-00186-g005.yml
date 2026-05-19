@@ -1,0 +1,42 @@
+---
+figid: PMC12945267__viruses-18-00186-g005
+pmcid: PMC12945267
+image_filename: jpg
+figure_link: /pmc/articles/PMC12945267/figure/F5/
+number: Figure 5
+figure_title: The enrichment analysis of the significantly altered metabolites and
+  proteins in ORFV−CL24-infected OFTu cells.
+caption: 'The enrichment analysis of the significantly altered metabolites and proteins
+  in ORFV−CL24-infected OFTu cells. (A,B) The KEGG enrichment analysis was used to
+  select the top 20 most significant pathways, ranked by p−value, for a bar chart
+  of KEGG enrichment in group comparisons, with −log10 (p−value) representing the
+  significance of enrichment. The abscissa represents the name of the pathway, and
+  the ordinate refers to the p value obtained using the hypergeometric test. Histogram
+  of differential metabolites KEGG pathway enrichment statistics in ORFV−CL24-infected
+  groups at 24 hpi (A) and 48 hpi (B). (C−E) Differential protein functional enrichment
+  analysis. Bubble chart of differential proteins KEGG pathway enrichment statistics
+  in ORFV−CL24−infected groups at 12 hpi (C), 24 hpi (D), and 48 hpi (E). The vertical
+  axis shows KEGG pathway descriptions, and the horizontal axis shows the enrichment
+  degree of differential proteins in this function after Log2 transformation (Fold
+  enrichment). The larger the value, the higher the enrichment degree. Enrichment
+  is depicted in blue; the color of the dot represents the enrichment p value: the
+  bluer the color, the stronger the enrichment significance. The size of the dot represents
+  the number of differential proteins in the KEGG pathway; the larger the dot, the
+  greater the number of differential proteins'
+article_title: Multi-Omics Analyses Reveal Metabolic Alterations Regulated by Orf
+  Virus in Primary Ovine Fetal Turbinate Cells
+citation: Ran Zhang, et al. Viruses. 2026 Feb;18(2).
+year: '2026'
+pub_date: 2026-2-
+epub_date: 2026-1-29
+doi: 10.3390/v18020186
+journal_title: Viruses
+journal_nlm_ta: Viruses
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- ORFV
+- host cellular metabolism
+- viral–host interaction
+- non-targeted metabolomics
+- proteomics
+---

@@ -1,0 +1,40 @@
+---
+figid: PMC13038200__jci-136-198545-g122
+pmcid: PMC13038200
+image_filename: jpg
+figure_link: /pmc/articles/PMC13038200/figure/F8/
+number: Figure 8
+figure_title: Pathway enrichment analysis of pseudobulk differential gene expression
+  in proximal tubular epithelial cells
+caption: (A) The data reveal significant enrichment of the JAK/STAT signaling pathway,
+  EGFR-mediated signaling, and p53 signaling, all of which were markedly reduced following
+  VSG. *P <.05, **P <.01, ***P <.001, ****P <.0001. Wald’s test was used to determine
+  P values. (B) JAK/STAT activation was assessed at the individual patient level using
+  the single-sample gene set enrichment analysis (ssGSEA) method. A consistent reduction
+  in JAK/STAT activation was observed across all patients post-VSG. (C) Expression
+  levels of IFNAR1 and IFNGR2 (type 1 and type 2 interferon receptors, respectively),
+  which signal through the JAK/STAT pathway, were significantly reduced post-VSG.
+  This reduction was accompanied by decreased circulating levels of a type 1 interferon
+  (IFNA7) but not type 2 interferons. Additionally, an increased expression of prolactin
+  receptor (PRLR), a paralog of GH1, was noted. This upregulation is hypothesized
+  to result from reduced circulating prolactin (PRL), triggering a compensatory negative
+  feedback loop. (D) Average change in expression of 3 genes, apolipoprotein L6 (APOL6),
+  proteasome 20S subunit β9 (PSMB9), and transmembrane protein 140 (TMEM140), which
+  are among the genes used to calculate JAK/STAT activation score
+article_title: Metabolic surgery mitigates early kidney injury in obese youth with
+  diabetes by suppressing mTORC1/JAK/STAT signaling
+citation: Abhijit S. Naik, et al. J Clin Invest. 2026 Feb 3;136(7).
+year: '2026'
+pub_date: 2026-2-3
+epub_date: 2026-2-3
+doi: 10.1172/JCI198545
+journal_title: The Journal of Clinical Investigation
+journal_nlm_ta: J Clin Invest
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Metabolism
+- Nephrology
+- Chronic kidney disease
+- Diabetes
+- Obesity
+---

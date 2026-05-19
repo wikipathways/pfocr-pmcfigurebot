@@ -1,0 +1,33 @@
+---
+figid: PMC13030885__nihms-2154657-f0005
+pmcid: PMC13030885
+image_filename: jpg
+figure_link: /pmc/articles/PMC13030885/figure/F5/
+number: Fig. 5
+figure_title: Case Study of a Sequentially Generated Disease Pathway.
+caption: Case Study of a Sequentially Generated Disease Pathway. This figure illustrates
+  the model’s dynamic reasoning across a four-step trajectory. Starting with an initial
+  diagnosis of Coronary Atherosclerosis, each panel shows how the model’s top prediction
+  evolves as the patient’s history accumulates, charting a clinically coherent path
+  through cardiovascular and metabolic diseases that culminates in a high-certainty
+  prediction of Acute Renal Failure
+article_title: 'Sequential pattern transformer (SPT): a generative and interpretable
+  framework for predicting disease trajectories'
+citation: Mohammad Assadi Shalmani, et al. Neural Comput Appl. 2026 Feb;38(3).
+year: '2026'
+pub_date: 2026-2-
+epub_date: 2026-2-03
+doi: 10.1007/s00521-025-11695-4
+journal_title: Neural computing & applications
+journal_nlm_ta: Neural Comput Appl
+publisher_name: .na.character
+keywords:
+- Disease trajectory prediction
+- Transformer architecture
+- Generative AI
+- Healthcare informatics
+- Explainable AI (XAI)
+- Diabetes mellitus
+- Clinical decision support
+- Sequential pattern mining
+---

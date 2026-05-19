@@ -1,0 +1,38 @@
+---
+figid: PMC13003549__jcav17p0469g006
+pmcid: PMC13003549
+image_filename: jpg
+figure_link: /pmc/articles/PMC13003549/figure/F6/
+number: Figure 6
+figure_title: Cell-cell communication between SPP1⁺ cells and CD8⁺ T cells in the
+  DLBCL tumor microenvironment.
+caption: 'Cell-cell communication between SPP1⁺ cells and CD8⁺ T cells in the DLBCL
+  tumor microenvironment. (A) Heatmap showing the inferred cell-cell communication
+  events between different subclusters. Columns represent signal-sending cells, and
+  rows represent signal-receiving cells. The color represented the strength of interaction.
+  (B) Scatter plot depicting cell-cell communication network centrality. The X-axis
+  represents the contribution of each cell type in transmitting signals, while the
+  Y-axis indicates its role in receiving signals. (C) Circular chord diagram illustrating
+  interaction strength between SPP1⁺ Macro cells and T cells. Each ribbon represents
+  a communication event, with SPP1⁺ Macro cells as signal sources and T cells as recipients.
+  (D) Left: Heatmap of NMF-based clustering of cells according to outgoing signaling
+  patterns. Color intensity reflects the relative contribution of each cell type to
+  the corresponding signaling module. Right: Heatmap showing the composition of signaling
+  pathways within each NMF-defined module. Color intensity denotes the strength of
+  intercellular communication for each pathway. (E) Heatmap as in (D) but based on
+  incoming signaling patterns'
+article_title: 'Mapping Myeloid Cell Diversity in Diffuse Large B-Cell Lymphoma: Impact
+  on T Cell Exhaustion and Clinical Prognosis'
+citation: Jingwen Wang, et al. J Cancer. 2026;17(3).
+year: '2026'
+pub_date: 2026--
+epub_date: 2026-1-23
+doi: 10.7150/jca.121954
+journal_title: Journal of Cancer
+journal_nlm_ta: J Cancer
+publisher_name: Ivyspring International Publisher
+keywords:
+- diffuse large B-cell lymphoma
+- tumor microenvironment
+- immune cell heterogeneity
+---

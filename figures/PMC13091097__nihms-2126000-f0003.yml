@@ -1,0 +1,36 @@
+---
+figid: PMC13091097__nihms-2126000-f0003
+pmcid: PMC13091097
+image_filename: jpg
+figure_link: /pmc/articles/PMC13091097/figure/F3/
+number: Figure 3.
+figure_title: Gut colonization with E. coli temporally modulates gene expression across
+  all cell types the brain
+caption: 'snRNA-seq was performed on hippocampal samples from germ-free (GF) mice
+  and mice that were mono-colonized with E. coli for either 2 or 4 weeks (Table S3;
+  NIH GEO: GSE289589).(A) UMAP showing cell clusters and a bar graph showing the percentage
+  of total nuclei within each cluster based on treatment.(B) Graph showing the total
+  number of differentially expressed genes (DEGs; log fold change > |1|, p < 0.001)
+  compared with GF per cell type across time.(C) Heatmap shows relative expression
+  levels (as a Z score) of all DEGs (at either 2 or 4 weeks) within each cell type
+  across time (note each heatmap represents only that cell type’s DEGs). Overrepresentation
+  pathway analysis was run using the DEGs between GF and E. coli mono-colonized mice
+  at each time point.(D and E) Increased and decreased pathways that overlapped in
+  at least four cell types at 2 weeks are shown in (D) and at 4 weeks are shown in
+  (E). Gene set enrichment analysis (GSEA) was also performed to identify neurodegeneration
+  KEGG pathways that are modulated by E. coli colonization.(F) Shows the normalized
+  enrichment score for each cell type with a significant GSEA result at 2 and 4 weeks
+  as well as neurodegeneration KEGG pathways increased in overrepresentation analysis
+  at 4 weeks. Data are from 4 mice per treatment'
+article_title: Indigenous gut microbes modulate neural cell state and neurodegenerative
+  disease susceptibility
+citation: Lisa Blackmer-Raynolds, et al. Cell Syst. 2026 Feb 18;17(2).
+year: '2026'
+pub_date: 2026-2-18
+epub_date: 2026-2-03
+doi: 10.1016/j.cels.2025.101481
+journal_title: Cell systems
+journal_nlm_ta: Cell Syst
+publisher_name: .na.character
+keywords: []
+---

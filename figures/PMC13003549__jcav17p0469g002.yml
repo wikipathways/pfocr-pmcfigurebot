@@ -1,0 +1,37 @@
+---
+figid: PMC13003549__jcav17p0469g002
+pmcid: PMC13003549
+image_filename: jpg
+figure_link: /pmc/articles/PMC13003549/figure/F2/
+number: Figure 2
+figure_title: Single-cell analysis revealed distinct transcriptional characteristics
+  of malignant and non-malignant infiltrating B cells in DLBCL.
+caption: Single-cell analysis revealed distinct transcriptional characteristics of
+  malignant and non-malignant infiltrating B cells in DLBCL. (A) UMAP plot showing
+  B cells derived from 12 DLBCL patients. Each dot represents a single cell, colored
+  by patient origin. (B) UMAP plot showing the malignant and non-malignant B cells.
+  Malignant status was inferred using an integrated approach combining BCR clonality
+  analysis and CNV estimation from scRNA-seq (inferCNV). (C) Volcano plot showing
+  differentially expressed genes (DEGs) between malignant and non-malignant B cells.
+  Significantly upregulated and downregulated genes were highlighted in red and blue,
+  respectively (|log₂FC| > 1.5, p < 0.05). (D) Bubble plot presenting KEGG pathway
+  enrichment analysis for the upregulated and downregulated DEGs. The size of the
+  bubbles reflects the number of genes involved, while the color intensity represents
+  the statistical significance of enrichment. (E) Kaplan-Meier survival curves illustrating
+  the prognostic relevance of GSVA scores based on selected pathway signatures in
+  external GEO RNA expression microarray datasets
+article_title: 'Mapping Myeloid Cell Diversity in Diffuse Large B-Cell Lymphoma: Impact
+  on T Cell Exhaustion and Clinical Prognosis'
+citation: Jingwen Wang, et al. J Cancer. 2026;17(3).
+year: '2026'
+pub_date: 2026--
+epub_date: 2026-1-23
+doi: 10.7150/jca.121954
+journal_title: Journal of Cancer
+journal_nlm_ta: J Cancer
+publisher_name: Ivyspring International Publisher
+keywords:
+- diffuse large B-cell lymphoma
+- tumor microenvironment
+- immune cell heterogeneity
+---

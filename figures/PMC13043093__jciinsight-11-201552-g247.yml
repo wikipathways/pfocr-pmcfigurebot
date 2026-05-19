@@ -1,0 +1,35 @@
+---
+figid: PMC13043093__jciinsight-11-201552-g247
+pmcid: PMC13043093
+image_filename: jpg
+figure_link: /pmc/articles/PMC13043093/figure/F10/
+number: Figure 10
+figure_title: β-Catenin agonist treatment reprograms lung gene expression during pristane-induced
+  alveolar hemorrhage
+caption: (A) Principal component analysis (PCA) showing separation of vehicle- and
+  β-catenin agonist–treated lung transcriptomes at day 14 after pristane-induced AH
+  (n = 3 vehicle, n = 4 agonist). (B) Volcano plot of differentially expressed genes
+  (DEGs; FDR ≤ 0.05, |log2FC| ≥ 0.5) between agonist- and vehicle-treated lungs; positive
+  log2FC indicates higher expression in agonist-treated samples. (C) Summary of Hallmark
+  pathway enrichment by GSEA, highlighting pathways enriched in vehicle versus agonist-treated
+  lungs. (D) Ridge plot showing normalized enrichment score (NES) distributions for
+  selected Hallmark gene sets. (E) Dot plot summarizing gene ratios for selected Hallmark
+  gene sets; dot size reflects the number of genes contributing to enrichment. (F
+  and G) Representative GSEA enrichment plots for selected Hallmark pathways, including
+  DNA repair and oxidative phosphorylation (F) and allograft rejection and coagulation
+  (G)
+article_title: β-Catenin stabilization protects against alveolar hemorrhage through
+  amphiregulin- and BATF-mediated Tregs
+citation: Fiona Mason, et al. JCI Insight. 2026 Jan 27;11(6).
+year: '2026'
+pub_date: 2026-1-27
+epub_date: 2026-1-27
+doi: 10.1172/jci.insight.201552
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Autoimmunity
+- Immunology
+- Tregs
+---

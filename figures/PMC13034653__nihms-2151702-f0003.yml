@@ -1,0 +1,54 @@
+---
+figid: PMC13034653__nihms-2151702-f0003
+pmcid: PMC13034653
+image_filename: jpg
+figure_link: /pmc/articles/PMC13034653/figure/F3/
+number: Figure 3.
+figure_title: Genome-wide CRISPR screen identified two novel genes, SPTAN1 and RAF1,
+  as candidates for hemodynamic shear stress activation in THP-1 cells
+caption: (A) UMAP plot highlighted with green represents classical monocytes. Feature
+  plots on the right display the IL8 expression at four time points. The adjusted
+  p value between Pre and Post is indicated (****adjusted p < 0.0001).(B) Volcano
+  plot showing DEGs identified in sheared THP-1 cells compared to static conditions
+  using mRNA-seq in vitro. Three replicates were generated for each condition. 383
+  genes were significantly upregulated, while 64 genes were significantly downregulated.
+  Statistical significance was accepted with p < 0.05 and log2FoldChange < −1 or >
+  1. The upregulated gene IL8 is labeled.(C) TF binding prediction of the genes upregulated
+  in sheared THP-1 cells shows that AP-1 TFs (FOSB, ATF3, and JUN) are significantly
+  enriched.(D) Plot of ATAC-seq data from sheared THP-1 cells demonstrates opening
+  of the IL8 promoter as compared to static controls.(E) Schematic of the genome-wide
+  CRISPR screen using the promoter of IL8 as readout in THP-1 cells.(F) Dot plot of
+  CRISPR screen candidates ranked by p value. Of 1,628 genes, representing 8.5% of
+  the total, gRNAs were underrepresented in the 10% GFP bright cells with adjusted
+  p < 0.05. The top five genes and two novel important candidates are labeled.(G)
+  Selected key GO terms from the Metascape analysis of 1,628 candidates.(H) Nine candidate
+  genes are significantly enriched in the cell cortex pathway. The size of dots represents
+  the adjusted p value.(I) SPTAN1-KD THP-1 cells have a 41.20% reduction in shear-mediated
+  activation of IL8 expression as compared to sheared wild-type (WT) THP-1 cells based
+  upon qPCR. Replicates, n = 6. ***p < 0.005.(J) Quantification of cellular necrosis,
+  early apoptosis, and live cells demonstrates a 43.40% reduction in cellular necrosis
+  and 10.30% increase in live cells after shear in SPTAN1-KD THP-1 cells as compared
+  to control sheared cells. Replicates, n = 6. ****p < 0.001.(K) Western blot demonstrating
+  that SPTAN1-KD cells have decreased shear-mediated ERK1/2 phosphorylation as compared
+  to control THP-1 cells. Replicates, n = 3. **p < 0.01, ****p < 0.001.(L) KRAS colocalizes
+  with SPTAN1 in THP-1 cells based upon immunofluorescence (IF) and proximity ligation
+  assay (PLA).(M) RAF1 colocalizes with SPTAN1 in THP-1 cells based upon IF and PLA.(N)
+  qPCR demonstrating that RAF1-KD cells have a 48.50% reduction in shear-mediated
+  IL8 expression as compared to sheared control cells. Replicates, n = 6.(O) Quantification
+  of cellular necrosis, early apoptosis, and live cells demonstrates that RAF1-KD
+  cells undergo 29.30% less shear-mediated necrosis and have 15.80% increased cell
+  survival as compared to control THP-1 cells. Replicates, n = 6.(P) Knockdown of
+  RAF1 decreases shear-mediated ERK1/2 phosphorylation as compared to control THP-1
+  cells in a western blot. Replicates, n = 3. *p < 0.05, **p < 0.01
+article_title: A shear stress-responsive pathway in monocytes drives cardiopulmonary
+  bypass-induced inflammation via spectrin/RAF1/store-operated calcium entry
+citation: Weiming Li, et al. Cell Rep. 2026 Feb 24;45(2).
+year: '2026'
+pub_date: 2026-2-24
+epub_date: 2026-1-23
+doi: 10.1016/j.celrep.2025.116903
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

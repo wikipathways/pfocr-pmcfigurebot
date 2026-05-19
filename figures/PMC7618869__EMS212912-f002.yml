@@ -1,0 +1,45 @@
+---
+figid: PMC7618869__EMS212912-f002
+pmcid: PMC7618869
+image_filename: jpg
+figure_link: /pmc/articles/PMC7618869/figure/F2/
+number: Figure 2
+figure_title: Synthetic circuits in challenging scenarios
+caption: '(a) Circuits addressing spatial asymmetries and heterogeneity: a radial
+  gradient [43], Turing and Hopf patterns [44, 45], and checkerboard arrangements
+  [46]. (b) Inputs with temporal dynamics. Examples include cell cycle-dependent oscillations
+  of ftsZ expression, carbon sources acting as decaying inputs as they are consumed,
+  and QS signals that depend on the gradual accumulation of AHL molecules. (c) Distributed
+  computations across strains. Kusumawardhani et al. developed an M13 phage-based
+  communication channel to regulate gene expression remotely [9]. Optogenetic control
+  of antibiotic resistance has been used to stabilize co-cultures [49]. Crespo-Roche
+  et al. engineered an interkingdom consortium in which fungal metabolism provides
+  intermediates for P. putida bioplastic production [50]. Kong et al. demonstrated
+  pathway reconfiguration in consortia to enable programmable social interactions
+  [51]. (d) Contextual dependencies in circuit function. Alejaldre et al. [56] showed
+  how toggle-switch activity changes with chromosomal integration site. Tin Chat Chan
+  et al. [74] concluded that combining RBS tuning with host background enables major
+  improvements in toggle performance. Tellechea-Luzardo et al. [57] highlighted environmental
+  context by testing a naringenin sensor in different media, revealing strong performance
+  shifts. (e) Strategies to mitigate metabolic and genetic burden. Guan et al. added
+  a secondary operon for TF binding, reducing stress [75]; Ceroni et al. engineered
+  feedback to improve growth and host capacity [61]; and Williams et al. diversified
+  populations so only a subfraction expressed the circuit [62]. (f) Circuits that
+  avoid or exploit noise. Negative feedback loops suppress noise, while toggle switches
+  can be engineered for reduced variability. Conversely, some designs leverage stochasticity,
+  such as Elowitz’s repressilator [66, 67]. (g) Circuits incorporating evolutionary
+  dynamics. Strategies include securing gene function through co-regulation (bidirectional
+  promoters, shared elements), promoting beneficial mutations while avoiding loss-of-function
+  (overlapping genes), and buffering instability via redundancy [73].TF, transcription
+  factor'
+article_title: Exploring the computing power of microbes that shapes the environment
+citation: Crislaine KS Rocha, et al. Curr Opin Microbiol. 2026 Feb 01;89(NA).
+year: '2026'
+pub_date: 2026-2-01
+epub_date: 2026-1-05
+doi: 10.1016/j.mib.2025.102700
+journal_title: Current opinion in microbiology
+journal_nlm_ta: Curr Opin Microbiol
+publisher_name: .na.character
+keywords: []
+---

@@ -1,0 +1,36 @@
+---
+figid: PMC13035181__nihms-2149404-f0005
+pmcid: PMC13035181
+image_filename: jpg
+figure_link: /pmc/articles/PMC13035181/figure/F5/
+number: Fig. 5.
+figure_title: Transcriptional repression of DNA methylation maintenance genes underpins
+  epigenetic aging
+caption: (A) Number of DEGs in 18-, 23-, 30-, and 40-DAG WT first true leaves compared
+  to 13-DAG. (B) Distribution of all DEGs and DMRs compared to 13-DAG first true leaves
+  across 250-kbp windows on chromosome 3. (C) Heatmap showing expression patterns
+  of DNA methylation pathway genes. Heatmap values are Z-scores. (D) 23-DAG seedling
+  phenotypes of WT and tcx5/6 grown under LD conditions. Bar = 1 cm. (E) First true
+  leaf phenotypes of tcx5/6. Bar = 0.5 cm. (F) Distribution of mean % mCG over TEs
+  and the flanking 1-kbp in WT and tcx5/6 aging first true leaves. (G) Boxplot showing
+  comparisons of mCG levels in aging first true leaves between WT and tcx5/6. Boxes
+  denote interquartile range, horizontal lines denote the median, and whiskers denote
+  the 10th and 90th percentiles. All pairwise differences between WT and tcx5/6 or
+  mutants are significant (Mann-Whitney U test, p = <0.0001). (H) Comparison of the
+  rate of mCG decay in first true leaves between WT and tcx5/6. (I) Heatmap showing
+  the expression patterns of “aging-activated” TEs in first true leaves of WT and
+  tcx5/6 across aging stages. Columns are ordered by age. (J) Genome browser track
+  showing a representative “aging-activated” TE gene hypermethylated and silenced
+  in tcx5/6 compared to WT. Data ranges for EM-seq and RNA-seq samples are 50 - 100%
+  and 0 – 600, respectively
+article_title: Aging drives a program of DNA methylation decay in plant organs
+citation: Dawei Dai, et al. Science. 2026 Jan 29;391(6784).
+year: '2026'
+pub_date: 2026-1-29
+epub_date: 2026-1-29
+doi: 10.1126/science.adu2392
+journal_title: Science (New York, N.Y.)
+journal_nlm_ta: Science
+publisher_name: .na.character
+keywords: []
+---

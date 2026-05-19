@@ -1,0 +1,43 @@
+---
+figid: PMC12978015__nihms-2145568-f0002
+pmcid: PMC12978015
+image_filename: jpg
+figure_link: /pmc/articles/PMC12978015/figure/F2/
+number: 'Figure 2:'
+figure_title: Genome-wide screen for tau oligomers levels in iPSC-derived neurons
+caption: (A) Schematic of screen. MAPT V337M heterozygous iPSCs were transduced with
+  a pooled library of sgRNAs targeting every protein-coding gene. iPSCs were differentiated
+  into excitatory neurons for two weeks, fixed, and stained with antibodies detecting
+  the neuronal marker NeuN and tau oligomers (T22). The thirty percent of NeuN-positive
+  cells with the lowest (blue) and highest (pink) tau oligomer signal were separated
+  by FACS. Genomic DNA was isolated from each population and sgRNAs were sequenced
+  using next-generation sequencing. Comparison of sgRNA frequencies was used to call
+  hit genes. (B) Volcano plot of hit genes from genome-wide screen. Phenotype (normalized
+  log2 ratio of counts in the T22-high versus T22-low populations), is plotted versus
+  the negative log10 of the P-value, calculated with a Mann-Whitney U-test. Positive
+  hits are in pink, and negative in light blue. Quasi-genes composed of random sets
+  of non-targeting controls are in black and non-hit genes are in grey. MAPT is a
+  top hit (yellow). (C,D) KEGG Pathway enrichment analysis uncovered oxidative phosphorylation
+  and overlapping gene sets containing mitochondrial genes as the most significantly
+  enriched term among genes knockdown of which increased tau oligomer levels (dashed
+  box). To reveal additional pathways, a second round of enrichment analysis was performed
+  after removal of mitochondrial genes. Top ten pathways by adjusted p-value are listed
+  for (C) hits knockdown of which decreased tau oligomer levels (light blue) and (D)
+  hits knockdown of which increased tau oligomer levels (light pink). (E) Validation
+  of select hit genes, see (B), using individually cloned sgRNAs. Mean of six biological
+  replicates is shown. Error bars are ±standard deviation. Bars in light blue were
+  negative hits in the primary screen, and those in pink were positive hits. The asterisks
+  denote sgRNAs with T22 levels significantly different from the non-targeting control,
+  NTC (p <0.05 using a standard one-way ANOVA). sgRNAs METTL14i2 and METTL3i2 were
+  toxic to iPSCs and excluded from this analysis
+article_title: CRISPR screens in iPSC-derived neurons reveal principles of tau proteostasis
+citation: Avi J. Samelson, et al. Cell. 2026 Mar 05;189(5).
+year: '2026'
+pub_date: 2026-3-05
+epub_date: 2026-1-28
+doi: 10.1016/j.cell.2025.12.038
+journal_title: Cell
+journal_nlm_ta: Cell
+publisher_name: .na.character
+keywords: []
+---

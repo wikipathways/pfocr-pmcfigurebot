@@ -1,0 +1,55 @@
+---
+figid: PMC13019158__nihms-2151699-f0002
+pmcid: PMC13019158
+image_filename: jpg
+figure_link: /pmc/articles/PMC13019158/figure/F1/
+number: Figure 1.
+figure_title: Immune-related genes exhibit increased FST values for nsSNPs, whereas
+  cancer-related genes display lower FST values
+caption: '(A) Each major geographically structured population is depicted by the number
+  of nsSNPs per genome. Each dot corresponds to an individual and reflects the number
+  of nsSNPs. Dots are colored by their corresponding ancestry. The size of the lower
+  bubbles indicates the total number of nsSNP sites within the respective population.(B)
+  Diagram illustrating the approach that estimates FST value.(C) The distribution
+  of global FST values for nsSNPs across the human genome is represented by colored
+  dots. Dot colors indicate different FST value ranges: red, >0.3; pink, between 0.1
+  and 0.3; gray, <0.1.(D) Radar plot illustrates the number of genes with FST values
+  exceeding 0.1 in a given population compared to the remaining populations.(E) The
+  bubble plots show mean FST values for each pathway depicted across physiological
+  (left) and disease-related (right) pathways. Pathways within each group are ranked
+  by the mean FST value. Bubble size represents the number of genes in each pathway,
+  and color denotes selected pathways. Top displays gene set enrichment analysis results
+  for pathways significantly enriched for higher or lower FST values.(F) Violin plots
+  illustrate FST values of genes in immune-related (left) and cancer-related pathways
+  (right) compared to unrelated pathways, respectively. Comparisons are grouped by
+  FST values: <25th percentile, 25th to 50th percentile, 50th to 75th percentile,
+  and >75th percentile.(G) Associations between FST values and recurrent scores of
+  amplification, deletion, mutation, and fusion. Red dots denote genes surpassing
+  respective genomic score thresholds. Density plots represent the distributions of
+  FST values (red) and recurrent scores (green).(H) Violin plots illustrate genomic
+  recurrent scores of genes in immune-related (top) and cancer-related pathways (bottom),
+  compared to unrelated pathways. Green and red arrows indicate significantly lower
+  and higher genomic recurrent scores in the selected gene groups, respectively.(I)
+  The schematic illustrates the McDonald-Kreitman test.(J) Correlation between FST
+  and alpha values for autosomal protein-coding genes. Density plots show the distributions
+  of FST (right) and alpha values (top) for the genes under consideration. The red
+  arrow indicates the direction of low alpha values and the green arrow indicates
+  the direction of high FST value.(K) Violin plot represents alpha values between
+  immune-related and non-immune-related pathways.(L) Distribution of Dn/Ds and Pn/Ps
+  ratios for immune-related pathways. Color denotes the type of selection, while intensity
+  reflects the direction of selection (DoS), calculated as DoS = (Dn/(Dn + Ds)) –
+  (Pn/(Pn + Ps)). A positive DoS value indicates positive selection; a negative value
+  indicates purifying selection. Genes with significant scores are accentuated with
+  black circles'
+article_title: Immune gene diversity and STING1 variants in shaping cancer immunity
+  across different genetic ancestry populations
+citation: Xiaowen Hu, et al. Cell Rep. 2026 Feb 24;45(2).
+year: '2026'
+pub_date: 2026-2-24
+epub_date: 2026-1-21
+doi: 10.1016/j.celrep.2025.116882
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

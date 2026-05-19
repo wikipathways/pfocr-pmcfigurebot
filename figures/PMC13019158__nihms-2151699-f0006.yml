@@ -1,0 +1,44 @@
+---
+figid: PMC13019158__nihms-2151699-f0006
+pmcid: PMC13019158
+image_filename: jpg
+figure_link: /pmc/articles/PMC13019158/figure/F5/
+number: Figure 5.
+figure_title: Genome-wide characterization of immune-related genes with significant
+  nsSNP diversity across genetic ancestry populations
+caption: '(A) Workflow for identifying nsSNPs within immune-related genes with significantly
+  different frequencies among the major geographically structured populations.(B)
+  Top: unsupervised cluster analysis of minor allele frequency (MAF) of the nsSNPs
+  within IDgenes across major geographically structured populations. Three distinct
+  clusters were identified based on the frequency and distribution of these nsSNPs
+  among populations. Bottom: radar plots illustrate the MAF of representative nsSNPs
+  within each IDgene cluster across major geographically structured populations.(C)
+  The bubble plot (top) and bar plot (bottom) show the enrichment of proteins encoded
+  by IDgenes in corresponding subgroups based on their subcellular locations. Top:
+  all proteins were grouped based on their subcellular locations, and the enrichment
+  of proteins encoded by IDgenes in each group is represented by a bubble plot. Bottom:
+  a bar plot summarizes the enrichment of proteins encoded by IDgenes in each group.
+  p values were calculated using Fisher’s exact test. Purple indicates enrichment;
+  green indicates depletion. Bubble size represents the absolute value of log2(OR).(D)
+  Network connections of the IDgene-enriched KEGG pathways. Circle diameter represents
+  fold enrichment, with immune-associated routes highlighted. Connecting lines indicate
+  shared genes among pathways.(E) Unsupervised cluster analysis of expression level
+  of IDgenes across DepMap cancer cell lines and 29 immune cell populations. Each
+  row represents a cell type, and each column corresponds to an individual IDgene.(F)
+  Unsupervised cluster analysis of expression levels of IDgenes in 23 non-hematological
+  cancers from DepMap. Each column represents an individual gene, and each row corresponds
+  to a specific cancer type.(G) Classification of IDgenes based on druggability (inner
+  circle) and target development level (TDL; outer circle).(H) Hypothesis of IDgenes.(I)
+  Overview of the Immunogenomic Diversity Map (IDmap) database portal'
+article_title: Immune gene diversity and STING1 variants in shaping cancer immunity
+  across different genetic ancestry populations
+citation: Xiaowen Hu, et al. Cell Rep. 2026 Feb 24;45(2).
+year: '2026'
+pub_date: 2026-2-24
+epub_date: 2026-1-21
+doi: 10.1016/j.celrep.2025.116882
+journal_title: Cell reports
+journal_nlm_ta: Cell Rep
+publisher_name: .na.character
+keywords: []
+---

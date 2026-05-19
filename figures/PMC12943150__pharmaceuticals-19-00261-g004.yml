@@ -1,0 +1,45 @@
+---
+figid: PMC12943150__pharmaceuticals-19-00261-g004
+pmcid: PMC12943150
+image_filename: jpg
+figure_link: /pmc/articles/PMC12943150/figure/F4/
+number: Figure 4
+figure_title: The expression of TLR3 is positively correlated with 5-FU-Resistance
+  in CRC cells.
+caption: The expression of TLR3 is positively correlated with 5-FU-Resistance in CRC
+  cells. (A) Schematic overview of the transcriptomic analysis workflow comparing
+  parental and 5-FU-R HCT116 and SW480 CRC cell lines using RNA-sequencing data (GSE196900).
+  Differentially upregulated genes were identified using the criteria of log2 fold
+  change (log2FC) > 1.5 and p < 0.05, and overlapping upregulated genes between the
+  two 5-FU-R cell lines were determined. (B) Scatter plot of KEGG pathway enrichment
+  analysis based on genes upregulated in 5-FU-R CRC cells compared with their parental
+  counterparts. The size of each circle represents the number of differentially expressed
+  genes in the corresponding pathway, while the color scale indicates the enrichment
+  p-value. (C) qRT-PCR analysis showing increased relative TLR3 mRNA expression in
+  5-FU-R HCT116 cells compared with parental HCT116 cells. (D) qRT-PCR analysis of
+  TLR3 mRNA expression in 5-FU-R SW480 cells relative to parental SW480 cells. Gene
+  expression levels were normalized to GAPDH and expressed relative to parental control.
+  (E) Representative phase-contrast images showing morphological changes and enhanced
+  formation of adherent spheroid-like clusters in 5-FU-R CRC cells following stimulation
+  with the TLR3 agonist poly (I:C) (1 μg/mL) for the indicated time points. (F) Cell
+  viability analysis of 5-FU-R HCT116 cells treated with 5-FU in the presence of DMSO
+  or the TLR3 inhibitor CU-CPT 4a, as determined by the MTT assay. (G) Cell viability
+  analysis of 5-FU-R SW480 cells treated with 5-FU following inhibition of TLR3 signaling
+  using CU-CPT 4a. Data are presented as mean ± SD. * p < 0.05 vs. parental cells
+  or DMSO-treated control, as indicated
+article_title: Aronia Berry Extract Inhibits Cancer Stemness and Overcomes 5-Fluorouracil
+  Resistance by Targeting TLR3/NF-κB Signaling in Colorectal Cancer
+citation: Hongxia Duan, et al. Pharmaceuticals (Basel). 2026 Feb;19(2).
+year: '2026'
+pub_date: 2026-2-
+epub_date: 2026-2-03
+doi: 10.3390/ph19020261
+journal_title: Pharmaceuticals
+journal_nlm_ta: Pharmaceuticals (Basel)
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- aronia berry extract
+- colorectal cancer
+- 5-fluorouracil
+- synergistic anticancer effect
+---

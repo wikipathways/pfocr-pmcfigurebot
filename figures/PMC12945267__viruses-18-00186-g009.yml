@@ -1,0 +1,35 @@
+---
+figid: PMC12945267__viruses-18-00186-g009
+pmcid: PMC12945267
+image_filename: jpg
+figure_link: /pmc/articles/PMC12945267/figure/F9/
+number: Figure 9
+figure_title: Nucleotide metabolism altered by ORFV−CL24 infection.
+caption: Nucleotide metabolism altered by ORFV−CL24 infection. (A) Clustering heat
+  map of differentially expressed metabolites belonging to nucleotide metabolic pathways.
+  Each row represents a metabolite, and each column represents a sample. Red indicates
+  upregulation and blue indicates downregulation. (p−adjusted value < 0.05). (B) KEGG
+  bubble plots of differential metabolites. The abscissa represents the corresponding
+  enrichment factor for each pathway, the ordinate is the pathway name, and the color
+  of the dot corresponds to a different −log10 (Q value). (C) Histogram showing changes
+  in protein expression in proteomics that relate to nucleotide metabolic pathways.
+  The ordinate represents the log2 expression of the protein, and the abscissa represents
+  the time of infection with ORFV-CL24. (* p−value < 0.05, *** p−value < 0.001, ****
+  p−value < 0.0001; ns, no significant differences)
+article_title: Multi-Omics Analyses Reveal Metabolic Alterations Regulated by Orf
+  Virus in Primary Ovine Fetal Turbinate Cells
+citation: Ran Zhang, et al. Viruses. 2026 Feb;18(2).
+year: '2026'
+pub_date: 2026-2-
+epub_date: 2026-1-29
+doi: 10.3390/v18020186
+journal_title: Viruses
+journal_nlm_ta: Viruses
+publisher_name: Multidisciplinary Digital Publishing Institute  (MDPI)
+keywords:
+- ORFV
+- host cellular metabolism
+- viral–host interaction
+- non-targeted metabolomics
+- proteomics
+---

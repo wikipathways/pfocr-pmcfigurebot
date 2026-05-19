@@ -1,0 +1,34 @@
+---
+figid: PMC13041683__jciinsight-11-200727-g198
+pmcid: PMC13041683
+image_filename: jpg
+figure_link: /pmc/articles/PMC13041683/figure/F1/
+number: Figure 1
+figure_title: Study design and analytical workflow for transcriptome analysis of alcohol-associated
+  liver disease progression
+caption: '(A) Secondary analysis of RNA-seq data to characterize transcriptional changes
+  during disease progression, examining gene expression across healthy controls (HC,
+  n = 10), patients with alcohol-associated steatohepatitis (ASH, n = 11), and patients
+  with alcohol-associated hepatitis (AH, n = 18). Analysis included α-diversity assessment
+  using PAST v4.17 (Shannon index, evenness, dominance), abundance analysis with gene
+  ranking and rank differences, and pathway analysis using IPA. (B–G) Indices of α-diversity.
+  Violin plots showing the distribution of α-diversity as measured by (B) Menhinick,
+  (C) Brillouin, (D) Shannon, (E) Equitability, (F) Evenness, and (G) Dominance indices
+  for the 3 groups: HC, ASH, and AH. One-way ANOVA analysis with Tukey’s post hoc
+  test revealed significant grouping between groups. *P < 0.05; **P < 0.01; ***P <
+  0.001; ****P < 0.0001'
+article_title: α-Diversity analysis of hepatic transcriptome reveals distinct pathways
+  in alcohol-associated hepatitis
+citation: Sudrishti Chaudhary, et al. JCI Insight. 2026 Jan 8;11(5).
+year: '2026'
+pub_date: 2026-1-8
+epub_date: 2026-1-8
+doi: 10.1172/jci.insight.200727
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Hepatology
+- Inflammation
+- Transcriptomics
+---

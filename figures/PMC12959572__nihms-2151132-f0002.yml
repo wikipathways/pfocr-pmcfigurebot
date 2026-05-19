@@ -1,0 +1,39 @@
+---
+figid: PMC12959572__nihms-2151132-f0002
+pmcid: PMC12959572
+image_filename: jpg
+figure_link: /pmc/articles/PMC12959572/figure/F2/
+number: Figure 2.
+figure_title: Overview of PGCC Explorer platform and analysis modules
+caption: '(A) Schematic overview of the PGCC Explorer platform. The platform provides
+  access to high-throughput screening results and integrative multi-omics analysis.
+  In addition to an overview of the full dataset, it supports two primary query modes:
+  Module 1, Gene/pathway-centric search, which identifies anti-PGCC compounds influenced
+  by a specified genomic or pathway feature (mutation, copy number alteration, gene
+  expression, or pathway activity); and Module 2, Compound-centric search, which reveals
+  gene or pathway features associated with the response to a selected compound. Integrated
+  analysis combines PGCC screening data with genomic profiles (mutations, copy number
+  alterations, gene expression, and pathway activities) and baseline viability data
+  from the PRISM repurposing screen. Interactive outputs include compound information,
+  statistical comparisons, sortable/searchable results, and a built-in user manual.
+  (B) Screenshots of the homepage and query input and results interfaces. Also shown
+  is an example from compound-centric analysis of auranofin highlighting top pathways
+  associated with anti-PGCC efficacy under the non-induced condition. Pathway activities
+  were derived from single-sample gene set enrichment analysis using baseline expression
+  profiles of individual cell lines. P-values were calculated using two-tailed t-tests'
+article_title: High-Throughput Drug Screening for Targeting Polyploid Cancer Cells
+  with an Interactive Web Portal
+citation: Hsiao-Chun Chen, et al. Cancer Lett. 2026 Apr 01;642(NA).
+year: '2026'
+pub_date: 2026-4-01
+epub_date: 2026-2-02
+doi: 10.1016/j.canlet.2026.218289
+journal_title: Cancer letters
+journal_nlm_ta: Cancer Lett
+publisher_name: .na.character
+keywords:
+- Polyploid Giant Cancer Cells
+- Single-cell Analysis
+- Drug Screening
+- Interactive Web Portal
+---

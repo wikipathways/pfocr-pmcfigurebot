@@ -1,0 +1,38 @@
+---
+figid: PMC13043083__jciinsight-11-198029-g302
+pmcid: PMC13043083
+image_filename: jpg
+figure_link: /pmc/articles/PMC13043083/figure/F6/
+number: Figure 6
+figure_title: Gene Set Enrichment Analysis signaling pathway analysis comparing circulating
+  T cells (donor origin) in tolerant state with T cells from the donor graft
+caption: (A) After stimulation with hDCs, the “allograft rejection” signaling pathway
+  was downregulated in tolerant T cells (Tol T) 2 years after BMT (left enrichment
+  plot) compared with graft T cells containing host-reactive clones before BMT (right
+  enrichment plot). Individual genes are displayed on a heatmap, with red indicating
+  upregulation (positive rank metric score) and blue indicating downregulation (negative
+  rank metric score). The color scale bar is shown on the right side of the heatmap.
+  (B) Eight enrichment plots showing gene expression pathways downregulated in tolerant
+  T cells (top row) compared with graft T cells (bottom row). (C) Four gene expression
+  pathways upregulated in tolerant T cells (top row) compared with graft T cells (bottom
+  row). The genes were selected based on their false discovery rate (FDR) ≤ 0.05 and
+  log2 fold changes ≥ 1 or ≤ –1. Data were analyzed using Gene Set Enrichment Analysis
+  (GSEA) v4.3.2. Any signaling pathway was considered significantly altered if its
+  nominal P value was ≤ 0.05 and/or its FDR q value ≤ 0.25. In A, relative gene expression
+  was visualized through “conditional formatting” in Microsoft Excel
+article_title: Durable hematopoiesis and tolerance after vertebral bone marrow transplant
+  from a deceased lung transplant donor
+citation: Paul Szabolcs, et al. JCI Insight. 2026 Feb 3;11(6).
+year: '2026'
+pub_date: 2026-2-3
+epub_date: 2026-2-3
+doi: 10.1172/jci.insight.198029
+journal_title: JCI Insight
+journal_nlm_ta: JCI Insight
+publisher_name: American Society for Clinical Investigation
+keywords:
+- Clinical Research
+- Hematology
+- Immunology
+- Bone marrow transplantation
+---
