@@ -444,7 +444,7 @@ process_figures <- function(figures, exfigids, config, output_dir = "figures", m
           yaml_data <- list(
             figid = figures[[i]]$figid,
             pmcid = figures[[i]]$pmcid,
-            image_filename = basename(figures[[i]]$image_url),
+            image_filename = paste0(sub("^PMC[0-9]+__", "", figures[[i]]$figid), ".jpg"),
             figure_link = figures[[i]]$figure_link,
             number = figures[[i]]$label,
             figure_title = figures[[i]]$figure_title,
